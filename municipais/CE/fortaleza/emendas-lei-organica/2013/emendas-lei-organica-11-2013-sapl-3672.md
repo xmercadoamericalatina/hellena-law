@@ -1,0 +1,45 @@
+---
+titulo: "Emenda à Lei Orgânica nº 11, de 11 de novembro de 2013"
+tipo: "Emenda à Lei Orgânica"
+tipo_na_fonte: "Emenda à Lei Orgânica"
+numero: "11"
+data: "2013-11-11"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/3672"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/media/sapl/public/normajuridica/2013/3672/3672_texto_integral.pdf"
+sha256_fonte: "f0f48097bb69070ee5bd10e42fed344776800adbed554b90a6fc1de19317718a"
+sha256_texto: "9276cc031e7bd1b7a1cc9e58740c3cf63de89ef022991100e492d6ae560d3b72"
+baixado_em: "2026-10-15"
+---
+
+# Emenda à Lei Orgânica nº 11, de 11 de novembro de 2013
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE FORTALEZA
+
+EMENDA À LOM N. 011, DE 11 DE DEZEMBRO DE 2013. Dá nova redação ao inciso X do art. 98 da Lei Orgânica do Município de Fortaleza.
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições, que lhe são conferidas pelo art. 26, inciso IV da Lei Orgânica do Município, faz saber que o Plenário da Câmara Municipal de Fortaleza aprovou e ela PROMULGA a seguinte Emenda à
+
+Lei Orgânica do Município de Fortaleza:
+
+**Art. 19** O inciso X do art. 98 da Lei Orgânica do Município de Fortaleza passa a vigorar com a seguinte redação: ẠỊArt. 98.
+
+X - lei complementar estabelecerá os casos de contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público." (NR)
+
+**Art. 2º** Esta Emenda entra em vigor na data de sua publicação, revogadas as disposições em contrário. Paço Municipal José Barros de Alencar, em 11 de dezembro de 2013. WALTER LIMA FROTA CAVALCANTE JOSE DO CARMO GONDIM Presidente 1° Vice-Presidente ADAIL FERNANDES VIEIRA JÚNIOR ELPIDIO NOGUEIRA MOREIRA 2° Vice-Presidente 1° Secretário FRANCISCO WELLINGTON SABÓIA VITORINO ANTONIO HENRIQUE DA SILVA 2° Secretário 3° Secretário Rua Dr. Thompson Bulcão, 830 - Fone: (85) 3444.8300 - Bairro: Luciano Cavalcante Caixa Postal 2671 - CEP 60.810-460 - Fortaleza - Ceará Página 1 de 1
+
+DIÁRIO OFICIAL DO MUNICÍPIO FORTALEZA, 11 DE DEZEMBRO DE 2013 O CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL DE FORTALEZA - CMAS FORTALEZA, em Reunião da Ordinária realizada no dia 02 de dezembro de 2013, no uso de suas competências legais, atribuídas pela Lei Municipal n° 8.404 de 24 de dezembro de 1999, regulamentado pelo
+
+Decreto n° 10.371 de 27 de março de 2000 e pela Lei n° 9.405 de 18 de julho de 2008. CONSIDERANDO o art. 3° e 9° da Lei n° 8.742 de 07 de dezembro de 1993 - LOAS. CONSIDE- RANDO o Decreto n° 6.308 de 14 de dezembro de 2007, que dispõe sobre as entidades e organizações de assistência social de que trata o art. 3º da Lei n° 8.742. de 7 de dezembro de 1993, e dá outras providências. CONSIDERANDO a Resolução CNAS n° 16. de 05 de maio de 2010. que define os parâmetros nacionais para a inscrição das entidades e organizações de assistência social, bem como dos serviços, programas, projetos e benefícios socioassistenciais nos Conselhos de Assistência Social dos Municípios e do Distrito Federal. CONSIDERANDO a Resolução CNAS n° 109, de 11 de novembro de 2009, que aprova a Tipificação Nacional de Serviços Socioassistenciais. CONSIDERANDO a Resolução CNAS n° 33, de 28 de novem- bro de 2011, que aprova a Norma Operacional Básica do Sistema Unico de Assistência Social - NOB/SUAS. CONSI- DERANDO a Resolução n° 105/2012. do CMAS Fortaleza, que institui os procedimentos para a inscrição das Entidades e Organizações de Assisténcia Social, bem como dos Serviços, Projetos e Benefícios Socioassistenciais Programas, no Conselho Municipal de Assistência Social do Município de Fortaleza e revoga a Resolução CMAS n° 1.639/2011, de 1° de março de 2011. CONSIDERANDO o Relatório Técnico de Visita do CMAS Fortaleza. CONSIDERANDO o Parecer n° 53/2013 da Comissão Temática Permanente de Documentação e Cadastro. CONSIDERANDO a Ata da IX Reunião Ordinária de 2013 do CMAS Fortaleza. RESOLVE: Art. 1° - Indeferir a solicitação de inscrição da entidade CONSELHO COMUNI- TÁRIO JARDIM GUANABARA no CMAS Fortaleza. Art. 2° - Esta Resolução entra em vigor a partir da data de sua publi- cação. José Iraguassú Teixeira Filho - PRESIDENTE DO CMAS FORTALEZA. RESOLUÇÃO N° 58, DE 02 DE DEZEMBRO DE 2013. Defere inscrição no Conselho Vunicipal de Assistencia Socia de Fortaleza - CMAS Fortale- za. O CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL DE FORTALEZA - CMAS FORTALEZA, em Reunião Ordinária realizada no dia 02 de dezembro de 2013, no uso de suas competências legais, atribuidas pela Lei Municipal n° 8.404 de 24 de dezembro de 1999, regulamentado pelo Decre- to n° 10.371 de 27 de março de 2000 e pela Lei n° 9.405 de 18 de julho de 2008. CONSIDERANDO o art. 3°, § 1° e 9º da Lei n° 8.742 de 07 de dezembro de 1993 - Lei Orgânica de Assis- DERANDO a Resolução CNAS n° 16, de 05 de maio de 2010, que define os parâmetros nacionais para a inscrição das enti- dades e organizações de assistência social, bem como dos serviços, programas, projetos e beneficios socioassistenciais nos Conselhos de Assistência Social dos Municipios e do Dis- trito Federal. CONSIDERANDO a Resolução CNAS n° 109, de 11 de novembro de 2009, que aprova a Tipificação Nacional de Serviços Socioassistenciais. CONSIDERANDO a Resolução CNAS n° 33, de 28 de novembro de 2011, que aprova a Norma Operacional Básica do Sistema Único de Assistência Social - NOB/SUAS. CONSIDERANDO a Resolução n° 105/2012, do CMAS Fortaleza, que institui os procedimentos para a inscrição das Entidades e Organizações de Assistência Social, bem como dos Serviços, Programas, Projetos e Benefícios Socioas- sistenciais no Conselho Municipal de Assistência Social do DOM N. 15 179/2013 QUARTA-FEIRA - PAGINA 92 municipio de Fortaleza e revoga a Resolução CMAS n° 1.639/2011, de 1° de março de 2011. CONSIDERANDO o Relatório Técnico de Visita do CMAS Fortaleza. CONSIDE- RANDO os Pareceres n° 54/2013, da Comissão Temática Per- manente de Documentação e Cadastro. CONSIDERANDO a Ata da IX Reunião Ordinária do CMAS Fortaleza. RESOLVE
+
+**Art. 1°** - Deferir a solicitação de inscrição no CMAS Fortaleza, da entidade de assistência social de atendimento ASSOCIA- ÇÃO AMIGOS EM MISSÃO - AMI - Inscriçãa n° 192. Art. 2° - Esta Resolução entra em vigor a partir da data de sua publica- José Iraguassú Teixeira Filho - PRESIDENTE DO ção. CMAS FORTALEZA. RESOLUÇÃO N° 59, DE 02 DE DEZEMBRO DE 2013. Aprova o Relatório Trimestral das despesas por elemento do Fundo Municipal de Assistência Social referente a julho, agosto e setembro de 2013 O CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL - CMAS - FORTALEZA, em reunião ordinária realiza- da no dia 02 de dezembro de 2013, no uso de suas competên- cias legais, atribuidas pela Lei Municipal n° 8.404 de 24 de dezembro de 1999, regulamentado pelo Decreto n° 10.371 de 27 de março de 2000 e pela Lei n° 9.405 de 18 de julho de 2008. CONSIDERANDO o disposto no artigo 1°, do Decreto n° 1.605, de 25 de agosto de 1995 que regulamenta o FNAS instituido pela Lei n° 8.742, de 7 de dezembro de 1993. CON. SIDERANDO o Oficio n° 1647/2013 GS da Secretaria Municipal do Trabalho, Desenvolvimento Social e Combate à Fome - SETRA. CONSIDERANDO o Parecer n° 48/2013 da Comissão Temática Permanente de Gerenciamento do Fundo Municipal de Assistência Social. CONSIDERANDO a Ata da IX Reunião Ordinária do CMAS Fortaleza. RESOLVE: Art. 1° - Aprovar o Relatório Trimestral das despesas por elemento do orçamento do Fundo Municipal de Assistência Social referente a julho, agosto e setembro de 2013. Art. 2° - Esta Resolução entra em vigor a partir da data de sua publicação. José Iraguassú Tei- xeira Filho - PRESIDENTE DO CMAS FORTALEZA. PODER LEGISLATIVO ẠMATERIAS PUBLICADAS POR E IVA RESPONSABILIDADE DA MESA DIRETORA DA CAMARA MUNICIPAL DE FORTALEZAẠỊ
+
+EMENDA A LOM N° 011, DE 11 DE DEZEMBRO DE 2013. Dá nova redação ao inciso X do art. 98 da Lei Orgânica do Município de Fortaleza.
+
+A MESA DIRETORA DA CAMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições, que lhe são conferidas pelo art. 26, inciso IV da Lei Orgânica do Municipio faz saber que o Plenário da Câmara Municipal de Fortaleza aprovou e ela PROMULGA a seguinte Emenda à Lei Orgânica do Municipio de Fortaleza: Art. 1° - O inciso X do art. 98 da Lei Orgânica do Municipio de Fortaleza passa a vigarar com A seguinte redação:ạẠỊArt. 98. — lei complementar estabelecerá os casos de contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público." (NR). Art. 2° - Esta Emenda entra em vigor na data de sua publicação, revogadas as disposições em contrário. PAÇO MUNICIPAL JOSE BARROS de Alencar, em 11 de dezembro de 2013. Walter Lima Frota Cavalcante - PRESIDENTE. José do Carmo Gondim - 1° - VICE-PRESIDENTE. Adail Fernandes Vieira Júnior - 2° - VI- CE-PRESIDENTE. Elpidio Nogueira Moreira - 1° - SECRETÁ RIO. Francisco Wellington Sabóia Vitorino - 2° - SECRETA- RIO. Antonio Henrique da Silva - 3° - SECRETARIO.
+

@@ -1,0 +1,68 @@
+{
+  "atualizado_em": "2026-10-27T03:00:21+00:00",
+  "federal": "Senado: séries legislativas desde 1808, com cursores por tipo/ano e revisita; universo limitado ao serviço oficial",
+  "fontes_sapl": [
+    {
+      "esfera": "estadual",
+      "id": "sapl-ac",
+      "uf": "AC",
+      "url": "https://sapl.al.ac.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-al",
+      "uf": "AL",
+      "url": "https://sapl.al.al.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-am",
+      "uf": "AM",
+      "url": "https://sapl.al.am.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-pb",
+      "uf": "PB",
+      "url": "https://sapl.al.pb.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-pi",
+      "uf": "PI",
+      "url": "https://sapl.al.pi.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-ro",
+      "uf": "RO",
+      "url": "https://sapl.al.ro.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-rr",
+      "uf": "RR",
+      "url": "https://sapl.al.rr.leg.br"
+    },
+    {
+      "esfera": "estadual",
+      "id": "sapl-to",
+      "uf": "TO",
+      "url": "https://sapl.al.to.leg.br"
+    }
+  ],
+  "integralidade_textual": "não certificada; PDFs sem validação ficam pendentes",
+  "jurisprudencia": "excluída",
+  "lacunas": [
+    "As fontes que não utilizam SAPL ainda requerem adaptadores específicos; não se declara cobertura das 27 UF.",
+    "Não há fonte municipal nacional única integrada; cadastre APIs SAPL oficiais por município. Nenhum município habilitado inicialmente.",
+    "Atos infralegais da RFB, MTE e demais órgãos não têm coletor integral habilitado neste pacote; a descoberta federal não substitui essas fontes.",
+    "PDFs, OCR, anexos gráficos e documentos sem epígrafe confirmada ficam pendentes de validação.",
+    "O acervo herdado fora de lei-seca/ não é certificado nem incorporado automaticamente pelo atualizador.",
+    "Normas históricas e revogadas são preservadas como versões da fonte; vigência e eficácia não são inferidas.",
+    "O índice federal depende do universo e dos limites do serviço do Senado; não equivale a todo o ordenamento."
+  ],
+  "pendentes_ou_aguardando": 1000,
+  "publicados": 134,
+  "universo_nacional": "desconhecido; não se declara completo"
+}

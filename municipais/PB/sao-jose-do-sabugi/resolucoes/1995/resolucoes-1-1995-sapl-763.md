@@ -1,0 +1,80 @@
+---
+titulo: "Resolução nº 1, de 16 de maio de 1995"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "1995-05-16"
+municipio: "São José do Sabugi"
+uf: "PB"
+codigo_ibge: "2514701"
+versao_texto: "texto integral anexado no SAPL municipal; camada nativa integral preservada em layout, incluindo cabeçalhos, notas, fólios, linhas numéricas e alinhamentos; snapshot da fonte capturado em 20/10/2026, sem certificação de vigência integral"
+fonte: "https://sapl.saojosedosabugi.pb.leg.br/norma/763"
+fonte_texto: "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/1995/763/resolucao_no_01_de_16_de_maio_de_1995.pdf"
+sha256_fonte: "66890ec8e05ad544aef8c84f21942e9c41545947c1a6044588e0e2b7cdd0ffa2"
+sha256_texto: "3988396a419d5b480c1827c76e76fb2c4bb65e7fc11ac3339446262eda4aaed5"
+baixado_em: "2026-10-20"
+---
+
+# Resolução nº 1, de 16 de maio de 1995
+
+```text
+                             REPÚBLICA FEDERATIVA DO BRASIL
+                             ESTADO DA PARAÍBA
+                             CÂMARA MUNICIPAL DE SÃO JOSÉ DO SABUGI
+                             Casa Jaime Ribeiro Delgado
+                             www.camarasaojosedosabugi.pb.gov.br
+
+     Política de Acesso à Legislação Compilada Municipal – Cf. Resolução nº 009/2024 da Câmara Municipal
+
+
+
+             Resolução nº 01, de 16 de maio de 1995
+                                             Dispõe sobre a concessão de diárias para os ocupantes de
+                                             cargos do poder legislativo.
+
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL
+
+Faço saber que o plenário desta Casa Legislativa APROVOU e eu PROMULGO,
+
+nos termos das competências a mim conferidas pelo art. 13, inciso VIII do
+
+Regimento Interno da Câmara Municipal, a seguinte Resolução:
+
+Art. 1º - Aos ocupantes dos cargos do Poder Legislativo do município de São José
+
+do Sabugi-PB., será concedido diária, quando o ocupante ausentar-se da sede do
+
+município, de acordo com a tabela a seguir especificada:
+
+  PRESIDENTE ................................................................ 100% SM
+
+   SECRETÁRIO ................................................................ 70% SM
+
+  ASSESSOR ................................................................... 70% SM
+
+  TESOUREIRO ............................................................... 50% SM
+
+
+Art. 2º - O pagamento da diária concedida pelo artigo anterior, será realizado
+
+diretamente pela Tesouraria da Câmara, antes ou após a realização da viagem,
+
+mediante comprovação, e será levado a conta de dotação específica do orçamento
+
+da Câmara Municipal.
+
+Art. 3º - Esta resolução entra em vigor na data de sua publicação, revogada as
+
+disposições em contrário.
+
+
+Mesa Diretora da Câmara Municipal de São José do Sabugi-PB, em 16 de maio de
+
+1995.
+
+                       JOSÉ DOMINGOS DANTAS
+
+                                 Presidente
+```

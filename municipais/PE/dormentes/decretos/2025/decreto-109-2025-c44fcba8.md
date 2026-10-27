@@ -1,0 +1,927 @@
+---
+titulo: "DECRETO Nº 109 , DE 22 DE DEZEMBRO DE 2025 - LEI"
+uf: "PE"
+municipio: "DORMENTES"
+tipo: "Decreto"
+numero: "109"
+data: 2025-12-22
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 05/01/2026"
+data_publicacao: 2026-01-05
+codigo_identificador: "C44FCBA8"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115719_2026-01-02_eba304065b4940c6786a537d81645fa4.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 109 , DE 22 DE DEZEMBRO DE 2025 - LEI
+
+DECRETO Nº 109 , DE 22 DE DEZEMBRO DE 2025 - LEI
+N.866
+Abre no orçamento vigente crédito
+suplementar e da outras providências
+
+adicional
+
+O(A) PREFEITO(A) MUNICIPAL DE DORMENTES, no uso de
+suas atribuições legais.
+DECRETA:
+Artigo 1º.- Fica aberto no orçamento vigente, um crédito adicional na
+importância de R$2.980.718,88 distribuídos as seguintes dotações:
+Suplementação ( + ) 2.980.718,88
+02 01 06 SECRETARIA DE AGRICULTURA, GOVERNO E
+INOVAÇÃO
+89 04.122.0002.2003.0000 Ações Administrativas da Secretaria de
+Governo 8.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+91 04.122.0002.2003.0000 Ações Administrativas da Secretaria de
+Governo 5.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+94 04.122.0002.2003.0000 Ações Administrativas da Secretaria de
+Governo 200.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+
+www.diariomunicipal.com.br/amupe
+
+14
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+111 04.782.0009.2091.0000 Manutenção de Estradas Vicinais
+42.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 720 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+720 000 Transferências da União Referentes FEP
+116 04.782.0009.2091.0000 Manutenção de Estradas Vicinais
+52.412,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R.: 1 720 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+720 000 Transferências da União Referentes FEP
+971 04.782.0009.2091.0000 Manutenção de Estradas Vicinais 500,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 749 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+749 000 Controle dos recursos de outras transfer
+1018 04.782.0009.2091.0000 Manutenção de Estradas Vicinais
+2.130,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 708 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+708 000 CFEM - Compensação Financeira
+02 01 07 SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS
+146 04.122.0002.2008.0000 Manutenção das Atividades da SEAFI
+4.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+147 04.122.0002.2008.0000 Manutenção das Atividades da SEAFI
+2.110,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+159 04.122.0002.2008.0000 Manutenção das Atividades da SEAFI
+30.000,00
+3.3.90.48.00 OUTROS AUXÍLIOS FINANCEIROS A PESSOA
+FÍSICA F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+162 04.122.0002.2009.0000 Contribuição para o PASEP 40.000,00
+3.3.90.47.00 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS
+F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 01 08 SECRETARIA DE INFRAESTRUTURA , M AMBIENTE
+E REC HÍDRICOS
+175 15.122.0006.2079.0000 Manutenção das Atividades da Secretaria
+126.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+176 15.122.0006.2079.0000 Manutenção das Atividades da Secretaria
+3.150,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+177 15.122.0006.2079.0000 Manutenção das Atividades da Secretaria
+300,00
+
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+184 15.122.0006.2079.0000 Manutenção das Atividades da Secretaria
+5.000,00
+3.3.90.36.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+FÍSICA F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+199 15.451.0010.2306.0000 Manutenção e Ampliação da Rede de
+Iluminação Pública 40.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 751 00
+01 TESOURO
+751 000 Contribuição Custeio Serv.Ilumi. - COSIP
+02 02 01 FUNDO PREVIDENCIARIO
+239 09.272.0011.1081.0000 Aquisição de Equipamentos e Material
+Permanente 10.000,00
+4.4.90.52.00 EQUIPAMENTOS E MATERIAL PERMANENTE
+F.R.: 1 802 00
+01 TESOURO
+802 000 Taxa de Administração
+243 09.272.0011.2094.0000 Gestão Administrativa do Regime
+Proprio de Previdencia 1.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 802 00
+01 TESOURO
+802 000 Taxa de Administração
+02 03 01 SECRETARIA MUNICIPAL DE SAÚDE
+255 10.122.0012.2112.0000 Manutenção do Fundo Municipal de
+Saúde - Gestão FMS 45.000,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+F.R.: 1 605 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+605 000 pisos salariais para profissionais
+258 10.303.0012.2104.0000 Manutenção do Programa de
+Qualificação Farmaceutica 546,20
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 600 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+600 000 Bloco de Manutenção das ASPS
+02 03 02 FUNDO MUNICIPAL DE SAÚDE
+310 10.301.0012.2098.0000 Manutenção do Programa Saúde da
+Familia/PSF - AP 56.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+312 10.301.0012.2098.0000 Manutenção do Programa Saúde da
+Familia/PSF - AP 2.000,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+314 10.301.0012.2098.0000 Manutenção do Programa Saúde da
+Familia/PSF - AP 10.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+315 10.301.0012.2098.0000 Manutenção do Programa Saúde da
+Familia/PSF - AP 15.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 600 00
+
+www.diariomunicipal.com.br/amupe
+
+15
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+VINCULADOS
+600 000 Bloco de Manutenção das ASPS
+
+FEDERAIS-
+
+02 03 02 FUNDO MUNICIPAL DE SAÚDE
+336 10.301.0012.2099.0000 Manutenção do Programa de Saúde
+Bucal - AP 2.000,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+339 10.301.0012.2099.0000 Manutenção do Programa de Saúde
+Bucal - AP 2.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 600 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+600 000 Bloco de Manutenção das ASPS
+354 10.301.0012.2100.0000 Manutenção do Programa de Agentes
+Comunitários de Saúde ACS - AP 30.815,40
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 604 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+604 000 Recursos dos Agentes Saúde e Endemias
+359 10.301.0012.2100.0000 Manutenção do Programa de Agentes
+Comunitários de Saúde ACS - AP 12.000,00
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+371 10.301.0012.2109.0000 Manutenção do Programa Brasil
+Sorridente - AP 2.000,00
+3.3.90.32.00 Material, Bem ou Serviço para Distribuição Gratuita
+F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+375 10.301.0012.2112.0000 Manutenção do Fundo Municipal de
+Saúde - Gestão FMS 45.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+377 10.301.0012.2112.0000 Manutenção do Fundo Municipal de
+Saúde - Gestão FMS 12.000,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+384 10.301.0012.2112.0000 Manutenção do Fundo Municipal de
+Saúde - Gestão FMS 15.000,00
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 05 01 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E
+DO ADOLESCENTE
+
+570 08.244.0026.2152.0000 Concessão de Beneficios Eventual
+3.500,00
+3.3.90.48.00 OUTROS AUXÍLIOS FINANCEIROS A PESSOA
+FÍSICA F.R.: 1 661 00
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS
+661 000 Trans. Rec. Fundo Estadual Assist.Social
+620 08.244.0026.2201.0000 Mantenção das Atividades da Secretaria
+de Assistencia Social 7.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+716 08.245.0026.2177.0000 Manutenção das Atividades do
+CRAS/Piso Básico Fixo/Variável/PAIF 1.700,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 661 00
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS
+661 000 Trans. Rec. Fundo Estadual Assist.Social
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+783 12.361.0004.2015.0000 Manutenção das Atividades da Rede
+Municipal de Ensino 50.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+784 12.361.0004.2015.0000 Manutenção das Atividades da Rede
+Municipal de Ensino 27.100,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+787 12.361.0004.2015.0000 Manutenção das Atividades da Rede
+Municipal de Ensino 4.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+789 12.361.0004.2015.0000 Manutenção das Atividades da Rede
+Municipal de Ensino 180.000,00
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+792 12.361.0004.2015.0000 Manutenção das Atividades da Rede
+Municipal de Ensino 31.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+800 12.361.0004.2019.0000 Manutenção do Transporte Escolar
+600,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 553 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+553 000 Programa Nac.Apoio Transp. Escolar PNATE
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+
+472 08.243.0015.2159.0000 Apoio a Formação e as Atividades do
+Conselho Tutelar 700,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 07 01 FUNDO M DE ASSIST SOCIAL, DIREITOS HUMANOS
+E COMBATE A FOME
+
+801 12.361.0004.2019.0000 Manutenção do Transporte Escolar
+410.076,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+802 12.361.0004.2019.0000 Manutenção do Transporte Escolar
+356.727,90
+
+www.diariomunicipal.com.br/amupe
+
+16
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R.: 1 571 00
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS
+571 000 Convênios e Instr.Conge.Educação-Estado
+
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 716 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+716 000 LC 195/2022 Paulo Gustavo - Art. 8º
+
+805 12.361.0004.2037.0000 Manutenção do FUNDEB 70% - Ensino
+Fundamental 113.000,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+F.R.: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+02 01 06 SECRETARIA DE AGRICULTURA, GOVERNO E
+INOVAÇÃO
+95 04.122.0002.2003.0000 Administrar para o Futuro -5.300,00
+3.3.90.33.00 PASSAGENS E DESPESAS COM LOCOMOÇÃO F.R.
+Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+
+808 12.361.0004.2037.0000 Manutenção do FUNDEB 70% - Ensino
+Fundamental 84.351,38
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 541 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+541 000 Transferências do FUNDEB-Comp.União VAAF
+
+106 04.782.0009.1073.0000 Transporte -101.000,00
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 706 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+706 000 Transferência Especial da União
+
+811 12.361.0004.2037.0000 Manutenção do FUNDEB 70% - Ensino
+Fundamental 351.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R.: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+833 12.361.0004.2049.0000 Manutenção do Programa Salário
+Educação - QSE 19.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R.: 1 550 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+550 000 Transferência do Salário-Educação
+866 12.364.0004.2314.0000 Manutenção da Universidade Aberta do
+Brasil - UAB 500.000,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R.: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+873 12.365.0004.2038.0000 Manutenção do FUNDEB 70% - Ensino
+Infantil 10.000,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R.: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+964 12.365.0004.2331.0000 Programa Municipal de Alfabetização Desvendando as Letras 10.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R.: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+Artigo 2º.- O crédito aberto na forma do artigo anterior será coberto
+com recursos provenientes de:
+Anulação:
+02 01 05 SECRETARIA CULTURA, TURISMO E ESPORTES
+29 13.392.0005.2075.0000 Mais Cultura, Turismo e Esportes 3.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+64 13.695.0005.2303.0000 Mais Cultura, Turismo e Esportes 51.000,00
+
+110 04.782.0009.2091.0000 Transporte -2.550,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+115 04.782.0009.2091.0000 Transporte -34.000,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+129 20.544.0007.1048.0000 Programa Água no Interior - PAI 515.547,54
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 710 00
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS
+710 000 Emenda Individual Estadual
+02 01 07 SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS
+158 04.122.0002.2008.0000 Administrar para o Futuro -24.000,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 01 07 SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS
+169 28.841.0002.1003.0000 Administrar para o Futuro -156.700,00
+4.6.91.71.00
+PRINCIPAL
+DA
+DÍVIDA
+CONTRATUAL
+RESGATADA - INTRA-ORÇAMENTÁRI F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 01 08 SECRETARIA DE INFRAESTRUTURA , M AMBIENTE
+E REC HÍDRICOS
+201 15.451.0010.2306.0000 Eu Amo Minha Rua -5.433,07
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 751 00
+01 TESOURO
+751 000 Contribuição Custeio Serv.Ilumi. - COSIP
+214 18.542.0008.1057.0000 Dormentes do Futuro -48.982,44
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 700 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+700 000 Outras Transf. Conven/Inst.Cong. União
+02 01 09 SECRETARIA DE AGRICULTURA E RECURSOS
+HÍDRICOS
+224 20.122.0006.2079.0000 Desenvolvendo a Agricultura,
+Infraestrutura e Pecuária -22.700,00
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+
+www.diariomunicipal.com.br/amupe
+
+17
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+238 20.608.0006.1066.0000 Desenvolvendo a Agricultura,
+Infraestrutura e Pecuária -26.000,00
+4.4.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 701 00
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS
+701 000 Outras Transf. Conven/Inst.Cong. Estados
+02 02 01 FUNDO PREVIDENCIARIO
+252 09.272.0011.2095.0000 Previdência do Servidor -27.342,73
+3.1.90.01.00 Aposentadorias, Reserva Remunerada e Reformas F.R.
+Grupo: 1 800 00
+01 TESOURO
+800 000 Recursos Vinculados RPPS-Plano Previdenc
+02 03 01 SECRETARIA MUNICIPAL DE SAÚDE
+266 10.305.0012.2108.0000 Viva Saúde -7.110,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 03 02 FUNDO MUNICIPAL DE SAÚDE
+286 10.122.0012.1096.0000 Viva Saúde -1.000,00
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 601 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+601 000 Bloco Estru. Rede de Serv. Púb. de Saúde
+292 10.301.0012.1088.0000 Viva Saúde -1.000,00
+4.4.90.52.00 EQUIPAMENTOS E MATERIAL PERMANENTE F.R.
+Grupo: 1 601 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+601 000 Bloco Estru. Rede de Serv. Púb. de Saúde
+308 10.301.0012.2098.0000 Viva Saúde -28.000,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+309 10.301.0012.2098.0000 Viva Saúde -21.017,56
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 600 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+600 000 Bloco de Manutenção das ASPS
+321 10.301.0012.2098.0000 Viva Saúde -45.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 600 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+600 000 Bloco de Manutenção das ASPS
+333 10.301.0012.2099.0000 Viva Saúde -4.300,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 600 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+600 000 Bloco de Manutenção das ASPS
+353 10.301.0012.2100.0000 Viva Saúde -42.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+381 10.301.0012.2112.0000 Viva Saúde -6.900,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R. Grupo: 1 500
+00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+
+401 10.301.0012.2112.0000 Viva Saúde -14.616,71
+4.4.90.52.00 EQUIPAMENTOS E MATERIAL PERMANENTE F.R.
+Grupo: 1 601 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+601 000 Bloco Estru. Rede de Serv. Púb. de Saúde
+02 05 01 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E
+DO ADOLESCENTE
+471 08.243.0015.2159.0000 Proteção e Defesa dos Direitos da
+Criança e do Adolescente -22.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+477 08.243.0015.2159.0000 Proteção e Defesa dos Direitos da
+Criança e do Adolescente -700,00
+3.3.90.33.00 PASSAGENS E DESPESAS COM LOCOMOÇÃO F.R.
+Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+02 07 01 FUNDO M DE ASSIST SOCIAL, DIREITOS HUMANOS
+E COMBATE A FOME
+567 08.244.0026.2152.0000 Cuidando Bem do Nosso Povo 20.000,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+617 08.244.0026.2201.0000 Cuidando Bem do Nosso Povo 14.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+715 08.245.0026.2177.0000 Cuidando Bem do Nosso Povo -4.246,20
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 660 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+660 000 Transf. Rec. Fundo Nac. Assist.Soc. FNAS
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+760 12.306.0004.2021.0000 Juntos pela Educação -10.000,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 500 00
+01 TESOURO
+500 000 Recursos não vinculados de impostos
+761 12.306.0004.2021.0000 Juntos pela Educação -21.600,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 550 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+550 000 Transferência do Salário-Educação
+772 12.361.0004.1012.0000 Juntos pela Educação -100.000,00
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 570 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+570 000 Convênios e Instr.Cong.Educação Gov.Fede
+806 12.361.0004.2037.0000 Juntos pela Educação -8.370,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 541 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+541 000 Transferências do FUNDEB-Comp.União VAAF
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+807 12.361.0004.2037.0000 Juntos pela Educação -426.000,00
+
+www.diariomunicipal.com.br/amupe
+
+18
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+809 12.361.0004.2037.0000 Juntos pela Educação -13.000,00
+3.1.90.13.00 OBRIGAÇÕES PATRONAIS F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+900 12.365.0004.2043.0000 Juntos pela Educação -48.100,14
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+812 12.361.0004.2037.0000 Juntos pela Educação -109.900,00
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+904 12.365.0004.2043.0000 Juntos pela Educação -22.038,99
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+820 12.361.0004.2041.0000 Juntos pela Educação -43.700,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+918 12.365.0004.2317.0000 Juntos pela Educação -12.600,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+
+824 12.361.0004.2041.0000 Juntos pela Educação -38.200,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+868 12.365.0004.1207.0000 Juntos pela Educação -117.481,26
+4.4.90.51.00 OBRAS E INSTALAÇÕES F.R. Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+870 12.365.0004.1207.0000 Juntos pela Educação -5.000,00
+4.4.90.52.00 EQUIPAMENTOS E MATERIAL PERMANENTE F.R.
+Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+872 12.365.0004.2038.0000 Juntos pela Educação -20.000,00
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+875 12.365.0004.2038.0000 Juntos pela Educação -13.000,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R. Grupo: 1 540
+00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+876 12.365.0004.2038.0000 Juntos pela Educação -198.620,44
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+888 12.365.0004.2042.0000 Juntos pela Educação -11.700,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+
+922 12.366.0004.2040.0000 Juntos pela Educação -23.452,47
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL F.R. Grupo: 1 540 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+924 12.366.0004.2040.0000 Juntos pela Educação -31.900,00
+3.1.90.93.00 INDENIZAÇÕES E RESTITUIÇÕES F.R. Grupo: 1 540
+00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+540 000 Transferências do FUNDEB-Impostos
+963 12.365.0004.2331.0000 Juntos pela Educação -41.270,00
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO F.R.
+Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+02 08 01 SECRETARIA MUNICIPAL DE EDUCAÇÃO
+967 12.365.0004.2331.0000 Juntos pela Educação -85.163,23
+3.1.91.13.00
+OBRIGAÇÕES
+PATRONAIS
+INTRAORÇAMENTÁRIO F.R. Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+968 12.365.0004.2331.0000 Juntos pela Educação -104.239,00
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+969 12.365.0004.2331.0000 Juntos pela Educação -100.100,00
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA F.R. Grupo: 1 542 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+542 000 Transferências do FUNDEB-Comp.União VAAT
+973 12.361.0004.2019.0000 Juntos pela Educação -70.800,29
+3.3.90.30.00 MATERIAL DE CONSUMO F.R. Grupo: 1 570 00
+05
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+FEDERAISVINCULADOS
+570 000 Convênios e Instr.Cong.Educação Gov.Fede
+
+892 12.365.0004.2042.0000 Juntos pela Educação -49.036,81
+www.diariomunicipal.com.br/amupe
+
+19
+
+Pernambuco , 05 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4005
+III – a execução das medidas complementares previstas no projeto,
+quando aplicável.
+
+-2.980.718,88
+Artigo 3º.- Este decreto entra em vigor na data de sua publicação.
+
+Art. 6ºEste Decreto constitui aDECISÃO ADMINISTRATIVA
+FINALdo Procedimento de Regularização Fundiária Urbana,
+encerrando a fase administrativada 1ª Etapa Centro, sem prejuízo das
+medidas de acompanhamento e fiscalização posteriores.
+
+DORMENTES, 22 de DEZEMBRO de 2025
+MARIA DO SOCORRO COELHO DE SOUSA
+Prefeita Municipal
+Publicado por:
+Danilo Damasceno Camilo

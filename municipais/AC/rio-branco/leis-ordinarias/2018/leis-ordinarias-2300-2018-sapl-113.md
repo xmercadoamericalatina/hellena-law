@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária nº 2.300, de 10 de agosto de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2300"
+data: "2018-08-10"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/113"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/88/text"
+sha256_fonte: "4c424cd9c9a67a182ce18c44eebd13ece27ca99928f9216b137619cd0114d165"
+sha256_texto: "e21a6d92aec5663faeaade8817813055101a5214f29430cff4b193b77d7bf12b"
+capturado_em_fonte: "2026-10-21T03:51:06.564402-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.300, de 10 de agosto de 2018
+
+"Dispõe sobre a inclusão de conteúdos voltados ao Meio Ambiente no currículo das Escolas de Ensino Infantil e Fundamental da rede pública e privada do Município de Rio Branco e dá outras providências".
+
+
+**A PREFEITA DE RIO BRANCO - ACRE**, usando das suas atribuições que são conferidas por lei, **FAZ SABER**, que a Câmara Municipal| de Rio Branco aprovou e ela sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+As Escolas públicas Municipais de Ensino Infantil e Fundamental, bem como as escolas de ensino privado, deverão incluir, nos respectivos componentes curriculares, conteúdos programáticos de informação e orientação sobre a temática da educação ambiental, com ênfase na conscientização para preservação dos igarapés, águas, fauna, flora, rios, peixe e a floresta amazônica.
+
+
+Art. 2º.
+
+O conteúdo programático de informação e orientação sobre a temática da educação ambiental a ser ministrado será elaborado pela Secretaria Municipal do Meio Ambiente, em conjunto com a Secretaria Municipal de Educação.
+
+
+Art. 3º.
+
+As secretarias mencionadas no artigo anterior realizarão campanhas educativas junto às escolas com o objetivo de conscientizar alunos, professores e comunidade local acerca da importância do tema.
+
+
+Parágrafo único
+
+As campanhas previstas no *caput* incluirão a realização de palestras, seminários e atividades interdisciplinares, com a participação da família e comunidade.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor no dia 1° de janeiro de 2019.
+
+
+Rio Branco-Acre, 10 de agosto de 2018, 130º da República, 116º do Tratado de Petrópolis, 57° do Estado do Acre e 135º do Município de Rio Branco.
+
+
+**Socorro Neri**
+
+Prefeita de Rio Branco
+

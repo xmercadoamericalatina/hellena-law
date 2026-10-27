@@ -1,0 +1,83 @@
+---
+titulo: "Lei nº 979, de 27 de maio de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "979"
+data: "2013-05-27"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/981"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1479/text"
+sha256_fonte: "09804726a18833721f379dfbfe82b1974ea1a40d4bde86f3f0e2e4d810e6b26c"
+sha256_texto: "743ff4a0f2ae2dc9bb57c708d6089b520051e86a1c18831192122ee1e27e412f"
+capturado_em_fonte: "2026-10-21T06:21:29.606849-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 979, de 27 de maio de 2013
+
+Autoriza o Poder Executivo a contratar financiamento junto à Caixa Econômica Federal e dá outras providências.
+
+
+O Prefeito Municipal de Amontada, do Estado do Ceará, usando das atribuições que lhes são conferidas por Lei, faz saber que a Câmara Municipal de Amontada, aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contratar e garantir financiamento junto a CAIXA ECONÔMICA FEDERAL, até o valor de R$ 3.157.895,00 (três milhões, cento e cinqüenta e sete mil, oitocentos e noventa e cinco reais), observadas as disposições legais em vigor para a contratação de operações de crédito, as normas da Caixa Econômica Federal e as condições específicas pela Caixa Econômica Federal para a operação.
+
+
+Parágrafo único
+
+Os recursos resultantes do financiamento autorizado neste artigo serão obrigatoriamente aplicados na execução de empreendimentos integrantes do PAC 02 - Pavimentação e Qualificação de Vias Urbanas - 2ª Etapa da Prefeitura Municipal de Amontada.
+
+
+Art. 2º.
+
+Para a garantia do principal e encargos e acessórios dos financiamentos ou operações de crédito pelo município de Amontada, Estado do Ceará para a execução de obras, serviços e equipamentos, observada a finalidade indicada no Art. 1º e seu Parágrafo Único, fica o Poder Executivo autorizado a ceder ou vincular em garantia em caráter irrevogável e irretratável a modo pro solvendo, as receitas e parcelas do Fundo de Participação dos Municípios.
+
+
+§ 1º
+
+O disposto no caput deste artigo obedece aos ditames contidos no Inciso I e II do Art. 159 da Constituição federal e na hipótese da extinção dos impostos ali mencionados, os fundos ou impostos que venham a substituí-los bem como na sua insuficiência, parte dos depósitos serão conferidos à Caixa Econômica Federal os poderes bastante para que as garantias possam ser prontamente exeqüíveis no caso de inadimplemento.
+
+
+§ 2º
+
+Para a efetivação da cessão e ou da vinculação em garantia dos recursos previstos no caput deste artigo, fica o Banco do Brasil S/A, autorizado a transferir os recursos cedidos e/ou vinculados à conta e ordem da Caixa Econômica Federal nos montantes necessários à amortização da dívida, nos prazos contratualmente estipulados, em caso de cessão, ou ao pagamento dos débitos vencidos e não pagos em caso de vinculação.
+
+
+§ 3º
+
+Os poderes previstos neste artigo e nos parágrafos 1º e 2º só poderão ser exercidos pela Caixa Econômica Federal na hipótese do município de Amontada não ter efetuado, no vencimento, o pagamento das obrigações assumidas nos contratos de empréstimos, financiamentos ou operações de crédito celebrados com a Caixa Econômica Federal.
+
+
+Art. 3º.
+
+Os recursos provenientes da operação de crédito objeto de financiamento serão consignados como receita no orçamento ou em créditos adicionais.
+
+
+Art. 4º.
+
+O Poder Executivo consignará nos orçamentos anuais e plurianuais do Município de Amontada, durante os prazos que vierem a ser estabelecidos para empréstimos, financiamentos ou operações de crédito por ele contraídos, dotações suficientes à amortização do principal, encargos e acessórios resultantes inclusive os recursos necessários ao atendimento da contrapartida do município de Amontada no Projeto financiado pela Caixa Econômica Federal, conforme autorizado por esta Lei.
+
+
+Art. 5º.
+
+O Poder executivo baixará os atos próprios para a regulamentação da presente Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, em 27 de maio de 2013.
+
+**PAULO CÉSAR DOS SANTOS Prefeito Municipal de Amontada**
+

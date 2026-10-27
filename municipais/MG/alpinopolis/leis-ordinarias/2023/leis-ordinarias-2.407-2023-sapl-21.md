@@ -1,0 +1,370 @@
+---
+titulo: "Lei Ordinária nº 2.407, de 16 de fevereiro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.407"
+data: "2023-02-16"
+municipio: "Alpinópolis"
+uf: "MG"
+codigo_ibge: "3101904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.alpinopolis.mg.leg.br/norma/21"
+fonte_texto: "https://sapl.alpinopolis.mg.leg.br/ta/21/text"
+sha256_fonte: "6f3b1cb0083135c9379a61d8d26f6a81b160ec4e1464083c94567d489205f015"
+sha256_texto: "76bc34d8d3fcdfb76bfb9a6b2f63e3eb348b21d5f7688df398aaf2304dc8995a"
+capturado_em_fonte: "2026-10-21T05:25:15.958416-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.407, de 16 de fevereiro de 2023
+
+“Dispõe sobre a Criação do Conselho Municipal de Cultura de Alpinópolis, com a revogação da Lei n.º 2.245, de 27 de julho de 2020 que o instituiu e dá outras providências.”
+
+
+Faço saber que a Câmara Municipal de Alpinópolis, Estado de Minas Gerais aprovou eu, Prefeito Municipal, nos termos do disposto no art. 85, VI c/c art. 62, “caput” da Lei Orgânica Municipal sanciono a seguinte Lei, sem emenda,
+
+
+Art. 1º.
+
+o Conselho Municipal de Cultura de Alpinópolis, órgão de caráter deliberativo, permanente e de âmbito municipal, objetivando institucionalizar a relação entre a Administração Municipal e os setores da sociedade civil ligados à cultura.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Cultura compete:
+
+
+I –
+
+representar a sociedade civil de Alpinópolis junto ao Poder Público Municipal, em todos os assuntos que digam respeito à cultura;
+
+
+II –
+
+propor estratégias de articulação e cooperação institucional com os demais entes públicos municipais e destes com a sociedade civil e comunidades tradicionais, que dinamizem a participação e controle social na gestão das políticas públicas de cultura para implementação e consolidação do Sistema Municipal de Cultura, envolvendo seus respectivos componentes;
+
+
+III –
+
+apresentar, discutir e dar parecer sobre projetos que digam respeito à produção, ao acesso e à difusão cultural, além de participar da elaboração, avaliação, fiscalização e o planejamento da política cultural da cidade;
+
+
+IV –
+
+receber documentação, vistoriar, dar parecer, aprovar e registrar entidades, associações, organizações não-governamentais, organização social civil de interesse público, organização cultural, institutos e fundações sem finalidade lucrativa, a fim de expedir parecer sobre a sua titularidade municipal, para receber projetos e seus respectivos planos de trabalho, a fim de receber recursos públicos ou mesmo garantir a sua titularidade como reconhecimento de interesse público municipal;
+
+
+V –
+
+debater experiências de elaboração e implementação de Planos Municipais de Cultura e socializar metodologias e conhecimentos na área;
+
+
+VI –
+
+promover junto às entidades de classe e a iniciativa privada, campanhas no sentido de incrementar as ações culturais;
+
+
+VII –
+
+discutir a cultura local nos seus aspectos de identidade, da memória, da produção simbólica, da gestão, da sua proteção e salvaguarda, da participação social e da plena cidadania;
+
+
+VIII –
+
+propor estratégias para reconhecimento e fortalecimento da cultura como um dos fatores determinantes do desenvolvimento sustentável;
+
+
+IX –
+
+promover o debate, intercâmbio e compartilhamento de conhecimentos, linguagens e práticas, valorizar o fomento, a formação, a criação, a divulgação e preservação da diversidade das expressões e o pluralismo das opiniões
+
+
+X –
+
+propor estratégias para proporcionar aos fazedores de cultura locais o acesso aos meios de produção, assim como propor estratégias para universalizar seu acesso à produção e à fruição dos bens, serviços e espaços culturais;
+
+
+XI –
+
+fortalecer e facilitar a formação individual e coletiva de seus membros e o funcionamento de comissões temáticas, câmaras de estudo, encontros temáticos, fóruns específicos e redes locais em prol da Cultura;
+
+
+XII –
+
+contribuir para a integração das políticas públicas locais que apresentam interface com a arte e cultura regional, estadual, nacional e internacional, de forma a garantir a continuidade dos projetos culturais de interesse do município;
+
+
+XIII –
+
+fiscalizar o Fundo Municipal de Cultura.
+
+
+Art. 3º.
+
+O Conselho Municipal de Cultura será composto por dezesseis membros efetivos e seus respectivos suplentes, sendo oito representantes titulares e seus respectivos suplentes representando as organizações e grupos de arte e cultura de Alpinópolis, compondo a sociedade civil e mais oito titulares e seus respectivos suplentes a serem indicados e nomeados pelo Prefeito Municipal, como representantes do Governo Municipal da seguinte forma:
+
+
+I –
+
+Sociedade Civil – Seguimento Culturas Populares:
+
+
+a)
+
+Representantes do Terno de Congo – Titular;
+
+
+b)
+
+Representantes do Termo de Congo – Suplente.
+
+
+c)
+
+Representante das Companhias de Reis – Titular;
+
+
+d)
+
+Representante das Companhias de Reis – Suplente.
+
+
+II –
+
+Sociedade Civil - Segmento Culturas do Som:
+
+
+a)
+
+Representante dos Músicos – Titular;
+
+
+b)
+
+Representante dos Músicos – Suplente.
+
+
+c)
+
+Representante dos (as) DJ – Titular;
+
+
+d)
+
+Representante dos Corais – Suplente.
+
+
+III –
+
+Sociedade Civil - Segmento Culturas do Artesanato:
+
+
+a)
+
+Representante dos Artesãos – Titular;
+
+
+b)
+
+Representante dos Artesãos – Suplente.
+
+
+IV –
+
+Sociedade Civil - Segmento das Culturas Visuais:
+
+
+a)
+
+Representante dos (as) Desenhistas – Titular;
+
+
+b)
+
+Representante dos (as) Pintores (as) – Suplente;
+
+
+V –
+
+Sociedade Civil - Segmento das Culturas do Corpo:
+
+
+a)
+
+Representante dos Teatros – Titular;
+
+
+b)
+
+Representante dos Teatros – Suplente.
+
+
+c)
+
+Representante dos Teatros – Titular;
+
+
+d)
+
+Representante da Capoeiras – Suplente.
+
+
+VI –
+
+Governo Municipal:
+
+
+a)
+
+Representante da Secretaria de Cultura, Lazer e Turismo – Titular;
+
+
+b)
+
+Representante da Secretaria de Cultura, Lazer e Turismo – Suplente.
+
+
+c)
+
+Representante da Secretaria de Educação – Titular;
+
+
+d)
+
+Representante da Secretaria de Educação – Suplente.
+
+
+e)
+
+Representante da Secretaria da Administração e Desenvolvimento Econômico Urbano – Titular;
+
+
+f)
+
+Representante da Secretaria de Administração e Desenvolvimento Econômico Urbano – Suplente.
+
+
+g)
+
+Representante da Secretaria de Esportes, Juventude e Integração Social – Titular;
+
+
+h)
+
+Representante da Secretaria de Esportes, Juventude e Integração Social – Suplente.
+
+
+i)
+
+Representante da Secretaria da Assistência e Desenvolvimento Social – Titular;
+
+
+j)
+
+Representante da Secretaria da Assistência e Desenvolvimento Social – Suplente.
+
+
+k)
+
+Representante da Secretaria de Transportes – Titular;
+
+
+l)
+
+Representante da Secretaria de Transportes – Suplente.
+
+
+m)
+
+Representante da Secretaria de Saúde – Titular
+
+
+n)
+
+Representante da Secretaria de Saúde – Suplente.
+
+
+o)
+
+Representante da Secretaria de Infraestrutura, Planejamento, Obras e Serviços – Titular;
+
+
+p)
+
+Representante da Secretaria de Infraestrutura, Planejamento, Obras e Serviços – Suplente.
+
+
+§ 1º
+
+A idade mínima para se candidatar a representante da sociedade civil ou do governo municipal é de dezoito anos.
+
+
+§ 2º
+
+A cada membro efetivo corresponderá um suplente, sendo que ambos exercerão suas funções como de relevância pública e sem remuneração.
+
+
+§ 3º
+
+A nomeação dos membros efetivos e suplentes será feita por ato do Prefeito Municipal, mediante indicação, para um mandato de 02 (dois) anos, podendo ser renovado por igual período.
+
+
+§ 4º
+
+No caso de ocorrência de vaga, o novo membro indicado e nomeado completará o mandato do substituído.
+
+
+Art. 4º.
+
+Nomeados os conselheiros, esses elegerão, entre si, o Presidente, Vice-Presidente e Secretário, que administrarão as atividades do Conselho.
+
+
+Art. 5º.
+
+A Secretaria de Cultura, Lazer e Turismo será responsável por oferecer ao Conselho Municipal de Cultura suporte necessário para seu funcionamento.
+
+
+Art. 6º.
+
+O Conselho Municipal de Cultura realizará o cadastro oficial das pessoas que desenvolverem as mais variadas modalidades artísticas e culturais.
+
+
+Parágrafo único
+
+O cadastro oficial será dividido em:
+
+
+I –
+
+pessoas físicas que desenvolverem algum tipo de modalidade artística ou culturas;
+
+
+II –
+
+grupos Artísticos e Culturais diversos informais, grupos da Cultura Popular (folclóricos), grupos teatrais, grupos de dança, grupos de capoeira, bandas musicais, grupos de artesanatos, enfim todas as pessoas que se unam em grupo e realizem qualquer modalidade artística ou cultural;
+
+
+III –
+
+associações, institutos, organizações da sociedade civil sem fim lucrativo, organizações culturais, entre outras que estão devidamente registrada e mantém o seu CNPJ ativo, com o respectivo parecer de reconhecimento pelo Conselho Municipal de Cultura – CMC.
+
+
+Art. 7º.
+
+Esta Lei poderá ser regulamentada por Decreto do Executivo.
+
+
+Art. 8º.
+
+Revoga-se a Lei n.º 2.245, de 27 de julho de 2020.
+
+
+Alpinópolis, 16 de fevereiro de 2023.
+
+**RAFAEL HENRIQUE DA SILVA FREIRE**
+
+**Prefeito Municipal**
+

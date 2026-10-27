@@ -1,0 +1,130 @@
+---
+titulo: "Lei nº 1.504, de 04 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1504"
+data: "2023-07-04"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/2158"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/812/text"
+sha256_fonte: "cd81c7d7939a2b68117fb278ec58d23d6e734145868eea381c520f1b26a955fc"
+sha256_texto: "2f27909013bbd53933e8eac1443134e25b5a3e1f351536fdbc0fdb58e22ddbcd"
+capturado_em_fonte: "2026-10-21T05:57:59.769654-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.504, de 04 de julho de 2023
+
+Dispõe sobre a autorização ao Poder Executivo para desenvolver ações e doações de bens necessários a implantação do Programa Minha Casa Minha Vida, conforme disposto na Lei Federal nº 11.977, de 07 de julho de 2009, na Medida Provisória nº 1.162, de 14 de fevereiro de 2023, e em Instruções Normativas Correlatas, e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a desenvolver todas as ações necessárias para a aquisição, construção ou reforma de unidades habitacionais para atendimento aos munícipes enquadrados na forma da lei, implementada por intermédio do Programa Minha Casa Minha Vida- Modalidades Urbana (PNHU) e Rural (PNHR), alocados na Faixa 1 do Programa, conforme disposições da Lei Federal nº 11.977/2009, na Medida Provisória nº 1.162, de 14 de Fevereiro de 2023, e demais Instruções Normativas correlatas.
+
+
+Art. 2º.
+
+Para a implementação do Programa, fica o Poder Executivo Municipal autorizado a celebrar Termo de Acordo e Compromisso (TAC) com Instituições Financeiras autorizadas pelo Banco Central do Brasil, inclusive Bancos Digitais Diretos e Indiretos, Sociedades de Crédito Direto, Cooperativas de Crédito e os Agentes Financeiros referidos nos incisos I a XII do art. 80 da Lei Federal nº 4.380, de 21 de agosto de 1964.
+
+
+§ 1º
+
+As Instituições Financeiras e Agentes Financeiros deverão comprovar que possuem pessoal técnico especializado, próprio ou terceirizado, nas áreas de engenharia civil, arquitetura, economia, administração, ciências sociais, serviço social, jurídico, entre outros, necessários a boa execução do programa.
+
+
+§ 2º
+
+O Termo de Acordo e Compromisso, de que trata este artigo, deverá ter por objeto ajustes e adequações direcionadas para a consecução das finalidades do programa.
+
+
+§ 3º
+
+O Poder Executivo Municipal poderá também desenvolver outras ações complementares para estimular o Programa nas áreas rurais e urbanas.
+
+
+Art. 3º.
+
+O Poder Executivo Municipal fica autorizado a doar lotes de terrenos de sua propriedade aos beneficiários selecionados conforme o disposto na Legislação Federal que normatiza o PROGRAMA MINHA CASA MINHA VIDA - Faixa 1.
+
+
+§ 1º
+
+As áreas e terrenos a serem utilizados no PROGRAMA MINHA CASA MINHA VIDA - Faixa 1 - Modalidades Urbana (PNHU) deverão integrar a área urbana ou de expansão urbana do Município.
+
+
+§ 2º
+
+As áreas e terrenos deverão contar com a infraestrutura básica necessária, de acordo com as posturas municipais, regramentos do Ministério das Cidades e em conformidade com as políticas habitacionais de interesse social.
+
+
+§ 3º
+
+O Poder Executivo Municipal será responsável por acionar as concessionárias e as permissionárias de serviços de água e esgoto, energia elétrica, telefonia, internet e outras, para executarem os serviços necessários para complementação da infraestrutura básica necessária, observados os parágrafos 1º e 2º do artigo 13 da Medida Provisória nº 1.162 de 14 de fevereiro de 2023, devendo tais serviços estarem disponíveis na entrega das casas aos beneficiários das unidades habitacionais do PROGRAMA MINHA CASA MINHA VIDA - Faixa 1.
+
+
+Art. 4º.
+
+Os projetos de habitação popular serão desenvolvidos mediante planejamento global, podendo envolver as Secretarias Estaduais ou Municipais da área de Habitação, Serviços Sociais, Obras, Planejamento, Fazenda e Desenvolvimento.
+
+
+Art. 5º.
+
+Só poderão ser beneficiados no PROGRAMA MINHA CASA MINHA VIDA - Faixa 1, pessoas ou famílias que atendam ao estabelecido no referido programa e atendam aos requisitos estabelecidos pelas Política de Habitação vigentes, com prioridade para as famílias de maior vulnerabilidade social.
+
+
+§ 1º
+
+O beneficiário não poderá ser proprietário de imóvel residencial e nem detentor de financiamento ativo no SFH, em qualquer parte do País, assim como obrigatoriamente deva ser comprovado que reside no Município há pelo menos cinco anos.
+
+
+§ 2º
+
+O contrato de beneficiário será celebrado preferencialmente em nome da mulher, idoso ou pessoa portadora de deficiência física.
+
+
+Art. 6º.
+
+Na implementação do PROGRAMA MINHA CASA MINHA VIDA - Faixa 1, fica avençado que:
+
+
+I –
+
+Os beneficiários ficarão isentos do pagamento do IPTU - Imposto Predial e Territorial Urbano, durante o período de construção das unidades e também durante o período dos encargos por estes pagos, se o Município exigir o ressarcimento dos beneficiários;
+
+
+II –
+
+As unidades habitacionais que serão construídas ficarão isentas do pagamento do alvará de construção, do habite-se e do ISSQN eventualmente incidente;
+
+
+III –
+
+Ficará assegurada a isenção permanente e incondicional do Imposto sobre a Transmissão de Bens Imóveis e do Imposto de Transmissão Causa Mortis e Doação, que têm como fato gerador a transferência das unidades imobiliárias ofertadas no citado Programa.
+
+
+Art. 7º.
+
+As despesas com a execução da presente lei, de responsabilidade do Município, correrão por conta da dotação orçamentária vigente na Lei Orçamentária Anual do ano em que ocorrer o evento, suplementadas se necessário.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA**, em 4 de julho de 2023.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

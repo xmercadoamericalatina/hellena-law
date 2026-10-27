@@ -1,0 +1,250 @@
+---
+titulo: "Lei Ordinária nº 1.583, de 22 de dezembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1583"
+data: "2005-12-22"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/165"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/117/text"
+sha256_fonte: "05fba774cad46b52d585ad593bb966b77ce6b6fe7c8ca1f39a919665d231619b"
+sha256_texto: "ed08ef069e0f3cd251915b91311f1f987be41d9c1924e2a71c39b27bdd4b2c30"
+capturado_em_fonte: "2026-10-21T04:03:07.510018-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.583, de 22 de dezembro de 2005
+
+“Dispõe sobre a acessibilidade no transporte público coletivo e dá outras providências.''
+
+
+O PREFEITO MUNICIPAL DE RIO BRANCO - ACRE, FAÇO SABER, que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+É assegurada a gratuidade no acesso ao transporte público coletivo:
+
+
+I –
+
+aos idosos a partir de 65 anos;
+
+
+II –
+
+aos deficientes físicos;
+
+
+III –
+
+aos deficientes mentais;
+
+
+IV –
+
+aos deficientes auditivos;
+
+
+V –
+
+aos deficientes visuais;
+
+
+VI –
+
+aos Presidentes de Bairros;
+
+
+VII –
+
+às crianças até seis anos.
+
+
+Art. 2º.
+
+A Superintendência Municipal de Transportes e Trânsito - RBTRANS expedirá a carteira de gratuidade para os fins de exercício desse direito.
+
+
+§ 1º
+
+Nas hipóteses dos incisos I e VII do artigo 1º, desta Lei, o acesso gratuito aos veículos sera garantido mediante a apresentação de qualquer documento pessoal hábil a comprovar a idade do idoso ou da criança, desde que tenha foto, sendo-lhes facultada a obtenção da carteira de gratuidade referida no caput deste artigo.
+
+
+§ 2º
+
+A carteira de gratuidade de que trata o presente artigo, terá validade enquanto perdurarem as condições que deram origem ao direito, não havendo necessidade de sua renovação, excetuados os casos do inciso VI do artigo 1º, desta Lei, e dos recadastramentos periódicos efetuados pela RBTRANS.
+
+
+Art. 3º.
+
+As carteiras de gratuidade dos deficientes visuais, auditivos, mentais e físicos informarão se a sua mobilidade depende ou recomenda o auxilio de acompanhante, hipótese em que estes estarão isentos do pagamento da tarifa quando nessa função.
+
+
+Art. 4º.
+
+As condições físicas ou mentais dos requerentes, bem como o grau da deficiência deverão ser atestadas através de laudo médico emitido por médico especialista da rede pública estadual, municipal e particular de saúde.
+
+
+§ 1º
+
+Não havendo medico especialista da área afim nos quadros do Estado e do Município, a RBTRANS encaminhará o requerente a junta médica do Município, que emitirá o laudo necessário.
+
+
+§ 2º
+
+Em qualquer caso, não sendo emitido o laudo no prazo de quinze dias a contar da data do requerimento, a RBTRANS expedirá uma carteira provisória de gratuidade.
+
+
+Art. 5º.
+
+As crianças de que trata o inciso VII, do artigo 1º desta Lei, pessoas obesas e mulheres visivelmente gestantes, embarcarão pela porta de saída dos veículos de transporte coletivo.
+
+
+§ 1º
+
+Na hipótese de a criança estar acompanhada de um responsável adulto, poderá este optar por embarcar com a mesma pela porta de entrada, hipótese em que ela passara pela catraca em seu colo.
+
+
+§ 2º
+
+O deslocamento do veículo do local de embarque far-se-á somente após a criança, o obeso e a gestante acomodarem-se convenientemente em seu interior.
+
+
+§ 3º
+
+As pessoas obesas e mulheres gestantes, de que trata o caput do presente artigo, efetuarão o pagamento da passagem ao motorista ou, na hipótese de não possuírem o valor exato da tarifa, ao cobrador:
+
+
+§ 4º
+
+Para efeito desta Lei, considera-se obesa a pessoa que tem dificuldade em passar pela catraca em razão de seu peso.
+
+
+Art. 6º.
+
+É obrigação da RBTRANS e do Sistema de Transportes Públicos de Rio Branco - SITURB, garantir a efetivação do direito à dignidade, respeito, pleno acesso ao sistema de transporte público coletivo e atendimento prioritário dos portadores de qualquer tipo de deficiência, idosos e gestantes.
+
+
+Art. 7º.
+
+É assegurado, aos estudantes matriculados nos estabelecimentos privados ou públicos municipais, estaduais e federais do ensino infantil, fundamental, médio e superior no Município de Rio Branco, reconhecidos pelo Ministério da Educação, bem como aos estudantes matriculados'nos cursos preparatórios para vestibular oferecidos gratuitamente pelo Poder Público ou outra entidade de caráter filantrópico, o desconto de 50% (cinquenta por cento) sobre o preço da tarifa comum.
+
+
+§ 1º
+
+Somente gozarão do desconto de 50% (cinquenta por cento) sobre o preço da tarifa os alunos que residirem em um raio de mais de mil metros do estabelecimento de ensino que frequentam, se no período diurno ou mais de quinhentos metros, se o horário de saída das aulas for posterior as vintes horas.
+
+
+§ 2º
+
+Os passes estaduais serão aceitos independentemente do destino do estudante e, também, durante o período de ferias, feriados e finais de semana.
+
+
+Art. 8º.
+
+A RBTRANS fornecerá aos alunos carteira individual e intransferível, instituindo cotas, limites para aquisição de passagens representadas por passes estudantis individuais, personalizados e intransferíveis, cuja confecção e fiscalização de uso correrão por conta das empresas operadoras do SITURB.
+
+
+§ 1º
+
+A quantidade de passes estudantis disponibilizados devera contemplar cada deslocamento de ida e retorno dos estudantes das aulas, sendo que a cota minima será de trinta passes por mês.
+
+
+§ 2º
+
+Conforme a necessidade de deslocamentos do estudante, as cotas definidas por ocasião da emissão da carteira serão em quantidades múltiplas de trinta passes.
+
+
+§ 3º
+
+A cota de passes concedida aos estudantes representará o limite máximo de passes que poderão adquirir, sendo-lhes, facultado a aquisição de qualquer quantidade inferior a esse limite.
+
+
+§ 4º
+
+O SITURB garantirá o minimo de um ponto de comercialização de passes estudantis para cada dez mil carteiras expedidas.
+
+
+Art. 9º.
+
+A adulteração, violação, permuta, comercialização, cessão para uso por pessoa não autorizada ou a pratica de qualquer fraude na utilização das carteiras de gratuidade e de passe estudantil, acarretarão o seu recolhimento imediato, e sujeitarão o infrator a responder processo administrativo para julgamento da infração, garantida a ampla defesa e o contraditório com vistas a pena de advertência por escrito ou suspensão, por período não superior a doze meses, do direito ao benefício.
+
+
+Parágrafo único
+
+A reincidência do beneficiário do passe estudantil ou da carteira de gratuidade, em qualquer das infrações previstas na presente lei, em período inferior a um ano, o sujeitará ao recolhimento da carteira a RBTRANS e consequente suspensão do benefício pelo período de dois anos.
+
+
+Art. 10.
+
+É de responsabilidade das operadoras do SITURB e da RBTRANS a fiscalização da utilização dos passes escolares e das carteiras de gratuidade, e a garantia do pleno gozo desse benefício nos termos da presente Lei e das portarias que a regulamentem.
+
+
+Art. 11.
+
+Portarias a serem expedidas pela RBTRANS regulamentarão a presente Lei, em especial:
+
+
+I –
+
+os procedimentos administrativos necessários à expedição da carteira de gratuidade e da carteira de passe estudantil;
+
+
+II –
+
+a forma e os locais de comercialização dos passes estudantis;
+
+
+III –
+
+as informações e classificações que deverão constar no laudo médico de avaliação da presença ou não das restrições fisicas exigidas para o gozo da gratuidade;
+
+
+IV –
+
+as condições dos requerentes e o grau minimo de deficiência nas hipóteses previstas nos Incisos II a V, do art. 1º, desta Lei;
+
+
+V –
+
+os requisitos e procedimentos para emissão de Segunda via de carteira de passe estudantil e de carteira da gratuidade;
+
+
+VI –
+
+os processos administrativos previstos no art. 9º desta Lei.
+
+
+Art. 12.
+
+As carteiras expedidas antes da vigência desta Lei terão validade até 31 de dezembro de 2006, prazo em que o RBTRANS providenciará sua substituição ou cancelamento.
+
+
+Art. 13.
+
+A RBTRANS regulamentará a presente Lei no prazo de noventa dias, a contar da data de sua publicação.
+
+
+Art. 14.
+
+Revogam-se os artigos 34 e 35 da Lei 332 de 12 de janeiro de 1982, as Leis 1.016 de 23-abril de 1992, 1.083 de 12 de abril de 1993, 1.127 de 08 de dezembro de 1993, 1.190 de 11 de abril de 1995, 1.253 de 30 de maio de 1997, 1.256 de 15 de julho de 1997, 1.313 de 09 de dezembro de 1998, 1.326 de 27 de julho, 1.327 de 09 de agosto de 1999, 1.334 de 23 de novembro de 1999 e 1.432 de 19 de julho de 2001.
+
+
+Art. 15.
+
+Esta Lei entra em vigor noventa dias da data de sua publicação.
+
+
+Rio Branco-Acre, 22 de dezembro de 2005, 117º da Republica, 103º do Tratado de Petrópolis, 44º do Estado do Acre e 96º do Município de Rio Branco.
+
+
+**RAIMUNDO ANGELIM VASCONCELOS**  
+Prefeito de Rio Branco
+

@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária nº 11.206, de 17 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11206"
+data: "2021-12-17"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13331"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3865/text"
+sha256_fonte: "6eb7ca6b100e8ab597bdaae2d55b556e6918aa3627a8fa33f337a3a604f3d5a8"
+sha256_texto: "2b4ccb2435942eb9d8be7f015c322aab6371369095e2752ceee4a26f7efbe889"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.206, de 17 de dezembro de 2021
+
+Dispõe sobre o pagamento parcelado de multas de trânsito inscritas ou não na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania (AMC), bem como sobre remissão de multas, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica autorizado o pagamento parcelado, na forma disposta neste artigo, dos débitos, com discussão administrativa encerrada, de multas de trânsito não inscritas na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania (AMC).
+
+
+§ 1º
+
+O proprietário do veículo poderá efetuar o pagamento à vista ou parcelado dos débitos previstos no caput por intermédio de instituições financeiras credenciadas pela Autarquia Municipal de Trânsito e Cidadania (AMC) ou pelo Departamento Estadual do Trânsito (Detran-CE), nos prazos e nas condições disponibilizadas pelas instituições credenciadas.
+
+
+§ 2º
+
+O pagamento à vista ou parcelado de multas vencidas e não inscritas na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania (AMC), previstas neste artigo, deverá ser acrescido de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), nos termos do § 4º do art. 284 do Código de Trânsito Brasileiro.
+
+
+§ 3º
+
+O disposto neste artigo não autoriza a restituição ou a compensação de multa de trânsito paga.
+
+
+§ 4º
+
+A Autarquia Municipal de Trânsito e Cidadania (AMC) fica autorizada a delegar ao Departamento Estadual de Trânsito (Detran-CE), com ou sem ônus, a cobrança das multas previstas neste artigo, de forma direta ou por meio de instituições financeiras credenciadas.
+
+
+Art. 2º.
+
+Fica autorizado o pagamento parcelado, na forma disposta neste artigo, dos débitos de multas de trânsito inscritas na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania (AMC).
+
+
+§ 1º
+
+As multas de trânsito inscritas na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania deverão ser acrescidas de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), nos termos do § 4º do art. 284 do Código de Trânsito Brasileiro, e poderão ser pagas em até 36 (trinta e seis) parcelas, conforme requerido pelo devedor, nas seguintes condições:
+
+
+I –
+
+a primeira parcela deve corresponder a 5% (cinco por cento) do débito atualizado na forma do caput;
+
+
+II –
+
+nenhuma parcela poderá ser inferior a R$ 50,00 (cinquenta reais) para pessoa física e a R$ 300,00 (trezentos reais) para pessoa jurídica ou equiparado.
+
+
+§ 2º
+
+O valor previsto no inciso I do § 1º será destinado ao Fundo Nacional de Segurança e Educação de Trânsito (Funset).
+
+
+§ 3º
+
+Com o pagamento da primeira parcela, considera-se quitada a multa sob condição resolutiva, tornando-se sem efeito a quitação com o atraso no pagamento de 3 (três) parcelas consecutivas ou não ou na existência de saldo devedor após a data do vencimento da última parcela, hipóteses nas quais haverá a rescisão do parcelamento, sendo o devedor notificado para pagamento do total remanescente do débito, devidamente atualizado, no prazo de 30 (trinta) dias contados da notificação.
+
+
+§ 4º
+
+Além da cobrança prevista no § 3º, a inadimplência poderá ensejar o protesto e a inscrição em cadastros de inadimplentes, sem prejuízo das demais formas de cobrança, extrajudicial e judicial.
+
+
+§ 5º
+
+O saldo devedor do parcelamento, após o pagamento da primeira parcela, será acrescido, mensalmente, de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic).
+
+
+§ 6º
+
+O disposto neste artigo não autoriza a restituição ou a compensação de multa de trânsito paga.
+
+
+§ 7º
+
+A critério do devedor, fica autorizado o pagamento das multas inscritas na Dívida Ativa da Autarquia Municipal de Trânsito e Cidadania (AMC) na forma dos §§ 1º e 2º do art. 1º desta Lei.
+
+
+Art. 3º.
+
+Ficam excepcionalmente remitidas por veículo as multas de trânsito com data de vencimento anterior a 31 de dezembro de 2016, condicionada esta remissão ao pagamento de todas as multas do veículo até 31 de dezembro de 2021, em quaisquer das formas previstas nesta Lei.
+
+
+Parágrafo único.
+
+As multas de trânsito que tenham sido pagas até a data da publicação desta Lei não são alcançadas pela remissão prevista no caput.
+
+
+Art. 4º.
+
+O devedor que possuir ação judicial em curso que tenha por objeto débito incluído nos pagamentos previstos nos arts. 1º e 2º desta Lei deverá desistir da respectiva ação judicial e renunciar a qualquer alegação de direito sobre a qual se funda, e protocolar, nos autos do processo judicial, requerimento de extinção do processo com resolução de mérito, apresentando o respectivo comprovante, quando do pedido de parcelamento, à Autarquia Municipal de Trânsito e Cidadania (AMC).
+
+
+Parágrafo único.
+
+No caso das ações promovidas por substituto processual, a desistência da ação judicial prevista no caput deverá ser formulada em relação ao substituído.
+
+
+Art. 5º.
+
+Os recolhimentos realizados nos termos desta Lei constituem-se em confissão irretratável de dívida, não conferindo ao devedor qualquer direito à restituição.
+
+
+Art. 6º.
+
+A Autarquia Municipal de Trânsito (AMC) poderá inscrever os seus créditos na Dívida Ativa do Município de Fortaleza, para a cobrança por meio da Procuradoria-Geral do Município, na forma do art. 2º desta Lei.
+
+
+Art. 7º.
+
+A formalização do pedido de pagamento poderá ser regulamentada por decreto, no que for necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 17 DE DEZEMBRO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

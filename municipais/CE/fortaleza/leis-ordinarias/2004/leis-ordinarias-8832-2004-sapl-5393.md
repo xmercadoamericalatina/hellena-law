@@ -1,0 +1,140 @@
+---
+titulo: "Lei Ordinária nº 8.832, de 12 de maio de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8832"
+data: "2004-05-12"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5393"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2195/text"
+sha256_fonte: "0c9a1d6326b93af2667d5fad0cb3bbe3dc98da72ee1224e7b7fa840570b1989d"
+sha256_texto: "81c21b36189ea5fbc75a3e42c77265d2cd4bb20acdebaf66d39ebcd527c20e3d"
+capturado_em_fonte: "2026-10-21T04:38:40.682780-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.832, de 12 de maio de 2004
+
+Institui a Semana Municipal de Incentivo a Saúde Mamária e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituída, no âmbito do Município de Fortaleza, a Semana Municipal de Incentivo à Saúde Mamária, a se realizar, a cada ano, concomitantemente com a Semana Nacional de designação e objetivos semelhantes, anualmente promovida pela Sociedade Brasileira de Mastologia/Regional Ceará (SBM/CE).
+
+
+Art. 2º.
+
+A Semana Municipal de Incentivo à Saúde Mamária tem como principal objetivo incentivar as mulheres a realizarem o auto-exame das mamas, visando à detecção de nódulos, tendo em vista a prevenção de câncer.
+
+
+Parágrafo único
+
+Na Semana aludida, as mulheres devem ser ainda orientadas no sentido de realizar os seguintes exames:
+
+
+I –
+
+ultra-sons anuais, independente da idade;
+
+
+II –
+
+mamografias anuais, obrigatórias para aqueles com idade superior a 40 (quarenta) anos.
+
+
+Art. 3º.
+
+Na Semana Municipal de Incentivo à Saúde Mamária, de que trata esta Lei, a administração municipal, através do órgão competente responsável pelo sistema de saúde, deve fomentar campanhas e eventos específicos, bem como desenvolver atividades educativas voltadas para a população feminina, sempre abordando o câncer de mama e a importância dos exames para preveni-lo, em especial o auto-exame.
+
+
+Art. 4º.
+
+O acontecimento passará a contar do calendário oficial do Município de Fortaleza.
+
+
+Art. 5º.
+
+A Semana Municipal de Incentivo à Saúde Mamária deve ser precedida de ampla divulgação e realizada em locais a serem determinados pelo Poder Público.
+
+
+§ 1º
+
+A administração municipal providenciará a divulgação da Semana utilizando inserções na mídia, outdoors, folders, cartazes, entre outros meios de difusão.
+
+
+§ 2º
+
+O Poder Público empreenderá esforços no sentido de conseguir a publicação de reportagens sobre o assunto, contendo as seguinte informações básicas, entre outras:
+
+
+I –
+
+os objetivos da Semana Municipal de Incentivo à Saúde Mamária;
+
+
+II –
+
+os locais de realização das campanhas, eventos, palestras e outras atividades do acontecimento;
+
+
+III –
+
+a forma de fazer o auto-exame, devidamente ilustrada;
+
+
+IV –
+
+os hábitos saudáveis a serem adquiridos para se prevenir do câncer de mama, ter chances de curar a doença e preservar as mamas, ter chances de curar a doença e preservar as mamas;
+
+
+V –
+
+os procedimentos essenciais inerentes à prevenção primária e à prevenção ou detecção precoce;
+
+
+VI –
+
+os esclarecimentos às questões comuns pertinentes ao tema;
+
+
+VII –
+
+as unidades de saúde onde são efetuados os exames de mama, com os seus respectivos endereços e telefones.
+
+
+§ 3º
+
+As informações mencionadas nos incisos III, IV, V e VI do § 2º deste artigo devem ser publicadas nas reportagens de forma destacada.
+
+
+Art. 6º.
+
+Para a consecução dos objetivos desta Lei, o Poder Executivo poderá estabelecer parceria com a Sociedade Brasileira de Mastologia/Regional Ceará (SBM/CE).
+
+
+Art. 7º.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta de dotações orçamentárias destinadas ao setor municipal de saúde; suplementadas, se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza em 12 de Maio de 2004.**  
+  
+  
+JURACI MAGALHÃES  
+PREFEITO DE FORTALEZA
+

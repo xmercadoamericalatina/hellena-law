@@ -1,0 +1,54 @@
+---
+titulo: "Lei Ordinária nº 10.160, de 27 de fevereiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10160"
+data: "2014-02-27"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/3725"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/727/text"
+sha256_fonte: "19f706f7f6dcd74c427513b221be5ddb6d44e1a9d51349d243917ff0ed9c86a6"
+sha256_texto: "5035e3ccfaf25fcd2a5c1c4a6752febd7627d363e2acb67163a20ff6f1c7585d"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.160, de 27 de fevereiro de 2014
+
+Dispõe sobre autorização para abertura de crédito adicional especial até o limite de R$ 20.000.000,00 para fim que indica e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo autorizado a abrir, à vigente lei orçamentária anual (Lei n. 10.141/13), crédito adicional especial até o limite de R$ 20.000.000,00 (vinte milhões de reais), com a finalidade de adequar a realização das despesas das unidades orçamentárias constantes do Quadro de Detalhamento da Despesa, divulgado pela Portaria n. 103, de 20 de dezembro de 2013, da Secretaria Municipal de Planejamento, Orçamento e Gestão Detalhamento da Despesa, conforme o estabelecido na Lei n. 10.071, de 28 de julho de 2013, art. 42, parágrafo único, da lei de diretrizes orçamentárias de 2014.
+
+
+Art. 2º.
+
+Os recursos orçamentários necessários para o atendimento do disposto no art. 1º desta Lei serão supridos de acordo com o estabelecido no art. 43, § 1º, inciso III, Da Lei Federal n. 4.320/64.
+
+
+Art. 3º.
+
+Durante a execução orçamentária, o crédito aberto poderá ser alterado, observada a autorização contida no art. 6º da Lei n.10 141, de 13 de dezembro de 2013.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 27 de fevereiro de 2014.**  
+  
+  
+  
+ROBERTO CLÁUDIO RODRIGUES BEZERRA  
+Prefeito Municipal de Fortaleza
+

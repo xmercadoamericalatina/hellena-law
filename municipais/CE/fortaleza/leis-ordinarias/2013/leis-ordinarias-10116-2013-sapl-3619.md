@@ -1,0 +1,73 @@
+---
+titulo: "Lei Ordinária nº 10.116, de 25 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10116"
+data: "2013-10-25"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/3619"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/775/text"
+sha256_fonte: "7bd69c0443aec1f74dbfa29207f782b9f358345a93d9fb1a2287926e1d4bf7be"
+sha256_texto: "5524160a9206dcb9bd7cf51d75b74b4182e467ed8e3409c3a3c1f13395dcbe05"
+capturado_em_fonte: "2026-10-20T23:47:42.762318"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.116, de 25 de outubro de 2013
+
+Autoriza o Poder Executivo Municipal a contratar financiamentos junto a instituições financeiras integrantes do sistema financeiro nacional.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Município de Fortaleza, por intermédio do Poder Executivo, autorizado a contratar, com garantia da União Federal, operação de crédito interna, junto à Caixa Econômica Federal, até o limite de R$ 33.908.770,31 (trinta e três milhões, novecentos e oito mil, setecentos e setenta reais e trinta e um centavos), destinada ao financiamento da complementação de contrapartida em contratos de repasse celebrados com ministérios através do Orçamento Geral da União (OGU), em que o Município de Fortaleza participe, como contratante ou interveniente, para as obras provenientes do Programa de Aceleração do Crescimento – PAC I.
+
+
+Parágrafo único
+
+Os recursos resultantes do financiamento autorizado neste artigo serão obrigatoriamente aplicados na viabilização de despesas de capital, vedada a aplicação de tais recursos em despesas correntes ou dívidas não contraídas junto à própria instituição financeira concedente, em consonância com o § 1º do art. 35 da Lei Complementar 101, de 4 de maio de 2000.
+
+
+Art. 2º.
+
+Para a garantia das operações de que trata o art. 1º desta Lei o Poder Executivo fica autorizado a vincular, como contragarantia à garantia da União, as cotas da repartição das receitas tributárias estabelecidas no art. 158, incisos I, II, III e IV, e no art. 159, inciso I, alínea b, complementadas pelas receitas próprias estabelecidas no art. 156, incisos I, II e III, nos termos do art. 167, § 4º, todos da Constituição Federal, bem como outras garantias em direito admitidas.
+
+
+Parágrafo único
+
+Na hipótese de insuficiência dos recursos previstos no caput, fica o Poder Executivo autorizado a vincular outros recursos para assegurar o pagamento das obrigações financeiras decorrentes dos contratos celebrados, mediante prévia informação desse valor à Câmara Municipal de Fortaleza, assim como mediante prévia aceitação das instituições financiadoras.
+
+
+Art. 3º.
+
+Os recursos provenientes da operação de crédito, objeto dos financiamentos, serão consignados como receita no orçamento ou em créditos adicionais.
+
+
+Art. 4º.
+
+O Poder Executivo consignará, nos orçamentos anuais do Município, dotações suficientes à cobertura das responsabilidades financeiras resultantes das operações autorizadas por esta Lei, durante o prazo que vier a ser estabelecido nos contratos correspondentes.
+
+
+Art. 5º.
+
+O Poder Executivo encaminhará à Câmara Municipal de Fortaleza, no prazo de 60 (sessenta) dias após a lavratura dos contratos de que trata o art. 1º, cópia dos respectivos contratos e das garantias assumidas pelo Município.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 25 de Outubro de 2013.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA Prefeito Municipal de Fortaleza**
+

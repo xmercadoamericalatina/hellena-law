@@ -1,0 +1,150 @@
+---
+titulo: "DECRETO Nº 1.103 DE 24 DE ABRIL DE 2026"
+uf: "PE"
+municipio: "MORENO"
+tipo: "Decreto"
+numero: "1103"
+data: 2026-04-24
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/05/2026"
+data_publicacao: 2026-05-07
+codigo_identificador: "6EEBB2B4"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115805_2026-05-06_662b0ad632c66f16f15a6cd7507553f0.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 1.103 DE 24 DE ABRIL DE 2026
+
+DECRETO Nº 1.103 DE 24 DE ABRIL DE 2026
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR AO ORÇAMENTO FISCAL DO MUNICÍPIO DO MORENO
+RELATIVO AO EXERCÍCIO 2026, NO VALOR DE R$ 630.000,00 (SEISCENTOS E TRINTA MIL REAIS), NA FORMA EM
+QUE ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DO MORENO, no âmbito de suas atribuições legais conferidas pela Lei Orgânica do Município, regulamenta as
+disposições constantes na Lei Municipal nº 816 de 29 de dezembro de 2025, que autoriza o Município, Poder Executivo, a abrir crédito adicional
+suplementar no orçamento anual de 2026 e dá outras providências.
+DECRETA:
+Art.1º Fica aberto ao Orçamento Municipal, relativo ao exercício de 2025, conforme art. 7º da Lei nº 816 de 29 de dezembro de 2025, crédito
+suplementar no valor de R$ R$ 630.000,00 (seiscentos e trinta mil reais), destinados ao reforço das dotações especificadas no Anexo I.
+Art.2º Os recursos necessários ao atendimento das despesas de que trata o art.1º são provenientes da anulação parcial, em igual importância, das
+dotações especificadas no Anexo II.
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+Art. 4º Revogam-se as disposições em contrário.
+www.diariomunicipal.com.br/amupe
+
+174
+
+Pernambuco , 07 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4090
+Moreno/PE, 24 de abril de 2026.
+EDMILSON CUPERTINO DE ALMEIDA
+Prefeito
+ANEXO I
+(CRÉDITO SUPLEMENTAR)
+Especificação
+41001 – Secretaria Municipal de Administração e Defesa Social
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+44905200 – EQUIPAMENTOS E MATERIAL PERMANENTE
+
+Fonte
+
+Valor
+
+500000
+
+100.000,00
+
+500000
+
+310.000,00
+
+500000
+
+100.000,00
+
+500000
+
+100.000,00
+
+500000
+
+20.000,00
+
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+33903900 – OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+27001 – Secretaria Municipal de Cultura, Turismo e Esportes
+1339211032.100 – POLÍTICA NACIONAL DA LEI ALDIR BLANC
+33903900 – OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+2781211032.286 – FOMENTO A PROMOÇÃO DE ATIVIDADES DE ESPORTE E LAZER
+33903900 – OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+412215122.557 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE
+33903600 – OUTROS SERVIÇOS DE TERCEIROS – PESSOA FÍSICA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+Total
+
+630.000,00
+
+ANEXO II
+(ANULAÇÃO DE DOTAÇÃO)
+Especificação
+
+Fonte
+
+Valor
+
+500000
+
+200.000,00
+
+500000
+
+100.000,00
+
+500000
+
+100.000,00
+
+500000
+
+10.000,00
+
+500000
+
+200.000,00
+
+500000
+
+20.000,00
+
+41001 – Secretaria Municipal de Administração e Defesa Social
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+31901100 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+33903000 – MATERIAL DE CONSUNO
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+31901300 – OBRIGAÇÕES PATRONAIS
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+412215132.555 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E DEFESA SOCIAL
+33903700 – LOCAÇÃO DE MÃO DE OBRA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+27001 – Secretaria Municipal de Cultura, Turismo e Esportes
+PROMOÇÃO DE EVENTOS DO CALENDÁRIO CULTURAL DO MUNICÍPIO
+33903900 – OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+43001 – Secretaria Municipal de Agricultura e Meio Ambiente
+412215122.557 – GESTÃO ADMINISTRATIVA DA SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE
+33901400 – DIÁRIAS CIVIL
+500000 – RECURSOS NÃO VINCULADOS DE IMPOSTOS
+Total
+
+630.000,00
+
+Publicado por:
+Renan Crisostomo Dos Santos

@@ -1,0 +1,153 @@
+---
+titulo: "Lei Complementar nº 175, de 12 de dezembro de 2014"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "175"
+data: "2014-12-12"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/4146"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3192/text"
+sha256_fonte: "8e4060449ccfd28e3cc2976fa86ea7c7a4a81aa627a408946defb55acc0d1292"
+sha256_texto: "b5d5c7572c63d2a55fdb8b96e7b4b7d3665df477d45a10bfda9ab0f627ff7cef"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Complementar nº 175, de 12 de dezembro de 2014
+
+Dispõe sobre a criação da Coordenadoria Especial de Relações Internacionais e Federativas e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+Art. 1º.
+
+Fica criada a Coordenadoria Especial de Relações Internacionais e Federativas, órgão vinculado ao Gabinete do Prefeito, com status de Secretaria, responsável pela articulação das relações políticas, econômicas, sociais e culturais do Município de Fortaleza com outros países e organismos internacionais, bem como pela qualificação das relações com os entes federados e pela busca do fortalecimento da cooperação federativa.
+
+
+Art. 2º.
+
+São atribuições da Coordenadoria Especial de Relações Internacionais e Federativas:
+
+
+I –
+
+desenvolver a política de cooperação internacional do Município de Fortaleza;
+
+
+II –
+
+assessorar o prefeito e os órgãos e entidades do Município de Fortaleza no desenvolvimento da política de cooperação internacional;
+
+
+III –
+
+constituir-se num foro central de todos os assuntos internacionais referentes ao Município de Fortaleza;
+
+
+IV –
+
+promover, em conjunto com os diversos órgãos e entidades do Município, ações de parceria, convênios e intercâmbios de experiências com governos e instituições e órgãos não governamentais nacionais e internacionais;
+
+
+V –
+
+divulgar, em parceria com os órgãos e entidades setoriais, as potencialidades culturais, econômicas, turísticas e sociais do Município de Fortaleza no cenário internacional;
+
+
+VI –
+
+promover intercâmbio de atividades culturais com outros países, visando à divulgação das artes, identidade e experiências de Fortaleza;
+
+
+VII –
+
+zelar pela boa relação entre o Município de Fortaleza e outros países parceiros ou em potencial, bem como com os demais entes federados;
+
+
+VIII –
+
+contribuir a criar uma imagem da cidade de Fortaleza no plano nacional e internacional, de maneira a apoiar os objetivos estratégicos do governo no que diz respeito à divulgação do Município e à mobilização de recursos e parcerias para a melhoria da qualidade de vida de seus cidadãos;
+
+
+IX –
+
+coordenar ou auxiliar na organização de eventos internacionais no município e participar ou propor a participação em eventos no exterior;
+
+
+X –
+
+atuar conjuntamente com outros Municípios para concretizar objetivos de cooperação e de relacionamento internacional de Fortaleza;
+
+
+XI –
+
+proporcionar a recepção, acompanhamento e assistência a representantes de parceiros e entidades nacionais e internacionais, quando em visita ao nosso município;
+
+
+XII –
+
+colaborar na captação de recursos para o desenvolvimento de projetos, convênios e intercâmbios internacionais;
+
+
+XIII –
+
+divulgar informações sobre convênios, intercâmbios, cursos, estágios, bolsas de estudo e programas de instituições governamentais e não governamentais estrangeiras;
+
+
+XIV –
+
+participar de eventos internacionais de interesse do Município em sua área de atuação;
+
+
+XV –
+
+gerenciar informações, promover estudos e elaborar propostas e recomendações que possibilitem o aperfeiçoamento do pacto federativo;
+
+
+XVI –
+
+promover e coordenar a agenda internacional do Município de Fortaleza;
+
+
+XVII –
+
+articular a construção de políticas e programas federativos.
+
+
+Art. 3º.
+
+Respeitadas as limitações estabelecidas na Constituição Federal, na Constituição do Estado do Ceará, e na Lei Orgânica do Município de Fortaleza, o Poder Executivo regulamentará por decreto a organização, a estrutura, as atribuições e a distribuição dos cargos em comissão e o funcionamento da Coordenadoria Especial de Relações Internacionais e Federativas.
+
+
+Art. 4º.
+
+Fica o chefe do Executivo Municipal autorizado a proceder no orçamento da Prefeitura, mediante créditos especiais, às alterações que se fizerem necessárias para as mudanças decorrentes desta Lei.
+
+
+Art. 5º.
+
+Fica criado o cargo de coordenador especial, simbologia S-1, na estrutura organizacional do Gabinete do Prefeito, com a finalidade de atender à Coordenadoria Especial de Relações Internacionais e Federativas.
+
+
+Parágrafo único
+
+O coordenador especial da Coordenadoria Especial de Relações Internacionais e Federativas possui o mesmo nível hierárquico, prerrogativas e honras do cargo de secretário.
+
+
+Art. 6º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 12 de dezembro de 2014.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA**
+
+**Prefeito Municipal de Fortaleza**
+

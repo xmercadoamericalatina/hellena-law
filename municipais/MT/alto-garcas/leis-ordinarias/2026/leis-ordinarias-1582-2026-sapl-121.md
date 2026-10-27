@@ -1,0 +1,535 @@
+---
+titulo: "Lei Ordinaria nº 1.582, de 14 de julho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinaria"
+numero: "1582"
+data: "2026-07-14"
+municipio: "Alto Garças"
+uf: "MT"
+codigo_ibge: "5100409"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.altogarcas.mt.leg.br/norma/121"
+fonte_texto: "https://sapl.altogarcas.mt.leg.br/ta/145/text"
+sha256_fonte: "b42b1ffd7c8528b3b03da7fd1a0e80db437168e1ad60fe3eab8b7c5b0de6b37d"
+sha256_texto: "ce05240755aa413a8a0f8d43b5db52c734ba9cfbb4173e4af30a5544f63ef167"
+capturado_em_fonte: "2026-10-21T05:28:09.812734-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinaria nº 1.582, de 14 de julho de 2026
+
+"DISPÕE SOBRE A POLÍTICA MUNICIPAL DOS DIREITOS DA MULHER, REESTRUTURA O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER, INSTITUI O FUNDO MUNICIPAL DOS DIREITOS DA MULHER, REVOGA A LEI MUNICIPAL № 491, DE 10 DE OUTUBRO DE 2000, E DÁ OUTRAS PROVIDÊNCIAS."
+
+
+O Senhor CEZALPINO MENDES TEIXEIRA JUNIOR, Prefeito Municipal de Alto Garças, Estado de Mato Grosso, no uso de suas atribuições que lhe são conferidas pela Lei Orgânica do Município, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei institui a Política Municipal dos Direitos da Mulher, reestrutura o Conselho Municipal dos Direitos da Mulher - CMDM, criado pela Lei Municipal nº 491, de 10 de outubro de 2000, e institui o Fundo Municipal dos Direitos da Mulher - FMDM, no âmbito do Município de Alto Garças.
+
+
+Parágrafo único
+
+A Política Municipal dos Direitos da Mulher será implementada de forma intersetorial, integrada e articulada entre os órgãos municipais, a sociedade civil e, quando couber, os órgãos estaduais e federais competentes.
+
+
+Art. 2º.
+
+A Política Municipal dos Direitos da Mulher será implementada em consonância com a Constituição Federal, a Lei Orgânica Municipal, a legislação federal e estadual pertinente, especialmente as normas de promoção da igualdade de direitos, de proteção à mulher, de prevenção e enfrentamento à violência doméstica e familiar, de fortalecimento da rede de atendimento, de promoção da autonomia econômica e de garantia da participação social das mulheres.
+
+
+Art. 3º.
+
+São princípios da Política Municipal dos Direitos da Mulher:
+
+
+I –
+
+a dignidade da pessoa humana;
+
+
+II –
+
+a igualdade de direitos e de oportunidades entre mulheres e homens;
+
+
+III –
+
+o respeito à diversidade e à não discriminação;
+
+
+IV –
+
+a prevenção e o enfrentamento de todas as formas de violência contra a mulher;
+
+
+V –
+
+a promoção da autonomia econômica, social, política e cultural das mulheres;
+
+
+VI –
+
+a participação social e o controle social das políticas públicas;
+
+
+VII –
+
+a articulação intersetorial das políticas públicas municipais.
+
+
+Art. 4º.
+
+São objetivos da Política Municipal dos Direitos da Mulher:
+
+
+I –
+
+promover, proteger e defender os direitos das mulheres;
+
+
+II –
+
+prevenir e combater todas as formas de violência, discriminação e desigualdade contra a mulher;
+
+
+III –
+
+fortalecer a rede municipal de atendimento, proteção e encaminhamento das mulheres em situação de violência ou vulnerabilidade;
+
+
+IV –
+
+ampliar o acesso das mulheres às políticas públicas de saúde, educação, assistência social, trabalho, renda, cultura, esporte, lazer, segurança e cidadania;
+
+
+V –
+
+incentivar a participação das mulheres nos espaços de decisão, representação e controle social;
+
+
+VI –
+
+promover ações de formação, capacitação, orientação e conscientização sobre os direitos das mulheres;
+
+
+VII –
+
+articular ações com órgãos estaduais e federais, conselhos, entidades e instituições públicas ou privadas que atuem na defesa dos direitos das mulheres.
+
+
+Art. 5º.
+
+São diretrizes da Política Municipal dos Direitos da Mulher:
+
+
+I –
+
+transversalidade das políticas públicas;
+
+
+II –
+
+integração entre os órgãos municipais e articulação com os demais entes federativos;
+
+
+III –
+
+participação da sociedade civil;
+
+
+IV –
+
+descentralização e ampliação do acesso às ações e serviços públicos;
+
+
+V –
+
+atendimento humanizado e não revitimizante às mulheres em situação de violência;
+
+
+VI –
+
+produção, organização e utilização de informações para subsidiar o planejamento, o monitoramento e a avaliação das políticas públicas;
+
+
+VII –
+
+transparência na aplicação dos recursos públicos destinados às políticas para mulheres.
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL DOS DIREITOS DA MULHER
+
+
+##### Seção I — Da Natureza e Finalidade
+
+
+Art. 6º.
+
+Fica reestruturado o Conselho Municipal dos Direitos da Mulher - CMDM, órgão colegiado, permanente, paritário, de caráter consultivo, deliberativo, fiscalizador e de controle social das políticas públicas voltadas à promoção, proteção e defesa dos direitos das mulheres.
+
+
+§ 1º
+
+О СMDM fica vinculado administrativamente à Secretaria Municipal de Assistência Social, sem prejuízo de sua autonomia no exercício de suas competências deliberativas, consultivas, fiscalizatórias e de controle social.
+
+
+§ 2º
+
+A vinculação administrativa de que trata o § 1º deste artigo compreende o suporte técnico, administrativo e operacional necessário ao funcionamento do Conselho, sem criação de nova estrutura administrativa.
+
+
+Art. 7º.
+
+O CMDM tem por finalidade propor, acompanhar, deliberar, fiscalizar e avaliar as políticas públicas municipais destinadas à promoção, proteção e defesa dos direitos das mulheres, bem como assegurar a participação da sociedade civil na formulação e no controle social dessas políticas.
+
+
+##### Seção II — Das Competências
+
+
+Art. 8º.
+
+Compete ao CMDM:
+
+
+I –
+
+propor diretrizes para a Política Municipal dos Direitos da Mulher;
+
+
+II –
+
+acompanhar, monitorar e fiscalizar a execução das políticas públicas municipais voltadas às mulheres;
+
+
+III –
+
+propor ações, programas, projetos e campanhas de promoção, proteção e defesa dos direitos das mulheres;
+
+
+IV –
+
+deliberar sobre as diretrizes de aplicação dos recursos do Fundo Municipal dos Direitos da Mulher, observada a legislação orçamentária e financeira aplicável;
+
+
+V –
+
+acompanhar e fiscalizar a aplicação dos recursos do Fundo Municipal dos Direitos da Mulher;
+
+
+VI –
+
+promover a participação da sociedade civil na formulação, no acompanhamento e no controle social das políticas públicas destinadas às mulheres;
+
+
+VII –
+
+articular-se com conselhos municipais, estaduais e nacionais, bem como com órgãos públicos, entidades privadas, organizações da sociedade civil e instituições que atuem na defesa dos direitos das mulheres;
+
+
+VIII –
+
+receber, examinar e encaminhar aos órgãos competentes denúncias, reclamações, sugestões e demandas relacionadas à violação dos direitos das mulheres;
+
+
+IX –
+
+propor estudos, diagnósticos, debates, conferências, seminários, campanhas e ações educativas sobre os direitos das mulheres;
+
+
+X –
+
+elaborar e aprovar seu regimento interno;
+
+
+XI –
+
+Exercer outras atribuições compatíveis com sua finalidade, na forma do regulamento.
+
+
+##### Seção III — Da Composição
+
+
+Art. 9º.
+
+CMDM será composto de forma paritária por representantes do Poder Público Municipal e da sociedade civil, com 6 (seis) membros titulares e respectivos suplentes.
+
+
+Art. 10.
+
+A composição do CMDM observará a seguinte estrutura:
+
+
+I –
+
+3 (três) representantes do Poder Público Municipal, indicados pelo Chefe do Poder Executivo, preferencialmente vinculados às áreas de assistência social, saúde, educação, administração, trabalho, renda, cultura, cidadania ou políticas públicas para mulheres;
+
+
+II –
+
+3 (três) representantes da sociedade civil, escolhidos entre entidades, organizações, movimentos sociais, coletivos, associações ou segmentos que atuem na promoção, proteção ou defesa dos direitos das mulheres no Município.
+
+
+§ 1º
+
+Na ausência de número suficiente de entidades formalmente constituídas, poderão participar do processo de escolha movimentos, coletivos, grupos de mulheres ou representantes da comunidade com atuação pública reconhecida na defesa dos direitos das mulheres, na forma do regulamento.
+
+
+§ 2º
+
+Para cada membro titular será indicado ou escolhido um respectivo suplente, observados os mesmos critérios aplicáveis ao titular.
+
+
+§ 3º
+
+Os membros titulares e suplentes do CMDM serão nomeados por ato do Chefe do Poder Executivo.
+
+
+Art. 11.
+
+O mandato dos membros do CMDM será de 2 (dois) anos, permitida uma recondução por igual período.
+
+
+Art. 12.
+
+A função de membro do CMDM será considerada de relevante interesse público, não remunerada.
+
+
+Art. 13.
+
+A perda do mandato, as hipóteses de substituição, o funcionamento das reuniões, o quórum de instalação e deliberação e demais regras internas serão disciplinados no regimento interno do CMDM.
+
+
+##### Seção IV — Da Estrutura e Funcionamento
+
+
+Art. 14.
+
+O CMDM contará com Mesa Diretora composta por Presidente, Vice-Presidente e Secretário, eleitos entre seus membros, na forma do regimento interno.
+
+
+Art. 15.
+
+O CMDM reunir-se-á ordinariamente com periodicidade definida em seu regimento interno e, extraordinariamente, sempre que necessário.
+
+
+Art. 16.
+
+As deliberações do CMDM serão tomadas por maioria simples dos membros presentes, observado o quórum mínimo previsto no regimento interno.
+
+
+Art. 17.
+
+As deliberações do CMDM serão tomadas por maioria simples dos membros presentes, observado o quórum mínimo previsto no regimento interno.
+
+
+#### CAPÍTULO III — DO FUNDO MUNICIPAL DOS DIREITOS DA MULHER
+
+
+##### Seção I — Da Criação, Natureza e Finalidade
+
+
+Art. 18.
+
+Fica instituído o Fundo Municipal dos Direitos da Mulher — FMDM, de natureza contábil, financeira e orçamentária, vinculado à Secretaria Municipal de Assistência Social, destinado à captação, gestão e aplicação de recursos para o financiamento de programas, projetos, serviços e ações voltados à promoção, proteção e defesa dos direitos das mulheres no Município de Alto Garças.
+
+
+Art. 19.
+
+O FMDM tem por finalidade apoiar financeiramente ações compatíveis com a Política Municipal dos Direitos da Mulher, observadas as deliberações do CMDM е а legislação orçamentária, financeira e de responsabilidade fiscal aplicável.
+
+
+##### Seção II — Das Receitas
+
+
+Art. 20.
+
+Constituem receitas do FMDM:
+
+
+I –
+
+Dotações consignadas no orçamento municipal;
+
+
+II –
+
+transferências da União, do Estado e de outros entes públicos;
+
+
+III –
+
+recursos provenientes de convênios, termos de colaboração, termos de fomento, acordos, ajustes e instrumentos congêneres;
+
+
+IV –
+
+doações, contribuições, auxílios, subvenções e legados de pessoas físicas ou jurídicas, públicas ou privadas;
+
+
+V –
+
+rendimentos de aplicações financeiras de seus recursos;
+
+
+VI –
+
+recursos oriundos de emendas parlamentares;
+
+
+VII –
+
+outras receitas que legalmente lhe forem destinadas.
+
+
+##### Seção III — Da Destinação dos Recursos
+
+
+Art. 21.
+
+Os recursos do FMDM serão aplicados em:
+
+
+I –
+
+programas, projetos e ações de promoção, proteção e defesa dos direitos da mulher;
+
+
+II –
+
+ações de prevenção e enfrentamento à violência contra a mulher;
+
+
+III –
+
+capacitação, qualificação profissional, autonomia econômica, geração de trabalho e renda para mulheres;
+
+
+IV –
+
+campanhas educativas, ações de conscientização e divulgação de direitos;
+
+
+V –
+
+estudos, diagnósticos, conferências, capacitações e ações institucionais vinculadas às finalidades do CMDM;
+
+
+VI –
+
+fortalecimento da rede de atendimento, orientação e encaminhamento das mulheres em situação de violência, vulnerabilidade ou violação de direitos;
+
+
+VII –
+
+outras ações aprovadas pelo CMDM, desde que compatíveis com as finalidades desta Lei.
+
+
+Parágrafo único
+
+É vedada a utilização dos recursos do FMDM em finalidade diversa daquela prevista nesta Lei.
+
+
+##### Seção IV — Da Gestão e Execução
+
+
+Art. 22.
+
+A gestão administrativa, orçamentária, financeira e contábil do FMDM será exercida pela Secretaria Municipal de Assistência Social, cabendo ao CMDM deliberar, acompanhar e fiscalizar a aplicação dos recursos em programas, projetos e ações voltados à promoção, proteção e defesa dos direitos das mulheres.
+
+
+Art. 23.
+
+Compete ao órgão gestor do FMDM:
+
+
+I –
+
+administrar os recursos financeiros do Fundo;
+
+
+II –
+
+Executar as ações, programas e projetos aprovados no âmbito da Política Municipal dos Direitos da Mulher, observadas as deliberações do CMDM;
+
+
+III –
+
+manter controle contábil, financeiro e orçamentário atualizado;
+
+
+IV –
+
+elaborar relatórios periódicos de execução financeira;
+
+
+V –
+
+prestar contas da aplicação dos recursos ao CMDM e aos órgãos de controle competentes;
+
+
+VI –
+
+adotar as providências necessárias à regular execução orçamentária e financeira do Fundo;
+
+
+VII –
+
+promover a publicidade e a transparência da movimentação financeira e da aplicação dos recursos, nos termos da legislação aplicável.
+
+
+Art. 24.
+
+Os recursos do FMDM serão movimentados em conta bancária específica, na forma da legislação aplicável.
+
+
+Art. 25.
+
+O saldo financeiro positivo do FMDM, apurado ao final de cada exercício, poderá ser transferido para o exercício seguinte, a crédito do mesmo Fundo, observada a legislação orçamentária e financeira aplicável.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 26.
+
+O Poder Executivo regulamentará esta Lei no prazo de até 90 (noventa) dias, contado da data de sua publicação.
+
+
+Art. 27.
+
+O CMDM deverá elaborar ou adequar seu regimento interno no prazo de até 90 (noventa) dias, contado da posse de seus membros.
+
+
+Art. 28.
+
+Os atuais membros do Conselho Municipal dos Direitos da Mulher, se houver, permanecerão no exercício de suas funções até a posse dos novos membros, observado o prazo estabelecido em regulamento.
+
+
+Art. 29.
+
+As despesas decorrentes da execução desta Lei correrão à conta de dotações orçamentárias próprias, suplementadas se necessário, observada a legislação orçamentária e financeira aplicável.
+
+
+Art. 30.
+
+Fica revogada a Lei Municipal nº 491, de 10 de outubro de 2000.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, Edifício Sede do Poder Executivo, em Alto Garças - MT, 14 de julho  
+de 2026.  
+CEŻALPINO MENDES TEIXEIRA JUNIOR  
+Prefeito Municipal de Alto Garças - MT
+

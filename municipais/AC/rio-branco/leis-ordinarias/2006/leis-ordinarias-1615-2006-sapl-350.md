@@ -1,0 +1,257 @@
+---
+titulo: "Lei Ordinária nº 1.615, de 14 de novembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1615"
+data: "2006-11-14"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/350"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/141/text"
+sha256_fonte: "955bdca17c5502c1bcdb1109fdfad80221faa52a516f4fc84ecf23d563838959"
+sha256_texto: "bfcd1ce846818967dbb074e4114e1e0300b7fc9595fd87a88a192530f3654e23"
+capturado_em_fonte: "2026-10-21T04:01:38.114185-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.615, de 14 de novembro de 2006
+
+"Regulamenta o Artigo 7º das Disposições Finais e Transitórias da Lei Orgânica do Município, que cria o Conselho Municipal dos Direitos da Mulher”.
+
+
+O PREFEITO DO MUNICÍPIO DE RIO BRANCO - ACRE: FAÇO SABER que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+**DO CARÁTER DO CONSELHO MUNICIPAL DOS DIREITOS DA MULHER**
+
+
+Art. 1º.
+
+O Conselho Municipal dos Direitos da Mulher-CMDM, órgão colegiado da Administração Direta do Município de Rio Branco, vinculado ao organismo municipal de políticas para as mulheres, tem a finalidade de formular os princípios e as diretrizes da política da mulher, articular com outras instituições políticas e a sociedade, sob a ótica de gênero, objetivando a igualdade de oportunidades e de direitos entre mulheres e homens, de forma a assegurar a população feminina e pleno exercício de sua cidadania.
+
+
+Art. 2º.
+
+O Conselho Municipal dos Direitos da Mulher terá caráter institucional, permanente, normativo e deliberativo, controlador e fiscalizador da política municipal de atenção à mulher.
+
+
+**DA REPRESENTAÇÃO DO CONSELHO MUNICIPAL DOS DIREITOS DA MULHER**
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos da Mulher de Rio Branco será composto por 13 (treze) membros, sendo 06 (seis) dos órgãos governamentais da esfera municipal, indicados e nomeados pelo Prefeito, 06 (seis) representantes da Sociedade Civil organizada legalmente e em atividade, que atuam com mulheres, eleitas em plenária específica para este fim e nomeadas pelo Prefeito e 01 (um) representante da Câmara Municipal, de preferencia Vereadora, e nomeada pelo Prefeito.
+
+
+§ 1º
+
+As instituições às quais as conselheiras eleitas estão vinculadas, serão nominadas por meio do Regimento Interno a ser aprovado pela plenária.
+
+
+§ 2º
+
+O ingresso de novas entidades ao Conselho se fará mediante aprovação em plenária de conselheiras, de acordo com o Regimento Interno.
+
+
+§ 3º
+
+Só poderá requerer ingresso ao conselho Municipal dos Direitos da Mulher, entidade registrada oficialmente e que tenha no minimo 02 (dois) anos de atuação e em atividade.
+
+
+§ 4º
+
+A cada membro titular do Conselho, corresponderá uma suplente.
+
+
+§ 5º
+
+As representantes das organizações da sociedade civil e do poder público escolhidas na forma do Art. 4º, serão nomeadas por Decreto Municipal.
+
+
+§ 6º
+
+A função dos membros do Conselho Municipal dos Direitos da Mulher e considerada de interesse público relevante e não será remunerado.
+
+
+§ 7º
+
+O mandato das Conselheiras será de 03 (três) anos, podendo ser reconduzido por mais 03 (três), ou seja, para mais um mandato.
+
+
+Art. 4º.
+
+Compete ao Conselho Municipal dos Direitos da Mulher:
+
+
+I –
+
+Apreciar e aprovar anualmente a proposta orçamentária do organismo municipal de políticas para as mulheres, para compor o orçamento do Município;
+
+
+II –
+
+Convocar a cada 03 (três) anos ou extraordinariamente por maioria absoluta, ou seja, 50% (cinqüenta por cento) mais um de seus membros titulares, a Conferência Municipal da Mulher, que terá como função avaliar e propor diretrizes para as ações municipais;
+
+
+III –
+
+Aprovar e acompanhar, em âmbito municipal, o plano de políticas para as mulheres;
+
+
+IV –
+
+Estabelecer critérios para utilização dos recursos do Fundo Municipal dos Direitos da Mulher;
+
+
+V –
+
+Fiscalizar e exigir o cumprimento da legislação em vigor relacionada aos direitos assegurados às mulheres;
+
+
+VI –
+
+Sugerir a adoção de medidas normativas para modificar ou derrogar leis, regulamentos, usos e práticas que constituem discriminação contra as mulheres, encaminhando-as ao Poder Público competente;
+
+
+VII –
+
+Manter canais permanentes de diálogo e de articulação com o movimento de mulheres e outros movimentos onde a mulher esteja inserida;
+
+
+VIII –
+
+Acompanhar, avaliar, fiscalizar os serviços prestados pelos órgãos da Administração Pública Municipal que atuam com mulheres;
+
+
+IX –
+
+Receber, examinar e efetuar denúncias que envolvam fatos e episódios discriminatórios contra a mulher e de violação de seus direitos encaminhando-os aos órgãos competentes para as providências cabíveis, ao mesmo tempo, acompanhar os procedimentos pertinentes;
+
+
+X –
+
+Aprovar o Plano de Aplicação e 0 Balanço Financeiro do Fundo Municipal dos Direitos da Mulher, que sera gerido pelo organismo municipal de políticas para as mulheres.
+
+
+Art. 5º.
+
+O Conselho será dotado de apoio funcional e operacional, material e estrutural que garanta a operacionalidade de suas funções, alocadas através do organismo municipal de políticas para as mulheres.
+
+
+Art. 6º.
+
+A instância de deliberação máxima do Conselho será a Assembleia de Conselheiras, com Sessão Ordinária a cada 30 (trinta) dias e Extraordinária quando convocada pela Presidente ou requerida por maioria absoluta de seus membros.
+
+
+Art. 7º.
+
+As Sessões Ordinárias e Extraordinárias do Conselho serão abertas ao público interessado, com direito à voz e sem direito ao voto.
+
+
+Art. 8º.
+
+As decisões do Conselho serão consolidadas em Resoluções, que servirão como norma de cumprimento obrigatório por seus membros.
+
+
+Art. 9º.
+
+As atribuições dos membros do Conselho, seu Regimento Interno e suas prioridades serão definidas pelas Conselheiras.
+
+
+**DO FUNDO MUNICIPAL DOS DIREITOS DA MULHER**
+
+
+Art. 10.
+
+Fica instituído o Fundo Municipal dos Direitos da Mulher, instrumento de captação de recursos, que tem por objetivo proporcionar recursos e meios para o desenvolvimento de políticas de atenção à mulher.
+
+
+Art. 11.
+
+O Fundo Municipal dos Direitos da Mulher se constitui das seguintes fontes de recursos:
+
+
+I –
+
+Dotações Orçamentárias definidas na Lei Orçamentária Anual;
+
+
+II –
+
+Dotações de entidades governamentais, não governamentais e de pessoas físicas ou jurídicas municipais, estaduais, nacionais e internacionais;
+
+
+III –
+
+Provenientes de legados e contribuições;
+
+
+IV –
+
+Provenientes das vendas de materiais e publicações;
+
+
+V –
+
+Provenientes de Convênios e/ou repasses de qualquer natureza aprovados pelo Conselho.
+
+
+Art. 12.
+
+O Fundo Municipal dos Direitos da Mulher fica vinculado a Coordenadoria Municipal da Mulher do Município de Rio Branco.
+
+
+Art. 13.
+
+O Fundo Municipal sera regulamentado por Decreto do Executivo Municipal, no prazo de 180 (cento e oitenta) dias, apos a instalação do Conselho Municipal dos Direitos da Mulher.
+
+
+**DAS DISPOSIÇÓES FINAIS**
+
+
+Art. 14.
+
+A Assembléia Geral para a escolha das representantes da Sociedade Civil para composição do primeiro Conselho Municipal dos Direitos da Mulher, observado o Art. 4º desta Lei, será convocada pelo Organismo Municipal de Políticas para as Mulheres.
+
+
+§ 1º
+
+A Assembleia geral será realizada no prazo de 30 (trinta) dias após a convocação, na forma deste Caput, devendo o Edital ser amplamente divulgado nos meios de comunicação.
+
+
+§ 2º
+
+Presidirá a eleição 03 (três) membros escolhidos pela Assembleia Geral.
+
+
+§ 3º
+
+No prazo de 15 (quinze) dias após a realização da Assembleia Geral que escolheu as representantes da Sociedade Civil, as mesmas informarão oficialmente suas titulares e suplentes, que nomeadas pelo Chefe do Executivo Municipal tomarão posse juntamente com as representantes governamentais, em dia e hora fixados pelo Governo Municipal, não podendo ultrapassar 30 (trinta) dias da citada Assembléia Geral.
+
+
+Art. 15.
+
+O Conselho Municipal dos Direitos da Mulher de Rio Branco, imediatamente após a posse de seus membros, elegerá uma Comissão para elaboração do Regimento interno, no prazo de 45 (quarenta e cinco) dias.
+
+
+Art. 16.
+
+Fica expressamente revogadas as Leis nº 1.091, de 23 de junho de 1993 e Lei nº1.302, de 08 de dezembro de 1998.
+
+
+Art. 17.
+
+Esta Lei entrará em vigor na data de sua publicação, ficando revogada as disposições em contrário.
+
+
+Rio Branco-Acre, 14 de novembro de 2006, 118º da República. 104º do Tratado de Petrópolis, 45º do Estado do Acre e 97º do Município de Rio Branco.
+
+
+**Raimundo Angelim Vasconcelos**  
+Prefeito de Rio Branco
+

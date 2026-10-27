@@ -1,0 +1,333 @@
+---
+titulo: "Resolução nº 1.663, de 25 de junho de 2020"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1663"
+data: "2020-06-25"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/12920"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3704/text"
+sha256_fonte: "a97f9395d3954607989137ca4a0cae6ae22cb995cc7fadde6712d318886c78b7"
+sha256_texto: "978f5f98a98af6c713b77936d209a3eadf2b1d69f9b408507cc11042728d4768"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Resolução nº 1.663, de 25 de junho de 2020
+
+Disciplina medidas excepcionais destinadas a viabilizar o funcionamento das atividades legislativas durante o atual quadro de pandemia do Coronavírus (COVID-19).
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições expressas no artigo 36, inciso IV, da Lei Orgânica do Município de Fortaleza, PROMULGA:
+
+
+Art. 1º.
+
+Esta Resolução disciplina as seguintes medidas excepcionais destinadas a viabilizar o funcionamento das atividades legislativas durante o período de suspensão das atividades presenciais regulares, em razão do atual quadro de pandemia do Coronavírus (COVID-19):
+
+
+I –
+
+Sistema de Deliberação Remota-SDR;
+
+
+II –
+
+Contagem de prazos durante a utilização do SDR;
+
+
+III –
+
+Protocolo Remoto de Proposições;
+
+
+IV –
+
+Suspensão do recesso parlamentar do período de 8 a 31 de julho de 2020.
+
+
+#### CAPÍTULO I — DO SISTEMA DE DELIBERAÇÃO REMOTA
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 2º.
+
+Fica instituído, no âmbito da Câmara Municipal de Fortaleza, o Sistema de Deliberação Remota (SDR).
+
+
+§ 1º
+
+O SDR consiste em solução tecnológica a ser utilizada para viabilizar o funcionamento do Plenário e das Comissões durante a emergência de saúde pública de importância internacional relacionada ao coronavírus (COVID-19).
+
+
+§ 2º
+
+Após acionado o SDR pelo Presidente da Câmara Municipal de Fortaleza, ficam suspensas as sessões e reuniões presenciais e as deliberações do Plenário e das Comissões serão tomadas por meio de sessões e reuniões extraordinárias virtuais.
+
+
+§ 3º
+
+O Presidente da Câmara Municipal de Fortaleza determinará que as sessões e reuniões presenciais sejam retomadas quando as condições sanitárias recomendáveis forem reestabelecidas.
+
+
+Art. 3º.
+
+O SDR terá como base uma ou mais plataformas que permitirão o debate com áudio e vídeo entre os Vereadores, observadas as seguintes diretrizes:
+
+
+I –
+
+o SDR deverá funcionar em plataformas de comunicação móvel ou em computadores conectados à internet;
+
+
+II –
+
+as sessões ou reuniões realizadas por meio do SDR serão públicas, assegurada a possibilidade de transmissão simultânea pelos canais de mídia institucionais e a posterior disponibilidade do áudio e vídeo das sessões;
+
+
+III –
+
+os tempos destinados aos debates serão os mesmos previstos no Regimento Interno (Resolução nº 1.589/2008) para as sessões e reuniões presenciais;
+
+
+IV –
+
+o SDR deverá possibilitar a concessão da palavra e o controle do tempo pelo Presidente;
+
+
+V –
+
+o SDR deverá permitir que os Vereadores conectados possam solicitar a palavra ao Presidente;
+
+
+VI –
+
+todos os documentos relacionados ao SDR, inclusive os respectivos autógrafos das proposições, poderão ser assinados eletronicamente.
+
+
+Art. 4º.
+
+Caberá à Diretoria-Geral disponibilizar número telefônico para suporte aos Vereadores durante as sessões e reuniões virtuais realizadas pelo SDR.
+
+
+##### Seção II — Das Sessões Extraordinárias Virtuais
+
+
+Art. 5º.
+
+As sessões extraordinárias realizadas por meio do SDR serão convocadas, no mínimo, no dia anterior ao de sua realização, salvo se realizadas em sequência, com a indicação da respectiva pauta.
+
+
+§ 1º
+
+No horário da sessão, os Vereadores no exercício do mandato receberão endereço eletrônico por meio do qual poderão conectar-se à sessão virtual.
+
+
+§ 2º
+
+Antes do início das respectivas sessões, os avulsos das matérias pautadas deverão ser disponibilizados aos Vereadores, em formato digital, com emendas e pareceres, caso existentes.
+
+
+SubseçãoI
+
+Dos Registros de Presença e Dos Processos de Votação
+
+
+Art. 6º.
+
+Os registros de presença deverão ser feitos pelos Vereadores por meio de plataforma eletrônica.
+
+
+Parágrafo único.
+
+Ocorrendo motivo que impossibilite a utilização da plataforma eletrônica de que trata o caput deste artigo, o Presidente procederá ao chamamento do Vereador para que, ao anúncio de seu nome, registre sua presença verbalmente.
+
+
+Art. 7º.
+
+As votações realizadas pelo SDR podem ser realizadas pelos processos simbólico ou nominal, na forma dos arts. 171 e 172 do Regimento Interno (Resolução nº 1.589/2008).
+
+
+§ 1º
+
+A votação pelo processo nominal deverá ser feita por meio de plataforma eletrônica.
+
+
+§ 2º
+
+Ocorrendo motivo que impossibilite a utilização da plataforma eletrônica de que trata o caput deste artigo, o Presidente procederá ao chamamento do Vereador para que, ao anúncio de seu nome, declare seu voto verbalmente.
+
+
+§ 3º
+
+Após encerrado o processo de votação, qualquer manifestação de voto será registrada em ata, mas não poderá alterar o resultado da deliberação.
+
+
+Art. 8º.
+
+Caso o Vereador não consiga registrar presença ou voto por problemas técnicos ou dificuldade na conexão, o respectivo fato será registrado em ata, não ensejando nulidade ou anulabilidade de qualquer ato legislativo.
+
+
+SubseçãoII
+
+Das Atas e Dos Registros Taquigráficos
+
+
+Art. 9º.
+
+Concluída a sessão, seus respectivos áudios e vídeos serão encaminhados para os setores competentes para a elaboração de atas e registros taquigráficos, nos termos dos arts. 125 e 126 do Regimento Interno (Resolução nº 1.589/2008).
+
+
+Parágrafo único.
+
+Após o transcurso dos trâmites e prazos regimentais, as atas das sessões extraordinárias virtuais realizadas por meio do SDR serão assinadas pelo Presidente.
+
+
+##### Seção III — Das Obrigações do Vereador
+
+
+Art. 10.
+
+Caberá ao Vereador:
+
+
+I –
+
+providenciar equipamento com conexão à internet em banda larga suficiente pra transmissão de vídeo;
+
+
+II –
+
+providenciar dispositivo com câmera frontal habilitada e desobstruída;
+
+
+III –
+
+manter junto à Mesa Diretora número de telefone, e-mail institucional e pessoal atualizados, canais por meio do quais receberá todas as informações e arquivos relacionados à sessão virtual;
+
+
+IV –
+
+manter consigo e em sua posse exclusiva o dispositivo referido no inciso II deste artigo durante o horário designado para a sessão virtual;
+
+
+V –
+
+acompanhar e acessar constantemente os canais de comunicação referidos no inciso III deste artigo.
+
+
+Parágrafo único.
+
+Para fins de validação é obrigação do Vereador, no momento do voto, posicionar seu rosto em frente à Câmera frontal do dispositivo.
+
+
+#### CAPÍTULO II — DA CONTAGEM EXCEPCIONAL DE PRAZOS DURANTE A UTILIZAÇÃO SDR
+
+
+Art. 11.
+
+Durante o período de utilização do SDR, os prazos regimentais contados em sessões ordinárias passarão a ser contados em dias úteis.
+
+
+Parágrafo único.
+
+Especificamente para a aplicação dos arts. 190 e 201 do Regimento Interno (Resolução nº 1.589/2008), os prazos regimentais contados em sessões ordinárias passarão a ser contados em sessões extraordinárias virtuais.
+
+
+#### CAPÍTULO III — DO PROTOCOLO REMOTO DE PROPOSIÇÕES
+
+
+Art. 12.
+
+O uso do protocolo remoto de proposições é medida excepcional e alternativa, para viabilizar o envio e recebimento de matérias legislativas pelo Departamento Legislativo durante a emergência de saúde pública de importância internacional relacionada ao coronavírus (COVID-19).
+
+
+Art. 13.
+
+O protocolo remoto de proposições seguirá as seguintes etapas:
+
+
+I –
+
+os documentos das matérias legislativas deverão ser assinados pelo respectivo autor, digitalizados e salvos em formato PDF;
+
+
+II –
+
+para cada matéria legislativa deverá corresponder um documento específico em formato PDF;
+
+
+III –
+
+o documento em formato PDF de cada matéria legislativa deve ser encaminhado pelo e-mail institucional do autor diretamente para o e-mail do Departamento Legislativo (legislativo@cmfor.ce.gov.br), constando no campo “Assunto” a expressão “Protocolo de Proposição”;
+
+
+IV –
+
+o documento, após recebido, será numerado e cadastrado no Sistema de Apoio ao Processo Legislativo (SAPL) e, em seguida, será encaminhado um e-mail de resposta com o comprovante de protocolo.
+
+
+Parágrafo único.
+
+Os documentos recebidos que não estiverem de acordo com os requisitos expressos nos incisos I, II e III serão devolvidos em e-mail de resposta devidamente fundamentado.
+
+
+#### CAPÍTULO IV — DA SUSPENSÃO DO RECESSO PARLAMENTAR
+
+
+Art. 14.
+
+Fica suspenso, no ano de 2020, o recesso parlamentar do período de 8 a 31 de julho, previsto no art. 21 da Lei Orgânica do Município de Fortaleza.
+
+
+§ 1º
+
+A Câmara Municipal do Fortaleza funcionará em regime de Sessão Legislativa Extraordinária no período de que trata o caput deste artigo.
+
+
+§ 2º
+
+O Presidente da Câmara, nos termos do art. 24, II, da Lei Orgânica do Município de Fortaleza, fará convocações extraordinárias, tantas quantas forem necessárias, para garantir a continuidade dos trabalhos legislativos durante o período de que trata o caput deste artigo.
+
+
+§ 3º
+
+Excepcionalmente no período de que trata o caput deste artigo, fica afastada a exigência de antecedência mínima expressa no § 15 do art. 55, do Regimento Interno (Resolução nº 1.589/2008), devendo o Presidente fazer as convocações na forma do art. 5º desta Resolução.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 15.
+
+Ficam convalidados, para todo e qualquer efeito, os atos anteriores à publicação desta Resolução, praticados nos termos do Ato da Mesa Diretora nº 004, de 30 de março de 2020.
+
+
+Art. 16.
+
+Fica revogado o Ato da Mesa Diretora nº 004, de 30 de março de 2020.
+
+
+Art. 17.
+
+Ato da Mesa Diretora regulamentará a execução da presente Resolução.
+
+
+Art. 18.
+
+Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA JOSÉ BARROS DE ALENCAR, EM 25 DE JUNHO DE 2020.
+
+
+**VEREADOR ANTÔNIO HENRIQUE DA SILVA**
+
+Presidente da Câmara Municipal de Fortaleza
+

@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 11.243, de 23 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11243"
+data: "2022-03-23"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13401"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3832/text"
+sha256_fonte: "49012cce3fba30fdfd9bc4d2f27038451e0e45e432144b69e7186e24ff88f510"
+sha256_texto: "3924dda85a369a6fd3cc5e6065af264024040f3b06ccdf7e296baefb24aafe44"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.243, de 23 de março de 2022
+
+Autoriza o Poder Executivo municipal a desafetar a área destinada a uma praça que constitui imóvel público municipal, para fins de permuta com a empresa Delta Negócios Imobiliários Ltda., e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica desafetada do patrimônio público municipal, por interesse público, de seu destino originário, para fins de permuta, a seguinte área: terreno de formato irregular situado na confluência da Avenida Engenheiro Agrônomo José Guimarães Duque com a Avenida Crisanto Moreira da Rocha, no Bairro Cambeba, oriundo do loteamento Sítio Carrapicho, totalizando uma área de 4.416 m² e um perímetro de 267,78 m, com os seguintes limites e dimensões: ao norte, por onde mede 117,78 m, em um segmento de arco, com início no vértice P1 (X: 557464.2914; Y: 9579265.2300), centro no vértice P2, raio de 75,06 m e término no vértice P2, no sentido noroeste-sudeste, limitando-se com o lote 1 da quadra 60, oriundo do loteamento Sítio Carrapicho; ao sul, por onde mede 75 m, em um segmento de reta, com início no vértice P2 (X: 557519.0762; Y: 9579174.4083) e término no vértice P3, no sentido leste-oeste, limitando-se com a Avenida Engenheiro Agrônomo José Guimarães Duque; ao oeste, por onde mede 75 m, em um segmento de reta, com início no vértice P3 (X: 557446.2727; Y: 9579192.4267), um ângulo interno de 90° e término no vértice P1, no sentido sul-norte, limitando-se com a Avenida Crisanto Moreira da Rocha.
+
+
+Parágrafo único.
+
+A área pública descrita neste artigo possui o valor de mercado avaliado em R$ 2.759.690,88 (dois milhões, setecentos e cinquenta e nove mil, seiscentos e noventa reais e oitenta e oito centavos).
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo municipal autorizado a permutar o bem descrito no art. 1º desta Lei, de acordo com as determinações da legislação em vigor, com a empresa Delta Negócios Imobiliários Ltda., inscrita sob o CNPJ n.º 07.273.097/0001-55, pelo terreno de sua propriedade, objeto da matrícula n.º 19.706 do Cartório de Registro de Imóveis da 1ª Zona, com os seguintes limites e dimensões: terreno de formato regular, na confluência da Avenida Engenheiro Agrônomo José Guimarães Duque com a Rua Tomaz Idelfonso, no Bairro Cambeba, constituído de parte dos lotes 5 e 12 e dos lotes 6, 7, 8, 13, 14 e 15 da quadra 60 do loteamento Sítio Carrapicho, totalizando uma área de 4.416 m² e um perímetro de 267,76 m, com os seguintes limites e dimensões: ao norte, por onde mede 58,88 m, em um segmento de reta, com início no vértice P1 (X: 557604.2119; Y: 9579230.6157) e término no vértice P2, no sentido noroeste-sudeste, limitando-se com a Rua Santa Marta; ao leste, por onde mede 75 m, em um segmento de reta, com início no vértice P2 (X: 557661.3639; Y: 9579216.4558) e término no vértice P3, no sentido nordeste-sudoeste, limitando-se com a Rua Tomaz Idelfonso; ao sul, por onde mede 58,88 m, em um segmento de reta, com início no vértice P3 (X: 557643.3273; Y: 9579143.6569) e término no vértice P4, no sentido sudeste-noroeste, limitando-se com a Avenida Engenheiro Agrônomo José Guimarães Duque; ao oeste, por onde mede 75 m, em um segmento de reta, com início no vértice P4 (X: 557586.1753; Y: 9579157.8168) e término no vértice P1, no sentido sudoeste-nordeste, limitando-se com os lotes 5 e 12, ambos da quadra 60, oriundos do loteamento Sítio Carrapicho.
+
+
+Parágrafo único.
+
+A área de propriedade particular descrita neste artigo possui o valor de mercado avaliado em R$ 2.642.490,24 (dois milhões, seiscentos e quarenta e dois mil, quatrocentos e noventa reais e vinte e quatro centavos).
+
+
+Art. 3º.
+
+O imóvel ofertado em permuta será afetado como bem de uso comum do povo a ser classificado como Espaço Urbano para Lazer e destinar-se-á à urbanização da área com a implantação de uma praça, tornando o espaço uma área de lazer, com ônus integral à empresa Delta Negócios Imobiliários Ltda.
+
+
+§ 1º
+
+A execução da urbanização seguirá as especificações de materiais apresentados pela proponente em projeto executivo e cronograma de execução de obra aprovados pela Secretaria Municipal da Infraestrutura (Seinf), a um custo orçado em R$ 117.200,64 (cento e dezessete mil e duzentos reais e sessenta e quatro centavos).
+
+
+§ 2º
+
+Caberá à Seinf a fiscalização da execução da obra, assim como o seu recebimento ao final.
+
+
+§ 3º
+
+A empresa Delta Negócios Imobiliários Ltda. deverá implantar o projeto relativo à urbanização da área da praça em prazo não superior a 12 (doze) meses, a contar da data de início de vigência da presente Lei.
+
+
+Art. 4º.
+
+Qualquer transação jurídica a envolver o bem desafetado não trará qualquer ônus financeiro ao Município de Fortaleza, bem como os custos referentes à escrituração e ao registro dos imóveis envolvidos ocorrerão por conta da permutante e pactuante com o Município de Fortaleza.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 23 DE MARÇO DE 2022.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

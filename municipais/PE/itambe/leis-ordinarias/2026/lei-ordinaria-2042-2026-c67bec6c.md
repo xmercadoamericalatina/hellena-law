@@ -1,0 +1,51 @@
+---
+titulo: "LEI Nº 2.042/2026 - DISPÕE SOBRE A DENOMINAÇÃO DE"
+uf: "PE"
+municipio: "ITAMBÉ"
+tipo: "Lei Ordinária"
+numero: "2042"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 17/04/2026"
+data_publicacao: 2026-04-17
+codigo_identificador: "C67BEC6C"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115793_2026-04-16_37254013a2c5dc711964990d1761c6d6.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2.042/2026 - DISPÕE SOBRE A DENOMINAÇÃO DE
+
+LEI Nº 2.042/2026 - DISPÕE SOBRE A DENOMINAÇÃO DE
+LOGRADOURO PÚBLICO.
+LEI Nº 2.042/2026.
+Dispõe sobre a denominação de logradouro público, e
+dá outras providências.
+
+Dispõe sobre a denominação de logradouro público, e
+dá outras providências.
+O PREFEITO DO MUNICÍPIO DE ITAMBÉ, ESTADO DE
+PERNAMBUCO, no uso pleno de suas atribuições legais conferidas
+e outorgadas pela Lei Orgânica, em seu Art. 70, Inc. IV, faz saber que
+o Poder Legislativo aprovou e sancionou a seguinte LEI:
+Art. 1º. Fica denominada de Rua Paulo Roberto Pinto, a atual via
+pública denominada Rua Projetada 01, do Loteamento Altiplano
+Nobre, neste município de Itambé-PE.
+Art. 2º - Esta lei entra em vigor na data de sua publicação.
+Art. 3º. Revogam-se as disposições em contrário.
+
+O PREFEITO DO MUNICÍPIO DE ITAMBÉ, ESTADO DE
+PERNAMBUCO, no uso pleno de suas atribuições legais conferidas
+e outorgadas pela Lei Orgânica, em seu Art. 70, Inc. IV, faz saber que
+o Poder Legislativo aprovou e sancionou a seguinte LEI:
+
+Itambé-PE, 14 de abril de 2026.
+ARMANDO PIMENTEL DA ROCHA
+Prefeito do Município de Itambé-PE
+
+Art. 1º. Fica denominada de Rua Barbara de Alencar, a atual via
+pública denominada Rua Projetada 04, do Loteamento Altiplano
+Nobre, neste município de Itambé-PE.
+
+Publicado por:
+Sthefany Pontes do Nascimento França

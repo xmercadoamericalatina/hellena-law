@@ -1,0 +1,65 @@
+---
+titulo: "Resolução nº 2, de 18 de maio de 2004"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "2"
+data: "2004-05-18"
+municipio: "São José do Sabugi"
+uf: "PB"
+codigo_ibge: "2514701"
+versao_texto: "texto integral anexado no SAPL municipal; camada nativa integral preservada em layout, incluindo cabeçalhos, notas, fólios, linhas numéricas e alinhamentos; snapshot da fonte capturado em 20/10/2026, sem certificação de vigência integral"
+fonte: "https://sapl.saojosedosabugi.pb.leg.br/norma/754"
+fonte_texto: "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2004/754/resolucao_no_002_de_18_de_maio_de_2004.pdf"
+sha256_fonte: "73672359ed2ccb5f8e69147e1d4ae46100f1057dac4d838e4a6504f911290319"
+sha256_texto: "fe9bb610ed8fd38b4f6bc4a56f1afef7c9ce981d631864859b6536309371659f"
+baixado_em: "2026-10-20"
+---
+
+# Resolução nº 2, de 18 de maio de 2004
+
+```text
+                           REPÚBLICA FEDERATIVA DO BRASIL
+                           ESTADO DA PARAÍBA
+                           CÂMARA MUNICIPAL DE SÃO JOSÉ DO SABUGI
+                           Casa Jaime Ribeiro Delgado
+                           www.camarasaojosedosabugi.pb.gov.br
+
+     Política de Acesso à Legislação Compilada Municipal – Cf. Resolução nº 009/2024 da Câmara Municipal
+
+
+
+           Resolução nº 002, de 18 de maio de 2004
+                                        Concede título de cidadão e dá outras providências.
+
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL
+
+Faço saber que o plenário desta Casa Legislativa APROVOU e eu PROMULGO,
+
+nos termos das competências a mim conferidas pelo art. 13, inciso VIII do
+
+Regimento Interno da Câmara Municipal, a seguinte Resolução:
+
+Art. 1º – Conceder título de Cidadão São Joseense à: Manoel de Deus Alves,
+
+Iremar Farias de Figueiredo e a Ricardo Barbosa., Luiz Gonzaga Sobrinho,
+
+Domiciano Cabral, Saulo José de Lima, José Barros de Lucena, Sebastião
+
+Marcolino do Nasc.
+
+Art. 2º – O presente título tem por objetivo os relevantes serviços prestados a esse
+
+município.
+
+Art. 3º – Esta resolução entrará em vigor na data de sua publicação revogadas as
+
+disposições em contrário.
+
+                                                   São José do Sabugi, em 18 de maio de 2004.
+
+                              PAULO PEREIRA DE ANDRADE
+
+                                               Presidente
+```

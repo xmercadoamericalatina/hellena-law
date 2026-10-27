@@ -1,0 +1,421 @@
+---
+titulo: "Lei Complementar nº 93, de 29 de agosto de 2011"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "93"
+data: "2011-08-29"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/381"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3306/text"
+sha256_fonte: "9881dbfe8d672d5023f42eca656ca9c8c53dec64b268fee7a806b323c017669c"
+sha256_texto: "5a194211ef57c3dc2ea81398545268eb3bafac139fec0f3e556eaa0a3e4efbdb"
+capturado_em_fonte: "2026-10-21T03:33:33.864059-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 93, de 29 de agosto de 2011
+
+Institui o sistema de simplificado de procedimentos para registro, emissão e gerenciamento eletrônico da consulta prévia, do alvará de funcionamento e do registro sanitário; altera e acrescenta dispositivos à Lei n° 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — Da Emissão Eletrônica dos Documentos
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Fortaleza o sistema simplificado de procedimentos para registro, emissão e gerenciamento, por via eletrônica, da consulta prévia de funcionamento, do alvará de funcionamento e do registro sanitário, em conformidade com as normas estabelecidas nesta Lei.
+
+
+Art. 2º.
+
+Os documentos gerenciados e expedidos eletronicamente produzem todos os efeitos previstos na legislação, cabendo a qualquer interessado verificar sua autenticidade através do sítio da Prefeitura Municipal de Fortaleza na internet.
+
+
+Parágrafo único.
+
+O sistema de gerenciamento de documentos eletrônicos poderá cancelar automaticamente os documentos cujo prazo de validade definido em lei haja expirado.
+
+
+#### CAPÍTULO II — Da Consulta Prévia
+
+
+Art. 3º.
+
+A consulta prévia é ato obrigatório que precede a concessão do alvará de funcionamento, devendo ser disponibilizada gratuitamente, pela internet, de modo a apresentar a qualquer interessado a análise completa de adequação urbanística da atividade pesquisada, conforme o seu porte e a localização do imóvel pretendido, segundo os critérios da Lei de Uso e Ocupação do Solo.
+
+
+Art. 4º.
+
+Além de atestar a adequação da atividade à localização pretendida para efeito de concessão de alvará de funcionamento, a consulta prévia informará todos os documentos e licenciamentos que o interessado deverá apresentar, bem como as condições e obrigações que o mesmo deverá cumprir para obter o respectivo alvará.
+
+
+§ 1º
+
+A análise para fins de consulta prévia será baseada exclusivamente nas informações fornecidas pelo próprio interessado, como o CNAE da atividade e o número do IPTU do imóvel pretendido e a área do estabelecimento.
+
+
+§ 2º
+
+Para os efeitos desta Lei, a área do estabelecimento é definida como a soma de todas as áreas (construídas ou não), utilizadas direta ou indiretamente pelo estabelecimento no desenvolvimento de suas atividades, ainda que corresponda a uma fração ideal (parcela) de imóvel ou mesmo reúna vários imóveis ou inscrições municipais diferentes. O porte do estabelecimento é indicado na Lei de Uso e Ocupação do Solo, tendo em consideração a área do estabelecimento e a atividade pretendida.
+
+
+Art. 5º.
+
+A consulta prévia indicará se no local indicado, a atividade com o porte informado é:
+
+
+I –
+
+adequada, autorizando o poder público a receber e tramitar o pedido de alvará de funcionamento;
+
+
+II –
+
+inadequada, que indica a inviabilidade e vedação de concessão do alvará de funcionamento conforme requerido;
+
+
+III –
+
+projeto especial, que indica que um projeto específico deve ser encaminhado previamente à Secretaria Municipal de Desenvolvimento Urbano e Infraestrutura (SEINF). O interessado somente poderá requerer o alvará de funcionamento após a aprovação do respectivo projeto, caso contrário o pedido será indeferido.
+
+
+Art. 6º.
+
+A análise favorável na consulta prévia não gera nenhum direito ou expectativa de direito à obtenção de alvará de funcionamento, sendo obrigatória a tramitação e finalização do respectivo processo, em virtude de ser baseada apenas nas informações prestadas pelo interessado.
+
+
+#### CAPÍTULO III — Do Alvará de Funcionamento
+
+
+Art. 7º.
+
+No que não conflitar com a presente Lei, os critérios para a expedição do alvará de funcionamento são aqueles constantes da Lei n° 7.987, de 23 de dezembro de 1996, Lei de Uso e Ocupação do Solo, e suas alterações, passando o mesmo a ser emitido por meio eletrônico.
+
+
+Art. 8º.
+
+O alvará de funcionamento é o documento que autoriza o início do funcionamento de qualquer atividade estabelecida em imóvel.
+
+
+§ 1º
+
+As associações, sociedades, fundações, organizações religiosas, partidos políticos, empresários individuais, profissionais autônomos, pessoas físicas ou jurídicas, só poderão instalar-se em imóveis e iniciar suas atividades após receberem o alvará de funcionamento expedido pelo Município de Fortaleza.
+
+
+§ 2º
+
+O uso e a ocupação de bens públicos, ainda que de forma itinerante, ambulante ou eventual, dependem de prévia autorização, permissão ou concessão, conforme legislação aplicável à espécie, não sendo cabível em nenhum desses casos a concessão de alvará de funcionamento.
+
+
+§ 3º
+
+Os profissionais autônomos que não possuem estabelecimento instalado e nem ocupam espaços públicos para desenvolver suas atividades, mas utilizam o domicílio de seus clientes para a prática de seu ofício, não necessitam de qualquer autorização de funcionamento, alvará, termo, permissão ou concessão.
+
+
+Art. 9º.
+
+Uma vez obtida a análise favorável da consulta prévia, ou seja, considerados a atividade e o porte adequados para o local pretendido, o interessado estará apto a requerer o alvará de funcionamento.
+
+
+Art. 10.
+
+Alvará de funcionamento só será expedido após cumpridos os seguintes requisitos, conforme o caso:
+
+
+I –
+
+termo de vistoria da fiscalização municipal, quando a área do estabelecimento for maior que 300,00m2 (trezentos metros quadrados);
+
+
+II –
+
+termo de vistoria da fiscalização municipal, quando a atividade for classificada pela Vigilância Sanitária como “alto risco sanitário”;
+
+
+III –
+
+obtenção da licença de operação junto à Secretaria Municipal do Meio Ambiente e Controle Urbano (SEMAM), para as atividades submetidas a licenciamento ambiental, conforme resolução do Conselho Nacional do Meio Ambiente;
+
+
+IV –
+
+obtenção da autorização especial de utilização sonora junto à SEMAM, para as atividades que pretendam utilizar em seu estabelecimento, instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7º da Lei Municipal n° 8.097/1997.
+
+
+§ 1º
+
+O alvará de funcionamento estará apto a ser expedido após a aprovação da ficha cadastral e independentemente de qualquer vistoria prévia, se, cumulativamente:
+
+
+I –
+
+a área do estabelecimento for menor ou igual a 300,00m² (trezentos metros quadrados);
+
+
+II –
+
+a atividade for classificada pela Vigilância Sanitária como “baixo risco sanitário”;
+
+
+III –
+
+a atividade não estiver sujeita a licenciamento ambiental; e
+
+
+IV –
+
+não houver a intenção de uso de instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7º da Lei Municipal n° 8.097/1997.
+
+
+§ 2º
+
+Sem prejuízo da observância dos requisitos enumerados neste artigo, só será concedido alvará de funcionamento para imóveis exclusivamente residenciais sob a declaração do interessado de que a atividade é compatível com o espaço físico, e, ainda, que não haverá fluxo de mercadorias, veículos, pessoas, empregados, colaboradores ou clientes, cuja ocorrência, se constatada, ensejará a cassação do respectivo alvará.
+
+
+Art. 11.
+
+O sistema de gerenciamento dos pedidos de alvará de funcionamento, que ficará disponível pela rede mundial de computadores (internet), informará o interessado sobre a tramitação de seu pedido e avisará sobre a necessidade da entrega de documentos e informações complementares. Havendo pendências não resolvidas pelo interessado, no prazo de 30 (trinta) dias, o pedido será indeferido, restando ao interessado reiniciar todo o procedimento.
+
+
+Art. 12.
+
+Após a emissão do alvará de funcionamento, o interessado deverá empenhar-se para continuar cumprindo toda a legislação municipal, ambiental, sanitária e urbanística, e também obter licenciamentos e adequações complementares, no prazo de 180 (cento e oitenta) dias, dentre outros:
+
+
+I –
+
+registro de contrato de coleta de resíduos sólidos com empresa credenciada junto à Empresa Municipal de Limpeza Urbana (EMLURB), caso o estabelecimento produza diariamente volume superior a 100 (cem) litros ou massa superior a 100 (cem) Kg;
+
+
+II –
+
+obtenção do licenciamento dos engenhos de publicidade e propaganda associados ao estabelecimento;
+
+
+III –
+
+obtenção de aprovação do projeto de segurança contra incêndios junto ao Corpo de Bombeiros;
+
+
+IV –
+
+outras adequações complementares a critério da administração.
+
+
+Parágrafo único.
+
+A administração deverá fiscalizar o cumprimento do prazo fixado neste artigo, aplicando-se o art. 705 da Lei n° 5.530, de 17 de dezembro de 1981, em caso de descumprimento.
+
+
+Art. 13.
+
+O alvará de funcionamento é expedido por prazo indeterminado, salvo nos casos previstos na legislação municipal aplicável à matéria.
+
+
+§ 1º
+
+A administração municipal concederá prazo de 12 (doze) meses, a partir da vigência desta Lei, para que, sem ônus para os contribuintes, os estabelecimentos providenciam o recadastramento dos alvarás de funcionamento, para que o quê não será necessária análise urbanística, sanitária ou ambiental. Após o período de recadastramento, todos os alvarás não recadastrados serão revogados automaticamente pelo sistema de gerenciamento.
+
+
+§ 2º
+
+O recadastramento previsto no parágrafo anterior restringe-se à declaração do responsável acerca da continuidade regular do funcionamento ao qual se refere o alvará, não abrangendo outras exigências.
+
+
+#### CAPÍTULO IV — Do Registro Sanitário
+
+
+Art. 14.
+
+O registro sanitário é o documento que formaliza o controle sanitário do estabelecimento, visando garantir boas condições de funcionamento no tocante à saúde da população; os critérios para a sua exigibilidade e concessão são a seguir regulamentados, passando o mesmo ser emitido por meio eletrônico.
+
+
+Art. 15.
+
+Não será concedido registro sanitário sem que haja um alvará ou um termo de permissão ou de concessão que o preceda. Sempre que possível o registro sanitário e o alvará de funcionamento deverão ser emitidos conjuntamente.
+
+
+Art. 16.
+
+A Célula de Vigilância Sanitária, através de portaria, publicará a classificação de cada atividade CNAE segundo o risco sanitário, reputando-as como “alto risco sanitário” ou “baixo risco sanitário.”
+
+
+§ 1º
+
+O registro sanitário será expedido imediatamente e juntamente com o alvará de funcionamento, independentemente de vistoria prévia, se o estabelecimento desempenhar atividades consideradas de “baixo risco sanitário.”
+
+
+§ 2º
+
+A vistoria prévia será sempre obrigatória para fins de concessão de registro sanitário quando a atividade for classificada como “alto risco sanitário”, qualquer que seja a área do estabelecimento.
+
+
+Art. 17.
+
+Após a concessão do registro sanitário, o interessado deverá empenhar-se para cumprir a legislação sanitária, ficando sujeito a vistorias aleatórias, infrações e penalidades, na forma da lei.
+
+
+#### CAPÍTULO V — Das Disposições Gerais
+
+
+Art. 18.
+
+Os processos relativos à emissão de qualquer um dos documentos descritos nesta Lei, que possuam pendências a serem sanadas pelo interessado, serão arquivados e indeferidos, se tal pendência não for regularizada no prazo de 30 (trinta) dias, contados da ciência do mesmo.
+
+
+Art. 19.
+
+A expedição dos documentos indicados na presente Lei ensejará o pagamento das respectivas taxas, nos termos da Legislação Tributária do Município, ficando isento o requerente que comprovar sua condição de Microempreendedor Individual (MEI) cadastrado na Secretaria da Receita Federal.
+
+
+#### CAPÍTULO VI — Das Disposições Finais
+
+
+Art. 20.
+
+Fica alterado o art. 699 da Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, acrescentando-se os §§ 1º, 2º e 3º, com a seguinte redação:
+
+
+“Art. 699 - As associações, sociedades, fundações, organizações religiosas, partidos políticos, empresários individuais, profissionais autônomos, pessoas físicas ou jurídicas, só poderão instalar-se em imóveis e iniciar suas atividades após receberem o alvará de funcionamento expedido pelo Município de Fortaleza.
+
+**§ 1º** - A consulta prévia é ato obrigatório que precede a concessão do alvará de funcionamento, devendo ser disponibilizada gratuitamente, pela internet, de modo a apresentar a qualquer interessado a análise completa de adequação urbanística da atividade pesquisada, conforme o seu porte e a localização do imóvel pretendido, segundo os critérios da Lei de Uso e Ocupação do Solo.
+
+**§ 2º** - A administração municipal deverá impor condições e requisitos para a concessão do alvará de funcionamento, levando-se em conta a área do estabelecimento, a complexidade e os riscos ambientais e sanitários das atividades pretendidas.
+
+**§ 3°** - A expedição do alvará de funcionamento ensejará o pagamento de taxa de licença de funcionamento, nos termos da Legislação Tributária do Município, ficando isento da taxa o requerente que comprovar sua condição de Microempreendedor Individual (MEI) cadastrado na Secretaria da Receita Federal.”
+
+
+Art. 21.
+
+Fica alterado o art. 701 da Lei n° 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, que passa a ter a seguinte redação:
+
+
+"Art. 701 - As informações e os documentos necessários para instrução do pedido de consulta prévia e de alvará de funcionamento serão informados ao interessado por meio da internet."
+
+
+Art. 22.
+
+Fica alterado o art. 702 da Lei n° 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, que passa a ter a seguinte redação:
+
+
+"Art. 702 - Concedido o alvará de funcionamento, o proprietário, arrendatário ou locatário do estabelecimento o afixará em local visível e de fácil acesso e o exibirá à autoridade competente sempre que esta o exigir."
+
+
+Art. 23.
+
+Fica alterado o art. 704 da Lei n° 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, passando a ter a seguinte redação:
+
+
+"Art. 704 - O alvará de funcionamento só será expedido após cumpridos os seguintes requisitos, conforme o caso:
+
+I - termo de vistoria da fiscalização municipal, quando a área do estabelecimento for maior que 300,00m2 (trezentos metros quadrados); I
+
+I - termo de vistoria da fiscalização municipal, quando a atividade for classificada pela Vigilância Sanitária como "alto risco sanitário";
+
+III - obtenção da licença de operação junto à Secretaria Municipal do Meio Ambiente e Controle Urbano (SEMAM), para as atividades submetidas a licenciamento ambiental, conforme resolução do Conselho Nacional do Meio Ambiente;
+
+IV - obtenção da autorização especial de utilização sonora junto à SEMAM, para as atividades que pretendam utilizar em seu estabelecimento, instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7° da Lei Municipal n° 8.097/1997.
+
+**§ 1°** - O alvará de funcionamento estará apto a ser expedido após a aprovação da ficha cadastral e independentemente de qualquer vistoria prévia, se, cumulativamente:
+
+I - a área do estabelecimento for menor ou igual a 300,00m2 (trezentos metros quadrados);
+
+II - a atividade for classificada pela Vigilância Sanitária como "baixo risco sanitário";
+
+III - a atividade não estiver sujeita a licenciamento ambiental; e
+
+IV - não houver a intenção de uso de instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7º da Lei Municipal n° 8.097/1997.
+
+**§ 2°** - Sem prejuízo da observância dos requisitos enumerados neste artigo, só será concedido alvará de funcionamento para imóveis exclusivamente residenciais sob a declaração do interessado de que a atividade é compatível com o espaço físico, e, ainda, que não haverá fluxo de mercadorias, veículos, pessoas, empregados, colaboradores ou clientes, cuja ocorrência, se constatada, ensejará a cassação do respectivo alvará.
+
+**§ 3º** - Após a emissão do alvará de funcionamento, o interessado deverá empenhar-se para continuar cumprindo toda a legislação municipal, ambiental, sanitária e urbanística, e também obter licenciamentos e adequações complementares, no prazo de 180 (cento e oitenta) dias, dentre outros:
+
+I - registro de contrato de coleta de resíduos sólidos com empresa credenciada junto à Empresa Municipal de Limpeza Urbana, caso o estabelecimento produza diariamente volume superior a 100 litros ou massa superior a 100kg;
+
+II - obtenção do licenciamento dos engenhos de publicidade e propaganda associados ao estabelecimento;
+
+III - obtenção de aprovação do projeto de segurança contra incêndios junto ao Corpo de Bombeiros;
+
+IV - outras adequações complementares a critério da administração.
+
+**§ 4º** - A administração municipal deverá fiscalizar o cumprimento do prazo fixado neste artigo, aplicandose o art. 705 da Lei n° 5.530, de 17 de dezembro de 1981, em caso de descumprimento."
+
+
+Art. 24.
+
+Fica alterado o art. 705 da Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, acrescentando-se os §§ 1º e 2º, passando a ter a seguinte redação:
+
+
+“Art. 705 - O alvará de funcionamento perderá sua eficácia nas seguintes hipóteses:
+
+I - revogação, nos seguintes casos:
+
+a) falsidade das informações prestadas ou documentos entregues pelo interessado;
+
+b) ausência dos requisitos que fundamentaram sua expedição;
+
+c) oferta ou promessa de vantagem indevida a funcionário público, para determiná-lo a praticar, acelerar, omitir ou retardar ato de ofício.
+
+II - cassação, nos seguintes casos:
+
+a) descumprimento das obrigações impostas por lei ou por ocasião da expedição do alvará;
+
+b) desvirtuamento do uso licenciado;
+
+c) quando ocorrer mudança de endereço do estabelecimento, alteração da área, alteração da razão social ou modificação da atividade sem que o responsável obtenha previamente novo alvará de funcionamento.
+
+**§ 1º** - A perda da eficácia de alvarás, licenças ou registros dependerá da instauração de prévio procedimento fiscalizatório por parte da administração municipal.
+
+**§ 2º** - Em caso de revogação, o infrator se sujeitará à multa proporcionalmente calculada de 10 (dez) salários mínimos para cada 100 (cem) metros de área do estabelecimento, passível de inscrição na dívida ativa e cobrança judicial, além da aplicação de outras penalidades previstas em lei.
+
+**§ 3º** - Em caso de cassação, o infrator se sujeitará à multa proporcionalmente calculada de 2 (dois) salários mínimos para cada 100 (cem) metros de área do estabelecimento, passível de inscrição na dívida ativa e cobrança judicial, além da aplicação de outras penalidades previstas em lei.”
+
+
+Art. 25.
+
+Fica alterado o art. 706 da Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, que passa a ter a seguinte redação:
+
+
+“Art. 706 - Cassado ou revogado o alvará de funcionamento, o estabelecimento será imediatamente fechado, assim devendo permanecer até regularização. Uma vez caracterizado o descumprimento da ordem de fechamento, poderá a administração municipal promover a “notitia criminis” quando constatada a prática de crime contra a administração em geral, conforme tipificado no Código Penal Brasileiro.”
+
+
+Art. 26.
+
+Fica alterado o art. 707 da Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras e Posturas, que passa a ter a seguinte redação:
+
+
+“Art. 707 - Poderá ser igualmente fechado o estabelecimento que exercer atividades clandestinas ou ilegais em desacordo com o alvará de funcionamento regularmente expedido ou, ainda, em desacordo com as normas constantes da Lei n. 7.987, de 23 de dezembro de 1996, Lei de Uso e Ocupação do Solo, e legislação sanitária, ambiental e urbanística municipal, estadual ou federal.”
+
+
+Art. 27.
+
+O art. 703 da Lei n. 5.530, de 17 de dezembro de 1981, passa a vigorar com a seguinte redação:
+
+
+“Art. 703. Quando ocorrer mudança de endereço do estabelecimento, do uso ou da atividade econômica, bem como alteração da área que modifique a atividade, far-se-á nova solicitação de alvará de funcionamento.
+
+**§ 1º** - Havendo mudança apenas na razão social ou da titularidade do estabelecimento que não altere a atividade econômica, será expedido novo alvará de funcionamento sem a necessidade de nova adequação e consulta prévia, bem como de nova análise urbanística, sanitária ou ambiental.
+
+**§ 2º** - Na hipótese prevista no caput deste artigo efetuar-se-á cobrança da respectiva taxa.”
+
+
+Art. 28.
+
+Esta Lei Complementar, após regulamentação, entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 29 de agosto de 2011.**
+
+**Luizianne de Oliveira Lins**
+
+**PREFEITA MUNICIPAL DE FORTALEZA.**
+

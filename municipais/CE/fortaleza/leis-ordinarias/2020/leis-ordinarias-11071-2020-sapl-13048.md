@@ -1,0 +1,386 @@
+---
+titulo: "Lei Ordinária nº 11.071, de 29 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11071"
+data: "2020-12-29"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13048"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3734/text"
+sha256_fonte: "754d33e98dd67017a77cfba44b03db19d74990473da5289aee13ffe9db4d2106"
+sha256_texto: "adc8357957974534edf8708c8e996604297727a8648dae0ccc4f53a43d6956ee"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.071, de 29 de dezembro de 2020
+
+Institui o Programa Municipal de Enfrentamento à Violência Sexual contra Crianças e Adolescentes – Rede Aquarela – e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituído, no Município de Fortaleza, o Programa Municipal de Enfrentamento à Violência Sexual contra Crianças e Adolescentes – Rede Aquarela –, vinculado à Fundação da Criança e da Família Cidadã – Funci –, responsável por coordenar e por executar ações de prevenção, de mobilização e de atendimento especializado às vítimas e às suas famílias, em parceria com as instituições que compõem os eixos de promoção, de defesa e de controle social do Sistema de Garantia de Direitos da Criança e do Adolescente.
+
+
+Parágrafo único.
+
+A política de enfrentamento disciplinada nesta Lei visa garantir, com absoluta prioridade, o atendimento, o resgate e a proteção dos direitos das crianças e dos adolescentes vítimas de violência sexual, tendo como base norteadora as disposições da Constituição da República Federativa do Brasil, da Lei Federal nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente –, e do Plano Nacional de Enfrentamento da Violência Sexual contra Crianças e Adolescentes.
+
+
+Art. 2º.
+
+O Programa Rede Aquarela, composto por equipes e por equipamentos de atendimento, de acolhimento, de proteção e de prevenção, inserido nas instâncias de defesa e de responsabilização, está baseado nos eixos estratégicos estabelecidos no Plano Nacional de Enfrentamento da Violência Sexual contra Crianças e Adolescentes, conforme a seguinte estrutura:
+
+
+I –
+
+Análise da Situação;
+
+
+II –
+
+Mobilização e Articulação;
+
+
+III –
+
+Defesa e Responsabilização;
+
+
+IV –
+
+Atendimento;
+
+
+V –
+
+Prevenção;
+
+
+VI –
+
+Protagonismo Infantojuvenil.
+
+
+Art. 3º.
+
+É objetivo específico do Programa Rede Aquarela a execução das seguintes políticas públicas de enfrentamento à violência sexual contra crianças e adolescentes no Município:
+
+
+I –
+
+desenvolver ações que envolvam as políticas públicas e a sociedade civil organizada, qualificando o Sistema de Garantia de Direitos da Criança e do Adolescente;
+
+
+II –
+
+apoiar a implementação de metodologia de integração de programas, de serviços e de ações para a construção e o fortalecimento da rede de enfrentamento à violência sexual infantojuvenil;
+
+
+III –
+
+acolher, atender e encaminhar crianças e adolescentes vítimas de violência sexual e seus familiares à Delegacia de Combate à Exploração da Criança e do Adolescente – Dceca;
+
+
+IV –
+
+acolher, atender e encaminhar crianças e adolescentes vítimas de violência sexual e seus familiares, na Vara Especializada em razão de processo judicial;
+
+
+V –
+
+promover, em conjunto com parceiros estratégicos, campanhas educativas de sensibilização sobre o enfrentamento à violência sexual contra crianças e adolescentes;
+
+
+VI –
+
+realizar atendimento e acompanhamento psicossocial e jurídico a crianças e adolescentes, bem como a suas famílias, cujos direitos sexuais foram violados;
+
+
+VII –
+
+promover ações de prevenção nas comunidades por meio de formações, de palestras e de oficinas sobre violência sexual e sobre outros temas transversais para a rede interna e a rede externa;
+
+
+VIII –
+
+fortalecer e articular as redes locais de enfrentamento à violência sexual, compostas por organizações governamentais e não governamentais, nos territórios de Fortaleza com os maiores índices desta problemática.
+
+
+Art. 4º.
+
+Para alcançar os objetivos previstos nesta Lei, o Programa Municipal de Enfrentamento à Violência Sexual contra Crianças e Adolescentes – Rede Aquarela – se organizará em equipes, na forma abaixo descrita:
+
+
+I –
+
+Equipe de Coordenação: responsável pela gestão de todas as equipes do Programa e pela articulação político-institucional com o Sistema de Garantia de Direitos da Criança e do Adolescente;
+
+
+II –
+
+Equipe do Eixo de Disseminação: responsável pelas ações de prevenção, de formação para profissionais da rede de atendimento e de execução de campanhas e de ações de mobilização e de articulação do poder público com organizações não governamentais;
+
+
+III –
+
+Equipe do Eixo Atendimento Psicossocial: responsável pelo atendimento especializado às vítimas de violência sexual, serviço realizado por equipe multidisciplinar formada por assistentes sociais, por psicólogos, por advogados e por educadores sociais, objetivando a superação da situação de violência vivenciada, na perspectiva de oferecer suporte terapêutico;
+
+
+IV –
+
+Equipe do Eixo Atendimento Psicossocial na Delegacia de Combate à Exploração de Criança e Adolescente – Dceca: responsável pela prestação de serviço especializado em apoio às vítimas de violência atendidas na referida delegacia;
+
+
+V –
+
+Equipe do Eixo Atendimento Psicossocial na Vara Criminal Especializada: responsável pelo atendimento especializado, durante os procedimentos judiciais, às crianças, aos adolescentes e às famílias vítimas de violência sexual, utilizando, para isso, a metodologia do Depoimento Especial, conforme regulamentado na Lei Federal nº 13.431/2017, que estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência.
+
+
+Art. 5º.
+
+A Equipe de Coordenação tem como objetivos específicos, dentre outros:
+
+
+I –
+
+orientação, acompanhamento e direcionamento dos profissionais;
+
+
+II –
+
+articulação das ações conjuntas ou complementares entre os eixos;
+
+
+III –
+
+organização e elaboração de dados estatísticos quantitativos e qualitativos sobre os atendimentos e ações realizadas;
+
+
+IV –
+
+elaboração de relatórios estatísticos quantitativos e qualitativos sobre o serviço;
+
+
+V –
+
+elaboração de cartilhas, de impressos e de informativos sobre o programa.
+
+
+Parágrafo único.
+
+A Equipe de Coordenação será gerida pelo Coordenador Geral, com graduação, em nível superior, preferencialmente na área de humanas e com experiência na execução de política de enfrentamento à violência sexual.
+
+
+Art. 6º.
+
+As ações de disseminação e de mobilização visam garantir a formação e o fortalecimento das redes de proteção comunitárias regionais, buscando a ressignificação do contexto social no qual se inserem e do qual emergem as situações de violência, bem como a construção coletiva de estratégias de enfrentamento à violência sexual contra crianças e adolescentes, nos moldes do Programa de Ações Integradas e Referenciais de Enfrentamento à Violência Sexual contra Crianças e Adolescentes no Território Brasileiro – PAIR –, seguindo as metodologias e etapas:
+
+
+I –
+
+articulação política e institucional;
+
+
+II –
+
+diagnóstico rápido e participativo;
+
+
+III –
+
+seminário para construção do Plano Operativo Local – POL;
+
+
+IV –
+
+capacitação da rede e assessoramento técnico;
+
+
+V –
+
+monitoramento e avaliação das metas e das estratégias de cada território.
+
+
+Parágrafo único.
+
+A Equipe de Disseminação será composta por:
+
+
+I –
+
+1 (um) supervisor de equipe, com graduação, em nível superior, preferencialmente na área de humanas e com experiência na execução de política de enfrentamento à violência sexual;
+
+
+II –
+
+6 (seis) assistentes técnicos, com graduação em área das ciências humanas e com experiência na área social, preferencialmente na política de atenção à criança e ao adolescente;
+
+
+III –
+
+6 (seis) educadores sociais, com ensino médio completo e capacitado para o desenvolvimento de trabalhos com crianças, com adolescentes e com famílias, bem como para a articulação e a mobilização comunitária.
+
+
+Art. 7º.
+
+O Serviço de Atendimento Psicossocial do Programa Rede Aquarela, instituído por esta Lei, visa proporcionar atendimento e acompanhamento sistemático e continuado às crianças e aos adolescentes vítimas de violência sexual, bem como aos seus familiares, fortalecendo o exercício da cidadania e proporcionando a ressignificação da vida após a violência sofrida, tendo como ações específicas a serem realizadas, dentre outras:
+
+
+I –
+
+visitas domiciliares dos educadores sociais, quando do recebimento da notificação da violência, apresentando o serviço e agendando o atendimento psicossocial;
+
+
+II –
+
+visitas institucionais aos equipamentos da rede de atendimento às crianças e aos adolescentes para articulação e para fortalecimento de parcerias;
+
+
+III –
+
+encaminhamentos das crianças, dos adolescentes e dos seus familiares à rede de proteção socioassistencial, bem como aos equipamentos de saúde e aos demais órgãos e instâncias que fazem o Sistema de Garantia de Direitos da Criança e do Adolescente;
+
+
+IV –
+
+elaboração de relatórios de atendimento para atender solicitação dos órgãos responsáveis pelos procedimentos de responsabilização do agressor e/ou para dar ciência aos órgãos competentes;
+
+
+V –
+
+reuniões semanais para alinhamento das ações, para discussão dos casos atendidos, bem como para adoção dos encaminhamentos necessários;
+
+
+VI –
+
+grupos quinzenais e mensais promovidos pelo serviço social e jurídico, com crianças e com adolescentes, conduzidos pelos psicólogos, bem como grupos com suas famílias;
+
+
+VII –
+
+orientação jurídica sobre tramitação dos procedimentos e dos processos na Dceca e na Vara Especializada.
+
+
+Parágrafo único.
+
+Fazem parte da Equipe de Acompanhamento Psicossocial:
+
+
+I –
+
+1 (um) supervisor de equipe, com graduação, em nível superior, preferencialmente na área de humanas e com experiência na execução de política de enfrentamento à violência sexual;
+
+
+II –
+
+6 (seis) assistentes sociais, com registro no Conselho Regional de Serviço Social e com habilidade na temática da violência sexual contra crianças e adolescentes;
+
+
+III –
+
+8 (oito) psicólogas, com registro no Conselho Regional de Psicologia e com habilidade na temática da violência sexual contra crianças e adolescentes;
+
+
+IV –
+
+3 (três) educadores sociais, com ensino médio completo e capacitados para o desenvolvimento de trabalhos com crianças, com adolescentes e com famílias, bem como para a articulação e a mobilização comunitária.
+
+
+Art. 8º.
+
+O atendimento do Programa Rede Aquarela executado na Delegacia de Combate à Exploração da Criança e do Adolescente – Dceca – visa garantir o acolhimento e a orientação aos casos de violência oriundos da própria delegacia, bem como aos provenientes de demandas espontâneas e/ou acompanhadas por profissionais de outras instituições, conforme as seguintes etapas:
+
+
+I –
+
+acolhimento pelos profissionais do serviço social e psicológico, mediante escuta qualificada e humanizada, com informações sobre os procedimentos e os encaminhamentos a serem dispensados;
+
+
+II –
+
+encaminhamento, após registro do boletim de ocorrência, da criança ou do adolescente vítima de violência sexual ao serviço de atendimento psicossocial continuado da Rede Aquarela e, quando necessário, aos demais equipamentos da rede socioassistencial e de saúde;
+
+
+III –
+
+acompanhamento dos profissionais Dceca visando garantir acolhimento e acompanhamento dos profissionais de psicologia quando da oitiva de crianças e de adolescentes, garantindo a imparcialidade do depoimento e o esclarecimento da importância de seu relato para a responsabilização do agressor.
+
+
+Parágrafo único.
+
+O Atendimento na Delegacia de Combate à Exploração de Criança e Adolescente – Dceca – será realizado por equipe composta por:
+
+
+I –
+
+2 (dois) assistentes sociais, com registro no Conselho Regional de Serviço Social e com experiência na área social, preferencialmente para a política de enfrentamento à violência sexual contra criança e adolescente;
+
+
+II –
+
+2 (dois) psicólogos, com registro no Conselho Regional de Psicologia e com habilidade na temática da violência sexual contra crianças e adolescentes;
+
+
+III –
+
+2 (dois) educadores sociais que detenham o ensino médio completo e sejam habilitados para o acolhimento de crianças e adolescentes vítimas de violência e de suas famílias.
+
+
+Art. 9º.
+
+O atendimento do Programa Rede Aquarela executado na Vara Especializada objetiva o acolhimento, a orientação e o acompanhamento das vítimas de violência e de seus familiares, sobretudo durante os procedimentos do Depoimento Especial, previsto na Lei Federal nº 13.431, de 4 de abril de 2017, visando:
+
+
+I –
+
+reduzir os danos causados às crianças e aos adolescentes vítimas de violência, valorizando sua palavra e garantindo a proteção e a prevenção da violação de seus direitos;
+
+
+II –
+
+melhorar a produção da prova, com inquirição de vítimas que respeite sua condição de pessoa em desenvolvimento;
+
+
+III –
+
+evitar a revitimização da criança e/ou do adolescente, fazendo com que deponham sem a presença física do acusado, protegendo-os em razão de sua situação singular de pessoa em desenvolvimento.
+
+
+Parágrafo único.
+
+Os psicólogos e os assistentes sociais do Programa Rede Aquarela serão capacitados em técnica de entrevista cognitiva e atuarão na condição de entrevistadores forenses no local destinado ao Depoimento Especial.
+
+
+Art. 10.
+
+O Município de Fortaleza pode firmar convênios com entidades públicas e privadas para execução das ações previstas nesta Lei, de acordo com os princípios, as diretrizes e os objetivos que orientam a política para a população em situação de violência sexual.
+
+
+Art. 11.
+
+As despesas decorrentes da presente Lei correrão por conta das dotações próprias do orçamento em vigor, custeadas mediante cofinanciamento da União, do Estado e do Município.
+
+
+Art. 12.
+
+Fica autorizado o Poder Executivo Municipal a editar normas e procedimentos de execução e de fiscalização do Programa Municipal de Enfrentamento à Violência Sexual Contra Criança e Adolescente – Rede Aquarela –, de que trata esta Lei, por meio de decreto regulamentar, que deve seguir a legislação nacional, bem como as políticas, os planos e as orientações dos demais órgãos do Sistema de Garantia de Direitos da Criança e do Adolescente.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 29 DE DEZEMBRO DE 2020.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA Prefeito Municipal de Fortaleza**
+

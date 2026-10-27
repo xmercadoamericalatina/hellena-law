@@ -1,0 +1,485 @@
+---
+titulo: "Lei nº 1.223, de 04 de novembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1223"
+data: "2019-11-04"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1221"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1790/text"
+sha256_fonte: "b2f86c10c500346bf93b9c02f223a378fb419b2fb4f455e0568c42a78c886a83"
+sha256_texto: "9c32c40ae27cad42431d7e6990e3771b24221d165d6fc462975d87bc63195e02"
+capturado_em_fonte: "2026-10-21T06:07:10.244070-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.223, de 04 de novembro de 2019
+
+Institui o Programa de Regularização Fundiária Urbana - REURB, no município de Amontada, e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ, no uso de suas atribuições legais:**  
+Faço Saber a todos os habitantes deste município, que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam instituídas no município de Amontada, normas gerais e procedimentos aplicáveis à Regularização Fundiária Urbana - REURB, a qual abrange medidas jurídicas, urbanísticas, ambientais e sociais destinadas à incorporação dos núcleos urbanos informais ao ordenamento territorial urbano e à titulação de seus ocupantes, nos termos da Lei Federal nº 13.465 de 11 de julho de 2017 e suas regulamentações.
+
+
+Art. 2º.
+
+O Poder Executivo municipal poderá formular e desenvolver no espaço urbano local, as políticas de suas competências de acordo com os princípios de sustentabilidade econômica, social e ambiental e ordenação territorial, buscando a ocupação do solo de maneira eficiente, combinando seu uso de forma funcional.
+
+
+§ 1º
+
+A REURB promovida mediante legitimação fundiária somente poderá ser aplicada para os núcleos urbanos informais comprovadamente existentes, na forma desta Lei, até 22 de dezembro de 2016.
+
+
+§ 2º
+
+Os processos de regularização fundiária ingressados até a data da publicação do Decreto Federal nº 9.310, de 15 de março de 2018, que regulamenta a Lei Federal n° 13.465 de 11 de julho de 2017, poderão ser processados nos seguintes termos:
+
+
+I –
+
+Para a elaboração do projeto de regularização fundiária, será utilizado preferencialmente o método de georeferenciamento, ou planta em que se registrem os vértices definidores de limites, com o uso de métodos e tecnologias que estiverem à disposição e que se adequarem melhor às necessidades, segundo a economicidade e a eficiência em sua utilização, que evitem a propagação de erros, assinados por um profissional habilitado na área, conforme disposto no artigo 28, VI, do Decreto nº 9.310, de 15 de março de 2018, que regulamenta a Lei Federal n° 13.465 de 11 de julho de 2017.
+
+
+II –
+
+Os processos de regularização fundiária protocolizados anteriormente à edição desta lei, ainda que por outra modalidade ou programa, em optando pela migração para a REURB, ficam dispensados da apresentação de plantas georeferenciadas, as quais poderão ser substituídas por levantamentos topográficos realizados por profissionais habilitados.
+
+
+§ 3º
+
+Os projetos poderão ser formulados de forma individual, por lotes, ou coletivamente, por quadra ou conjunto de quadras.
+
+
+Art. 3º.
+
+A REURB compreende duas modalidades:
+
+
+I –
+
+REURB de Interesse Social (REURB-S) - regularização fundiária aplicável aos núcleos urbanos informais ocupados predominantemente por população de baixa renda, assim classificados e declarados pelo Poder Executivo municipal; e
+
+
+II –
+
+REURB de Interesse Específicо (REURB-E) - regularização fundiária aplicável aos núcleos urbanos informais ocupados por população não qualificada na hipótese de que trata o inciso I deste artigo.
+
+
+§ 1º
+
+Na REURB, o município poderá admitir o uso misto de atividades como forma de promover a integração social e a geração de emprego e renda no núcleo urbano informal na regularização coexistindo as duas modalidades em um mesmo projeto classificando os beneficiários como REURB-S ou REURB-E de acordo com sua renda e informando na lista de beneficiários a modalidade de cada um.
+
+
+§ 2º
+
+A classificação do interesse visa exclusivamente à identificação dos responsáveis pela implantação ou adequação das obras de infraestrutura essencial e ao reconhecimento do direito à gratuidade das custas e emolumentos notariais e registrais em favor daqueles a quem for atribuído o domínio das unidades imobiliárias regularizadas.
+
+
+§ 3º
+
+A partir da disponibilidade de equipamentos e infraestrutura para prestação de serviço público de abastecimento de água, coleta de esgoto, distribuição de energia elétrica, ou outros serviços públicos, é obrigatório aos beneficiários da REURB realizar a conexão da edificação à rede de água, de coleta de esgoto ou de distribuição de energia elétrica e adotar as demais providências necessárias à utilização do serviço, salvo disposição em contrário na legislação municipal.
+
+
+§ 4º
+
+Para a classificação da REURB na modalidade REURB-S, a composição ou a faixa da renda familiar para definição de população de baixa renda não poderá ser superior ao quíntuplo do salário mínimo vigente no País, nos termos do parágrafo único do artigo 6º do Decreto nº 9.310, de 15 de março de 2018, que regulamenta a Lei Federal nº 13.465 de 11 de julho de 2017.
+
+
+§ 5º
+
+Na REURB, poderão ser utilizados mais de um dos instrumentos previstos no art. 8º do Decreto nº 9.310, de 15 de março de 2018, que regulamenta a Lei Federal nº 13.465 de 11 de julho de 2017.
+
+
+Art. 4º.
+
+São legitimados a requerer a REURB:
+
+
+I –
+
+a União, o Estado, e o Município, diretamente ou por meio de entidades da administração pública indireta;
+
+
+II –
+
+os seus beneficiários, individual ou coletivamente, diretamente ou por meio de cooperativas habitacionais, associações de moradores, fundações, organizações sociais, organizações da sociedade civil de interesse público ou outras associações civis que tenham por finalidade atividades nas áreas de desenvolvimento urbano ou regularização fundiária urbana;
+
+
+III –
+
+os proprietários de imóveis ou de terrenos, loteadores ou incorporadores;
+
+
+IV –
+
+a Defensoria Pública, em nome dos beneficiários hipossuficientes; e
+
+
+V –
+
+o Ministério Público.
+
+
+§ 1º
+
+Os legitimados poderão promover todos os atos necessários à regularização fundiária, inclusive requerer os atos de registro.
+
+
+§ 2º
+
+Nos casos de parcelamento do solo, de conjunto habitacional ou de condomínio informal, empreendidos por particular, a conclusão da REURB confere direito de regresso àqueles que suportarem os seus custos e obrigações contra os responsáveis pela implantação dos núcleos urbanos informais.
+
+
+§ 3º
+
+O requerimento de instauração da REURB por proprietários de terreno, loteadores e incorporadores que tenham dado causa à formação de núcleos urbanos informais, ou os seus sucessores, não os eximirá de responsabilidades administrativa, civil ou criminal.
+
+
+§ 4º
+
+Os documentos que deverão acompanhar o requerimento, a comprovação de posse, renda, documentos pessoais, mapas, memoriais descritivos assinados e atos notariais, são de responsabilidade dos requerentes.
+
+
+Art. 5º.
+
+Compõe o projeto da REURB:
+
+
+I –
+
+A planta com georreferenciamento e o memorial descritivo do núcleo urbano a ser regularizado, que deverão ser assinados por profissional legalmente habilitado, dispensada a apresentação de Anotação de Responsabilidade Técnica (ART) no Conselho Regional de Engenharia e Agronomia (Crea) ou de Registro de Responsabilidade Técnica (RRT) no Conselho de Arquitetura e Urbanismo (CAU), quando o responsável técnico for servidor ou empregado público conforme parágrafo único 5° do artigo 36 da Lei Federal n° 13.465 de 11 de julho 2017;
+
+
+II –
+
+planta do perímetro do núcleo urbano informal com demonstração das matrículas ou transcrições atingidas, quando for possível;
+
+
+III –
+
+estudo preliminar das desconformidades e da situação jurídica, urbanística e ambiental;
+
+
+IV –
+
+projeto urbanístico;
+
+
+V –
+
+memoriais descritivos individualizados dos imóveis a serem regularizados;
+
+
+VI –
+
+proposta de soluções para questões ambientais, urbanísticas e de reassentamento dos ocupantes, quando for o caso;
+
+
+VII –
+
+estudo técnico para situação de risco, quando for o caso;
+
+
+VIII –
+
+estudo técnico ambiental, para os fins previstos nesta Lei, quando for o caso;
+
+
+IX –
+
+cronograma fisico de serviços e implantação de obras de infraestrutura essencial, compensações urbanísticas, ambientais e outras, definidas por ocasião da aprovação do projeto de regularização fundiária, quando houver;
+
+
+X –
+
+termo de compromisso a ser assinado pelos responsáveis, públicos ou privados, pelo cumprimento do cronograma físico definido no inciso IX deste artigo, ou por obras a serem feitas, se houver;
+
+
+XI –
+
+Na REURB-E o município poderá fixar taxas por meio de decreto a serem cobradas pelos serviços prestados e necessários a aprovação do projeto de regularização fundiária e emissão Certidão de Regularização Fundiária (CRF).
+
+
+XII –
+
+Na regularização de núcleo urbano informal que já possua a infraestrutura essencial implantada e para o qual não haja compensações urbanísticas ou ambientais ou outras obras e serviços a serem executados, fica dispensada a apresentação do cronograma físico e do termo de compromisso previstos nos incisos IX e X do caput.
+
+
+XIII –
+
+Na Certidão de Regularização Fundiária - CRF, será discriminado, que o núcleo urbano regularizado já possui a infraestrutura essencial definida no § 1º do art. 31 do Decreto nº 9.310, de 15 de março de 2018 que regulamenta a Lei Federal nº 13.465 de 11 de julho de 2017 e que não existem compensações urbanísticas ou ambientais ou outras obras e serviços a serem executados, quando for o caso.
+
+
+XIV –
+
+Para fins da regularização prevista o estudo técnico ambiental considerará ao longo dos rios ou de qualquer curso d'água, faixa não edificável com largura mínima de quinze metros de cada lado conforme § 7º, do artigo 4º., do Decreto nº 9.310, de 15 de março de 2018 que regulamenta a Lei Federal nº 13.465 de 11 de julho de 2017.
+
+
+Parágrafo único
+
+A REURB pode ser implementada por etapas, abrangendo o núcleo urbano informal de forma total ou parcial.
+
+
+Art. 6º.
+
+As obras de Infraestrutura básica para a aplicação da REURB conterão no mínimo os seguintes equipamentos:
+
+
+I –
+
+Arruamento;
+
+
+II –
+
+sistema de abastecimento de água potável, coletivo ou individual;
+
+
+III –
+
+sistema de coleta e tratamento do esgotamento sanitário, ou soluções para о esgotamento sanitário, coletivo ou individual;
+
+
+IV –
+
+rede de energia elétrica domiciliar;
+
+
+V –
+
+soluções de drenagem, quando necessário;
+
+
+Parágrafo único
+
+As obras de implantação de infraestrutura essencial, de equipamentos comunitários e de melhoria habitacional, bem como sua manutenção, podem ser realizadas antes, durante ou após a conclusão da REURB.
+
+
+Art. 7º.
+
+Compete ao Município:
+
+
+I –
+
+classificar, caso a caso, as modalidades da REURB;
+
+
+II –
+
+processar, analisar e aprovar os projetos de regularização fundiária;
+
+
+III –
+
+emitir a Certidão de Regularização Fundiária - CRF.
+
+
+§ 1º
+
+Por meio da legitimação fundiária, em quaisquer das modalidades da REURB, o ocupante adquire a unidade imobiliária com destinação urbana livre e desembaraçada de quaisquer ônus, direitos reais, gravames ou inscrições, eventualmente existentes em sua matrícula ou transcrição de origem, exceto quando disserem respeito ao próprio beneficiário.
+
+
+§ 2º
+
+As inscrições, as indisponibilidades e os gravames existentes no registro da área maior originária serão transportados para as matrículas das unidades imobiliárias que não houverem sido adquiridas por legitimação fundiária.
+
+
+§ 3º
+
+Na REURB-S de imóveis públicos, a União, o Estados, e o Município e as suas entidades vinculadas, quando titulares do domínio, ficam autorizados a reconhecer o direito de propriedade aos ocupantes do núcleo urbano informal regularizado por meio da legitimação fundiária.
+
+
+§ 4º
+
+Na legitimação fundiária, o Poder Público encaminhará ao Cartório de Registro de Imóveis competente, para registro imediato da aquisição de propriedade, a Certidão de Regularização Fundiária - CRF, acompanhada do projeto de regularização fundiária aprovado, a listagem dos ocupantes e a sua devida qualificação, bem como a identificação das áreas que estes ocupam, dispensando outros documentos, ainda que exigidos na fase de instrução do processo.
+
+
+§ 5º
+
+O Poder Público poderá atribuir o domínio por legitimação fundiária aos ocupantes que não tenham constado da listagem inicial, por meio de cadastramento complementar e envio de lista complementar ao Cartório de Registro de Imóveis.
+
+
+§ 6º
+
+O procedimento previsto neste artigo poderá ser aplicado no todo ou em parte ao núcleo urbano informal.
+
+
+§ 7º
+
+A utilização do procedimento previsto nesta lei, não impede a regularização das unidades imobiliárias por outra forma ou programa, que não a de legitimação fundiária.
+
+
+§ 8º
+
+Caberá ao Poder Público municipal no REURB-S notificar os titulares de domínio, os responsáveis pela implantação do núcleo urbano informal, os confinantes e terceiros eventualmente interessados, por via postal com aviso de recebimento, no endereço que constar da matrícula, da transcrição do imóvel ou do cadastro imobiliário do município, sendo considerada efetuada quando comprovada a entrega nesse endereço, ou na impossibilidade de entrega, a notificação será feita por edital, para que apresentem impugnação no prazo de trinta dias.
+
+
+§ 9º
+
+Quando houver na planta que acompanha o requerimento a assinatura dos confrontantes com reconhecimento de firma, concordando com as confrontações fica dispensada, em relação a estes, a notificação de que trata o parágrafo anterior.
+
+
+Art. 8º.
+
+O título de legitimação de posse poderá ser cancelado pelo Poder Público emitente quando constatado que as condições estabelecidas na Lei nº 13.465/2017, e no Decreto que a regulamentou deixaram de ser satisfeitas, sem que seja devida qualquer indenização àquele que irregularmente se beneficiou do instrumento.
+
+
+Art. 9º.
+
+O requerimento será composto por:
+
+
+I –
+
+Planta georreferenciada e memorial descritivo da área a ser regularizada assinada por um profissional legalmente habilitado, ficando dispensada a apresentação de Anotação de Responsabilidade Técnica (ART) no Conselho Regional de Engenharia e Agronomia (CREA) ou de Registro de Responsabilidade Técnica (RRT) no Conselho de Arquitetura e Urbanismo (CAU), quando o responsável técnico for servidor ou empregado público conforme parágrafo único 5° do artigo 36 da Lei Federal n° 13.465/2017, preferencialmente com firma reconhecida da assinatura dos confrontantes;
+
+
+II –
+
+Documento de identidade com foto dos beneficiários;
+
+
+III –
+
+Comprovante de estado civil;
+
+
+IV –
+
+Número de inscrição no Cadastro de Pessoas Físicas - CPF dos beneficiários;
+
+
+V –
+
+Identificação dos confrontantes;
+
+
+VI –
+
+Comprovante de renda dos beneficiários;
+
+
+VII –
+
+Documentos que comprovem a posse do imóvel por mais de cinco anos;
+
+
+VIII –
+
+Em casos de REURB-E, em se tratando de imóveis de titularidade do município, o comprovante de pagamento ou doação.
+
+
+Art. 10.
+
+É facultado ao município estabelecer convênio ou outras formas de cooperação com legitimados a requerer a REURB, para atingir os objetivos desta lei.
+
+
+Art. 11.
+
+O Município poderá criar câmaras de prevenção e resolução administrativa de conflitos, no âmbito da administração local, inclusive mediante celebração de ajustes com o Tribunal de Justiça, as quais detenham competência para dirimir conflitos relacionados à REURB, mediante solução consensual.
+
+
+§ 1º
+
+O modo de composição e funcionamento das câmaras de que trata o caput será estabelecido em ato do Poder Executivo municipal, ou na forma da Lei nº 13.140, de 26 de junho de 2015.
+
+
+§ 2º
+
+Se houver consenso entre as partes, o acordo será reduzido a termo e constituirá condição para a conclusão da REURB, com consequente expedição da CRF.
+
+
+§ 3º
+
+As câmaras de que tratam o caput poderão instaurar, de ofício ou mediante provocação, procedimento de mediação coletiva de conflitos relacionados à REURB.
+
+
+§ 4º
+
+A instauração de procedimento administrativo para a resolução consensual de conflitos no âmbito da REURB, suspende a prescrição.
+
+
+Art. 12.
+
+A Certidão de Regularização Fundiária - CRF é o ato administrativo de aprovação da REURB, que acompanhará o projeto de regularização fundiária aprovado e conterá, no mínimo:
+
+
+I –
+
+o nome do núcleo urbano regularizado;
+
+
+II –
+
+a localização do núcleo urbano regularizado;
+
+
+III –
+
+a modalidade da REURB;
+
+
+IV –
+
+os responsáveis pelas obras e pelos serviços constantes do cronograma, quando for o caso;
+
+
+V –
+
+a indicação numérica de cada unidade regularizada, quando possível;
+
+
+VI –
+
+a listagem dos ocupantes que houverem adquirido a unidade, por meio de título de legitimação fundiária ou de ato único de registro, que conterá o nome do ocupante, o seu estado civil, a sua a profissão, o seu número de inscrição no CPF, o número de sua carteira de identidade e a sua a filiação.
+
+
+VII –
+
+Indicação da matricula de origem quando houver;
+
+
+Parágrafo único
+
+A CRF, na hipótese de REURB somente para titulação final dos beneficiários de núcleos urbanos informais já registrados junto ao Cartório de Registro de Imóveis, dispensa a apresentação do projeto de regularização fundiária aprovado.
+
+
+Art. 13.
+
+O indeferimento do projeto de regularização fundiária será técnica e legalmente fundamentado, de modo a permitir, quando possível, a reformulação do referido projeto e a reavaliação do pedido de aprovação.
+
+
+Art. 14.
+
+O projeto de REURB aprovado será enviado ao Poder Legislativo, para autorização da emissão da Certidão de regularização fundiária - CRF.
+
+
+Art. 15.
+
+Esta lei poderá ser regulamentada por decreto.
+
+
+Art. 16.
+
+Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, aos 04 dias do mês de novembro do ano de 2019.
+
+**VALDIR HERBESTER FILHO**  
+Prefeito de Amontada.
+

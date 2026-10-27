@@ -1,0 +1,253 @@
+---
+titulo: "Lei nº 1.065, de 05 de janeiro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1065"
+data: "2015-01-05"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1065"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1577/text"
+sha256_fonte: "ab05c8b86149e64baf7c3e87e6a521e57fda1343f651677d35347c9a1281ad63"
+sha256_texto: "954b9eac59864c2781df9ddce81932dd765b39a61c0ef2537970d79257fe4b77"
+capturado_em_fonte: "2026-10-21T06:16:11.674408-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.065, de 05 de janeiro de 2015
+
+Cria o Conselho Municipal de Saneamento Básico e dá outras providências.
+
+
+Faço saber que a Câmara Municipal de Amontada do Estado do Ceará decreta e aprova e eu, Prefeito Municipal de Amontada do Estado do Ceará sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Saneamento Básico, órgão de controle social dos serviços públicos de saneamento básico do Município de Amontada, destinado dentre outros aspectos a fornecer o necessário suporte da sociedade à política e ao Plano de Saneamento Básico.
+
+
+Art. 2º.
+
+Para efeitos desta lei, considera-se saneamento básico o conjunto de serviços, infraestrutura e instalações operacionais de:
+
+
+a)
+
+Abastecimento de água potável: constituído pelas atividades, infraestruturas e instalações necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e respectivos instrumentos de medição;
+
+
+b)
+
+Esgotamento sanitário: constituído pelas atividades, infraestruturas e instalações operacionais de coleta, transporte, tratamento e disposição final adequados dos esgotos sanitários, desde as ligações prediais até o seu lançamento final no meio ambiente;
+
+
+c)
+
+Limpeza urbana e manejo de resíduos sólidos: conjunto de atividades, infraestruturas e instalações operacionais de coleta. transporte, transbordo, tratamento e destino final do lixo doméstico e do lixo originário da varrição e limpeza de logradouros e vias públicas;
+
+
+d)
+
+Drenagem e manejo das águas pluviais urbanas: conjunto de atividades, infraestruturas e instalações operacionais de drenagem urbana de águas pluviais, de transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento disposição final das águas pluviais drenadas nas áreas urbanas.
+
+
+Art. 3º.
+
+Os serviços públicos de saneamento básico possuem natureza essencial e serão prestados com base nos seguintes princípios:
+
+
+I –
+
+Universalização do acesso;
+
+
+II –
+
+Integralidade, compreendida como o conjunto de todas as atividades e componentes de cada um dos diversos serviços de saneamento básico, propiciando à população o acesso na conformidade de suas necessidades e maximizando a eficácia das ações e resultados;
+
+
+III –
+
+Abastecimento de água, esgotamento sanitário, limpeza urbana, manejo dos resíduos sólidos e manejo de águas pluviais realizados de formas adequadas à saúde pública e a proteção do meio ambiente;
+
+
+IV –
+
+Disponibilidade, em todas as áreas urbanas, de serviços públicos de manejo das águas pluviais adequados à saúde pública e a segurança da vida e do patrimônio público e privado;
+
+
+V –
+
+doção de métodos, técnicas e processos que considerem as peculiaridades locais e regionais, não causem risco à saúde pública e promovam o uso racional da energia, conservação e racionalização do uso da água e dos demais recursos naturais;
+
+
+VI –
+
+Articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza e de sua erradicação, de proteção ambiental. de recursos hídricos, de promoção da saúde e outras de relevante interesse social voltadas para a melhoria da qualidade de vida, para as quais o saneamento básico seja fator determinante;
+
+
+VII –
+
+Eficiência e sustentabilidade econômica;
+
+
+VIII –
+
+Utilização de tecnologias apropriadas, considerando a capacidade de pagamento dos usuários e a adoção de soluções graduais e progressivas;
+
+
+IX –
+
+Transparência das ações, baseada em sistemas de informações e processos decisórios a institucionalizados;
+
+
+X –
+
+Controle social;
+
+
+XI –
+
+Segurança, qualidade e regularidade; e
+
+
+XII –
+
+Integração das infraestruturas e serviços com a gestão eficiente dos recursos hídricos.
+
+
+Art. 4º.
+
+O Conselho Municipal de Saneamento Básico será constituído pelos seguintes órgãos colegiados de caráter consultivo, assegurada a representação:
+
+
+I –
+
+03 (três) representantes dos Órgãos Governamentais relacionados ao Saneamento Básico;
+
+
+II –
+
+02 (dois) representantes dos Prestadores de Serviços Públicos de Saneamento Básico;
+
+
+III –
+
+03 (três) representantes das Entidades Técnicas;
+
+
+IV –
+
+02 (dois) representantes das Organizações de Defesa do Consumidor;
+
+
+V –
+
+05 (cinco) representantes das Organizações de Sociedade Civil.
+
+
+Parágrafo único
+
+A nomeação dos respectivos representantes se dará através de Decreto do Chefe do Poder Executivo.
+
+
+Art. 5º.
+
+Ao Conselho Municipal de Saneamento Básico de Amontada é assegurado o acesso aos relatórios, estudos, decisões e instrumentos equivalentes que se refira à regulação ou fiscalização dos serviços municipais de saneamento básico. bem como aos direitos e deveres dos usuários e prestadores de serviços, a eles, podendo ter acesso qualquer do pouco, independentemente da existência de interesse direto.
+
+
+§ 1º
+
+Excluem-se do disposto no caput os documentos, considerados de interesse público relevante, mediante notória prévia e motivada decisão.
+
+
+§ 2º
+
+A publicidade a que se refere o caput deverá se efetivar, preferencialmente por meio direto mantido na internet.
+
+
+§ 3º
+
+Está garantida ao Conselho Municipal de Saneamento Básico, a possibilidade de solicitar a elaboração de estudos com o objetivo de subsidiar a tomada de decisões, observando o disposto no § 1º no caput.
+
+
+Art. 6º.
+
+O Controle Social de Saneamento Básico de Amontada utilizará dentre outros os seguintes mecanismos:
+
+
+I –
+
+Debates e Audiências Públicas;
+
+
+II –
+
+Consultas Públicas;
+
+
+III –
+
+Conferência da Cidade;
+
+
+IV –
+
+Participação de órgãos colegiados de caráter consultivo na formulação da política de saneamento básico, bem no seu planejamento e avaliação.
+
+
+§ 1º
+
+As audiências públicas mencionadas no inciso I do caput devessem realizar de modo a possibilitar o acesso da população, podendo ser realizadas de forma regionalizada.
+
+
+§ 2º
+
+As consultas públicas mencionadas no inciso II do caput devem ser promovidas de forma a possibilitar que qualquer povo, independentemente de interesse, ofereça críticas e sugestões a proposta do Poder Público, devendo tais consultas ser adequadamente respondidas.
+
+
+Art. 7º.
+
+O Presidente do Conselho Municipal de Saneamento Básico, será eleito por seus membros, com mandato de 02 (dois) anos, podendo ser reeleito por mais um mandato.
+
+
+§ 1º
+
+Os membros do Conselho e seus respectivos suplentes, terão mandato de 02 (dois) anos, podendo ser renovados por igual período;
+
+
+§ 2º
+
+O desempenho das funções dos membros do Conselho não será remunerado;
+
+
+§ 3º
+
+Os serviços prestados ao Conselho Municipal de Saneamento Básico, serão considerados como de "Relevante Serviço Público e Comunitário".
+
+
+Art. 8º.
+
+O Conselho Municipal de Saneamento Básico de Amontada reger-se-á por Regimento Interno, a ser elaborado e aprovado no prazo máximo de 30 (trinta) dias após a posse dos seus membros.
+
+
+Parágrafo único
+
+A instalação do Conselho Municipal de Saneamento Básico e a nomeação dos Conselheiros que serão homologados por Decreto do Executivo Municipal, ocorrerá no prazo máximo de 60 (sessenta) dias, contados a partir da data da publicação desta lei.
+
+
+Art. 9º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA-CE, 05 de janeiro de 2015.**
+
+**Paulo César dos Santos Prefeitura Municipal de Amontada**
+

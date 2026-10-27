@@ -1,0 +1,89 @@
+---
+titulo: "Lei nº 1.096, de 13 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1096"
+data: "2015-10-13"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1096"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1606/text"
+sha256_fonte: "ff3539724032f7d5321e32bc836746f8d410a3352ef224794cea2e6a26f138a8"
+sha256_texto: "fc8b561a1d0b35b8adca50235d12c4d9c993e836345f0dcf1332e27f68012221"
+capturado_em_fonte: "2026-10-21T06:14:22.594393-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.096, de 13 de outubro de 2015
+
+Institui o Projeto Alunos Medalhistas – Esperança No Futuro rede Pública Municipal e Estadual Ensino e Escolas Destaques no SPAECE e Maior IDEB.
+
+
+O **PRESIDENTE DA CÂMARA MUNICIPAL DE AMONTADA**, Afrânio Santos Rodrigues, no uso de suas atribuições, faz saber que a **Câmara Municipal de Amontada**, aprovou, e tendo transcorrido o prazo legal de 15 dias para a sanção pelo Prefeito Municipal, sendo sancionada de forma tácita, promulgo a seguinte Lei.
+
+
+Art. 1º.
+
+Fica Instituído no Município de Amontada, dia 11 de Agosto - Dia do Estudante, a realização de Sessão Solene na Câmara Municipal de Amontada para o reconhecimento, do legislativo de Honra ao Mérito aos ALUNOS MEDALIDSTAS - esperança no futuro e as Escolas DESTAQUE no SPAECE- Sistema Permanente de Avaliação do estado do Ceará e maior IDEB - Índice de Desenvolvimento da Educação Básica, reconhecimento de saberes, esforços, vitórias e qualidade na educação na Rede Pública de Ensino Municipal e Estadual deste Município.
+
+
+Art. 2º.
+
+A Secretaria de Educação conjuntamente com o Conselho Municipal de Educação deste município encaminhará à Câmara Municipal de Amontada através de ofício a relação dos Alunos Medalhistas da Rede Municipal e Estadual de Ensino que participaram das avaliações externas do ano anterior e obtiveram sucesso nos resultados das seguintes avaliações: OBFEP - Olimpíada Brasileira de Física das Escolas Públicas, Olimpíada Canguru de Matemática, OBMEP - Olimpíadas Brasileiras de Matemáticas das Escolas Públicas, OBA - Olimpíadas Brasileiras de Astronomia, OBB - Olimpíada Brasileira de Biologia, ONHB - Olimpíadas Nacional de História do Brasil, Olimpíadas Brasileira Escrevendo o Futuro e demais olimpíadas que nossos alunos possam concorrer e serem medalhistas.
+
+
+Parágrafo único
+
+deverá ser encaminhada à esta casa legislativa através de oficio o nome do aluno medalhista, o nome da Escola, Professor e dos Pais ou responsável deste aluno até o final do mês de Julho. Ressalta-se que a escola, o aluno, professores e pais receberão medalhas de reconhecimento e incentivo ao processo educacional.
+
+
+Art. 3º.
+
+A Casa Legislativa neste Projeto de Lei de reconhecimentos de saberes, avanços no processo educacional e aprendizado, reconhecerá as escolas do município que conseguirem atingir a proficiência adequada a cada ano série e maior IDEB se tomando ESCOLAS DESTAQUE, conhecidas como Escolas nota 10. Essas avaliações acontecem com alunos do 2º linguagem , 5º e 9º anos em Língua Portuguesa e Matemática. Daí a importância desta casa fazer jus esse reconhecimento simbólico de Honra ao Mérito.
+
+
+Parágrafo único
+
+A Secretaria de Educação e Conselho Municipal de Educação baseado nos critérios avaliativos encaminhará através de oficio a esta casa legislativa o nome de todas as escolas DESTAQUE e seus respectivos Professore das disciplinas avaliadas até o [mal do mês de Julho.
+
+
+Art. 4º.
+
+O Prêmio deverá ser entregue, em Sessão Solene na Câmara Municipal de Amontada, em parceria com o executivo, no dia 11 de agosto de cada ano. Caso a referida data coincidir com [mais de semana, a Sessão será realizada na primeira sessão após a data.
+
+
+Art. 5º.
+
+Na Sessão Solene as escolas receberão placas alusiva e alunos, professores e pais serão contemplados com medalhas por seus desempenhos e êxito nas avaliações externas.
+
+
+Art. 6º.
+
+A escola na qual o aluno medalhista nas olimpíadas estuda deverá apresentar na ocasião da premiação a biografia do aluno, relatando sua trajetória educacional e suas experiências exitosas.
+
+
+Art. 7º.
+
+As Escolas Destaques no SPACE e IDEB apresentarão um histórico dos avanços educacionais através de suas intervenções pedagógicas, experiências exitosas e projetos de alto impacto que possibilitou a escola atingir o nível de proficiência adequada e maior IDEB nas avaliações externas para a conquista e fazer jus ao Mérito .
+
+
+Art. 8º.
+
+As despesas decorrentes com o ato correrão por conta de dotações orçamentárias próprias desta Câmara Legislativa.
+
+
+Art. 9º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+
+**Paço da Câmara Municipal de Amontada**, aos 13 de Outubro de 2015.
+
+Afrânio Santos Rodrigues  
+**Presidente da Câmara Municipal de Amontada**
+

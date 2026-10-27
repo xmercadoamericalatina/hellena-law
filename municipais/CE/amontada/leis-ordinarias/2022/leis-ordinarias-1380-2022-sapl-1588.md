@@ -1,0 +1,270 @@
+---
+titulo: "Lei nº 1.380, de 28 de fevereiro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1380"
+data: "2022-02-28"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1588"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/925/text"
+sha256_fonte: "5133b572f0fa3963f70abb459100d2896dd7b12d95d05b19a69f331e2f6b0806"
+sha256_texto: "07f2699eead8be69a0910910db83ba4e8ee0f9b3d60627a376d98e114a19e557"
+capturado_em_fonte: "2026-10-21T06:03:22.509608-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.380, de 28 de fevereiro de 2022
+
+Dispõe sobre a implantação do Sistema Universidade Aberta do Brasil - UAB, no âmbito do Município de Amontada, voltado a oferta de cursos e programas na modalidade à distância, mediante a criação e manutenção de polos de apoio presencial, nos termos e condições que especifica.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a implantar, em convênio com o Ministério da Educação - MEC, o Sistema Universidade Aberta do Brasil - UAB no âmbito do Município de Amontada, voltado a oferta de cursos na modalidade a distancia, mediante a criação e manutenção de Polos de Apoio Presencial, mos temos e condições especificados nesta Lei.
+
+
+Art. 2º.
+
+Os Polos de Apoio Presencial UAB - AMONTADA, vinculados a Secretaria Municipal de Educação, são unidades operacionais criadas para o desenvolvimento descentralizado, em articulação com o Sistema Universidade Aberta - UAB, de atividades didático-pedagógicas e administrativas relativas a cursos e programas ofertados a distancia, neles devendo ser realizadas as atividades presenciais obrigatórias, segundo a regulamentação da educação a distância no Brasil.
+
+
+Art. 3º.
+
+Caberá a Secretaria Municipal de Educação:
+
+
+I –
+
+prover a implantação e manutenção dos Polos de Apoio Presencial da UAB - AMONTADA, com dotação onçamentária própria, podendo, para tanto, firmar convênios e/ou parcerias com instituições governamentais, nas esferas federal, estaduais e municipais, ou não governamentais observadas a legislação pertinente em vigor;
+
+
+II –
+
+fiscalizar a aplicação de todos os recursos, financeiros e outros, destinados aos Polos de Apoio Presencial da UAB-SP.
+
+
+Art. 4º.
+
+Constituem objetivos dos Polos de Apoio Presencial da UAB-AMONTADA:
+
+
+I –
+
+oferecer cursos de licenciatura e de formação inicial e continuada a professores da educação básica, bem como, cursos de graduação e cursos de especialização.
+
+
+II –
+
+oferecer cursos superiores para capacitação de dirigentes, gestores e trabalhadores em educação básica;
+
+
+III –
+
+ampliar projetos, pesquisa e extensão que visem o desenvolvimento sócio-educacional em regime de colaboração com instituições públicas, privadas, estatais e organizações não governamentais;
+
+
+IV –
+
+oferecer cursos superiores nas diferentes áreas do conhecimento;
+
+
+V –
+
+ampliar o acesso a educação superior pública;
+
+
+VI –
+
+fomentar o desenvolvimento institucional para a modalidade de educação a distancia, bem como a pesquisa em metodologias inovadoras de ensino superior apoiadas em tecnologia de informação e comunicação;
+
+
+VII –
+
+preparar os profissionais para utilizar as novas tecnologias como recurso pedagógico;
+
+
+VIII –
+
+criar uma comunidade em que o professor possa desenvolver conteúdos em grupo e trocar experiências com outros profissionais da área, no Brasil e no exterior;
+
+
+IX –
+
+implementar o programa de capacitação dos profissionais da educação sobre a igualdade de gênero e de raça/cor, para o combate a discriminação das mulheres e dos negros;
+
+
+X –
+
+organizar e reforçar o acervo existente no âmbito da Secretaria Municipal de Educação, incrementando-o com dados, informações, periódicos, etc... constituindo, para tanto, parcerias com universidades, outras bibliotecas, editoras e instituições governamentais e não governamentais;
+
+
+XI –
+
+considerar as unidades escolares como lócus da formação em serviço;
+
+
+XII –
+
+promover a formação permanente no local de trabalho e reconhecer a importância da interação com a comunidade para a formação profissional.
+
+
+XIII –
+
+proporcionar atrav5s de convênios e pareceres com IFES, Ministério de Educação e Fórum dos Estados: cursos superiores e cursos profissionalizantes de ensino médio que venham a fomentar o desenvolvimento sustentável no Município de Amontada.
+
+
+XIV –
+
+ampliar projetos, pesquisa e extensão que visem o desenvolvimento sócio-educacional em regime de colaboração com empresas privadas, estatais e ONGs.
+
+
+Art. 5º.
+
+Os Polos de Apoio Presencial da UAB-AMONTADA cumprirão suas finalidades e objetivos sócio-educacionais em regime de colaboração com a União e o Estado do Ceará, mediante a oferta de cursos e programas de educação superior a distancia por instituições públicas de ensino superior.
+
+
+Art. 6º.
+
+Para a formalização dos Polos de Apoio Presencial da UAB-AMONTADA, o Poder Executivo Municipal firmara acordo de cooperação técnica com a União e convênios com instituições públicas de ensino superior.
+
+
+§ 1º
+
+Para formalização do Polo Municipal previsto neste artigo o Poder Executivo Municipal firmara Acordo de Cooperação Técnica com a União e Convênios com instituições públicas de ensino superior.
+
+
+§ 2º
+
+O Município de Amontada poderá ainda estabelecer parcerias com órgãos locais, governamentais ou não governamentais, para viabilizar a implantação do Polo, através de Acordos ou Convênios.
+
+
+Art. 7º.
+
+Toda a infraestrutura fisica e logística, como laboratórios, bibliotecas, recursos tecnológicos e outros necessários ao funcionamento dos Polos de Apoio Presencial da UAB-AMONTADA, será de responsabilidade do Município de Amontada, por meio da Secretaria Municipal de Educação, a qual poderá estabelecer parcerias com órgãos governamentais ou não governamentais para viabilizar a sua implantação e manutenção.
+
+
+Art. 8º.
+
+Incumbirá a Secretaria Municipal de Educação a gestão administrativa e financeira dos acordos e convênios necessários a implantação, operacionalização e sustentação dos Polos de Apoio Presencial da UAB-AMONATADA.
+
+
+Art. 9º.
+
+A administração dos cursos e de competência das instituições de ensino superior parceiras, credenciadas e autorizadas pelo Ministério da Educação - MEC a ofertar cursos ou programas na modalidade de educação a distancia.
+
+
+Art. 10.
+
+Será designado, para cada Polo de Apoio Presencial da UAB-AMONTADA, um Coordenador escolhido por meio de processo seletivo realizado conforme as regras estabelecidas pelo Ministério da Educação -MEC.
+
+
+§ 1º
+
+Para o exercício da função de Coordenador de Polo de Apoio Presencial da UAB-AMONTADA, poderá ser designado titular de cargo da classe dos docentes, da carreira do magistério municipal, com formação superior e experiência mínima de 3 (três) anos no magistério municipal, o qual ficará sujeito ao cumprimento da jornada especial de 40 (quarenta) horas semanais de trabalho.
+
+
+§ 2º
+
+O Coordenador de Polo de Apoio Presencial fara jus a bolsa de estudo mensal a cargo do Ministério da Educação - MEC.
+
+
+Art. 11.
+
+São responsabilidades e atribuições do Coordenador de Polo de Apoio Presencial da UAB-AMONTADA:
+
+
+I –
+
+buscar a consolidação de ações e programas do Ministério da Educação - MEC, zelando junto aos demais servidores públicos municipais e estaduais para que o Polo de Apoio Presencial seja um espaço social, acadêmico e cultural determinante para as metas do desenvolvimento regional sustentável;
+
+
+II –
+
+garantir o adequado funcionamento do Polo de Apoio Presencial em relação as atividades educacionais e administrativas que se fizerem necessárias, bem como a interlocução entre os participantes do Sistema Universidade Aberta - UAB-AMONTADA, do Ministério da Educação - MEC;
+
+
+III –
+
+administrar os recursos financeiros consignados anualmente no orçamento municipal e repassados mensalmente pela Secretaria Municipal de Educação ao Polo de Apoio Presencial.
+
+
+Art. 12.
+
+Serão designados Coordenadores Pedagógicos para os Polos de Apoio Presencial com mais de 100 (cem) alunos.
+
+
+Parágrafo único
+
+Para o exercício da função de Coordenador Pedagógico em Polo de Apoio Presencial da UAB-AMONTADA, será designado titular de cargo de Coordenador Pedagógico, da classe dos gestores educacionais, da carreira do magistério municipal, sem prejuízo de vencimentos, mas com prejuízo de suas funções.
+
+
+Art. 13.
+
+Serão designados Secretários Acadêmicos para os Polos de Apoio Presencial da UAB-AMONTADA, na seguinte proporcionalidade.
+
+
+I –
+
+até 100 (cem) alunos: 2 (dois) Secretários Acadêmicos;
+
+
+II –
+
+de 101 (cento e um) a 150 (cento e cinquenta) alunos: 3 (três) Secretários Acadêmicos;
+
+
+III –
+
+de 151 (cento e cinquenta e um) a 200 (duzentos) alunos: 4 (quatro) Secretários Acadêmicos;
+
+
+IV –
+
+acima de 200 (duzentos) alunos: 5 (cinco) Secretários Acadêmicos.
+
+
+Parágrafo único
+
+Para o exercício da função de Secretario Acadêmico nos Polos de Apoio Presencial, poderão ser designados servidores do quadro de pessoal da Secretaria Municipal de Educação, portadores de diploma de formação em curso superior, com prejuízo de suas funções, mas sem prejuízo de seus vencimentos.
+
+
+Art. 14.
+
+Poderão ser designados titulares de cargos da classe dos docentes, da carreira do magistério municipal, para atuação nos laboratórios de química, física e biologia integrantes da estrutura dos Polos de Apoio Presencial da UAB-AMONTADA que ofertem esses cursos, com prejuízo de suas funções, mas sem prejuízo de seus vencimentos.
+
+
+Art. 15.
+
+Os serviços técnicos na área de informática, bem como os de limpeza e de segurança patrimonial, necessários ao funcionamento e manutenção dos Polos de Apoio Presencial da UAB-AMONTADA, serão de responsabilidade da Secretaria Municipal de Educação.
+
+
+Art. 16.
+
+As despesas com a execução desta lei correrão por conta de dotação orçamentária própria, vinculada a Secretaria Municipal de Educação, suplementada se necessárias.
+
+
+Art. 17.
+
+Fica o Poder Executivo Municipal autorizado a regular esta Lei por meio de Decreto, no que couber.
+
+
+Art. 18.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA**, em 28 de fevereiro de 2022.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

@@ -1,0 +1,144 @@
+---
+titulo: "Lei Ordinária nº 2.411, de 09 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.411"
+data: "2023-03-09"
+municipio: "Alpinópolis"
+uf: "MG"
+codigo_ibge: "3101904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.alpinopolis.mg.leg.br/norma/34"
+fonte_texto: "https://sapl.alpinopolis.mg.leg.br/ta/34/text"
+sha256_fonte: "7d45e3f5c31f59a57a8ba1c2f89303cfa66ba6891f8515731da754dd9d49c2d3"
+sha256_texto: "ddebcc302ad4054bf7db8ce0deec2dabb64ca837fec9abb2a42ddabf8685025f"
+capturado_em_fonte: "2026-10-21T05:24:58.104211-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.411, de 09 de março de 2023
+
+DISPÕE SOBRE A RESERVA DE COTAS RACIAIS PARA O INGRESSO DE NEGROS E NEGRAS NO SERVIÇO PÚBLICO MUNICIPAL.
+
+
+Faço saber que a Câmara Municipal de Alpinópolis, Estado de Minas Gerais aprovou eu, Prefeito Municipal, nos termos do disposto no art. 85, VI c/c art. 62, caput da Lei Orgânica Municipal sanciono a seguinte Lei, sem emenda,
+
+
+Art. 1º.
+
+Ficam reservadas aos negros e negras 20% (vinte por cento) das vagas oferecidas nos Concursos Públicos para provimento de cargos efetivos e empregos públicos no âmbito da Administração Pública Municipal de quaisquer dos poderes, inclusive das Autarquias, das Fundações Públicas, das Empresas Públicas e das Sociedades de Economia Mista, controladas do Município de Alpinópolis, na forma desta Lei.
+
+
+§ 1º
+
+A reserva de vagas será aplicada sempre que o número de vagas oferecidas no Concurso Público for igual ou superior a 3 (três).
+
+
+§ 2º
+
+Na hipótese de quantitativo fracionado para o número de vagas reservadas a candidatos negros, esse será aumentado para o primeiro número inteiro subsequente, em caso de fração igual ou maior que 0,5 (cinco décimos), ou diminuído para número inteiro imediatamente inferior, em caso de fração menor que 0,5 (cinco décimos).
+
+
+§ 3º
+
+Os percentuais mínimos previstos no *caput* deste art.1º aplicam-se também à contratação de estágio profissional desenvolvido pela Administração Direta e Indireta do Município de Alpinópolis.
+
+
+§ 4º
+
+A reserva de vagas a candidatos negros constará expressamente dos Editais dos Concursos Públicos, que deverão especificar o total de vagas correspondentes à reserva para cada cargo ou emprego público oferecido.
+
+
+Art. 2º.
+
+Poderão concorrer às vagas reservadas a candidatos negros aqueles que se autodeclararem pretos ou pardos no ato da inscrição no concurso público, conforme o quesito cor ou raça utilizado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.
+
+
+§ 1º
+
+A autodeclaração goza de presunção relativa de veracidade e não dispensa a efetiva correspondência da identidade fenotípica do beneficiário desta Lei com a de pessoas identificadas socialmente como negras.
+
+
+§ 2º
+
+Na hipótese de constatação de declaração falsa, o candidato será eliminado do Concurso e se houver sido nomeado, ficará sujeito à anulação da sua nomeação ou admissão ao serviço ou emprego público, após procedimento administrativo em que lhe sejam assegurados o contraditório e a ampla defesa, sem prejuízo de outras sanções cabíveis.
+
+
+Art. 3º.
+
+Os candidatos negros concorrerão concomitantemente às vagas reservadas e às vagas destinadas à ampla concorrência, de acordo com a sua classificação no Concurso.
+
+
+§ 1º
+
+Os candidatos negros aprovados dentro do número de vagas oferecidas para ampla concorrência não serão computados para efeito do preenchimento das vagas reservadas.
+
+
+§ 2º
+
+Em caso de desistência de candidato negro aprovado em vaga reservada, a vaga será preenchida pelo candidato negro posteriormente classificado.
+
+
+§ 3º
+
+Na hipótese de não haver número de candidatos negros aprovados suficiente para ocupar as vagas reservadas, as vagas remanescentes serão revertidas para a ampla concorrência e serão preenchidas pelos demais candidatos aprovados, observada a ordem de classificação.
+
+
+§ 4º
+
+Para investidura em cargos ou empregos públicos os beneficiários das cotas garantidas pela presente Lei, necessariamente, deverão prestar Concurso Público para seu ingresso no serviço público.
+
+
+§ 5º
+
+Os Editais para os concursos públicos deverão constar expressamente o total de vagas destinadas à ampla concorrência, bem como o total de vagas destinadas aos beneficiários desta Lei, para cada cargo ou emprego público oferecido;
+
+
+Art. 4º.
+
+A nomeação dos candidatos aprovados respeitará os critérios de alternância e proporcionalidade, que consideram a relação entre o número de vagas total e o número de vagas reservadas a candidatos com deficiência e a candidatos negros.
+
+
+Art. 5º.
+
+Para cada Concurso Público, em sua etapa inicial, deverá ser formada uma Comissão Externa a título de banca examinadora, composta por 3 (três) membros compreendidos em duas pessoas negras e uma pessoa branca para averiguar a veracidade da autodeclaração, de maneira a não haver fraudes.
+
+
+Art. 6º.
+
+A Comissão Externa será nomeada pelo Prefeito Municipal da pasta do referido concurso, selecionada na secretaria respectiva ou na sociedade civil compreendendo pessoas que externem notório saber do que significa fenótipo.
+
+
+Art. 7º.
+
+A opção pela participação em Concurso Público por meio desta Lei, é facultativa.
+
+
+Art. 8º.
+
+O sistema de cotas previsto nesta Lei vigorará por dez anos, a partir de sua publicação.
+
+
+Art. 9º.
+
+As eventuais despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 10.
+
+Esta Lei não se aplica aos Concursos Públicos em andamento, cujos Editais já tenham sido publicados antes de sua entrada em vigor.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, devendo ser regulamentada pelo Executivo até 60 (sessenta) dias, contados de sua publicação.
+
+
+Alpinópolis (MG), em 09 de fevereiro de 2023.  
+  
+**Rafael Henrique da Silva Freire**  
+Prefeito Municipal
+

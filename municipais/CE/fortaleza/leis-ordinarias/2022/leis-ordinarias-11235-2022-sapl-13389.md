@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 11.235, de 28 de fevereiro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11235"
+data: "2022-02-28"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13389"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3840/text"
+sha256_fonte: "029ebc85c28e0276d5819c7def03b5843349101adabbe9d453662a15c840f947"
+sha256_texto: "22b5a2c529dd93377d188806204629ceddcff2717062cbf9f39442b3551391f0"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.235, de 28 de fevereiro de 2022
+
+Autoriza o Poder Executivo a criar, no orçamento fiscal, a unidade orçamentária Coordenadoria Especial de Proteção e Bem-Estar Animal (Coepa), vinculada ao Gabinete do Prefeito, com crédito especial no valor de R$ 8.749.000, para o fim que indica.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criada, como unidade orçamentária vinculada ao Gabinete do Prefeito, a Coordenadoria Especial de Proteção e Bem-Estar Animal (Coepa).
+
+
+Art. 2º.
+
+Para atender às despesas relativas à criação da referida unidade, fica o Poder Executivo autorizado a abrir crédito adicional especial na Lei Orçamentária Anual (LOA) no valor de R$ 8.749.000 (oito milhões, setecentos e quarenta e nove mil reais) para a Coordenadoria Especial de Proteção e Bem-Estar Animal (Coepa), proveniente de anulações de dotações orçamentárias, obedecidas as prescrições contidas nos incisos I a IV do § 1º do art. 43 da Lei federal n.º 4.320, de 17 de março de 1964, e em alterações posteriores, bem como a promover as alterações necessárias na Lei de Diretrizes Orçamentárias (LDO) e no Plano Plurianual (PPA) para atender às despesas decorrentes desta Lei.
+
+
+Art. 3º.
+
+O ato que abrir o crédito indicará o detalhamento da despesa em que serão alocados e cancelados os recursos.
+
+
+Art. 4º.
+
+Durante a execução orçamentária, o crédito autorizado poderá ser alterado, observado o disposto no art. 7º da Lei n.º 11.222, de 27 de dezembro de 2021 (LOA 2022).
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 28 DE FEVEREIRO DE 2022.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

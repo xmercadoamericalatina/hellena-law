@@ -1,0 +1,255 @@
+---
+titulo: "Lei nº 1.768, de 29 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1768"
+data: "2026-06-29"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3649"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1662/text"
+sha256_fonte: "1c3d0f5613a6be8876401253d6bfd059cabf2e3130bcfaa9ad1f0211510e3e9b"
+sha256_texto: "762c3f4bf76940190489a37a8914686ab33c2da0728305efa0b6550771a00f1e"
+capturado_em_fonte: "2026-10-21T05:39:45.333917-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.768, de 29 de junho de 2026
+
+Institui a Política Municipal de Promoção da Igualdade Racial; cria o Conselho Municipal de Promoção da Igualdade Racial; atribui competências ao Núcleo de Diversidade e Mulher, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE AMONTADA**  
+Faço saber que a Câmara Municipal de Amontada aprovou, e eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — DA POLÍTICA MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Promoção da Igualdade Racial, destinada à garantia de direitos da população negra, povos originários, quilombolas, ciganos, povos de terreiros, migrantes, refugiados, apátridas e povos e comunidades tradicionais, bem como ao combate à discriminação e à intolerância étnica, racial e religiosa.
+
+
+Parágrafo único
+
+A Política será regida por esta Lei e efetivada por meio de programas e serviços sociais básicos de educação, saúde, cultura, além de programas de ações afirmativas que assegurem a inserção socioeconômica das comunidades etnicamente excluídas.
+
+
+Art. 2º.
+
+São objetivos da Política Municipal de Promoção da Igualdade Racial:
+
+
+I –
+
+promover o enfrentamento das desigualdades étnico-raciais, mediante a realização de ações a curto, médio e longo prazos;
+
+
+II –
+
+erradicar qualquer fonte ou forma de discriminação, vedando atos discriminatórios em ambientes de trabalho, educação, cultura, serviços sociais e saúde;
+
+
+III –
+
+contribuir para o reconhecimento e a integração, no currículo escolar, da pluralidade étnico-racial brasileira, nos termos das Leis Federais nº 10.639, de 9 de janeiro de 2003 e 11.645, de 10 de março de 2008;
+
+
+IV –
+
+planejar, organizar, executar e avaliar ações de forma intersetorial, garantindo a unidade política dos vários órgãos do município.
+
+
+Art. 3º.
+
+Fica estabelecida a criação do Plano Municipal de Promoção da Igualdade Racial, a ser elaborado com a participação da sociedade civil e aprovado em ato próprio, com validade de 10 (dez) anos, sendo avaliado e revisado a cada 2 (dois) anos.
+
+
+### TÍTULO II — DO ÓRGÃO GESTOR DA POLÍTICA MUNICIPAL
+
+
+Art. 4º.
+
+A coordenação, o planejamento, a articulação e a execução da Política Municipal de Promoção da Igualdade Racial e do Plano Municipal de Promoção da Igualdade Racial ficarão sob a responsabilidade do Núcleo de Diversidade e Mulher, já existente na estrutura administrativa do Município de Amontada.
+
+
+Art. 5º.
+
+Ficam acrescidas às atribuições do(a) Coordenador(a) de Diversidade e Mulher (Simbologia SAS-1) e de sua respectiva equipe técnica (Assessoria Técnica Administrativa e Assessoria de Apoio Logístico), as seguintes competências específicas:
+
+
+I –
+
+articular, promover e desenvolver as políticas públicas de promoção da igualdade racial de forma colaborativa com as áreas de saúde, educação, habitação e outras;
+
+
+II –
+
+realizar levantamento das demandas da população negra local e articular a execução das políticas de equidade racial;
+
+
+III –
+
+assessorar o Prefeito e demais Secretarias nas articulações de projetos estaduais e federais voltados à temática;
+
+
+IV –
+
+atuar como órgão de gestão local para fins de vinculação e cumprimento das exigências do Sistema Nacional de Promoção da Igualdade Racial (SINAPIR);
+
+
+V –
+
+prestar apoio técnico e administrativo ao Conselho Municipal de Promoção da Igualdade Racial.
+
+
+Art. 6º.
+
+O acréscimo de atribuições previsto no artigo anterior não ensejará a criação de novos cargos públicos, tampouco gerará aumento de despesas com pessoal ou acréscimos remuneratórios, sendo incorporado às funções já desempenhadas pelo Núcleo de Diversidade e Mulher.
+
+
+### TÍTULO III — DO CONSELHO MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL
+
+
+Art. 7º.
+
+Fica criado o Conselho Municipal de Promoção da Igualdade Racial de Amontada (COMPIR), de caráter permanente, consultivo e deliberativo.
+
+
+Art. 8º.
+
+O COMPIR terá composição paritária, constituído por 10 (dez) membros titulares e seus respectivos suplentes, distribuídos da seguinte forma:
+
+
+I –
+
+pelo Poder Público:
+
+
+a)
+
+1 (um) representante do Núcleo de Diversidade e Mulher;
+
+
+b)
+
+1 (um) representante da Secretaria Municipal de Proteção e Assistência Social;
+
+
+c)
+
+1 (um) representante da Secretaria Municipal de Educação;
+
+
+d)
+
+1 (um) representante da Secretaria Municipal de Saúde;
+
+
+e)
+
+1 (um) representante da Secretaria Municipal de Turismo e Cultura.
+
+
+II –
+
+pela sociedade civil:
+
+
+a)
+
+1 (um) representante de instituição não governamental ligada ao movimento negro;
+
+
+b)
+
+1 (um) representante de mulheres negras;
+
+
+c)
+
+1 (um) representante da juventude negra;
+
+
+d)
+
+1 (um) representante de povos de terreiro;
+
+
+e)
+
+1 (um) representante de povos e comunidades tradicionais.
+
+
+Art. 9º.
+
+Os membros do COMPIR, indicados pelo Poder Público e eleitos pela sociedade civil, terão mandato de 2 (dois) anos, sendo permitida uma única recondução.
+
+
+Parágrafo único
+
+A atuação como conselheiro(a) do COMPIR é considerada função de relevante interesse público e não será remunerada. O processo de eleição dos representantes da sociedade civil será detalhado no Regimento Interno do Conselho.
+
+
+Art. 10.
+
+Compete ao COMPIR, além de outras atribuições definidas em seu Regimento:
+
+
+I –
+
+participar da elaboração, implementação e monitoramento do Plano Municipal de Promoção da Igualdade Racial;
+
+
+II –
+
+convocar e coordenar a organização da Conferência Municipal de Promoção da Igualdade Racial;
+
+
+III –
+
+emitir pareceres e atas favoráveis aos processos de adesões estaduais e federais.
+
+
+### TÍTULO IV — DAS ADESÕES INSTITUCIONAIS
+
+
+Art. 11.
+
+Fica o Poder Executivo Municipal autorizado a aderir ao Sistema Nacional de Promoção da Igualdade Racial (SINAPIR), enviando o requerimento e as documentações comprobatórias de cumprimento dos requisitos legais ao Ministério da Igualdade Racial.
+
+
+Art. 12.
+
+Fica autorizado o ingresso do Município de Amontada na Trilha de Municipalização da Equidade Étnico-Racial, através da assinatura de Acordo de Cooperação Técnica junto à Secretaria Estadual de Igualdade Racial para a obtenção do "Selo Município sem Racismo".
+
+
+### TÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 13.
+
+O Poder Executivo garantirá unidade orçamentária própria voltada para a Política de Promoção da Igualdade Racial na Lei Orçamentária Anual (LOA), vinculada ao Gabinete do Prefeito, a fim de preencher os requisitos de enquadramento na modalidade Intermediária ou Plena do SINAPIR.
+
+
+Art. 14.
+
+As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias, consignadas no orçamento vigente, especialmente aquelas vinculadas ao Gabinete do Prefeito, podendo ser suplementadas, se necessário, na forma da legislação aplicável.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PAÇO DA PREFEITURA DO MUNICÍPIO DE AMONTADA, ESTADO DO CEARÁ, EM 29 DE JUNHO DE 2026.
+
+Flávio César Bruno Teixeira Filho  
+Prefeito do Município de Amontada
+

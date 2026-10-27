@@ -1,0 +1,83 @@
+---
+titulo: "Lei Ordinária nº 2.463, de 27 de junho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.463"
+data: "2023-06-27"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/2661"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/421/text"
+sha256_fonte: "a7f60939a3db88e235ebfae84af90405ba5d90706dbcdbb41aeb6453b869104e"
+sha256_texto: "e0e3c0ac14494bac63dc42db05c9eaa914d14dd15a34c41254b08f3b472fbe38"
+capturado_em_fonte: "2026-10-21T03:39:00.213040-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.463, de 27 de junho de 2023
+
+Dispõe sobre o abate de animais de pequeno porte em propriedade rural privada.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE RlO BRANCO-ACRE**,
+
+Nos termos do §7° do art. 40 da Lei Orgânica do Município promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizado o abate de animais de pequeno porte em propriedade rural privada no Município de Rio Branco, para consumo próprio e venda.
+
+
+Art. 2º.
+
+São considerados animais de pequeno porte:
+
+
+I –
+
+carneiros e bodes;
+
+
+II –
+
+suíno (porcos);
+
+
+III –
+
+aves (galinha, peru, capote, pato, marreco);
+
+
+IV –
+
+peixes.
+
+
+Art. 3º.
+
+É permitido o abate mensal de até 100 (cem) animais de pequeno porte.
+
+
+Art. 4º.
+
+O Executivo regulamentará as diretrizes sanitárias e de fiscalização dos matadouros em propriedade rural privada, no que couber a Lei Específica, no prazo máximo de 120 (cento e vinte) dias a contar da data de sua publicação.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco, 27 de junho de 2023.
+
+
+**VEREADOR RAIMUNDO NENÉM**
+
+Presidente da Câmara Municipal de Rio Branco -AC.
+

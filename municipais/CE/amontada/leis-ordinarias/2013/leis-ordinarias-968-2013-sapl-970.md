@@ -1,0 +1,68 @@
+---
+titulo: "Lei nº 968, de 28 de janeiro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "968"
+data: "2013-01-28"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/970"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1468/text"
+sha256_fonte: "8d9989b6d50d212bc5da34bc13d67b11be67870519a5833c16c1bfc644e8f17d"
+sha256_texto: "711930f789935d6f0405fc4ab71ce5c38c5b04d015d316a6e312aa3035880559"
+capturado_em_fonte: "2026-10-21T06:22:06.192855-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 968, de 28 de janeiro de 2013
+
+Autoriza a abertura de Crédito Adicional Especial e dá outras providências.
+
+
+**O Prefeito Municipal de Amontada, Paulo César dos Santos, Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte lei:**
+
+
+Art. 1º.
+
+Fica autorizado ao Chefe do Poder Executivo, com vistas a operacionalizar a nova estrutura administrativa do Poder Executivo Municipal, a abrir Crédito Adicional Especial até o limite da despesa fixada constante na Lei Orçamentária Anual para o exercício de 2013, cuja fonte de recurso poderá ocorrer por quaisquer umas das fontes admitidas pelo art. 43, parágrafo 1°. da Lei No. 4.320/1964.
+
+
+Parágrafo único
+
+Fica autorizado, o Chefe do Poder Executivo, a suplementar as dotações criadas pelo Crédito Adicional Especial constante no caput deste artigo, utilizando as seguintes fontes de recurso:
+
+
+I –
+
+Utilizando-se a fonte de recurso prevista no inciso I do § 1 º e § 2º do Art. 43 da Lei nº 4.320, de 17 de março de 1964, denominada superávit financeiro, cujo limite será a diferença entre o ativo e o passivo financeiro apurado no Balanço Patrimonial Consolidado no exercício de 2013;
+
+
+II –
+
+Utilizando-se a fonte de recurso excesso de arrecadação representado pelo total positivo das diferenças acumuladas, mês a mês, entre a arrecadação prevista e a efetivamente realizada até o encerramento do mês anterior à abertura do crédito adicional suplementar, conforme inciso II do § 1º e § 3º e 4º, do Art. 43 da Lei nº 4.320, de 17 de março de 1964 e do art. 8º, parágrafo único, da Lei Complementar nº. 101/2000;
+
+
+III –
+
+Utilizando-se como fonte de recursos compensatórios a anulação total ou parcial de dotações constantes na Lei Orçamentária para o exercício financeiro de 2013, referidas no inciso III, do § 1º, do Art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, até o limite de das despesas fixadas pela Lei Orçamentária para o Exercício de 2013;
+
+
+IV –
+
+Utilizando-se como fonte de recursos provenientes de Operações de Crédito Internas e Externas, em conformidade com o previsto no inciso IV, do § 1º, art. 43, da Lei Nº 4.320, de 17 de março de 1964, até o limite dos respectivos contratos, respeitadas as condições estabelecidas nas Resoluções Nº. 40 e 43 do Senado Federal.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data da sua publicação, com efeitos orçamentários e financeiros retroagindo a 02 de janeiro de 2013.
+
+
+**Paço da Prefeitura Municipal de Amontada, e, 28 de janeiro de 2013.**
+
+**Paulo César dos Santos Prefeito Municipal de Amontada**
+

@@ -1,0 +1,178 @@
+---
+titulo: "Lei nº 1.014, de 27 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1014"
+data: "2014-01-27"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1015"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1528/text"
+sha256_fonte: "1455e59df3fb76e04b18282ce236178c5614ce087ed8cfba71a0253c1a6575bf"
+sha256_texto: "e346b893c3eae8fc11b3203e7880be58ec4a9340625fddab1034b8e360860a5d"
+capturado_em_fonte: "2026-10-21T06:19:23.012568-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.014, de 27 de janeiro de 2014
+
+Cria condições especiais para implantação de projeto de habitação, vinculados a programas federais, em especial para o Programa Minha Casa, Minha Vida (PMCMV), Programa Nacional de Habitação Urbana (PNHU), Programa Nacional de Habitação Rural (PNHR), de interesse social, e dá outras providências.
+
+
+o Prefeito Municipal de Amontada-Ce, no uso de suas atribuições legais e constitucionais faz saber que a Câmara Municipal de Amontada provou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+A presente Lei, em consonância com Leis Federais inerentes à matéria; em destaque a Lei n° 11.977 DE 07/07/2009 - DOU 08/07/2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, as Leis nº 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória n° 2.197-43, de 24 de agosto de 2001; o Decreto nº 5.796 de 06/06/2006 - DOU 07/06/2006, que Regulamenta a Lei nº 11.124, de 16 de junho de 2005, que dispõe sobre o Sistema Nacional de Habitação de Interesse Social - SNHIS, cria o Fundo Nacional de Habitação de Interesse Social - FNHIS e institui o Conselho Gestor do FNHIS; o Decreto nº 7.499, de 16 de junho de 2011; Portaria Interministerial nº 229, de 28 de maio de 2012, (Publicada no DOU, Seção 1, nº. 103,terça-feira, 29 de maio de 2012, página 96), que Dispõe sobre o Programa Nacional de Habitação Rural - PNHR, integrante do Programa Minha Casa, Minha Vida - PMCMV, o CTN - Código Tributário Nacional, e; o CTM - Código Tributário Municipal garante condições especiais para implantação e execução de projetos e programas habitacionais seguintes:
+
+
+I –
+
+Fundo Nacional de Habitação de Interesse Social - FNHIS, criado pela Lei Federal nº 11.124, de 16 de junho de 2005 e regulamentado pelo Decreto nº 5.796, de 06 de junho de 2006, vinculado ao SNHIS - Sistema Nacional de Habitação de Interesse Social;
+
+
+II –
+
+Programa "MINHA CASA, MINHA VIDA" - PMCMV, do Governo Federal, instituído pela Medida Provisória n° 459, de 25 de Março de 2009;
+
+
+III –
+
+Programa Nacional de Habitação Urbana (PNHU) e Programa Nacional de Habitação Rural (PNHR);
+
+
+IV –
+
+Obras vinculadas ao Programa de Aceleração do Crescimento - PAC, criado pelo Decreto n° 6.025, de 22 de janeiro de 2007, desde que sejam de interesse social;
+
+
+V –
+
+Empreendimentos vinculados ao Programa de Subsídio à Habitação de Interesse Social, criado pela Lei Federal 10.998, de 15 de Dezembro de 2004.
+
+
+Parágrafo único
+
+Todos os projetos, vinculados aos programas relacionados nos incisos I, II, III, IV e V, poderão contar com condições especiais para implantação no Município, conforme dispõe a presente Lei, especialmente, no tocante a:
+
+
+a)
+
+Tratamento tributário diferenciado;
+
+
+b)
+
+Isenção ou redução de taxas diversas;
+
+
+c)
+
+Redução de prazos e simplificação das exigências para a aprovação de projetos;
+
+
+d)
+
+Agilidade e simplificação dos procedimentos de registro, transferência, alvará para construção e todos os demais que dependam do Executivo Municipal.
+
+
+Art. 2º.
+
+No aspecto tributário, serão garantidos os seguintes diferenciais:
+
+
+I –
+
+Para todos os serviços, ligado à construção civil, em empreendimentos vinculados aos programas, poderá ser determinada redução da alíquota do Imposto Sobre Serviços (ISS), conforme segue:
+
+
+a)
+
+Isenção ou redução, para empreendimentos destinados à faixa de renda familiar de 0 (zero) a 3 (três) salários mínimos;
+
+
+II –
+
+Para o Imposto de Transmissão de Bens Inter Vivos - ITBI, nos negócios relacionados aos programas, será determinada a seguinte progressão:
+
+
+a)
+
+Isenção ou redução, para empreendimentos destinados à faixa de renda familiar de 0 (zero) a 3 (três) salários mínimos;
+
+
+III –
+
+Para os serviços vinculados a seguros e financiamentos, nas operações que envolvam os programas, poderá ser determinada uma redução da alíquota do Imposto Sobre Serviços (ISS), conforme segue:
+
+
+a)
+
+Isenção ou redução, para empreendimentos destinados à faixa de renda familiar de 0 (zero) a 3 (três) salários mínimos;
+
+
+IV –
+
+As diferentes taxas, em especial, de licenciamento de projetos e de construção, poderão ter o seguinte tratamento:
+
+
+a)
+
+Isenção ou redução, para empreendimentos destinados à faixa de renda familiar de 0 (zero) a 3 (três) salários mínimos;
+
+
+§ 1º
+
+Para usufruir dos benefícios previstos nesta Lei, as empresas prestadoras dos serviços determinados nos incisos I ao IV, do Artigo 2º, deverão proceder ao registro dos empreendimentos, junto à Secretaria Municipal de Administração e Finanças, que deverão ser homologados pela autoridade competente, na forma de regulamento próprio.
+
+
+§ 2º
+
+Igualmente, as empresas e/ou contribuintes individuais, em todos os casos, deverão proceder a consignação, em documento fiscal, de que os serviços destinam-se a empreendimentos vinculados aos Programas e manter junto aos documentos fiscais a documentação que comprova tal situação, que deverão ser encaminhados à Secretaria Municipal de Administração e Finanças de Amontada, para fins de obtenção da isenção, redução ou incentivo fiscal.
+
+
+§ 3º
+
+Os benefícios, concedidos eventualmente a instituições de seguro e crédito ficam vinculados à comprovação de que tenha havido a redução, no mínimo equivalente ao beneficio fiscal ora concedido, no Custo Efetivo Total - CET da operação de crédito ou no valor do prêmio, no caso de seguro.
+
+
+§ 4º
+
+Os adquirentes de imóveis, vinculados aos Programas, deverão apresentar, junto à Fazenda Municipal, através de requerimento a ser estabelecido em regulamento próprio, certidão, fornecida pelo agente financeiro ou pelo Poder Público, de que o imóvel em questão vincula-se ao programa, para fins de obtenção da redução da base de cálculo do ITBI, de que trata a presente Lei, acompanhado obrigatoriamente do instrumento de compra e venda.
+
+
+Art. 3º.
+
+Respeitados os prazos previstos na Legislação Municipal, quando exigíveis, o Poder Executivo estabelecerá processo simplificado, acelerado e prioritário para a liberação de empreendimentos imobiliários, licença para construção, concessão de alvará e liberação de "habite-se", para os empreendimentos vinculados aos Programas abarcados por esta Lei.
+
+
+Art. 4º.
+
+As empresas prestadoras dos serviços, ao contratar mão de obra, darão prioridade aos cidadãos amontadenses, nos termos de regulamentação posterior.
+
+
+Art. 5º.
+
+Os incentivos fiscais concedidos por esta Lei terão a duração de 02 (dois) anos, a contar da sua publicação, podendo ser prorrogados por igual período a critério do poder público municipal.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará a presente Lei, no que couber, no prazo máximo de 180 (cento e oitenta) dias.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada-Ce, aos 27 de janeiro de 2014.
+
+**PAULO CÉSAR DOS SANTOS PREFEITO MUNICIPAL**
+

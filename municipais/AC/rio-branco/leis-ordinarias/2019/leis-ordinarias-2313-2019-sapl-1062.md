@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária nº 2.313, de 07 de janeiro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2313"
+data: "2019-01-07"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/1062"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/270/text"
+sha256_fonte: "23ab5fcb8abf7428646bb9be7d734c15bf23d44ca786ef70022de13e02c68abf"
+sha256_texto: "54d299687aec6a0b5ee77db964ad168c1d3c5f16412993eba5abb0d9923df103"
+capturado_em_fonte: "2026-10-21T03:50:11.582134-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.313, de 07 de janeiro de 2019
+
+Dispõe sobre os espaços e assentos reservados a pessoas com deficiência ou com mobilidade reduzida em cinemas, auditórios, estádios, ginásios de esporte, locais de espetáculos e de conferências similares.
+
+
+**A PREFEITA DO MUNICÍPIO DE RIO BRANCO - ACRE**, usando das atribuições que lhe são conferidas por Lei, **FAZ SABER** que a Câmara Municipal de Rio Branco aprovou e ela sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Nos teatros, cinemas, auditórios, estádios, ginásios de esportes, locais de espetáculos e de conferências e similares, serão reservados espaços livres para pessoas em cadeira de rodas e assentos para pessoas com deficiências ou com mobilidade reduzida, de acordo com a capacidade de lotação da edificação, conforme o disposto no art. 44, § 1°, da Lei Federal n° 13.146, de 6 de julho de 2015.
+
+
+§ 1º
+
+Os espaços e os assentos a que se refere o *caput*, a serem instalados e sinalizados conforme os requisitos estabelecidos nas normas técnicas de acessibilidade da Associação Brasileira de Normas Técnicas (ABNT), devem:
+
+
+I –
+
+ser disponibilizados, no caso de edificações com capacidade de lotação de até mil lugares, na proporção de:
+
+
+a)
+
+dois por cento de espaços para pessoas em cadeira de rodas, com a garantia de, no mínimo, um espaço; e
+
+
+b)
+
+dois por cento de assentos para pessoas com deficiência ou com mobilidade reduzida, com a garantia de, no mínimo, um assento; ou
+
+
+II –
+
+ser disponibilizados, no caso de edificações com capacidade de lotação acima de mil lugares, na proporção de:
+
+
+a)
+
+vinte espaços para pessoas em cadeira de rodas mais um por cento do que exceder mil lugares; e
+
+
+b)
+
+vinte assentos para pessoas com deficiência ou com mobilidade reduzida mais um por cento do que exceder mil lugares.
+
+
+§ 2º
+
+Cinquenta por cento dos assentos reservados para pessoas com deficiência ou com mobilidade reduzida devem ter características dimensionais e estruturais para o uso por pessoa obesa, conforme norma técnica de acessibilidade da ABNT, com a garantia de, no mínimo, um assento.
+
+
+§ 3º
+
+Os espaços e os assentos a que se refere este artigo deverão situar-se em locais que garantam a acomodação de um acompanhante ao lado da pessoa com deficiência ou com mobilidade reduzida, resguardado o direito de se acomodar proximamente a grupo familiar e comunitário.
+
+
+§ 4º
+
+Na hipótese de a aplicação do percentual previsto nos §§ 1° e 2° resultar em número fracionário, será utilizado o primeiro número inteiro superior.
+
+
+§ 5º
+
+As adaptações necessárias à oferta de assentos com características dimensionais e estruturais para o uso por pessoa obesa de que trata o § 2° serão implementadas no prazo de doze meses após a data da publicação desta Lei.
+
+
+§ 6º
+
+O direito à meia entrada para pessoas com deficiência não está restrito aos espaços e aos assentos reservados de que trata o *caput* e está sujeito ao limite estabelecido no § 10 do art. 1º da Lei Federal n° 12.933, de 26 de dezembro de 2013.
+
+
+§ 7º
+
+Os espaços e aos assentos a que se refere o *caput* deverão garantir às pessoas com deficiência auditiva boa visualização da interpretação em Libras e da legendagem descritiva, sempre que estas forem oferecidas.
+
+
+Art. 2º.
+
+O descumprimento desta Lei sujeitará o infrator às seguintes sanções:
+
+
+I –
+
+advertência escrita contendo prazo para regularização;
+
+
+II –
+
+em caso de não regularização, multa correspondente a quarenta Unidades Fiscais do Município de Rio Branco;
+
+
+III –
+
+em caso de reincidência, multa correspondente a oitenta Unidades Fiscais do Município de Rio Branco;
+
+
+IV –
+
+suspensão temporária da atividade pelo prazo máximo de trinta dias, a critério do órgão fiscalizador, que levará em consideração a gravidade da infração, o dano causado e a quantidade de pessoas atingidas; e
+
+
+V –
+
+cassação do alvará de funcionamento.
+
+
+§ 1º
+
+Todas as penalidades serão aplicadas mediante processo administrativo em que sejam assegurados o contraditório e a ampla defesa.
+
+
+§ 2º
+
+A suspensão temporária da atividade somente será imposta depois de aplicadas as penalidades previstas nos incisos I a III.
+
+
+§ 3º
+
+O cancelamento do alvará de funcionamento somente ocorrerá depois de impostas as penalidades previstas nos incisos I a IV e o órgão concedente do alvará deverá realizar os atos necessários à efetivação da sanção.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Rio Branco, 07 de janeiro de 2019, 131º da República, 117º do Tratado de Petrópolis, 58º do Estado do Acre e 136º do Município de Rio Branco.
+
+
+**Socorro Neri**
+
+Prefeita de Rio Branco
+

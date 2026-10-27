@@ -1,0 +1,102 @@
+---
+titulo: "Lei Ordinária nº 11.207, de 17 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11207"
+data: "2021-12-17"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13337"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3864/text"
+sha256_fonte: "d75faca56526a613259e22a6ff19adf684cfb6d503824505c0628b92710b2958"
+sha256_texto: "2a9b4fda091d9f8246424df55a064c746174f4012fed62cd6c8bd5474c4ac226"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.207, de 17 de dezembro de 2021
+
+Dispõe sobre a criação do Programa Observatório da Educação no âmbito do Município de Fortaleza e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criado o Programa Observatório da Educação, que oportuniza aos servidores de provimento efetivo do grupo magistério a formação continuada em nível de pós-graduação stricto sensu e, ao mesmo tempo, coloca à disposição da sociedade os produtos das pesquisas geradas em função dessa participação, contribuindo para o amplo debate sobre a implementação de políticas educacionais no Município de Fortaleza.
+
+
+Art. 2º.
+
+O Programa tem como objetivos:
+
+
+I –
+
+desenvolver pesquisas educacionais junto à rede municipal de ensino, procurando investigar como políticas, programas e projetos são implementados e de que forma eles repercutem no sistema educacional e no desempenho escolar dos alunos;
+
+
+II –
+
+contribuir para a qualificação em nível de pós-graduação stricto sensu dos profissionais do grupo magistério;
+
+
+III –
+
+desenvolver políticas educacionais mais próximas da realidade escolar e socioeconômica da população, promovendo qualidade na educação fortalezense.
+
+
+Art. 3º.
+
+As pesquisas vinculadas ao Observatório da Educação destinam-se à participação dos servidores de provimento efetivo do grupo magistério da Secretaria Municipal da Educação de Fortaleza, os quais atuarão como auxiliares de pesquisas junto aos projetos coordenados por professores pesquisadores de programas de pós-graduação reconhecidos pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).
+
+
+Parágrafo único.
+
+Como auxiliares de pesquisas, os servidores de provimento efetivo do grupo magistério receberão formação prática como pesquisadores e se vincularão aos programas de pós-graduação para receber qualificação formal em nível de mestrado ou doutorado.
+
+
+Art. 4º.
+
+As pesquisas vinculadas ao Observatório da Educação precisam ser homologadas por equipe técnica da Secretaria Municipal de Educação (SME), que atuará no sentido de procurar compatibilizar os interesses dos pesquisadores e dos seus respectivos programas de pós-graduação com os interesses e as demandas da Secretaria Municipal de Educação.
+
+
+Art. 5º.
+
+Os programas de pós-graduação stricto sensu que desejarem participar da iniciativa deverão encaminhar proposta institucional à Secretaria Municipal da Educação de Fortaleza, que avaliará a pertinência das linhas de pesquisas em relação aos interesses da rede de ensino.
+
+
+Parágrafo único.
+
+Uma vez credenciada ao Observatório da Educação, a pesquisa passará a contar com financiamento público do Município de Fortaleza, cuja formalização legal ocorrerá mediante celebração de convênio específico com a instituição de ensino superior a que pertence o programa de pós-graduação.
+
+
+Art. 6º.
+
+Os recursos financeiros destinados ao Programa Observatório da Educação deverão estar previstos no planejamento plurianual da Secretaria Municipal de Educação (SME) de Fortaleza, com repercussão financeira específica para todo o período.
+
+
+Art. 7º.
+
+Os recursos financeiros necessários para a execução do programa decorrente desta Lei correrão por conta das dotações orçamentárias da Secretaria Municipal da Educação.
+
+
+Art. 8º.
+
+Esta Lei poderá ser regulamentada por decreto.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 17 DE DEZEMBRO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

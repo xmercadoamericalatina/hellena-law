@@ -1,0 +1,144 @@
+---
+titulo: "Lei nº 1.018, de 27 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1018"
+data: "2014-01-27"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1019"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1531/text"
+sha256_fonte: "62dbf8d7cce2dcacc18c9bb17d1f0c153b1c29c6c03ccfce1191fb4270a5fbb9"
+sha256_texto: "c82340c8e3a432435e46524635f1e8a9ebfb5ea9d4c196d17b532777b6b8a285"
+capturado_em_fonte: "2026-10-21T06:19:07.610577-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.018, de 27 de janeiro de 2014
+
+Dispõe sobre viagem a serviço e concessão de diária a servidor, agente político ou representante legal do Município, dos órgãos da administração pública direta e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, Estado do Ceará, no uso de suas atribuições legais,**  
+Faço saber que a Câmara Municipal de Amontada-Ce aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+O servidor, agente político da administração pública, ou prestador de serviço designado para representar o município, que se deslocar de sua sede, eventualmente e por motivo de serviço, participação em cursos, eventos de capacitação profissional ou outros de interesse público, faz jus à percepção de indenização, a título diária, destinada a custear as despesas com hospedagem e alimentação.
+
+
+§ 1º
+
+Para os efeitos desta Lei, sede é a localidade onde o servidor exerce seu trabalho.
+
+
+§ 2º
+
+As despesas com transporte/locomoção atinentes a concessão das diárias serão custeadas pela Administração.
+
+
+Art. 2º.
+
+As diárias serão concedidas mediante portaria do responsável pela ordenação das despesas, com a identificação do beneficiário, período de concessão e a finalidade da concessão.
+
+
+Art. 3º.
+
+Os valores das diárias de viagem serão fixados mediante Decreto do Chefe do Poder Executivo Municipal, o qual estabelecerá critérios de diferenciação de valores de concessão.
+
+
+Art. 4º.
+
+Os valores das diárias poderão ser revistos anualmente, ou a qualquer tempo, desde que comprovados que os valores estejam defasados, a ponto de não cobrir as despesas necessárias ao cumprimento do objeto da sua concessão.
+
+
+Art. 5º.
+
+A diária não é devida:
+
+
+I –
+
+no período de trânsito, ao servidor que, por motivo de remoção ou transferência, tiver que mudar de sede;
+
+
+II –
+
+quando o deslocamento do servidor durar menos de 6 (seis) horas;
+
+
+III –
+
+quando o deslocamento se der para localidade onde o servidor seja domiciliado;
+
+
+IV –
+
+quando o servidor dispuser de alimentação e pousada oficiais gratuitas ou incluídas em evento para o qual esteja inscrito;
+
+
+Art. 6º.
+
+O servidor que, por convocação expressa, afastar-se de sua sede acompanhando, na condição de assessor, o Prefeito, Vice-Prefeito e o Secretário Municipal, fará jus ao mesmo tratamento dispensado a essas Autoridades, no que se refere às despesas de viagem.
+
+
+Art. 7º.
+
+As diárias concedidas em caso de emergência poderão ser pagas após o início da viagem do servidor, mediante justificativa fundamentada do dirigente máximo do órgão ou entidade, admitida a delegação de competência.
+
+
+Art. 8º.
+
+A viagem que ocorrer no sábado, domingo ou feriado será expressamente justificada e autorizada pelo dirigente máximo do órgão ou entidade, admitida a delegação de competência.
+
+
+Art. 9º.
+
+Não serão autorizadas viagens em veículo particular, excetuando-se aquelas realizadas em veículos locados ou cedidos aos órgãos, fundações e autarquias.
+
+
+Parágrafo único
+
+Excepcionalmente, ouvida previamente a Secretaria Municipal de Administração, o dirigente do órgão da administração direta poderá permitir o uso do veículo do próprio servidor para sua locomoção de uma para outra localidade, no interesse do serviço.
+
+
+Art. 10.
+
+Em todos os casos de deslocamento para viagem previstos nesta Lei, o servidor/agente político é obrigado a apresentar comprovante de viagem, no prazo de 3 (três) dias úteis subseqüentes ao retomo à sede.
+
+
+Parágrafo único
+
+constituem comprovante de viagem: declaração do órgão ou instituição visitada, certidão ou outro documento idôneo que venha comprovar o cumprimento da finalidade concessiva da diária.
+
+
+Art. 11.
+
+Constitui infração disciplinar grave, punível na forma da lei, conceder ou receber diária indevidamente.
+
+
+Art. 12.
+
+É vedado o pagamento de diária cumulativamente com outra retribuição de caráter indenizatório de despesas com alimentação e hospedagem.
+
+
+Art. 13.
+
+Situações excepcionais serão dirimidas mediante Decreto do Chefe do Poder Executivo.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogando a lei 975/2013 de 23 de abril de 2013.
+
+
+**Amontada-Ce, 27 de janeiro de 2014**
+
+**Paulo César dos Santos Prefeito Municipal**
+

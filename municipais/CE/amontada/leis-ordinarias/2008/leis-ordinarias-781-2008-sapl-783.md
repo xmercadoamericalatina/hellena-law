@@ -1,0 +1,140 @@
+---
+titulo: "Lei nº 781, de 03 de outubro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "781"
+data: "2008-10-03"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/783"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1279/text"
+sha256_fonte: "1c5eeb55f82652944228468187644d8d534742d812621d03e397dcfa6999b092"
+sha256_texto: "a587821a392744b0249b595d2bfe8fbdcb0a40a4ec228ecbb9f7cf437120080f"
+capturado_em_fonte: "2026-10-21T06:33:42.206300-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 781, de 03 de outubro de 2008
+
+Dispõe sobre a Fixação dos Subsídios dos Vereadores do Município de Amontada – Ceará, para a Legislatura 2009 – 2012.
+
+
+O Prefeito Municipal de Amontada, Estado do Ceará  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O subsídio dos Vereadores para a Legislatura de 2009/2012 é o fixado nesta Lei, observados os limites estabelecidos nos artigos 29 e 29- A da Constituição Federal.
+
+
+Art. 2º.
+
+Os Vereadores perceberão a partir de 1° de janeiro de 2009, em parcela única, um subsídio mensal de R$ 3. 715,00 (três mil, setecentos e quinze reais).
+
+
+Parágrafo único
+
+Caso a Receita apurada até dezembro de 2008, que servirá de base de cálculo para o repasse do legislativo em 2009, não comporte o pagamento do Teto estabelecido no art. 2° desta LEI, poderá o Presidente da Câmara, através de DECRETO LEGISLATIVO, fixar um sub-teto que atenda os limites constitucionais previstos em Lei.
+
+
+Art. 3º.
+
+No caso de ausência de Vereador em representação, a serviço, audiência gerais, congressos, seminários, cursos e demais situação que caracterizem exercício do cargo, receberá a remuneração integral, exceto aquelas atividades de caráter particular.
+
+
+Parágrafo único
+
+As faltas não justificadas até o dia 18 (dezoito) de cada mês, mediante documentos hábeis, como atestados médicos, serão descontadas do subsídio do Vereador no percentual de 25% (vinte e cinco por cento) por cada sessão.
+
+
+Art. 4º.
+
+As sessões plenárias solenes e especiais não serão remuneradas.
+
+
+Art. 5º.
+
+O Vereador investido no cargo de Presidente da Mesa Diretora, em face das relevantes funções representativas do cargo, fará jus à percepção, em parcela única, de um subsídio mensal no valor de R$ 4.458,00 (quatro mil, quatrocentos e cinqüenta e oito reais).
+
+
+Parágrafo único
+
+O substituto legal que, na forma regimental, assumir a Presidência, nos impedimentos e ausência do Presidente da Câmara Municipal, fará jus ao recebimento do valor do subsidio do Presidente previsto neste artigo, proporcionalmente ao período da substituição.
+
+
+Art. 6º.
+
+Os vereadores poderão perceber pelas sessões extraordinárias, desde que convocadas pelo Chefe do Poder Executivo Municipal no período de recesso parlamentar e somente deliberará sobre a matéria para qual convocada, recebendo, a titulo de indenização, o valor correspondente a 25% (vinte e cinco por cento) do subsidio durante o período do recesso.
+
+
+Parágrafo único
+
+A indenização de que trata este artigo não poderá, por mês, ser superior ao subsidio, e seu custeio será efetuado através dos repasses constitucionais enviados à Câmara Municipal.
+
+
+Art. 7º.
+
+Os subsídios de que trata esta Lei serão revistos anualmente na mesma data e com os mesmos índices dos Servidores Públicos Municipais.
+
+
+Parágrafo único
+
+É condição de legalidade para pagamento do subsídio mensal dos Vereadores a observância dos limites impostos pela Constituição Federal e pela Lei Complementar 101, de 04 de maio de 2000.
+
+
+Art. 8º.
+
+O Subsídio mensal dos Vereadores será pago normalmente durante os recessos parlamentares, independentemente de convocação de sessão legislativa extraordinária.
+
+
+Art. 9º.
+
+O suplente convocado em caso de vaga, de investidura do titular no cargo de Secretario Municipal ou de licença superior a 120 ( cento e vinte) dias, perceberá o subsídio igual ao fixado para o titular.
+
+
+§ 1º
+
+Assumindo o suplente, no decorrer do mês, perceberá subsidio proporcional ao período em efetivo exercício da vereança.
+
+
+§ 2º
+
+No caso do suplente assumir em virtude de licença para tratamento de saúde do titular, em observância ao que reza o Regimento Interno desta Casa, devidamente comprovada, perceberá o subsídio decorrente:
+
+
+I –
+
+até 15 (dias), à conta das dotações próprias, consignadas no orçamento do Poder Legislativo;
+
+
+II –
+
+superior a 15 (dias), do Regime Geral da Previdência, de conformidade com a sua legislação.
+
+
+Art. 10.
+
+As despesas decorrentes da execução deste desta Lei correrão à conta das dotações próprias, consignadas no orçamento do Poder Legislativo Municipal.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, salvo quanto seus efeitos financeiros, que vigorarão a partir de 1° de janeiro de 2009.
+
+
+Art. 12.
+
+Revogam-se as disposições em contrário.
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA, AOS 03 DE OUTUBRO 2008.
+
+EDIVALDO ASSIS DE JESUS  
+PREFEITO MUNICIPAL DE AMONTADA.
+

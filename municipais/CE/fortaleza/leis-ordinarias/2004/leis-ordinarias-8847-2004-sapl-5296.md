@@ -1,0 +1,435 @@
+---
+titulo: "Lei Ordinária nº 8.847, de 31 de maio de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8847"
+data: "2004-05-31"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5296"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2004/text"
+sha256_fonte: "619c2b632c165743dcd32f5050d79953815f07e4090c88b15702196dd1853b57"
+sha256_texto: "2e8a9e9b5e04b40a3696089c94a3aeabe69069ebc8031516edff05b756c3ee2e"
+capturado_em_fonte: "2026-10-21T04:37:46.198761-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.847, de 31 de maio de 2004
+
+Altera a Lei nº 8.287 de 07 de julho de 1999, que regulamenta o Fundo de Defesa do Meio Ambiente (FUNDEMA) e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+O Fundo de Defesa do Meio Ambiente (FUNDEMA), criado pelo art. 205 da Lei Orgânica do Município de Fortaleza, regulamentado pela Lei nº 8.287, de 07 de julho de 1999, ficará vinculado à Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM).
+
+
+Art. 2º.
+
+O Fundo de Defesa do Meio Ambiente (FUNDEMA) tem como finalidade o desenvolvimento de Programas de educação ambiental, recuperação do meio ambiente degradado e a preservação das áreas de interesse ecológico, compreendendo a execução das seguintes atividades:
+
+
+I –
+
+proteção, conservação, preservação e recuperação e melhoria do meio ambiente, em especial os recursos hídricos;
+
+
+II –
+
+apoio à capacitação técnica dos servidores da SEMAM, assim como na participação e realização de eventos, seminários, congressos, cursos, campanhas, programas de educação e de gestão ambiental;
+
+
+III –
+
+\- apoio às ações para implementação da Agenda 21 no Município;
+
+
+IV –
+
+apoio ao desenvolvimento de atividades concernentes à implantação do zoneamento ambiental do Município;
+
+
+V –
+
+apoio ao desenvolvimento de atividades referentes ao licenciamento ambiental;
+
+
+VI –
+
+apoio à formulação de normas técnicas e legais, padrões de proteção, conservação, preservação e recuperação do meio ambiente, observadas as peculiaridades locais e o que estabelece a legislação federal e estadual;
+
+
+VII –
+
+atividades de educação ambiental e promoção de pesquisa científica, visando à conscientização da população sobre a necessidade de proteger, preservar, conservar e recuperar o meio ambiente;
+
+
+VIII –
+
+apoio à criação de unidades de conservação no Município para proteção, conservação e preservação ambiental;
+
+
+IX –
+
+manutenção da qualidade do meio ambiente natural e artificial do Município, mediante a intensificação das ações de fiscalização ambiental e de controle urbano;
+
+
+X –
+
+incentivo ao uso de tecnologia não agressiva ao ambiente;
+
+
+XI –
+
+apoio à implantação e manutenção do cadastro de atividades econômicas utilizadoras ou degradadoras de recursos ambientais, mediante a coleta e a catalogação de dados e informações sobre as mesmas;
+
+
+XII –
+
+controle, monitoramento e avaliação dos recursos naturais do Município, visando à proteção, à preservação e à conservação de áreas de interesse ecológico, em especial as dunas, assim como a recuperação de áreas degradadas;
+
+
+XIII –
+
+apoio à implantação e à manutenção de um sistema de informações referentes ao meio ambiente e controle urbano, em parceria com as demais Secretarias;
+
+
+XIV –
+
+apoio às políticas de proteção à fauna e à flora, vedadas, na forma da Lei, as práticas que coloquem em risco sua função ecológica, provoque extinção de espécie ou submeta os animais à crueldade;
+
+
+XV –
+
+controle, monitoramento, avaliação e fiscalização da emissão de sons e ruídos de toda espécie, produzidos por qualquer meio, considerando sempre os locais, horários e a natureza das atividades emissoras, visando à compatibilização do exercício da atividade com a proteção e preservação da saúde, da segurança e do sossego público;
+
+
+XVI –
+
+apoio à formação de consórcio intermunicipal, objetivando a proteção, preservação e conservação da vida ambiental das bacias hidrográficas que ultrapassem os limites do Município;
+
+
+XVII –
+
+apoio à análise, controle, fiscalização e monitoramento das atividades potencial ou efetivamente poluidoras ou degradadoras do meio ambiente, praticadas por pessoa física ou jurídica;
+
+
+XVIII –
+
+apoio ao estabelecimento de padrões de efluentes industriais e as normas para transporte, disposição e destino final de qualquer resíduo resultante de atividades industriais e comerciais passíveis de degradação ambiental;
+
+
+XIX –
+
+estudos, programas e projetos para reciclagem e diminuição do lixo urbano;
+
+
+XX –
+
+exames laboratoriais para fins de diagnóstico ambiental ou relacionados com saúde pública;
+
+
+XXI –
+
+apoio ao monitoramento ambiental das instalações de antenas de transmissão de rádio, televisão, telefonia fixa e telefonia móvel (celular), e de telecomunicações em geral, no âmbito do Município;
+
+
+XXII –
+
+articulação e celebração de convênios e outros ajustes com organismos federais, estaduais, municipais e organizações governamentais ou não governamentais (ONGs), nacionais ou estrangeiras, para a execução coordenada e a obtenção de financiamentos para a implantação de planos, programas e projetos relativos à proteção, à preservação, à conservação, à recuperação dos recursos ambientais, naturais ou não, e de educação ambiental;
+
+
+XXIII –
+
+apoio ao monitoramento de engenhos de propaganda e publicidade
+
+
+XXIV –
+
+elaboração de planos, programas e projetos para áreas verdes, parques, praças e áreas remanescentes.
+
+
+Art. 3º.
+
+Constituem receitas do Fundo de Defesa do Meio Ambiente (FUNDEMA):
+
+
+I –
+
+dotações orçamentárias oriundas do próprio Município;
+
+
+II –
+
+taxas de licenciamento ambiental;
+
+
+III –
+
+taxas referentes às atividades de controle urbano, abrangendo a análise e aprovação de projetos de parcelamento do solo, projetos arquitetônicos, alvará de construção e reforma de edificações com área acima de 80m²;
+
+
+IV –
+
+taxas decorrentes das atividades de cadastramento de engenhos de propaganda e publicidade e de licenciamento de engenhos especiais;
+
+
+V –
+
+multas administrativas por atos lesivos ao meio ambiente decorrentes da utilização dos recursos ambientais e por descumprimento de medidas compensatórias destinadas à proteção, à preservação, à conservação, à recuperação e/ou à correção de degradação ambiental causada por pessoa física ou jurídica, pública ou privada;
+
+
+VI –
+
+recursos decorrentes da aplicação de medidas compensatórias destinadas à implantação ou à manutenção de unidades de conservação, contratação de estudos, projetos e serviços de natureza ambiental, aquisição de equipamentos e execução de obras relacionadas à proteção, à preservação, à conservação e à recuperação do meio ambiente.
+
+
+VII –
+
+contribuições, subvenções e auxílios da União, do Estado, do Município e de suas respectivas autarquias, empresas públicas, sociedades de economia mista e fundações;
+
+
+VIII –
+
+recursos oriundos de convênios, contratos e consórcios celebrados entre o Município e instituições públicas e privadas, observadas as obrigações contidas nos respectivos instrumentos;
+
+
+IX –
+
+recursos oriundos de doações de pessoas físicas ou jurídicas e de organismos privados, nacionais ou internacionais;
+
+
+X –
+
+rendimentos de qualquer natureza auferidos como remuneração das permissões, concessões ou cessões de áreas remanescentes a terceiros pelo Município;
+
+
+XI –
+
+rendimentos de qualquer natureza auferidos como remuneração de aplicação financeira;
+
+
+XII –
+
+valores oriundos de condenações judiciais referentes às ações ajuizadas pelo Município de Fortaleza, em decorrência de atos lesivos ao meio ambiente;
+
+
+XIII –
+
+valores arrecadados com a cobrança de serviços prestados, tais como fotocópia de plantas urbanísticas e legislação municipal, inclusive em meio digital, cujos preços serão estabelecidos por meio de ato do Chefe do Poder Executivo, com base no que dispõe o inciso II, do art. 297, da Consolidação da Legislação Tributária do Município, aprovada pelo Decreto nº10.827 de 2000;
+
+
+XIV –
+
+outros recursos que, por sua natureza, possam ser destinados ao FUNDEMA.
+
+
+Art. 4º.
+
+Os recursos oriundos do Fundo de Defesa do Meio Ambiente (FUNDEMA) serão depositados em conta específica e serão destinados à realização das atividades previstas no art. 2ºdesta Lei.
+
+
+Art. 5º.
+
+O FUNDEMA será gerenciado por um Conselho Gestor que terá as seguintes atribuições:
+
+
+I –
+
+estabelecer e executar a política de aplicação dos recursos do FUNDEMA, observadas as diretrizes básicas e prioritárias definidas pela Administração Municipal, incluindo as estabelecidas no Decreto nº 11.484, de 18 de setembro de 2003;
+
+
+II –
+
+apoiar, acompanhar e avaliar a realização de ações e projetos relativos ao desenvolvimento de tecnologias não agressivas ao ambiente e à sua proteção, preservação, conservação e recuperação;
+
+
+III –
+
+elaborar o plano orçamentário e de aplicação dos recursos do FUNDEMA, em consonância com a Lei de Diretrizes Orçamentárias do Município, observados os prazos legais do exercício financeiro a que se referirem;
+
+
+IV –
+
+analisar e aprovar as prestações de contas trimestrais relativas à aplicação dos recursos do FUNDEMA;
+
+
+V –
+
+encaminhar as prestações de contas anuais do FUNDEMA à Câmara Municipal, conforme exigido em relação aos recursos gerais do Município;
+
+
+VI –
+
+apoiar e participar da celebração de convênios e contratos relativos às atividades de interesse da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM) inerentes às suas atribuições legais.
+
+
+Parágrafo único
+
+Serão consideradas prioritárias as aplicações dos recursos financeiros do FUNDEMA nas seguintes atividades:
+
+
+I –
+
+unidades de conservação;
+
+
+II –
+
+programa de educação ambiental;
+
+
+III –
+
+proteção, conservação ou recuperação de áreas de mangue;
+
+
+IV –
+
+realização de cursos, congressos e seminários na área ambiental;
+
+
+V –
+
+pesquisa e desenvolvimento tecnológico.
+
+
+Art. 6º.
+
+O Conselho Gestor do Fundo de Defesa do Meio Ambiente terá a seguinte composição:
+
+
+I –
+
+o Secretário da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM);
+
+
+II –
+
+o Coordenador de Políticas Ambientais da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM);
+
+
+III –
+
+o Secretário Executivo do FUNDEMA;
+
+
+IV –
+
+Secretaria Municipal de Desenvolvimento Urbano e Infra-Estrutura (SEINF);
+
+
+V –
+
+o Secretário da Secretaria Municipal de Planejamento e Orçamento (SEPLA);
+
+
+VI –
+
+o Presidente da Comissão de Urbanismo e Meio Ambiente da Câmara Municipal de Fortaleza.
+
+
+§ 1º
+
+O Conselho Gestor será presidido pelo Secretário da SEMAM.
+
+
+§ 2º
+
+Os membros integrantes do Conselho Gestor do FUNDEMA não terão direito à percepção de nenhuma remuneração em decorrência do exercício dessas atividades.
+
+
+Art. 7º.
+
+O Fundo de Defesa do Meio Ambiente (FUNDEMA) terá um Coordenador Executivo com as seguintes atribuições:
+
+
+I –
+
+secretariar as atividades do Conselho Gestor;
+
+
+II –
+
+movimentar, juntamente com o Secretário da SEMAM, os recursos financeiros do FUNDEMA;
+
+
+III –
+
+elaborar demonstrativos mensais sobre a situação patrimonial e financeira do FUNDEMA;
+
+
+IV –
+
+manter registro financeiro e contábil das receitas e despesas relacionadas às ações desenvolvidas pelo Fundo;
+
+
+V –
+
+elaborar a prestação de contas trimestral do FUNDEMA;
+
+
+VI –
+
+assinar, conjuntamente com o Secretário da SEMAM, os convênios e contratos realizados com a participação do FUNDEMA;
+
+
+VII –
+
+exercer outras atividades que lhe forem atribuídas pelo Secretário da SEMAM ou pelo Conselho Gestor.
+
+
+§ 1º
+
+O Coordenador Executivo será auxiliado por 3 (três) assistentes técnicos, sendo 2 (dois) de nível superior e 1 (um) de nível médio, para as atividades de apoio e execução dos serviços administrativos
+
+
+§ 2º
+
+Ao Coordenador Executivo do FUNDEMA será atribuída uma remuneração correspondente à gratificação de cargo comissionado com simbologia DNS-3, e aos assistentes técnicos de nível superior e de apoio será atribuída uma remuneração correspondente à gratificação de cargo comissionado com simbologia DAS-1 e DAS-2, respectivamente
+
+
+Art. 8º.
+
+Constituirão ativos do FUNDEMA:
+
+
+I –
+
+disponibilidades monetárias em bancos ou em caixas oriundas das receitas especificadas;
+
+
+II –
+
+direitos que porventura vier a constituir
+
+
+Art. 9º.
+
+Constituirão passivos do FUNDEMA as obrigações de qualquer natureza que porventura sejam assumidas para a manutenção e funcionamento de suas atividades.
+
+
+Art. 10.
+
+O orçamento do FUNDEMA obedecerá às mesmas regras estabelecidas pela Lei nº 8.749 de 11 de julho de 2003, para as diretrizes orçamentárias do Município, integrando seu orçamento geral.
+
+
+Art. 11.
+
+Esta Lei entra em vigor a partir da data de sua publicação oficial, ficando revogadas as demais disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 31 de maio de 2004**
+
+**Juraci Magalhães**
+
+**PREFEITO DE FORTALEZA**
+

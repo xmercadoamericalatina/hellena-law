@@ -1,0 +1,66 @@
+---
+titulo: "DECRETO N° 142, DE 07 DE OUTUBRO DE 2026."
+uf: "PA"
+municipio: "BELTERRA"
+tipo: "Decreto"
+numero: "142"
+data: 2026-10-07
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 15/10/2026"
+data_publicacao: 2026-10-15
+data_publicacao_na_url: "2026-10-14"
+observacao_publicacao: "Data de circulação confirmada no cabeçalho da edição; a data do nome do PDF é diferente."
+codigo_identificador: "FE0B8ABF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117188_2026-10-14_5db8a448bdda4777f67288a644ca90b2.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 142, DE 07 DE OUTUBRO DE 2026.
+
+DECRETO N° 142, DE 07 DE OUTUBRO DE 2026.
+Excelentíssimo Senhor Prefeito do Município de Belterra – Estado do
+Pará, no uso de suas atribuições legais e nos termos do Capítulo art.
+6º, inciso III da Lei Municipal nº 066 de 01 de fevereiro de 2001, que
+dispõe sobre o Regime Jurídico Único dos Servidores Públicos do
+Município de Belterra, combinado com o art.29 da Lei Municipal nº
+506/2024, que versa sobre os Cargos de Provimento em Comissão e
+Funções Gratificadas deste Município.
+DECRETA:
+
+GABINETE PREFEITURA DE BELTERRA
+DECRETO N° 140, DE 06 DE OUTUBRO DE 2026.
+Excelentíssimo Senhor Prefeito do Município de Belterra – Estado do
+Pará, no uso de suas atribuições legais e nos termos do Capítulo art.
+6º, inciso III da Lei Municipal nº 066 de 01 de fevereiro de 2001, que
+dispõe sobre o Regime Jurídico Único dos Servidores Públicos do
+Município de Belterra, combinado com o art.29 da Lei Municipal nº
+506/2024, que versa sobre os Cargos de Provimento em Comissão e
+Funções Gratificadas deste Município.
+DECRETA:
+Art. 1º Fica EXONERADO o Sr. ANDERSON AUGUSTO
+LOURIDO DE SOUSA, do cargo de Coordenador Municipal de
+Mobilidade Urbana e Trânsito.
+Art. 2º Este Decreto entra em vigor na data de sua publicação,
+retroagindo seus efeitos a 01 de outubro de 2026, revogando-se as
+disposições em contrário.
+Gabinete do Prefeito Municipal de Belterra, em 06 de outubro de
+2026.
+ULISSES JOSÉ MEDEIROS ALVES
+Prefeito Municipal de Belterra
+
+DECRETA:
+
+Art. 1º Fica nomeada a Sra. CATARINA CHAVES DA CUNHA
+DE BARROS FRAZÃO para exercer o cargo de Assessor Especial I
+– DAS-3, lotada na Secretaria Municipal de Administração e Governo
+– SEMAG, em caráter de provimento em comissão, nos termos da
+legislação vigente.
+Art. 2º Este Decreto entra em vigor na data de sua publicação,
+revogando-se as disposições em contrário.
+Gabinete do Prefeito Municipal de Belterra, em 07 de outubro de
+2026.
+ULISSES JOSÉ MEDEIROS ALVES
+Prefeito Municipal de Belterra
+Publicado por:
+Daniele Bandeira Cruz

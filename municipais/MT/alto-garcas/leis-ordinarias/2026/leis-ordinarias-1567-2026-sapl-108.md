@@ -1,0 +1,1036 @@
+---
+titulo: "Lei Ordinaria nº 1.567, de 23 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinaria"
+numero: "1567"
+data: "2026-06-23"
+municipio: "Alto Garças"
+uf: "MT"
+codigo_ibge: "5100409"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.altogarcas.mt.leg.br/norma/108"
+fonte_texto: "https://sapl.altogarcas.mt.leg.br/ta/132/text"
+sha256_fonte: "506793f0f843143e1e53ab588c8ac313685e2922784f3b001494a617061cda8f"
+sha256_texto: "ebc0bca1600b063dcd076fedff7d0f03e700131e51f75f03fdf07722b5168bb1"
+capturado_em_fonte: "2026-10-21T05:29:06.152043-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinaria nº 1.567, de 23 de junho de 2026
+
+DISPÕE SOBRE A POLÍTICA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL, CRIA OS COMPONENTES DO SISTEMA NCIONAL DE SEGURANÇA ALIMENTAR NUTRICIONAL - SISAN NO ÂMBITO DO MUNICÍPIO DE ALTO GARÇAS, CRIA O CONSELHO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL - COMSEA, A CÂMARA INTERSETORIAL MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL - CAISAN, O FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL, DEFINE OS PARÂMETROS PARA A ELABORAÇÃO DO PLANO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL E REVOGA INTEGRALMENTE A LEI MUNICIPAL Nº 567, 11 DE JULHO DE 2003, E DÁ OUTRAS PROVIDÊNCIAS".
+
+O Senhor CEZALPINO MENDES TEIXEIRA JUNIOR, Prefeito Municipal de Alto Garças, Estado de Mato Grosso, no uso de suas atribuições que lhe são conferidas pela Lei Orgânica do Município, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a Política Municipal de Segurança Alimentar e Nutricional, cria os componentes do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN no âmbito do Município de Alto Garças, cria o Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA, a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN, o Fundo Municipal de Segurança Alimentar e Nutricional, define os parâmetros para a elaboração do plano municipal de segurança alimentar e nutricional e revoga integralmente a lei municipal n°567, de 11 de julho de 2003, e dá outras providências. Estabelecendo normas para a formulação, execução, monitoramento e avaliação das políticas, planos, programas e ações destinadas à garantia do direito humano à alimentação adequada.
+
+
+Art. 2º.
+
+A alimentação adequada constitui direito fundamental do ser humano, inerente à dignidade da pessoa humana, sendo dever do Poder Público municipal adotar as políticas e ações necessárias para assegurar a segurança alimentar e nutricional da população.
+
+
+§ 1º
+
+A implementação das políticas e ações de que trata o caput deverá considerar as dimensões ambiental, cultural, econômica, regional e social, com prioridade para os grupos populacionais em situação de vulnerabilidade.
+
+
+§ 2º
+
+Compete ao Poder Público municipal respeitar, proteger, promover, prover, informar, monitorar, fiscalizar e avaliar a realização do direito humano à alimentação adequada, assegurando mecanismos que garantam sua efetividade.
+
+
+Art. 3º.
+
+Para os fins desta Lei, considera-se segurança alimentar e nutricional a realização do direito de todos ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, tendo como base práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que sejam ambiental, cultural, econômica e socialmente sustentáveis.
+
+
+Parágrafo único
+
+A segurança alimentar e nutricional compreende, ainda, ações de promoção da saúde alimentar, prevenção de doenças relacionadas à alimentação inadequada e incentivo à adoção de hábitos alimentares saudáveis.
+
+
+Art. 4º.
+
+A segurança alimentar e nutricional no âmbito do Município de Alto Garças abrange, dentre outros aspectos:
+
+
+I –
+
+a ampliação das condições de acesso à alimentação adequada, por meio da produção, especialmente da agricultura familiar, do processamento, da comercialização, do abastecimento e da distribuição de alimentos, bem como da geração de emprego renda;
+
+
+II –
+
+a promoção da saúde, da nutrição e da alimentação adequada da população, com atenção especial aos grupos em situação de vulnerabilidade social;
+
+
+III –
+
+a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos;
+
+
+IV –
+
+a conservação da biodiversidade e a utilização sustentável dos recursos naturais;
+
+
+V –
+
+a produção, o acesso e a disseminação de informações e conhecimentos relacionados à segurança alimentar e nutricional;
+
+
+VI –
+
+a implementação de políticas públicas intersetoriais, sustentáveis e participativas, voltadas à produção, comercialização e consumo de alimentos.
+
+
+#### CAPÍTULO II — DOS COMPONENTES MUNICIPAIS DO SISTEMA NACIONAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+##### Seção I — Disposições Gerais
+
+
+Art. 5º.
+
+Integram o Sistema Nacional de Segurança Alimentar e Nutricional - SISAN no Município de Alto Garças, Estado do Mato Grosso:
+
+
+I –
+
+a Conferência Municipal de Segurança Alimentar e Nutricional;
+
+
+II –
+
+o Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA;
+
+
+III –
+
+a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN;
+
+
+IV –
+
+os órgãos e entidades da Administração Pública municipal relacionados à segurança alimentar e nutricional;
+
+
+V –
+
+as instituições privadas, com ou sem fins lucrativos, que atuem na área e manifestem interesse em integrar o Sistema.
+
+
+##### Seção II — Da Conferência Municipal de Segurança Alimentar e Nutricional
+
+
+Art. 6º.
+
+A Conferência Municipal de Segurança Alimentar e Nutricional constitui instância de participação social responsável por:
+
+
+I –
+
+propor diretrizes e prioridades para a Política e o Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+II –
+
+avaliar a implementação da política e do plano;
+
+
+III –
+
+promover o diálogo entre o Poder Público e a sociedade civil.
+
+
+Art. 7º.
+
+A Conferência Municipal de Segurança Alimentar e Nutricional será realizada periodicamente, em intervalo não superior a 4 (quatro) anos, e precedida de etapas preparatórias, conforme regulamentação.
+
+
+##### Seção III — Da Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN
+
+
+Art. 8º.
+
+Fica instituída a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN, instância governamental de articulação e coordenação das políticas públicas de segurança alimentar e nutricional.
+
+
+Art. 9º.
+
+A CAISAN será composta por representantes das Secretarias Municipais e órgãos da Administração Pública relacionados à segurança alimentar e nutricional, designados pelo Chefe do Poder Executivo.
+
+
+Art. 10.
+
+Compete à CAISAN:
+
+
+I –
+
+elaborar, coordenar e implementar o Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+II –
+
+articular as políticas e ações de segurança alimentar e nutricional entre os órgãos e entidades da Administração Pública municipal;
+
+
+III –
+
+promover a integração das ações com as políticas estaduais e federais;
+
+
+IV –
+
+monitorar e avaliar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+V –
+
+prestar apoio técnico ao Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA.
+
+
+##### Seção IV — Do Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA
+
+
+Art. 11.
+
+Fica instituído o Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA, órgão colegiado permanente, de caráter consultivo, propositivo e de controle social, integrante do SISAN.
+
+
+Art. 12.
+
+O COMSEA tem por finalidade promover a participação da sociedade civil na formulação, acompanhamento, monitoramento e avaliação das políticas públicas de segurança alimentar e nutricional.
+
+
+Art. 13.
+
+Compete ao COMSEA:
+
+
+I –
+
+propor diretrizes para a Política e o Plano Municipal de Segurança Alimentar Nutricional;
+
+
+II –
+
+companhar e monitorar a execução das políticas, programas e ações;
+
+
+III –
+
+exercer o controle social sobre a aplicação dos recursos destinados à segurança alimentar e nutricional;
+
+
+IV –
+
+promover a articulação entre o Poder Público e a sociedade civil;
+
+
+V –
+
+convocar e organizar a Conferência Municipal de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+elaborar e aprovar seu regimento interno.
+
+
+Art. 14.
+
+A composição do COMSEA observará a participação paritária entre o Poder Público e a sociedade civil, assegurada a representação de segmentos relacionados à segurança alimentar e nutricional, na forma desta Lei e de seu regimento interno.
+
+
+##### Seção V — Dos Demais Integrantes do Sistema
+
+
+Art. 15.
+
+Os órgãos e entidades da Administração Pública municipal que desenvolvam ações relacionadas à segurança alimentar e nutricional integrarão o SISAN e atuarão de forma articulada, observadas as diretrizes desta Lei.
+
+
+Art. 16.
+
+Poderão integrar o SISAN as instituições privadas, com ou sem fins lucrativos, que atuem na área de segurança alimentar e nutricional, mediante adesão voluntária e observância dos princípios, diretrizes e normas estabelecidas nesta Lei.
+
+
+#### CAPÍTULO III — DO PLANO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+Art. 17.
+
+O Plano Municipal de Segurança Alimentar e Nutricional é o instrumento de planejamento que orientará a execução da Política Municipal de Segurança Alimentar e Nutricional.
+
+
+Art. 18.
+
+O Plano Municipal de Segurança Alimentar e Nutricional será elaborado pela Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional – CAISAN, com base nas diretrizes estabelecidas pela Conferência Municipal e pelo Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA.
+
+
+Art. 19.
+
+O Plano Municipal de Segurança Alimentar e Nutricional conterá, no mínimo:
+
+
+I –
+
+diagnóstico da situação de segurança alimentar e nutricional no Município;
+
+
+II –
+
+diretrizes, objetivos e metas;
+
+
+III –
+
+programas, projetos e ações a serem implementados;
+
+
+IV –
+
+definição das responsabilidades dos órgãos e entidades envolvidos;
+
+
+V –
+
+indicadores de monitoramento e avaliação;
+
+
+VI –
+
+estimativa de recursos necessários à execução das ações.
+
+
+Art. 20.
+
+O Plano Municipal de Segurança Alimentar e Nutricional terá vigência compatível com o Plano Plurianual - PPA, devendo ser revisto periodicamente, conforme regulamentação.
+
+
+Art. 21.
+
+A execução do Plano Municipal de Segurança Alimentar e Nutricional deverá observar:
+
+
+I –
+
+a compatibilidade com o Plano Plurianual - PPA;
+
+
+II –
+
+s diretrizes da Lei de Diretrizes Orçamentárias - LDO;
+
+
+III –
+
+as dotações previstas na Lei Orçamentária Anual – LOA.
+
+
+Art. 22.
+
+O Plano Municipal de Segurança Alimentar e Nutricional será amplamente divulgado à população, garantindo transparência e acesso às informações.
+
+
+##### Seção II — Da Implementação, Monitoramento e Avaliação
+
+
+Art. 23.
+
+A implementação da Política e do Plano Municipal de Segurança Alimentar e Nutricional será realizada de forma integrada pelos órgãos e entidades da Administração Pública municipal, sob coordenação da CAISAN.
+
+
+Art. 24.
+
+O monitoramento e a avaliação da Política e do Plano Municipal de Segurança Alimentar e Nutricional serão realizados de forma contínua, com base em indicadores definidos no Plano.
+
+
+Art. 25.
+
+O Poder Executivo municipal deverá promover a divulgação periódica dos resultados das ações, programas e recursos aplicados, garantindo transparência e controle social.
+
+
+#### CAPÍTULO IV — DO CONSELHO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL – COMSEA
+
+
+##### Seção I — Da Natureza e Finalidade
+
+
+Art. 26.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA é órgão colegiado permanente, de caráter consultivo e deliberativo, propositivo e de controle social, integrante do Sistema Municipal de Segurança Alimentar e Nutricional - SISAN.
+
+
+Art. 27.
+
+O COMSEA tem por finalidade promover a participação da sociedade civil na formulação, acompanhamento, monitoramento e avaliação das políticas públicas de segurança alimentar e nutricional no âmbito do Município de Alto Garças.
+
+
+##### Seção II — Das Competências
+
+
+Art. 28.
+
+Compete ao COMSEA:
+
+
+I –
+
+propor diretrizes para a Política Municipal de Segurança Alimentar e Nutricional;
+
+
+II –
+
+acompanhar e monitorar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+III –
+
+exercer o controle social sobre a aplicação dos recursos destinados à segurança alimentar e nutricional;
+
+
+IV –
+
+propor prioridades, programas e ações voltadas à promoção do direito humano à alimentação adequada;
+
+
+V –
+
+promover a articulação entre o Poder Público e a sociedade civil;
+
+
+VI –
+
+Convocar e organizar a Conferência Municipal de Segurança Alimentar e Nutricional;
+
+
+VII –
+
+acompanhar e avaliar a execução das ações decorrentes das deliberações da Conferência Municipal;
+
+
+VIII –
+
+elaborar e aprovar seu regimento interno;
+
+
+IX –
+
+solicitar informações aos órgãos e entidades da Administração Pública municipal sobre a execução das políticas e ações de segurança alimentar e nutricional;
+
+
+X –
+
+
+##### Seção III — Da Composição
+
+
+Art. 29.
+
+O COMSEA será composto por representantes do Poder Público e da Sociedade Civil.
+
+
+Art. 30.
+
+A composição do COMSEA observará:
+
+
+I –
+
+(03) membros representantes do Poder Público;
+
+
+II –
+
+(03) membros representantes de Organização da Sociedade Civil (OSC).
+
+
+Art. 31.
+
+Os representantes do Poder Público serão indicados pelos titulares dos órgãos e entidades da Administração Pública municipal relacionados à segurança alimentar e nutricional.
+
+
+Art. 32.
+
+Os representantes da sociedade civil serão escolhidos dentre entidades, organizações ou movimentos sociais que atuem na área de segurança alimentar e nutricional, observados critérios de representatividade, diversidade e atuação no Município.
+
+
+##### Seção IV — Da Nomeação e do Mandato
+
+
+Art. 33.
+
+Os membros titulares do COMSEA e seus respectivos suplentes serão nomeados por ato do Chefe do Poder Executivo, para mandato de 2 (dois) anos, permitida uma recondução.
+
+
+Art. 34.
+
+A função de membro do COMSEA é considerada de relevante interesse público e não será remunerada.
+
+
+Art. 35.
+
+Perderá o mandato o conselheiro que:
+
+
+I –
+
+faltar, sem justificativa, a número de reuniões definido no regimento interno;
+
+
+II –
+
+deixar de representar o órgão ou entidade que o indicou;
+
+
+III –
+
+praticar atos incompatíveis com a função.
+
+
+Parágrafo único
+
+O regimento interno disporá sobre os procedimentos para apuração e substituição dos membros.
+
+
+##### Seção V — Da Estrutura e Funcionamento
+
+
+Art. 36.
+
+O COMSEA será presidido por um de seus membros, eleito pelo plenário, na forma do regimento interno.
+
+
+Art. 37.
+
+O COMSEA contará com apoio administrativo e técnico do Poder Executivo municipal, por meio do órgão gestor da política de segurança alimentar e nutricional.
+
+
+Art. 38.
+
+O COMSEA reunir-se-á ordinariamente com periodicidade definida em regimento interno e, extraordinariamente, sempre que necessário.
+
+
+Art. 39.
+
+As deliberações do COMSEA serão tomadas por maioria simples dos membros presentes, respeitado o quórum mínimo estabelecido em regimento interno.
+
+
+Art. 40.
+
+O regimento interno do COMSEA disciplinará:
+
+
+I –
+
+a organização e o funcionamento do Conselho;
+
+
+II –
+
+forma de eleição da presidência;
+
+
+III –
+
+o quórum para reuniões e deliberações;
+
+
+IV –
+
+a criação de comissões temáticas;
+
+
+V –
+
+outras normas necessárias ao seu funcionamento.
+
+
+#### CAPÍTULO V — DA CÂMARA INTERSETORIAL MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL – CAISAN
+
+
+Art. 41.
+
+Fica instituída a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN, instância governamental responsável pela articulação, coordenação e integração das políticas públicas de segurança alimentar e nutricional no âmbito do Município de Alto Garças.
+
+
+Art. 42.
+
+A CAISAN tem por finalidade promover a implementação da Política Municipal de Segurança Alimentar e Nutricional, assegurando a integração entre os órgãos e entidades da Administração Pública municipal.
+
+
+##### Seção II — Da Composição
+
+
+Art. 43.
+
+A CAISAN será composta por representantes das Secretarias Municipais e órgãos da Administração Pública direta e indireta cujas atribuições estejam relacionadas à segurança alimentar e nutricional.
+
+
+§ 1º
+
+Os membros da CAISAN serão indicados pelos titulares dos respectivos órgãos e designados por ato do Chefe do Poder Executivo.
+
+
+§ 2º
+
+A coordenação da CAISAN será exercida por representante do órgão gestor da Política Municipal de Segurança Alimentar e Nutricional.
+
+
+##### Seção III — Das Competências
+
+
+Art. 44.
+
+Compete à CAISAN:
+
+
+I –
+
+elaborar o Plano Municipal de Segurança Alimentar e Nutricional, com base nas diretrizes estabelecidas pelo COMSEA e pela Conferência Municipal;
+
+
+II –
+
+coordenar a implementação da Política Municipal de Segurança Alimentar Nutricional;
+
+
+III –
+
+articular e integrar as ações dos órgãos e entidades da Administração Pública municipal relacionadas à segurança alimentar e nutricional;
+
+
+IV –
+
+promover a integração das políticas municipais com as políticas estaduais e federais;
+
+
+V –
+
+monitorar e avaliar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+propor medidas para o aperfeiçoamento das políticas públicas na área de segurança alimentar e nutricional;
+
+
+VII –
+
+Elaborar relatórios periódicos de acompanhamento das ações e programas;
+
+
+VIII –
+
+prestar informações e apoio técnico ao Conselho Municipal de Segurança Alimentar e Nutricional - COMSEА.
+
+
+##### Seção IV — Do Funcionamento
+
+
+Art. 45.
+
+A CAISAN reunir-se-á ordinariamente com periodicidade definida em ato próprio e, extraordinariamente, sempre que necessário.
+
+
+Art. 46.
+
+A organização e o funcionamento da CAISAN serão disciplinados em regulamento, observado o disposto nesta Lei.
+
+
+Art. 47.
+
+A participação na CAISAN não será remunerada, sendo considerada de relevante interesse público.
+
+
+#### CAPÍTULO VI — O FUNDO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+##### Seção I — Da Criação e Natureza
+
+
+Art. 48.
+
+Fica instituído o Fundo Municipal de Segurança Alimentar e Nutricional, de natureza contábil e financeira, vinculado ao órgão gestor da Política Municipal de Segurança Alimentar e Nutricional, destinado a captar, gerenciar e aplicar recursos voltados à implementação de ações, programas e projetos de segurança alimentar e nutricional no Município de Alto Garças.
+
+
+Art. 49.
+
+O Fundo Municipal de Segurança Alimentar e Nutricional constitui instrumento de suporte financeiro à execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional.
+
+
+##### Seção II — Das Receitas
+
+
+Art. 50.
+
+Constituem receitas do Fundo Municipal de Segurança Alimentar e Nutricional:
+
+
+I –
+
+dotações orçamentárias próprias consignadas no orçamento municipal;
+
+
+II –
+
+transferências de recursos da União, do Estado e de outros entes públicos;
+
+
+III –
+
+recursos provenientes de convênios, contratos, acordos, ajustes e instrumentos congêneres;
+
+
+IV –
+
+doações, auxílios, contribuições e legados de pessoas físicas ou jurídicas, de direito público ou privado, nacionais ou estrangeiras;
+
+
+V –
+
+rendimentos de aplicações financeiras dos recursos do Fundo;
+
+
+VI –
+
+outras receitas que lhe forem legalmente destinadas.
+
+
+##### Seção III — Da Destinação dos Recursos
+
+
+Art. 51.
+
+Os recursos do Fundo Municipal de Segurança Alimentar e Nutricional serão aplicados exclusivamente em ações, programas e projetos que visem:
+
+
+I –
+
+garantir o acesso à alimentação adequada à população em situação de vulnerabilidade;
+
+
+II –
+
+prevenir e combater a insegurança alimentar e nutricional;
+
+
+III –
+
+apoiar a produção, o abastecimento e a comercialização de alimentos, especialmente da agricultura familiar;
+
+
+IV –
+
+promover ações de educação alimentar e nutricional;
+
+
+V –
+
+fortalecer as políticas públicas intersetoriais de segurança alimentar e nutricional;
+
+
+VI –
+
+executar as diretrizes estabelecidas na Política e no Plano Municipal de Segurança Alimentar e Nutricional.
+
+
+##### Seção IV — Das Vedações
+
+
+Art. 52.
+
+É vedada a utilização dos recursos do Fundo Municipal de Segurança Alimentar e Nutricional para:
+
+
+I –
+
+pagamento de pessoal e encargos sociais permanentes;
+
+
+II –
+
+despesas estranhas às finalidades previstas nesta Lei;
+
+
+III –
+
+ações que não estejam previstas na Política ou no Plano Municipal de Segurança Alimentar e Nutricional.
+
+
+Parágrafo único
+
+As despesas administrativas necessárias à gestão do Fundo poderão ser realizadas, desde que devidamente justificadas e limitadas a percentual a ser definido na Lei Orçamentária Anual.
+
+
+##### Seção V — Da Gestão e Execução
+
+
+Art. 53.
+
+A gestão do Fundo Municipal de Segurança Alimentar e Nutricional será exercida pelo (a) Secretário (a) Municipal de Assistência Social, sendo de competência do Conselho Municipal de Segurança Alimentar e Nutricional a deliberação sobre a aplicação dos recursos em programas, projetos e ações voltados à pessoa em situação de vulnerabilidade Social.
+
+
+Art. 54.
+
+Compete ao órgão gestor do Fundo:
+
+
+I –
+
+administrar os recursos financeiros;
+
+
+II –
+
+executar as ações previstas no Plano Municipal de Segurança Alimentar Nutricional;
+
+
+III –
+
+manter controle contábil e financeiro atualizado;
+
+
+IV –
+
+elaborar relatórios periódicos de execução financeira;
+
+
+V –
+
+prestar contas da aplicação dos recursos, na forma da legislação vigente;
+
+
+VI –
+
+assegurar a transparência na aplicação dos recursos.
+
+
+##### Seção VI — Da Movimentação e Controle
+
+
+Art. 55.
+
+Os recursos do Fundo serão depositados em conta bancária específica, mantida em instituição financeira oficial.
+
+
+##### Seção VII — Da Fiscalização e Controle Social
+
+
+Art. 56.
+
+A aplicação dos recursos do Fundo será:
+
+
+I –
+
+acompanhada e fiscalizada pelo Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA;
+
+
+II –
+
+submetida aos órgãos de controle interno e externo;
+
+
+III –
+
+amplamente divulgada, assegurando transparência e acesso à informação.
+
+
+Art. 57.
+
+O órgão gestor do Fundo divulgará, periodicamente, demonstrativos de receitas e despesas, garantindo a transparência da gestão dos recursos.
+
+
+#### CAPÍTULO VII — DAS AÇÕES, PROGRAMAS E BENEFICIÁRIOS
+
+
+Art. 58.
+
+As ações, programas e projetos de segurança alimentar e nutricional no âmbito do Município de Alto Garças deverão observar as diretrizes estabelecidas nesta Lei e no Plano Municipal de Segurança Alimentar e Nutricional.
+
+
+Art. 59.
+
+As ações e programas de segurança alimentar e nutricional abrangerão, dentre outras:
+
+
+I –
+
+a promoção do acesso regular e permanente à alimentação adequada;
+
+
+II –
+
+o combate à insegurança alimentar e nutricional;
+
+
+III –
+
+o apoio à produção, ao abastecimento e à comercialização de alimentos, especialmente da agricultura familiar;
+
+
+IV –
+
+a promoção da educação alimentar e nutricional;
+
+
+V –
+
+a implementação de ações voltadas à melhoria das condições de vida da população em situação de vulnerabilidade social;
+
+
+VI –
+
+o incentivo a práticas alimentares saudáveis e sustentáveis.
+
+
+Art. 60.
+
+Constituem público prioritário das ações e programas de segurança alimentar e nutricional:
+
+
+I –
+
+famílias e indivíduos em situação de vulnerabilidade social e econômica;
+
+
+II –
+
+pessoas em situação de insegurança alimentar e nutricional;
+
+
+III –
+
+grupos populacionais específicos que demandem atenção prioritária, conforme diagnóstico social do Município.
+
+
+Art. 61.
+
+A seleção dos beneficiários das ações e programas deverá observar critérios objet1vos, transparentes e fundamentados em dados oficiais, diagnósticos sociais e indicadores de segurança alimentar e nutricional.
+
+
+Art. 62.
+
+A definição de territórios prioritários e do público-alvo das ações deverá considerar estudos técnicos e informações provenientes de cadastros oficiais e demais instrumentos de diagnóstico social disponíveis.
+
+
+#### CAPÍTULO VIII — DA GESTÃO, MONITORAMENTO E TRANSPARÊNCIA
+
+
+Art. 63.
+
+gestão da Política Municipal de Segurança Alimentar e Nutricional será realizada de forma integrada pelos órgãos e entidades da Administração Pública municipal, sob coordenação da Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN
+
+
+Art. 64.
+
+Compete ao órgão gestor da Política Municipal de Segurança Alimentar Nutricional:
+
+
+I –
+
+coordenar a execução das ações e programas;
+
+
+II –
+
+articular os órgãos e entidades envolvidos;
+
+
+III –
+
+assegurar o cumprimento das diretrizes estabelecidas nesta Lei;
+
+
+IV –
+
+apoiar tecnicamente a CAISAN e o COMSEA;
+
+
+V –
+
+promover a integração das ações com outras políticas públicas.
+
+
+Art. 65.
+
+O monitoramento e a avaliação da Política e do Plano Municipal de Segurança Alimentar e Nutricional serão realizados de forma contínua, com base em indicadores definidos no Plano Municipal.
+
+
+Art. 66.
+
+O Poder Executivo municipal deverá divulgar, periodicamente:
+
+
+I –
+
+os resultados das ações e programas implementados;
+
+
+II –
+
+os recursos aplicados;
+
+
+III –
+
+os indicadores de segurança alimentar e nutricional.
+
+
+Art. 67.
+
+Será assegurada a transparência das ações e a ampla divulgação das informações relativas à Política Municipal de Segurança Alimentar e Nutricional, garantindo o acesso da população e o controle social.
+
+
+#### CAPÍTULO IX — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 68.
+
+O Poder Executivo regulamentará, no que couber, as disposições desta Lei, no prazo de até 90 (noventa) dias, contado da data de sua publicação, observado o disposto nesta Lei.
+
+
+Art. 69.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA deverá ser instalado no prazo de até 60 (sessenta) dias, contado da publicação desta Lei.
+
+
+Art. 70.
+
+Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN deverá ser instituída no prazo de até 60 (sessenta) dias, contado da publicação desta Lei.
+
+
+Art. 71.
+
+O Plano Municipal de Segurança Alimentar e Nutricional deverá ser elaborado no prazo de até 180 (cento e oitenta) dias, contado da instalação da CAISAN.
+
+
+Art. 72.
+
+Fica revogada integralmente a Lei Municipal nº 567, de 11 de julho de 2003.
+
+
+Art. 73.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, Edifício Sede do Poder Executivo, em Alto Garças - MT, 23 de junho  
+de 2026.
+
+**CEZALPINO MENDES TEIXEIRA JUNIOR Prefeito Municipal de Alto Garças - MT**
+

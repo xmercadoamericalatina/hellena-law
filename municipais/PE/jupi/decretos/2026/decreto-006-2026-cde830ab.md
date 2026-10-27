@@ -1,0 +1,275 @@
+---
+titulo: "DECRETO Nº 006, DE 13 DE JANEIRO DE 2026."
+uf: "PE"
+municipio: "JUPI"
+tipo: "Decreto"
+numero: "006"
+data: 2026-01-13
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 21/01/2026"
+data_publicacao: 2026-01-21
+codigo_identificador: "CDE830AB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115731_2026-01-20_24b0eb05c2148f3b7541d955861744ab.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 006, DE 13 DE JANEIRO DE 2026.
+
+DECRETO Nº 006, DE 13 DE JANEIRO DE 2026.
+Altera o Anexo Único do Decreto Municipal nº 7 de 05 de janeiro de 2024 – Instrumento Orientador do Programa Municipal de
+Proteção Ambiental – PROAMB, para atualizar os valores da tabela de atividades voluntárias acessórias, e dá outras
+providências.
+A PREFEITA CONSTITUCIONAL DO MUNICÍPIO DE JUPI, ESTADO DE PERNAMBUCO, no uso de suas atribuições legais conferidas
+pelo art. 45, incisos IV e IX da Lei Orgânica Municipal Lei Federal nº 9.608 de 18 de fevereiro de 1998, Lei Federal nº 11.107 de 06 de abril de
+2005 e Lei Municipal nº 798 de 20 de junho de 2024,
+CONSIDERANDO a necessidade de atualizar os valores da Tabela de Atividades Voluntárias Acessórias contida no Anexo Único do Decreto
+Municipal nº 8 de 5 de janeiro de 2024;
+CONSIDERANDO o valor do auxílio pecuniário de natureza indenizatória pago por hora-atividade ao voluntário, a título de bolsa, pelo
+desempenho das atividades deve ter como referência o valor do salário mínimo do ano corrente;
+CONSIDERANDO que o valor do Salário Mínimo Nacional para o ano de 2026 é de R$ 1.621,00 (hum mil seiscentos e vinte e um reais),
+D E C R E T A:
+Art. 1º O ANEXO ÚNICO - Tabela de Atividades Acessórias Voluntárias do Decreto Municipal nº 7 de janeiro de 2024 – Instrumento Orientador
+do Programa Municipal de Proteção Ambiental - PROAMB, passa a viger com a redação determinada no ANEXO do presente Decreto.
+Art. 2º Este Decreto entra em vigor na data de sua publicação, contando-se lhe seus efeitos a partir de 2 de janeiro de 2026.
+Gabinete da Prefeita, em 13 de janeiro de 2026.
+RIVANDA MARIA FREIRE LIMA TEIXEIRA
+Prefeita
+DECRETO MUNICIPAL Nº 006, DE 13 DE JUNHO DE 2025.
+ANEXO
+Tabela de Atividades Voluntárias Acessórias
+CÓDIGO DA ATIVIDADE
+
+01.1
+01.2
+01.3
+01.4
+
+02.1
+
+02.2
+
+02.3
+
+02.4
+
+DENOMINAÇÃO
+DA
+ATIVIDADE
+GRUPO 1
+AGENTE AUXILIAR DE LIMPEZA
+PRÉDIOS
+AGENTE
+DE
+CARREGAMENTO
+DESCARREGAMENTO
+
+DESCRIÇÃO
+VALOR R$ DA HORADAS
+ESCOLARIDADE
+ATIVIDADE
+ATIVIDADES ASSESSÓRIAS
+ATÉ R$ 1.621,00
+DE ATIVIDADES DE LIMPEZA E VARRIÇÃO, INCLUINDO
+16,21
+Até 9º Ano do Ensino Fundamental
+COPA/COZINHA, EM PRÉDIOS PÚBLICOS.
+E ATIVIDADES DE CARGA DE DESCARGA DE
+16,21
+Até 9º Ano do Ensino Fundamental
+MATERIAIS.
+ATIVIDADES DE COLETA DE RESÍDUOS HOSPITALAR
+AGENTE COLETOR DE RESÍDUOS
+E VARRIÇÃO EM VIAS E PRÉDIOS DAS UNIDADES DE 16,21
+Até 9º Ano do Ensino Fundamental
+ATENDIMENTO MÉDICO E AMBULATORIAL;
+AGENTE DE HIGIENIZAÇÃO DE COZINHA E ATIVIDADES DE COLETA, LIMPEZA E ORGANIZAÇÃO
+16,21
+Até 9º Ano do Ensino Fundamental
+REFEITÓRIOS
+DE UTENSÍLIOS DE COZINHA.
+GRUPO 2
+ATÉ R$ 2.026,00
+ATIVIDADES DE CUIDADOS E MANUTENÇÃO NAS
+RESERVAS
+FLORESTAIS,
+MATAS
+CILIARES,
+RESERVAS
+E
+CURSOS
+D‟AGUA,
+INCLUINDO
+AGENTE AMBIENTAL
+20,26
+Até 9º Ano do Ensino Fundamental
+OBSERVAÇÃO E CONTROLE DA POLUIÇÃO SONORA,
+VISUAL AMBIENTAL E RESÍDUOS DIVERSOS EM VIAS
+E ESPAÇOS PÚBLICOS.
+ATIVIDADES DE RECOLHIMENTO E CUIDADOS,
+INCLUINDO
+AUXÍLIO
+NO
+TRATAMENTO
+AGENTE CUIDADOR DE FAUNA
+VETERINÁRIO, ENTREGA E/OU DEVOLUÇÃO AOS 20,26
+Até 9º Ano do Ensino Fundamental
+TUTORES DE ANIMAIS ABANDONADOS EM VIAS E
+ESPAÇOS PÚBLICOS.
+ATIVIDADES DE PODAÇÃO DE ÁRVORES, PLANTAS E
+AGENTE DE PODAÇÃO E JARDINAGEM
+TRATAMENTO DE JARDINS EM VIAS E ESPAÇOS 20,26
+Até 9º Ano do Ensino Fundamental
+PÚBLICOS.
+
+AGENTE DE
+AMBIENTAL
+
+VIGÍLIA
+
+PATRIMONIAL
+
+GRUPO 3
+03.1
+
+AGENTE AUXILIAR DE TRANSPORTE
+
+E
+
+ATIVIDADES DE VIGÍLIA, PROTEÇÃO E DEFESA DO
+PATRIMÔNIO PÚBLICO, HISTÓRICO, CULTURAL E 20,26
+AMBIENTAL.
+ATÉ R$ 2.532,00
+ATIVIDADES EVENTUAIS AUXILIAR/FOLGUISTA DE
+TRANSPORTES DE PESSOAS E CARGAS, REALIZADAS 25,32
+EM VEÍCULOS AUTOMOTORES.
+
+www.diariomunicipal.com.br/amupe
+
+Até 9º Ano do Ensino Fundamental
+
+Até 9º Ano do Ensino Fundamental
+
+218
+
+Pernambuco , 21 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+ATIVIDADES DE MANUTENÇÃO, RETOQUES DE
+PINTURA, PEQUENOS REPAROS EM MÓVEIS E
+25,32
+IMÓVEIS PERTENCENTES OU EM POSSE DO PODER
+PÚBLICO E CONSERTOS DE MOBILIÁRIO.
+ATIVIDADES AUXILIAR DE ACOMPANHAMENTO E
+AGENTE MONITOR AUDIOVISUAL
+MONITORAMENTO ATRAVÉS DE CÂMERAS EM 25,32
+SALAS DE AUDIO E VÍDEO.
+ATIVIDADES AUXILIARES NA PREVENÇÃO DE
+AGENTE DE BOMBEIRO CIVIL
+ACIDENTES, INCLUINDO VERIFICAÇÃO DE POSSÍVEIS 25,32
+PONTOS DE RISCOS NAS ESCOLAS MUNICIPAIS.
+ATIVIDADES
+AUXILIARES
+RELACIONADAS
+A
+AGENTE DESPORTISTA
+COORDENAÇÃO
+DE
+ESPORTES
+DO
+ENSINO 25,32
+FUNDAMENTAL.
+ATIVIDADES DE FACILITAÇÃO DO ATENDIMENTO
+HUMANIZADO AO PÚBLICO E SERVIÇOS AUXILIARES
+AGENTE FACILITADOR DE ATENDIMENTO
+25,32
+NA COMUNICAÇÃO SOCIAL DE DOCENTES E
+DISCENTES.
+GRUPO 4
+ATÉ R$ 2.836,00
+ATIVIDADES
+DE
+APOIO
+ADMINISTRATIVO,
+INCLUINDO SERVIÇOS DE CÓPIAS XEROGRÁFICAS E
+AGENTE
+AUXILIAR
+DE
+SERVIÇOS
+DIGITALIZAÇÃO DE DOCUMENTOS, DIGITAÇÃO, 28,36
+ADMINISTRATIVOS
+COFERÊNCIA
+E
+ENCAMINHAMENTOS
+DE
+CORRESPONDÊNCIAS E AUXILIAR DE ARQUIVO.
+
+03.2
+
+AGENTE DE MANUTENÇÃO
+
+03.3
+
+03.4
+
+03.5
+
+03.6
+
+04.1
+
+GRUPO 5
+AGENTE
+AUXILIAR
+GOVERNAMENTAIS
+GRUPO 6
+
+ATÉ R$ 3.120,00
+PROGRAMAS ATIVIDADES
+AUXILIARES
+DE
+PROGRAMAS
+31,20
+GOVERNAMENTAIS EM EXECUÇÃO NO MUNICÍPIO.
+ATÉ R$ 3.242,00
+ATIVIDADES ACESSÓRIAS DE ACOMPNHAMENTO,
+AGENTE DE SUPORTE A PROGRAMAS
+SUPORTE E DESENVOLVIMENTO DE PROGRAMAS 32,42
+GOVERNAMENTAIS
+GOVERNAMENTAIS EM EXECUÇÃO NO MUNICÍPIO.
+ATIVIDADES AUXILIARES DE ARTICULAÇÃO E
+AGENTE ARTICULADOR AMBIENTAL
+COORDENAÇÃO NA ÁREA DE PRESERVAÇÃO 32,42
+AMBIENTAL.
+
+05.1
+
+06.1
+
+06.2
+
+DE
+
+ANO XVII | Nº 4017
+
+Até 9º Ano do Ensino Fundamental
+
+Nível Médio
+
+Nível Médio
+
+Nível Médio
+
+Nível Médio
+
+Nível Médio
+
+Nível Médio
+
+Nível Superior
+
+Nível Superior
+
+Gabinete da Prefeita, em 13 de janeiro de 2026.
+RIVANDA MARIA FREIRE LIMA TEIXEIRA
+Prefeita
+Publicado por:
+Sandreane Barbosa da Silva

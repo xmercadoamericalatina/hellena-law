@@ -1,0 +1,144 @@
+---
+titulo: "Lei nº 1.729, de 29 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1729"
+data: "2025-12-29"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3427"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/274/text"
+sha256_fonte: "ac0af4e0fd6bc69ff3cb3c7cadb01cc4fc723bc7aeec9cbc2254acf4b7ba0572"
+sha256_texto: "6bbb5e1072694a0dc51870032ccea0f54aec98b564616ce806d9b067c7596f43"
+capturado_em_fonte: "2026-10-21T05:43:38.181379-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.729, de 29 de dezembro de 2025
+
+Institui a Semana Municipal de Segurança no Trânsito, anualmente, no Município de Amontada, e dá outras providências.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**, no uso de suas atribuições legais e constitucionais. Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída no Município de Amontada a Semana Municipal de Segurança no Trânsito, a ser comemorada anualmente a partir da terceira segunda-feira do mês de setembro, com duração de 5 (cinco) dias úteis.
+
+
+Art. 2º.
+
+A Semana Municipal do Trânsito orientará suas ações e atividades com os seguintes princípios e finalidades:
+
+
+I –
+
+melhorar as condições do trânsito no Município de Amontada, através da educação e conscientização da população;
+
+
+II –
+
+permitir a atuação conjunta entre os órgãos municipais, além do envolvimento da sociedade e organização não governamentais;
+
+
+III –
+
+promover simpósios, conferências, palestras, exposições e atividades que chamem a atenção da comunidade quanto à necessidade da segurança no trânsito;
+
+
+IV –
+
+conscientizar a comunidade sobre os problemas do tráfego e sobre sua responsabilidade para a melhoria da segurança do sistema;
+
+
+V –
+
+promover aulas, peças teatrais e cursos para todas as faixas etárias que transmitam uma reflexão sobre ética e cidadania no trânsito;
+
+
+VI –
+
+orientar a comunidade escolar, fornecendo-lhe conhecimentos básicos sobre sinalização, circulação de veículos e movimentação de pedestres;
+
+
+VII –
+
+conscientizar os adolescentes para a necessidade de práticas e ações corretas que proporcionem segurança no trânsito e fornecer subsídios para que se tornem multiplicadores da educação e segurança no trânsito;
+
+
+VIII –
+
+estabelecer campanhas, esclarecendo condutas a serem seguidas nos primeiros socorros em caso de sinistro de trânsito;
+
+
+IX –
+
+debater a segurança com a sociedade local e o respeito à vida no transporte em motocicletas, motonetas e similares.
+
+
+Art. 3º.
+
+O Poder Executivo Municipal deverá constituir anualmente através de Decreto a Comissão Organizadora que ficará encarregada pela coordenação dos eventos educativos alusivos à Semana Municipal do Trânsito, que deverá contar com representantes dos seguintes segmentos:
+
+
+I –
+
+Secretaria Municipal de Infraestrutura;
+
+
+II –
+
+Secretaria Municipal da Educação;
+
+
+III –
+
+Secretaria Municipal da Saúde;
+
+
+IV –
+
+Representante do Poder Legislativo; e
+
+
+V –
+
+Autarquia Municipal de Trânsito e Transporte Rodoviário e Urbano.
+
+
+Art. 4º.
+
+Para viabilizar a infraestrutura necessária à realização dos eventos da Semana Municipal de Segurança no Trânsito, o Poder Executivo poderá realizar parcerias com Órgãos Governamentais como a Polícia Rodoviária Federal, Polícia Militar, DETRAN, Corpo de Bombeiros Militar, demais Órgãos Municipais de Trânsito, bem como com Organizações Não-Governamentais (ONGs) e Organização da Sociedade Civil de Interesse Público (OSCIPs).
+
+
+Art. 5º.
+
+O Poder Executivo fica autorizado a adotar as medidas necessárias para a implementação da formação teórico-técnica do processo de habilitação de veículo automotor e elétrico como atividade extracurricular nas escolas do ensino médio do Município, consoante previsto na Resolução nº 265/2007 do CONTRAN, e as que a sucederem tratando da matéria.
+
+
+Art. 6º.
+
+As despesas decorrentes da aplicação da presente Lei correrão à conta de dotação orçamentária própria da Autarquia Municipal de Trânsito e Transporte Rodoviário e Urbano, ficando o Poder Executivo autorizado a abrir créditos adicionais suplementares, se necessários, ao orçamento geral do Município.
+
+
+Art. 7º.
+
+A Semana Municipal do Trânsito deve constar no Calendário Oficial de Eventos do Município.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Amontada,** em 29 de dezembro de 2025.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

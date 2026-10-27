@@ -1,0 +1,116 @@
+---
+titulo: "Lei Ordinária nº 10.563, de 29 de março de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10563"
+data: "2017-03-29"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/4943"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/231/text"
+sha256_fonte: "1e78cb1e8c87a06de0a250b1ab10129b252665a6c42dfea3404e5f17239adab8"
+sha256_texto: "ce5cc757c50b004e75eb85632023b02856e4de582bf45e9c420fa4cf26f8277a"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.563, de 29 de março de 2017
+
+Desafeta e autoriza o Poder Executivo a efetuar concessão de uso de imóvel público situado em parte de área institucional do Conjunto São Miguel II ao Centro de Inclusão Social Renascer e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica desafetado do patrimônio público municipal o imóvel público municipal situado em parte da área institucional pertencente ao Loteamento Conjunto São Miguel II, cadastrado na Secretaria Municipal do Planejamento, Orçamento e Gestão (SEPOG) sob o nº 471, da Secretaria Regional VI (SER VI), e tombado sob o nº 950000047, com área construída de 290,45m² e área total de 417,78m², situado na Rua Ozélia Pontes nº 187, no bairro Parque José de Alencar, em terreno de formato irregular com os seguintes limites e dimensões: ao norte, por onde mede 25,32m no sentido noroeste—sudeste, limitando-se com o imóvel de nº 193 da Rua Ozélia Pontes e com o imóvel nº 293 da Rua Nossa Senhora Auxiliadora (antes com os lotes 15 e 1 da quadra 3 do Loteamento Conjunto São Miguel II, respectivamente); ao leste, por onde mede 16,50m no sentido nordeste—sudoeste e se limita com a Rua Ozélia Pontes; ao sul, por onde mede 25,32m, limitando-se com a Olímpio Leite; ao oeste, por onde mede 16t50m no sentido sudoeste—noroeste e se limita com a Rua Jonas Sampaio.
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a conceder o uso da área mencionada no art. 1º desta Lei, mediante celebração de Contrato de Concessão de Uso, com a interveniência da Secretaria Municipal da Educação (SME) e da Secretaria Municipal do Planejamento, Orçamento e Gestão (SEPOG), ao Centro de Inclusão Social Renascer, pessoa jurídica de direito privado, entidade assistencial e sem fins lucrativos, inscrita no CNPJ/MF sob o nº 03.507.630/0001-45, com sede nesta capital na Rua Senador Carlos Jereissati nº 385, Alto, bairro Jardim das Oliveiras, Fortaleza/CE.
+
+
+Art. 3º.
+
+A concessão de uso do imóvel descrito no art. 1º destinar-se-á à implantação de creche para o atendimento a cem (100) crianças (faixa de 01 a 03 anos) da educação infantil, primeira etapa da educação básica, em regime integral, bem como contando com a participação direta dos seus familiares nas ações sociopedagógicas, sem qualquer ônus para o Município de Fortaleza.
+
+
+Art. 4º.
+
+O prazo da concessão de uso do bem público municipal contemplado nesta Lei será de 10 (dez) anos, contados da data da assinatura do instrumento da respectiva outorga, sendo o Município de Fortaleza, na condição de cedente, representado pela Secretaria Municipal do Planejamento, Orçamento e Gestão (SEPOG) e pela Secretaria Municipal da Educação (SME).
+
+
+Art. 5º.
+
+A concessão de uso de que trata a presente Lei tornar-se-á nula, independente de ato especial em juízo ou fora dele, e sem direito de a instituição concessionária pleitear indenização ou retenção, inclusive de benfeitorias realizadas na área descrita no art. 1º desta Lei, revertendo os bens ao patrimônio do Município, se, ao empreendimento, no todo ou em parte, vier a ser dada finalidade diversa da prevista nesta Lei, ainda que pública, sem a autorização legislativa do Município de Fortaleza
+
+
+Parágrafo único
+
+Aplicar-se-á o disposto neste artigo, se a instituição concessionária não iniciar no prazo de 2 (dois) anos, contados da data do instrumento de outorga da concessão, a implantação dos equipamentos a que se destina.
+
+
+Art. 6º.
+
+Resolver-se-á a concessão de direito de uso quando ocorrer 1 (uma) das seguintes hipóteses:
+
+
+I –
+
+nos casos de desvio de finalidade;
+
+
+II –
+
+por transferência ou cessão a terceiros, a título gratuito ou oneroso;
+
+
+III –
+
+quando ocorrer inadimplência de cláusula prevista no termo de concessão;
+
+
+IV –
+
+por expiração do prazo de vigência do instrumento de concessão;
+
+
+V –
+
+no caso de alteração dos objetivos assistenciais da instituição cessionária;
+
+
+VI –
+
+nos demais casos previstos em lei.
+
+
+Parágrafo único
+
+Ocorrida qualquer dessas hipóteses, a Administração Municipal notificará o interessado, dando-lhe um prazo de 30 (trinta) dias para desocupar o imóvel, independente de notificação judicial, sem direito de a instituição concessionária pleitear indenização ou retenção, devendo reverter em benefício do Município de Fortaleza todas as benfeitorias realizadas no imóvel concedido.
+
+
+Art. 7º.
+
+Ocorrendo a descontinuidade do uso, independentemente do motivo, não poderá ser cobrada do Município de Fortaleza nenhuma indenização pelas benfeitorias realizadas em consequência da concessão autorizada nos termos desta Lei, não interessando quem as tenha feito ou financiado, se por dotação pública ou em parceria ou convênio com a iniciativa privada ou com moradores, sendo vedada ainda a retenção das benfeitorias existentes.
+
+
+Art. 8º.
+
+É vedado o fracionamento da área dada em concessão de uso sem prévia e expressa autorização do concedente.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 29 de Março de 2017.**
+
+**MORONI BING TORGAN Prefeito Municipal de Fortaleza (em exercício)**
+

@@ -1,0 +1,141 @@
+---
+titulo: "Lei Ordinária nº 2.165, de 13 de janeiro de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2165"
+data: "2016-01-13"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/836"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/199/text"
+sha256_fonte: "87df3d761e24fe4676c02f5029740f7bb82d31ea56a6ae8f1df3e3faf967a16d"
+sha256_texto: "be190f6543ea3d207d2e730172e962913cd9ac2ac2ba9f42e6774fccaf875174"
+capturado_em_fonte: "2026-10-21T03:59:11.053598-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.165, de 13 de janeiro de 2016
+
+"Torna obrigatória a exibição de vídeos educativos antidrogas nas aberturas de shows e eventos culturais no Município de Rio Branco e dá outras providências".
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO-ESTADO DO ACRE**, usando das atribuições que lhe são conferidas por Lei, **FAÇO SABER** que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+É obrigatória a divulgação de mensagem educativa antidrogas, para fins de combate ao uso de substâncias alucinógenas ou entorpecentes, na abertura de todos os shows artísticos e eventos culturais com aglomeração de público no Município de Rio Branco.
+
+
+§ 1º
+
+Entende-se por eventos culturais as sessões de cinema, shows musicais, teatrais e de dança, exposição agropecuária e outros similares.
+
+
+§ 2º
+
+A mensagem que alude o caput deste artigo poderá ser feita por meio de vídeos, faixas e/ou ainda, impressa nos ingressos que dão acesso aos eventos e shows culturais.
+
+
+§ 3º
+
+No caso de apresentação de vídeo, deverá este ter duração de, no máximo, um minuto de exibição, devendo ser feito em telas capazes de permitir a visualização de seu conteúdo por todo o público local onde se realiza o evento ou show cultural.
+
+
+§ 4º
+
+As faixas de divulgação da mensagem deverão ser confeccionadas de modo a permitir sua visualização por todos os participantes dos eventos e shows.
+
+
+Art. 2º.
+
+O vídeo educativo deverá ser de responsabilidade das empresas administradoras de cinema e dos produtores de shows e eventos culturais realizados no Município de Rio Branco.
+
+
+Art. 3º.
+
+Os vídeos, assim como as faixas e/ou os ingressos contendo a mensagem de que trata esta Lei, serão de responsabilidade das empresas administradoras de cinema e dos produtores de shows e eventos culturais realizados no Município de Rio Branco.
+
+
+Art. 4º.
+
+A concessão do alvará para cada evento estará condicionada a assinatura, pelo promotor do mesmo, do termo de ciência e compromisso de veiculação de vídeo pertinente, nos termos do artigo 1° desta Lei.
+
+
+Parágrafo único
+
+O Poder Executivo poderá fornecer os vídeos educativos.
+
+
+Art. 5º.
+
+As informações a serem veiculadas nos vídeos educativos de que trata a presente Lei deverão abordar os seguintes temas, dentre outros:
+
+
+I –
+
+consequências do uso de drogas lícitas e ilícitas;
+
+
+II –
+
+uso indevido de medicamentos;
+
+
+III –
+
+drogas e sua relação próxima com a violência, prostituição e acidentes;
+
+
+IV –
+
+os dependentes de drogas e as chances de sua recuperação;
+
+
+V –
+
+a participação da família e da comunidade.
+
+
+Art. 6º.
+
+O descumprimento do disposto na presente Lei sujeitará ao infrator às seguintes penalidades:
+
+
+I –
+
+advertência;
+
+
+II –
+
+para as empresas administradoras de cinema, multa no valor de 05 UFMRB, por sessão de filme exibido sem a mensagem educativa;
+
+
+III –
+
+para os produtores de shows e demais eventos culturais, multa no valor de 10 (dez) UFMRB, aplicada em dobro no caso de reincidência e, após terceira infração, a cassação da licença de funcionamento e proibição de realizar eventos pelo prazo de um ano no âmbito do Município de Rio Branco.
+
+
+Art. 7º.
+
+O Poder Executivo, regulamentará, no que couber, a presente Lei.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor 60 (sessenta) dias após sua publicação.
+
+
+Rio Branco-Acre, 13 de Janeiro de 2016, 128° da República, 114° do Tratado de Petrópolis, 55° do Estado do Acre e 133° do Município de Rio Branco.
+
+
+**Marcus Alexandre**
+
+Prefeito de Rio Branco
+

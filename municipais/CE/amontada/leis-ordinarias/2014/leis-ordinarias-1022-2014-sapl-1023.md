@@ -1,0 +1,134 @@
+---
+titulo: "Lei nº 1.022, de 27 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1022"
+data: "2014-01-27"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1023"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1535/text"
+sha256_fonte: "8a5e0aa05a34d0c63fd34580336f5ac73b5ea872d7acba3c76d137297c41d9aa"
+sha256_texto: "ffbb0f471a1fb9daaf4d0424753da6c0a7a2de3cc9cfc1b567d4a1bfce7badd7"
+capturado_em_fonte: "2026-10-21T06:18:52.403296-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.022, de 27 de janeiro de 2014
+
+Autoriza doação de área abaixo descrita à empresa G&ART STELL INDÚSTRIA E CONSTRUÇÃO LTDA., para projeto de implantação do parque industrial da referida empresa.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**, no uso de suas atribuições legais, Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Autoriza a doação de uma área de terreno, pertencente à Prefeitura Municipal de Amontada, constituída por: Um total de 8 ha, onde a mesma estará definida nesse protocolo no seguinte endereço, com as respectivas medidas, e confrontações: Terreno com frente para a Rodovia Estadual CE-176, de forma irregular, perfazendo uma área total de 80.000,00 m², cuja demarcação está sendo retirada da seguinte área que forma o DIA - DISTRITO INDUSTRIAL DE AMONTADA: § 1º - Da localização do DIA I. O distrito industrial de Amontada I, situado na localidade de Jardim, situado à margem do Rio Aracati-Açu na cidade de Amontada tendo as seguintes medidas e confinantes: 385 metros de frente (largura), lados Nascente e Poente, por fundos (comprimento) de 2.640 metros, lados Norte e Sul, e 35 metros de frente (largura) lados Nascente e Poente, por fundos (comprimento) tendo 1.320metros, formando uma área total de 108,9 há, limitando-se ao todo, atualmente da seguinte forma: Ao Norte com terras de João de Castro do Canto Leite, por um travessão e cerca existentes; Ao Sul com terras pertencentes a Francisco Albano da Silva e José Ozete Santana, por um travessão e cerca existentes. Ao Nascente, onde der os fundos de meia légua e quarto de légua de fundos e com terras de Tanques, pertencente ao Dr. Luis Henrique e ao Poente, com o Rio Aracati-Açu e parte com terras de Francisco Albano da Silva, com uma casa de tijolo e telhas, dois cercados de arame e dois cacimbões, cadastrado no INCRA, conforme certificado de cadastro sob o n°. 143.049.012.246. Exercício de 1977. A área a ser doada para a G&ART STEEL INDUSTRIA E CONSTRUÇÃO LTDA fica localizada dentro do Loteamento denominado de DIA "Distrito Industrial de Amontada", do ponto denominado de ponto A, segue na direção oeste/leste por uma extensão de 400m, que chamaremos de distância AB, limitando-se com terras da Prefeitura Municipal de Amontada; Do ponto D segue na direção sul/norte por uma extensão de 200m, que chamaremos de distância BC, limitando-se com terras da Prefeitura Municipal de Amontada; Do ponto C, segue em direção leste/oeste por uma extensão de 400m, que chamaremos de distância CD, limitando-se com terras da Prefeitura Municipal de Amontada; Do ponto D, segue na direção norte/sul por uma extensão de 200m, que chamaremos de distância DA, limitando-se com a CE 176, perfazendo uma área total de 80.000m2, conforme planta em anexo. A formação da área a ser doada para a G&ART STEEL INDUSTRIA E CONSTRUÇÃO LTDA, será subtraída da matrícula total do DIA - Distrito Industrial de Amontada, conforme planta e memorial descritivo em anexo.
+
+
+Art. 2º.
+
+Fica o Poder Executivo Municipal autorizado a doar a referida área à empresa G&ART STEEL INDUSTRIA E CONSTRUÇÃO LTDA, Inscrita no CNPJ / MF sob o nº 05.623.326/0001-99, empresa industrial do ramo de fabricação de Estruturas Metálicas, Postes de Iluminação, Naves Industriais, Galvanização, Equipamentos para Industria, Construção de Galpões e Engenharia Civil, situada à Rodovia CE 176 Km 02 n°. 301 - Distrito Industrial de Amontada - Amontada - Ceará - CEP: 62.540-000.
+
+
+Parágrafo único
+
+Ceder um Galpão com 1.000 m², para que a empresa G&ART STEEL INDUSTRIA E CONSTRUÇÃO LTDA, possa iniciar a primeira fase de implantação de seu parque industrial, além de junto ao CEDE - Conselho Estadual de Desenvolvimento Econômico, pleitear a construção de um Galpão com 1.600m², onde vai funcionar definitivamente o parque industrial da empresa G&ART STEEL INDUSTRIA E CONSTRUÇÃO LTDA.
+
+
+Art. 3º.
+
+Em cumprimento ao disposto da lei n°. 986/2013 de 23/07/2013, a donatária deverá cumprir as seguintes condições:
+
+
+I –
+
+utilizar o imóvel para implantação das instalações do parque industrial da empresa;
+
+
+II –
+
+as obras da primeira etapa de implantação a serem edificadas deverão estar concluídas no prazo de 12 (doze) meses, a contar da doação e da execução da terraplanagem do referido imóvel, e o restante de conformidade com o cronograma de implantação da empresa;
+
+
+III –
+
+Utilizar mão de obra local para a construção do parque industrial da empresa;
+
+
+IV –
+
+Contratar de preferência prestadores de serviços, vendedores de materiais e equipamentos do município para as necessidades funcionais de implantação e funcionamento da empresa;
+
+
+V –
+
+Contratar no mínimo 90% da mão de obra usada para o funcionamento da unidade industrial, originária do Município de Amontada;
+
+
+VI –
+
+Caso ocorra a extinção da entidade donatária o imóvel reverter-se-á ao Patrimônio Municipal;
+
+
+VII –
+
+Iniciar as atividades no prazo fixado pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais de Amontada;
+
+
+VIII –
+
+Celebrar com o município o respectivo Termo Provisório de Doação Onerosa, assim que forem concluídas as instalações;
+
+
+IX –
+
+Não paralisar as atividades por mais de 120 (cento e vinte) dias ininterruptos sem motivo justificado e devidamente comprovado pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais;
+
+
+X –
+
+Estabelecer metas e encaminha-las ao Executivo Municipal as quais serão avaliadas pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais, a qual emitirá parecer aprovando ou não os referidos projetos, para no caso de desaprovação a empresa deverá refazer as metas.
+
+
+Art. 4º.
+
+O não cumprimento do disposto no artigo 9° da lei n°. 986/2013 de 23/07/2013,importará em imediata reversão do imóvel ao Patrimônio Público Municipal, de conformidade com o Art. 9° Incisos I, II, III, IV, V, VI, VII, VIII, IX e Art. 16° da Lei lei n°. 986/2013 de 23/07/2013.
+
+
+§ 1º
+
+No caso de existência de benfeitorias no imóvel, à época da reversão, as mesmas se incorporarão ao Patrimônio Público Municipal.
+
+
+§ 2º
+
+No caso de cumprimento das exigências dessa lei pela G&ART STEEL INDÚSTRIA E CONSTRUÇÃO LTDA, após 10 (dez) anos, o imóvel deverá ser automaticamente registrado no nome da empresa, visto que a mesma cumpriu suas obrigações contidas na lei n°. 986/2013 de 23/07/2013.
+
+
+Art. 5º.
+
+As despesas decorrentes da doação do imóvel correrão por conta da donatária.
+
+
+Art. 6º.
+
+A escritura de doação deverá conter os encargos desta lei.
+
+
+Art. 7º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+**Prefeitura Municipal de Amontada, 27 de janeiro de 2013.**
+
+**Paulo César dos Santos**  
+Prefeito Municipal
+

@@ -1,0 +1,126 @@
+---
+titulo: "Lei nº 1.471, de 06 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1471"
+data: "2023-03-06"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1966"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/765/text"
+sha256_fonte: "d3b0ecefd7753b1cbea06ce0ed996fc44d7e26b52aa9af31685029b600ccdcb3"
+sha256_texto: "ca3d8b57cb35595c6eac2c520db7c312e1c43acdfac51efcdb55e13464e2ac23"
+capturado_em_fonte: "2026-10-21T05:59:43.720552-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.471, de 06 de março de 2023
+
+Fixa os subsídios dos Vereadores da Câmara Municipal de Amontada para a Legislatura de 2025/2028 e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ.**
+
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Subsidio mensal dos Vereadores para a Legislatura de 2025 a 2028, fica fixado nos seguintes valores;
+
+
+I –
+
+R$ 9.900,00 (nove mil e novecentos reais), a partir de 1° de janeiro de 2025;
+
+
+II –
+
+R$ 10.430,00 (dez mil, quatrocentos e trinta reais), a partir de 1º de fevereiro de 2025.
+
+
+Art. 2º.
+
+E assegurada a revisão geral anual dos subsídios dos Vereadores no mesmo índice e no mesmo percentual da revisão geral anual concedida a todos os servidores públicos municipais, conforme previsto no art. 37, X, da Constituição Federal.
+
+
+I –
+
+O total do subsidio de que trata a presente lei não poderá ultrapassar o montante de 5% (cinco por cento) da receita do Município, conforme art. 29, VII, da Constituição Federal.
+
+
+II –
+
+O subsídio individual do vereador ficara limitado ao percentual estabelecido no art. 29, VI, da Constituição Federal em relação ao subsídio de Deputado Estadual, de acordo com a população do Município.
+
+
+III –
+
+O subsídio individual do vereador submete-se ao limite estipulado no art. 37, XI da Constituição Federal.
+
+
+Parágrafo único
+
+Caso necessário, a Presidente da Câmara poderá editar Decreto Legislativo, reduzindo o valor do subsídio dos Vereadores, objetivando adequar o total da despesa com pessoal ao que determina os preceitos constitucionais, em especial o art. 29-A e § 1º-A do mesmo artigo.
+
+
+Art. 3º.
+
+Fica assegurado aos Vereadores do Município de Amontada os direitos constitucionais de um terço de férias e décimo terceiro, previstos no art. 7°, VIII e XVII e art. 39, § 3° da Constituição Federal de 1988, com base no valor integral do subsídio.
+
+
+§ 1º
+
+Os Vereadores farão jus ao recebimento de decimo terceiro e férias proporcionais, em caso de finalização de seus mandatos antes de completado o período de doze meses conforme o ano civil.
+
+
+§ 2º
+
+O período de fruição das férias deve ocorrer no período de recesso parlamentar.
+
+
+§ 3º
+
+A vereadora gestante poderá licenciar-se por ate 180 (cento e oitenta dias) sem prejuízo da sua remuneração, que será devida conforme a legislação vigente.
+
+
+Art. 4º.
+
+A ausência injustificada do Vereador as sessões ordinárias determinara o desconto de 25% (vinte e cinco por cento) no subsídio, por sessão.
+
+
+Art. 5º.
+
+No caso de vaga, licença ou investidura do Vereador no cargo de Secretario Municipal ou equivalente, o suplente será convocado pelo Presidente no prazo máximo de 05 (cinco) dias.
+
+
+Parágrafo único
+
+O vereador investido no cargo de Secretario Municipal ou equivalente será considerado automaticamente licenciado, podendo optar pela remuneração da vereança.
+
+
+Art. 6º.
+
+As sessões extraordinárias e solenes não serão remuneradas, conforme art. 57, § 7º da Constituição Federal.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações próprias, consignadas no orçamento do Poder Legislativo Municipal.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação, surtindo efeitos a partir de 1º de janeiro de 2025.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA,** em 6 de março de 2023.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

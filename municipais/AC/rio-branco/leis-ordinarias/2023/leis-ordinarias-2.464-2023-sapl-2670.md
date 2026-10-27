@@ -1,0 +1,158 @@
+---
+titulo: "Lei Ordinária nº 2.464, de 03 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.464"
+data: "2023-07-03"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/2670"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/419/text"
+sha256_fonte: "8942580846b3fd9abd899e799f6c16762c3fbcb47e33f755a166f26054d9b20a"
+sha256_texto: "f748629222749a67152b816ed25261257f8c2c16323c02366d008057d853f794"
+capturado_em_fonte: "2026-10-21T03:38:56.832255-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.464, de 03 de julho de 2023
+
+"Dispõe sobre a criação do Programa Empreendedor Rural (Proer), destinado a promover a educação financeira e empreendedora rural no âmbito do município de Rio Branco - Acre".
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO-ACRE**
+
+Faço saber que a Câmara Municipal de Rio Branco decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Programa Empreendedor Rural (Proer), com a finalidade de promover o desenvolvimento da educação financeira e empreendedora para a população rural no âmbito do município de Rio Branco - Acre.
+
+
+Art. 2º.
+
+Os princípios do Programa Empreendedor Rural (Proer) são:
+
+
+I –
+
+a elevação da escolaridade do empreendedor na sua comunidade rural;
+
+
+II –
+
+a capacitação e a formação do empreendedor do campo mediante à difusão do conhecimento tecnológico e das inovações voltadas para o meio rural;
+
+
+III –
+
+o desenvolvimento sustentável;
+
+
+IV –
+
+o respeito às diversidades regionais e locais;
+
+
+V –
+
+a cooperação entre as diferentes esferas do Poder Público, o setor empresarial e demais segmentos da sociedade, com fim específico de estimular as iniciativas do empreendedor rural; e
+
+
+VI –
+
+a promoção do acesso ao crédito rural ao empreendedor rural.
+
+
+Art. 3º.
+
+As diretrizes para o Programa Empreendedor Rural visam preparar os moradores da zona rural para exercer papel estratégico de agente do desenvolvimento rural e têm como objetivos:
+
+
+I –
+
+fomentar a transformação de homens do campo em líderes empreendedores, com sensibilidade para identificar oportunidades de desenvolvimento profissional, familiar, cultural e do território onde estão inseridos;
+
+
+II –
+
+potencializar a ação produtiva de jovens, filhos de agricultores familiar, combinando ações de formação, de assistência técnica e de acesso ao crédito;
+
+
+III –
+
+estimular a elaboração de projetos produtivos a serem desenvolvidos pelos agricultores, como forma de viabilizar alternativas de trabalho e renda;
+
+
+IV –
+
+ampliar competências, conhecimentos e práticas que possibilitem a gestão empresarial eficiente do negócio agrícola, promovendo o empreendedorismo, a liderança, o cooperativismo, o planejamento, o uso de técnicas produtivas, a comercialização, os negócios rurais e a governança;
+
+
+V –
+
+incentivar o desenvolvimento de competências relacionadas a atividades não agrícolas com potencial para expansão no meio rural;
+
+
+VI –
+
+estimular o homem do campo e suas famílias a estruturarem estratégias de governança para a sucessão familiar;
+
+
+VII –
+
+ampliar a compreensão sobre desenvolvimento rural sustentável, práticas agrícolas, culturas regionais, políticas públicas para a agricultura familiar, organização e gestão social;
+
+
+VIII –
+
+incentivar o uso de conhecimentos tradicionais associados às inovações tecnológicas e às ferramentas de gestão associativas das atividades rurais; e
+
+
+IX –
+
+despertar no jovem o interesse pelo negócio cooperativo e destacar seus benefícios para competitividade dos produtos.
+
+
+Art. 4º.
+
+O Poder Executivo Municipal atuará de forma coordenada, no âmbito municipal, para apoiar o empreendedor do campo por meio de três eixos:
+
+
+I –
+
+educação empreendedora, que vise ao estímulo ao ensino do empreendedorismo nas escolas rurais, com vistas à educação e à formação de empreendedores do campo, por meio de iniciativas que despertem seu interesse e potencializem seu protagonismo nas atividades voltadas para o desenvolvimento do setor rural brasileiro;
+
+
+II –
+
+capacitação técnica, proporcionando ao homem do campo o conhecimento prático, de caráter não formal, necessário para a adequada condução da produção, da comercialização e da gestão econômico-financeira do empreendimento rural; e
+
+
+III –
+
+difusão de tecnologias no meio rural.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal regulamentará esta lei no que couber.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor noventa dias após a data de sua publicação.
+
+
+Rio Branco - Acre 03 de julho de 2023, 135° da República, 121° do Tratado de Petrópolis, 62° do Estado do Acre e 140° do Município de Rio Branco.
+
+
+**Tião Bocalom**
+
+Prefeito de Rio Branco
+

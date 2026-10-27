@@ -1,0 +1,110 @@
+---
+titulo: "Lei nº 1.635, de 10 de fevereiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1635"
+data: "2025-02-10"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3051"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/77/text"
+sha256_fonte: "00b147e9457b0dc8a7a2794cbb5c5f03f5b568a1a3a24023e712463036ad5fe6"
+sha256_texto: "41bf3cf3c84ab63506c5545529f5b21abf38e22b763b2fbc4dc07d183ef896dc"
+capturado_em_fonte: "2026-10-21T05:49:54.451785-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.635, de 10 de fevereiro de 2025
+
+Dispõe sobre a desafetação e doação de imóvel público municipal ao Governo do Estado do Ceará, destinado a construção e instalação de Escola de Ensino Médio no Município de Amontada, e dá outras providências.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**, no uso de suas atribuições legais e constitucionais.  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica desafetado do acervo patrimonial imobiliário do Município de Amontada, para fins de doação ao Governo do Estado do Ceará, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o n° 07.954.480/0001-79, com sede no Palácio da Abolição, situado na Avenida Barão de Studart, 505 - Meireles - CEP 60.120-013 - Fortaleza/CE, uma área total de 15.000,00m² de um imóvel urbano, situado no Município de Amontada, localizado às margens da Rodovia Estadual CE176, na sede do Município de Amontada, Estado do Ceará, com áreas e dimensões, constantes no art. 3° desta Lei, a ser desmembrado da Matrícula n° 1712, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim – Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, destinado exclusivamente ao objeto constante no § 2° do art. 3° desta Lei
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a doar, com dispensa de licitação em razão do interesse público relevante, ao Governo do Estado do Ceará, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o n° 07.954.480/0001-79, com sede no Palácio da Abolição, situado na Avenida Barão de Studart, 505 - Meireles - CEP 60.120-013 - Fortaleza/CE, uma área total de 15.000,00m² de um imóvel urbano, situado no Município de Amontada, localizado às margens da Rodovia Estadual CE-176, na sede do Município de Amontada, Estado do Ceará, com áreas e dimensões, constantes no art. 3° desta Lei, a ser desmembrado da Matrícula n° 1712, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim – Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, com cláusula de retrocessão, em favor do Ente Público doador, destinado exclusivamente ao objeto constante no § 2° do art. 3° desta Lei.
+
+
+Art. 3º.
+
+O imóvel de que dispõe esta Lei possui as seguintes características: Um terreno urbano de formato regular, situado no Município de Amontada e localizado às margens da Rodovia Estadual CE176, rodovia essa que liga a sede do Município de Amontada até a praia de Icaraí de Amontada, Estado do Ceará, com uma área total de 15.000,00m², perímetro igual a 500,00m, com a seguinte descrição, limites e confrontações: Inicia-se a descrição do terreno no perímetro do vértice V01, de coordenadas E=407.439,820m e N=9.630.423,095m; deste segue confrontando com o terreno da PREFEITURA MUNICIPAL DE AMONTADA – (NORTE – Lado Direito), com azimute de 101°04'31", com ângulo interno em V01 (90°00’01”) e por uma distância de 150,00m, até o vértice V02 de coordenadas E=407.587,027m e N=9.630.394,280m; deste segue confrontando com o terreno da PREFEITURA MUNICIPAL DE AMONTADA – (LESTE – Fundos), com azimute de 191°04'32”, com ângulo interno em V02 (89°59’59”) e por uma distância de 100,00m, até o vértice V03, de coordenadas E=407.567,817m e N=9.630.296,143m; deste segue confrontando com o terreno da PREFEITURA MUNICIPAL DE AMONTADA - (SUL – Lado Esquerdo), com azimute de 281°04’01”, com ângulo interno em V03 (90°00’01”) e por uma distância de 150,00m, até o vértice V04, de coordenadas E=407.420,610m e N=9.630.324,958m; deste segue confrontando com a RODOVIA ESTADUAL CE-176 - (OESTE – Frente), com azimute de 11°04’32”, com ângulo interno em V04 (89°59’59”) e por uma distância de 100,00m, até o vértice V01, onde teve início essa descrição, perfazendo uma área total de 15.000,00m² e um perímetro de 500,00m.
+
+
+§ 1º
+
+O imóvel descrito no caput deste artigo está localizado na área da Matrícula n° 1285, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim – Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, devendo ser desta matrícula desmembrado.
+
+
+§ 2º
+
+O imóvel descrito no caput deste artigo será destinado exclusivamente à construção de uma Escola Estadual de Educação Profissional, tipo Padrão.
+
+
+§ 3º
+
+Havendo desvio de finalidade ao que estabelece o parágrafo anterior, o imóvel descrito no caput deste artigo, objeto de desafetação, e doação ao Governo do Estado do Ceará, será revertido ao patrimônio público municipal, incontinenti e sem aviso prévio, interpelação ou notificação judicial e sem ônus para a municipalidade.
+
+
+Art. 4º.
+
+A doação a que se refere esta Lei, terá sempre o caráter de irretratabilidade e de irrevogabilidade, salvo se for descumprida, pelo donatário, as condições estabelecidas no artigo anterior.
+
+
+Parágrafo único
+
+No instrumento público de doação deverá constar, obrigatoriamente, entre outras, cláusulas especiais a que:
+
+
+I –
+
+o imóvel ficará vinculado à construção de uma Escola Estadual de Educação Profissional, tipo Padrão, por parte do Governo do Estado do Ceará;
+
+
+II –
+
+o imóvel não poderá ser alienado à terceiros;
+
+
+III –
+
+o donatário deverá cumprir todas as exigências da legislação municipal pertinente à matéria;
+
+
+IV –
+
+o não cumprimento dos encargos e obrigações desta Lei, fará reverter ao Município o imóvel ou valor correspondente, corrigido monetariamente.
+
+
+Art. 5º.
+
+As despesas decorrentes da doação do imóvel, correrão por conta do Município de Amontada, de acordo com o orçamento público municipal.
+
+
+Parágrafo único
+
+Fica o Poder Executivo autorizado, mediante Decreto, a abrir crédito especial ao orçamento vigente, para a cobertura das despesas decorrentes desta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA**, 10 de fevereiro de 2025.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

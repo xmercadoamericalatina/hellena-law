@@ -1,0 +1,422 @@
+---
+titulo: "Lei Ordinária nº 8.693, de 31 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8693"
+data: "2002-12-31"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5519"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2384/text"
+sha256_fonte: "bbc98c46329f1af0823ace55b540280206e025b3b68d556571009a34d7111a88"
+sha256_texto: "c076c7785df61ec936879a63d8aa98caf135f4d5adea820020dc611ac6eb8222"
+capturado_em_fonte: "2026-10-21T04:45:51.352456-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.693, de 31 de dezembro de 2002
+
+Dispõe sobre a educação ambiental, institui a política municipal de educação ambiental e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — Da Educação Ambiental
+
+
+Art. 1º.
+
+Entende-se por educação ambiental os processos através dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, considerando-o bem social de uso comum, essencial à sadia qualidade e sustentabilidade da vida humana.
+
+
+Art. 2º.
+
+A educação ambiental é um componente essencial e permanente da educação municipal, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo em caráter formal e não-formal.
+
+
+Art. 3º.
+
+Todos os cidadãos têm direito à educação ambiental como parte do processo educativo mais amplo, incumbindo:
+
+
+I –
+
+ao Poder Público, definir políticas públicas que incorporem a dimensão ambiental, promover a educação ambiental em todos os níveis de ensino e o engajamento da sociedade na conservação, recuperação e melhoria do meio ambiente, nos termos dos arts. 205 e 225 da Constituição Federal;
+
+
+II –
+
+às instituições educativas, promover a educação ambiental de maneira integrada aos seus programas educacionais;
+
+
+III –
+
+ao Conselho Municipal de Defesa do Meio Ambiente (COMDEMA), promover ações de educação ambiental integradas aos programas de conservação, recuperação e melhoria do meio ambiente; (VETADO)
+
+
+IV –
+
+às empresas entidades de classe, instituições públicas e privadas, promover programas destinados à capacitação dos trabalhadores visando a um controle efetivo sobre o ambiente de trabalho, bem como sobre as repercussões do processo produtivo no meio ambiente; (VETADO)
+
+
+V –
+
+à sociedade como um todo, manter atenção permanente à formação de valores, atitudes e habilidades que propiciem a atuação individual e coletiva voltada para a prevenção, a identificação e a solução de problemas ambientais.
+
+
+Art. 4º.
+
+São princípios básicos da educação ambiental:
+
+
+I –
+
+o enfoque humanista, democrático e participativo;
+
+
+II –
+
+a concepção do meio ambiente em sua totalidade, considerando a interdependência e integração entre o meio natural, o socioeconômico e o cultural, sob o enfoque da sustentabilidade;
+
+
+III –
+
+o pluralismo e diversidade de idéias e concepções pedagógicas, na perspectiva da interdisciplinaridade;
+
+
+IV –
+
+a vinculação entre ética, educação, trabalho e práticas sociais;
+
+
+V –
+
+a garantia de continuidade e permanência do processo educativo;
+
+
+VI –
+
+a permanente avaliação crítica do processo educativo;
+
+
+VII –
+
+a abordagem articulada das questões ambientais locais, regionais, nacionais e globais;
+
+
+VIII –
+
+o reconhecimento e o respeito à pluralidade e à diversidade cultural;
+
+
+IX –
+
+a adoção de princípios e diretrizes estabelecidos na agenda 21 da ONU (Organização das Nações Unidas).
+
+
+Art. 5º.
+
+São objetivos fundamentais da educação ambiental:
+
+
+I –
+
+o desenvolvimento de uma compreensão integrada do meio ambiente em suas múltiplas e complexas relações, envolvendo aspectos ecológicos, psicológicos, legais, políticos, sociais, econômicos, científicos, culturais e éticos;
+
+
+II –
+
+a garantia de democratização na elaboração dos conteúdos e da acessibilidade e transparência das informações ambientais;
+
+
+III –
+
+o estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental e social;
+
+
+IV –
+
+o incentivo à participação individual e coletiva, permanente e responsável, na preservação do equilíbrio do meio ambiente, entendendo-se a defesa da qualidade ambiental como um valor inseparável do exercício da cidadania;
+
+
+V –
+
+o estímulo à cooperação entre as diversas regiões do município, em níveis micro e macrorregionais, com vistas à construção de uma sociedade ambientalmente equilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social, responsabilidade e sustentabilidade;
+
+
+VI –
+
+o fomento e o fortalecimento da integração com a ciência e tecnologia.
+
+
+#### CAPÍTULO II — Da Política Municipal de Educação Ambiental
+
+
+##### Seção I — Disposições Gerais
+
+
+Art. 6º.
+
+Fica instituída a Política Municipal de Educação Ambiental.
+
+
+Art. 7º.
+
+A Política Municipal de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do SISNAMA, instituições educacionais públicas e privadas do sistema de ensino, os órgãos públicos da União, do Estado, do Município e do órgão municipal de educação, o COMDEMA, e organizações não-governamentais com atuação em educação ambiental.
+
+
+Art. 8º.
+
+As atividades vinculadas à Política Municipal de Educação Ambiental devem ser desenvolvidas na educação formal e não-formal, através das seguintes linhas de atuação interrelacionadas:
+
+
+I –
+
+capacitação de recursos humanos;
+
+
+II –
+
+desenvolvimento de estudos, pesquisas e experimentações;
+
+
+III –
+
+produção de material educativo;
+
+
+IV –
+
+acompanhamento e avaliação.
+
+
+§ 1º
+
+Nas atividades vinculadas à Política Municipal de Educação Ambiental serão respeitados os princípios e objetivos fixados por esta Lei.
+
+
+§ 2º
+
+A capacitação de recursos humanos voltar-se-à para:
+
+
+I –
+
+a incorporação da dimensão ambiental durante a formação e a especialização dos educadores de todos os níveis e modalidades de ensino;
+
+
+II –
+
+a formação e atualização de todos os profissionais em questões ambientais;
+
+
+III –
+
+a preparação de profissionais orientados para as atividades de gestão ambiental;
+
+
+IV –
+
+a formação e atualização de profissionais especializados na área de meio ambiente;
+
+
+V –
+
+o atendimento da demanda dos diversos segmentos da sociedade no que diz respeito à problemática ambiental.
+
+
+§ 3º
+
+As ações de estudos, pesquisas e experimentações voltar-se-ão para:
+
+
+I –
+
+o desenvolvimento de instrumentos e metodologias visando à incorporação da dimensão ambiental, de forma interdisciplinar nos diferentes níveis e modalidades de ensino;
+
+
+II –
+
+a difusão de conhecimentos e de informações sobre a questão ambiental;
+
+
+III –
+
+o desenvolvimento de instrumentos e metodologias visando à participação das populações interessadas na formulação e execução de pesquisas relacionadas à problemática ambiental;
+
+
+IV –
+
+a busca de alternativas curriculares e metodológicas da capacitação na área ambiental;
+
+
+V –
+
+o apoio a iniciativas e experiências locais e regionais, incluindo a produção de material educativo.
+
+
+##### Seção II — Da Educação Ambiental no Ensino Formal
+
+
+Art. 9º.
+
+Entende-se por educação ambiental no ensino formal a desenvolvida no âmbito dos currículos das instituições escolares públicas municipais, englobando:
+
+
+I –
+
+educação básica: infantil e fundamental;
+
+
+II –
+
+educação especial;
+
+
+III –
+
+educação para população tradicionais.
+
+
+Art. 10.
+
+A educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades de ensino formal.
+
+
+§ 1º
+
+A educação ambiental não deve ser implantada como disciplina específica no currículo escolar.
+
+
+§ 2º
+
+Nos cursos de extensão e nas áreas voltadas aos aspectos metodológicos da educação ambiental, quando se fizer necessário, é facultada a criação de disciplina específica.
+
+
+Art. 11.
+
+Os professores municipais em atividade deverão receber formação complementar em suas áreas de atuação, com o propósito de atenderem adequadamente ao cumprimento dos princípios e objetivos da Política Municipal de Educação Ambiental.
+
+
+Art. 12.
+
+A autorização e supervisão do funcionamento de instituição de ensino e de seus cursos, nas redes pública e privada, observarão o cumprimento do disposto nos arts. 10 e 11 desta Lei.
+
+
+##### Seção III — Da Educação Ambiental Não-Formal
+
+
+Art. 13.
+
+Entende-se por educação ambiental nãoformal as ações e práticas educativas voltadas à sensibilização da coletividade sobre a problemática ambiental, e à sua organização e participação na defesa da qualidade do meio ambiente.
+
+
+Parágrafo único
+
+O Poder Público Municipal incentivará:
+
+
+I –
+
+a difusão, através dos meios de comunicação de massa, de programas educativos e de informações acerca de temas relacionados ao meio ambiente;
+
+
+II –
+
+a ampla participação das escolas públicas municipais e de organizações não-governamentais na formulação e execução de programas e atividades vinculadas à educação ambiental não-formal;
+
+
+III –
+
+a participação de empresas públicas e privadas no desenvolvimento de programas de educação ambiental, em parceria com as escolas e organizações não-governamentais.
+
+
+#### CAPÍTULO III — Da Execução da Política Municipal de Educação Ambiental
+
+
+Art. 14.
+
+A coordenação da Política Municipal de Educação Ambiental ficará a cargo da Fundação Municipal de Educação Ambiental de Fortaleza, que será seu órgão gestor.
+
+
+Art. 15.
+
+São atribuições do órgão gestor:
+
+
+I –
+
+definição de diretrizes para implementação a nível municipal;
+
+
+II –
+
+articulação, coordenação e supervisão de planos, programas e projetos na área de educação ambiental municipal;
+
+
+III –
+
+participação na negociação de financiamentos e planos, programas e projetos na área de educação ambiental.
+
+
+Art. 16.
+
+O Município, na esfera de sua competência e na área de sua jurisdição, definirá diretrizes, normas e critérios para a educação ambiental, respeitados os princípios e objetivos da Política Municipal de Educação Ambiental.
+
+
+Art. 17.
+
+A seleção de planos e programas, para fins de alocação de recursos públicos vinculados à Política Municipal de Educação Ambiental, deve ser realizada levando-se em conta os seguintes critérios:
+
+
+I –
+
+conformidade com os princípios, objetivos e diretrizes da Política Municipal de Educação Ambiental;
+
+
+II –
+
+prioridade aos órgãos integrantes da rede municipal de educação e do COMDEMA;
+
+
+III –
+
+economicidade, medida pela relação entre a magnitude dos recursos a alocar e o retorno social propiciado pelo plano ou programa proposto.
+
+
+Parágrafo único
+
+Na seleção a que se refere o caput deste artigo, devem ser contemplados de forma eqüitativa, os planos, programas e projetos das diferentes regiões ou distritos do município.
+
+
+Art. 18.
+
+Devem ser destinados a ações em educação ambiental, pelo menos 15% (quinze por cento) dos recursos arrecadados pelo Fundo Municipal de Meio Ambiente.
+
+
+Art. 19.
+
+Os programas de assistência técnica e financeira relativas a meio ambiente e educação, em nível municipal, devem alocar recursos às ações de educação ambiental.
+
+
+#### CAPÍTULO IV — Disposições Finais
+
+
+Art. 20.
+
+O Poder Executivo Municipal regulamentará esta lei no prazo de 90 (noventa) dias, contado a partir de sua publicação.
+
+
+Art. 21.
+
+Esta lei entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 31 de dezembro de 2002. Juraci Magalhães PREFEITO DE FORTALEZA**
+

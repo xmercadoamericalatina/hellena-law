@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária nº 2.389, de 30 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2389"
+data: "2020-12-30"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/926"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/505/text"
+sha256_fonte: "8c35242e068a3a222b34fe389a299834848f4a8fc1abf5ea9604b7224b400e2a"
+sha256_texto: "61935f890d9303a85c3e2f904ae184d2430c06cd877f8b228ed3cebbf2a29d72"
+capturado_em_fonte: "2026-10-21T03:44:58.183666-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.389, de 30 de dezembro de 2020
+
+Dispõe sobre as sanções administrativas a serem aplicadas às práticas de discriminação em razão de orientação sexual e identidade de gênero.
+
+
+**A PREFEITA DO MUNICÍPIO DE RIO BRANCO - ACRE**, usando das atribuições que lhes são conferidas por Lei, **FAÇO SABER**, que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+É vedada, no Município de Rio Branco, qualquer forma de discriminação em razão de orientação sexual ou identidade de gênero, nos termos do disposto na Constituição Federal em seu art. 39, inciso IV.
+
+
+Art. 2º.
+
+Toda e qualquer manifestação atentatória ou discriminatória praticada contra homossexuais, bissexuais, travestis ou transexuais no Município de Rio Branco será punida nos termos desta Lei.
+
+
+Art. 3º.
+
+Consideram-se atos atentatórios e discriminatórios aos direitos individuais e coletivos de homossexuais, bissexuais, travestis ou transexuais para os efeitos desta Lei:
+
+
+I –
+
+praticar qualquer tipo de ação violenta;
+
+
+II –
+
+proibir o ingresso ou permanência em qualquer ambiente ou estabelecimento público ou privado, aberto ao público;
+
+
+III –
+
+praticar atendimento selecionado que não esteja devidamente determinado em lei;
+
+
+IV –
+
+preterir, sobretaxar ou impedir a hospedagem em hotéis, motéis, pensões ou similares;
+
+
+V –
+
+reterir, sobretaxar ou impedir a locação, compra, aquisição, arrendamento ou empréstimo de bens móveis ou imóveis de qualquer finalidade;
+
+
+VI –
+
+restringir o acesso ou o uso de transportes públicos, como ônibus, táxis e similares;
+
+
+VII –
+
+recusar, negar, impedir ou dificultar a inscrição ou ingresso de aluno em estabelecimento de ensino público ou privado de qualquer nível;
+
+
+VIII –
+
+praticar, induzir ou incitar, pelos meios de comunicação social ou de publicação de qualquer natureza, a discriminação, preconceito ou prática de atos de violência ou coação contra qualquer pessoa em virtude de sua orientação sexual e/ou identidade de gênero;
+
+
+Art. 4º.
+
+São passíveis de punição as pessoas físicas e as pessoas jurídicas, com ou sem fins lucrativos, instaladas no município de Rio Branco, que infringirem esta Lei.
+
+
+Art. 5º.
+
+Qualquer munícipe poderá apresentar denúncia acerca de infrações a esta Lei. Parágrafo único. Ao denunciante, se assim desejar, será assegurado sigilo quanto a seus dados e informações pessoais.
+
+
+Art. 6º.
+
+A infração ao disposto nesta Lei acarretará as seguintes penalidades:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa de valor a ser regulamentado pela Administração Pública Municipal;
+
+
+III –
+
+suspensão das atividades ou do alvará de funcionamento por até 30 (trinta) dias;
+
+
+IV –
+
+interdição das atividades ou cassação do alvará de funcionamento.
+
+
+§ 1º
+
+Na aplicação das penalidades será considerada a gravidade do fato e eventual reincidência do infrator.
+
+
+§ 2º
+
+Na aplicação das multas será levada em consideração a capacidade econômica do estabelecimento infrator, na hipótese de infração praticada por pessoa jurídica.
+
+
+§ 3º
+
+As penas mencionadas nos incisos III e IV não se aplicam aos órgãos públicos e às pessoas jurídicas de direito privado integrantes da Administração Indireta dos entes federados.
+
+
+Art. 7º.
+
+A regulamentação desta Lei ficará a cargo do Poder Executivo Municipal no prazo de 90 (noventa) dias a partir da sua publicação.
+
+
+Art. 8º.
+
+As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco - Acre, 30 de dezembro de 2020, 132° da República, 118° do Tratado de Petrópolis, 59° do Estado do Acre e 137° do Município de Rio Branco.
+
+
+**Socorro Neri**
+
+Prefeita de Rio Branco
+

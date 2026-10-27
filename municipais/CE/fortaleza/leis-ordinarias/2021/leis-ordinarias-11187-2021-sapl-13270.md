@@ -1,0 +1,266 @@
+---
+titulo: "Lei Ordinária nº 11.187, de 05 de novembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11187"
+data: "2021-11-05"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13270"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3893/text"
+sha256_fonte: "bfd310e2ca5f463957ff53eb786a672643dfcacbc2951a1f82b94422fb93b8aa"
+sha256_texto: "d3bb6b58c2876a42431cf034b97ae48e93723ec6580fb81e6ff566482892d6fe"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.187, de 05 de novembro de 2021
+
+Dispõe sobre a política de patrocínio da Administração Pública do Município de Fortaleza e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Esta Lei visa a estabelecer normas gerais sobre a política de patrocínio da Administração Pública do Município de Fortaleza.
+
+
+Art. 2º.
+
+Para efeito desta Lei, consideram-se:
+
+
+I –
+
+patrocínio: ação de comunicação que se realiza por meio da aquisição do direito de associação da imagem institucional, programas, projetos, ações, atividades ou políticas públicas do Município de Fortaleza a projeto de iniciativa de terceiro, mediante a celebração de contrato de patrocínio;
+
+
+II –
+
+objetivo do patrocínio: apoio financeiro concedido a projeto de iniciativa de terceiro, com o objetivo de divulgar a imagem institucional, programas, projetos, ações, atividades ou políticas públicas municipais, promover o interesse público, fortalecer conceitos, agregar valores, gerar reconhecimento ou ampliar relacionamento do patrocinador com a sociedade;
+
+
+III –
+
+patrocinador: órgão ou entidade integrante da Administração Pública municipal, direta ou indireta;
+
+
+IV –
+
+patrocinado: pessoa física ou jurídica beneficiária direta do patrocínio e signatário do contrato de patrocínio celebrado com o patrocinador;
+
+
+V –
+
+patrocínio incentivado: projeto de patrocínio que já usufrui de outros incentivos fiscais concedidos pela União, Estado, Distrito Federal ou Municípios, devendo a sua formalização observar também o disposto na legislação pertinente ao incentivo concomitante ao patrocínio;
+
+
+VI –
+
+contrapartida: obrigação contratual do patrocinado que expressa o direito de associação da imagem institucional do patrocinador ao projeto patrocinado, tais como:
+
+
+a)
+
+exposição da marca do patrocinador ou de seus programas, projetos, ações, atividades ou políticas públicas nas peças de divulgação do projeto;
+
+
+b)
+
+iniciativas de natureza negocial oriundas dessa associação;
+
+
+c)
+
+autorização para o patrocinador utilizar nomes, marcas, símbolos, conceitos e imagens do projeto patrocinado;
+
+
+d)
+
+adoção pelo patrocinado de práticas voltadas ao desenvolvimento social e ambiental.
+
+
+VII –
+
+contrato de patrocínio: instrumento jurídico para a formalização do patrocínio em que patrocinador e patrocinado estabelecem seus direitos e obrigações.
+
+
+Art. 3º.
+
+Não são considerados patrocínio, para os fins desta Lei:
+
+
+I –
+
+doações: cessão gratuita de recursos humanos, materiais, bens, produtos e serviços ao Município, mesmo com divulgação de conceito ou exposição de marca do doador;
+
+
+II –
+
+permutas ou apoios: troca de materiais, produtos ou serviços por divulgação de conceito ou exposição de marca;
+
+
+III –
+
+projetos de veiculação em mídia ou em instalações que funcionem como veículo de comunicação, com entrega em espaços publicitários;
+
+
+IV –
+
+ações compensatórias: apoio a projetos cuja execução seja compulsória e prevista em lei;
+
+
+V –
+
+locação de espaço ou montagem de estandes em eventos sem nenhuma contrapartida de comunicação;
+
+
+VI –
+
+ações realizadas pelo próprio órgão ou entidade municipal.
+
+
+Art. 4º.
+
+Os patrocinadores e os patrocinados deverão pautar suas atuações com base nos princípios da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da eficiência e da supremacia do interesse público e nas seguintes premissas:
+
+
+I –
+
+isonomia e coerência na gestão dos patrocínios;
+
+
+II –
+
+divulgação sistemática das políticas, das diretrizes e das normas de acesso ao patrocínio;
+
+
+III –
+
+promoção da cidadania e do desenvolvimento humano;
+
+
+IV –
+
+respeito à diversidade étnica e cultural;
+
+
+V –
+
+sustentabilidade e responsabilidade social;
+
+
+VI –
+
+desdobramento educacional;
+
+
+VII –
+
+promoção do Município de Fortaleza no exterior;
+
+
+VIII –
+
+adoção preferencial de critérios e mecanismos de seleção pública com base em critérios objetivos;
+
+
+IX –
+
+respeito aos direitos humanos;
+
+
+X –
+
+construção de uma sociedade livre, justa e solidária;
+
+
+XI –
+
+repúdio a todas as formas de discriminação e respeito ao Estado laico.
+
+
+Art. 5º.
+
+Deverão ser valorizados e estimulados os patrocínios que:
+
+
+I –
+
+promovam a acessibilidade de idosos e de pessoas com mobilidade reduzida ou com deficiência física, sensorial ou cognitiva, de forma segura e autônoma, aos espaços onde se realizam eventos ou aos produtos oriundos dos patrocínios realizados;
+
+
+II –
+
+apresentem preocupação com a preservação do meio ambiente, mediante emprego de materiais reciclados, recicláveis e biodegradáveis, baixa utilização de recursos naturais e reduzida emissão de gases poluentes;
+
+
+III –
+
+promovam a inovação, o desenvolvimento regional sustentável e a geração de emprego e renda para a população local;
+
+
+IV –
+
+estimulem a prática de esporte e atividades físicas ou culturais, bem como os cuidados com a saúde;
+
+
+V –
+
+estimulem o protagonismo juvenil e promovam a inserção dos jovens no mercado de trabalho.
+
+
+Art. 6º.
+
+O patrocínio será realizado por meio do contrato de patrocínio e será precedido, preferencialmente, de processo de seleção pública.
+
+
+§ 1º
+
+Será considerada inexigível a seleção pública de que trata o caput na hipótese de inviabilidade de concorrência entre projetos de iniciativa de terceiros, devidamente justificada.
+
+
+§ 2º
+
+Para a contratação, os patrocinadores devem exigir do patrocinado a apresentação dos documentos de habilitação jurídica e de regularidade fiscal e trabalhista.
+
+
+§ 3º
+
+O patrocinador deverá exigir do patrocinado, antes da assinatura do contrato, declaração formal de que está adimplente com exigências contratuais de eventual patrocínio anterior celebrado com órgão ou entidade da Administração Pública do Município de Fortaleza.
+
+
+§ 4º
+
+É vedada a contratação de patrocínios por intermédio de agências de publicidade e propaganda.
+
+
+Art. 7º.
+
+O contrato deverá estipular a obrigatoriedade do uso da imagem institucional do Município, programas, projetos, ações, atividades ou políticas públicas municipais, entre as contrapartidas, a da prestação de contas e as restrições quanto ao uso de trabalho infantil.
+
+
+Art. 8º.
+
+Para a prestação de contas do patrocínio, o patrocinador exigirá do patrocinado, exclusivamente, a comprovação da realização da iniciativa patrocinada e das contrapartidas previstas no contrato.
+
+
+Parágrafo único.
+
+Os procedimentos pertinentes a patrocínio incentivado deverão observar a legislação aplicável.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 05 DE NOVEMBRO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA Prefeito Municipal de Fortaleza**
+

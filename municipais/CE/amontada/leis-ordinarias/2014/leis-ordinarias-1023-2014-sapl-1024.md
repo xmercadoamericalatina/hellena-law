@@ -1,0 +1,134 @@
+---
+titulo: "Lei nº 1.023, de 27 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1023"
+data: "2014-01-27"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1024"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1536/text"
+sha256_fonte: "1e390584142a22983f9686f45ed6e0c7d839af5fe324a4949d2d7c14b3ef20b6"
+sha256_texto: "acbd252e82869dccd8f1322e946206612c5b79547ad9c6a9559c5da8a6f34e8a"
+capturado_em_fonte: "2026-10-21T06:18:49.402599-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.023, de 27 de janeiro de 2014
+
+Autoriza doação de área abaixo descrita à empresa JK SOLAR INDÚSTRIA IMPORTAÇÃO E EXPORTAÇÃO DE PAINÉIS SOLARES S.A., para projeto de implantação do parque industrial da referida empresa.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**, no uso de suas atribuições legais, Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Autoriza a doação de uma área de terreno, pertencente à Prefeitura Municipal de Amontada, constituída por: Um total de 10 ha, onde a mesma estará definida nesse protocolo no seguinte endereço, com as respectivas medidas, e confrontações: Terreno com frente para a Rodovia Estadual CE-176, de forma irregular, perfazendo uma área total de 100.000,00 m², cuja demarcação está sendo retirada da seguinte área que forma o DIA - DISTRITO INDUSTRIAL DE AMONTADA: § 1°- Da localização do DIA I. O distrito industrial de Amontada I, situado na localidade de Jardim, situado à margem do Rio Aracati-Açu na cidade de Amontada tendo as seguintes medidas e confinantes: 385 metros de frente (largura), lados Nascente e Poente, por fundos (comprimento) de 2.640 metros, lados Norte e Sul, e 35 metros de frente (largura) lados Nascente e Poente, por fundos (comprimento) tendo 1.320 metros, formando uma área total de 108,9 há, limitando-se ao todo, atuaImente da seguinte forma: Ao Norte com terras de João de Castro do Canto Leite, por um travessão e cerca existentes; Ao Sul com terras pertencentes a Francisco Albano da Silva e José Ozete Santana, por um travessão e cerca existentes. Ao Nascente, onde der os fundos de meia légua e quarto de légua de fundos e com terras de Tanques, pertencente ao Dr. Luis Henrique e ao Poente, com o Rio Aracati-Açu e parte com terras de Francisco Albano da Silva, com uma casa de tijolo e telhas, dois cercados de arame e dois cacimbões, cadastrado no INCRA, conforme certificado de cadastro sob o nº. 143.049.012.246. Exercício de 1977. A área a ser doada para a JK SOLAR fica localizada dentro do Loteamento denominado de DIA "Distrito Industrial de Amontada", do ponto V7-06 que tem o ângulo 87°15'44", denominado de ponto A, segue na direção oeste/leste por uma extensão de 400m, que chamaremos de distância AB, limitando-se com terras de Francisco Albano da Silva e José Ozete Santana; Do ponto B segue na direção sul/norte por uma extensão de 250m, que chamaremos de distância BC, limitando-se com terras da Prefeitura Municipal de Amontada; Do ponto C, segue em direção leste/oeste por uma extensão de 400m, que chamaremos de distância CD, limitando-se com terras da Prefeitura Municipal de Amontada; Do ponto D, segue na direção norte/sul por uma extensão de 250m, que chamaremos de distância DA, limitando-se com a CE 176, perfazendo a área em 100.000m2, conforme planta em anexo. A formação da área a ser doada para a JK SOLAR S.A., será subtraída da matrícula total do DIA - Distrito Industrial de Amontada, conforme planta e memorial descritivo em anexo.
+
+
+Art. 2º.
+
+Fica o Poder Executivo Municipal autorizado a doar a referida área à empresa JK SOLAR Ind. lmp. e Exp. De Painéis Solares S.A., Inscrita no CNPJ / MF sob o nº 18.460.612/0001-22, empresa industrial do ramo de Fabricação de Painéis Solares e Coletores Solares, situada à Rodovia CE 176 Km 02 n°. 101 - Distrito Industrial de Amontada - Amontada - Ceará - CEP: 62.540-000
+
+
+Parágrafo único
+
+Ceder um Galpão com 1.500 m², para que a empresa JK SOLAR S.A., possa iniciar a primeira fase de implantação de seu parque industrial, além de junto ao CEDE - Conselho Estadual de Desenvolvimento Econômico, pleitear a construção de um segundo Galpão com 3.600m²,onde vai funcionar a segunda fase de implantação do parque industrial da empresa JK SOLAR S.A.
+
+
+Art. 3º.
+
+Em cumprimento ao disposto da lei n°. 986/2013 de 23/07/2013,a donatária deverá cumprir as seguintes condições:
+
+
+I –
+
+utilizar o imóvel para implantação das instalações do parque industrial da empresa;
+
+
+II –
+
+as obras da primeira etapa de implantação a serem edificadas deverão estar concluídas no prazo de 12 (doze) meses, a contar da doação e da execução da terraplanagem do referido imóvel, e o restante de conformidade com o cronograma de implantação da empresa;
+
+
+III –
+
+Utilizar mão de obra local para a construção do parque industrial da empresa;
+
+
+IV –
+
+Contratar de preferência prestadores de serviços, vendedores de materiais e equipamentos do município para as necessidades funcionais de implantação e funcionamento da empresa;
+
+
+V –
+
+Contratar no mínimo 90% da mão de obra usada para o funcionamento da unidade industrial, originária do Município de Amontada;
+
+
+VI –
+
+Caso ocorra a extinção da entidade donatária o imóvel reverter-se-á ao Patrimônio Municipal;
+
+
+VII –
+
+Iniciar as atividades no prazo fixado pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais de Amontada;
+
+
+VIII –
+
+Celebrar com o município o respectivo Termo Provisório de Doação Onerosa, assim que forem concluídas as instalações;
+
+
+IX –
+
+Não paralisar as atividades por mais de 120 (cento e vinte) dias ininterruptos sem motivo justificado e devidamente comprovado pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais;
+
+
+X –
+
+Estabelecer metas e encaminha-las ao Executivo Municipal as quais serão avaliadas pela Secretaria Municipal de Desenvolvimento Econômico e Relações Institucionais, a qual emitirá parecer aprovando ou não os referidos projetos, para no caso de desaprovação a empresa deverá refazer as metas.
+
+
+Art. 4º.
+
+O não cumprimento do disposto no artigo 9° da lei n°. 986/2013 de 23/07/2013,importará em imediata reversão do imóvel ao Patrimônio Público Municipal, de conformidade com o Art. 9° Incisos I, II, III, IV, V, VI, VII, VIII, IX e Art. 16° da Lei lei n°. 986/2013 de 23/07/2013.
+
+
+§ 1º
+
+No caso de existência de benfeitorias no imóvel, à época da reversão, as mesmas se incorporarão ao Patrimônio Público Municipal.
+
+
+§ 2º
+
+No caso de cumprimento das exigências dessa lei pela JK SOLAR S.A, após 10 (dez) anos, o imóvel deverá ser automaticamente registrado no nome da empresa, visto que a mesma cumpriu suas obrigações contidas na lei n°. 986/2013 de 23/07/2013.
+
+
+Art. 5º.
+
+As despesas decorrentes da doação do imóvel correrão por conta da donatária.
+
+
+Art. 6º.
+
+A escritura de doação deverá conter os encargos desta lei.
+
+
+Art. 7º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+**Prefeitura Municipal de Amontada, 27 de Janeiro de 2014.**
+
+**Paulo César dos Santos**  
+Prefeito Municipal
+

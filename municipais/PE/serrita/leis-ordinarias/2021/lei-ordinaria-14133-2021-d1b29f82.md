@@ -1,0 +1,58 @@
+---
+titulo: "LEI Nº 14.133/2021, A TODAS AS SECRETARIAS E ÓRGÃOS"
+uf: "PE"
+municipio: "SERRITA"
+tipo: "Lei Ordinária"
+numero: "14133"
+data: 
+ano: "2021"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 29/01/2026"
+data_publicacao: 2026-01-29
+codigo_identificador: "D1B29F82"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115737_2026-01-28_925068ba3739f58691f0deda46f4aa8e.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 14.133/2021, A TODAS AS SECRETARIAS E ÓRGÃOS
+
+LEI Nº 14.133/2021, A TODAS AS SECRETARIAS E ÓRGÃOS
+COMPONENTES DA ESTRUTURA DO MUNICÍPIO E
+DEMAIS AÇÕES ESPECIFICADAS NO TERMO DE
+REFERÊNCIA.
+DOTAÇÃO ORÇAMENTÁRIA
+Órgão: 02 - PODER EXECUTIVO
+Unidade: 03 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+E GESTÃO DE PESSOAS
+Funcional: 04.122.0403.2804.0000 - MANUTENÇÃO DAS
+ATIVIDADES DA SECRETARIA DE ADMINISTRAÇÃO
+Natureza de despesa: 3.3.90.35.00 - SERVIÇOS DE CONSULTORIA
+/ 3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA
+VALOR: O VALOR MENSAL DA CONTRATAÇÃO É DE R$
+12.000,00 (DOZE MIL REAIS) PERFAZENDO O VALOR
+GLOBAL DE R$ 144.000,00 (CENTO E QUARENTA E
+QUATRO MIL REAIS).
+VIGÊNCIA: 12 (DOZE) MESES.
+FUNDAMENTAÇÃO
+LEGAL:
+O
+PRESENTE
+CASO
+ENQUADRA-SE NO ART. 74, III, ALÍNEA “C” DA LEI
+14.133/2021, O QUE AUTORIZA A CONTRATAÇÃO DIRETA,
+POR INEXIGIBILIDADE DE LICITAÇÃO
+.
+SEBASTIÃO BENEDITO DOS SANTOS
+Contratante
+MENEZES & MENDES ADVOGADOS ASSOCIADOS ME
+Contratada
+Serrita, 05 de janeiro de 2026.
+
+www.diariomunicipal.com.br/amupe
+
+144
+
+Pernambuco , 29 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+Publicado por:
+Raimundo Leonilson Batista

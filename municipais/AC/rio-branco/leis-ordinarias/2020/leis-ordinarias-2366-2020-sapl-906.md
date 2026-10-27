@@ -1,0 +1,106 @@
+---
+titulo: "Lei Ordinária nº 2.366, de 03 de setembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2366"
+data: "2020-09-03"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/906"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/526/text"
+sha256_fonte: "715e5d7c64fbe53b8bf776e641db617f3346b39f0a252a80fc3c21e5de60ff5c"
+sha256_texto: "b623f0b4a5d0f8c9c2e56f74294a2e6e0a503ade32ff3f3261d9d46a9940da13"
+capturado_em_fonte: "2026-10-21T03:46:23.574690-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.366, de 03 de setembro de 2020
+
+Estabelece, na rede municipal de ensino, a promoção de ações que visem à valorização de mulheres e meninas e a prevenção e combate à violência contra as mulheres.
+
+
+**A PREFEITA DO MUNICÍPIO DE RIO BRANCO - ACRE**, usando das atribuições que lhe são conferidas por Lei, FAÇO SABER que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica estabelecida a promoção de ações que visem à valorização de mulheres e meninas e a prevenção e combate à violência contra as mulheres, na rede municipal de ensino.
+
+
+Art. 2º.
+
+São diretrizes das ações referidas no art. 1° desta Lei:
+
+
+I –
+
+capacitação das equipes pedagógicas e demais trabalhadores e trabalhadoras da área da educação;
+
+
+II –
+
+promoção de campanhas educativas com o objetivo de coibir as práticas preconceituosas e outros atos de agressão, discriminação, humilhação, intimidação, constrangimento, *bullying* e violência contra mulheres e meninas;
+
+
+III –
+
+identificação e problematização de manifestações discriminatórias de qualquer natureza;
+
+
+IV –
+
+Identificação e problematização das formas de violência e de discriminação contra mulheres e meninas;
+
+
+V –
+
+realização de debates, reflexões e problematização sobre o papel historicamente destinado a mulheres e meninas, de maneira a estimular sua liberdade e sua autonomia;
+
+
+VI –
+
+integração com a comunidade, as organizações da sociedade civil e os meios de comunicação tradicionais, comunitários e digitais;
+
+
+VII –
+
+atuação em conjunto com as instituições públicas e privadas formadoras de profissionais de educação;
+
+
+VIII –
+
+formação de parcerias com as instâncias de controle social;
+
+
+IX –
+
+estímulo ao registro e à socialização de práticas pedagógicas que atuem no sentido da erradicação de todas as formas de discriminação contra mulheres e meninas;
+
+
+X –
+
+intercãmbio com as redes de ensino privadas e das esferas federal e estadual;
+
+
+XI –
+
+estudo sobre a legislação, especialmente Lei do Feminicídio e a Lei Maria da Penha
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco - Acre, 03 de setembro de 2020, 132° da República, 118° do Tratado de Petrópolis, 59° do Estado lo Acre e 137° do Município de Rio Branco.
+
+
+**Socorro Neri**
+
+Prefeita de Rio Branco
+

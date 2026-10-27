@@ -1,0 +1,122 @@
+---
+titulo: "Lei Ordinária nº 9.862, de 26 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9862"
+data: "2011-12-26"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/54"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/1116/text"
+sha256_fonte: "785e94d0bbd91b2f3838e7eff991e4a538198e2157f80c4e064942bf4b520baa"
+sha256_texto: "8195eab8e762de9638242b9018a10bfdf4625cbf17d3c5abc92c475aa90c543f"
+capturado_em_fonte: "2026-10-21T03:30:32.551858-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 9.862, de 26 de dezembro de 2011
+
+Desafeta a área institucional de que trata, autorizando o chefe do Poder Executivo Municipal a conceder o uso da área pública ao Instituto Leonardo Murialdo e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica desafetada do patrimônio público municipal a área pública institucional, sita na Rua Canguru esquina com a Rua Cantinho Verde, no conjunto Palmeiras, devidamente matriculada sob o n. 19.340 no Cartório de Registro de Imóveis da 2ª Zona desta capital, constituída pelos lotes n. 01, 02, 03, 19 e parte do lote 21 da quadra 27, perfazendo uma área total de 1.200,00m² (mil e duzentos metros quadrados), pertencente à Secretaria Executiva Regional VI (SER VI), cadastrada na Comissão de Assessoramento e Controle do Patrimônio Imobiliário Municipal (CAPI) sob o n. 932 - SER VI, com as seguintes limitações: ao sul, com a Rua Cantinho Verde; ao norte, com a Rua Cantareira; a leste, com a Rua Canguru; e, a oeste, com os lotes 4 e 22 da quadra 27.
+
+
+Art. 2º.
+
+Fica o chefe do Poder Executivo Municipal autorizado a conceder o uso da área mencionada no art. 1º desta Lei, mediante celebração de contrato de concessão de uso, ao Instituto Leonardo Murialdo, entidade filantrópica, de utilidade pública e sem fins lucrativos, com inscrição no CNPJ sob o n. 88.637.780/0013-60.
+
+
+Art. 3º.
+
+A concessão de uso da área descrita no art. 1º, que tem caráter de precariedade e se dá a título gratuito, se destinará à regularização de uso do imóvel público e instalação e manutenção da sede do Instituto Leonardo Murialdo, com estrutura adequada à realização do atendimento a crianças e adolescentes carentes e em situação de risco pessoal ou social e ao desenvolvimento de suas atividades institucionais, mormente às de integração pessoal, social, cultural e formação humano-cristã, que proporcionem educação e lazer à população carente, sem qualquer ônus para o Município de Fortaleza.
+
+
+Parágrafo único
+
+O Município de Fortaleza, proprietário do imóvel público tratado nesta Lei, uma vez celebrada a concessão de uso, manterá sua posse indireta sobre o bem, podendo retornar a sua posse direta na hipótese de ocorrer a superveniência de interesse público, bem como o desvirtuamento da utilização pelo Instituto Leonardo Murialdo.
+
+
+Art. 4º.
+
+O prazo da concessão de uso do bem público municipal contemplada nesta Lei será de 10 (dez) anos, contados da data da assinatura do instrumento da respectiva outorga, renovável por iguais períodos consecutivos, desde que permaneçam os objetos mencionados no art. 3º desta Lei, bem como a conveniência e o interesse públicos.
+
+
+Art. 5º.
+
+A concessão de uso de que trata a presente Lei tornar-se-á nula, independentemente e ato especial em juízo ou fora dele e sem direito de instituição concessionária pleitear qualquer direito à indenização ou à retenção, inclusive de benfeitorias realizadas na área descrita no art. 1º desta Lei, revertendo os bens ao patrimônio do Município, se, ao empreendimento, no todo ou em parte, vier a ser dada finalidade diversa das previstas no art. 3º desta Lei.
+
+
+Art. 6º.
+
+Resolver-se-á a concessão de uso quando ocorrer 1 (uma) das hipóteses seguintes:
+
+
+I –
+
+nos casos de desvio de finalidade;
+
+
+II –
+
+por transferência ou cessão a terceiros, a título gratuito ou oneroso;
+
+
+III –
+
+quando em tempo obrigatoriamente fixado no termo, o concessionário não houver dado à área a destinação prevista;
+
+
+IV –
+
+quando ocorrer inadimplência de cláusula prevista no instrumento de concessionária;
+
+
+V –
+
+por expiração de prazo de vigência do instrumento de concessão;
+
+
+VI –
+
+no caso de alteração dos objetos assistenciais de instituição concessionária, sem qualquer intuito lucrativo ou político-partidário;
+
+
+VII –
+
+nos demais casos previstos em lei.
+
+
+Parágrafo único
+
+Ocorrida qualquer destas hipóteses, a administração municipal notificará o interessado, dando-lhe um prazo de 30 (trinta) dias para desocupar o imóvel, independentemente de notificação judicial, devendo reverter em benefício do Município de Fortaleza todas benfeitorias realizadas no imóvel concedido, sendo vedada a cobrança de indenização ao Município de Fortaleza em decorrência da concessão autorizada, bem como a retenção das benfeitorias existentes.
+
+
+Art. 7º.
+
+É vedado o fracionamento da área dada em concessão de uso sem prévia e expressa autorização do concedente.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 26 de dezembro de 2011**  
+  
+  
+  
+  
+LUIZIANNE DE OLIVEIRA LINS  
+Prefeita Municipal de Fortaleza
+

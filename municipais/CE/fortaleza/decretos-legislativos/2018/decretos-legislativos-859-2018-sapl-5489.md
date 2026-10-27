@@ -1,0 +1,90 @@
+---
+titulo: "Decreto Legislativo nº 859, de 11 de novembro de 2018"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "859"
+data: "2018-11-11"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5489"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2253/text"
+sha256_fonte: "ce72ccc23ea929afe77066425ca824435c42a33040c77652c670049ca2bb8cc8"
+sha256_texto: "ad222b366b76f37251dd1bbbadc0e8b156e12a45f8b4f9647f6f8492b070f942"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Decreto Legislativo nº 859, de 11 de novembro de 2018
+
+Denomina oficialmente as vias do Loteamento Residencial Dona Yolanda Vidal Queiroz, no bairro Edson Queiroz, área da Secretaria Regional VI, na forma que indica.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições, que lhe são conferidas pelo art. 36, inciso IV e parágrafo único da Lei Orgânica do Município,**
+
+**PROMULGA:**
+
+
+Art. 1º.
+
+Fica estabelecida por este Decreto Legislativo a denominação oficial das vias do Residencial Dona Yolanda Vidal Queiroz, no bairro Edson Queiroz, conforme croqui de localização em anexo:
+
+
+I –
+
+fica oficialmente denominada de Rua Canário da Terra a rua antes conhecida como Rua A, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido oeste–leste, com início na Rua Corrupião e fim na Rua Garça Branca, no bairro Edson Queiroz;
+
+
+II –
+
+fica oficialmente denominada de Rua Rouxinol a rua antes conhecida como Rua B, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido oeste–leste, com início na Rua Corrupião e fim na Rua Jaçanã, no bairro Edson Queiroz;
+
+
+III –
+
+fica oficialmente denominada de Rua Martim-Pescador a rua antes conhecida como Rua C, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido oeste–leste, com início na Rua Corrupião e fim na Rua Jaçanã, no bairro Edson Queiroz;
+
+
+IV –
+
+fica oficialmente denominada de Rua Jaçanã a rua antes conhecida como Rua D, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido norte–sul, com início na Rua Martim-Pescador e fim na Rua Canário da Terra, no bairro Edson Queiroz;
+
+
+V –
+
+Fica oficialmente denominada de Rua Garça Branca a rua antes conhecida como Rua E, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido oeste–leste, com início na Rua Tuiuiú e fim na Rua Canário da Terra, no bairro Edson Queiroz;
+
+
+VI –
+
+fica oficialmente denominada de Rua Sabiá a rua antes conhecida como Rua F, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido norte–sul, com início na Rua Garça Branca e fim na Rua Canário da Terra, no bairro Edson Queiroz;
+
+
+VII –
+
+fica oficialmente denominada de Rua Azulão a rua antes conhecida como Rua G, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido norte–sul, com início na Rua Garça Branca e fim na Rua Canário da Terra, no bairro Edson Queiroz;
+
+
+VIII –
+
+fica oficialmente denominada de Rua Corrupião a rua antes conhecida como Rua C, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido norte–sul, com início na Rua Martim-Pescador e fim na Rua Canário da Terra, no bairro Edson Queiroz;
+
+
+IX –
+
+fica oficialmente denominada de Rua Tuiuiú a rua antes conhecida como Rua E, do Loteamento Residencial Dona Yolanda Vidal Queiroz, de sentido norte–sul, com início na Rua Garça Branca e fim na Rua Canário da Terra, no bairro Edson Queiroz.
+
+
+Art. 2º.
+
+Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA JOSÉ BARROS DE ALENCAR, EM 11 DE NOVEMBRO DE 2018.**
+
+**VEREADOR SALMITO FILHO**
+
+**Presidente da Câmara Municipal de Fortaleza**
+

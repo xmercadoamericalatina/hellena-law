@@ -1,0 +1,51 @@
+---
+titulo: "LEI N° 14.399/2022"
+uf: "PE"
+municipio: "PAULISTA"
+tipo: "Lei Ordinária"
+numero: "14399"
+data: 
+ano: "2022"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 23/09/2026"
+data_publicacao: 2026-09-23
+codigo_identificador: "BEC68185"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115903_2026-09-22_02195ed255021d3450df085ffb240c96.pdf"
+baixado_em: 2026-10-15
+---
+# LEI N° 14.399/2022
+
+LEI N° 14.399/2022
+PRAZO(S): Vigência de 06 (seis) meses, contados de 03 de julho de
+2026 a 02 de janeiro de 2027.
+ASSINATURA: 03/07/2026
+IKARO GUIMARÃES DE SOUZA
+Secretário de Turismo e Cultura
+
+SECRETARIA DE ASSUNTOS JURÍDICOS
+EXTRATO DA CARTA CONTRATO Nº 054/2026
+CARTA CONTRATO Nº 054/2026
+PROCESSO ADMINISTRATIVO N° 219/2026
+INEXIGIBILIDADE N° 280/2026
+FUNDAMENTAÇÃO LEGAL: Lei Federal n° 14.133/2021, e
+demais legislações aplicáveis.
+CONTRATADA: TRAKEJO PRODUÇÃO E ASSESSORIA – ME.
+CNPJ/MF N° 43.119.757/0001-01
+OBJETO: CONTRATAÇÃO DA EMPRESA TRAKEJO
+PRODUÇÃO E ASSESSORIA – ME, CNPJ N° 43.119.757/0001-01,
+PARA APRESENTAÇÃO ARTÍSTICA DE MAYK PANCADÃO,
+NO DIA 04/07/2026 AS 22H, NA RUA PETROLINA, ARTHUR
+LUNDREN II, PAULISTA/PE NO VALOR DE R$ 5.000,00
+(CINCO MIL REAIS).
+VALOR TOTAL: R$ 5.000,00 (CINCO MIL REAIS).
+NOTA(S) DE EMPENHO:3415-2026, ORDINÁRIO
+ÓRGÃO: 24102 – FUNDO MUNICIPAL DE INCENTIVO A
+CULTURA – ADMINISTRAÇÃO DIRETA
+AÇÃO: 2068 – PROMOÇÃO DE AÇÕES CULTURAIS LEI
+ALDIR BLANC
+ELEMENTO DE DESPESA: 33903900 – OUTROS SERVIÇOS
+DE PESSOA JURÍDICA
+
+Publicado por:
+Bruna Brasil do Sacramento

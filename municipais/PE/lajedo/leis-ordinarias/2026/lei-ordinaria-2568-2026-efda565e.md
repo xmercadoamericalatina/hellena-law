@@ -1,0 +1,748 @@
+---
+titulo: "LEI Nº. 2.568/2026"
+uf: "PE"
+municipio: "LAJEDO"
+tipo: "Lei Ordinária"
+numero: "2568"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 24/09/2026"
+data_publicacao: 2026-09-24
+codigo_identificador: "EFDA565E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115904_2026-09-23_50ac1eb316db3b0d0cf27866619d2e59.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº. 2.568/2026
+
+LEI Nº. 2.568/2026
+Dispõe sobre as diretrizes para a elaboração e a
+execução da Lei Orçamentária de 2027 e dá outras
+providências.
+O PREFEITO DO MUNICÍPIO DE LIMOEIRO, Estado de
+Pernambuco, no uso de suas atribuições legais.
+Faço saber que a Câmara Municipal de Vereadores votou e eu
+sanciono a seguinte Lei:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
+Art. 1º - Ficam estabelecidas, em cumprimento à Constituição
+Federal, à Constituição do Estado de Pernambuco à Lei Orgânica do
+Município, as diretrizes orçamentárias do Município para o exercício
+financeiro de 2027, compreendendo:
+I - As prioridades e metas da Administração Pública Municipal Direta,
+Indireta, Fundacional e dos demais entes supervisionados, bem como
+as do Poder Legislativo Municipal;
+II - A estrutura e a organização do orçamento do Município;
+III - As diretrizes para a elaboração, execução e alteração do
+orçamento do Município;
+IV - As disposições sobre a destinação de recursos públicos para o
+setor privado;
+V - As disposições relativas às despesas do Município com pessoal e
+encargos sociais;
+VI - As disposições sobre alterações na legislação tributária do
+Município;
+VII - O Anexo de Metas Fiscais;
+VIII - O Anexo de Riscos Fiscais;
+IX - Outras disposições.
+CAPÍTULO II
+DAS PRIORIDADES E METAS
+Seção I
+Das Prioridades e Metas do Poder Legislativo
+Art. 2º - Constituem prioridades e metas do Poder Legislativo:
+
+V - Instituir, no sítio eletrônico da Câmara Municipal, programas e
+instrumentos que tenham por objetivo estimular e possibilitar a maior
+participação popular nas atividades legislativas, orçamentárias, de
+fiscalização e de representação popular, por meio de audiências
+públicas presenciais e virtuais, bem como do uso de tecnologias da
+informação e comunicação, visando a promover a transparência e o
+acesso às informações e viabilizar a colaboração e avaliação dos
+projetos legislativos por parte da população;
+VI - Fomentar a aplicabilidade e orientação das Leis nº 8.069, de 13
+de julho de 1990, do Estatuto da Criança e do Adolescente, Lei nº
+13.146, de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência, e
+Lei nº 12.764, de 27 de dezembro de 2012 - Política Nacional de
+Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista,
+para os docentes da rede municipal de ensino e também para os
+servidores do Legislativo Municipal em todos os cargos;
+VII - Disponibilizar, no sítio eletrônico da Câmara Municipal, os
+textos integrais das normas jurídicas municipais, incluindo o histórico
+de alteração das normas e da articulação dos textos alterados por
+emendas, para fins de aplicação da Lei no tempo, com indicação clara
+das datas de vigência, revogação e correlação com outras normas;
+VIII - Estabelecer canal transparente de informações entre as
+comissões permanentes, temporárias e especiais, e frentes
+parlamentares da Câmara Municipal e as secretarias e órgãos do Poder
+Executivo Municipal, por meio de ferramentas eletrônicas que
+possibilitem o acompanhamento quanto à execução das proposições
+aprovadas;
+IX - Implementar Comissão Permanente de Revisão e Atualização da
+Legislação Municipal.
+Seção II
+Das Prioridades e Metas da Administração Pública Municipal
+Art. 3º - A Administração Municipal, assim entendidos os órgãos que
+integram o Poder Executivo e respectiva Administração Indireta,
+inclusive a Fundacional, estabelece para 2027 as seguintes
+prioridades, por eixo de atuação:
+I - Dimensão: voltada para a garantia de direitos fundamentais à
+dignidade humana, redução das desigualdades e promoção do bemestar social, com os seguintes objetivos estratégicos:
+a) Eixo Segurança Cidadã: prevenir a violência com a promoção da
+cultura de paz;
+b) Eixo Educação: ampliar o acesso e promover a expansão e
+melhoria da qualidade da educação;
+
+www.diariomunicipal.com.br/amupe
+
+106
+
+Pernambuco , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+c) Eixo Saúde: assegurar a atenção humanizada, a mobilidade, a
+qualidade, a ampliação do acesso e a expansão dos serviços de saúde;
+d) Eixo Desenvolvimento Social: enfrentar desigualdades com
+geração de oportunidades, garantia de direitos, proteção social e
+segurança alimentar.
+II - Dimensão: voltada para o desenvolvimento econômico
+sustentável, à preservação do meio ambiente e à proteção animal, com
+os seguintes objetivos estratégicos:
+a) Eixo Meio Ambiente e Sustentabilidade: fomentar o
+desenvolvimento sustentável aliado à preservação natural, à justiça
+climática, à proteção animal e promover ações de prevenção e
+enfrentamento aos impactos advindos das mudanças climáticas;
+b) Eixo Desenvolvimento Econômico: gerar oportunidades com
+estímulo ao ambiente de negócios e à qualificação profissional.
+
+ANO XVII | Nº 4189
+
+Constituição Federal e da Lei Complementar nº. 141, de 13 de janeiro
+de 2012.
+Art. 5º - A elaboração e aprovação do Projeto de Lei Orçamentária de
+2027 e a execução da respectiva Lei deverão ser compatíveis com a
+obtenção de equilíbrio das contas públicas e metas previstas no Anexo
+de Metas Fiscais que poderão ser revistas em função de modificações
+na política macroeconômica e na conjuntura econômica nacional e
+estadual.
+CAPÍTULO III
+DA
+ESTRUTURA
+E
+DA
+ORÇAMENTOS
+Seção I
+Das Classificações Orçamentárias
+
+ORGANIZAÇÃO
+
+DOS
+
+Art. 6º - Para os efeitos desta lei, entende-se por:
+III - Dimensão: voltada ao planejamento e desenvolvimento do
+Município para as pessoas, com os seguintes objetivos estratégicos:
+a) Eixo Desenvolvimento Urbano: melhorar a infraestrutura urbana,
+priorizando a mobilidade ativa e as condições de habitabilidade;
+b) Eixo Cultura e Bem-estar: descentralizar e democratizar os acessos
+à cultura, ao lazer, aos esportes e ao turismo, para todos, em todas as
+idades.
+IV - Dimensão: voltada à criação das bases e das capacidades
+necessárias para entrega de serviços efetivos e de qualidade à
+população, com os seguintes objetivos estratégicos:
+a) Eixo Gestão e Governança: ampliar a capacidade de entregas e a
+qualidade dos serviços com modelo de gestão integrado e digital;
+b) Eixo Capital Humano: potencializar o ambiente organizacional com
+a valorização e qualificação dos servidores;
+c) Eixo Transformação Digital: modernizar, facilitar e agilizar
+serviços públicos com governança digital para dar maior foco no
+atendimento ao cidadão;
+d) Eixo Participação Cidadã: promover cidadania ativa estimulando o
+diálogo, a transparência e o engajamento da sociedade.
+§ 1º As prioridades e metas da administração municipal serão
+detalhadas quando do envio da revisão da parcelado Plano Plurianual
+– PPA, para 2027.
+§ 2º - As ações dos programas integrarão a proposta orçamentária para
+2027, por meio dos projetos e atividades a eles relacionados, em
+consonância com a revisão da parcela do Plano Plurianual – PPA e
+Lei de Diretrizes Orçamentárias - LDO.
+§ 3º - Terão prioridades os projetos em andamento e as atividades
+destinadas ao funcionamento dos órgãos e entidades que integram os
+Orçamentos Fiscais e da Seguridade Social, serviços essenciais,
+despesas decorrentes de obrigações constitucionais e legais, as quais
+terão precedência na alocação de recursos no Projeto de Lei
+Orçamentária de 2027.
+Art. 4º - As prioridades e Metas da Administração Pública Municipal,
+para o exercício financeiro de 2027, atendidas as despesas que
+constituem obrigação constitucional ou legal do Município que
+integram os Orçamentos Fiscal e da Seguridade Social, as quais terão
+precedência na alocação dos recursos no Projeto de Lei Orçamentária
+de 2027, não se constituindo, em limite à programação da despesa.
+§ 1º - Durante a execução orçamentária o acompanhamento do
+cumprimento das metas e prioridades será feito com base nas
+informações obtidas do Relatório Resumido de Execução
+Orçamentária – RREO, para cada bimestre e do Relatório de Gestão
+Fiscal – RGF, para cada quadrimestre, publicados nos termos da
+legislação vigente.
+§ 2º - Poderá haver, durante a execução orçamentária de 2027,
+compensação entre as metas estabelecidas para os Orçamentos Fiscal
+e da Seguridade Social, respeitadas as disposições do art. 167 da
+
+I - Órgão orçamentário: o maior nível da classificação institucional,
+que tem por finalidade agrupar unidades orçamentárias;
+II - Unidade orçamentária: o menor nível da classificação
+institucional;
+III - Programa: instrumento de organização da ação governamental
+visando à concretização dos objetivos pretendidos, sendo mensurado
+por indicadores estabelecidos no Plano Plurianual e suas revisões;
+IV - Projeto: instrumento de programação para alcançar o objetivo de
+um programa, envolvendo um conjunto de operações, limitadas no
+tempo, das quais resulta um produto que concorre para a expansão ou
+aperfeiçoamento da ação de governo;
+V - Atividade: instrumento de programação para alcançar o objetivo
+de um programa, envolvendo um conjunto de operações que se
+realizam de modo contínuo e permanente, das quais resulta um
+produto necessário à manutenção da ação de governo;
+VI - Operação Especial: as despesas que não contribuem para a
+manutenção, expansão ou aperfeiçoamento das ações de governo, das
+quais não resulta um produto, e não geram contraprestação direta sob
+a forma de bens ou serviços;
+VII - Função: o maior nível de agregação das diversas áreas de
+despesa que competem ao setor público;
+VIII - Subfunção: representa uma partição da função, visando a
+agregar determinado subconjunto de despesa do setor público;
+IX - Ação orçamentária: entendida como atividade, projeto ou
+operação especial, deve identificar a função e a subfunção às quais se
+vincula;
+X - Localização: localização espacial da ação, utilizado especialmente
+para localização física dos objetos contidos na ação;
+XI - Produto: bem ou serviço que resulta da ação orçamentária;
+XII - Unidade de Medida: utilizada para quantificar e expressar as
+características do produto;
+XIII - Metas Físicas: quantidade estimada para o produto no exercício
+financeiro.
+Parágrafo único - A metas físicas deve ser indicada e agregada
+segundo a ação orçamentária, devendo ser estabelecida em função do
+custo e do montante de recursos alocados, de forma regionalizada.
+Art. 7º - A Lei Orçamentária Anual compreenderá, conforme
+determina o art. 125, § 4º da Constituição Estadual de Pernambuco e o
+art. 165, §5º, da Constituição Federal:
+I - O orçamento fiscal referente aos poderes municipais, seus fundos,
+órgãos e entidades da Administração Direta e Indireta, inclusive
+fundações instituídas ou mantidas pelo Poder Público;
+II - O orçamento da seguridade social, abrangendo todas as entidades
+e órgãos a ela vinculados, da administração direta ou indireta, bem
+como os fundos e fundações instituídos e mantidos pelo Poder
+Público.
+Art. 8º - A programação de cada órgão apresentará, por programa, as
+intervenções necessárias para atingir os seus objetivos sob a forma de
+projetos, atividades e operações especiais, com os respectivos valores,
+
+www.diariomunicipal.com.br/amupe
+
+107
+
+Pernambuco , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+não podendo haver alterações que modifiquem as finalidades
+estabelecidas.
+§ 1º Cada ação orçamentária deve identificar a função e a subfunção
+às quais se vinculam e apresentará as dotações orçamentárias, por
+fontes de recursos, modalidades de aplicação e por grupos de natureza
+da despesa, conforme classificações da Portaria Interministerial
+STN/SOF nº 163, de 04 de maio de 2001, em redação atualizada.
+§ 2º Os grupos de natureza de despesa constituem agregação de
+elementos de despesa de mesmas características quanto ao objeto de
+gasto, conforme a seguir discriminados:
+I - Pessoal e encargos sociais (grupo 1);
+II - Juros e encargos da dívida (grupo 2);
+III - Outras despesas correntes (grupo 3);
+IV - Investimentos (grupo 4);
+V - Inversões financeiras (grupo 5);
+VI - Amortização da dívida (grupo 6).
+§ 3º A Reserva do Regime Próprio de Previdência do Servidor - RPPS
+e a Reserva de Contingência, prevista no art. 5º, inciso III da Lei
+Complementar Federal nº 101, de 04 de maio de 2000, serão
+identificadas, quanto ao grupo de natureza de despesa, pelo código 9,
+conforme previsto no art. 8º, da Portaria Interministerial STN/SOF nº
+163, de 04 de maio de 2001.
+Art. 9º - A Lei Orçamentária será apresentada com a forma e o
+detalhamento estabelecidos na Lei Federal n° 4.320, de 17 de março
+de 1964, na Lei Complementar Federal nº 101, de 04 de maio de
+2000, e demais disposições legais e constitucionais sobre a matéria,
+adotando, na sua estrutura, a classificação da receita e da despesa
+quanto a sua natureza e à classificação funcional da despesa
+orçamentária atualizadas, de acordo com as disposições técnico-legais
+contidas na legislação em vigor.
+Art. 10 - A proposta orçamentária que o Poder Executivo
+encaminhará à Câmara Municipal, nos termos da Constituição do
+Estado de Pernambuco será constituída de:
+I - Mensagem;
+II - Projeto de Lei Orçamentária Anual, com a seguinte composição:
+a) Texto da Lei;
+b) Demonstrativos consolidados, referentes ao orçamento fiscal, com
+informações relativas a;
+1. Receita geral, por fonte de recursos e categorias econômicas;
+2. Receitas dos órgãos e entidades supervisionadas, por fonte de
+recursos e categorias econômicas;
+3. Evolução da receita e da despesa do tesouro no período 2023/2027;
+4. Despesa por fonte de recursos e por órgãos;
+5. Despesa por fonte de recursos, segundo as classificações
+orçamentárias vigentes;
+6. Demonstrativos dos cálculos das despesas decorrentes de
+determinações constitucionais.
+c) Discriminação da receita referente ao orçamento fiscal;
+d) Orçamento fiscal e seguridade social;
+e) Orçamento de investimentos;
+f) Detalhamento da programação até o nível de grupo de despesa,
+referente ao orçamento fiscal;
+g) Informações complementares.
+Art. 11 - A Lei Orçamentária de 2027 conterá Reserva de
+Contingência, constituída exclusivamente com recursos do Tesouro –
+Recursos Ordinários, em montante equivalente a, no mínimo, 1% (um
+por cento) da receita corrente líquida, estimada nos termos do inciso
+IV do art. 2º da Lei Complementar Federal nº 101, de 04 de maio de
+2000, destinada a atender a passivos contingentes e outros riscos e
+eventos fiscais imprevistos, conforme preconizado na alínea ―b‖, no
+inciso III do art. 5º, da LRF.
+Parágrafo único - Na hipótese de não utilização da Reserva de
+Contingência nos fins previstos no caput até 30 de setembro do
+exercício vigente desta lei, os recursos correspondentes poderão ser
+destinados à cobertura de créditos suplementares e especiais que
+necessitem ser abertos para reforço ou inclusão de dotações
+
+ANO XVII | Nº 4189
+
+orçamentárias ou, a qualquer tempo, em caráter emergencial ou em
+caso de calamidade pública.
+CAPÍTULO IV
+DAS DIRETRIZES PARA ELABORAÇÃO E EXECUÇÃO DO
+ORÇAMENTO MUNICIPAL
+Seção I
+Diretrizes Gerais
+Art. 12 - A proposta orçamentária do Poder Legislativo para o
+exercício de 2027 será elaborada de acordo com os parâmetros e
+diretrizes estabelecidas nesta lei e em consonância com os limites
+fixados no art. 29-A da Constituição Federal, observado o disposto no
+Art. 7º da Emenda Constitucional nº 109/2021, e deverá ser
+encaminhada ao Poder Executivo, para consolidação do Projeto de Lei
+Orçamentária Anual até 05 de agosto de 2026, observadas as
+disposições do inciso V do art. 124 da Constituição Estadual,
+acrescido pelo art. 1º da Emenda Constitucional nº. 16, de 04 de junho
+de 1999.
+Parágrafo único - A despesa autorizada para o Poder Legislativo no
+Projeto de Lei Orçamentária de 2027 terá a sua execução
+condicionada ao valor da receita efetivamente arrecadada até o final
+do exercício de 2026, conforme limite determinado pelo caput do
+artigo 29-A da Constituição Federal.
+Art. 13 - A mensagem que encaminhar a proposta orçamentária à
+Câmara Municipal evidenciará a situação observada em relação aos
+limites a que se referem o art. 19, inciso III e art. 20, inciso III da Lei
+Complementar Federal n° 101, de 04 de maio de 2000.
+Art. 14 - As etapas de elaboração do projeto, a aprovação e a
+execução da Lei Orçamentária de 2027 serão realizadas de modo a
+evidenciar a transparência da gestão fiscal e estarão em consonância
+com o art. 44, da Lei Federal nº 10.257, de 10 de julho de 2001.
+Art. 15 - A alocação dos créditos orçamentários será feita diretamente
+à unidade orçamentária responsável pela sua execução.
+Art. 16 - Desde que observadas as vedações contidas no art. 128,
+inciso I, da Constituição do Estado de Pernambuco, fica facultada a
+descentralização de créditos orçamentários para execução de
+operações de responsabilidade da unidade descentralizadora,
+observando as normas vigentes para padronização dos procedimentos
+contábeis.
+Seção II
+Das Alterações na Lei Orçamentária
+Art. 17 - A proposta orçamentária poderá ser emendada, respeitadas
+as disposições do art. 166, § 3º da Constituição Federal, devendo o
+orçamento ser devolvido à sanção do Poder Executivo devidamente
+consolidado, com todas as emendas e anexos.
+Art. 18 - As emendas feitas ao Projeto de Lei Orçamentária e seus
+anexos considerada inconstitucional ou contrários ao interesse
+público, poderão ser vetadas pelo Chefe do Poder Executivo, no prazo
+de 15 (quinze) dias úteis, consoante disposições do § 1º, do art. 66 da
+Constituição Federal, que comunicará os motivos do veto, dentro de
+quarenta e oito horas ao Presidente da Câmara Municipal de
+Vereadores.
+Parágrafo único - O veto às emendas mencionadas no caput deste
+artigo restabelecerá a redação inicial da dotação constante da proposta
+orçamentária.
+Art. 19 - O Prefeito do Município poderá enviar mensagem à Câmara
+Municipal para propor modificações no projeto de Lei do Orçamento
+Anual, enquanto não iniciada a votação na Comissão Específica.
+Art. 20 - As alterações na Lei Orçamentária poderão ser realizadas de
+acordo com as necessidades de execução, observadas as condições de
+que tratam este artigo.
+
+www.diariomunicipal.com.br/amupe
+
+108
+
+Pernambuco , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4189
+
+I - As alterações que visem à inclusão de autorização para despesa
+inicialmente não computada na Lei Orçamentária, em conformidade
+com os artigos 41 a 43 da Lei nº 4.320, de 17 de março de 1964, serão
+autorizadas pelo Poder Legislativo por intermédio de crédito especial,
+que será aberto por meio de decreto pelo Poder Executivo;
+
+art. 50, ambos da Lei Complementar Federal nº 101, de 04 de maio de
+2000.
+
+II - As alterações e inclusões de fonte de recurso, modalidade de
+aplicação, categoria econômica e grupo de natureza da despesa que
+não gerem acréscimo no valor das ações orçamentárias, inicialmente
+contempladas na Lei Orçamentária Anual e em seus créditos
+adicionais, não constituem créditos orçamentários e serão realizadas
+mediante decretos do Chefe do Poder Executivo;
+
+Art. 25 - No caso do comprometimento das metas de resultado
+primário e nominal, estabelecidas no Anexo de Metas Fiscais da
+presente lei, por uma insuficiente realização da receita, os Poderes
+Legislativo e Executivo, nos termos do artigo 9º da Lei Complementar
+Federal nº 101, de 04 de maio de 2000, promoverão limitações ao
+empenhamento da despesa e movimentação financeira, por atos
+próprios e nos montantes necessários.
+
+III - As alterações nos títulos das ações, desde que constatado erro de
+ordem técnica ou legal, e os ajustes na codificação orçamentária,
+decorrentes de necessidade de adequação à classificação vigente ou
+estrutura administrativa do Município, desde que não altere o valor e a
+finalidade da programação, serão realizadas por meio de decreto do
+Poder Executivo cujos limites de autorização serão fixados na Lei
+Orçamentária Anual;
+IV - Os créditos especiais e extraordinários promulgados nos últimos
+quatro meses de 2026 poderão ser incorporados ao orçamento de
+2027, no limite dos seus saldos, mediante decreto do Chefe do Poder
+Executivo, conforme art. 167, § 2º, da Constituição Federal.
+Parágrafo Único - A Lei Orçamentária estabelecerá limite percentual
+sobre o total da despesa fixada para prévia autorização de abertura de
+crédito suplementar e contratação de operações de crédito, em
+conformidade com o art. 165, § 8º, da Constituição Federal.
+Art. 21 - O remanejamento, transposição e transferência de recursos
+de um elemento de despesa para outro elemento de despesa, dentro de
+uma mesma Unidade Orçamentária, desde que não modifique o valor
+total das ações constantes na Lei Orçamentária Anual, os créditos
+adicionais serão feitos por meio de decretos e não contará no
+percentual autorizado para suplementação.
+Art. 21-A – havendo necessidade de suplementação de dotações do
+Poder Legislativo, este solicitará, por meio de Ofício, ao Poder
+Legislativo, que terá o prazo máximo de 05 (cinco) dias úteis para
+abrir o crédito por meio de Decreto e comunicar à Câmara Municipal.
+Seção III
+Das Mudanças na Estrutura Administrativa
+Art. 22 – O Poder Executivo Municipal, poderá atualizar sua estrutura
+administrativa e orçamentária para atender de forma adequada as
+disposições legais, operacionais e a prestação dos serviços públicos à
+população, bem como atender ao princípio da segregação de funções
+na administração pública, por meio de Lei específica.
+Parágrafo Único - Havendo mudança na estrutura administrativa que
+tenha sido autorizada pela Câmara de Vereadores, por meio de Lei,
+fica o Poder Executivo autorizado a remanejar, total ou parcialmente
+as dotações orçamentárias aprovadas na Lei Orçamentária de 2027 e
+nos crédito adicionais, em decorrência da extinção, da transformação,
+da transferência, da incorporação ou do desmembramento de
+Secretarias, órgãos e entidades e de alterações de suas competências
+ou atribuições mantida a estrutura programática, bem como suas
+fontes de recursos e modalidades de aplicação.
+Seção IV
+Da Execução
+Art. 23 - As unidades responsáveis pela execução dos créditos
+orçamentários e adicionais aprovados processarão o empenhamento
+da despesa, observando os valores relativos às fontes de recursos, aos
+grupos de natureza da despesa, às modalidades de aplicação e aos
+elementos de despesa estabelecidos para cada ação.
+Art. 24 - Na execução orçamentária para 2027, a apuração dos custos
+dar-se-á por meio do Sistema de Mensuração de Custos Públicos SMCP, conforme determina a alínea "e", do inciso I, art. 4º e o § 3º do
+
+Seção V
+Das Limitações Orçamentárias e Financeiras
+
+§ 1º - As limitações referidas no caput incidirão, prioritariamente,
+sobre os seguintes tipos de despesas:
+I - Despesas com diárias e passagens aéreas;
+II - Despesas a título de ajuda de custo;
+III - Despesas com locação de mão de obra;
+IV - Despesas com locação de veículos;
+V - Despesas com combustíveis;
+VI - Despesas com treinamento;
+VII - Transferências voluntárias a instituições privadas;
+VIII - Despesas com publicidade e propaganda;
+IX - Despesas com investimentos, diretos e indiretos, observando-se o
+princípio da materialidade.
+§ 2º - Com o objetivo de dar suporte às medidas preconizadas no
+caput, o alcance das metas fiscais ali referidas deverá ser monitorado
+bimestralmente pela Secretária de Planejamento ou órgão equivalente.
+§ 3º - Na hipótese de ocorrência do disposto no caput deste artigo, o
+Poder Executivo encaminhará ao Poder Legislativo, nos termos
+dispostos nos §§ 3° e 4º do art. 9º da Lei Complementar Federal nº
+101, de 04 de maio de 2000, relatório a ser apreciado pela Comissão
+de Finanças e Orçamento da Câmara Municipal, contendo o montante
+que caberá ao Poder Legislativo na limitação do empenho e da
+movimentação financeira, calculado de forma proporcional à sua
+participação no total das dotações financeiras com recursos ordinários
+constantes da Lei Orçamentária de 2027.
+§ 4º - O Poder Legislativo, com base na análise do relatório de que
+trata o § 3º, publicará ato até o décimo dia útil subsequente ao
+recebimento do mencionado relatório, estabelecendo o montante a ser
+objeto de limitação do seu empenhamento e movimentação financeira
+em tipos de gastos constantes de suas respectivas programações.
+§ 5º - Na hipótese de restabelecimento da receita prevista, ainda que
+parcial, a recomposição do nível de empenhamento das dotações será
+feita de forma proporcional às limitações efetivadas, em consonância
+com o § 1° do art. 9º da Lei Complementar Federal nº 101, de 04 de
+maio de 2000.
+Art. 26 - As ações que integram a Lei Orçamentária e seus créditos
+adicionais, observando-se o disposto no art. 45 da Lei Complementar
+Federal nº 101, de 04 de maio de 2000, deverão constar da revisão da
+parcela do Plano Plurianual 2027.
+Art. 27 - São vedadas quaisquer ações governamentais pelos
+ordenadores de despesa que autorizem a execução de despesas ou
+assunção de obrigação que não atendam ao disposto nos arts. 15 e 16
+da Lei Complementar Federal nº 101, de 04 de maio de 2000.
+Parágrafo único - A contabilidade registrará os atos e fatos relativos à
+gestão orçamentário-financeira efetivamente ocorrida, sem prejuízo
+das responsabilidades e providências derivadas da inobservância do
+caput.
+CAPÍTULO V
+DA DESTINAÇÃO DE RECURSOS PÚBLICOS PARA O
+SETOR PRIVADO
+Art. 28 - Observado o disposto no art. 26, da Lei Complementar
+Federal nº 101, de 04 de maio de 2000, é vedada a inclusão, na Lei
+Orçamentária e em seus créditos adicionais, de dotações a título de
+
+www.diariomunicipal.com.br/amupe
+
+109
+
+Pernambuco , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4189
+
+subvenções sociais e auxílios, ressalvadas aquelas destinadas a
+pessoas físicas e entidades privadas sem fins lucrativos, de atividades
+de natureza continuada, nas áreas de assistência social, saúde ou
+educação.
+
+Orçamentária Anual, mediante convênio, ajuste ou congênere, pelo
+qual fiquem claramente definidos os deveres e obrigações de cada
+parte, a forma e os prazos para prestação de contas, bem como o
+cumprimento do objeto.
+
+Parágrafo único. Sem prejuízo da observância das condições
+estabelecidas neste artigo, o repasse de dotações orçamentárias
+seguirá, ainda, as normas fixadas pelo Poder Executivo para
+concessão dos benefícios previstos no caput.
+
+Art. 31 - Também serão permitidos repasses as instituições privadas,
+sem fins lucrativos, de natureza artística, cultural e esportiva,
+consoante disposições dos artigos 215 a 217 da Constituição Federal.
+
+Art. 29 - As entidades privadas beneficiadas com recursos públicos a
+qualquer título submeter-se-ão à fiscalização do poder concedente
+através do Controle Interno que fiscalizará todo o processo de
+solicitação, concessão, execução, prestação de contas e avaliação dos
+resultados.
+Parágrafo único - É vedada a destinação de recursos públicos a
+entidades privadas que estejam com prestações de contas irregulares
+ou inadimplentes com o Município, além daquelas cujos, sócios ou
+proprietários foram condenados em processos criminais transitados
+em julgado por:
+I - Corrupção ativa;
+II - Tráfico de influência;
+III - Impedimento, perturbação e fraude de concorrência pública;
+IV - Associação ou organização criminosa; e
+V - Outros crimes tipificados como ilícitos de malversação de
+recursos públicos.
+Art. 30 - As transferências de recursos a título de subvenções sociais,
+nos termos do art. 16 da Lei Federal nº. 4.320, de 17 de março de
+1964, atenderá as entidades privadas sem fins lucrativos que exerçam
+atividades de natureza continuada nas áreas de assistência social,
+saúde e educação, prestem atendimento direto ao público e tenham
+certificação de entidades beneficente de assistência social, nos termos
+da Lei Complementar nº. 187, de 16 de dezembro de 2021.
+§ 1º - A concessão de subvenções dependerá da comprovação do
+atendimento aos requisitos exigidos na legislação, devendo ser
+comprovado:
+I - Que as entidades beneficiárias sejam de atendimento direto ao
+público e atendam ao disposto no art. 17 da Lei Federal nº. 4.320, de
+17 de março de 1964, cujas condições de funcionamento sejam
+consideradas satisfatórias pelos órgãos oficiais de fiscalização;
+II - Que exista Lei específica autorizando a subvenção;
+III – Atenda as condições impostas pela Lei de Diretrizes
+Orçamentárias;
+IV – Que tenha previsão orçamentária, ou em seus créditos adicionais,
+especiais e suplementares;
+V - A existência de prestação de contas de recursos recebidos no
+exercício anterior, que deverá ser encaminhada, pela entidade
+beneficiada, até o último dia útil do mês de janeiro do exercício
+subsequente, ao setor financeiro da Prefeitura, na conformidade do
+parágrafo único do art. 70 da Constituição Federal, com a redação
+dada pela Emenda Constitucional nº 19/98 e das disposições da
+Resolução T.C. Nº 05 de 17 de março de 1993, do Tribunal de Contas
+do Estado de Pernambuco.
+VI – Comprovação, por parte da instituição, do seu regular
+funcionamento, mediante atestado firmado por autoridade
+competente;
+VII - Apresentação dos respectivos documentos de constituição da
+entidade, até 30 de setembro de 2026;
+VIII - Comprovação que a instituição está em situação regular perante
+o INSS e o FGTS, conforme § 3º, art. 195 da Constituição Federal e
+perante as Fazendas Estadual, Federal e Municipal, nos termos da
+legislação específica;
+IX - Não se encontrar em situação de inadimplência no que se refere à
+Prestação de Contas de subvenções recebidas de órgãos públicos de
+qualquer esfera de governo.
+
+CAPÍTULO VI
+DAS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS E
+BENEFÍCIOS
+Art. 32 - As despesas com pessoal ativo, inativo e pensionistas não
+poderão exceder os limites fixados nos artigos 19 e 20 da Lei
+Complementar Federal nº 101, 04 de maio de 2000, e no § 1º do art.
+29-A da Constituição Federal.
+Art. 33 - Fica autorizada a concessão de qualquer aumento de
+remuneração, a criação de cargos e funções ou alteração de carreira,
+bem como a admissão ou contratação de pessoal, a qualquer título,
+desde que atender o art. 169 da Constituição Federal.
+Art. 34 – Para cumprimento do disposto no inciso IV, art. 7º e no
+inciso X, art. 37 da Constituição Federal, a proposta orçamentária
+conterá margem de expansão nas despesas de pessoal estimada para o
+exercício, devendo ser considerado no cálculo o percentual de
+acréscimo estabelecido para o salário mínimo nacional.
+§ 1º - Nas projeções de expansão das despesas de pessoal que
+integram o Anexo de Metas Fiscais desta Lei de Diretrizes
+Orçamentária para o salário mínimo nacional fixado em lei para 2027
+estima-se o valor de R$ 1.717,00.
+§ 2º - Para as despesas que já estejam previstas na margem de
+expansão incluída nas dotações de pessoal da Lei Orçamentária Anual
+de que trata o caput deste artigo, não haverá impacto orçamentáriofinanceiro a demonstrar.
+Art. 35 – Fica o Poder Executivo autorizado a conceder abono para
+atendimento do piso salarial do professor, piso salarial do enfermeiro,
+do técnico de enfermagem, do auxiliar de enfermagem e da parteira,
+bem como para o valor do salário mínimo definido no inciso IV do
+art. 7º, da Constituição Federal, até a aprovação de Lei municipal
+específica.
+Parágrafo único – Os abonos concedidos serão compensados quando
+da concessão de revisão e reajuste dos salários, devendo constar os
+critérios nas leis especificas que concederem as revisões e reajustes.
+CAPÍTULO VII
+DAS ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIAS
+Art. 36 - As alterações na legislação tributária municipal terão os
+seguintes objetivos:
+I - Combater a sonegação e a evasão fiscal;
+II - Combater as iniciativas de favorecimentos fiscais, sem
+correspondentes contrapartidas;
+III - Incorporar na legislação o uso de tecnologias da informação
+como instrumento fiscal;
+IV - Adequar as bases de cálculo dos tributos à real capacidade
+contributiva e à promoção da justiça fiscal, desde que submetidas à
+aprovação do Poder Legislativo Municipal;
+V - Simplificar o cumprimento das obrigações tributárias por parte
+dos contribuintes;
+VI - Revisar a política setorial para as micro e pequenas empresas do
+Município;
+VII - Atualizar a Planta Genérica de Valores – PGV;
+VIII – Adequaras normas tributárias à Emenda Constitucional
+132/2023 – Reforma Tributária – no que for pertinente.
+
+§ 2º - Na realização das ações de sua competência, o Município
+poderá transferir recursos para instituições privadas sem fins
+lucrativos, desde que compatíveis com programas constantes da Lei
+www.diariomunicipal.com.br/amupe
+
+110
+
+Pernambuco , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4189
+
+Art. 37 - As alterações nas políticas de isenção, incentivo fiscal ou de
+outros benefícios serão objeto de apreciação legislativa, e terão como
+objetivos:
+
+as disposições do inciso V do art. 124 da Constituição Estadual,
+acrescido pelo art. 1º da Emenda Constitucional nº. 16, de 04 de junho
+de 1999.
+
+I - Promover a justiça fiscal;
+II - Reconhecer uma reduzida capacidade contributiva;
+III - Promover a redistribuição da renda;
+IV - Incentivar o desenvolvimento de segmentos econômicos do
+Município.
+
+Art. 46 - A Câmara de Vereadores enviará até o sétimo dia útil à
+Secretaria de Finanças balancetes orçamentários para efeito de
+processamento e consolidação em cumprimento das disposições do
+art. 50 da Lei Complementar nº 101, de 04 de maio de 2000 – Lei de
+Responsabilidade Fiscal.
+
+§ 1º - Para os efeitos deste artigo, o Poder Executivo encaminhará, à
+Câmara Municipal, projeto de lei específico dispondo sobre incentivo
+ou benefício fiscal.
+
+Art. 47 – A Lei Orçamentária Anual para o exercício de 2027 conterá
+dotação espícifica para atendimento das emendas parlamentares
+individuais de execução obrigatória, em conformidade com o disposto
+no art. 137-A da Lei Orgânica do Município,
+
+Art. 38 - A concessão ou ampliação de incentivo ou benefício de
+natureza tributária, da qual decorra renúncia de receita, deverá
+observar às disposições contidas no art. 14 da Lei Complementar
+Federal nº 101, de 04 de maio de 2000.
+Art. 39 - As vinculações de receitas de impostos a fundos, órgãos ou
+despesas ficam vedadas, conforme o art. 167, inciso IV, da
+Constituição Federal.
+CAPÍTULO VIII
+DA PROGRAMAÇÃO FINANCEIRA
+Art. 40 - Até trinta dias após a publicação dos orçamentos, o Poder
+Executivo estabelecerá a programação financeira e o cronograma de
+execução mensal de desembolso, conforme art. 8° da Lei
+Complementar Federal nº 101, de 04 de maio de 2000.
+Parágrafo único - Os recursos legalmente vinculados à finalidade
+específica serão utilizados exclusivamente para atender ao objeto de
+sua vinculação, ainda que em exercício diverso daquele em que
+ocorrer o ingresso, ressalvadas normas constitucionais que autorizem
+a desvinculação.
+DO
+REGIME
+DE
+EXECUÇÃO
+PARLAMENTARES IMPOSITIVAS
+
+DAS
+
+EMENDAS
+
+Art. 41. A Lei Orçamentária Anual para o exercício de 2027 conterá
+dotação específica para atendimento das emendas parlamentares
+individuais de execução obrigatória, em conformidade com a Lei
+Orgânica do Município.
+Parágrafo único. O montante destinado às emendas parlamentares
+observará os limites estabelecidos na Lei Orgânica Municipal,
+devendo 50% (cinquenta por cento) dos recursos das emendas
+individuais ser destinado às ações e serviços públicos de saúde.
+
+Art. 48 - As emendas ao Projeto de Lei Orçamentária Anual ou aos
+projetos que a modifiquem, somente poderão ser aprovadas caso
+atendam às disposições contidas no art. 127, § 3º, da Constituição do
+Estado de Pernambuco.
+§ 1º - As emendas ao Projeto de Lei Orçamentária Anual deverão
+conter a indicação expressa dos órgãos, unidades orçamentárias,
+funções, subfunções, programas, ações e o montante das despesas que
+serão acrescidas e reduzidas.
+§ 2º - A inobservância de quaisquer dos requisitos referidos neste
+artigo determinará o arquivamento da emenda.
+Art. 49 - Execução das emendas parlamentares individuais aprovadas
+e incorporadas à Lei Orçamentária Anual será obrigatória, observado
+o disposto no art. 137-A da Lei Orgânica Municipal, ressalvados os
+casos de impedimento de ordem técnica devidamente justificados.
+I – até 120 (cento e vinte) dias após a publicação da Lei Orçamentária
+Anual, o Poder Executivo encaminhará à Câmara Municipal as
+justificativas dos impedimentos;
+II – até 30 (trinta) dias após o término do prazo previsto no inciso I, a
+Câmara Municipal indicará ao Poder Executivo o remanejamento da
+programação cujo impedimento seja considerado insuperável.
+Art. 50 - Esta Lei entra em vigor na data de sua publicação oficial.
+Limoeiro, em 22 de setembro de 2026.
+ORLANDO JORGE PEREIRA DE ANDRADE LIMA
+Prefeito
+Publicado por:
+Sergio Murilo Bezerra Junior

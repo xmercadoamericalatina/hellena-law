@@ -1,0 +1,239 @@
+---
+titulo: "Lei nº 1.713, de 10 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1713"
+data: "2025-11-10"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3353"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/233/text"
+sha256_fonte: "4685f126307e2bbbb9d16d2ffd76984d07101b10fa9433d58c6b91f0a51e76a7"
+sha256_texto: "0024c27e0c9103dbd251790ed694f532280f07a151e8edf42ece4120011989f1"
+capturado_em_fonte: "2026-10-21T05:44:47.767653-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.713, de 10 de novembro de 2025
+
+Institui a Política Municipal de Humanização do Luto Materno e Parental no âmbito do Município de Amontada-CE.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA. Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída, no âmbito do Município de Amontada, a Política Municipal de Humanização do Luto Materno e Parental, com o objetivo de assegurar atendimento humanizado às mulheres e aos familiares em situação de luto por perda gestacional, por óbito fetal e por óbito neonatal.
+
+
+Art. 2º.
+
+São objetivos da Política Municipal de Humanização do Luto Materno e Parental:
+
+
+I –
+
+assegurar a humanização do atendimento às mulheres e aos familiares no momento do luto por perda gestacional, por óbito fetal e por óbito neonatal;
+
+
+II –
+
+ofertar serviços públicos como forma de reduzir potenciais riscos e vulnerabilidades aos envolvidos.
+
+
+Art. 3º.
+
+São diretrizes da Política Municipal de Humanização do Luto Materno e Parental:
+
+
+I –
+
+integralidade e equidade no acesso à saúde e no atendimento pelas políticas públicas;
+
+
+II –
+
+descentralização da oferta de serviços e de ações.
+
+
+Art. 4º.
+
+Compete ao Município de Amontada, no âmbito de sua atuação administrativa, adotar medidas voltadas à efetivação da Política Municipal de Humanização do Luto Materno e Parental, em razão da perda gestacional, do óbito fetal ou do óbito neonatal, mediante as seguintes ações:
+
+
+I –
+
+contribuir para a reorientação e a humanização do modelo de atenção ao luto pela perda gestacional, pelo óbito fetal e pelo óbito neonatal, com base nos objetivos e nas diretrizes;
+
+
+II –
+
+estabelecer, nos planos municipais de saúde e de assistência social, prioridades, estratégias e metas para a organização da atenção à Política Municipal de Humanização do Luto Materno e Parental;
+
+
+III –
+
+desenvolver mecanismos técnicos e estratégias organizacionais de qualificação da força de trabalho para gestão e atenção à saúde e à assistência social;
+
+
+IV –
+
+promover o intercâmbio de experiências entre gestores e trabalhadores dos serviços municipais de saúde e de assistência social e estimular o desenvolvimento de estudos e de pesquisas que busquem o aperfeiçoamento e a disseminação de boas práticas na atenção ao luto;
+
+
+V –
+
+fiscalizar o cumprimento das disposições desta Lei;
+
+
+VI –
+
+instituir campanhas de comunicação e divulgação institucional, com foco na orientação sobre o luto pela perda gestacional, pelo óbito fetal e pelo óbito neonatal;
+
+
+VII –
+
+celebrar convênios e parcerias com instituições do terceiro setor que atuem com o tema, para viabilizar a execução das ações previstas nesta Lei;
+
+
+VIII –
+
+promover, em articulação com instituições de ensino e órgãos competentes, ações de sensibilização e formação sobre o tema, inclusive por meio de parcerias, convênios e eventos voltados à qualificação de profissionais da área da saúde.
+
+
+Art. 5º.
+
+São atribuições do Município de Amontada, para fins de execução da Política Municipal de Humanização do Luto Materno e Parental:
+
+
+I –
+
+pactuar diretrizes e normas para a implantação e a implementação desta Política;
+
+
+II –
+
+organizar, executar e gerenciar os serviços de atendimento humanizado às mulheres e aos familiares em situação de luto pela perda gestacional, pelo óbito fetal e pelo óbito neonatal, no âmbito do Município;
+
+
+III –
+
+estabelecer e adotar mecanismos de encaminhamento ao atendimento das mulheres em situação de luto pelas equipes que atuam na atenção básica em saúde;
+
+
+IV –
+
+atuar em corresponsabilidade com a União e o Estado no monitoramento da execução desta Política;
+
+
+V –
+
+fiscalizar, em conjunto com o Estado, o cumprimento desta Política pelos serviços de saúde localizados no território municipal.
+
+
+Art. 6º.
+
+Os serviços de saúde públicos e privados situados no Município de Amontada deverão adotar, nos casos de perda gestacional, óbito fetal ou óbito neonatal, as seguintes providências:
+
+
+I –
+
+cumprir os protocolos estabelecidos pelas autoridades sanitárias, assegurando atendimento rápido, eficiente, padronizado, acessível e humanizado;
+
+
+II –
+
+encaminhar mãe, pai e demais familiares diretamente envolvidos, quando solicitado ou constatada a necessidade, para acompanhamento psicológico após a alta hospitalar, preferencialmente na residência da família ou na unidade de saúde mais próxima que disponha de profissional habilitado;
+
+
+III –
+
+estabelecer protocolos internos de comunicação entre as equipes de saúde, para assegurar que a ocorrência seja prontamente informada às unidades envolvidas no cuidado da família;
+
+
+IV –
+
+oferecer acomodação em ala separada das demais parturientes para:
+
+
+a)
+
+gestantes cujo feto ou bebê tenha sido diagnosticado com síndrome ou anomalia grave e possivelmente fatal;
+
+
+b)
+
+mulheres que tenham passado por perda gestacional, óbito fetal ou óbito neonatal;
+
+
+V –
+
+assegurar à gestante a presença de acompanhante por ela indicado durante o parto do natimorto;
+
+
+VI –
+
+registrar a ocorrência no prontuário da paciente;
+
+
+VII –
+
+viabilizar espaço e tempo adequados para a despedida, respeitada a solicitação da família e com a participação das pessoas por ela autorizadas;
+
+
+VIII –
+
+ofertar capacitação continuada aos seus profissionais sobre o acolhimento no luto materno e parental;
+
+
+IX –
+
+prestar apoio e orientação nos trâmites legais decorrentes da situação, inclusive no encaminhamento aos serviços de assistência social;
+
+
+X –
+
+garantir, se solicitado pela família, a coleta protocolar de lembranças do natimorto ou neomorto, com informação prévia sobre as condições do feto ou bebê e autorização do responsável legal;
+
+
+XI –
+
+expedir declaração com a data e o local do parto, o nome atribuído ao natimorto e, se possível, o registro de sua impressão plantar e digital;
+
+
+XII –
+
+assegurar à família o direito de decidir sobre o sepultamento ou cremação do natimorto, bem como a realização de rituais fúnebres, respeitadas suas crenças e decisões.
+
+
+Parágrafo único
+
+É vedada a destinação do natimorto de forma não condizente com a dignidade da pessoa humana, sendo permitida a cremação ou incineração após a autorização expressa da família.
+
+
+Art. 7º.
+
+Nenhuma mulher em situação de luto por perda gestacional, óbito fetal ou óbito neonatal terá sua oferta de doação de leite humano recusada exclusivamente em razão dessa condição.
+
+
+Art. 8º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**Paço da Prefeitura Municipal de Amontada,** em 10 de novembro de 2025.
+
+Flávio César Bruno Teixeira Filho  
+**Prefeito Municipal de Amontada**
+

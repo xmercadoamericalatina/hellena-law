@@ -1,0 +1,60 @@
+---
+titulo: "Lei Ordinária nº 8.406, de 24 de dezembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8406"
+data: "1999-12-24"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/2558"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2164/text"
+sha256_fonte: "4a8e34c282a2cfdd14150346fd910a1bdb8352d973d5e18fc2eb13babadaa014"
+sha256_texto: "c7e6ec54ed1dd2550e2ab947dc2201f633c43240ad81b6fb8d8d555c95971a52"
+capturado_em_fonte: "2026-10-21T04:58:21.281839-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.406, de 24 de dezembro de 1999
+
+Autoriza a alienação das ações ordinárias que integram o capital social da Companhia de Transporte Coletivo S.A. (CTC).
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o chefe do Poder executivo Municipal autorizado a alienar a totalidade das ações ordinárias que integram o capital social da Companhia de Transporte Coletivo S.A. (CTC), pertencentes ao Município de Fortaleza.
+
+
+Parágrafo único
+
+A alienação de que trata este artigo será implementada de acordo com os preceitos legais aplicáveis à matéria.
+
+
+Art. 2º.
+
+A Empresa que adquirir o controle acionário da Companhia de Transporte coletivo (CTC) obriga-se a garantir a absorção e manutenção dos atuais servidores pelo prazo de 1 (um) ano, salvo os casos de justa causa, a partir da data da Assembléia Geral que transferir o controle acionário. (VETADO)
+
+
+Parágrafo único
+
+Fica garantida a estabilidade dos atuais servidores da Companhia de Transporte Coletivo (CTC), até a data da Assembléia Geral que transferir o controle acionário. (VETADO)
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza em 24 de dezembro de 1999.**  
+  
+  
+JURACI MAGALHÃES  
+PREFEITO DE FORTALEZA
+

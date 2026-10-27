@@ -1,0 +1,89 @@
+---
+titulo: "Lei Ordinaria nº 1.560, de 22 de maio de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinaria"
+numero: "1560"
+data: "2026-05-22"
+municipio: "Alto Garças"
+uf: "MT"
+codigo_ibge: "5100409"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.altogarcas.mt.leg.br/norma/88"
+fonte_texto: "https://sapl.altogarcas.mt.leg.br/ta/113/text"
+sha256_fonte: "635dbac149b62c6b83a15298c3abbbbf41f93fa5851115b807708db76e51fd40"
+sha256_texto: "604021e92974eeb9f335cec071a760621c4da9b49e35cc0a801c552f29b9abe5"
+capturado_em_fonte: "2026-10-21T05:29:34.989952-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinaria nº 1.560, de 22 de maio de 2026
+
+DENOMINA “BAIRRO JOÃO BORGES DE OLIVEIRA” A ÁREA URBANA DECORRENTE DA CONVERSÃO DE EXPANSÃO URBANA EM PERÍMETRO URBANO, NOS TERMOS DO DECRETO MUNICIPAL Nº 009/2026, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município de Alto Garças, Estado de Mato Grosso. Faço saber que a Câmara Municipal aprovou eu sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica denominado “BAIRRO JOÃO BORGES DE OLIVEIRA” o perímetro urbano decorrente da conversão da área de expansão urbana em área urbana, nos termos do Decreto Municipal nº 009/2026, abrangendo a gleba de 15 hectares (150.000 m²) registrada sob a Matrícula nº 7.966 do Cartório do 1º Ofício de Alto Garças – MT, localizada nas proximidades da Estrada Municipal AG-05 e do Cemitério Municipal, bem como todos os acréscimos e futuros desmembramentos da referida matrícula.
+
+
+Parágrafo único
+
+A denominação visa assegurar identidade territorial, segurança jurídica, cadastramento nos sistemas públicos, acesso a políticas habitacionais, e a futura implantação de equipamentos urbanos essenciais, incluindo UBS, escola, creche, áreas para entidades sociais, religiosas e comércios, aplicando-se automaticamente a todos os desmembramentos futuros da matrícula 7.966 CRI Alto Garças-MT.
+
+
+Art. 2º.
+
+O Poder Executivo Municipal ficará responsável pela:
+
+
+I –
+
+colocação de placas de identificação do Bairro João Borges de Oliveira, bem como de suas ruas, avenidas e logradouros internos;
+
+
+II –
+
+estudo e planejamento para inclusão do novo bairro nos registros da Secretaria Municipal de Obras, para fins de cascalhamento, reparos, drenagem, iluminação pública e projetos de infraestrutura, incluindo água, energia elétrica, esgotamento sanitário e asfaltamento;
+
+
+III –
+
+estudos e planejamentos para implantação de coleta de resíduos sólidos no referido bairro.
+
+
+Art. 3º.
+
+Constatadas a construção das casas e a ocupação populacional no Bairro João Borges de Oliveira, a Secretaria Municipal de Saúde deverá incluir, em seus registros e planejamentos futuros, a obrigatoriedade de visitas domiciliares regulares por Agentes Comunitários de Saúde e Agentes de Combate a Endemias, como medida preparatória para futura implantação de Unidade Básica de Saúde (UBS) no local.
+
+
+Parágrafo único
+
+As visitas futuras contemplarão levantamento epidemiológico, cadastramento familiar, mapeamento de riscos endêmicos, identificação de populações vulneráveis e criação de vínculo comunitário, servindo os dados como subsídio técnico obrigatório para escolha do terreno, dimensionamento e definição dos serviços da futura UBS.
+
+
+Art. 4º.
+
+Quando da implantação do referido bairro, deverá o Setor de Tributação do Município deverá proceder ao levantamento dos lotes, cadastramento dos contribuintes e lançamento do IPTU e demais tributos incidentes sobre o imóvel matriculado sob nº 7.966 e seus futuros desmembramentos, observadas as isenções previstas na Lei Municipal nº 1.525/2025.
+
+
+Art. 5º.
+
+Fica autorizada a utilização da denominação “BAIRRO JOÃO BORGES DE OLIVEIRA” em todos os atos administrativos, licenciamentos urbanísticos, projetos habitacionais (inclusive no âmbito do Programa Minha Casa Minha Vida e Programa Ser Família Habitação), e em eventual parcelamento do solo oriundo da Matrícula nº 7.966.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito, Edifício Sede do Poder Executivo, em Alto Garças - MT, 16 de  
+junho de 2026.  
+CEZALPINO MENDES TEIXEIRA JUNIOR  
+Prefeito Municipal de Alto Garças - MT
+

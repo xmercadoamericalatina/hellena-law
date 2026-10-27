@@ -1,0 +1,172 @@
+---
+titulo: "Lei Ordinária nº 1.561, de 08 de dezembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1561"
+data: "2005-12-08"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/141"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/109/text"
+sha256_fonte: "e7828f85b6bf65dfd5997e0fcdcbebacf070b7b34ad2c7b4f5597a635591d382"
+sha256_texto: "4097ce9a1630afd5dc8605d1275a738dcba115b01524fb2ed63147f476ac77f9"
+capturado_em_fonte: "2026-10-21T04:04:17.255578-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.561, de 08 de dezembro de 2005
+
+''CRIA O CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO''.
+
+
+O PREFEITO MUNICIPAL DE RIO BRANCO - ACRE: FAÇO SABER, que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA CRIAÇÃO
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério.
+
+
+Art. 2º.
+
+O Conselho tem como atribuição, acompanhar e controlar a repartição, transferência e aplicação dos recursos do FUNDO, criado através da Emenda Constitucional nº 14/96 regulamentado pela Lei 9424 de 24/12/96.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO DO CONSELHO
+
+
+Art. 3º.
+
+O Conselho Municipal de Acompanhamento e Contrate Social do Fundo de Manutenção e Desenviolamento de Ensino Fundamental e de Valorização do Magistério será composto por representantes do poder executivo e entidades sociais, da seguinte forma: (NR)
+
+
+I –
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+
+II –
+
+01 (um) representante do Conselho de Diretores das Escolas Municipais de Rio Branco - CODEP; (NR)
+
+
+III –
+
+01 (um) representante do Sindicato dos Trabalhadores em Educação do Acre - SINTEAC; (NR)
+
+
+IV –
+
+01 (um) representante do Conselho Municipal ou Estadual de Educação; (NR)
+
+
+V –
+
+01 (um) representante de pais dos alunos das unidades municipais;
+
+
+VI –
+
+01 (um) representante da casa do estudante acreano - CEA; (NR)
+
+
+VII –
+
+01 (um) representante do Conselho Estadual de Contabilidade. (NR)
+
+
+§ 1º
+
+O representante da SEME será indicado pelo Prefeito Municipal.
+
+
+§ 2º
+
+Cada membro titular do Conselho terá 01 (um) suplente indicado pela entidade da mesma categoria. (NR)
+
+
+§ 3º
+
+O presidente e o secretário do Conselho serão eleitos entre seus pares. (NR)
+
+
+§ 4º
+
+O mandato dos membros do Conselho será de 02 (dois) anos, podendo os membros serem reconduzidos uma única vez, (NR)
+
+
+§ 5º
+
+No caso de ocorrência de vaga, o suplente deverá completar o mandato do titular. (NR)
+
+
+§ 6º
+
+O exercício do mandato de conselheiro será considerado serviço público relevante e não será remunerado. (NR)
+
+
+#### CAPÍTULO III — DA COMPETÊNCIA
+
+
+Art. 4º.
+
+Compete ao Conselho Municipal de Acºmpanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério;
+
+
+I –
+
+acompanhar e controlar a repartição, transferência e aplicação dos recursos do FUNDO;
+
+
+II –
+
+Supervisionar a realização do Censo Educacional Anual;
+
+
+III –
+
+Examinar os registros contábeis e demonstrativos gerenciais mensais e atualizados relativos aos recursos repassados ou retidos à conta do FUNDO.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 5º.
+
+As reuniões ordinárias do Conselho serão realizadas mensalmente, podendo haver convocação extraordinária, através de comunicação escrita, pelo seu Presidente ou pelo Prefeito.
+
+
+Art. 6º.
+
+Fica extinto o mandato do membro que deixar de comparecer, sem justificativa, a 02 (duas) reuniões consecutivas do Conselho ou a 04 (quatro) alternadas. (NR)
+
+
+Parágrafo único
+
+Na hipótese constante no caput deste artigo, assumirá o suplente.
+
+
+Art. 7º.
+
+Após a presente Lei entrar em vigor, o Conselho terá 30 (trinta) dias para elaborar o Regimento Interno. (NR)
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor a partir de sua publicação, revogando-se a Lei nº 1.288 de 22 de dezembro de 1997 e demais disposições em contrário. (NR).
+
+
+Rio Branco-Acre, 08 de dezembro de 2005, 117º da República, 103º do Tratado de Petrópolis, 44] do Estado do Acre e 96º do Município de Rio Branco.
+
+
+**RAIMUNDO ANGELIM VASCONCELOS**  
+Prefeito de Rio Branco
+

@@ -1,0 +1,132 @@
+---
+titulo: "Lei Complementar nº 319, de 27 de dezembro de 2021"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "319"
+data: "2021-12-27"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13353"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3805/text"
+sha256_fonte: "368bbec5bb86e9a53b053592debc1b28449c4aaa0fe44e2c43e78bcf066e51ea"
+sha256_texto: "eabb73858d1a692dbc00a8b5836b0df4fbb60543241e4b43c78dd779683b0e36"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Complementar nº 319, de 27 de dezembro de 2021
+
+Dispõe sobre a readaptação de titulares de cargo ou função de professor por incapacidade física ou mental, na forma que indica, e dá outras providências
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+Art. 1º.
+
+Esta Lei Complementar dispõe sobre a readaptação, por incapacidade física ou mental, de titulares de cargo ou função de professor de níveis superior e médio dos quadros, permanente ou especial, da Secretaria Municipal da Educação (SME).
+
+
+§ 1º
+
+A readaptação prevista no caput dar-se-á nos cargos ou nas funções definidos nesta Lei Complementar, com atribuições, habilitação e nível de escolaridade compatíveis, mantida a remuneração do cargo de origem.
+
+
+§ 2º
+
+A readaptação prevista nesta Lei dar-se-á sem prejuízo dos direitos estatutários e previdenciários inerentes à carreira do magistério municipal.
+
+
+Art. 2º.
+
+O titular de cargo ou função de professor dos quadros, permanente ou especial, da Secretaria Municipal da Educação (SME) considerado por perícia médica do Instituto de Previdência do Município (IPM) ou por decisão judicial incapaz permanentemente para o exercício das atividades de professor, mas capaz para o exercício de outras atividades públicas, fica, por força desta Lei Complementar, investido no cargo ou na função de professor readaptado, considerado criado, por readaptação, a partir da data do laudo pericial.
+
+
+§ 1º
+
+Na hipótese de a perícia médica não concluir, taxativamente, pela incapacidade permanente para as atividades do cargo ou da função de professor, mas considerar que o servidor é incapaz temporariamente para o exercício dessas atividades, este deverá ficar em licença médica pelo prazo de até 6 (seis) meses, prorrogáveis, se persistir a análise médica em novas pericias, até o máximo de 24 (vinte e quatro) meses.
+
+
+§ 2º
+
+Findo o prazo máximo de licença médica sem que a perícia médica conclua pela capacidade plena do servidor para o exercício das atividades do cargo ou da função de professor, esse será considerado, por força desta Lei Complementar, incapaz permanentemente para o exercício dessas atividades, ficando readaptado no cargo ou na função de professor readaptado, na forma do caput, a partir do dia seguinte ao término do prazo máximo de licença médica.
+
+
+§ 3º
+
+Os cargos de professor vagos em decorrência de readaptação poderão ser providos por aprovados em concurso público.
+
+
+§ 4º
+
+Na hipótese de o readaptado ser considerado por nova perícia médica do Instituto de Previdência do Município (IPM) capaz plenamente para o exercício das atividades de professor, fica desconstituída a respectiva readaptação, retornando o servidor, sem prejuízo de vencimentos, ao exercício do cargo ou da função de professor, considerados criados, por força desta Lei Complementar, a partir da data da publicação do ato de formalização.
+
+
+Art. 3º.
+
+Compete ao professor readaptado:
+
+
+I –
+
+desenvolver suas ações dando assessoramento pedagógico à gestão escolar na execução das atividades diárias de acordo com projeto pedagógico em execução na unidade escolar;
+
+
+II –
+
+desenvolver estratégias e ações pedagógicas para viabilizar a parceria, a comunicação e a integração entre a comunidade escolar a fim de promover a aprendizagem dos estudantes;
+
+
+III –
+
+auxiliar os professores na orientação e no desenvolvimento de projetos nas diversas áreas curriculares e nos espaços escolares.
+
+
+Parágrafo único.
+
+O professor readaptado exercerá suas atribuições em qualquer unidade escolar ou administrativa da Secretaria Municipal da Educação (SME).
+
+
+Art. 4º.
+
+A readaptação do ocupante do cargo ou da função de professor no cargo de professor readaptado dar-se-á na mesma referência do cargo ou da função originários.
+
+
+Parágrafo único.
+
+Os servidores readaptados, na forma desta Lei Complementar, continuarão percebendo a Gratificação de Regência de Classe, prevista no inciso III do art. 98 da Lei n.º 5.895, de 13 de novembro de 1984.
+
+
+Art. 5º.
+
+Os cargos criados por readaptação, na forma e por meio desta Lei Complementar, passam a compor a parte permanente do Quadro de Pessoal do Ambiente de Especialidade Educação, do Núcleo de Atividades Específicas da Educação, do Grupo Ocupacional Magistério.
+
+
+Parágrafo único.
+
+As funções criadas por readaptação, na forma e por meio desta Lei Complementar, passam a compor a parte especial do Quadro de Pessoal do Ambiente de Especialidade Educação, do Núcleo de Atividades Específicas da Educação, do Grupo Ocupacional Magistério.
+
+
+Art. 6º.
+
+A criação, na forma e por meio desta Lei Complementar, dos cargos de professor readaptado será formalizada por portaria do(a) titular da Secretaria Municipal da Educação (SME), com efeitos a partir da data do laudo pericial ou da data da decisão judicial, devendo nela constar todos os dados necessários à perfeita caracterização do cargo ou da função originários e do cargo ou da função derivados da readaptação, inclusive a numeração que identifique quantos cargos ou funções foram criados na forma desta Lei Complementar, e a situação funcional do servidor.
+
+
+Art. 7º.
+
+Os cargos e as funções de professor readaptado criados na forma desta Lei Complementar ficam extintos quando vagarem.
+
+
+Art. 8º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 27 DE DEZEMBRO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

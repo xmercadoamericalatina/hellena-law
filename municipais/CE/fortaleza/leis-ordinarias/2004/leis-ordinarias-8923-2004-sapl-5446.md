@@ -1,0 +1,115 @@
+---
+titulo: "Lei Ordinária nº 8.923, de 29 de dezembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8923"
+data: "2004-12-29"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5446"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/2331/text"
+sha256_fonte: "ac16a67cd3601ca045578caffefb492b3ad76f303265c69340fb1dc9cad437ac"
+sha256_texto: "be701371cf06105b0ff6d26cc4feed85cda850a4d5f7a16f42bb45cc8c438218"
+capturado_em_fonte: "2026-10-21T04:33:17.579266-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.923, de 29 de dezembro de 2004
+
+Cria o Plano de Regularização das Zonas Especiais de Interesse Social, previsto n aliena f, do art. 4º, da Lei Federal n. 10.257, de 10 de julho de 2001, na forma que indica, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criado o Plano de Regularização das Zonas Especiais de Interesse Social (ZIES), que deverá estabelecer a recuperação das áreas públicas urbanas definidas como integrantes da cidade, bem como o reconhecimento jurídico de sua legítima legalização.
+
+
+Parágrafo único
+
+O Plano de Regularização das Zonas Especiais de Integração Social deverá ser implantado através de Comissão de Alto Nível Técnico, escolhida e indicados os seus membros pelo Chefe do Poder Executivo Municipal.
+
+
+Art. 2º.
+
+As áreas públicas definidas como Zonas Especiais de Interesse Social (ZIES) deverão ser cadastradas junto a cada Secretaria Executiva Regional (SER), igualmente, identificados os seus ocupantes que deverão ser amparados pelos benefício, identificados os seus ocupantes que deverão ser amparados pelos benefícios desta Lei, nos termos do §1º, do art. 183, da Constituição Federal.
+
+
+Art. 3º.
+
+Todo ocupante que possui, como seu, pro 5 (cinco) anos, ininterruptamente e sem oposição, até 250m² (duzentos e cinquenta metros quadrados) de imóvel público situado em área urbana, utilizando-o para sua moradia ou de sua família, fica amparado como o direito de concessão de uso especial para fins de moradia, cujo terreno, considerado como objeto de posse, deverá ser regularizado, definitivamente, desde que não seja o pretenso beneficiado proprietário ou concessionário, a qualquer título, de outro imóvel urbano ou rural.
+
+
+§ 1º
+
+Por nenhuma hipótese será concedido este benefício por mais de 1 (uma) vez ao mesmo beneficiado, anteriormente amparado.
+
+
+§ 2º
+
+Os direitos deste artigo deverão amparar os herdeiros legítimos, especialmente o que esteja na posse do seu antecessor e resida no imóvel por ocasião da abertura do inventário ou arrolamento.
+
+
+Art. 4º.
+
+A concessão deste benefício de regularização e legalização dos terrenos urbanos ocupados nas áreas de Zonas Especiais de Interesse Social (ZIES) deverão obedecer, criteriosamente, à ordem cronológica dos ocupantes cadastrados, os quais serão atendidos conforme estabelecidos no Decreto de regulamentação desta Lei.
+
+
+Art. 5º.
+
+O título de concessão, que deverá legitimar e legalizar a área do imóvel destinado à moradia, será obtido mediante requerimento do beneficiado, dirigido ao Secretário Executivo da Regional, que deverá, após ouvir a Comissão Especial do Plano, emitir autorização com visto do Chefe do Poder Executivo Municipal, a fim de ser feita a devida averbação e o registro no Cartório de Imóvel competente de cada Zona Especial de Interesse Social.
+
+
+Parágrafo único
+
+Quaisquer encargos financeiros, para obtenção do título definitivo de propriedade do imóvel destinado à moradia nos termos dos arts. 2º e 3º desta Lei, serão de inteira responsabilidade do Erário Municipal de Fortaleza.
+
+
+Art. 6º.
+
+A Comissão Especial do Plano de Zonas de Interesse Social (ZIES) poderá propor ao Chefe do Poder Executivo Municipal orientações para edição de normas que possam alcançar as finalidades de execuções dos objetos de concessão e dos direitos urbanísticos, bem como sobre propostas de alterações da legislação pertinente ao desenvolvimento urbano.
+
+
+§ 1º
+
+Compete à Comissão Especial encarregada de implantar as Zonas Especiais de Interesse Social (ZIES) promover parceiras e cooperação de convênios entre os 3 (três) níveis de governo e a sociedade civil, para alcançar a execução da política municipal de desenvolvimento urbano social, extensivas as referidas providências para as Zonas Metropolitanas e as demais cidades circunvizinhas de Fortaleza.
+
+
+§ 2º
+
+Todo e qualquer embaraço para concessão do título definitivo de propriedade do imóvel na área de Zonas Especiais de Interesse Social (ZIES) deverá passar pela Câmara Municipal, para cumprimento do processo legislativo regular.
+
+
+Art. 7º.
+
+Toda e qualquer embaraço para concessão do título definitivo de propriedade do imóvel na área de Zonas Especiais de Interesse Social (ZIES) deverá, a parte interessada, procurar o representante do Ministério Público, que deverá providencias junto ao Juiz Competente a adoção de medidas judiciais e legais, para solucionar o impasse do pleito querido pelo beneficiado.
+
+
+Art. 8º.
+
+Aplique-se, nos casos omissos ou noque couber, as disposições desta Lei, todas as normas relativas à regularização definitiva de concessão do título de propriedade dos imóveis encravados nas áreas consideradas de Zonas Especiais de Interesse Social (ZIES), as determinações previstas na Lei Federal n. 10.257, de 10 de julho de 2001.
+
+
+Art. 9º.
+
+Esta Lei deverá ser regulamentada no prazo de 60 (sessenta) dias após a sua publicação e, em igual prazo, escolhida a Comissão Especial e de Alto Nível Técnico para constituir o Plano de Regularização das Zonas Especiais de Interesse Social (ZIES).
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza em 29 de Dezembro de 2004.**  
+  
+  
+JURACI VIEIRA DE MAGALHÃES  
+PREFEITO MUNICIPAL DE FORTALEZA
+

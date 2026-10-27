@@ -1,0 +1,1145 @@
+---
+titulo: "DECRETO N° 039, DE 08 DE JULHO DE 2026."
+uf: "PE"
+municipio: "TIMBAÚBA"
+tipo: "Decreto"
+numero: "039"
+data: 2026-07-08
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 14/07/2026"
+data_publicacao: 2026-07-14
+codigo_identificador: "7BEA50AE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115853_2026-07-13_5c67d2db8a6c083bceebbe57ef024717.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 039, DE 08 DE JULHO DE 2026.
+
+DECRETO N° 039, DE 08 DE JULHO DE 2026.
+HOMOLOGA O RESULTADO DA SELEÇÃO E ENQUADRAMENTO DOS GRUPOS FAMILIARES APTOS À
+REGULARIZAÇÃO FUNDIÁRIA E CONTEMPLADAS COM AS OBRAS DE MELHORIA HABITACIONAL NO ÂMBITO
+DO PROGRAMA DE REGULARIZAÇÃO FUNDIÁRIA E MELHORIA HABITACIONAL DO MINISTÉRIO DAS CIDADES.
+E REVOGA O DECRETO Nº 005 DE 12 FEVEREIRO DE 2026.
+O PREFEITO DO MUNICÍPIO DE TIMBAÚBA, ESTADO DE PERNAMBUCO , no uso de suas atribuições legais, conforme previsão
+constante da Lei Orgânica do Município;
+CONSIDERANDO os termos da legislação do PMCMV, que dispõe sobre os parâmetros e o processo de seleção dos beneficiários do Programa de
+Regularização Fundiária e Melhoria Habitacional, integrante do Programa Minha Casa Minha Vida, na forma disposta na Lei nº 14.620, de 13 de
+julho de 2023 e da Instrução Normativa nº 2, de 21/01/21, Instrução Normativa Nº 32 de 08/08/2023 e Instrução Normativa Nº 23 de 25/10/2024 e
+suas alterações;
+CONSIDERANDO que o ANEXO VI da Instrução Normativa Nº 02 de 21/01/2021 estabelece os procedimentos e disposições que regulamentam a
+seleção de famílias e domicílios a serem contempladas com obras de melhoria habitacional;
+CONSIDERANDO que:
+A seleção das famílias e domicílios a serem contempladas com obras de melhoria habitacional será realizada pelo município ou Distrito Federal, com
+base no Cadastro Físico e Social apresentado pelo Agente Promotor, incluindo a priorização do tipo de obras e serviços a sere m executados.
+Deverão ser selecionados 20% (vinte por cento) do total de domicílios existentes na área objeto de intervenção, para realização de obras de melhoria
+habitacional, acrescidos de mais 30% (trinta por cento) a título de suplência.
+Os percentuais exigidos poderão ser reduzidos caso, a partir do cadastro, não se identifiquem na área famílias e domicílios que se enquadrem nos
+critérios de elegibilidade para benefício com melhoria habitacional.
+Será contemplado com melhoria habitacional somente 1 (um) domicílio por família.
+CONSIDERANDO que são critérios de Elegibilidade:
+a) possuir renda familiar bruta mensal de até R$ 2.000,00 (dois mil reais);
+b) possuir titular maior de 18 (dezoito) anos ou emancipado (a);
+c) ser possuidora ou detentora do imóvel residencial na área objeto da proposta de contratação;
+d) não ser possuidora de outro imóvel;
+e) ter aderido ao contrato de regularização fundiária com assunção do financiamento.
+f) não ser titular de contrato de financiamento obtido com recursos do FGTS ou em condições equivalentes as do SFH, em qualquer parte do País; e
+(Incluído pela IN nº 47, de 2022)
+g) não ter recebido, nos últimos 10 (dez) anos, benefícios similares oriundos de subvenções econômicas concedidas com recursos orçamentários da
+União, do FAR, do FDS ou de descontos habitacionais concedidos com recursos do FGTS, excetuadas as subvenções ou os descontos destinados à
+aquisição de material de construção ou o Crédito Instalação, disponibilizados pelo Instituto Nacional de Colonização e Reforma Agrária (INCRA),
+na forma prevista em regulamento. (Incluído pela IN nº 47, de 2022)
+CONSIDERANDO o domicílio a ser beneficiado com obras de melhoria habitacional deverá:
+a) possuir estrutura estável;
+b) possuir paredes em alvenaria, com ou sem revestimento, madeira aparelhada ou taipa revestida;
+c) não necessitar de reconstrução ou total substituição, como aqueles em situação de risco ou extrema precariedade; e
+d) atender a pelo menos um dos critérios de inadequação habitacional previstos nos critérios de priorização.
+www.diariomunicipal.com.br/amupe
+
+215
+
+Pernambuco , 14 de Julho de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4138
+
+CONSIDERANDO que atendidos os critérios de elegibilidade, as famílias e correspondentes domicílios que serão contempladas com obras de
+melhoria habitacional serão selecionados pelo município, com base nos seguintes critérios de priorização:
+a) tenham a mulher como responsável pela unidade familiar;
+b) façam parte pessoas com deficiência, conforme a Lei nº 13.146, de 6 de julho de 2015, que habitem de forma permanente a unidade obje to da
+proposta de financiamento;
+c) façam parte idosos, conforme a Lei nº 10.741, de 1º de outubro de 2003, que habitem de forma permanente a unidade objeto da proposta de
+financiamento;
+d) façam parte crianças (até 12 anos) conforme a Lei nº 8.069, de 13 de julho de 1990, que habitem de forma permanente a unidade objeto da
+proposta de financiamento;
+e) façam parte adolescentes (entre 12 e 18 anos), conforme a Lei nº 8.069, de 13 de julho de 1990, que habitem de forma permanente a unidade
+objeto da proposta de financiamento;
+f) sejam beneficiárias do Programa Bolsa Família (PBF) ou de programa de transferência de renda que o venha a substituir, comprovado por meio de
+verificação da folha de pagamento do Programa;
+g) sejam beneficiárias do Benefício de Prestação Continuada (BPC), comprovado por meio de verificação da folha de pagamento do BPC.
+CONSIDERANDO que serão considerados como critérios de desempate domicílio com maior número de residentes e domicílios que se enquadrem
+nas situações descritas nas alíneas
+a) apresentem mais de 3 (três) integrantes do grupo familiar por dormitório;
+b) não possuam banheiro ou sanitário de uso exclusivo do grupo familiar;
+c) apresentem inadequação da cobertura, assim consideradas as coberturas de zinco, palha, sapê, madeira aproveitada ou outro material que não seja
+telha, laje de concreto ou madeira aparelhada;
+d) não possuam solução adequada de esgotamento sanitário;
+e) apresentem piso inadequado;
+f) apresentem instalações elétricas precárias ou incompletas;
+g) apresentem instalações hidrossanitárias precárias ou incompletas.
+DECRETA:
+Art. 1º Fica homologado o resultado da seleção das famílias e domicílios a serem contemplados com as obras de melhoria habitacional, incluindo a
+definição dos tipos de obras e serviços a serem realizados, nos termos do ANEXO I.
+Art. 2º Fica Revogado Decreto nº 005 de 12 fevereiro de 2026.
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+Registra-se. Publica-se. Cumpra-se.
+Timbaúba/PE, em 08 de julho de 2026.
+MARINALDO ROSENDO DE ALBUQUERQUE
+Prefeito
+ANEXO I
+RELAÇÃO DAS FAMÍLIAS CONTEMPLADAS COM MELHORIAS HABITACIONAIS
+Núcleo
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+Nome
+MARIA JOSE COSTA DE LIMA
+MARIA JOSE BARBOSA ALVES
+JANIELE MARIA DA SILVA AGUIAR
+SERGIO ANTONIO FERREIRA
+VERA LUCIA DA CONCEICAO
+CRISTIANO JOAO DA SILVA
+RAIANE GOMES DE SOUZA
+MONICA APOLINARIO DOS SANTOS
+
+TIPO
+TC09
+TC09
+TC09
+TC09
+TC09
+TC09
+TC09
+TC09
+
+SERVIÇO
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+
+Q UANT.
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA DAS DORES DE MOURA LIMA
+JOSE JOAO DE SOUZA
+MARINALVA SILVA FERREIRA
+GESSICA LAURENTINO DA SILVA
+HELENA MARIA DE LIMA
+
+TC09
+TC09
+TC09
+TC09
+TC09
+
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+FABIANA COSTA DA SILVA
+FABIANA MARIA GONCALVES DA SILVA
+MARIA JOSIANE SILVA NASCIMENTO
+AUDENE TRAVASSO BARBOZA
+MARIA DAS DORES DE SANTANA
+EDILEUZA DA SILVA BEZERRA
+ELIANE MARIA DA SILVA
+
+TC09
+TC09
+TC09
+TC08
+TC08
+TC08
+TC08
+
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO CONTIGUO ADAPTÁVEL
+KIT NOVO BANHEIRO ISOLADO ADAPTÁVEL
+KIT NOVO BANHEIRO ISOLADO ADAPTÁVEL
+KIT NOVO BANHEIRO ISOLADO ADAPTÁVEL
+KIT NOVO BANHEIRO ISOLADO ADAPTÁVEL
+
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+LUIZ RODRIGO DOS SANTOS
+FRANCISCO CORREIA DA SILVA
+MARCIA GONCALVES DA SILVA
+CLEONICE FELINA DA SILVA
+MARIA SANDRIELLE DE OLIVEIRA SILVA
+MARCIA TEREZA BELARMINO DA SILVA
+SONIA MARIA BARBOSA DA SILVA
+LUCINEIDE GUEDES DO NASCIMENTO
+
+TC08
+TC07
+TC07
+TC07
+TC07
+TC07
+TC07
+TC07
+
+KIT NOVO BANHEIRO ISOLADO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+SIMONE SOARES DA SILVA
+SIDCLEI JOSE DA SILVA
+ELEONORA LIBANITA DA SILVA
+MARIA IZABEL BARBOSA TRAJANO
+
+TC07
+TC07
+TC06
+TC06
+
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO CONTIGUO ADAPTÁVEL
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+ITALO GONCALVES DA SILVA
+VALQUIRIA VANESSA DA SILVA
+RAPHAEL MORGAN DOS SANTOS SILVA
+ROSANGELA BARBOZA BATISTA
+JOSIANE GUERRA DA SILVA
+
+TC06
+TC06
+TC06
+TC06
+TC06
+
+Eliezer Barbosa
+
+ALZENIRA DE OLIVEIRA AGUIAR
+
+TC02
+
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+1
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+1
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+1
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+1
+KIT NOVO CÔMODO ISOLADO ADAPTÁVEL
+1
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE 1
+AMARRAÇÃO
+
+www.diariomunicipal.com.br/amupe
+
+216
+
+Pernambuco , 14 de Julho de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4138
+
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+
+Eliezer Barbosa
+
+JOSEFA MARIA DE ARAUJO CABRAL
+
+TC02
+
+Eliezer Barbosa
+
+MARIA LUIZA DA CONCEICAO
+
+TC02
+
+Eliezer Barbosa
+
+REJANE MARIA DO NASCIMENTO
+
+TC02
+
+Eliezer Barbosa
+
+TATIANE CARMEN DA SILVA
+
+TC02
+
+Eliezer Barbosa
+
+JACQUELINE DO NASCIMENTO SILVA
+
+TC02
+
+Eliezer Barbosa
+
+ADRYELLE JULIANE GOMES DE ARAUJO
+
+TC02
+
+Eliezer Barbosa
+
+MARIA DE LOURDES FERREIRA DA SILVA
+
+TC02
+
+Eliezer Barbosa
+
+MARIA DA SOLEDADE APOLINARIO DA SILVA
+
+TC02
+
+Eliezer Barbosa
+
+MARILUCE GUERRA DOS SANTOS
+
+TC02
+
+Eliezer Barbosa
+
+MARLI PEREIRA DE SOUZA
+
+TC02
+
+Eliezer Barbosa
+
+ANA PAULA BARBOSA RAMOS
+
+TC02
+
+Eliezer Barbosa
+
+JONAS BARBOSA BATISTA
+
+TC02
+
+Eliezer Barbosa
+
+JOSEVANIA SANTANA DA SILVA
+
+TC02
+
+Eliezer Barbosa
+
+PAULA PATRICIA DA SILVA
+
+TC02
+
+Eliezer Barbosa
+
+SEVERINA SABINO DE OLIVEIRA
+
+TC02
+
+Eliezer Barbosa
+
+JANAINA MAYARA DE ARAUJO
+
+TC02
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+JOSE PAULO DA SILVA
+JOSEFA REGINA DOS SANTOS
+ANA MARIA EUGENIO DA SILVA
+JOSENILDA SILVA
+JANIELE MARIA DA SILVA AGUIAR
+
+TC03
+TC03
+TC03
+TC03
+TC03
+
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE 1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DA TRAMA DE MADEIRA COM AS TELHAS
+1
+KIT COBERTURA - SUBSTITUIÇÃO DA TRAMA DE MADEIRA COM AS TELHAS
+1
+KIT COBERTURA - SUBSTITUIÇÃO DA TRAMA DE MADEIRA COM AS TELHAS
+1
+KIT COBERTURA - SUBSTITUIÇÃO DA TRAMA DE MADEIRA COM AS TELHAS
+1
+KIT COBERTURA - SUBSTITUIÇÃO DA TRAMA DE MADEIRA COM AS TELHAS
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+ADRYELLE JULIANE GOMES DE ARAUJO
+JOSE PAULO DA SILVA
+MAURENILDA JOVENTINA DE LUNA
+NECI TRINDADE DA SILVA
+MARIA JOSE COSTA DE LIMA
+MARCIA TEREZA BELARMINO DA SILVA
+JOSIANE GUERRA DA SILVA
+MARIA LUCIA DA CONCEICAO DIAS
+ALZENIRA DE OLIVEIRA AGUIAR
+JOCIKARLA SANTANA ALVES
+MARIA DE FATIMA LEMOS BORBA
+JOSEFA MARIA DE ARAUJO CABRAL
+
+TC01
+TC01
+TC01
+TC01
+TC01
+TC01
+TC01
+TC01
+TC10
+TC10
+TC10
+TC10
+
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT FOSSA SÉPTICA E SUMIDOURO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA JOSE DO NASCIMENTO SILVA
+MARIA LUIZA DA CONCEICAO
+REJANE MARIA DO NASCIMENTO
+SEVERINO ANTONIO DA SILVA
+TATIANE CARMEN DA SILVA
+VERONICA MARIA DA SILVA
+EDIVANIA DA SILVA
+GIRLEIDE TEREZINHA DA CONCEICAO
+BETANIA ROGERIA DE ARAUJO
+MARIA DO SOCORRO DE BARROS ARRUDA
+MARIA JOSE FERREIRA
+JOSE JAIRO GEREMIAS
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+NATHALIA NATANIELE DA SILVA DOURADO
+MAURENILDA JOVENTINA DE LUNA
+NECI TRINDADE DA SILVA
+CLEONICE FELINA DA SILVA
+DJANIRA MARIA DA SILVA
+MARIA DA SOLEDADE APOLINARIO DA SILVA
+EMERSON GOMES DA SILVA
+MARIA ISABEL DE OLIVEIRA
+ELIANDRA GOMES DA SILVA
+BENEDITO LOURENCO DO NASCIMENTO
+MARIA JOSE DE ARAUJO
+EDIJANSE CARLA DA SILVA CEZARIO
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+LUCICLEIDE URCULINA DA SILVA
+MARIA APARECIDA DA SILVA
+MARILUCE GUERRA DOS SANTOS
+MARLI PEREIRA DE SOUZA
+ROSIVANIA BELO DA SILVA
+ANA PAULA DA SILVA
+JANIELE MARIA DA SILVA
+MARIA SANDRIELLE DE OLIVEIRA SILVA
+OCLACIANA DE LIMA BEZERRA
+LUCICLEIDE MARIA DO NASCIMENTO
+ALINE ANTONIA DE SOUSA
+MARIA ROSILENE SILVA NASCIMENTO
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+VALERIANA DA SILVA CARDOSO
+JOSENILDA SILVA
+ANA PAULA BARBOSA RAMOS
+MARIA DAS DORES MATIAS
+MARLENE MARIA DA SILVA
+ROSENILDA CORREIA DA SILVA
+BETANIA MARIA DA SILVA
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE 1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE 1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE 1
+AMARRAÇÃO
+KIT COBERTURA - SUBSTITUIÇÃO DE TELHA, TRAMA DE MADEIRA E CINTA DE
+1
+AMARRAÇÃO
+
+www.diariomunicipal.com.br/amupe
+
+217
+
+Pernambuco , 14 de Julho de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco •
+
+ANO XVII | Nº 4138
+
+Eliezer Barbosa
+Eliezer Barbosa
+
+ROSA MARIA DA SILVA DE MELO
+JOSE CARLOS DA SILVA CEZARIO
+
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MICKELLY STEFANY DA SILVA ARAUJO
+SILVANA RODRIGUES DA SILVA
+MANOEL PEDRO DA SILVA
+IZABEL CRISTINA DA SILVA
+IRIS MARIA DOS SANTOS
+JOSEVANIA SANTANA DA SILVA
+EDIVANIA CORREIA DA SILVA
+ARLINDO BENTO CORREIA
+MARCELA JOSEFA DA SILVA
+RENATA PEREIRA DA SILVA
+SEVERINA SABINO DE OLIVEIRA
+SIDCLEI JOSE DA SILVA
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+TC10
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA DA CONCEICAO DA SILVA
+JANAINA MAYARA DE ARAUJO
+JOSE NILDO DA SILVA
+LEDA MARIA BORGES DA SILVA
+MARIA LUCIA DA CONCEICAO DIAS
+JOCIKARLA SANTANA ALVES
+MARIA DAS NEVES DE SANTANA
+MARIA DE FATIMA LEMOS BORBA
+MARIA JOSE DO NASCIMENTO SILVA
+MARIA LUIZA DA CONCEICAO
+SEVERINO ANTONIO DA SILVA
+JACQUELINE DO NASCIMENTO SILVA
+
+TC10
+TC10
+TC10
+TC10
+TC10
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REFORMA DE BANHEIRO
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA JOSE FERREIRA
+MARIA DE LOURDES LOPES DA SILVA
+JOSE PAULO DA SILVA
+MARCIA GONCALVES DA SILVA
+MARIA APOLONIA DA SILVA
+MARIA LUZINETE MATIAS
+DAIANA JERONIMO DA SILVA
+GUIOMAR IZABEL LOPES
+MARIA JOSE BARBOSA ALVES
+JOSENILDA BERNARDO DA SILVA
+LUCICLEIDE URCULINA DA SILVA
+JACKELINE DE BARROS VASCONCELOS
+
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENT O E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA JOSE DA CONCEICAO
+MARINALDA LAURA DA SILVA
+ANA PAULA DA SILVA
+CRISTIANO JOAO DA SILVA
+JOSEFA REGINA DOS SANTOS
+ALINE ANTONIA DE SOUSA
+ANA MARIA EUGENIO DA SILVA
+GILVANETE CORREIA MELO
+VALERIANA DA SILVA CARDOSO
+MARISA DOMINGOS SOARES
+CLEIZY FRANCISCO DA SILVA
+MARIA EMILIA DOS SANTOS
+
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+Eliezer Barbosa
+
+MARIA DAS DORES MATIAS
+LUCINEIDE GUEDES DO NASCIMENTO
+ROSENILDA CORREIA DA SILVA
+ROSA MARIA DA SILVA DE MELO
+MICKELLY STEFANY DA SILVA ARAUJO
+EDIVANIA CORREIA DA SILVA
+CLAUDENICE DA SILVA SOUZA
+MARCELA JOSEFA DA SILVA
+IZABEL CRISTINA DA SILVA
+MARIA LUZINETE MATIAS
+
+TC12
+TC12
+TC12
+TC12
+TC12
+TC12
+TCm21
+TCm21
+TCm21
+TC05
+
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA EXTERNA CASA
+KIT REVESTIMENTO E PINTURA INTERNA CÔMODO
+KIT REVESTIMENTO E PINTURA INTERNA CÔMODO
+KIT REVESTIMENTO E PINTURA INTERNA CÔMODO
+KIT INSTALAÇÃO DE CAIXA D´ÁGUA
+
+1
+1
+1
+1
+1
+1
+7
+1
+2
+1
+
+Publicado por:
+Maria Mayara Cavalcante Dias

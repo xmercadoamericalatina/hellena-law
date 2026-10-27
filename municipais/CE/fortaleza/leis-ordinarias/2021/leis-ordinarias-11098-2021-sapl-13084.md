@@ -1,0 +1,181 @@
+---
+titulo: "Lei Ordinária nº 11.098, de 23 de março de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11098"
+data: "2021-03-23"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13084"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3982/text"
+sha256_fonte: "e7f592e8edfe2646403884565f2a55a41c4b5f11f83970fd9ae8c6defa57bf56"
+sha256_texto: "10779f75fa897024b8abd2de8f56a982ce7dacffb52f90a122a61f3e4085819b"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.098, de 23 de março de 2021
+
+Dispõe sobre a obrigatoriedade de maternidades, casas de parto e estabelecimentos hospitalares congêneres, das redes pública e privada do Município de Fortaleza, de permitir a presença de doulas durante o período de trabalho de parto, parto e pós-parto imediato, sempre que solicitadas pela parturiente.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Ficam maternidades, casas de parto e estabelecimentos hospitalares congêneres, das redes pública e privada do Município de Fortaleza, obrigados a permitir a presença de doulas durante todo o período de trabalho de parto, parto e pós-parto imediato, sempre que solicitadas pela parturiente, sem ônus e sem vínculos empregatícios com os estabelecimentos especificados.
+
+
+§ 1º
+
+Para os efeitos desta Lei e, em conformidade com a qualificação da CBO (Classificação Brasileira de Ocupações), código 3221-35, doulas são acompanhantes de parto escolhidas livremente pelas gestantes e parturientes, que “visam prestar suporte contínuo à gestante no ciclo gravídico puerperal, favorecendo a evolução do parto e bem-estar da gestante”, com certificação ocupacional em curso para essa finalidade.
+
+
+§ 2º
+
+A presença das doulas não se confunde com a presença do acompanhante, instituída pela Lei Federal nº 11.108, de 07 de abril de 2005.
+
+
+§ 3º
+
+Os serviços privados de assistência prestados pelas doulas durante todo o período de trabalho de parto, parto e pós-parto imediato, bem como as despesas com paramentação, não acarretarão quaisquer custos adicionais aos estabelecimentos hospitalares e maternidades.
+
+
+§ 4º
+
+A presença de doulas depende de expressa autorização da parturiente que deverá informar previamente sua decisão autorizativa à unidade de saúde.
+
+
+Art. 2º.
+
+As doulas, para o regular exercício da profissão, estão autorizadas a entrar, com seus respectivos materiais de trabalho, condizentes com as normas de segurança e ambiente hospitalar, nas maternidades, nas casas de parto e nos estabelecimentos hospitalares congêneres das redes pública e privada do Município de Fortaleza.
+
+
+§ 1º
+
+Entende-se como materiais de trabalho das doulas, a serem utilizados no trabalho de parto, parto e pós-parto imediato:
+
+
+I –
+
+bolas de fisioterapia;
+
+
+II –
+
+massageadores;
+
+
+III –
+
+bolsa de água quente;
+
+
+IV –
+
+óleos para massagens;
+
+
+V –
+
+banqueta auxiliar para parto;
+
+
+VI –
+
+demais materiais considerados indispensáveis na assistência do período de trabalho de parto, parto e pós-parto imediato.
+
+
+§ 2º
+
+Os materiais a serem utilizados nas salas de parto normal não necessitam de esterilização.
+
+
+§ 3º
+
+Quando, no trabalho de parto, o médico decidir pela intervenção cesárea, a doula ingressará no centro cirúrgico devidamente paramentada.
+
+
+Art. 3º.
+
+Fica vedada às doulas a realização de procedimentos médicos ou clínicos, como aferir pressão, avaliar progressão do trabalho de parto, monitorar batimentos cardíacos fetais, administrar medicamentos, entre outros, mesmo que estejam legalmente aptas a fazê-los.
+
+
+Art. 4º.
+
+Maternidades, casas de parto e estabelecimentos hospitalares congêneres, das redes pública e privada do Município, farão a sua forma de admissão das doulas, respeitando preceitos de ética, de competência e de normas internas de funcionamento, com a apresentação dos seguintes documentos:
+
+
+I –
+
+carta de apresentação, contendo nome completo, endereço, número do CPF, RG, contato telefônico e correio eletrônico;
+
+
+II –
+
+cópia de documento oficial com foto;
+
+
+III –
+
+enunciado de procedimentos e técnicas que serão utilizadas no momento do trabalho de parto, parto e pós-parto imediato, bem como descrição do planejamento das ações que serão desenvolvidas durante o período de assistência;
+
+
+IV –
+
+termo de autorização assinado pela gestante para a atuação da doula no momento do trabalho de parto, parto e pós-parto imediato;
+
+
+V –
+
+cópia do certificado de formação profissional, segundo o Certificado Brasileiro de Ocupação – CBO.
+
+
+Art. 5º.
+
+O não cumprimento da obrigatoriedade instituída no caput do art. 1º sujeitará os infratores às seguintes penalidades:
+
+
+I –
+
+advertência, na primeira ocorrência;
+
+
+II –
+
+se órgão público, afastamento do dirigente e aplicação das penalidades previstas na legislação;
+
+
+III –
+
+se estabelecimento privado, multa de 30 (trinta) UFMF (Unidades Fiscais do Município de Fortaleza) e, na próxima ocorrência, dobrada em cada reincidência, até o limite de 600 (seiscentas) UFMF.
+
+
+Parágrafo único.
+
+A aplicação das penalidades de que trata este artigo caberá ao órgão gestor de saúde, que estabelecerá legislação própria para este fim, dispondo ainda sobre a aplicação dos recursos dela decorrentes.
+
+
+Art. 6º.
+
+Sindicatos, associações, órgãos de classe de médicos e de enfermeiros e entidades similares de serviços de saúde no Município de Fortaleza deverão adotar, de imediato, as providências necessárias ao cumprimento da presente Lei.
+
+
+Art. 7º.
+
+O cumprimento do disposto nesta Lei não acarretará despesas para o Município de Fortaleza.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 23 DE MARÇO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA Prefeito Municipal de Fortaleza**
+

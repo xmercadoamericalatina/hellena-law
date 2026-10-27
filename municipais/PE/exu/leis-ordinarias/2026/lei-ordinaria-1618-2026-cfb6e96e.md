@@ -1,0 +1,80 @@
+---
+titulo: "LEI MUNICIPAL Nº 1.618/2026"
+uf: "PE"
+municipio: "EXU"
+tipo: "Lei Ordinária"
+numero: "1618"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 25/05/2026"
+data_publicacao: 2026-05-25
+codigo_identificador: "CFB6E96E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=365&i=publicado_115817_2026-05-22_63e782ee2f7f18b7345227478d766905.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 1.618/2026
+
+LEI MUNICIPAL Nº 1.618/2026
+
+Art. 2º. Este Decreto entra em vigor nesta data, determinando-se de
+logo a sua publicação.
+Registre-se, publique-se e cumpra-se.
+
+EMENTA: Abre no orçamento vigente crédito
+adicional suplementar e da outras providências.
+
+www.diariomunicipal.com.br/amupe
+
+37
+
+Pernambuco , 25 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Pernambuco • ANO XVII | Nº 4102
+O Prefeito do Município de Exu-PE, no uso de suas competências
+legais atribuídas pela Lei Orgânica Municipal, faz saber que a Câmara
+Municipal de Vereadores de Exu-PE APROVOU, em sessão ordinária
+realizada no dia 21 de maio de 2026, e eu SANCIONO e
+PROMULGO a seguinte lei:
+Art. 1º - Fica aberto no orçamento vigente, um crédito adicional na
+importância de R$4.980.608,08 distribuídos as seguintes dotações:
+Suplementação ( + ) 4.980.608,08
+Excesso
+02
+05
+01
+SECRETARIA
+DE
+EDUCAÇÃO
+533
+12.361.1019.1011.0000 TODOS NA ESCOLA
+2.573.142,00 CONST., AMP. E/OU RECUPERAÇÃO DE
+ESCOLAS MUNICI F.R.: 002 00 4.4.90.00.00 APLICAÇÕES
+DIRETAS
+02
+TRANSFERÊNCIAS
+E
+CONVÊNIOS
+ESTADUAISVINCULADOS 110 000 GERAL
+02 11 01 FUNDO MUNCIPAL DE SAÚDE DE EXU 534
+10.301.1014.1028.0000 IMPLANTAÇÃO E IMPLEMENTAÇÃO
+DOS SERVIÇOS E UNI 342.076,79
+AQUISIÇÃO DE VEÍCULOS E AMBULÂNCIAS F.R.: 002 00
+4.4.90.00.00 APLICAÇÕES DIRETAS 02 TRANSFERÊNCIAS E
+CONVÊNIOS ESTADUAIS-VINCULADOS 110 000 GERAL
+02 15 01 SECRETARIA DE OBRAS 531 15.451.1026.1088.0000
+EXU INTEGRADO 1.451.441,57 CONSTRUÇÃO, AMPLIAÇÃO
+E/OU REPOSIÇÃO DE CALÇAM F.R.: 002 00 4.4.90.00.00
+APLICAÇÕES DIRETAS 02 TRANSFERÊNCIAS E CONVÊNIOS
+ESTADUAIS-VINCULADOS 110 000 GERAL
+02 19 00 SECRETARIA DE ESTRADAS, RODAGENS E
+RECURSOS HÍDRICOS 532 20.605.1026.1099.0000 EXU
+INTEGRADO 613.947,72 CONSTRUÇÃO E/OU RECUPERAÇÃO
+DE SISTEMA DE ABA F.R.: 002 00 4.4.90.00.00 APLICAÇÕES
+DIRETAS 02 TRANSFERÊNCIAS E CONVÊNIOS ESTADUAISVINCULADOS 110 000 GERAL
+Art. 2º - O crédito aberto na forma do artigo anterior será coberto com
+recurso provenientes de:
+Excesso: 4.980.608,08
+Art. 3º- Esta lei entra em vigor na data de sua publicação
+
+Publicado por:
+Edilson Severino da Silva

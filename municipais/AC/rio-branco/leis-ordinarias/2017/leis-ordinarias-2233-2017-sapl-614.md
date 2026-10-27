@@ -1,0 +1,1370 @@
+---
+titulo: "Lei Ordinária nº 2.233, de 16 de junho de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2233"
+data: "2017-06-16"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/614"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/155/text"
+sha256_fonte: "5c25ddac563dadc7339197def8fe9c45651d3ddc478cf600e12e257f659ff279"
+sha256_texto: "62f97eead28cd73a3d89f85216e57eb7658db7d3f3669e4c4b71cc050bb7cb08"
+capturado_em_fonte: "2026-10-21T03:55:42.585354-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.233, de 16 de junho de 2017
+
+"Institui o Programa de Parcerias Público-Privadas no âmbito da Administração Pública do Município de Rio Branco e dá outras providências. "
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO** - Acre, usando das atribuições que lhe são conferidas por Lei, **FAZ SABER** que a Câmara Municipal de Rio Branco aprovou e ele sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DOS CONCEITOS E DOS PRINCÍPIOS
+
+
+Art. 1º.
+
+fica instituído, no âmbito da Administração Pública Direta e Indireta do Município de Rio Branco, o Programa de Parcerias Público-Privadas que será regido por esta lei e, supletivamente, pelas normas gerais nacionais aplicáveis às contrações desta modalidade previstas nas Leis Federais 11.079/04, 8.987/95 e 8.666/93, com o objetivo de promover, disciplinar, fomentar, coordenar, regular e fiscalizar a realização de Parcerias Público-Privadas.
+
+
+Art. 2º.
+
+As Parcerias Público-Privadas de que tratam esta Lei constituem-se em alternativas de financiamentos para os investimentos do Poder Público Municipal, sendo instrumentos administrativos de concessão ou contratação, na modalidade patrocinada ou administrada, na forma estabelecida por esta Lei e pela Legislação Federal constante no art. 1° da presente Lei, inclusive no que diz respeito às normas de licitação, limites para assunção de encargos, contratação e participação tarifária, celebrado entre a Administração Pública direta ou indireta com entidades Privadas, por meio do qual o agente Privado participa da implantação e desenvolvimento da obra, serviço ou empreendimento público, bem como da exploração ou da gestão, total ou parcial das atividades deles decorrentes, cabendo-lhe contribuir com recursos financeiros, materiais e humanos.
+
+
+§ 1º
+
+Concessão patrocinada é a concessão de serviços públicos ou de obras públicas de que trata a Lei n° 8.987/95, quando envolver, adicionalmente a tarifa cobrada dos usuários, contraprestação pecuniária do parceiro público ao privado.
+
+
+§ 2º
+
+Concessão administrativa é o contrato de prestação de serviço de que a Administração Pública seja usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens.
+
+
+§ 3º
+
+Não constitui parceria público-privada a concessão comum, assim entendida a concessão de serviços públicos ou de obras públicas de que trata a Lei n° 8.987 de 13 de fevereiro de 1995, quando não envolver contraprestação pecuniária do parceiro público ao parceiro privado.
+
+
+§ 4º
+
+As concessões administrativas regem-se por esta Lei, aplicando-se-lhes adicionalmente o disposto nos arts. 21, 23, 25 e 27 a 39 da Lei n° 8.987/1995, no art. 31 da Lei n° 9.074/1995 e Lei n° 11.079/2004.
+
+
+§ 5º
+
+As concessões patrocinadas regem-se por esta Lei, aplicando-se-lhes subsidiariamente o disposto nas Leis n° 8.987/1995, 11.079/2004 e nas leis que lhe são correlas.
+
+
+§ 6º
+
+As concessões comuns, assim entendidas as que não envolvem contraprestação pecuniária do parceiro privado, continuam regidas pelas Lei n° 8.987 de 13 de fevereiro de 1995, não sendo aplicado o disposto nesta Lei.
+
+
+§ 7º
+
+Continuam, regidos exclusivamente pela Lei n° 8.666/93, e pelas leis que lhe são correlatas, os contratos administrativos que não caracterizem concessão comum, patrocinada ou administrativa.
+
+
+Art. 3º.
+
+É vedada a celebração de contratos de parceria público-privada:
+
+
+I –
+
+cujo valor do contrato seja inferior a R$ 20.000.000,00 (vinte milhões de reais);
+
+
+II –
+
+cujo período de prestação do serviço seja inferior a 05 (cinco) anos;
+
+
+III –
+
+que tenha como único objeto a mera terceirização de mão-de-obra, o fornecimento e a instalação de equipamentos ou a execução de obra pública, bem como as prestações singelas ou isoladas, quais sejam, aquelas que não envolvam conjunto de atividades.
+
+
+Art. 4º.
+
+O Programa de Parcerias Público-Privadas observará as seguintes diretrizes, pressupostos requisitos e condições:
+
+
+I –
+
+eficiência no cumprimento das missões municipais e no emprego dos recursos da sociedade;
+
+
+II –
+
+respeito as interesses e direitos dos destinatários dos serviços e dos entes privados incumbidos de sua execução;
+
+
+III –
+
+indelegabilidade das funções de regulação, controle, fiscalização, jurisdicional do exercício do poder de polícia e de outras atividades exclusivas do Poder Público Municipal;
+
+
+IV –
+
+responsabilidade fiscal na celebração e execução das parcerias e seus respectivos contratos;
+
+
+V –
+
+transparência e publicidade dos procedimentos e das decisões;
+
+
+VI –
+
+repartição objetiva dos riscos entre as partes;
+
+
+VII –
+
+sustentabilidade financeira e vantagens socioeconômicas dos projetos de parceria;
+
+
+VIII –
+
+qualidade e continuidade na prestação dos serviços objeto da parceria, de acordo com os padrões mínimos estabelecidos;
+
+
+IX –
+
+estímulo à justa competição na prestação dos serviços;
+
+
+X –
+
+vinculação aos planos de desenvolvimento econômico, social e ambiental do Município;
+
+
+XI –
+
+vinculação dos contratos ao cumprimento inerentes ao Programa de Parcerias Público-Privadas;
+
+
+XII –
+
+remuneração do contratado vinculada ao seu desempenho, observado o prazo de vigência do contrato, compatível com a amortização de investimentos realizados;
+
+
+XIII –
+
+participação popular, mediante consulta pública.
+
+
+§ 1º
+
+o risco inerente à insustentabilidade financeira da parceria, em função de causa não imputável a descumprimento ou modificação unilateral do contrato do parceiro público ou alguma situação de inexorável força maior, deve ser, tanto quanto possível, transferido para o parceiro privado.
+
+
+§ 2º
+
+Compete às Secretarias e Órgãos do Município de Rio Branco, nas suas respectivas áreas de competência, o acompanhamento da execução e a fiscalização dos contratos de parcerias publico-privadas, bem como avaliação dos resultados acordados.
+
+
+Art. 5º.
+
+Poderão ser objetos do Programa de Parcerias Público-Privadas:
+
+
+I –
+
+a implantação, ampliação, melhoramento, reforma, manutenção, desenvolvimento de obra, serviço ou empreendimento público, bem como da exploração e da gestão das atividades deles decorrentes;
+
+
+II –
+
+a delegação, total ou parcial, da prestação ou exploração de serviço público, precedida ou não da execução de obra pública;
+
+
+III –
+
+a execução de obra para alienação , locação ou arrendamento à Administração Pública Municipal;
+
+
+IV –
+
+a construção, ampliação, reforma e gestão de bens de uso público em geral, incluídos os recebidos em delegação do Estado ou da União;
+
+
+V –
+
+a exploração de direitos de natureza imaterial de titularidade do Município, tais como marcas, patentes, banco de dados, métodos e técnicas de gestão;
+
+
+VI –
+
+outras áreas de interesse social ou econômicas, definidas e aprovadas pelo Conselho Gestor do Programa, disposto no Art. 7° desta lei, e em conformidade com a Legislação Federal correlatada.
+
+
+Parágrafo único
+
+Em qualquer das hipóteses sempre caberá ao parceiro privado contribuir com recursos financeiros, materiais e humanos, sendo remunerado segundo critérios de desempenho, em prazo compatível com a amortização de investimentos realizados, observados os limites estabelecidos no inciso I do art. 5° da Lei Federal n° 11.079/04.
+
+
+Art. 6º.
+
+sem prejuízo de sua realização em outras áreas que compreendam atividades de interesse público municipal, e observado os parâmetros estabelecidos nos artigos 2°, 3° e 5° desta Lei, fica autorizada a aplicação do Programa de Parcerias Público-Privadas nas seguintes áreas:
+
+
+I –
+
+cultura, assistência social e apoio diagnóstico de saúde;
+
+
+II –
+
+transportes públicos e mobilidade urbana, podendo incluir sinalização, zona azul e estacionamentos verticais e subterrâneos;
+
+
+III –
+
+rodovias municipais, pontes, viadutos e túneis;
+
+
+IV –
+
+coleta e/ou tratamento de lixo e resíduos sólidos, incluindo geração de energia ou outras finalidades permitidas em lei;
+
+
+V –
+
+drenagens em geral;
+
+
+VI –
+
+desenvolvimento de atividades e projetos voltados para área de pessoas com deficiência;
+
+
+VII –
+
+desenvolvimento de atividades e projetos voltados para área de geração de emprego e renda;
+
+
+VIII –
+
+ciência, pesquisa, tecnologia e inovação, incluindo tecnologia de informação e comunicação;
+
+
+IX –
+
+habitação de interesse social;
+
+
+X –
+
+urbanização e meio ambiente;
+
+
+XI –
+
+esporte, lazer e turismo;
+
+
+XII –
+
+infraestrutura de acesso às redes de utilidade pública;
+
+
+XIII –
+
+infraestrutura destinada à utilização pela Administração Pública;
+
+
+XIV –
+
+incubadora de empresas e criação de parques tecnológicos;
+
+
+XV –
+
+iluminação pública em geral e desenvolvimento de projetos de geração de energia por meio de fontes renováveis;
+
+
+XVI –
+
+marcas, patentes, banco de dados, métodos e técnicas de gerenciamento e gestão;
+
+
+XVII –
+
+outras áreas de interesse local e regional, aprovados pelo Conselho Gestor do Programa, disposto no art. 7° desta lei, e em conformidade com a Legislação Federal correlata.
+
+
+#### CAPÍTULO II — CONSELHO GESTOR DO PROGRAMA DE PARCERIAS PÚBLICO-PRIVADAS
+
+
+Art. 7º.
+
+Fica criado o Conselho Gestor do Programa de Parcerias Público-Privadas - CGPP, que será composto por indicação nominal de um representante titular e respectivo suplente dos servidores públicos municipais e dos seguintes órgãos e entidades da Administração Direta e Indireta do Município de Rio Branco:
+
+
+I –
+
+Secretaria Municipal de Desenvolvimento Econômico e Finanças;
+
+
+II –
+
+Secretaria Municipal de Planejamento;
+
+
+III –
+
+Secretaria Municipal da Casa Civil;
+
+
+IV –
+
+Secretaria Municipal de Obras;
+
+
+V –
+
+Secretaria Municipal da Cidade;
+
+
+VI –
+
+Empresa Municipal de Urbanização;
+
+
+VII –
+
+Secretaria Municipal de Serviços Urbanos;
+
+
+VIII –
+
+Secretaria de Agricultura e Floresta;
+
+
+IX –
+
+Secretaria Municipal de Meio Ambiente;
+
+
+X –
+
+Procuradoria Geral do Município;
+
+
+XI –
+
+Controladoria Geral do Município.
+
+
+§ 1º
+
+O Conselho Gestor do Programa de Parcerias Público-Privadas - CGPP será presidido pelo titular da Secretaria Municipal de Desenvolvimento Econômico e Finanças, com atribuições a serem detalhadas no seu regimento.
+
+
+§ 2º
+
+A Secretaria Executiva do Conselho Gestor do Programa de Parcerias Público-Privadas - CGPP será exercida pelo titular da Secretaria Municipal de Planejamento e apoiada por grupos técnicos, a serem definidos no regimento do CGPP.
+
+
+§ 3º
+
+Cabe ao Presidente do Conselho Gestor do Programa de Parcerias Público-Privadas - CGPP designar os membros indicados pelos titulares dos órgãos referidos neste artigo.
+
+
+§ 4º
+
+A participação dos membros do Conselho Gestor não será remunerada, mas considerada prestação de serviço público relevante.
+
+
+§ 5º
+
+Ao membro do Conselho Gestor do Programa de Parcerias Público Privadas - CGPP é vedado:
+
+
+I –
+
+participar de discussão e exercer direito de voto em matéria da Parceria Público-Privada na qual tenha interesse pessoal conflitante, sendo obrigado a comunicar seu impedimento aos demais membros do Conselho Gestor, fazendo constar em ata a natureza e extensão do conflito;
+
+
+II –
+
+valer-se de informação sobre processo de parceria, ainda não divulgado, para obter vantagens para si ou para terceiros.
+
+
+§ 6º
+
+Deverão participar das reuniões do Conselho Gestor de Parcerias Público-Privadas os demais titulares dos órgãos da Administração Direta e Entidades da Administração Indireta Municipal, com direito a voz, em razão do vínculo temático entre o objeto da parceria e seu campo funcional, observado o disposto no artigo 6° desta Lei.
+
+
+§ 7º
+
+O Conselho Gestor de Parcerias Público-Privadas poderá, a seu critério, abrir suas reuniões à participação de entidades da sociedade civil, representantes do Ministério Público ou do Judiciário.
+
+
+Art. 8º.
+
+Compete ao Conselho Gestor do Programa de Parcerias Público-Privadas - CGPP:
+
+
+I –
+
+definir os serviços prioritários para execução no regime de Parceria Público-Privada e os critérios para subsidiar a análise sobre a conveniência e oportunidade de contratação sob este regime;
+
+
+II –
+
+aprovar os resultados dos estudos técnicos e a modelagem dos projetos prioritários de Parcerias Público-Privadas;
+
+
+III –
+
+estabelecer os procedimentos e requisitos, assim como aprovar os projetos de Parcerias Público-Privadas e as diretrizes para a elaboração dos editais, na forma do artigo 10 da Lei n° 11.079/2004;
+
+
+IV –
+
+autorizar a apresentação de projetos, estudos, levantamentos ou investigações, elaborados por pessoas físicas ou jurídicas não pertencentes à Administração Pública Direta ou Indireta, que possam ser eventualmente utilizados em licitação de Parceria Público-Privada, desde que a autorização se relacione com projetos já definidos como prioritários pelo CGPP com o intuito de permitir o ressarcimento previsto nas Leis 9.074/95, 11.079/04 e 12.766/12;
+
+
+V –
+
+aprovar o Plano de Parcerias Público-Privada que deverá ser atualizado anualmente;
+
+
+VI –
+
+autorizar a abertura de procedimentos licitatórios, na forma do art. 10 da Lei 11.079/04, e aprovar os instrumentos convocatórios e de contratos e suas alterações;
+
+
+VII –
+
+estabelecer os procedimentos básicos para acompanhamento e avaliação periódicos dos contratos de Parceria Público-Privada, competindo às Secretarias e Órgãos da Administração Municipal acompanhar e avaliar o desenvolvimento dos projetos/serviços contratados de parcerias público-privadas de âmbito municipal;
+
+
+VIII –
+
+apreciar e aprovar os relatórios gerenciais semestrais de execução de contrato de Parceria Público-Privada e manifestações enviadas pelos órgãos da Administração Direta e Entidades da Administração Indireta Municipal, em suas áreas de competência;
+
+
+IX –
+
+disciplinar os procedimentos para contratação de Parceria Público-Privada e aprovar suas alterações;
+
+
+X –
+
+propor a incorporação de bens imóveis dominicais ao patrimônio do Fundo Garantidor das Parcerias Público-Privadas do Município de Rio Branco - FGP/RB, conforme §§ 4° e 5°, do art. 41 desta Lei;
+
+
+XI –
+
+fazer publicar, em jornal onde são veiculados os atos do Município, os relatórios e as atas de suas reuniões, sem prejuízo da sua disponibilização ao público, por meio de rede pública de transmissão de dados, ressalvadas as informações classificadas como sigilosas, na forma da legislação;
+
+
+XII –
+
+estabelecer modelos de editais de licitação e de contratos de Parceria Público-Privada, bem como os requisitos técnicos mínimos para sua aprovação;
+
+
+XIII –
+
+expedir resoluções necessárias ao exercício de sua competência;
+
+
+XIV –
+
+elaborar e remeter à Câmara Municipal e ao Tribunal de Contas do Estado do Acre relatório anual de desempenho dos contratos de Parceria Público-Privadas e disponibilizar, por meio de sítio na rede mundial de computadores (Internet), as informações nele constantes, ressalvadas aquelas classificadas como sigilosas pela legislação;
+
+
+XV –
+
+submeter os projetos de Parceria Público-Privadas à consulta pública, conforme regulamento;
+
+
+XVI –
+
+autorizar a elaboração de estudos técnicos sobre viabilidade de projetos em análises, cuja contratação será realizada pelas Secretarias e Órgãos da Administração Municipal;
+
+
+XVII –
+
+deliberar sobre casos omissos, controvérsias e conflitos de competência.
+
+
+§ 1º
+
+A autorização e a aprovação de que trata o inciso VI deste artigo constitui requisito e não supre a autorização específica do ordenador de despesas, nem a análise e aprovação da minuta de edital feita pelo órgão ou entidade que realizar a licitação de Parceria Público-Privada, após manifestação prévia da Procuradoria Geral do Município.
+
+
+§ 2º
+
+O CGPP poderá contar com a assessoria técnica dos servidores municipais especialmente designados para esta função ou contratar a prestação de serviços de consultores independentes.
+
+
+Art. 9º.
+
+O CGPP terá regimento próprio, aprovado por Decreto do Prefeito Municipal.
+
+
+#### CAPÍTULO III — DO PLANO DE PARCERIAS PÚBLICO-PRIVADAS
+
+
+Art. 10.
+
+O CGPP elaborará anualmente o Plano de Parcerias Público-Privadas que exporá os objetivos, as áreas e os serviços prioritários, definirá as ações de governo no âmbito do Programa e apresentará, justificadamente, os projetos de Parcerias Público-Privadas a serem licitados e contratados pelo Poder Executivo.
+
+
+Art. 11.
+
+Os projetos aprovados pelo CGPP integrarão o Plano de Parcerias Público-Privadas, o qual será submetido à apreciação do Chefe do Poder Executivo que editará Decreto dando-lhe publicidade.
+
+
+Art. 12.
+
+O Plano de Parcerias Público-Privadas poderá incluir outros Municípios no Programa de investimentos, viabilizando recursos de outros orçamentos municipais, com o máximo grau de proveito possível, visando às ações de interesse público mútuo.
+
+
+#### CAPÍTULO IV — PROCEDIMENTO DE MANIFESTAÇÃO DE INTERESSE
+
+
+Art. 13.
+
+Fica instituído o Procedimento de Manifestação de Interesse - PMI, que será regulamentado mediante Decreto, cujo objetivo é orientar a participação de particulares na estruturação de projetos de Parcerias Público-Privadas no âmbito da Administração Pública Direta e Indireta do Município, nos termos do disposto nesta Lei e da regulamentação própria.
+
+
+Art. 14.
+
+Considera-se PMI o procedimento instituído no âmbito do CGPP, por iniciativa de órgão ou entidade da Administração Pública Direta ou Indireta Municipal, ou por particular interessado na forma desta Lei, por intermédio do qual poderão ser obtidos estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres de interessados em projetos de Parcerias Público-Privadas.
+
+
+Parágrafo único
+
+O PMI por iniciativa do particular será passível de reembolso das despesas realizadas com estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres, quando forem integralmente aproveitados em editais de licitação, devendo o vencedor da licitação ressarcir os dispêndios correspondentes, observando-se o disposto no art. 18 desta Lei.
+
+
+Art. 15.
+
+Os estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres de que trata o artigo 14 poderão ser utilizados, total ou parcialmente, na elaboração de editais, contratos e demais documentos referentes aos projetos de Parcerias Público-Privadas.
+
+
+§ 1º
+
+A realização de eventual processo licitatório não está condicionada a utilização de dados ou informações obtidas por meio do PMI.
+
+
+§ 2º
+
+O órgão ou entidade solicitante assegurará o sigilo das informações cadastrais dos interessados, quando solicitado, nos termos da legislação.
+
+
+Art. 16.
+
+A Manifestação de Interesse deverá ser apresentada mediante protocolo junto à Secretaria Executiva do Conselho Gestor de Parcerias Público-Privadas - CGPP.
+
+
+Art. 17.
+
+Poderão participar do PMI pessoas físicas ou jurídicas, de direito público ou privado, individualmente ou em grupo, neste último caso sem necessidade de vínculo formal entre os participantes.
+
+
+§ 1º
+
+A participação no PMI, bem como o fornecimento de estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres pelos interessados não impedirá a sua participação em futura licitação.
+
+
+§ 2º
+
+A participação de entidade privada no PMI não implica, em hipótese alguma, corresponsabilidade do Município, perante terceiros, pelos atos por ela praticados.
+
+
+Art. 18.
+
+As pessoas físicas e jurídicas, individualmente ou em grupo, interessadas em participar do PMI deverão fornecer as informações cadastrais requeridas pelo CGPP, seus endereços completos, área de atuação, o nome de um representante com dados para contato, devendo este, em todos os casos, responsabilizar-se pela veracidade das declarações que fizer e pelo recebimento do valor que eventualmente fizer jus a título de reembolso, na forma do parágrafo único do art. 14.
+
+
+Art. 19.
+
+O CGPP poderá, a seu critério e a qualquer tempo solicitar dos particulares interessados informações adicionais para retificar ou complementar sua manifestação.
+
+
+Art. 20.
+
+A avaliação e a seleção dos estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres a serem utilizados, parcial ou integralmente, em eventual licitação serão realizadas conforme os seguintes critérios:
+
+
+I –
+
+consistência das informações que subsidiaram sua realização;
+
+
+II –
+
+adoção das melhores técnicas de elaboração, segundo normas e procedimentos científicos pertinentes, utilizando, sempre que possível, equipamentos e processos recomendados pela melhor tecnologia aplicada ao setor;
+
+
+III –
+
+compatibilidade com as normas técnicas emitidas pelos órgãos competentes;
+
+
+IV –
+
+compatibilidade com a legislação aplicável ao setor;
+
+
+V –
+
+impacto do empreendimento no desenvolvimento socioeconômico da região e sua contribuição para a integração nacional, se aplicável;
+
+
+VI –
+
+demonstração comparativa de custo e benefício do empreendimento em relação a opções funcionalmente equivalentes, se existentes;
+
+
+VII –
+
+razoabilidade dos valores apresentados para eventual reembolso, considerando estudos, levantamentos, investigações, dados, informações técnicas, projetos ou pareceres similares.
+
+
+#### CAPÍTULO V — DOS PROJETOS DE PARCERIAS PÚBLICO-PRIVADAS
+
+
+Art. 21.
+
+É condição para a inclusão de projetos no Plano de Parcerias Público-Privadas a realização de estudo técnico, apresentado ou não em curso de Procedimento de Manifestação de Interesse, que demonstre:
+
+
+I –
+
+o efetivo interesse público, considerando a natureza, relevância, e o valor de seu objeto, bem como o caráter prioritário da respectiva execução, observadas as diretrizes governamentais;
+
+
+II –
+
+a vantagem econômica e operacional da proposta e a melhoria da eficiência no emprego dos recursos públicos;
+
+
+III –
+
+as metas e resultados a serem atingidos, as formas e os prazos de execução e de amortização do capital investido, bem como a indicação dos critérios de avaliação ou desempenho a serem utilizados;
+
+
+IV –
+
+a efetividade dos indicadores de resultado a serem adotados em função de sua capacidade de aferir, de modo permanente e objetivo, o desempenho do ente privado em termos qualitativos e/ou quantitativos, bem como de parâmetros que vinculem o montante da remuneração aos resultados atingidos;
+
+
+Art. 25.
+
+Caso o CGPP entenda preliminarmente pela viabilidade do projeto, este será submetido à audiência pública no prazo de 30 (trinta) dias, contados da publicação do edital na imprensa oficial, com os dados que permitam seu debate por todos os interessados.
+
+
+Art. 26.
+
+Finda a consulta pública, o CGPP deliberará, por voto da maioria absoluta de seus membros, sobre a aprovação do projeto.
+
+
+Parágrafo único
+
+A decisão do CGPP constará de ata que será publicada em jornal onde são veiculados os atos do Município, sem prejuízo da utilização de outros meios de divulgação.
+
+
+#### CAPÍTULO VI — DOS CONTRATOS DE PARCERIAS PÚBLICO-PRIVADAS
+
+
+Art. 27.
+
+Aprovados e incluídos os projetos no Plano de Parcerias Público-Privadas, após autorização do CGPP, os órgãos ou entidades responsáveis pela sua implementação darão início ao procedimento licitatório, sob a modalidade de concorrência, necessário à contratação de Parcerias Público-Privada, nos termos da legislação federal e municipal aplicável à espécie.
+
+
+§ 1º
+
+A Comissão Especial de Licitação do Município de Rio Branco, vinculada à Secretaria de Desenvolvimento Econômico e Finanças, para cada contratação pretendida no âmbito do Programa de Parcerias Público-Privadas, será integrada por um membro designado pelo Conselho Gestor (CGPP).
+
+
+§ 2º
+
+Os atos de homologação do processo licitatório de Parceria Público-Privada e de adjudicação do seu objeto à Sociedade de Propósito Específico, instituída pelo vencedor do certame na forma do art. 9° da Lei n° 11.079/2004, incumbida de implantar e gerir o objeto da parceria, serão de competência dos órgãos ou entidades da Administração Pública Municipal, responsáveis pela implementação da parceria.
+
+
+§ 3º
+
+O edital deverá especificar a qualidade de serviço prestado por meio de análise de desempenho, e poderá exigir a implantação, pelo contratado, de uma central única de atendimento ao usuário, nos casos de prestação de serviços públicos, e o envio de relatório mensal relativo às demandas dos usuários com índice de efetividade de atendimento ao órgão ou entidade pública envolvida e responsável pela fiscalização.
+
+
+Art. 28.
+
+A minuta do edital e do contrato serão submetidas à consulta pública mediante publicação na imprensa oficial e por meio eletrônico, que deverá informar a justificativa para a contratação, a identificação do objeto, o prazo de duração do contrato, seu valor estimado, fixando-se prazo mínimo de trinta dias para recebimento de sugestões, cujo termo dar-se-á pelo menos sete dias antes da data prevista para publicação do edital.
+
+
+Art. 29.
+
+São cláusulas necessárias dos contratos de Parceria Público-Privada, além daquelas definidas nos artigos 5° e 11 da Lei n° 11.079/2004, as que contenham:
+
+
+I –
+
+o prazo de vigência do contrato compatível com a amortização dos investimentos realizados, não inferior a 05 (cinco) anos, e nem superior a 35 (trinta e cinco) anos, incluindo eventual prorrogação;
+
+
+II –
+
+as formas de remuneração do contratado e de atualziação dos valores contratados;
+
+
+III –
+
+a apresentação, pelo parceiro privado, de relatório periódico contendo o detalhamento das atividades desenvolvidas, a análise dos indicativos de resultado, a qualidade do serviço e as receitas obtidas contrapostas às despesas realizadas, conforme os critérios objetivos previamente estabelecidos, explicando o fluxo de caixa realizado e a taxa interna de retorno;
+
+
+IV –
+
+a realização de vistoria dos bens reversíveis, podendo o parceiro público reter pagamentos ao parceiro privado, no valor necessário para reparar as irregularidades eventualmente detectadas;
+
+
+V –
+
+a repartição de riscos entre as partes, inclusive os referentes a caso fortuito, força maior, fato do príncipe e área econômica extraordinária;
+
+
+VI –
+
+o estabelecimento de mecanismos amigáveis de solução de divergências contratuais, inclusive por meio de arbitragem, a ser realizada no Brasil e em língua portuguesa, nos termos da Lei n° 9.307, de 23 de setembro de 1996;
+
+
+VII –
+
+a previsão de tradução do contrato da língua portuguesa para a língua do país de origem da contratada estrangeira, quando for o caso;
+
+
+VIII –
+
+as penalidades aplicáveis à Administração Pública e ao parceiro privado, em caso de inadimplemento contratual, fixadas sempre de forma proporcional à gravidade da falta cometida e às obrigações assumidas;
+
+
+IX –
+
+os fatos que caracterizem a inadimplência pecuniária do parceiro público, os modos e o prazo de regularização e, quando houver, a forma de acionamento da garantia;
+
+
+X –
+
+os mecanismos para a preservação da atualidade da prestação dos serviços;
+
+
+XI –
+
+os critérios objetivos de avaliação do desempenho do parceiro privado;
+
+
+XII –
+
+a prestação, pelo parceiro privado, de garantias de execução suficientes e compatíveis com os ônus e riscos envolvidos, observados os limites dos §§ 3° e 5° do art. da Lei n° 8.666/1.993, e, no que se refere às concessões patrocinadas, o disposto no inciso XV do art. 18 da Lei n°8.987/1.995;
+
+
+XIII –
+
+o compartilhamento com a Administração Pública de ganhos econômicos efetivos do parceiro privado decorrentes da redução do risco de crédito dos financiamentos utilizados pelo parceiro privado;
+
+
+XIV –
+
+o cronograma e os marcos para o repasse ao parceiro privado das parcelas do aporte de recursos, na fase de investimentos do projeto e/ou após a disponibilização dos serviços, sempre que verificada a hipótese do § 2° do art. 34 desta Lei.
+
+
+§ 1º
+
+Admitir-se-á, nas Parcerias Público-Privadas, a participação de consórcios de empresas, de modo a alcançar o capital mínimo exigido no respectivo edital, independentemente da proporção individual prevista na constituição do mencionado consórcio.
+
+
+§ 2º
+
+Os contratos poderão prever, adicionalmente:
+
+
+I –
+
+os requisitos e condições em que o parceiro público autorizará a transferência do controle da sociedade de propósito específico para os seus financiadores, com o objetivo de promover a sua reestruturação financeira e assegurar a continuidade da prestação dos serviços, não se aplicando para este efeito o previsto no art. 27, § 1°, inciso I da Lei n° 8.987/1995;
+
+
+II –
+
+a possibilidade de emissão de empenho em nome dos financiadores do projeto em relação às obrigações pecuniárias da Administração Pública;
+
+
+III –
+
+a legitimidade dos financiadores do projeto para receber indenizações por extinção antecipada do contrato, bem como pagamentos efetuados pelos fundos e empresas estatais garantidores de Parceiras Público-Privadas.
+
+
+Art. 30.
+
+São obrigações do contratado na Parceria Público-Privada:
+
+
+I –
+
+a manutenção, durante a execução do contrato, dos requisitos de capacidade técnica, econômica e financeira exigidos para a contratação;
+
+
+II –
+
+a assunção de obrigações de resultado definidas pelo Poder Público, com liberdade para a escolha dos meios para sua implementação, nos limites previstos no instrumento contratual;
+
+
+III –
+
+a submissão dos resultados a controle estatal permanente;
+
+
+IV –
+
+a submissão ao gerenciamento e à fiscalização do Poder Público, permitindo o acesso de seus agentes às instalações , informações e documentos inerentes aos contrato, inclusive dos registros contábeis da Sociedade de Propósito Especifico.
+
+
+Art. 31.
+
+Compete ao Poder Público declarar de utilidade pública área, local ou bem que sejam apropriados ao desenvolvimento de atividades inerentes, acessórias ou complementares ao objeto do contrato e à implementação de projeto associado, bem como, promover a sua desapropriação diretamente.
+
+
+Art. 32.
+
+Ao término da Parceria Público-Privada, a propriedade dos bens vinculados à execução do contrato caberá ao parceiro público, salvo disposição contratual em contrário.
+
+
+Art. 33.
+
+Os contratos de Parcerias Público-Privadas vinculados ao Programa de Parceria Público-Privada serão firmados pelos órgãos ou entidades municipais as quais a lei, o regulamento ou estatuto confiram a titularidade dos bens ou serviços objeto da contratação, incluindo autarquias, fundações instituídas ou mantidas pelo Município, empresas públicas e sociedades de economia mista.
+
+
+#### CAPÍTULO VII — DA CONTRAPRESTAÇÃO DA ADMINISTRAÇÃO PÚBLICA
+
+
+Art. 34.
+
+A contraprestação da Administração Pública nos contratos de Parcerias Público-Privadas poderá ser feita por meio de:
+
+
+I –
+
+recursos do Tesouro Municipal ou de entidade da Administração Indireta Municipal;
+
+
+II –
+
+tarifa ou outra forma de remuneração paga pelos usuários;
+
+
+III –
+
+cessão de créditos não tributários;
+
+
+IV –
+
+outorga de direitos em face da Administração Pública;
+
+
+V –
+
+outorga de direitos sobre bens públicos dominicais;
+
+
+VI –
+
+pagamento com títulos da dívida pública, emitidos na forma da lei;
+
+
+VII –
+
+transferência de bens móveis e imóveis, na forma da lei;
+
+
+VIII –
+
+receitas alternativas, complementares, acessórias inerentes ou de projetos associados tais como receitas obtidas com publicidade, receitas advindas da captação de doações ou receitas inerentes à exploração comercial de bens públicos materiais ou imateriais, com vistas a favorecer a modicidade das tarifas, conferir maior sustentabilidade ao projeto ou propiciar menor contraprestação governamental;
+
+
+IX –
+
+pela combinação de critérios anteriores de remuneração;
+
+
+X –
+
+outros meios admitidos em lei.
+
+
+§ 1º
+
+O contrato poderá prever o pagamento ao parceiro privado de remuneração variável vinculada ao seu desempenho, conforme metas e padrões de qualidade e disponibilidade definidos no contrato.
+
+
+§ 2º
+
+O contrato poderá prever o aporte de recursos em favor do parceiro privado para a realização de obras e aquisição de bens reversíveis, nos termos dos incisos X e XI do art. 18 da Lei 8.987/95, desde que autorizado no edital de licitação.
+
+
+§ 3º
+
+O contrato poderá prever que os empenhos relativos às contraprestações devidas pelo Município possam ser liquidados diretamente em favor da instituição que financiou o projeto de parceria, como garantia do cumprimento das condições de financiamento, sem que caiba à Instituição Financeira legitimidade para impugnar valor verificado como devido pela Administração Pública.
+
+
+§ 4º
+
+Por ocasião da extinção do contrato, o parceiro privado não receberá indenização pelas parcelas de investimentos vinculados a bens reversíveis ainda não amortizadas ou depreciadas, quando tais investimentos houverem sido realizados com valores provenientes do aporte de recursos de que trata o § 2° deste artigo.
+
+
+§ 5º
+
+A contraprestação da Administração Pública será obrigatoriamente precedida da disponibilização do serviço objeto do contrato de parceria público-privada.
+
+
+§ 6º
+
+É facultado à Administração Pública, nos termos do contrato, efetuar o pagamento da contraprestação relativa à parcela fruível do serviço objeto do contrato de parceria público-privada.
+
+
+§ 7º
+
+O aporte de recursos de que trata o § 2° deste artigo, quando realizado durante a fase dos investimentos a cargo do parceiro privado, deverá guardar proporcionalidade com as etapas efetivamente executadas.
+
+
+#### CAPÍTULO VIII — DAS GARANTIAS E LIMITES
+
+
+Art. 35.
+
+As obrigações pecuniárias contraídas pela Administração Pública em contrato de Parceria Público-Privada poderão ser garantidas mediante:
+
+
+I –
+
+recursos do Fundo Garantidor de Parcerias Público-Privadas - FGP/RB, instituído pelo art. 40 desta Lei;
+
+
+II –
+
+vinculação de receitas, observado o disposto no inciso IV do art. 167 da Constituição Federal;
+
+
+III –
+
+instituição ou utilização de fundos especiais previstos em lei;
+
+
+IV –
+
+contratação de seguro-garantia com as companhias seguradoras que não sejam controladas pelo poder público;
+
+
+V –
+
+garantia prestada por organismos internacionais ou instituições financeiras que não sejam controladas pelo Poder Público;
+
+
+VI –
+
+outros mecanismos admitidos em lei.
+
+
+Art. 36.
+
+O comprometimento anual com as despesas decorrentes dos contratos de parcerias público-privadas, que vierem a ser custeados com recursos do Tesouro Municipal, no todo ou em parte, não excederá o limite de até 5% (cinco por cento) da receita corrente líquida apurada, tal como definida na Lei Complementar n° 101, de 04 de maio de 2000.
+
+
+§ 1º
+
+Atingido o limite a que se refere o *caput* deste artigo, fica o Município impedido de celebrar novos contratos de parcerias público-privadas, até o seu restabelecimento.
+
+
+§ 2º
+
+Excluem-se do limite a que se refere o *caput* deste artigo os contratos de parcerias público-privadas não custeados com recursos do Tesouro Municipal, os quais estarão submetidos às condições específicas do respectivo projeto e às estabelecidas pelas partes.
+
+
+§ 3º
+
+A previsão de receita e despesa dos contratos de parcerias público-privadas constará do Anexo de Metas Fiscais a que se refere o § 1°, do art. 4°, da Lei Complementar n° 101, de 04 de maio de 2000.
+
+
+Art. 37.
+
+As despesas relativas ao Programa de Parcerias Público-Privadas são caracterizadas como despesas obrigatórias de caráter continuado, submissas ao que disciplina a Lei Complementar n° 101, de 04 de maio de 2000, e constarão dos Relatórios de Gestão Fiscal, inclusive para aferição do comprometimento do limite.
+
+
+§ 1º
+
+Compete à Secretaria Municipal de Desenvolvimento Econômico e Finanças exercer o controle dos contratos a serem celebrados e, obrigatoriamente, emitir parecer prévio acerca da capacidade de pagamento e limite, e sua compatibilização como orçamento, com as diretrizes orçamentárias e com o Plano Plurianual - PPA.
+
+
+§ 2º
+
+Compete à Secretaria Municipal de Planejamento a manifestação prévia sobre o mérito do projeto e sua compatibilidade com o Orçamento Plurianual de Investimentos, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual.
+
+
+§ 3º
+
+Compete à Procuradoria Geral do Município, obrigatoriamente, emitir parecer prévio quanto aos editais e contratos.
+
+
+§ 4º
+
+Os contratos a que se refere o § 3° serão incluídos no Relatório de Gestão Fiscal mencionado no *caput* deste artigo e estarão sujeitos a todos os demais mecanismos de controle previstos nesta Lei.
+
+
+Art. 38.
+
+É facultada a constituição de patrimônio de afetação vinculado exclusivamente à garantia em virtude da qual tiver sido constituído, não podendo ser objeto de penhora, arresto, sequestro, busca e apreensão ou qualquer ato de constrição judicial decorrente de outras obrigações do FGP/RB.
+
+
+Parágrafo único
+
+A constituição do patrimônio de afetação será feita por registro em Cartório de Registro de Títulos e Documentos ou, no caso de bem imóvel, no Cartório de Registro Imobiliário correspondente.
+
+
+#### CAPÍTULO IX — DA SOCIEDADE DE PROPÓSITO ESPECÍFICO
+
+
+Art. 39.
+
+Antes da celebração do contrato deverá ser constituída pelo parceiro privado, Sociedade de Propósito Específico - SPE, incumbida de implantar e gerir o objeto da parceria.
+
+
+§ 1º
+
+A transferência do controle da SPE estará condicionada à autorização da Administração Pública, nos termos do edital e do contrato.
+
+
+§ 2º
+
+A SPE poderá assumir a forma de companhia aberta, com as ações negociadas em bolsa de valores do País ou do exterior, respeitado, quanto ao controle acionário, o disposto no § 1°, deste artigo e na Lei Federal n° 6.404, e 15 de dezembro 1976.
+
+
+§ 3º
+
+A SPE poderá, na forma do contrato, dar em garantia aos financiamentos contraídos para a consecução dos objetivos da parceria público-privada os direitos emergentes do contrato de parceria até o limite que não comprometa a operacionalização e a continuidade das obras e dos serviços.
+
+
+§ 4º
+
+A SPE deverá, para celebração do contrato, adotar contabilidade e demonstração financeira padronizadas, compatíveis com padrões mínimos de governança corporativa que vierem a ser fixadas pelo Governo Federal.
+
+
+§ 5º
+
+Fica vedado à Administração Pública ser titular da maioria do capital votante das sociedades de que trata este Capítulo.
+
+
+§ 6º
+
+A vedação prevista no § 5° deste artigo não se aplica à eventual aquisição da maioria do capital volante da sociedade de propósito específico por instituição financeira controlada pelo Poder Público em caso de inadimplemento de contratos de financiamento.
+
+
+#### CAPÍTULO X — DO FUNDO GARANTIDOR DAS PARCERIAS PÚBLICO-PRIVADAS
+
+
+##### Seção I
+
+
+Art. 40.
+
+Fica criado o Fundo Garantidor das Parcerias Público-Privadas do Município de Rio Branco - FGP/RB com natureza privada e patrimônio próprio separado do patrimônio dos cotistas, sujeito a direitos e obrigações próprias, que terá por finalidade prestar garantia de pagamento de obrigações pecuniárias assumidas pelo parceiro público municipal, em virtude das parcerias de que trata esta Lei.
+
+
+Art. 41.
+
+Ficam o Município, seus fundos especiais, suas autarquias, suas fundações públicas e suas empresas estatais, dependentes autorizadas a participar, até o limite global máximo de 5% (cinco por cento) da Receita Líquida do Município, no FGP/RB.
+
+
+§ 1º
+
+O patrimônio do fundo será formado pelo aporte de bens e direitos realizados pelos cotistas, por meio da integralização de cotas e pelos rendimentos obtidos com sua administração.
+
+
+§ 2º
+
+A integralização das cotas poderá ser realizada através de dinheiro, dotações orçamentárias, inclusive com recursos de fundos municipais, fundo de participação do município, títulos da dívida pública, bens imóveis dominicais, bens móveis, ações de sociedade de economia mista excedentes ao necessário para a manutenção de seu controle pelo Município, ou outros direitos com valor patrimonial, como recebíveis de royalties de exploração mineral, óleo e gás, direitos e passagens de fibras óticas, eventuais receitas por compensações ambientais e de energia, atuais e futuras.
+
+
+§ 3º
+
+Os bens e direitos transferidos ao Fundo serão avaliados por empresa especializada, que deverá apresentar um lado fundamentado, com indicação dos critérios de avaliação adotados e instruído com os documentos relativos aos bens avaliados.
+
+
+§ 4º
+
+Fica o Poder Executivo autorizado a incorporar ao patrimônio do FGP/RB bens imóveis dominicais de propriedade do Município, de suas autarquias e de suas fundações, assim como de bens disponíveis de empresas públicas e sociedades de economia mista, desde que devidamente avaliados.
+
+
+§ 5º
+
+A integralização com bens a que se refere o § 4° deste artigo será feita independentemente de licitação, mediante prévia avaliação e autorização específica da Chefia do Poder Executivo, por proposta do CGPP.
+
+
+§ 6º
+
+O aporte de bens de uso especial ou de uso comum noFGP/RB será condicionado à sua desafetação de forma individualizada.
+
+
+§ 7º
+
+A capitalização do FGP/RB, quando realizada por meio de recursos orçamentários, dar-se-á por ação orçamentária específica para esta finalidade, no âmbito de Encargos Financeiros do Município.
+
+
+§ 8º
+
+O FGP/RB responderá por suas obrigações com os bens e direitos integrantes de seu patrimônio, não respondendo os cotistas por qualquer obrigação do Fundo, salvo pela integralização das cotas que subscreverem.
+
+
+Art. 42.
+
+Poderão ser utilizados recursos dos fundos municipais para integralização do FGP/RB, observadas as disposições desta Lei.
+
+
+§ 1º
+
+A utilização de recursos de fundos municipais para integralização das cotas do FGP/RB, como garantia de contratos de Parceria Público-Privada, dependerá de aprovação da Secretaria Municipal de Desenvolvimento Econômico e Finanças e do respectivo órgão gestor dos referidos fundos.
+
+
+§ 2º
+
+Os recursos oriundos de fundos municipais, uma vez incorporados ao FGP/RB, serão discriminados e, para todos os efeitos, constituirão patrimônio de afetação vinculado exclusivamente aos contratos de Parceria Público-Privada da mesma natureza do respectivo Fundo.
+
+
+§ 3º
+
+Não se aplica o disposto neste capítulo aos bens imóveis pertencentes ao Instituto de Previdência do Município de Rio Branco - RBPREV, assim como aos fundos por ele administrados.
+
+
+##### Seção II — DA GESTÃO DO FUNDO GARANTIDOR DAS PARCERIAS PÚBLICO-PRIVADAS
+
+
+Art. 43.
+
+Os recursos do FGP/RB serão depositados em conta específica junto a uma Instituição Financeira oficial, selecionada na forma da lei.
+
+
+Parágrafo único
+
+Caberá à instituição financeira administrar os recursos do FGP/RB, zelando pela manutenção da sua rentabilidade e liquidez, conforme determinações estabelecidas em regulamento próprio a ser aprovado pelos cotistas.
+
+
+Art. 44.
+
+O FGP/RB será representado judicial e extrajudicialmente pela instituição financeira oficial de que trata o art. 43 desta Lei, cumprindo-lhe a obrigação de honrar faturas aceitas e não pagas pelo parceiro público.
+
+
+§ 1º
+
+O estatuto e o regulamento do FGP/RB serão aprovados em assembleia dos cotistas.
+
+
+§ 2º
+
+A representação do Município na assembleia dos cotistas dar-se-á na pessoa do Chefe do Poder Executivo ou, por delegação, na pessoa do Procurador Geral do Município.
+
+
+§ 3º
+
+Deverá a instituição financeira remeter ao Presidente do Conselho Gestor do Programa de Parcerias Público-Privadas, à Controladoria Geral do Município, ao Tribunal de Contas do Estado do Acre e à Câmara Municipal de Vereadores de Rio Branco, com periodicidade semestral, relatórios gerenciais das ações, evolução patrimonial, demonstrações contábeis, rentabilidade e liquidez do FGP/RB e demais fatos relevantes, sem prejuízo de parecer de auditores independentes, conforme definido em regulamento.
+
+
+§ 4º
+
+Os demonstrativos financeiros e os critérios para a prestação de contas do Fundo observarão as regras estabelecidas pelo Banco Central do Brasil e pela Comissão de Valores Mobiliários, no que couber.
+
+
+Art. 45.
+
+O estatuto e o regulamento do FGP/RB devem deliberar sobre a política de concessão de garantias, inclusive no que se refere à revelação entre ativos e passivos do Fundo.
+
+
+§ 1º
+
+A garantia será prestada na forma aprovada pela assembleia dos cotistas, nas seguintes modalidades:
+
+
+I –
+
+fiança, sem benefício de ordem para o fiador;
+
+
+II –
+
+penhor de bens móveis ou de direitos integrantes do patrimônio do FGP/RB, sem transferência da posse da coisa empenhada antes da execução da garantia;
+
+
+III –
+
+hipoteca de bens imóveis do patrimônio do FGP/RB;
+
+
+IV –
+
+alienação fiduciária, permanecendo a posse direita dos bens com o FGP/RB ou agente fiduciário por ele contratado antes da execução da garantia;
+
+
+V –
+
+outros contratos que produzam efeito de garantia, desde que não transfiram a titularidade ou posse direta dos bens ao parceiro privado antes da execução da garantia;
+
+
+VI –
+
+garantia, real ou pessoal, vinculada a um patrimônio de afetação constituído em decorrência da separação de bens e direitos pertencentes ao FGP/RB.
+
+
+§ 2º
+
+O FGP/RB poderá prestar contragarantia a seguradoras, instituições financeiras e organismos internacionais que garantirem o cumprimento das obrigações pecuniárias dos cotistas em contratos de parcerias público-privadas.
+
+
+§ 3º
+
+A quitação pelo parceiro público de cada parcela de débito garantido pelo FGP/RB importará exoneração proporcional da garantia.
+
+
+§ 4º
+
+O FGP/RB poderá prestar garantias mediante contratação de instrumentos disponíveis em mercado, inclusive para complementação das modalidades previstas no §1° deste artigo.
+
+
+§ 5º
+
+O parceiro privado poderá acionar o FGP/RB nos casos de:
+
+
+I –
+
+crédito líquido e certo, constante de título exigível aceito e não pago pelo parceiro público após 20 (vinte) dias contados da data de vencimento;
+
+
+II –
+
+débitos constantes de faturas emitidas e não aceitas pelo parceiro público após 45 (quarenta e cinco) dias contados da data de vencimento, desde que não tenha havido rejeição expressa por ato motivado.
+
+
+§ 6º
+
+A quitação de débito pelo FGP/RB importará sua sub-rogação nos direitos do parceiro privado.
+
+
+§ 7º
+
+Em caso de inadimplementos, os bens e direitos do Fundo Garantidor, ressalvados eventuais patrimônios de afetação constituídos, poderão ser objeto de constrição judicial e alienação para satisfazer as obrigações garantidas.
+
+
+§ 8º
+
+O FGP/RB poderá usar parcela da cota do Município para prestar garantia aos seus fundos especiais, às suas autarquias, às suas fundações públicas e às suas empresas estatais dependentes.
+
+
+§ 9º
+
+O FGP/RB é proibido de pagar faturas rejeitadas expressamente por ato motivado.
+
+
+§ 10
+
+O parceiro público deverá informar o FGP/RB sobre qualquer fatura rejeitada e sobre os motivos da rejeição no prazo de 15 (quinze) dias contados da data de vencimento.
+
+
+§ 11
+
+A ausência de aceite ou rejeição expressa de fatura por parte do parceiro público no prazo de 45 (quarenta e cinco) dias contados da data de vencimento implicará aceitação tácita.
+
+
+§ 12
+
+O agente público que contribuir por ação ou omissão para a aceitação tácita de que trata o §11 ou que rejeitar fatura sem motivação será responsabilizado pelos danos que causar, em conformidade com a legislação civil, administrativa e penal, em vigor.
+
+
+Art. 46.
+
+O FGP/RB não pagará rendimentos a seus cotistas, assegurando-se a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, correspondente ao patrimônio ainda não utilizado para a concessão de garantias, fazendo-se a liquidação com base na situação patrimonial do Fundo.
+
+
+Art. 47.
+
+A dissolução do FGP/RB, deliberada pela assembleia dos cotistas, ficará condicionada à prévia quitação da totalidade dos débitos garantidos ou liberação das garantias pelos credores.
+
+
+Parágrafo único
+
+Dissolvido o FGP/RB, o seu patrimônio será rateado entre os cotistas, com base na situação patrimonial à data da dissolução.
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 48.
+
+As despesas relativas ao Programa de Parcerias Público-Privadas são caracterizadas como despesas obrigatórias de caráter continuado, submissas ao que disciplina a Lei Complementar n° 101/2000, e constarão dos Relatórios de Gestão Fiscal.
+
+
+Parágrafo único
+
+Os contratos a que se refere o art. 27 desta Lei serão incluídos no Relatório de Gestão Fiscal mencionado no *caput* e estarão sujeitos a todos os demais mecanismos de controle previstos nesta Lei.
+
+
+Art. 49.
+
+Os programas e atividades relacionadas com Parcerias Público-Privadas devem ser indicados na Lei Orçamentária de forma individualizada, com a descrição do projeto e o total dos créditos orçamentários para sua execução.
+
+
+Art. 50.
+
+Os bens imóveis utilizados em projetos de Parceria Público-Privadas, em conformidade com esta lei, poderão ser isentos do Imposto Predial e Territorial Urbano - IPTU, mediante lei específica.
+
+
+Art. 51.
+
+Os bens imóveis alienados em função da realização dos projetos de Parceria Público-Privadas, em conformidade com esta lei, mediante Lei específica, poderão ser isentos do Imposto sobre Transmissão Inter Vivos a qualquer título, por ato oneroso.
+
+
+Art. 52.
+
+Em caso de modificação da Estrutura Organizacional da Administração, a Chefia do Poder Executivo disporá sobre o critério de substituição das autoridades mencionadas nesta Lei, desde que não implique aumento de despesa.
+
+
+Art. 53.
+
+A função de membro da Secretaria Executiva do Conselho Gestor do Programa de Parcerias Público-Privada - CGPP não será remunerada e seu exercício será considerado de relevante interesse público.
+
+
+Art. 54.
+
+É dispensada a licitação, nos termos do inciso VIII do art. 24 da Lei n° 8.666/1993, para a contratação de Órgão e/ou Entidades que integrem a Administração Pública, para a prestação de serviços de acompanhamento e avaliação de desenvolvimento dos projetos e execução dos contratos de parcerias público-privadas no âmbito municipal.
+
+
+Art. 55.
+
+Na hipótese de o contrato prever mecanismos privados de resolução de disputas, inclusive a arbitragem, para dirimir conflitos relacionados com o referido ajuste, o foro de resolução será o da Comarca de Rio Branco - Acre, em que serão ajuizadas, se for o caso, as ações judiciais necessárias, na forma do art. 11, III, da Lei Federal n° 11.079/2004 e Lei n° 13.129/2015.
+
+
+Art. 56.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco-Acre, 16 de junho de 2017, 129° da República, 115° do Tratado de Petrópolis, 56° do Estado do Acre e 134° do Município de Rio Branco.
+
+
+**Marcus Alexandre**
+
+Prefeito de Rio Branco
+

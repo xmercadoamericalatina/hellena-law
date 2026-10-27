@@ -1,0 +1,228 @@
+---
+titulo: "Lei Ordinária nº 1.612, de 03 de novembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1612"
+data: "2006-11-03"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/271"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/130/text"
+sha256_fonte: "82bd2f5d10d3be4af825e709c83895fc39cf058f0e1d452839f6264da8dd6a79"
+sha256_texto: "5ca6426201eb4fe68381f239daa24df438b3f89889ac0fa3877a4d4296d84f05"
+capturado_em_fonte: "2026-10-21T04:01:49.854481-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.612, de 03 de novembro de 2006
+
+“Dispõe sobre a criação e implantação do Conselho Municipal de Educação e da outras providências“.
+
+
+O PREFEITO MUNICIPAL DE RIO BRANCO - ACRE, no uso das atribuições que lhe são conferidas por Lei, FAÇO SABER, que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Educação.
+
+
+Art. 2º.
+
+O Conselho Municipal de Educação, responsável, nos termos da Lei, e órgão do Sistema Municipal de Educação, com atribuições normativas, consultivas, fiscalizadoras e mobilizadoras, de forma a assegurar a participação da comunidade educacional no referido Sistema e propondo as ações consideradas adequadas a promoção de maiores padrões de eficiência e eficácia do mesmo, e articulando a participação, no âmbito do Sistema Educativo da sociedade particularmente:
+
+
+I –
+
+Avaliar, em primeira instância, o Plano Municipal de Educação a ser aprovado pelo Poder Legislativo, assim como realizar o acompanhamento e a avaliação de sua execução;
+
+
+II –
+
+Analisar o funcionamento dos estabelecimentos de Educação Infantil e do Ensino Fundamental, particularmente no que diz respeito as características e adequações das instalações e dos programas e ações de prevenção e Segurança dos espaços escolares e seus acessos, ao desempenho do pessoal docente,, cumprimento de cargas horárias, frequência e sucesso escolar dos alunos, evasão escolar, distorção idade«serie, refletindo sobre as causas das situações analisadas e propondo as soluções adequadas;
+
+
+III –
+
+Apreciar experiencias pedagógicas encaminhadas pelo Sistema Municipal;
+
+
+IV –
+
+Adequar as diferentes modalidades de ação social escolar as necessidades locais, em particular no que se refere ao apoio sócio-educativo, a rede de transporte escolar e a alimentação;
+
+
+V –
+
+Propor medidas de desenvolvimento sócio-educativo. no âmbito do apoio às crianças e jovens com necessidades educativas especiais;
+
+
+VI –
+
+Fixar normas, no âmbito de sua competência, para autorização e credenciamento de estabelecimentos escolares;
+
+
+VII –
+
+Autorizar a organização de cursos experimentais da Educação Infantil e do Ensino Fundamental com metodologias, calendários e currículos peculiares;
+
+
+VIII –
+
+Organizar, analisar e publicar as estatísticas e dados complementares;
+
+
+XIX - Estabelecer critérios para ampliação da rede escolar mantida pelo Poder Público Municipal;
+
+
+XX - Promover estudos e sugerir medidas que visem a expansão e aperfeiçoamento do ensino no Município;
+
+
+XXI - Emitir pareceres face consultas sobre:
+
+
+a)
+
+assuntos de natureza pedagógica elou educativa;
+
+
+b)
+
+concessões de auxílio e subvenções as Instituições Educacionais, de acordo com a legislação vigente.
+
+
+XXII - Elaborar o seu Regimento Interno a ser aprovado pelo Prefeito;
+
+
+XXIII - Manter estreito contato e intercâmbio com os demais Conselhos Municipais de Educação e Órgãos Normativos do Sistema Estadual e Federal;
+
+
+XXIV - Exercer outras atividades delegadas pelo Conselho Estadual e Federal de Educação.
+
+
+Art. 3º.
+
+O Conselho Municipal de Educação será constituído por 10 (dez) membros, sendo:
+
+
+I –
+
+Um representante da Comissão de Educação da Câmara de Vereadores;
+
+
+II –
+
+O Diretor (a) de Ensino da Secretaria Municipal de Educação;
+
+
+III –
+
+Um representante do Sindicato dos Trabalhadores em Educação do Acre - SINTEAC;
+
+
+IV –
+
+Um educador com conhecimento na área educacional, bem como da legislação que rege a educação vigente;
+
+
+V –
+
+Um representante dos Diretores das Escolas Particulares;
+
+
+VI –
+
+Um representante do Conselho de Diretores das Escolas Públicas do Município - CODEP;
+
+
+VII –
+
+Um representante da Universidade Federal do Acre;
+
+
+VIII –
+
+Um representante do Conselho Estadual de Educação;
+
+
+IX –
+
+Um representante das Instituições que atuam com a educação indígena;
+
+
+X –
+
+O Secretário Municipal de Educação.
+
+
+Art. 4º.
+
+Os membros do Conselho, representantes de Instituições, serão escolhidos em assembleias e indicados por seus dirigentes.
+
+
+Parágrafo único
+
+Cada membro titular do Conselho terá 1 (um) suplente indicado pela Entidade da mesma categoria, exceto os membros indicados nos incisos II, IV e X , do artigo anterior.
+
+
+Art. 5º.
+
+Na escolha dos membros do Conselho deve-se dar prioridade aos seguintes requisitos:
+
+
+a)
+
+Ser especialista em educação. professor ou ter experiência educacional;
+
+
+b)
+
+Residir no município onde e Conselheiro.
+
+
+Parágrafo único
+
+Os representantes de Instituições devem ser indicados para compor o Conselho Municipal de Educação pela Entidade representada, para nomeação por decreto do Chefe do Executivo Municipal.
+
+
+Art. 6º.
+
+O mandato dos membros do Conselho Municipal de Educação será de 02 (dois) e 04 (quatro) anos, podendo haver recondução para mandato subsequente.
+
+
+Art. 7º.
+
+O Conselho Municipal, de Educação se constitui de uma Presidência, um Colegiado, uma Secretaria e Órgão Auxiliar.
+
+
+§ 1º
+
+A presidência sera eleita por seus pares;
+
+
+§ 2º
+
+O trabalho dos Conselheiros será considerado de relevância para o Município.
+
+
+§ 3º
+
+As despesas com a manutenção do Conselho Municipal de Educação serão de responsabilidade da Secretaria Municipal de Educação.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Rio Branco-Acre, 03 de novembro de 2006, 118º da República, 104º do Tratado de Petrópolis, 45º do Estado do Acre e 97º do Município de Rio Branco.
+
+
+**Raimundo Angelim Vasconcelos**  
+Prefeito de Rio Branco
+

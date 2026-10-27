@@ -1,0 +1,89 @@
+---
+titulo: "Emenda a Lei Organica nº 12, de 14 de março de 2022"
+tipo: "Emenda à Lei Orgânica"
+tipo_na_fonte: "Emenda a Lei Organica"
+numero: "12"
+data: "2022-03-14"
+municipio: "Bom Jesus do Araguaia"
+uf: "MT"
+codigo_ibge: "5101852"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/669"
+fonte_texto: "https://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/normajuridica/2022/669/emenda_a_lei_organica_12_de_14_de_marco_2022_emenda_impositiva.pdf"
+sha256_fonte: "93542e2d2416eb43d37a3775efd2eeffbfbaff87d8139eff650cb6b16d415da8"
+sha256_texto: "d42592932842e2223a9c33e55257c6d4334593ccf7e3a5e13dd4b8acbafcc584"
+baixado_em: "2026-10-15"
+---
+
+# Emenda a Lei Organica nº 12, de 14 de março de 2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+EMENDA À LEI ORGÂNICA MUNICIPAL N.º 12 DE 14 DE MARÇO 2022 Altera a Lei Orgânica do município de Bom Jesus do Araguaia- MT instituindo e regulamentando a Emenda Impositiva ao orçamento Público Municipal e das outras providências. Faço saber que a Câmara Municipal de Bom Jesus do Araguaia - MT, aprovou, e, a Mesa Diretora promulga a seguinte Emenda à Lei Orgânica Municipal - LOM, nos termos do art. 62, §2° da LOM c/c art. 251 do Regimento Interno:
+
+**Art. 1°** Inclui os §§1°, 2° e 3° no art. 255 da Lei Orgânica Municipal de Bom Jesus do Araguaia - MT, que passa a vigorar com a seguinte alteração:
+
+Art.255... (...)
+
+§ 1º- O projeto de Lei Orçamentária Anual, contará com a dotação específica para o atendimento de programações decorrentes de Emendas Individuais, aos Parlamentares do Município com a reserva de 1,2% (um inteiro e dois décimos por cento) da Receita Corrente Líquida - RCL, nos termos do § 9° do
+
+art.166 da Constituição Federal.
+
+**§2°** A Emenda Impositiva Municipal, ao projeto de Lei Orçamentária Anual será aprovada no limite de 1,2% (um inteiro e dois décimos por cento) da Receita Corrente Líquida, sendo que 50% (cinquenta por cento) desse montante deverá ser utilizado exclusivamente em ações e serviços de saúde do município.
+
+**§ 3º** O valor correspondente à indicação das emendas individuais será assegurado conforme previsto no limite de 1,2 % (um inteiro e dois décimos por cento) da receita corrente líquida, na qual o limite estabelecido será dividido igualitariamente entre os vereadores, sobre a seguinte forma: Em partes iguais a todos os Vereadores que apresentarem a)
+
+Emendas Individuais Parlamentares, reservando 50% (cinquenta por cento) deste percentual que serão destinados exclusivamente a ações e serviços públicos referentes à saúde.
+
+b) Os demais 50% por cento poderá o vereador (a) indicar á
+
+emenda impositiva municipal da lei orçamentaria anual, para benfeitorias para educação, cultura, infraestrutura e obras sociais.
+
+c) Ficará a critério de cada vereador (a) a utilização de sua cota integral ou parte dela.
+
+d) O vereador(a) que não utilizar o total de sua parte correspondente poderá ceder o restante da emenda impositiva municipal na qual o valor restante da emenda será dividido de forma igualitária a todos os vereadores ativos na presente legislatura.
+
+**Art. 2°** Esta Emenda à Lei Orgânica Municipal de Bom Jesus do Araguaia - MT entra em vigor, na data de sua publicação.
+
+CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA
+
+Plenário Sebastião Lopes Pessoa - Câmara Municipal de Bom Jesus do Araguaia - MT, 14 de março de 2022. не TATIANE COSTA SANTIAGO VEREADORA - PDT ELICELIO FERREIRA DIAS VEREADOR - PSB RAIMUNDINHO DA BORDONO VEREADOR - PSB FAbiANO BARROS FABIANO BARROS VEREADOR - PP
+
+ATO DE PROMULGAÇÃO N.º 001/2022 "Promulga a Emenda à Lei Orgânica n" 12/2022, nos termos do inciso I do art. 61 e do art. 62, ambos da Lei Orgânica Municipal c/c inciso 1 do art. 143 e art. 251, todos do Regimento Interno, aprovada em 02 (dois) turnos, nos termos do caput do
+
+art. 249 do Regimento Interno c/c art. 62,
+
+§1°, da LOM.
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA - MT, no uso de suas atribuições legais, especificamente a prevista inciso 1 do art. 61 e do art. 62, ambos da Lei Orgânica Municipal c/c inciso I do art. 143 e art. 251, todos do Regimento Interno, aprovada em 02 (dois) turnos, nos termos do caput do
+
+art. 249 do Regimento Interno c/c art. 62, §1°, da LOM, promulga a Emenda à Lei Orgânica Municipal n° 12/2022, aprovada em Sessão Ordinária do dia 04 de março de 2022, conforme segue:
+
+EMENDA À LEI ORGÂNICA N° 12, DE 14 DE MARÇO DE 2022. Altera a Lei Orgânica do município de Bom Jesus do Araguaia- MT instituindo e regulamentando a Emenda Impositiva ao orçamento Público Municipal e das outras providências.
+
+Faço saber que a Câmara Municipal de Bom Jesus do Araguaia - MT, aprovou, e, a Mesa Diretora promulga a seguinte Emenda à Lei Orgânica Municipal - LOM, nos termos do art. 62, §2° da LOM c/c art. 251 do Regimento Interno:
+
+**Art. 1°** Inclui os §§1°, 2° e 3° no art. 255 da Lei Orgânica Municipal de Bom Jesus do Araguaia - MT, que passa a vigorar com a seguinte alteração:
+
+**Art.255.** (……)
+
+§ 1º- O projeto de Lei Orçamentária Anual, contará com a dotação específica para o atendimento de programações decorrentes de Emendas Individuais, aos Parlamentares do Município com a reserva de 1,2% (um inteiro e dois décimos por cento) da Receita Corrente Líquida - RCL, nos termos do § 9° do
+
+art.166 da Constituição Federal.
+
+**§2°** A Emenda Impositiva Municipal, ao projeto de Lei Orçamentária Anual será aprovada no limite de 1,2% (um inteiro e dois décimos por cento) da Receita Corrente Líquida, sendo que 50% (cinquenta por cento) desse montante deverá ser utilizado exclusivamente em ações e serviços de saúde do município.
+
+**§ 3º** O valor correspondente à indicação das emendas individuais será assegurado conforme previsto no limite de 1,2 % (um inteiro e dois décimos por cento) da receita corrente líquida, na qual o limite estabelecido será dividido igualitariamente entre os vereadores, sobre a seguinte forma:
+
+a) Em partes iguais a todos os Vereadores que apresentarem
+
+Emendas Individuais Parlamentares, reservando 50% (cinquenta por cento) deste percentual que serão destinados exclusivamente a ações e serviços públicos referentes à saúde.
+
+b) Os demais 50% por cento poderá o vereador (a) indicar á
+
+emenda impositiva municipal da lei orçamentaria anual, para benfeitorias para educação, cultura, infraestrutura e obras sociais. Ficará a critério de cada vereador (a) a utilização de sua c) cota integral ou parte dela.
+
+d) O vereador(a) que não utilizar o total de sua parte correspondente poderá ceder o restante da emenda impositiva municipal na qual o valor restante da emenda será dividido de forma igualitária a todos os vereadores ativos na presente legislatura.
+
+**Art. 2°** Esta Emenda à Lei Orgânica Municipal de Bom Jesus do Araguaia - MT entra em vigor, na data de sua publicação. Plenário Sebastião Lopes Pessoa - Câmara Municipal de Bom Jesus do Araguaia - MT, 14 de março de 2022. TATIANE COSTA SANTIAGO VEREADORA - PDT ELICELIO FERREIRA DIAS VEREADOR - PSB смес VEREADOR - PSB AGIANO BARROS FABIANO BARROS VEREADOR - PP
+

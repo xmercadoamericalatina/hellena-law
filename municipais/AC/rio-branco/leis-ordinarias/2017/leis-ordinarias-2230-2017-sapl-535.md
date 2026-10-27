@@ -1,0 +1,126 @@
+---
+titulo: "Lei Ordinária nº 2.230, de 04 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2230"
+data: "2017-05-04"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/535"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/142/text"
+sha256_fonte: "f944d16a03a0a391924e49bb942e4dc83ba72796fdc4a0aee6efac372315cac1"
+sha256_texto: "97c78f590d4ce1596806bd2b112b18a76bc95d7b8db4fcf6ce56a647d183876d"
+capturado_em_fonte: "2026-10-21T03:56:01.342655-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.230, de 04 de maio de 2017
+
+"Obriga os Órgãos Públicos e estabelecimentos privados a inserir o Símbolo Mundial do Autismo em placas de atendimento prioritário e dá outras providências. "
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO - ACRE**, usando das atribuições que lhe são conferidas por Lei, **FAÇO SABER** que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Para efeitos desta Lei e de acordo com o estabelecido na Lei n° 12.764, de 27 de Dezembro de 2012, é considerado pessoa com transtorno do espectro autista aquela portadora de síndrome clínica caracterizada na forma dos seguintes incisos:
+
+
+I –
+
+deficiência persistente e clinicamente significativa da comunicação e da interação social, manifestada por deficiência marcada de comunicação verbal e não verbal usada para interação social, ausência de reciprocidade social; falência em desenvolver e manter relações apropriadas ao seu nível de desenvolvimento;
+
+
+II –
+
+padrões restritivos e repetitivos de comportamentos, interesses e atividades, manifestados por comportamentos motores ou verbais estereotipados ou por comportamentos sensoriais incomuns; excessiva aderência a rotinas padrões de comportamento ritualizados; interesses restritos e fixos.
+
+
+Art. 2º.
+
+Os Órgãos Públicos e os estabelecimentos privados em geral ficam obrigados a dar atendimento prioritário às pessoas portadoras do Transtorno do Espectro do Autismo (TEA), não podendo reter em filas tais cidadãos.
+
+
+Art. 3º.
+
+Para assegurar os direitos de cidadãos autistas, ficam os Órgãos Públicos e Estabelecimentos Privados obrigados a incluir o símbolo do Autismo nas placas de atendimento prioritário.
+
+
+Parágrafo único
+
+Entende-se por estabelecimentos privados:
+
+
+I –
+
+supermercados;
+
+
+II –
+
+bancos;
+
+
+III –
+
+farmácias;
+
+
+IV –
+
+bares
+
+
+V –
+
+restaurantes;
+
+
+VI –
+
+lojas em geral;
+
+
+VII –
+
+escolas e faculdades;
+
+
+VIII –
+
+similares.
+
+
+Art. 4º.
+
+Servidor Público Municipal que descumprir os dispositivos contidos nesta Lei responderão por sua conduta faltosa nos termos da Lei 1.794, de 30 de Dezembro de 2009, artigos 133 a 177.
+
+
+Parágrafo único
+
+Os estabelecimentos privados que não cumprirem a presente Lei sofrerão sanções e multas a serem regulamentadas pelo Poder Executivo.
+
+
+Art. 5º.
+
+A fiscalização do cumprimento da presente Lei será exercida pelo órgão competente, indicado pelo Poder Executivo, por ato próprio.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Rio Branco-Acre, 04 de maio de 2017, 129° da República, 115° do Tratado de Petrópolis, 56° do Estado do Acre e 134° do Município de Rio Branco.
+
+
+**Marcus Alexandre**
+
+Prefeito de Rio Branco
+

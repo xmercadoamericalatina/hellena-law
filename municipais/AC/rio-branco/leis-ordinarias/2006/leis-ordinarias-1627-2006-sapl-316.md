@@ -1,0 +1,180 @@
+---
+titulo: "Lei Ordinária nº 1.627, de 29 de dezembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1627"
+data: "2006-12-29"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/316"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/138/text"
+sha256_fonte: "a526db4328834abc030f7cb7bba1e74dd79bafdc30e505bf6aa9d2920319f6a7"
+sha256_texto: "1add03c16080f8fd9cc8115fd42ed55797e52ff7c9234bbbce2224e711612c26"
+capturado_em_fonte: "2026-10-21T04:00:56.243591-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.627, de 29 de dezembro de 2006
+
+"Autoriza o poder executivo a conceder remissão e anistia de débitos tributários e não tributários, dispõe sobre redução de base de cálculo e parcelamento de débitos".
+
+
+O PREFEITO MUNICIPAL DE RIO BRANCO - ACRE, no uso de sua atribuições legais, FAÇO saber que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a dispensar o pagamento de juros e multas decorrentes de débitos tributários e não tributários cujos fatos geradores tenham ocorrido até 31 de dezembro de 2006, inscritos ou não em dívida ativa, mesmo em face de execução fiscal já ajuizada, nos percentuais abaixo indicados, desde que o pagamento do valor atualizado seja efetuado, com observância dos prazos a seguir estabelecidos:
+
+
+I –
+
+100% (cem por cento) se recolhido até 31 de dezembro de 2007;
+
+
+II –
+
+90% (noventa por cento) se recolhido até 30 de junho de 2008;
+
+
+III –
+
+80% (oitenta por cento) se recolhido até 31 de dezembro de 2008;
+
+
+IV –
+
+70% (setenta por cento) se recolhido até 30 de junho de 2009;
+
+
+V –
+
+50% (cinqüenta por cento) se recolhido até 31 de dezembro de 2009.
+
+
+Art. 2º.
+
+Fica o Poder Executivo autorizado a parcelar os débitos descritos no artigo 1º, em até 60 (sessenta) meses sem redução de multas e juros.
+
+
+Art. 3º.
+
+Os débitos objeto do parcelamento de que trata o artigo anterior.
+
+
+I –
+
+Sujeitar-se-ão:
+
+
+a)
+
+Até a data de formalização do acordo, aos acréscimos previstos na legislação municipal;
+
+
+b)
+
+Após a formalização, a juros de 1% (um por cento) ao mês.
+
+
+II –
+
+Serão pagos em parcelas mensais e sucessivas, que não poderão ser inferiores a 50%(cinquenta por cento) da Unidade Fiscal do Município de Rio Branco - UFMRB.
+
+
+Art. 4º.
+
+O pedido de parcelamento implica:
+
+
+I –
+
+Confissão irrevogável e irretratável dos débitos fiscais;
+
+
+II –
+
+Expressa renúncia a qualquer recurso administrativo ou judicial, bem como desistência de possíveis Embargos interpostos em Execução Fiscal em trâmite, relativamente aos débitos objeto do parcelamento.
+
+
+Art. 5º.
+
+Implica revogação do parcelamento:
+
+
+I –
+
+A inadimplência por três meses Consecutivos ou não, do pagamento integral das parcelas, bem como de débito tributário ou não tributário devido relativamente a fatos geradores ocorridos após a data da formalização do acordo;
+
+
+II –
+
+O descumprimento das condições estabelecidas pela Secretaria Municipal de Finanças.
+
+
+Parágrafo único
+
+Fica facultado reativar, uma única vez, o parcelamento revogado na forma deste parágrafo, desde Que o Contribuinte:
+
+
+I –
+
+regularize todas as pendências que ocasionaram a revogação, em até 60 (sessenta) dias apos a perda do parcelamento;
+
+
+II –
+
+cumpra as demais exigências estabelecidas pela Secretaria Municipal de Finanças do Município.
+
+
+Art. 6º.
+
+As parcelas a vencer não poderão ser alteradas nem estendidas em função da reativação prevista no parágrafo único do artigo anterior, permanecendo inalteradas as condições iniciais assumidas pelo Contribuinte.
+
+
+Art. 7º.
+
+A opção pelo beneficio dar-se-á por iniciativa do Contribuinte mediante formalização de termo de adesão, em modelo a ser definido e fornecido pela Secretaria Municipal de Finanças.
+
+
+Art. 8º.
+
+A concessão dos benefícios previstos no artigo 1º fica condicionada, ainda, ao encerramento comprovado dos feitos administrativos ou judiciais formulados pelo Contribuinte contra a Fazenda Pública.
+
+
+Art. 9º.
+
+As multas aplicadas mediante autos de infração, serão reduzidas em 90% (noventa por cento), para pagamento ou adesão ao parcelamento até 30 de junho de 2008.
+
+
+Art. 10.
+
+Fica o Poder Executivo Municipal autorizado a reduzir a base de cálculo do imposto sobre a propriedade predial e territorial urbana - IPTU, em até 50% (cinqüenta por cento), para atender ao disposto no artigo 145, § 1º, da Constituição Federal.
+
+
+Art. 11.
+
+Os casos omissos serão regulamentados mediante ato do Chefe do Poder Executivo Municipal.
+
+
+Art. 12.
+
+Compete à Secretaria Municipal de Finanças adotar as providências necessárias para o cumprimento do disposto nesta Lei.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco-Acre, 29 de dezembro de 2006, 118º da República, 104º do Tratado de Petrópolis, 45º do Estado do Acre e 97º do Município de Rio Branco.
+
+
+**Raimundo Angelim Vasconcelos**  
+Prefeito de Rio Branco
+
