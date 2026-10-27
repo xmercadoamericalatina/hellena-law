@@ -1,0 +1,24 @@
+{
+  "publicacao": "scripts/dados/publicacao-sp10577-20261020.json",
+  "commit": "8e2461da6a7",
+  "total_publicado": 10577,
+  "intersecao_overlay_geral": 1,
+  "falsos_positivos_contextuais": [
+    {
+      "path": "estaduais/SP/decretos/2005/dec-50218-2005-11-08-id58776.md",
+      "sha256_md": "08e53f9e1a2c12e23c8005f3051d82eb09ad6336342c8327e7066797accafeed",
+      "cache": "estaduais/SP/_fonte/decretos/2005/dec-50218-2005-11-08-id58776.html.gz",
+      "sha256_cache": "b370e8e1a00df529beb633f9870c62502854b52890b7fad51550fe0947768d7c",
+      "imagens": [],
+      "remissoes_proprias_sem_representacao": [
+        "Anexo desta Lei"
+      ],
+      "motivo": "recurso visual não representado ou remissão própria sem seção/tabela identificável; exige revisão",
+      "classificacao": "falso_positivo_citacao_de_outra_norma",
+      "evidencia_literal": "No mesmo sentido, a Lei Complementar nº 87/96 determina: ... Art. 31 ... Anexo desta Lei Complementar.",
+      "nota": "Remissão dentro de citação expressa da LC federal87/1996, não anexo do Decreto50.218/2005. Nenhum IMG de conteúdo neste cache."
+    }
+  ],
+  "pendencias_confirmadas_novas": 0,
+  "pendencias_conservadoras_novas": 0
+}

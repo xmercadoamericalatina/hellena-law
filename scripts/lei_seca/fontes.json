@@ -1,0 +1,258 @@
+{
+  "schema": 1,
+  "prioridades": [
+    {
+      "id": "prioridade-constituicao",
+      "conector": "direto",
+      "tipo": "Constituição Federal",
+      "titulo": "Constituição Federal de 1988",
+      "numero": "",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+      "esfera": "federal",
+      "tema": "geral",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-ec132",
+      "conector": "direto",
+      "tipo": "Emenda Constitucional",
+      "titulo": "Emenda Constitucional nº 132/2023",
+      "numero": "132",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+      "esfera": "federal",
+      "tema": "reforma-tributaria",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lc214",
+      "conector": "direto",
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 214/2025",
+      "numero": "214",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm",
+      "esfera": "federal",
+      "tema": "reforma-tributaria",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lc227",
+      "conector": "direto",
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 227/2026",
+      "numero": "227",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm",
+      "esfera": "federal",
+      "tema": "reforma-tributaria",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-ctn",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Código Tributário Nacional — Lei nº 5.172/1966",
+      "numero": "5172",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+      "esfera": "federal",
+      "tema": "tributario",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lc123",
+      "conector": "direto",
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 123/2006",
+      "numero": "123",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "esfera": "federal",
+      "tema": "tributario",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-clt",
+      "conector": "direto",
+      "tipo": "Decreto-Lei",
+      "titulo": "CLT — Decreto-Lei nº 5.452/1943",
+      "numero": "5452",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452compilado.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei13467",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 13.467/2017 — alteração da legislação trabalhista",
+      "numero": "13467",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13467.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei13429",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 13.429/2017",
+      "numero": "13429",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13429.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei6019",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 6.019/1974",
+      "numero": "6019",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l6019.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l6019.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lc150",
+      "conector": "direto",
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 150/2015",
+      "numero": "150",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp150.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei8036",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 8.036/1990 — FGTS",
+      "numero": "8036",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+      "esfera": "federal",
+      "tema": "trabalhista",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei8212",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 8.212/1991",
+      "numero": "8212",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm",
+      "esfera": "federal",
+      "tema": "previdenciario",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei8213",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 8.213/1991",
+      "numero": "8213",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+      "esfera": "federal",
+      "tema": "previdenciario",
+      "prioridade": true
+    },
+    {
+      "id": "prioridade-lei14133",
+      "conector": "direto",
+      "tipo": "Lei",
+      "titulo": "Lei nº 14.133/2021",
+      "numero": "14133",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "esfera": "federal",
+      "tema": "licitacoes",
+      "prioridade": true
+    }
+  ],
+  "sapl": [
+    {
+      "id": "sapl-ac",
+      "uf": "AC",
+      "esfera": "estadual",
+      "url": "https://sapl.al.ac.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-al",
+      "uf": "AL",
+      "esfera": "estadual",
+      "url": "https://sapl.al.al.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-am",
+      "uf": "AM",
+      "esfera": "estadual",
+      "url": "https://sapl.al.am.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-pb",
+      "uf": "PB",
+      "esfera": "estadual",
+      "url": "https://sapl.al.pb.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-pi",
+      "uf": "PI",
+      "esfera": "estadual",
+      "url": "https://sapl.al.pi.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-ro",
+      "uf": "RO",
+      "esfera": "estadual",
+      "url": "https://sapl.al.ro.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-rr",
+      "uf": "RR",
+      "esfera": "estadual",
+      "url": "https://sapl.al.rr.leg.br",
+      "habilitado": true
+    },
+    {
+      "id": "sapl-to",
+      "uf": "TO",
+      "esfera": "estadual",
+      "url": "https://sapl.al.to.leg.br",
+      "habilitado": true
+    }
+  ],
+  "indices_oficiais": [
+    {
+      "tema": "reforma-tributaria",
+      "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/legislacao/principais-marcos-regulatorios/"
+    }
+  ],
+  "lacunas": [
+    "As fontes que não utilizam SAPL ainda requerem adaptadores específicos; não se declara cobertura das 27 UF.",
+    "Não há fonte municipal nacional única integrada; cadastre APIs SAPL oficiais por município. Nenhum município habilitado inicialmente.",
+    "Atos infralegais da RFB, MTE e demais órgãos não têm coletor integral habilitado neste pacote; a descoberta federal não substitui essas fontes.",
+    "PDFs, OCR, anexos gráficos e documentos sem epígrafe confirmada ficam pendentes de validação.",
+    "O acervo herdado fora de lei-seca/ não é certificado nem incorporado automaticamente pelo atualizador.",
+    "Normas históricas e revogadas são preservadas como versões da fonte; vigência e eficácia não são inferidas.",
+    "O índice federal depende do universo e dos limites do serviço do Senado; não equivale a todo o ordenamento."
+  ]
+}
