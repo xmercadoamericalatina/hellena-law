@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA SPU-CE/ME Nº 6.924, DE 4 DE AGOSTO DE 2022"
+orgao: "Ministério da Economia/Secretaria Especial de Desestatização, Desinvestimento e Mercados/Secretaria de Coordenação e Governança do Patrimônio da União/Superintendência no Ceará"
+tipo: "Portaria"
+numero: "6924"
+data: 2022-08-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/08/2022, seção 1, p. 21"
+data_publicacao: 2022-08-08
+edicao: "149"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spu-ce/me-n-6.924-de-4-de-agosto-de-2022-420669479"
+sha256_html_fonte: a86a35556edcf7fc013ab633aaeeb64c4b7fb4b53bfaf78cb719944ad8874eb2
+baixado_em: 2026-10-20
+---
+# PORTARIA SPU-CE/ME Nº 6.924, DE 4 DE AGOSTO DE 2022
+
+PORTARIA SPU-CE/ME Nº 6.924, DE 4 DE AGOSTO DE 2022
+
+Autoriza a realização de obras para duplicação de trecho da Rodovia CE-090, considerando a construção da ponte da Barra Nova-Tabuba, no município de Caucaia-CE.
+
+O SUPERINTENDENTE DO PATRIMÔNIO DA UNIÃO NO CEARÁ, DA SECRETARIA DE COORDENAÇÃO E GOVERNANÇA DO PATRIMÔNIO DA UNIÃO, DA SECRETARIA ESPECIAL DE DESESTATIZAÇÃO, DESINVESTIMENTO E MERCADOS DO MINISTÉRIO DA ECONOMIA, no uso da competência que lhe foi subdelegada pelo artigo 5º, inciso XI da Portaria SPU/ME nº 14.094, de 30 de novembro de 2021, e tendo em vista o disposto no art. 6º, do Decreto-Lei nº 2.398, de 21 de dezembro de 1987, com a nova redação que lhe foi conferida pela Lei nº 13.139, de 26 de junho de 2015, e de acordo com os elementos que integram o Processo nº 19739.124684/2021-71;, resolve:
+
+**Art. 1º** Conceder autorização à SUPERINTENDÊNCIA DE OBRAS PÚBLICAS DO GOVERNO DO ESTADO DO CEARÁ para executar as obras de duplicação de trecho da Rodovia CE-090, no município de Caucaia-CE, com área total de intervenção de 4.484,73 m² e perímetro de 367,64m, caracterizada como Terrenos Acrescidos de Marinha / presumidos, considerando a construção da ponte da Barra Nova-Tabuba, conforme Planta de Caracterização (SEI nº 17878097) e Memorial Descritivo (SEI nº 26935074), observadas as condicionantes estabelecidas nesta portaria.
+
+**Parágrafo único.** Poligonal formada por terreno/acrescidos de marinha, constituída pela área descrita por um polígono irregular com 34 vértices, que inicia-se no vértice Pt0, de coordenadas N 9595075.09 m e E 535141.24 m, que segue com os seguintes azimute plano e distância:318°56'37.00'' e 47,46m; até o vértice Pt1, de coordenadas N 9595110.88 m e E 535110.07 m; deste, com os seguintes azimute plano e distância:319°27'32.65'' e 8,71m; até o vértice Pt2, de coordenadas N 9595117.50 m e E 535104.41 m; deste, com os seguintes azimute plano e distância:166°46'36.29'' e 17,79m; até o vértice Pt3, de coordenadas N 9595100.17 m e E 535108.48 m; deste, com os seguintes azimute plano e distância:166°24'23.24'' e 0,75m; até o vértice Pt4, de coordenadas N 9595099.44 m e E 535108.66 m; deste, com os seguintes azimute plano e distância:169°01'12.01'' e 0,74m; até o vértice Pt5, de coordenadas N 9595098.72 m e E 535108.80 m; deste, com os seguintes azimute plano e distância:172°59'54.42'' e 0,85m; até o vértice Pt6, de coordenadas N 9595097.88 m e E 535108.90 m; deste, com os seguintes azimute plano e distância:176°58'36.84'' e 0,85m; até o vértice Pt7, de coordenadas N 9595097.04 m e E 535108.95 m; deste, com os seguintes azimute plano e distância:180°57'19.26'' e 0,85m; até o vértice Pt8, de coordenadas N 9595096.19 m e E 535108.93 m; deste, com os seguintes azimute plano e distância:184°56'1.67'' e 0,85m; até o vértice Pt9, de coordenadas N 9595095.35 m e E 535108.86 m; deste, com os seguintes azimute plano e distância:188°54'44.09'' e 0,85m; até o vértice Pt10, de coordenadas N 9595094.51 m e E 535108.73 m; deste, com os seguintes azimute plano e distância:192°53'26.51'' e 0,85m; até o vértice Pt11, de coordenadas N 9595093.68 m e E 535108.54 m; deste, com os seguintes azimute plano e distância:196°52'8.92'' e 0,85m; até o vértice Pt12, de coordenadas N 9595092.87 m e E 535108.29 m; deste, com os seguintes azimute plano e distância:200°50'51.34'' e 0,85m; até o vértice Pt13, de coordenadas N 9595092.08 m e E 535107.99 m; deste, com os seguintes azimute plano e distância:204°49'33.76'' e 0,85m; até o vértice Pt14, de coordenadas N 9595091.31 m e E 535107.64 m; deste, com os seguintes azimute plano e distância:208°48'16.17'' e 0,85m; até o vértice Pt15, de coordenadas N 9595090.57 m e E 535107.23 m; deste, com os seguintes azimute plano e distância:212°46'58.59'' e 0,85m; até o vértice Pt16, de coordenadas N 9595089.86 m e E 535106.77 m; deste, com os seguintes azimute plano e distância:216°45'41.01'' e 0,85m; até o vértice Pt17, de coordenadas N 9595089.18 m e E 535106.26 m; deste, com os seguintes azimute plano e distância:220°44'23.42'' e 0,85m; até o vértice Pt18, de coordenadas N 9595088.54 m e E 535105.71 m; deste, com os seguintes azimute plano e distância:224°43'5.84'' e 0,85m; até o vértice Pt19, de coordenadas N 9595087.94 m e E 535105.12 m; deste, com os seguintes azimute plano e distância:228°41'48.26'' e 0,63m; até o vértice Pt20, de coordenadas N 9595087.52 m e E 535104.64 m; deste, com os seguintes azimute plano e distância:232°46'35.76'' e 13,59m; até o vértice Pt21, de coordenadas N 9595079.30 m e E 535093.81 m; deste, com os seguintes azimute plano e distância:138°56'37.00'' e 33,94m; até o vértice Pt22, de coordenadas N 9595053.71 m e E 535116.11 m; deste, com os seguintes azimute plano e distância:140°16'56.56'' e 95,02m; até o vértice Pt23, de coordenadas N 9594980.61 m e E 535176.83 m; deste, com os seguintes azimute plano e distância:54°17'45.12'' e 2,06m; até o vértice Pt24, de coordenadas N 9594981.82 m e E 535178.50 m; deste, com os seguintes azimute plano e distância:56°17'46.42'' e 3,68m; até o vértice Pt25, de coordenadas N 9594983.86 m e E 535181.56 m; deste, com os seguintes azimute plano e distância:58°17'47.72'' e 3,68m; até o vértice Pt26, de coordenadas N 9594985.79 m e E 535184.69 m; deste, com os seguintes azimute plano e distância:60°17'49.02'' e 3,68m; até o vértice Pt27, de coordenadas N 9594987.62 m e E 535187.89 m; deste, com os seguintes azimute plano e distância: 62°17'50.32'' e 3,68m; até o vértice Pt28, de coordenadas N 9594989.33 m e E 535191.15 m; deste, com os seguintes azimute plano e distância:64°17'51.62'' e 3,68m; até o vértice Pt29, de coordenadas N 9594990.92 m e E 535194.46 m; deste, com os seguintes azimute plano e distância:66°17'52.92'' e 3,68m; até o vértice Pt30, de coordenadas N 9594992.40 m e E 535197.83 m; deste, com os seguintes azimute plano e distância:68°17'54.21'' e 3,68m; até o vértice Pt31, de coordenadas N 9594993.76 m e E 535201.25 m; deste, com os seguintes azimute plano e distância:70°17'55.51'' e 3,68m; até o vértice Pt32, de coordenadas N 9594995.00 m e E 535204.71 m; deste, com os seguintes azimute plano e distância:72°17'56.81'' e 2,54m; até o vértice Pt33, de coordenadas N 9594995.78 m e E 535207.13 m; deste, com os seguintes azimute plano e distância:320°16'56.56'' e 103,11m; retornando até o vértice Pt0, de coordenadas N 9595075.09 m e E 535141.24 m, encerrando esta descrição, com área de 4.484,73m² e perímetro de 367,64m. Coordenadas padrão UTM - Fuso 24S - Datum SIRGAS2000.
+
+**Art. 2º** A obra a que se refere o Art. 1º visa a duplicação de trecho da Rodovia CE-090, no município de Caucaia/CE, classificada como uma obra infraestrutura pública de interesse social, em zona urbana antropizada em quase sua totalidade, considerando a implantação de uma nova ponte ao lado da existente, com seção transversal que atenda ao fluxo de veículos, os fluxos de pedestres e ciclistas da região. A faixa de domínio atual do trecho Icaraí-Cumbuco apresenta diversas larguras, sem padronização, limitadas pelas edificações marginais em ambos os lados ao longo de todo o trecho. O alargamento da plataforma de tráfego será executado dentro dos limites dos muros das edificações marginais, não havendo desapropriação.
+
+**Art. 3º** As obras ficam condicionadas ao cumprimento rigoroso das recomendações técnicas, ambientais, sanitárias e urbanísticas, conforme legislação vigente, seja no âmbito federal, estadual ou municipal, em especial das condicionantes impostas pela Superintendência Estadual do Meio Ambiente - SEMACE, na Licença Prévia nº 129/2020 - DICOP (SEI nº 21686138), de conformidade com o PARECER TÉCNICO Nº 2065/2020 - DICOP/GECON - SEMA/SEMACE, que embasou a referida licença ambiental.
+
+**Art. 4º** Caberá ao Estado do Ceará arcar com prejuízos financeiros, decorrentes de eventual desacordo com o objeto da autorização de que trata esta portaria.
+
+**Art. 5º** Responderá o Estado do Ceará, judicial e extrajudicialmente, por quaisquer reivindicações que venham a ser efetuadas por terceiros, em decorrência da realização da obra de que trata esta Portaria.
+
+**Art. 6º** O descumprimento de quaisquer das cláusulas contidas no presente instrumento, ensejará a revogação da presente autorização, sem necessidade de prévio aviso ou outro qualquer procedimento.
+
+**Art. 7º** Os direitos e obrigações mencionados nesta portaria não excluem outros decorrentes da autorização, de acordo com a legislação pertinente.
+
+**Art. 8º** A autorização da obra a que se refere esta portaria não implica transferência de posse ou constituição de direitos ou domínio sobre a área, ou qualquer tipo de indenização, tratando-se de ato precário, revogável a qualquer tempo.
+
+**Art. 9º** A responsabilidade pela demolição da obra será do Estado do Ceará quando representar risco à segurança das pessoas e do meio ambiente ou se não cumprir mais a sua finalidade social, nos termos desta Portaria autorizativa.
+
+**Art. 10** A Superintendência do Patrimônio da União no Ceará realizará, a qualquer tempo, fiscalização no local objeto da autorização, objetivando verificar o efetivo cumprimento das obrigações e condições impostas nesta Portaria, bem como de outros compromissos e encargos que estejam condicionadas nos autos do processo em epígrafe.
+
+**Art. 11** Durante o período de execução da obra a que se refere a presente portaria, fica o Estado do Ceará obrigado a afixar na área em que será realizada a obra e em local visível ao público 01 (uma) placa, confeccionada segundo o Manual de placas da SPU, com a seguinte informação: "ÁREA JURISDICIONADA AO PATRIMÔNIO DA UNIÃO, COM OBRAS E SERVIÇOS AUTORIZADOS PELA SECRETARIA DE COORDENAÇÃO E GOVERNANÇA DO PATRIMÔNIO DA UNIÃO-SCGPU, na forma da Portaria nº 21930, de 05 de outubro de 2020".
+
+**Art. 12** O prazo de vigência desta portaria é de 9 (nove) meses a contar da expedição de ordem de serviço para início das obras, em conformidade com o cronograma físico financeiro apresentado, podendo ser prorrogada a critério da Administração.
+
+**Art. 13** Os casos omissos serão resolvidos por esta Superintendência do Patrimônio da União no Ceará.
+
+**Art. 14** Esta Portaria entre em vigor na data de sua publicação.
+
+VANDESVALDO DE CARVALHO MOURA

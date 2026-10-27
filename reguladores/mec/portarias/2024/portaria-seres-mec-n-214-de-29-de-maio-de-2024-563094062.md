@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 214, DE 29 DE MAIO DE 2024"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "214"
+data: 2024-05-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/06/2024, seção 1, p. 30"
+data_publicacao: 2024-06-03
+edicao: "104"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-214-de-29-de-maio-de-2024-563094062"
+sha256_html_fonte: 8a4aa8d260ea4a9c96353b8b7b96eb5bc9b5a8b4cb2ed29c3184f889c77e964a
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 214, DE 29 DE MAIO DE 2024
+
+PORTARIA SERES/MEC Nº 214, DE 29 DE MAIO DE 2024
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas MEC n° 20 e nº 23, de 21 de dezembro de 2017, republicadas em 3 de setembro de 2018, bem como a Instrução Normativa SERES nº 1, de 17 de setembro de 2018, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam autorizados os cursos superiores de graduação constantes da tabela do Anexo desta Portaria, solicitados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10 do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** As autorizações a que se refere esta Portaria são válidas exclusivamente para os cursos ministrados nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** As instituições citadas na tabela constante do Anexo desta Portaria deverão protocolar pedido de reconhecimento dos respectivos cursos, nos termos do disposto no art. 46 do Decreto nº 9.235, de 2017.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+## ANEXO
+
+(Autorização de Cursos)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº de Ordem</p></td>      <td rowspan="1" colspan="1"><p>Registro e-MEC nº</p></td>      <td rowspan="1" colspan="1"><p>Curso</p></td>      <td rowspan="1" colspan="1"><p>Nº de vagas totais anuais</p></td>      <td rowspan="1" colspan="1"><p>Mantida</p></td>      <td rowspan="1" colspan="1"><p>Mantenedora</p></td>      <td rowspan="1" colspan="1"><p>Endereço de funcionamento do curso</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>202112598</p></td>      <td rowspan="1" colspan="1"><p>FISIOTERAPIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>200 (duzentas)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE CATÓLICA DE RONDONIA</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO DE ASSISTENCIA A CULTURA NA AMAZONIA MOACYR GRECHI - AASCAM</p></td>      <td rowspan="1" colspan="1"><p>AVENIDA GOVERNADOR JORGE TEIXEIRA, S/N, INÍCIO ESPA , INDUSTRIAL, PORTO VELHO/RO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>202125932</p></td>      <td rowspan="1" colspan="1"><p>FISIOTERAPIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>80 (oitenta)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DO VALE DO SÃO LOURENÇO</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO EDUCACIONAL DO VALE DO SAO LOURENCO S/S LTDA - EPP</p></td>      <td rowspan="1" colspan="1"><p>RUA CAIÇARA, 2114, CENTRO, JACIARA/MT</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>202208570</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>100 (cem)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE DO NORDESTE DA BAHIA</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE DE ENSINO SUPERIOR DO NORDESTE DA BAHIA LTDA - ME</p></td>      <td rowspan="1" colspan="1"><p>RUA DR. CARVALHO DE SÁ, S/N, CENTRO, CORONEL JOÃO SÁ/BA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>202123989</p></td>      <td rowspan="1" colspan="1"><p>PSICOLOGIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>50 (cinquenta)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADES INTEGRADAS MACHADO DE ASSIS</p></td>      <td rowspan="1" colspan="1"><p>FUNDACAO EDUCACIONAL MACHADO DE ASSIS</p></td>      <td rowspan="1" colspan="1"><p>RUA RUA SANTOS DUMONT, 820, CENTRO, SANTA ROSA/RS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>202124816</p></td>      <td rowspan="1" colspan="1"><p>ODONTOLOGIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>240 (duzentas e quarenta)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE UNINASSAU PALMAS</p></td>      <td rowspan="1" colspan="1"><p>SER EDUCACIONAL S.A.</p></td>      <td rowspan="1" colspan="1"><p>QUADRA AV 202 SUL AVENIDA TEOTONIO SEGURADO, S/N, PLANO DIRETOR SUL, PALMAS/TO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>202113675</p></td>      <td rowspan="1" colspan="1"><p>FISIOTERAPIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>40 (quarenta)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE XV DE AGOSTO</p></td>      <td rowspan="1" colspan="1"><p>FACULDADES XV DE AGOSTO LTDA - EPP</p></td>      <td rowspan="1" colspan="1"><p>AVENIDA XV DE AGOSTO, 1210, CENTRO, SOCORRO/SP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>202124902</p></td>      <td rowspan="1" colspan="1"><p>ESTÉTICA E COSMÉTICA (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>240 (duzentas e quarenta)</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE DA AMAZÔNIA</p></td>      <td rowspan="1" colspan="1"><p>INSTITUTO CAMPINENSE DE ENSINO SUPERIOR LTDA</p></td>      <td rowspan="1" colspan="1"><p>QUADRA QUINZE, FOLHA 30 - LOTE 10 - SHOPPING , NOVA MARABÁ, MARABÁ/PA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>202123425</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO FINANCEIRA (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>100 (cem)</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE DO SUL DE SANTA CATARINA</p></td>      <td rowspan="1" colspan="1"><p>FUNDACAO UNIVERSIDADE DO SUL DE SANTA CATARINA-UNISUL</p></td>      <td rowspan="1" colspan="1"><p>RUA ABÍLIO JERÔNIMO PEREIRA, S/N, SANTA CATARINA, ARARANGUÁ/SC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>202333781</p></td>      <td rowspan="1" colspan="1"><p>MATEMÁTICA TECNOLÓGICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>25 (vinte e cinco)</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE FEDERAL DE ITAJUBÁ - UNIFEI</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE FEDERAL DE ITAJUBA</p></td>      <td rowspan="1" colspan="1"><p>RUA IRMÃ IVONE DRUMMOND, 200, CAMPUS UNIFEI, DISTRITO INDUSTRIAL II, ITABIRA/MG</p></td>     </tr>    </tbody>   </table>

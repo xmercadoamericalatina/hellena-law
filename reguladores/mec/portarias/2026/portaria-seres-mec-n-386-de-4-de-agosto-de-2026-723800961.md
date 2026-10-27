@@ -1,0 +1,66 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 386, DE 4 de agosto de 2026 (*)"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "386"
+data: 2026-08-04
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/08/2026, seção 1, p. 88"
+data_publicacao: 2026-08-06
+edicao: "147"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-386-de-4-de-agosto-de-2026-*-723800961"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 386, DE 4 de agosto de 2026 (*)
+
+PORTARIA SERES/MEC Nº 386, DE 4 de agosto de 2026 (\*)
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 12.769, de 5 de dezembro de 2025, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO(Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202505137 | PSICOLOGIA (Bacharelado) | 60 (sessenta) | Faculdade Centro Sul | FACULDADE CENTRO SUL LTDA | AVENIDA DOUTOR JOSÉ HOLANDA MONTENEGRO, 870, - LADO ÍMPAR, CENTRO, IGUATU/CE |
+| 2 | 202505612 | ARQUITETURA E URBANISMO (Bacharelado) | 200 (duzentas) | FACULDADE DE TECNOLOGIA DE PIRACICABA | INSTITUTO DE DESENVOLVIMENTO TECNOLOGICO E EDUCACIONAL DE PIRACICABA LTDA | AVENIDA RIO CLARO, 290, CAMPUS SEDE, VILA AREIÃO, PIRACICABA/SP |
+| 3 | 202522329 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 38 (trinta e oito) | Faculdade de Tecnologia de Sinop | GRID ENSINO LTDA | ESTRADA CLAUDETE, 442-A, - ATÉ 405 - LADO ÍMPAR, RESIDENCIAL JOSÉ ADRIANO LEITÃO, SINOP/MT |
+| 4 | 202506452 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 110 (cento e dez) | Faculdade do Comércio de São Paulo | INSTITUTO PAULISTA DE ENSINO SUPERIOR DO COMERCIO S.A - IPESC | ASSOCIAÇÃO COMERCIAL DE SÃO PAULO, 51, RUA BOA VISTA Nº 51 - 1º, 2º, 3º E 7º ANDAR, CENTRO, SÃO PAULO/SP |
+| 5 | 202506891 | ENGENHARIA DE SOFTWARE (Bacharelado) | 25 (vinte e cinco) | Faculdade Donaduzzi | ASSOCIACAO DE ENSINO, PESQUISA E EXTENSAO BIOPARK | AVENIDA MAX PLANCK, 3797, , BIOPARK, TOLEDO/PR |
+| 6 | 202505668 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 60 (sessenta) | Faculdade Estácio de Carapicuíba | SOCIEDADE EDUCACIONAL ATUAL DA AMAZONIA LTDA | AV. FRANCISCO PIGNATARI, 630, , VILA GUSTAVO CORREIA, CARAPICUÍBA/SP |
+| 7 | 202418713 | ODONTOLOGIA (Bacharelado) | 100 (cem) | FACULDADE FASIPE DE RONDONÓPOLIS | UNIAO DAS FACULDADES FASIPE LTDA | RUA FLÁVIO ALVES DE MEDEIROS, 64, SEDE, PARQUE SAGRADA FAMÍLIA, RONDONÓPOLIS/MT |
+| 8 | 202517227 | CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL (Bacharelado) | 100 (cem) | FACULDADE IBMEC SÃO PAULO | IBMEC EDUCACIONAL LTDA. | RUA PADRE DE CARVALHO, 661, , PINHEIROS, SÃO PAULO/SP |
+| 9 | 202517228 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 112 (cento e doze) | FACULDADE IBMEC SÃO PAULO | IBMEC EDUCACIONAL LTDA. | RUA PADRE DE CARVALHO, 661, , PINHEIROS, SÃO PAULO/SP |
+| 10 | 202417390 | ENFERMAGEM (Bacharelado) | 100 (cem) | Faculdade IDOR de Ciências Médicas | REDE D'OR SAO LUIZ S.A. | RUA DINIZ CORDEIRO, 30, 3º ANDAR, BOTAFOGO, RIO DE JANEIRO/RJ |
+| 11 | 202506858 | ARQUITETURA E URBANISMO (Bacharelado) | 150 (cento e cinquenta) | FACULDADE LUCIANO FEIJÃO | CENTRO SOCIAL CLODOVEU ARRUDA | RUA JOSÉ LOPES PONTE, 400, , DOM EXPEDITO, SOBRAL/CE |
+| 12 | 202506863 | ODONTOLOGIA (Bacharelado) | 150 (cento e cinquenta) | FACULDADE LUCIANO FEIJÃO | CENTRO SOCIAL CLODOVEU ARRUDA | RUA JOSÉ LOPES PONTE, 400, , DOM EXPEDITO, SOBRAL/CE |
+| 13 | 202418335 | ENFERMAGEM (Bacharelado) | 160 (cento e sessenta) | FACULDADE MACÊDO DE AMORIM | AMORIM ENSINO TECNICO E SUPERIOR LTDA | RUA CONSELHEIRO SEVERINO FRANCISCO ALVES, 174, ANEXO 75, ANEXO 153, ANEXO 169, ANEXO 174, ANEXO 2, LIVRAMENTO, VITÓRIA DE SANTO ANTÃO/PE |
+| 14 | 202419849 | PSICOLOGIA (Bacharelado) | 100 (cem) | Faculdade Presidente Antônio Carlos de Aimorés | INSTITUTO EDUCACIONAL ALFAUNIPAC S.A. | RUA PEDRO NOLASCO, 1376, CENTRO, AIMORÉS/MG |
+| 15 | 202504632 | PSICOLOGIA (Bacharelado) | 80 (oitenta) | FACULDADE SÃO FRANCISCO DA PARAÍBA | VERA CLAUDINO EDUCACAO SUPERIOR LIMITADA - ME | AVENIDA BRASIL, S/N, RODOVIA 393, JARDIM ADALGISA, CAJAZEIRAS/PB |
+| 16 | 202522092 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 100 (cem) | FACULDADE SERRA DO CARMO | SOCIEDADE DE ENSINO SERRA DO CARMO LTDA | QUADRA 103 NORTE RUA DE PEDESTRE NO-03, 26, CENTRO, PALMAS/TO |
+| 17 | 202506447 | ENFERMAGEM (Bacharelado) | 120 (cento e vinte) | Faculdade Serra Dourada - Altamira | TRIVENTO EDUCACAO LTDA | AVENIDA NOVO HORIZONTE, 783, , CIDADE NOVA, ALTAMIRA/PA |
+| 18 | 202506263 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | Faculdade Serra Dourada - Lorena | TRIVENTO EDUCACAO LTDA | ESTRADA CHIQUITO DE AQUINO, 46, LOJA EXTERNA 4, SANTA LUCRÉCIA, LORENA/SP |
+| 19 | 202417479 | PSICOLOGIA (Bacharelado) | 100 (cem) | Faculdades Integradas Aparício Carvalho Vilhena | SOCIEDADE DE PESQUISA, EDUCACAO E CULTURA DR. APARICIO CARVALHO DE MORAES LTDA | RUA MARQUES HENRIQUE, 625, SETOR 1, CENTRO (NOVA VILHENA), VILHENA/RO |
+| 20 | 202506343 | ENFERMAGEM (Bacharelado) | 120 (cento e vinte) | Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem | INSTITUTO PATER DE EDUCACAO E CULTURA | RUA BOCAIÚVA, 82, UNIDADE SEDE, MORADA DA COLINA, UBERLÂNDIA/MG |
+| 21 | 202506650 | FISIOTERAPIA (Bacharelado) | 120 (cento e vinte) | Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem | INSTITUTO PATER DE EDUCACAO E CULTURA | RUA BOCAIÚVA, 82, UNIDADE SEDE, MORADA DA COLINA, UBERLÂNDIA/MG |
+| 22 | 202418182 | ENFERMAGEM (Bacharelado) | 75 (setenta e cinco) | FACULDADE UNISE | UNISE EDUCACIONAL LTDA | RUA XV DE NOVEMBRO, 1609, CAMPUS XV DE NOVEMBRO, CENTRO, CAMPO LARGO/PR |
+| 23 | 202419812 | ODONTOLOGIA (Bacharelado) | 40 (quarenta) | FACULDADE UNIVR | SISTEMA IMOBILIARIO DE SERGIPE UNISES LTDA | TRAVESSA TIBÚRCIO JOSE DO NASCIMENTO, 21, , SANTA RITA, TOBIAS BARRETO/SE |
+| 24 | 202520616 | SISTEMAS DE INFORMAÇÃO (Bacharelado) | 35 (trinta e cinco) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO - IFMT | INSTITUTO FEDERAL DE MATO GROSSO | ESTRADA PARA VILA MATÃO, BR 473, S/N, ESTRADA VILA MATÃO, ZONA RURAL, PONTES E LACERDA/MT |
+| 25 | 202523361 | ENGENHARIA MECÂNICA (Bacharelado) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SANTA CATARINA | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SANTA CATARINA | RUA DOS IMIGRANTES, 445, , RAU, JARAGUÁ DO SUL/SC |
+| 26 | 202504998 | ENGENHARIA DE SOFTWARE (Bacharelado) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIENCIA E TECNOLOGIA DE SÃO PAULO | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO | RODOVIA WASHINGTON LUÍS KM 235, S/ N, IFSP - CAMPUS SÃO CARLOS, JARDIM GUANABARA, SÃO CARLOS/SP |
+| 27 | 202522904 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 60 (sessenta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | RUA ANTÔNIO TEIXEIRA BENEVIDES, 001, , COLIBRIS, TAUÁ/CE |
+| 28 | 202506279 | ENGENHARIA ELÉTRICA (Bacharelado) | 25 (vinte e cinco) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | ALAMEDA JOSÉ QUINTINO , S/N, PRADO, CEDRO/CE |
+| 29 | 202507354 | GESTÃO AMBIENTAL (Tecnológico) | 60 (sessenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO DE JANEIRO | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO RIO DE JANEIRO | RUA JOSÉ PINTO DE MACEDO, SN, , PRAINHA, ARRAIAL DO CABO/RJ |
+| 30 | 202522202 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 30 (trinta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO SUL | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO RIO GRANDE DO SUL | RUA DOMINGOS ZANELLA, 104, , TRÊS VENDAS, ERECHIM/RS |
+
+Republicada por ter saído, no DOU Nº 146, de 05/08/2026, Seção 1, páginas 66 e 67, com incorreção no original.

@@ -1,0 +1,56 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 366, DE 29 de julho de 2026"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "366"
+data: 2026-07-29
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 30/07/2026, seção 1, p. 53"
+data_publicacao: 2026-07-30
+edicao: "142"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-366-de-29-de-julho-de-2026-722126008"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 366, DE 29 de julho de 2026
+
+PORTARIA SERES/MEC Nº 366, DE 29 de julho de 2026
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 12.769, de 5 de dezembro de 2025, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO(Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202321740 | LETRAS - INGLÊS (Licenciatura) | 28 (vinte e oito) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | AVENIDA SENADOR SALGADO FILHO, 3000, CAMPUS UNIVERSITÁRIO, LAGOA NOVA, NATAL/RN |
+| 2 | 202321807 | CIÊNCIAS BIOLÓGICAS (Licenciatura) | 30 (trinta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 3 | 202321808 | CIÊNCIAS SOCIAIS (Bacharelado) | 83 (oitenta e três) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 4 | 202321809 | CIÊNCIAS SOCIAIS (Licenciatura) | 82 (oitenta e duas) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 5 | 202321810 | FILOSOFIA (Bacharelado) | 30 (trinta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 6 | 202321811 | FILOSOFIA (Licenciatura) | 40 (quarenta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 7 | 202321814 | FÍSICA (Licenciatura) | 70 (setenta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS&lt;br/>AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS&lt;br/> |
+| 8 | 202321816 | GEOGRAFIA (Licenciatura) | 32 (trinta e duas) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 9 | 202321815 | GEOGRAFIA (Bacharelado) | 31 (trinta e uma) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 10 | 202321818 | HISTÓRIA (Licenciatura) | 70 (setenta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 11 | 202321817 | HISTÓRIA (Bacharelado) | 40 (quarenta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 12 | 202321819 | MÚSICA (Licenciatura) | 12 (doze) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | RUA SENHOR DOS PASSOS, 248, PRÉDIO 13201, CENTRO, PORTO ALEGRE/RS |
+| 13 | 202321820 | QUÍMICA (Bacharelado) | 30 (trinta) | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL | AV. BENTO GONÇALVES, 9500, , AGRONOMIA, PORTO ALEGRE/RS |
+| 14 | 202326151 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 70 (setenta) | UNIVERSIDADE FEDERAL FLUMINENSE | UNIVERSIDADE FEDERAL FLUMINENSE | RUA RECIFE QUADRA 7, S/N, LOTE 1 A 7, JARDIM BELA VISTA, RIO DAS OSTRAS/RJ |
+| 15 | 202321795 | QUÍMICA (Licenciatura) | 40 (quarenta) | UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO | UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO | RODOVIA BR 465 - KM 7, S/N, , CAMPUS UNIVERSITÁRIO, SEROPÉDICA/RJ&lt;br/>RODOVIA BR 465 - KM 7, S/N, , CAMPUS UNIVERSITÁRIO, SEROPÉDICA/RJ&lt;br/> |
+| 16 | 202321793 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 200 (duzentas) | UNIVERSIDADE FUMEC | FUNDACAO MINEIRA DE EDUCACAO E CULTURA | RUA COBRE, 200, CAMPUS I BELO HORIZONTE, CRUZEIRO, BELO HORIZONTE/MG |
+| 17 | 202321723 | LETRAS - INGLÊS (Licenciatura) | 100 (cem) | UNIVERSIDADE LA SALLE | SOCIEDADE PORVIR CIENTIFICO | AV. VICTOR BARRETO, 2288, , CENTRO, CANOAS/RS |
+| 18 | 202321736 | LETRAS - LÍNGUA PORTUGUESA (Licenciatura) | 160 (cento e sessenta) | UNIVERSIDADE LA SALLE | SOCIEDADE PORVIR CIENTIFICO | AV. VICTOR BARRETO, 2288, , CENTRO, CANOAS/RS |
+| 19 | 202326029 | CIÊNCIAS BIOLÓGICAS (Licenciatura) | 500 (quinhentas) | UNIVERSIDADE NILTON LINS | CENTRO DE ENSINO SUPERIOR NILTON LINS | AV. PROF. NILTON LINS, 3259, , PARQUE DAS LARANJEIRAS, MANAUS/AM |
+| 20 | 202326057 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 560 (quinhentas e sessenta) | UNIVERSIDADE NOVE DE JULHO | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | RUA ADOLFO PINTO, 109, , BARRA FUNDA, SÃO PAULO/SP |
+| 21 | 202326101 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 630 (seiscentas e trinta) | UNIVERSIDADE NOVE DE JULHO | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | RUA VERGUEIRO, 235, , LIBERDADE, SÃO PAULO/SP |
+| 22 | 202326104 | CIÊNCIAS BIOLÓGICAS (Bacharelado) | 350 (trezentas e cinquenta) | UNIVERSIDADE NOVE DE JULHO | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | RUA ADOLFO PINTO, 109, , BARRA FUNDA, SÃO PAULO/SP |

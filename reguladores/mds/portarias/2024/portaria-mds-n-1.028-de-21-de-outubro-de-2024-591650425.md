@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA MDS Nº 1.028, DE 21 DE OUTUBRO DE 2024"
+orgao: "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "1028"
+data: 2024-10-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/10/2024, seção 1, p. 34"
+data_publicacao: 2024-10-22
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mds-n-1.028-de-21-de-outubro-de-2024-591650425"
+sha256_html_fonte: 789630b6162fa9dba4394c3784cd481753ad230648a31b16bd7c04bba3b2b4d8
+baixado_em: 2026-10-16
+---
+# PORTARIA MDS Nº 1.028, DE 21 DE OUTUBRO DE 2024
+
+PORTARIA MDS Nº 1.028, DE 21 DE OUTUBRO DE 2024
+
+Permuta Função Comissionada Executiva por Cargo Comissionado Executivo de mesmo nível e categoria.
+
+O MINISTRO DE ESTADO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME substituto, no uso das atribuições que lhe conferem o artigo 87, parágrafo único, incisos I e II, da Constituição Federal; e tendo em vista o disposto no artigo 27 da Lei nº 14.600, de 19 de junho de 2023, no Decreto nº 8.851, de 20 de setembro de 2016, no Decreto nº 11.392, de 20 de janeiro de 2023, alterado pelos Decretos nº 11.634, de 14 de agosto de 2023 e nº 12.099, de 4 de julho de 2024 e no artigo 12 do Decreto nº 10.829, de 5 de outubro de 2021, resolve:
+
+**Art. 1º** Fica efetivada a seguinte permuta na estrutura de Cargos em Comissão e das Funções de Confiança deste Ministério, conforme abaixo:
+
+I - uma Função Comissionada Executiva - FCE 1.10, de Coordenador, da Coordenação de Articulação Intersetorial, por um Cargo Comissionado Executivo - CCE 1.10, de Coordenador, da Coordenação de Apoio Técnico-Administrativo, ambos da Coordenação-Geral de Articulação Intersetorial do Departamento de Resolução de Auxílios Descontinuados e Apoio à Rede Federal de Fiscalização do Programa Bolsa Família e Cadastro Único (DADERF).
+
+**Art. 2º** O anexo à Portaria MDS nº 1.013, de 8 de agosto de 2024, passa a vigorar com as alterações constantes do Anexo I.
+
+**Art. 3º** O normativo que instituir o Regimento Interno do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome refletirá as alterações do Anexo I desta Portaria no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério.
+
+**Art. 4º** Esta Portaria entra em vigor dois dias úteis após a data de sua publicação.
+
+OSMAR RIBEIRO DE ALMEIDA JÚNIOR
+
+## ANEXO I
+
+ALTERAÇÕES AO DETALHAMENTO DAS UNIDADES ADMINISTRATIVAS QUE INTEGRAM A ESTRUTURA REGIMENTAL DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME - MDS, CONFORME PORTARIA MDS Nº 1.013, DE 8 DE AGOSTO DE 2024, E ALTERAÇÕES
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="4"><p>DETALHAMENTO DAS UNIDADES ADMINISTRATIVAS QUE INTEGRAM A ESTRUTURA REGIMENTAL DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME - MDS, CONFORME PORTARIA MDS Nº 1.013, DE 8 DE AGOSTO DE 2024, E ALTERAÇÕES</p></td>      <td rowspan="1" colspan="4"><p>DETALHAMENTO DAS UNIDADES ADMINISTRATIVAS QUE INTEGRAM A ESTRUTURA REGIMENTAL DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME - MDS, CONFORME PORTARIA MDS Nº 1.013, DE 8 DE AGOSTO DE 2024, E ALTERAÇÕES, APÓS PERMUTA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>SIGLA</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CCE/FCE</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>SIGLA</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CCE/FCE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME</p></td>      <td rowspan="1" colspan="1"><p>MDS</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME</p></td>      <td rowspan="1" colspan="1"><p>MDS</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SECRETARIA-EXECUTIVA</p></td>      <td rowspan="1" colspan="1"><p>SE</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>SECRETARIA-EXECUTIVA</p></td>      <td rowspan="1" colspan="1"><p>SE</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DEPARTAMENTO DE RESOLUÇÃO DE AUXÍLIOS DESCONTINUADOS E APOIO À REDE FEDERAL DE FISCALIZAÇÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO</p></td>      <td rowspan="1" colspan="1"><p>DADERF</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>DEPARTAMENTO DE RESOLUÇÃO DE AUXÍLIOS DESCONTINUADOS E APOIO À REDE FEDERAL DE FISCALIZAÇÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO</p></td>      <td rowspan="1" colspan="1"><p>DADERF</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Articulação Intersetorial</p></td>      <td rowspan="1" colspan="1"><p>CGAI</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Articulação Intersetorial</p></td>      <td rowspan="1" colspan="1"><p>CGAI</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação de Apoio Técnico-Administrativo</p></td>      <td rowspan="1" colspan="1"><p>CADM</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>Coordenação de Apoio Técnico-Administrativo</p></td>      <td rowspan="1" colspan="1"><p>CADM</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação de Articulação Intersetorial</p></td>      <td rowspan="1" colspan="1"><p>CAIN</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>Coordenação de Articulação Intersetorial</p></td>      <td rowspan="1" colspan="1"><p>CAIN</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>    </tbody>   </table>

@@ -1,0 +1,28 @@
+---
+titulo: "RESOLUÇÃO CUNI Nº 2.740, de 12 DE AGOSTO DE 2024"
+orgao: "Ministério da Educação/Fundação Universidade Federal de Ouro Preto/Conselho Universitário"
+tipo: "Resolução"
+numero: "2740"
+data: 2024-08-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/08/2024, seção 1, p. 24"
+data_publicacao: 2024-08-15
+edicao: "157"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cuni-n-2.740-de-12-de-agosto-de-2024-578440177"
+sha256_html_fonte: e51645f9bfd5dc92517ec6f43b2ee08c9704ecd89c39e39442a3bdadba38ef11
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO CUNI Nº 2.740, de 12 DE AGOSTO DE 2024
+
+RESOLUÇÃO CUNI Nº 2.740, de 12 DE AGOSTO DE 2024
+
+O Conselho Universitário da Universidade Federal de Ouro Preto, em sua Reunião Extraordinária, realizada em 12 de agosto de 2024, no uso de suas atribuições legais, considerando o OFÍCIO CPMP/PROGEP/REITORIA-UFOP Nº 4957/2024 e o Processo UFOP n° 23109.009259/2024-99, resolve: Art. 1º Homologar o resultado final do Concurso Público para o provimento de cargos da carreira Técnico-Administrativa em Educação, objeto do EDITAL PROGEP Nº 87, de 21 de dezembro de 2023, conforme disposto:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="4"><p>Cargo: 108 - Técnico em Enfermagem</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>CAMPUS: OURO PRETO/MARIANA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>MODALIDADE: AMPLA CONCORRÊNCIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INSCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>NOME</p></td>      <td rowspan="1" colspan="1"><p>PONTUAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CLASSIFICAÇÃO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103302</p></td>      <td rowspan="1" colspan="1"><p>JULIA GOIS CARVALHO</p></td>      <td rowspan="1" colspan="1"><p>92,00</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>102511</p></td>      <td rowspan="1" colspan="1"><p>BRUNO LUIZ SIQUEIRA</p></td>      <td rowspan="1" colspan="1"><p>88,00</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103614</p></td>      <td rowspan="1" colspan="1"><p>MARIA DA CONCEICAO RODRIGUES</p></td>      <td rowspan="1" colspan="1"><p>86,00</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>100458</p></td>      <td rowspan="1" colspan="1"><p>ANGELA CRISTINA DE MELO BATISTA</p></td>      <td rowspan="1" colspan="1"><p>86,00</p></td>      <td rowspan="1" colspan="1"><p>4º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>102420</p></td>      <td rowspan="1" colspan="1"><p>KATTSON STALONE CORREIA</p></td>      <td rowspan="1" colspan="1"><p>86,00</p></td>      <td rowspan="1" colspan="1"><p>5º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103096</p></td>      <td rowspan="1" colspan="1"><p>MAYCON DE BRITO IZIDORO DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>84,00</p></td>      <td rowspan="1" colspan="1"><p>6º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>101707</p></td>      <td rowspan="1" colspan="1"><p>FELIPE AUGUSTO FERREIRA</p></td>      <td rowspan="1" colspan="1"><p>84,00</p></td>      <td rowspan="1" colspan="1"><p>7º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103812</p></td>      <td rowspan="1" colspan="1"><p>GABRIELA GAMARANO NOVAIS</p></td>      <td rowspan="1" colspan="1"><p>84,00</p></td>      <td rowspan="1" colspan="1"><p>8º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>100513</p></td>      <td rowspan="1" colspan="1"><p>YASMIN RIBEIRO DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>84,00</p></td>      <td rowspan="1" colspan="1"><p>9º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103687</p></td>      <td rowspan="1" colspan="1"><p>JUVANIR ANTONIO DE OLIVEIRA</p></td>      <td rowspan="1" colspan="1"><p>82,00</p></td>      <td rowspan="1" colspan="1"><p>10º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103388</p></td>      <td rowspan="1" colspan="1"><p>REGINA ESTELLA KATO</p></td>      <td rowspan="1" colspan="1"><p>82,00</p></td>      <td rowspan="1" colspan="1"><p>11º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>MODALIDADE: NEGROS (PRETOS E PARDOS)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>103687</p></td>      <td rowspan="1" colspan="1"><p>JUVANIR ANTONIO DE OLIVEIRA</p></td>      <td rowspan="1" colspan="1"><p>82,00</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>MODALIDADE: PcD (Pessoa com Deficiência)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>Não houve candidatos aprovados.</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** O prazo de validade do Concurso Público de Provas e Títulos, tratado nesta Resolução, será de dois anos, prorrogável por igual período, contado a partir da data de publicação da homologação do concurso no Diário Oficial da União, conforme o disposto no item 1.5 do Edital PROGEP 87/2023.
+
+Cláudia Aparecida Marliére de Lima
+
+Presidente do Conselho

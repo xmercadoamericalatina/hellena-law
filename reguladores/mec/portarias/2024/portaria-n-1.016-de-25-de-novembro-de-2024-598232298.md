@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 1.016, DE 25 DE NOVEMBRO DE 2024"
+orgao: "Ministério da Educação/Fundo Nacional de Desenvolvimento da Educação"
+tipo: "Portaria"
+numero: "1016"
+data: 2024-11-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/11/2024, seção 1, p. 232"
+data_publicacao: 2024-11-27
+edicao: "228"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.016-de-25-de-novembro-de-2024-598232298"
+sha256_html_fonte: fa7110c6c5318ecc0402317207f639f3f1a40557c53cdd41dea8e449e0245796
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 1.016, DE 25 DE NOVEMBRO DE 2024
+
+PORTARIA Nº 1.016, DE 25 DE NOVEMBRO DE 2024
+
+Publica o resultado do PRÊMIO CAE DE PARTICIPAÇÃO SOCIAL - EDIÇÃO ESPECIAL: COMEMORAÇÃO DOS 30 ANOS DO CAE NO BRASIL, contendo os 5 (cinco) Relatos de Experiência de cada região brasileira selecionados pela Comissão Avaliadora.
+
+A PRESIDENTE DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO (FNDE), no uso das atribuições que lhe foram conferidas pelo Anexo I, do art. 17, do Decreto nº 11.196, de 13 de setembro de 2022, publicado no Diário Oficial da União em 14 setembro de 2022, e art. 90 do Regimento Interno, aprovado pela Portaria nº 742, de 06 de dezembro de 2022, publicada no Diário Oficial da União em 09 de dezembro de 2022, e
+
+CONSIDERANDO o contido na Lei nº 11.947, de 16 de junho de 2009, que dispõe sobre o atendimento da alimentação escolar;
+
+CONSIDERANDO o contido na Resolução do Conselho Deliberativo do Fundo Nacional de Desenvolvimento da Educação - CD/FNDE nº 06, de 08 de maio de 2020, que dispõe sobre o atendimento da alimentação escolar aos alunos da educação básica no âmbito do Programa Nacional de Alimentação Escolar - PNAE;
+
+CONSIDERANDO o reconhecimento e valorização do papel dos Conselheiros e Conselheiras de Alimentação Escolar e o estímulo às ações afirmativas do controle social no âmbito do Programa Nacional de Alimentação Escolar - PNAE;
+
+CONSIDERANDO o disposto no edital do Prêmio CAE de Participação Social - Edição Especial: Comemoração dos 30 anos do CAE no Brasil que trata da seleção e premiação de iniciativas/ações de destaque que fortalecem a atuação do controle social do Programa Nacional de Alimentação Escolar, realizado pelos Conselhos de Alimentação Escolar (CAE) municipais, estaduais e do Distrito Federal;
+
+CONSIDERANDO o constante dos autos do processo nº 23034.038233/2023-98, resolve:
+
+**Art. 1º** Publicar o resultado do Prêmio CAE de Participação Social - Edição Especial: Comemoração dos 30 anos do CAE no Brasil, definido pela Comissão Avaliadora encarregada de avaliar os Relatos de Experiência e atribuir pontuação conforme os critérios de avaliação definidos no item 3.3 do referido Edital.
+
+**Parágrafo único.** Foram selecionados pela Comissão Avaliadora os 05 (cinco) melhores Relatos de Experiência por categoria regional (Norte, Nordeste, Centro-Oeste, Sudeste e Sul), totalizando 25 (vinte e cinco) Relatos de Experiência ganhadores.
+
+**Art. 2º** A Comissão Avaliadora do Prêmio CAE de Participação Social - Edição Especial: Comemoração dos 30 anos do CAE no Brasil definiu os seguintes Relatos de Experiência selecionados:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>CAE</p></td>      <td rowspan="1" colspan="1"><p>RELATO DE EXPERIÊNCIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Região Centro-Oeste</p></td>      <td rowspan="1" colspan="1"><p>Título</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Nova Santa Helena/MT</p></td>      <td rowspan="1" colspan="1"><p>Clube de Saúde: Uma iniciativa inovadora para promoção da Educação Alimentar e Nutricional na comunidade Escolar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Morrinhos/GO</p></td>      <td rowspan="1" colspan="1"><p>A Visita do Conselho de Alimentação Escolar em conformidade com a Resolução nº 06 de maio de 2020</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Jataí/GO</p></td>      <td rowspan="1" colspan="1"><p>Relato de Experiência do CAE de Jataí/GO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Alta Floresta/MT</p></td>      <td rowspan="1" colspan="1"><p>Agricultura Familiar na alimentação escolar em Alta Floresta/MT</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Paranaíba/MS</p></td>      <td rowspan="1" colspan="1"><p>CAE em ação: intervenções necessárias para mudanças nos hábitos alimentares</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Região Norte</p></td>      <td rowspan="1" colspan="1"><p>Título</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Estadual/RO</p></td>      <td rowspan="1" colspan="1"><p>Relato de Experiência</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Moju/PA</p></td>      <td rowspan="1" colspan="1"><p>Relato de Experiência</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Iranduba/AM</p></td>      <td rowspan="1" colspan="1"><p>A importância do mapeamento dos agricultores que fornecem a agricultura familiar e o trabalho relevante do CAE-Iranduba, para o desenvolvimento desse processo no município</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ferreira Gomes/AP</p></td>      <td rowspan="1" colspan="1"><p>Relato de Experiência do I Fórum de Alimentação Escolar do Município de Ferreira Gomes/AP - Legislação para todos!</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Mâncio Lima/AP</p></td>      <td rowspan="1" colspan="1"><p>Atividades Exitosas do Conselho de Alimentação Escolar do Município de Mâncio Lima, Acre</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Região Nordeste</p></td>      <td rowspan="1" colspan="1"><p>Título</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Areia/PB</p></td>      <td rowspan="1" colspan="1"><p>Aproveitamento Integral da Banana</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Dormentes/PE</p></td>      <td rowspan="1" colspan="1"><p>Enquete de opinião para estudantes sobre a alimentação escolar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Jequié/BA</p></td>      <td rowspan="1" colspan="1"><p>Aplicação de teste de aceitabilidade como vetor de melhoria da alimentação escolar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Salvador/BA</p></td>      <td rowspan="1" colspan="1"><p>Articulações que transformam a Agricultura Familiar na Escola: Uma Experiência de Sucesso</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Timon/MA</p></td>      <td rowspan="1" colspan="1"><p>Alimentação escolar saudável é direito de todos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Região Sudeste</p></td>      <td rowspan="1" colspan="1"><p>Título</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>São Gotardo/MG</p></td>      <td rowspan="1" colspan="1"><p>Conselheiros mirins: práticas coletivas, ações positivas e hábitos saudáveis</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Vitória/ES</p></td>      <td rowspan="1" colspan="1"><p>Formação para agentes do PNAE pelo CAE: integração que gera benefícios</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Conselheiro Lafaiete/MG</p></td>      <td rowspan="1" colspan="1"><p>Ressignificando as visitas escolares na rede de ensino do município de Conselheiro Lafaiete-MG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Limeira/SP</p></td>      <td rowspan="1" colspan="1"><p>A implantação do relatório digital de visitas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Estadual/RJ</p></td>      <td rowspan="1" colspan="1"><p>O CAE e o controle social integral da política pública</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Região Sul</p></td>      <td rowspan="1" colspan="1"><p>Título</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Cambé/PR</p></td>      <td rowspan="1" colspan="1"><p>I Encontro com o CAE: diálogo com as famílias sobre seletividade alimentar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Realeza/PR</p></td>      <td rowspan="1" colspan="1"><p>Caderno de Receitas Sustentáveis: um projeto de aproveitamento integral dos alimentos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Massaranduba/SC</p></td>      <td rowspan="1" colspan="1"><p>De onde vem a merenda?</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Cruz Alta/RS</p></td>      <td rowspan="1" colspan="1"><p>Relato de experiência: Concurso Bienal de Culinária da Alimentação Escolar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Maravilha/SC</p></td>      <td rowspan="1" colspan="1"><p>Centro de alimentos e culinária escolar</p></td>     </tr>    </tbody>   </table>
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+FERNANDA MARA DE OLIVEIRA MACEDO CARNEIRO PACOBAHYBA

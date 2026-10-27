@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 817, DE 29 DE NOVEMBRO DE 2024"
+orgao: "Ministério do Desenvolvimento Agrário e Agricultura Familiar/Instituto Nacional de Colonização e Reforma Agrária"
+tipo: "Portaria"
+numero: "817"
+data: 2024-11-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2024, seção 1, p. 99"
+data_publicacao: 2024-12-02
+edicao: "231"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-817-de-29-de-novembro-de-2024-598866636"
+sha256_html_fonte: 151defa4be751633da92eab00d5ae84fc583fe5f5bc1e7bd489876a2d97a4d62
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 817, DE 29 DE NOVEMBRO DE 2024
+
+PORTARIA Nº 817, DE 29 DE NOVEMBRO DE 2024
+
+Retifica área de Projeto de Assentamento.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, no uso das atribuições que lhe são conferidas pelo Decreto nº 11.232, de 10 de outubro de 2022, com a redação dada pelo Decreto nº 12.171, de 09 de setembro de 2024, combinado com o art. 104 do Regimento Interno da Autarquia, aprovado pela Portaria nº 2.541, de 28 de dezembro de 2022, publicada no Diário Oficial da União do dia 30 de dezembro de 2022;
+
+Considerando os órgãos da Superintendência Regional do Sudeste do Pará SR(PA/SE) e da Diretoria de Obtenção de Terras (DT), que procederam a análise do processo administrativo nº 54102.002789/1997-39 e decidiram pela regularidade da retificação de informações na PORTARIA/INCRA/SR(27)/ENº 66, DE 10 DE OUTUBRO DE 1997, publicada no Diário Oficial da União nº 197, de 13/10/1997, Seção I, pg. 22978, que criou o Projeto de Assentamento TRÊS RIOS, código SIPRA Nº MB0117000, localizado no município de Rio Maria, no Estado do Pará; e
+
+Considerando as informações do Projeto de Assentamento TRÊS RIOS e a base cartográfica da SR(PA/SE), Nota Técnica 2996 (22225813), resolve:
+
+**Art. 1º** Retificar a área de 3.147,1338 ha (três mil, cento e quarenta e sete hectares, treze ares e trinta e oito centiares), constante da PORTARIA/INCRA/SR(27)/ENº 66, DE 10 DE OUTUBRO DE 1997, publicada no Diário Oficial da União nº 197, de 13/10/1997, Seção I, pg. 22978, que criou o Projeto de Assentamento TRÊS RIOS, código SIPRA Nº MB0117000, localizado no município de Rio Maria, no Estado do Pará, para a área de 5.240,0813 ha (cinco mil, duzentos e quarenta hectares, oito ares e treze centiares), em conformidade com a base cartográfica da SR(PA/SE).
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+CÉSAR FERNANDO SCHIAVON ALDRIGHI

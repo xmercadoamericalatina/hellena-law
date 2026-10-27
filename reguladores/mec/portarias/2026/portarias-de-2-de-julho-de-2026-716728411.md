@@ -1,0 +1,773 @@
+---
+titulo: "PORTARIAS DE 2 DE JULHO DE 2026"
+orgao: "Ministério da Educação/Fundação Universidade do Amazonas"
+tipo: "Portaria"
+numero: ""
+data: 2026-07-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/07/2026, seção 1, p. 117"
+data_publicacao: 2026-07-03
+edicao: "123"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-2-de-julho-de-2026-716728411"
+baixado_em: 2026-10-15
+---
+# PORTARIAS DE 2 DE JULHO DE 2026
+
+PORTARIAS DE 2 DE JULHO DE 2026
+
+A REITORA DA UNIVERSIDADE FEDERAL DO AMAZONAS, usando das atribuições estatutárias, conferidas por meio do Decreto de 1º de julho de 2025, publicado no Diário Oficial da União de 2 de julho de 2025, resolve:
+
+Nº 1.401 - Art. 1º HOMOLOGAR o resultado do Concurso Público para provimento de cargos Técnico-Administrativos em Educação, objeto dos Editais nº. 03/2026 e nº. 04/2026, publicados no DOU em 11/02/2026, retificados em 04/03/2026, 20/03/2026, 17/04/2026, 24/04/2026 e 02/06/2026:
+
+NÍVEL MÉDIO (NÍVEL DE CLASSIFICAÇÃO D)
+
+| NM22 - ASSISTENTE EM ADMINISTRAÇÃO - HUMAITÁ |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PCD² | LUIS EDUARDO MIRANDA DUARTE |
+| 2º | PPP | MESSIAS SOARES DA SILVA NETO |
+| 3º | AC | ERIKA SILVA DE ALBUQUERQUE |
+| 4º | AC | REBECA NICOLE MUNIZ DE MORAES TORRES |
+| 5º | AC | SAMILA KAROLINE SILVA NASCIMENTO |
+| 6º | PPP | MATEUS SANTOS CARDOSO |
+| 7º | AC | FERNANDO HENRIQUE DE OLIVEIRA BRITO |
+| 8º | AC | STHEPHANIE MENDES AZULAY |
+| 9º | AC | ANGEL FELIX BARBOZA |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | ERIKA SILVA DE ALBUQUERQUE |  |
+| 2º | MESSIAS SOARES DA SILVA NETO |  |
+| 3º | REBECA NICOLE MUNIZ DE MORAES TORRES |  |
+| 4º | SAMILA KAROLINE SILVA NASCIMENTO |  |
+| 5º | FERNANDO HENRIQUE DE OLIVEIRA BRITO |  |
+| 6º | STHEPHANIE MENDES AZULAY |  |
+| 7º | ANGEL FELIX BARBOZA |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | MESSIAS SOARES DA SILVA NETO |  |
+| 2º | MATEUS SANTOS CARDOSO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | LUIS EDUARDO MIRANDA DUARTE |  |
+
+| NM01 - ASSISTENTE EM ADMINISTRAÇÃO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PQUI² | FRANCIEL LIMA RIBEIRO |
+| 2º | PPP | LIVIA CRISTINA REIS E OLIVEIRA |
+| 3º | AC | KAREN SOFIA ARAUJO VIANA |
+| 4º | AC | LEONARDO ROCHA NASCIMENTO DOS SANTOS |
+| 5º | PCD | GABRIEL MORAES DE QUEIROZ |
+| 6º | PPP | THIAGO HENRIK DO CARMO SANTOS |
+| 7º | AC | LUANA DE LIMA BRASIL |
+| 8º | AC | GLENDA MARTINS DIAS |
+| 9º | AC | AMANDA GALDINO DA SILVA |
+| 10º | PPP | JOAO VITOR DE SOUZA LIMA |
+| 11º | AC | JULIANA SURIMA BASTOS MAGALHAES |
+| 12º | AC | SALOMAO MATHEUS BRANCO DA ROCHA |
+| 13º | AC | PAULO TIAGO PINHEIRO SALES |
+| 14º | PPP | SARA DE LIMA FERREIRA |
+| 15º | AC | JEANE DOS SANTOS MACHADO BATISTA |
+| 16º | AC | OTAVIO AUGUSTO CARMO DE MELO |
+| 17º | PIND | PEDRO FERREIRA DA SILVA FILHO |
+| 18º | PPP | WILKER MAIA MOURAO JUNIOR |
+| 19º | AC | ANTONIO ROQUE PEREIRA JUNIOR |
+| 20º | AC | EDIVANIA FONSECA DOS SANTOS |
+| 21º | PCD | BRENDA COSTA LIMA |
+| 22º | PPP | THALITA MACEDO DO NASCIMENTO |
+| 23º | AC | MARIA LARISSA FREITAS FURTADO |
+| 24º | AC | KEMILLY CARVALHO MARQUES FEIJO |
+| 25º | AC | JOAN BOHADANA BARROSO |
+| 26º | PPP | ALYNE DOS SANTOS BARBOSA |
+| 27º | AC | ADRIELLY SALES DE LIMA |
+| 28º | AC | VICTOR HOLYVERS MORAIS DE OLIVEIRA |
+| 29º | AC | BRUNO ISRAEL DIAS SILVA |
+| 30º | PPP | CÉSAR GABRIEL LEDESMA VEGAS |
+| 31º | AC | BRUNA MOREIRA CARNEIRO ROMANI |
+| 32º | AC | JOICE LIADNE NONATO BRAGA |
+| 33º | AC | CHRISTIAN PAULO TAVARES COUTINHO |
+| 34º | PPP | NATALIA BRUCE PINHEIRO |
+| 35º | AC | FELIPE JAIRO NOVO SIMAS NETO |
+| 36º | AC | SOFIA DE NORONHA PONTES |
+| 37º | AC | VINICIUS MELO DE LIMA |
+| 38º | PPP | LEYDIANE ARAUJO DA SILVA |
+| 39º | AC | ERICA BRIGLIA MARQUES |
+| 40º | AC | ADRIANO SILVA RODRIGUES |
+| 41º | PCD | DENISE ALCANTARA FERREIRA |
+| 42º | PPP | THIAGO REIS DE SOUZA |
+| 43º | AC | ANNE CAROLINE FALCAO DE SOUZA |
+| 44º | AC | JESSICA MAIA TELLO SOBRINHO |
+| 45º | AC | JESSICA DA SILVA OLIVEIRA |
+| 46º | PPP | HELENILDA CARLOS DE ARAUJO |
+| 47º | AC | ERICK DE LIMA LOPES |
+| 48º | AC | LARISSA MARIA LIMA MOTA |
+| 49º | AC | ANDERSEN DE MOURA VEIGA |
+| 50º | PPP | ANA LUIZA PIRES DOS SANTOS |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | AC | KAREN SOFIA ARAUJO VIANA |
+| 2º | AC | LEONARDO ROCHA NASCIMENTO DOS SANTOS |
+| 3º | AC | GABRIEL MORAES DE QUEIROZ |
+| 4º | AC | LUANA DE LIMA BRASIL |
+| 5º | AC | GLENDA MARTINS DIAS |
+| 6º | AC | AMANDA GALDINO DA SILVA |
+| 7º | AC | JULIANA SURIMA BASTOS MAGALHAES |
+| 8º | AC | SALOMAO MATHEUS BRANCO DA ROCHA |
+| 9º | AC | PAULO TIAGO PINHEIRO SALES |
+| 10º | AC | JEANE DOS SANTOS MACHADO BATISTA |
+| 11º | AC | OTAVIO AUGUSTO CARMO DE MELO |
+| 12º | AC | ANTONIO ROQUE PEREIRA JUNIOR |
+| 13º | AC | EDIVANIA FONSECA DOS SANTOS |
+| 14º | AC | MARIA LARISSA FREITAS FURTADO |
+| 15º | AC | KEMILLY CARVALHO MARQUES FEIJO |
+| 16º | AC | JOAN BOHADANA BARROSO |
+| 17º | AC | ADRIELLY SALES DE LIMA |
+| 18º | AC | VICTOR HOLYVERS MORAIS DE OLIVEIRA |
+| 19º | AC | BRUNO ISRAEL DIAS SILVA |
+| 20º | AC | BRUNA MOREIRA CARNEIRO ROMANI |
+| 21º | AC | JOICE LIADNE NONATO BRAGA |
+| 22º | AC | LIVIA CRISTINA REIS E OLIVEIRA |
+| 23º | AC | CHRISTIAN PAULO TAVARES COUTINHO |
+| 24º | AC | FELIPE JAIRO NOVO SIMAS NETO |
+| 25º | AC | SOFIA DE NORONHA PONTES |
+| 26º | AC | VINICIUS MELO DE LIMA |
+| 27º | AC | ERICA BRIGLIA MARQUES |
+| 28º | AC | ADRIANO SILVA RODRIGUES |
+| 29º | AC | THIAGO HENRIK DO CARMO SANTOS |
+| 30º | AC | ANNE CAROLINE FALCAO DE SOUZA |
+| 31º | AC | JESSICA MAIA TELLO SOBRINHO |
+| 32º | AC | JESSICA DA SILVA OLIVEIRA |
+| 33º | AC | ERICK DE LIMA LOPES |
+| 34º | AC | LARISSA MARIA LIMA MOTA |
+| 35º | AC | ANDERSEN DE MOURA VEIGA |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | LIVIA CRISTINA REIS E OLIVEIRA |  |
+| 2º | THIAGO HENRIK DO CARMO SANTOS |  |
+| 3º | JOAO VITOR DE SOUZA LIMA |  |
+| 4º | SARA DE LIMA FERREIRA |  |
+| 5º | WILKER MAIA MOURAO JUNIOR |  |
+| 6º | THALITA MACEDO DO NASCIMENTO |  |
+| 7º | ALYNE DOS SANTOS BARBOSA |  |
+| 8º | CÉSAR GABRIEL LEDESMA VEGAS |  |
+| 9º | NATALIA BRUCE PINHEIRO |  |
+| 10º | LEYDIANE ARAUJO DA SILVA |  |
+| 11º | THIAGO REIS DE SOUZA |  |
+| 12º | HELENILDA CARLOS DE ARAUJO |  |
+| 13º | ANA LUIZA PIRES DOS SANTOS |  |
+| LISTA - INDÍGENAS (PIND)¹ |  |  |
+| 1º | PEDRO FERREIRA DA SILVA FILHO |  |
+| LISTA - QUILOMBOLA (PQUI)¹ |  |  |
+| 1º | FRANCIEL LIMA RIBEIRO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | GABRIEL MORAES DE QUEIROZ |  |
+| 2º | BRENDA COSTA LIMA |  |
+| 3º | DENISE ALCANTARA FERREIRA |  |
+
+| NM72 - TÉCNICO DE LABORATÓRIO / ÁREA: CARTOGRAFIA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | RAFAEL PEREIRA GOMES |
+| 2º | PPP | FRANCISCA PINTO LIMA |
+| 3º | AC | CARLOS EDUARDO NEVES DE CASTRO |
+| 4º | AC | KAMILA MAGALHAES DE ANDRADE |
+| 5º | PCD | CHRISTIAN AUGUSTO LIMA BARRETO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | RAFAEL PEREIRA GOMES |  |
+| 2º | CARLOS EDUARDO NEVES DE CASTRO |  |
+| 3º | KAMILA MAGALHAES DE ANDRADE |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | FRANCISCA PINTO LIMA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | CHRISTIAN AUGUSTO LIMA BARRETO |  |
+
+| NM74 - TÉCNICO DE LABORATÓRIO / ÁREA: CERÂMICA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | EDSON MIRANDA COSTA CRUZ JUNIOR |
+| 2º | PPP | JONATHAS GUIMARAES ALVES |
+| 3º | AC | ICANA COELHO PERES PINTO |
+| 4º | AC | ISABELLA KARINE FRIAS PARENTE |
+| 5º | AC³ | FERNANDA SICSU ARAUJO DA SILVEIRA |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | EDSON MIRANDA COSTA CRUZ JUNIOR |  |
+| 2º | ICANA COELHO PERES PINTO |  |
+| 3º | ISABELLA KARINE FRIAS PARENTE |  |
+| 4º | FERNANDA SICSU ARAUJO DA SILVEIRA |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | JONATHAS GUIMARAES ALVES |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | ISABELLA KARINE FRIAS PARENTE |  |
+
+| NM75 - TÉCNICO DE LABORATÓRIO / ÁREA: FARMACOLOGIA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | ANDERSON NOGUEIRA BARBOSA |
+| 2º | PPP | JORDENE MARIA MENDONCA ARAUJO |
+| 3º | AC | EMILLY VITORIA VIEIRA DOS SANTOS |
+| 4º | AC | FERNANDA LUIZA DE OLIVEIRA QUEVEDO DOS SANTOS |
+| 5º | PCD | MARJORY MICHELY MARTINS DE SOUZA |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | ANDERSON NOGUEIRA BARBOSA |  |
+| 2º | EMILLY VITORIA VIEIRA DOS SANTOS |  |
+| 3º | FERNANDA LUIZA DE OLIVEIRA QUEVEDO DOS SANTOS |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | JORDENE MARIA MENDONCA ARAUJO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | MARJORY MICHELY MARTINS DE SOUZA |  |
+
+| NM76 - TÉCNICO DE LABORATÓRIO / ÁREA: HIDRÁULICA E HIDROLOGIA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | IANA VIEIRA FERNANDES |
+| 2º | PPP | RODRIGO ARAUJO PEREIRA |
+| 3º | AC | KLELVIN KRAMER DE MELO |
+| 4º | AC | KELVIN JOSHUA TEODORO |
+| 5º | PCD | DIEGO JANSEN RIBEIRO DE ARAUJO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | IANA VIEIRA FERNANDES |  |
+| 2º | KLELVIN KRAMER DE MELO |  |
+| 3º | KELVIN JOSHUA TEODORO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | RODRIGO ARAUJO PEREIRA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | DIEGO JANSEN |  |
+
+| NM43 - TÉCNICO DE LABORATÓRIO / ÁREA: INFORMÁTICA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | LUCAS MORAES BIONDO |
+| 2º | PPP | MATEUS PEREIRA DE SA BARBOSA |
+| 3º | AC | GABRIEL DE ALBUQUERQUE FACANHA |
+| 4º | AC | CARLOS HENRIQUE LIMA DA SILVA |
+| 5º | PCD | NILLTON JÚLLIO DE QUEIROZ PIMENTA |
+| 6º | PPP | WILLYAN DYENO SILVA DE OLIVEIRA DOS SANTOS |
+| 7º | AC | DANIEL SILVA DE SOUZA |
+| 8º | AC | RAFHAEL KELVE CORDEIRO LIMA |
+| 9º | AC | LUCCA DIAS HAN |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | LUCAS MORAES BIONDO |  |
+| 2º | GABRIEL DE ALBUQUERQUE FACANHA |  |
+| 3º | CARLOS HENRIQUE LIMA DA SILVA |  |
+| 4º | DANIEL SILVA DE SOUZA |  |
+| 5º | NILLTON JÚLLIO DE QUEIROZ PIMENTA |  |
+| 6º | RAFHAEL KELVE CORDEIRO LIMA |  |
+| 7º | LUCCA DIAS HAN |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | MATEUS PEREIRA DE SA BARBOSA |  |
+| 2º | WILLYAN DYENO SILVA DE OLIVEIRA DOS SANTOS |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | NILLTON JÚLLIO DE QUEIROZ PIMENTA |  |
+
+| NM77 - TÉCNICO DE LABORATÓRIO / ÁREA: SANEAMENTO AMBIENTAL - ITACOATIARA |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | DAIANA THALISY DA SILVA MITOUSO |
+| 2º | PPP | NAEDNO AUGUSTO DOLZANE DOS SANTOS |
+| 3º | AC | MARIA ROSIELY BORGES SOARES |
+| 4º | AC | BARTOLOMEU NASCIMENTO RABELO FILHO |
+| 5º | AC³ | MARIA MARLUCE BARBOSA BENTES |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | DAIANA THALISY DA SILVA MITOUSO |  |
+| 2º | NAEDNO AUGUSTO DOLZANE DOS SANTOS |  |
+| 3º | MARIA ROSIELY BORGES SOARES |  |
+| 4º | BARTOLOMEU NASCIMENTO RABELO FILHO |  |
+| 5º | MARIA MARLUCE BARBOSA BENTES |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | NAEDNO AUGUSTO DOLZANE DOS SANTOS |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATOS INSCRITOS |  |
+
+| NM41 - TÉCNICO DE LABORATÓRIO / ÁREA: QUÍMICA - COARI |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | ELIANAI MELO DOS SANTOS |
+| 2º | AC³ | MARCUS VALERIO BOTELHO DO NASCIMENTO |
+| 3º | AC | SEM CANDIDATO APROVADO |
+| 4º | AC |  |
+| 5º | PCD | SEM CANDIDATO INSCRITO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | ELIANAI MELO DOS SANTOS |  |
+| 2º | MARCUS VALERIO BOTELHO DO NASCIMENTO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO CONFIRMADO NO PROCESSO DE HETEROIDENTIFICAÇÃO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO INSCRITO |  |
+
+| NM07 - TÉCNICO DE LABORATÓRIO / ÁREA: QUÍMICA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PPP² | VALTIANE DE JESUS PANTOJA DA GAMA |
+| 2º | AC | RICARDO GOMES CAMINHA |
+| 3º | AC | ROBSON VIEIRA KAKIJIMA |
+| 4º | AC | FELIPE OLIVEIRA DE BRITO |
+| 5º | AC³ | ELIAS FERNANDO MOREIRA MOTA |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | RICARDO GOMES CAMINHA |  |
+| 2º | ROBSON VIEIRA KAKIJIMA |  |
+| 3º | FELIPE OLIVEIRA DE BRITO |  |
+| 4º | ELIAS FERNANDO MOREIRA MOTA |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | VALTIANE DE JESUS PANTOJA DA GAMA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NM56 - TÉCNICO EM TECNOLOGIA DA INFORMAÇÃO - HUMAITÁ |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PPP² | VALDISON RODRIGUES METELIS |
+| 2º | AC | ISYS NOGUEIRA DE ARAUJO |
+| 3º | AC | WAGNER JOSE NASCIMENTO RELVAS |
+| 4º | AC | JOAO PEDRO DE LIMA SOUZA |
+| 5º | AC³ | WESLEY DO NASCIMENTO ARAUJO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | ISYS NOGUEIRA DE ARAUJO |  |
+| 2º | WAGNER JOSE NASCIMENTO RELVAS |  |
+| 3º | JOAO PEDRO DE LIMA SOUZA |  |
+| 4º | WESLEY DO NASCIMENTO ARAUJO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | VALDISON RODRIGUES METELIS |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NM67 - TÉCNICO EM CONTABILIDADE - BENJAMIN CONSTANT |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | WILLIAM BRUNO ALVES SILVA |
+| 2º | AC³ | JAIMERSON COSTA LOPES |
+| 3º | AC | HODSON DA SILVA LUCAS |
+| 4º | AC | JOAO MARTINS DE LIMA JUNIOR |
+| 5º | AC³ | JALUSIA DE BARROS FERREIRA BRASIL |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | WILLIAM BRUNO ALVES SILVA |  |
+| 2º | JAIMERSON COSTA LOPES |  |
+| 3º | HODSON DA SILVA LUCAS |  |
+| 4º | JOAO MARTINS DE LIMA JUNIOR |  |
+| 5º | JALUSIA DE BARROS FERREIRA BRASIL |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO CONFIRMADO NO PROCESSO DE HETEROIDENTIFICAÇÃO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO INSCRITO |  |
+
+| NM73 - TÉCNICO EM ENFERMAGEM - HUMAITÁ |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PIND² | SUELEN CAROLINE DANTAS FIGUEIREDO |
+| 2º | PPP | EDUARDO DA SILVA ROLIM |
+| 3º | AC | IARA GARCIA CAETANO |
+| 4º | AC | NEIRE PINTO SARAIVA |
+| 5º | AC³ | EDMARA ALVES GAMBATI SIMÕES |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | IARA GARCIA CAETANO |  |
+| 2º | NEIRE PINTO SARAIVA |  |
+| 3º | EDMARA ALVES GAMBATI SIMÕES |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | EDUARDO DA SILVA ROLIM |  |
+| LISTA - INDÍGENAS (PIND)¹ |  |  |
+| 1º | SUELEN CAROLINE DANTAS FIGUEIREDO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+1 Lista de PPP, PIND e PQUI após o procedimento de Heteroidentificação.
+
+2 Vaga reservada por definição, conforme edital e suas retificações.
+
+3 Vaga PCD/PPP sem candidato aprovado, redirecionada para AC.
+
+4 Vaga reservada por definição, sem candidato aprovado, redirecionada para AC.
+
+NÍVEL SUPERIOR (NÍVEL DE CLASSIFICAÇÃO E)
+
+| NS04 - ARQUIVISTA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | KARLISON REGINALDO DE SA FERREIRA |
+| 2º | PPP | SAMARA ROSEANNE SANTOS DO CARMO |
+| 3º | AC | ROGER DE SOUZA BECERRA MENDEZ |
+| 4º | AC | JONATHAS ALVES DA SILVA |
+| 5º | AC³ | THAIS DE CARVALHO MAR |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | KARLISON REGINALDO DE SA FERREIRA |  |
+| 2º | ROGER DE SOUZA BECERRA MENDEZ |  |
+| 3º | JONATHAS ALVES DA SILVA |  |
+| 4º | THAIS DE CARVALHO MAR |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SAMARA ROSEANNE SANTOS DO CARMO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NS06 - BIBLIOTECÁRIO-DOCUMENTALISTA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | SAMARINA GONCALVES DE MORAES |
+| 2º | PPP | LIDIANE SUELEM CAXIAS |
+| 3º | AC | SIMONE SANTOS DE FREITAS |
+| 4º | AC | TATIANE BATANI SAMPAIO |
+| 5º | AC³ | CASSIANE MACEDO LEITE SINIMBU |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | SAMARINA GONCALVES DE MORAES |  |
+| 2º | SIMONE SANTOS DE FREITAS |  |
+| 3º | LIDIANE SUELEM CAXIAS |  |
+| 4º | TATIANE BATANI SAMPAIO |  |
+| 5º | CASSIANE MACEDO LEITE SINIMBU |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | LIDIANE SUELEM CAXIAS |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NS66 - BIBLIOTECÁRIO-DOCUMENTALISTA - BENJAMIN CONSTANT |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | RAYANNE AZEVEDO DE SOUZA |
+| 2º | AC³ | MARIA LUZENY PESSOA BARROSO |
+| 3º | AC | EVELLYN KAROLINE RODRIGUES DE OLIVEIRA |
+| 4º | AC | NATALIA DA SILVA FALCAO |
+| 5º | PCD | MARIA LUZENY PESSOA BARROSO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | RAYANNE AZEVEDO DE SOUZA |  |
+| 2º | MARIA LUZENY PESSOA BARROSO |  |
+| 3º | EVELLYN KAROLINE RODRIGUES DE OLIVEIRA |  |
+| 4º | NATALIA DA SILVA FALCAO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO CONFIRMADO NO PROCESSO DE HETEROIDENTIFICAÇÃO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | MARIA LUZENY PESSOA BARROSO |  |
+
+| NS07 - BIÓLOGO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PPP² | INGRID DE SOUZA NUNES |
+| 2º | AC | CLARICE VIRGINIA SANTOS GOIABEIRA |
+| 3º | AC | DEBORA DE SENA RAPOSO |
+| 4º | AC | WHISLEN DOS SANTOS COSTA |
+| 5º | PCD | DANILO DOURADO DE ARAUJO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | CLARICE VIRGINIA SANTOS GOIABEIRA |  |
+| 2º | DEBORA DE SENA RAPOSO |  |
+| 3º | WHISLEN DOS SANTOS COSTA |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | INGRID DE SOUZA NUNES |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | DANILO DOURADO DE ARAUJO |  |
+
+| NS09 - CONTADOR - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PPP² | JESSICA FERREIRA FEIO |
+| 2º | AC | LUCAS VASCONCELOS PRIANTE |
+| 3º | AC | ANA LUIZA OLIVEIRA DOS SANTOS |
+| 4º | AC | JADSON BARBOSA MACIEL |
+| 5º | PCD | THALYSSA ROMANA SENA PIMENTE |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | LUCAS VASCONCELOS PRIANTE |  |
+| 2º | ANA LUIZA OLIVEIRA DOS SANTOS |  |
+| 3º | JESSICA FERREIRA FEIO |  |
+| 4º | JADSON BARBOSA MACIEL |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | JESSICA FERREIRA FEIO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | THALYSSA ROMANA SENA PIMENTE |  |
+
+| NS63 - ENFERMEIRO - BENJAMIN CONSTANT |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | PPP² | RUTH EMANUELLE DA SILVA GUEDES |
+| 2º | AC | IANDRIELLY DE LIMA AREVALO |
+| 3º | AC | JHENIFE KELLY DE SOUZA BATISTA |
+| 4º | AC | RUBERLANDIA COSTA DA SILVA |
+| 5º | AC³ | CHRISTIAN FROES ASSUNCAO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | IANDRIELLY DE LIMA AREVALO |  |
+| 2º | JHENIFE KELLY DE SOUZA BATISTA |  |
+| 3º | RUTH EMANUELLE DA SILVA GUEDES |  |
+| 4º | RUBERLANDIA COSTA DA SILVA |  |
+| 5º | CHRISTIAN FROES ASSUNCAO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | RUTH EMANUELLE DA SILVA GUEDES |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NS25 - ENGENHEIRO / ÁREA: CIVIL - COARI |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | NADIA ALINE PEREIRA DE SOUZA |
+| 2º | AC³ | RAFAEL DE SOUZA MORAIS |
+| 3º | AC | KAMILLA RAMIRES MAY |
+| 4º | AC | GERALDO SEVERIANO DA COSTA SOBRINHO |
+| 5º | PCD | LEE MARCOS CHAVES MACHADO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | NADIA ALINE PEREIRA DE SOUZA |  |
+| 2º | RAFAEL DE SOUZA MORAIS |  |
+| 3º | KAMILLA RAMIRES MAY |  |
+| 4º | GERALDO SEVERIANO DA COSTA SOBRINHO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO CONFIRMADO NO PROCESSO DE HETEROIDENTIFICAÇÃO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | KAMILLA RAMIRES MAY |  |
+| 2º | LEE MARCOS CHAVES MACHADO |  |
+
+| NS61 - FARMACÊUTICO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | FABIOLA SILVEIRA GOMES |
+| 2º | PPP | GILBERTO DO CARMO OLIVEIRA |
+| 3º | AC | VICTORIA NUNES FIGUEIREDO |
+| 4º | AC | ANDRE LUCAS DA SILVA SANTOS |
+| 5º | PCD | CAROLINE AZULAY RODRIGUES |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | FABIOLA SILVEIRA GOMES |  |
+| 2º | VICTORIA NUNES FIGUEIREDO |  |
+| 3º | ANDRE LUCAS DA SILVA SANTOS |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | GILBERTO DO CARMO OLIVEIRA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | CAROLINE AZULAY RODRIGUES |  |
+
+| NS64 - MÉDICO / ÁREA: CLÍNICO GERAL - COARI |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | MOYSES ISAAC COHEN |
+| 2º | PPP | THIAGO OLIVEIRA SANTA LUZIA |
+| 3º | AC | THIAGO MOREIRA DE ALMEIDA |
+| 4º | AC | FHILIPE DA COSTA |
+| 5º | AC³ | KAROLINE MACEDO COELHO SOARES |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | MOYSES ISAAC COHEN |  |
+| 2º | THIAGO MOREIRA DE ALMEIDA |  |
+| 3º | FHILIPE DA COSTA |  |
+| 4º | KAROLINE MACEDO COELHO SOARES |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | THIAGO OLIVEIRA SANTA LUZIA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | THIAGO OLIVEIRA SANTA LUZIA |  |
+
+| NS14 - MÉDICO / ÁREA: MEDICINA DO TRABALHO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | DIRCELENE SANTIAGO DA SILVA |
+| 2º | AC³ | DIANA CALDAS FACANHA |
+| 3º | AC | SEM CANDIDATO APROVADO |
+| 4º | AC |  |
+| 5º | PCD |  |
+| 6º | PPP |  |
+| 7º | AC |  |
+| 8º | AC |  |
+| 9º | AC |  |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | DIRCELENE SANTIAGO DA SILVA |  |
+| 2º | DIANA CALDAS FACANHA |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NS35 - MÉDICO / ÁREA: PSIQUIATRIA - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | JOBSON DE SOUZA MACEDO |
+| 2º | AC³ | PAULO ARTUR DA SILVA RODRIGUES |
+| 3º | AC | ALEXANDRE SOUZA GOUVEIA |
+| 4º | AC | RODRIGO PINHEIRO WILKENS MARINHO |
+| 5º | PCD | SEM CANDIDATO APROVADO |
+| 6º | PPP |  |
+| 7º | AC |  |
+| 8º | AC |  |
+| 9º | AC |  |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | JOBSON DE SOUZA MACEDO |  |
+| 2º | PAULO ARTUR DA SILVA RODRIGUES |  |
+| 3º | ALEXANDRE SOUZA GOUVEIA |  |
+| 4º | RODRIGO PINHEIRO WILKENS MARINHO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO INSCRITO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO INSCRITO |  |
+
+| NS15 - MUSEÓLOGO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | SEM CANDIDATO APROVADO |
+| 2º | PPP |  |
+| 3º | AC |  |
+| 4º | AC |  |
+| 5º | PCD |  |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+| NS18 - QUÍMICO - MANAUS |  |  |
+| --- | --- | --- |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC | ORLANDO AMAZONAS DA ROCHA LOUREIRO PAES |
+| 2º | PPP | LARISSA SOUSA DA SILVA |
+| 3º | AC | REBECA DOS SANTOS FRANCA |
+| 4º | AC | CARLA LEVINA GOMES SANTOS |
+| 5º | AC³ | JOAO BATISTA REIS E SILVA FILHO |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | ORLANDO AMAZONAS DA ROCHA LOUREIRO PAES |  |
+| 2º | REBECA DOS SANTOS FRANCA |  |
+| 3º | CARLA LEVINA GOMES SANTOS |  |
+| 4º | JOAO BATISTA REIS E SILVA FILHO |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | LARISSA SOUSA DA SILVA |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+| NS65 - TÉCNICO EM ASSUNTOS EDUCACIONAIS - HUMAITÁ |  |  |
+| LISTA GERAL - ORDEM DE NOMEAÇÃO |  |  |
+| ORDEM | LISTA | CANDIDATO(A) |
+| 1º | AC⁴ | VALBER PASSOS DE FREITAS |
+| 2º | AC³ | RAUL DA FONSECA SILVA THE |
+| 3º | AC | JOSE CARLOS GONCALVES FURTADO FILHO |
+| 4º | AC | VITORIA REGIA AQUINO MACIEL |
+| 5º | AC | GRACIMAR MOREIRA DE ALENCAR |
+| LISTA AMPLA CONCORRÊNCIA (AC) |  |  |
+| 1º | VALBER PASSOS DE FREITAS |  |
+| 2º | RAUL DA FONSECA SILVA THE |  |
+| 3º | JOSE CARLOS GONCALVES FURTADO FILHO |  |
+| 4º | VITORIA REGIA AQUINO MACIEL |  |
+| 5º | GRACIMAR MOREIRA DE ALENCAR |  |
+| LISTA - PRETOS E PARDOS (PPP)¹ |  |  |
+| 1º | VALBER PASSOS DE FREITAS |  |
+| LISTA - PESSOA COM DEFICIÊNCIA (PCD) |  |  |
+| 1º | SEM CANDIDATO APROVADO |  |
+
+1 Lista de PPP, PIND e PQUI após o procedimento de Heteroidentificação.
+
+2 Vaga reservada por definição, conforme edital e suas retificações.
+
+3 Vaga PCD/PPP sem candidato aprovado, redirecionada para AC.
+
+4 Vaga reservada por definição, sem candidato aprovado, redirecionada para AC.
+
+**Art. 2º** ESTABELECER o prazo de validade do concurso em 2 (dois) anos, contado a partir da data de publicação da respectiva homologação, podendo ser prorrogado por igual período.
+
+**Art. 3º** ESTABELECER que o acompanhamento das nomeações deve ser realizado pelo Diário Oficial da União - DOU, bem como pelo endereço eletrônico da Pró-Reitoria de Gestão de Pessoas - PROGESP &lt;https://progesp.ufam.edu.br/crs/concurso-tae.html>
+
+Nº 1.402 - Art. 1º HOMOLOGAR o resultado do processo seletivo objeto do Edital nº 005, de 30/03/2026, publicado no D.O.U. em 30/03/2026, considerando os limites previstos no Anexo II do Decreto nº 9.739 de 28/03/2019, atualizado pelo Decreto nº 11.211/2022, conforme segue:
+
+| Unidade | Área | Classe/ Padrão/ Carga Horária | Lista\* | Candidato | Classificação |
+| --- | --- | --- | --- | --- | --- |
+| FEFF | Fisioterapia Geral e Cardiorrespiratória e UTI | Assistente, Classe A. Titulação Exigida: Graduação; 40h | PPP | THAMILA KAMILA DE SOUZA MEDEIROS | 1º |
+|  |  |  | AC | ROGERIO RUDSON PASSOS DO NASCIMENTO | 2º |
+| FLET | Língua e Literatura Japonesa | Assistente, Classe A. Titulação Exigida: Graduação; 40h | PPP | WENDELL MARTINS SILVA | 1º |
+|  |  |  | AC | NICOLAS VICTOR SODRE DIAS | 2º |
+|  |  |  | AC | HANEN FERREIRA FLORES | 3º |
+| FLET | Estudos Literários | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | WENDELL MARTINS SILVA | 1º |
+|  |  |  | AC | KENEDI SANTOS AZEVEDO | 2º |
+| FT | Engenharia Elétrica | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | ALFREDO SILIE LEON | 1º |
+|  |  |  | AC | CLAUDIO DUARTE SILVA FILHO | 2º |
+|  |  |  | AC | FABIO ARTHUR SOARES ARAUJO | 3º |
+|  |  |  | AC | WASHINGTON HENRIQUE ALVES JUNIOR | 4º |
+|  |  |  | AC | JONATHAS TAVARES NEVES | 5º |
+| ICB | Botânica | Assistente, Classe A. Titulação Exigida: Doutorado; 40h | AC | DANIEL DA SILVA COSTA | 1º |
+| ICB | Zoologia | Assistente, Classe A. Titulação Exigida: Doutorado; 40h | AC | MATHEUS MICKAEL MOTA SOARES | 1º |
+|  |  |  | AC | SUSANA BRAZ MOTA | 2º |
+|  |  |  | AC | LYWOUTY REYMOND DE SOUZA NASCIMENTO | 3º |
+|  |  |  | AC | GUILHERME DE AZAMBUJA PEREIRA | 4º |
+|  |  |  | AC | BRENA DA SILVA GONÇALVES | 5º |
+|  |  |  | AC | IGOR YURI PEREIRA FERNANDES | 6º |
+| ICE | Estatística | Assistente, Classe A. Titulação Exigida: Graduação; 40h | AC | HEVELEN FRANCISCA SILVA E SILVA | 1º |
+|  |  |  | AC | LUCAS ALVES BANDEIRA | 2º |
+|  |  |  | AC | EMILY BEZERRA SALES | 3º |
+| IFCHS | Filosofia Geral | Assistente, Classe A. Titulação Exigida: Graduação; 40h | PPP | JOEL SILVA DE OLIVEIRA PATRÍCIO | 1º |
+|  |  |  | AC | THIAGO RODRIGUES LIMA | 2º |
+|  |  |  | AC | JANDERSON SILVA DE OLIVEIRA | 3º |
+|  |  |  | AC | GABRIEL RAMIRES VERÇOSA | 4º |
+|  |  |  | AC | RODRIGO FABIAN SALES LIMEIRA | 5º |
+| IFCHS | Antropologia | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | ROSEANNY MELO DE BRITO | 1º |
+|  |  |  | AC | SOCORRO DE SOUZA BATALHA | 2º |
+|  |  |  | AC | ISABELLE BRAMBILLA HONORATO | 3º |
+|  |  |  | AC | MARCOS ALAN COSTA FARIAS | 4º |
+| IFCHS | Geografia Humana | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | THIAGO OLIVEIRA NETO | 1º |
+|  |  |  | AC | FREDSON BERNARDINO ARAÚJO DA SILVA | 2º |
+|  |  |  | AC | BIANCA DA SILVA DOZA | 3º |
+|  |  |  | AC | CARLOS EDUARDO SILVA SIMOES RAFAEL | 4º |
+| FAPSI | Psicologia Geral e Jurídica | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | JESSICA NAYARA CRUZ PEDROSA | 1º |
+|  |  |  | AC | MARIA EDUARDA DELDUQUE PEREIRA | 2º |
+|  |  |  | AC | GISELE PEREIRA DA SILVA | 3º |
+|  |  |  | AC | GABRIEL PONCE DE LEAO LIMA ALMEIDA | 4º |
+|  |  |  | AC | JOLORENA DE PAULA TAVARES | 5º |
+|  |  |  | AC | MAYARA JANAINA SILVEIRA FEITOZA | 6º |
+| FM | Clínica Médica | Assistente, Classe A. Titulação Exigida: Especialização; 40h | AC | ARTHUR GABRIEL GONÇALVES BISNETO | 1º |
+| ICSEZ | Fotojornalismo; Ética; Teorias do Jornalismo; Gêneros Jornalísticos. | Assistente, Classe A. Titulação Exigida: Graduação; 40h | AC | ARNOLDO ARAÚJO DOS SANTOS | 1º |
+| ICSEZ | Serviço Social, Trabalho e Formação Profissional | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | DENISE BENTES SOARES | 1º |
+| ICSEZ | História da Arte e Processos Gráficos | Assistente, Classe A. Titulação Exigida: Graduação; 40h | AC | JONEUBER REIS DE VASCONCELOS | 1º |
+|  |  |  | AC | SUELY RODRIGUES AMARAL | 2º |
+|  |  |  | AC | RODRIGO AMAZONAS DA SILVA | 3º |
+|  |  |  | AC | AURY CORDOVIL DA SILVA | 4º |
+| ICET | Educação | Assistente, Classe A. Titulação Exigida: Graduação; 40h | AC | RAFAELA FERREIRA DE MENDONÇA ANDRADE | 1º |
+|  |  |  | AC | ITELVINA MARGARETH PASCARELE VIANA | 2º |
+| IEAA | Biologia | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | ADEILZA FELIPE SAMPAIO | 1º |
+| IEAA | Engenharia III | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | ANTÔNIO JOSÉ LEAL NINA ROLDÃO | 1º |
+| IEAA | Fitossanidade | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | IGO SARMENTO DA SILVA | 1º |
+|  |  |  | AC | OZIAS DA CUNHA BELLO | 2º |
+| INC | Zoologia, Entomologia, Ecologia e Prática Curriculares | Assistente, Classe A. Titulação Exigida: Graduação; 40h | AC | VANDERLEI NUNES DE FREITAS | 1º |
+|  |  |  | AC | EUCIANE AICATE PERES | 2º |
+|  |  |  | AC | MARCIO LOPES MULLER | 3º |
+| INC | Introdução a Antropologia, Antropologia da Educação e Sociologia Geral | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | JOSE FERNANDES MENDONÇA | 1º |
+| ISB | Enfermagem | Assistente, Classe A. Titulação Exigida: Especialização; 40h | PIND | RAUL SOUZA DA CRUZ | 1º |
+|  |  |  | AC | RAICIELLY ABREU DA SILVA | 2º |
+|  |  |  | AC | SERGIO DE ALMEIDA MATOS | 3º |
+|  |  |  | AC | DENILZA PINHO CRAVEIRO | 4º |
+| ISB | Nutrição | Assistente, Classe A. Titulação Exigida: Graduação; 40h | PIND | THAYNA PEREIRA DA COSTA | 1º |
+|  |  |  | AC | IAMILYS DE SOUZA BRAGA | 2º |
+|  |  |  | AC | RUAN WILKY OLIVEIRA DA SILVA | 3º |
+|  |  |  | AC | SUAMY PINHO DE MATOS | 4º |
+|  |  |  | AC | DHYANA ARAUJO BONET | 5º |
+
+\*AC: Ampla Concorrência \*PCD: Pessoa Com Deficiência \*PPP: Pessoa Preta/Parda \*PIND: Indígena
+
+**Art. 2º** ESTABELECER que o prazo de validade do resultado do Processo Seletivo será de 01 (um) ano, contado a partir da publicação do ato de homologação no Diário Oficial da União, prorrogável por igual período no interesse da Instituição e mediante iniciativa da Unidade Acadêmica.
+
+Nº 1.419 - Art. 1º HOMOLOGAR o resultado do processo seletivo objeto do Edital nº 005, de 30/03/2026, publicado no D.O.U. em 30/03/2026, considerando os limites previstos no Anexo II do Decreto nº 9.739 de 28/03/2019, atualizado pelo Decreto nº 11.211/2022, conforme segue:
+
+| Unidade | Área | Classe/ Padrão/ Carga Horária | Lista\* | Candidato | Classificação |
+| --- | --- | --- | --- | --- | --- |
+| FD | Direito Público | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | ROBERTA KELLY SILVA SOUZA | 1º |
+|  |  |  | AC | HERON FERREIRA DA SILVA MUNEYMNE | 2º |
+| FD | Direito Processual | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | ESTEFANO BENTES GOMES | 1º |
+|  |  |  | AC | CAROLINA NOBRE CASTELLO BRANCO | 2º |
+|  |  |  | AC | ANNIE MARA ARRUDA DE SA E BRITO | 3º |
+|  |  |  | AC | RODRIGO OLIVEIRA ACIOLI LINS | 4º |
+|  |  |  | AC | MELLYNA MARTINS LEONARDO AMORIM DA SILVA | 5º |
+| FT | Materiais: Polímeros | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | PPP | JOAO CARLOS MARTINS DA COSTA | 1º |
+|  |  |  | AC | MARK DANY VELOSO JÚNIOR | 2º |
+|  |  |  | AC | LORENA MOTA DE CASTRO | 3º |
+| IEAA | Língua Portuguesa e Língua Inglesa | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | THAIS AMANDA QUEIROZ DA SILVA | 1º |
+|  |  |  | AC | DAIANA DOS SANTOS REIS | 2º |
+| IEAA | Língua Portuguesa | Assistente, Classe A. Titulação Exigida: Mestrado; 40h | AC | CLAUDIMAR PAES DE ALMEIDA | 1º |
+|  |  |  | AC | MARIA ROSANGELA SOARES ALMEIDA | 2º |
+|  |  |  | AC | SARA ALMEIRA DA ROCHA | 3º |
+|  |  |  | AC | MESS LANE DE SOUZA BELLO | 4º |
+|  |  |  | AC | CRISTIANE CRUZ OLIVEIRA MENEZES | 5º |
+
+\*AC: Ampla Concorrência \*PCD: Pessoa Com Deficiência
+
+**Art. 2º** ESTABELECER que o prazo de validade do resultado do Processo Seletivo será de 01 (um) ano, contado a partir da publicação do ato de homologação no Diário Oficial da União, prorrogável por igual período no interesse da Instituição e mediante iniciativa da Unidade Acadêmica.
+
+TANARA LAUSCHNER

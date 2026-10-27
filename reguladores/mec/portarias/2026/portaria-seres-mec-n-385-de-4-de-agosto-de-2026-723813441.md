@@ -1,0 +1,65 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 385, DE 4 de agosto de 2026 (*)"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "385"
+data: 2026-08-04
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/08/2026, seção 1, p. 87"
+data_publicacao: 2026-08-06
+edicao: "147"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-385-de-4-de-agosto-de-2026-*-723813441"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 385, DE 4 de agosto de 2026 (*)
+
+PORTARIA SERES/MEC Nº 385, DE 4 de agosto de 2026 (\*)
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 12.769, de 5 de dezembro de 2025, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO(Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202418912 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO AUGUSTO MOTTA | SOCIEDADE UNIFICADA DE ENSINO AUGUSTO MOTTA | AVENIDA PARIS, 84, , BONSUCESSO, RIO DE JANEIRO/RJ&lt;br/>AVENIDA PARIS, 84, , BONSUCESSO, RIO DE JANEIRO/RJ&lt;br/> |
+| 2 | 202522144 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 120 (cento e vinte) | Centro Universitário Católica do Leste de Minas Gerais | UNIAO BRASILEIRA DE EDUCACAO CATOLICA | AVENIDA TANCREDO NEVES, 3.500, CAIXA POSTAL 63, UNIVERSITÁRIO, CORONEL FABRICIANO/MG |
+| 3 | 202518412 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO DE BALSAS | UNIBALSAS EDUCACIONAL LTDA | BR 230 KM 5, S/N, FAZENDA MALIDERE 4, BALSAS/MA |
+| 4 | 202519248 | JOGOS DIGITAIS (Tecnológico) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO DE ENSINO SUPERIOR DO AMAZONAS | WD EDUCACIONAL LTDA | AVENIDA JOAQUIM NABUCO, 1270, , CENTRO, MANAUS/AM |
+| 5 | 202523132 | ENGENHARIA DE SOFTWARE (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO DE GOIÁS | SOCIEDADE ANHANGUERA DE ENSINO LTDA | AVENIDA JOÃO CÂNDIDO DE OLIVEIRA, 115, UNIDADE GOIÂNIA CIDADE JARDIM BAIRRO, CIDADE JARDIM, GOIÂNIA/GO |
+| 6 | 202522091 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO DO TRIÂNGULO | ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA | AV. NICOMEDES ALVES DOS SANTOS, 4545, , GÁVEA, UBERLÂNDIA/MG |
+| 7 | 202418026 | PSICOLOGIA (Bacharelado) | 150 (cento e cinquenta) | Centro Universitário Fibra | FACULDADES INTEGRADAS BRASIL AMAZONIA S/S LTDA | AVENIDA GENERALÍSSIMO DEODORO, 1532, AVENIDA GENTIL BITTENCOURT, NAZARÉ, BELÉM/PA |
+| 8 | 202519746 | ENGENHARIA DE SOFTWARE (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO GUAIRACÁ | SESG - SOCIEDADE DE EDUCACAO SUPERIOR GUAIRACA LTDA | RUA XV DE NOVEMBRO, 7.050, CENTRO, GUARAPUAVA/PR |
+| 9 | 202520555 | ENGENHARIA DE SOFTWARE (Bacharelado) | 50 (cinquenta) | CENTRO UNIVERSITÁRIO LEONARDO DA VINCI | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA | R RUA DOUTOR PEDRINHO, 79, , RIO MORTO, INDAIAL/SC |
+| 10 | 202523223 | CIÊNCIAS DA COMPUTAÇÃO (Bacharelado) | 120 (cento e vinte) | Centro Universitário Maurício de Nassau de Campina Grande | INSTITUTO CAMPINENSE DE ENSINO SUPERIOR LTDA | RUA VICE-PREFEITO ANTÔNIO DE CARVALHO SOUSA, S/N, UNIDADE SEDE, ESTAÇÃO VELHA, CAMPINA GRANDE/PB |
+| 11 | 202505171 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE FORTALEZA | SER EDUCACIONAL S.A. | AVENIDA VISCONDE DO RIO BRANCO, 2078, SEDE, JOAQUIM TÁVORA, FORTALEZA/CE |
+| 12 | 202506745 | CIÊNCIAS BIOLÓGICAS (Bacharelado) | 120 (cento e vinte) | Centro Universitário Multivix Vitória | EMPRESA BRASILEIRA DE ENSINO PESQUISA E EXTENSAO S/A - MULTIVIX | RUA JOSÉ ALVES, 135, VITÓRIA, GOIABEIRAS, VITÓRIA/ES |
+| 13 | 202419198 | PSICOLOGIA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO OPET | OPET ORGANIZACAO PARANAENSE DE ENSINO TECNICO LTDA | AV. PRESIDENTE GETÚLIO VARGAS, Nº 902, , UNIDADE REBOUÇAS, REBOUÇAS, CURITIBA/PR |
+| 14 | 202506033 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO SAGRADO CORAÇÃO | INSTITUTO DAS APOSTOLAS DO SAGRADO CORACAO DE JESUS | RUA IRMÃ ARMINDA, 10-50, JARDIM BRASIL, BAURU/SP |
+| 15 | 202523835 | ENGENHARIA DE CONTROLE E AUTOMAÇÃO (Bacharelado) | 40 (quarenta) | Centro Universitário SENAI Santa Catarina | SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL | RUA ARNO WALDEMAR DOHLER, 957, CAMPUS JOINVILLE, SANTO ANTÔNIO, JOINVILLE/SC |
+| 16 | 202523965 | ENGENHARIA MECÂNICA (Bacharelado) | 40 (quarenta) | Centro Universitário SENAI Santa Catarina | SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL | RUA FREI BRUNO, 201 E, , PARQUE DAS PALMEIRAS, CHAPECÓ/SC |
+| 17 | 202524247 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 200 (duzentas) | Centro Universitário Tiradentes de Pernambuco | SOCIEDADE DE EDUCACAO TIRADENTES S.A | AVENIDA MARECHAL MASCARENHAS DE MORAIS, 3905, CAMPUS ZONA SUL, IMBIRIBEIRA, RECIFE/PE |
+| 18 | 202520563 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 80 (oitenta) | Centro Universitário Uniasselvi de Blumenau | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA | RUA DOUTOR PEDRO ZIMMERMANN, 385, UNIDADE SEDE, SALTO DO NORTE, BLUMENAU/SC |
+| 19 | 202505047 | PSICOLOGIA (Bacharelado) | 200 (duzentas) | Centro Universitário UNIFTC | INSTITUTO MANTENEDOR DE ENSINO SUPERIOR DA BAHIA LTDA - ME | AVENIDA LUÍS VIANA, 8812, PARALELA, PARALELA, SALVADOR/BA |
+| 20 | 202506126 | EDUCAÇÃO FÍSICA (Licenciatura) | 80 (oitenta) | Centro Universitário Univinte | UNIVINTE CENTRO TECNOLOGICO LTDA | AVENIDA NILTON AUGUSTO SACHETTI, 500, , SANTO ANDRÉ, CAPIVARI DE BAIXO/SC |
+| 21 | 202506127 | FARMÁCIA (Bacharelado) | 80 (oitenta) | Centro Universitário Univinte | UNIVINTE CENTRO TECNOLOGICO LTDA | AVENIDA NILTON AUGUSTO SACHETTI, 500, , SANTO ANDRÉ, CAPIVARI DE BAIXO/SC |
+| 22 | 202506324 | EDUCAÇÃO FÍSICA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO VALE DO CRICARÉ | INSTITUTO VALE DO CRICARE LTDA | RUA HUMBERTO DE ALMEIDA FRANKLIN, 257, UNIDADE- SÃO MATEUS- UNIVERSITÁRIO, UNIVERSITÁRIO, SÃO MATEUS/ES |
+| 23 | 202524090 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 120 (cento e vinte) | Centro Universitário Vértice | SOEGAR-SOCIEDADE EDUCACIONAL GARDINGO LTDA - EPP | RUA BERNARDO TORRES, 180, CAMPUS - MATIPÓ - RETIRO, RETIRO, MATIPÓ/MG |
+| 24 | 202506748 | PSICOLOGIA (Bacharelado) | 100 (cem) | ESCOLA SUPERIOR MADRE CELESTE | ASSOCIACAO CULTURAL E EDUCACIONAL MADRE CELESTE | ESTRADA DA PROVIDÊNCIA, 10, CIDADE NOVA VIII, COQUEIRO, ANANINDEUA/PA |
+| 25 | 202504953 | ODONTOLOGIA (Bacharelado) | 114 (cento e quatorze) | Escola Superior UNA de Conselheiro Lafaiete | FACEB EDUCACAO LTDA | RUA MELVIN JONES, 90, CAMPUS CONSELHEIRO LAFAIETE, CAMPO ALEGRE, CONSELHEIRO LAFAIETE/MG |
+| 26 | 202504947 | PSICOLOGIA (Bacharelado) | 114 (cento e quatorze) | Escola Superior UNA de Conselheiro Lafaiete | FACEB EDUCACAO LTDA | RUA MELVIN JONES, 90, CAMPUS CONSELHEIRO LAFAIETE, CAMPO ALEGRE, CONSELHEIRO LAFAIETE/MG |
+| 27 | 202504903 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | Faculdade AGES de Senhor do Bonfim | AGES EDUCACAO LTDA | RODOVIA LOMANTO JÚNIOR, BR 407, S/N, KM 104, CENTRO, SENHOR DO BONFIM/BA |
+| 28 | 202519023 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | Faculdade América | GVIX EDUCACAO LTDA | RODOVIA ENGENHEIRO FABIANO VIVACQUA, 165, CACHOEIRO DE ITAPEMIRIM, MARBRASA, CACHOEIRO DE ITAPEMIRIM/ES |
+| 29 | 202523971 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 150 (cento e cinquenta) | Faculdade Atitus Educação Porto Alegre | ATITUS EDUCACAO S.A | RUA DONA LAURA, 1020, CAMPUS MONT'SERRAT, RIO BRANCO, PORTO ALEGRE/RS |
+
+Republicada por ter saído, no DOU Nº 146, de 05/08/2026, Seção 1, páginas 65 e 66, com incorreção no original.

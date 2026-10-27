@@ -1,0 +1,117 @@
+---
+titulo: "PORTARIA INT nº 463, de 27 de fevereiro de 2026"
+orgao: "Ministério da Ciência, Tecnologia e Inovação/Instituto Nacional de Tecnologia"
+tipo: "Portaria"
+numero: "463"
+data: 2026-02-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 04/03/2026, seção 1, p. 11"
+data_publicacao: 2026-03-04
+edicao: "42"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-int-n-463-de-27-de-fevereiro-de-2026-690210063"
+baixado_em: 2026-10-15
+---
+# PORTARIA INT nº 463, de 27 de fevereiro de 2026
+
+PORTARIA INT nº 463, de 27 de fevereiro de 2026
+
+A DIRETORA DO INSTITUTO NACIONAL DE TECNOLOGIA, no uso das atribuições que lhe foram conferidas pela Delegação de Competência concedida pela Portaria MCT nº 407, de 29.06.2006, publicada no D.O.U. de 30.06.2006, e pelo Regimento Interno, aprovado pela Portaria MCTI nº 7.058, de 24 de maio de 2023, publicada no Diário Oficial da União de 25 de maio de 2023, Seção 1, página 259, ambas assinadas pelo Exmº Ministro de Estado de Ciência, Tecnologia e Inovação, resolve:
+
+**Art. 1º** Pactuar as Metas Globais referentes ao período de avaliação de desempenho compreendido entre 01 de março de 2026 e 28 de fevereiro de 2027, para fins de percepção da Gratificação de Desempenho de Atividade de Ciência e Tecnologia - GDACT.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MARCIA GOMES DE OLIVEIRA
+
+## ANEXO I — MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+INSTITUTO NACIONAL DE TECNOLOGIA
+
+METAS GLOBAIS DE DESEMPENHO INSTITUCIONAL
+
+PERÍODO DO CICLO DE AVALIAÇÃO: 01 de março de 2026 a 28 de fevereiro de 2027
+
+SIGLA DA UA: DIR
+
+TELEFONE: 2123-1282
+
+E-MAIL DO RESPONSÁVEL PELA UA: direcao@int.gov.br
+
+DESCRIÇÃO DA META GLOBAL
+
+INDICADOR
+
+FÓRMULA DE CÁLCULO
+
+UNIDADE DE MEDIDA
+
+META PREVISTA
+
+META ATINGIDA
+
+% DE ATINGIMENTO DA META
+
+(a)
+
+(c)
+
+d = (c/a)\*100
+
+Promover o desenvolvimento tecnológico e a inovação nas empresas.
+
+Número de projetos de P&D cujo cliente seja empresa (NPROE)
+
+Número de Novos Projetos de P&D contratados, no ano de vigência do TCG, cujo cliente seja empresa.
+
+Número
+
+6
+
+Executar políticas, programas e projetos junto ao setor público.
+
+Número de Projetos de P&D cujo cliente é o governo e suas esferas, pactuados no ano (NPROG)
+
+Número de Novos Projetos de P&D contratados, no ano de vigência do TCG, cujo cliente seja o governo e suas esferas.
+
+Número
+
+9
+
+Consolidar o conhecimento em suas áreas de competência.
+
+Número depublicações (NIPUB)
+
+NPUB: Nº total de publicações científicas, no ano, indexadas nas bases Scopus e Web of Science (WOS/SCI) ou, ainda, em periódicos classificados pela plataforma QualisCapes como b2 ou superior.
+
+Número
+
+45
+
+Aprimorar a gestão e a diversificação das fontes de recursos.
+
+Índice de execução orçamentária (IEO)
+
+IEO = (VOE / LEA) \* 100
+
+VOE: ∑ dos valores de custeio e capital efetivamente empenhados na vigência do TCG.
+
+LEA: Limite de empenho do orçamento autorizado para o ano de vigência do TCG
+
+Porcentagem
+
+100
+
+Promover o desenvolvimento tecnológico e a inovação nas empresas.
+
+Serviços Técnicos e Tecnológicos Prestados (STEC)
+
+Número total de serviços técnicos e tecnológicos prestados no período.
+
+O nº total de serviços técnicos e tecnológicos prestados no período, NSTEC, deve ser contado a partir da quantidade de laudos, certificados, avaliações, calibrações, consultorias e congêneres prestados, e não pelo nº de contratos celebrados.
+
+Número
+
+700
+
+\* Corresponde a avaliação parcial realizada 6 meses após o início do ciclo (período entre 1º de março e 31 de agosto).

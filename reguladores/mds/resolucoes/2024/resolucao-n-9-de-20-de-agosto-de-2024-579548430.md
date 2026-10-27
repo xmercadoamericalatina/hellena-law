@@ -1,0 +1,26 @@
+---
+titulo: "RESOLUÇÃO Nº 9, DE 20 DE AGOSTO DE 2024"
+orgao: "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome/Secretaria Extraordinária de Combate à Pobreza e à Fome"
+tipo: "Resolução"
+numero: "9"
+data: 2024-08-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/08/2024, seção 1, p. 27"
+data_publicacao: 2024-08-21
+edicao: "161"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-9-de-20-de-agosto-de-2024-579548430"
+sha256_html_fonte: 7a5aea484ba3dd07267ef18d44ac9f8bffb6914329870296a5079b6ad4893588
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO Nº 9, DE 20 DE AGOSTO DE 2024
+
+RESOLUÇÃO Nº 9, DE 20 DE AGOSTO DE 2024
+
+Formaliza a adesão dos Municípios de Belo Monte (AL), Colônia Leopoldina (AL), Coruripe (AL), Pariconha (AL), Teotônio Vilela (AL), Aporá (BA), Apuarema (BA), Barro Alto (BA), Bom Jesus da Lapa (BA), Brotas de Macaúbas (BA), Castro Alves (BA), Irecê (BA), Itajuípe (BA), Marcionílio Souza (BA), Matina (BA), Potiraguá (BA), Presidente Jânio Quadros (BA), Santa Maria da Vitória (BA), Senhor do Bonfim (BA), Serra do Ramalho (BA), Sítio do Mato (BA), Caririaçu (CE), Jaguaruana (CE), Jati (CE), Cariacica (ES), Altamira do Maranhão (MA), Boa Vista do Gurupi (MA), Cajapió (MA), Centro Novo do Maranhão (MA), Igarapé Grande (MA), Pedreiras (MA), Presidente Juscelino (MA), Presidente Sarney (MA), São Vicente Ferrer (MA), Bandeira (MG), Engenheiro Navarro (MG), Glaucilândia (MG), Guaxupé (MG), Igarapé (MG), Lontra (MG), Luislândia (MG), Novo Oriente de Minas (MG), Porteirinha (MG), Salinas (MG), Santa Rita de Minas (MG), São João do Oriente (MG), São João do Paraíso (MG), Senador Modestino Gonçalves (MG), Três Corações (MG), Ubá (MG), Dourados (MS), Bom Jesus do Tocantins (PA), Cachoeira do Arari (PA), Cametá (PA), Castanhal (PA), Igarapé-Açu (PA), Prainha (PA), Santa Luzia do Pará (PA), Arara (PB), Areia de Baraúnas (PB), Casserengue (PB), Caturité (PB), Condado (PB), Coremas (PB), Curral Velho (PB), Imaculada (PB), Ingá (PB), Mataraca (PB), Nazarezinho (PB), Pocinhos (PB), Queimadas (PB), São José da Lagoa Tapada (PB), São José do Bonfim (PB), Várzea (PB), Abreu e Lima (PE), Barreiros (PE), Belo Jardim (PE), Jatobá (PE), Olinda (PE), Passira (PE), Sanharó (PE), Santa Maria da Boa Vista (PE), São José da Coroa Grande (PE), Serra Talhada (PE), Serrita (PE), Timbaúba (PE), Trindade (PE), Alegrete (RS), Itaqui (RS), Ouro (SC), Angatuba (SP), Brotas (SP), Itanhaém (SP), Itaquaquecetuba (SP), Presidente Prudente (SP), Promissão (SP), Rio Claro (SP) e Santos (SP) ao Sistema Nacional de Segurança Alimentar e Nutricional.
+
+A SECRETARIA EXTRAORDINÁRIA DE COMBATE À POBREZA E À FOME, no uso das atribuições que lhe foram conferidas pelo Decreto nº 11.422, de 28 de fevereiro de 2023, e o disposto no art. 13, inciso I, do Decreto nº 7.272, de 25 de agosto de 2010, na função de EXECUTIVA DA CÂMARA INTERMINISTERIAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL, resolve:
+
+Formalizar a adesão dos municípios de Belo Monte (AL), Colônia Leopoldina (AL), Coruripe (AL), Pariconha (AL), Teotônio Vilela (AL), Aporá (BA), Apuarema (BA), Barro Alto (BA), Bom Jesus da Lapa (BA), Brotas de Macaúbas (BA), Castro Alves (BA), Irecê (BA), Itajuípe (BA), Marcionílio Souza (BA), Matina (BA), Potiraguá (BA), Presidente Jânio Quadros (BA), Santa Maria da Vitória (BA), Senhor do Bonfim (BA), Serra do Ramalho (BA), Sítio do Mato (BA), Caririaçu (CE), Jaguaruana (CE), Jati (CE), Cariacica (ES), Altamira do Maranhão (MA), Boa Vista do Gurupi (MA), Cajapió (MA), Centro Novo do Maranhão (MA), Igarapé Grande (MA), Pedreiras (MA), Presidente Juscelino (MA), Presidente Sarney (MA), São Vicente Ferrer (MA), Bandeira (MG), Engenheiro Navarro (MG), Glaucilândia (MG), Guaxupé (MG), Igarapé (MG), Lontra (MG), Luislândia (MG), Novo Oriente de Minas (MG), Porteirinha (MG), Salinas (MG), Santa Rita de Minas (MG), São João do Oriente (MG), São João do Paraíso (MG), Senador Modestino Gonçalves (MG), Três Corações (MG), Ubá (MG), Dourados (MS), Bom Jesus do Tocantins (PA), Cachoeira do Arari (PA), Cametá (PA), Castanhal (PA), Igarapé-Açu (PA), Prainha (PA), Santa Luzia do Pará (PA), Arara (PB), Areia de Baraúnas (PB), Casserengue (PB), Caturité (PB), Condado (PB), Coremas (PB), Curral Velho (PB), Imaculada (PB), Ingá (PB), Mataraca (PB), Nazarezinho (PB), Pocinhos (PB), Queimadas (PB), São José da Lagoa Tapada (PB), São José do Bonfim (PB), Várzea (PB), Abreu e Lima (PE), Barreiros (PE), Belo Jardim (PE), Jatobá (PE), Olinda (PE), Passira (PE), Sanharó (PE), Santa Maria da Boa Vista (PE), São José da Coroa Grande (PE), Serra Talhada (PE), Serrita (PE), Timbaúba (PE), Trindade (PE), Alegrete (RS), Itaqui (RS), Ouro (SC), Angatuba (SP), Brotas (SP), Itanhaém (SP), Itaquaquecetuba (SP), Presidente Prudente (SP), Promissão (SP), Rio Claro (SP) e Santos (SP) ao Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, que tem como objetivos formular e implementar políticas e planos de segurança alimentar e nutricional, estimular a integração dos esforços entre governo e sociedade civil, bem como promover o acompanhamento, o monitoramento e a avaliação da segurança alimentar e nutricional e da realização progressiva do Direito Humano à Alimentação Adequada.
+
+VALÉRIA BURITY

@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 21, DE 21 DE MARÇO DE 2023"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "21"
+data: 2023-03-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/03/2023, seção 1, p. 15"
+data_publicacao: 2023-03-22
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-21-de-21-de-marco-de-2023-471814070"
+sha256_html_fonte: 5dd339f6938674c6d124414b4eb9ac259892a0af0e838abf0ecaa43eedbef35e
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 21, DE 21 DE MARÇO DE 2023
+
+PORTARIA Nº 21, DE 21 DE MARÇO DE 2023
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.342, de 1º de janeiro de 2023, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 9.057, de 25 de maio de 2017, as Portarias Normativas MEC nº 20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) indeferido(s) o(s) pedido(s) de autorização de curso superior na modalidade a distância, relacionado(s) no Anexo desta Portaria, conforme disposto nos arts. 10 e 44 do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+HELENA MARIA SANTANA SAMPAIO ANDERY
+
+ANEXO (Autorização de Cursos EaD)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº de Ordem</p></td>      <td rowspan="1" colspan="1"><p>Registro e-MEC nº</p></td>      <td rowspan="1" colspan="1"><p>Curso</p></td>      <td rowspan="1" colspan="1"><p>Nº de vagas totais anuais</p></td>      <td rowspan="1" colspan="1"><p>Mantida</p></td>      <td rowspan="1" colspan="1"><p>Mantenedora</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>202013650</p></td>      <td rowspan="1" colspan="1"><p>FISIOTERAPIA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>750 (setecentas e cinquenta)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE ALIS DE ITABIRITO</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO DE ENSINO SUPERIOR DOS INCONFIDENTES - ASESI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>202112266</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>200 (duzentas)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE ASSOCIADA BRASIL - EAD</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO EDUCACIONAL E CULTURAL PAULISTANA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>202121710</p></td>      <td rowspan="1" colspan="1"><p>SERVIÇO SOCIAL (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>200 (duzentas)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE BATISTA DO RIO DE JANEIRO</p></td>      <td rowspan="1" colspan="1"><p>SEMINARIO TEOLOGICO BATISTA DO SUL DO BRASIL</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>201927630</p></td>      <td rowspan="1" colspan="1"><p>PRODUÇÃO PUBLICITÁRIA (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>500 (quinhentas)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE CAMPOS ELÍSEOS</p></td>      <td rowspan="1" colspan="1"><p>INSTITUTO DE ENSINO MEDIO E SUPERIOR FRANCOIS MARIE AROUET LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>202112853</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>1125 (uma mil, cento e vinte e cinco)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE MULTIVIX NOVA VENÉCIA</p></td>      <td rowspan="1" colspan="1"><p>MULTIVIX NOVA VENECIA - ENSINO, PESQUISA E EXTENSAO LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>202008241</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Licenciatura)</p></td>      <td rowspan="1" colspan="1"><p>1000 (uma mil)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE PROMINAS DE MONTES CLAROS</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE MONTES CLAROS LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>202014471</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>90 (noventa)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE SANTO ANTÔNIO</p></td>      <td rowspan="1" colspan="1"><p>OLHAR EDUCACIONAL LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>202112925</p></td>      <td rowspan="1" colspan="1"><p>RADIOLOGIA (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>2000 (duas mil)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE SUPREMO REDENTOR</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE SUPREMO REDENTOR LTDA - EPP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>201925741</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO DE AGRONEGÓCIOS (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>1000 (uma mil)</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE ÚNICA DE IPATINGA</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE UNICA LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>202111787</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>500 (quinhentas)</p></td>      <td rowspan="1" colspan="1"><p>UNIÃO DAS FACULDADES DOS GRANDES LAGOS</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO EDUCACIONAL DE ENSINO SUPERIOR</p></td>     </tr>    </tbody>   </table>

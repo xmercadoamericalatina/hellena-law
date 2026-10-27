@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 1.328, DE 5 DE SETEMBRO DE 2025"
+orgao: "Ministério do Desenvolvimento Agrário e Agricultura Familiar/Instituto Nacional de Colonização e Reforma Agrária"
+tipo: "Portaria"
+numero: "1328"
+data: 2025-09-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2025, seção 1, p. 43"
+data_publicacao: 2025-09-08
+edicao: "170"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.328-de-5-de-setembro-de-2025-653618127"
+baixado_em: 2026-10-16
+sha256_html_fonte: d6d4985f8c137bb2089ff7000786cdd5378ad89e6a09f049b57a9c4b053b6430
+---
+# PORTARIA Nº 1.328, DE 5 DE SETEMBRO DE 2025
+
+PORTARIA Nº 1.328, DE 5 DE SETEMBRO DE 2025
+
+Reconhece o Projeto de Assentamento Estadual São Miguel, Código SIPRA MA1021100,localizado no município de São Bernardo, no estado do Maranhão.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, no uso das atribuições que lhe são conferidas pelo Decreto n.º 11.232, de 10 de outubro de 2022, alterado pelo Decreto n.º 12.171, de 09 de setembro de 2024, combinado com o art. 143 do Regimento Interno da Autarquia, aprovado pela Portaria n.º 925, de 30 de dezembro de 2024, publicada no Diário Oficial da União do dia 31 de dezembro de 2024 e art. 11 do Decreto n.º 9.311, de 15 de março de 2018;
+
+Considerando que o reconhecimento de projeto de assentamento de outro ente público e de unidade de conservação de uso sustentável é medida que possibilita o acesso de unidades familiares ao Programa Nacional de Reforma Agrária - PNRA;
+
+Considerando a aprovação da proposta de reconhecimento de unidades familiares do Assentamento Estadual São Miguel, da Superintendência Regional do Maranhão - SR(12)MA, autorizada pela Diretoria de Obtenção de Terras -DT; resolve:
+
+**Art. 1º** Reconhecer o Projeto de Assentamento São Miguel, instituído pelo Instituto de Colonização e Terras do Maranhão - ITERMA, Código SIPRA MA1021100, com área de 508,5081 ha (quinhentos e oito hectares, cinquenta ares e oitenta e um centiares), localizado no município de São Bernardo, estado do Maranhão.
+
+**Art. 2º** Autorizar o início do processo de análise para a inclusão de 25 (vinte e cinco) unidades familiares como beneficiárias do PNRA, nos termos do art. 7º do Decreto n.º 9.311, de 15 de março de 2018.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+CÉSAR FERNANDO SCHIAVON ALDRIGHI

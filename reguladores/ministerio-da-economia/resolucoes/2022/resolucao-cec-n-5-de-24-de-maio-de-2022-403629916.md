@@ -1,0 +1,68 @@
+---
+titulo: "RESOLUÇÃO CEC Nº 5, DE 24 DE MAIO DE 2022"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Conselho de Estratégia Comercial"
+tipo: "Resolução"
+numero: "5"
+data: 2022-05-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/05/2022, seção 1, p. 15"
+data_publicacao: 2022-05-27
+edicao: "100"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cec-n-5-de-24-de-maio-de-2022-403629916"
+sha256_html_fonte: 6dcec43315369af2ba5f9c7eca28c9592aa8a1936d1b3c0db45341da7c59afc6
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO CEC Nº 5, DE 24 DE MAIO DE 2022
+
+RESOLUÇÃO CEC Nº 5, DE 24 DE MAIO DE 2022
+
+Dispõe sobre a apreciação de recursos administrativos em face da Resolução Gecex nº 73, de 14 de agosto de 2020, Resolução nº 91, de 16 de setembro de 2020, Resolução nº 134, de 23 de dezembro de 2020, Resolução nº 141, de 19 de janeiro de 2021, Resolução nº 152, de 4 de fevereiro de 2021, Resolução nº 160, de 18 de fevereiro de 2021, Resolução nº 176, de 19 de março de 2021, Resolução nº 193, de 28 de abril de 2021, Resolução nº 198, de 3 de maio de 2021, nº 199, de 4 de maio de 2021, e Resolução nº 203, de 20 de maio de 2021.
+
+O CONSELHO DE ESTRATÉGIA COMERCIAL DA CÂMARA DE COMÉRCIO EXTERIOR, no uso das atribuições que lhe confere o caput do art. 3º do Decreto nº 10.044, de 4 de outubro de 2019, e tendo em vista o disposto no art. 56 da Lei nº 9.784, de 29 de janeiro de 1999, e a deliberação de sua 3ª reunião, ocorrida em 12 de abril de 2022, resolve:
+
+**Art. 1º** Deferir parcialmente os recursos administrativos objetos dos Processos nº 19971.100735/2020-35, nº 19972.102251/2020-11 e nº 19971.100755/2020-14, apresentados pelas empresas Braskem S/A e Unipar Indupa do Brasil S/A, em face da Resolução Gecex nº 73, de 14 de agosto de 2020, publicada no Diário Oficial da União de 14 de agosto de 2020, que prorrogou o direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de resinas de policloreto de vinila obtidas pelo processo de suspensão (PVC-S), originárias da República Popular da China, com sua imediata suspensão após a prorrogação, nos termos do disposto no art. 1º e no Anexo Único da Resolução Gecex nº 200, de 11 de maio de 2021, indeferindo os demais pleitos das empresas e mantendo-se os efeitos da Resolução Gecex nº 73, de 2020, e tendo como razões de motivação os fundamentos das Notas Técnicas SDCOM nº 18 (SEI nº 15187570) e nº 19 (SEI nº 15187694), de 20 de abril de 2021, constantes do Processo nº 19972.100744/2021-05.
+
+**Art. 2º** Indeferir o recurso administrativo objeto do Processo nº 19971.100852/2020-07, apresentado pela Rhodia Poliamida e Especialidades S.A., em face da Resolução Gecex nº 91, de 16 de setembro de 2020, que prorrogou direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de fenol, originárias dos Estados Unidos da América e da União Europeia, e suspendeu sua aplicação, por até um ano, em razão de interesse público, tendo como razões de motivação os fundamentos das notas técnicas da Subsecretaria de Defesa Comercial e Interesse Público (SEI nº 12899615, nº 12899672 e nº 12894566) constantes do Processo nº 19972.100037/2021-19.
+
+**Art. 3º** Indeferir o recurso administrativo objeto do Processo nº 19971.100027/2021-85, apresentado pela Sasol South Africa Ltd (Sasol), em face da Resolução Gecex nº 134, de 23 de dezembro de 2020, que prorrogou direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de Resina de polipropileno (PP), comumente classificadas nos itens 3902.10.20 e 3902.30.00 da Nomenclatura Comum do Mercosul - NCM, originárias da República da África do Sul e da República da Índia, tendo como razões de motivação os fundamentos da Nota Técnica nº 196/2021/CGMC/SDCOM/SECEX (SEI nº 14459185), de 18 de março de 2021, constante do Processo nº 19972.100565/2021-60.
+
+**Art. 4º** Indeferir o recurso administrativo objeto do Processo nº 19971.100025/2021-96, apresentado pela Braskem S.A., em face da Resolução Gecex nº 134, de 2020, tendo como razões de motivação os fundamentos da Nota Técnica nº 197/2021/CGMC/SDCOM/SECEX (SEI nº 14459250), de 18 de março de 2021, constante do Processo nº 19972.100565/2021-60).
+
+**Art. 5º** Indeferir o recurso administrativo objeto do Processo nº 19971.100086/2021-53, apresentado pela Associação Brasileira de Fabricantes e Importadores de Artigos Escolares - ABFIAE, em face da Resolução Gecex nº 141, de 19 de janeiro de 2021, que aplicou direito antidumping definitivo, por um prazo de até cinco anos, às importações brasileiras de lápis de escrever, desenhar e/ou colorir, composto por madeira, resinas termoplásticas (resinas plásticas) ou outros materiais, contendo mina de grafite ou de cor, à base de carbonatos tingidos por pigmentos ou corantes, originárias da República Popular da China, tendo como razões de motivação os fundamentos das Notas Técnicas nº 13/2021/CGMC/SDCOM/SECEX (SEI nº 15075994) e nº 14/2021/CGIP/SDCOM/SECEX (SEI nº 15076061), ambas de 15 de abril de 2021, constantes do Processo nº 19971.100086/2021-53.
+
+**Art. 6º** Indeferir o recurso administrativo objeto do Processo nº 19971.100082/2021-75, apresentado pela China Writing Instrument Association ("CWIA") e pela China Chamber of Commerce for Import and Export of Light Industrial Products and Arts-Crafts ("CCCLA"), em face da Resolução Gecex nº 141, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 15/2021/CGIP/SDCOM/SECEX (SEI nº 15079890), de 15 de abril de 2021, constante do Processo nº 19971.100082/2021-75.
+
+**Art. 7º** Indeferir o recurso administrativo objeto do Processo nº 19971.100088/2021-42, apresentado pela empresa Axus, em face da Resolução Gecex nº 141, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 16/2021/CGMC/SDCOM/SECEX (SEI nº 15081657), de 15 de abril de 2021, constante do Processo nº 19971.100088/2021-42.
+
+**Art. 8º** Indeferir o recurso administrativo objeto do Processo nº 19971.100148/2021-27, apresentado pela Associação Nacional dos Fabricantes de Cerâmica para Revestimentos, Louças Sanitárias e Congêneres - Anfacer, em face da Resolução Gecex nº 152, de 4 de fevereiro de 2021, que prorrogou o direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de porcelanato técnico, comumente classificadas no subitem 6907.21.00 da NCM, originárias da China, tendo como razões de motivação os fundamentos da Nota Técnica SDCOM nº 47 (SEI nº 18434207), de 31 de agosto de 2021, constante do Processo nº 19972.101665/2021-11.
+
+**Art. 9º** Indeferir o recurso administrativo objeto do Processo nº 19971.100201/2021-90, apresentado pela Vitro S.A.B. de C.V. - Vitro, em face da Resolução Gecex nº 160, de 18 de fevereiro de 2021, que aplicou o direito antidumping definitivo, por um prazo de até cinco anos, às importações brasileiras de vidros planos flotados incolores, com espessuras de 2 mm a 19 mm, comumente classificadas no subitem 7005.29.00, originárias da China, do Egito, dos Emirados Árabes Unidos e do México, com imediata suspensão após a sua prorrogação para o México, tendo como razões de motivação os fundamentos da Nota Técnica nº 22/2021/CGSC/SDCOM/SECEX (SEI nº 15617221), de 7 de maio de 2021, constante do Processo nº 19972.100840/2021-45.
+
+**Art. 10.** Deferir parcialmente o recurso administrativo objeto do Processo nº 19971.100208/2021-10, apresentado pela Associação Nacional de Fabricantes de Produtos Eletroeletrônicos - ELETROS, em face da Resolução Gecex nº 160, de 2021, nos termos do disposto nos arts. 2º, 3º, 4º e no Anexo Único da Resolução Gecex nº 208, de 29 de maio de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 23/2021/CGSC/SDCOM/SECEX, (SEI nº 16639077), de 16 de junho de 2021, constante do Processo nº 19971.100208/2021-10.
+
+**Art. 11.** Indeferir o recurso administrativo objeto do Processo nº 19971.100315/2021-30, apresentado pela Associação Brasileira de Importadores e Distribuidores de Pneus - ABIDIP, em face da Resolução Gecex nº 176, de 19 de março de 2021, que prorrogou direito antidumping definitivo, por um prazo de até cinco anos, às importações brasileiras de pneus novos utilizados em ônibus e caminhões, de construção radial, aros 20", 22" e 22,5", projetados para serem usados com ou sem câmara de ar, originários da Coreia do Sul, Rússia e Tailândia, com imediata suspensão após sua prorrogação para o Japão, tendo como razões de motivação os fundamentos da Nota Técnica nº 27/2021/CGMC/SDCOM/SECEX (SEI nº 16298623), de 8 de junho de 2021, constante do Processo nº 19971.100315/2021-30.
+
+**Art. 12.** Indeferir o recurso administrativo objeto do Processo nº 19971.100313/2021-41, apresentado pela empresa Hankook Tire Co. Ltd., em face da Resolução Gecex nº 176, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 28/2021/CGMC/SDCOM/SECEX (SEI nº 16298817), de 8 de junho de 2021, constante do Processo nº 19971.100313/2021-41.
+
+**Art. 13.** Indeferir o recurso administrativo objeto do Processo nº 19971.100414/2021-11, apresentado pela China Chamber of International Commerce, em face da Resolução Gecex nº 193, de 28 de abril de 2021, que prorrogou direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de tubos de plástico para coleta de sangue a vácuo, originárias da China, Estados Unidos da América e do Reino Unido, e manteve vigente a suspensão, por interesse público, dos direitos aplicados às importações brasileiras de tubos de plástico para coleta de sangue a vácuo estabelecida pela Resolução Gecex nº 147, de 15 de janeiro de 2021, tendo por objetivo facilitar o combate à pandemia do Corona Vírus / Covid-19.
+
+**Art. 14.** Deferir parcialmente o recurso administrativo objeto do Processo nº 19971.100415/2021-66, apresentado pela Becton Dickinson Indústrias Cirúrgicas Ltda., em face da Resolução Gecex nº 193, de 2021, em decorrência da correção da margem de dumping apurada para a empresa Becton Dickinson and Company dos Estados Unidos da América, mantidos os montantes dos direitos indicados no art. 1º da Resolução Gecex nº 193, de 2021.
+
+**Art. 15.** Indeferir o recurso administrativo objeto do Processo nº 19971.100441/2021-94, apresentado pela Triangle Tyre Co., Ltd., em face da Resolução Gecex nº 198, de 3 de maio de 2021, que prorrogou o direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de pneus de construção radial, de aros 20", 22" e 22,5", para uso em ônibus e caminhões, comumente classificados no subitem 4011.20.90 da Nomenclatura Comum do MERCOSUL - NCM, originárias da China, tendo como razões de motivação os fundamentos da Nota Técnica nº 31/2021/CGSC/SDCOM/SECEX (SEI nº 16909262), de 1º de julho de 2021, constante do Processo nº 19972.101177/2021-04.
+
+**Art. 16.** Indeferir o recurso administrativo objeto do Processo nº 19971.100440/2021-40, apresentado pela China Rubber Industry Association ("CRIA"), em face da Resolução Gecex nº 198, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 32/2021/CGSC/SDCOM/SECEX (SEI nº 16909335), de 1º de julho de 2021, constante do Processo nº 19972.101177/2021-04.
+
+**Art. 17.** Indeferir o recurso administrativo objeto do Processo nº 19971.100449/2021-51, apresentado pela Zhongce Rubber Group Co., Ltd., em face da Resolução Gecex nº 198, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 33/2021/CGSC/SDCOM/SECEX (SEI nº 16909405), de 1º de julho de 2021, constante do Processo nº 19972.101177/2021-04.
+
+**Art. 18.** Indeferir o recurso administrativo objeto do Processo nº 19971.100451/2021-20, apresentado em 17 de maio de 2021 pela produtora/exportadora de Taipé Chinês Top High Image Corp, em face da Resolução Gecex nº 199, de 4 de maio de 2021, que prorrogou o direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de chapas pré-sensibilizadas de alumínio para impressão off-set, comumente classificadas nos itens 3701.30.21 e 3701.30.31 da Nomenclatura Comum do Mercosul - NCM, originárias da China, Taipé Chinês, EUA, União Europeia e Reino Unido, tendo como razões de motivação os fundamentos da Nota Técnica nº 44/2021/CGMC/SDCOM/SECEX (SEI nº 17794848), de 6 de agosto de 2021, constante do Processo nº 19971.100451/2021-20.
+
+**Art. 19.** Indeferir o recurso administrativo objeto do Processo nº 19971.100458/2021-41, apresentado em 19 de maio de 2021 pela entidade chinesa China Chamber of International Commerce - CCOIC, em face da Resolução Gecex nº 199, de 2021, tendo como razões de motivação os fundamentos da Nota Técnica nº 45/2021/CGMC/SDCOM/SECEX (SEI nº 17795222), de 6 de agosto de 2021, constante do Processo nº 19971.100458/2021-41.
+
+**Art. 20.** Indeferir o recurso administrativo objeto do Processo nº 19971.100525/2021-28, apresentado pela Terphane Ltda, em face da Resolução Gecex nº 203, de 20 de maio de 2021, que prorrogou direito antidumping definitivo, por um prazo de até cinco anos, aplicado às importações brasileiras de Filme PET, com espessuras entre 5 a 50 microns, comumente classificadas nos subitens 3920.62.19, 3920.62.91 e 3920.62.99 da NCM, originárias do Egito, Índia e China, com imediata suspensão após a sua prorrogação para Egito e China, tendo como razões de motivação os fundamentos da Nota Técnica nº 30/2021/CGSC/SDCOM/SECEX (SEI nº 17789699), de 3 de agosto de 2021, constante do Processo nº 19972.101369/2021-11.
+
+**Art. 21.** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Conselho Substituto

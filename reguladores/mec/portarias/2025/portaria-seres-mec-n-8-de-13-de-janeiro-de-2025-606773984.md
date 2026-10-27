@@ -1,0 +1,53 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 8, DE 13 DE JANEIRO DE 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "8"
+data: 2025-01-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/01/2025, seção 1, p. 63"
+data_publicacao: 2025-01-14
+edicao: "9"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-8-de-13-de-janeiro-de-2025-606773984"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 8, DE 13 DE JANEIRO DE 2025
+
+PORTARIA SERES/MEC Nº 8, DE 13 DE JANEIRO DE 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas MEC n° 20 e nº 23, de 21 de dezembro de 2017, republicadas em 3 de setembro de 2018, bem como a Instrução Normativa SERES nº 1, de 17 de setembro de 2018, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam autorizados os cursos superiores de graduação constantes da tabela do Anexo desta Portaria, solicitados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10 do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** As autorizações a que se refere esta Portaria são válidas exclusivamente para os cursos ministrados nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** As instituições citadas na tabela constante do Anexo desta Portaria deverão protocolar pedido de reconhecimento dos respectivos cursos, nos termos do disposto no art. 46 do Decreto nº 9.235, de 2017.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Autorização de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202331826 | DIREITO (Bacharelado) | 200 (duzentas) | CENTRO UNIVERSITÁRIO DE ENSINO, CIÊNCIA E TECNOLOGIA DO PARANÁ | INSTITUTO DE ENSINO SUPERIOR ANCHIETA | RUA SENADOR ACCIOLY FILHO, 1021, CAMPUS NEOVILLE CIC, CIDADE INDUSTRIAL, CURITIBA/PR |
+| 2 | 202401718 | FISIOTERAPIA (Bacharelado) | 60 (sessenta) | FACULDADE ANHANGUERA DE ITAPETININGA | ANHANGUERA EDUCACIONAL PARTICIPACOES S/A | RUA DOUTOR COUTINHO, 733, BLOCO D, CENTRO, ITAPETININGA/SP |
+| 3 | 202401743 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 80 (oitenta) | FACULDADE ANHANGÜERA DE SOROCABA | ANHANGUERA EDUCACIONAL PARTICIPACOES S/A | AVENIDA DOUTOR ARMANDO PANNUNZIO, 1478, CAMPUS - SOROCABA - ITANGUÁ, JARDIM VERA CRUZ, SOROCABA/SP |
+| 4 | 202401650 | ENFERMAGEM (Bacharelado) | 80 (oitenta) | FACULDADE ANHANGUERA UNIME DE SALVADOR | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA SANTIAGO DE COMPOSTELA, 216, PARQUE BELA VISTA, SALVADOR/BA |
+| 5 | 202402279 | FISIOTERAPIA (Bacharelado) | 120 (cento e vinte) | FACULDADE DE CIÊNCIAS HUMANAS E SOCIAIS DO XINGU E AMAZÔNIA | SOCIEDADE PARA DESENVOLVIMENTO DA EDUCACAO CIENCIA E CULTURA DO XINGU E AMAZONIA | AVENIDA JOÃO PESSOA, - DE 1015/1016 A 1747/1748, CATEDRAL, ALTAMIRA/PA |
+| 6 | 202331203 | ENFERMAGEM (Bacharelado) | 100 (cem) | FACULDADE DE CIÊNCIAS MÉDICAS DO PARÁ | IPEC INSTITUTO PARAENSE DE EDUCACAO E CULTURA LTDA | FOLHA 32, QUADRA ESPECIAL, LOTE 10, NOVA MARABÁ, MARABÁ/PA |
+| 7 | 202402787 | CIÊNCIAS CONTÁBEIS (Bacharelado) | 100 (cem) | FACULDADE ESAMC JUNDIAÍ | CENTRO DE ESTUDOS DE ADMINISTRACAO E MARKETING CEAM LTDA | RUA CORONEL BOAVENTURA MENDES PEREIRA, 211, VILA BOAVENTURA, JUNDIAÍ/SP |
+| 8 | 202402768 | BIOMEDICINA (Bacharelado) | 100 (cem) | FACULDADE ITH | INSTITUTO HEALTH - ITH EIRELI | ALAMEDA DOS BURITIS, 485, QD.66 LT.:17,19,20,21 E 22, SETOR OESTE, GOIÂNIA/GO |
+| 9 | 202402769 | ENFERMAGEM (Bacharelado) | 100 (cem) | FACULDADE ITH | INSTITUTO HEALTH - ITH EIRELI | ALAMEDA DOS BURITIS, 485, QD.66 LT.:17,19,20,21 E 22, SETOR OESTE, GOIÂNIA/GO |
+| 10 | 202402770 | FARMÁCIA (Bacharelado) | 100 (cem) | FACULDADE ITH | INSTITUTO HEALTH - ITH EIRELI | ALAMEDA DOS BURITIS, 485, QD.66 LT.:17,19,20,21 E 22, SETOR OESTE, GOIÂNIA/GO |
+| 11 | 202335656 | PSICOLOGIA (Bacharelado) | 100 (cem) | FACULDADE SANTA BÁRBARA | INSTITUTO DE PESQUISA E ENSINO TECNICO E SUPERIOR DE ARAPIRACA LTDA | RUA DELMIRO GOUVEIA, 1090, SENADOR TEOTÔNIO VILELA, ARAPIRACA/AL |
+| 12 | 202334035 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 60 (sessenta) | FACULDADE SÃO VICENTE DE IRATI | SOCIEDADE EDUCACIONAL IRATI LTDA. | RUA 24 DE MAIO, 538, CENTRO, IRATI/PR |
+| 13 | 202334234 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 60 (sessenta) | FACULDADE SÃO VICENTE DE IRATI | SOCIEDADE EDUCACIONAL IRATI LTDA. | RUA 24 DE MAIO, 538, CENTRO, IRATI/PR |
+| 14 | 202403350 | NUTRIÇÃO (Bacharelado) | 38 (trinta e oito) | FACULDADE UCEFF DE SÃO MIGUEL DO OESTE | UCEFF - UNIDADE CENTRAL DE EDUCACAO FAI FACULDADES LTDA | RUA SANTOS DUMONT, 441, CENTRO, SÃO MIGUEL DO OESTE/SC |
+| 15 | 202403062 | BIOMEDICINA (Bacharelado) | 240 (duzentas e quarenta) | FACULDADE UNINASSAU MOSSORÓ | SER EDUCACIONAL S.A. | AVENIDA JOÃO DA ESCÓSSIA, 3373, CENTRO, MOSSORÓ/RN |
+| 16 | 202330418 | BIOMEDICINA (Bacharelado) | 120 (cento e vinte) | FACULDADE UNINASSAU SERRA TALHADA | SER EDUCACIONAL S.A. | AV AVENIDA ADRIANO DUQUE DE GODOY SOUZA, 1, SHOPPING, NOSSA SENHORA DA PENHA, SERRA TALHADA/PE |
+| 17 | 202330642 | TERAPIA OCUPACIONAL (Bacharelado) | 120 (cento e vinte) | FACULDADE UNINASSAU SERRA TALHADA | SER EDUCACIONAL S.A. | AV AVENIDA ADRIANO DUQUE DE GODOY SOUZA, 1, SHOPPING, NOSSA SENHORA DA PENHA, SERRA TALHADA/PE |
+| 18 | 202403470 | LOGÍSTICA (Tecnológico) | 100 (cem) | INSTITUTO DE EDUCAÇÃO SUPERIOR E INOVAÇÃO INVENIO | INSTITUTO BRASILEIRO DE INCREMENTO E EXPANSAO DO SABER IBIES | RUA JOSÉ VIEIRA MARTINS, 270, JARDIM ITAPURA, SÃO PAULO/SP |
+| 19 | 202403469 | MARKETING (Tecnológico) | 100 (cem) | INSTITUTO DE EDUCAÇÃO SUPERIOR E INOVAÇÃO INVENIO | INSTITUTO BRASILEIRO DE INCREMENTO E EXPANSAO DO SABER IBIES | RUA JOSÉ VIEIRA MARTINS, 270, JARDIM ITAPURA, SÃO PAULO/SP |

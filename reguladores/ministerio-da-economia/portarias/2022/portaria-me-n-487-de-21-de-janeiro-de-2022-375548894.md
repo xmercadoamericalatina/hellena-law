@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA ME Nº 487, DE 21 DE JANEIRO DE 2022"
+orgao: "Ministério da Economia/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "487"
+data: 2022-01-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/01/2022, seção 1, p. 62"
+data_publicacao: 2022-01-24
+edicao: "16"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-me-n-487-de-21-de-janeiro-de-2022-375548894"
+sha256_html_fonte: 8f62817ed1a73ad43b8105e3028d2883b3a513b6f8451da5273e5294d49e3c29
+baixado_em: 2026-10-20
+---
+# PORTARIA ME Nº 487, DE 21 DE JANEIRO DE 2022
+
+PORTARIA ME Nº 487, DE 21 DE JANEIRO DE 2022
+
+Altera a Tabela 2 do Anexo II da Portaria nº 7.867, de 1º de julho de 2021, do Ministério da Economia, que autoriza o pagamento de equalização de taxas de juros em financiamentos rurais concedidos no Plano Safra 2021/2022.
+
+O MINISTRO DE ESTADO DA ECONOMIA, no uso das atribuições que lhe foram conferidas pelo art. 87, parágrafo único, inciso II, da Constituição, e tendo em vista o disposto no art. 5º da Lei nº 8.427, de 27 de maio de 1992, resolve:
+
+**Art. 1º** Alterar a Tabela 2 do Anexo II à Portaria nº 7.867, de 1º de julho de 2021, do Ministério da Economia, que passa a vigorar na forma do Anexo.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+PAULO GUEDES
+
+## ANEXO
+
+LIMITES EQUALIZÁVEIS
+
+TABELA 2 - SICREDI
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Código STN (SICOR)*</p></td>      <td rowspan="1" colspan="1"><p>Linha de Financiamento</p></td>      <td rowspan="1" colspan="1"><p>Fonte de Recursos</p></td>      <td rowspan="1" colspan="1"><p>Custo Fonte de Recursos</p></td>      <td rowspan="1" colspan="1"><p>CAT a.a.</p></td>      <td rowspan="1" colspan="1"><p>Limite Equalizável (R$)</p></td>      <td rowspan="1" colspan="1"><p>Taxa de Juros ao tomador final a.a.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000001</p></td>      <td rowspan="1" colspan="1"><p>ABC - Demais</p></td>      <td rowspan="1" colspan="1"><p>Recursos Próprios</p></td>      <td rowspan="1" colspan="1"><p>(1,00 x TMS)</p></td>      <td rowspan="1" colspan="1"><p>2,80%</p></td>      <td rowspan="1" colspan="1"><p>70.400.000,00</p></td>      <td rowspan="1" colspan="1"><p>7,00%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000002</p></td>      <td rowspan="1" colspan="1"><p>Custeio Empresarial</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>5,00%</p></td>      <td rowspan="1" colspan="1"><p>2.372.900.000,00</p></td>      <td rowspan="1" colspan="1"><p>7,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000003</p></td>      <td rowspan="1" colspan="1"><p>Custeio Pronamp</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>5,00%</p></td>      <td rowspan="1" colspan="1"><p>4.000.000.000,00</p></td>      <td rowspan="1" colspan="1"><p>5,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000004</p></td>      <td rowspan="1" colspan="1"><p>Investimento Empresarial</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>2,80%</p></td>      <td rowspan="1" colspan="1"><p>300.000.000,00</p></td>      <td rowspan="1" colspan="1"><p>7,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000005</p></td>      <td rowspan="1" colspan="1"><p>Investimento Pronamp</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>3,25%</p></td>      <td rowspan="1" colspan="1"><p>540.300.000,00</p></td>      <td rowspan="1" colspan="1"><p>6,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000006</p></td>      <td rowspan="1" colspan="1"><p>Custeio Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>5,00%</p></td>      <td rowspan="1" colspan="1"><p>640.000.000,00</p></td>      <td rowspan="1" colspan="1"><p>3,00%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000007</p></td>      <td rowspan="1" colspan="1"><p>Custeio Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>5,00%</p></td>      <td rowspan="1" colspan="1"><p>1.660.000.000,00</p></td>      <td rowspan="1" colspan="1"><p>4,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000008</p></td>      <td rowspan="1" colspan="1"><p>Investimento Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>4,60%</p></td>      <td rowspan="1" colspan="1"><p>178.300.000,00</p></td>      <td rowspan="1" colspan="1"><p>3,00%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000009</p></td>      <td rowspan="1" colspan="1"><p>Investimento Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>4,60%</p></td>      <td rowspan="1" colspan="1"><p>594.500.000,00</p></td>      <td rowspan="1" colspan="1"><p>4,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000010</p></td>      <td rowspan="1" colspan="1"><p>Aquisição de matrizes e reprodutores - Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Poupança Rural</p></td>      <td rowspan="1" colspan="1"><p>RDP</p></td>      <td rowspan="1" colspan="1"><p>4,60%</p></td>      <td rowspan="1" colspan="1"><p>396.300.000,00</p></td>      <td rowspan="1" colspan="1"><p>4,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000011</p></td>      <td rowspan="1" colspan="1"><p>Custeio Pronaf</p></td>      <td rowspan="1" colspan="1"><p>Recursos Próprios</p></td>      <td rowspan="1" colspan="1"><p>(1,00 x TMS)</p></td>      <td rowspan="1" colspan="1"><p>3,00%</p></td>      <td rowspan="1" colspan="1"><p>166.274.000,00</p></td>      <td rowspan="1" colspan="1"><p>4,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000012</p></td>      <td rowspan="1" colspan="1"><p>Custeio Pronamp</p></td>      <td rowspan="1" colspan="1"><p>Recursos Próprios</p></td>      <td rowspan="1" colspan="1"><p>(1,00 x TMS)</p></td>      <td rowspan="1" colspan="1"><p>3,00%</p></td>      <td rowspan="1" colspan="1"><p>303.970.000,00</p></td>      <td rowspan="1" colspan="1"><p>5,50%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2021748000013</p></td>      <td rowspan="1" colspan="1"><p>Custeio Empresarial</p></td>      <td rowspan="1" colspan="1"><p>Recursos Próprios</p></td>      <td rowspan="1" colspan="1"><p>(1,00 x TMS)</p></td>      <td rowspan="1" colspan="1"><p>3,00%</p></td>      <td rowspan="1" colspan="1"><p>1.747.762.000,00</p></td>      <td rowspan="1" colspan="1"><p>7,50%</p></td>     </tr>    </tbody>   </table>

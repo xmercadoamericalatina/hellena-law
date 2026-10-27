@@ -1,0 +1,38 @@
+---
+titulo: "RESOLUÇÃO CNAS/MDS Nº 176, DE 17 DE DEZEMBRO DE 2024"
+orgao: "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome/Conselho Nacional de Assistência Social"
+tipo: "Resolução"
+numero: "176"
+data: 2024-12-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/12/2024, seção 1, p. 29"
+data_publicacao: 2024-12-18
+edicao: "243"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cnas/mds-n-176-de-17-de-dezembro-de-2024-602580197"
+sha256_html_fonte: d7e1597855d9684a5f02c57de246e8e5eb5a16538bbce8b536c3cd0af167582a
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO CNAS/MDS Nº 176, DE 17 DE DEZEMBRO DE 2024
+
+RESOLUÇÃO CNAS/MDS Nº 176, DE 17 DE DEZEMBRO DE 2024
+
+Dispõe sobre a atualização da classificação do porte dos municípios a partir dos dados do Censo Demográfico IBGE 2022 e dá outras providências.
+
+O CONSELHO NACIONAL DE ASSISTÊNCIA SOCIAL - CNAS, no uso das competências estabelecidas pela Lei nº 8.742, de 07 de dezembro de 1993, Lei Orgânica da Assistência Social - LOAS, aprovada pela Resolução CNAS nº 145, de 15 de outubro de 2004 e na Política Nacional de Assistência Social - PNAS, resolve:
+
+**Art. 1º** Esta Resolução aprova, em conformidade com a Política Nacional de Assistência Social - PNAS, aprovada pela Resolução CNAS nº 145, de 15 de outubro de 2004, a atualização da classificação do porte dos Municípios a partir dos dados do Censo Demográfico IBGE 2022.
+
+**§ 1º** Para fins desta Resolução, considera-se como fonte de informação a publicação oficial divulgada em 28 de junho de 2023 e disponível nos endereços eletrônicos https://biblioteca.ibge.gov.br/visualizacao/livros/liv102011.pdf e https://sidra.ibge.gov.br/tabela/4714#resultado.
+
+**§ 2º** Não haverá redução do valor do cofinanciamento federal nas hipóteses em que o Município tenha diminuído de porte.
+
+**§ 3º** Os efeitos financeiros da atualização da classificação de porte dos Municípios passam a valer a partir do exercício de 2025, adequando-se as disponibilidades orçamentárias e financeiras em atendimento ao art. 167, inciso II, da Constituição Federal de 1988.
+
+**§ 4º** Para fins de representação, o novo porte dos Municípios passa a valer a partir das indicações realizadas após a publicação da presente resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+EDGILSON TAVARES DE ARAÚJO
+
+Presidente do Conselho

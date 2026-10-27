@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA PROGEP Nº 168, DE 26 DE DEZEMBRO DE 2024"
+orgao: "Ministério da Educação/Universidade Federal de Uberlândia/Pró-Reitoria de Gestão de Pessoas"
+tipo: "Portaria"
+numero: "168"
+data: 2024-12-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/12/2024, seção 1, p. 774"
+data_publicacao: 2024-12-30
+edicao: "250"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-progep-n-168-de-26-de-dezembro-de-2024-604420106"
+sha256_html_fonte: c600264d6b1e4ba7faca8b2f020c4317960e1cad2d2c0c447dab16bbf6b23549
+baixado_em: 2026-10-16
+---
+# PORTARIA PROGEP Nº 168, DE 26 DE DEZEMBRO DE 2024
+
+PORTARIA PROGEP Nº 168, DE 26 DE DEZEMBRO DE 2024
+
+O Pró-Reitor de Gestão de Pessoas da Universidade Federal de Uberlândia, no uso de suas atribuições e considerando a delegação de competência que lhe foi outorgada por meio da Portaria/R/UFU/nº. 5088, de 13/09/2024, do Reitor da Universidade Federal de Uberlândia, publicada no Diário Oficial da União em 16/09/2024, seção 2, p. 48. resolve:
+
+**Art. 1º** PRORROGAR o prazo de validade dos Concursos Públicos e Processos Seletivos Simplificados regidos pelos seguintes editais:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Número do edital</p></td>      <td rowspan="1" colspan="1"><p>Tipo</p></td>      <td rowspan="1" colspan="1"><p>Unidade</p></td>      <td rowspan="1" colspan="1"><p>Área/Subárea</p></td>      <td rowspan="1" colspan="1"><p>Publicação da homologação</p></td>      <td rowspan="1" colspan="1"><p>Validade inicial</p></td>      <td rowspan="1" colspan="1"><p>Novo prazo de validade</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 116/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado</p></td>      <td rowspan="1" colspan="1"><p>Instituto de Química</p></td>      <td rowspan="1" colspan="1"><p>Química Geral</p></td>      <td rowspan="1" colspan="1"><p>26/10/2023</p></td>      <td rowspan="1" colspan="1"><p>09/01/2025</p></td>      <td rowspan="1" colspan="1"><p>09/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 127/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado</p></td>      <td rowspan="1" colspan="1"><p>Faculdade de Engenharia Elétrica</p></td>      <td rowspan="1" colspan="1"><p>Engenharia Biomédica/ Engenharia de Reabilitação e Tecnologia Assistiva; Biomecânica</p></td>      <td rowspan="1" colspan="1"><p>19/12/2023</p></td>      <td rowspan="1" colspan="1"><p>08/01/2025</p></td>      <td rowspan="1" colspan="1"><p>08/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 206/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado</p></td>      <td rowspan="1" colspan="1"><p>Faculdade de Odontologia</p></td>      <td rowspan="1" colspan="1"><p>Diagnóstico Estomatológico</p></td>      <td rowspan="1" colspan="1"><p>18/01/2024</p></td>      <td rowspan="1" colspan="1"><p>31/01/2025</p></td>      <td rowspan="1" colspan="1"><p>31/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 119/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado para Professor Visitante</p></td>      <td rowspan="1" colspan="1"><p>Instituto de Ciências Agrárias</p></td>      <td rowspan="1" colspan="1"><p>Ciências Agrárias</p></td>      <td rowspan="1" colspan="1"><p>14/11/2023</p></td>      <td rowspan="1" colspan="1"><p>29/01/2025</p></td>      <td rowspan="1" colspan="1"><p>29/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 114/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado para Professor Visitante</p></td>      <td rowspan="1" colspan="1"><p>Instituto de Física</p></td>      <td rowspan="1" colspan="1"><p>Física Médica</p></td>      <td rowspan="1" colspan="1"><p>30/11/2023</p></td>      <td rowspan="1" colspan="1"><p>04/01/2025</p></td>      <td rowspan="1" colspan="1"><p>04/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 124/2023</p></td>      <td rowspan="1" colspan="1"><p>Processo Seletivo Simplificado para Professor Visitante</p></td>      <td rowspan="1" colspan="1"><p>Instituto de Física</p></td>      <td rowspan="1" colspan="1"><p>Física/ (i) Física da Matéria Condensada, (ii) Física Estatística e Métodos Matemáticos, (iii) Ótica e fotônica, (iv) Informação quântica.</p></td>      <td rowspan="1" colspan="1"><p>08/11/2023</p></td>      <td rowspan="1" colspan="1"><p>29/01/2025</p></td>      <td rowspan="1" colspan="1"><p>29/01/2026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 71/2022</p></td>      <td rowspan="1" colspan="1"><p>Concurso Público</p></td>      <td rowspan="1" colspan="1"><p>Faculdade de Medicina</p></td>      <td rowspan="1" colspan="1"><p>Saúde Coletiva/ Saúde da Família</p></td>      <td rowspan="1" colspan="1"><p>05/01/2023</p></td>      <td rowspan="1" colspan="1"><p>03/01/2025</p></td>      <td rowspan="1" colspan="1"><p>03/01/2027</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Edital PROGEP nº 74/2022</p></td>      <td rowspan="1" colspan="1"><p>Concurso Público</p></td>      <td rowspan="1" colspan="1"><p>Instituto de Biotecnologia</p></td>      <td rowspan="1" colspan="1"><p>Genética Humana</p></td>      <td rowspan="1" colspan="1"><p>05/01/2023</p></td>      <td rowspan="1" colspan="1"><p>03/01/2025</p></td>      <td rowspan="1" colspan="1"><p>03/01/2027</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta Portaria entra em vigor nesta data.
+
+MARCIO MAGNO COSTA

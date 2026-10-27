@@ -1,0 +1,37 @@
+---
+titulo: "PORTARIA Nº 1.667, DE 6 DE MARÇO DE 2026"
+orgao: "Ministério do Desenvolvimento Agrário e Agricultura Familiar/Instituto Nacional de Colonização e Reforma Agrária"
+tipo: "Portaria"
+numero: "1667"
+data: 2026-03-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/03/2026, seção 1, p. 23"
+data_publicacao: 2026-03-09
+edicao: "45"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.667-de-6-de-marco-de-2026-691060093"
+baixado_em: 2026-10-15
+---
+# PORTARIA Nº 1.667, DE 6 DE MARÇO DE 2026
+
+PORTARIA Nº 1.667, DE 6 DE MARÇO DE 2026
+
+Altera a Modalidade do Assentamento e a Capacidade de famílias beneficiárias do Projeto de Assentamento Agroextrativista Porto Dias, localizado no município de Acrelândia, estado do Acre, sob gestão da Superintendência Regional do Acre - SR(14)AC.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, no uso das atribuições que lhe são conferidas pelo Decreto n.º 11.232, de 10 de outubro de 2022, alterado pelos Decretos n.º 12.171, de 09 de setembro de 2024 e n.º 12.792, de 22 de dezembro de 2025, combinado com o art. 143 do Regimento Interno da Autarquia, aprovado pela Portaria n.º 925, de 30 de dezembro de 2024, publicada no Diário Oficial da União do dia 31 seguinte; e
+
+Considerando os órgãos da Superintendência Regional do Acre - SR(14)AC e da Diretoria de Obtenção de Terras - DT, que procederam a análise do processo administrativo n° 21560.000793/1989-13 e decidiram pela regularidade da retificação de informações na Portaria/Resolução/INCRA/N° 40, de 20 de outubro de 1989, publicada no Diário Oficial da União nº 125, Seção I, pág. 87, de 01 de julho de 2005, que criou o Projeto de Assentamento Agroextrativista Porto Dias, código SIPRA AC0018000, localizado no município de Acrelandia, no Estado do Acre.
+
+Considerando a demanda apresentada pela comunidade local, que tem reiteradamente solicitado da administração do INCRA alteração da modalidade do assentamento PAE Porto Dias;
+
+Considerando que o Estudo de Viabilidade da Alteração da Modalidade do Projeto de Assentamento Agroextrativista - PAE Porto Dias para Projeto de Assentamento - PA Porto Dias (27198731), concluiu pela descaracterização da proposta inicial, formalizada na criação do PAE, indicando o atendimento do pleito dos assentados, concretizada na alteração para a modalidade PA;
+
+Considerando que o Comitê de Decisão Regional deliberou sobre a alteração da modalidade do assentamento, conforme Ata (27387285) e Resolução (27387286), ambos do Comitê de Decisão Regional - CDR, decidindo pela regularidade da proposta, conforme os atos normativos que regulamentam a matéria;
+
+Considerando as informações do Projeto de Assentamento, a base cartográfica da SR(14)AC e a Nota Técnica 778/2026 (27389929); resolve:
+
+**Art. 1º.** Alterar a modalidade do Projeto de Assentamento Agroextrativista - PAE Porto Dias e a capacidade de 95 (noventa e cinco) famílias, constantes da Portaria Resolução INCRA Nº 40, de 20 de outubro de 1989, publicada no Diário Oficial da União - DOU n.º 125, Seção I, pág. 87, de 01 de julho de 2005, que criou o Projeto código SIPRA AC 0018000, localizado no município de Acrelândia, no Estado do Acre, e suas retificações, para Projeto de Assentamento Federal Porto Dias (PA Porto Dias) e capacidade de 240 (duzentas e quarenta) famílias, em conformidade com os procedimentos aprovados.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+CÉSAR FERNANDO SCHIAVON ALDRIGHI

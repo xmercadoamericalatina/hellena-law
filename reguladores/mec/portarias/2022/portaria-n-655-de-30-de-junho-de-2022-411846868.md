@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 655, de 30 DE JUNHO DE 2022"
+orgao: "Ministério da Educação/Fundação Universidade Federal de Sergipe"
+tipo: "Portaria"
+numero: "655"
+data: 2022-06-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/07/2022, seção 1, p. 216"
+data_publicacao: 2022-07-01
+edicao: "123"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-655-de-30-de-junho-de-2022-411846868"
+sha256_html_fonte: 47d0e531eb639280e79cb1e518c0b566ec9c60813932e94799640293c6d49e9f
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 655, de 30 DE JUNHO DE 2022
+
+PORTARIA Nº 655, de 30 DE JUNHO DE 2022
+
+O VICE-REITOR DA UNIVERSIDADE FEDERAL DE SERGIPE, NO EXERCÍCIO DA REITORIA, no uso de suas atribuições legais e considerando: o que consta do Processo de nº. 23113.000453/2022-45; resolve:
+
+**Art. 1º** - Homologar o resultado do Concurso Público de Provas e Títulos para Professor Efetivo do Departamento de Medicina/Campus Universitário Prof. Antônio Garcia Filho, objeto do Edital nº 001/2022, publicado no D.O.U. em 21/01/2022, e no Correio de Sergipe em 22/01/2022, retificado através dos Editais de Retificação nº 1, 2 e 3, publicados no DOU em 10/02/2022, 07/03/2022 e 26/04/2022, respectivamente, e Edital Complementar, publicado no D.O.U em 18/03/2022, conforme informações que seguem:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Matérias de Ensino</strong></p></td>      <td rowspan="1" colspan="1"><p>Todos os ciclos do curso de Medicina (sessões tutoriais, conferências, aulas em laboratórios, habilidades médicas e práticas de ensino na comunidade) com ênfase em Psiquiatria</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Disciplinas</strong></p></td>      <td rowspan="1" colspan="1"><p>Todos os ciclos do curso de Medicina (sessões tutoriais, conferências, aulas em laboratórios, habilidades médicas e práticas de ensino na comunidade)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Cargo/Nível</strong></p></td>      <td rowspan="1" colspan="1"><p>Auxiliar - Nível I</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Regime de Trabalho</strong></p></td>      <td rowspan="1" colspan="1"><p>40 (quarenta) horas semanais</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p><strong>Resultado Final</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Ampla Concorrência</strong></p></td>      <td rowspan="1" colspan="1"><p>1º LUGAR: JOSÉ MILTON ALVES DOS SANTOS JÚNIOR - 81,50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Cotas (Lei nº 12.990/2014)</strong></p></td>      <td rowspan="1" colspan="1"><p>Nenhum candidato aprovado</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Cotas (Decreto nº 3.298/1999)</strong></p></td>      <td rowspan="1" colspan="1"><p>Nenhum candidato aprovado</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** - Esta PORTARIA entrará em vigor na data de sua publicação no Diário Oficial da União.
+
+ROSALVO FERREIRA SANTOS

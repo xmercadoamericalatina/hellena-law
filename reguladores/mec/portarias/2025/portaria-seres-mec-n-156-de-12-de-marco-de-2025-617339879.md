@@ -1,0 +1,59 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 156, DE 12 DE MARÇO DE 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "156"
+data: 2025-03-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/03/2025, seção 1, p. 25"
+data_publicacao: 2025-03-13
+edicao: "49"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-156-de-12-de-marco-de-2025-617339879"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 156, DE 12 DE MARÇO DE 2025
+
+PORTARIA SERES/MEC Nº 156, DE 12 DE MARÇO DE 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202200979 | ENGENHARIA MECÂNICA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO ALVES FARIA | CENTRO EDUCACIONAL ALVES FARIA LTDA. | AVENIDA PERIMETRAL NORTE, 4.129, VILA JOÃO VAZ, GOIÂNIA/GO |
+| 2 | 202201061 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 80 (oitenta) | Centro Universitário de Tecnologia de Curitiba | ESCOLA TECNOLOGICA DE CURITIBA LTDA - EPP | RUA ITACOLOMI, 450, SEDE, PORTÃO, CURITIBA/PR |
+| 3 | 202200966 | FONOAUDIOLOGIA (Bacharelado) | 60 (sessenta) | Centro Universitário Dinâmica das Cataratas | UNIAO DINAMICA DE FACULDADES CATARATAS UDC LTDA | AVENIDA PARANÁ, 5661, 5661, VILA A, FOZ DO IGUAÇU/PR |
+| 4 | 202201088 | ARQUITETURA E URBANISMO (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO DO PLANALTO CENTRAL APPARECIDO DOS SANTOS | UNIAO EDUCACIONAL DO PLANALTO CENTRAL S.A | SIGA ÁREA ESPECIAL NO- 02, S/N, REGIÃO ADMINISTRATIVA II, SETOR LESTE GAMA, BRASÍLIA/DF |
+| 5 | 202200971 | ENGENHARIA MECÂNICA (Bacharelado) | 80 (oitenta) | Centro Universitário Einstein de Limeira | ASSOCIACAO LIMEIRENSE DE EDUCACAO E CULTURA | RUA RAUL MACHADO, 134, VILA QUEIROZ, LIMEIRA/SP |
+| 6 | 202201065 | ARQUITETURA E URBANISMO (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE RONDÔNIA | SOCIEDADE EDUCACIONAL DE RONDONIA S/S LTDA | RUA DOS ESPORTES, 1038, , INCRA, CACOAL/RO |
+| 7 | 202200941 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO | LICEU CORACAO DE JESUS | RUA DOM BOSCO, 284, UNIDADE DE ENSINO DE LORENA - CAMPUS SÃO JOAQUIM, CENTRO, LORENA/SP |
+| 8 | 202201125 | BIOMEDICINA (Bacharelado) | 80 (oitenta) | Centro Universitário Única | FACULDADE UNICA LTDA | RUA SALERMO, 299, , BETHÂNIA, IPATINGA/MG |
+| 9 | 202201124 | ENFERMAGEM (Bacharelado) | 80 (oitenta) | Centro Universitário Única | FACULDADE UNICA LTDA | RUA SALERMO, 299, , BETHÂNIA, IPATINGA/MG |
+| 10 | 202200960 | GESTÃO AMBIENTAL (Tecnológico) | 100 (cem) | Centro Universitário Uninovo | SOEC SOCIEDADE OLINDENSE DE EDUCACAO E CULTURA | AV.GETÚLIO VARGAS, 1360, BAIRRO NOVO, OLINDA/PE |
+| 11 | 202200958 | ENGENHARIA QUÍMICA (Bacharelado) | 100 (cem) | FACULDADE DE AMERICANA | ASSOCIACAO EDUCACIONAL AMERICANENSE | RUA JOAQUIM BOER, 733, JARDIM LUCIENE, AMERICANA/SP |
+| 12 | 202201121 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | FACULDADE DE CIÊNCIAS DO TOCANTINS | FACULDADE DE CIENCIAS DO TOCANTINS LTDA - FACIT | ROD. TOCANTINS 222, S/N, LOTE 2A - QUADRA GLEBA HARAS JULIANA, BARRA DA GROTA, ARAGUAÍNA/TO |
+| 13 | 202201173 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DE EXTREMA | SOCIEDADE UNIFICADA DE EDUCACAO DE EXTREMA SIMPLES LIMITADA | ESTRADA MUNICIPAL PEDRO ROSA DA SILVA, S/N, VILA RICA, EXTREMA/MG |
+| 14 | 202200790 | ENFERMAGEM (Bacharelado) | 50 (cinquenta) | FACULDADE DOUTOR FRANCISCO MAEDA | FUNDACAO EDUCACIONAL DE ITUVERAVA | RODOVIA JERÔNIMO NUNES MACÊDO KM 01, S/N, CAMPUS AGRONOMIA, AEROPORTO, ITUVERAVA/SP |
+| 15 | 202201177 | ENGENHARIA QUÍMICA (Bacharelado) | 60 (sessenta) | FACULDADE ESAMC SANTOS | ESACOM - ESCOLA SUPERIOR DE ADMINISTRACAO, COMUNICACAO E MARKETING S/C LTDA | RUA DR. EGYDIO MARTINS, 181, PONTA DA PRAIA, SANTOS/SP |
+| 16 | 202200987 | ENGENHARIA MECÂNICA (Bacharelado) | 100 (cem) | FACULDADE ESAMC SOROCABA | ATHON ENSINO SUPERIOR LTDA | RUA ARTHUR GOMES, 51, CAMPUS - SOROCABA - CENTRO, CENTRO, SOROCABA/SP |
+| 17 | 202201064 | NUTRIÇÃO (Bacharelado) | 50 (cinquenta) | Faculdade Morgana Potrich | CENTRO DE ENSINO SUPERIOR MORGANA POTRICH EIRELI | AVENIDA 3, QD. 7, LOTES 15 A 19, 3, , MUNDINHO, MINEIROS/GO |
+| 18 | 202201074 | EDUCAÇÃO FÍSICA (Bacharelado) | 80 (oitenta) | FACULDADE SÃO FRANCISCO DA PARAÍBA | VERA CLAUDINO EDUCACAO SUPERIOR LIMITADA - ME | AVENIDA BRASIL, S/N, RODOVIA 393, JARDIM ADALGISA, CAJAZEIRAS/PB |
+| 19 | 202029865 | INTERDISCIPLINAR EM CIÊNCIAS E HUMANIDADES (Bacharelado) | 350 (trezentas e cinquenta) | FUNDAÇÃO UNIVERSIDADE FEDERAL DO ABC | FUNDACAO UNIVERSIDADE FEDERAL DO ABC - UFABC | ALAMEDA DA UNIVERSIDADE, S/N, , ANCHIETA, SÃO BERNARDO DO CAMPO/SP |
+| 20 | 202201143 | ZOOTECNIA (Bacharelado) | 60 (sessenta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | AV. GERALDO MARQUES BARBOSA, 567, , VENANCIOS, CRATEÚS/CE |
+| 21 | 202030379 | DIREÇÃO TEATRAL (Bacharelado) | 6 (seis) | UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO | UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO | AVENIDA PASTEUR, 436, , URCA, RIO DE JANEIRO/RJ |
+| 22 | 202200813 | ENGENHARIA FLORESTAL (Bacharelado) | 50 (cinquenta) | UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA | UNIVERSIDADE FEDERAL RURAL DA AMAZONIA | RODOVIA PA 256 KM 6, S/N, RURAL, PARAGOMINAS/PA |
+| 23 | 202200812 | ENGENHARIA FLORESTAL (Bacharelado) | 50 (cinquenta) | UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA | UNIVERSIDADE FEDERAL RURAL DA AMAZONIA | RUA PAU AMARELO, S/N, , VILA NOVA, CAPITÃO POÇO/PA |
+| 24 | 202200827 | ARQUITETURA E URBANISMO (Bacharelado) | 492 (quatrocentas e noventa e duas) | UNIVERSIDADE NILTON LINS | CENTRO DE ENSINO SUPERIOR NILTON LINS | AV. PROF. NILTON LINS, 3259, , PARQUE DAS LARANJEIRAS, MANAUS/AM |
+| 25 | 202200825 | MEDICINA VETERINÁRIA (Bacharelado) | 300 (trezentas) | UNIVERSIDADE NILTON LINS | CENTRO DE ENSINO SUPERIOR NILTON LINS | AV. PROF. NILTON LINS, 3259, , PARQUE DAS LARANJEIRAS, MANAUS/AM |

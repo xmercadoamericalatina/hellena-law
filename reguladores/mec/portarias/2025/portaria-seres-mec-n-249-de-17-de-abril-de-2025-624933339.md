@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 249, DE 17 DE ABRIL DE 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "249"
+data: 2025-04-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2025, seção 1, p. 24"
+data_publicacao: 2025-04-22
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-249-de-17-de-abril-de-2025-624933339"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 249, DE 17 DE ABRIL DE 2025
+
+PORTARIA SERES/MEC Nº 249, DE 17 DE ABRIL DE 2025
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, SUBSTITUTO, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL ARRUDA FURTADO
+
+ANEXO (Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202404425 | DESIGN GRÁFICO (Tecnológico) | 200 (duzentas) | CENTRO UNIVERSITÁRIO BRAZ CUBAS | SOCIEDADE EDUCACIONAL BRAZ CUBAS LTDA. | AV. FRANCISCO RODRIGUES FILHO, 1233, , MOGILAR, MOGI DAS CRUZES/SP |
+| 2 | 202404427 | ENGENHARIA QUÍMICA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO BRAZ CUBAS | SOCIEDADE EDUCACIONAL BRAZ CUBAS LTDA. | AV. FRANCISCO RODRIGUES FILHO, 1233, , MOGILAR, MOGI DAS CRUZES/SP |
+| 3 | 202404428 | GASTRONOMIA (Tecnológico) | 200 (duzentas) | CENTRO UNIVERSITÁRIO BRAZ CUBAS | SOCIEDADE EDUCACIONAL BRAZ CUBAS LTDA. | AV. FRANCISCO RODRIGUES FILHO, 1233, , MOGILAR, MOGI DAS CRUZES/SP |
+| 4 | 202404456 | ODONTOLOGIA (Bacharelado) | 100 (cem) | Centro Universitário FACUNICAMPS | DINAMICA E ASSESSORIA E CONSULTORIA EMPRESARIAL EIRELI | RUA 210, 386, POLO SEDE, SETOR COIMBRA, GOIÂNIA/GO |
+| 5 | 202218083 | CIÊNCIAS BIOLÓGICAS (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE FORTALEZA | SER EDUCACIONAL S.A. | AVENIDA VISCONDE DO RIO BRANCO, 2078, SEDE, JOAQUIM TÁVORA, FORTALEZA/CE |
+| 6 | 202404374 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO NOBRE DE FEIRA DE SANTANA | UNIFAN CENTRO UNIVERSITARIO NOBRE DE FEIRA DE SANTANA LTDA | AVENIDA MARIA QUITÉRIA, 2116, - DE 1902 A 2316 - LADO PAR, CENTRO, FEIRA DE SANTANA/BA |
+| 7 | 202404279 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 80 (oitenta) | FACULDADE DA SAÚDE E ECOLOGIA HUMANA | CENTRO DE ENSINO SUPERIOR DE VESPASIANO LTDA | RUA SÃO PAULO, 958, , JARDIM ALTEROSA, VESPASIANO/MG |
+| 8 | 202404806 | BIOMEDICINA (Bacharelado) | 100 (cem) | FACULDADE HERRERO | SOCIEDADE EDUCACIONAL HERRERO LTDA. - SS - EPP | RUA ÁLVARO ANDRADE, 345/322, , PORTÃO, CURITIBA/PR |
+| 9 | 202307736 | FISIOTERAPIA (Bacharelado) | 80 (oitenta) | Faculdade Ibiapaba | FACULDADE DE EDUCACAO E CULTURA DA SERRA DA IBIAPABA LTDA | RUA RUA VEREADOR MANOEL FROTA, 363, , LAURÃO, TIANGUÁ/CE |
+| 10 | 202307725 | PSICOLOGIA (Bacharelado) | 80 (oitenta) | Faculdade Ibiapaba | FACULDADE DE EDUCACAO E CULTURA DA SERRA DA IBIAPABA LTDA | RUA RUA VEREADOR MANOEL FROTA, 363, , LAURÃO, TIANGUÁ/CE |
+| 11 | 202303339 | SERVIÇO SOCIAL (Bacharelado) | 80 (oitenta) | Faculdade Ibiapaba | FACULDADE DE EDUCACAO E CULTURA DA SERRA DA IBIAPABA LTDA | RUA RUA VEREADOR MANOEL FROTA, 363, , LAURÃO, TIANGUÁ/CE |
+| 12 | 202404863 | FISIOTERAPIA (Bacharelado) | 100 (cem) | FACULDADE IRECÊ | FACULDADE IRECE | RUA RIO IGUAÇU, 397, , RECANTO DAS ÁRVORES, IRECÊ/BA |
+| 13 | 202404468 | ADMINISTRAÇÃO (Bacharelado) | 90 (noventa) | FACULDADE REGIONAL DE RIACHÃO DO JACUÍPE | UNIDADE DE ENSINO, PESQUISA E EXTENSAO DE RIACHAO DO JACUIPE EIRELI | AVENIDA LOMANTO JUNIOR, 3939, PREDIO, BELA VISTA, RIACHÃO DO JACUÍPE/BA |
+| 14 | 202211279 | ENGENHARIA AGRONÔMICA (Bacharelado) | 100 (cem) | Faculdade UniBRAS Juazeiro | SOCIEDADE EDUCACIONAL VALE DO SAO FRANCISCO LTDA | RUA PARAÍSO, 800, , SANTO ANTÔNIO, JUAZEIRO/BA |
+| 15 | 202405001 | MEDICINA VETERINÁRIA (Bacharelado) | 50 (cinquenta) | Faculdade UNIGUAÇU | UNIAO DE ENSINO SUPERIOR DO IGUACU LTDA - ME | RUA VALENTIM CELESTE PALAVRO, 1.501, CONJUNTO PANORAMA, SÃO MIGUEL DO IGUAÇU/PR |
+| 16 | 202404376 | RELAÇÕES INTERNACIONAIS (Bacharelado) | 80 (oitenta) | Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília | INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA IDP - LTDA | SGAS 607, 49, L2 SUL, ASA SUL, BRASÍLIA/DF |
+| 17 | 202404405 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ | INSTITUTO FEDERAL DE EDUCACAO,CIENCIA E TECNOLOGIA DO PARA | AVENIDA DOS CEDROS, S/N, , JUPARANÃ, PARAGOMINAS/PA |
+| 18 | 202211957 | ENGENHARIA AGRONÔMICA (Bacharelado) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO PARANA | RUA MAX ARTHUR GREIPEL, 505, , GLEBA PINDAÚVA, IVAIPORÃ/PR |
+| 19 | 202404856 | CIÊNCIAS CONTÁBEIS (Bacharelado) | 240 (duzentas e quarenta) | UNIVERSIDADE DE UBERABA | SOCIEDADE EDUCACIONAL UBERABENSE | AVENIDA AFONSO PENA, 1177, CAMPUS VIA CENTRO, NOSSA SENHORA APARECIDA, UBERLÂNDIA/MG |
+| 20 | 202219167 | PRODUÇÃO AUDIOVISUAL (Tecnológico) | 60 (sessenta) | UNIVERSIDADE SÃO JUDAS TADEU | AMC - SERVICOS EDUCACIONAIS LTDA | AVENIDA VITAL BRASIL, 1000, UNIDADE BUTANTÃ, BUTANTÃ, SÃO PAULO/SP |

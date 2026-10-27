@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA SPU/ME Nº 2.433, DE 17 DE MARÇO DE 2022"
+orgao: "Ministério da Economia/Secretaria Especial de Desestatização, Desinvestimento e Mercados/Secretaria de Coordenação e Governança do Patrimônio da União"
+tipo: "Portaria"
+numero: "2433"
+data: 2022-03-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/03/2022, seção 1, p. 15"
+data_publicacao: 2022-03-21
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spu/me-n-2.433-de-17-de-marco-de-2022-387081237"
+sha256_html_fonte: 9e153ba788f87268be725248005f64346c379e77c4661a53411f131bf1edc2b6
+baixado_em: 2026-10-20
+---
+# PORTARIA SPU/ME Nº 2.433, DE 17 DE MARÇO DE 2022
+
+PORTARIA SPU/ME Nº 2.433, DE 17 DE MARÇO DE 2022
+
+A SECRETÁRIA DE COORDENAÇÃO E GOVERNANÇA DO PATRIMÔNIO DA UNIÃO, DA SECRETARIA ESPECIAL DE DESESTATIZAÇÃO, DESINVESTIMENTO E MERCADOS, DO MINISTÉRIO DA ECONOMIA, no uso da atribuição que lhe confere o art. 102 do Anexo I do Decreto 9.745, de 8 de abril de 2019, com fundamento no art. 5º, parágrafo único, do Decreto-Lei nº 2.398, de 21 de dezembro de 1987, com redação dada pelo art. 33 da Lei 9.636/98, a Portaria Interministerial MP/MDA nº 210/2014 e o Termo de Cooperação Técnica INCRA/SPU - publicado no D.O.U em 23/11/2005 e nos elementos que integram o Processo nº 04957.000056/2009-62 e considerando a deliberação pelo Grupo Especial de Destinação Supervisionada - GE-DESUP 1-REF, por meio da Ata de Reunião de 25 de janeiro de 2022 (Processo SEI nº 19739.132961/2021-19), resolve:
+
+**Art. 1º** Declarar de interesse do serviço público, para fins de regularização fundiária de Projeto de Assentamento Agroextrativista denominado de "PAE ILHA PIRARUAIA", imóvel da União, localizado em ilha (ou arquipélago) sem sede municipal e localizado em zona onde se faz sentir a influência de marés, sendo, por força constitucional (Inciso IV do Art. 20 da CF/88), de domínio inequívoco da União, no município de Bagre, estado do Pará, com área de 6.005.504,00 m², cadastrada no SPIUnet sob o RIP nº 0421 00010.500-5.
+
+**Parágrafo único.** A área acima mencionada apresenta os seguintes limites e confrontações: Inicia-se a descrição deste perímetro no vértice P0, de coordenadas N 9793021,35 m e E 582351,41; deste, segue confrontando com Rio Pará, com os seguintes azimute plano e distância: 92°19'57,53'' e 578,90 m; até o vértice P1, de coordenadas N 9792997,79 m e E 582929,83 m; deste, segue com os seguintes azimute plano e distância: 93°24'53,74'' e 792,30 m; até o vértice P2, de coordenadas N 9792950,60 m e E 583720,72 m; deste, segue com os seguintes azimute plano e distância: 111°15'36,30'' e 455,96 m; até o vértice P3, de coordenadas N 9792785,26 m e E 584145,65 m; deste, segue com os seguintes azimute plano e distância: 148°34'27,46'' e 249,01 m; até o vértice P4, de coordenadas N 9792572,78 m e E 584275,49 m; deste, segue com os seguintes azimute plano e distância: 160°48'58,63'' e 287,41 m; até o vértice P5, de coordenadas N 9792301,32 m e E 584369,93 m; deste, segue com os seguintes azimute plano e distância: 188°31'41,58'' e 238,75 m; até o vértice P6, de coordenadas N 9792065,22 m e E 584334,52 m; deste, segue com os seguintes azimute plano e distância: 195°38'38,38'' e 306,52 m; até o vértice P7, de coordenadas N 9791770,05 m e E 584251,87 m; deste, segue com os seguintes azimute plano e distância: 215°31'55,33'' e 507,69 m; até o vértice P8, de coordenadas N 9791356,89 m e E 583956,82 m; deste, segue com os seguintes azimute plano e distância: 247°15'26,76'' e 396,94 m; até o vértice P9, de coordenadas N 9791203,44 m e E 583590,74 m; deste, segue com os seguintes azimute plano e distância: 280°55'13,17'' e 685,20 m; até o vértice P10, de coordenadas N 9791333,25 m e E 582917,94 m; deste, segue com os seguintes azimute plano e distância: 296°35'42,12'' e 211,20 m; até o vértice P11, de coordenadas N 9791427,80 m e E 582729,09 m; deste, segue com os seguintes azimute plano e distância: 271°13'1,91'' e 1664,92 m; até o vértice P12, de coordenadas N 9791463,16 m e E 581064,55 m; deste, segue com os seguintes azimute plano e distância: 265°36'30,54'' e 461,60 m; até o vértice P13, de coordenadas N 9791427,82 m e E 580604,30 m; deste, segue com os seguintes azimute plano e distância: 271°19'19,27'' e 507,81 m; até o vértice P14, de coordenadas N 9791439,53 m e E 580096,63 m; deste, segue com os seguintes azimute plano e distância: 270°00'21,29'' e 389,57 m; até o vértice P15, de coordenadas N 9791439,57 m e E 579707,06 m; deste, segue com os seguintes azimute plano e distância: 299°14'39,88'' e 338,17 m; até o vértice P16, de coordenadas N 9791604,78 m e E 579411,99 m; deste, segue com os seguintes azimute plano e distância: 39°48'16,14'' e 368,73 m; até o vértice P17, de coordenadas N 9791888,05 m e E 579648,04 m; deste, segue com os seguintes azimute plano e distância: 48°20'15,40'' e 142,23 m; até o vértice P18, de coordenadas N 9791982,60 m e E 579754,30 m; deste, segue com os seguintes azimute plano e distância: 69°27'0,93'' e 605,22 m; até o vértice P19, de coordenadas N 9792195,04 m e E 580321,00 m; deste, segue com os seguintes azimute plano e distância: 66°08'12,75'' e 671,12 m; até o vértice P20, de coordenadas N 9792466,54 m e E 580934,75 m; deste, segue com os seguintes azimute plano e distância: 61°17'39,58'' e 1130,55 m; até o vértice P21, de coordenadas N 9793009,56 m e E 581926,36 m; deste, segue com os seguintes azimute plano e distância: 99°28'8,58'' e 143,57 m; até o vértice P22, de coordenadas N 9792985,94 m e E 582067,97 m; deste, segue com os seguintes azimute plano e distância: 82°52'40,97'' e 285,64 m; até o vértice P0, de coordenadas N 9793021,35 m e E 582351,41 m, encerrando esta descrição. Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no sistema UTM, referenciadas ao Meridiano Central -51, Fuso 22S, tendo como DATUM SIRGAS 2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+**Art. 2º** O imóvel descrito no art. 1º é de interesse público na medida em que será destinado ao Instituto Nacional de Colonização e Reforma Agrária - INCRA para fins do Projeto de Assentamento Agroextrativista denominado de "PAE ILHA PIRARUAIA", em benefício de 60 famílias.
+
+**Art. 3º** Fica o INCRA autorizado a outorgar aos beneficiários finais do projeto de assentamento agroextrativista "PAE ILHA PIRARUAIA" a titulação do território, respeitados os termos da Portaria Interministerial MP/MDA nº 210/2014.
+
+**Art. 4º** A Superintendência do Patrimônio da União no Estado do Pará dará conhecimento do teor desta Portaria ao Ofício de Registro de imóveis da circunscrição competente, ao Município de Bagre e ao INCRA.
+
+**Art. 5º** Esta portaria entra em vigor na data de sua publicação.
+
+FABIANA MAGALHÃES ALMEIDA RODOPOULOS

@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA SECEX Nº 340, DE 30 DE JULHO DE 2024"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Secretaria de Comércio Exterior"
+tipo: "Portaria"
+numero: "340"
+data: 2024-07-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/07/2024, seção 1, p. 33"
+data_publicacao: 2024-07-31
+edicao: "146"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-secex-n-340-de-30-de-julho-de-2024-575296737"
+sha256_html_fonte: bb32bd062149f9eeeae4bdbf337a9e5790b96782414833e0c9b913f00b3f8159
+baixado_em: 2026-10-16
+---
+# PORTARIA SECEX Nº 340, DE 30 DE JULHO DE 2024
+
+PORTARIA SECEX Nº 340, DE 30 DE JULHO DE 2024
+
+Altera a Portaria Secex nº 72, de 18 de dezembro de 2020, publicada no Diário Oficial da União de 21 de dezembro de 2020, Seção 1, página 46.
+
+A SECRETÁRIA DE COMÉRCIO EXTERIOR, DO MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS, no uso das atribuições que lhe foram conferidas pelos incisos I e XVI do art. 20 do Anexo I ao Decreto nº 11.427, de 2 de março de 2023, resolve:
+
+**Art. 1º** A Portaria Secex nº 72, de 18 de dezembro de 2020, publicada no Diário Oficial da União de 21 de dezembro de 2020, Seção 1, página 46, passa a vigorar com as seguintes alterações:
+
+"Art. 33-A. A cota frango e peru in natura, concedida pela União Europeia por meio do Regulamento (CE) nº 1385/2007, de 26 de novembro de 2007, pelo Regulamento de Execução (UE) nº 2019/386, de 11 de março de 2019, pelo Regulamento de Execução (UE) 2020/761, de 17 de dezembro de 2019, pelo Regulamento de Execução (UE) nº 2021/760, de 7 de maio de 2021, pela Decisão (UE) 2023/1056 do Conselho, de 25 de maio de 2023, pelo Regulamento de Execução (UE) 2023/1629, de 9 de agosto de 2023, e pelo Regulamento de Execução (UE) 2024/567, de 14 de fevereiro de 2024, compreende as seguintes cotas específicas, seus respectivos contingentes anuais, países de destino e tarifas específicas e ad valorem aplicáveis:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Tipo da Cota</p></td>      <td rowspan="1" colspan="1"><p>CLASSIFICAÇÃO NCM</p></td>      <td rowspan="1" colspan="1"><p>DESCRIÇÃO NCM</p></td>      <td rowspan="1" colspan="1"><p>CONTINGENTE</p></td>      <td rowspan="1" colspan="1"><p>TARIFA INTRACOTA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.11</p></td>      <td rowspan="1" colspan="1"><p>Peitos</p></td>      <td rowspan="1" colspan="1"><p>15.050 toneladas, por ano, para a União Europeia</p></td>      <td rowspan="1" colspan="1"><p>0%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.12</p></td>      <td rowspan="1" colspan="1"><p>Coxas com sobrecoxas</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.13</p></td>      <td rowspan="1" colspan="1"><p>Asas</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.19</p></td>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.21</p></td>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.22</p></td>      <td rowspan="1" colspan="1"><p>Peitos, coxas e sobrecoxas, formando uma só peça</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.23</p></td>      <td rowspan="1" colspan="1"><p>Coxas com sobrecoxas</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.24</p></td>      <td rowspan="1" colspan="1"><p>Carne mecanicamente separada</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.29</p></td>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.31</p></td>      <td rowspan="1" colspan="1"><p>Fígados</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.32</p></td>      <td rowspan="1" colspan="1"><p>Moelas</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.33</p></td>      <td rowspan="1" colspan="1"><p>Corações</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.34</p></td>      <td rowspan="1" colspan="1"><p>Pés e patas</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4410</p></td>      <td rowspan="1" colspan="1"><p>0207.14.39</p></td>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09.4420</p></td>      <td rowspan="1" colspan="1"><p>0207.27.00</p></td>      <td rowspan="1" colspan="1"><p>Carnes de peruas/perus, em pedaços e miudezas, congeladas</p></td>      <td rowspan="1" colspan="1"><p>4.420 toneladas, por ano, para a União Europeia.</p></td>      <td rowspan="1" colspan="1"><p>0%</p></td>     </tr>    </tbody>   </table>
+
+.......................................................................................................................................................................................................................................................................... " (NR)
+
+**Art. 2º** Esta Portaria entra em vigor em 1º de agosto de 2024.
+
+TATIANA PRAZERES

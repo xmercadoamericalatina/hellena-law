@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA SEMPI/MCTI Nº 5.879, DE 12 DE Maio DE 2022"
+orgao: "Ministério da Ciência, Tecnologia e Inovações/Secretaria de Empreendedorismo e Inovação"
+tipo: "Portaria"
+numero: "5879"
+data: 2022-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/05/2022, seção 1, p. 15"
+data_publicacao: 2022-05-13
+edicao: "90"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sempi/mcti-n-5.879-de-12-de-maio-de-2022-399661956"
+sha256_html_fonte: f6810a40f101782a9a7046223f7dfb9d96eee2fa8828c4138824ec6c3f1fd777
+baixado_em: 2026-10-20
+---
+# PORTARIA SEMPI/MCTI Nº 5.879, DE 12 DE Maio DE 2022
+
+PORTARIA SEMPI/MCTI Nº 5.879, DE 12 DE Maio DE 2022
+
+Cancelamento das habilitação à fruição dos incentivos fiscais de que trata o art. 4º da Lei nº 8.248, de 23 de outubro de 1991, alterado pela Lei nº 13.969, de 26 de dezembro de 2019.
+
+O SECRETÁRIO DE EMPREENDEDORISMO E INOVAÇÃO DO MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÕES, Substituto, no uso das atribuições que lhe confere o parágrafo único do art. 37 do Decreto nº 10.356, de 20 de maio de 2020, tendo em vista o disposto nos arts. 4º e 11 da Lei nº 8.248, de 23 de outubro de 1991, e considerando o contido no Processo MCTI nº 01245.006742/2022-52, de 3 de maio de 2022, o qual indica a inadimplência da empresa quanto à entrega do RDA referente ao ano base de 2020, resolve:
+
+**Art.1º** Cancelar as habilitações à fruição dos incentivos fiscais de que tratam o art. 4º da Lei nº 8.248, de 23 de outubro de 1991, e o arts. 2º, 3º e 4º da Lei nº 13.969, de 26 de dezembro de 2019, concedidas à empresa Quanta Tecnologia Eletrônica Indústria e Comércio Eireli, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Economia - CNPJ sob o nº 57.455.818/0001-16, pelas Portarias Interministeriais MCT/MDIC/ME nº 398, de 26 de junho de 2006, publicada em 27 de junho de 2006; MCT/MDIC/MF nº 542, de 22 de agosto de 2008, publicada em 25 de agosto de 2008; MCT/MDIC/MF nº 177, de 11 de março de 2010, publicada em 12 de março de 2010; MCT/MDIC/MF nº 198, de 15 de março de 2010, publicada em 16 de março de 2010; MCT/MDIC/MF nº 484, de 25 de junho de 2010, publicada em 28 de junho de 2010; MCT/MDIC/MF nº 1.084, de 29 de dezembro de 2010, publicada em 30 de dezembro de 2010; MCTI/MDIC/MF nº 489, de 29 de maio de 2013, publicada em 31 de maio de 2013 e MCTI/MDIC/MF nº 959, de 30 de setembro de 2013, publicada em 01 de outubro de 2013, em razão do decurso de prazo de suspensão da habilitação previsto na Portaria MCTI nº 5.553, de 19 de janeiro de 2022, publicada no D.O.U. de 21 de janeiro de 2022, sem o devido adimplemento das obrigações, nos termos do art. 36, § 4º, do Decreto nº 5.906, de 26 de setembro de 2006.
+
+**Art. 2º** Determinar que os benefícios fiscais referidos no art. 4º da Lei nº 8.248, de 1991, usufruídos pela empresa, relativos aos tributos do período do inadimplemento, deverão ser ressarcidos em conformidade com o disposto no art. 9º da Lei nº 8.248, 23 de outubro de 1991, e no art. 36 do Decreto 5.906, de 26 de setembro de 2006.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOSÉ GUSTAVO SAMPAIO GONTIJO

@@ -1,0 +1,103 @@
+---
+titulo: "Portaria SERES/MEC Nº 192, DE 11 DE MAIO DE 2026"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "192"
+data: 2026-05-11
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 12/05/2026, seção 1, p. 38"
+data_publicacao: 2026-05-12
+edicao: "87"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-192-de-11-de-maio-de-2026-704739813"
+baixado_em: 2026-10-15
+---
+# Portaria SERES/MEC Nº 192, DE 11 DE MAIO DE 2026
+
+Portaria SERES/MEC Nº 192, DE 11 DE MAIO DE 2026
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 12.769, de 5 de dezembro de 2025, e tendo em vista o Decreto nº 9.235, de 15 de dezembro de 2017, as Portarias Normativas nº 20 e nº 23, de 21 de dezembro de 2017, republicadas em 03 de setembro de 2018, a Portaria MEC nº 921, de 24 de dezembro de 2025, e considerando o disposto no processo SEI nº 23000.018067/2026-43 e nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam autorizados, em caráter provisório, os cursos superiores de graduação, no formato presencial, constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235/2017, e no art. 4°, da Portaria MEC nº 921, de 24 de dezembro de 2025.
+
+**Parágrafo único.** As autorizações a que se referem esta Portaria são válidas exclusivamente para os cursos ministrados nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** As autorizações a que se referem esta Portaria são vinculadas ao credenciamento prévio de que trata a Portaria SERES/MEC nº 191, de 8 de maio de 2026, e são válidas exclusivamente durante a tramitação, no sistema e-MEC, do respectivo processo regulatório de credenciamento definitivo, conforme previsto nos art. 4º, 5º e 6º, da Portaria MEC nº 921, de 24 de dezembro de 2025.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Autorização de curso)
+
+| Nº de Ordem | Protocolo e-MEC | Curso | Vagas Totais Anual | Nome da IES | Mantenedora | Endereço de funcionamento da IES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202606398 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE MAGÉ (CÓD. 31098) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Guarany, nº 148, Bairro Piabetá, no município de Magé, estado do Rio de Janeiro. |
+| 2 | 202606399 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE MAGÉ (CÓD. 31098) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Guarany, nº 148, Bairro Piabetá, no município de Magé, estado do Rio de Janeiro. |
+| 3 | 202606410 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE PORTO ALEGRE (CÓD. 31120) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Senhor dos Passos, nº 235, bairro Centro Histórico, no município de Porto Alegre, no estado do Rio Grande do Sul. |
+| 4 | 202606411 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE PORTO ALEGRE (CÓD. 31120) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Senhor dos Passos, nº 235, bairro Centro Histórico, no município de Porto Alegre, no estado do Rio Grande do Sul. |
+| 5 | 202606418 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE MAUÁ - VII (CÓD. 31122) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Capitão João, nº 1460, Bairro Matriz, no município de Mauá, no estado do São Paulo. |
+| 6 | 202606419 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE MAUÁ - VII (CÓD. 31122) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Capitão João, nº 1460, Bairro Matriz, no município de Mauá, no estado do São Paulo. |
+| 7 | 202606466 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE AQUIDAUANA (CÓD. 31056) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Assis Ribeiro, nº 454, bairro Alto, no município de Aquidauana, no estado do Mato Grosso do Sul. |
+| 8 | 202606467 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE AQUIDAUANA (CÓD. 31056) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Assis Ribeiro, nº 454, bairro Alto, no município de Aquidauana, no estado do Mato Grosso do Sul. |
+| 9 | 202606498 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE PRAIA GRANDE (CÓD. 31121) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Presidente Kennedy, nº 10620, Bairro Maracanã, no município de Praia Grande, no estado de São Paulo. |
+| 10 | 202606499 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE PRAIA GRANDE (CÓD. 31121) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Presidente Kennedy, nº 10620, Bairro Maracanã, no município de Praia Grande, no estado de São Paulo. |
+| 11 | 202606502 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE ARARANGUÁ (CÓD. 31059) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Sete de Setembro, nº 2438, Centro, no município de Araranguá, no estado de Santa Catarina. |
+| 12 | 202606503 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE ARARANGUÁ (CÓD. 31059) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Sete de Setembro, nº 2438, Centro, no município de Araranguá, no estado de Santa Catarina. |
+| 13 | 202606518 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE ARARUAMA (CÓD. 31061) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida John Kennedy, nº 292, Centro, no município de Araruama, no estado do Rio de Janeiro. |
+| 14 | 202606521 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE ARARUAMA (CÓD. 31061) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida John Kennedy, nº 292, Centro, no município de Araruama, no estado do Rio de Janeiro. |
+| 15 | 202606530 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE COXIM (CÓD. 31073) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Viriato Bandeira, nº 280, Centro, no município de Coxim, no estado do Mato Grosso do Sul. |
+| 16 | 202606529 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE COXIM (CÓD. 31073) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Viriato Bandeira, nº 280, Centro, no município de Coxim, no estado do Mato Grosso do Sul. |
+| 17 | 202606545 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR REDENÇÃO (CÓD. 31351) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Ildonete Guimarães da Silva, nº 255, bairro Jardim Umuarama, município de Redenção, estado do Pará. |
+| 18 | 202606546 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR REDENÇÃO (CÓD. 31351) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Ildonete Guimarães da Silva, nº 255, bairro Jardim Umuarama, município de Redenção, estado do Pará. |
+| 19 | 202606568 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE BARRA DO BUGRES (CÓD. 31065) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Deputado Emanuel Pinheiro, s/n, Bairro Jardim Terra Nova, no município de Barra do Bugres, no estado do Mato Grosso. |
+| 20 | 202606569 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE BARRA DO BUGRES (CÓD. 31065) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Deputado Emanuel Pinheiro, s/n, Bairro Jardim Terra Nova, no município de Barra do Bugres, no estado do Mato Grosso. |
+| 21 | 202606573 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE CRUZEIRO DO SUL (CÓD. 31075) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Boulevard Thaumaturgo, nº 798, Centro, no município de Cruzeiro do Sul, no estado do Acre. |
+| 22 | 202606572 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE CRUZEIRO DO SUL (CÓD. 31075) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Boulevard Thaumaturgo, nº 798, Centro, no município de Cruzeiro do Sul, no estado do Acre. |
+| 23 | 202606595 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE RIO DE JANEIRO - II (CÓD. 31171) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Presidente Vargas, nº 290, Centro, no município do Rio de Janeiro, estado do Rio de Janeiro. |
+| 24 | 202606596 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE RIO DE JANEIRO - II (CÓD. 31171) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Presidente Vargas, nº 290, Centro, no município do Rio de Janeiro, estado do Rio de Janeiro. |
+| 25 | 202606627 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE PARAÍSO DO TOCANTINS (CÓD. 31383) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua 20, s/n, bairro Vila Milena, município de Paraíso do Tocantins, estado do Tocantins. |
+| 26 | 202606628 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE PARAÍSO DO TOCANTINS (CÓD. 31383) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua 20, s/n, bairro Vila Milena, município de Paraíso do Tocantins, estado do Tocantins. |
+| 27 | 202606647 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE SANTA LUZIA - I (CÓD. 31173) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua do Carmo, nº 306, Centro, no município de Santa Luzia, no estado de Minas Gerais. |
+| 28 | 202606648 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE SANTA LUZIA - I (CÓD. 31173) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua do Carmo, nº 306, Centro, no município de Santa Luzia, no estado de Minas Gerais. |
+| 29 | 202606671 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE CABO FRIO (CÓD. 31069) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Praça Porto Rocha, nº 18, Centro, no município de Cabo Frio, no estado do Rio de Janeiro. |
+| 30 | 202606672 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE CABO FRIO (CÓD. 31069) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Praça Porto Rocha, nº 18, Centro, no município de Cabo Frio, no estado do Rio de Janeiro. |
+| 31 | 202606712 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE CAMPO GRANDE - III (CÓD. 31082) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Gunter Hans, nº 1049, Bairro Guanandi, no município de Campo Grande, no estado do Mato Grosso do Sul. |
+| 32 | 202606713 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE CAMPO GRANDE - III (CÓD. 31082) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Gunter Hans, nº 1049, Bairro Guanandi, no município de Campo Grande, no estado do Mato Grosso do Sul. |
+| 33 | 202606737 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE FORMOSA DO RIO PRETO (CÓD. 31085) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua do Egito, nº 1314, Centro, no município de Formosa do Rio Preto, no estado da Bahia. |
+| 34 | 202606736 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE FORMOSA DO RIO PRETO (CÓD. 31085) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua do Egito, nº 1314, Centro, no município de Formosa do Rio Preto, no estado da Bahia. |
+| 35 | 202606746 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE GRAMADO (CÓD. 31314) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Prefeito Nelson Dinnebier, nº 463, Bairro Piratini, no município de Gramado, no estado do Rio Grande do Sul. |
+| 36 | 202606745 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE GRAMADO (CÓD. 31314) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Prefeito Nelson Dinnebier, nº 463, Bairro Piratini, no município de Gramado, no estado do Rio Grande do Sul. |
+| 37 | 202606750 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE GUAJARÁ-MIRIM (CÓD. 31086) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida 15 de Novembro com Avenida Juliao Gomes, s/n, Bairro Caetano, no município de Guajará-Mirim, no estado de Rondônia. |
+| 38 | 202606749 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE GUAJARÁ-MIRIM (CÓD. 31086) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida 15 de Novembro com Avenida Juliao Gomes, s/n, Bairro Caetano, no município de Guajará-Mirim, no estado de Rondônia. |
+| 39 | 202606764 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE GUARAÍ (CÓD. 31087) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida B9, nº 3779, Bairro Setor Aeroporto, no município de Guaraí, no estado do Tocantins. |
+| 40 | 202606763 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE GUARAÍ (CÓD. 31087) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida B9, nº 3779, Bairro Setor Aeroporto, no município de Guaraí, no estado do Tocantins. |
+| 41 | 202606772 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE GURUPI (CÓD. 31088) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Amazonas, nº 1059, Bairro Setor Central, no município de Gurupi, no estado do Tocantins. |
+| 42 | 202606771 | Educação Física (Bacharelado) | 60 | FACULDADE ANHANGUERA UNOPAR DE GURUPI (CÓD. 31088) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Amazonas, nº 1059, Bairro Setor Central, no município de Gurupi, no estado do Tocantins. |
+| 43 | 202606793 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE ITAPETINGA (CÓD. 31092) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Luiz Viana Filho, nº 73, Bairro Quintas Morumbi, no município de Itapetinga, no estado da Bahia. |
+| 44 | 202606792 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE ITAPETINGA (CÓD. 31092) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Avenida Luiz Viana Filho, nº 73, Bairro Quintas Morumbi, no município de Itapetinga, no estado da Bahia. |
+| 45 | 202606824 | Enfermagem (Bacharelado) | 100 | FACULDADE ANHANGUERA UNOPAR DE SEABRA (CÓD. 31127) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Manoel Teixeira Leite, nº 753, Centro, no município de Seabra, estado da Bahia. |
+| 46 | 202606825 | Educação Física (Bacharelado) | 80 | FACULDADE ANHANGUERA UNOPAR DE SEABRA (CÓD. 31127) | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A (CÓD. 14514) | Rua Manoel Teixeira Leite, nº 753, Centro, no município de Seabra, estado da Bahia. |
+| 47 | 202606861 | Enfermagem (Bacharelado) | 100 | CLARETIANO - FACULDADE DE CRUZEIRO DO SUL (CÓD. 31049) | ACAO EDUCACIONAL CLARETIANA (CÓD. 780) | Avenida Boulevard Thaumaturgo, nº 1180, Centro, no município de Cruzeiro do Sul, estado do Acre. |
+| 48 | 202606862 | Fisioterapia (Bacharelado) | 50 | CLARETIANO - FACULDADE DE CRUZEIRO DO SUL (CÓD. 31049) | ACAO EDUCACIONAL CLARETIANA (CÓD. 780) | Avenida Boulevard Thaumaturgo, nº 1180, Centro, no município de Cruzeiro do Sul, estado do Acre. |
+| 49 | 202607630 | Enfermagem (Bacharelado) | 100 | Faculdade Unicesumar de Cascavel (CÓD. 31433) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Brasil, nº 3732, Bairro São Cristóvão, no município de Cascavel, no estado do Paraná. |
+| 50 | 202607631 | Biomedicina (Bacharelado) | 100 | Faculdade Unicesumar de Cascavel (CÓD. 31433) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Brasil, nº 3732, Bairro São Cristóvão, no município de Cascavel, no estado do Paraná. |
+| 51 | 202607632 | Fisioterapia (Bacharelado) | 50 | Faculdade Unicesumar de Cascavel (CÓD. 31433) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Brasil, nº 3732, Bairro São Cristóvão, no município de Cascavel, no estado do Paraná. |
+| 52 | 202607633 | Farmácia (Bacharelado) | 50 | Faculdade Unicesumar de Cascavel (CÓD. 31433) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Brasil, nº 3732, Bairro São Cristóvão, no município de Cascavel, no estado do Paraná. |
+| 53 | 202607648 | Enfermagem (Bacharelado) | 100 | Faculdade Unicesumar de Betim (CÓD. 31453) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Rua Professor Clóvis Salgado, nº 18, Centro, no município de Betim, no estado de Minas Gerais. |
+| 54 | 202607649 | Biomedicina (Bacharelado) | 100 | Faculdade Unicesumar de Betim (CÓD. 31453) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Rua Professor Clóvis Salgado, nº 18, Centro, no município de Betim, no estado de Minas Gerais. |
+| 55 | 202607650 | Fisioterapia (Bacharelado) | 50 | Faculdade Unicesumar de Betim (CÓD. 31453) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Rua Professor Clóvis Salgado, nº 18, Centro, no município de Betim, no estado de Minas Gerais. |
+| 56 | 202607651 | Farmácia (Bacharelado) | 50 | Faculdade Unicesumar de Betim (CÓD. 31453) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Rua Professor Clóvis Salgado, nº 18, Centro, no município de Betim, no estado de Minas Gerais. |
+| 57 | 202607661 | Enfermagem (Bacharelado) | 100 | Faculdade Unicesumar de Pinhais (CÓD. 31456) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Ayrton Senna da Silva, nº 2650, Centro, no município de Pinhais, no estado do Paraná. |
+| 58 | 202607662 | Biomedicina (Bacharelado) | 100 | Faculdade Unicesumar de Pinhais (CÓD. 31456) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Ayrton Senna da Silva, nº 2650, Centro, no município de Pinhais, no estado do Paraná. |
+| 59 | 202607663 | Fisioterapia (Bacharelado) | 50 | Faculdade Unicesumar de Pinhais (CÓD. 31456) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Ayrton Senna da Silva, nº 2650, Centro, no município de Pinhais, no estado do Paraná. |
+| 60 | 202607664 | Farmácia (Bacharelado) | 50 | Faculdade Unicesumar de Pinhais (CÓD. 31456) | VITRU BRASIL EMPREENDIMENTOS, PARTICIPACOES E COMERCIO S.A (CÓD. 19855) | Avenida Ayrton Senna da Silva, nº 2650, Centro, no município de Pinhais, no estado do Paraná. |
+| 61 | 202607742 | Enfermagem (Bacharelado) | 100 | Faculdade Uniasselvi de Navegantes (CÓD. 31425) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Conselheiro João Gaya, nº 1300, Centro, no município de Navegantes, no estado de Santa Catarina. |
+| 62 | 202607743 | Biomedicina (Bacharelado) | 50 | Faculdade Uniasselvi de Navegantes (CÓD. 31425) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Conselheiro João Gaya, nº 1300, Centro, no município de Navegantes, no estado de Santa Catarina. |
+| 63 | 202607744 | Fisioterapia (Bacharelado) | 50 | Faculdade Uniasselvi de Navegantes (CÓD. 31425) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Conselheiro João Gaya, nº 1300, Centro, no município de Navegantes, no estado de Santa Catarina. |
+| 64 | 202607749 | Enfermagem (Bacharelado) | 100 | Faculdade Uniasselvi de Brasília (CÓD. 31432) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Quadra CNB 03, s/n, Lotes 05 e 06, Bairro Taguatinga Norte, em Brasília, no Distrito Federal. |
+| 65 | 202607750 | Biomedicina (Bacharelado) | 50 | Faculdade Uniasselvi de Brasília (CÓD. 31432) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Quadra CNB 03, s/n, Lotes 05 e 06, Bairro Taguatinga Norte, em Brasília, no Distrito Federal. |
+| 66 | 202607751 | Fisioterapia (Bacharelado) | 50 | Faculdade Uniasselvi de Brasília (CÓD. 31432) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Quadra CNB 03, s/n, Lotes 05 e 06, Bairro Taguatinga Norte, em Brasília, no Distrito Federal. |
+| 67 | 202607767 | Enfermagem (Bacharelado) | 100 | Faculdade Uniasselvi de Chapecó (CÓD. 31437) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Porto Alegre, nº 373, Centro, no município de Chapecó, estado de Santa Catarina. |
+| 68 | 202607768 | Biomedicina (Bacharelado) | 50 | Faculdade Uniasselvi de Chapecó (CÓD. 31437) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Porto Alegre, nº 373, Centro, no município de Chapecó, estado de Santa Catarina. |
+| 69 | 202607769 | Fisioterapia (Bacharelado) | 50 | Faculdade Uniasselvi de Chapecó (CÓD. 31437) | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA (CÓD. 821) | Avenida Porto Alegre, nº 373, Centro, no município de Chapecó, estado de Santa Catarina. |

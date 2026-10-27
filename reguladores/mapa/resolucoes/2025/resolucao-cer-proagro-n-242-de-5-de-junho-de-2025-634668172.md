@@ -1,0 +1,35 @@
+---
+titulo: "RESOLUÇÃO CER/PROAGRO Nº 242, DE 5 DE JUNHO DE 2025"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria de Política Agrícola/Departamento de Gestão de Riscos/Coordenação-Geral da CER-Proagro"
+tipo: "Resolução"
+numero: "242"
+data: 2025-06-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/06/2025, seção 1, p. 18"
+data_publicacao: 2025-06-06
+edicao: "106"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cer/proagro-n-242-de-5-de-junho-de-2025-634668172"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO CER/PROAGRO Nº 242, DE 5 DE JUNHO DE 2025
+
+RESOLUÇÃO CER/PROAGRO Nº 242, DE 5 DE JUNHO DE 2025
+
+Divulga resultado do julgamento de recursos da Comissão Especial de Recursos (CER) do Programa de Garantia da Atividade Agropecuária (PROAGRO).
+
+A Comissão Especial de Recursos do Programa de Garantia da Atividade Agropecuária (CER-PROAGRO), no uso de suas competências conferidas pelo disposto no Decreto nº 10.124, de 21 de novembro de 2019, em julgamento remoto realizado em Brasília/DF, entre os dias 09 maio e 02 de junho de 2025, resolve:
+
+Art 1º Acatar, por maioria na votação, o recurso abaixo relacionado:
+
+| Item | Proc | Mutuário | Ref. Bac. | Proagro |
+| --- | --- | --- | --- | --- |
+| 1 | 21066.038222/2025-77 | Fernanda Rocha Podolan | 20240808929 | Tradicional |
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ERNI CRISTIANO GERMENDORFF
+
+Presidente da Comissão
+
+Suplente

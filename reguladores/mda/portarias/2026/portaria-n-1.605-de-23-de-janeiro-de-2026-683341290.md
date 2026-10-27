@@ -1,0 +1,31 @@
+---
+titulo: "PORTARIA Nº 1.605, DE 23 DE JANEIRO DE 2026"
+orgao: "Ministério do Desenvolvimento Agrário e Agricultura Familiar/Instituto Nacional de Colonização e Reforma Agrária"
+tipo: "Portaria"
+numero: "1605"
+data: 2026-01-23
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/01/2026, seção 1, p. 19"
+data_publicacao: 2026-01-27
+edicao: "18"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.605-de-23-de-janeiro-de-2026-683341290"
+baixado_em: 2026-10-15
+---
+# PORTARIA Nº 1.605, DE 23 DE JANEIRO DE 2026
+
+PORTARIA Nº 1.605, DE 23 DE JANEIRO DE 2026
+
+Retifica área e capacidade de famílias do Projeto de Assentamento Filadélfia, código SIPRA TO0077000, localizado no município de Pau D'arco, no estado do Tocantins.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, no uso das atribuições que lhe são conferidas pelo Decreto n.º 11.232, de 10 de outubro de 2022, alterado pelos Decretos n.º 12.171, de 09 de setembro de 2024 e n.º 12.792, de 22 de dezembro de 2025, combinado com o art. 143 do Regimento Interno da Autarquia, aprovado pela Portaria n.º 925, de 30 de dezembro de 2024, publicada no Diário Oficial da União do dia 31 seguinte;
+
+Considerando os órgãos da Superintendência Regional do Tocantins - SR(26)TO e da Diretoria de Obtenção de Terras - DT, que procederam à análise do processo administrativo n.º 21452.000397/1995-53 e decidiram pela regularidade da retificação de informações na Portaria/INCRA/SR-26/Nº 49, de 05 de setembro de 1995, publicada no Diário Oficial da União n.º 172 de 06 de setembro de 1995, seção 1, página 13815, que criou o Projeto de Assentamento Filadélfia, código SIPRA TO0077000, localizado no município de Pau D'arco, no estado do Tocantins;
+
+Considerando a conformidade com a área do Projeto de Assentamento, a base cartográfica da SR(26)TO e a Nota Técnica n.º 2511/2025/SR(26)TO-T2/SR(26)TO-T/SR(26)TO/INCRA (24988474), resolve:
+
+**Art. 1º** Retificar a área de 4.830 ha (quatro mil e oitocentos e trinta hectares), constante da Portaria/INCRA/SR-26/nº 49, de 05 de setembro de 1995, publicada no Diário Oficial da União n.º 172 de 06 de setembro de 1995, seção 1, página 13815, que criou o Projeto de Assentamento Filadélfia, e suas retificações anteriores, código SIPRA TO0077000, localizado no município de Pau D'arco, no estado do Tocantins, para a área de 3.213,7634 ha (três mil, duzentos e treze hectares, setenta e seis ares e trinta e quatro centiares), e a capacidade de 84 (oitenta e quatro) unidades agrícolas familiares, para 58 (cinquenta e oito) unidades agrícolas familiares, em conformidade com a base cartográfica da SR(26)TO.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+CÉSAR FERNANDO SCHIAVON ALDRIGHI

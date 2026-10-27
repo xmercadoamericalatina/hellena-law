@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 575, DE 26 DE ABRIL DE 2023"
+orgao: "Ministério da Educação/Universidade Federal da Bahia/Pró-Reitoria de Desenvolvimento de Pessoas"
+tipo: "Portaria"
+numero: "575"
+data: 2023-04-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/04/2023, seção 1, p. 175"
+data_publicacao: 2023-04-27
+edicao: "80"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-575-de-26-de-abril-de-2023-479518456"
+sha256_html_fonte: 26812b70a14f68b4574d643f86cb18c5936fea404a8760c68718976a536816f3
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 575, DE 26 DE ABRIL DE 2023
+
+PORTARIA Nº 575, DE 26 DE ABRIL DE 2023
+
+O Pró-Reitor de Desenvolvimento de Pessoas, no uso de suas atribuições previstas na Portaria de Delegação de Competência nº 448, de 17/05/2011, resolve:
+
+Prorrogar por 01 (um) ano, a partir de 23/06/2023, o prazo legal do Concurso Público para Docente da Carreira do Magistério Superior, realizado por esta Universidade, objeto do Edital nº 01/2021, DOU de 04/08/2021, cuja homologação foi publicada, conforme Portaria nº 726, DOU de 23/06/2022.
+
+ESCOLA DE MEDICINA VETERINÁRIA E ZOOTECNIA
+
+Departamento: Anatomia, Patologia e Clínicas Veterinárias
+
+Área de conhecimento: Toxicologia Veterinária
+
+Classe: Adjunto A
+
+Regime de Trabalho: DE
+
+JEILSON BARRETO ANDRADE

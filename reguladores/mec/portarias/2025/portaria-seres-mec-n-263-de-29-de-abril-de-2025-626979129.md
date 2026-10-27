@@ -1,0 +1,51 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 263, DE 29 DE ABRIL DE 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "263"
+data: 2025-04-29
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 30/04/2025, seção 1, p. 349"
+data_publicacao: 2025-04-30
+edicao: "81"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-263-de-29-de-abril-de-2025-626979129"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERES/MEC Nº 263, DE 29 DE ABRIL DE 2025
+
+PORTARIA SERES/MEC Nº 263, DE 29 DE ABRIL DE 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202404704 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 150 (cento e cinquenta) | Instituto de Tecnologia e Liderança | INSTITUTO BRASILEIRO DE TECNOLOGIA E CIENCIA DA COMPUTACAO - IBTCC | AVENIDA PROFESSOR ALMEIDA PRADO, 532, PRÉDIOS 5 E 6 , BUTANTÃ, SÃO PAULO/SP |
+| 2 | 202404705 | ENGENHARIA DE SOFTWARE (Bacharelado) | 113 (cento e treze) | Instituto de Tecnologia e Liderança | INSTITUTO BRASILEIRO DE TECNOLOGIA E CIENCIA DA COMPUTACAO - IBTCC | AVENIDA PROFESSOR ALMEIDA PRADO, 532, PRÉDIOS 5 E 6 , BUTANTÃ, SÃO PAULO/SP |
+| 3 | 202404706 | SISTEMAS DE INFORMAÇÃO (Bacharelado) | 113 (cento e treze) | Instituto de Tecnologia e Liderança | INSTITUTO BRASILEIRO DE TECNOLOGIA E CIENCIA DA COMPUTACAO - IBTCC | AVENIDA PROFESSOR ALMEIDA PRADO, 532, PRÉDIOS 5 E 6 , BUTANTÃ, SÃO PAULO/SP |
+| 4 | 202404972 | CIÊNCIA E TECNOLOGIA DE ALIMENTOS (Bacharelado) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO MARANHÃO | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO MARANHAO | RODOVIA MA 349, KM 2, GLEBA BURITI DO PARAÍSO, S/N, CAMPUS CAXIAS, POVOADO LAMEGO, CAXIAS/MA |
+| 5 | 202404974 | GESTÃO DE TURISMO (Tecnológico) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO MARANHÃO | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO MARANHAO | RODOVIA MA-225, KM 04, , , POVOADO SANTA CRUZ, BARREIRINHAS/MA |
+| 6 | 202404976 | GESTÃO INTEGRADA DE AGRONEGÓCIOS (Bacharelado) | 60 (sessenta) | PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ | ASSOCIACAO PARANAENSE DE CULTURA - APC | AVENIDA DA UNIÃO, 500, CAMPUS DE TOLEDO, JARDIM COOPAGRO, TOLEDO/PR |
+| 7 | 202404988 | NEGÓCIOS INTERNACIONAIS (Bacharelado) | 120 (cento e vinte) | PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ | ASSOCIACAO PARANAENSE DE CULTURA - APC | RUA IMACULADA CONCEIÇÃO, 1155, , PRADO VELHO, CURITIBA/PR |
+| 8 | 202404233 | MARKETING (Tecnológico) | 50 (cinquenta) | UNIVERSIDADE ANHEMBI MORUMBI | ISCP - SOCIEDADE EDUCACIONAL LTDA. | AV. PAULISTA, 2000, CAMPUS PAULISTA, BELA VISTA, SÃO PAULO/SP |
+| 9 | 202404248 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 100 (cem) | UNIVERSIDADE DO SUL DE SANTA CATARINA | FUNDACAO UNIVERSIDADE DO SUL DE SANTA CATARINA-UNISUL | AVENIDA PEDRA BRANCA, 25, , PEDRA BRANCA, PALHOÇA/SC |
+| 10 | 202405072 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 100 (cem) | UNIVERSIDADE DO SUL DE SANTA CATARINA | FUNDACAO UNIVERSIDADE DO SUL DE SANTA CATARINA-UNISUL | AV. JOSÉ ACÁCIO MOREIRA, 787, DEHON., 787, , DEHON, TUBARÃO/SC |
+| 11 | 202404910 | CIÊNCIAS DA RELIGIÃO (Licenciatura) | 40 (quarenta) | UNIVERSIDADE DO VALE DO ITAJAÍ | FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI | RUA URUGUAI, 458, UNIVALI - UNIVERSIDADE DO VALE DO ITAJAÍ, CENTRO, ITAJAÍ/SC |
+| 12 | 202221151 | FISIOTERAPIA (Bacharelado) | 50 (cinquenta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | AVENIDA LUCAS EVANGELISTA DE OLIVEIRA FRANCO, 530, , ATERRADO, VOLTA REDONDA/RJ |
+| 13 | 202404874 | AQUICULTURA (Tecnológico) | 60 (sessenta) | UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO | UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO | RUA DOM MANOEL DE MEDEIROS, S/N, , DOIS IRMÃOS, RECIFE/PE |
+| 14 | 202404228 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 50 (cinquenta) | UNIVERSIDADE SALVADOR | FACS SERVICOS EDUCACIONAIS LTDA | RUA RIO TINTO, 152, CAMPUS SANTA MÔNICA, SANTA MÔNICA, FEIRA DE SANTANA/BA |
+| 15 | 202219150 | COMÉRCIO EXTERIOR (Tecnológico) | 80 (oitenta) | UNIVERSIDADE SÃO JUDAS TADEU | AMC - SERVICOS EDUCACIONAIS LTDA | AVENIDA IMPERATRIZ LEOPOLDINA, 184, UNIDADE VILA LEOPOLDINA, VILA LEOPOLDINA, SÃO PAULO/SP |
+| 16 | 202404888 | CIÊNCIAS DA COMPUTAÇÃO (Bacharelado) | 120 (cento e vinte) | UNIVERSIDADE VEIGA DE ALMEIDA | ANTARES EDUCACIONAL S.A. | AV. GEN. FELICÍSSIMO CARDOSO, 500, CAMPUS BARRA DA TIJUCA, BARRA DA TIJUCA, RIO DE JANEIRO/RJ |
+| 17 | 202404889 | EDUCAÇÃO FÍSICA (Bacharelado) | 100 (cem) | UNIVERSIDADE VEIGA DE ALMEIDA | ANTARES EDUCACIONAL S.A. | AV. GEN. FELICÍSSIMO CARDOSO, 500, CAMPUS BARRA DA TIJUCA, BARRA DA TIJUCA, RIO DE JANEIRO/RJ |

@@ -1,0 +1,67 @@
+---
+titulo: "PORTARIA Nº 57-GDG, DE 22 DE ABRIL DE 2025"
+orgao: "Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo/Campus Guarapari"
+tipo: "Portaria"
+numero: "57"
+data: 2025-04-22
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/03/2026, seção 1, p. 39"
+data_publicacao: 2026-03-10
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-57-gdg-de-22-de-abril-de-2025-691498397"
+baixado_em: 2026-10-15
+---
+# PORTARIA Nº 57-GDG, DE 22 DE ABRIL DE 2025
+
+PORTARIA Nº 57-GDG, DE 22 DE ABRIL DE 2025
+
+O DIRETOR-GERAL DO CAMPUS GUARAPARI, DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA    DO ESPÍRITO SANTO, nomeado pela Portaria nº 3692, de 19.11.2025 da Reitoria deste Ifes e publicada no DOU de 24.11.2025, seção 2, página 20, no uso das atribuições que lhe confere a Portaria nº 1.070, de 05.06.2014 da Reitoria deste Ifes, resolve:
+
+**Art. 1º** Homologar o Resultado do Processo Seletivo Simplificado destinado à Contratação de Professor Substituto da área de Atendimento Educacional Especializado - AEE, que trata o Edital nº 02/2026, conforme anexo.
+
+ADRIANO MESQUITA OLIVEIRA
+
+## ANEXO I — RESULTADO FINAL - EDITAL Nº 01/2026
+
+Curso/Disciplina: Atendimento Educacional Especializado - AEE - 40 horas
+
+| INSCRIÇÃO | CANDIDATO | PONTUAÇÃO | CLASSIFICAÇÃO |
+| --- | --- | --- | --- |
+| 260224 | VERA LUCIA DE OLIVEIRA MATTOS | 67 | 1º |
+| 260237 | ANA PAULA PEREIRA SANTOS SÉRVULO | 67 | 2º |
+| 260213 | VANDERLEIA MEROTTO | 61 | 3º |
+| 260242 | GEANE FERREIRA SANTOS | 56 | 4º |
+| 260234 | KIRLIANE MIRANDA DE LIMA OLIVEIRA | 49 | 5º |
+| 260203 | FABIANA DE OLIVEIRA SILVA | 49 | 6º |
+| 260227 | MARIA DAS GRAÇAS MENDES DE OLIVEIRA ASSIS | 47 | 7º |
+| 260202 | REGINA MARIA DA SILVA | 46 | 8º |
+| 260217 | ALLAN LOZER | 46 | 9º |
+| 260241 | GLAUCIO ROBERTO BERNARDO DE CARA | 46 | 10º |
+| 260231 | ALINE SILVA DEJOSI NERY | 45 | 11º |
+| 260215 | ELIZA DOS SANTOS AIRES RODRIGUES | 43 | 12º |
+| 260201 | ALEXANDRE ROCHA DE AMORIM | 42 | 13º |
+| 260212 | VINICIUS MEDEIROS AVELINO | 41 | 14º |
+| 260233 | VIVIANE CRISTINA DA CRUZ CHAGAS | 39 | 15º |
+| 260238 | LUCIANA MORESCHI MEDEIROS | 39 | 16º |
+| 260230 | JUSCENILTON VASCONCELOS DA CONCEIÇÃO | 38 | 17º |
+| 260220 | RUTE LÉIA AUGUSTA DA SILVA | 35 | 18º |
+| 260216 | MARCELLA NEVES VELOSO | 35 | 19º |
+| 260221 | FATIMA APARECIDA REZENDE PINHEIRO | 33 | 20º |
+| 260232 | PRISCILA MARVILA SCHERRER ALMEIDA | 33 | 21º |
+| 260228 | ANGÉLICA CASSIA GERVÁSIO TORMENTINO | 31 | 22º |
+| 260229 | LUARA COELHO MARTINS | 31 | 23º |
+| 260240 | ELISANGELA DOS SANTOS BARBOZA MEZADRE | 30 | 24º |
+| 260235 | LEONARDO DA SILVA BELONI | 30 | 25º |
+| 260236 | MAYARA PAES SANTOS | 29 | 26º |
+| 260205 | MAYARA BEATRIZ DE LIMA NASCIMENTO | 29 | 27º |
+| 260210 | SANDRA MARIANO CAMPOS | 28 | 28º |
+| 260214 | MARIA APARECIDA SAMPAIO ROCHA | 26 | 29º |
+| 260226 | WESCLEY MARIANO DA SILVA | 26 | 30º |
+| 260206 | HELOISA DA SILVA FREIRE | 25 | 31º |
+| 260219 | DIEGO ALEXANDRE COSTA DE JESUS | 25 | 32º |
+| 260211 | JAQUELINE DE JESUS CASTRO DOS SANTOS | 16 | 33º |
+| 260223 | MILTON VIDAL JUSTINO | 15 | 34º |
+| 260218 | DIEGO SILVA RODRIGUES DA COSTA | 14 | 35º |
+| 260239 | PAULA APARECIDA DINIZ GOMIDES | 12 | 36º |
+| 260222 | ELDIMAR DE JESUS OLIVEIRA | 10 | 37º |

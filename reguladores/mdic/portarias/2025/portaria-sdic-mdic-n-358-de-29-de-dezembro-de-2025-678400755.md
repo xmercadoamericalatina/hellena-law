@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA SDIC/MDIC Nº 358, DE 29 DE DEZEMBRO DE 2025"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços"
+tipo: "Portaria"
+numero: "358"
+data: 2025-12-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/12/2025, seção 1, p. 39"
+data_publicacao: 2025-12-30
+edicao: "248"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sdic/mdic-n-358-de-29-de-dezembro-de-2025-678400755"
+baixado_em: 2026-10-16
+sha256_html_fonte: 2b7d43eea84d5a8c9270d0e1eb7dddfb4c50c3f01627d5bd50bff6bc676541c7
+---
+# PORTARIA SDIC/MDIC Nº 358, DE 29 DE DEZEMBRO DE 2025
+
+PORTARIA SDIC/MDIC Nº 358, DE 29 DE DEZEMBRO DE 2025
+
+Habilitação ao Programa Mobilidade Verde e Inovação - MOVER.
+
+O SECRETÁRIO DE DESENVOLVIMENTO INDUSTRIAL, INOVAÇÃO, COMÉRCIO E SERVIÇOS, DO MINISTÉRIO DO DESENVOLVIMENTO, INDÚSTRIA, COMÉRCIO E SERVIÇOS, no uso da atribuição que lhe foi conferida pelo art. 13 da Portaria MDIC nº 43, de 26 de março de 2024, e tendo em vista o disposto no art. 13, § 2º, I, da Lei nº 14.902, de 27 de junho de 2024, resolve:
+
+**Art. 1º** Habilitar, nos termos do inciso I, do art. 13, da Lei nº 14.902, de 27 de junho de 2024, a empresa ELETRA INDUSTRIAL LTDA. (CNPJ nº 04.121.069/0001-24), conforme processo nº 19687.014637/2025-04, de 27 de novembro de 2025.
+
+**Art. 2º** A habilitação de que trata o art. 1º tem vigência a partir de 1º de janeiro de 2026 até 31 de janeiro de 2029.
+
+**Art. 3º** A empresa habilitada está sujeita à verificação do cumprimento do compromisso assumido na solicitação de habilitação, bem como às sanções administrativas previstas nos arts. 23 a 25 da Lei nº 14.902, de 2024.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+UALLACE MOREIRA LIMA

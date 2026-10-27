@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 473, DE 6 DE MARÇO DE 2023"
+orgao: "Ministério da Educação/Fundação Universidade do Amazonas"
+tipo: "Portaria"
+numero: "473"
+data: 2023-03-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/03/2023, seção 1, p. 58"
+data_publicacao: 2023-03-08
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-473-de-6-de-marco-de-2023-468445604"
+sha256_html_fonte: c08189da923ec61cbae32eaa2cc9f9e255cc11340c24e23898195c1f8f94ed6c
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 473, DE 6 DE MARÇO DE 2023
+
+PORTARIA Nº 473, DE 6 DE MARÇO DE 2023
+
+O REITOR DA UNIVERSIDADE FEDERAL DO AMAZONAS, usando das atribuições estatutárias, conferidas por Decreto de 28 de junho de 2021, publicado no Diário Oficial da União de 29 de junho de 2021, resolve:
+
+**Art. 1º.** HOMOLOGAR o resultado do processo seletivo objeto do Edital nº 003, de 06/01/2023, publicado no D.O.U. em 06/01/2023, considerando os limites previstos no Anexo II do Decreto nº 9.739 de 28/03/2019, conforme segue:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Unidade</p></td>      <td rowspan="1" colspan="1"><p>Área</p></td>      <td rowspan="1" colspan="1"><p>Classe/ Padrão/ Carga Horária</p></td>      <td rowspan="1" colspan="1"><p>Lista*</p></td>      <td rowspan="1" colspan="1"><p>Candidato</p></td>      <td rowspan="1" colspan="1"><p>Classificação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FIC</p></td>      <td rowspan="1" colspan="1"><p>Produção Jornalística Multimídia</p></td>      <td rowspan="1" colspan="1"><p>Auxiliar, com especialização Nível 1</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>HELDER RONAN DE SOUZA MOURAO</p></td>      <td rowspan="1" colspan="1"><p>1°</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>RENATA DE LIMA SOUSA</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>MAYANE BATISTA LIMA</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FT</p></td>      <td rowspan="1" colspan="1"><p>Engenharia Elétrica</p></td>      <td rowspan="1" colspan="1"><p>Assistente A, Nível 1</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>CLÁUDIA SABRINA MONTEIRO DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>1°</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ICB</p></td>      <td rowspan="1" colspan="1"><p>Anatomia Humana</p></td>      <td rowspan="1" colspan="1"><p>Assistente A, Nível 1</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>VALDIR PAVANELO JUNIOR</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>DENILSON DA SILVA VERAS</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>DANIEL VIEIRA PINTO</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ICSEZ</p></td>      <td rowspan="1" colspan="1"><p>Psicologia</p></td>      <td rowspan="1" colspan="1"><p>Auxiliar, Nível 1</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>ANDRÉ REIS ACAUAN</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ANTONIO AUGUSTO DA SILVA PINHO</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ICSEZ</p></td>      <td rowspan="1" colspan="1"><p>Serviço Social</p></td>      <td rowspan="1" colspan="1"><p>Assistente A, Nível 1</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>LEILIANE AMAZONAS DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>KEURYANNE GUERREIRO DOS REIS SANTOS</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>DANIELA GLORIA CANTO</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SARAH THAYS NASCIMENTO ANDRADE</p></td>      <td rowspan="1" colspan="1"><p>4º</p></td>     </tr>    </tbody>   </table>
+
+\*AC: Ampla Concorrência \*PCD: Pessoa Com Deficiência
+
+**Art. 2º.** ESTABELECER que o prazo de validade do resultado do Processo Seletivo será de 01 (um) ano, contado a partir da publicação do ato de homologação no Diário Oficial da União, prorrogável por igual período no interesse da Instituição e mediante iniciativa da Unidade Acadêmica.
+
+SYLVIO MÁRIO PUGA FERREIRA

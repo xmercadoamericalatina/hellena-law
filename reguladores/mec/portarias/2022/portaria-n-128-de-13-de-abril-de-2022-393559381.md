@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA nº 128, DE 13 DE abril de 2022"
+orgao: "Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais/Campus Ouro Preto"
+tipo: "Portaria"
+numero: "128"
+data: 2022-04-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/04/2022, seção 1, p. 267"
+data_publicacao: 2022-04-14
+edicao: "72"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-128-de-13-de-abril-de-2022-393559381"
+sha256_html_fonte: 9e752d3a536aa61e2ae75fdf917bd5f8132b531ce54e1cf282f25431fc69b4d8
+baixado_em: 2026-10-20
+---
+# PORTARIA nº 128, DE 13 DE abril de 2022
+
+PORTARIA nº 128, DE 13 DE abril de 2022
+
+O DIRETOR-GERAL DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS - CAMPUS OURO PRETO, nomeado pela Portaria IFMG nº 1169, de 20/09/2019, publicada no DOU de 23/09/2019, Seção 2, pág. 29, tendo em vista o Termo de Posse do dia 24/10/2019, e no uso das atribuições que lhe são conferidas pela Portaria IFMG nº 475 de 06 de abril de 2016, publicada no DOU de 15 de abril de 2016, seção 2, pág.17, retificada pela Portaria IFMG nº 805, de 04 de julho de 2016, publicada no DOU de 06 de julho de 2016, Seção 2, pág. 22 e pela Portaria IFMG nº 1078, de 27 de setembro de 2016, publicada no DOU de 04 de outubro de 2016, Seção 2, pág. 20. resolve:
+
+**Art. 1º.** PRORROGAR, a partir do dia 16 de Abril de 2022 ao dia 15 de Abril de 2023, o prazo de validade do Processo Seletivo Simplificado para Professor Substituto - Edital n° 09/2021 - Campus Ouro Preto, de 09 de março de 2021, homologado no DOU nº 71 de 16 de Abril de 2021, seção 03, página 62.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+Ouro Preto-MG, 13 de abril de 2022
+
+Reginato Fernandes dos Santos
+
+Diretor-Geral
