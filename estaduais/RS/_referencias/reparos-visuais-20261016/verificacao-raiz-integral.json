@@ -1,0 +1,56 @@
+{
+  "ledger": "estaduais/RS/_referencias/reparos-visuais-20261016/ledger-integral.json",
+  "ledger_sha256": "959447f860c13cb706fff49a2e7716fb5dc21a6d7f821db44f07cba7b3eab3e5",
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53969-2018-id64510.md",
+      "sha256_md": "b45a75f8807287f5ce4e0e44767c195b9eb2493def5e2f5df701ce28b01e8574",
+      "sha256_pdf": "67b069a5df3b2b9445597e943afbaf540c05a8e92e73913f45d399a16eab1754",
+      "paginas": 18,
+      "renders_byteidenticos": 18,
+      "headers_e_prefixo_preservados": true,
+      "links_locais_conferidos": 18
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53894-2018-id64432.md",
+      "sha256_md": "c992f8ff38bb6e5eac7a440d2a25ddff8348be2ef80a9c9a853d9a863f04da17",
+      "sha256_pdf": "f1584149a68f7c1d347ef77aa12ecaecb2930aad6966366233eaa9a84b4cdc0c",
+      "paginas": 4,
+      "renders_byteidenticos": 4,
+      "headers_e_prefixo_preservados": true,
+      "links_locais_conferidos": 4
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-54083-2018-id64692.md",
+      "sha256_md": "210128717f632d61a426449b176b7c6534f42c84a943257fcca8a14a210a16a5",
+      "sha256_pdf": "9c1704fa881507ae9f7e2e99c3a0216c2a118e8bde289ff90d2219d2e9eedbae",
+      "paginas": 18,
+      "renders_byteidenticos": 18,
+      "headers_e_prefixo_preservados": true,
+      "links_locais_conferidos": 18
+    }
+  ],
+  "estado": "reproducao_integral_fonte_verificada_na_raiz",
+  "limites": [
+    "Não certifica literalmente cada célula da transcrição anterior; a representação visual preserva todas as páginas da fonte.",
+    "PDF da Assembleia pode conter compilado; não se afirma publicação original do Diário.",
+    "Imagens ainda não verificadas no GitHub/navegador."
+  ],
+  "inspecoes_visuais_raiz": [
+    {
+      "norma": "54083",
+      "pagina": 4,
+      "descricao": "QuadroConceito/Descrição/Escala0a3 legível na reprodução; estavaachatadona transcrição."
+    },
+    {
+      "norma": "53894",
+      "pagina": 2,
+      "descricao": "UnidadeEmR$milhares* e nota(*)devaloresocultos conferidas; originaltabelado preservado."
+    },
+    {
+      "norma": "53969",
+      "pagina": 18,
+      "descricao": "ÚltimapáginaARIAL/CAIXAALTA/PRETA eFIMDODOCUMENTO presentes, semcorte."
+    }
+  ]
+}

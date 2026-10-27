@@ -1,0 +1,88 @@
+---
+titulo: "Lei ordinária nº 2.867, de 09 de novembro de 2012"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "2867"
+data: 2012-11-09
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR ATÉ O MONTANTE DE R$ 4.935.629,92 EM FAVOR DA UNIDADE ORÇAMENTÁRIA: DEFENSORIA PÚBLICA DO ESTADO DE RONDÔNIA - DPE."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE 2096"
+fonte: "https://sapl.al.ro.leg.br/norma/5945"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2012/5945/5945_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 2.867, de 09 de novembro de 2012
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N. 2.867 , DE 09 DE NOVEMBRO DE 2012. Autoriza o Poder Executivo a abrir crédito adicional suplementar até o montante de R$ 4.935.629,92 em favor da unidade orçamentária Defensoria Pública do Estado de Rondônia - DPE.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito adicional suplementar para dar cobertura orçamentária às despesas com pessoal e despesas correntes, no presente exercício até o montante de R$ 4.935.629,92 (quatro milhões novecentos e trinta e cinco mil seiscentos e vinte e nove reais e noventa e dois centavos), em favor da unidade orçamentária Defensoria Pública do Estado de Rondônia - DPE.
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicados no Anexo I desta Lei e no montante especificado.
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 09 de novembro de 2012, 124° da República. CONFÚCIO AIRES MOURA Governador
+
+ANEXO I REDUZ
+
+279.665.93 REALIZAR PROCESSO SELETIVO PARA
+
+30.001.03.122.2043.1095 PREENCHIMENTO DO QUADRO FUNCIONAL
+
+281.617.28 MANTER A ADMINISTRACAO DA DEFENSORIA 30.001.03.122.2043.2182
+
+DESENVOLVER O PROGRAMA DE ESTAGIO PARA
+
+134.000,00 30.001.03.122.2043.2185 ESTUDANTES E MENORES APRENDIZES 530.000,00 30.001.03.422.2044.1096
+
+MODERNIZAR AS UNIDADES FISICAS DA DEFENSORIA PUBLICA 350.000,0oł 4490
+
+38.829,71 CONSTRUIR, AMPLIAR E REFORMAR UNIDADES
+
+30.001.03.422.2044.1098 FISICAS DA DEFENSORIA PUBLICA 1.138.592,00
+
+4490
+
+125.295.00 4590 85.130,0ął CAPACITAR DE FORMA CONTINUADA OS
+
+30.001.03.128.2044.2108 MEMBROS, OS SERVIDORES E OS ESTAGIARIOS DA DEFENSORIA PUBLICA 778.000.0ął FORTALECER A ESTRUTURA DE TECNOLOGIA DE 30.001.03.126.2044.4015
+
+INFORMACAO E TELECOMUNICACOES 237.000,00 4490
+
+IMPLANTAR NOVOS POSTOS DE ATENDIMENTO 193.385,00
+
+30.001.03.422.2045.1100 4490 37.615.00 4490 0116 5.000.00
+
+0116 DESENVOLVER ACOES DE PROMOCAO DA 30.001.03.422.2045.1115 CIDADANIA PARTICIPATIVA E DIFUSAO DOS DIREITOS HUMANOS 241.091.0oł DESENVOLVER ACOES DE MELHORIA DO
+
+30.001.03.422.2045.1135 ATENDIMENTO NO SISTEMA PENITENCIARIO DE RONDONIA 21.000.00 4490
+
+129.909,0ął
+
+0116 IMPLANTAR E MANTER O CENTRO 4490 0116 3.500,00 30.001.03.422.2045.1559 ESPECIALIZADO EM SOLUCOES ALTERNATIVAS DE CONFLITOS REALIZAR ATENDIMENTOS ESPECIALIZADOS 30.001.03.422.2045.2111 50.000.00
+
+MULTIDISCIPLINARES PARA GRUPOS SOCIALMENTE VULNERAVEIS 276.000,00 4490
+
+tour
+
+## ANEXO II
+
+SUPLEMENTA
+
+30.001.03.122.2043.2183 ASSEGURAR A REMUNERACAO DE SERVIDORES 396.000,00
+
+3190 TECNICOS-ADMINISTRATIVOS E O PAGAMENTO DE ENCARGOS SOCIAIS 30.001.03.122.2043.2184
+
+394.500,00 ATENDER A SERVIDORES COM O PAGAMENTO
+
+DE BENEFICIOS E DESPESAS DE CARATER INDENIZATORIOS ASSEGURAR A REMUNERACAO DE MEMBROS
+
+4.104.629,92 3190 30.001.03.422.2045.2109 ATIVOS E ENCARGOS SOCIAIS DA DEFENSORIA
+
+40.500,00 30.001.03.422.2045.2110 ATENDER A MEMBROS COM O PAGAMENTO DE
+
+BENEFICIOS E DESPESAS DE CARATER INDENIZATORIO
+
+derr

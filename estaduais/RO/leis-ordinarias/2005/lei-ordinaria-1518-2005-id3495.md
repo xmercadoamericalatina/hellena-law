@@ -1,0 +1,82 @@
+---
+titulo: "Lei ordinária nº 1.518, de 30 de agosto de 2005"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "1518"
+data: 2005-08-30
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO SUPLEMENTAR ATÉ O MONTANTE DE R$ 5.242.000,00 EM FAVOR DA COORDENADORIA GERAL DE APOIO A GOVERNADORIA - CGAG."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O. n° 342, 30/08/05"
+fonte: "https://sapl.al.ro.leg.br/norma/3495"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2005/3495/3495_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 1.518, de 30 de agosto de 2005
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N° 1518, DE 30 DE AGOSTO DE 2005. Autoriza o Poder Executivo a abrir crédito suplementar até o montante de R$ 5.242.000,00 em favor da Coordenadoria Geral de Apoio a Governadoria - CGAG.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito suplementar para o atendimento de despesas correntes no presente exercício até o montante de R$ 5.242.000,00 (cinco milhões, duzentos e quarenta e dois mil reais), em favor da Coordenadoria Geral de Apoio à Governadoria - CGAG.
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicados nos Anexos I e II desta Lei e nos montantes especificados.
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 30 de agosto de 2005, 117° da República. Governador
+
+Publicado no Diário Oficial nº 342 do de 30/08/05
+
+CRÉDITO SUPLEMENTAR
+
+ANEXO II REDUZ | NATUREZA F CÓDIGO ESPECIFICAÇÃO N DA VALOR DESPESA T FUNDAÇÃO DE ASSISTÊNCIA SOCIAL DO ESTADO DE RONDÔNIA 1130. 081221015.2291| ADMINISTRAÇÃO DA FASER 4490.5200Ś
+
+250.000,00 1130.082431223.2568| APOIO AOS DIR. DA CRIANÇA E ADOLESCENTE 3390.3000 150.000, 00
+
+4490. 510ął
+
+500.000,00 4490.5200
+
+300.000, 0ął 950.000,00 1130.082441223.2648 | PROMOÇÃO E PROTEÇÃO A CIDADANIA 13340.4100
+
+500.000, 0ął 3390.3200
+
+250.000,00 3390.3900
+
+250.000,00 4440. 4100ł
+
+100.000,00 1.100.000,00 1130.082441223.2649 APOIO AO DESENV.LOCAL E INCLUSÃO SOCIAL 3390.1400
+
+50.000,00 3390. 300îŚ
+
+100.000,00 3390. 3600îŚ
+
+50.000,00 200.000,00 DEPARTAMENTO DE VIAÇÃO E OBRAS PÚBLICAS DO ESTADO DE RONDÔNIA 1920.041221254.1350| CONST.AMPLIAÇÃO E REFORMA DE PRÉDIOS PÚBLICOS 3390. 3900ł
+
+230.000,00 4490. 5100|
+
+570.000,00| 800.000,00 1920.267821249.1351| INFRA-ESTRUTURA DA MALHA VIÁRIA 3390.3500
+
+200. 000, 0ł 4490.5200|
+
+1.000.000,00 1.200.000,00 SECRETARIA DE ESTADO DOS ESPORTES DA CULTURA E DO LAZER 2001.278121216. 1122 | CONSTRUÇÃO, AMPLIAÇÃO E REFROMAS DE ESPAÇOS ESPORTIVOS E DE LAZER. 4440.4200 |
+
+50.000,00 4450.4200
+
+25.000,00 4490.5200Ś
+
+70.000, 00ł 145.000,00| TOTAL 4.645.000,00
+
+5.242.000,00 180.000,00 10.000, 0ł 190.000,00 200.000,0îîŚ 60.000,00 80.000,00śł 7.000,00 200.000,00 764.091,00 80.000,00 50.000,00 407.000,00 1.942.576,00 2.672.576,00 10.000,00 1.805.333,00 200.000,00 250.000,00 5.242.000,00 SUPLEMENTA VALOR VALOR REDUZ
+
+TOTAL TOTAL 3390.3900| 3390.1400 |
+
+3350.4100ł 3350.4300 4490. 520łą 4440.4200 3390.3000 3390.3300 3390.3600 3390.3900 4450.4200ł 5200 4450.4200 3390.1500 3390.3900 NATUREZA NATUREZA DESPESA DESPESA DA DA 4490
+
+ANEXO II ESPORTES DA CULTURA E DO LAZER
+
+2001.133921215.1198| CONST.REST.REF.E AMPL.DE MON.
+
+ANEXO I ESPECIFICAÇÃO ESPECIFICAÇÃO 1109.041221202.2554 | PUBLICIDADE INSTITUCIONAL COORDENADORIA DE APOIO A PUBLICIDADE DE UTILIDADE 1109.041221015.2319| ADMINISTRAÇÃO DA UNIDADE SECRETARIA DE ESTADO DOS IMP.DE PROJ. E ATIVIDADES CULTURAIS NO ESTADO. E ESPAÇOS CULTURAIS.
+
+| PUBLICA CRÉDITO SUPLEMENTAR CREDITO SUPLEMENTAR 1109.041221202.2555| 2001.133921215.1197 CÓDIGO CÓDIGO

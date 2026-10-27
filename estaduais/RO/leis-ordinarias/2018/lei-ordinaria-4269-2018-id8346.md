@@ -1,0 +1,108 @@
+---
+titulo: "Lei ordinária nº 4.269, de 07 de maio de 2018"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "4269"
+data: 2018-05-07
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO, ATÉ O MONTANTE DE R$ 7.907.569,45, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: EPR, DER, SEPOG, SEPAT, POLITEC, SEDUC, SEJUCEL, FES, SEAGRI E SEAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E Nº 083"
+fonte: "https://sapl.al.ro.leg.br/norma/8346"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2018/8346/8346_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 4.269, de 07 de maio de 2018
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N. 4.269 , DE 7 DE MAIO DE 2018. Autoriza o Poder Executivo a abrir Crédito Adicional Suplementar por Anulação, até o montante de R$ 7.907.569,45, em favor das Unidades Orçamentárias Estado para Resultados - EpR, Departamento Estadual de Estradas de Rodagem, Infraestrutura e Serviços Públicos - DER, Secretaria de Estado de Planejamento, Orçamento e Gestão - SEPOG, Superintendência Estadual de Patrimônio e Regularização Fundiária - SEPAT, Superintendência de Polícia Técnico-Científica - POLITEC, Secretaria de Estado da Educação - SEDUC, Superintendência da Juventude, Cultura, Esporte e Lazer - SEJUCEL, Fundo Estadual de Saúde - FES, Secretaria de Estado da Agricultura - SEAGRI e Secretaria de Estado de Assistência e do Desenvolvimento Social - SEAS.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito adicional suplementar por anulação, até o montante de R$ 7.907.569,45 (sete milhões, novecentos e sete mil, quinhentos e sessenta e nove reais e quarenta e cinco centavos), em favor das Unidades Orçamentárias: Estado para Resultados - EpR, Departamento Estadual de Estradas de Rodagem, Infraestrutura e Serviços Públicos - DER, Secretaria de Estado de Planejamento, Orçamento e Gestão - SEPOG, Superintendência Estadual de Patrimônio e Regularização Fundiária - SEPAT, Superintendência de Polícia Técnico-Científica - POLITEC, Secretaria de Estado da Educação - SEDUC, Superintendência da Juventude, Cultura, Esporte e Lazer - SEJUCEL, Fundo Estadual de Saúde - FES, Secretaria de Estado da Agricultura - SEAGRI e Secretaria de Estado de Assistência e do Desenvolvimento Social - SEAS, para dar cobertura orçamentária às despesas corrente e de capital no presente exercício.
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias indicados no Anexo 1 desta Lei e no montante especificado.
+
+**Art. 3°.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 7 de maio de 2018, 130° da República. Quer DANIEL PERETRA Governador
+
+ANEXO I CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO REDUZ Fonte de Código Especificação Valor Despesa Recurso PROCURADORIA-GERAL DO ESTADO - 500.000,00 PGE ASSEGURAR A MANUTENÇÃO 11.003.04.122.1015.2087
+
+500.000,00
+
+ADMINISTRATIVA DA UNIDADE SUPERINTENDÊNCIA DE GESTÃO DOS 720.405,00 GASTOS PÚBLICOS ADMINISTRATIVOS - SUGESP PROMOVER A PUBLICIDADE 11.009.04.122.2071.2554
+
+720.405,0ął
+
+INSTITUCIONAL SECRETARIA DE ESTADO DE 1.132.260,28 PLANEJAMENTO, ORÇAMENTO E GESTÃO - SEPOG ASSEGURAR A MANUTENÇÃO 720.000.00
+
+13.001.04.122.1015.2087 0213 ADMINISTRATIVA DA UNIDADE 349.260,28
+
+50.000,00
+
+COORDENAR A IMPLANTAÇÃO DE 13.000,00 13.001.04.122.1277.4013 DESENVOLVIMENTO REGIONAL
+
+DESCENTRALIZADO SUPERINTENDÊNCIA ESTADUAL DE 1.000.000,00 GESTÃO DE PESSOAS - SEGEP ASSEGURAR A MANUTENÇÃO 1.000.000,00
+
+13.006.04.122.1015.2087
+
+ADMINISTRATIVA DA UNIDADE SECRETARIA DE ESTADO DE FINANÇAS - 1.475.933,60 SEFIN 14.001.04.122.1277.2064 GESTÃO DE T.I. 1.475.933,60ł
+
+1.000.000,00 POLICIA MILITAR - PM ASSEGURAR A MANUTENÇÃO 1.000.000,00
+
+15.005.06.181.2236.2154Ś OPERACIONAL DA UNIDADE SECRETARIA DE ESTADO DA 544.000,00 EDUCAÇÃO - SEDUC MANTER E MELHORAR AS UNIDADES
+
+0112 16.001.12.368.1076.2165 544.000,00 ESCOLARES FUNDO ESTADUAL DE SAÚDE - FES 1.198.000,00ł CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS 17.012.10.122.2070.1614 150.000,00
+
+DE UNIDADES DE SAÚDE
+
+APOIAR ENTIDADADES PÚBLICAS E PRIVADAS COM ATUAÇÃO NA ÁREA DA 17.012.10.301.1093.0253 3350
+
+1.048.000,00 SAÚDE SECRETARIA DE ESTADO DA JUSTIÇA - 336.970,57 SEJUS FORNECER ALIMENTAÇÃO PARA A 21.001.03.421.1242.2893
+
+336.970,57š POPULAÇÃO CARCERÁRIA TOTAL R$ 7.907.569,45
+
+ANEXO II CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO SUPLEMENTA Fonte de Especificação Valor Código Despesa Recurso ESTADO PARA RESULTADOS - EpR 720.000,00 PROMOVER A GESTÃO DE T.I. E INCLUSÃO 270.000,00 11.007.04.126.2041.2752
+
+0213 DIGITAL 0213
+
+450.000,00 DEPARTAMENTO ESTADUAL DE ESTRADAS DE RODAGEM, 4.146.081,75 INFRAESTRUTURA E SERVIÇOS PÚBLICOS - DER EFETUAR TRANSFERÊNCIAS VOLUNTÁRIAS 503.000,00 3340 11.025.04.122.1249.0196
+
+3.307.000,00 4440
+
+209.426,34
+
+4450 CONSTRUÇÃO DE OBRAS E SERVIÇOS
+
+126.655,41
+
+11.025.15.451.1254.1390 PÚBLICOS SECRETARIA DE ESTADO DE 13.000,00 PLANEJAMENTO, ORÇAMENTO E GESTÃO - SEPOG 13.000,00 4440
+
+13.001.04.123.1015.0256 ATENDER EMENDAS PARLAMENTARES SUPERINTENDÊNCIA ESTADUAL DE 128.700,00 PATRIMÔNIO E REGULARIZAÇÃO FUNDIÁRIA - SEPAT APOIAR REGULARIZAÇÃO FUNDIÁRIA 128.700.00
+
+3340 13.009.20.482.2051.2195 URBANA SUPERINTENDÊNCIA DE POLÍCIA 27.518,00 TÉCNICO-CIENTÍFICA - POLITEC ASSEGURAR A AQUISIÇÃO DE BENS 27.518.00
+
+15.006.06.181.2020.1277 PERMANENTES DA UNIDADE
+
+SECRETARIA DE ESTADO DA EDUCAÇÃO - 544.000,00 SEDUC 16.001.12.368.1269.0183 EFETUAR TRANSFERÊNCIAS VOLUNTÁRIAS 529.000,00 4440 0112 0112 15.000,00 3340 SUPERINTENDÊNCIA DA JUVENTUDE, 384.000,00 CULTURA, ESPORTE E LAZER - SEJUCEL PROMOVER AÇÕES PARA 16.004.13.392.1215.1051 60.000,00
+
+4440 DESENVOLVIMENTO CULTURAL 20.000,00 3340
+
+APOIAR ENTIDADES DESPORTIVAS - 16.004.27.812.1216.1149 85.000,00
+
+3340 PRODESP 100.000,00
+
+4450 119.000,00 1.198.000,00 FUNDO ESTADUAL DE SAÚDE - FES APOIAR ENTIDADADES PÚBLICAS E 648.000,0łął 17.012.10.301.1093.0253 PRIVADAS COM ATUAÇÃO NA ÁREA DA
+
+4440 SAÚDE 550.000,00
+
+3340 SECRETARIA DE ESTADO DA 236.445,50 AGRICULTURA - SEAGRI DESENVOLVER A SUSTENTABILIDADE DAS
+
+46.445,50 4440 19.001.20.605.2037.1081 COMUNIDADES TRADICIONAIS 190.000,00
+
+3340 SECRETARIA DE ESTADO DA ASSISTÊNCIA 509.824,2ął E DO DESENVOLVIMENTO SOCIAL - SEAS FORTALECER A REDE SOCIOASSISTENCIAL 225.000,00 4440
+
+23.001.08.244.1290.2073 PÚBLICO E PRIVADA 83.349,00
+
+3350 PROMOVER POLÍTICAS PÚBLICAS DE 201.475,20
+
+23.001.08.244.1291.2010 IGUALDADES E DIREITOS HUMANOS RS 7.907.569,45 TOTAL

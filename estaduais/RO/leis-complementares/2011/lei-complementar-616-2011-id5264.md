@@ -1,0 +1,68 @@
+---
+titulo: "Lei Complementar nº 616, de 18 de abril de 2011"
+uf: "RO"
+tipo: "Lei Complementar"
+numero: "616"
+data: 2011-04-18
+ementa: "CRIA, NO ÂMBITO DO PODER EXECUTIVO ESTADUAL, O CONSELHO ESTRATÉGICO DE DESENVOLVIMENTO SUSTENTÁVEL – CONEDES E ACRESCENTA DISPOSITIVOS À LEI COMPLEMENTAR Nº 224, DE 4 DE JANEIRO DE 2000."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE. 1716"
+fonte: "https://sapl.al.ro.leg.br/norma/5264"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2011/5264/5264_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Complementar nº 616, de 18 de abril de 2011
+
+LEI COMPLEMENTAR N° 616, DE 18 DE ABRIL DE 2011.
+
+Cria, no âmbito do Poder Executivo Estadual, o Conselho Estratégico de Desenvolvimento Sustentável - CONEDES e acrescenta dispositivos à
+
+Lei Complementar n° 224, de 4 de janeiro de 2000.
+
+0 GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
+
+Art. Io. Fica criado, no âmbito do Poder Executivo Estadual, vinculado à Governadoria, o Conselho Estratégico de Desenvolvimento Sustentável - CONEDES, com a seguinte competência:
+
+1 - assessorar o Governador do Estado na formulação de políticas e diretrizes específicas, voltadas ao desenvolvimento econômico e social, produzindo indicações normativas, propostas de políticas públicas; e
+
+II - apreciar propostas de políticas públicas e de reformas estruturais que lhe sejam submetidas pelo Governador do Estado.
+
+§ Io. O CONEDES será presidido pelo Governador do Estado e integrado:
+
+I - por um especialista de notório saber e representatividade, maior de idade, designado pelo Governador do Estado para mandato de 2 (dois) anos, facultada a recondução, que será o seu Vice- Presidente; e
+
+II - por 3 (três) outros especialistas, de ilibada conduta e reconhecida liderança, maiores de idade, designados pelo Governador do Estado.
+
+%/ § 2o. O CONEDES reunir-se-á por convocação do Governador do Estado, ou de seu Vice- Presidente, e as reuniões serão realizadas com a presença da maioria dos seus membros.
+
+§ 3o. O CONEDES poderá instituir, simultaneamente, até 3 (três) comissões de trabalho, de caráter temporário, destinadas ao estudo e elaboração de propostas sobre temas específicos, podendo requisitar, em caráter transitório, sem prejuízo dos direitos e vantagens a que façam jus no órgão ou entidade de origem, servidores de qualquer órgão ou entidade do Poder Executivo Estadual, necessários aos seus trabalhos.
+
+§ 4o. O CONEDES poderá requisitar dos órgãos e entidades da Administração Pública Estadual estudos e informações indispensáveis ao cumprimento de suas competências.
+
+§ 5o. Os membros do CONEDES não serão remunerados, ressalvadas as despesas com deslocamento, hospedagem e alimentação, sendo seu trabalho considerado como relevante serviço prestado ao Estado.
+
+§ 6o. Os membros do CONEDES deverão encaminhar para a Assembléia Legislativa, semestralmente, relatório das ações e atividades desenvolvidas por cada membro integrante do
+
+CONEDES, importando crime de responsabilidade, o não cumprimento no prazo de 15 (quinze) dias após vencido o bimestre.
+
+**Art. 2o.** O Chefe do Poder Executivo, por ato próprio, regulamentará o funcionamento do CONEDES e o exercício das atribuições estabelecidas nos incisos I e II do caput do artigo Io.
+
+**Art. 3o.** O inciso I do artigo 14 da Lei Complementar n° 224, de 2000, passa a vigorar acrescido da alínea "h", com a seguinte redação:
+
+"Art. 14.
+
+I-
+
+h) Conselho Estratégico de Desenvolvimento Sustentável - CONEDES."
+
+**Art. 4o.** O artigo 19 da Lei Complementar n° 224, de 2000, passa a vigorar acrescido do inciso XXII, com a seguinte redação:
+
+"Art. 19 :
+
+XXII - ao Conselho Estratégico de Desenvolvimento Sustentável - CONEDES, assessorar o Governador do Estado na formulação de políticas e diretrizes específicas, voltadas ao desenvolvimento econômico e social, produzindo indicações normativas e propostas de políticas públicas, e apreciar propostas de políticas públicas e de reformas estruturais que lhe sejam submetidas ao Governador do Estado."
+
+**Art. 5o.** Esta Lei Complementar entra em vigor na data de sua publicação.
+
+Palácio do Governo do Estado de Rondônia, em 18 de abril de 2011,123° da República.
+
+CONFÚCIO AERESMOURA Governador

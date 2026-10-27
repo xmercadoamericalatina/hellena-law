@@ -1,0 +1,114 @@
+---
+titulo: "Lei ordinária nº 3.928, de 21 de outubro de 2016"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "3928"
+data: 2016-10-21
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO, ATÉ O MONTANTE DE R$ 9.623.192,05, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: FUNDO PREVIDENCIÁRIO CAPITALIZADO - FUNPRECAP, FUNDO ESPECIAL DO CORPO DE BOMBEIROS MILITAR - FUNESBOM, FUNDAÇÃO DE HEMATOLOGIA E HEMOTERAPIA DO ESTADO - FHEMERON E INSTITUTO DE PESOS E MEDIDAS - IPEM."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E nº 198"
+fonte: "https://sapl.al.ro.leg.br/norma/7710"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2016/7710/7710_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 3.928, de 21 de outubro de 2016
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N. 3.928 , DE 21 DE OUTUBRO DE 2016. Autoriza o Poder Executivo a abrir crédito adicional suplementar por anulação, até o montante de R$ 9.623.192,05, em favor das Unidades Orçamentárias: Fundo Previdenciário Capitalizado - FUNPRECAP, Fundo Especial do Corpo de Bombeiros Militar - FUNESBOM, Fundação de Hematologia e Hemoterapia do Estado - FHEMERON e Instituto de Pesos e Medidas - IPEM.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito adicional suplementar por anulação, até o montante de R$ 9.623.192,05 (nove milhões, seiscentos e vinte e três mil, cento e noventa e dois reais e cinco centavos), em favor das Unidades Orçamentárias: Fundo Previdenciário Capitalizado - FUNPRECAP, Fundo Especial do Corpo de Bombeiros Militar - FUNESBOM, Fundação de Hematologia e Hemoterapia do Estado - FHEMERON e Instituto de Pesos e Medidas - IPEM, para dar cobertura orçamentária às despesas correntes e de capital, no presente exercício.
+
+**Art. 2º.** Os recursos necessários à execução do disposto do artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicados no Anexo 1 desta Lei e no montante especificado.
+
+**Art. 3°.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 21 de outubro de 2016, 128° da República. CONFÚCIO AIRES MOURA Governador
+
+ASSEGURAR ATENDIMENTO EM SAÚDE NAS 17.002.10.302.2034.4009
+
+HB
+
+HOSPITAL DE BASE DOUTOR ARY PINHEIRO - GERENCIAR TRANSFERÊNCIAS DE RECURSOS 1.000.000,00
+
+14.020.26.782.1249.2936 URBANA
+
+14.020.26.452.2057.1384
+
+DESENVOLVIMENTO DA INFRAESTRUTURA PÚBLICOS - DER RODAGEM, INFRAESTRUTURA E SERVIÇOS 1.100.000,00 DEPARTAMENTO ESTADUAL DE ESTRADAS, 9999
+
+RESERVA DE CONTINGÊNCIA 13.012.09.272.1019.9999
+
+1.000.000,00
+
+145.000,00
+
+CONVÊNIOS 50.000.0ął
+
+13.001.17.512.2050.1193
+
+APLICAR RECURSOS PROVENIENTES DE
+
+IMPLANTAR O AGUA PARA TODOS 13.001.17.511.2041.1612
+
+ASSEGURAR A MODERNIDADE TECNOLÓGICA 13.001.04.126.1277.4500
+
+335.000,00
+
+350.000,00
+
+DESCENTRALIZADO DESENVOLVIMENTO REGIONAL 13.001.04.122.1277.4013 335.000.00
+
+COORDENAR A IMPLANTAÇÃO DE PROMOVER A GESTÃO DE PESSOAS 13.001.04.122.1277.2070
+
+1.200.000,00
+
+200.000.00
+
+3391
+
+13.001.04.122.1015.2087š 500.000.00
+
+200.000.00 DESENVOLVER POLÍTICAS PÚBLICAS 13.001.04.121.2041.2079
+
+SEPOG PLANEJAMENTO, ORÇAMENTO E GESTÃO - 4.615.000,00 SECRETARIA DE ESTADO DO DE ATOS E FATOS DO GOVERNO 1.000.000.00
+
+11.009.04.131.2071.2172š PROMOVER A COMUNICAÇÃO E TRANSMISSÃO ÓRGÃOS VINCULADOSiỊ 600.000,00 11.009.04.122.1015.2175š
+
+ASSEGURAR MANUTENÇÃO DAS UNIDADES E MADEIRA E ANEXOS 1.500.000.00 11.009.04.122.1015.2174
+
+ASSEGURAR MANUTENÇÃO DO PALÁCIO RIO SUGESP GASTOS PÚBLICOS ADMINISTRATIVOS - 3.100.000,00 SUPERINTENDÊNCIA DE GESTÃO DOS
+
+REDUZ
+
+## ANEXO I
+
+toup R$ 9.623.192.05 TOTAL ATIVO E ENCARGOS SOCIAIS 23.021.04.122.1015.2234 3190 55.000.00
+
+ASSEGURAR A REMUNERAÇÃO DE PESSOAL 23.021.04.122.1015.2091 ATENDER A SERVIDORES COM AUXÍLIOS
+
+15.000.00 70.000,00 INSTITUTO DE PESOS E MEDIDAS - IPEM HEMATOLÓGICA
+
+238.192.05 17.032.10.302.1246.2145
+
+ASSISTÊNCIA HEMOTERÁPICA E HEMOTERAPIA DO ESTADO - FHEMERON
+
+FUNDAÇÃO DE HEMATOLOGIA E DE EMERGÊNCIA E CALAMIDADE PÚBLICA
+
+9.145.000,00 15.014.06.244.1243.2057 APOIAR FAMÍLIAS E INDIVÍDUOS EM SITUAÇÃO MILITAR - FUNESBOM 9.145.000,00 FUNDO ESPECIAL DO CORPO DE BOMBEIROS E PENSÕES 170.000.00
+
+3190 13.012.09.272.1019.2030 REALIZAR PAGAMENTOS DE APOSENTADORIA
+
+SUPLEMENTA
+
+ANEXO II TOTAL R$ 9.623.192,05ł
+
+AGRICULTURA FAMILIAR
+
+19.001.20.608.2037.2021 APOIAR O DESENVOLVIMENTO DA PROGRAMA TERRITÓRIO DA CIDADANIA
+
+19.001.20.606.1241.2102 REVITALIZAR COMUNIDADES E FORTALECER O
+
+19.001.04.122.1015.2087
+
+SEAGRI 400.000,00 SECRETARIA DE ESTADO DA AGRICULTURA - UNIDADES HOSPITALARES

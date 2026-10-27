@@ -1,0 +1,46 @@
+{
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53969-2018-id64510.md",
+      "sha256_md": "b45a75f8807287f5ce4e0e44767c195b9eb2493def5e2f5df701ce28b01e8574",
+      "fonte_sha256": "67b069a5df3b2b9445597e943afbaf540c05a8e92e73913f45d399a16eab1754",
+      "paginas": 18,
+      "assets": 18,
+      "metadados_prefixo_texto_preservados": true,
+      "fontes_snapshots_links_assets_validos": true,
+      "erros_formato": [],
+      "avisos_formato": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53894-2018-id64432.md",
+      "sha256_md": "c992f8ff38bb6e5eac7a440d2a25ddff8348be2ef80a9c9a853d9a863f04da17",
+      "fonte_sha256": "f1584149a68f7c1d347ef77aa12ecaecb2930aad6966366233eaa9a84b4cdc0c",
+      "paginas": 4,
+      "assets": 4,
+      "metadados_prefixo_texto_preservados": true,
+      "fontes_snapshots_links_assets_validos": true,
+      "erros_formato": [],
+      "avisos_formato": []
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-54083-2018-id64692.md",
+      "sha256_md": "210128717f632d61a426449b176b7c6534f42c84a943257fcca8a14a210a16a5",
+      "fonte_sha256": "9c1704fa881507ae9f7e2e99c3a0216c2a118e8bde289ff90d2219d2e9eedbae",
+      "paginas": 18,
+      "assets": 18,
+      "metadados_prefixo_texto_preservados": true,
+      "fontes_snapshots_links_assets_validos": true,
+      "erros_formato": [],
+      "avisos_formato": []
+    }
+  ],
+  "paginas_total": 40,
+  "ledger_sha256": "959447f860c13cb706fff49a2e7716fb5dc21a6d7f821db44f07cba7b3eab3e5",
+  "limites": [
+    "Reprodução de todas40páginas dos3PDFs:18+4+18, incluindo articulado, quadros e anexos.",
+    "Preserva integralmente os pixels da renderização em página inteira e o PDF original porSHA; não redesenha nem reconstrói cifras ocultas.",
+    "Texto preexistente permanece igual ao reparo anterior; não se certifica literalmente cada palavra/célula da transcrição. Unidade/notas53894 restauradas na fase anterior ficam preservadas.",
+    "Nenhuma conclusão geral sobre outrosPDFs, vigência ou integralidade jurídica externa."
+  ],
+  "visual": "40páginas vistas em contatos integrais; art10§1/54083p4, tabelas/notas53894p2–4 e medalhas53969p3 vistas ampliadas. Sem certificação literal de todascélulas nemGFMbrowser."
+}

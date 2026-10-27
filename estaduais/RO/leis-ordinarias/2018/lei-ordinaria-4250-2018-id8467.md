@@ -1,0 +1,46 @@
+---
+titulo: "Lei ordinária nº 4.250, de 10 de abril de 2018"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "4250"
+data: 2018-04-10
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO, ATÉ O MONTANTE DE R$ 4.409.748,10, EM FAVOR DA UNIDADE ORÇAMENTÁRIA: FUNDO ESPECIAL DO CORPO DE BOMBEIROS MILITAR - FUNRESBOM."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E Nº 065"
+fonte: "https://sapl.al.ro.leg.br/norma/8467"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2018/8467/8467_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 4.250, de 10 de abril de 2018
+
+GOVERNO DO ESTADO DE RONDÔNIA GOVERNA DORIA
+
+## ANEXO I
+
+CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO SUPLEMENTA
+
+Código Ponte de Especificação Despesa Valor
+
+FUNDO ESPECIAL DO CORPO DE BOMBEIROS 4.41)9.748.10 MILITAR-FUNESBOM
+
+ASSEGURAR A 15.014.06.182.1243.127" \ 2. . \*LU.,!!!íA0 PERMANENTES DA UNIDADE DE BENS 4490 0216 4.409.748.10
+
+TOTAL RS4.409.748.il)
+
+"t" governo do estado de rondônia governadoria
+
+## ANEXO II
+
+CRÉDITO SUPLEMENTAR POR EXCESSO Dl. ARRECADAÇÃO EXCESSO
+
+Fonte de Código Especificação Tipo Valor
+
+RECEITA DE CAPITAL 20000000 4.409.748.10
+
+24000000 TRANSFERÊNCIAS DF CAPITAI. 4.409.748,10
+
+24100000 TRANSFERÊNCIAS DA UNIÃO F. DF. SUAS 4.409.748.10 ENTIDADES
+
+TRANSFF.RFNCIAS DA UNIÃO E SUAS 2410001 0216 4.409.748.10 ENTIDADES- PRINCIPAL
+
+TOTAL RS 4.409.748.10

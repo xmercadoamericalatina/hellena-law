@@ -1,0 +1,198 @@
+---
+titulo: "Lei ordinária nº 4.684, de 09 de dezembro de 2019"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "4684"
+data: 2019-12-09
+ementa: "Autoriza o Poder Executivo a abrir Créditos Adicionais, Especial e Suplementar por Excesso de Arrecadação, até o valor de R$ 109.109.806,29, e Crédito Adicional por Superávit Financeiro, até o montante de R$ 4.678.624,30."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E nº 230"
+fonte: "https://sapl.al.ro.leg.br/norma/9229"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2019/9229/l_4684.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 4.684, de 09 de dezembro de 2019
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Poder Executivo Diário Oficial do Estado de Rondônia n° 230 Disponibilização: 10/12/2019 Publicação: 09/12/2019 Governo do Estado de RONDÔNIA GOVERNADORIA - CASA CIVIL
+
+LEI N° 4.684, DE 9 DE DEZEMBRO DE 2019. Autoriza o Poder Executivo a abrir Créditos Especial e Suplementar por 109.109.806,2 reca ação Credito Va Adicional 109.109.806,29 Suplementar por Superavit Financeiro, ate o montante de R$ 4.678.624,30.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir Créditos Adicionais, Especial e Suplementar por Excesso de Arrecadação, até o valor de R$ 109.109.806,29 (cento e nove milhões, cento e nove mil, oitocentos e seis reais e vinte e nove centavos), em favor das Unidades Orçamentárias: Superintendência Estadual de Desenvolvimento Econômico e Infraestrutura - SEDI; Departamento Estadual de Estradas de Rodagem, Infraestrutura e Serviços Públicos - DER; Secretaria de Estado de Planejamento, Orçamento e Gestão - SEPOG; Secretaria de Estado de Finanças - SEFIN; Recursos Sob a Supervisao da Sefin - RS-SEFIN; Secretaria de Estado da Educação - SEDUC; Fundo Estadual de Saúde - FES e Agência de Defesa Sanitária Agrosilvopastoril do Estado de Rondônia - IDARON, para dar cobertura orçamentária às despesas correntes e de capital, no presente exercício.
+
+**Art. 2°.** Fica o Poder Executivo autorizado a abrir Crédito Adicional Suplementar por Superavit Financeiro, decorrente de saldo financeiro em caixa de operação de crédito, até o montante de Ro 4.678.624,30 (quatro milhões, seiscentos e setenta e oito mil, seiscentos e vinte e quatro reais e trinta centavos), em favor da Unidade Orçamentária Secretaria de Estado de Planejamento, Orçamento e Gestão
+
+**Art. 3º.** Os recursos necessários à execução do disposto no artigo 1º, decorrerão de excesso de arrecadação, indicado no Anexo III e no valor especificado.
+
+**Art. 4°.** O superavit financeiro demonstrado no art. 2° e indicado no Anexo IV é proveniente de reprogramação financeira do exercício de 2018, referente ao saldo de caixa de operação de crédito, estando o recurso à disposição nas contas bancárias específicas do produto a ser entregue, já que em caso de operação de crédito, os recursos são vinculados à uma fonte exclusiva e ao instrumento jurídico firmado entre as partes, de acordo com o artigo 43 da Lei n° 4.320, de 17 de março de 1964.
+
+**Art. 5°.** Fica o Poder Executivo autorizado a criar a Ação 0240 - Realizar Aporte de Capital à CAERD, no programa 1015- GESTÃO ADMINISTRATIVA DO PODER EXECUTIVO, na Unidade Orçamentária Superintendência Estadual de Desenvolvimento Econômico e Infraestrutura - SEDI.
+
+**Art. 6°.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 9 de dezembro de 2019, 132° da República. MARCOS JOSÉ ROCHA DOS SANTOS Governador. https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=10505155&in... 1/9
+
+ANEXO I CRÉDITO ADICIONAL ESPECIAL POR EXCESSO DE ARRECADAÇÃO SUPLEMENTA Fonte Código Especificação Valor de Despesa Recurso SUPERINTENDÊNCIA ESTADUAL DE DESENVOLVIMENTO 334.078,00 ECONÔMICO E INFRAESTRUTURA - SEDI REALIZAR APORTE DE 11.006.28.845.1015.0240
+
+4590 334.078,00 CAPITAL À CAERD TOTAL R$ 334.078,00
+
+ANEXO II CRÉDITO ADICIONAL SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO SUPLEMENTA Fonte Código Especificação Despesa Valor de Recurso DEPARTAMENTO ESTADUAL DE ESTRADAS DE RODAGEM, 800.000,00 INFRAESTRUTURA E SERVIÇOS PÚBLICOS - DER EFETUAR 11.025.04.122.1249.0196 TRANSFERÊNCIAS 800.000,0łął 4440
+
+VOLUNTÁRIAS SECRETARIA DE ESTADO DE PLANEJAMENTO, 7.708.310,64 ORÇAMENTO E GESTÃO - SEPOG ASSEGURAR A MANUTENÇÃO 13.001.04.122.1015.2087
+
+4490 1.003.733,15 ADMINISTRATIVA DA UNIDADE FORTALECER A 13.001.04.126.1128.1592 TECNOLOGIA DA
+
+4490 1.785.048,49 INFORMAÇÃO 13.001.06.122.1128.1564 PROMOVER SEGURANÇA 4490 4.919.529,00
+
+PÚBLICA E DIREITOS HUMANOS
+
+2/9
+
+SECRETARIA DE ESTADO 17.000.000,00 DE FINANÇAS - SEFIN ASSEGURAR A MANUTENÇÃO 14.001.04.122.1015.2087
+
+2.000.000,00 3390 ADMINISTRATIVA DA UNIDADE ASSEGURAR A REMUNERAÇÃO DE 14.001.04.122.1015.2234 14.000.000,00
+
+3190 PESSOAL ATIVO E ENCARGOS SOCIAIS 1.000.000,00
+
+3191 RECURSOS SOB A SUPERVISÃO DA SEFIN - 15.000.000,00 RS-SEFIN ASSEGURAR OS RECURSOS PARA 14.002.28.843.0000.0128 9.834.274,52 4690
+
+PAGAMENTO DA DÍVIDA FUNDADA ASSEGURAR RECURSOS 14.002.28.843.0000.0130 PARA PAGAMENTO DO 5.165.725,48
+
+3390 PASEP SECRETARIA DE ESTADO 49.034.998,85 DA EDUCAÇÃO - SEDUC ASSEGURAR A MANUTENÇÃO 16.001.12.122.1015.2087 11.303.465,00 4490
+
+ADMINISTRATIVA DA UNIDADE
+
+3390 414.000,00 MANTER O ENSINO 16.001.12.362.1076.2214 1.290.300,00 4490
+
+MÉDIO MANTER E MELHORAR 16.001.12.368.1076.2165 AS UNIDADES 4.000.000,00
+
+4490 ESCOLARES MANTER AS UNIDADES ESCOLARES E 16.001.12.368.1076.2213 4442
+
+4.000.000,00 ASSISTÊNCIA AOS EDUCANDOS 4490
+
+4.773.310,00 4450 2.428.896,93
+
+4490 0118 20.606.101,92 16.001.12.368.1076.2215 MANTER A EDUCAÇÃO 4490
+
+218.925,00
+
+3/9
+
+INTEGRAL FUNDO ESTADUAL DE 17.232.418,80 SAUDE - FES ASSEGURAR A MANUTENÇÃO 17.012.10.122.1015.2087 6.261.000,00
+
+3390 ADMINISTRATIVA DA UNIDADE EQUIPAR AS UNIDADES 600.000,00 17.012.10.122.2070.1615
+
+4490 DE SAÚDE. ATENDER USUÁRIOS DO 17.012.10.301.1093.4005 SUS EM SITUAÇÕES
+
+3390 4.300.000,00 EXCEPCIONAIS ASSEGURAR ATENDIMENTO EM 17.012.10.302.2034.4004 SAÚDE POR MEIO DE 6.071.418,80
+
+3390 CONVÊNIOS E CONTRATO COM A REDE PRIVADA AGÊNCIA DE DEFESA SANITÁRIA AGROSILVOPASTORIL DO 2.000.000,00 ESTADO DE RONDÔNIA - IDARON ASSEGURAR A REMUNERAÇÃO DE 19.023.20.122.1224.2234 1.700.000,00
+
+3190 PESSOAL ATIVO E ENCARGOS SOCIAIS 300.000,00 3191
+
+R$ 108.775.028,29 TOTAL
+
+ANEXO III CRÉDITO POR EXCESSO DE ARRECADAÇÃO EXCESSO Fonte Especificação Código Tipo de Valor Recurso IMPOSTO SOBRE A RENDA 11130311 - RETIDO NA FONTE - 1.217.492,00
+
+TRABALHO - PRINCIPAL IMPOSTO SOBRE A PROPRIEDADE DE 11180121
+
+2.232.580,0îŚ
+
+VEÍCULOS AUTOMOTORES - PRINCIPAL 11180122 IMPOSTO SOBRE A
+
+43.565,00 PROPRIEDADE DE
+
+4/9
+
+11/12/201ął
+
+| VEÍCULOS AUTOMOTORES - MULTAS E JUROS IMPOSTO SOBRE A PROPRIEDADE DE 11180123 523.307,0ął
+
+VEÍCULOS AUTOMOTORES - DÍVIDA ATIVA IMPOSTO SOBRE A PROPRIEDADE DE 1118012ęŚł 217.104,00
+
+VEÍCULOS AUTOMOTORES - DÍVIDA ATIVA - MULTAS E JUROS IMPOSTO SOBRE TRANSMISSÃO "CAUSA 1118013ł
+
+MORTISẠồE DOAÇÃO DE 342.602,00 BENS E DIREITOS - PRINCIPAL IMPOSTO SOBRE TRANSMISSÃO "CAUSA MORTIẠỊE DOAÇÃO DE 1118013źŘę
+
+10.333,00 BENS E DIREITOS - MULTAS E JUROS IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS 1118021łą/
+
+73.018.666,37
+
+DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - PRINCIPAL IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS 1118021źŚł/ 808.316,00
+
+DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - MULTAS E JUROS 11180213/ IMPOSTO SOBRE - 452.773,00
+
+OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - DÍVIDA ATIVA https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=105051558in... 5/9
+
+11/12/201šęšŚ
+
+IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS 1118021ął - 71.645,00
+
+DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - DÍVIDA ATIVA - MULTAS E JUROS TAXAS PELA PRESTAÇÃO 11220111/ 488.816,00
+
+DE SERVIÇOS - PRINCIPAL REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS - 13210011
+
+2.240.629,00 PRINCIPAL COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS
+
+63.208.471,00 ESTADOS E DO DISTRITO 17180111/ FEDERAL - PRINCIPAL COTA-PARTE DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - 17180161 ESTADOS EXPORTADORES 857.824,00
+
+DE PRODUTOS INDUSTRIALIZADOS - PRINCIPAL TRANSFERÊNCIA FINANCEIRA DO ICMS - 17180611 - 595.419,00
+
+DESONERAÇÃO - L.C. N° 87/96 - PRINCIPAL MULTAS E JUROS 19100911 PREVISTOS EM
+
+85.614,00 CONTRATOS - PRINCIPAL INDENIZAÇÕES POR DANOS CAUSADOS AO 19210111
+
+- 18.590,00 PATRIMÔNIO PÚBLICO - PRINCIPAL RESTITUIÇÃO DE DESPESAS DE EXERCÍCIOS 19220611
+
+- 76.859,00 ANTERIORES - PRINCIPAL OUTRAS RESTITUIÇÕES - 19229911
+
+690.487,00 PRINCIPAL OUTRAS RECEITAS 19909911
+
+- 234.209,00
+
+PRIMÁRIAS - PRINCIPAL OUTRAS RECEITAS - 19909912
+
+- 263.313,00 PRIMÁRIAS - MULTAS E
+
+6/9
+
+11/12/201ął/
+
+| JUROS OUTRAS RECEITAS - 1990991šŚš
+
+186.762,00 PRIMÁRIAS - DÍVIDA ATIVA DEDUÇÃO DO IMPOSTO SOBRE A PROPRIEDADE DE 91180120 - 301.656,00
+
+VEÍCULOS AUTOMOTORES - FUNDEB DEDUÇÃO DO IMPOSTO SOBRE A PROPRIEDADE DE 9118012ął - 1.508.278,0ł
+
+VEÍCULOS AUTOMOTORES - MUNICÍPIOS DEDUÇÃO DO IMPOSTO SOBRÉ TRANSMISSÃO 9118013ął "CAUSA MORTIS" E - 70.587,00
+
+DOAÇÃO DE BENS E DIREITOS - FUNDEB DEDUÇÃO DO IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE 9118021ął
+
+- 15.453.673,00ł PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - FUNDEB DEDUÇÃO DO IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE 9118021ąłą PRESTAÇÕES DE SERVIÇOS
+
+- 25.756.122,00 DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO - MUNICÍPIO DEDUÇÃO DA COTA-PARTE DO FUNDO DE 97180110 PARTICIPAÇÃO DOS
+
+- 12.641.694,00
+
+ESTADOS E DO DISTRITO FEDERAL - FUNDEB DEDUÇÃO DA COTA-PARTE 97180160ął - 128.674,00
+
+DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - ESTADOS EXPORTADORES DE PRODUTOS INDUSTRIALIZADOS - FUNDEB
+
+7/9
+
+11/12/201ął
+
+DEDUÇÃO DA COTA-PARTE DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - 9718016îŚš
+
+- 214.456,00
+
+ESTADOS EXPORTADORES DE PRODUTOS INDUSTRIALIZADOS - MUNICÍPIO DEDUÇÃO DA TRANSFERENCIA 97180610 FINANCEIRA DO ICMS - 119.084,0ł
+
+DESONERAÇÃO - L.C. N° 87/96 - FUNDEB TRANSFERÊNCIAS DE RECURSOS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA 17580111 EDUCAÇÃO BÁSICA E DE 20.606.101,92 0118
+
+VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB - PRINCIPAL TOTAL R$ 109.109.806,29
+
+ANEXO IV CRÉDITO ADICIONAL SUPLEMENTAR POR SUPERAVIT FINANCEIRO SUPLEMENTA Fonte Especificação Código Despesa Valor de Recurso SECRETARIA DE ESTADO DE PLANEJAMENTO, 4.678.624,30 ORÇAMENTO E GESTÃO - SEPOG FORTALECER A 13.001.04.126.1128.1592 TECNOLOGIA DA 4490 0615 2.938.624,30 INFORMAÇÃO GERENCIAR E 13.001.04.122.1128.1598 MONITORAR O 0615 4490 1.740.000,00 PROGRAMA TOTAL RS 4.678.624,30 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore visualizar&id\_documento=10505155&in... 8/9
+
+Documento assinado eletronicamente por Marcos José Rocha dos Santos, Governador, em sei! 09/12/2019, às 17:44, conforme horário oficial de Brasília, com fundamento no artigo 18 caput e seus §§ 1° e 2º, do Decreto nº 21.794, de 5 Abril de 2017. eletrônica A autenticidade deste documento pode ser conferida no site portal do SEI, informando o código verificador 9283949 e o código CRC ACB92680. Referência: Caso responda esta Lei, indicar expressamente o Processo nº 0035.498918/2019-06 SEl n° 9283949 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=10505155&in... 9/9

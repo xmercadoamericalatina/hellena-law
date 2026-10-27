@@ -1,0 +1,36 @@
+{
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53969-2018-id64510.md",
+      "sha256_antes": "3a7408b8592dac4950d786815b7e5ae9615e2d0fb1dc891e45ce2fb565d3fba0",
+      "sha256_depois": "d518b1f5d138654b6e4b65796bd7bafe77427814e5b6bbdce694b798d23f49f3",
+      "sha256_fonte": "67b069a5df3b2b9445597e943afbaf540c05a8e92e73913f45d399a16eab1754",
+      "links_locais_validos": true
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53894-2018-id64432.md",
+      "sha256_antes": "333d82c6675d2ead6049c0aae23da1e84ac4036fcf63d310ebae9f8b24abe5b2",
+      "sha256_depois": "f0857c5e66648907e7e838efbab7f4437c77f4a4e9aced08ef2094ae89367e8b",
+      "sha256_fonte": "f1584149a68f7c1d347ef77aa12ecaecb2930aad6966366233eaa9a84b4cdc0c",
+      "links_locais_validos": true
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-54083-2018-id64692.md",
+      "sha256_antes": "913ad2c3261aefcb85e03b8c172159855158b9f808856eb69540ba3cd5c33cac",
+      "sha256_depois": "c994e2ec1edc61ae1fd33fcea153139bf968a028022b492244200d13109362f8",
+      "sha256_fonte": "9c1704fa881507ae9f7e2e99c3a0216c2a118e8bde289ff90d2219d2e9eedbae",
+      "links_locais_validos": true
+    }
+  ],
+  "assets": 27,
+  "paginas_pdf_fontes": 40,
+  "metadados_identicos": true,
+  "corpo_previo_preservado_salvo_insercoes_literais_53894": true,
+  "snapshots_sha_intactos": true,
+  "links_locais_validos": true,
+  "limites": [
+    "Restauração visual por páginas inteiras renderizadas do PDF oficial; não redesenho ou OCR de cifras.",
+    "O texto preexistente é mantido; não se certifica a transcrição literal de todas as palavras/células já presentes.",
+    "Somente trechos de unidade monetária/notas de53894 foram acrescidos literalmente após confronto visual das páginas2–4."
+  ]
+}

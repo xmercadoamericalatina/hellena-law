@@ -1,0 +1,33 @@
+{
+  "ledger_anterior": "estaduais/RS/_referencias/reparos-visuais-20261016/ledger-integral.json",
+  "sha256_ledger_anterior": "959447f860c13cb706fff49a2e7716fb5dc21a6d7f821db44f07cba7b3eab3e5",
+  "estado": "aprovado_para_publicacao_raiz",
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53969-2018-id64510.md",
+      "sha256_antes": "b45a75f8807287f5ce4e0e44767c195b9eb2493def5e2f5df701ce28b01e8574",
+      "sha256_depois": "872c55bdc1463b9b5e4998eea26e2d7928b0026c6fe5813248e60d55135a658f",
+      "snapshot_eof": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510-antes-eof.md.gz",
+      "sha256_snapshot_eof": "b19e6e1282906fb158b9d49c07944ad22df4119c11477f41ea862a78271187f1",
+      "unica_alteracao": "remove uma linha vazia extra ao final do arquivo; nenhuma alteração de caracteres/links/cabeçalho"
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53894-2018-id64432.md",
+      "sha256_antes": "c992f8ff38bb6e5eac7a440d2a25ddff8348be2ef80a9c9a853d9a863f04da17",
+      "sha256_depois": "ac797fd1aeeff3d4a8e7be36e9b9392164bbf8aa778ee1130d97eb0b14b8016d",
+      "snapshot_eof": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432-antes-eof.md.gz",
+      "sha256_snapshot_eof": "89bfc8567a42c4fb45e883afe242905de55073d5dc6d42b8c508c7069f8db14c",
+      "unica_alteracao": "remove uma linha vazia extra ao final do arquivo; nenhuma alteração de caracteres/links/cabeçalho"
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-54083-2018-id64692.md",
+      "sha256_antes": "210128717f632d61a426449b176b7c6534f42c84a943257fcca8a14a210a16a5",
+      "sha256_depois": "9e05d97cf6a9f86fe9b58c5aef20db655d3ddecdfa90f9078e1abbb58c96258a",
+      "snapshot_eof": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692-antes-eof.md.gz",
+      "sha256_snapshot_eof": "eed88ca572e246fe26c79f5acd7a045c8c5b6faf8b09a74e497a12a3cb56b905",
+      "unica_alteracao": "remove uma linha vazia extra ao final do arquivo; nenhuma alteração de caracteres/links/cabeçalho"
+    }
+  ],
+  "fontes_PDF_e_40_PNG_inalterados": true,
+  "verificacao_raiz": "estaduais/RS/_referencias/reparos-visuais-20261016/verificacao-raiz-integral.json"
+}

@@ -1,0 +1,1192 @@
+{
+  "estado": "aplicado reversivelmente, aguarda revisão/publicação",
+  "ledger_anterior": "estaduais/RS/_referencias/reparos-visuais-20261016/ledger.json",
+  "sha256_ledger_anterior": "f7b28b7f41e533bd25a9c18531137fd702a635087606bcd667160d5bf748739d",
+  "documentos": [
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53969-2018-id64510.md",
+      "cache": "estaduais/RS/_fonte/decretos/2018/dec-53969-2018-id64510.html.gz",
+      "fonte_sha256": "67b069a5df3b2b9445597e943afbaf540c05a8e92e73913f45d399a16eab1754",
+      "pdf_preservado": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+      "snapshot_original": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/antes.md",
+      "sha256_original": "3a7408b8592dac4950d786815b7e5ae9615e2d0fb1dc891e45ce2fb565d3fba0",
+      "snapshot_antes_ampliacao": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/antes-ampliacao-integral.md",
+      "sha256_antes_ampliacao": "d518b1f5d138654b6e4b65796bd7bafe77427814e5b6bbdce694b798d23f49f3",
+      "candidato": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/candidato-integral.md",
+      "sha256_depois": "b45a75f8807287f5ce4e0e44767c195b9eb2493def5e2f5df701ce28b01e8574",
+      "paginas_total": 18,
+      "assets": [
+        {
+          "pagina_pdf": 1,
+          "asset": "estaduais/RS/_ativos_visuais/501a22184abc4c130a64a622fcaa13458529a2b57c311390508eeb9d519cc84d.png",
+          "sha256_png": "501a22184abc4c130a64a622fcaa13458529a2b57c311390508eeb9d519cc84d",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-01.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "1",
+            "-l",
+            "1",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-01"
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "asset": "estaduais/RS/_ativos_visuais/3448cf3636ec4e30d53821571d9f204c9fbef5e6616856b9c413aa10dc4bb214.png",
+          "sha256_png": "3448cf3636ec4e30d53821571d9f204c9fbef5e6616856b9c413aa10dc4bb214",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-02.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "2",
+            "-l",
+            "2",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-02"
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "asset": "estaduais/RS/_ativos_visuais/6362f5e759ab556547390cfe26f8d8e33485594f7aa6661d103353b139293b21.png",
+          "sha256_png": "6362f5e759ab556547390cfe26f8d8e33485594f7aa6661d103353b139293b21",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-03.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "3",
+            "-l",
+            "3",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-03"
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "asset": "estaduais/RS/_ativos_visuais/8c1b682079aa3a46e629dc41b6949714093d54c0866b362fcd5d5fc6713f52d9.png",
+          "sha256_png": "8c1b682079aa3a46e629dc41b6949714093d54c0866b362fcd5d5fc6713f52d9",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-04.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "4",
+            "-l",
+            "4",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-04"
+          ]
+        },
+        {
+          "pagina_pdf": 5,
+          "asset": "estaduais/RS/_ativos_visuais/9f9b0f2704146bedbf96e1227cc81c677e1536d4baa6e4d9738cee3f414eb92f.png",
+          "sha256_png": "9f9b0f2704146bedbf96e1227cc81c677e1536d4baa6e4d9738cee3f414eb92f",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-05.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "5",
+            "-l",
+            "5",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-05"
+          ]
+        },
+        {
+          "pagina_pdf": 6,
+          "asset": "estaduais/RS/_ativos_visuais/e6c523ba14a885ecc2a591af38ce2d936c98bf6a41cf702ad037667d16fc1918.png",
+          "sha256_png": "e6c523ba14a885ecc2a591af38ce2d936c98bf6a41cf702ad037667d16fc1918",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-06.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "6",
+            "-l",
+            "6",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-06"
+          ]
+        },
+        {
+          "pagina_pdf": 7,
+          "asset": "estaduais/RS/_ativos_visuais/b2f515051d4cc0227ec861e95ca69c9d54a01fbd556b9fe00691737f3e2faee0.png",
+          "sha256_png": "b2f515051d4cc0227ec861e95ca69c9d54a01fbd556b9fe00691737f3e2faee0",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-07.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "7",
+            "-l",
+            "7",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-07"
+          ]
+        },
+        {
+          "pagina_pdf": 8,
+          "asset": "estaduais/RS/_ativos_visuais/5a540c3dea327e07b4c18cd40cef3b1ac53146e627a065c0f5408f2f00850eed.png",
+          "sha256_png": "5a540c3dea327e07b4c18cd40cef3b1ac53146e627a065c0f5408f2f00850eed",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-08.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "8",
+            "-l",
+            "8",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-08"
+          ]
+        },
+        {
+          "pagina_pdf": 9,
+          "asset": "estaduais/RS/_ativos_visuais/918b0e3d8b0caf2ecb0df7025057ed07d1da78ab321eec70beecf3ed4c65797e.png",
+          "sha256_png": "918b0e3d8b0caf2ecb0df7025057ed07d1da78ab321eec70beecf3ed4c65797e",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-09.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "9",
+            "-l",
+            "9",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-09"
+          ]
+        },
+        {
+          "pagina_pdf": 10,
+          "asset": "estaduais/RS/_ativos_visuais/c7c83fcaef93cececca6724d7ed2abce29912376d8638e273c1bab33eeb64545.png",
+          "sha256_png": "c7c83fcaef93cececca6724d7ed2abce29912376d8638e273c1bab33eeb64545",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-10.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "10",
+            "-l",
+            "10",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-10"
+          ]
+        },
+        {
+          "pagina_pdf": 11,
+          "asset": "estaduais/RS/_ativos_visuais/2ed5a9614dc520a85e33134a4c925cc952cf0a264288d0861ae43a4f678cb41a.png",
+          "sha256_png": "2ed5a9614dc520a85e33134a4c925cc952cf0a264288d0861ae43a4f678cb41a",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-11.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "11",
+            "-l",
+            "11",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-11"
+          ]
+        },
+        {
+          "pagina_pdf": 12,
+          "asset": "estaduais/RS/_ativos_visuais/1bac71ddbf493cf300e8b26f0462868011a22fa5e0695ad1d9946a653a3e0dc9.png",
+          "sha256_png": "1bac71ddbf493cf300e8b26f0462868011a22fa5e0695ad1d9946a653a3e0dc9",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-12.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "12",
+            "-l",
+            "12",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-12"
+          ]
+        },
+        {
+          "pagina_pdf": 13,
+          "asset": "estaduais/RS/_ativos_visuais/743fcd6dc21f2252f6b6f60e22a07ca434aa4dec78e6cbf1486ca7eff4e8f3de.png",
+          "sha256_png": "743fcd6dc21f2252f6b6f60e22a07ca434aa4dec78e6cbf1486ca7eff4e8f3de",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-13.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "13",
+            "-l",
+            "13",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-13"
+          ]
+        },
+        {
+          "pagina_pdf": 14,
+          "asset": "estaduais/RS/_ativos_visuais/5b32416e4967a1e730e74d8ca22de6902df3fc531d19de0ff0da544438bb72ee.png",
+          "sha256_png": "5b32416e4967a1e730e74d8ca22de6902df3fc531d19de0ff0da544438bb72ee",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-14.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "14",
+            "-l",
+            "14",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-14"
+          ]
+        },
+        {
+          "pagina_pdf": 15,
+          "asset": "estaduais/RS/_ativos_visuais/9de7142187e86329ac4a6c31a8c3ba9faa8e49b138313e6aa35a12fb65853556.png",
+          "sha256_png": "9de7142187e86329ac4a6c31a8c3ba9faa8e49b138313e6aa35a12fb65853556",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-15.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "15",
+            "-l",
+            "15",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-15"
+          ]
+        },
+        {
+          "pagina_pdf": 16,
+          "asset": "estaduais/RS/_ativos_visuais/5448ab050e5c544980848791beeed5fc0f2f95f4882866ecc278e6f2fec62095.png",
+          "sha256_png": "5448ab050e5c544980848791beeed5fc0f2f95f4882866ecc278e6f2fec62095",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-16.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "16",
+            "-l",
+            "16",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-16"
+          ]
+        },
+        {
+          "pagina_pdf": 17,
+          "asset": "estaduais/RS/_ativos_visuais/9af2412bd98c9b3cc4d555b28435467a8e87028697be0643fa0c46d9e7c427b8.png",
+          "sha256_png": "9af2412bd98c9b3cc4d555b28435467a8e87028697be0643fa0c46d9e7c427b8",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-17.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "17",
+            "-l",
+            "17",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-17"
+          ]
+        },
+        {
+          "pagina_pdf": 18,
+          "asset": "estaduais/RS/_ativos_visuais/a7efb700c101962542e3101a43d1d0bd584313d827cc4dc200e5b1835aa551c4.png",
+          "sha256_png": "a7efb700c101962542e3101a43d1d0bd584313d827cc4dc200e5b1835aa551c4",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-18.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "18",
+            "-l",
+            "18",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/pagina-18"
+          ]
+        }
+      ],
+      "prefixo_texto_inalterado_sha256": "4c2868d97e1f8de4f9a17f8636281c521d3ac71bb92680ca8de56325a0b6c956",
+      "metadados_inalterados": true,
+      "sha256_intermediario_rotulo_original": "e2ea4d6b83b273f7a46db0662da15deef466dc2fa68519aa0d3ee94522b26c44",
+      "snapshot_rotulo_intermediario": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/candidato-integral-rotulo-anterior.md"
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-53894-2018-id64432.md",
+      "cache": "estaduais/RS/_fonte/decretos/2018/dec-53894-2018-id64432.html.gz",
+      "fonte_sha256": "f1584149a68f7c1d347ef77aa12ecaecb2930aad6966366233eaa9a84b4cdc0c",
+      "pdf_preservado": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/fonte.pdf",
+      "snapshot_original": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/antes.md",
+      "sha256_original": "333d82c6675d2ead6049c0aae23da1e84ac4036fcf63d310ebae9f8b24abe5b2",
+      "snapshot_antes_ampliacao": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/antes-ampliacao-integral.md",
+      "sha256_antes_ampliacao": "f0857c5e66648907e7e838efbab7f4437c77f4a4e9aced08ef2094ae89367e8b",
+      "candidato": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/candidato-integral.md",
+      "sha256_depois": "c992f8ff38bb6e5eac7a440d2a25ddff8348be2ef80a9c9a853d9a863f04da17",
+      "paginas_total": 4,
+      "assets": [
+        {
+          "pagina_pdf": 1,
+          "asset": "estaduais/RS/_ativos_visuais/f105ccc0a3d10db82e8f147ed07e3e2388553cc4eeeda4c6a143cf0c5a636932.png",
+          "sha256_png": "f105ccc0a3d10db82e8f147ed07e3e2388553cc4eeeda4c6a143cf0c5a636932",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-01.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "1",
+            "-l",
+            "1",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-01"
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "asset": "estaduais/RS/_ativos_visuais/67b47a8cf8c758cb2e9f287db75b9d2c660138477f1f3204c5387106a7ee8051.png",
+          "sha256_png": "67b47a8cf8c758cb2e9f287db75b9d2c660138477f1f3204c5387106a7ee8051",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-02.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            842.04,
+            595.32
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "2",
+            "-l",
+            "2",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-02"
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "asset": "estaduais/RS/_ativos_visuais/413ca49ec61f529f70fba09c799c4c17a9be6425a19ffa5b7f1dac529de615f9.png",
+          "sha256_png": "413ca49ec61f529f70fba09c799c4c17a9be6425a19ffa5b7f1dac529de615f9",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-03.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            842.04,
+            595.32
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "3",
+            "-l",
+            "3",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-03"
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "asset": "estaduais/RS/_ativos_visuais/9f6358a255d9174323b50a8d855dada6b7dd3005b0c94410265db9bdd149341a.png",
+          "sha256_png": "9f6358a255d9174323b50a8d855dada6b7dd3005b0c94410265db9bdd149341a",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-04.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            842.04,
+            595.32
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "4",
+            "-l",
+            "4",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/pagina-04"
+          ]
+        }
+      ],
+      "prefixo_texto_inalterado_sha256": "97d1c675ea67eba462650a9a265c7e83334e74c954852e918c23b21377c7b961",
+      "metadados_inalterados": true,
+      "sha256_intermediario_rotulo_original": "ffc6278e2134d351380eb3f812ad7e96cffb21f28476373146627db0afcfe13d",
+      "snapshot_rotulo_intermediario": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/candidato-integral-rotulo-anterior.md"
+    },
+    {
+      "path": "estaduais/RS/decretos/2018/dec-54083-2018-id64692.md",
+      "cache": "estaduais/RS/_fonte/decretos/2018/dec-54083-2018-id64692.html.gz",
+      "fonte_sha256": "9c1704fa881507ae9f7e2e99c3a0216c2a118e8bde289ff90d2219d2e9eedbae",
+      "pdf_preservado": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+      "snapshot_original": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/antes.md",
+      "sha256_original": "913ad2c3261aefcb85e03b8c172159855158b9f808856eb69540ba3cd5c33cac",
+      "snapshot_antes_ampliacao": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/antes-ampliacao-integral.md",
+      "sha256_antes_ampliacao": "c994e2ec1edc61ae1fd33fcea153139bf968a028022b492244200d13109362f8",
+      "candidato": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/candidato-integral.md",
+      "sha256_depois": "210128717f632d61a426449b176b7c6534f42c84a943257fcca8a14a210a16a5",
+      "paginas_total": 18,
+      "assets": [
+        {
+          "pagina_pdf": 1,
+          "asset": "estaduais/RS/_ativos_visuais/ec169b80838b7d20a45d37e5907b6d0438bcdc2f804fd58fd3a4fcf78c4323c1.png",
+          "sha256_png": "ec169b80838b7d20a45d37e5907b6d0438bcdc2f804fd58fd3a4fcf78c4323c1",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-01.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "1",
+            "-l",
+            "1",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-01"
+          ]
+        },
+        {
+          "pagina_pdf": 2,
+          "asset": "estaduais/RS/_ativos_visuais/c406853f1bb548be4655cea3f05815c32f16b0d823443ba3a9df436873b3f6d0.png",
+          "sha256_png": "c406853f1bb548be4655cea3f05815c32f16b0d823443ba3a9df436873b3f6d0",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-02.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "2",
+            "-l",
+            "2",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-02"
+          ]
+        },
+        {
+          "pagina_pdf": 3,
+          "asset": "estaduais/RS/_ativos_visuais/7d79c19c2da72603ef3fa15d6d5c6399fc7d23809293a5214b488ff18438d1b7.png",
+          "sha256_png": "7d79c19c2da72603ef3fa15d6d5c6399fc7d23809293a5214b488ff18438d1b7",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-03.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "3",
+            "-l",
+            "3",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-03"
+          ]
+        },
+        {
+          "pagina_pdf": 4,
+          "asset": "estaduais/RS/_ativos_visuais/72a13b7de3a3a8d2151a1e91e96eeff6d0fb9c959ecb0918a7b22f04b8adeb45.png",
+          "sha256_png": "72a13b7de3a3a8d2151a1e91e96eeff6d0fb9c959ecb0918a7b22f04b8adeb45",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-04.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "4",
+            "-l",
+            "4",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-04"
+          ]
+        },
+        {
+          "pagina_pdf": 5,
+          "asset": "estaduais/RS/_ativos_visuais/1b8b8a4cb0dea71f1d7022443d43acff657b83d4489a3f563260485ead2b824f.png",
+          "sha256_png": "1b8b8a4cb0dea71f1d7022443d43acff657b83d4489a3f563260485ead2b824f",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-05.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "5",
+            "-l",
+            "5",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-05"
+          ]
+        },
+        {
+          "pagina_pdf": 6,
+          "asset": "estaduais/RS/_ativos_visuais/1331d9e692becc99f132d4ac829286b8fcf6fefb1a18546e28ec6ce33db068c6.png",
+          "sha256_png": "1331d9e692becc99f132d4ac829286b8fcf6fefb1a18546e28ec6ce33db068c6",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-06.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "6",
+            "-l",
+            "6",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-06"
+          ]
+        },
+        {
+          "pagina_pdf": 7,
+          "asset": "estaduais/RS/_ativos_visuais/c525c7b3e456ba637eaffa59bd1effb98458a53d636f1ac1aa10f8f0cb926861.png",
+          "sha256_png": "c525c7b3e456ba637eaffa59bd1effb98458a53d636f1ac1aa10f8f0cb926861",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-07.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "7",
+            "-l",
+            "7",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-07"
+          ]
+        },
+        {
+          "pagina_pdf": 8,
+          "asset": "estaduais/RS/_ativos_visuais/0dc2cf671cb11e6220d78309138c8bd356d73e419383160cb5209263dd6eebf8.png",
+          "sha256_png": "0dc2cf671cb11e6220d78309138c8bd356d73e419383160cb5209263dd6eebf8",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-08.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "8",
+            "-l",
+            "8",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-08"
+          ]
+        },
+        {
+          "pagina_pdf": 9,
+          "asset": "estaduais/RS/_ativos_visuais/d8590cdca1222bf6b74dae701600e13b5480825bddb211bf55fe75e71ce1122d.png",
+          "sha256_png": "d8590cdca1222bf6b74dae701600e13b5480825bddb211bf55fe75e71ce1122d",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-09.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "9",
+            "-l",
+            "9",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-09"
+          ]
+        },
+        {
+          "pagina_pdf": 10,
+          "asset": "estaduais/RS/_ativos_visuais/fc258fd1915c810a2db2e2d756831356abebcbaff048da6ac2cddf8486cc2c71.png",
+          "sha256_png": "fc258fd1915c810a2db2e2d756831356abebcbaff048da6ac2cddf8486cc2c71",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-10.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "10",
+            "-l",
+            "10",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-10"
+          ]
+        },
+        {
+          "pagina_pdf": 11,
+          "asset": "estaduais/RS/_ativos_visuais/cdd9f2124c21291f62fd2f4ccb3b84889cc6f627c2c08a9410e6665f3046f172.png",
+          "sha256_png": "cdd9f2124c21291f62fd2f4ccb3b84889cc6f627c2c08a9410e6665f3046f172",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-11.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "11",
+            "-l",
+            "11",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-11"
+          ]
+        },
+        {
+          "pagina_pdf": 12,
+          "asset": "estaduais/RS/_ativos_visuais/fe03ccc54de029aa33c3eba6daa0323d20592f42ff5c02b2838ef1df27ff5583.png",
+          "sha256_png": "fe03ccc54de029aa33c3eba6daa0323d20592f42ff5c02b2838ef1df27ff5583",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-12.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "12",
+            "-l",
+            "12",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-12"
+          ]
+        },
+        {
+          "pagina_pdf": 13,
+          "asset": "estaduais/RS/_ativos_visuais/035f9b32208caa48c1fa06f6b274cba455de01bfad217ec6ac658462fc98d07a.png",
+          "sha256_png": "035f9b32208caa48c1fa06f6b274cba455de01bfad217ec6ac658462fc98d07a",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-13.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "13",
+            "-l",
+            "13",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-13"
+          ]
+        },
+        {
+          "pagina_pdf": 14,
+          "asset": "estaduais/RS/_ativos_visuais/a239b5655e4aff0c83b7b6ad116ab6734dfe5feecf4448cc69ae33d4a3af3f7d.png",
+          "sha256_png": "a239b5655e4aff0c83b7b6ad116ab6734dfe5feecf4448cc69ae33d4a3af3f7d",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-14.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "14",
+            "-l",
+            "14",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-14"
+          ]
+        },
+        {
+          "pagina_pdf": 15,
+          "asset": "estaduais/RS/_ativos_visuais/0cf9995e6f345583636a6bf0a550fcbc7c6f88fac75b55724218fc0dea3ae081.png",
+          "sha256_png": "0cf9995e6f345583636a6bf0a550fcbc7c6f88fac75b55724218fc0dea3ae081",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-15.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "15",
+            "-l",
+            "15",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-15"
+          ]
+        },
+        {
+          "pagina_pdf": 16,
+          "asset": "estaduais/RS/_ativos_visuais/273848d1ae310997ae32743aef28494bb827fb3db531606f41641fd22f6c9bd6.png",
+          "sha256_png": "273848d1ae310997ae32743aef28494bb827fb3db531606f41641fd22f6c9bd6",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-16.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "16",
+            "-l",
+            "16",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-16"
+          ]
+        },
+        {
+          "pagina_pdf": 17,
+          "asset": "estaduais/RS/_ativos_visuais/83fd1569ee48b27eaad9c9c90492d148e12d104a16c5d2db71d46128e76d19d4.png",
+          "sha256_png": "83fd1569ee48b27eaad9c9c90492d148e12d104a16c5d2db71d46128e76d19d4",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-17.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "17",
+            "-l",
+            "17",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-17"
+          ]
+        },
+        {
+          "pagina_pdf": 18,
+          "asset": "estaduais/RS/_ativos_visuais/c3a7ca1358069f6d9550a02141aa1ff97ce091ed44e57f1ae23c4631a934a6ae.png",
+          "sha256_png": "c3a7ca1358069f6d9550a02141aa1ff97ce091ed44e57f1ae23c4631a934a6ae",
+          "prova_render": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-18.png",
+          "bbox_pagina": [
+            0.0,
+            0.0,
+            595.32,
+            842.04
+          ],
+          "sem_recorte": true,
+          "comando": [
+            "rtk",
+            "proxy",
+            "pdftoppm",
+            "-f",
+            "18",
+            "-l",
+            "18",
+            "-scale-to",
+            "2600",
+            "-png",
+            "-singlefile",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/fonte.pdf",
+            "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/pagina-18"
+          ]
+        }
+      ],
+      "prefixo_texto_inalterado_sha256": "fda96f0588d4a522daff9a99e5ecc06e6aa567cd13432b27e3db9fc64ef785cb",
+      "metadados_inalterados": true,
+      "sha256_intermediario_rotulo_original": "3f571b52e9c2e9836da485522ec114335567df79a1431985f7c2fabb1ef3dbb7",
+      "snapshot_rotulo_intermediario": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/candidato-integral-rotulo-anterior.md"
+    }
+  ],
+  "script_sha256": "3c7f85a8793bdc176bf625b7584a1b2d86bcbe5b1adb1abbc7c3a541e42bbe88",
+  "limites": [
+    "Reprodução de todas40páginas dos3PDFs:18+4+18, incluindo articulado, quadros e anexos.",
+    "Preserva integralmente os pixels da renderização em página inteira e o PDF original porSHA; não redesenha nem reconstrói cifras ocultas.",
+    "Texto preexistente permanece igual ao reparo anterior; não se certifica literalmente cada palavra/célula da transcrição. Unidade/notas53894 restauradas na fase anterior ficam preservadas.",
+    "Nenhuma conclusão geral sobre outrosPDFs, vigência ou integralidade jurídica externa."
+  ],
+  "observacao_rotulo": "Fonte oficial pode conter texto compilado, conforme metadado preexistente; não se afirma publicação original noDiário. Rótulos visuais ajustados semalterarfonte ou transcrição."
+}

@@ -1,0 +1,102 @@
+---
+titulo: "Lei Ordinária nº 388, de 04 de julho de 2003"
+uf: "RR"
+tipo: "Lei Ordinária"
+numero: "388"
+data: 2003-07-04
+ementa: "Abre ao orçamento fiscal do estado, em favor do instituto de pesos e medidas do estado de Roraima, crédito especial no valor global de r$ 500.000,00 (quinhentos mil reais), para os fins que especifica."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.rr.leg.br/norma/835"
+arquivo: "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2003/835/lei_no_388_de_04.07.03.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 388, de 04 de julho de 2003
+
+GOVERNO DE RORAIMA "AMAZÔNIA: PATRIMÔNIO DOS BRASILEIROS"
+
+LEI N° 388 DE 04 DE JULHO DE 2003.
+
+Abre ao Orçamento Fiscal do Estado, em §f favor do Instituto de Pesos e Medidas do «° Estado de Roraima, crédito especial no || valor global de R$ 500.000,00 (quinhentos S mil reais), para os fins que especifica. ~ s
+
+O GOVERNADOR DO ESTADO DE RORAIMA:
+
+Faço saber que a AssembléiaLegislativa decreta e eu sanciono a seguinte Lei.
+
+Art. Io Fica aberto ao Orçamento Fiscal do Estado (Lei n° 361, de 03 de janeiro de 2003), em favor do Instituto de Pesos e Medidas do Estado de Roraima, crédito especial no valor global de RS SOO.000,00 (quinhentos mil reais), para atender à programação constante do Anexo I desta Lei.
+
+**Art. 2o** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação de dotações, conforme indicado no Anexo II desta Lei.
+
+Art. 3oEsta Lei entra em vigor na data de sua publicação.
+
+Palácio Senador Hélio Campos - RR, 04 de julho de 2003.
+
+FRANCISCO FLÃMÀRItyN PORTELA Governador do Estado de Roraima
+
+GABINETE DO GOVERNADOR PalácioSenador Hélio Campos - Praça do CentroCívico - Centro- BooVisto - Roraima - Brasil - CEP 69.301-380 ««-«.«-.»^»..„. Teb-: l095) 623-1663/623-1979/ 623-1410 - Fax: (095) 623-2410 6OVERN0MR0UIMA ldr\* - 7/4/03 11:10:20 AM
+
+SECRETARIA DE ESTADO DO PLANEJAMENTO E ORÇAMENTO
+
+EXERCÍCIO:2003 29000• SECRETARIAOE ESTADO DO DESENVOLVIMENTO ECONÔMICO RS 1,00 29009 • INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE RORAIMA CRÉDITO ESPECIAL
+
+ANEXO I (SUPLEMENTAÇAO) RECURSOS DE TODAS AS FONTES PROGRAMA DE TRABALHO
+
+ESPECIFICAÇÃO TOTAL PESSOALE juros e enc. OUTRAS DESP. INVESTIMENTOS INVERSÕES amortização CÓDIGO ENC. SOCIAIS da dívida CORRENTES FINANCEIRAS da dívida
+
+500.000 245.000 195.000 60.000 ADMINISTRAÇÃO 390.000 245.000 105.000 40.000 ADMINISTRAÇÃO GERAL 390.000 245.000 105.000 40.000 APOIO ADMINISTRATIVO
+
+Prover os Órgãos do Estado dos Matos Administrativos para a Implementação e Gestão de seus Programas Flneltstlcos.
+
+10.000 5.000 04.122.10.4135/01 MANUTENÇÃO E CONSERVAÇÃO OE BENS IMÓVEIS DO INSTITUTO 15.000 15.000 10.000 5.000 DE PESOS E MEDIDAS DO ESTADO DE RORAIMA 90 001 15.000 10.000 5.000
+
+40.000 15.000 25.000 04.122.10.4239/01 MANUTENÇÃO DESERVIÇOS DETRANSPORTES DO INSTITUTO DE 90 40.000 15.000 25.000 PESOS E MEDIDAS DO ESTADO DE RORAIMA 001 40.000 15.000 25.000
+
+70.000 65.000 5.000 04.122.10.4335/01 MANUTENÇÃO DE SERVIÇOS ADMINISTRATIVOS GERAIS DO 70.000 65.000 5.000 INSTITUTO DE PESOS E MEDIDAS DO ESTADO OE RORAIMA 90 001 70.000 65.000 5.000
+
+ADMINISTRAÇÃO DE RECURSOS HUMANOS DO INSTITUTO DE 245.000 245.000 04.122.10.4435/01 PESOS E MEDIDAS DO ESTADO DE RORAIMA 90 245.000 245.000 001 245.000 245.000
+
+15.000 5.000 04.122.10.4535/01 AÇÕES DE INFORMÁTICA DO INSTITUTO DE PESOS E MEOIOAS DO 20.000 ESTADO DE RORAIMA 00 20.000 15.000 5.000
+
+001 20.000 15.000 5.000
+
+90.000 20.000 NORMALIZAÇÃO E FISCALIZAÇÃO 110.000
+
+110.000 90.000 20.000 PROTEÇÃO E SEGURANÇA AO CONSUMIDOR
+
+Desenvolver Instrumentos e Mecanismos de Fortalecimento e AmpllaçOo das Atividades de Fiscalização, em atendimento aos PadrOes de Segurança e Proteção ao Consumidor.
+
+SECRETARIA DE ESTADODO PLANEJAMENTO E ORÇAMENTO
+
+EXERCÍCIO: 2003 29000 . SECRETARIA DE ESTADO DO DESENVOLVIMENTO ECONÔMICO 29009 - INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE RORAIMA RS 1,00
+
+ANEXO 1 (SUPLEMENTAÇAO) CRÉDITO ESPECIAL
+
+PROGRAMA DE TRABALHO RECURSOS DE TODAS AS FONTES
+
+E M F CÓDIGO ESPECIFICAÇÃO S O T TOTAL PESSOALE juros e enc. OUTRAS DESP. INVESTIMENTOS INVERSÕES AMORTIZAÇÃO F D E ENC. SOCIAIS da dívida CORRENTES FINANCEIRAS DA DÍVIDA
+
+04.125.62.2143/01 SERVIÇODE METROLOGIA LEGAL F 75.000 60.000 15.000 90 75.000 60.000 15.000 001 75.000 60.000 15.000
+
+04.125.62.2144/01 FISCALIZAÇÃO DA QUALIDADE E PRODUTOS PRÉ-MEDIDOS F 35.000 30.000 5.000 90 35.000 30.000 5.000 001 35.000 30.000 5.000
+
+TOTAL FISCAL 500.000 245.000 195.000 60.000
+
+SECRETARIA DE ESTADO DO PLANEJAMENTO E ORÇAMENTO
+
+EXERCÍCIO: 2003
+
+16000 . SECRETARIA DE ESTADO DO PLANEJAMENTO E ORÇAMENTO RS 1,00 16003-FUNDO DE AVAL CRÉDITO ESPECIAL
+
+ANEXOU (CANCELAMENTO) RECURSOS DE TODAS AS FONTES PROGRAMA DE TRABALHO
+
+JUROS E ENC. OUTRAS DESP. INVESTIMENTOS INVERSÕES AMORTIZAÇÃO CÓDIGO ESPECIFICAÇÃO TOTAL PESSOALE ENC. SOCIAIS DA DÍVIDA CORRENTES FINANCEIRAS DA DÍVIDA
+
+500.000 500.000 AGRICULTURA 500.000 PROMOÇÃO DA PRODUÇÃO VEGETAL 500.000
+
+500.000 DEFESA SANITÁRIA E PRODUÇÃO VEGETAL 500.000
+
+Assegurar a Defesa Sanitária e a Inspeção de Produtos de Origem Vegetal e Estimulara Expansão e a Modernização da Produção Vegetal.
+
+500.000 500.000 20.601.33.3215/01 FINANCIAMENTO A EMPREENDIMENTOS AGRÍCOLAS FUNDO DE 500.000 500.000 AVAL 90 001 500.000 500.000
+
+500.000 500.000 TOTAL FISCAL

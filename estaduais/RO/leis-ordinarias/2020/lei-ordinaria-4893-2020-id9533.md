@@ -1,0 +1,288 @@
+---
+titulo: "Lei ordinária nº 4.893, de 02 de dezembro de 2020"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "4893"
+data: 2020-12-02
+ementa: "Autoriza o Poder Executivo a abrir Crédito Adicional Suplementar por Excesso de Arrecadação, até o valor de R$ 335.202.786,56, em favor da Unidade Orçamentária Secretária de Estado de Finanças - SEFIN e Crédito Adicional Suplementar por Anulação e altera o título do código do quadro da Fonte/Destinação de Recursos “61”, disposto no § 3o do artigo 10 da Lei no 4.535, de 17 de julho de 2019."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E nº 235"
+fonte: "https://sapl.al.ro.leg.br/norma/9533"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2020/9533/l4893.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 4.893, de 02 de dezembro de 2020
+
+Diário Oficial do Estado de Rondônia nº 235 Disponibilização: 02/12/2020 Publicação: 02/12/2020
+
+GOVERNADORIA - CASA CIVIL
+
+LEI N° 4.893, DE 2 DE DEZEMBRO DE 2020. Autoriza o Poder Executivo a abrir Crédito Adicional Suplementar por Excesso de Arrecadação, até o valor de R$ 335.202.786,56, em favor da Unidade Orçamentária Secretaria de Estado de Finanças - SEFIN e Crédito Adicional Suplementar por Anulação e altera o título do código do quadro da Fonte/Destinação de Recursos “61”, disposto no § 3º do artigo 10 da Lei nº 4.535, de 17 de julho de 2019.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte Lei:
+
+**Art. 1°** Fica o Poder Executivo autorizado a abrir Crédito Adicional Suplementar por Excesso de Arrecadação, até o valor de R$ 335.202.786,56 (trezentos e trinta e cinco milhões, duzentos e dois mil setecentos e oitenta e seis reais e cinquenta e seis centavos), em favor da Unidade Orçamentária Secretaria de Estado de Finanças - SEFIN e Crédito Adicional Suplementar por Anulação e altera o título do código do quadro da Fonte/Destinação de Recursos “61”, disposto no § 3º do artigo 10 da Lei n° 4.535, de 17 de julho de 2019, para dar cobertura orçamentária às despesas correntes e de capital, no presente exercício, indicadas nos
+
+Anexos I e IV.
+
+**Art. 2°** O recurso necessário à execução do disposto no artigo anterior, decorrerá de excesso de arrecadação, indicado no Anexo II e de anulação de dotações orçamentárias, indicado no Anexo III e no valor especificado.
+
+**Art. 3°** Fica o Poder Executivo, por meio de abertura de Créditos Adicionais Suplementares, autorizado a efetuar remanejamento, transposição e transferência orçamentária dos recursos ora transferidos, de uma Unidade Orçamentária para outra e de um Órgão para outro, de uma categoria de programação para outra e de uma categoria econômica para outra.
+
+**Parágrafo único.** A abertura de Créditos, de que trata o caput, se dará por meio de Decreto do Poder Executivo.
+
+**Art. 4°** Fica alterado ao Quadro das Fontes/Destinações de Recursos, disposto no § 3º do artigo 10 da Lei n° 4.535, de 17 de julho de 2019, que “Dispõe sobre as Diretrizes para a elaboração da Lei Orçamentária de 2020”, o código 61, conforme segue:
+
+“Art. 10 ......................................................................................................................
+
+...................................................................................................................................
+
+§ 3°...............................................................................................................................
+
+ESPECIFICAÇÃO DAS FONTES/DESTINAÇÕES DE RECURSOS https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 1/10
+
+61 Recursos Destinados ao Combate da Covid-19, Ações de enfrentamentos e Mitigação dos seus efeitos financeiros - inciso II, do art. 5º da Lei Complementar Federal nº 173, de 27 de maio de 2020.
+
+” (NR)
+
+**Art. 5°** Esta Lei entra em vigor na data de sua publicação.
+
+Palácio do Governo do Estado de Rondônia, em 2 de dezembro de 2020, 133° da República.
+
+MARCOS JOSÉ ROCHA DOS SANTOS Governador
+
+## ANEXO I
+
+CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO SUPLEMENTA Fonte Código Especificação Despesa de Valor Recurso SECRETARIA DE ESTADO DE 335.202.786,56 FINANÇAS - SEFIN ASSEGURAR A MANUTENÇÃO 14.001.04.122.1015.2087 3390 0261 335.202.786,56 ADMINISTRATIVA DA UNIDADE TOTAL R$ 335.202.786,56
+
+## ANEXO II
+
+CRÉDITO POR EXCESSO DE ARRECADAÇÃO EXCESSO Fonte Código Especificação Tipo de Valor Recurso OUTRAS TRANSFERÊNCIAS DA UNIÃO - 17189911 A 0261 335.202.786,56 PRINCIPAL TOTAL R$ 335.202.786,56
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 2/10
+
+## ANEXO III
+
+CRÉDITO POR ANULAÇÃO REDUZ Fonte Código Especificação Despesa de Valor Recurso SECRETARIA DE ESTADO DE 335.202.786,56 FINANÇAS - SEFIN ASSEGURAR A MANUTENÇÃO 14.001.04.122.1015.2087 ADMINISTRATIVA DA 3390 0261 335.202.786,56 UNIDADE TOTAL R$ 335.202.786,56
+
+## ANEXO IV
+
+CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO SUPLEMENTA Fonte Código Especificação Despesa de Valor Recurso PROCURADORIA-GERAL DO 8.019.000,00 ESTADO - PGE
+
+11.003.03.122.1015.2091 3390 0261 39.000,00
+
+11.003.03.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 7.240.000,00
+
+3191 0261 740.000,00 SUPERINTENDÊNCIA ESTADUAL 215.000,00 DE TURISMO - SETUR
+
+11.004.23.122.1015.2091 3390 0261 8.000,00
+
+11.004.23.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 203.000,00
+
+3191 0261 4.000,00 CONTROLADORIA-GERAL DO 819.000,00 ESTADO - CGE
+
+11.005.04.122.1015.2091 3390 0261 18.500,00
+
+11.005.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 713.500,00
+
+3191 0261 87.000,00 SUPERINTENDÊNCIA ESTADUAL 921.185,00 DE DESENVOLVIMENTO
+
+Ô https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 3/10
+
+ECONÔMICO E INFRAESTRUTURA - SEDI
+
+11.006.23.122.1015.2091 3390 0261 30.015,00
+
+11.006.23.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 873.070,00
+
+3191 0261 18.100,00 SUPERINTENDÊNCIA ESTADUAL DE TECNOLOGIA DA 2.247.785,78 INFORMAÇÃO E COMUNICAÇÃO - SETIC
+
+11.007.04.122.1015.2091 3390 0261 12.125,00
+
+11.007.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.050.350,00
+
+3191 0261 65.000,00 PROVER, ADMINISTRAR E MANTER A INFRAESTRUTURA DE 11.007.04.126.2074.2285 3390 0261 125.000,00 TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
+
+4490 0261 995.310,78
+
+SUPERINTENDÊNCIA DE GESTÃO DOS GASTOS PÚBLICOS 5.424.575,00 ADMINISTRATIVOS - SUGESP
+
+11.009.04.122.1015.2091 3390 0261 143.000,00
+
+11.009.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 5.215.575,00
+
+3191 0261 66.000,00 INSTITUTO DE PESOS E MEDIDAS 307.150,00 DO ESTADO DE RONDÔNIA - IPEM
+
+11.023.04.122.1015.2091 3390 0261 14.000,00
+
+11.023.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 280.450,00
+
+3191 0261 12.700,00 DEPARTAMENTO ESTADUAL DE ESTRADAS DE RODAGEM E 8.997.020,00 TRANSPORTES - DER
+
+11.025.26.122.1015.2091 3390 0261 309.020,00
+
+11.025.26.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 8.223.000,00
+
+3191 0261 465.000,00 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 4/10
+
+FUNDAÇÃO DE AMPARO AO 168.200,00 DESENVOLVIMENTO DAS AÇÕES CIENTÍFICAS E TECNOLÓGICAS E À PESQUISA DO ESTADO DE RONDÔNIA - FAPERO
+
+11.033.19.122.1015.2091 3390 0261 500,00
+
+11.033.19.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 167.700,00
+
+SECRETARIA DE ESTADO DO PLANEJAMENTO, ORÇAMENTO E 19.264.893,44 GESTÃO - SEPOG ASSEGURAR A MANUTENÇÃO 13.001.04.122.1015.2087 3390 0261 17.631.973,44 ADMINISTRATIVA DA UNIDADE
+
+13.001.04.122.1015.2091 3390 0261 26.000,00
+
+13.001.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.532.700,00
+
+3191 0261 74.000,00 3390 0261 220,00 SUPERINTENDÊNCIA ESTADUAL 2.097.100,00 DE GESTÃO DE PESSOAS - SEGEP ASSEGURAR O PAGAMENTO DE 13.006.04.122.1015.0142 3190 0261 219.000,00 PESSOAL INATIVO E PENSIONISTAS
+
+13.006.04.122.1015.2091 3390 0261 61.600,00
+
+13.006.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.735.500,00
+
+3191 0261 81.000,00 SUPERINTENDÊNCIA ESTADUAL DE COMPRAS E LICITAÇÃO - 656.100,00 SUPEL
+
+13.008.04.122.1015.2091 3390 0261 15.500,00
+
+13.008.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 610.600,00
+
+3191 0261 30.000,00 SUPERINTENDÊNCIA ESTADUAL DE PATRIMÔNIO E 260.500,00 REGULARIZAÇÃO FUNDIÁRIA - SEPAT
+
+13.009.04.122.1015.2091 3390 0261 19.500,00
+
+13.009.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 237.900,00
+
+3191 0261 3.100,00 SECRETARIA DE ESTADO DE 18.870.265,00 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 5/10
+
+FINANÇAS - SEFIN
+
+14.001.04.122.1015.2091 3390 0261 157.200,00
+
+14.001.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 16.263.065,00
+
+3191 0261 2.450.000,00
+
+RECURSOS SOB A SUPERVISÃO DA 4.865.195,44 SEFIN - RS-SEFIN ASSEGURAR RECURSOS PARA 14.002.28.846.0000.0130 3390 0261 4.865.195,44 PAGAMENTO DO PASEP SECRETARIA DE ESTADO DA SEGURANÇA, DEFESA E 111.343.800,00 CIDADANIA - SESDEC
+
+15.001.06.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.843.700,00
+
+3191 0261 95.000,00
+
+15.001.06.122.1015.2413 3390 0261 107.500,00 AUXÍLIOS - SESDEC
+
+15.001.06.181.1015.2146 PESSOAL ATIVO E ENCARGOS 3190 0261 43.838.700,00 SOCIAIS - PM 3191 0261 6.500,00
+
+15.001.06.181.1015.2150 3390 0261 4.542.000,00 AUXÍLIOS - PM
+
+15.001.06.181.1015.2414 PESSOAL INATIVO E ENCARGOS 3190 0261 20.000,00
+
+ASSEGURAR AUXÍLIOS DE PESSOAL 15.001.06.181.1015.2415 3390 0261 1.600,00 INATIVO
+
+15.001.06.182.1015.2148 PESSOAL ATIVO E ENCARGOS 3190 0261 7.178.600,00 SOCIAIS - BM 3191 0261 9.500,00
+
+15.001.06.182.1015.2151 3390 0261 733.750,00 AUXÍLIOS - BM
+
+15.001.06.183.1015.2147 PESSOAL ATIVO E ENCARGOS 3190 0261 24.008.400,00 SOCIAIS - PC 3191 0261 4.200.000,00
+
+15.001.06.183.1015.2149 3390 0261 1.439.000,00 AUXÍLIOS - PC
+
+15.001.06.183.1015.2411 PESSOAL ATIVO E ENCARGOS 3190 0261 3.923.550,00 SOCIAIS - POLITEC 3191 0261 661.000,00 15.001.06.331.1025.2435 REALIZAR PAGAMENTOS DO 3190 0261 17.650.000,00 SISTEMA DE PROTEÇÃO SOCIAL E https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 6/10
+
+PENSIONISTAS - PM REALIZAR PAGAMENTOS DO 15.001.06.331.1025.2437 SISTEMA DE PROTEÇÃO SOCIAL E 3190 0261 1.085.000,00 PENSIONISTAS - BM SECRETARIA DE ESTADO DA 50.000.000,00 EDUCAÇÃO - SEDUC DESENVOLVER ATIVIDADES DE 16.001.12.368.2124.2378 3390 0261 13.440.000,00 APOIO À EDUCAÇÃO BÁSICA MODERNIZAR A INFRAESTRUTURA 16.001.12.126.2125.2387 4490 0261 36.560.000,00 TECNOLÓGICA DE TI SUPERINTENDÊNCIA ESTADUAL DA JUVENTUDE, CULTURA, 345.750,00 ESPORTE E LAZER - SEJUCEL
+
+16.004.27.122.1015.2091 3390 0261 14.200,00
+
+16.004.27.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 316.050,00
+
+3191 0261 15.500,00 FUNDAÇÃO CULTURAL DO 125.700,00 ESTADO DE RONDÔNIA - FUNCER
+
+16.031.13.122.1015.2091 3390 0261 4.000,00
+
+16.031.13.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 118.600,00
+
+3191 0261 3.100,00 FUNDO ESTADUAL DE SAÚDE - FES 46.000.000,00 CUSTEAR AÇÕES DE PREVENÇÃO, CONTENÇÃO, COMBATE E MITIGAÇÃO À PANDEMIA DO 17.012.10.302.2034.2446 3390 0261 46.000.000,00 CORONAVÍRUS - COVID-19 (LEI COMPLEMENTAR Nº 173, DE 27 DE MAIO DE 2020 ) FUNDAÇÃO DE HEMATOLOGIA E HEMOTERAPIA DE RONDÔNIA - 2.215.500,00 FHEMERON
+
+17.032.10.122.1015.2091 3390 0261 165.500,00
+
+17.032.10.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.810.000,00
+
+3191 0261 240.000,00 CENTRO DE EDUCAÇÃO TÉCNICA E PROFISSIONAL NA ÁREA DE 184.100,00 SAÚDE - CETAS
+
+17.033.10.122.1015.2091 3390 0261 14.000,00
+
+17.033.10.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 154.500,00
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 7/10
+
+3191 0261 15.600,00 AGÊNCIA ESTADUAL DE VIGILÂNCIA EM SAÚDE DE 1.231.600,00 RONDÔNIA - AGEVISA
+
+17.034.10.122.1015.2091 3390 0261 71.000,00
+
+17.034.10.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.015.600,00
+
+3191 0261 145.000,00 SECRETARIA DE ESTADO DE DESENVOLVIMENTO 2.624.950,00 AMBIENTAL - SEDAM
+
+18.001.18.122.1015.2091 3390 0261 84.500,00
+
+18.001.18.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 2.388.450,00
+
+3191 0261 152.000,00 SECRETARIA DE ESTADO DA 1.014.100,00 AGRICULTURA - SEAGRI
+
+19.001.04.122.1015.2091 3390 0261 37.000,00
+
+19.001.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 941.100,00
+
+3191 0261 36.000,00 AGÊNCIA DE DEFESA SANITÁRIA AGROSILVOPASTORIL DO ESTADO 9.477.000,00 DE RONDÔNIA - IDARON
+
+19.023.20.122.1015.2091 3390 0261 495.500,00
+
+19.023.20.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 8.236.000,00
+
+3191 0261 730.000,00 CONSOLIDAR AS AÇÕES DE 19.023.20.609.2096.2631 INSPEÇÃO E DEFESA SANITÁRIA 3390 0261 15.500,00 ANIMAL ENTIDADE AUTÁRQUICA DE ASSISTÊNCIA TÉCNICA E 9.755.000,00 EXTENSÃO RURAL DO ESTADO DE RONDÔNIA - EMATER
+
+19.025.04.122.1015.2091 3390 0261 205.000,00
+
+19.025.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 9.550.000,00
+
+SECRETARIA DE ESTADO DA 21.882.115,00 JUSTIÇA - SEJUS 21.001.14.122.1015.2091 ATENDER A SERVIDORES COM 3390 0261 1.188.615,00
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 8/10
+
+21.001.14.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 15.878.500,00
+
+3191 0261 2.300.000,00 3190 0216 15.000,00 ASSEGURAR ASSISTÊNCIA MÉDICA 21.001.14.421.2102.2950 3390 0261 2.500.000,00 AOS APENADOS SECRETARIA DE ESTADO DA ASSISTÊNCIA E DO 1.932.083,40 DESENVOLVIMENTO SOCIAL - SEAS ASSEGURAR A MANUTENÇÃO 23.001.04.122.1015.2087 3390 0261 3.908,40 ADMINISTRATIVA DA UNIDADE
+
+23.001.04.122.1015.2091 3390 0261 34.320,00
+
+23.001.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.091.555,00
+
+3191 0261 18.300,00 DESENVOLVER AÇÕES SOCIAIS REFERENTES À CALAMIDADE 23.001.08.244.2112.1451 3350 0261 784.000,00 PÚBLICA CAUSADA PELO CORONAVÍRUS (COVID-19) FUNDO ESTADUAL DE 205.233,50 ASSISTÊNCIA SOCIAL - FEAS APOIAR A REDE DE PROTEÇÃO 23.012.08.244.2114.2349 SOCIAL BÁSICA E ESPECIAL DE 3390 0261 205.233,50 ALTA E MÉDIA COMPLEXIDADE FUNDAÇÃO ESTADUAL DE ATENDIMENTO SOCIOEDUCATIVO 2.654.515,00 - FEASE
+
+23.030.04.122.1015.2091 3390 0261 206.515,00
+
+23.030.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 2.173.000,00
+
+3191 0261 275.000,00 SECRETARIA DE ESTADO DE OBRAS E SERVIÇOS PÚBLICOS - 1.078.370,00 SEOSP
+
+27.001.04.122.1015.2091 3390 0261 24.720,00
+
+27.001.04.122.1015.2234 PESSOAL ATIVO E ENCARGOS 3190 0261 1.026.550,00
+
+3191 0261 27.100,00
+
+R$ TOTAL 335.202.786,56
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra\_… 9/10
+
+Documento assinado eletronicamente por Marcos José Rocha dos Santos, Governador, em 02/12/2020, às 12:56, conforme horário oﬁcial de Brasília, com fundamento no ar go 18 caput e seus §§ 1º e 2º, do
+
+Decreto nº 21.794, de 5 Abril de 2017.
+
+A auten cidade deste documento pode ser conferida no site portal do SEI, informando o código veriﬁcador 0014998535 e o código CRC EB58CBCB.
+
+Referência: Caso responda esta Lei, indicar expressamente o Processo nº 0035.481369/2020-66 SEI nº 0014998535
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=16798674&infra… 10/10

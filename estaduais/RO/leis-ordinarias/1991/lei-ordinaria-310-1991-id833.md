@@ -1,0 +1,98 @@
+---
+titulo: "Lei ordinária nº 310, de 17 de maio de 1991"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "310"
+data: 1991-05-17
+ementa: "ALTERA TABELA DE VENCIMENTOS DO PESSOAL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O nº 2288, 21/05/91"
+fonte: "https://sapl.al.ro.leg.br/norma/833"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/1991/833/833_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 310, de 17 de maio de 1991
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+GOVERNO DO ESTADO DE RONDÔNIA
+
+LEI N° 310 1991. MAIO DE DE 17 DE Altera Tabela de Vencimentos do Pes soal da Administração Direta do PO der Executivo, e dá outras providên cias.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a se guinte Lei:
+
+**Art. 19** - As Tabelas de Vencimentos do Pes soal da Administração Direta do Poder Executivo, são as constan tes dos Anexos I, II, III e IV a esta Lei.
+
+**Art. 2º** - Fica estipulado para Cr$ 300,00 (trezentos cruzeiros), o valor do salário-família inerente ao funcionário estatutário.
+
+**Art. 3º** - As despesas decorrentes da apli cação desta Lei, correrão por conta do orçamento vigente.
+
+**Art. 49** - O Poder Executivo regulamentará a presente Lei, no que for necessário para a sua execução.
+
+**Art. 5º** - Fica incorporado ao vencimento, o abono salarial concedido através da Lei n° 288, de 15 de ju nho de 1990, e regulamentada pelo Decreto n° 5063, de 23 de abril de 1991, no valor de 40% (quarenta por cento).
+
+**Art. 6º** - Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos financeiros a par tir de 1º de maio de 1991.
+
+**Art. 70** - Revogam-se as disposições em con trário. Palácio do Governo do Estado de Rondônia, 17 de maio de 1991, 103º da República. em OSWALDO PIANA FILHO ¡ Governador
+
+BOXEBRO D0. PRI NO STO DE TA 809źęŚłę cres O COAREINT e se deperes de percorros do s BOTT S8 - 8ienenerbajedo bate Cit 300 00 810071001 0 0910r 00 0971E10 210771970010020 ESSEITEOR SEREnESTO! 56 - ve desteses decorrerias. desce 91000001007E91 09 2011 8 588 00 79łął basto beto Decreto de 20es deias entrar? 0R 18831 dneceure Bor deurol- AUTOr DE PTT ON TO DE RUTO DE TARTA de pite de 1aaт 1038 de peonerior: CERVIDO STONE SITHO Testudent
+
+ESTADO DE RONDÔNIA
+
+DO
+
+ANEXO I TABELA DE VENCIMENTOS NÍVEL MÉDIO REFERÊNCIA VALOR 28.000,0îź NM -
+
+.... 28.200,00 28.400,0îŚ 28.600,00 28.800,00 29.000,00 29.200,00 ............. 29.400,00 29.600,00 29.800,00 30.000,00 30.200,00 30.400,00 30.600,00 30.800,00 31.000,00ł 31.200,00 31.400,00 31.600,0î 31.800,00 32.000,00 32.200,00 32.400,00 32.600,00 32.800,00 33.000,00 33.200,00 33.400,00
+
+33.600,00
+
+33.800,00
+
+34.000,00 34.200,00 34.400,00 34.600,00 34.800,00 35.000,00 35.200,00 35.400,00 35.600,00 35.800,00
+
+RONDÔNIA
+
+DO ESTADO DE
+
+ANEXO - II TABELA DE VENCIMENTOS NÍVEL SUPERIOR REFERENCIA VALOR 222222222222222222222222222222 ........... 51.000,00 52.000,00 53.000,00 54.000,0ł 55.000,00 56.000,00 57.000,00 58.000,0îŚę 59.000,00 60.000,00 61.000,0ł 62.000,00 63.000,00 64.000,00 65.000,00 66.000,00 67.000,00 68.000,00ę 69.000,0îŚ 70.000,00 71.000,0ąłźł 72.000,00 73.000,0oł 74.000,0łîš 75.000,00ł 76.000,00šŚ 77.000,0ął 78.000,00 79.000,00 80.000,0îŚš
+
+RONDÔNIA DO ESTADO DE
+
+ANEXO - III TABELA DE VENCIMENTOS GRUPO OCUPACIONAL SAÚDE REFERENC CÓDIGO CATEGORIA FUNCIONAL
+
+60.400 59.40ął 58.400 57.40ął 56.40źŚ TS-2 HORAS MÉDICO
+
+MÉDICO VETERINÁRIO MÉDICO 20 HORAS 30.200 29.700 29.200 28.700 28.200 TS-2 MÉDICO VETERINÁRIO 32.200 31.200 30.200 29.200 28.200 SAN SANITARISTA TS-2 ADM. EM SIST. DE SAÚDE TS-2 ARQUIT. EM SIST. DE SAÚDE TS-2 BIÓLOGO TS-2 BIOMÉDICO TS-2 CIRURGIÃO DENTISTA TS-2 ENFERMEIRO ENG.EM TECNOL. DE SISTEMA DE SAÚDE TS-2 TS 2 ENG. DE SEGURANÇA TRABALHO TS-2 ENTOMOLOGISTA TS-2 FARMACÊUTICO
+
+32.20łł 31.200 306/200 29.200 28.200 TS-2 FARMACÊUTICO BIOQUIMICO TS-2 FISIOTERAPEUTA PONOAUDIÓLOGO
+
+RONDÔNIA DE ESTADO DO
+
+Continuação da Tabela do Grupo Ocupacional Saúde REFERÊNCIAS CÓDIGO CATEGORIA FUNCIONAL
+
+37.200ł 38.200 39.20łł 35.200 36.200 33.20źł 34.200 31.200 32.200ŚŘź 30.20ОîšŚ 29.200 28.200 TS - 2 PSICÓLOGO TS - 2 NUTRICIONISTA TÉC. EM PESQUISA E SERVIÇO SOCIAL TS - 2 TS - 2 TÉC. EM ENERGIA NUCLEAR APLICADA TS - 2 A SAÚDE 38.200 39.20ął 37.20îŚ 36.200ł 35.200ł 34.200ł 33.200Ś 31.200 32.200 30.200 29.20 TS - 2 28.20îŚęŚ TÉC. EM EDUCAÇÃO E SAÚDE TÉC. EM DOCUM. CIENT. EM SAÚDE TS - 2 TÉC. EM LEGISL. SANITÁRIA TS - 2 TÉC. EM SIST. DE CUST. EM SAÚDE TS - 2 TS - 2 TERAPEUTA OCUPACIONAL AS - 7 TÉCNICO EM NUTRIÇÃO AS - 7 TÉCNICO EM ENFERMAGEM TÉC. EM RADIOL. MÉDICA AS - 7 AS - 7 TÉCNICO EM LABORATÓRIO AS - 7 TÉC. EM HIGIENE DENTAL AS - 7 TÉC. EM SANEAMENTO AS - 7 TÉC. EM ORTESE ORTOPÉDICA 27,200 27.40ął 27.60îźŚęš 27.000ł 26.600ł 26.80łš 26.400łś 26.200 26.000 25.600 25.800 25.400 TÉC. EM EQUIP. E APAR. MÉDICOS TÉC. EM SERVIÇOS DE SAÚDE TÉC. EM PROT. DENTÁRIA - 7 - 7 TÉC. EM REABILITAÇÃO
+
+DO ESTADO DE RONDÔNIA
+
+Continuação da Tabela do Grupo Ocupacional Saúde REFERENCIA CODIGO CATEGORIA FUNCIONAL
+
+HOSPITALAR TÉC. EM ADMINIST. AS - 7 26.400 26.200 25.800 26.000 25.40ął 25.600 AS - 5 TÉCNICO EM RADIOTERAPIA AS - 7 SUPERVISOR DE SAÚDE APLICADA AO TRABALHO AUXILIAR DE NUTRIÇÃO AS - 4 AS - 4 AUXILIAR DE ENFERMAGEM AUXILIAR DE SERVIÇOS ODONTOLÓGICOS AS - 4 AUXILIAR DE FARMÁCIA AS - 4 25.400 25.00 25.20łł 24.80ął 24.600 24.400ł AUXILIAR DE SERVIOS DE SAÚDE AS - 4 AUXILIAR DE SERV. DE MANUT. EM EQUI PAMENTOS E APARELHOS MÉDICOS AS - 4 AUXILIAR DE LABORATÓRIO AUXILIAR DE RADIOLOGIA MEDICA AS - 2 AS - 4 AUXILIAR DE SANEAMENTO AS - 4 AUXILIAR DE NECROPSIA 23.600 23.80îęšŚ 23.000 23.20îšę 23.40ął 22.800 OPERDOR DE SERVIÇOS DE SAÚDE AS - 1
+
+RONDÔNIA GOVERNO DO ESTADO DE
+
+IV
+
+ANEXO TABELA DE VENCIMENTOS GRUPO MAGISTERIO CLASSE/REFERÊNCIA HORAS
+
+40 HORAS 22.000,00 44.000,00 A - 1 22.220,00îŚ A - 2 44.400,00 22.400,00Ś 44.800,00 A - 3 22.600,00Ś 45.200,00ł A - 4 22.800,00 A - 5 45.600,00 46.000,00ą 23.000,00 B - 1 23.200,00 46.400,0îŚ B - 2 23.400,00 46.800,0łę B - 3 23.600,00 47.200,00 B - 4 B - 5 23.800,00 47.600,00 48.000,00ł
+
+C - 1 24.000,0ął 24.200,00
+
+C - 2 48.400,00 24.400,00
+
+C - 3 48.800,0îźî 24.600,00 49.200,00
+
+C - 4 24.800,00
+
+C - 5 49.600,00 D - 1 50.000,00 25.000,00 25.200,00Ś 50.400,00 D - 2 D - 3 25.400,00 50.800,00 D - 4 25.600,00 51.200,00 26.000,00ł E - 1 52.000,00 E - 2 26.200,0îŚ 52.400,00 E - 3 26.400,00 52.800,00 26.600,00 E - 4 53.200,00 UNICA 21.500,00ł 43.000,0î

@@ -1,0 +1,44 @@
+---
+titulo: "Lei ordinária nº 2.165, de 28 de outubro de 2009"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "2165"
+data: 2009-10-28
+ementa: "DISPÕE SOBRE A CONCESSÃO DE ADICIONAL DE INSALUBRIDADE, DE PERICULOSIDADE E DE ATIVIDADE PENOSA AOS SERVIDORES PÚBLICOS DA ADMINISTRAÇÃO DIRETA, DAS AUTARQUIAS E DAS FUNDAÇÕES PÚBLICAS DO ESTADO."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE 1359"
+fonte: "https://sapl.al.ro.leg.br/norma/4778"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2009/4778/4778_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 2.165, de 28 de outubro de 2009
+
+GOVERNO DO ESTADO DE RONDÔNIA GOVERNADORIA
+
+LEI N° 2165, DE 28 DE OUTUBRO DE 2009.
+
+Dispõe sobre a concessão de adicional de insalubridade, de periculosidade e de atividade penosa aos servidores públicos da administração direta, das autarquias e das fundações públicas do Estado.
+
+0 GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. Io. A concessão do adicional de insalubridade, de periculosidade e de atividade penosa aos servidores públicos da administração direta, das autarquias e das fundações públicas do Estado passa a ser aplicada mediante a presente Lei.
+
+§ Io. O servidor que habitualmente trabalhe em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de contágio, ou, ainda, que exerça atividade penosa fará jus em cada caso a adicional de insalubridade, periculosidade ou a adicional por atividades penosas dos termos, condições e limites fixados nesta Lei.
+
+§ 2o. Os adicionais de que trata o caput deste artigo serão fixados nos percentuais e nas formas a seguir:
+
+1- Insalubridade: deverá ser calculada com os seguintes índices:
+
+a) 10% (dez por cento) grau mínimo;
+
+b) 20% (vinte por cento) grau médio; e w
+
+c) 30% (trinta por cento) grau máximo;
+
+II - Periculosidade: deverá ser calculada com o índice de 30% (trinta por cento).
+
+**§ 3°.** A insalubridade terá como base de cálculo o valor correspondente a RS 500,00 (quinhentos reais) tendo como indexador o percentual correspondente ao aumento geral do servidor público e/ou outros índice adotado pela Administração Pública; a periculosidade e a penosidade terão como base de cálculo o valor correspondente ao vencimento básico do servidor público beneficiado.
+
+§ 4o. O senador sujeito a mais de uma das condições de trabalho previstas neste artigo optará pelo adicional correspondente a uma delas, vedada, sob qualquer hipótese a acumulação.
+
+§ 5o. A senadora gestante ou lactante será afastada, enquanto durar a gestação ou lactação, das operações em locais insalubre, perigoso ou penoso, exercendo suas atividades em local sem qualquer destas incidências.

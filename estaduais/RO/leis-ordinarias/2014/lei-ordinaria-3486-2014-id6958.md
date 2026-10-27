@@ -1,0 +1,66 @@
+---
+titulo: "Lei ordinária nº 3.486, de 15 de dezembro de 2014"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "3486"
+data: 2014-12-15
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO, ATÉ O MONTANTE DE R$ 46.513.478,65, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS ASSEMBLEIA LEGISLATIVA - ALE TRIBUNAL DE CONTAS - TC, TRIBUNAL DE JUSTIÇA - TJ, MINISTÉRIO PÚBLICO - MP, DEFENSORIA PÚBLICA DO ESTADO DE RONDÔNIA - DPE, RECURSO SOB A SUPERVISÃO DA SEFIN-RO-SEFIN, SECRETARIA DE ESTADO DA EDUCAÇÃO - SEDUC E FUNDO ESTADUAL DE SAÚDE - FES."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE 2604"
+fonte: "https://sapl.al.ro.leg.br/norma/6958"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2014/6958/6958_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 3.486, de 15 de dezembro de 2014
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEIN. 3.486 , DE 15 DE DEZEMBRO DE 2014. Autoriza o Poder Executivo a abrir crédito suplementar por excesso de arrecadação, até o montante de R$ 46.513.478,45, em favor das Unidades Orçamentárias: Assembleia Legislativa - ALE, Tribunal de Contas do Estado - TC, Tribunal de Justiça - TJ, Ministério Público - MP, Defensoria Pública do Estado de Rondônia - DPE, Recursos Sob a Supervisão da SEFIN-RS-SEFIN, Secretaria de Estado da Educação - SEDUC e Fundo Estadual de Saúde - FES.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito suplementar por excesso de arrecadação para dar cobertura orçamentária às despesas correntes no presente exercício, até o montante de R$ 46.513.478,45 (quarenta e seis milhões, quinhentos e treze mil, quatrocentos e setenta e oito reais e quarenta e cinco centavos), em favor das Unidades Orçamentárias: Assembleia Legislativa - ALE, Tribunal de Contas do Estado - TC, Tribunal de Justiça - TJ, Ministério Público - MP, Defensoria Pública do Estado de Rondônia - DPE, Recursos Sob a Supervisão da SEFIN - RS-SEFIN, Secretaria de Estado da Educação - SEDUC e Fundo Estadual de Saúde - FES.
+
+**Art. 2º.** Os recursos necessários à execução do disposto do artigo anterior decorrerão de excesso de arrecadação, indicado no Anexo II desta Lei e no montante especificado.
+
+**Art. 3°.** Esta Lei entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 15 de dezembro de 2014, 127° da República. CONFÚCIO AIRES MOURA Governador
+
+ANEXO I CREDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO SUPLEMENTA
+
+Despesa
+
+5.185.856,24 ASSEMBLEIA LEGISLATIVA - ALE ASSEGURAR A REMUNERAÇÃO PESSOAL 5.185.856,24 3190
+
+01.001.01.122.1020.2063 CIVIL ATIVO E ENCARGOS SOCIAIS 1.027.947,8ššź TRIBUNAL DE CONTAS DO ESTADO - TC REMUNERAR O PESSOAL ATIVO E
+
+1.027.947,87 3190 02.001.01.122.1265.2101 OBRIGAÇÕES PATRONAIS TRIBUNAL DE JUSTIÇA - TJ 5.074.620,50 ASSEGURAR A REMUNERAÇÃO DE 4.279.240,02 03.001.02.122.1278.2310 3190
+
+PESSOAL ATIVO E ENCARGOS SOCIAIS REALIZAR PAGAMENTO DE SENTENÇAS 795.380,4šęŚŘ 3190
+
+03.001.02.846.0000.0221 JUDICIAIS/PRECATÓRIOS RECURSOS SOB A SUPERVISAO DA 15.796.373,90 SEFIN - RS - SEFIN REALIZAR TRANSFERÊNCIAS 15.796.373,90
+
+3340 14.002.28.846.0000.0137 CONSTITUCIONAIS AOS MUNICÍPIOS SECRETARIA DE ESTADO DA 11.628.369,61 EDUCAÇÃO - SEDUC ASSEGURAR A MANUTENÇÃO 11.628.369,61 3390 16.001.12.368.1015.2087
+
+ADMINISTRATIVA DA UNIDADE FUNDO ESTADUAL DE SAÚDE - FES 5.581.617,41 ASSEGURAR A MANUTENÇÃO 5.581.617,41 3390
+
+17.012.10.122.1015.2087 ADMINISTRATIVA DA UNIDADE 1.832.631,05 MINISTÉRIO PÚBLICO - MP ASSEGURAR A REMUNERAÇÃO DE 1.832.631,05
+
+29.001.03.122.1280.2001 3190 SERVIDORES ADMINISTRATIVOS ATIVOS DEFENSORIA PÚBLICA DO ESTADO DE 386.061,8šŚ RONDONIA - DPE ASSEGURAR A REMUNERAÇÃO DE SERVIDORES TÉCNICOS-
+
+386.061,8šŚ 30.001.03.122.2043.2183 3190 ADMINISTRATIVOS E O PAGAMENTO DE ENCARGOS SOCIAIS tours TOTAL R$ 46.513.478,45
+
+ANEXO II CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO EXCESSO
+
+Tipo
+
+RECEITAS DE CORRENTES 46.513.478,45ł 10000000 RECEITA TRIBUTÁRIA 24.960.822,20 11000000 S 11100000 IMPOSTOS 24.960.822,20 S IMPOSTOS SOBRE O PATRIMÔNIO E A 11120000 24.960.822,20 S RENDA IMPOSTO S/PROPRIEDADE DE VEICULOS 11120500 24.559.519,90
+
+A AUTOMOTORES IMPOSTO S/TRANSM. "C.MORTIS\* E 1112070ęŚš 401.302,30
+
+A DOAÇÃO BENS E DIREITOS TRANSFERÊNCIAS CORRENTES 11.505.682,00 1700000łął S TRANSFERÊNCIAS 11.505.682,00 1720000ął S INTERGOVERNAMENTAIS TRANSFERÊNCIAS DA UNIÃO 17210000/ 11.505.682,00ł S 11.505.682,00 17210100 PARTICIPAÇÃO NA RECEITA DA UNIÃO S COTA-PARTE DO IMPOSTO S/ PROD. 1.746.407,70
+
+17210112 A INDUST. - EST.EXPORTAÇÃO COTA-PARTE DA COMP. FINAN. DE 3.998.304,40
+
+17212211 A RECURSOS HIDRICOS OUTRAS TRANSFERÊNCIAS DA UNIÃO 5.760.969,90
+
+17219900 A 3.227.789,50 OUTRAS RECEITAS CORRENTES 19000000 S 3.227.789,50 MULTAS E JUROS DE MORA 19100000 S 3.227.789,50 MULTAS E JUROS DE MORA DOS 19110000 S TRIBUTOS

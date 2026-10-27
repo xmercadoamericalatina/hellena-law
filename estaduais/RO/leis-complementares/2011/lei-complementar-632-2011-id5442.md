@@ -1,0 +1,42 @@
+---
+titulo: "Lei Complementar nº 632, de 08 de setembro de 2011"
+uf: "RO"
+tipo: "Lei Complementar"
+numero: "632"
+data: 2011-09-08
+ementa: "DÁ NOVA REDAÇÃO E ACRESCENTA DISPOSITIVO À LEI COMPLEMENTAR N° 326, DE 10 DE NOVEMBRO DE 2005, QUE TRATAM DOS SERVIÇOS DE ASSESSORIA E ASSISTÊNCIA TÉCNICA."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE N° 1812"
+fonte: "https://sapl.al.ro.leg.br/norma/5442"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2011/5442/5442_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Complementar nº 632, de 08 de setembro de 2011
+
+GOVERNO DO ESTADO DE RONDÔNIA GOVERNADORIA
+
+LEI COMPLEMENTAR N.632, DE 8 DE SETEMBRO DE 2011.
+
+Dá nova redação e acrescenta dispositivo à Lei Complementar n° 326, de 10 de novembro de 2005, que tratam dos serviços de assessoria e assistência técnica.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
+
+Art. Io. O § 4o do artigo 11 da Lei Complementar n° 326, de 10 de novembro de 2005, que "Dispõe sobre a Estrutura Organizacional da Assembléia Legislativa do Estado de Rondônia e Reestrutura o Quadro de Pessoal e o Plano de Carreiras, Cargos e Remunerações dos seus Servidores e dá outras providências", passa a vigorar com a seguinte redação:
+
+'Art. 11
+
+§ 4o. As Comissões Permanentes, a Ouvidoria Parlamentar e a Corregedoria Parlamentar poderão contar, cada uma, com até 10 (dez) servidores nomeados em cargos de provimento em comissão de Assessor e Assistente Técnico, desde que preencham os requisitos técnicos exigidos para o exercício do cargo, com qualificação correlacionada às competências dos referidos órgãos e o somatório da remuneração bruta com os referidos servidores não ultrapasse o valor mensal estipulado em ato da Mesa Diretora."
+
+**Art. 2o.** Fica acrescentado o § 5o ao artigo 11 da Lei Complementar n° 326, de 2005, com a seguinte redação:
+
+"Art. 11
+
+§ 5o. No caso do Membro da Mesa Diretora acumular a presidência de Comissão Permanente, poderão ser nomeados até 15 (quinze) servidores em cargos de provimento em comissão para prestar assessoramente e assistência à respectiva Comissão e ao gabinete do Membro da Mesa, observado o disposto nos §§ 3o e 4o deste artigo."
+
+**Art. 3o.** As despesas decorrentes desta Lei Complementar correrão por conta de dotações orçamentárias da Assembléia Legislativa.
+
+**Art. 4o.** Esta Lei Complementar entra em vigor na data de sua publicação. Palácio do Governo do Estado de Rondônia, em 8 de setembro de 2011, 123° da República.
+
+CONFÚCIO AIRES MOURA Governador
+
+BLICADO NO DIÁRIO ORCU

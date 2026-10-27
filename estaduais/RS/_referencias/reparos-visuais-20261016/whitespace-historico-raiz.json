@@ -1,0 +1,38 @@
+{
+  "checagem": "git diff --cached --check",
+  "ocorrencias": [
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/antes-ampliacao-integral.md:107: new blank line at EOF.",
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/candidato-integral-rotulo-anterior.md:109: new blank line at EOF.",
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/antes-ampliacao-integral.md:281: new blank line at EOF.",
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/candidato-integral-rotulo-anterior.md:287: new blank line at EOF.",
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/antes-ampliacao-integral.md:655: new blank line at EOF.",
+    "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/candidato-integral-rotulo-anterior.md:673: new blank line at EOF."
+  ],
+  "limite": "Seis linhas finais vazias em snapshots históricos preservados literalmente; nenhum Markdown canônico afetado.",
+  "snapshots": [
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/antes-ampliacao-integral.md",
+      "sha256": "f0857c5e66648907e7e838efbab7f4437c77f4a4e9aced08ef2094ae89367e8b"
+    },
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53894-2018-id64432/candidato-integral-rotulo-anterior.md",
+      "sha256": "ffc6278e2134d351380eb3f812ad7e96cffb21f28476373146627db0afcfe13d"
+    },
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/antes-ampliacao-integral.md",
+      "sha256": "d518b1f5d138654b6e4b65796bd7bafe77427814e5b6bbdce694b798d23f49f3"
+    },
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-53969-2018-id64510/candidato-integral-rotulo-anterior.md",
+      "sha256": "e2ea4d6b83b273f7a46db0662da15deef466dc2fa68519aa0d3ee94522b26c44"
+    },
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/antes-ampliacao-integral.md",
+      "sha256": "c994e2ec1edc61ae1fd33fcea153139bf968a028022b492244200d13109362f8"
+    },
+    {
+      "path": "estaduais/RS/_referencias/reparos-visuais-20261016/dec-54083-2018-id64692/candidato-integral-rotulo-anterior.md",
+      "sha256": "3f571b52e9c2e9836da485522ec114335567df79a1431985f7c2fabb1ef3dbb7"
+    }
+  ]
+}

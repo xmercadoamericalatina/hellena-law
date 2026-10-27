@@ -1,0 +1,236 @@
+---
+titulo: "Lei ordinária nº 4.383, de 25 de setembro de 2018"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "4383"
+data: 2018-09-25
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO, ATÉ O MONTANTE DE R$ 17.752.668.17, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: EPR, SUGESP, SEFIN, RS-SEFIN, UFNESBOM, FUMRESPOM, SEJUCEL, FESA E SEJUS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E Nº 177"
+fonte: "https://sapl.al.ro.leg.br/norma/8559"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2018/8559/8559_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 4.383, de 25 de setembro de 2018
+
+CASA CIVIL - CASA CIVIL
+
+LEI N. 4.383, DE 24 DE SETEMBRO DE 2018.
+
+Autoriza o Poder Executivo a abrir crédito adicional suplementar por anulação, até o montante de R$ 17.752.668,17, em favor das Unidades Orçamentárias: Estado para Resultados - EPR, Superintendência de Gestão dos Gastos Públicos Administrativos - SUGESP, Superintendência Estadual de Gestão de Pessoas - SEGEP, Secretaria de Estado de Finanças - SEFIN, Recursos Sob a Supervisão da Sefin - RS-SEFIN, Fundo Especial do Corpo de Bombeiros Militar - FUNESBOM, Fundo Especial de Modernização e Reaparelhamento da Polícia Militar do Estado - FUMRESPOM, Superintendência da Juventude, Cultura, Esporte e Lazer - SEJUCEL, Fundo Estadual de Sanidade Animal - FESA e Secretaria de Estado da Justiça - SEJUS.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º.** Fica o Poder Executivo autorizado a abrir crédito adicional suplementar por anulação em favor das Unidades Orçamentárias: Estado para Resultados - EPR, Superintendência de Gestão dos Gastos Públicos Administrativos - SUGESP, Superintendência Estadual de Gestão de Pessoas - SEGEP, Secretaria de Estado de Finanças - SEFIN, Recursos sob a Supervisão da Sefin - RS-SEFIN, Fundo Especial do Corpo de Bombeiros Militar - FUNESBOM, Fundo Especial de Modernização e Reaparelhamento da Polícia Militar do Estado - FUMRESPOM, Superintendência da Juventude, Cultura, Esporte e Lazer - SEJUCEL, Fundo Estadual de Sanidade Animal - FESA e Secretaria de Estado da Justiça - SEJUS, até o montante de R$ 17.752.668,17 (dezessete milhões, setecentos e cinquenta e dois mil, seiscentos e sessenta e oito reais e dezessete centavos), para dar cobertura orçamentária às despesas corrente e de capital no presente exercício.
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicadas no Anexo I desta Lei, no montante especificado.
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação.
+
+Palácio do Governo do Estado de Rondônia, em 24 de setembro de 2018, 130º da República.
+
+DANIEL PEREIRA Governador
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 1/8
+
+## ANEXO I
+
+CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO REDUZ
+
+Fonte Código Especificação Despesa de Valor Recurso
+
+SUPERINTENDÊNCIA DE GESTÃO DOS GASTOS PÚBLICOS 560.896,18 ADMINISTRATIVOS - SUGESP
+
+11.009.04.122.1015.2087 3390 0100 105.896,18
+
+4490 0100 70.000,00
+
+ASSEGURAR MANUTENÇÃO DAS 11.009.04.122.1015.2175 UNIDADES E ÓRGÃOS 3390 0100 175.000,00 VINCULADOS
+
+PROMOVER A COMUNICAÇÃO E 11.009.04.131.2071.2172 TRANSMISSÃO DE ATOS E FATOS 3390 0100 70.000,00 DO GOVERNO
+
+DAR APOIO LOGÍSTICO A 11.009.04.131.2071.2173 3390 0100 70.000,00 EVENTOS GOVERNAMENTAIS
+
+4490 0100 70.000,00
+
+DEPARTAMENTO ESTADUAL DE ESTRADAS DE RODAGEM, 75.585,87 INFRAESTRUTURA E SERVIÇOS PÚBLICOS - DER
+
+DESENVOLVIMENTO DA 11.025.26.452.2057.1384 3390 0239 27.305,92 INFRAESTRUTURA URBANA
+
+GERENCIAR TRANSFERÊNCIAS DE 11.025.26.782.1249.2936 4490 0216 48.279,95 RECURSOS
+
+FUNDAÇÃO RONDÔNIA DE AMPARO AO DESENV. DAS AÇÕES CIENT. E TECNOL. E A 221.496,46 PESQ. DO EST DE RONDÔNIA - FAPERO
+
+11.033.19.572.1119.2086 FOMENTO ÀS AÇÕES DE 3350 0100 71.496,46 Í https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 2/8
+
+DESENVOLVIMENTO CIENTÍFICO, TECNOLÓGICO E DE INOVAÇÃO
+
+3390 0100 100.000,00
+
+3390 1100 50.000,00
+
+SECRETARIA DE ESTADO DO PLANEJAMENTO, ORÇAMENTO 8.025.334,68 E GESTÃO - SEPOG
+
+13.001.04.122.1015.2087 3390 0213 7.707.334,68
+
+3390 0100 240.000,00
+
+COORDENAR A IMPLANTAÇÃO DE 13.001.04.122.1277.4013 DESENVOLVIMENTO REGIONAL 3390 0100 48.000,00 DESCENTRALIZADO
+
+APOIAR A GESTÃO DE 13.001.04.122.2041.2077 3390 0100 30.000,00 CONVÊNIOS
+
+SUPERINTENDÊNCIA ESTADUAL DE COMPRAS E LICITAÇÃO - 113.983,69 SUPEL
+
+13.008.04.122.1015.2087 3390 0100 113.983,69
+
+SECRETARIA DE ESTADO DE SEGURANÇA, DEFESA E 240.000,00 CIDADANIA - SESDEC
+
+15.001.06.122.2236.2087 3390 0100 100.000,00
+
+15.001.06.181.2236.2154 3390 0100 140.000,00 OPERACIONAL DA UNIDADE
+
+POLÍCIA CIVIL - PC 234.503,54
+
+15.003.06.181.2020.2154 3390 0100 234.503,54 OPERACIONAL DA UNIDADE
+
+Ê https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 3/8
+
+SUPERINTENDÊNCIA DA 489.036,85 JUVENTUDE, CULTURA, ESPORTE E LAZER - SEJUCEL
+
+16.004.04.122.1015.2087 3390 0100 35.000,00
+
+PROMOVER AÇÕES PARA 16.004.13.392.1215.1051 3390 0100 60.000,00 DESENVOLVIMENTO CULTURAL
+
+GERENCIAR O FUNDO ESTADUAL 16.004.13.392.1215.4023 DE DESENVOLVIMENTO DA 3390 0100 140.000,00 CULTURA - FEDEC
+
+3340 0100 30.000,00
+
+4440 0100 29.036,85
+
+FOMENTAR O PROTAGONISMO 16.004.13.422.1064.2106 3390 0100 50.000,00 JUVENIL
+
+APOIAR ENTIDADES 16.004.27.812.1216.1149 3390 0100 95.000,00 DESPORTIVAS – PRODESP
+
+GERIR OS ESPAÇOS DESPORTIVOS 16.004.27.812.1216.1157 3390 0100 50.000,00 – PROGESP
+
+FUNDAÇÃO CULTURAL DO ESTADO DE RONDÔNIA - 171.948,00 FUNCER
+
+GERENCIAR O MUSEU DA 16.031.13.392.1132.2219 4490 0100 171.948,00 MEMÓRIA RONDONIENSE
+
+SECRETARIA DE ESTADO DO DESENVOLVIMENTO 293.779,08 AMBIENTAL - SEDAM
+
+18.001.04.122.1015.2087 3390 0100 275.031,46
+
+PROMOVER A GESTÃO 18.001.18.541.1075.2164 4490 0232 18.747,62 SOCIOAMBIENTAL SUSTENTÁVEL
+
+SECRETARIA DE ESTADO DA 281.102,07 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 4/8
+
+AGRICULTURA - SEAGRI
+
+19.001.04.122.1015.2087 3390 0100 100.000,00
+
+INCENTIVAR A CADEIA 19.001.20.608.1021.2023 3390 0100 41.102,07 PRODUTIVA AGROPECUÁRIA
+
+APOIAR O DESENVOLVIMENTO 19.001.20.608.2037.2021 4490 1100 140.000,00 DA AGRICULTURA FAMILIAR
+
+FUNDO ESTADUAL DE SANIDADE 4.087.000,00 ANIMAL - FESA
+
+DESENVOLVER PESQUISA 19.014.20.609.1223.1253 CIENTÍFICA E SOLUÇÃO 3390 0240 1.361.000,00 TECNOLÓGICA
+
+4490 0240 524.000,00
+
+GARANTIR O ENFRENTAMENTO 19.014.20.609.1223.2171 DE EMERGÊNCIA SANITÁRIA 3390 0240 288.000,00 ANIMAL
+
+PROMOVER A EDUCAÇÃO EM 19.014.20.609.1223.2467 SAÚDE ANIMAL E A 3390 0240 1.914.000,00 CAPACITAÇÃO CONTINUADA
+
+ENTIDADE AUTÁRQUICA DE ASSISTÊNCIA TÉCNICA E 200.000,00 EXTENSÃO RURAL DO ESTADO DE RONDÔNIA - EMATER
+
+19.025.20.122.2024.2087 3290 0100 200.000,00
+
+SECRETARIA DE ESTADO DA 1.800.000,00 JUSTIÇA - SEJUS
+
+FORNECER ALIMENTAÇÃO PARA 21.001.03.421.1242.2893 3390 0100 1.800.000,00 POPULAÇÃO CARCERÁRIA
+
+SECRETARIA DE ESTADO DA 958.001,75 ASSISTÊNCIA E DO DESENVOLVIMENTO SOCIAL - SEAS https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 5/8
+
+23.001.04.122.1015.2087 3390 0100 280.000,00
+
+PROMOVER POLÍTICAS PÚBLICAS 23.001.08.244.1291.2010 DE IGUALDADES E DIREITOS 3390 0100 150.000,00 HUMANOS
+
+PROMOVER O ACESSO AOS 23.001.08.244.1291.2011 SERVIÇOS DE ATENDIMENTO AO 3390 0100 248.001,75 CIDADÃO
+
+APOIAR A POLÍTICA DE 23.001.08.244.1291.2663 SEGURANÇA ALIMENTAR E 3390 0100 100.000,00 NUTRICIONAL
+
+PROMOVER O ACESSO E/OU 23.001.08.482.1292.2119 MELHORIA DA HABITAÇÃO DE 3390 0100 180.000,00 INTERESSE SOCIAL URBANA
+
+TOTAL R$ 17.752.668,17
+
+## ANEXO II
+
+CRÉDITO ADICIONAL SUPLEMENTAR POR ANULAÇÃO SUPLEMENTA
+
+Fonte Código Especificação Despesa de Valor Recurso
+
+ESTADO PARA RESULTADOS - 1.632.000,00 EPR
+
+PROMOVER A GESTÃO DE T.I. E 11.007.04.126.2041.2752 4490 0213 1.632.000,00 INCLUSÃO DIGITAL
+
+SUPERINTENDÊNCIA DE GESTÃO DOS GASTOS PÚBLICOS 2.000.000,00 ADMINISTRATIVOS - SUGESP
+
+ASSEGURAR MANUTENÇÃO DO 11.009.04.122.1015.2174 4490 0100 1.000.000,00 PALÁCIO RIO MADEIRA E ANEXOS
+
+PROMOVER A PUBLICIDADE DE 11.009.04.122.2071.2555 3390 0100 1.000.000,00 UTILIDADE PÚBLICA
+
+SUPERINTENDÊNCIA ESTADUAL 924.000,00 https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 6/8
+
+DE GESTÃO DE PESSOAS - SEGEP
+
+13.006.04.122.1015.2087 3390 0100 924.000,00
+
+SECRETARIA DE ESTADO DE 5.800.000,00 FINANÇAS - SEFIN
+
+14.001.04.122.1015.2087 3390 0213 4.000.000,00
+
+3390 0100 1.800.000,00
+
+RECURSOS SOB A SUPERVISAO 321.388,22 DA SEFIN - RS-SEFIN
+
+ASSEGURAR RECURSOS PARA 14.002.28.843.0000.0130 3390 0213 275.334,68 PAGAMENTO DO PASEP
+
+3390 0232 18.747,62
+
+3390 0239 27.305,92
+
+FUNDO ESPECIAL DO CORPO DE BOMBEIROS MILITAR - 48.279,95 FUNESBOM
+
+REALIZAR OBRAS E MELHORIAS 15.014.06.182.1243.1275 4490 0216 48.279,95 DE INFRAESTRUTURA
+
+FUNDO ESPECIAL DE MODERNIZAÇÃO E REAPARELHAMENTO DA 140.000,00 POLÍCIA MILITAR DO ESTADO - FUMRESPOM
+
+15.015.06.122.2020.2087 3390 0100 140.000,00
+
+SUPERINTENDÊNCIA DA JUVENTUDE, CULTURA, 1.000.000,00 ESPORTE E LAZER - SEJUCEL
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 7/8
+
+16.004.27.811.1216.1064 IMPLEMENTAR O 3390 0100 1.000.000,00 DESENVOLVIMENTO DO DESPORTO DE RENDIMENTO – PRODER
+
+FUNDO ESTADUAL DE SANIDADE 4.087.000,00 ANIMAL - FESA
+
+CONSTRUIR, AMPLIAR E 19.014.20.609.1223.1196 3390 0240 1.885.000,00 REFORMAR AS UNIDADES
+
+4490 0240 2.202.000,00
+
+SECRETARIA DE ESTADO DA 1.800.000,00 JUSTIÇA - SEJUS
+
+FORNECER ALIMENTAÇÃO PARA 21.001.03.421.1242.2893 3390 0213 1.800.000,00 POPULAÇÃO CARCERÁRIA
+
+TOTAL R$ 17.752.668,17
+
+Documento assinado eletronicamente por Daniel Pereira, Governador, em 24/09/2018, às 19:07, conforme horário oﬁcial de Brasília, com fundamento no caput III, art. 12 do Decreto nº 21.794, de 5 Abril de 2017.
+
+A auten cidade deste documento pode ser conferida no site h p://sei.sistemas.ro.gov.br/sei/controlador\_externo.php? acao=documento\_conferir&id\_orgao\_acesso\_externo=0, informando o código veriﬁcador 3121385 e o código CRC DC3638CD.
+
+Referência: Caso responda esta Lei, indicar expressamente o Processo nº 0005.330365/2018-53 SEI nº 3121385
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento\_imprimir\_web&acao\_origem=arvore\_visualizar&id\_documento=3595325&infr… 8/8

@@ -1,0 +1,58 @@
+---
+titulo: "Lei Ordinária nº 650, de 08 de abril de 2008"
+uf: "RR"
+tipo: "Lei Ordinária"
+numero: "650"
+data: 2008-04-08
+ementa: "Altera o Anexo m da Lei n° 392/03, que dispõe sobre os vencimentos dos Servidores Públicos Efetivos do Quadro Geral de Pessoal do Poder Executivo do Estado de Roraima e dá outras providências."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.rr.leg.br/norma/426"
+arquivo: "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2008/426/lei_no_650_de_08.04.08_-_altera_a_lei_no_392_-_reajuste_salarial_.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 650, de 08 de abril de 2008
+
+Y
+
+GOVERNO DE RORAIMA s
+
+LEI N° 650 DE 8 DE ABRIL DE 2008. 3 sn
+
+Altera o Anexo m da Lei n° 392/03, que dispõe sobre ~ os vencimentos dos Servidores Públicos Efetivos do g Quadro Geral de Pessoal do Poder Executivo do « Estado de Roraimae dá outras providências. g ca
+
+O GOVERNADOR DO ESTADO DE RORAIMA Faço saber que Assembléia Legislativa aprovou e eu sanciono a seguinte Lei:
+
+Art Io Esta Lei concede aos servidores públicos efetivos do Quadro Geral de Pessoal do Poder Executivo do Estado de Roraima, a título de reajuste, o percentual de 10% (dez por cento), para os níveis básico e médio, constantes no Anexo Único, Tabelas A e B, desta Lei.
+
+**Art. 2o** Aos servidores públicos efetivos de nível superior constantes do Anexo Único, Tabela C, parte integrante desta Lei, pertencentes ao Quadro Geral de Pessoal do Poder Executivo do Estado de Roraima, concede-se um reajuste de 35% (trinta e cinco por cento).
+
+Art 3o Os efeitos financeiros desta Lei terão início em Io de abril de 2008.
+
+Art 4o As despesas decorrentes da aplicação desta Lei correrão à conta de dotação orçamentária própria do Poder Executivo.
+
+Art 5oEsta Lei entra em vigor na data de sua publicação.
+
+**Art. 6o** Revogam-se as disposições em contrário.
+
+Palácio Senador Hélio Campos/RR, 8 de abril de 2008.
+
+JOSÉ DE AyC CjUNIt TA JÚNIOR Governador cio E o de Roraima
+
+Praça do Centro Cívico s/n° • CEP: 69.301-380 • Boa Vlsta-RR - Brasil
+
+A)TABELA DE REAJUSTE DE VENCIMENTOS CARGOS DE NÍVEL BÁSICO
+
+ARTÍFICE 3-B CNB 633,63 AUXILIAR ADMINISTRATIVO 2-C CNB 562,65 AUXILIAR DE SERVIÇOS DE SAÚDE 2-C CNB 562,65 AUXILIAR DE SERVIÇOS GERAIS 1-A CNB 470,80 COZINHEIRO 1-A CNB 470^0 GARÇOM 2-C CNB 562,65 MERENDEIRO 1-A CNB 470,80 MOTORISTA 4-D CNB 757,25 OPERADOR DE MÁQUINAS 4-D CNB 757,25 OPERADOR DE RADIO 2-C CNB 562,65 OPERADOR DE USINA DE ASFALTO E PISTA 4-D CNB 757^5 PILOTO PRÁTICO DE NAVEGAÇÃO 3-B CNB 633,63
+
+B) TABELA DE REAJUSTE DE VENCIMENTOS CARGOS DE NÍVEL MÉDIO
+
+AGENTE DE COMUNICAÇÃO SOCIAL 6-A CNM 941,55 AGENTE SÓCIO INSTRUTOR 6-F CNM 1.03934 AGENTE SÓCIO -ORIENTADOR 6-F CNM 1.03934 AGENTE SÓCIO GERIÁTRICO 6-F CNM 1.03934 AUXILIAR DE ENFERMAGEM 6-D CNM 999,17 ALMOXARD7E 5-B CNM 836,07 ASSISTENTE ADMINISTRATIVO 5-B CNM 836,07 DESENHISTA 6-A CNM 94135 ELETROTÉCNICO 6-A CNM 94135 PROGRAMADOR DE MICROCOMPUTADOR 6-A CNM 94135 SECRETARIO DE ESCOLA 5-B CNM 836,07 TÉCNICO LABORATÓRIO DE SOLO 6-A CNM 94135 TÉCNICO EM AGRIMENSURA 6-A CNM 94135 TÉCNICO EM CONTABILIDADE 6-A CNM 94135 TÉCNICO EM EDIFICAÇÕES 6-A CNM 94135 TÉCNICO EM ELETRÔNICA 6-A CNM 94135 TÉCNICO EM ENFERMAGEM 6-F CNM 1.03934 TÉCNICO EM ESTRADAS 6-A CNM 94135 TÉCNICO DE LABORATÓRIO EM ANÁLISE CLÍNICA 6-A CNM 94135 TÉCNICO EM MECÂNICA 6-A CNM 94135 TÉCNICO EM RADIOLOGIA 6-A CNM 94135 TÉCNICO EM REFRIGERAÇÃO 6-A CNM 94135 TÉCNICO EM SECRETARIADO 6-A CNM 94135 TÉCNICO EM SEGURANÇA DO TRABALHO 6-A CNM 94135 TÉCNICO EM COMUNICAÇÕES 6-A CNM 94135 TÉCNICO EM TURISMO 6-A CNM 94135 TOPOGRAFO 6-A CNM 94135
+
+PABX: 0\*\*(95) 3623-1410 • Fax: 0\* k(95) 2121-7926/2121-7930
+
+"Amazônia: Patrimônio dos Brasileiros'
+
+O TABELA DE REAJUSTE DE VENCIMENTOS CARGOS DE NÍVEL SUPERIOR
+
+ADMINISTRADOR U-E CNS 2.501,44 ANALISTA TÉCNICO-JURÍDICO U-E CNS 2501,44 ANALISTA TÉCNICO ADMINISTRATIVO U-E CNS 2301,44 ANALISTA TÉCNICO DE TURISMO U-E CNS 2301,44 ANALISTA DE RECURSOS HUMANOS U-E CNS 2301,44 ANALISTA DE SUPORTE U-E CNS 2301,44 ANALISTA DE SISTEMAS U-E CNS 2301,44 ANALISTA EDUCACIONAL U-E CNS 2301,44 ANALISTA DE COMUNICAÇÃO SOCIAL U-E CNS 2301,44 ANTROPÓLOGO U-E CNS 2501,44 ASSISTENTE SOCIAL U-E CNS 2501,44 BIBLIOTECÁRIO U-E CNS 2301,44 BIÓLOGO U-E CNS 2501,44 BIOMÉDICO U-E CNS 2501,44 BIOQUÍMICO U-E CNS 2301,44 CIRURGIÃO DENTISTA 12-C CNS 2.761,79 CONTADOR U-E CNS 2301,44 ECONOMISTA U-E CNS 2301,44 ENFERMEIRO 12-C CNS 2.761,79 ESTATÍSTICO U-E CNS 2301,44 FARMACÊUTICO U-E CNS 2301,44 FÍSICO U-E CNS 2501,44 FISIOTERAPEUTA U-E CNS 2501,44 FONOAUDIÓLOGO U-E CNS 2301,44 HISTORIADOR U-E CNS 2501,44 INSPETOR DE ENSINO U-E CNS 2501,44 MATEMÁTICO U-E CNS 2301,44 NUTRICIONISTA U-E CNS 2301,44 ORIENTADOR EDUCACIONAL U-E CNS 2301,44 PSICÓLOGO U-E CNS 2301,44 QUÍMICO U-E CNS 2301,44 REVISOR U-E CNS 2301,44 SANITARISTA U-E CNS 2301,44 SECRETARIO EXECUTIVO U-E CNS 2301,44 SECRETARIO EXECUTIVO BILINGÜE U-E CNS 2301,44 SOCIÓLOGO U-E CNS 2301,44 SUPERVISOR ESCOLAR U-E CNS 2301,44 TECNÓLOGO EM ENGENHARIA U-C CNS 2.40431 TÉCNOLOGO EM RADIOLOGIA U-C CNS 2.40431 TERAPEUTA OCUPACIONAL U-E CNS 2301,44

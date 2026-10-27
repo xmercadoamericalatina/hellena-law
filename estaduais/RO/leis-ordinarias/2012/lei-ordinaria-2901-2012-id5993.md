@@ -1,0 +1,116 @@
+---
+titulo: "Lei ordinária nº 2.901, de 03 de dezembro de 2012"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "2901"
+data: 2012-12-03
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR ATÉ O MONTANTE DE R$ 24.042.366,00 EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN E SECRETARIA DE ESTADO DA EDUCAÇÃO - SEDUC."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE 2110"
+fonte: "https://sapl.al.ro.leg.br/norma/5993"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2012/5993/5993_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 2.901, de 03 de dezembro de 2012
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DE 2012. LEIN. 2901 , DE 03 DE DEZEMBRO Autoriza o Poder Executivo a abrir crédito adicional suplementar até o montante de R$ 24.042.366,00 em favor das unidades orçamentárias Departamento Estadual de Trânsito - DETRAN e Secretaria de Estado da Educação - SEDUC.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°** Fica o Poder Executivo autorizado a abrir crédito adicional suplementar para dar cobertura orçamentária às despesas correntes e despesas de capital, no presente exercício até o montante de R$ 24.042.366,00 (vinte e quatro milhões quarenta e dois mil trezentos e sessenta e seis reais), em favor das unidades orçamentárias Departamento Estadual de Trânsito - DETRAN e Secretaria de Estado da Educação - SEDUC.
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicados no Anexo I desta Lei e no montante especificado.
+
+**Art. 3°.** Esta Lei entra em vigor na data de sua publicação. de dezembro de 2012, 124° da Palácio do Governo do Estado de Rondônia, em 03 República. CONFÚCIO AIRES MOURA Governador
+
+## ANEXO I
+
+REDUZ
+
+15.020.04.122.1003.0175 EFETUAR TRANSFERENCIA VOLUNTARIA 3340
+
+2.140.000,00 310.000,00
+
+4440 15.020.06.181.1003.2620 FORMAR, QUALIFICAR E CAPACITAR
+
+147.461,0ł
+
+RECURSOS HUMANOS 30.625,00
+
+21.414.280,0ąźł
+
+2.172.620,00 REALIZAR PAGAMENTO DE DESPESAS DE
+
+16.001.04.122.1015.0114 EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES 543.155,00 16.001.06.122.1015.0114
+
+REALIZAR PAGAMENTO DE DESPESAS DE EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES 16.001.10.122.1015.0114 REALIZAR PAGAMENTO DE DESPESAS DE
+
+543.155,00 EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES 543.155,00 REALIZAR PAGAMENTO DE DESPESAS DE 16.001.12.361.1015.0114
+
+EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES
+
+3.250.135,00 FORMAR, QUALIFICAR E CAPACITAR 16.001.12.363.1063.2963
+
+PROFISSIONAIS DA EDUCACAO 543.155,00 16.001.20.604.1218.0114 REALIZAR PAGAMENTO DE DESPESAS DE
+
+EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES APRIMORAR A GESTAO ADMINISTRATIO- 450.000,00 16.001.12.361.1269.1033
+
+PEGAGOGICA DAS UNIDADES ESCOLARES PROMOVER A EDUCACAO PARA A 16.001.12.362.1269.1036 700.000,00
+
+DIVERSIDADE E DIREITOS HUMANOS FORTALECER A GESTAO E O CONTROLE DO 1.000.000,00 16.001.12.126.1269.2080
+
+DESEMPENHO EDUCACIONAL
+
+200.000,0ął 3350
+
+1.000.000,00
+
+ATENDER A ALUNOS COM NECESSIDADES 500.000,00 16.001.12.367.1269.2742
+
+EDUCATIVAS ESPECIAIS 400.000,00
+
+ATENDER PROFESSORES POR MEIO DE 16.001.12.361.1269.2745 500.000,00
+
+FORMACAO CONTINUADA ASSEGURAR A MANUTENCAO DAS ESCOLAS 3350
+
+600.000,00
+
+DO ENSINO BASICO 10.000,00
+
+PROMOVER A EDUCACAO DE JOVENS E 16.001.12.366.1269.2864
+
+1.950.000,00
+
+ADULTOS
+
+16.001.12.361.1269.2955 1.100.000,00
+
+INFRAESTRUTURA
+
+REALIZAR PAGAMENTO DE DESPESAS DE 16.001.10.301.2023.0114 543.155,0ł EXERCICIOS ANTERIORES, INDENIZACOES E RESTITUICOES
+
+## ANEXO II
+
+SUPLEMENTA
+
+15.020.06.181.1003.1097
+
+2.450.000,00
+
+INFRAESTRUTURA. EQUIPAR E REEQUIPAR O DETRAN 15.020.06.181.1003.2617
+
+178.086,00 21.414.280,0ął
+
+ASSEGURAR A MANUTENCAO ADMINISTRATIVA 3.243.155,00
+
+16.001.12.361.1015.2087
+
+DA UNIDADE
+
+200.000,00
+
+13.310.630,0oł ASSEGURAR A MANUTENCAO DAS ESCOLAS DO
+
+ENSINO BASICO

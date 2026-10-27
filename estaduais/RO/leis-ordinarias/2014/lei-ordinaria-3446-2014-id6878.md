@@ -1,0 +1,124 @@
+---
+titulo: "Lei ordinária nº 3.446, de 15 de setembro de 2014"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "3446"
+data: 2014-09-15
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO SUPLEMENTAR POR ANULAÇÃO ATÉ O MONTANTE DE R$ 19.187.790,00, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: SUPERINTENDÊNCIA ESTADUAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS - SEARH, FUNDAÇÃO DE HEMATOLOGIA E HEMOTERAPIA DO ESTADO - FHEMERON, CENTRO DE EDUCAÇÃO TÉCNICA PROFISSIONAL DA ÁREA DE SAÚDE - CETAS, SECRETARIA DE ESTADO DE JUSTIÇA - SEJUS, SECRETARIA DE ESTADO DE ASSISTÊNCIA SOCIAL - SEAS E FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE 2542"
+fonte: "https://sapl.al.ro.leg.br/norma/6878"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2014/6878/6878_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 3.446, de 15 de setembro de 2014
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N. 3.446 , DE 15 DE SETEMBRO DE 2014. Autoriza o Poder Executivo a abrir crédito suplementar por anulação até o montante de R$ das Unidades 19.187.790,00, em Orçamentárias: Superintendência Estadual de Administração e Recursos Humanos - SEARH, Fundação de Hematologia e Hemoterapia do Estado - FHEMERON, Centro de Educação Tecnica Profissional da Área de Saúde - CETAS, Secretaria de Estado de Justiça - SEJUS, Secretaria de Estado de Assistência Social - SEAS e Fundo Estadual de Assistência Social - FEAS.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA: Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°.** Fica o Poder Executivo autorizado a abrir crédito suplementar por anulação para dar cobertura orçamentária às despesas corrente e de capital no presente exercício, até o montante de R$ 19.187.790,00 (dezenove milhões, cento e oitenta e sete mil, setecentos e noventa reais), em favor das Unidades Orçamentárias: Superintendência Estadual de Administração e Recursos Humanos - SEARH, Fundação de Hematologia e Hemoterapia do Estado - FHEMERON, Centro de Educação Técnica Profissional da Área de Saúde - CETAS, Secretaria de Estado de Justiça - SEJUS, Secretaria de Estado de Assistência Social - SEAS e Fundo Estadual de Assistência Social - FEAS.
+
+**Art. 2º.** Os recursos necessários à execução do disposto do artigo anterior decorrerão de anulação parcial de dotações orçamentárias, indicados no Anexo I desta Lei e no montante especificado.
+
+**Art. 3°.** Esta Lei entra em vigor na data de sua publicação. de setembro de 2014, 126° da República. Palácio do Governo do Estado de Rondônia, em 15 CONFÚCIO AIRES MOURA Governado
+
+## ANEXO I
+
+REDUZ
+
+SECRETARIA DE ESTADO DO PLANEJAMENTO, 15.728.889,3ł ORÇAMENTO E GESTÃO - SEPOG DESENVOLVER POLÍTICAS PÚBLICAS 13.001.04.121.2015.2079
+
+868.000,00 GERENCIAR PROGRAMAS GOVERNAMENTAIS 13.001.04.121.2015.2170 32.000,00
+
+DESENVOLVER ESTUDOS E PESQUISAS 13.001.04.121.2015.2680 450.000,00
+
+13.001.04.122.2015.207zł APOIAR A GESTÃO DE CONVÊNIOS 200.000,00
+
+1.015.730.3
+
+3.077.104,00
+
+COORDENAR A IMPLANTAÇÃO DE 13.001.04.122.2015.4013 DESENVOLVIMENTO REGIONAL
+
+3.000.000,00
+
+DESCENTRALIZADO APLICAR RECURSOS PROVENIENTES DE 13.001.04.122.2050.1193ł 5.000.000.00
+
+CONVÊNIOS
+
+PROMOVER A PUBLICIDADE INSTITUCIONAL 13.001.04.131.1015.2554 100.000,00
+
+13.001.19.573.2015.297łź APOIAR A POLÍTICA DE C.T & 1 DO ESTADO 218.000,00
+
+520.000,00
+
+2.321.853,00
+
+23.001.04.131.1015.2554 PROMOVER A PUBLICIDADE INSTITUCIONAL 1.500.000,00
+
+IMPLEMENTAR A POLÍTICA DE SEGURANÇA 23.001.08.244.1121.2038 538.120,00
+
+ALIMENTAR E NUTRICIONAL IMPLEMENTAR POLÍTICAS DE PROTEÇÃO DA 175.653,00
+
+23.001.08.244.1121.2043 INFÂNCIA E ADOLESCÊNCIA REALIZAR ESTUDOS. PESQUISAS E 58.080.00
+
+23.001.08.244.1277.2060 DIAGNÓSTICOS RELATIVO NA ÁREA SOCIAL
+
+1.137.047,61
+
+FORTALECER OS ORGANISMOS DE CONTROLE 53.710,00
+
+23.012.08.244.2042.2083 SOCIAL
+
+61.391.00ł 3340
+
+23.012.08.244.2042.2084 BÁSICA 361.390.00 4440
+
+73.669.00 3340
+
+64.416.31
+
+CO-FINANCIAR PROGRAMAS E PROJETOS 287.552.00
+
+3340 23.012.08.845.2042.1025 SOCIOASSISTENCIAIS
+
+3350 234.919.30
+
+TOTAL R$ 19.187.790,00
+
+## ANEXO II
+
+SUPLEMENTA
+
+SUPERINTENDÊNCIA ESTADUAL DE 2.622.538,00 ADMINISTRAÇÃO E RECURSOS HUMANOS - SEARH 13.006.04.128.1277.2070 2.622.538.00
+
+GESTÃO DE PESSOAS FUNDAÇÃO DE HEMATOLOGIA E 986.768,ął HEMOTERAPIA DO ESTADO - FHEMERON ASSEGURAR A MANUTENÇÃO ADMINISTRATIVA
+
+986.768.00 17.032.10.303.1015.2087
+
+DA UNIDADE CENTRO DE EDUCAÇÃO TECNICA 400.000,00 PROFISSIONAL DA ÁREA DE SAÚDE - CETAS ASSEGURAR A MANUTENÇÃO ADMINISTRATIVA
+
+400.000.00 17.033.10.122.1015.2087
+
+DA UNIDADE 6.656.179,00 SECRETARIA DE ESTADO DE JUSTIÇA - SEJUS FORNECER ALIMENTAÇÃO PARA POPULAÇÃO 2.000.000,00
+
+21.001.06.122.1015.2893ł CARCERÁRIA ASSEGURAR O FUNCIONAMENTO DAS UNIDADES
+
+4.656.179.00 21.001.06.421.1242.2953 PRISIONAIS
+
+7.274.250,00
+
+ASSEGURAR A MANUTENÇÃO ADMINISTRATIVA 1.301.943,00
+
+23.001.04.122.1015.2087 DA UNIDADE APOIAR AS POPULAÇÕES TRADICIONAIS E 200.000.0ął
+
+23.001.08.244.1121.2047 RIBEIRINHOS APOIAR E IMPLEMENTAR OS SERVIÇOS DE
+
+2.492.914,00ł 23.001.08.244.1121.2048 ATENDIMENTO AO CIDADÃO 1.229.393,00
+
+2.000.000.00 4420
+
+R$ 19.187.790,00 TOTAL

@@ -1,0 +1,150 @@
+---
+titulo: "Lei Ordinária nº 57, de 10 de dezembro de 1993"
+uf: "RR"
+tipo: "Lei Ordinária"
+numero: "57"
+data: 1993-12-10
+ementa: "Autoriza o Poder Executivo a abrir créditos adicionais até o limite de Cr$ 1.114.000.000,00 (um bilhão, cento e quatorze milhões de cruzeiros reais) e dá outras providências."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.rr.leg.br/norma/554"
+arquivo: "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/1993/554/lei_no_057_de_10.12.93.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 57, de 10 de dezembro de 1993
+
+OVERNO DO ESTADO DE RORAIMA
+
+057 DE 10 DE DEZEMBRO DE 1993.
+
+AUTORIZA O PODER EXECUTIVO A ABRIR CRÉ DITOS ADICIONAIS ATÉ O LIMITE DE CR$ 1.114.000.000,00 (UM BILHÃO, CENTO E QUATORZE MILHÕES DE CRUZEIROS REAIS) E DÁ OUTRAS PROVIDÊNCIAS.
+
+CJ
+
+O GOVERNADOR DO ESTADO DE RORAIMA, faço saber que a Assem bléia Legislativa do Estado aprovou e eu sanciono a seguinte LEI:
+
+**Art. 12** - Fica o Poder Executivo autorizado a abrir crédi tos suplementares a Lei Orçamentária Anual do Estado de Roraima (Lei na 032, de 31.12.92) até o limite de Cr$ 1.114.000.000,00 (UM BILHÃO, CENTO E QUATORZE MILHÕES DE CRUZEIROS REAIS) para atender a programa ção constante de ANEXO I, nos valores ali indicados. I
+
+Art. 2S - Os recursos necessários ao atendimento dos cre- ditos autorizados nos artigos anteriores correrão à conta do previs- to no Art. 43, II e III da Lei na 4.320, de 17.03.64.
+
+**Art. 32** - Esta lei entrará em vigor na data de sua publi\_ cação.
+
+Palácio Senador Hélio Campos-RR, 10 de Dezembro de 1993.
+
+C
+
+OTTOMAR DE S0US# PINTO Governador do Estad& de Roraima
+
+TABELA
+
+ESTADO OE R0RA1KA CRÍDI10S ADICIONAIS POR ÓRGÃO - 1993
+
+ÓRGÍ 0 VALOR EH Cftt 1.00 X
+
+01. PODER LEGISLATIVO 90.000.000 8.07 1.1 ASSEHBLÉIA LEGISLATIVA 90.000.000
+
+SUBTOTAL 90.000.000 8,07
+
+6 P. 6 A 0 VALOR EM CR\* 1,00 X
+
+03. PODER EXECUTIVO 1.024.000.000 91,93
+
+3.3 SECRETARIA DE ESTADO DO PLANEJAKEHIO 100.000.000 8,98 3.4 SECRETARIA DE ESTADO DA EDUCAÇÃO 18^000.000 16,52 3.5 SECRETARIA DE ESTADO DE OBRAS S^ 74(UÍ&fcOD0 66,43
+
+SUBTOTAL \ 1.024.000.000 91.93
+
+TOTAL GERAL lh 1.114.000.000 100,00
+
+CREDITO SUPLEMENTAR RECURSOS DO TESOURO FONTE: 000-RECURSOS ORDINÁRIOS
+
+PROGRAMA DE TRABALHEI
+
+ANEXO A LEI No. 057 S0PLEMENTACAO
+
+CÓDIGO ESPECIFICAÇÃO ATIVIDADES TOTAL
+
+01000 ASSEMBLÉIA LEGISLATIVA DO 90.000.000
+
+ESTADO 01001 ASSEMBLÉIA LEGISLATIVA DO 90.000.000 ESTADO
+
+01001.01010012.030 0000 90.000.000 ATIVIDADES LEGISLATIVAS 01001.01010012.030 0001 90.000.000 ATIVIDADES LEGISLATIVAS NATUREZA DA DESPESA OUTRAS DESPESAS CORRENTES 90.000.000
+
+90.000.000 90.000.000
+
+CREDITO SUPLEMENTAR i RECURSOS DO TESOURO -:-:-:-:-:^:^:-:-:^:^:-:-:-:-: •x::-:-:-x:x:x:x:::::
+
+£:£:•:•:•:•:•:•:•:•:•:•:•:•:•:•:• :x:x: 1 :£:£:£:;•;:£ FONTE: 000-RECURSOS ORDINÁRIOS r^EiE^E^r^E^ztE^z^E^Eír^z^r^r^í^E^ZrE^r^r^r^r^i^r^r^z^i^r^rx- ::::::::::::::::::::::::::::::::: :::::::: PROGRAMA DE TRABALHCllilillj '•:'•:'•:'•:'• x::: :::::::::::::::::::::::::::::::: My!'!v!v!;!;!;Xv!;4V :£x£x£x-:-x£x
+
+ANEXO A LEI No. 057 x%\* ::X;:x':x£x SUPLEMENTACAO
+
+CÓDIGO ESPECIFICAÇÃO PROJETOS ATIVIDADES TOTAL .;.;.;.;.;.;.;.;.;.;.;.;.;. 21000 SECRETARIA DE ESTADO DE OBRAS :x$:$:£:$:£:-:£: 190.000.000 ••••••.\*.\*•\*•••\*.\*•\*•••\*•\*•" E SERVIÇOS PÚBLICOS x:x:x:::::::::::x:x" :X;X:'x'x':'x-:'x'x SECRETARIA DE ESTADO DE OBRAS ::X:X;X;X;X:X::; 190.000.000 21001 E SERVIÇOS PÚBLICOS :•:•:•:•:•:-:•:•:•:•:•;•:'•; x;X;:;X:"'x:x:::::x :°%::°x"::x:x:x':'x::v
+
+21001.09S12631.043 0000 •.-:•:•:•:•:•:•:•:•:•:•:•:•: 0
+
+CONSTRUÇÃO DE PEQUENA CENTRAL ';°;X;Xx-x"x-X\*: X:\*x'.:':":-x::-:-:-:": :::::::::::::::::x:::::x:::: HIDRELÉTRICA NO RIO JATAPU \:y\:\\\:]:yy:yy::y]: xx'xxxj:;x;:j:;:;:; :::::i:i::'i::'i-i:i:i'i'x-:-:: 21001.09512631.043 0001 •x^x-xx^x-x^x :x:x:::::::::::::::]:::x' 0 •.•.yyyy.-r.yyyy^. \*.".\*.•."•\*•\*•\*•\*\*•\*\*•'.•♦••"■'•i CONSTRUÇÃO DE PEQUENA CENTRAL \*m\*X"X\*x\*X"\*'X"X
+
+HIDRELÉTRICA NO RIO JATAPU •lyyyyyyyyyyyy. \*x\*x,x\*x,x\*x\*x\*t
+
+XX\*X"X\*X"X'X\* .".\*.\*.\*.•.\*.\*.•.\*.\*.\*.\*.".\*.\* NATUREZA DA DESPESA ^XXZ^Í^\ ::•:•:•:•:•:•:•:•:•:•:•:•:•'.• INVESTIMENTOS
+
+21001.16885371.019 0000 190.000.000 ! :•:":•:-:•:•:->>:•:•:•:•:• CONSTRUÇÃO E RECUPERAÇÃO DE W^^íMi ESTRADAS X;X;X:-:-:-:—:':::: jx;:;x#j:::x:£:x": 21001.16885371.019 0001 y^ ^\ :•:•:•:•:•:•:•:•:•:•:•:•:•: x':i:::::::x:::x::t::x: •X\*X'X\*X\*X\*X\*X|X; CONSTRUÇÃO E RECUPERACA^DE :'-x:::::::::::::x:::x: X;X:X:X:X:X:Xx ESTRADAS \ NATUREZA DA DESPESA \ OUTRAS DESPESAS CORRENTES V x:x:x::;::::::x::::
+
+INVESTIMENTOS X 190.000.000 f TOTAL .... .V 190.000.000 190.000.000
+
+ANEXO CR$1,00 PWWWWfWWW CREDITO SUPLEMENTAR RECURSOS DO TESOURO FONTE: 000-RECURSOS ORDINÁRIOS
+
+PROGRAMA DE TRABALHO!
+
+ANEXO A LEI No. ^57 SUPLEMENTACAO
+
+CÓDIGO ESPECIFICAÇÃO PROJETOS ATIVIDADE? TOTAL
+
+15000 SECRETARIA DE ESTADO DO PLANE- 100.000.000 •^ • iii
+
+JAMENTOtINDUSTRIA E COMERCIO 16001 SECRETARIA DE ESTADO DO PLANE 100.000.000 i i \* i » \*.'.'.'
+
+•^•A-MU^i JAMENTO, INDUSTRIA E COMERCIO 16001.03070311.050 0000 100.000.000 • m i i i • i '
+
+CONTRIBUIÇÃO AO FUNDO DE DESENVOLVIMENTO ECONÔMICO SOCIAL DO ESTADO DE RORAIMA 16001.03070311.050
+
+CREDITO SUPLEMENTAR RECURSOS DO TESOURO FONTE : 001-FUNDO DE PARTICIPAÇÃO DOS ESTADOS
+
+PROGRAMA DE TRABALHO!
+
+ANEXO A LEI No. 057 SUPLEMENTACAO
+
+CÓDIGO ESPECIFICAÇÃO PROJETOS ATIVIDADES TOTAL
+
+21000 SECRETARIA DE ESTADO DE OBRAS 550.000.000 E SERVIÇOS PÚBLICOS 21001 SECRETARIA DE ESTADO DE OBRAS 550.000.000 E SERVIÇOS PUBUCOS 21001.09512631.043 0000 550.000.000
+
+u u n a i t i u t A U u t rtt<utiwA \ . t w i rtMt.
+
+HIDRELÉTRICA NO RIO JATAPU 21001.09512631.043 0001 550.000.000
+
+CONSTRUÇÃO DE PEQUENA CENTRAL HIDRELÉTRICA NO RIO JATAPU NATUREZA DA DESPESA INVESTIMENTOS 550.000.000 21001.16885371.019 0000 CONSTRUÇÃO E RECUPERAÇÃO DE
+
+RECUPERAÇÃO DE 'l\*!'!\*!\*!\*^^\*^^^^^»\*
+
+\*\*\*^i|i,i'í,í,i,ii \*^l'i,<,¥\*¥\*»-T\*lMíiÉl-\*
+
+MÉÉAMMÉÉÉMÉOÉM
+
+550.000.000
+
+» \*
+
+remiTO SUPLEMENTAR RECURSOS DO TESOURO FONTE : 001-FUNDO DE PARTICIPAÇÃO DOS ESTADOS ^
+
+P R O G R A M A DE TRABALHO
+
+ANEXO A LEI No. 057 SUPLEMENTACAO
+
+CÓDIGO ESPECIFICAÇÃO PROJETOS ATIVIDADES TOTAL
+
+17000 SECRETARIA DE ESTADO DA 184.000.000 EDUCAÇÃO 17001 SECRETARIA DE ESTADO DA 184.000.000 EDUCAÇÃO 17001.08421881.008 0000 80.000.000 DESENVOLVIMENTO DO ENSINO FUNDAMENTAL 17001.08421881.008 0001 80.000.000 CONTRUCAO E MELHORIA DE UNIDA DES DE ENSINO DE PRIMEIRO GRAU NATUREZA DA DESPESA OUTRAS DESPESAS CORRENTES INVESTIMENTOS 80.000.000 17001.08421882.010 0000 34.000.000 COORDENAÇÃO E MANUTENÇÃO DO ENSINO FUNDAMENTAL 17001.08421882.010 0001 34.000.000 COORDENAÇÃO E MANUTENÇÃO DO ENSINO DE PRIMEIRO GRAU NATUREZA DA DESPESA PESSOAL E ENCARGOS SOCIAIS OUTRAS DESPESAS CORRENTES 34.000.000 INVESTIMENTOS ^^•\*^^"\*^^^^^-^T^^^ •hrfv^^^Mv^ria^M^^^^^^^
+
+17001.08482471.022 0000 70.000.000 ^^^P^»^^¥ • I '
+
+DESENVOLVIMENTO DO SETOR •;•;•;•;.;•; CULTURAL •^i^\*i\*^^\*w\*«\*^f
+
+17001.08482471.022 0001 DESENVOLVIMENTO DO SETOR

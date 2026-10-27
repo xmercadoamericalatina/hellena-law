@@ -1,0 +1,82 @@
+---
+titulo: "Lei ordinária nº 418, de 30 de junho de 1992"
+uf: "RO"
+tipo: "Lei Ordinária"
+numero: "418"
+data: 1992-06-30
+ementa: "CRIA CARGOS EFETIVOS, CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS COM OS VENCIMENTOS MENSAIS CORRESPONDENTES DA FUNDAÇÃO DE AMPARO AO MENOR CARENTE E AÇÃO SOCIAL DE RONDÔNIA, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O nº 2565, 02/07/92errata D."
+fonte: "https://sapl.al.ro.leg.br/norma/941"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/1992/941/941_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei ordinária nº 418, de 30 de junho de 1992
+
+LEI NQ 41! 30 DE JUNHO DE 1992. 1 Cria cargos efetivos, cargos em comissão e funções gratificadas com os vencimentos mensais cor
+
+respondentes da Fundação de Am paro ao Menor Carente e Ação So ciai de Rondônia, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA , faço saber que a Assembléia Legislativa decreta e eu sanciono a se guinte Lei:
+
+Art. 1Q - Ficam criados os cargos efetivos, cargos em comissão e funções gratificadas com os vencimen tos mensais correspondentes da Fundação de Amparo ao Menor Carente e Ação Social de Rondônia, de conformidade com os Anexos I, II e III a esta Lei.
+
+Art. 2Q - As gratificações e os sala rios mencionados no art. 1°, serão reajustados no mesmo período e Índices da Administração Direta do Estado. Art. 3Q - As despesas decorrentes da aplicação desta Lei, correrão â conta da dotação orçamentária pró pria, suplementada, se necessário.
+
+Art. 4Q - Esta Lei entra em vigor na data de sua publicação.
+
+Revogam-se as disposições em contrário.
+
+Governo do Estado de Ron
+
+dônia, em 30 de junho ° da República.
+
+OSWALDX) PIANA FILHO
+
+>vernador
+
+V ^ ri? rtf
+
+l |g | | Q I
+
+CARGOS EM COMISSÃO
+
+VENCIMENTO GRATIFI GRATIF.DE QUANT. CARGOS TOTAL BÃSICO CAÇÃO REPRES.
+
+01 PRESIDENTE 497.971,00 150% 222% 2.350.422,00 01 DIRETOR EXECUTIVO 398.376,99 150% 222% 1.880.334,00 04 DIRETOR DE DEPARTAMENTO 273.104,00 150% 682.760,00 01 ASSESSOR JURÍDICO 273.104,00 150% 682.760,00 01 CHEFE DE GABINETE 246.194,00 150% 615.485,00 05 ASSESSOR I 246.194,00 150% 615.485,00 09 DIRETOR DE DIVISÃO 229.450,00 150% 573.625,00 01 CHEFE DE CONTROLE INTERNO 229.450,00 150% 573.625,00
+
+s^s
+
+## ANEXO II
+
+FUNÇÕES GRATIFICADAS
+
+QUANT. FUNÇÕES SÍMBOLO VALOR
+
+12 CHEFE DE ESCRITÓRIO REGIONAL FG.6 154.639,00 17 CHEFE DE GRUPO TÉCNICO FG.6 154.639,00 05 CHEFE DE SEÇÃO FG.6 154.639,00 02 SECRETÁRIA DE GABINETE I FG.5 127.351,00 03 ASSISTENTE I FG.5 127.351,00 06 ASSISTENTE II FG.4 100.060,00 02 MOTORISTA DE GABINETE I FG.3 72.772,00 02 SECRETÁRIA DE GABINETE II FG.2 54.579,00 04 MOTORISTA DE GABIN] FG.l 36.386,00
+
+\*\*\*
+
+â 1 I I Q íil
+
+QUADRO DE CARGOS EFETIVOS
+
+GRUPO: OCUPAÇÕES PROFISSIONAIS - CÓDIGO: OP-100
+
+NÍVEL SUPERIOR CÓDIGO QUANT. VENCIMENTO
+
+ASSISTENTE JURÍDICO OP-101 01 410.0 00,00 ASSISTENTE SOCIAL OP-102 04 410.0 00,00 BIBLIOTECÁRIO OP-103 01 410.0 00,00 CONSULTOR TÉCNICO OP-104 03 410.0 00,00 CONTADOR Op-105 01 410.0 00,00 NUTRICIONISTA OP-106 01 410.0 00,00 PSICÓLOGO OP-107 06 410.0 00,00 TÉCNICO EM COMUNICAÇÃO SOCIAL OP-108 01 410.0 00,00 RETAPEUTA OCUPACIONAL OP-109 02 410.0 00,00
+
+GRUPO: OCUPAÇÕES ADMINISTRATIVAS E DE SERVIÇOS - CÓDIGO: OAS-200
+
+NÍVEL MÉDIO -2° GRAU CÓDIGO QUANT VENCIMENTO
+
+TÉCNICO EM ENFERMAGEM OAS- •201 10 180.000,00 TÉCNICO EM HIGINE DENTAL OAS- •202 02 180.000,00 TÉCNICO EM FONOAUDIOLOGIA OAS- •203 01 180.000,00 TÉCNICO EM TERAPIA OCUPACIONAL OAS- •204 03 180.000,00 TÉCNICO EM NUTRIÇÃO E DIETÉTICA OAS- •205 02 180.000,00 PROGRAMADOR DE SISTEMAS OAS- •206 01 180.000,00 AGENTE DE SERVIÇO SOCIAL OAS- •207 06 180.000,00 ASSISTENTE ADMINISTRATIVO OAS- •208 18 180.000,00 AGENTE DE SERVIÇOS DE SAÚDE OAS- •209 05 180.000,00
+
+NÍVEL MÉDIO - 1Q GRAU CÓDIGO QUANT VENCIMENTO
+
+OPERADOR OAS-210 01 130.000,00 RECEPCIONISTA OAS-211 02 130.000,00 TELEFONISTA OAS-212 03 130.000,00 AGENTE DE PORTARIA OAS-213 04 130.000,00 DATILOGRAFO OAS-214 03 130.000,00 AUXILIAR DE FARMÁRCIA OAS-215 02 130.000,00
+
+NÍVEL ELEMENTAR CÓDIGO QUANT VENCIMENTO
+
+AUXILIAR DE SERV. Dl OAS-216 20 120.000,00 MOTORISTA OAS-217 04 120.000,00
