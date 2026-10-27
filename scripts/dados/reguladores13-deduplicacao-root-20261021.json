@@ -1,0 +1,100 @@
+{
+  "duplicatas_retiradas": 13,
+  "edicoes_distintas_removidas": 0,
+  "criterio": "Cada par tem bytes integralmente idênticos, mesma fonte oficial, órgão e edição. Conservado o caminho do órgão específico (AGU, CFC ou PGFN), conforme identificação literal. Todas as preimagens conferidas com HEAD antes da retirada; arquivos íntegros preservados no histórico gzip e Git. Grupos só por número/data não autorizam deduplicação. Nenhum ato diferente ou republicação diferente foi removido.",
+  "arquivos": [
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-agu-n-50-de-26-de-janeiro-de-2026-683622992.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-agu-n-50-de-26-de-janeiro-de-2026-683622992.md",
+      "sha256_md_identico": "f0bdf8c01f0a8696b9ccc5e8bc63bf8aa00914068bc4555973604922336830b4",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-agu-n-50-de-26-de-janeiro-de-2026-683622992",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-agu-n-52-de-28-de-janeiro-de-2026-684129393.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-agu-n-52-de-28-de-janeiro-de-2026-684129393.md",
+      "sha256_md_identico": "6c860e6bbf97239df33951ce3db9edfcef5821b5a8af1d1b2a7fd569fc101c83",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-agu-n-52-de-28-de-janeiro-de-2026-684129393",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-679842273.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-679842273.md",
+      "sha256_md_identico": "7cec8af152f7d623ed1b5c6a0df9dd7beee8103cbf1016eef914958cd396ef77",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-agu-n-721-de-30-de-dezembro-de-2025-679842273",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-679871479.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-679871479.md",
+      "sha256_md_identico": "6873987ba6e8846fe8335f37257ac4a6281f64a39b12176bef00308099701090",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-agu-n-721-de-30-de-dezembro-de-2025-679871479",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-680124926.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-agu-n-721-de-30-de-dezembro-de-2025-680124926.md",
+      "sha256_md_identico": "7380d5d48b329c730a342d54c4783313d98576a58d655d704d0786955d0ffab6",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-agu-n-721-de-30-de-dezembro-de-2025-680124926",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-normativa-agu-n-205-de-31-de-dezembro-de-2025-679022773.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-normativa-agu-n-205-de-31-de-dezembro-de-2025-679022773.md",
+      "sha256_md_identico": "14603d0b39edfdd0e17bc1d2b75ea71021f675fd4e4cfd74c89c0ffb0a032862",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-normativa-agu-n-205-de-31-de-dezembro-de-2025-679022773",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-normativa-agu-n-206-de-15-de-janeiro-de-2026-681420006.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-normativa-agu-n-206-de-15-de-janeiro-de-2026-681420006.md",
+      "sha256_md_identico": "876e6013341751ddda03657464b1e7878a51e4565692ca24a9bf180260682baa",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-normativa-agu-n-206-de-15-de-janeiro-de-2026-681420006",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-normativa-cgau-agu-n-17-de-8-de-janeiro-de-2026-680130561.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-normativa-cgau-agu-n-17-de-8-de-janeiro-de-2026-680130561.md",
+      "sha256_md_identico": "796abd6ccb358cbcfdd4b5deddc676748f7d9a41e11ce3fdcfb855fa95719946",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-normativa-cgau/agu-n-17-de-8-de-janeiro-de-2026-680130561",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União/Corregedoria-Geral"
+    },
+    {
+      "removido": "reguladores/presidencia/portarias/2026/portaria-sgcs-agu-n-20-de-13-de-janeiro-de-2026-681161898.md",
+      "canonico": "reguladores/agu/portarias/2026/portaria-sgcs-agu-n-20-de-13-de-janeiro-de-2026-681161898.md",
+      "sha256_md_identico": "a7efa8acd7e4e4435d3ef181d310b907aefe82def40499202b084f040f6ea760",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-sgcs/agu-n-20-de-13-de-janeiro-de-2026-681161898",
+      "orgao_literal": "Presidência da República/Advocacia-Geral da União/Secretaria-Geral de Consultoria"
+    },
+    {
+      "removido": "reguladores/conselhos-profissionais/resolucoes/2026/resolucao-cfc-n-1.780-de-11-de-dezembro-de-2025-681151682.md",
+      "canonico": "reguladores/cfc/resolucoes/2026/resolucao-cfc-n-1.780-de-11-de-dezembro-de-2025-681151682.md",
+      "sha256_md_identico": "63affac034762cea577312ee7eae4334605dd7f13a20cc9b33c4d75c32e8efd1",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-cfc-n-1.780-de-11-de-dezembro-de-2025-681151682",
+      "orgao_literal": "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Contabilidade"
+    },
+    {
+      "removido": "reguladores/fazenda/portarias/2026/portaria-pgfn-mf-n-216-de-27-de-janeiro-de-2026-683618738.md",
+      "canonico": "reguladores/pgfn/portarias/2026/portaria-pgfn-mf-n-216-de-27-de-janeiro-de-2026-683618738.md",
+      "sha256_md_identico": "10177523b0628adea9472f1733f6cc7c1571fd59595f4549a89557518f27b375",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-pgfn-mf-n-216-de-27-de-janeiro-de-2026-683618738",
+      "orgao_literal": "Ministério da Fazenda/Procuradoria-Geral da Fazenda Nacional"
+    },
+    {
+      "removido": "reguladores/fazenda/portarias/2026/portaria-prfn2-mf-n-3.064-de-8-de-outubro-de-2026-738048116.md",
+      "canonico": "reguladores/pgfn/portarias/2026/portaria-prfn2-mf-n-3.064-de-8-de-outubro-de-2026-738048116.md",
+      "sha256_md_identico": "cf8e813e82a41bc2c57088eaa48c9df857b0291a48a27b011b68b763f19d398d",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-prfn2/mf-n-3.064-de-8-de-outubro-de-2026-738048116",
+      "orgao_literal": "Ministério da Fazenda/Procuradoria-Geral da Fazenda Nacional/Procuradoria Regional da Fazenda Nacional na 2ª Região"
+    },
+    {
+      "removido": "reguladores/fazenda/portarias/2026/portaria-prfn3-mf-n-3.245-de-29-de-dezembro-de-2025-680674822.md",
+      "canonico": "reguladores/pgfn/portarias/2026/portaria-prfn3-mf-n-3.245-de-29-de-dezembro-de-2025-680674822.md",
+      "sha256_md_identico": "44f5376a45ec03c1c6ecfcf56cc528d1ab26569ad8a4c80f6af3697042d639bf",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-prfn3/mf-n-3.245-de-29-de-dezembro-de-2025-680674822",
+      "orgao_literal": "Ministério da Fazenda/Procuradoria-Geral da Fazenda Nacional/Procuradoria Regional da Fazenda Nacional na 3ª Região"
+    }
+  ],
+  "historico": "reguladores/_fonte/auditorias/duplicatas13-historico-root-20261021.jsonl.gz",
+  "sha256_historico": "8d32999f05f688bbf3baf777d70d9f900da53f37b020bf8a9e72cd233c0b2540"
+}

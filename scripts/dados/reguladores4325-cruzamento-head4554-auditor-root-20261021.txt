@@ -1,0 +1,17 @@
+from pathlib import Path
+import json,hashlib,subprocess,gzip,sys
+sys.path.insert(0,'scripts')
+from gates_reguladores_cache import chave
+from auditar_cache_dou import meta_corpo
+sha=lambda b:hashlib.sha256(b).hexdigest();head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();prior=json.loads(Path('/tmp/reguladores4554-hashes-20261021.json').read_text());new=json.loads(Path('/tmp/reguladores4325-hashes-20261021.json').read_text());ps=[p for p in prior if p.startswith('reguladores/') and '/_' not in p and p.endswith('.md')];assert len(ps)==4554
+proc=subprocess.Popen(['git','cat-file','--batch'],stdin=subprocess.PIPE,stdout=subprocess.PIPE);rows=[];keys={};urls={}
+for p in ps:
+ proc.stdin.write((head+':'+p+'\n').encode());proc.stdin.flush();hh=proc.stdout.readline().split();assert len(hh)==3 and hh[1]==b'blob';raw=proc.stdout.read(int(hh[2]));assert proc.stdout.read(1)==b'\n';assert sha(raw)==prior[p];m,_=meta_corpo(raw.decode());meta={k:m.get(k) for k in ['orgao','tipo','numero','data','fonte']};k=chave(meta,p);keys[k]=p;urls[meta['fonte']]=p;rows.append({'path':p,'oid':hh[0].decode(),'sha256_md':sha(raw),'meta':meta})
+proc.stdin.close();assert proc.wait()==0
+held=[];n=0
+for p,s in new.items():
+ if not(p.startswith('reguladores/') and '/_' not in p and p.endswith('.md')):continue
+ raw=Path(p).read_bytes();assert sha(raw)==s;m,_=meta_corpo(raw.decode());k=chave(m,p);u=m['fonte'];n+=1
+ if k in keys or u in urls:held.append({'path':p,'sha256_md':s,'coincidencia':keys.get(k) or urls.get(u)})
+assert n==4325
+cache=Path('reguladores/_indice/auditoria-headers/head4554-suplemento-20261021.json.gz');assert not cache.exists();cache.write_bytes(gzip.compress(json.dumps({'head':head,'documentos':rows},ensure_ascii=False,separators=(',',':')).encode(),mtime=0));proof=Path('scripts/dados/reguladores4325-cruzamento-head4554-root-20261021.json');assert not proof.exists();proof.write_text(json.dumps({'head':head,'novos_conferidos':n,'cabecalhos_HEAD_adicionais':4554,'colisoes':held,'cache':str(cache),'sha256_cache':sha(cache.read_bytes()),'criterio':'Complemento da baseline208167: todos4554 acrescidos depois lidos por blob HEAD, SHA conferido contra selecao publicada, cabecalhos integrais. Cruza4325 candidatos por URL e identidade pasta/tipo/numero/data. Se ha coincidencia, publicacao para e exige reter antes de contar.'},ensure_ascii=False,indent=2)+'\n');print('HEAD adicional',head,'candidatos',n,'colisoes',len(held),flush=True);assert not held,held

@@ -1,0 +1,642 @@
+{
+  "criterio": "Gates suplementares de lotes DOU/SIJUT já auditados, sem rede ou reescrita.\n\nNão certifica vigência. Retém dúvidas de identidade, remissões e objetos para\nrevisão contextual; uma retenção não afirma ausência definitiva na publicação.\n",
+  "script_sha256": "33f27c95eb0c6f31ca5b0732639d69a582bc2664693b2a4bb3b247508fc3e026",
+  "baseline_sha256": "4692251ce9c9e4169de0eca3de9031443744f2e4bf84932102d89499669f5230",
+  "manifestos_origem": {
+    "scripts/dados/dou-cache-metadata-20261021-003.json": "f3dab5643a29c95297afeb810e9945e8880699121dbe4c2328c4a7a86f482768"
+  },
+  "reservas_sha256": {
+    "/tmp/reguladores2901-paths-20261021.txt": "4ca5df32559d68c162ca3424501fa2bf971afb3f83684f9ee032d9fc7da3c427",
+    "/tmp/reguladores8592-paths-20261021.txt": "2225cb544685a38f9421f207fd3bef22bb42dc5d29cf08fead285e93f539b862",
+    "/tmp/reguladores6765-paths-20261021.txt": "285eb81c72e45204f7c76c626044aacdce898700d72a3453760da1343fbdeea4"
+  },
+  "total": 18,
+  "documentos": [
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.014-de-5-de-dezembro-de-2025-674178200.md",
+      "sha256_md": "dd83208251b1f43d93823132e91a4fa1d54ca62173acc0e07babfc08b80f60db",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-3.014-de-5-de-dezembro-de-2025-674178200",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-3.014-de-5-de-dezembro-de-2025-674178200-231b42ad5f441edbd823e8e502607e3075bfba1dc4af648b3ebb24f9b5770216.html.gz",
+      "sha256_fonte": "231b42ad5f441edbd823e8e502607e3075bfba1dc4af648b3ebb24f9b5770216",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.541-de-15-de-julho-de-2025-642506252.md",
+      "sha256_md": "224814f1fe202bbb731a84855a707a621783c056a986aa8cec30bfa53aa1cdf9",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-1.541-de-15-de-julho-de-2025-642506252",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-1.541-de-15-de-julho-de-2025-642506252-511af94e450dabbad179615c2617d845b5f9f11b10435ba4e620c0115a20be80.html.gz",
+      "sha256_fonte": "511af94e450dabbad179615c2617d845b5f9f11b10435ba4e620c0115a20be80",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.156-de-24-de-setembro-de-2025-658375848.md",
+      "sha256_md": "b274a3fc0cdd7995192a364942dd384c5648829d47b6e1e3bcafd334b433c3a7",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.156-de-24-de-setembro-de-2025-658375848",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.156-de-24-de-setembro-de-2025-658375848-5638bb4797f76914e2977fed9d490a2afd0b5cdb02884b70086df92d668f3a60.html.gz",
+      "sha256_fonte": "5638bb4797f76914e2977fed9d490a2afd0b5cdb02884b70086df92d668f3a60",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.760-de-13-de-novembro-de-2025-669278950.md",
+      "sha256_md": "ee49dd62fd80b3afcee23faa5a78d2dd9cd9047783065e59271c1667ff9e5e87",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.760-de-13-de-novembro-de-2025-669278950",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.760-de-13-de-novembro-de-2025-669278950-f12f77ec73be0b3d5ce470d8837737871d18ef3f167801c54ac358d8f6552285.html.gz",
+      "sha256_fonte": "f12f77ec73be0b3d5ce470d8837737871d18ef3f167801c54ac358d8f6552285",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.416-de-27-de-junho-de-2025-638694145.md",
+      "sha256_md": "8db5d011e410d2fa4d0e8d797312624d0c6b850405963277c0b7255cde91689a",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-1.416-de-27-de-junho-de-2025-638694145",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-1.416-de-27-de-junho-de-2025-638694145-0ab3b137880b1ac0cd66c98d32aea704be1d9860c3ac0de41459deaefedf3411.html.gz",
+      "sha256_fonte": "0ab3b137880b1ac0cd66c98d32aea704be1d9860c3ac0de41459deaefedf3411",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.192-de-22-de-dezembro-de-2025-678097481.md",
+      "sha256_md": "37217f72a39b5ec5760b8323ab43640810837e6acfdb2f8df740f8062415f717",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-3.192-de-22-de-dezembro-de-2025-678097481",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-3.192-de-22-de-dezembro-de-2025-678097481-2ac21bec31d5749c79893f3ea6adfb3f2ed75c249408400f9bbd7d6fb5086b74.html.gz",
+      "sha256_fonte": "2ac21bec31d5749c79893f3ea6adfb3f2ed75c249408400f9bbd7d6fb5086b74",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.815-de-18-de-novembro-de-2025-670188102.md",
+      "sha256_md": "84cf5cf799cd95a0e1407217ddce49508d9673e01244f5a5a8004d01575553d7",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.815-de-18-de-novembro-de-2025-670188102",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.815-de-18-de-novembro-de-2025-670188102-841b113aacb0905f103389615809acaf1c95e746d396ad2dda31cbc76932e6f5.html.gz",
+      "sha256_fonte": "841b113aacb0905f103389615809acaf1c95e746d396ad2dda31cbc76932e6f5",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.278-de-8-de-outubro-de-2025-661305296.md",
+      "sha256_md": "5b2a2c552635099ce13531861383a2c3bd41eb6912ccf52d603d29720d65e581",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.278-de-8-de-outubro-de-2025-661305296",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.278-de-8-de-outubro-de-2025-661305296-9b5babc1ddc204b07c5b86002be8fed45dddf62a4cc119bba2230c5f8b429c93.html.gz",
+      "sha256_fonte": "9b5babc1ddc204b07c5b86002be8fed45dddf62a4cc119bba2230c5f8b429c93",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.823-de-18-de-julho-de-2025-650481534.md",
+      "sha256_md": "01795df7397e8ee91dcfd4b8caa0e48aa80f0c95ff7dd139cd87cfc06a59c4c3",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-1.823-de-18-de-julho-de-2025-650481534",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-1.823-de-18-de-julho-de-2025-650481534-d17f7a3af6a35033d63ce2ff2a1e46ab72e27d03c124db15d333243ebe8db127.html.gz",
+      "sha256_fonte": "d17f7a3af6a35033d63ce2ff2a1e46ab72e27d03c124db15d333243ebe8db127",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.909-de-27-de-novembro-de-2025-672629267.md",
+      "sha256_md": "7a5ea6fc1fdc9c237097c7cca40cc24288248e29a223bdf03b12341c0391ce6c",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.909-de-27-de-novembro-de-2025-672629267",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.909-de-27-de-novembro-de-2025-672629267-ac295de54e70b44fe6aa981b3856f2463d3a8abd1c563aefb80895f059a62af6.html.gz",
+      "sha256_fonte": "ac295de54e70b44fe6aa981b3856f2463d3a8abd1c563aefb80895f059a62af6",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.973-de-4-de-dezembro-de-2025-673691931.md",
+      "sha256_md": "55a5c16de4cb6f127df35cf9f945ad1aeb7ab4b90d9f0f53bb03b594cfaa9459",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.973-de-4-de-dezembro-de-2025-673691931",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.973-de-4-de-dezembro-de-2025-673691931-2acdbbe6c0b2c7f410979d12ef5aeec3837002a7fd58e37f4486316461c60ed2.html.gz",
+      "sha256_fonte": "2acdbbe6c0b2c7f410979d12ef5aeec3837002a7fd58e37f4486316461c60ed2",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.056-de-15-de-setembro-de-2025-656044248.md",
+      "sha256_md": "4bda85adb0e4c6ae9725c8267819e229cced6a35ca20a8a318f1048e437456a5",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-2.056-de-15-de-setembro-de-2025-656044248",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-2.056-de-15-de-setembro-de-2025-656044248-d6e7f3081ccdae89559d55a0855b0199d07f7654bf049e96321b5252d2e57aab.html.gz",
+      "sha256_fonte": "d6e7f3081ccdae89559d55a0855b0199d07f7654bf049e96321b5252d2e57aab",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.133-de-18-de-dezembro-de-2025-676847792.md",
+      "sha256_md": "2cf290861bb471aeb465cbe9eaba4c3e886b568bafaa2d1a8073e3c08baba19c",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-3.133-de-18-de-dezembro-de-2025-676847792",
+      "cache": "reguladores/_fonte/stn/2025/portaria-stn-mf-n-3.133-de-18-de-dezembro-de-2025-676847792-8cfa8065bddf0bc0e04960fc09705329222d96d059e92ec7f202a446eaa50b27.html.gz",
+      "sha256_fonte": "8cfa8065bddf0bc0e04960fc09705329222d96d059e92ec7f202a446eaa50b27",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/resolucoes/2025/resolucao-gecgr-mf-n-20-de-6-de-outubro-de-2025-660718805.md",
+      "sha256_md": "842580c4dfe187df26f01567aba9e70dc5e9adc98572cbf67dff33bae51c1fb9",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-gecgr/mf-n-20-de-6-de-outubro-de-2025-660718805",
+      "cache": "reguladores/_fonte/stn/2025/resolucao-gecgr-mf-n-20-de-6-de-outubro-de-2025-660718805-cfc54b5e3c7ebc0b3b02fe3e432dca85cd902724575403fda7a183cc41daaa3a.html.gz",
+      "sha256_fonte": "cfc54b5e3c7ebc0b3b02fe3e432dca85cd902724575403fda7a183cc41daaa3a",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/stn/instrucoes-normativas/2025/instrucao-normativa-stn-mf-n-17-de-4-de-julho-de-2025-640258546.md",
+      "sha256_md": "b943d4404cafa99ca5842c4e9078d13122cb4770ac1bf8b9f04ab5eaad734126",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-stn/mf-n-17-de-4-de-julho-de-2025-640258546",
+      "cache": "reguladores/_fonte/stn/2025/instrucao-normativa-stn-mf-n-17-de-4-de-julho-de-2025-640258546-741a52b156552bef58cc26607aa55d8aa2a704431f70665f058e47409866e881.html.gz",
+      "sha256_fonte": "741a52b156552bef58cc26607aa55d8aa2a704431f70665f058e47409866e881",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-509-de-29-de-julho-de-2025-645225886.md",
+      "sha256_md": "51c662a2fc9413af55a1366e0a408c97eeb69769f5a1b3f6201f9cdae86e63ac",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-conama-n-509-de-29-de-julho-de-2025-645225886",
+      "cache": "reguladores/_fonte/conama/2025/resolucao-conama-n-509-de-29-de-julho-de-2025-645225886-dae2fd4c10b542b518fbf217b0e1f69b1f99ebd74f66176d1112570640a631dc.html.gz",
+      "sha256_fonte": "dae2fd4c10b542b518fbf217b0e1f69b1f99ebd74f66176d1112570640a631dc",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-511-de-19-de-dezembro-de-2025-677603098.md",
+      "sha256_md": "cf30917a6a5730f9b93416aeac2c799460a348e6aff169ef22407a70beadc491",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-conama-n-511-de-19-de-dezembro-de-2025-677603098",
+      "cache": "reguladores/_fonte/conama/2025/resolucao-conama-n-511-de-19-de-dezembro-de-2025-677603098-2512a99f3056b14e6a37b27d1c2b2d228305e02d191b56b4fc2516163fc72e5f.html.gz",
+      "sha256_fonte": "2512a99f3056b14e6a37b27d1c2b2d228305e02d191b56b4fc2516163fc72e5f",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-510-de-15-de-setembro-de-2025-656033813.md",
+      "sha256_md": "7851ab1535dff5f351948e316b9e8b5df35c1947477341a7ec15ebb8d812e237",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-conama-n-510-de-15-de-setembro-de-2025-656033813",
+      "cache": "reguladores/_fonte/conama/2025/resolucao-conama-n-510-de-15-de-setembro-de-2025-656033813-697bf81cbaa9457b56ef77ca87095112410df5b028d40d70215757ebdb1d5d6f.html.gz",
+      "sha256_fonte": "697bf81cbaa9457b56ef77ca87095112410df5b028d40d70215757ebdb1d5d6f",
+      "manifesto_origem": "scripts/dados/dou-cache-metadata-20261021-003.json"
+    }
+  ],
+  "retidos": [
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.134-de-18-de-dezembro-de-2025-676846313.md",
+      "sha256_md": "5352e20628c81f4805bf5d70fbdfea7775ffa9ec8e17bbd4f447819c67c21684",
+      "motivos": [
+        {
+          "motivo": "objeto aprovado no dispositivo inicial exige contexto",
+          "trecho": "Art. 1º** Ficam aprovadas alterações nas contas contábeis do grupo 1.1.1.1.1.07.00 do Plano de Contas Aplicado ao Setor Público - PCASP Federação e do PCASP Estendido, aprovados pela Portaria STN/MF nº 1.516, de 24 de setembro de 2024, vigentes para o exercício de 2025.\n\n**"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.875-de-25-de-agosto-de-2025-657087087.md",
+      "sha256_md": "49f268f00406a24ff451fff02cc40c156cd61bcbe1431682de74119850c0170f",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": " deve disponibilizar numero de telefone atualizado fixo ou movel para seu gestor vi criterios que serao utilizados pela chefia da unidade de execucao para avaliacao da execucao do plano de trabalho do participante e vii prazo maximo para retorno aos contatos recebidos no horario de funcionamento do orgao ou da entidade 2 a criterio do gestor da unidade executora o tcr podera ser ajustado para atender as condicoes necessar"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "isquer outras mudancas de situacao registradas em sistema informatizado com orientacoes sobre sua operacao disponibilizadas na intranet da stn em pagina especifica do programa 1 o plano de entregas tera duracao maxima de um ano nos termos do inciso i do artigo 18 da instrucao normativa conjunta seges sgprt mgi n 24 de 28 de julho de 2023 2 os planos de trabalhos dos participantes independente da duracao devem ter a data d"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.015-de-5-de-dezembro-de-2025-673674504.md",
+      "sha256_md": "8d58e1106a907fbe1333ee7411048e972153a6832fbfb4c188653c287bc18df6",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "a selecao sera divulgado no sitio eletronico do tesouro nacional na pagina do programa eco invest brasil em ate vinte dias contados do termino do prazo a que se refere o art 36 nr anexo modelo para envio da declaracao de que trata o art 8 inciso ii desta portaria local e data instituicao financeira endereco dados para contato declaracao de responsabilidade para fins de atuacao como agente financeiro e de utilizacao dos re"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.057-de-15-de-setembro-de-2025-656030162.md",
+      "sha256_md": "b14b3b9827cc93ce2041b8ae2cf07ca23ae05c7627c959403138d153ec284fdd",
+      "motivos": [
+        {
+          "motivo": "objeto aprovado no dispositivo inicial exige contexto",
+          "trecho": "Art. 1º** Fica aprovada a 15ª edição do Manual de Demonstrativos Fiscais (MDF), válida a partir do exercício de 2026, o qual compreende os relatórios e anexos referentes aos demonstrativos descritos nos §§ 1º, 2º e 3º do art. 4º e nos arts. 48, 52, 53, 54 e 55 da Lei Complementar nº 101, de 2000, que deverão ser elaborados pela União, pelos estados, pelo Distrito Federal e pelos municípios.\n\n**Parágrafo único.** A 15ª edição do MDF aprovada por esta portaria e a síntese com o resumo e justificativas das alterações efetuadas em relação à edição anterior serão disponibilizadas no endereço eletrônico <https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos>.\n\n**"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.702-de-4-de-agosto-de-2025-646208855.md",
+      "sha256_md": "ef45b7ef3919fa14c096bd198605bf52c347e5459aef932b11c33120f66de1b7",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "partir do exercicio de 2025 aprovado pela portaria 1 516 de 24 de setembro de 2024 art 2 a relacao de contas contabeis acrescidas ao pcasp 2025 e ao pcasp estendido 2025 consta do anexo desta portaria art 3 as relacoes de contas do pcasp 2025 e do pcasp estendido 2025 serao disponibilizadas no endereco eletronico https sisweb tesouro gov br apex f p 60021 2 30727077976933 no 2 art 4 esta portaria entra em vigor e aplicam "
+        },
+        {
+          "motivo": "remissão potencialmente própria sem título de anexo",
+          "trecho": "rovado pela portaria 1 516 de 24 de setembro de 2024 art 2 a relacao de contas contabeis acrescidas ao pcasp 2025 e ao pcasp estendido 2025 consta do anexo desta portaria art 3 as relacoes de contas do pcasp 2025 e do pcasp estendido 2025 serao disponibilizadas no endereco eletronico https sisweb tesouro gov br apex f p 60021 2 30727077976933 no 2 art 4 esta "
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.112-de-16-de-dezembro-de-2025-677650189.md",
+      "sha256_md": "1d3ac53e52b19fe213f3d5c173f8c9d623a2a47a6ca8e8ac10d383057a37ae6e",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "ando a otimizacao das mentorias e o sucesso profissional das mentorandas v estruturar produzir e disponibilizar o material de apoio para as mentorias incluindo roteiros modelos de planos de desenvolvimento individuais pdis e demais recursos que facilitem a interacao e o acompanhamento de metas entre mentoras e mentorandas vi realizar a coleta sistematica de feedbacks das participantes mentoras gestoras e gestores envolvido"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.013-de-5-de-dezembro-de-2025-673669437.md",
+      "sha256_md": "2801be6227dc8702e118f1d02af91ca190b66dd13a1fe85b6e9f3b826d2ff2ad",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "taria mf n 964 de 2024 e pela presente portaria inclusive quanto a observancia das salvaguardas durante todo periodo de alocacao dos recursos na forma do modelo disponibilizado no manual operacional e ii relatorio de pre alocacao dos recursos de que tratam o art 14 da portaria mf n 964 de 2024 e o art 1 inciso viii desta portaria observados os termos do manual operacional do leilao eco invest brasil n 4 2025 capitulo xii d"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "erao dar preferencia a aquisicao de produtos e servicos nacionais sempre que houver disponibilidade de similar produzido no brasil em relacao ao produzido no exterior 1 devera ser anexado ao relatorio financeiro e de alocacao e no relatorio de alinhamento ao programa eco invest brasil o codigo cfi referente ao credenciamento de fornecedores e suas maquinas e equipamentos sistemas industriais e componentes no ambito do crede"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.776-de-14-de-novembro-de-2025-669563740.md",
+      "sha256_md": "5b2f102a8782a359efdee668bbbe843b0fd020e0c83fb76dc5d4d7bcbd457e0a",
+      "motivos": [
+        {
+          "motivo": "objeto aprovado no dispositivo inicial exige contexto",
+          "trecho": "Art. 1º** Ficam aprovadas as alterações na 14ª edição do Manual de Demonstrativos Fiscais - MDF com efeitos para o exercício de 2025.\n\n**Parágrafo único.** A versão da 14ª edição do MDF, com as alterações aprovadas por esta portaria, e a síntese com o resumo e justificativas das alterações efetuadas serão disponibilizadas no endereço eletrônico <https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos>.\n\n**"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.302-de-10-de-outubro-de-2025-661919682.md",
+      "sha256_md": "d15da5e54f583118fab26c1b8a678f412d33ebe24c39c6e6c17bd34b2f53b364",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "ivativos cambiais 100 cem por cento do capital catalitico programa eco invest brasil deverao ser repassados ao fundo por meio dos mecanismos previstos nesta portaria nos termos do manual operacional 6 o disposto nos 3 4 e 5 devera ser formalizado pela instituicao financeira mediante declaracao na forma do modelo disponibilizado no manual operacional art 9 sao condicoes adicionais minimas para as instituicoes financeiras co"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "sta portaria nos termos do manual operacional 6 o disposto nos 3 4 e 5 devera ser formalizado pela instituicao financeira mediante declaracao na forma do modelo disponibilizado no manual operacional art 9 sao condicoes adicionais minimas para as instituicoes financeiras concorrerem ao leilao e nos termos do manual operacional i apresentacao de propostas com indice de alavancagem minima de 3 tres vezes o valor do capital ca"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "e declaracao na forma do modelo disponibilizado no manual operacional art 9 sao condicoes adicionais minimas para as instituicoes financeiras concorrerem ao leilao e nos termos do manual operacional i apresentacao de propostas com indice de alavancagem minima de 3 tres vezes o valor do capital catalitico captado junto ao programa podendo variar em incrementos de 0 25 vinte e cinco centesimos ii compromisso com a captacao d"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "nciso iv paragrafo unico o valor objeto da protecao cambial devera considerar o valor futuro estimado dos investimentos a serem realizados observado o disposto nesta portaria e no manual operacional art 15 a instituicao financeira habilitada devera disponibilizar no minimo 50 cinquenta por cento do capital catalitico no ambito do leilao ao fundo ou classe de cotas eco invest brasil 1 nos casos de investimentos em participa"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "022 e iii contemplar politica de investimento compativel com os objetivos do programa destinanada exclusivamente aos projetos elegiveis no ambito deste leilao conforme disposto no manual operacional art 17 enquanto houver recursos do programa disponibilizados nos fundos eco invest na forma do art 15 o fundo devera i garantir a instituicao financeira direitos informacionais e de acompanhamento suficientes para o cumprimento"
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "taria mf n 964 de 2024 e pela presente portaria inclusive quanto a observancia das salvaguardas durante todo periodo de alocacao dos recursos na forma do modelo disponibilizado no manual operacional e ii relatorio de pre alocacao dos recursos de que tratam o art 14 da portaria mf n 964 de 2024 e o art 1 inciso vii desta portaria observados os termos do manual operacional do leilao eco invest brasil n 3 2025 capitulo xi da "
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.293-de-19-de-novembro-de-2025-670231187.md",
+      "sha256_md": "c7ecb98f4bbc2ab922abea5b4be743a60e957e5df41b9d9e740c5f3363a1e970",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147812.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.270-de-1-de-julho-de-2025-639320421.md",
+      "sha256_md": "89acb3cdd51643a412c0e3b5d9867181aac4e6b6c357877cc724f20694f8128d",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-144894.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.268-de-26-de-junho-de-2025-641597564.md",
+      "sha256_md": "c09f300dd8901964a75389c7616f67c6c8b88b9348bafdaacf4ebf785bc31239",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145064.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.288-de-30-de-outubro-de-2025-667766423.md",
+      "sha256_md": "f9a3f7648a5990f4b7a3762862f9e113da7ca43e1035cc11689eac2903e3b475",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147567.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.291-de-14-de-novembro-de-2025-669274421.md",
+      "sha256_md": "4804f3bd82e49f7cf21ca4633e3a3d3184db6adc440f78ba26b1d7f310454ea8",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147709.md"
+          ]
+        },
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "onibilizado no centro virtual de atendimento e cac no site da secretaria especial da receita federal do brasil na internet no endereco eletronico lt https gov br receitafederal em leiaute definido em ato declaratorio executivo expedido pela coordenacao geral de programacao e estudos copes a ser publicado no prazo de ate quarenta e cinco dias contado a partir da data de publicacao desta instrucao normativa art 4 a decripto e"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.300-de-23-de-dezembro-de-2025-677943734.md",
+      "sha256_md": "80b8263c55eb34c64406f7bfe85cf2d26be40bcdeb57c594e7ccbbbfba24578b",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148509.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.282-de-2-de-outubro-de-2025-660004573.md",
+      "sha256_md": "6d97e860a1c5f57a78003304d59e695f058cd6c14229107c2b562c50f9f913f3",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-146851.md"
+          ]
+        },
+        {
+          "motivo": "objeto aprovado no dispositivo inicial exige contexto",
+          "trecho": "Art. 1º** A Instrução Normativa RFB nº 2.228, de 3 de outubro de 2024, passa a vigorar com as seguintes alterações:\n\n\"Art. 1º ..............................................................................................................\n\n**§ 1º** Esta Instrução Normativa contempla o Modelo de Regras - Model GloBE Rules, o Comentário - Commentary to the GloBE Rules, as Orientações Administrativas - Agreed Adminstrative Guidance e as demais regras, orientações e procedimentos, denominados Documentos de Referência, aprovados pelo Quadro Inclusivo da OCDE até julho de 2025.\n\n....................................................................................................................\" (NR)\n\n\""
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.301-de-23-de-dezembro-de-2025-677948621.md",
+      "sha256_md": "b1b653fc47d5e49b178ca3473c8347a0db81f032eaa45076ba170a8a32bff0e3",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148510.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.287-de-28-de-outubro-de-2025-666150021.md",
+      "sha256_md": "f65cef927540c83f8bf45dea7fe705cbe54adab3a41bec8548f7804b7292ae6d",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147443.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.302-de-23-de-dezembro-de-2025-677948764.md",
+      "sha256_md": "dfa85384e040e87c575f6f96642a83f9359d6f5374bc896b572baf91b1eb9981",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148511.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.283-de-9-de-outubro-de-2025-661595674.md",
+      "sha256_md": "b2f5645af1428447cb9c5827fa2cdaca73c1ad1aaf4f4a26fcdcde4604b86c50",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147004.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.284-de-14-de-outubro-de-2025-663092621.md",
+      "sha256_md": "b815f8cd6421278a69f2cc39644ab1b565b50b9618ad1819c22a97cd0c6ec354",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147112.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.274-de-4-de-agosto-de-2025-646738824.md",
+      "sha256_md": "6ba934e09a41bded8a68aef7c3c8fb384c99b9363344de6c12cd410efb0f60af",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145453.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.273-de-17-de-julho-de-2025-643062681.md",
+      "sha256_md": "de1d3fe5c101151737c35af0655dd0eaa6baf184c0ebc73406a9e3223029d470",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145173.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.297-de-11-de-dezembro-de-2025-675165036.md",
+      "sha256_md": "fd2bafeee583203a0e16faa87312d76bd728521038b1ad994520db7ae2a18ead",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148320.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.286-de-21-de-outubro-de-2025-664018429.md",
+      "sha256_md": "8531a6c2c2c962dc2ae32e7102d212278f28b5a8dce720c79e0c9ff45cff055a",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147176.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.277-de-22-de-agosto-de-2025-650508968.md",
+      "sha256_md": "270a7b143d79dae75aa527976c5d48b9bff326f05e09f3fb392187b863594e5a",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145823.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141.md",
+      "sha256_md": "af234fcb4683b2c91f46c6f03b0ebe45a00ba898da695cf01c2f368413a57154",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145940.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.290-de-30-de-outubro-de-2025-665838520.md",
+      "sha256_md": "4332b12878e4bbf8ab2bab1a97fab8edcb8e6b966637d6eca6bda4f1f7e3f269",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147406.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.269-de-27-de-junho-de-2025-642509972.md",
+      "sha256_md": "9779884e7d872d7987e789b25ea0b16bc0259ae09aafd8d6244e8e829a803515",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145125.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.289-de-30-de-outubro-de-2025-668618001.md",
+      "sha256_md": "dabe040f558813fe427a6ceba8e09a7bad896d5a710715c5279af20dd6f231dd",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147671.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.281-de-15-de-setembro-de-2025-657163187.md",
+      "sha256_md": "634cadeeebea6027308c08a2391e8ff0766b5dc9c78f36f9db46140125267c3f",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-146523.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.298-de-16-de-dezembro-de-2025-677979529.md",
+      "sha256_md": "98ec583c11e3ce9899a5ed6e7ad9195ce2b755244083f4ae35d8c607dc580df8",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148592.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.279-de-1-de-setembro-de-2025-653605561.md",
+      "sha256_md": "c42758723d595f4b8b07cc177a095a8bebee7529a3c3f4ce78f0734da3822c6a",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-146143.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.292-de-18-de-novembro-de-2025-670084744.md",
+      "sha256_md": "bfc496f6aa1d250689aca60a32dee63b5a76b482a12e65e84c284af4221c2e5a",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-147778.md"
+          ]
+        },
+        {
+          "motivo": "remissão potencialmente própria sem título de anexo",
+          "trecho": "ento da inscricao no cadastro de pessoas fisicas cpf de todas as pessoas fisicas que tenham legitimidade para representar o declarante de mercadorias nos termos do anexo v da instrucao normativa rfb n 2 119 de 6 de dezembro de 2022 em situacao cadastral regular ou pendente de regularizacao e nr art 23 i formalizado por meio de processo digital nos termos da instrucao"
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.304-de-23-de-dezembro-de-2025-677976663.md",
+      "sha256_md": "c7027840e4056921a15c08d1dc73c6edebb59bf5e4c069977cdf5a304a49a9e7",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148584.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.272-de-17-de-julho-de-2025-643067237.md",
+      "sha256_md": "a5ce78088989b655a24937832d414a7483c8315dda7f87d221bc83d71e0a45ca",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-145172.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2025/instrucao-normativa-rfb-n-2.296-de-3-de-dezembro-de-2025-672973031.md",
+      "sha256_md": "498986119bad8b4d81fb0ce1c9346bf83116de46dc6a8937af131bde74b68dc3",
+      "motivos": [
+        {
+          "motivo": "identidade/URL/path coincidente; revisar subunidades",
+          "coincidencias": [
+            "reguladores/rfb/2025/rfb-sijut-148102.md"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-n-508-de-29-de-julho-de-2025-645141421.md",
+      "sha256_md": "40ceabb062362cfbc162fa6e8a1baff4a7dbb3c07963749055692b79bb9b5802",
+      "motivos": [
+        {
+          "motivo": "remissão externa exige contexto",
+          "trecho": "cao e ao proprietario 3 o documento de comunicacao devera indicar as instrucoes de acesso as informacoes do licenciamento ambiental na rede mundial de computadores ou envia las em anexo 4 o orgao licenciador devera disponibilizar as seguintes informacoes i estudos ambientais existentes ii tipo de licenca ambiental iii arquivo georreferenciado da atividade ou empreendimento em formato shapefile ou kml no datum sirgas 2000 "
+        }
+      ]
+    }
+  ]
+}
