@@ -14,12 +14,18 @@ concurrency:
 jobs:
   transferir:
     runs-on: ubuntu-24.04
-    timeout-minutes: 180
+    timeout-minutes: 360
     steps:
       - name: Obter destino
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            .github
+            scripts
+            lei-seca
+            assets
       - name: Obter snapshot público sem executar código da origem
         run: git clone --depth 1 https://github.com/xmercadoamericalatina/leis.git "$RUNNER_TEMP/acervo-origem"
       - name: Transferir dados e comparar modo e SHA dos arquivos
