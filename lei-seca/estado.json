@@ -613,6 +613,8 @@
       "tentado_em": "2026-10-27T11:55:14+00:00"
     },
     "senado-33429875": {
+      "alterado": true,
+      "conferido_em": "2026-10-27T12:13:51+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2021-04-08",
@@ -625,9 +627,11 @@
         "titulo": "Lei nº 14.134 de 08/04/2021",
         "urn": "urn:lex:br:federal:lei:2021-04-08;14134"
       },
-      "erro": "IncompleteRead(255589 bytes read)",
-      "status": "pendente",
-      "tentado_em": "2026-10-27T11:55:19+00:00"
+      "original": "originais/15/155a65c5d20c51bf4433ec763c92ca190a290a5159e8e50cc5329809e8fb4cf3.gz",
+      "sha256_original": "155a65c5d20c51bf4433ec763c92ca190a290a5159e8e50cc5329809e8fb4cf3",
+      "sha256_texto": "701e216cc07b4249f6a09e90ff95f2ed7c1be9f9658120bbdde6868175e959a9",
+      "status": "publicado",
+      "tentado_em": "2026-10-27T12:13:49+00:00"
     },
     "senado-33546880": {
       "alterado": true,
@@ -34829,76 +34833,76 @@
     "sapl-ac": {
       "page": 1,
       "types": {
-        "10": "Regimento Interno",
         "2": "Lei Complementar",
         "3": "Lei Ordinária",
         "6": "Emenda Constitucional",
-        "8": "Resolução"
+        "8": "Resolução",
+        "10": "Regimento Interno"
       }
     },
     "sapl-al": {
       "page": 1,
       "types": {
         "1": "LEI ORDINARIA",
-        "10": "LEI DELEGADA",
         "2": "LEI COMPLEMENTAR",
         "3": "REGIMENTO INTERNO",
         "4": "CONSTITUIÇÃO ESTADUAL",
         "5": "RESOLUÇÃO",
         "6": "EMENDA À CONSTITUIÇÃO",
         "7": "DECRETO LEGISLATIVO",
-        "8": "DECRETO"
+        "8": "DECRETO",
+        "10": "LEI DELEGADA"
       }
     },
     "sapl-am": {
       "page": 1,
       "types": {
         "1": "Lei Ordinária",
-        "10": "Regimento Interno",
         "2": "Lei Complementar",
         "3": "Decreto Legislativo",
         "4": "Resolução Legislativa",
         "5": "Lei Promulgada",
-        "9": "Lei Delegada"
+        "9": "Lei Delegada",
+        "10": "Regimento Interno"
       }
     },
     "sapl-pb": {
       "page": 1,
       "types": {
         "1": "Lei Complementar",
-        "14": "Regimento Interno",
-        "17": "Decreto-Lei",
-        "18": "Decreto Executivo",
         "2": "Lei Ordinária",
         "3": "Decreto Legislativo",
         "4": "Resolução",
         "6": "Decreto Legislativo",
-        "9": "Emenda Constitucional"
+        "9": "Emenda Constitucional",
+        "14": "Regimento Interno",
+        "17": "Decreto-Lei",
+        "18": "Decreto Executivo"
       }
     },
     "sapl-pi": {
       "page": 1,
       "types": {
         "1": "Lei",
-        "10": "Constituição Estadual",
         "2": "Lei Complementar",
         "3": "Decreto Legislativo",
         "4": "Resolução",
         "5": "Emenda Constitucional",
         "6": "Lei Delegada",
-        "7": "Decreto"
+        "7": "Decreto",
+        "10": "Constituição Estadual"
       }
     },
     "sapl-ro": {
       "page": 1,
       "types": {
         "1": "Lei ordinária",
-        "11": "Constituição Estadual",
-        "12": "Regimento Interno",
         "2": "Lei Complementar",
         "3": "Emenda Constitucional",
         "4": "Decreto Legislativo",
-        "5": "Resolução"
+        "5": "Resolução",
+        "11": "Constituição Estadual",
+        "12": "Regimento Interno"
       }
     },
     "sapl-rr": {
