@@ -1,0 +1,132 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.356, DE 19 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1356"
+data: 2023-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/04/2023, seção 1, p. 123"
+data_publicacao: 2023-04-24
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.356-de-19-de-abril-de-2023-478610878"
+sha256_html_fonte: 07035b038ae225b78215e3ae04572c59fe61f58d880e0504d703b930b047298a
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.356, DE 19 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.356, DE 19 DE ABRIL DE 2023
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art.114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET), conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+BASF S/A - 48.539.407/0001-18
+
+25351.162550/2023-67
+
+FASE II
+
+25351.162556/2023-34
+
+FASE II
+
+25351.162567/2023-14
+
+FASE II
+
+25351.162279/2023-60
+
+FASE II
+
+25351.162389/2023-21
+
+FASE II
+
+25351.161842/2023-82
+
+FASE II
+
+25351.162288/2023-51
+
+FASE II
+
+25351.161624/2023-48
+
+FASE II
+
+25351.161948/2023-86
+
+FASE II
+
+CTVA PROTECAO DE CULTIVOS LTDA. - 47.180.625/0001-46
+
+25351.192598/2023-08
+
+FASE I
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.185265/2023-14
+
+FASE I
+
+SUMITOMO CHEMICAL BRASIL INDUSTRIA QUIMICA S.A. - 07.467.822/0001-26
+
+25351.189283/2023-75
+
+FASE I
+
+25351.188966/2023-13
+
+FASE II
+
+SYNCROM ASSESSORIA E COMERCIO DE PRODUTOS AGROPECUARIOS LTDA. - 06.876.953/0001-02
+
+25351.171845/2023-24
+
+FASE II
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.188247/2023-94
+
+FASE II
+
+25351.194810/2023-63
+
+FASE II
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52
+
+25351.188601/2023-81
+
+FASE I
+
+25351.172668/2023-01
+
+FASE II
+
+25351.171878/2023-74
+
+FASE II
+
+25351.171735/2023-62
+
+FASE II
+
+25351.172339/2023-52
+
+FASE II

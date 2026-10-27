@@ -1,0 +1,282 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.884, DE 1° DE SETEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2884"
+data: 2022-09-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/09/2022, seção 1, p. 107"
+data_publicacao: 2022-09-05
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.884-de-1-de-setembro-de-2022-426961686"
+sha256_html_fonte: aa023ce504e6e486c19847c13b7f841d76702c5305acd72967b9c58c8848532c
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.884, DE 1° DE SETEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 2.884, DE 1° DE SETEMBRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: APSEN FARMACEUTICA S/A - CNPJ: 62.462.015/0009-86 - AUTORIZ/MS: 1001188
+
+ENDEREÇO: Rua barão do rio branco 927
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0770173/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Granel): Cápsulas; Pós
+
+.........................................
+
+EMPRESA: IFAL INDUSTRIA E COMERCIO DE PRODUTOS FARMAC LTDA - CNPJ: 00.376.959/0001-26 - AUTORIZ/MS: 1035312
+
+ENDEREÇO: av jose loureiro da silva 1211
+
+MUNICÍPIO: CAMAQUÃ - UF: RS - EXPEDIENTE: 0673743/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Óleos; Soluções; Suspensões; Xampus; Xaropes
+
+Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA: JOHNSON & JOHNSON INDUSTRIAL LTDA. - CNPJ: 59.748.988/0001-14 - AUTORIZ/MS: 1057211
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 154
+
+MUNICÍPIO: SÃO JOSÉ DOS CAMPOS - UF: SP - EXPEDIENTE: 0405048/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+.........................................
+
+EMPRESA FABRICANTE: LEK PHARMACEUTICALS D.D.
+
+ENDEREÇO: VEROVSKOVA ULICA 57, SI-1526, LJUBLJANA - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.000366
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0770189/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VIFOR SA
+
+ENDEREÇO: ROUTE DE MONCOR 10, 1752 VILLARS-SUR-GLÂNE - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001005
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 0358866/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: DHL SUPPLY CHAIN (NETHERLANDS) B.V.
+
+ENDEREÇO: BIJSTERHUIZEN 3142, NL-6604LV WIJCHEN - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.001444
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0770164/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: LABORATÓRIOS PFIZER LTDA - CNPJ: 46.070.868/0036-99
+
+AUTORIZ/MS: 1002166 - EXPEDIENTE(s): 0673780/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ABBVIE INC.
+
+ENDEREÇO: 1 N WAUKEGAN ROAD, NORTH CHICAGO, ILLINOIS, 60064 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000005
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 0811011/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: CSL BEHRING L.L.C.
+
+ENDEREÇO: ROUTE 50 NORTH, 1201 NORTH KINZIE, BRADLEY, ILLINOIS (IL) 60915 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000173
+
+EMPRESA SOLICITANTE: CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 62.969.589/0001-98
+
+AUTORIZ/MS: 1001510 - EXPEDIENTE(s): 0990971/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM LILLE SAS
+
+ENDEREÇO: PARC D' ACTIVITES ROUBAIX-EST, 22 RUE DE TOUFFLERS CS 50070, LYS LEZ LANNOY, 59452 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000180
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0962959/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SANDOZ GMBH
+
+ENDEREÇO: BIOCHEMIESTRASSE 10, A-6250 KUNDL - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000540
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0479905/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Penicilínicos): Cápsulas; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Cefalosporínicos): Cápsulas; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK A/S
+
+ENDEREÇO: HALLAS ALLÉ, KALUNDBORG, 4400 - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.000444
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0770310/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA PRODUKTIONSGESELLSCHAFT DEUTSCHLAND MBH
+
+ENDEREÇO: WOLFGANG-MAGUERRE - ALLE 1, 31832 SPRINGE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000777
+
+EMPRESA SOLICITANTE: OCTAPHARMA BRASIL LTDA - CNPJ: 02.552.927/0001-60
+
+AUTORIZ/MS: 1039712 - EXPEDIENTE(s): 0673727/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LEK PHARMACEUTICALS D.D.
+
+ENDEREÇO: VEROVSKOVA ULICA 57, SI-1526, LJUBLJANA - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.000366
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0889471/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ABBVIE LTD.
+
+ENDEREÇO: KM. 58,0 CARRETERA, 2 CRUCE DAVILA, BARCELONETA - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.000010
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0516396/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON PUERTO RICO, INC.
+
+ENDEREÇO: STATE ROAD 670, KM 2,7, MANATI, PR 00674, PORTO RICO - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000481
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 0770394/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER PHARMACEUTICALS LLC
+
+ENDEREÇO: ROAD 689, KM. 1,9, VEGA BAJA, PUERTO RICO 00693 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000499
+
+EMPRESA SOLICITANTE: UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA. - CNPJ: 36.674.526/0001-02
+
+AUTORIZ/MS: 1315356 - EXPEDIENTE(s): 0696315/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MILLMOUNT HEALTHCARE LTD.
+
+ENDEREÇO: BLOCK-7, CITY NORTH BUSINESS CAMPUS, STAMULLEN, CO. MEATH, K32 YD60 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001227
+
+EMPRESA SOLICITANTE: GLOBAL REGULATORY PARTNERS BRASIL EIRELI - CNPJ: 29.190.430/0001-03
+
+AUTORIZ/MS: 1176784 - EXPEDIENTE(s): 1082028/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: REGENERON PHARMACEUTICALS, INC.
+
+ENDEREÇO: 81 COLUMBIA TURNPIKE, RENSSELAER, NEW YORK (NY) 12144 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000831
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0715695/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A
+
+ENDEREÇO: VIALE G.B. STUCCHI, 110 - 20900 MONZA (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000477
+
+EMPRESA SOLICITANTE: LEO PHARMA LTDA - CNPJ: 11.424.477/0001-10
+
+AUTORIZ/MS: 1085697 - EXPEDIENTE(s): 0358872/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER MANUFACTURING DEUTSCHLAND GMBH
+
+ENDEREÇO: MOOSWALDALLEE 1, 79090, FREIBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000495
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA. - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 0715743/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.450, DE 14 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2450"
+data: 2020-07-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/07/2020, seção 1, p. 103"
+data_publicacao: 2020-07-15
+edicao: "134"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.450-de-14-de-julho-de-2020-266802004"
+sha256_html_fonte: 345a4a78284ab188502690be0c555ade9358a29466c7063494562c2c46ab2418
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.450, DE 14 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.450, DE 14 DE JULHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >BUONO &amp; BUONO LTDA ME / 003.531.919/0001-08</p><p class="dou-paragraph" >25351.450838/2014-03 / 7252022</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940357207</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >J M L COMÉRCIO DE MEDICAMENTOS LTDA ME / 019.443.593/0001-99</p><p class="dou-paragraph" >25351.622917/2014-14 / 7317586</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1934521206</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MEDICINALLES FARMÁCIA DE MANIPULAÇÃO LTDA / 002.483.387/0001-00</p><p class="dou-paragraph" >25351.524483/2013-15 / 0997199</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1939748208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA BOM PREÇO EIRELI - ME / 027.996.997/0001-38</p><p class="dou-paragraph" >25351.237729/2018-18 / 7581198</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940351208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIA BURITIS LTDA / 036.877.124/0001-05</p><p class="dou-paragraph" >25351.275240/2013-30 / 0928584</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1864896207</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIA QUEIROZ &amp; NARCISO LTDA - ME / 018.331.426/0001-93</p><p class="dou-paragraph" >25351.451794/2013-40 / 0981051</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940361205</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIA SANTA FARMA LTDA / 017.335.898/0001-51</p><p class="dou-paragraph" >25351.324077/2013-46 / 0959285</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1940387209</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA POPULAR DE DIANOPOLIS LTDA - ME / 018.364.683/0001-21</p><p class="dou-paragraph" >25351.767062/2014-50 / 7354021</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940365208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIAS POUP SEMPRE LTDA - EPP / 029.128.046/0001-72</p><p class="dou-paragraph" >25351.192045/2018-80 / 7577467</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1864924206</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA POPULAR DE BURITIS LTDA / 020.418.617/0001-39</p><p class="dou-paragraph" >25351.467682/2014-91 / 7259798</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1936722208</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

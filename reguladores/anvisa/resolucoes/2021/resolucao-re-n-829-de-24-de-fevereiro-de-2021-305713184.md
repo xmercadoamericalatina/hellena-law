@@ -1,0 +1,226 @@
+---
+titulo: "RESOLUÇÃO RE Nº 829, DE 24 DE Fevereiro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "829"
+data: 2021-02-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/03/2021, seção 1, p. 140"
+data_publicacao: 2021-03-01
+edicao: "39"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-829-de-24-de-fevereiro-de-2021-305713184"
+sha256_html_fonte: 96cb8c5d7c9a27b018501437074ebea21a176dbb416bd2c20dffa332442a97ab
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 829, DE 24 DE Fevereiro DE 2021
+
+RESOLUÇÃO RE Nº 829, DE 24 DE Fevereiro DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: CATALENT ARGENTINA S.A.I.C.
+
+ENDEREÇO: AVENIDA MÁRQUEZ 654/ 91, LOMA HERMOSA, PARTIDO DE TRES DE FEBRERO, PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0130
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 2652464/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: EXCELLA GMBH &CO. KG
+
+ENDEREÇO: NÜRNBERGER STRASSE 12, 90537 FEUCHT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0212
+
+EMPRESA SOLICITANTE: BIOMARIN BRASIL FARMACÊUTICA LTDA - CNPJ: 08.002.360/0001-34
+
+AUTORIZ/MS: 1073334 - EXPEDIENTE(s): 2402798/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: TECNANDINA S.A.
+
+ENDEREÇO: AV. MANUEL CÓRDOVA GALARZA, EL PARAÍSO INTERSECCION, KM 6 1/2, PICHINCHA, QUITO, PUSUQUÍ, NÚMERO: S/N - PAÍS: EQUADOR - CÓDIGO ÚNICO: A.1064
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 4447818/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT GERMANY EBERBACH GMBH
+
+ENDEREÇO: GAMMELSBACHER STRASSE 2, 69412 EBERBACH - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0518
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 2356938/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+.........................................
+
+EMPRESA: MESSER Gases Ltda - CNPJ: 60.619.202/0025-15 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: Rodovia Armando Salles de Oliveira, km 1
+
+MUNICÍPIO: SERTÃOZINHO - UF: SP - EXPEDIENTE: 3042540/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: BIOLAB SANUS FARMACÊUTICA LTDA. - CNPJ: 49.475.833/0018-46 - AUTORIZ/MS: 1009744
+
+ENDEREÇO: AVENIDA FRANCISCO SAMUEL LUCCHESI FILHO, Nº 1039
+
+MUNICÍPIO: BRAGANÇA PAULISTA - UF: SP - EXPEDIENTE: 2904802/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: MESSER Gases Ltda - CNPJ: 60.619.202/0048-01 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: Rodovia Cônego Domênico Rangoni, s/n Km 59,5
+
+MUNICÍPIO: CUBATÃO - UF: SP - EXPEDIENTE: 2682632/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais (Embalagem primária): Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: RUE DE L'INSTITUT, 89, 1330, RIXENSART - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0271
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 2321358/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE MANUFACTURING S.P.A.
+
+ENDEREÇO: STRADA PROVINCIALE ASOLANA Nº 90 (LOC. SAN POLO), 43056 TORRILE (PR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0276
+
+EMPRESA SOLICITANTE: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03
+
+AUTORIZ/MS: 1055622 - EXPEDIENTE(s): 0063300/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: CIPLA LIMITED.
+
+ENDEREÇO: PLOT NOS. A-2, A-33 &A-37/2/2, M.I.D.C., PATALGANGA - 410220, RAIGAD, MAHARASHTRA STATE. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0159
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 1893885/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI INDUSTRIES SOUTH AFRICA (PTY) LTD
+
+ENDEREÇO: 315 WALTLOO ROAD, WALTLOO, PRETORIA 0186 - PAÍS: ÁFRICA DO SUL, REPÚBLICA DA - CÓDIGO ÚNICO: A.0822
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 1894052/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: TECNANDINA S.A.
+
+ENDEREÇO: AV. MANUEL CÓRDOVA GALARZA, EL PARAÍSO INTERSECCION, KM 6 1/2, PICHINCHA, QUITO, PUSUQUÍ, NÚMERO: S/N - PAÍS: EQUADOR - CÓDIGO ÚNICO: A.1064
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 4447811/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SHARP &DOHME CORP.
+
+ENDEREÇO: 4633 MERCK ROAD, WILSON, NORTH CAROLINA (NC) 27893 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0402
+
+EMPRESA SOLICITANTE: MERCK SHARP &DOHME FARMACEUTICA LTDA - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 2777088/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: IMMACULE LIFESCIENCES PVT. LTD.
+
+ENDEREÇO: VILL. THANTHEWAL, ROPAR ROAD, NALAGARH, DISTT SOLAN, H.P. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1226
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 0444872/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: BIOLAB SANUS FARMACÊUTICA LTDA. - CNPJ: 49.475.833/0018-46 - AUTORIZ/MS: 1009744
+
+ENDEREÇO: AVENIDA FRANCISCO SAMUEL LUCCHESI FILHO, Nº 1039
+
+MUNICÍPIO: BRAGANÇA PAULISTA - UF: SP - EXPEDIENTE: 2904738/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Soluções; Suspensões
+
+.........................................
+
+EMPRESA: BIOLAB SANUS FARMACÊUTICA LTDA. - CNPJ: 49.475.833/0018-46 - AUTORIZ/MS: 1009744
+
+ENDEREÇO: AVENIDA FRANCISCO SAMUEL LUCCHESI FILHO, Nº 1039
+
+MUNICÍPIO: BRAGANÇA PAULISTA - UF: SP - EXPEDIENTE: 2904784/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON (UK) LIMITED
+
+ENDEREÇO: UNITS 2-7, WYE VALLEY BUSINESS PARK, BRECON ROAD, HAY-ON-WYE, HEREFORD, HR3 5PG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0834
+
+EMPRESA SOLICITANTE: MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICOS LTDA - CNPJ: 15.127.898/0001-30
+
+AUTORIZ/MS: 1091981 - EXPEDIENTE(s): 2209474/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos

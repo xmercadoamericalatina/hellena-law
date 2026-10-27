@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.784, DE 30 DE Abril DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1784"
+data: 2021-04-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/05/2021, seção 1, p. 304"
+data_publicacao: 2021-05-03
+edicao: "81"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.784-de-30-de-abril-de-2021-317378842"
+sha256_html_fonte: d61076ac4789860d911f9c00b4a68001e4c6b58154def323e2f1f92ae22b8c42
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 1.784, DE 30 DE Abril DE 2021
+
+RESOLUÇÃO RE Nº 1.784, DE 30 DE Abril DE 2021
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NÉLIO CÉZAR DE AQUINO
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: VITAL RESÍDUOS LTDA
+
+ENDEREÇO: RUA BARONESA DO CERRO AZUL, Nº 1086
+
+BAIRRO: COSTEIRA
+
+MUNICÍPIO: PARANAGUÁ
+
+UF: PR
+
+CEP: 83.203-420
+
+CNPJ: 36.349.288/0001-51
+
+PROCESSO Nº.: 25743.063371/2021-72 (EXP: 0634676/21-6)
+
+AUTORIZ/MS: 9.09537-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: PARANÁ-OIL - COMÉRCIO DE ÓLEOS LTDA - ME
+
+ENDEREÇO: RUA SOARES GOMES, 1327 SALA 06
+
+BAIRRO: BOCKMANN
+
+MUNICÍPIO: PARANAGUÁ
+
+UF: PR
+
+CEP: 83.206-290
+
+CNPJ: 13.719.165/0001-60
+
+PROCESSO Nº.: 25743.306523/2021-37 (EXP: 1360533/21-0)
+
+AUTORIZ/MS: 9.09536-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: BRASLIMP SERVIÇOS LTDA
+
+ENDEREÇO: RUA ÉRICO VERÍSSIMO, Nº 434
+
+BAIRRO: SÃO DIOGO II
+
+MUNICÍPIO: SERRA
+
+UF: ES
+
+CEP: 29.163-163
+
+CNPJ: 32.444.895/0001-40
+
+PROCESSO: 25748.357565/2021-96 (EXP: 1515249/21-9)
+
+AUTORIZ/MS: 9.09538-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: DAMIAO LARROQUE PEREIRA.
+
+ENDEREÇO: BC WILKENS DE MATOS Nº 179 - AME
+
+BAIRRO: NOSSA SENHORA APARECIDA
+
+MUNICÍPIO: MANAUS
+
+UF: AM
+
+CEP: 69.010-423
+
+CNPJ: 20.541.065/0001-51
+
+PROCESSO: 25351.258778/2020-17 (EXP: 3623728/20-1)
+
+AUTORIZAÇÃO / MS: 9.09539-5
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: ECO RIO SOLUÇÕES AMBIENTAIS EIRELI - EPP
+
+ENDEREÇO: RUA FELIZARDO FORTES, 274
+
+BAIRRO: RAMOS
+
+MUNICÍPIO: RIO DE JANEIRO
+
+UF: RJ
+
+CEP: 21.031-160
+
+CNPJ: 18.816.010/0001-65
+
+PROCESSO: 25752.310984/2020-14 (EXP: 3725647/20-5)
+
+AUTORIZ/MS: 9.09535-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.

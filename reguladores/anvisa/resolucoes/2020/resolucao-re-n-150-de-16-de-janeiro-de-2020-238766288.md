@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 150, de 16 de janeiro de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "150"
+data: 2020-01-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/01/2020, seção 1, p. 123"
+data_publicacao: 2020-01-20
+edicao: "13"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-150-de-16-de-janeiro-de-2020-238766288"
+sha256_html_fonte: f6d333e078996d026179b492dd25bfcfe879c6a251ffb6f3ffe11655136c9f90
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 150, de 16 de janeiro de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 150, de 16 de janeiro de 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes do anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: DUARTE SOUSA LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA BONAIRE, 74</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 65930000 - AÇAILÂNDIA/MA</p><p class="dou-paragraph" >CNPJ: 30.162.244/0001-31</p><p class="dou-paragraph" >PROCESSO: 25351.749185/2019-13</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19781-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: PHARMACIE FARMACIA DE MANIPULAÇÃO LTDA</p><p class="dou-paragraph" >ENDEREÇO: AV. CONSELHEIRO AGUIAR,1472 -LOJA 74/75</p><p class="dou-paragraph" >BAIRRO: BOA VIAGEM CEP: 51111010 - RECIFE/PE</p><p class="dou-paragraph" >CNPJ: 33.791.210/0001-02</p><p class="dou-paragraph" >PROCESSO: 25351.015358/2020-30</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19791-6</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: MARCELA DE MORAES OURIQUE &amp; CIA LTDA -</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA SENADOR PINHEIRO MACHADO, Nº 2504</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 97800000 - SÃO LUIZ GONZAGA/RS</p><p class="dou-paragraph" >CNPJ: 02.671.419/0001-09</p><p class="dou-paragraph" >PROCESSO: 25351.413954/2014-33</p><p class="dou-paragraph" >AUTORIZ/MS: 1.11144-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: LUNA MANIPULACAO E HOMEOPATIA EIRELI</p><p class="dou-paragraph" >ENDEREÇO: Número 4 quadra 19 2° etapa</p><p class="dou-paragraph" >BAIRRO: Recanto dos Passaros CEP: 78075210 - CUIABÁ/MT</p><p class="dou-paragraph" >CNPJ: 31.764.330/0001-87</p><p class="dou-paragraph" >PROCESSO: 25351.749687/2019-44</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19804-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: TCHE FABI PRODUTOS HOMEOPATICOS LTDA</p><p class="dou-paragraph" >ENDEREÇO: Rua 7 de Setembro, 01</p><p class="dou-paragraph" >BAIRRO: centro CEP: 75020420 - ANÁPOLIS/GO</p><p class="dou-paragraph" >CNPJ: 02.680.775/0001-80</p><p class="dou-paragraph" >PROCESSO: 25351.749180/2019-91</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19782-5</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

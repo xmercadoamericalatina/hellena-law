@@ -1,0 +1,212 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.796, DE 15 DE Julho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2796"
+data: 2021-07-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/07/2021, seção 1, p. 168"
+data_publicacao: 2021-07-19
+edicao: "134"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.796-de-15-de-julho-de-2021-332697022"
+sha256_html_fonte: 0b1849f7c94e4313bab520aa817f8e235132f933383ae9eb0d5c26d2dc22f681
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.796, DE 15 DE Julho DE 2021
+
+RESOLUÇÃO RE Nº 2.796, DE 15 DE Julho DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, Substituta, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA FABRICANTE: ABBVIE S.R.L.
+
+ENDEREÇO: S.R. 148 PONTINA, KM 52 SNC, 04011, CAMPOVERDE DI APRILIA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000011
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1035033/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO SA
+
+ENDEREÇO: ZONE INDUSTRIALLE DE L'OURIETTAZ CH-1170, AUBONNE - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000408
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 4608931/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NOVEN PHARMACEUTICALS, INC.
+
+ENDEREÇO: 11960 SW 144TH STREET, MIAMI, FLORIDA (FL) 33186 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000440
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4322239/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+.........................................
+
+EMPRESA: J.R.D.INDUSTRIA FARMACEUTICA LTDA. - CNPJ: 03.869.526/0002-81 - AUTORIZ/MS: 1027899
+
+ENDEREÇO: Rua VPR - 03 Quadra 02-A, Mod. 48 e 49
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 2502065/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: HOSPIRA, INC.
+
+ENDEREÇO: 1776 NORTH CENTENNIAL DRIVE, MCPHERSON, KANSAS - 67460 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000306
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 0429429/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: FAES FARMA, S.A.
+
+ENDEREÇO: CALLE MÁXIMO AGUIRRE, 14, LEJONA 48940 (VIZCAYA) - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000659
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 4094653/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: ATLANTIC PHARMA - PRODUÇÕES FARMACÊUTICAS, S.A.
+
+ENDEREÇO: RUA DA TAPADA GRANDE, Nº 2, ABRUNHEIRA, SINTRA, 2710-089 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.000885
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 4461851/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: HOSPIRA, INC.
+
+ENDEREÇO: 1776 NORTH CENTENNIAL DRIVE, MCPHERSON, KANSAS - 67460 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000306
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 4094830/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 4322019/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: HOSPIRA, INC.
+
+ENDEREÇO: 1776 NORTH CENTENNIAL DRIVE, MCPHERSON, KANSAS - 67460 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000306
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 3845209/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: MERCKLE GMBH
+
+ENDEREÇO: LUDWIG-MERCKLE-STRASSE 3, 89143 BLAUBEUREN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000416
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 0319750/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000033
+
+EMPRESA SOLICITANTE: VERTEX FARMACEUTICA DO BRASIL LTDA. - CNPJ: 21.798.065/0001-02
+
+AUTORIZ/MS: 1138239 - EXPEDIENTE(s): 4175512/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: RECIPHARM FONTAINE
+
+ENDEREÇO: RUE DES PRÉS POTETS, 21121 FONTAINE LES DIJON - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000946
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 4447805/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária): Cápsulas
+
+.........................................
+
+EMPRESA: OXYNOBRE GASES INDUSTRIAIS LTDA - CNPJ: 16.685.196/0001-35 - AUTORIZ/MS: 1199172
+
+ENDEREÇO: via PRIMÁRIA 1 QD 03 LTS 14 A 21 E 49 A 56
+
+MUNICÍPIO: ITUMBIARA - UF: GO - EXPEDIENTE: 2534509/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: RIOQUIMICA S.A. - CNPJ: 55.643.555/0001-43 - AUTORIZ/MS: 1015201
+
+ENDEREÇO: AV TARRAF 2590 2600
+
+MUNICÍPIO: SÃO JOSÉ DO RIO PRETO - UF: SP - EXPEDIENTE: 0438561/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA: MESSER GASES LTDA - CNPJ: 60.619.202/0017-05 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: RUA FERNANDO LAMARCA Nº90
+
+MUNICÍPIO: JUIZ DE FORA - UF: MG - EXPEDIENTE: 2652705/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais

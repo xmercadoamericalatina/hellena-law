@@ -1,0 +1,76 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.757, DE 19 DE AGOSTO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2757"
+data: 2022-08-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/08/2022, seção 1, p. 278"
+data_publicacao: 2022-08-22
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.757-de-19-de-agosto-de-2022-423850686"
+sha256_html_fonte: 66fe63a2cfa480d4514b0faa0842a9e332a5e6d4d157fd42f56182c05e2e696b
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.757, DE 19 DE AGOSTO DE 2022
+
+RESOLUÇÃO-RE Nº 2.757, DE 19 DE AGOSTO DE 2022
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+COPEXMED DISTRIBUIDORA DE MEDICAMENTOS E MATERIAL HOSPITALAR LTDA / 44.899.747/0001-07
+
+25351.163423/2022-02 / 1278811
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4375608226
+
+ELFA MEDICAMENTOS S.A / 09.053.134/0016-21
+
+25351.284822/2022-06 / 1278779
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4526582221
+
+NOS IMPORTACAO E EXPORTACAO LTDA / 24.142.678/0001-77
+
+25351.288424/2022-51 / 1278842
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4533274226
+
+ORVALHO FARMACIA DE MANIPULACAO EIRELI / 72.855.497/0002-11
+
+25351.250966/2022-51 / 1278860
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 4495252220
+
+JB TRANSPORTES & LOGISTICA LTDA / 10.943.286/0001-00
+
+25351.288872/2022-54 / 1278839
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4533755224
+
+EMS S/A / 57.507.378/0011-75
+
+25351.257598/2022-71 / 1278856
+
+731 - AE - CONCESSÃO - INDÚSTRIA DE MEDICAMENTOS / 4499743222
+
+ELSON A DOS S LIMA & CIA LTDA / 37.082.334/0001-61
+
+25351.491834/2022-87 / 1278808
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2413879226
+
+LTM TRANSPORTES LTDA / 45.802.201/0001-40
+
+25351.288850/2022-94 / 1278825
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4533732224

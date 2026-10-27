@@ -1,0 +1,276 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 60, DE 7 DE JANEIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "60"
+data: 2022-01-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/01/2022, seção 1, p. 185"
+data_publicacao: 2022-01-10
+edicao: "6"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-60-de-7-de-janeiro-de-2022-372811301"
+sha256_html_fonte: c053a5ba24f684626b55528a8a741a26907785524f46ae1f9dbf92fd401f8aa8
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 60, DE 7 DE JANEIRO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 60, DE 7 DE JANEIRO DE 2022</p>
+  <p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º. Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >SAUDE FARMA MEDICAMENTOS LTDA / 44.283.587/0001-69</p>
+  <p class="dou-paragraph" >25351.215168/2021-00 / 7868988</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632919214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SOCIAL COMERCIO DE MEDICAMENTOS LTDA / 43.347.325/0001-58</p>
+  <p class="dou-paragraph" >25351.215175/2021-01 / 7869034</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632955211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >rcmed distribuidora ltda / 41.990.236/0001-08</p>
+  <p class="dou-paragraph" >25351.169348/2021-02 / 8239699</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 6980670212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1071-68</p>
+  <p class="dou-paragraph" >25351.215182/2021-03 / 7869096</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632976213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA SOUZA GUEDES LTDA / 43.995.295/0001-96</p>
+  <p class="dou-paragraph" >25351.215166/2021-11 / 7868961</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632913215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >gomed comercio de produtos hospitalares eireli - me / 20.486.074/0001-97</p>
+  <p class="dou-paragraph" >25351.319241/2021-11 / 8237025</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 3665292212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A B F COMERCIO DE MEDICAMENTOS LTDA / 44.565.298/0001-52</p>
+  <p class="dou-paragraph" >25351.215173/2021-12 / 7869017</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632929211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BBC EMPREENDIMENTOS FARMACÊUTICOS LTDA / 43.641.958/0001-74</p>
+  <p class="dou-paragraph" >25351.215180/2021-14 / 7869079</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632970214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >M L DA ROCHA NEVES / 42.400.851/0001-71</p>
+  <p class="dou-paragraph" >25351.568938/2021-14 / 7857145</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 4141859210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1090-20</p>
+  <p class="dou-paragraph" >25351.215171/2021-15 / 7869003</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632926217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA STRAFARMA LTDA / 02.728.506/0018-95</p>
+  <p class="dou-paragraph" >25351.215189/2021-17 / 7869160</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632997216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA LIDER DE PINTOPOLIS LTDA / 41.578.494/0001-73</p>
+  <p class="dou-paragraph" >25351.007303/2022-18 / 7869247</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 6962615214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >rcmed distribuidora ltda / 41.990.236/0001-08</p>
+  <p class="dou-paragraph" >25351.169351/2021-18 / 1267868</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 6980676211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA STRAFARMA LTDA / 02.728.506/0021-90</p>
+  <p class="dou-paragraph" >25351.215196/2021-19 / 7869220</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633018214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MASTER FARMA COMERCIO DE PRODUTOS FARMACEUTICOS / 36.142.554/0002-51</p>
+  <p class="dou-paragraph" >25351.215194/2021-20 / 7869202</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633012215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA DROGAEME LTDA / 35.341.506/0002-20</p>
+  <p class="dou-paragraph" >25351.215187/2021-28 / 7869142</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632991217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PRAZMED COMERCIO VAREJISTA DA GASES EIRELI / 07.504.281/0001-69</p>
+  <p class="dou-paragraph" >25351.169608/2021-31 / 8239745</p>
+  <p class="dou-paragraph" >860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 6980881213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >comércio de medicamentos maeoka ltda / 00.751.089/0055-10</p>
+  <p class="dou-paragraph" >25351.575281/2021-33 / 7857159</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 4153452212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >VITORIA PROVEDORA LOGISTICA LTDA / 03.094.114/0031-51</p>
+  <p class="dou-paragraph" >25351.319239/2021-34 / 8237011</p>
+  <p class="dou-paragraph" >862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 3665290210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >B.R. HOSP DISTRIBUIDORA LTDA / 42.125.513/0001-79</p>
+  <p class="dou-paragraph" >25351.537235/2021-36 / 8239671</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 4076433211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >C.F.BARROSO FRALDAS &amp; MEDICAMENTOS / 03.774.634/0001-90</p>
+  <p class="dou-paragraph" >25351.215178/2021-37 / 7869065</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632964210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA PHARMALIFE JF LTDA / 43.287.318/0001-08</p>
+  <p class="dou-paragraph" >25351.215185/2021-39 / 7869125</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632985212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >G DE J S BATALHA JUNIOR / 44.130.506/0001-90</p>
+  <p class="dou-paragraph" >25351.215183/2021-40 / 7869108</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632979218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >comércio de medicamentos maeoka ltda / 00.751.089/0057-82</p>
+  <p class="dou-paragraph" >25351.215190/2021-41 / 7869173</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633000211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA SANTA CRUZ RJ LTDA / 42.950.547/0001-06</p>
+  <p class="dou-paragraph" >25351.215169/2021-46 / 7868991</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632922214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Baxter Hospitalar LTDA / 49.351.786/0011-52</p>
+  <p class="dou-paragraph" >25351.169412/2021-47 / 8239701</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 6980768212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >B F S COMERCIO DE MEDICAMENTOS LTDA / 44.497.960/0001-84</p>
+  <p class="dou-paragraph" >25351.215176/2021-48 / 7869048</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632958215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EDSON SILVA TRANSPORTES E MUDANCAS EIRELI / 20.938.415/0001-18</p>
+  <p class="dou-paragraph" >25351.710851/2021-48 / 4040103</p>
+  <p class="dou-paragraph" >728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 4424379213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >rcmed distribuidora ltda / 41.990.236/0001-08</p>
+  <p class="dou-paragraph" >25351.169349/2021-49 / 4041555</p>
+  <p class="dou-paragraph" >723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 6980672215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RA FARMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME / 43.120.972/0001-22</p>
+  <p class="dou-paragraph" >25351.215181/2021-51 / 7869082</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632973219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >KARLA MELYSE DE CASTRO LOPES / 42.819.905/0001-38</p>
+  <p class="dou-paragraph" >25351.145927/2021-51 / 7857128</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3317552217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Orthofacos Produtos para Ortopedia e Oftalmologia Ltda / 41.227.287/0001-74</p>
+  <p class="dou-paragraph" >25351.710881/2021-54 / 8237060</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 4424413217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >NOVO AROMA COMERCIO DE PRODUTOS DE LIMPEZA &amp; HIGIENE LTDA / 07.904.575/0001-88</p>
+  <p class="dou-paragraph" >25351.169530/2021-55 / 8239731</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 6980836218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COSTA &amp; BENVINDO DROGARIA LTDA / 30.991.356/0002-86</p>
+  <p class="dou-paragraph" >25351.215167/2021-57 / 7868974</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632916210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >THALITA RODRIGUES GANDRA SANTOS / 44.230.854/0001-30</p>
+  <p class="dou-paragraph" >25351.215174/2021-59 / 7869021</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632952216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MILCLEAN INDUSTRIA DE COMERCIO DE PRODUTOS PARA LIMPEZA LTDA / 24.209.655/0001-32</p>
+  <p class="dou-paragraph" >25351.169345/2021-61 / 3110151</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 6980664212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >rcmed distribuidora ltda / 41.990.236/0001-08</p>
+  <p class="dou-paragraph" >25351.169352/2021-62 / 3110165</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 6980678213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TECNOLMED GESTAO CLINICA LTDA / 39.966.868/0001-86</p>
+  <p class="dou-paragraph" >25351.169497/2021-63 / 8239728</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 6980822217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TPP TECHNO PLASTIC PRODUCTS BRASIL LTDA / 39.941.668/0001-79</p>
+  <p class="dou-paragraph" >25351.878897/2021-63 / 8238827</p>
+  <p class="dou-paragraph" >859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 4711671218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MAIS SAUDE PHARMA LTDA / 44.458.567/0001-81</p>
+  <p class="dou-paragraph" >25351.215197/2021-63 / 7869233</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633021214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BAVIPLAST EMBALAGENS PLASTICAS EIRELI - EPP / 59.069.559/0001-10</p>
+  <p class="dou-paragraph" >25351.628288/2021-65 / 8237039</p>
+  <p class="dou-paragraph" >861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2327910218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FRANCISCO REIS ALVES / 42.598.093/0001-48</p>
+  <p class="dou-paragraph" >25351.347021/2021-70 / 7857131</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3719616212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Drogaria LVD LTDA / 03.610.682/0013-86</p>
+  <p class="dou-paragraph" >25351.215188/2021-72 / 7869156</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632994211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MILCLEAN INDUSTRIA DE COMERCIO DE PRODUTOS PARA LIMPEZA LTDA / 24.209.655/0001-32</p>
+  <p class="dou-paragraph" >25351.169350/2021-73 / 4041541</p>
+  <p class="dou-paragraph" >723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 6980674218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JEFERSON C. MANOEL OKANO - FARMACIAS E DROGARIAS / 36.963.140/0001-02</p>
+  <p class="dou-paragraph" >25351.215195/2021-74 / 7869216</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633015210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GS SURGICAL COMERCIO DE MATERIAIS MEDICOS E ODONTOLOGICOS LTDA / 42.571.743/0001-61</p>
+  <p class="dou-paragraph" >25351.169623/2021-80 / 8239668</p>
+  <p class="dou-paragraph" >859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 6980903217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EDSON SILVA TRANSPORTES E MUDANCAS EIRELI / 20.938.415/0001-18</p>
+  <p class="dou-paragraph" >25351.710847/2021-80 / 1265819</p>
+  <p class="dou-paragraph" >701 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA (SOMENTE MATRIZ) / 4424375218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >QR CONSULTING, IMPORTACAO E DISTRIBUICAO DE PRODUTOS MEDICOS LTDA / 19.933.144/0001-29</p>
+  <p class="dou-paragraph" >25351.275797/2021-81 / 4038041</p>
+  <p class="dou-paragraph" >722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTADORA (SOMENTE MATRIZ) / 3579026216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EVORA FARMACIA DE MANIPULACAO LTDA / 41.307.848/0001-45</p>
+  <p class="dou-paragraph" >25351.813238/2021-81 / 7869251</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 4619698216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDFARMA LTDA / 44.553.341/0001-60</p>
+  <p class="dou-paragraph" >25351.215186/2021-83 / 7869139</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632988217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >QR CONSULTING, IMPORTACAO E DISTRIBUICAO DE PRODUTOS MEDICOS LTDA / 19.933.144/0001-29</p>
+  <p class="dou-paragraph" >25351.275620/2021-84 / 3107608</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 3579210211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ALVOFARMA LTDA / 37.469.363/0002-61</p>
+  <p class="dou-paragraph" >25351.215193/2021-85 / 7869191</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633009215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >E DONHA RIBEIRO / 42.207.031/0001-68</p>
+  <p class="dou-paragraph" >25351.575282/2021-88 / 7857162</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 4153462210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >M DA C PORTELA / 42.783.734/0001-34</p>
+  <p class="dou-paragraph" >25351.728081/2021-90 / 7867675</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 6996765212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >B.R. HOSP DISTRIBUIDORA LTDA / 42.125.513/0001-79</p>
+  <p class="dou-paragraph" >25351.550987/2021-92 / 1267841</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 4112868219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA NAQUEFARMA LTDA / 44.550.379/0001-89</p>
+  <p class="dou-paragraph" >25351.215177/2021-92 / 7869051</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632961215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JC MEDICAMENTOS LTDA / 11.814.531/0003-04</p>
+  <p class="dou-paragraph" >25351.215184/2021-94 / 7869111</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7632982218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CH TRINKS INDÚSTRIA COMÉRCIO E SERVIÇOS LTDA / 39.647.058/0001-67</p>
+  <p class="dou-paragraph" >25351.227659/2021-95 / 8237042</p>
+  <p class="dou-paragraph" >861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 3476742211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMA FREIRE LTDA / 44.426.298/0001-71</p>
+  <p class="dou-paragraph" >25351.215191/2021-96 / 7869187</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 7633003216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DONATO HENRIQUE GONÇALVES ME / 27.340.246/0001-69</p>
+  <p class="dou-paragraph" >25351.169237/2021-98 / 8239685</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 6980568213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ATIVA DISTRIBUIÇÃO E LOGISTICA LTDA / 01.125.797/0020-89</p>
+  <p class="dou-paragraph" >25351.169614/2021-99 / 8239654</p>
+  <p class="dou-paragraph" >862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 6980897217</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

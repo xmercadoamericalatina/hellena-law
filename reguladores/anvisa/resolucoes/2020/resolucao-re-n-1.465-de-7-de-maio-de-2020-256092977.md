@@ -1,0 +1,23 @@
+---
+titulo: "Resolução-RE nº 1.465, de 7 de MAIO de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1465"
+data: 2020-05-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2020, seção 1, p. 137"
+data_publicacao: 2020-05-11
+edicao: "88"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.465-de-7-de-maio-de-2020-256092977"
+sha256_html_fonte: a27ebde3079f1fb62e6264d37d7e07166469bd3eea9b13aa6e4f512131a15ec4
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# Resolução-RE nº 1.465, de 7 de MAIO de 2020
+
+<div class="texto-dou"><p class="identifica">Resolução-RE nº 1.465, de 7 de MAIO de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">Carlos Alexandre Oliveira Gomes</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >CLASSIFICAÇÃO TOXICOLÓGICA</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >BASF S/A - 48.539.407/0001-18</p><p class="dou-paragraph" >PENDULUM AQUA</p><p class="dou-paragraph" >25351.551117/2010-92</p><p class="dou-paragraph" >5121 - Registro simplificado nível IV - Produto Formulado - Produto com ingrediente ativo já registrado no País</p><p class="dou-paragraph" >Categoria 4 - Produto Pouco Tóxico</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >DU PONT DO BRASIL SA - 61.064.929/0001-79</p><p class="dou-paragraph" >ACAPELA BR</p><p class="dou-paragraph" >25351.262481/2011-91</p><p class="dou-paragraph" >5121 - Registro simplificado nível IV - Produto Formulado - Produto com ingrediente ativo já registrado no País</p><p class="dou-paragraph" >Categoria 5 - Produto Improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >RAINBOW DEFENSIVOS AGRÍCOLAS LTDA / 10.486.463/0001-69</p><p class="dou-paragraph" >SURRENA</p><p class="dou-paragraph" >25351.758286/2014-10</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1115725/14-9</p><p class="dou-paragraph" >Categoria 5 - Produto Improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA / 42.462.952/0001-77</p><p class="dou-paragraph" >LUMIALZA TM</p><p class="dou-paragraph" >25351.721361/2019-52</p><p class="dou-paragraph" >5086 - PRODUTO MICROBIOLÓGICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO MICROBIOLÓGICO JÁ REGISTRADO NO PAÍS, 3469309/19-1</p><p class="dou-paragraph" >Não Classificado</p><p class="dou-paragraph" >AVEO EZ TM</p><p class="dou-paragraph" >25351.721358/2019-39</p><p class="dou-paragraph" >5086 - PRODUTO MICROBIOLÓGICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO MICROBIOLÓGICO JÁ REGISTRADO NO PAÍS, 3469294/19-4</p><p class="dou-paragraph" >Não Classificado</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >ZHONGSHAN QUÍMICA DO BRASIL LTDA / 28.514.525/0001-64</p><p class="dou-paragraph" >DK MAX</p><p class="dou-paragraph" >25351.049996/2016-68</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1713953/16-8</p><p class="dou-paragraph" >Categoria 5 - Produto Improvável de Causar Dano Agudo</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

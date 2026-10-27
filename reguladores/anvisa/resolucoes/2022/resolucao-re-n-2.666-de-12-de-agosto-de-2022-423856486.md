@@ -1,0 +1,106 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.666, DE 12 DE AGOSTO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2666"
+data: 2022-08-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/08/2022, seção 1, p. 278"
+data_publicacao: 2022-08-22
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.666-de-12-de-agosto-de-2022-423856486"
+sha256_html_fonte: e8292927f64b23f0e19116f220cc259f20218595abd764194d140acc60af315a
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.666, DE 12 DE AGOSTO DE 2022
+
+RESOLUÇÃO-RE Nº 2.666, DE 12 DE AGOSTO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: TRANSPORTE EXCELSIOR LTDA
+
+ENDEREÇO: AV. COPACABANA, S/Nº
+
+BAIRRO: MORADA DE LARANJAS
+
+MUNICÍPIO: SERRA
+
+UF: ES
+
+CEP: 29.166-820
+
+CNPJ: 32.492.373/0001-13
+
+PROCESSO: 25351.582503/2021-74 (EXP. 4171047/21-8)
+
+AUTORIZ/MS: 9.09952-1
+
+ÁREA: PAF
+
+ATIVIDADE:PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+MOTIVO: TRANSCURSO DE PRAZO DE ANÁLISE DA RDC 416/2020, CONFORME DISPOSTO NO ART. 10º § 1º, DO DECRETO 10.178/2019. PUBLICAÇÃO RETROATIVA À 21/12/2021.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: BULBLESS SERVICOS AMBIENTAIS LTDA
+
+ENDEREÇO: R LOANDA, Nº 574
+
+BAIRRO: CHÁCARAS REUNIDAS
+
+MUNICÍPIO: SÃO JOSÉ DOS CAMPOS
+
+UF: SP
+
+CEP: 12.238-330
+
+CNPJ: 13.844.834/0001-25
+
+PROCESSO: 25351.180788/2022-93 (EXP: 4405966/22-2)
+
+AUTORIZ/MS: 9.09950-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: UNIÃO DESINSETIZADORA E DESENTUPIDORA LTDA
+
+ENDEREÇO: RUA URUSSANGA, Nº 341 SALA 01
+
+BAIRRO: BUCAREIN
+
+MUNICÍPIO: JOINVILLE
+
+UF: SC
+
+CEP: 89.202-400
+
+CNPJ: 30.163.234/0001-10
+
+PROCESSO N°: 25741.000027/2022-73 (EXP:1449401/22-8)
+
+AUTORIZ/MS: 9.09944-3
+
+ÁREA: PAF
+
+ATIVIDADE:PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;

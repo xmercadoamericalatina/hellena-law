@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 938, DE 1° DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "938"
+data: 2020-04-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2020, seção 1, p. 124"
+data_publicacao: 2020-04-06
+edicao: "66"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-938-de-1-de-abril-de-2020-251283453"
+sha256_html_fonte: 5c4fed5849e0b2158ea6235fa5eedadcc25c91dedfdd4176473561eb0381711a
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 938, DE 1° DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 938, DE 1° DE ABRIL DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Janssen Sciences Ireland UC</p><p class="dou-paragraph" >Endereço: Barnahely, Ringaskiddy, Co. Cork</p><p class="dou-paragraph" >País: Irlanda</p><p class="dou-paragraph" >Solicitante: Fundação Oswaldo Cruz CNPJ: 33.781.055/0001-35</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.01.063-3 Expediente(s): 0317287/20-6</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: golimumabe.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Lupin Limited (Biotech Division)</p><p class="dou-paragraph" >Endereço: GAT NO. 1156, Village Ghotawade, Taluka-Mulshi Pune 412115, Maharashtra State</p><p class="dou-paragraph" >País: Índia</p><p class="dou-paragraph" >Solicitante: Mylan Laboratórios Ltda CNPJ: 11.643.096/0001-22</p><p class="dou-paragraph" >Autorização de Funcionamento: 1088307 Expediente(s): 0539233/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: etanercepte.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Opocrin S.p.A.</p><p class="dou-paragraph" >Endereço: Via Pacinotti, 3, Corlo di Formigine, 41043 Formigine (MO)</p><p class="dou-paragraph" >País: Itália</p><p class="dou-paragraph" >Solicitante: Chiesi Farmacêutica Ltda. CNPJ: 61.363.032/0001-46</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.058-0 Expediente(s): 2253921/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: alfaporactanto.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Wyeth Pharmaceutical Division of Wyeth Holdings LLC, a subsidiary of Pfizer Inc.</p><p class="dou-paragraph" >Endereço: 4300 Oak Park, Sanford, North Carolina (NC) 27330</p><p class="dou-paragraph" >País: Estados Unidos da América</p><p class="dou-paragraph" >Solicitante: Wyeth Indústria Farmacêutica Ltda. CNPJ: 61.072.393/0001-33</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.02.110-1 Expediente(s): 0616657/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: polissacarídeos capsulares de Streptococcus pneumoniae sorotipos 3, 4, 6B, 9V, 14, 18C, 19A e 23F (conjugados) (etapas de ativação e conjugação); proteína carreadora - CRM 197.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

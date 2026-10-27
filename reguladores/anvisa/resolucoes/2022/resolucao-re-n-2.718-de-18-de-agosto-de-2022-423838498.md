@@ -1,0 +1,360 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.718, DE 18 DE AGOSTO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2718"
+data: 2022-08-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/08/2022, seção 1, p. 265"
+data_publicacao: 2022-08-22
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.718-de-18-de-agosto-de-2022-423838498"
+sha256_html_fonte: b90df9914e7cb3a2c01759b9464d321ae221e832faf558649233100501b4c0d9
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.718, DE 18 DE AGOSTO DE 2022
+
+RESOLUÇÃO-RE Nº 2.718, DE 18 DE AGOSTO DE 2022
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir as petições de Transferência de titularidade e por consequente, cancelar o Registro dos produtos saneantes de risco 2, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor no prazo de 90 (noventa) dias, após a sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT308
+
+25351.397681/2021-00 / 302260034
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812043211
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+SUPER SHOCK ASTRALPOOL
+
+25351.161923/2022-00 / 306260033
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990515222
+
+ALGICIDA CONCENTRADO CHOQUE E MANUTENÇÃO GRANULADO ASTRALPOOL
+
+25351.162010/2022-01 / 306260042
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990933229
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+DETERBOM DESINFETANTE
+
+25351.513781/2014-01 / 322350079
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3320881213
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+ALGICIDA 3 EM 1 CHOQUE E MANUTENÇÃO AXTON
+
+25351.331924/2017-01 / 370110037
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0921048220
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT01
+
+25351.397699/2021-01 / 302260037
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812085216
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+LIMTEC BT348
+
+25351.781208/2018-01 / 322350092
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3320541218
+
+LIMTEC BT306
+
+25351.451861/2010-02 / 322350042
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3319627210
+
+LIMTEC BT309
+
+25351.220073/2014-10 / 322350069
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3319788213
+
+LIMTEC BT01
+
+25351.096204/2014-10 / 322350068
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3318656216
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+CLORO GRANULADO ADITIVADO HIPOCLORITO DE CÁLCIO ASTRALPOOL
+
+25351.712068/2018-13 / 370110060
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911694226
+
+CLORO ORGÂNICO GRANULADO ECO 39% ASTRALPOOL
+
+25351.712084/2018-14 / 370110059
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911794221
+
+CLORO ORGÂNICO ADITIVADO TABLETES ASTRALPOOL
+
+25351.406055/2017-14 / 370110024
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911699228
+
+ALGICIDA CHOQUE E MANUTENÇÃO LÍQUIDO ASTRALPOOL
+
+25351.406042/2017-15 / 370110019
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911028226
+
+CLORO OXY POWER PRO ASTRALPOOL
+
+25351.466724/2020-15 / 370110074
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0912478225
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+LIMTEC BT308
+
+25351.220086/2014-19 / 322350073
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3319760211
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT302
+
+25351.397679/2021-22 / 302260032
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812039214
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+ALGICIDA 3 EM 1 CHOQUE E MANUTENÇÃO AXTON
+
+25351.161974/2022-23 / 306260037
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990820220
+
+SHOCK COMBATE 3 EM 1 BLUEPOOL
+
+25351.198821/2022-31 / 306260044
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 1185756221
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+ALGICIDA LÍQUIDO 3 EM 1 CHOQUE E MANUTENÇÃO BLUEPOOL
+
+25351.359858/2017-31 / 370110007
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 1117570223
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT309
+
+25351.246995/2021-37 / 302260028
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3513380216
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+SHOCK COMBATE 3 EM 1 BLUEPOOL
+
+25351.360022/2017-39 / 370110008
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 1163127221
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+CLORO ORGÂNICO GRANULADO ECO 39% ASTRALPOOL
+
+25351.162004/2022-45 / 306260039
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990915221
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT305
+
+25351.397682/2021-46 / 302260035
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812045214
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+ALGICIDA CONCENTRADO CHOQUE E MANUTENÇÃO GRANULADO ASTRALPOOL
+
+25351.406053/2017-50 / 370110020
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911036229
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+BLUE LINE HEALTH BT981
+
+25351.081746/2015-53 / 322350084
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3320868217
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+LIMTEC BT322
+
+25351.247272/2021-55 / 302260030
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3513687214
+
+LIMTEC BT348
+
+25351.247064/2021-56 / 302260029
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3513474211
+
+LIMTEC BT306
+
+25351.397680/2021-57 / 302260033
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812041219
+
+BLUE LINE HEALTH BT981
+
+25351.397698/2021-59 / 302260036
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3812083213
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+CLORO 5 EM 1 MULTIAÇÃO TABLETE AXTON
+
+25351.331917/2017-61 / 370110022
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0921882220
+
+SUPER SHOCK ASTRALPOOL
+
+25351.406085/2017-63 / 370110021
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0912481226
+
+CLORO ORGÂNICO ESTABILIZADO ADITIVADO MULTIACTION 5 EM 1 ASTRALPOOL
+
+25351.405817/2017-68 / 370110018
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911800221
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+ALGICIDA LÍQUIDO 3 EM 1 CHOQUE E MANUTENÇÃO BLUEPOOL
+
+25351.198863/2022-72 / 306260045
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 1185978224
+
+ALGICIDA CHOQUE E MANUTENÇÃO LÍQUIDO ASTRALPOOL
+
+25351.161950/2022-74 / 306260036
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990691225
+
+TEN FOUR INDÚSTRIA E SERVIÇOS LTDA / 04.778.019/0002-03
+
+CLORO ORGÂNICO ESTABILIZADO ADITIVADO CONCENTRADO SUPREMO ASTRALPOOL
+
+25351.405362/2017-79 / 370110017
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 0911782222
+
+BOM TOQUE INDUSTRIA QUIMICA LTDA. / 37.195.592/0001-54
+
+DETERBOM DESINFETANTE
+
+25351.275571/2021-80 / 302260031
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 3578900214
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+CLORO ORGÂNICO ESTABILIZADO ADITIVADO CONCENTRADO SUPREMO ASTRALPOOL
+
+25351.162014/2022-81 / 306260043
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990947220
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+LIMTEC BT302
+
+25351.766453/2018-81 / 322350094
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3319570218
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+CLORO ORGÂNICO ESTABILIZADO ADITIVADO MULTIACTION 5 EM 1 ASTRALPOOL
+
+25351.161934/2022-81 / 306260034
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990605221
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+LIMTEC BT305
+
+25351.343487/2013-82 / 322350064
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3319580213
+
+FLUIDRA BRASIL INDUSTRIA E COMERCIO LTDA / 09.364.298/0001-93
+
+CLORO OXY POWER PRO ASTRALPOOL
+
+25351.161941/2022-83 / 306260035
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990651223
+
+CLORO GRANULADO ADITIVADO HIPOCLORITO DE CÁLCIO ASTRALPOOL
+
+25351.162007/2022-89 / 306260041
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990921221
+
+CLORO 5 EM 1 MULTIAÇÃO TABLETE AXTON
+
+25351.162005/2022-90 / 306260040
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990916227
+
+CLORO ORGÂNICO ADITIVADO TABLETES ASTRALPOOL
+
+25351.161989/2022-91 / 306260038
+
+333 - REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2 / 0990866220
+
+GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 74.140.831/0001-03
+
+LIMTEC BT322
+
+25351.375139/2018-92 / 322350090
+
+391 - REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade / 3320105213

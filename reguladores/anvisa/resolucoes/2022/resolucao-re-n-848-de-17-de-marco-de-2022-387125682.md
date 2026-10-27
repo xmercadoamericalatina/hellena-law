@@ -1,0 +1,188 @@
+---
+titulo: "RESOLUÇÃO RE Nº 848, DE 17 DE Março DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "848"
+data: 2022-03-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/03/2022, seção 1, p. 208"
+data_publicacao: 2022-03-21
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-848-de-17-de-marco-de-2022-387125682"
+sha256_html_fonte: 791d0a2b130f0c596771046f17228b6e02733585729220cc2b46e081dfeadddb
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 848, DE 17 DE Março DE 2022
+
+RESOLUÇÃO RE Nº 848, DE 17 DE Março DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução de Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: LABORATÓRIOS OSÓRIO DE MORAES LTDA - CNPJ: 19.791.813/0001-75 - AUTORIZ/MS: 1005040
+
+ENDEREÇO: AV CARDEAL EUGENIO PACELLI, 2281
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 3578858/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Pomadas
+
+.........................................
+
+EMPRESA: LABORATÓRIOS OSÓRIO DE MORAES LTDA - CNPJ: 19.791.813/0001-75 - AUTORIZ/MS: 1005040
+
+ENDEREÇO: AV CARDEAL EUGENIO PACELLI, 2281
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 3578851/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Xaropes
+
+.........................................
+
+EMPRESA: LABORATÓRIOS OSÓRIO DE MORAES LTDA - CNPJ: 19.791.813/0001-75 - AUTORIZ/MS: 1005040
+
+ENDEREÇO: AV CARDEAL EUGENIO PACELLI, 2281
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 3578849/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: AIR LIQUIDE BRASIL LTDA - CNPJ: 00.331.788/0024-05 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: ROD BR-101 SUL, 3020, LETRA C
+
+MUNICÍPIO: CABO DE SANTO AGOSTINHO - UF: PE - EXPEDIENTE: 3142714/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA: ANOVIS INDUSTRIAL FARMACÊUTICA LTDA. - CNPJ: 19.426.695/0001-04 - AUTORIZ/MS: 1116786
+
+ENDEREÇO: AV IBIRAMA - 518 PARTE
+
+MUNICÍPIO: TABOÃO DA SERRA - UF: SP - EXPEDIENTE: 3559507/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALTEA FARMACÉUTICA S.A.
+
+ENDEREÇO: CALLE 10 Nº. 65-28 Y CALLE 10 Nº. 65-75 (MUESTREO), BOGOTÁ D.C. - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.000407
+
+EMPRESA SOLICITANTE: MEGALABS FARMACEUTICA S.A. - CNPJ: 33.026.055/0001-20
+
+AUTORIZ/MS: 1001433 - EXPEDIENTE(s): 3747143/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis
+
+.........................................
+
+EMPRESA FABRICANTE: ALTEA FARMACÉUTICA S.A.
+
+ENDEREÇO: CALLE 10 Nº. 65-28 Y CALLE 10 Nº. 65-75 (MUESTREO), BOGOTÁ D.C. - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.000407
+
+EMPRESA SOLICITANTE: MEGALABS FARMACEUTICA S.A. - CNPJ: 33.026.055/0001-20
+
+AUTORIZ/MS: 1001433 - EXPEDIENTE(s): 3747187/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Xampus
+
+.........................................
+
+EMPRESA FABRICANTE: RECHON LIFE SCIENCE AB
+
+ENDEREÇO: SOLDATTORPSVÄGEN 5, LIMHAMN, 216 13 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000523
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 2839302/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: HOLOPACK VERPACKUNGSTECHNIK GMBH
+
+ENDEREÇO: BAHNHOFSTRASSE 18, 74429 - SULZBACH-LAUFEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001113
+
+EMPRESA SOLICITANTE: OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTRIBUIDORA LTDA - CNPJ: 38.909.503/0001-57
+
+AUTORIZ/MS: 1027487 - EXPEDIENTE(s): 3445232/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA PHARMACEUTICAL COMPANY LIMITED
+
+ENDEREÇO: 4720 MITSUI, HIKARI, YAMAGUCHI 743-8502 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000607
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 3578961/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CIPLA LTD
+
+ENDEREÇO: PLOT NO. 9 &10 PHASE II, INDORE SPECIAL ECONOMIC ZONE - PITHAMPUR, DIST, DHAR (M.P) - 454775 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000995
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 3732965/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: FOREST LABORATORIES IRELAND LIMITED
+
+ENDEREÇO: CLONSHAUGH BUSINESS AND TECHNOLOGY PARK, DUBLIN 17, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001130
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 3278599/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ACTAVIS LTD.
+
+ENDEREÇO: BLB 015-016, BULEBEL INDUSTRIAL ESTATE, ZEJTUN ZTN 3000 - PAÍS: MALTA - CÓDIGO ÚNICO: A.000014
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 3746848/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES SAS
+
+ENDEREÇO: ROUTE DE BELLEVILLE-LIEU-DIT MAILLARD, 01400 CHATILLON-SUR-CHALARONNE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000594
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 3347281/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos; Comprimidos Revestidos

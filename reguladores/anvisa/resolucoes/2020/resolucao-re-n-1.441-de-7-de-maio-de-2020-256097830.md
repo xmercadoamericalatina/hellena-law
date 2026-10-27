@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.441, de 7 de maio de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1441"
+data: 2020-05-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2020, seção 1, p. 124"
+data_publicacao: 2020-05-11
+edicao: "88"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.441-de-7-de-maio-de-2020-256097830"
+sha256_html_fonte: 8a40108e3ca66d109005ff4e33eeaf336a8c78f84009df03d0f6eeafa6c3e483
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.441, de 7 de maio de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.441, de 7 de maio de 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >MEDICAL CHIZZOLINI LTDA / 025.067.657/0001-05</p><p class="dou-paragraph" >25351.101588/2017-05 / 1163430</p><p class="dou-paragraph" >7108 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1173891200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >INTEC INTEGRAÇÃO NACIONAL DE TRANSPORTES DE ENCOMENDAS E CARGAS LTDA / 052.134.798/0008-34</p><p class="dou-paragraph" >25351.370907/2017-18 / 1167246</p><p class="dou-paragraph" >7014 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1145561206</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >LICIMASTER DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS MEDICO-HOSPITALAR LTDA - EPP / 020.001.049/0001-76</p><p class="dou-paragraph" >25351.107594/2015-21 / 1136120</p><p class="dou-paragraph" >7108 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1118486208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >LM Comércio de Medicamentos Ltda - ME / 002.090.238/0001-80</p><p class="dou-paragraph" >25351.308098/2018-29 / 1177515</p><p class="dou-paragraph" >7108 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1250632200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >SMART DISTRIBUIDORA DE MEDICAMENTOS LTDA / 028.804.863/0001-30</p><p class="dou-paragraph" >25351.033901/2018-66 / 1174138</p><p class="dou-paragraph" >7108 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1260450200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MAXWELLFARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA ME / 012.584.617/0001-80</p><p class="dou-paragraph" >25351.439769/2017-70 / 1168883</p><p class="dou-paragraph" >7108 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 1250742203</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MEDSAUDE DISTRIBUIDORA DE MEDICAMENTOS LTDA / 027.844.493/0001-00</p><p class="dou-paragraph" >25351.301481/2020-71 / 1237824</p><p class="dou-paragraph" >7105 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - AMPLIAÇÃO DE ATIVIDADES / 1173737209</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >PTS TRANSPORTES E LOGISTICA LTDA - ME / 015.628.632/0001-71</p><p class="dou-paragraph" >25351.106232/2020-73 / 1212093</p><p class="dou-paragraph" >7254 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - AMPLIAÇÃO DE ATIVIDADES / 1234060200</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.422, DE 7 DE MAIO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1422"
+data: 2020-05-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2020, seção 1, p. 117"
+data_publicacao: 2020-05-11
+edicao: "88"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.422-de-7-de-maio-de-2020-256092919"
+sha256_html_fonte: 464526748f23de1125b0716d63597a1631e3598b8c5529d3aea9c80dec0535aa
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.422, DE 7 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.422, DE 7 DE MAIO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados Substituto, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RODOLFO NAVARRO NUNES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: SEATRADE DO BRASIL AGENCIAMENTO MARÍTIMO EIRELI.</p><p class="dou-paragraph" >ENDEREÇO: TV. JOÃO NEPOMUCEN0, N. 5 Complemento QD 407, Lote 05, Sala 01.</p><p class="dou-paragraph" >BAIRRO: VILA DOS CABANOS</p><p class="dou-paragraph" >MUNICÍPIO: BARCARENA</p><p class="dou-paragraph" >UF: PA</p><p class="dou-paragraph" >CEP: 66.445-0000</p><p class="dou-paragraph" >CNPJ: 24.842.107/0001-45</p><p class="dou-paragraph" >PROCESSO N°: 25351.537790/2019-43 (EXP: 0740275/20-9)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.09161-8</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: Prestação de serviço de Administração ou representação de negócios, em nome do representante legal ou responsável direto por embarcação, tomando as providências necessárias ao seu despacho em portos organizados e terminais aquaviários instalados no território nacional;</p><p class="dou-paragraph" >-------------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: PACIFIC COMÉRCIO E COLETA DE RESÍDUOS LTDA.</p><p class="dou-paragraph" >ENDEREÇO: RUA VISCONDE DE JEQUITINHONHA, 287 - SALA 006 - EMP VISCONDE DE JEQUITINHONHA</p><p class="dou-paragraph" >BAIRRO: BOA VIAGEM</p><p class="dou-paragraph" >MUNICÍPIO: RECIFE</p><p class="dou-paragraph" >UF: PE</p><p class="dou-paragraph" >CEP: 51.021-190</p><p class="dou-paragraph" >CNPJ: 33.202.500/0001-65</p><p class="dou-paragraph" >PROCESSO N°: 25757.296261/2020-55 (EXP: 1139782/20-9)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.09167-0</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS</p><p class="dou-paragraph" >------------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: PACIFIC TRANSPORTES DE COMBUSTÍVEIS LTDA.</p><p class="dou-paragraph" >ENDEREÇO: RUA VISCONDE DE JEQUITINHONHA, 287 - SALA 007 - EMP VISCONDE DE JEQUITINHONHA</p><p class="dou-paragraph" >BAIRRO: BOA VIAGEM</p><p class="dou-paragraph" >MUNICÍPIO: RECIFE</p><p class="dou-paragraph" >UF: PE</p><p class="dou-paragraph" >CEP: 51.021-190</p><p class="dou-paragraph" >CNPJ: 33.281.911/0001-93</p><p class="dou-paragraph" >PROCESSO N°: 25757.296472/2020-98 (EXP: 1140034/20-0)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.09168-3</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

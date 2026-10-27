@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 27, DE 5 DE ABRIL DE 2024"
+orgao: "Ministério dos Transportes/Agência Nacional de Transportes Terrestres/Superintendência de Fiscalização de Serviços de Transporte Rodoviário de Cargas e Passageiros"
+tipo: "Portaria"
+numero: "27"
+data: 2024-04-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/04/2024, seção 1, p. 101"
+data_publicacao: 2024-04-09
+edicao: "68"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-27-de-5-de-abril-de-2024-552774598"
+sha256_html_fonte: f8ddad99c28ab61e688532ad7f0a7d125a77f4927216699fc41d1d0334e7a119
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 27, DE 5 DE ABRIL DE 2024
+
+PORTARIA Nº 27, DE 5 DE ABRIL DE 2024
+
+O Superintendente de Fiscalização de Serviços de Transporte Rodoviário de Cargas e Passageiros da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições que lhe confere o Art. 13 do anexo da Resolução nº 5.083, de 27 de abril de 2016, o Art. 33, IX, da Resolução nº 5.976, de 7 de abril de 2022 e o Art. 30, V, da Instrução Normativa nº 05, de 23 de abril de 2021, considerando os fatos noticiados nos autos do processo 50500.317845/2023-73 e 50500.343377/2023-92, resolve:
+
+**Art. 1º** Revogar a Portaria nº 64, de 27 de novembro de 2023, publicada no D.O.U. nº 226, de 29 de novembro de 2023.
+
+**Art. 2º** Com a revogação da Portaria nº 64, 27 de novembro de 2023, retomam-se os efeitos da medida cautelar aplicada pela Portaria nº 52, de 19 de Outubro de 2023, no que se refere a empresa Viação Esmeralda Transportes Ltda, até que se cumpram os requisitos nela estabelecidos, ou até decisão de mérito do Processo Administrativo Ordinário.
+
+**Art. 3º** Determinar que a empresa apresente novo plano de manutenção, adequado ao Novo Marco Regulatório do Transporte Rodoviário Interestadual de Passageiros, conforme previsto nos art. 85 e 86 da Resolução 6.033/2024, no prazo de 30 (trinta) dias.
+
+**Art. 4º** Determinar abertura de Ordem de Serviço para verificação do cumprimento das disposições relativas à retomada da suspensão de todas as linhas empresa.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+FELIPE RICARDO DA COSTA FREITAS

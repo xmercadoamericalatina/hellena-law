@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.468, DE 23 DE Junho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2468"
+data: 2021-06-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/06/2021, seção 1, p. 171"
+data_publicacao: 2021-06-28
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.468-de-23-de-junho-de-2021-328290165"
+sha256_html_fonte: 6e11bb564e61cf3d2fbd81ca249fe298fdedc55dbebee67b5751b2f00ddd024d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.468, DE 23 DE Junho DE 2021
+
+RESOLUÇÃO RE Nº 2.468, DE 23 DE Junho DE 2021
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, da Agência Nacional de Vigilância Sanitária, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NÉLIO CÉZAR DE AQUINO
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: IN SOLO APOIO AÉREO EIRELI.
+
+ENDEREÇO: RUA TENENTE JOÃO MAURÍCIO DE MEDEIROS, 300
+
+BAIRRO: AEROPORTO
+
+MUNICÍPIO: LONDRINA
+
+UF: PR
+
+CEP: 86039-100
+
+CNPJ: 02.772.466/0001-30
+
+PROCESSO Nº.: 25743356769/2021-50 (EXP: 1512138/21-1)
+
+AUTORIZ/MS: 9.09596-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: IN SOLO APOIO AÉREO EIRELI.
+
+ENDEREÇO: RUA TENENTE JOÃO MAURÍCIO DE MEDEIROS, 300
+
+BAIRRO: AEROPORTO
+
+MUNICÍPIO: LONDRINA
+
+UF: PR
+
+CEP: 86039-100
+
+CNPJ: 02.772.466/0001-30
+
+PROCESSO Nº.: 25743.356759/2021-14 (EXP: 1512086/21-4)
+
+AUTORIZ/MS: 9.09597-5
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: UNIAIR TAXI AEREO LTDA
+
+ENDEREÇO: AVENIDA SERTÓRIO Nº 1988 COMPLEMENTO: AEROPORTO INTERNACIONAL SALGADO FILHO
+
+BAIRRO: NAVEGANTES
+
+MUNICÍPIO: PORTO ALEGRE
+
+UF: RS
+
+CEP: 91.020-000
+
+CNPJ: 04.261.159/0001-10
+
+PROCESSO Nº: 25751.291533/2021-61 (EXP: 1317247/21-6)
+
+AUTORIZ/MS: 9.09591-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ATENDIMENTO MÉDICO EM TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS E POSTOS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: SDS ENGENHARIA E SERVIÇOS MARÍTIMOS LTDA.
+
+ENDEREÇO: R JOAQUIM TAVORA, Nº 308, NIVEL BAIXOS
+
+BAIRRO: VILA MATHIAS
+
+MUNICÍPIO: SANTOS
+
+UF: SP
+
+CEP: 11.075-300
+
+CNPJ: 20.033.076/0001-20
+
+PROCESSO: 25759.205650/2021-41 (EXP: 1052533/21-5)
+
+AUTORIZ/MS: 9.09588-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: A. C. S. MARIA SOUZA EIRELI.
+
+ENDEREÇO: TV JOAO NEPOMUCENO, SN. COMPLEMENTO QUADRA 405 LOTE 04
+
+BAIRRO: VILA DOS CABANOS
+
+MUNICÍPIO: BARCARENA
+
+UF: PA
+
+CEP: 68.447-000
+
+CNPJ: 30.493.210/0001-20
+
+PROCESSO: 25351.497624/2021-11 ( EXP: 1931219/21-4)
+
+AUTORIZAÇÃO/MS: 9.09599-2
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL

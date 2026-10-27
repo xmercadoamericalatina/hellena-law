@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 874, de 26 de março de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "874"
+data: 2020-03-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/03/2020, seção 1, p. 102"
+data_publicacao: 2020-03-30
+edicao: "61"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-874-de-26-de-marco-de-2020-250190816"
+sha256_html_fonte: b72a3fb95f387033f54239067938e6de0f20ca63c3706c419e27c6a166386712
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 874, de 26 de março de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 874, de 26 de março de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p><p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p><p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p><p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI MEDLEY FARMACÊUTICA LTDA. 10588595001092</p><p class="dou-paragraph" >cetoprofeno 25351.647581/2019-15 05/2027</p><p class="dou-paragraph" >1959 GENERICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) 3076667/19-2</p><p class="dou-paragraph" >(1440 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) - 0291524/19-3 - 25351.190145/2019-52)</p><p class="dou-paragraph" >1.8326.0452.001-2 24 Meses</p><p class="dou-paragraph" >50 MG CAP DURA CT BL AL PLAS TRANS X 24</p><p class="dou-paragraph" >1.8326.0452.002-0 18 Meses</p><p class="dou-paragraph" >100 MG COM REV LIB RETARD CT BL AL PLAS TRANS X 20</p><p class="dou-paragraph" >PROFENID ENTÉRICO</p><p class="dou-paragraph" >1.8326.0452.003-9 18 Meses</p><p class="dou-paragraph" >200 MG COM REV LIB RETARD CT BL AL PLAS TRANS X 10</p><p class="dou-paragraph" >PROFENID RETARD</p><p class="dou-paragraph" >1.8326.0452.004-7 36 Meses</p><p class="dou-paragraph" >100 MG PO LIOF SOL INJ CX 50 FA VD TRANS</p><p class="dou-paragraph" >PROFENID IV</p><p class="dou-paragraph" >1.8326.0452.005-5 24 Meses</p><p class="dou-paragraph" >50 MG/ML SOL INJ IM CX 6 AMP VD AMB X 2 ML</p><p class="dou-paragraph" >1.8326.0452.006-3 24 Meses</p><p class="dou-paragraph" >20 MG/ML SOL OR CT FR CGT VD AMB X 20 ML</p><p class="dou-paragraph" >1.8326.0452.007-1 24 Meses</p><p class="dou-paragraph" >25 MG/G GEL DERM CT BG AL X 30 G</p><p class="dou-paragraph" >1.8326.0452.008-1 24 Meses</p><p class="dou-paragraph" >1 MG/ML XPE CT FR VD AMB X 150 ML + SER DOS</p><p class="dou-paragraph" >PROFENID PEDIÁTRICO</p><p class="dou-paragraph" >1.8326.0452.009-8 24 Meses</p><p class="dou-paragraph" >150 MG COM REV LIB PROL CT BL AL PLAS TRANS X 10</p><p class="dou-paragraph" >BI - PROFENID</p><p class="dou-paragraph" >1.8326.0452.010-1 24 Meses</p><p class="dou-paragraph" >100 MG SUP RETAL CT STR AL/AL X 10</p><p class="dou-paragraph" >1.8326.0452.011-1 24 Meses</p><p class="dou-paragraph" >150 MG COM REV LIB PROL CT BL AL PLAS TRANS X 4</p><p class="dou-paragraph" >BI -PROFENID</p><p class="dou-paragraph" >1.8326.0452.012-8 18 Meses</p><p class="dou-paragraph" >100 MG COM REV LIB RETARD CT BL AL PLAS TRANS X 3</p><p class="dou-paragraph" >PROFENID ENTÉRICO</p><p class="dou-paragraph" >1.8326.0452.013-6 24 Meses</p><p class="dou-paragraph" >20 MG/ML SOL OR CT BG PLAS OPC GOT X 20 ML</p><p class="dou-paragraph" >PROFENID GOTAS</p><p class="dou-paragraph" >1.8326.0452.014-4 24 Meses</p><p class="dou-paragraph" >200 MG COM REV LIB RETARD CT BL AL/AL X 10</p><p class="dou-paragraph" >PROFENID RETARD</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 965, DE 2 DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "965"
+data: 2020-04-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2020, seção 1, p. 125"
+data_publicacao: 2020-04-06
+edicao: "66"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-965-de-2-de-abril-de-2020-251283841"
+sha256_html_fonte: a436aeb61d1d31759b566b6010f0fc2924aa6bfa3a252acbae88651619455519
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 965, DE 2 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 965, DE 2 DE ABRIL DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Produtos para a Saúde, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à empresa constante no anexo a Certificação de Boas Práticas de Fabricação de Produtos para Saúde.</p><p class="dou-paragraph" >Art. 2º A presente certificação terá validade de 2 (dois) anos a partir de sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Empresa: NQA Industria, Comercio, Importacao, Exportacao de Produtos Medicos e Servicos Ltda - ME CNPJ: 10.257.856/0001-09</p><p class="dou-paragraph" >Endereço: Rua Willian Booth , 751, Boqueirão, Curitiba-PR CEP: 81.650-120</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.07.877-1 Expediente: 2131477/19-8</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Equipamentos de Uso Médico da Classe III.</p><p class="dou-paragraph" >----------------------</p><p class="dou-paragraph" >Empresa: Assut Europe Latino America Importação e Exportação Ltda. CNPJ: 07.032.636/0001-64</p><p class="dou-paragraph" >Endereço: Rua Professor Alfredo Gomes nº 18, Botafogo, Rio de Janeiro - RJ CEP: 22251-080</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.02.622-8 Expediente: 0166745/18-9</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Materiais de uso Médico da classe III.</p><p class="dou-paragraph" >----------------------</p><p class="dou-paragraph" >Empresa: Techimport Tecnologia em Implantes Ortopédicos Ltda EPP CNPJ:15.524.734/0001-47</p><p class="dou-paragraph" >Endereço: Rodovia Washington Luiz, km 172 (Rua 6), nº Lt B-8, Condomínio Conpark, Caixa Postal 223, Jardim Anhanguera - Rio Claro/ SP. CEP: 13501-600</p><p class="dou-paragraph" >Autorização: 8.11.184-6 Expediente: 0236423/19-9</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produto: Materiais de uso médico das classes III.</p><p class="dou-paragraph" >----------------------</p><p class="dou-paragraph" >Empresa: Tóride Indústria e Comércio Ltda. CNPJ: 54.673.199/0001-48</p><p class="dou-paragraph" >Endereço: Avenida Caetano Schincariol 97, Parque das Empresas</p><p class="dou-paragraph" >Município: Mogi Mirim UF: SP CEP: 13803-340</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.14.697-8 Expediente: 0439717/19-7</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Materiais de uso médico da classe III.</p><p class="dou-paragraph" >----------------------</p><p class="dou-paragraph" >Empresa: Medical Cirúrgica Ltda. CNPJ: 60.683.786/0001-10</p><p class="dou-paragraph" >Endereço: Rua Itacuruçá nº 325, Vila Santa Catarina, São Paulo - SP CEP: 04367-030</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.02.321-0 Expediente: 2038709/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

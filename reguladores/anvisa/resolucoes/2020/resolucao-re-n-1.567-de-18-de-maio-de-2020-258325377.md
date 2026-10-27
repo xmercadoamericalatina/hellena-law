@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.567, DE 18 DE MAIO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1567"
+data: 2020-05-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/05/2020, seção 1, p. 202"
+data_publicacao: 2020-05-25
+edicao: "98"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.567-de-18-de-maio-de-2020-258325377"
+sha256_html_fonte: e7bfd03b1c3aff5bd09b172535fcb7aec0259370ca1d14149c6f4e079eccc1e6
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.567, DE 18 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.567, DE 18 DE MAIO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 02 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Bio Products Laboratory Limited.</p><p class="dou-paragraph" >Endereço: Dagger Lane, Elstree, Hertfordshire, WD6 3BX</p><p class="dou-paragraph" >País: Reino Unido Código único: A.0103</p><p class="dou-paragraph" >Solicitante: ChemicalTech importação, exportação e comércio de produtos médicos, farmacêuticos e hospitalares ltda. CNPJ: 03.959.540/0001-95</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.04.932-4 Expediente(s): 1127591/20-7</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: Fator X de coagulação.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Biogen (Denmark) Manufacturing ApS</p><p class="dou-paragraph" >Endereço: Biogen Idec Allé 1, Hillerod, 3400</p><p class="dou-paragraph" >País: Dinamarca Código único: A.0788</p><p class="dou-paragraph" >Solicitante: Samsung Bioepis BR Farmacêutica Ltda CNPJ: 24.563.776/0001-88</p><p class="dou-paragraph" >Autorização de Funcionamento: 115.921-0 Expediente(s): 0424963/20-5</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: adalimumabe</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Opocrin S.p.A.</p><p class="dou-paragraph" >Endereço: Via Pacinotti, 3, Corlo di Formigine, 41043 Formigine (MO)</p><p class="dou-paragraph" >País: Itália Código único: A.0465</p><p class="dou-paragraph" >Solicitante: EMS S/A CNPJ: 57.507.378/0003-65</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.235-1 Expediente(s): 2510390/19-8</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: heparina sódica suína.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Wyeth Biopharma Division Of Wyeth Pharmaceuticals LLC..,</p><p class="dou-paragraph" >Endereço: One Burtt Road, Andover, Massachusetts (MA) 01810</p><p class="dou-paragraph" >País: Estados Unidos da América Código único: A.0633</p><p class="dou-paragraph" >Solicitante: Wyeth Indústria Farmacêutica Ltda. CNPJ: 61.072.393/0001-33</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.02.110-1 Expediente(s): 3283897/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: adalimumabe, alfanonacogue, bevacizumabe, inotuzumabe ozogamicina, tanezumabe e polissacarídeos pneumocócicos 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F e 23F.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

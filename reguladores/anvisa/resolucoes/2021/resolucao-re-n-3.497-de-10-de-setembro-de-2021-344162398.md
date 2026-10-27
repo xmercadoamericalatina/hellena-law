@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.497, DE 10 DE Setembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco"
+tipo: "Resolução"
+numero: "3497"
+data: 2021-09-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/09/2021, seção 1, p. 97"
+data_publicacao: 2021-09-13
+edicao: "173"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.497-de-10-de-setembro-de-2021-344162398"
+sha256_html_fonte: 0f664c25a1e22193fb5167cce27c73b066da1a7432509e27028b7b24385d4816
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 3.497, DE 10 DE Setembro DE 2021
+
+RESOLUÇÃO RE Nº 3.497, DE 10 DE Setembro DE 2021
+
+O Gerente-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco, no uso das atribuições que lhe confere o art. 162, aliado ao disposto no art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e tendo em vista o disposto na Resolução de Diretoria Colegiada nº 226, de 30 de abril de 2018, resolve:
+
+**Art. 1º** Deferir as petições relativas a produtos fumígenos derivados do tabaco, conforme anexo, em cumprimento à Decisão Liminar concedida pelo 3ª VF/SJ/BA, no processo 46408-58.2012.4.01.3300.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ BERNARDO MARQUES VIAMONTE
+
+## ANEXO
+
+JTI PROCESSADORA DE TABACO DO BRASIL LTDA.
+
+CNPJ: 03.334.170/0001-0
+
+Marca: CAMEL BLUE INTERNATIONAL SINCE 1913 (cigarro com filtro) - embalagens primárias maço e box
+
+Processo: 25351.667551/2019-17
+
+Expediente: 1313977/21-1
+
+Assunto: 6003 - Renovação de Registro de Produto Fumígeno - Dados Cadastrai

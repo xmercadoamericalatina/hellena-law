@@ -1,0 +1,130 @@
+---
+titulo: "RESOLUÇÃO RE Nº 508, DE 4 DE Fevereiro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "508"
+data: 2021-02-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/02/2021, seção 1, p. 133"
+data_publicacao: 2021-02-08
+edicao: "26"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-508-de-4-de-fevereiro-de-2021-302597302"
+sha256_html_fonte: 6adac85a4f75c3430d1047534a2d0764c5e4e7f0a547dbbc21e4f0ed792377d6
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 508, DE 4 DE Fevereiro DE 2021
+
+RESOLUÇÃO RE Nº 508, DE 4 DE Fevereiro DE 2021
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituto, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NORBERTO POLLA DE CAMPOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: EXTREMA LIMPEZA DE EQUIPAMENTOS DE COZINHA LTDA.
+
+ENDEREÇO: AV. MELCHERT, Nº 645, CASA FRENTE
+
+BAIRRO: CHÁCARA SEIS DE OUTUBRO
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 03.508-000
+
+CNPJ: 24.119.707/0001-80
+
+PROCESSO: 25759.971194/2021-21 (EXP: 0379347/21-8)
+
+AUTORIZ/MS: 9.09477-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: AMBIENTAL SERVIÇOS DE HIGIENIZAÇÃO LTDA.
+
+ENDEREÇO: RUA PADRE EMILIO LINS, Nº 65.
+
+BAIRRO: CENTRO.
+
+MUNICÍPIO: LAJEDO.
+
+UF: PE
+
+CEP: 55.385-000.
+
+CNPJ: 38.064.303/0001-40
+
+PROCESSO: 25757.627121/2020-33 (EXP: 4357822/20-5)
+
+AUTORIZ/MS: 9.09479-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: LMK SHIPPING SERVIÇOS MARÍTIMOS LTDA
+
+ENDEREÇO: AV. NOSSA SENHORA DA PENHA, Nº 2796, SALA 804
+
+BAIRRO: SANTA LUIZA
+
+MUNICÍPIO: VITÓRIA
+
+UF: ES
+
+CEP: 29045-402
+
+CNPJ: 40.109.868/0001-49
+
+PROCESSO: 25748.987798/2021-18 (EXP. 0416057/21-6)
+
+AUTORIZ/MS: 9.09482-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DE REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: SODEXO DO BRASIL COMERCIAL LTDA.
+
+ENDEREÇO: AV. IBIRAPUERA, Nº 1196
+
+BAIRRO: INDIANÓPOLIS
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 04.028-000
+
+CNPJ: 49.930.514/0001-35
+
+PROCESSO: 25759.566960/2020-58 (EXP: 4240078/20-3)
+
+AUTORIZ/MS: 9.09480-0
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ALFANDEGADOS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA.

@@ -1,0 +1,232 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.984, DE 15 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1984"
+data: 2022-06-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/06/2022, seção 1, p. 148"
+data_publicacao: 2022-06-20
+edicao: "114"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.984-de-15-de-junho-de-2022-408548424"
+sha256_html_fonte: 6116386b0721dcc99b32a9e7d4c5939a79789cb8714b595e83aac75c14f78c8d
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 1.984, DE 15 DE JUNHO DE 2022
+
+RESOLUÇÃO-RE Nº 1.984, DE 15 DE JUNHO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: AIRELA INDÚSTRIA FARMACÊUTICA LTDA. - CNPJ: 01.858.973/0001-29 - AUTORIZ/MS: 1044938
+
+ENDEREÇO: RODOVIA SC 390, N° 500, KM 459
+
+MUNICÍPIO: PEDRAS GRANDES - UF: SC - EXPEDIENTE: 3842440/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: AIRELA INDÚSTRIA FARMACÊUTICA LTDA. - CNPJ: 01.858.973/0001-29 - AUTORIZ/MS: 1044938
+
+ENDEREÇO: RODOVIA SC 390, N° 500, KM 459
+
+MUNICÍPIO: PEDRAS GRANDES - UF: SC - EXPEDIENTE: 3842441/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Efervescentes; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA: AIRELA INDÚSTRIA FARMACÊUTICA LTDA. - CNPJ: 01.858.973/0001-29 - AUTORIZ/MS: 1044938
+
+ENDEREÇO: RODOVIA SC 390, N° 500, KM 459
+
+MUNICÍPIO: PEDRAS GRANDES - UF: SC - EXPEDIENTE: 3842493/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Óleos; Soluções; Soluções Aerossóis; Suspensões; Xampus; Xaropes
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 8453273/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 6980794/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 6182183/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: IMEC - INDÚSTRIA DE MEDICAMENTOS CUSTÓDIA LTDA - CNPJ: 08.055.634/0001-53 - AUTORIZ/MS: 1042590
+
+ENDEREÇO: Av. Gerson Gonçalves de Lima, N° 1608
+
+MUNICÍPIO: CUSTÓDIA - UF: PE - EXPEDIENTE: 1003963/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Óleos; Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM MILANO S.R.L.
+
+ENDEREÇO: VIA CARNEVALE, 1 - 20090, SEGRATE, (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000532
+
+EMPRESA SOLICITANTE: BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. - CNPJ: 53.359.824/0001-19
+
+AUTORIZ/MS: 1015246 - EXPEDIENTE(s): 3459310/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT ANAGNI SRL
+
+ENDEREÇO: LOC. FONTANA DEL CERASO SNC - STRADA PROVINCIALE 12 CASILINA N. 41 - 03012, ANAGNI (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000126
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 6580537/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: PARC DE LA NOIRE EPINE, RUE FLEMING 20, 1300, WAVRE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000270
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 3863574/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI S.R.L.
+
+ENDEREÇO: VIA VALCANELLO, 4 - 03012 - ANAGNI (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000292
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 3927198/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 4589584/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIO SIDUS S.A.
+
+ENDEREÇO: AV. DE LOS QUILMES 137, BERNAL OESTE, PROVÍNCIA DE BUENOS AIRES DE LA REPÚBLICA ARGENTINA - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.000762
+
+EMPRESA SOLICITANTE: Aché Laboratórios Farmacêuticos S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 1606176/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIO FÁRMACO URUGUAYO
+
+ENDEREÇO: AVDA. DAMASO ANTONIO LARRAÑAGA 4479, MONTEVIDEO. - PAÍS: URUGUAI - CÓDIGO ÚNICO: A.000348
+
+EMPRESA SOLICITANTE: FARMARIN INDUSTRIA E COMERCIO LTDA - CNPJ: 58.635.830/0001-75
+
+AUTORIZ/MS: 1016883 - EXPEDIENTE(s): 3126170/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: INTAS PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT Nº 457 & 458, VILLAGE MATODA BAVLA ROAD AND PLOT N° 191/218P, VILLAGE CHACHARWADI, TAL - SANAND, VILL: MATODA & CHACHARWADI- 382 210, DIST: AHMEDABAD, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000318
+
+EMPRESA SOLICITANTE: TORRENT DO BRASIL LTDA - CNPJ: 33.078.528/0001-32
+
+AUTORIZ/MS: 1005253 - EXPEDIENTE(s): 1466601/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000033
+
+EMPRESA SOLICITANTE: ULTRAGENYX BRASIL FARMACEUTICA LTDA - CNPJ: 27.724.245/0001-18
+
+AUTORIZ/MS: 1239643 - EXPEDIENTE(s): 3857285/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: LIPA PHARMACEUTICALS LIMITED
+
+ENDEREÇO: REAGHS FARM ROAD, 21 - NSW 2566, MINTO - PAÍS: AUSTRÁLIA - CÓDIGO ÚNICO: A.000748
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 1392743/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER HEALTHCARE CORPORATION
+
+ENDEREÇO: 911 NORTH DAVIS AVENUE, CLEVELAND, MISSISSIPPI (MS) 38732 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000076
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1376580/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal

@@ -1,0 +1,174 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.004, DE 2 DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1004"
+data: 2020-04-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2020, seção 1, p. 167"
+data_publicacao: 2020-04-06
+edicao: "66"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.004-de-2-de-abril-de-2020-251284333"
+sha256_html_fonte: 73890620dc3639e8d2ac849e116ade363d423e633267044b18f7ed3a2ceadba5
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 1.004, DE 2 DE ABRIL DE 2020
+
+RESOLUÇÃO-RE Nº 1.004, DE 2 DE ABRIL DE 2020
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Indeferir os registros e as petições dos produtos saneantes, conforme anexo.
+
+**Art. 2º** O motivo do indeferimento do processo/petição deverá ser consultado no site: http://www.anvisa.gov.br.
+
+**Art.3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ITAMAR DE FALCO JUNIOR
+
+## ANEXO
+
+NOME DA EMPRESA: CITROMAX INDUSTRIA E COMERCIO LTDA EPP
+
+AUTORIZAÇÃO: 3.02923-7
+
+NOME DO PRODUTO E MARCA: CUPINICIDA LIQUIDO PIKAPAU
+
+VERSÃO: 1
+
+NUMERO DE PROCESSO: 25351.702981/2019-92
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3206025 INSETICIDA PARA EMPRESAS ESPECIALIZADAS
+
+ASSUNTO DA PETIÇÃO: 3874 Registro de Produto de Risco 2 - Inseticida para Empresas Especializadas
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: G5 INDÚSTRIA QUÍMICA LTDA
+
+AUTORIZAÇÃO: 3.08727-9
+
+NOME DO PRODUTO E MARCA: G5 - 310 - DESINFETANTE BIGUANIDA
+
+NUMERO DE PROCESSO: 25351.680074/2019-85
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: ACONDICIONAMENTO NAO PREVISTO NA TABELA
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: G5 - 310 - DESINFETANTE BIGUANIDA
+
+NUMERO DE PROCESSO: 25351.680074/2019-85
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: G5 - 310 - DESINFETANTE BIGUANIDA
+
+NUMERO DE PROCESSO: 25351.680074/2019-85
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: BOMBONA PLASTICA
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: G5 - 311 - DESINFETANTE QUATERNARIO
+
+VERSÃO: 1
+
+NUMERO DE PROCESSO: 25351.680156/2019-20
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: ACONDICIONAMENTO NAO PREVISTO NA TABELA
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: G5 - 311 - DESINFETANTE QUATERNARIO
+
+VERSÃO: 1
+
+NUMERO DE PROCESSO: 25351.680156/2019-20
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: G5 - 311 - DESINFETANTE QUATERNARIO
+
+VERSÃO: 1
+
+NUMERO DE PROCESSO: 25351.680156/2019-20
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: BOMBONA PLASTICA
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 3883 Registro de Produto de Risco 2 - Desinfetante para Indústria Alimentícia e Afins
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE

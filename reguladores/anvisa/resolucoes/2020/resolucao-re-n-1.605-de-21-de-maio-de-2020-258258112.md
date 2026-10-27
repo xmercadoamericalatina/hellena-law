@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.605, DE 21 DE MAIO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1605"
+data: 2020-05-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/05/2020, seção 1, p. 214"
+data_publicacao: 2020-05-25
+edicao: "98"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.605-de-21-de-maio-de-2020-258258112"
+sha256_html_fonte: 06d156737f1a8ab535933a7801dcef3708b2cb191d0fa48dd620c531345b89b9
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.605, DE 21 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.605, DE 21 DE MAIO DE 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Indeferir o pedido de Autorização de Funcionamento para as Empresas constantes no anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NEUROFACE IMPLANTES EIRELI / 032.583.162/0001-96</p><p class="dou-paragraph" >25351.392639/2020-11 /</p><p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 1425173206</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção ou documento equivalente que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >INVERTER COMERCIO DE EQUIPAMENTOS ESPECIAIS EIRELI / 017.074.272/0001-39</p><p class="dou-paragraph" >25351.392712/2020-47 /</p><p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 1425083207</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção ou documento equivalente que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Conforme estabelecido pelo art. 51, da Lei 6.360/76 e pelo art. 3º do Decreto 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >OITO PHARMA MEDICAMENTOS E PRODUTOS PARA SAUDE LTDA / 029.293.582/0001-23</p><p class="dou-paragraph" >25351.396881/2020-56 /</p><p class="dou-paragraph" >703 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA (SOMENTE MATRIZ) / 1436390209</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação de relatório de inspeção que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitido pela autoridade sanitária local competente. Conforme estabelecido pelo artigo 51 da Lei Nº 6.360/76 e pelo artigo 3º do Decreto Nº 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >NORTE FLOW COMERCIO E MONTAGEM PARA SISTEMAS DE TRATAMENTO DE AGUA LTDA / 014.325.624/0001-93</p><p class="dou-paragraph" >25351.392638/2020-69 /</p><p class="dou-paragraph" >861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 1425169208</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Conforme estabelecido pelo art. 51, da Lei 6.360/76 e pelo art. 3º do Decreto 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário.</p><p class="dou-paragraph" >_ _ _ _ _ _ _ _ _ _ _</p><p class="dou-paragraph" >Quantidade total: 4</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

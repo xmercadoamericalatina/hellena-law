@@ -1,0 +1,130 @@
+---
+titulo: "RESOLUÇÃO Nº 2.009, DE 20 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2009"
+data: 2022-06-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/06/2022, seção 1, p. 168"
+data_publicacao: 2022-06-27
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-2.009-de-20-de-junho-de-2022-410370667"
+sha256_html_fonte: 5b2865ae5597e58a0bdc64125eb5df96a764d5bf82970d9e338c780d3e364326
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO Nº 2.009, DE 20 DE JUNHO DE 2022
+
+RESOLUÇÃO Nº 2.009, DE 20 DE JUNHO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução da Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder a Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública, em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: BORSATO GOMES E CIA LTDA
+
+ENDEREÇO: AV. JUVENAL PIETRAROIA Nº 528 SALA 01
+
+BAIRRO: COLUMBIA D
+
+MUNICÍPIO: LONDRINA
+
+UF: PR
+
+CEP: 86057-080
+
+CNPJ: 13.324.237/0001-70
+
+PROCESSO Nº. 25743.000017/2022-18 (EXP: 1081912/22-7)
+
+AUTORIZ/MS: 9.09906-2
+
+ÁREA: PAF
+
+ATIVIDADE:PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: RAIZ SOLUÇÕES EM RESÍDUOS LTDA
+
+ENDEREÇO: R SAO JOSE, 68, QUADRA024 LOTE 068 SETOR 0001
+
+BAIRRO: DISTRITO INDUSTRIAL
+
+MUNICÍPIO: TERESINA
+
+UF: PI
+
+CEP: 64027-579
+
+CNPJ: 11.703.484/0001-51
+
+PROCESSO N°: 25754.000001/2022-86 (EXP:2521160/22-9 )
+
+AUTORIZ/MS: 9.09902-8
+
+ÁREA: PAF
+
+ATIVIDADE:PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: V2 AMBIENTAL SPE S/A EM RECUPERACAO JUDICIAL
+
+ENDEREÇO: RUA EM PROJETO 7257, Nº 00
+
+BAIRRO: BENEDITO BENTES
+
+MUNICÍPIO: MACEIÓ
+
+UF: AL
+
+CEP: 57.085-029
+
+CNPJ: 10.826.008/0001-65
+
+PROCESSO N°: 25764.000003/2022-56 (EXP:2141626/22-6)
+
+AUTORIZ/MS: 9.09913-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: GARANTIA SERVICOS ESPECILIZADOS LTDA
+
+ENDEREÇO: R. ARMANDO GUIMARÃES, Nº 150
+
+BAIRRO: ITARARÉ
+
+MUNICÍPIO: VITORIA
+
+UF: ES
+
+CEP: 29047-510
+
+CNPJ: 05.142.975/0001-78
+
+PROCESSO: 25748.000559/2022-41 (EXP. 4213155/22-6)
+
+AUTORIZ/MS: 9.09919-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;

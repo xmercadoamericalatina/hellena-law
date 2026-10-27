@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 589, de 27 de fevereiro de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "589"
+data: 2020-02-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2020, seção 1, p. 71"
+data_publicacao: 2020-03-02
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-589-de-27-de-fevereiro-de-2020-245476702"
+sha256_html_fonte: 5a4756126704bbfc462eba799f59b10ac20057e503aefafa279819988005b78a
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 589, de 27 de fevereiro de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 589, de 27 de fevereiro de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018;</p><p class="dou-paragraph" >considerando a Declaração de Cooperação firmada em 27 de novembro de 2012 entre as Autoridades Regulatórias participantes do Programa de Auditoria Única em Produtos para a Saúde (MDSAP - Medical Device Single Audit Program);</p><p class="dou-paragraph" >considerando o Art. 7° da Lei n°9.782, de 26 de janeiro de 1999 alterado pelo Art. 128 da Lei n°13.097, de 19 de janeiro de 2015;</p><p class="dou-paragraph" >considerando o Parágrafo Único do Art. 4º da Resolução da Diretoria Colegiada - RDC nº 39, de 14 de agosto de 2013, alterado pela Resolução da Diretoria Colegiada - RDC nº 217, de 20 de fevereiro de 2018;</p><p class="dou-paragraph" >considerando o Parágrafo primeiro do Art. 15 da Resolução da Diretoria Colegiada - RDC n° 183, de 17 de outubro de 2017;</p><p class="dou-paragraph" >considerando o parecer da área técnica emitido com base em relatório válido de auditoria realizada por organismo auditor terceiro reconhecido pela Anvisa para realizar auditorias regulatórias em estabelecimentos fabris de Produtos para Saúde;</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Produtos para Saúde, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo, a Certificação de Boas Práticas de Fabricação de Produtos para Saúde.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Becton, Dickinson and Company, BD Biosciences</p><p class="dou-paragraph" >Endereço: 2350 Qume Drive, San Jose, Califórnia, 95131, Estados Unidos da América</p><p class="dou-paragraph" >Solicitante: Becton Dickinson Indústrias Cirúrgicas Ltda. CNPJ: 21.551.379/0001-06</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.334-3 Expediente: 0643489/19-4</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------</p><p class="dou-paragraph" >Fabricante: Medical Components INC DBA Medcomp</p><p class="dou-paragraph" >Endereço: 1499 Delp Drive, Harleysville, Pensilvânia, 19438, Estados Unidos da América</p><p class="dou-paragraph" >Solicitante: Medcorp Hospitalar Ltda. CNPJ: 67.630.541/0001-74</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.03.122-1 Expediente: 1926018/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Materiais de uso médico das classes III e IV.</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------</p><p class="dou-paragraph" >Fabricante: Varian Medical Systems</p><p class="dou-paragraph" >Endereço: 2101 4th Avenue, Suite 100, Seattle, WA, 98121, Estados Unidos da América</p><p class="dou-paragraph" >Solicitante: Varian Medical Systems Brasil Ltda. CNPJ: 03.009.915/0001-56</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.04.054-1 Expediente: 1983151/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

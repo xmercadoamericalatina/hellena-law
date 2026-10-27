@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.135, DE 25 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2135"
+data: 2020-06-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/06/2020, seção 1, p. 85"
+data_publicacao: 2020-06-29
+edicao: "122"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.135-de-25-de-junho-de-2020-263895016"
+sha256_html_fonte: 47af06ffe87a0e54ad7ba3a0ba600474f8a25b89ac3247d0785acdc50b8ed996
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.135, DE 25 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.135, DE 25 DE JUNHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >ANIDRO DO BRASIL EXTRAÇÕES S.A. / 066.715.459/0005-03</p><p class="dou-paragraph" >25351.347749/2020-11 / 1239458</p><p class="dou-paragraph" >7173 - AE - CONCESSÃO - INSUMOS FARMACÊUTICOS - INDÚSTRIA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1298261200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >BANDEIRANTES COMERCIO DE MEDICAMENTOS E PRODUTOS PARA SAUDE EIRELI / 068.258.268/0001-61</p><p class="dou-paragraph" >25351.467492/2020-12 / 1239413</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1654514201</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >NORDMARKET COMERCIO DE PRODUTOS HOSPITALARES LTDA / 019.125.796/0002-18</p><p class="dou-paragraph" >25351.467428/2020-31 / 1239398</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1654358201</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MEIRELLES DISTRIBUIDORA DE MEDICAMENTOS LTDA / 012.520.483/0001-34</p><p class="dou-paragraph" >25351.467403/2020-38 / 1239384</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1654270203</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >Fresenius Kabi Brasil Ltda / 049.324.221/0019-33</p><p class="dou-paragraph" >25351.472620/2020-40 / 1239427</p><p class="dou-paragraph" >70400 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - INCORPORAÇÃO, CISÃO OU FUSÃO DE EMPRESAS / 1669872200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >G.O. LOG DISTRIBUIDORA DE MEDICAMENTOS LTDA / 024.924.986/0002-35</p><p class="dou-paragraph" >25351.508563/2020-44 / 1239444</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1779214201</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >NDS DISTRIBUIDORA DE MEDICAMENTOS LTDA / 011.034.934/0019-90</p><p class="dou-paragraph" >25351.467747/2020-47 / 1239400</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1655237207</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DIMASTER - COMERCIO DE PRODUTOS HOSPITALARES LTDA. / 002.520.829/0003-02</p><p class="dou-paragraph" >25351.480709/2020-80 / 1239475</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1693747201</p><p class="dou-paragraph" >_ _ _ _ _ _ _ _ _ _ _</p><p class="dou-paragraph" >Quantidade total: 7</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

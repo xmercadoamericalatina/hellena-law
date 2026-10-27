@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 604, de 28 de fevereiro de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "604"
+data: 2020-02-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2020, seção 1, p. 75"
+data_publicacao: 2020-03-02
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-604-de-28-de-fevereiro-de-2020-245476205"
+sha256_html_fonte: 4096a44529c8cc534ff7acc3d89be0c49f4c3f32ee3838e242820c540b624ff4
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 604, de 28 de fevereiro de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 604, de 28 de fevereiro de 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: Medlogistica Prestação de Serviços de Logística S.A.</p><p class="dou-paragraph" >ENDEREÇO: Estrada dos Bandeirantes, 1700 Lot 02 Pal 37730 Galp 02 Arm 118,119 e 120 sala 02</p><p class="dou-paragraph" >BAIRRO: Taquara CEP: 22775109 - RIO DE JANEIRO/RJ</p><p class="dou-paragraph" >CNPJ: 24.585.959/0008-70</p><p class="dou-paragraph" >PROCESSO: 25351.051876/2020-17 AUTORIZ/MS: 1.19958.4</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: LOGFAR LOGISTICA LTDA</p><p class="dou-paragraph" >ENDEREÇO: AV JULIO FERREIRA XAVIER, 3876, SALA UNINDO, QUADRA 168 LOTE 03</p><p class="dou-paragraph" >BAIRRO: JARDIM ALVORADA CEP: 79610320 - TRÊS LAGOAS/MS</p><p class="dou-paragraph" >CNPJ: 05.530.576/0012-37</p><p class="dou-paragraph" >PROCESSO: 25351.047779/2020-20 AUTORIZ/MS: 1.19975.2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: mira otm transportes</p><p class="dou-paragraph" >ENDEREÇO: Avenida novo brasil 861 lt 1 2 e p/22 qd11</p><p class="dou-paragraph" >BAIRRO: cidade industrial satelite CEP: 07221010 - GUARULHOS/SP</p><p class="dou-paragraph" >CNPJ: 58.506.155/0036-04</p><p class="dou-paragraph" >PROCESSO: 25351.051886/2020-52 AUTORIZ/MS: 1.19960.0</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: Medibras Comercio de Medicamentos Ltda</p><p class="dou-paragraph" >ENDEREÇO: Av. Jacob Jorge Abi Rached, 20</p><p class="dou-paragraph" >BAIRRO: 3 distrito industrial CEP: 14806610 - ARARAQUARA/SP</p><p class="dou-paragraph" >CNPJ: 00.358.491/0003-09</p><p class="dou-paragraph" >PROCESSO: 25351.047612/2020-69 AUTORIZ/MS: 1.19976.6</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >ARMAZENAR: MEDICAMENTO</p><p class="dou-paragraph" >DISTRIBUIR: MEDICAMENTO</p><p class="dou-paragraph" >EXPEDIR: MEDICAMENTO</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: WLMC TRANSPORTES RODOVIARIOS EIRELI</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA IRENO DA SILVA VENANCIO,199 - GALPÃO 02B</p><p class="dou-paragraph" >BAIRRO: PROTESTANTES CEP: 18111100 - VOTORANTIM/SP</p><p class="dou-paragraph" >CNPJ: 11.476.664/0005-71</p><p class="dou-paragraph" >PROCESSO: 25351.013391/2019-91 AUTORIZ/MS: 1.19961.3</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 3.702, DE 31 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3702"
+data: 2019-12-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/01/2020, seção 1, p. 68"
+data_publicacao: 2020-01-06
+edicao: "3"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-3.702-de-31-de-dezembro-de-2019-236558753"
+sha256_html_fonte: 20ebce6e186463a4db510ccd73ecf362f772ab872e60fdf99452091f1e7b9ce5
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 3.702, DE 31 DE DEZEMBRO DE 2019
+
+<div class="texto-dou"><p class="dou-paragraph" ></p><p class="identifica">RESOLUÇÃO Nº 3.702, DE 31 DE DEZEMBRO DE 2019</p><p class="dou-paragraph" >A Gerente-Geral de Toxicologia Substituta no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIELLE CHRISTINE DE SOUZA FILADELPHO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >CLASSIFICAÇÃO TOXICOLÓGICA</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >CHDS DO BRASIL COMÉRCIO DE INSUMOS AGRÍCOLAS LTDA. / 18858234000130</p><p class="dou-paragraph" >METHOXYFENOZIDE TÉCNICO CHDS</p><p class="dou-paragraph" >25351300155201911</p><p class="dou-paragraph" >0456297196</p><p class="dou-paragraph" >CLASSE: O perfil toxicológico foi considerado equivalente ao produto técnico de referência</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------------------</p><p class="dou-paragraph" >LEMMA - CONSULTORIA E APOIO ADMINISTRATIVO AGRONEGOCIOS, IMPORTACAO E EXPORTACAO LTDA / 11351422000128</p><p class="dou-paragraph" >METHOXYFENOZIDE TÉCNICO SINO - AGRI</p><p class="dou-paragraph" >25351179295201824</p><p class="dou-paragraph" >0253315184</p><p class="dou-paragraph" >CLASSE: O perfil toxicológico foi considerado equivalente ao produto técnico de referência</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------------------</p><p class="dou-paragraph" >NORTOX S/A / 75263400000199</p><p class="dou-paragraph" >METOXIFENOZIDE TÉCNICO NORTOX II</p><p class="dou-paragraph" >25351042817201709</p><p class="dou-paragraph" >0126994178</p><p class="dou-paragraph" >CLASSE: O perfil toxicológico foi considerado equivalente ao produto técnico de referência</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------------------</p><p class="dou-paragraph" >OXON BRASIL DEFENSIVOS AGRÍCOLAS LTDA / 07224503000190</p><p class="dou-paragraph" >METHOXYFENOZIDA TÉCNICO OXON</p><p class="dou-paragraph" >25351777807201804</p><p class="dou-paragraph" >1090196184</p><p class="dou-paragraph" >CLASSE: O perfil toxicológico foi considerado equivalente ao produto técnico de referência</p><p class="dou-paragraph" >----------------------------------------------------------------------------------------------------</p><p class="dou-paragraph" >ROTAM DO BRASIL AGROQUÍMICA E PRODUTOS AGRICOLAS / 05772606000169</p><p class="dou-paragraph" >METHOXYFENOZIDE TÉCNICO ROTAM</p><p class="dou-paragraph" >25351257363201797</p><p class="dou-paragraph" >0862262171</p><p class="dou-paragraph" >CLASSE: O perfil toxicológico foi considerado equivalente ao produto técnico de referência</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.850, DE 5 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "1850"
+data: 2020-06-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2020, seção 1, p. 70"
+data_publicacao: 2020-06-08
+edicao: "108"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.850-de-5-de-junho-de-2020-260555238"
+sha256_html_fonte: b1225136ed5e50e9e4e0d4528fba13a54df4159c3c80cfbcb8ce6997a95e6ca9
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.850, DE 5 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.850, DE 5 DE JUNHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Publicar o cancelamento de registro a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784 de 1999.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL CNPJ</p><p class="dou-paragraph" >N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05.161.069/0001-10</p><p class="dou-paragraph" >25351.379161/2014-88 3413059/19-4 PANTONEO 155840457</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >CIMED INDÚSTRIA DE MEDICAMENTOS LTDA 02.814.497/0001-07</p><p class="dou-paragraph" >25001.004542/87 3423057/19-2 FLAMOSTAT 143810001</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. 61.082.426/0002-07</p><p class="dou-paragraph" >25351.645951/2009-86 3371030/19-9 ATROVERAN COMPOSTO 178170042</p><p class="dou-paragraph" >25351.636483/2009-54 3359771/19-5 FLUVIRAL 178170033</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >EMS SIGMA PHARMA LTDA 00.923.140/0001-31</p><p class="dou-paragraph" >25351.656351/2010-00 3337178/19-4 CEFTRIAX 135690622</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP 43.640.754/0001-19</p><p class="dou-paragraph" >25001.005726/86 3517722/19-5 FURP-CARBAMAZEPINA 110390101</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GEOLAB INDÚSTRIA FARMACÊUTICA S/A 03.485.572/0001-04</p><p class="dou-paragraph" >25351.016058/2011-75 3277462/19-1 AVAFIL 154230217</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LABORATÓRIO GLOBO LTDA 17.115.437/0001-73</p><p class="dou-paragraph" >25351.144196/2017-41 3499630/19-3 FEBRIDOR 105350197</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05.044.984/0001-26</p><p class="dou-paragraph" >25351.392727/2015-48 3408144/19-5 INFLADEX 167730475</p><p class="dou-paragraph" >25351.048613/2015-63 3337903/19-3 POLIMOXIL 167730472</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI-AVENTIS FARMACÊUTICA LTDA 02.685.377/0001-57</p><p class="dou-paragraph" >25351.415891/2010-91 3362970/19-6 EXPOLID 113001123</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI MEDLEY FARMACÊUTICA LTDA. 10.588.595/0010-92</p><p class="dou-paragraph" >25351.696270/2014-16 3448842/19-1 KOLANTYL DMP 183260209</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >TEVA FARMACÊUTICA LTDA. 05.333.542/0001-08</p><p class="dou-paragraph" >25351.495199/2017-40 3289366/19-3 TEVAZI 155730044</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60.665.981/0001-18</p><p class="dou-paragraph" >25000.035112/97-81 3449566/19-5 UNIGRIP 104971140</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

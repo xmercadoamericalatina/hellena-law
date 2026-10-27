@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 685, DE 5 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "685"
+data: 2020-03-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/03/2020, seção 1, p. 137"
+data_publicacao: 2020-03-09
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-685-de-5-de-marco-de-2020-246767338"
+sha256_html_fonte: bb20aec071b88156491b4e2644c6ad77f3fffba4aaec35e456940c5478741f39
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 685, DE 5 DE MARÇO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 685, DE 5 DE MARÇO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, XV aliado ao art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">CARLOS ALEXANDRE OLIVEIRA GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >CLASSIFICAÇÃO TOXICOLÓGICA</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >ADAMA BRASIL S/A / 02.290.510/0001-76</p><p class="dou-paragraph" >TROP M</p><p class="dou-paragraph" >25351.573443/2010-40</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 756879/10-6</p><p class="dou-paragraph" >CATEGORIA 4 - PRODUTO POUCO TÓXICO</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >BASF S/A - 48.539.407/0001-18</p><p class="dou-paragraph" >PROWL H20</p><p class="dou-paragraph" >25351354212/2010-04</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 461051/10-2</p><p class="dou-paragraph" >CATEGORIA 4 - PRODUTO POUCO TÓXICO</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >DOW AGROSCIENCES INDUSTRIAL LTDA - 47.180.625/0001-46</p><p class="dou-paragraph" >DETONAN</p><p class="dou-paragraph" >25351.055024/2019-65</p><p class="dou-paragraph" >5066 - PRODUTO FORMULADO NOVO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO AINDA NÃO REGISTRADO NO PAÍS, 0084723/19-2</p><p class="dou-paragraph" >CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90</p><p class="dou-paragraph" >BENEDUO</p><p class="dou-paragraph" >25351.577.731/2010-09</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 761887/10-5</p><p class="dou-paragraph" >CATEGORIA 4 - PRODUTO POUCO TÓXICO</p><p class="dou-paragraph" >MAXIM QUATTRO PROFESSIONAL</p><p class="dou-paragraph" >25351047533/2010-58</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 063318/10-6</p><p class="dou-paragraph" >CATEGORIA 4 - PRODUTO POUCO TÓXICO</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >TRADECORP DO BRASIL COMERCIO DE INSUMOS AGRICOLAS LTDA - 04.997.059/0001-57</p><p class="dou-paragraph" >HEXAZINONA TRADECORP 250 SL</p><p class="dou-paragraph" >25351.667791/2012-22</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0956779/12-8</p><p class="dou-paragraph" >CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.384, DE 2 DE Setembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "3384"
+data: 2021-09-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/09/2021, seção 1, p. 115"
+data_publicacao: 2021-09-06
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.384-de-2-de-setembro-de-2021-343030479"
+sha256_html_fonte: 0d203f1d8464981ff72397b1606db8a784fc9a9d4e41acca1d93c075735bdcab
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 3.384, DE 2 DE Setembro DE 2021
+
+RESOLUÇÃO RE Nº 3.384, DE 2 DE Setembro DE 2021
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Indeferir o pleito de Concessão Autorização de Funcionamento de Empresas em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NÉLIO CÉZAR DE AQUINO
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: LIDERANÇA SAÚDE AMBIENTAL EIRELI
+
+ENDEREÇO: RUA SARGENTO NELMONT 76B,
+
+BAIRRO: GRUTA DE LOURDES
+
+MUNICÍPIO: MACEIÓ
+
+UF: AL
+
+CEP: 57052-815
+
+CNPJ: 34.523.659/0001-44
+
+PROCESSO: 25351.072519/2021-73 (EXP: 3176045212)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+MOTIVO DO INDEFERIMENTO: DESCUMPRIMENTO DO ITEM 12 DO ANEXO III DA RDC Nº 345/2002. A EMPRESA NÃO POSSUI COMPROVAÇÃO DE HABILITAÇÃO DA EMPRESA JUNTO AO ÓRGÃO LOCAL COMPETENTE DA UNIDADE FEDERADA PARA A PRESTAÇÃO DE SERVIÇO DE LIMPEZA E DESINFECÇÃO.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: GRUPO NILDO SANEAMENTO E CONSTRUCAO LTDA
+
+ENDEREÇO: R COSME BEZERRA, nº115
+
+BAIRRO: IPUTINGA
+
+MUNICÍPIO: RECIFE
+
+UF: PE
+
+CEP: 50.670-310
+
+CNPJ: 03.284.595/0001-42
+
+PROCESSO Nº: 25351.541456/2021-17 (Exp.2062037/21-0)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS
+
+MOTIVO DE INDEFERIMENTO: DESCUMPRIMENTO DE NOTIFICAÇÃO PARA ATENDIMENTO DE EXIGÊNCIAS, NA OBRIGAÇÃO DE CUMPRIR, FACE AO QUE DISPÕE ART.3º C/C PARÁGRAFO ÚNICO C/C ITENS 08 E 12, ANEXO III DA RDC/ANVISA Nº. 345 DE 16 DE DEZEMBRO DE 2002, BEM COMO, ART. 67, ITEM IV DA LEI MUNICIPAL DA PREFEITURA DO RECIFE 16.004/95 C/C O DECRETO MUNICIPAL Nº31.992/18: AUSÊNCIA DE ABRANGÊNCIA DA ATIVIDADE PLEITEADA NO TERMO DE RESPONSABILIDADE E ALVARÁ/LICENCIAMENTO SANITÁRIO.

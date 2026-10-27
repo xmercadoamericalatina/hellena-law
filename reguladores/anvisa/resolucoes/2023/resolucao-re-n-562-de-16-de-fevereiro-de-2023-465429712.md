@@ -1,0 +1,172 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 562, DE 16 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "562"
+data: 2023-02-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/02/2023, seção 1, p. 187"
+data_publicacao: 2023-02-22
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-562-de-16-de-fevereiro-de-2023-465429712"
+sha256_html_fonte: a45fd8eb46049e196140a547a782155d4acb7c1e67903cf46e28f8d3c0e1fb82
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 562, DE 16 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 562, DE 16 DE FEVEREIRO DE 2023
+
+A Gerente-Geral substituta de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução de Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA: INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 33.258.401/0004-48 - AUTORIZ/MS: 1000637
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA, KM 310
+
+MUNICÍPIO: ITATIAIA - UF: RJ - EXPEDIENTE: 4456323/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS LTDA - CNPJ: 35.820.448/0126-57 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: AVENIDA COMENDADOR ANTONIO LOUREIRO RAMOS 540
+
+MUNICÍPIO: MONTES CLAROS - UF: MG - EXPEDIENTE: 4625930/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PHARMA GMBH & CO. KG
+
+ENDEREÇO: BIRKENDORFER STR. 65, 88397 - BIBERACH AN DER RISS - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000116
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 4449498/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LTD
+
+ENDEREÇO: PLOT NO. B - 25, MIDC, SHENDRA, AURANGABAD - 431 210, MAHARASHTRA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001171
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 4563622/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções Aerossóis
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATÓRIOS FARMALAN S.A.
+
+ENDEREÇO: C/ LA VALLINA S/N - NAVATEJERA, VILLAQUILAMBRE, 24193, LEÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.001403
+
+EMPRESA SOLICITANTE: CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 18.268.051/0001-64
+
+AUTORIZ/MS: 1115411 - EXPEDIENTE(s): 4582280/22-6
+
+ERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: RECKITT BENCKISER HEALTHCARE INTERNATIONAL LIMITED
+
+ENDEREÇO: THANE ROAD, NOTTINGHAM, NOTTINGHAMSHIRE NG90 2DB - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000526
+
+EMPRESA SOLICITANTE: RECKITT BENCKISER (BRASIL) LTDA - CNPJ: 59.557.124/0001-15
+
+AUTORIZ/MS: 1073901 - EXPEDIENTE(s): 4620291/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Pastilhas
+
+.........................................
+
+EMPRESA FABRICANTE: LOTUS PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO.30, CHENGGONG 1ST RD., SINSING VILLAGE, NANTOU CITY, NANTOU COUNTY, 54066, TAIWAN (R.O.C) - PAÍS: TAIWAN - CÓDIGO ÚNICO: A.000686
+
+EMPRESA SOLICITANTE: DR. REDDYS FARMACÊUTICA DO BRASIL LTDA - CNPJ: 03.978.166/0001-75
+
+AUTORIZ/MS: 1051431 - EXPEDIENTE(s): 4446645/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA MANUFACTURING AUSTRIA AG
+
+ENDEREÇO: INDUSTRIESTRASSE 131, 1221 VIENNA. - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000069
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0002-61
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 4576304/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica; Pós Liofilizados; Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GENZYME CORPORATION
+
+ENDEREÇO: 11 FORBES ROAD, NORTHBOROUGH, MASSACHUSETTS (MA) 01532 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000920
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 4239075/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BESINS MANUFACTURING BELGIUM
+
+ENDEREÇO: GROOT BIJGAARDENSTRAAT 128, DROGENBOS, 1620 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000743
+
+EMPRESA SOLICITANTE: BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 11.082.598/0001-21
+
+AUTORIZ/MS: 1087593 - EXPEDIENTE(s): 4525953/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: BRISTOL-MYERS SQUIBB HOLDINGS PHARMA, LTD. LIABILITY COMPANY
+
+ENDEREÇO: ROAD 686 KM 2.3 BO. TIERRAS NUEVAS, MANATI, PUERTO RICO (PR) 00674 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.000125
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 4446538/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 4270125/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................

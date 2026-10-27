@@ -1,0 +1,190 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.636, DE 22 DE Setembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3636"
+data: 2021-09-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/09/2021, seção 1, p. 148"
+data_publicacao: 2021-09-27
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.636-de-22-de-setembro-de-2021-347611174"
+sha256_html_fonte: 99f6090920fef98dab34ebaaa6b1fe72ca15b1049a55b96ffe081a54b8d14d92
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 3.636, DE 22 DE Setembro DE 2021
+
+RESOLUÇÃO RE Nº 3.636, DE 22 DE Setembro DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Distribuição e/ou Armazenagem preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 4 (quatro) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: start med distribuidora ltda - CNPJ: 16.776.949/0001-18 - AUTORIZ/MS: 1255081 - AE: 1255078
+
+ENDEREÇO: rua fabio jose ribeiro, nº 304, loja
+
+MUNICÍPIO: CASIMIRO DE ABREU - UF: RJ - EXPEDIENTE: 3278811/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: apollo materiais medico hospitalares-ltda me - CNPJ: 25.453.279/0001-90 - AUTORIZ/MS: 1166558 - AE: 1237901
+
+ENDEREÇO: SAAN Quadra 04, Lote 666, Parte A- Zona Industrial
+
+MUNICÍPIO: BRASÍLIA - UF: DF - EXPEDIENTE: 2718915/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: GREEN DISTRIBUIDORA DE MEDICAMENTOS EIRELI - CNPJ: 29.866.886/0001-32 - AUTORIZ/MS: 1258424 - AE: 1258441
+
+ENDEREÇO: RUA LUIZ FERNANDES CARRIELLO, 52
+
+MUNICÍPIO: BOM JARDIM - UF: RJ - EXPEDIENTE: 3332153/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: EISAI LABORATÓRIOS LTDA - CNPJ: 08.416.362/0001-70 - AUTORIZ/MS: 1073104 - AE: 1234311
+
+ENDEREÇO: Rua Doutor Cardoso de Melo nº 1628/1644
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 3073781/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91 - AUTORIZ/MS: 1139004 - AE: 1142354
+
+ENDEREÇO: RUA TRINDADE, 125 - BLOCO 3
+
+MUNICÍPIO: VARGEM GRANDE PAULISTA - UF: SP - EXPEDIENTE: 1296204/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: VIVA PRODUTOS HOSPITALARES LTDA - CNPJ: 07.173.013/0001-01 - AUTORIZ/MS: 1061553 - AE: 1215879
+
+ENDEREÇO: AV B S/N QD 26 LT 12
+
+MUNICÍPIO: GOIÂNIA - UF: GO - EXPEDIENTE: 1296112/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: ONIX HOSPITALAR EIRELI - CNPJ: 38.328.303/0001-00 - AUTORIZ/MS: 1251292 - AE: 1251304
+
+ENDEREÇO: EST D 477 CASA 01
+
+MUNICÍPIO: NOVA IGUAÇU - UF: RJ - EXPEDIENTE: 3074037/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: SANTO REMEDIO - COMERCIO DE PRODUTOS MEDICO-HOSPITALAR EIRELI - ME - CNPJ: 28.643.008/0001-95 - AUTORIZ/MS: 1178771 - AE: 1178785
+
+ENDEREÇO: AVENIDA ADAO WELKER Nº 104
+
+MUNICÍPIO: BARÃO DE COTEGIPE - UF: RS - EXPEDIENTE: 0191359/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: JM COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI - CNPJ: 37.419.498/0001-31 - AUTORIZ/MS: 1259420 - AE: 1261011
+
+ENDEREÇO: RUA SÃO RAIMUNDO N.03
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 3158810/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: NOVA AEROFARMA COMÉRCIO E REPRESENTAÇÕES LTDA - CNPJ: 01.982.722/0001-51 - AUTORIZ/MS: 1067968 - AE: 1101201
+
+ENDEREÇO: RUA AURINO TAVARES, 153
+
+MUNICÍPIO: CAMPOS DOS GOYTACAZES - UF: RJ - EXPEDIENTE: 3445276/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: AGV LOGÍSTICA S.A - CNPJ: 02.905.424/0068-38 - AUTORIZ/MS: 1057776
+
+ENDEREÇO: Av. Tanner de Melo
+
+MUNICÍPIO: APARECIDA DE GOIÂNIA - UF: GO - EXPEDIENTE: 1100155/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: R. V. ÍMOLA TRANSPORTES E LOGÍSTICA LTDA - CNPJ: 05.366.444/0001-69 - AUTORIZ/MS: 1059058 - AE: 1214353
+
+ENDEREÇO: AVENIDA LAURO DE GUSMÃO SILVEIRA Nº 479
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 3361897/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: MARINGA HOSPITALAR DISTRIBUIDORA DE MEDICAMENTOS E CORRELATOS LTDA - CNPJ: 07.396.733/0001-36 - AUTORIZ/MS: 1148343 - AE: 1148357
+
+ENDEREÇO: ROD PR-317 8407 KM 08 SALA 02
+
+MUNICÍPIO: MARINGÁ - UF: PR - EXPEDIENTE: 2822568/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: PROMED DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS PARA SAÚDE EIRELI - CNPJ: 17.149.510/0001-28 - AUTORIZ/MS: 1064151
+
+ENDEREÇO: AV PERIMETRAL SUL, Nº 12 - LOJA 01
+
+MUNICÍPIO: SÃO LUÍS - UF: MA - EXPEDIENTE: 1133632/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: FARMALIBRA COMERCIO DE PRODUTOS HOSPITALARES LTDA - ME - CNPJ: 00.809.672/0001-42 - AUTORIZ/MS: 1135903 - AE: 1140902
+
+ENDEREÇO: AVENIDA CARLOS LINDENBERG, 3303
+
+MUNICÍPIO: VILA VELHA - UF: ES - EXPEDIENTE: 1962992/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: CM HOSPITALAR S.A. - CNPJ: 12.420.164/0001-57 - AUTORIZ/MS: 1088798 - AE: 1153940
+
+ENDEREÇO: AVENIDA LUIZ MAGGIONI Nº 2.727
+
+MUNICÍPIO: RIBEIRÃO PRETO - UF: SP - EXPEDIENTE: 1148759/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos

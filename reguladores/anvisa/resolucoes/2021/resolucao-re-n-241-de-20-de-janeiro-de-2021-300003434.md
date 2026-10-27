@@ -1,0 +1,30 @@
+---
+titulo: "RESOLUÇÃO RE Nº 241, DE 20 DE Janeiro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "241"
+data: 2021-01-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/01/2021, seção 1, p. 136"
+data_publicacao: 2021-01-21
+edicao: "14"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-241-de-20-de-janeiro-de-2021-300003434"
+sha256_html_fonte: 346adfdb440d745004772429309d70a17aceddbf50c47e2bc334e8932657eeb2
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 241, DE 20 DE Janeiro DE 2021
+
+RESOLUÇÃO RE Nº 241, DE 20 DE Janeiro DE 2021
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 173-B, aliado ao art. 54, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+COMERCIAL DE MEDICAMENTOS COMPLEXO PHARMA LTDA / 27.361.998/0001-06 25351.256902/2017-04 / 7517805 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192696219 -------------------------------------- GADELHO BRANDAO ARAUJO / 34.437.948/0001-20 25351.628086/2019-07 / 7689748 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192710218 -------------------------------------- COMERCIAL DE MEDICAMENTOS COMPLEXO PHARMA LTDA / 27.361.998/0002-97 25351.379736/2017-13 / 7528642 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192686211 -------------------------------------- IDEALFARMA LTDA / 14.601.890/0001-00 25351.400499/2014-14 / 7234740 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0182501211 -------------------------------------- wr drogaria ltda. / 07.171.745/0001-62 25351.575221/2013-19 / 7005144 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192727212 -------------------------------------- MARIANE DE FREITAS CARLOS ME / 24.311.717/0001-12 25351.043527/2016-22 / 7456046 7427 - AFE/AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0077610211 -------------------------------------- danielle coelho dos santos guisso eireli / 34.049.929/0001-27 25351.714207/2019-24 / 7698341 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0190580215 -------------------------------------- SEBASTIAO MANOEL DE ALMEIDA LTDA / 37.978.344/0001-80 25351.667139/2020-31 / 7773672 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192722211 -------------------------------------- ILEIVA RAMOS SILVA DROGARIA / 36.146.149/0001-20 25351.935418/2020-32 / 7757975 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192716217 -------------------------------------- DROGARIA MENEGHETTI SERRA NEGRA LTDA / 07.681.879/0001-23 25351.124332/2014-33 / 7131013 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192692216 -------------------------------------- J. V. GREGORIO &GREGORIO LTDA / 05.994.714/0001-86 25351.006846/2004-36 / 0404322 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192700211 -------------------------------------- COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0491-09 25351.011674/2017-37 / 7496911 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192712214 -------------------------------------- COMERCIAL DE MEDICAMENTOS COMPLEXO PHARMA LTDA / 27.361.998/0005-30 25351.708820/2020-46 / 7736062 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192680212 -------------------------------------- FARMACIA DO TRABALHADOR SULAMERICANA LTDA / 19.325.969/0005-94 25351.375897/2016-49 / 7479733 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192684215 -------------------------------------- LEANDRO TEODORO LIUTE DROGARIA LTDA / 20.708.652/0001-92 25351.705667/2014-57 / 7335068 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192682219 -------------------------------------- drogaria barato status / 07.406.673/0001-95 25351.552906/2014-60 / 7289704 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0182505214 -------------------------------------- COMERCIAL DE MEDICAMENTOS COMPLEXO PHARMA LTDA / 27.361.998/0003-78 25351.860487/2018-61 / 7629645 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192678211 -------------------------------------- DROGARIA ALTO PARAISO EIRELI / 20.260.676/0001-21 25351.737874/2014-71 / 7341582 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192690210 25351.737874/2014-71 / 7341582 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0192731211 -------------------------------------- FERNANDO CESAR SILVA / 34.429.695/0001-43 25351.682793/2020-74 / 7738001 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192714211 -------------------------------------- DROGARIA MAIS ECONOMIA LTDA / 11.325.372/0001-04 25351.698696/2013-74 / 7054782 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0182503218 -------------------------------------- farmacia vidori ltda / 18.950.262/0001-82 25351.657670/2013-76 / 7019446 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0192729219 -------------------------------------- ERICA ROCHA SILVERIO EIRELI / 05.677.457/0001-59 25351.046365/2003-82 / 0395851 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0192698215 -------------------------------------- Farmacia Mergener LTDA / 39.622.716/0001-66 25351.766383/2020-85 / 7776449 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192705211 -------------------------------------- G. R. Chaves eireli / 36.927.140/0001-57 25351.958073/2020-95 / 7750153 7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0192718213

@@ -1,0 +1,164 @@
+---
+titulo: "RESOLUÇÃO RE Nº 749, DE 10 DE Março DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "749"
+data: 2022-03-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/03/2022, seção 1, p. 116"
+data_publicacao: 2022-03-14
+edicao: "49"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-749-de-10-de-marco-de-2022-385483888"
+sha256_html_fonte: b909d779c42280d8e8c11244b5390eb34202041c2bd2e40dad1ac6da4ea1756b
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 749, DE 10 DE Março DE 2022
+
+RESOLUÇÃO RE Nº 749, DE 10 DE Março DE 2022
+
+A Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, Substituta, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir as petições de Transferência de titularidade e por consequente, cancelar o Registro dos produtos saneantes de risco 2, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor no prazo de 90 (noventa) dias, após a sua publicação.
+
+KARLA ALVES LACERDA
+
+## ANEXO
+
+NOME DA EMPRESA: AMVAC DO BRASIL 3P LTDA
+
+AUTORIZAÇÃO: 3.10398-9
+
+NOME DO PRODUTO E MARCA: SPOREKILL
+
+NUMERO DE PROCESSO: 25351.661830/2021-91
+
+NUMERO DE REGISTRO: 3.0398.0003.001-1
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 03/2025
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 333 REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: BOM TOQUE INDUSTRIA QUIMICA LTDA.
+
+AUTORIZAÇÃO: 3.10226-4
+
+NOME DO PRODUTO E MARCA: BLUE LINE HEALTH BT901
+
+NUMERO DE PROCESSO: 25351.247285/2021-24
+
+NUMERO DE REGISTRO: 3.0226.0014.001-3
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 10/2026
+
+APRESENTAÇÃO: BOMBONA PLASTICA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 333 REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2
+
+NOME DO PRODUTO E MARCA: BLUE LINE HEALTH BT947
+
+NUMERO DE PROCESSO: 25351.247331/2021-95
+
+NUMERO DE REGISTRO: 3.0226.0015.001-9
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 08/2028
+
+APRESENTAÇÃO: BOMBONA PLASTICA OPACA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 333 REG. SANEANTES - Transferência de Titularidade de Produto de Risco 2
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: DEFENSIVE COMÉRCIO E REPRESENTAÇÃO COMERCIAL LTDA
+
+AUTORIZAÇÃO: 3.02987-9
+
+NOME DO PRODUTO E MARCA: SPOREKILL
+
+NUMERO DE PROCESSO: 25351.043622/2005-96
+
+NUMERO DE REGISTRO: 3.2987.0001.001-7
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+VENCIMENTO: 03/2025
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 2368389/21-1
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: GAMA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA
+
+AUTORIZAÇÃO: 3.02235-0
+
+NOME DO PRODUTO E MARCA: BLUE LINE HEALTH BT947
+
+NUMERO DE PROCESSO: 25351.177327/2013-71
+
+NUMERO DE REGISTRO: 3.2235.0060.001-3
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 08/2028
+
+APRESENTAÇÃO: BOMBONA PLASTICA OPACA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 3320667/21-1
+
+NOME DO PRODUTO E MARCA: BLUE LINE HEALTH BT901
+
+NUMERO DE PROCESSO: 25351.281522/2016-18
+
+NUMERO DE REGISTRO: 3.2235.0089.001-1
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 10/2026
+
+APRESENTAÇÃO: BOMBONA PLASTICA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 3320587/21-8

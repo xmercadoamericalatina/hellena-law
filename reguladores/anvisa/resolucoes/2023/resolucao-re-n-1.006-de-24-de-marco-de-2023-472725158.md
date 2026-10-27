@@ -1,0 +1,324 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.006, DE 24 DE MARÇO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1006"
+data: 2023-03-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/03/2023, seção 1, p. 130"
+data_publicacao: 2023-03-27
+edicao: "59"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.006-de-24-de-marco-de-2023-472725158"
+sha256_html_fonte: 1103af10f9b05c330bb888c27e0e64c01b38c9fcb55b6d9bc40cf5efd51096e9
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.006, DE 24 DE MARÇO DE 2023
+
+RESOLUÇÃO-RE Nº 1.006, DE 24 DE MARÇO DE 2023
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: ADIUM S.A. - CNPJ: 55.980.684/0001-27 - AUTORIZ/MS: 1022141
+
+ENDEREÇO: RODOVIA VEREADOR ABEL FABRÍCIO DIAS, Nº 3400
+
+MUNICÍPIO: PINDAMONHANGABA - UF: SP - EXPEDIENTE: 4557988/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: ADIUM S.A. - CNPJ: 55.980.684/0001-27 - AUTORIZ/MS: 1022141
+
+ENDEREÇO: RODOVIA VEREADOR ABEL FABRÍCIO DIAS, Nº 3400
+
+MUNICÍPIO: PINDAMONHANGABA - UF: SP - EXPEDIENTE: 4558041/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A. - CNPJ: 60.659.463/0001-91 - AUTORIZ/MS: 1005739
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 222,2
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 4450163/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Colutórios; Elixires; Emulsões; Soluções; Suspensões; Xampus; Xaropes
+
+.........................................
+
+EMPRESA: ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A. - CNPJ: 60.659.463/0001-91 - AUTORIZ/MS: 1005739
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 222,2
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 4449394/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles; Óvulos
+
+Sólidos não estéreis (Cefalosporínicos) (Embalagem secundária)
+
+Sólidos não estéreis (Penicilínicos) (Embalagem secundária)
+
+Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Granulados; Pós; Supositórios
+
+Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A. - CNPJ: 60.659.463/0001-91 - AUTORIZ/MS: 1005739
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 222,2
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 4448044/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: AIR LIQUIDE BRASIL LTDA - CNPJ: 00.331.788/0020-81 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: estrada matoim, rotula 3, s/n
+
+MUNICÍPIO: CANDEIAS - UF: BA - EXPEDIENTE: 4707397/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA: Cristália Produtos Químicos Farmacêuticos Ltda - CNPJ: 44.734.671/0023-67 - AUTORIZ/MS: 1002981
+
+ENDEREÇO: Rua Tomás Sepe, 489
+
+MUNICÍPIO: COTIA - UF: SP - EXPEDIENTE: 0064489/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Géis com Preparação Asséptica; Pomadas com Preparação Asséptica; Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA: Messer Gases Ltda - CNPJ: 60.619.202/0021-91 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: Rua leopoldo sander, 1501e
+
+MUNICÍPIO: CHAPECÓ - UF: SC - EXPEDIENTE: 4563417/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI ILAÇ SANAYI VE TICARET ANONIM SIRKETI
+
+ENDEREÇO: KÜÇÜKKARISTIRAN MAHALLESI, MERKEZ SOK, NO: 223/A 39780, BUYUKKARISTIRAN, LÜLEBURGAZ, KIRKLARELI - PAÍS: TURQUIA - CÓDIGO ÚNICO: A.000814
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 4411397/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SOHO FLORDIS INTERNATIONAL SWITZERLAND SA
+
+ENDEREÇO: VIA MULINI, 6934 - BIOGGIO - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000918
+
+EMPRESA SOLICITANTE: ZION MEDPHARMA IMPORTAÇÃO, EXPORTAÇÃO, COMÉRCIO E SERVIÇOS LTDA - CNPJ: 36.234.436/0001-92
+
+AUTORIZ/MS: 1242732 - EXPEDIENTE(s): 5031428/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem primária; Embalagem secundária): Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: TEIKOKU SEIYAKU CO., LTD.
+
+ENDEREÇO: 567 SANBONMATSU, HIGASHIKAGAWA, KAGAWA. - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000756
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 4719174/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis (Embalagem primária; Granel): Emplastos
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE MANUFACTURING S.P.A.
+
+ENDEREÇO: STRADA PROVINCIALE ASOLANA Nº 90 (LOC. SAN POLO), 43056 TORRILE (PR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000276
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 4426318/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: HISAMITSU PHARMACEUTICAL CO., INC.
+
+ENDEREÇO: TASHIRO DAIKAN-MACHI 408, 841-0017 TOSU-SHI, SAGA - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000301
+
+EMPRESA SOLICITANTE: HISAMITSU FARMACÊUTICA DO BRASIL LTDA - CNPJ: 49.383.250/0001-47
+
+AUTORIZ/MS: 1010525 - EXPEDIENTE(s): 4742972/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+.........................................
+
+EMPRESA FABRICANTE: HISAMITSU PHARMACEUTICAL CO., INC.
+
+ENDEREÇO: TASHIRO DAIKAN-MACHI 408, 841-0017 TOSU-SHI, SAGA - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000301
+
+EMPRESA SOLICITANTE: HISAMITSU FARMACÊUTICA DO BRASIL LTDA - CNPJ: 49.383.250/0001-47
+
+AUTORIZ/MS: 1010525 - EXPEDIENTE(s): 4743121/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Emplastos
+
+.........................................
+
+EMPRESA FABRICANTE: EMCURE PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT NO. P-2, I.T.B.T. PARK, PHASE-II, M.I.D.C. HINJWADI, PUNE 411057, MAHARASHTRA. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000205
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 4765518/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: EMCURE PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT NO. P-2, I.T.B.T. PARK, PHASE-II, M.I.D.C. HINJWADI, PUNE 411057, MAHARASHTRA. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000205
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 4765052/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: AUROBINDO PHARMA LIMITED - UNIDADE VI
+
+ENDEREÇO: SURVEY NO. 329/39 E 329/47 - CHITKUL VILLAGE, PATANCHERU MANDAL, SANGA REDDY DISTRICT - TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000053
+
+EMPRESA SOLICITANTE: AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA - CNPJ: 04.301.884/0001-75
+
+AUTORIZ/MS: 1051679 - EXPEDIENTE(s): 4708334/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI AB
+
+ENDEREÇO: RAPSGATAN 7, 751 74, UPPSALA - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000231
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 4694973/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Emulsões Parenterais de Grande Volume com Esterilização Terminal; Emulsões Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: MEDISPRAY LABORATORIES PVT. LTD.
+
+ENDEREÇO: PLOT NO. 344/345 KUNDAIM INDUSTRIAL ESTATE, KUNDAIM, GOA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000398
+
+EMPRESA SOLICITANTE: LABORATÓRIO TEUTO BRASILEIRO S/A - CNPJ: 17.159.229/0001-76
+
+AUTORIZ/MS: 1003707 - EXPEDIENTE(s): 4751484/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões Aerossóis
+
+.........................................
+
+EMPRESA FABRICANTE: AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO ACRAF SPA
+
+ENDEREÇO: VIA VECCHIA DEL PINOCCHIO, 22 - 60100 ANCONA - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000749
+
+EMPRESA SOLICITANTE: APSEN FARMACEUTICA S/A - CNPJ: 62.462.015/0001-29
+
+AUTORIZ/MS: 1001188 - EXPEDIENTE(s): 4719631/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: INVENTIA HEALTHCARE LIMITED
+
+ENDEREÇO: F1-F1/1-F75/1, ADDITIONAL AMBERNATH M.I.D.C.; AMBERNATH (EAST) DIST.THANE, 421 506 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000671
+
+EMPRESA SOLICITANTE: ZALIKA FARMACEUTICA LTDA - CNPJ: 29.536.205/0001-78
+
+AUTORIZ/MS: 1185754 - EXPEDIENTE(s): 4744049/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: BEXIMCO PHARMACEUTICALS LIMITED
+
+ENDEREÇO: 126 KATHALDIA, AUCHPARA, TONGI-1711, GAZIPUR - PAÍS: BANGLADESH - CÓDIGO ÚNICO: A.000102
+
+EMPRESA SOLICITANTE: ZALIKA FARMACEUTICA LTDA - CNPJ: 29.536.205/0001-78
+
+AUTORIZ/MS: 1185754 - EXPEDIENTE(s): 4625685/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: XL LABORATORIES PVT. LTD
+
+ENDEREÇO: PLOT A-141, EPIP, RIICO INDUSTRIAL AREA, NEEMRANA, ALWAR, RAJASTHAN 301705 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001573
+
+EMPRESA SOLICITANTE: NUNESFARMA DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 75.014.167/0001-00
+
+AUTORIZ/MS: 1017952 - EXPEDIENTE(s): 0944179/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMACHEMIE B.V.
+
+ENDEREÇO: SWENSWEG 5, 2031 GA HAARLEM - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000503
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0208562/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: NERPHARMA S.R.L.
+
+ENDEREÇO: VIALE PASTEUR, 10 (LOC. NERVIANO) - 20014 MILANO (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.001272
+
+EMPRESA SOLICITANTE: Mawdsleys Pharmaceuticals do Brasil Ltda - CNPJ: 19.501.429/0001-90
+
+AUTORIZ/MS: 1158322 - EXPEDIENTE(s): 4569932/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica

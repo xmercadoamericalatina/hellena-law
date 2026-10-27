@@ -1,0 +1,266 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.568, DE 27 DE OUTUBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "3568"
+data: 2022-10-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/10/2022, seção 1, p. 185"
+data_publicacao: 2022-10-31
+edicao: "206"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.568-de-27-de-outubro-de-2022-440252910"
+sha256_html_fonte: 9b3765b1d14a492fa67c0bc9382192fa418fe52e00f3642a0f92c6aeb09244b7
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.568, DE 27 DE OUTUBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.568, DE 27 DE OUTUBRO DE 2022
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Tornar insubsistente a RESOLUÇÃO-RE nº 4.511 de 2 de dezembro de 2021, única e exclusivamente quanto às empresas e processos conforme anexo, publicados no Diário Oficial da União nº 228 de 6 de dezembro de 2021, Seção 1, página 111.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA: Braskim Química Eireli
+
+AUTORIZAÇÃO: 3.09934-0
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Lavanda 25g + SACHET + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Lavanda 25g + SACHET + CARTELA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Marine 25g + SACHET + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Limão 25g + SACHET + CARTELA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Marine 25g + SACHE DE PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Floral 25g + SACHET + CARTELA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Limão 25g + SACHE DE PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Limão 25g + SACHET + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Floral 25g + SACHET + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Eucalipto 25g + SACHE DE PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Marine 25g + SACHET + CARTELA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Floral 25g + SACHE DE PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9
+
+NOME DO PRODUTO E MARCA: Aplik® Pedra Sanitária
+
+NUMERO DE PROCESSO: 25351.458557/2021-10
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: Lavanda 25g + SACO PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222043 ODORIZANTE
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4659270/21-9

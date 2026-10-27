@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 675, DE 5 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "675"
+data: 2020-03-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/03/2020, seção 1, p. 81"
+data_publicacao: 2020-03-09
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-675-de-5-de-marco-de-2020-246768683"
+sha256_html_fonte: 32689c18c7f52888a65f735aaa7be75d7dd683c8f566a232eff1162ea0fbcbda
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 675, DE 5 DE MARÇO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 675, DE 5 DE MARÇO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Cancelar o registro sanitário de medicamentos, produtos biológicos e insumos farmacêuticos, ou de apresentações, conforme anexo;</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor a partir da data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p><p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p><p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p><p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GERMED FARMACEUTICA LTDA 45992062000165</p><p class="dou-paragraph" >OMEPRAZOL 25351.014623/2003-61 01/2029</p><p class="dou-paragraph" >10833 GENÉRICO - CANCELAMENTO DE REGISTRO PARA ADEQUAÇÃO À RDC 31/2014 3520674/19-8</p><p class="dou-paragraph" >1.0583.0275.002-6 24 Meses</p><p class="dou-paragraph" >20 MG CAP DURA LIB RETARD CT BL AL PLAS TRANS X 7</p><p class="dou-paragraph" >1.0583.0275.003-4 24 Meses</p><p class="dou-paragraph" >20 MG CAP DURA LIB RETARD CT BL AL PLAS TRANS X 14</p><p class="dou-paragraph" >1.0583.0275.004-2 24 Meses</p><p class="dou-paragraph" >20 MG CAP DURA LIB RETARD CT BL AL PLAS TRANS X 28</p><p class="dou-paragraph" >1.0583.0275.005-0 24 Meses</p><p class="dou-paragraph" >40 MG CAP DURA LIB RETARD CT BL AL PLAS TRANS X 7</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05044984000126</p><p class="dou-paragraph" >Topiramato 25351.648301/2010-19 04/2026</p><p class="dou-paragraph" >10833 GENÉRICO - CANCELAMENTO DE REGISTRO PARA ADEQUAÇÃO À RDC 31/2014 3484019/19-2</p><p class="dou-paragraph" >1.6773.0318.001-5 24 Meses</p><p class="dou-paragraph" >25MG COM REV CT BL AL PLAS OPC X 10</p><p class="dou-paragraph" >1.6773.0318.002-3 24 Meses</p><p class="dou-paragraph" >25MG COM REV CT BL AL PLAS OPC X 20</p><p class="dou-paragraph" >1.6773.0318.003-1 24 Meses</p><p class="dou-paragraph" >25MG COM REV CT BL AL PLAS OPC X 30</p><p class="dou-paragraph" >1.6773.0318.004-1 24 Meses</p><p class="dou-paragraph" >25MG COM REV CT BL AL PLAS OPC X 60</p><p class="dou-paragraph" >1.6773.0318.005-8 24 Meses</p><p class="dou-paragraph" >50MG COM REV CT BL AL PLAS OPC X 10</p><p class="dou-paragraph" >1.6773.0318.006-6 24 Meses</p><p class="dou-paragraph" >50MG COM REV CT BL AL PLAS OPC X 20</p><p class="dou-paragraph" >1.6773.0318.007-4 24 Meses</p><p class="dou-paragraph" >50MG COM REV CT BL AL PLAS OPC X 30</p><p class="dou-paragraph" >1.6773.0318.008-2 24 Meses</p><p class="dou-paragraph" >50MG COM REV CT BL AL PLAS OPC X 60</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI-AVENTIS FARMACÊUTICA LTDA 02685377000157</p><p class="dou-paragraph" >ÁCIDO ASCÓRBICO</p><p class="dou-paragraph" >CEWIN 25351.412898/2006-18 07/2029</p><p class="dou-paragraph" >1373 ESPECIFICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 2332588/19-7</p><p class="dou-paragraph" >1.1300.1013.010-5 18 Meses</p><p class="dou-paragraph" >2 G COM EFEV CT STR AL X 10 (LARANJA)</p><p class="dou-paragraph" >1.1300.1013.011-3 18 Meses</p><p class="dou-paragraph" >2 G COM EFEV CT STR AL X 100 (LARANJA)</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.491, DE 13 DE MAIO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1491"
+data: 2020-05-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/05/2020, seção 1, p. 450"
+data_publicacao: 2020-05-18
+edicao: "93"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.491-de-13-de-maio-de-2020-257197367"
+sha256_html_fonte: fd1fa8e4374d1eb1010b5776f04e1f9e0d0f244d2da93599b626a8d067c90db1
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.491, DE 13 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.491, DE 13 DE MAIO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Abbott Laboratories GmbH</p><p class="dou-paragraph" >Endereço: Justus-von-Liebig-Str. 33, 31535 Neustadt a. Rbge.</p><p class="dou-paragraph" >País: Alemanha Código Único: A.0593</p><p class="dou-paragraph" >Solicitante: Abbott Laboratórios do Brasil Ltda. CNPJ: 56.998.701/0001-16</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.553-1 Expediente(s): 3133270/19-2</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: pancreatina.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Fidia Farmaceutici S.p.A.</p><p class="dou-paragraph" >Endereço: Via Ponte Della Fabbrica 3/A, 35031 Abano Terme, Padova</p><p class="dou-paragraph" >País: Itália Código Único: A.0230</p><p class="dou-paragraph" >Solicitante: TRB Pharma Indústria Química e Farmacêutica Ltda. CNPJ: 61.455.192/0001-15</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.341-7 Expediente(s): 3185997/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: hialuronato de sódio.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Pfizer Ireland Pharmaceuticals</p><p class="dou-paragraph" >Endereço: Grange Castle Business Park, Clondalkin, Dublin 22</p><p class="dou-paragraph" >País: Irlanda Código Único: A.0635</p><p class="dou-paragraph" >Solicitante: Wyeth Indústria Farmacêutica Ltda. CNPJ: 61.072.393/0001-33</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.02.110-1 Expediente(s): 3103015/19-4</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: pegvisomanto (etapa de peguilação), polissacarídeos capsulares de Streptococcus pneumoniae sorotipos 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 19A, 18C, 19F, 23F (conjugação), etanercepte.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Wacker Biotech GmbH</p><p class="dou-paragraph" >Endereço: Hans-Knöll Strasse 3 07745 Jena</p><p class="dou-paragraph" >País: Alemanha Código Único: A.1289</p><p class="dou-paragraph" >Solicitante: Laboratórios Bagó do Brasil S.A CNPJ: 04.748.181/0009-47</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.05626-4 Expediente(s): 3116344/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: asparaginase.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

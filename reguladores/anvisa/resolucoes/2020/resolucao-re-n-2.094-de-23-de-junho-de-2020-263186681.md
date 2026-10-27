@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.094, DE 23 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2094"
+data: 2020-06-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/06/2020, seção 1, p. 120"
+data_publicacao: 2020-06-24
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.094-de-23-de-junho-de-2020-263186681"
+sha256_html_fonte: 169ae01ad535dba345307c8e049628be11dd19bd925ab39da9fece3ccbee51ed
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.094, DE 23 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.094, DE 23 DE JUNHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos dispostos no art. 8°, da Resolução de Diretoria Colegiada - RDC nº 183, de 17 de outubro de 2017, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo a Certificação de Boas Práticas de Fabricação de Produtos para Saúde.</p><p class="dou-paragraph" >Art. 2º A presente certificação terá validade de 2 (dois) anos a partir de sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Beijing Lepu Medical Technology Co., Ltd</p><p class="dou-paragraph" >Endereço: Building 7-1, No.37 Chaoqian Road, Pequim, 102200, China</p><p class="dou-paragraph" >Solicitante: Mivida Distribuidora De Produtos Médicos e Instrumentos Ltda - ME CNPJ: 25.263.704/0001-88</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.15.225-3 Expediente: 1824403/20-8</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro das classes III.</p><p class="dou-paragraph" >-----------------------------------------------------------------------------------</p><p class="dou-paragraph" >Fabricante: Hangzhou Realy Tech Co., Ltd.</p><p class="dou-paragraph" >Endereço: 4th Floor, #12 Building, Eastern Medicine Town, Xiasha Economic &amp;Technology Development, 310018 Hangzhou, Zhejiang, P.R., China</p><p class="dou-paragraph" >Solicitante: Imex Medical Comercio e Locação Ltda. CNPJ: 12.255.403/0001-60</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.16.556-3 Expediente: 1753456/20-7</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnostico in vitro das classes III e IV.</p><p class="dou-paragraph" >-----------------------------------------------------------------------------------</p><p class="dou-paragraph" >Fabricante: Hangzhou Realy Tech Co., Ltd.</p><p class="dou-paragraph" >Endereço: 4th Floor, #12 Building, Eastern Medicine Town, Xiasha Economic &amp;Technology Development, 310018 Hangzhou, Zhejiang, P.R., China</p><p class="dou-paragraph" >Solicitante: Logigo Health &amp; Health, Tecnologia Automotiva Comercio, Importação e Fabricação, Produtos para Área Médico-Hospitalar Ltda. CNPJ: 14.748.489/0001-99</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.20097-7 Expediente: 1861970/20-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnostico in vitro da classe III.</p><p class="dou-paragraph" >-----------------------------------------------------------------------------------</p><p class="dou-paragraph" >Fabricante: LumiraDx UK Ltd</p><p class="dou-paragraph" >Endereço: Bond Street, Dumyat Business Park, Alloa, FK10 2PB - Reino Unido</p><p class="dou-paragraph" >Solicitante: LumiraDx HealthCare Ltda CNPJ: 22.940.751/0001-20</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.13.276-7 Expediente: 3270678/19-3</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

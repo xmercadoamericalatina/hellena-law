@@ -1,0 +1,182 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.107, DE 7 DE Abril DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1107"
+data: 2022-04-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/04/2022, seção 1, p. 157"
+data_publicacao: 2022-04-11
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.107-de-7-de-abril-de-2022-392288871"
+sha256_html_fonte: 17ecfc618e03355b2b9a8ffd89de15481fac56a3f305ab8674693ae6139639d1
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 1.107, DE 7 DE Abril DE 2022
+
+RESOLUÇÃO RE Nº 1.107, DE 7 DE Abril DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução de Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - CNPJ: 60.665.981/0001-18 - AUTORIZ/MS: 1004977
+
+ENDEREÇO: RUA CORONEL LUIZ TENÓRIO DE BRITO
+
+MUNICÍPIO: EMBU-GUAÇU - UF: SP - EXPEDIENTE: 3415290/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA: UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - CNPJ: 60.665.981/0001-18 - AUTORIZ/MS: 1004977
+
+ENDEREÇO: RUA CORONEL LUIZ TENÓRIO DE BRITO
+
+MUNICÍPIO: EMBU-GUAÇU - UF: SP - EXPEDIENTE: 3415153/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: GÄRTUNAVÄGEN, SÖDERTÄLJE, 151 85 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000046
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3827993/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: GÄRTUNAVÄGEN, SÖDERTÄLJE, 151 85 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000046
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3828039/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: INDUSTRIAL AREA 3 A.B. ROAD, DEWAS, 455 001, MADHYA PRADESH - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000520
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 3732531/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 85 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3747157/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 85 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3747030/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FERRING LÉCIVA A.S.
+
+ENDEREÇO: K RYBNÍKU 475, 252 42, JESENICE U PRAHY - PAÍS: TCHECA, REPÚBLICA - CÓDIGO ÚNICO: A.000229
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 4012074/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL MEDICARE LIMITED
+
+ENDEREÇO: SURVEY Nº 22 &24, VILLAGE - UJETI, POST - BASKA - TAL - HALOL, DIST PANCHMAHAL - 389 350, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000755
+
+EMPRESA SOLICITANTE: RANBAXY FARMACÊUTICA LTDA - CNPJ: 73.663.650/0001-90
+
+AUTORIZ/MS: 1023528 - EXPEDIENTE(s): 4011738/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: RECORDATI RARE DISEASES
+
+ENDEREÇO: ECO RIVER PARC 30 RUE DES PEUPLIERS, NANTERRE, 92000 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.001373
+
+EMPRESA SOLICITANTE: RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - CNPJ: 53.056.057/0001-79
+
+AUTORIZ/MS: 1171267 - EXPEDIENTE(s): 4059798/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LTD.
+
+ENDEREÇO: PLOT Nº. E-37/39, MIDC, SATPUR, NASIK 422 007 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000282
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 4011764/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LTD.
+
+ENDEREÇO: PLOT Nº. E-37/39, MIDC, SATPUR, NASIK 422 007 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000282
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 4011766/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000345
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 3974035/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal

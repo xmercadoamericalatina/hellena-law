@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO RE Nº 4.498, DE 2 DE Dezembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "4498"
+data: 2021-12-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/12/2021, seção 1, p. 131"
+data_publicacao: 2021-12-06
+edicao: "228"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.498-de-2-de-dezembro-de-2021-364696441"
+sha256_html_fonte: 7c98826b0dea643719e71b9f4c61eb9de5bdd26e40b370942811c8f0a87eba07
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 4.498, DE 2 DE Dezembro DE 2021
+
+RESOLUÇÃO RE Nº 4.498, DE 2 DE Dezembro DE 2021
+
+O Gerente-Geral Substituto de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno da Anvisa aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018 , e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ARTHUR LEONARDO LOPES DA SILVA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: WB PARTICIPAÇÕES - SERVIÇOS EM AEROPORTOS LTDA.
+
+ENDEREÇO: ROD SANTOS DUMONT, KM 66 S/N
+
+BAIRRO: PARQUE VIRACOPOS
+
+MUNICÍPIO: CAMPINAS
+
+UF: SP
+
+CEP: 13.052-900
+
+CNPJ: 25.041.593/0001-65
+
+PROCESSO: 25759.842228/2018-75 (EXP: 1187541/18-1)
+
+AUTORIZ/MS: 9.09759-5
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE HOTELARIA, EM TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS E POSTOS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: WILHELMSEN PORT SERVICES BRASIL LTDA
+
+ENDEREÇO: RUA BISPO LACERDA, 61/67,
+
+BAIRRO: DEL CASTILHO
+
+MUNICÍPIO: RIO DE JANEIRO
+
+UF: RJ
+
+CEP: 21051-120
+
+CNPJ: 44.109.919/0001-93
+
+PROCESSO: 25351.700676/2021-81 (EXP: 4398583/21-1)
+
+AUTORIZ/MS: 9.09747-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: SERVIMAR ENGENHARIA E MANUTENÇÕES MARÍTIMA LTDA
+
+ENDEREÇO: RUA PROJETADA 136 / RUA SÃO RAIMUNDO Nº 8 QUADRA 59 LOTE 08
+
+BAIRRO: TURU
+
+MUNICÍPIO: SÃO LUIS
+
+UF: MA
+
+CEP: 65.067-392
+
+CNPJ: 32.358.602/0001-01
+
+PROCESSO Nº: 25351.378374/2021-11 (EXP.: 3776571/21-7)
+
+AUTORIZ./MS: 9.09757-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: MENEZES AGUA TRANSPORTE LOCAÇÃO E SERVIÇOS EIRELI
+
+ENDEREÇO: RUA PADRE ROLIM, 07, LT 07, QD 10
+
+BAIRRO: BARRACÃO
+
+MUNICÍPIO: SÃO GONÇALO
+
+UF: RJ
+
+CEP: 24723-645
+
+CNPJ: 28.743.739/0001-02
+
+PROCESSO: 25351.551142/2021-14 (EXP: 4112943/21-1)
+
+AUTORIZ./MS: 9.09753-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: PORTO SANTISTA TRANSPORTE E LOGISTICA LTDA .
+
+ENDEREÇO: RUA JOSE CABALLERO, 15 SALA 39
+
+BAIRRO: GONZAGA
+
+MUNICÍPIO: SANTOS
+
+UF: SP
+
+CEP: 11055-300
+
+CNPJ: 41.663.093/0001-11
+
+PROCESSO: 25351.761951/2021-32 (EXP: 4532060/21-4)
+
+AUTORIZ/MS: 9.09755-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.

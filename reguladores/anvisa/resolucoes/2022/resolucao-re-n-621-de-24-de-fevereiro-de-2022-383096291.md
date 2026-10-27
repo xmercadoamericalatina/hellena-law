@@ -1,0 +1,208 @@
+---
+titulo: "RESOLUÇÃO-RE nº 621, DE 24 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "621"
+data: 2022-02-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2022, seção 1, p. 191"
+data_publicacao: 2022-03-02
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-621-de-24-de-fevereiro-de-2022-383096291"
+sha256_html_fonte: aecee2e4a032218eb456170e84571b347f4133860e39158e8a898998f66922b2
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE nº 621, DE 24 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE nº 621, DE 24 DE FEVEREIRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAuJO
+
+## ANEXO
+
+EMPRESA: Balder Industria Farmacêutica Ltda - CNPJ: 08.100.015/0001-33 - AUTORIZ/MS: 1085925
+
+ENDEREÇO: Av. Três, 541 - Parque Industrial Norte
+
+MUNICÍPIO: VESPASIANO - UF: MG - EXPEDIENTE: 2398210/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: HEMAFARMA COM E IND FARMACEUTICA LTDA - CNPJ: 30.332.829/0001-52 - AUTORIZ/MS: 1010360
+
+ENDEREÇO: RUA MANOEL BANDEIRA, N° 240
+
+MUNICÍPIO: SÃO GONÇALO - UF: RJ - EXPEDIENTE: 2908342/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: LABORATÓRIO FARMACÊUTICO ELOFAR LTDA - CNPJ: 83.874.628/0001-43 - AUTORIZ/MS: 1003851
+
+ENDEREÇO: RUA TEREZA CRISTINA, N° 67
+
+MUNICÍPIO: FLORIANÓPOLIS - UF: SC - EXPEDIENTE: 2871240/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+.........................................
+
+EMPRESA: LABORATÓRIO FARMACÊUTICO ELOFAR LTDA - CNPJ: 83.874.628/0001-43 - AUTORIZ/MS: 1003851
+
+ENDEREÇO: RUA TEREZA CRISTINA, N° 67
+
+MUNICÍPIO: FLORIANÓPOLIS - UF: SC - EXPEDIENTE: 2871142/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Elixires; Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: LABORATÓRIO FARMACÊUTICO ELOFAR LTDA - CNPJ: 83.874.628/0001-43 - AUTORIZ/MS: 1003851
+
+ENDEREÇO: RUA TEREZA CRISTINA, N° 67
+
+MUNICÍPIO: FLORIANÓPOLIS - UF: SC - EXPEDIENTE: 2871158/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: LABORATORIO DE EXTRATOS ALERGENICOS LTDA - CNPJ: 28.614.626/0001-07 - AUTORIZ/MS: 1017295
+
+ENDEREÇO: AVENIDA RIO BRANCO 277 GRUPO 1101 E 1201
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 3245156/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Esterilização Terminal; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: Mappel Indústria de Embalagens S.A. - CNPJ: 01.233.103/0005-98 - AUTORIZ/MS: 1034806
+
+ENDEREÇO: RUA LÍBERO BADARÓ, 1115
+
+MUNICÍPIO: SÃO BERNARDO DO CAMPO - UF: SP - EXPEDIENTE: 4079428/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER PHARMACEUTICAL SOLUTIONS LLC
+
+ENDEREÇO: 927 SOUTH CURRY PIKE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000081
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 3419345/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP
+
+ENDEREÇO: 3612 POWHATAN ROAD, CLAYTON - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000448
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 3278720/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PACKAGING COORDINATORS, LLC
+
+ENDEREÇO: 3001 RED LION ROAD, PHILADELPHIA , PENNSYLVANIA (PA) 19114 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000138
+
+EMPRESA SOLICITANTE: RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - CNPJ: 53.056.057/0001-79
+
+AUTORIZ/MS: 1171267 - EXPEDIENTE(s): 3445425/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMA PACKAGING SOLUTIONS, LLC
+
+ENDEREÇO: 341 JD YARNELL INDUSTRIAL PARKWAY, CLINTON, TENNESSEE (TN) 37716 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001325
+
+EMPRESA SOLICITANTE: AMRYT BRASIL COMERCIO E IMPORTACAO DE MEDICAMENTOS LTDA - CNPJ: 14.555.259/0001-03
+
+AUTORIZ/MS: 1175042 - EXPEDIENTE(s): 8469220/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CANGENE BIOPHARMA INC
+
+ENDEREÇO: 1111 SOUTH PACA, BALTIMORE, MARYLAND (MD) - 21230 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000129
+
+EMPRESA SOLICITANTE: AMRYT BRASIL COMERCIO E IMPORTACAO DE MEDICAMENTOS LTDA - CNPJ: 14.555.259/0001-03
+
+AUTORIZ/MS: 1175042 - EXPEDIENTE(s): 8469562/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: DONGYING TIANDONG BIOCHEMICAL INDUSTRY CO., LTD.
+
+ENDEREÇO: Nº. 1236 NAN-ER ROAD, DONGYING DISTRICT, DONGYING CITY, SHANDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.000190
+
+EMPRESA SOLICITANTE: UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - CNPJ: 60.665.981/0001-18
+
+AUTORIZ/MS: 1004977 - EXPEDIENTE(s): 4570852/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: ALEXION FARMACEUTICA BRASIL IMPORTACAO E DISTRIBUICAO DE PRODUTOS E SERVICOS DE ADMINISTRACAO - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 3376840/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA PRODUKTIONSGESELLSCHAFT DEUTSCHLAND MBH
+
+ENDEREÇO: WOLFGANG-MAGUERRE - ALLE 1, 31832 SPRINGE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000777
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 2672612/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SHL PHARMA LLC
+
+ENDEREÇO: 588 JIM MORAN BOULEVARD, DEERFIELD BEACH, FLORIDA (FL) 33442 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001376
+
+EMPRESA SOLICITANTE: CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - CNPJ: 05.452.889/0001-61
+
+AUTORIZ/MS: 1092163 - EXPEDIENTE(s): 4424310/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)

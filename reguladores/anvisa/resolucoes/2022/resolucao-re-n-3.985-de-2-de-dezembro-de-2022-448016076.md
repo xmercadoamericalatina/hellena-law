@@ -1,0 +1,200 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.985, DE 2 DE DEZEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3985"
+data: 2022-12-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/12/2022, seção 1, p. 113"
+data_publicacao: 2022-12-05
+edicao: "227"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.985-de-2-de-dezembro-de-2022-448016076"
+sha256_html_fonte: e2a1dcb38bb99dfe276e8062c437faffcb82c7efd590acc17387ef950e09b2f9
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.985, DE 2 DE DEZEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.985, DE 2 DE DEZEMBRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: LABORATIL FARMACEUTICA LTDA - CNPJ: 47.100.862/0001-50 - AUTORIZ/MS: 1005773
+
+ENDEREÇO: R ANIBAL DOS ANJOS CARVALHO 212
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 2694590/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: LABORATORIO CATARINENSE LTDA - CNPJ: 84.684.620/0001-87 - AUTORIZ/MS: 1000668
+
+ENDEREÇO: RUA DR JOAO COLIN, 1053
+
+MUNICÍPIO: JOINVILLE - UF: SC - EXPEDIENTE: 4246653/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Xaropes
+
+.........................................
+
+EMPRESA: LABORATORIO CATARINENSE LTDA - CNPJ: 84.684.620/0001-87 - AUTORIZ/MS: 1000668
+
+ENDEREÇO: RUA DR JOAO COLIN, 1053
+
+MUNICÍPIO: JOINVILLE - UF: SC - EXPEDIENTE: 4252182/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA: OXIMIL OXIGENIO MG LTDA - CNPJ: 66.358.979/0002-63 - AUTORIZ/MS: 2200009
+
+ENDEREÇO: av das industrias, 1000
+
+MUNICÍPIO: IBIRITÉ - UF: MG - EXPEDIENTE: 2476619/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: VIC PHARMA INDUSTRIA E COMERCIO LTDA - CNPJ: 39.032.974/0001-92 - AUTORIZ/MS: 1033828
+
+ENDEREÇO: RUA GERALDO ROSA 62
+
+MUNICÍPIO: TAQUARITINGA - UF: SP - EXPEDIENTE: 3252361/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: ZYDUS LIFESCIENCES LIMITED
+
+ENDEREÇO: PLOT Nº. 417, 419, 420, SARKHEJ BAVLA NATIONAL HIGHWAY Nº 8A, VILLAGE-MORAIYA, TAL-SANAND, AHMEDABAD 382 210 - GUJARAT - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000128
+
+EMPRESA SOLICITANTE: ZYDUS NIKKHO FARMACÊUTICA LTDA - CNPJ: 05.254.971/0001-81
+
+AUTORIZ/MS: 1056510 - EXPEDIENTE(s): 4226150/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos
+
+........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE DUNGARVAN LIMITED
+
+ENDEREÇO: KNOCKBRACK, DUNGARVAN. CO. WATERFORD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000272
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 4233091/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Efervescentes
+
+.........................................
+
+EMPRESA FABRICANTE: BEXIMCO PHARMACEUTICALS LIMITED
+
+ENDEREÇO: 126 KATHALDIA, AUCHPARA, TONGI-1711, GAZIPUR - PAÍS: BANGLADESH - CÓDIGO ÚNICO: A.000102
+
+EMPRESA SOLICITANTE: ZALIKA FARMACEUTICA LTDA - CNPJ: 29.536.205/0001-78
+
+AUTORIZ/MS: 1185754 - EXPEDIENTE(s): 4246558/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: DAIICHI SANKYO EUROPE GMBH
+
+ENDEREÇO: LUITPOLDSTRASSE 1, 85276 PFAFFENHOFEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000177
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 4258505/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: LG CHEM, LTD.
+
+ENDEREÇO: 151, OSONGSAENGMYEONG 1-RO, OSONG-EUP, HEUNGDEOK-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001257
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 4233133/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000478
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1419421/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: BIOCON SDN. BHD.
+
+ENDEREÇO: NO.1, JALAN BIOTEKNOLOGI 1, KAWASAN PERINDUSTRIAN SILC, 79200 ISKANDAR PUTERI, JOHOR - PAÍS: MALÁSIA - CÓDIGO ÚNICO: A.001269
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 2671442/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA NIJMEGEN B.V.
+
+ENDEREÇO: LAGELANDSEWEG 78, NIJMEGEN, 6545CG - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000395
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2720941/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ATLANTIC PHARMA - PRODUÇÕES FARMACÊUTICAS, S.A.
+
+ENDEREÇO: RUA DA TAPADA GRANDE, Nº 2, ABRUNHEIRA, SINTRA, 2710-089 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.000885
+
+EMPRESA SOLICITANTE: LABORATÓRIO GLOBO SA - CNPJ: 17.115.437/0001-73
+
+AUTORIZ/MS: 1005358 - EXPEDIENTE(s): 4226319/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 1310018/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal

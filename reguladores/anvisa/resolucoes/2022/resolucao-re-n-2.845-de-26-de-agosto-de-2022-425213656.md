@@ -1,0 +1,274 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.845, DE 26 DE AGOSTO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2845"
+data: 2022-08-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/08/2022, seção 1, p. 279"
+data_publicacao: 2022-08-30
+edicao: "165"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.845-de-26-de-agosto-de-2022-425213656"
+sha256_html_fonte: 960301ca1c26efa2a725b69f8db83d053532b716e4ba6162a2206e10e574c80d
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.845, DE 26 DE AGOSTO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 2.845, DE 26 DE AGOSTO DE 2022</p>
+  <p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º. Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >A. T. PHARMA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 44.669.358/0001-87</p>
+  <p class="dou-paragraph" >25351.177684/2022-00 / 8252295</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4499981221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JOTAF MERCANTIL PRODUTOS PARA SAUDE LTDA / 19.027.178/0001-54</p>
+  <p class="dou-paragraph" >25351.096204/2022-01 / 4046398</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4500621229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FMEDICAL COMERCIO DE EXPORTACAO E IMPORTACAO DE PRODUTOD MEDICOS E HOSPITALARES EIRELI / 09.071.600/0001-15</p>
+  <p class="dou-paragraph" >25351.764935/2018-04 / 8174638</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4506107225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Doctorfarma Ltda - Me / 08.734.130/0001-60</p>
+  <p class="dou-paragraph" >25351.678908/2013-05 / 7048649</p>
+  <p class="dou-paragraph" >7112 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - REDUÇÃO DE ATIVIDADES / 4601115223</p>
+  <p class="dou-paragraph" >25351.678908/2013-05 / 7048649</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3248411219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BF DE ANDRADE HOSPITALAR LTDA / 36.979.350/0001-99</p>
+  <p class="dou-paragraph" >25351.166185/2021-06 / 8219327</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 4500510222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DENTAL RIO - COMÉRCIO DE PRODUTOS ODONTOLÓGICOS LTDA. EPP / 05.071.520/0001-09</p>
+  <p class="dou-paragraph" >25351.313128/2012-10 / 3051522</p>
+  <p class="dou-paragraph" >714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 4499797225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >gastrovision produtos e equipamentos médicos ltda me / 18.544.281/0001-09</p>
+  <p class="dou-paragraph" >25351.698163/2013-10 / 8100401</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4491890226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DELTA DISTRIBUIDORA DE MEDICAMENTO LTDA / 07.854.673/0002-39</p>
+  <p class="dou-paragraph" >25351.161969/2022-11 / 8245494</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4474691229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BAHIMINAS DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 07.646.395/0001-43</p>
+  <p class="dou-paragraph" >25351.080696/2022-12 / 4043769</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 4506024222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >AMAVIA COSMETICOS INDUSTRIA E COMERCIO LTDA / 13.911.800/0001-06</p>
+  <p class="dou-paragraph" >25351.286330/2012-12 / 2065704</p>
+  <p class="dou-paragraph" >7187 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE CLASSE / 4282299215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DENTAL SUL MINEIRA LTDA ME / 03.604.422/0001-64</p>
+  <p class="dou-paragraph" >25351.423234/2018-18 / 8170011</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4473144224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Mais Saude Comercio de Produtos Hospitalares LTDA - ME / 14.261.377/0001-09</p>
+  <p class="dou-paragraph" >25351.558080/2013-19 / 1097905</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4506172221</p>
+  <p class="dou-paragraph" >-------------------------------------</p>
+  <p class="dou-paragraph" >TS MEDICAL COMERCIO E SERVICO DE MATERIAL MEDICO HOSPITALAR E IMPORTACAO LTDA / 27.066.602/0001-06</p>
+  <p class="dou-paragraph" >25351.291991/2020-22 / 8199257</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 4576070223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DV3 SOLUÇÕES LOGÍSTICAS LTDA / 57.317.133/0001-03</p>
+  <p class="dou-paragraph" >25351.900447/2016-24 / 1152351</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4500413227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >grupo fundamental saude ltda / 32.617.070/0001-80</p>
+  <p class="dou-paragraph" >25351.215835/2022-27 / 8252798</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4466953228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PITANGA FARMA LTDA / 46.161.762/0001-70</p>
+  <p class="dou-paragraph" >25351.090292/2022-29 / 7911556</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 4399787222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FL Brasil Holding, Logística e Transporte Ltda / 18.233.211/0034-06</p>
+  <p class="dou-paragraph" >25351.192520/2020-32 / 8197685</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4474060229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DISTRICENTER IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA / 35.457.333/0001-29</p>
+  <p class="dou-paragraph" >25351.166427/2022-34 / 8251821</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4506498224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDICALL FARMA DISTRIBUIDORA DE PRODUTOS E SERVIÇOS PARA SAÚDE EIRELI / 10.267.695/0001-26</p>
+  <p class="dou-paragraph" >25351.516042/2010-34 / 8067385</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4312397228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDICAL TRADE DE MARICÁ COMÉRCIO DE MATERIAL HOSPITALAR LTDA / 04.255.249/0001-07</p>
+  <p class="dou-paragraph" >25351.001672/2003-34 / 8015810</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4375948221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >F &amp; G DO BRASIL LTDA - ME / 10.266.670/0001-08</p>
+  <p class="dou-paragraph" >25351.207323/2009-35 / 2050211</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 4473130223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CARGOSOFT SERVIÇOS LOGISTICOS LTDA / 05.443.883/0016-04</p>
+  <p class="dou-paragraph" >25351.513762/2022-36 / 8247723</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4474078225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LINEHOSP MEDICAL COMERCIO DE PRODUTOS HOSPITALARES LTDA / 38.370.336/0001-19</p>
+  <p class="dou-paragraph" >25351.747692/2021-37 / 8228285</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4506260228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >VIDASIM COMERCIO DE PRODUTOS HOSPITALARES EIRELI / 41.983.527/0001-60</p>
+  <p class="dou-paragraph" >25351.634227/2021-37 / 8236078</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4473232221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A. T. PHARMA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 44.669.358/0001-87</p>
+  <p class="dou-paragraph" >25351.177422/2022-37 / 4047561</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4500010220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ELLO SURGICAL MATERIAIS HOSPITALARES LTDA / 35.157.398/0001-59</p>
+  <p class="dou-paragraph" >25351.149623/2022-44 / 8251619</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4467034226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BAHIMINAS DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 07.646.395/0001-43</p>
+  <p class="dou-paragraph" >25351.080674/2022-44 / 1271537</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4506115228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A. T. PHARMA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 44.669.358/0001-87</p>
+  <p class="dou-paragraph" >25351.177685/2022-46 / 3114994</p>
+  <p class="dou-paragraph" >716 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4499983223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GTS GLOBAL RJ DISTRIBUIDORA DE MEDICAMENTOS LTDA / 31.080.420/0001-59</p>
+  <p class="dou-paragraph" >25351.421324/2019-47 / 4012349</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 4506293223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JB FARMA COMERCIO DE MEDICAMENTOS E REPRESENTACOES LTDA / 20.301.535/0001-00</p>
+  <p class="dou-paragraph" >25351.602524/2014-48 / 1121387</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 2634549229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CONTROL QUIMICA DO BRASIL LTDA / 02.795.978/0001-12</p>
+  <p class="dou-paragraph" >25351.318528/2008-49 / 3037522</p>
+  <p class="dou-paragraph" >732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 4499859221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DENTAL RIO - COMÉRCIO DE PRODUTOS ODONTOLÓGICOS LTDA. EPP / 05.071.520/0001-09</p>
+  <p class="dou-paragraph" >25351.313221/2012-50 / 8086351</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4499492220</p>
+  <p class="dou-paragraph" >25351.313262/2012-56 / 1093141</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4499491223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Mais Saude Comercio de Produtos Hospitalares LTDA - ME / 14.261.377/0001-09</p>
+  <p class="dou-paragraph" >25351.558095/2013-60 / 3056291</p>
+  <p class="dou-paragraph" >714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 4505936228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Havi Material Hospitalar Eireli / 40.117.556/0001-87</p>
+  <p class="dou-paragraph" >25351.694857/2021-61 / 8227413</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4499857228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RENDE BEM INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 19.742.155/0001-21</p>
+  <p class="dou-paragraph" >25351.706205/2019-61 / 3091181</p>
+  <p class="dou-paragraph" >732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 4506056221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FREITAS E COSTA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 37.952.138/0001-09</p>
+  <p class="dou-paragraph" >25351.867373/2020-66 / 7744404</p>
+  <p class="dou-paragraph" >7112 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - REDUÇÃO DE ATIVIDADES / 4587807222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >M K P LADISLAU / 37.416.741/0001-68</p>
+  <p class="dou-paragraph" >25351.006833/2021-68 / 8217204</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4506123221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A. T. PHARMA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 44.669.358/0001-87</p>
+  <p class="dou-paragraph" >25351.177635/2022-69 / 1277603</p>
+  <p class="dou-paragraph" >70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 450001322</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >HUGO ALMEIDA QUELES / 44.317.334/0001-69</p>
+  <p class="dou-paragraph" >25351.068272/2022-71 / 8242527</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4499926220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DENTAL RIO - COMÉRCIO DE PRODUTOS ODONTOLÓGICOS LTDA. EPP / 05.071.520/0001-09</p>
+  <p class="dou-paragraph" >25351.313244/2012-71 / 2065692</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 4500495223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BAHIMINAS DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 07.646.395/0001-43</p>
+  <p class="dou-paragraph" >25351.080693/2022-71 / 3113881</p>
+  <p class="dou-paragraph" >714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 4506046226</p>
+  <p class="dou-paragraph" >-------------------------------------</p>
+  <p class="dou-paragraph" >axis tecnologia medica ltda. me / 24.905.567/0001-75</p>
+  <p class="dou-paragraph" >25351.294135/2016-71 / 8140550</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4473420221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA LEANDRO LTDA. EPP / 78.533.395/0001-85</p>
+  <p class="dou-paragraph" >25351.184089/2002-79 / 0049005</p>
+  <p class="dou-paragraph" >7112 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - REDUÇÃO DE ATIVIDADES / 4534439226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DIXMEDICAL PRODUTOS PARA SAÚDE LTDA / 19.001.659/0001-90</p>
+  <p class="dou-paragraph" >25351.103799/2021-79 / 8219512</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4499557224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >XPMP DROGARIA DESCONTÃO DE JAPERI LTDA / 08.750.862/0001-43</p>
+  <p class="dou-paragraph" >25351.139528/2009-81 / 0591806</p>
+  <p class="dou-paragraph" >7112 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - REDUÇÃO DE ATIVIDADES / 4399803228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PRATIK MEDICAL COMERCIO E REPRESENTACOES LTDA - ME / 16.951.298/0001-55</p>
+  <p class="dou-paragraph" >25351.522877/2013-87 / 8098788</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4473002225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ZOLI COMERCIO DE PRODUTOS HOSPITALARES LTDA / 45.437.594/0001-30</p>
+  <p class="dou-paragraph" >25351.513900/2022-87 / 8247785</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4474620224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FMEDICAL COMERCIO DE EXPORTACAO E IMPORTACAO DE PRODUTOD MEDICOS E HOSPITALARES EIRELI / 09.071.600/0001-15</p>
+  <p class="dou-paragraph" >25351.006741/2021-88 / 1257251</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 450604822</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GTS GLOBAL RJ DISTRIBUIDORA DE MEDICAMENTOS LTDA / 31.080.420/0001-59</p>
+  <p class="dou-paragraph" >25351.421325/2019-91 / 1191931</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4506186222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAMED DISTRIBUIDORA DE MEDICAMENTOS EIRELI / 18.739.858/0001-38</p>
+  <p class="dou-paragraph" >25351.639909/2013-91 / 1098686</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4499547229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BASE HOSPITALAR COMÉRCIO DE PRODUTOS HOSPITALARES LTDA / 04.934.569/0001-85</p>
+  <p class="dou-paragraph" >25351.334976/2013-91 / 8094270</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4499905222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEGA BEAUTY COSMETICOS INDUSTRIA E COMERCIO LTDA / 40.166.182/0001-90</p>
+  <p class="dou-paragraph" >25351.526073/2022-91 / 4045530</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4499728223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JUST BEAUTY IMPORTADORA E DISTRIBUIDORA DE COSMETICOS EIRELI / 34.453.891/0001-53</p>
+  <p class="dou-paragraph" >25351.079602/2020-92 / 4017852</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4499556228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >NP QUIMICA EIRELI / 41.370.722/0001-15</p>
+  <p class="dou-paragraph" >25351.222706/2022-95 / 3112212</p>
+  <p class="dou-paragraph" >716 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4474373227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FMEDICAL COMERCIO DE EXPORTACAO E IMPORTACAO DE PRODUTOD MEDICOS E HOSPITALARES EIRELI / 09.071.600/0001-15</p>
+  <p class="dou-paragraph" >25351.764937/2018-95 / 3083459</p>
+  <p class="dou-paragraph" >714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 4505669220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Alpha Ortopedia Produtos Medicos e Hospitalares / 35.492.144/0001-97</p>
+  <p class="dou-paragraph" >25351.527726/2020-98 / 8202214</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 4499871221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LANZA PHARMA LTDA - EPP / 04.534.393/0001-74</p>
+  <p class="dou-paragraph" >25351.708445/2011-98 / 1093522</p>
+  <p class="dou-paragraph" >70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 4505818225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EVAS PRODUTOS MEDICOS LTDA / 00.826.521/0001-00</p>
+  <p class="dou-paragraph" >25024.003542/99-73 / 1044344</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0990878228</p>
+  <p class="dou-paragraph" >25024.003542/99-73 / 1044344</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 1547670223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FLORIFARMA DISTRIBUIDORA FARMACÊUTICA LTDA. / 83.461.681/0001-12</p>
+  <p class="dou-paragraph" >25351.021748/00-89 / 1050551</p>
+  <p class="dou-paragraph" >7427 - AFE/AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 4509881223</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

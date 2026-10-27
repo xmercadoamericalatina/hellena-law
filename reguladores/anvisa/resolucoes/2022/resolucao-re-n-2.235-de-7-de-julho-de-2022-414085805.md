@@ -1,0 +1,277 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.235, DE 7 DE JULHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2235"
+data: 2022-07-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/07/2022, seção 1, p. 77"
+data_publicacao: 2022-07-11
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.235-de-7-de-julho-de-2022-414085805"
+sha256_html_fonte: 967427a196ebf7db600a33bd7096fa0623e3e45b5d5b27c3235e4a78828172e9
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.235, DE 7 DE JULHO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 2.235, DE 7 DE JULHO DE 2022</p>
+  <p class="dou-paragraph" >O Gerente-Geral de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">NÉLIO CEZAR DE AQUINO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p>
+  <p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p>
+  <p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p>
+  <p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >ASTRAZENECA DO BRASIL LTDA 60318797000100</p>
+  <p class="dou-paragraph" >ticagrelor</p>
+  <p class="dou-paragraph" >ALMINDA 25351.095821/2022-81 07/2032</p>
+  <p class="dou-paragraph" >10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 4257867/22-1</p>
+  <p class="dou-paragraph" >(1458 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO - 925260/09-6 - 25351.745856/2009-90)</p>
+  <p class="dou-paragraph" >1.1618.0294.001-7 36 Meses</p>
+  <p class="dou-paragraph" >90 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 10</p>
+  <p class="dou-paragraph" >1.1618.0294.002-5 36 Meses</p>
+  <p class="dou-paragraph" >90 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20</p>
+  <p class="dou-paragraph" >1.1618.0294.003-3 36 Meses</p>
+  <p class="dou-paragraph" >90 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >1.1618.0294.004-1 36 Meses</p>
+  <p class="dou-paragraph" >90 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >1.1618.0294.005-1 36 Meses</p>
+  <p class="dou-paragraph" >60 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20</p>
+  <p class="dou-paragraph" >1.1618.0294.006-8 36 Meses</p>
+  <p class="dou-paragraph" >60 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >Camber Farmaceutica Ltda 24633934000129</p>
+  <p class="dou-paragraph" >gefitinibe 25351.133438/2022-38 07/2032</p>
+  <p class="dou-paragraph" >10488 GENÉRICO - REGISTRO DE MEDICAMENTO - CLONE 4319355/22-2</p>
+  <p class="dou-paragraph" >(150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR - 3419104/19-6 - 25351.712368/2019-83)</p>
+  <p class="dou-paragraph" >1.6507.0022.001-1 36 Meses</p>
+  <p class="dou-paragraph" >250 MG COM REV CT BL AL PLAS PVC TRANS X 30</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175</p>
+  <p class="dou-paragraph" >BORTEZOMIBE</p>
+  <p class="dou-paragraph" >BOZORED 25351.144175/2017-25 07/2027</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0462504/21-8</p>
+  <p class="dou-paragraph" >1.5143.0027.001-9 30 Meses</p>
+  <p class="dou-paragraph" >3,5 MG PÓ LIOF SOL INJ CT FA VD TRANS</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >EUROFARMA LABORATÓRIOS S.A. 61190096000192</p>
+  <p class="dou-paragraph" >AMOXICILINA TRI-hIDRATADA</p>
+  <p class="dou-paragraph" >AMOXICILINA 25351.011018/00-70 08/2025</p>
+  <p class="dou-paragraph" >11869 RDC 73/2016 - GENÉRICO - MUDANÇAS MAIORES DE MÉTODOS ANALÍTICOS 0514586/21-4</p>
+  <p class="dou-paragraph" >1.0043.0727.002-3 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >1.0043.0727.003-1 24 Meses</p>
+  <p class="dou-paragraph" >100 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >1.0043.0727.005-8 24 Meses</p>
+  <p class="dou-paragraph" >80 MG/ML PO SUS OR CT FR VD AMB X 100 ML + SER DOS</p>
+  <p class="dou-paragraph" >MINOXIDIL</p>
+  <p class="dou-paragraph" >PILOX 25351.063257/2022-37 04/2032</p>
+  <p class="dou-paragraph" >1989 SIMILAR - ALTERAÇÃO DE NOME COMERCIAL 4369948/22-1</p>
+  <p class="dou-paragraph" >1.0043.1434.001-5 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SOL SPR CAPI CT FR SPR PLAS PEAD OPC X 50 ML</p>
+  <p class="dou-paragraph" >1.0043.1434.002-3 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SOL SPR CAPI CT FR SPR PLAS PEAD OPC X 25 ML</p>
+  <p class="dou-paragraph" >AMOXICILINA TRI-hIDRATADA</p>
+  <p class="dou-paragraph" >ATAK 25351.089839/2021-62 11/2025</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0702482/21-7</p>
+  <p class="dou-paragraph" >1.0043.1374.001-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >1.0043.1374.002-8 24 Meses</p>
+  <p class="dou-paragraph" >80 MG/ML PO SUS OR CT FR VD AMB X 100 ML + SER DOS</p>
+  <p class="dou-paragraph" >1.0043.1374.003-6 24 Meses</p>
+  <p class="dou-paragraph" >100 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >lenalidomida</p>
+  <p class="dou-paragraph" >NUVYOR 25351.680488/2021-29 07/2032</p>
+  <p class="dou-paragraph" >10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 4366614/21-1</p>
+  <p class="dou-paragraph" >(155 GENERICO - REGISTRO DE MEDICAMENTO - 3878511/21-1 - 25351.435815/2021-90)</p>
+  <p class="dou-paragraph" >1.0043.1442.001-9 36 Meses</p>
+  <p class="dou-paragraph" >5 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 7</p>
+  <p class="dou-paragraph" >1.0043.1442.002-7 36 Meses</p>
+  <p class="dou-paragraph" >5 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 14</p>
+  <p class="dou-paragraph" >1.0043.1442.003-5 36 Meses</p>
+  <p class="dou-paragraph" >5 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 21</p>
+  <p class="dou-paragraph" >1.0043.1442.004-3 36 Meses</p>
+  <p class="dou-paragraph" >10 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 7</p>
+  <p class="dou-paragraph" >1.0043.1442.005-1 36 Meses</p>
+  <p class="dou-paragraph" >10 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 14</p>
+  <p class="dou-paragraph" >1.0043.1442.006-1 36 Meses</p>
+  <p class="dou-paragraph" >10 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 21</p>
+  <p class="dou-paragraph" >1.0043.1442.007-8 36 Meses</p>
+  <p class="dou-paragraph" >10 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 28</p>
+  <p class="dou-paragraph" >1.0043.1442.008-6 36 Meses</p>
+  <p class="dou-paragraph" >15 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 7</p>
+  <p class="dou-paragraph" >1.0043.1442.009-4 36 Meses</p>
+  <p class="dou-paragraph" >15 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 14</p>
+  <p class="dou-paragraph" >1.0043.1442.010-8 36 Meses</p>
+  <p class="dou-paragraph" >15 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 21</p>
+  <p class="dou-paragraph" >1.0043.1442.011-6 36 Meses</p>
+  <p class="dou-paragraph" >15 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 28</p>
+  <p class="dou-paragraph" >1.0043.1442.012-4 36 Meses</p>
+  <p class="dou-paragraph" >25 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 7</p>
+  <p class="dou-paragraph" >1.0043.1442.013-2 36 Meses</p>
+  <p class="dou-paragraph" >25 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 14</p>
+  <p class="dou-paragraph" >1.0043.1442.014-0 36 Meses</p>
+  <p class="dou-paragraph" >25 MG CAP DURA CT BL AL PLAS PVC/PCTFE TRANS X 21</p>
+  <p class="dou-paragraph" >AMOXICILINA TRI-hIDRATADA</p>
+  <p class="dou-paragraph" >SINOT 25351.711360/2014-95 11/2025</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0702487/21-8</p>
+  <p class="dou-paragraph" >1.0043.1171.001-6 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >1.0043.1171.002-4 24 Meses</p>
+  <p class="dou-paragraph" >100 MG/ML PO SUS OR CT FR VD AMB X 150 ML + COP</p>
+  <p class="dou-paragraph" >1.0043.1171.003-2 24 Meses</p>
+  <p class="dou-paragraph" >80 MG/ML PO SUS OR CT FR VD AMB X 100 ML + SER DOS</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >FRESENIUS MEDICAL CARE LTDA 01440590000136</p>
+  <p class="dou-paragraph" >BICARBONATO DE SÓDIO</p>
+  <p class="dou-paragraph" >BIBAG 25000.020920/99-24 10/2026</p>
+  <p class="dou-paragraph" >10207 ESPECÍFICO - ATUALIZAÇÃO DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS 4353842/21-8</p>
+  <p class="dou-paragraph" >10149 ESPECÍFICO - INCLUSÃO DE LOCAL DE FABRICAÇÃO DO MEDICAMENTO 2193063/21-5</p>
+  <p class="dou-paragraph" >1.3223.0009.011-6 24 Meses</p>
+  <p class="dou-paragraph" >900 G PÓ SECO HD CX BOLS PLAS PE TRANS (CONECTOR EM GANCHO) X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.013-2 24 Meses</p>
+  <p class="dou-paragraph" >650 G PÓ HD CX BOLS PLAS PE TRANS (CONECTOR EM GANCHO) X 1000 ML</p>
+  <p class="dou-paragraph" >10207 ESPECÍFICO - ATUALIZAÇÃO DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS 4353842/21-8</p>
+  <p class="dou-paragraph" >1.3223.0009.002-7 24 Meses</p>
+  <p class="dou-paragraph" >700 G PÓ SECO HD CX BOLS PLAS TRANS X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.003-5 24 Meses</p>
+  <p class="dou-paragraph" >950 G PÓ SECO HD CX BOLS PLAS TRANS X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.008-6 24 Meses</p>
+  <p class="dou-paragraph" >700 G PÓ SECO HD CX BOLS PLAS TRANS (CONECTOR EM GANCHO) X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.009-4 24 Meses</p>
+  <p class="dou-paragraph" >950 G PÓ SECO HD CX BOLS PLAS TRANS (CONECTOR EM GANCHO) X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.010-8 24 Meses</p>
+  <p class="dou-paragraph" >900 G PÓ SECO HD CX BOLS PLAS TRANS X 1000 ML</p>
+  <p class="dou-paragraph" >1.3223.0009.012-4 24 Meses</p>
+  <p class="dou-paragraph" >650 G PÓ SECO HD CX BOLS PLAS TRANS X 1000 ML</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176</p>
+  <p class="dou-paragraph" >TARTARATO DE METOPROLOL</p>
+  <p class="dou-paragraph" >TARBET 25351.090265/2022-56 07/2032</p>
+  <p class="dou-paragraph" >10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 4247524/22-4</p>
+  <p class="dou-paragraph" >(155 GENERICO - REGISTRO DE MEDICAMENTO - 0041749/20-1 - 25351.004579/2020-82)</p>
+  <p class="dou-paragraph" >1.0370.0769.001-5 24 Meses</p>
+  <p class="dou-paragraph" >1 MG/ML SOL INJ IV CT AMP VD TRANS X 5 ML</p>
+  <p class="dou-paragraph" >1.0370.0769.002-3 24 Meses</p>
+  <p class="dou-paragraph" >1 MG/ML SOL INJ IV CT 5 AMP VD TRANS X 5 ML</p>
+  <p class="dou-paragraph" >1.0370.0769.003-1 24 Meses</p>
+  <p class="dou-paragraph" >1 MG/ML SOL INJ IV CT 10 AMP VD TRANS X 5 ML</p>
+  <p class="dou-paragraph" >1.0370.0769.004-1 24 Meses</p>
+  <p class="dou-paragraph" >1 MG/ML SOL INJ IV CT 25 AMP VD TRANS X 5 ML</p>
+  <p class="dou-paragraph" >1.0370.0769.005-8 24 Meses</p>
+  <p class="dou-paragraph" >1 MG/ML SOL INJ IV CT 50 AMP VD TRANS X 5 ML</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >MARJAN INDÚSTRIA E COMÉRCIO LTDA 60726692000181</p>
+  <p class="dou-paragraph" >TIOCONAZOL + TINIDAZOL</p>
+  <p class="dou-paragraph" >TRIVIFEME 25351.144968/2022-10 07/2032</p>
+  <p class="dou-paragraph" >10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 4344908/22-5</p>
+  <p class="dou-paragraph" >(150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR - 079792/95-8 - 25000.023181/95-35)</p>
+  <p class="dou-paragraph" >1.0155.0251.001-7 24 Meses</p>
+  <p class="dou-paragraph" >20 MG + 30 MG CREM VAG CT BG AL X 35 G + 7 APLIC DESC</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >PRATI DONADUZZI &amp; CIA LTDA 73856593000166</p>
+  <p class="dou-paragraph" >CLORIDRATO DE SERTRALINA</p>
+  <p class="dou-paragraph" >RALZIN 25351.098320/2022-56 07/2032</p>
+  <p class="dou-paragraph" >10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 4262557/22-2</p>
+  <p class="dou-paragraph" >(155 GENERICO - REGISTRO DE MEDICAMENTO - 0595576/14-9 - 25351.428759/2014-76)</p>
+  <p class="dou-paragraph" >1.2568.0326.001-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 15</p>
+  <p class="dou-paragraph" >1.2568.0326.002-8 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 30</p>
+  <p class="dou-paragraph" >1.2568.0326.003-6 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 60</p>
+  <p class="dou-paragraph" >1.2568.0326.004-4 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 100</p>
+  <p class="dou-paragraph" >1.2568.0326.005-2 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 300</p>
+  <p class="dou-paragraph" >1.2568.0326.006-0 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 500</p>
+  <p class="dou-paragraph" >1.2568.0326.007-9 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 15</p>
+  <p class="dou-paragraph" >1.2568.0326.008-7 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >1.2568.0326.009-5 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >1.2568.0326.010-9 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 100</p>
+  <p class="dou-paragraph" >1.2568.0326.011-7 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >1.2568.0326.012-5 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 500</p>
+  <p class="dou-paragraph" >1.2568.0326.013-3 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 15</p>
+  <p class="dou-paragraph" >1.2568.0326.014-1 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 30</p>
+  <p class="dou-paragraph" >1.2568.0326.015-1 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 60</p>
+  <p class="dou-paragraph" >1.2568.0326.016-8 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 100</p>
+  <p class="dou-paragraph" >1.2568.0326.017-6 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 300</p>
+  <p class="dou-paragraph" >1.2568.0326.018-4 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC TRANS X 500</p>
+  <p class="dou-paragraph" >1.2568.0326.019-2 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 15</p>
+  <p class="dou-paragraph" >1.2568.0326.020-6 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >1.2568.0326.021-4 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >1.2568.0326.022-2 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 100</p>
+  <p class="dou-paragraph" >1.2568.0326.023-0 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >1.2568.0326.024-9 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 500</p>
+  <p class="dou-paragraph" >1.2568.0326.025-7 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 600</p>
+  <p class="dou-paragraph" >1.2568.0326.026-5 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 900</p>
+  <p class="dou-paragraph" >1.2568.0326.027-3 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 960</p>
+  <p class="dou-paragraph" >1.2568.0326.028-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 600</p>
+  <p class="dou-paragraph" >1.2568.0326.029-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 900</p>
+  <p class="dou-paragraph" >1.2568.0326.030-3 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 960</p>
+  <p class="dou-paragraph" >1.2568.0326.031-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC TRANS X 10</p>
+  <p class="dou-paragraph" >1.2568.0326.032-1 24 Meses</p>
+  <p class="dou-paragraph" >50 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 10</p>
+  <p class="dou-paragraph" >---------------------------</p>
+  <p class="dou-paragraph" >RANBAXY FARMACÊUTICA LTDA 73663650000190</p>
+  <p class="dou-paragraph" >cloridrato de amiodarona 25351.428031/2005-95 12/2026</p>
+  <p class="dou-paragraph" >10953 RDC 73/2016 - GENÉRICO - AMPLIAÇÃO DOS LIMITES DE ESPECIFICAÇÃO 1639300/20-7</p>
+  <p class="dou-paragraph" >10953 RDC 73/2016 - GENÉRICO - AMPLIAÇÃO DOS LIMITES DE ESPECIFICAÇÃO 1639605/20-7</p>
+  <p class="dou-paragraph" >10956 RDC 73/2016 - GENÉRICO - MUDANÇA MAIOR DE MÉTODO ANALÍTICO 1639645/20-6</p>
+  <p class="dou-paragraph" >11019 RDC 73/2016 - GENÉRICO - SUBSTITUIÇÃO DE LOCAL DE FABRICAÇÃO DE MEDICAMENTO DE LIBERAÇÃO CONVENCIONAL 1639297/20-3</p>
+  <p class="dou-paragraph" >11043 RDC 73/2016 - GENÉRICO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO MEDICAMENTO 1639662/20-6</p>
+  <p class="dou-paragraph" >11112 RDC 73/2016 - GENÉRICO - MUDANÇA DE CONDIÇÃO DE ARMAZENAMENTO ADICIONAL DO MEDICAMENTO 1227419/21-4</p>
+  <p class="dou-paragraph" >11866 RDC 73/2016 - GENÉRICO - MUDANÇAS INTERMEDIÁRIAS DE MÉTODOS ANALÍTICOS 1227597/21-2</p>
+  <p class="dou-paragraph" >1.2352.0189.001-2 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM CT BL AL PLAS TRANS X 20</p>
+  <p class="dou-paragraph" >1.2352.0189.002-0 24 Meses</p>
+  <p class="dou-paragraph" >100 MG COM CT BL AL PLAS TRANS X 30</p>
+  <p class="dou-paragraph" >1.2352.0189.003-9 24 Meses</p>
+  <p class="dou-paragraph" >200 MG COM CT BL AL PLAS TRANS X 20</p>
+  <p class="dou-paragraph" >1.2352.0189.004-7 24 Meses</p>
+  <p class="dou-paragraph" >200 MG COM CT BL AL PLAS TRANS X 30</p>
+  <p class="dou-paragraph" >1.2352.0189.005-5 24 Meses</p>
+  <p class="dou-paragraph" >200 MG COM CT BL AL PLAS TRANS X 500</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

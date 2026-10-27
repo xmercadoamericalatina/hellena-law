@@ -1,0 +1,214 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.246, DE 29 DE SETEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3246"
+data: 2022-09-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/10/2022, seção 1, p. 109"
+data_publicacao: 2022-10-03
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.246-de-29-de-setembro-de-2022-433309510"
+sha256_html_fonte: 600f581546afb348d38d6b5a77b26e87852483aa150e9abee5f6c279d0533a78
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.246, DE 29 DE SETEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.246, DE 29 DE SETEMBRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: Air Products Brasil Ltda - CNPJ: 43.843.358/0003-50 - AUTORIZ/MS: 2200012
+
+ENDEREÇO: R. João Cardoso dos Santos, 741
+
+MUNICÍPIO: MOGI DAS CRUZES - UF: SP - EXPEDIENTE: 1376732/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA: Air Products Brasil Ltda - CNPJ: 43.843.358/0003-50 - AUTORIZ/MS: 2200012
+
+ENDEREÇO: R. João Cardoso dos Santos, 741
+
+MUNICÍPIO: MOGI DAS CRUZES - UF: SP - EXPEDIENTE: 1376675/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76 - AUTORIZ/MS: 1012787
+
+ENDEREÇO: ESTRADA DOS BANDEIRANTES, 4211
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 1014203/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: OXIGENIO CARIRI LTDA - CNPJ: 08.983.257/0001-12 - AUTORIZ/MS: 1253734
+
+ENDEREÇO: AV LEAO SAMPAIO, 3608 BL E
+
+MUNICÍPIO: BARBALHA - UF: CE - EXPEDIENTE: 4355623/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA: PHARLAB INDÚSTRIA FARMACÊUTICA S.A. - CNPJ: 02.501.297/0001-02 - AUTORIZ/MS: 1041075
+
+ENDEREÇO: RUA OLÍMPIO REZENDE DE OLIVEIRA, Nº 28
+
+MUNICÍPIO: LAGOA DA PRATA - UF: MG - EXPEDIENTE: 0358893/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: PHARLAB INDÚSTRIA FARMACÊUTICA S.A. - CNPJ: 02.501.297/0001-02 - AUTORIZ/MS: 1041075
+
+ENDEREÇO: RUA OLÍMPIO REZENDE DE OLIVEIRA, Nº 28
+
+MUNICÍPIO: LAGOA DA PRATA - UF: MG - EXPEDIENTE: 0359087/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT GERMANY SCHORNDORF GMBH
+
+ENDEREÇO: STEINBEISSTRASSE 1 UND 2, 73614, SCHORNDORF - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000134
+
+EMPRESA SOLICITANTE: PHARLAB INDÚSTRIA FARMACÊUTICA S.A. - CNPJ: 02.501.297/0001-02
+
+AUTORIZ/MS: 1041075 - EXPEDIENTE(s): 0432557/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: GENZYME IRELAND LIMITED
+
+ENDEREÇO: IDA INDUSTRIAL PARK, OLD KILMEADEN ROAD, WATERFORD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000253
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0164196/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: EUROAPI UK LIMITED
+
+ENDEREÇO: 37 HOLLANDS ROAD, HAVERHILL, CB9 8PU - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000254
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0140711/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000345
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 0320190/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIO Y HERBORISTERÍA SANTA MARGARITA S.A.
+
+ENDEREÇO: RUTA 1, MCAL. FRANCISCO SOLANO LÓPEZ, KM 197, 5, SAN JUAN BAUTISTA, MISIONES - PAÍS: PARAGUAI - CÓDIGO ÚNICO: A.001209
+
+EMPRESA SOLICITANTE: TÉ GUARANI DO BRASIL LTDA - CNPJ: 04.259.723/0001-60
+
+AUTORIZ/MS: 1052080 - EXPEDIENTE(s): 1519644/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Rasuras
+
+.........................................
+
+EMPRESA FABRICANTE: ACS DOBFAR S.P.A.
+
+ENDEREÇO: VIA A. FLEMING, 2 - 37135 VERONA - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000277
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0258144/22-0
+
+P CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 0963125/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIOCON BIOLOGICS LIMITED
+
+ENDEREÇO: BLOCK NO. B1, B2, B3, Q13 OF Q1 AND W20 AND UNIT S18, 1ST FLOOR, BLOCK B4, SPECIAL ECONOMIC ZONE, PLOT NO. 2, 3, 4, & 5, PHASE IV, BOMMASANDRA-JIGANI LINK ROAD, BOMMASANDRA POST, BENGALURU -560 099 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000106
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0905257/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BORA PHARMACEUTICAL SERVICES INC
+
+ENDEREÇO: 7333 MISSISSAUGA ROAD, MISSISSAUGA, ONTARIO L5N 6L4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000274
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0258296/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: EUGIA PHARMA SPECIALITIES LIMITED
+
+ENDEREÇO: SURVEY NOS. 550,551 E 552, KOLTHUR VILLAGE, SHAMIRPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001350
+
+EMPRESA SOLICITANTE: EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA - CNPJ: 44.639.493/0001-80
+
+AUTORIZ/MS: 1274209 - EXPEDIENTE(s): 4228903/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos

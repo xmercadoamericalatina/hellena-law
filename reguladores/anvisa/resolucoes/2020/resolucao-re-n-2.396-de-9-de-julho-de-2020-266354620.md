@@ -1,0 +1,300 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.396, DE 9 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2396"
+data: 2020-07-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/07/2020, seção 1, p. 85"
+data_publicacao: 2020-07-13
+edicao: "132"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.396-de-9-de-julho-de-2020-266354620"
+sha256_html_fonte: 036fc6d797849240b7da812fd2d07cfd81a949fa1e467d6ecc16942f367be156
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.396, DE 9 DE JULHO DE 2020
+
+RESOLUÇÃO-RE Nº 2.396, DE 9 DE JULHO DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA: White Martins Gases Industriais LTDA - CNPJ: 35.820.448/0135-48 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: AVENIDA GETÚLIO VARGAS, 200
+
+MUNICÍPIO: JOÃO MONLEVADE - UF: MG - EXPEDIENTE: 2621309/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER HEALTHCARE CORPORATION
+
+ENDEREÇO: 21026 ALEXANDER COURT, HAYWARD, CA 94545 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0074
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0001-80
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 3346043/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: CHIESI FARMACEUTICI S.P.A
+
+ENDEREÇO: VIA SAN LEONARDO, 96 - 43122 PARMA - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0153
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 3507962/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16 - AUTORIZ/MS: 1000472
+
+ENDEREÇO: RUA ANTÔNIO RASTEIRO FILHO (MARGINAL DA PR 445), 1920
+
+MUNICÍPIO: CAMBÉ - UF: PR - EXPEDIENTE: 2637965/19-3Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pastilhas
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Hormônios): Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT PHARMA SOLUTIONS, L.L.C.
+
+ENDEREÇO: 2725 SCHERER DRIVE NORTH, ST. PETERSBURG, FLORIDA (FL) 33716-1016 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0139
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 3220073/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+.........................................
+
+EMPRESA: AIR LIQUIDE BRASIL LTDA - CNPJ: 00.331.788/0036-49 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: AV. MARIA ELIAS LISBOA SANTOS, QUADRA 5, LOTE 0001-E
+
+MUNICÍPIO: APARECIDA DE GOIÂNIA - UF: GO - EXPEDIENTE: 3370860/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: LINDE GASES LTDA - CNPJ: 60.619.202/0014-62 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: AV PARQUE OESTE, S/N - DISTRITO IDUSTRIAL
+
+MUNICÍPIO: MARACANAÚ - UF: CE - EXPEDIENTE: 0427663/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: ELI LILLY AND COMPANY
+
+ENDEREÇO: LILLY CORPORATE CENTER, INDIANAPOLIS, INDIANA (IN) 46285 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0204
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 1060970/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SANDOZ GRUP SAGLIK URUNLERI ILACLARI SANAYI VE TICARET A.S.
+
+ENDEREÇO: GOSB IHSAN DEDE CAD. 900. SOK., TR-41480 GEBZE - KOCAELI. - PAÍS: TURQUIA - CÓDIGO ÚNICO: A.0542
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 3469283/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: BOEHRINGER INGELHEIM DO BRASIL QUIMICA E FARMACEUTICA LTDA - CNPJ: 60.831.658/0021-10 - AUTORIZ/MS: 1003678
+
+ENDEREÇO: Rod. Régis Bittencourt (BR116), Km 286
+
+MUNICÍPIO: ITAPECERICA DA SERRA - UF: SP - EXPEDIENTE: 3321497/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES LIMITED - BETA LACTAM DIVISION
+
+ENDEREÇO: 152/6 & 154/16 DORESANIPALYA, BILEKAHALLI, BANNERGHATTA ROAD, BANGALORE 560 076 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0598
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0165212/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASTELLAS PHARMA EUROPE B.V.
+
+ENDEREÇO: HOGEMAAT 2, MEPPEL, 7942 JG - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.0043
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 3141480/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: LABORATÓRIO FARMACÊUTICO VITAMED LTDA - CNPJ: 29.346.301/0001-53 - AUTORIZ/MS: 1016957
+
+ENDEREÇO: RUA FLÁVIO FRANCISCO BELLINI, N° 459
+
+MUNICÍPIO: CAXIAS DO SUL - UF: RS - EXPEDIENTE: 0165185/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Efervescentes; Comprimidos Revestidos; Granulados; Granulados Efervescentes; Pós Efervescentes
+
+.........................................
+
+EMPRESA FABRICANTE: ROVI CONTRACT MANUFACTURING, S.L.
+
+ENDEREÇO: C/JULIÁN CAMARILLO 35, 28037 - MADRID - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.0536
+
+EMPRESA SOLICITANTE: GRIFOLS BRASIL LTDA - CNPJ: 02.513.899/0001-71
+
+AUTORIZ/MS: 1036417 - EXPEDIENTE(s): 3546490/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: NOVAMED FABRICAÇÃO DE PRODUTOS FARMACEUTICOS LTDA - CNPJ: 12.424.020/0001-79 - AUTORIZ/MS: 1106472
+
+ENDEREÇO: Av.Torquato Tapajós,17.703
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 3220076/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: hipolabor farmacêutica ltda - CNPJ: 19.570.720/0007-06 - AUTORIZ/MS: 1013430
+
+ENDEREÇO: av das industrias, 263
+
+MUNICÍPIO: MONTES CLAROS - UF: MG - EXPEDIENTE: 0581618/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos
+
+.........................................
+
+EMPRESA: hipolabor farmacêutica ltda - CNPJ: 19.570.720/0007-06 - AUTORIZ/MS: 1013430
+
+ENDEREÇO: av das industrias, 263
+
+MUNICÍPIO: MONTES CLAROS - UF: MG - EXPEDIENTE: 0581615/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: BOEHRINGER INGELHEIM DO BRASIL QUIMICA E FARMACEUTICA LTDA - CNPJ: 60.831.658/0021-10 - AUTORIZ/MS: 1003678
+
+ENDEREÇO: Rod. Régis Bittencourt (BR116), Km 286
+
+MUNICÍPIO: ITAPECERICA DA SERRA - UF: SP - EXPEDIENTE: 3321494/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI FONTENAY SOUS BOIS
+
+ENDEREÇO: 52, RUE MARCEL ET JACQUES GAUCHER, 94120, FONTENAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0144
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3469281/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: TEVA PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: 18, ELI HURVITZ STREET, INDUSTRIAL ZONE, KFAR SABA 4410202 - PAÍS: ISRAEL - CÓDIGO ÚNICO: A.0609
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 3482923/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LEK PHARMACEUTICALS D.D.
+
+ENDEREÇO: PERZONALI 47, SI-2391 PREVALJE - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.0365
+
+EMPRESA SOLICITANTE: Aché Laboratórios Farmacêuticos S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 3481477/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Penicilínicos) (Granel): Pós
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON (UK) LIMITED
+
+ENDEREÇO: UNITS 2-7, WYE VALLEY BUSINESS PARK, BRECON ROAD, HAY-ON-WYE, HEREFORD, HR3 5PG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0834
+
+EMPRESA SOLICITANTE: BIOMARIN BRASIL FARMACÊUTICA LTDA - CNPJ: 08.002.360/0001-34
+
+AUTORIZ/MS: 1073334 - EXPEDIENTE(s): 3431947/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PROMECO S.A. DE C.V.
+
+ENDEREÇO: CALLE DEL MAIZ NO. 49, COL. BARRIO XALTOCAN, XOCHIMILCO, DISTRITO FEDERAL, C. P. 16090 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.1140
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 3495462/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CAPSUGEL PLOERMEL
+
+ENDEREÇO: ZI DE CAMAGNON, 56800 PLOERMEL - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0826
+
+EMPRESA SOLICITANTE: BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 11.082.598/0001-21
+
+AUTORIZ/MS: 1087593 - EXPEDIENTE(s): 3482888/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Hormônios) (Granel): Cápsulas Moles
+
+.........................................

@@ -1,0 +1,150 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.419, DE 27 DE JULHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2419"
+data: 2022-07-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/07/2022, seção 1, p. 136"
+data_publicacao: 2022-07-28
+edicao: "142"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.419-de-27-de-julho-de-2022-418362013"
+sha256_html_fonte: 7d6fd7d6247d6ec61b13aa70a21abcd518431234c8d467b8111f2942a0f61216
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.419, DE 27 DE JULHO DE 2022
+
+RESOLUÇÃO-RE Nº 2.419, DE 27 DE JULHO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Distribuição e/ou Armazenagem preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder às empresas constantes no ANEXO, a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 4 (quatro) anos a partir da sua publicação.
+
+**Art. 3°** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: ATONS DO BRASIL DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA - CNPJ: 09.192.829/0001-08 - AUTORIZ/MS: 1093644 - AE: 1141618
+
+ENDEREÇO: QUADRA 1112 SUL, QI J, AL 05, LOTE 07 (ARSE 115) S/N
+
+MUNICÍPIO: PALMAS - UF: TO - EXPEDIENTE: 1143532/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: NOVARTIS BIOCIENCIAS SA - CNPJ: 56.994.502/0027-79 - AUTORIZ/MS: 1000685 - AE: 1168758
+
+ENDEREÇO: ROD REGIS BITTENCOURT, 1962 - KM 282, GALPAO 5, PARTE O
+
+MUNICÍPIO: EMBU DAS ARTES - UF: SP - EXPEDIENTE: 4855368/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: NSB DISTRIBUIDORA E SERVICOS LTDA - CNPJ: 26.657.071/0001-55 - AUTORIZ/MS: 1240441 - AE: 1240501
+
+ENDEREÇO: R SALVATORI, 1166
+
+MUNICÍPIO: SÃO GONÇALO - UF: RJ - EXPEDIENTE: 4293363/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: FLORESTA COMERCIO DE ARTIGOS DE PERFUMARIA LTDA EPP - CNPJ: 04.860.635/0001-10 - AUTORIZ/MS: 1179058 - AE: 1179061
+
+ENDEREÇO: AV SETE DE SETEMBRO 1808
+
+MUNICÍPIO: FLORESTA DO ARAGUAIA - UF: PA - EXPEDIENTE: 4338540/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: GOIAS COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI - CNPJ: 10.495.738/0001-20 - AUTORIZ/MS: 1133029 - AE: 1133032
+
+ENDEREÇO: rua são pedro nº 45
+
+MUNICÍPIO: TUCURUÍ - UF: PA - EXPEDIENTE: 4338643/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: SUPRIMED COMERCIO DE ARTIGOS MEDICOS EIRELI - CNPJ: 12.096.451/0001-53 - AUTORIZ/MS: 1142874 - AE: 1151017
+
+ENDEREÇO: RUA VISCONDE DE SINIMBU (PARQUE LARANJEIRAS) Nº 11, QUADRA C-15, LOTE 11
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 4331996/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: DICOREL DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 19.086.670/0001-09 - AUTORIZ/MS: 1178416 - AE: 1181631
+
+ENDEREÇO: RUA DOM BOSCO, 3201
+
+MUNICÍPIO: TERESINA - UF: PI - EXPEDIENTE: 4351049/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: COOPERATIVA CENTRAL DE COOPERATIVAS UNIMED DO RIO GRANDE DO SUL LTDA - CNPJ: 02.494.715/0001-73 - AUTORIZ/MS: 1107646 - AE: 1233012
+
+ENDEREÇO: Rua Bagé, 300
+
+MUNICÍPIO: CANOAS - UF: RS - EXPEDIENTE: 4344390/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: FARMA MEDICAL DISTRIBUIDORA DE MEDICAMENTOS E CORRELATOS LTDA - CNPJ: 40.273.753/0001-95 - AUTORIZ/MS: 1250434 - AE: 1250312
+
+ENDEREÇO: RUA ROSA CRUZ, 97
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 4411311/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: AXES LTDA - CNPJ: 44.438.599/0001-15 - AUTORIZ/MS: 1272395 - AE: 1272302
+
+ENDEREÇO: AV BRASIL, N° 66, PRIMEIRO PISO
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 4380473/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: G. R. B. NUNES EIRELI - EPP - CNPJ: 03.210.872/0001-72 - AUTORIZ/MS: 1091276
+
+ENDEREÇO: Av. Duque de Caxias, nº 01
+
+MUNICÍPIO: SANTA HELENA - UF: MA - EXPEDIENTE: 4406591/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+.........................................
+
+EMPRESA: ULTRAMEGA DISTRIBUIDORA HOSPITALAR LTDA - EPP - CNPJ: 21.596.736/0001-44 - AUTORIZ/MS: 1139433
+
+ENDEREÇO: RUA AUGUSTO LIMA, Nº 390 01 A GALPAO 02
+
+MUNICÍPIO: CAMARAGIBE - UF: PE - EXPEDIENTE: 4381008/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos

@@ -1,0 +1,182 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.213, DE 6 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1213"
+data: 2023-04-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/04/2023, seção 1, p. 272"
+data_publicacao: 2023-04-10
+edicao: "68"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.213-de-6-de-abril-de-2023-475803518"
+sha256_html_fonte: a0cc61fdcbb23956c59ce38001f2e9115b38de45f2e26b6f35bbf748d58ca6c5
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.213, DE 6 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.213, DE 6 DE ABRIL DE 2023
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: APIS FLORA INDUSTRIAL E COMERCIAL LTDA - CNPJ: 49.345.358/0001-45 - AUTORIZ/MS: 1021072
+
+ENDEREÇO: RUA TRIUNFO, N° 945
+
+MUNICÍPIO: RIBEIRÃO PRETO - UF: SP - EXPEDIENTE: 4778111/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Óleos; Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: APIS FLORA INDUSTRIAL E COMERCIAL LTDA - CNPJ: 49.345.358/0001-45 - AUTORIZ/MS: 1021072
+
+ENDEREÇO: RUA TRIUNFO, N° 945
+
+MUNICÍPIO: RIBEIRÃO PRETO - UF: SP - EXPEDIENTE: 4777676/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos
+
+.........................................
+
+EMPRESA: APIS FLORA INDUSTRIAL E COMERCIAL LTDA - CNPJ: 49.345.358/0001-45 - AUTORIZ/MS: 1021072
+
+ENDEREÇO: RUA TRIUNFO, N° 945
+
+MUNICÍPIO: RIBEIRÃO PRETO - UF: SP - EXPEDIENTE: 4777911/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: EASELABS LABORATORIO FARMACEUTICO LTDA. - CNPJ: 17.299.140/0001-05 - AUTORIZ/MS: 1005298
+
+ENDEREÇO: AVE WALDOMIRO LOBO 641
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 4813980/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA: EASELABS LABORATORIO FARMACEUTICO LTDA. - CNPJ: 17.299.140/0001-05 - AUTORIZ/MS: 1005298
+
+ENDEREÇO: AVE WALDOMIRO LOBO 641
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 4813309/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA: LABORATÓRIO GROSS S. A. - CNPJ: 33.145.194/0001-72 - AUTORIZ/MS: 1004443
+
+ENDEREÇO: RUA PADRE ILDEFONSO PENALBA, N° 389
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0072226/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Xaropes
+
+.........................................
+
+EMPRESA: LABORATÓRIO GROSS S. A. - CNPJ: 33.145.194/0001-72 - AUTORIZ/MS: 1004443
+
+ENDEREÇO: RUA PADRE ILDEFONSO PENALBA, N° 389
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0071895/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS LTDA - CNPJ: 35.820.448/0046-38 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: RODOVIA BR 040 KM 767
+
+MUNICÍPIO: JUIZ DE FORA - UF: MG - EXPEDIENTE: 4625664/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: AVARA LISCATE PHARMACEUTICAL SERVICES S.P.A.,
+
+ENDEREÇO: VIA FOSSE ARDEATINE, 2 - 20050 LISCATE (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000307
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 4613175/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SOCIETAL CDMO GAINESVILLE, LLC
+
+ENDEREÇO: 1300 GOULD DRIVE, GAINESVILLE, GEORGIA (GA) 30504 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000203
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4719977/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: CONTRACT PHARMACEUTICALS LIMITED CANADA
+
+ENDEREÇO: 7600 DANBRO CRESCENT, MISSISSAUGA, ONTARIO L5N 6L6 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.001628
+
+EMPRESA SOLICITANTE: MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTOS LTDA - CNPJ: 07.591.326/0001-80
+
+AUTORIZ/MS: 1064256 - EXPEDIENTE(s): 4860603/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: IMMACULE LIFESCIENCES PVT. LTD.
+
+ENDEREÇO: VILLAGE THANTHEWAL, ROPAR ROAD, NALAGARH, DISTRICT SOLAN, HIMACHAL PRADESH, 174101 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001226
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 0318782/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+FABRICANTE: FRESENIUS KABI AUSTRIA GMBH.
+
+ENDEREÇO: HAFNERSTRASSE 36, 8055 GRAZ - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000233
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0161671/23-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Grande Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 0274955/23-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas

@@ -1,0 +1,46 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.361, DE 19 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1361"
+data: 2023-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/04/2023, seção 1, p. 133"
+data_publicacao: 2023-04-24
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.361-de-19-de-abril-de-2023-478611824"
+sha256_html_fonte: 654aadcf8335022fdcf405e6ee1f163daba899493b266e183f030705fdb3a4ae
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.361, DE 19 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.361, DE 19 DE ABRIL DE 2023
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art.160, aliado ao art.203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada -RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº345 de 2002, resolve:
+
+**Art. 1º** Indeferir o pedido de Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+REAL - EXPURGO E DESINSETIZAÇÃO LTDA/00.183.062/0001-86
+
+25751.000013/2022-31
+
+9013 - PAF - AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA AFE QUE PRESTA SERVIÇO DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM EMBARCAÇÕES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, AERONAVES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA/4777588/22-0
+
+MOTIVO DO INDEFERIMENTO: EMPRESA NÃO ATENDEU AOS REQUISITOS TÉCNICOS PARA PETICIONAMENTO DE CONCESSÃO DE AFE (FORMULÁRIO DE PETIÇÃO DEVIDAMENTE PREENCHIDO E APRESENTAÇÃO DO CERTIFICADO DE REGULARIDADE TÉCNICA) PARA A REFERIDA ATIVIDADE E NÃO CUMPRIU A NOTIFICAÇÃO DE EXIGÊNCIA Nº 5068870/22-7, DESCUMPRINDO AS NORMAS LEGAIS ART. 14 E ART.16 DA RESOLUÇÃO DA DIRETORIA COLEGIADA - RDC N.º 345, DE 16 DE DEZEMBRO DE 2002, PARÁGRAFO ÚNICO DO ART. 2º DA RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC Nº 204, DE 06 DE JULHO DE 2005.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+CONTROLBIO DEDETIZACAO, LIMPEZA E MANUTENCAO LTDA / 33.855.280/0001-79
+
+25752.024384/2022-06
+
+9041 - PAF - AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA AFE QUE PRESTA SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS / 4695154226
+
+MOTIVO DO INDEFERIMENTO: A EMPRESA NÃO CUMPRIU SATISFATORIAMENTE COM AS EXIGÊNCIAS FORMULADAS, CONTRARIANDO O ARTIGO 11, DA RDC Nº 204 DE 06 DE JULHO DE 2005.

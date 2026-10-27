@@ -1,0 +1,162 @@
+---
+titulo: "RESOLUÇÃO RE Nº 4.097, DE 28 DE Outubro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4097"
+data: 2021-10-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/10/2021, seção 1, p. 107"
+data_publicacao: 2021-10-29
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.097-de-28-de-outubro-de-2021-355842308"
+sha256_html_fonte: b90ab3a9d7f44a242288473eb365304c685379bd8d5f40a860032ab8f4da4d50
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 4.097, DE 28 DE Outubro DE 2021
+
+RESOLUÇÃO RE Nº 4.097, DE 28 DE Outubro DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Adotar a(s) medida(s) preventiva(s) constante(s) no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAuJO
+
+## ANEXO
+
+1\. Empresa: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+Produto - Apresentação (Lote): APROVEL - 150 MG COM REV CT BL AL PLAS OPC X 30 (ARA04963); APROZIDE - 300 MG + 12,5 MG COM REV CT BL AL PLAS OPC X 30 (ARA03721);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 4251842/21-3
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Uso
+
+Motivação: Confirmação do desvio de qualidade relacionado a presença de impurezas mutagênicas. Esta medida preventiva está fundamentada no artigo 6º da Lei 6.360/1976 e na RDC 55/2005.
+
+.........................................
+
+2\. Empresa: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+Produto - Apresentação (Lote): VALTRIAN HCT - 50 MG + 12,5 MG COM REV CT BL AL PLAS OPC X 30 (AKP06263; BKP00521; AKP10887);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 4233195/21-1
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Uso
+
+Motivação: Confirmação do desvio de qualidade relacionado a presença de impurezas mutagênicas. Esta medida preventiva está fundamentada no artigo 6º da Lei 6.360/1976 e na RDC 55/2005.
+
+.........................................
+
+3\. Empresa: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+Produto - Apresentação (Lote): VALTRIAN - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP02039; AKP05860; AKP11623; BKP00989);VALTRIAN - 100 MG COM REV CT BL AL PLAS OPC X 30 (AKP00358);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 4233728/21-3
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Uso
+
+Motivação: Confirmação do desvio de qualidade relacionado a presença de impurezas mutagênicas. Esta medida preventiva está fundamentada no artigo 6º da Lei 6.360/1976 e na RDC 55/2005.
+
+.........................................
+
+4\. Empresa: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+Produto - Apresentação (Lote): LOSARTANA POTÁSSICA + HIDROCLOROTIAZIDA - 50MG + 12,5MG COM REV CT BL AL AL X 30 (AKP05564; AKP05662; AKP05660; AKP05661); LOSARTANA POTÁSSICA + HIDROCLOROTIAZIDA - 50MG + 12,5MG COM REV CT BL AL AL X 60 (AKP05484); LOSARTANA POTÁSSICA + HIDROCLOROTIAZIDA - 100MG + 25MG COM REV CT BL AL AL X 30 (AKP06055; AKP06053; AKP06057; AKP06056; AKP06054); LOSARTANA POTÁSSICA + HIDROCLOROTIAZIDA - 100MG + 25MG COM REV CT BL AL AL X 60 (AKP06211; AKP06210);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 4214100/21-1
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Uso
+
+Motivação: Confirmação do desvio de qualidade relacionado a presença de impurezas mutagênicas. Esta medida preventiva está fundamentada no artigo 6º da Lei 6.360/1976 e na RDC 55/2005.
+
+.........................................
+
+5\. Empresa: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+Produto - Apresentação (Lote): LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP02218; BKP00662; AKP10470; BKP01011; 9KP14975; AKP04269; AKP08368; AKP10477; AKP04270; AKP08128);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (9KP15029; AKP04003; AKP00223; AKP02166; AKP02272; AKP03812; AKP03263; AKP00396; AKP00221; AKP08364);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP02525; AKP03959; AKP01409; AKP04519; AKP01471; AKP03898; AKP04518; AKP03476; AKP03477; AKP05247);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP01800; AKP03338; AKP05687; AKP01315; AKP02464; 9KP14976; AKP02347; AKP00152; AKP08365; AKP01889);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP01886; AKP04517; AKP01744; AKP01314; BKP08821; AKP01317; AKP00395; AKP03308; AKP01625; AKP02523);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP03454; AKP00278; AKP00151; AKP01470; AKP08367; AKP00622; AKP05246; AKP05824; AKP01884; BKP08820);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP02271; AKP05825; AKP02248; AKP08162; AKP05859; AKP08366; AKP08127; AKP03336; AKP04454; AKP08157);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP03337; 9KP14335; AKP01885; AKP03453; 9KP14360; AKP00376; AKP02524; AKP05566; AKP02632; AKP00293);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30(AKP08161; AKP01888; AKP00623; 9KP15030; 9KP15031; 9KP14317; 9KP14925; AKP02351; AKP02631; AKP05780);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP00630; AKP01745; AKP01316; AKP02586; AKP05744; AKP01472; 9KP14839; 9KP14318; 9KP14926; AKP00397);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP01801; AKP05853; AKP00377; 9KP14840; AKP05248; AKP02165; AKP05745; BKP00392; AKP11649; AKP13388);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP12327; AKP11261; AKP11260; BKP02105; BKP04371; BKP00304; AKP12154; AKP10948; AKP05562; AKP13087);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP11036; AKP13302; AKP09643; AKP13340; AKP13339; AKP13354; BKP00657; BKP08332; BKP02784; AKP11035);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP11159; AKP12517; AKP12389; AKP05505; AKP12667; AKP05731; BKP07260; BKP05311; BKP02685; AKP11175);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP07256; BKP01400; AKP11144; BKP08278; AKP12450; BKP02579; BKP08043; BKP07854; BKP00556; BKP04477);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP05665; BKP04247; BKP07620; BKP05295; AKP09729; AKP13090; AKP10541; AKP12307; BKP01100; BKP08042);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP05239; AKP13253; BKP02887; AKP13088; BKP08334; BKP05400; BKP00554; BKP08382; AKP05800; AKP12540);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP09446; AKP11353; AKP12575; AKP12807; BKP07856; AKP13304; BKP07550; AKP09340; BKP00656; AKP13326)
+
+;LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP00468; BKP05602; AKP11475; BKP07855; BKP04248; AKP11354; BKP01774; BKP07356; BKP08333; AKP13301);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (AKP09271; AKP09273; AKP13091; BKP08277; BKP05499; AKP05807; BKP07427; BKP05500; BKP08330; BKP05639);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP01101; AKP13089; AKP09500; AKP10608; AKP09272; BKP07553; AKP09343; AKP13303; AKP12693; BKP01775);
+
+LOSARTANA POTÁSSICA - 50 MG COM REV CT BL AL PLAS OPC X 30 (BKP07621; AKP09435; AKP12155);
+
+LOSARTANA POTÁSSICA - 100 MG COM REV CT BL AL PLAS OPC X 30 (AKP13146; AKP05308; AKP05667; AKP13145; AKP12488; AKP12489; AKP00271; AKP04217; AKP12535; AKP02761);
+
+LOSARTANA POTÁSSICA - 100 MG COM REV CT BL AL PLAS OPC X 30 (AKP04302; AKP04301; AKP10255; AKP11382; AKP13111; AKP05671; AKP05670; AKP12536; AKP01069);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 4226406/21-5
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Uso
+
+Motivação: Confirmação do desvio de qualidade relacionado a presença de impurezas mutagênicas. Esta medida preventiva está fundamentada no artigo 6º da Lei 6.360/1976 e na RDC 55/2005.

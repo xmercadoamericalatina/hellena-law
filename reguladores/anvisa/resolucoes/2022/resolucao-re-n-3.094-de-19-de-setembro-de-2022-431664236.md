@@ -1,0 +1,134 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.094, DE 19 DE SETEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "3094"
+data: 2022-09-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/09/2022, seção 1, p. 136"
+data_publicacao: 2022-09-26
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.094-de-19-de-setembro-de-2022-431664236"
+sha256_html_fonte: 83d4c167833c062dafbbc89f5f846365ca52cdff6ec53310811218ae03545537
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.094, DE 19 DE SETEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.094, DE 19 DE SETEMBRO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução da Diretoria Colegiada - RDC n° 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Deferir o pleito de concessão de Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2°** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: SLOPSS TRANSPORTE E SERVIÇOS MARITIMOS LTDA
+
+ENDEREÇO: PC REPUBLICA, Nº 69, SALA 3
+
+BAIRRO: CENTRO
+
+MUNICÍPIO: SANTOS
+
+UF: SP
+
+CEP: 11.013-010
+
+CNPJ: 20.899.193/0001-71
+
+PROCESSO: 25351.184505/2022-82 (EXP: 4411269/22-8)
+
+AUTORIZ/MS: 9.09990-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: TRULY NOLEN DO SUL SERVIÇOS DE IMUNIZAÇÃO LTDA
+
+ENDEREÇO: AV GETULIO VARGAS, Nº 1371
+
+BAIRRO: NITEROI
+
+MUNICÍPIO: CANOAS
+
+UF: RS
+
+CEP: 92.120-024
+
+CNPJ: 15.521.618/0001-74
+
+PROCESSO N°: 25751.000003/2022-03 (EXP: 0539000/22-1)
+
+AUTORIZ/MS: 9.09987-2
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+MOTIVO: CONCESSÃO POR TRANSCURSO DE PRAZO DE ANÁLISE DA RDC 416/2020, CONFORME DISPOSTO NO ARTIGO 10º § 1º DO DECRETO 10.178/2019. PUBLICAÇÃO RETROATIVA À 15/04/2022.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: MAPARA SERVIÇOS E LOCAÇÕES DE EQUIPAMENTOS PARA CONSTRUÇÃO LTDA.
+
+ENDEREÇO: R H S/N QUADRA 58 LOTE 62
+
+BAIRRO: CIDADE JARDIM III
+
+MUNICÍPIO: MARABÁ
+
+UF: PA
+
+CEP: 68.507-765
+
+CNPJ: 27.607.393/0001-52
+
+PROCESSO: 25351.275625/2021-15 (EXP: 3578959/21-9)
+
+AUTORIZAÇÃO/MS: 9.09884-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ESGOTAMENTO, COLETA E TRATAMENTO DE EFLUENTES SANITÁRIOS DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, AEROPORTOS, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS E POSTOS DE FRONTEIRAS;
+
+MOTIVO: TRANSCURSO DE PRAZO DE ANÁLISE DA RDC 416/2020, CONFORME DISPOSTO NO ART. 10º § 1º DO DECRETO 10.178/2019. PUBLICAÇÃO RETROATIVA À 09/11/2021.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: NM REIS IMUNIZADORA E EMPREENDIMENTOS LTDA
+
+ENDEREÇO: RUA CAPELINHA, S/N, RECANTO DE ARAMARI
+
+BAIRRO: CENTRO
+
+MUNICÍPIO: ARAMARI
+
+UF: BA
+
+CEP: 48130-000
+
+CNPJ: 40.783.960/0001-90
+
+PROCESSO: 25742.001501/2022-74 (EXP: 4386213/22-8 )
+
+AUTORIZ/MS: 9.09962-5
+
+ÁREA: PAF
+
+ATIVIDADE:PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;

@@ -1,0 +1,196 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 699, DE 6 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "699"
+data: 2020-03-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/03/2020, seção 1, p. 95"
+data_publicacao: 2020-03-09
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-699-de-6-de-marco-de-2020-246770378"
+sha256_html_fonte: e41fd1ceb1a3c8d14c9c8f7e35e79c25d24f7a11f9cc44fe960bd153a25aa44d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 699, DE 6 DE MARÇO DE 2020
+
+RESOLUÇÃO-RE Nº 699, DE 6 DE MARÇO DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT NO.2, PHASE-II, PHARMA ZONE, SEZ, PITHAMPUR, DIST. DHAR (M.P.) - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1146
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 2072206/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: PARC DE LA NOIRE EPINE, RUE FLEMING 20, 1300, WAVRE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0270
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 2094657/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Suspensões com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: OM PHARMA S.A.
+
+ENDEREÇO: RUA DA INDÚSTRIA 02, QUINTA GRANDE 2610-088, AMADORA. - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.0461
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 2145274/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0033
+
+EMPRESA SOLICITANTE: BIOMARIN BRASIL FARMACÊUTICA LTDA - CNPJ: 08.002.360/0001-34
+
+AUTORIZ/MS: 1073334 - EXPEDIENTE(s): 1965982/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: COSMO S.P.A.
+
+ENDEREÇO: VIA C. COLOMBO 1-20020, LAINATE, MILÃO - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0169
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 2130591/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: CPM CONCESSIONARIA PAULISTA DE MEDICAMENTOS S/A - CNPJ: 18.676.762/0001-78 - AUTORIZ/MS: 1099877
+
+ENDEREÇO: AL ALDO LUPO, N° 1200
+
+MUNICÍPIO: AMÉRICO BRASILIENSE - UF: SP - EXPEDIENTE: 1983461/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ROCHE DIAGNOSTICS GMBH.
+
+ENDEREÇO: SANDHOFER STRASSE 116, 68305 MANNHEIM - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0531
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1022954/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BALKANPHARMA-DUPNITSA AD
+
+ENDEREÇO: 3 SAMOKOVSKO SHOSSE STREET, DUPNITSA, 2600 - PAÍS: BULGÁRIA - CÓDIGO ÚNICO: A.1017
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 2156247/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO S.P.A.
+
+ENDEREÇO: VIA DELLE MAGNOLIE 15 (LOC. FRAZIONE ZONA INDUSTRIALE) - 70026 MODUGNO (BA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0410
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 2114595/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA DUNKERQUE PRODUCTION
+
+ENDEREÇO: 224 AVENUE DE LA DORDOGNE, 59640 DUNKERQUE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0049
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2157199/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões Aerossóis
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 2121835/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FERRING PHARMACEUTICALS (CHINA) CO., LTD.
+
+ENDEREÇO: NO.6 HUI LING LU (FERRING ROAD), NATIONAL HEALTH TECHNOLOGY PARK, ZHONGSHAN CITY, GUANGDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.1028
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 1953714/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS
+
+ENDEREÇO: 637 RUE DES AULNOIS, 59230 SAINT-AMAND-LES-EAUX - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0731
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 2134122/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM HUNINGUE SAS
+
+ENDEREÇO: 26 RUE DE LA CHAPELLE, 68330 HUNINGUE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0864
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 2156633/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões

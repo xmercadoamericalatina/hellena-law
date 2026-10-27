@@ -1,0 +1,272 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.380, DE 28 DE Abril DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1380"
+data: 2022-04-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/05/2022, seção 1, p. 203"
+data_publicacao: 2022-05-02
+edicao: "81"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.380-de-28-de-abril-de-2022-396547325"
+sha256_html_fonte: 8b994f3a3e9376570ecf5983f1cc30836cd1889cd9d2343aef9908fa68030253
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 1.380, DE 28 DE Abril DE 2022
+
+RESOLUÇÃO RE Nº 1.380, DE 28 DE Abril DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: CASULA &VASCONCELOS INDÚSTRIA FARMACÊUTICA E COMÉRCIO LTDA - CNPJ: 05.155.425/0001-93 - AUTORIZ/MS: 1064009
+
+ENDEREÇO: RUA CAETANO PIRRI, Nº 520
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 3631597/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: MARJAN INDÚSTRIA E COMÉRCIO LTDA - CNPJ: 60.726.692/0001-81 - AUTORIZ/MS: 1001555
+
+ENDEREÇO: RUA GIBRALTAR Nº 165/195
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 4247590/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 92.265.552/0001-40 - AUTORIZ/MS: 1018196
+
+ENDEREÇO: RS 401, KM 30, Nº 1009
+
+MUNICÍPIO: SÃO JERÔNIMO - UF: RS - EXPEDIENTE: 4210209/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Colutórios; Elixires; Emulsões; Óleos; Soluções; Suspensões; Xampus; Xaropes
+
+.........................................
+
+EMPRESA: MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 92.265.552/0001-40 - AUTORIZ/MS: 1018196
+
+ENDEREÇO: RS 401, KM 30, Nº 1009
+
+MUNICÍPIO: SÃO JERÔNIMO - UF: RS - EXPEDIENTE: 4210486/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+.........................................
+
+EMPRESA: MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 92.265.552/0001-40 - AUTORIZ/MS: 1018196
+
+ENDEREÇO: RS 401, KM 30, Nº 1009
+
+MUNICÍPIO: SÃO JERÔNIMO - UF: RS - EXPEDIENTE: 4210126/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Granulados; Pós
+
+Sólidos não estéreis (Penicilínicos): Cápsulas; Pós
+
+.........................................
+
+EMPRESA: MYRALIS INDUSTRIA FARMACEUTICA LTDA - CNPJ: 17.440.261/0002-06 - AUTORIZ/MS: 1014621
+
+ENDEREÇO: RUA FONTE MÉCIA, 2050
+
+MUNICÍPIO: VALINHOS - UF: SP - EXPEDIENTE: 3616812/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Granulados; Pós
+
+Sólidos não estéreis (Embalagem primária): Cápsulas Moles
+
+.........................................
+
+EMPRESA: MYRALIS INDUSTRIA FARMACEUTICA LTDA - CNPJ: 17.440.261/0002-06 - AUTORIZ/MS: 1014621
+
+ENDEREÇO: RUA FONTE MÉCIA, 2050
+
+MUNICÍPIO: VALINHOS - UF: SP - EXPEDIENTE: 3616755/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Pomadas
+
+.........................................
+
+EMPRESA: MYRALIS INDUSTRIA FARMACEUTICA LTDA - CNPJ: 17.440.261/0002-06 - AUTORIZ/MS: 1014621
+
+ENDEREÇO: RUA FONTE MÉCIA, 2050
+
+MUNICÍPIO: VALINHOS - UF: SP - EXPEDIENTE: 3616883/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM DROGENBOS SA
+
+ENDEREÇO: GROOT BIJGAARDENSTRAAT 128, DROGENBOS, 1620 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000743
+
+EMPRESA SOLICITANTE: BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 11.082.598/0001-21
+
+AUTORIZ/MS: 1087593 - EXPEDIENTE(s): 3957058/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Géis
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000478
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 4359552/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: PTC FARMACEUTICA DO BRASIL LTDA. - CNPJ: 25.210.463/0001-09
+
+AUTORIZ/MS: 1157708 - EXPEDIENTE(s): 4156238/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DR. WILLMAR SCHWABE GMBH &CO. KG
+
+ENDEREÇO: WILLMAR SCHWABE STRASSE 4, 76227 KARLSRUHE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000197
+
+EMPRESA SOLICITANTE: HERBARIUM LABORATORIO BOTANICO LTDA - CNPJ: 78.950.011/0001-20
+
+AUTORIZ/MS: 1018606 - EXPEDIENTE(s): 4317700/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ROTTENDORF PHARMA GMBH
+
+ENDEREÇO: AM FLEIGENDAHL 3, 59320 ENNIGERLOH - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000534
+
+EMPRESA SOLICITANTE: GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA - CNPJ: 15.670.288/0001-89
+
+AUTORIZ/MS: 1109297 - EXPEDIENTE(s): 4282297/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: LIEBEL-FLARSHEIM COMPANY, LLC
+
+ENDEREÇO: 8800 DURANT ROAD, RALEIGH, NORTH CAROLINA (NC) 27616 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000391
+
+EMPRESA SOLICITANTE: GUERBET IMAGEM DO BRASIL LTDA - CNPJ: 30.153.811/0001-93
+
+AUTORIZ/MS: 1013981 - EXPEDIENTE(s): 4317794/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES (IRELAND) LIMITED
+
+ENDEREÇO: FINNABAIR INDUSTRIAL ESTATE, DUNDALK, CO. LOUTH,A91 P9KD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001420
+
+EMPRESA SOLICITANTE: PTC FARMACEUTICA DO BRASIL LTDA. - CNPJ: 25.210.463/0001-09
+
+AUTORIZ/MS: 1157708 - EXPEDIENTE(s): 4156199/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA PHARMACEUTICALS LP.
+
+ENDEREÇO: 4601 HIGHWAY 62 EAST, MOUNT VERNON, INDIANA 47620 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000122
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3927443/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI FONTENAY SOUS BOIS
+
+ENDEREÇO: 52, RUE MARCEL ET JACQUES GAUCHER, 94120, FONTENAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000144
+
+EMPRESA SOLICITANTE: Laboratórios Bagó do Brasil S/A - CNPJ: 04.748.181/0009-47
+
+AUTORIZ/MS: 1056264 - EXPEDIENTE(s): 4317693/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SERUM INSTITUTE OF INDIA PVT. LTD
+
+ENDEREÇO: 212/2, HADAPSAR, PUNE 411 028 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001380
+
+EMPRESA SOLICITANTE: UNO HEALTHCARE COMÉRCIO DE MEDICAMENTOS LTDA. - CNPJ: 13.109.151/0001-24
+
+AUTORIZ/MS: 1092712 - EXPEDIENTE(s): 4264861/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: M/S THE HIMALAYA DRUG COMPANY
+
+ENDEREÇO: NO. 11, MAKALI GRAMA, DASANAPURA HOBLI, NELAMANGALA TALUK, BANGALORE 562 162 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001391
+
+EMPRESA SOLICITANTE: APSEN FARMACEUTICA S/A - CNPJ: 62.462.015/0001-29
+
+AUTORIZ/MS: 1001188 - EXPEDIENTE(s): 4112901/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI FONTENAY SOUS BOIS
+
+ENDEREÇO: 52, RUE MARCEL ET JACQUES GAUCHER, 94120, FONTENAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000144
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 4343765/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIOS LEÓN FARMA S.A.
+
+ENDEREÇO: POLÍGONO INDUSTRIAL NAVATEJERA, C/ LA VALLINA S/N, VILLAQUILAMBRE - LEÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000355
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 4265081/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos

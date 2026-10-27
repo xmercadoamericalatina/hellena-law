@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.142, de 16 de abril de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1142"
+data: 2020-04-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2020, seção 1, p. 187"
+data_publicacao: 2020-04-20
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.142-de-16-de-abril-de-2020-253132537"
+sha256_html_fonte: 145337920884de1312d2d16d33f030ff6d1d8937723f69128c8ddb9ecc80e632
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.142, de 16 de abril de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.142, de 16 de abril de 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes do anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: PHARMACIA HOMEOPATICA CHAMOMILLA LTDA ME</p><p class="dou-paragraph" >ENDEREÇO: AV GUAPIRA 1460</p><p class="dou-paragraph" >BAIRRO: VILA GUSTAVO CEP: 02265002 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 02.018.060/0001-67</p><p class="dou-paragraph" >PROCESSO: 25351.288299/2020-17</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23750-3</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: PEDRAZZI &amp; TEIXEIRA LTDA</p><p class="dou-paragraph" >ENDEREÇO: rua rota dos imigrantes 636 b</p><p class="dou-paragraph" >BAIRRO: centro CEP: 13825000 - HOLAMBRA/SP</p><p class="dou-paragraph" >CNPJ: 23.212.824/0002-01</p><p class="dou-paragraph" >PROCESSO: 25351.131246/2020-25</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23746-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: VIDA FORMULA FARMACIA DE MANIPULACAO EIRELLI-EPP</p><p class="dou-paragraph" >ENDEREÇO: RUA JOÃO VAGNOTTI 142</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 08657220 - ITAQUAQUECETUBA/SP</p><p class="dou-paragraph" >CNPJ: 25.260.277/0001-84</p><p class="dou-paragraph" >PROCESSO: 25351.271146/2020-31</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23745-7</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: PH PRODUTOS FARMACEUTICOS EIRELI</p><p class="dou-paragraph" >ENDEREÇO: R ARMANDO FERREIRA, S/N</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 48110000 - CATU/BA</p><p class="dou-paragraph" >CNPJ: 31.599.626/0001-90</p><p class="dou-paragraph" >PROCESSO: 25351.275201/2020-61</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23747-4</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: BIO EQUILIBRIO FARMÁCIA DE MANIPULAÇÃO LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA MINISTRO GABRIEL DE RESENDE PASSOS 500 CJ 107/108</p><p class="dou-paragraph" >BAIRRO: MOEMA CEP: 04521022 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 00.884.506/0002-91</p><p class="dou-paragraph" >PROCESSO: 25351.271145/2020-96</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23744-3</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

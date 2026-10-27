@@ -1,0 +1,212 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.582, DE 27 DE OUTUBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3582"
+data: 2022-10-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/10/2022, seção 1, p. 191"
+data_publicacao: 2022-10-31
+edicao: "206"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.582-de-27-de-outubro-de-2022-440246640"
+sha256_html_fonte: 1fc44a441ee978453b0edbee8276e5fefc77a34f01e1fd50a1fb8d83a54920c6
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.582, DE 27 DE OUTUBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.582, DE 27 DE OUTUBRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA - CNPJ: 44.734.671/0025-29 - AUTORIZ/MS: 1002981
+
+ENDEREÇO: AV DAS QUARESMEIRAS, 451 - BLOCO B
+
+MUNICÍPIO: POUSO ALEGRE - UF: MG - EXPEDIENTE: 2665620/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ROEMMERS S.A.I.C.F.
+
+ENDEREÇO: JOSÉ E. RODÓ Nº 6424 - BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.001037
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 2923649/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Efervescentes; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ABBVIE S.R.L.
+
+ENDEREÇO: S.R. 148 PONTINA, KM 52 SNC, 04011, CAMPOVERDE DI APRILIA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000011
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 4654316/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000033
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 0516023/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA STEIN AG
+
+ENDEREÇO: SCHAFFHAUSERSTRASSE, CH-4332 STEIN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000433
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 1160904/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: INSTITUTE FOR ENERGY TECHNOLOGY
+
+ENDEREÇO: INSTITUTTVEIEN 18, NO-2007, KJELLER - PAÍS: NORUEGA - CÓDIGO ÚNICO: A.000947
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0539153/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0516357/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE VACCINES S.R.L.
+
+ENDEREÇO: BELLARIA-ROSIA, 53018 SOVICILLE (SI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000438
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0596052/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001009
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 0516392/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: FOURNIER LABORATORIES IRELAND LIMITED
+
+ENDEREÇO: ANNGROVE, CARRIGTWOHILL, CO. CORK - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001000
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 1160965/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: TORRENT PHARMACEUTICALS LIMITED
+
+ENDEREÇO: INDRAD 382721 - TALUKA-KADI, DISTRICT MEHSANA, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000614
+
+EMPRESA SOLICITANTE: TORRENT DO BRASIL LTDA - CNPJ: 33.078.528/0001-32
+
+AUTORIZ/MS: 1005253 - EXPEDIENTE(s): 2464151/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PLOMFIN S.A.
+
+ENDEREÇO: RUTA 101, KM 23.500, PARQUE DE LAS CIENCIAS - ZONA FRANCA - EDIFICIOS AURORA Y LUTECIO (LOCALES 113 AL 116) - COLONIA NICOLICH- DEPARTAMENTO DE CANELONES - PAÍS: URUGUAI - CÓDIGO ÚNICO: A.001575
+
+EMPRESA SOLICITANTE: HERBARIUM LABORATORIO BOTANICO LTDA - CNPJ: 78.950.011/0001-20
+
+AUTORIZ/MS: 1018606 - EXPEDIENTE(s): 0696092/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: SERUM INSTITUTE OF INDIA PVT. LTD
+
+ENDEREÇO: S. NO. 105-110, MANJARI BK, TAL-HAVELI, PUNE 412 307 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001584
+
+EMPRESA SOLICITANTE: ZALIKA FARMACEUTICA LTDA - CNPJ: 29.536.205/0001-78
+
+AUTORIZ/MS: 1185754 - EXPEDIENTE(s): 2521206/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON INC.
+
+ENDEREÇO: 2100 SYNTEX COURT, MISSISSAUGA, ONTÁRIO L5N 7K9 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000476
+
+EMPRESA SOLICITANTE: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76
+
+AUTORIZ/MS: 1012787 - EXPEDIENTE(s): 4832279/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PHARMA GMBH & CO. KG
+
+ENDEREÇO: BIRKENDORFER STR. 65, 88397 - BIBERACH AN DER RISS - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000116
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 4519041/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados

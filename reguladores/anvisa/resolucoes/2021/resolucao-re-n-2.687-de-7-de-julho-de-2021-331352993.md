@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.687, DE 7 DE Julho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2687"
+data: 2021-07-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/07/2021, seção 1, p. 124"
+data_publicacao: 2021-07-12
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.687-de-7-de-julho-de-2021-331352993"
+sha256_html_fonte: a1780432fc503ca91b84e6855f6fb0bb3e33cfd1589ad03fb1b7a84c67576a44
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.687, DE 7 DE Julho DE 2021
+
+RESOLUÇÃO RE Nº 2.687, DE 7 DE Julho DE 2021
+
+A Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados Substituta, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder alteração de endereço na Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ROSILANE DE AQUINO SILVA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: LEONARDO MASSARI ME
+
+ENDEREÇO: RUA FIUZA LIMA, Nº 188
+
+BAIRRO: FIUZA LIMA
+
+MUNICÍPIO: ITAJAÍ
+
+UF: SC
+
+CEP: 88.303-240
+
+CNPJ: 21.961.667/0001-20
+
+PROCESSO Nº: 25741.387721/2015-56 (EXP: 2031139/21-5)
+
+AUTORIZ/MS: 9.07212-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: LEONARDO MASSARI ME
+
+ENDEREÇO: RUA FIUZA LIMA, Nº 188
+
+BAIRRO: FIUZA LIMA
+
+MUNICÍPIO: ITAJAÍ
+
+UF: SC
+
+CEP: 88.303-240
+
+CNPJ: 21.961.667/0001-20
+
+PROCESSO Nº: 25741.435902/2015-99 (EXP: 2031414/21-6)
+
+AUTORIZ/MS: 9.07259-5
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: CAMILA VENTURIN ZAPPELLINI PAIVA ME
+
+ENDEREÇO: RODOVIA PR 412 ENGENHEIRO DARCI GOMES DE MORAES, Nº 1394
+
+BAIRRO: PRAIA DE LESTE
+
+MUNICÍPIO: PONTAL DO PARANÁ
+
+UF: PR
+
+CEP: 83.255-000
+
+CNPJ: 18.499.902/0001-80
+
+PROCESSO Nº.: 25743.199793/2019-61 (EXP: 4371629/20-6)
+
+AUTORIZ/MS: 9.08809-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: CAMILA VENTURIN ZAPPELLINI PAIVA ME
+
+ENDEREÇO: RODOVIA PR 412 ENGENHEIRO DARCI GOMES DE MORAES, Nº 1394
+
+BAIRRO: PRAIA DE LESTE
+
+MUNICÍPIO: PONTAL DO PARANÁ
+
+UF: PR
+
+CEP: 83.255-000
+
+CNPJ: 18.499.902/0001-80
+
+PROCESSO Nº.: 25743.615240/2018-88 (EXP: 4371633/20-4)
+
+AUTORIZ/MS: 9.08602-5
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ESGOTAMENTO, COLETA E TRATAMENTO DE EFLUENTES SANITÁRIOS DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, AEROPORTOS, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS E POSTOS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: CAVO SERVIÇOS E SANEAMENTO S.A.
+
+ENDEREÇO: AV. ORLANDO VEDOVELLO, Nº 2.142
+
+BAIRRO: PARQUE DA REPRESA
+
+MUNICÍPIO: PAULÍNIA
+
+UF: SP
+
+CEP: 13.144-610
+
+CNPJ: 01.030.942/0001-85
+
+PROCESSO: 25759.293422/2013-85 (EXP: 2534605/21-9)
+
+AUTORIZ/MS: 9.05721-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.221, DE 1º DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2221"
+data: 2020-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/07/2020, seção 1, p. 62"
+data_publicacao: 2020-07-06
+edicao: "127"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.221-de-1-de-julho-de-2020-265058292"
+sha256_html_fonte: ea6a9a0306be3d023c165a855ac0db4f39dfba947bae13e957e8dbf50eda571f
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.221, DE 1º DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.221, DE 1º DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Biocon Biologics India Limited</p><p class="dou-paragraph" >Endereço: Block No. B1, B2, Q13 of Q1 and W20, Special Economic Zone, Plot n° 2-5, Phase-IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru 560099</p><p class="dou-paragraph" >País: Índia Código único: A.0106</p><p class="dou-paragraph" >Solicitante: Mylan Laboratorios Ltda CNPJ: 11.643.096/0001-22</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.08.830.7 Expediente: 1639630/20-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: bevacizumabe</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Regeneron Ireland DAC</p><p class="dou-paragraph" >Endereço: Raheen Business Park, Limerick</p><p class="dou-paragraph" >País: Irlanda Código único: A.1399</p><p class="dou-paragraph" >Solicitante: Sanofi Medley Farmacêutica Ltda. CNPJ: 10.588.595/0010-92</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.08326-7 Expediente(s): 2640085/19-5</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: alirocumabe e dupilumabe.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Sinovac Biotech CO. LTD.</p><p class="dou-paragraph" >Endereço: Nº 39, Shangdi Xi Road, Haidian District,100085, Beijing (Pequim)</p><p class="dou-paragraph" >País: República Popular da China Código Único: A.1404</p><p class="dou-paragraph" >Solicitante: Bio Medicamentos Ltda CNPJ: 15.268.466/0001-40</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.14.586-7 Expediente(s): 0115791/20-5</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: vacina adsorvida hepatite A (inativada)</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Swords Laboratories T/A Bristol-Myers Squibb Cruiserath Biologics</p><p class="dou-paragraph" >Endereço: Cruiserath Road, Mulhuddart, Dublin 15, D15 H6ef, Dublin</p><p class="dou-paragraph" >País: Irlanda Código único: A1427</p><p class="dou-paragraph" >Solicitante: Bristol-Myers Squibb Farmacêutica Ltda. CNPJ: 56.998.982/0001-07</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.180-0 Expediente(s): 1421300/20-6</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: nivolumabe.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

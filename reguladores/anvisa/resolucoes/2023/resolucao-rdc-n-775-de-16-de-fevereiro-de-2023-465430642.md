@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO-RDC Nº 775, DE 16 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Diretoria Colegiada"
+tipo: "Resolução"
+numero: "775"
+data: 2023-02-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/02/2023, seção 1, p. 166"
+data_publicacao: 2023-02-22
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-rdc-n-775-de-16-de-fevereiro-de-2023-465430642"
+sha256_html_fonte: 0fa863c2ba824cb8e60eee4bb2145ca5056fa28fa42e10a2599f83c730ea85eb
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RDC Nº 775, DE 16 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RDC Nº 775, DE 16 DE FEVEREIRO DE 2023
+
+Dispõe sobre a atualização da lista de Denominações Comuns Brasileiras (DCB).
+
+A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária, no uso da atribuição que lhe confere o art. 15, III e IV, aliado ao art. 7º, III, e IV, da Lei nº 9.782, de 26 de janeiro de 1999, e ao art. 187, VI, §§ 1º e 3º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve adotar a seguinte Resolução de Diretoria Colegiada, conforme deliberado em reunião realizada em 15 de fevereiro de 2023, e eu, Diretor-Presidente, determino a sua publicação.
+
+**Art. 1º** Ficam incluídas as Denominações Comuns Brasileiras (DCB) relacionadas no Anexo I, à lista de DCB aprovada pela Resolução de Diretoria Colegiada - RDC nº 469, de 23 de fevereiro de 2021.
+
+**Art. 2º** Ficam alteradas as DCB relacionadas no Anexo II, mantendo-se os números DCB, mediante a revogação daquela a ela correspondente, aprovada pela Resolução de Diretoria Colegiada - RDC nº 469, de 23 de fevereiro de 2021.
+
+**Art. 3º** Esta Resolução entra em vigor na data da sua publicação.
+
+ANTONIO BARRA TORRES
+
+Diretor-Presidente
+
+ANEXO I - DENOMINAÇÕES INCLUÍDAS À LISTA DE DCB
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Item</p></td>      <td rowspan="1" colspan="1"><p>Nº DCB</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO COMUM BRASILEIRA</p></td>      <td rowspan="1" colspan="1"><p>CAS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>12719</p></td>      <td rowspan="1" colspan="1"><p>brexucabtageno autoleucel</p></td>      <td rowspan="1" colspan="1"><p>2691112-12-4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>12720</p></td>      <td rowspan="1" colspan="1"><p>vacina pneumocócica 20-valente (conjugada)</p></td>      <td rowspan="1" colspan="1"><p>[Ref. 8]</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>12721</p></td>      <td rowspan="1" colspan="1"><p>acetato de rezafungina</p></td>      <td rowspan="1" colspan="1"><p>1631754-41-0</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>12722</p></td>      <td rowspan="1" colspan="1"><p>cenobamato</p></td>      <td rowspan="1" colspan="1"><p>913088-80-9</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>12723</p></td>      <td rowspan="1" colspan="1"><p>hemietanolato de tucatinibe</p></td>      <td rowspan="1" colspan="1"><p>1429755-56-5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>12724</p></td>      <td rowspan="1" colspan="1"><p>rezafungina</p></td>      <td rowspan="1" colspan="1"><p>1396640-59-7</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>12725</p></td>      <td rowspan="1" colspan="1"><p>tucatinibe</p></td>      <td rowspan="1" colspan="1"><p>937263-43-9</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>12726</p></td>      <td rowspan="1" colspan="1"><p>elapegademase</p></td>      <td rowspan="1" colspan="1"><p>1709806-75-6</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>12727</p></td>      <td rowspan="1" colspan="1"><p>netaquimabe</p></td>      <td rowspan="1" colspan="1"><p>1796570-08-5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>12728</p></td>      <td rowspan="1" colspan="1"><p>prolgolimabe</p></td>      <td rowspan="1" colspan="1"><p>2093956-19-3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>12729</p></td>      <td rowspan="1" colspan="1"><p>vacina covid-19 bivalente</p></td>      <td rowspan="1" colspan="1"><p>[Ref. 8]</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"><p>12730</p></td>      <td rowspan="1" colspan="1"><p>clascoterona</p></td>      <td rowspan="1" colspan="1"><p>19608-29-8</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>12731</p></td>      <td rowspan="1" colspan="1"><p>danicopana</p></td>      <td rowspan="1" colspan="1"><p>1903768-17-1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>12732</p></td>      <td rowspan="1" colspan="1"><p>hemibenzenometanolato de bromidrato de vortioxetina</p></td>      <td rowspan="1" colspan="1"><p>1793058-29-3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>12733</p></td>      <td rowspan="1" colspan="1"><p><em>Crateva magna</em>(Lour.) DC.</p></td>      <td rowspan="1" colspan="1"><p>[Ref. 13]</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>12734</p></td>      <td rowspan="1" colspan="1"><p>trifluoracetato de gozetotida</p></td>      <td rowspan="1" colspan="1"><p>2412149-32-5</p></td>     </tr>    </tbody>   </table>
+
+ANEXO II - DENOMINAÇÕES DA LISTA DE DCB QUE SOFRERAM ALTERAÇÕES
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="3"><p>De:</p></td>      <td rowspan="1" colspan="3"><p>Para:</p></td>      <td rowspan="1" colspan="1"><p>Justificativa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº DCB</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO COMUM BRASILEIRA</p></td>      <td rowspan="1" colspan="1"><p>Nº CAS</p></td>      <td rowspan="1" colspan="1"><p>Nº DCB</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO COMUM BRASILEIRA</p></td>      <td rowspan="1" colspan="1"><p>Nº CAS</p></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>05806</p></td>      <td rowspan="1" colspan="1"><p>cloridrato de metilfenidato</p></td>      <td rowspan="1" colspan="1"><p>298-59-9</p></td>      <td rowspan="1" colspan="1"><p>05806</p></td>      <td rowspan="1" colspan="1"><p>cloridrato de metilfenidato</p></td>      <td rowspan="1" colspan="1"><p>23655-65-4</p></td>      <td rowspan="1" colspan="1"><p>adequação do CAS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11689</p></td>      <td rowspan="1" colspan="1"><p>amespro hibedila</p></td>      <td rowspan="1" colspan="1"><p>1366302-52-4</p></td>      <td rowspan="1" colspan="1"><p>11689</p></td>      <td rowspan="1" colspan="1"><p>gozetotida</p></td>      <td rowspan="1" colspan="1"><p>1366302-52-4</p></td>      <td rowspan="1" colspan="1"><p>adequação da nomenclatura</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12550</p></td>      <td rowspan="1" colspan="1"><p>amespro hibedila (68 Ga)</p></td>      <td rowspan="1" colspan="1"><p>1906894-20-9</p></td>      <td rowspan="1" colspan="1"><p>12550</p></td>      <td rowspan="1" colspan="1"><p>gozetotida (68 Ga)</p></td>      <td rowspan="1" colspan="1"><p>1906894-20-9</p></td>      <td rowspan="1" colspan="1"><p>adequação da nomenclatura</p></td>     </tr>    </tbody>   </table>

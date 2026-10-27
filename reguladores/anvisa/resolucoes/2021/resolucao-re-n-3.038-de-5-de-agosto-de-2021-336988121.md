@@ -1,0 +1,174 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.038, DE 5 DE Agosto DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3038"
+data: 2021-08-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/08/2021, seção 1, p. 94"
+data_publicacao: 2021-08-09
+edicao: "149"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.038-de-5-de-agosto-de-2021-336988121"
+sha256_html_fonte: ac8c6b18e986c4920092b3f2ac7e1ac8b5b42269f174667f04241a3a44253d91
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 3.038, DE 5 DE Agosto DE 2021
+
+RESOLUÇÃO RE Nº 3.038, DE 5 DE Agosto DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos dispostos no art. 3º da Resolução de Diretoria Colegiada - RDC nº 346/2020, de 13 de março de 2020, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000080
+
+EMPRESA SOLICITANTE: BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. - CNPJ: 53.359.824/0001-19
+
+AUTORIZ/MS: 1015246 - EXPEDIENTE(s): 0818031/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER HEALTHCARE MANUFACTURING S.R.L.
+
+ENDEREÇO: VIA DELLE GROANE, 126, 20024, GARBAGNATE MILANESE (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.001063
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0559341/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: JW PHARMACEUTICAL CORPORATION
+
+ENDEREÇO: 56 HANJIN 1-GIL, SONGAK-EUP, DANGJIN-SI, CHUNGCHEONGNAM-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.000954
+
+EMPRESA SOLICITANTE: Midfarma Produtos Farmaceuticos Ltda - CNPJ: 13.863.381/0001-84
+
+AUTORIZ/MS: 1137048 - EXPEDIENTE(s): 1861828/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Carbapenêmicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: USV LIMITED
+
+ENDEREÇO: H-13, 16, 16-A, 17, 18, 19, 20, 21 &E-22, MAHATMA GANDHI UDYOG NAGAR, DABHEL, DAMAN - 396 210 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000789
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 0429424/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: ABBVIE DEUTSCHLAND GMBH &CO. KG
+
+ENDEREÇO: KNOLLSTRASSE 67061 LUDWIGSHAFEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000004
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0364664/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CAPLIN STERILES LIMITED
+
+ENDEREÇO: SURVEY NO.: 895 &897, GURUVARAJA KANDIGAI VILLAGE, SIRUPUZHALPETTAI POST, GUMMIDIPOONDI TALUK, THIRUVALLUR DISTRICT, PIN CODE - 601 201 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001516
+
+EMPRESA SOLICITANTE: BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA - CNPJ: 10.446.719/0001-04
+
+AUTORIZ/MS: 1069176 - EXPEDIENTE(s): 1796100/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER MANUFACTURING BELGIUM NV
+
+ENDEREÇO: RIJKSWEG, 12 , PUURS, 2870 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000493
+
+EMPRESA SOLICITANTE: UPJOHN BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA. - CNPJ: 36.674.526/0002-85
+
+AUTORIZ/MS: 1250651 - EXPEDIENTE(s): 2464785/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CADILA HEALTHCARE LIMITED
+
+ENDEREÇO: PLOT Nº. 417, 419, 420, SARKHEJ BAVLA NATIONAL HIGHWAY Nº 8A, VILLAGE-MORAIYA, TAL-SANAND, AHMEDABAD 382 210 - GUJARAT - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000128
+
+EMPRESA SOLICITANTE: Aché Laboratórios Farmacêuticos S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 2517746/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ADVANCED ACCELERATOR APPLICATIONS (ITALY) S.R.L.
+
+ENDEREÇO: VIA RIBES 5 - 10010, COLLERETTO GIACOSA (TO) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.001520
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 2414547/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ADVANCED ACCELERATOR APPLICATIONS IBÉRICA S.L.
+
+ENDEREÇO: POLÍGONO INDUSTRIAL LA CUESTA-SECTOR 3. PARCELAS 1 Y 2 - LA ALMUNIA DE DOÑA GODINA, 50100, ZARAGOZA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.001519
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 2414333/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE ARGENTINA S.A.
+
+ENDEREÇO: CARLOS CASARES, 3690 - VICTORIA - PARTIDO DE SAN FERNANDO - PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.000999
+
+EMPRESA SOLICITANTE: PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda - CNPJ: 30.872.270/0001-53
+
+AUTORIZ/MS: 1192905 - EXPEDIENTE(s): 3482384/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós Efervescentes
+
+.........................................
+
+EMPRESA FABRICANTE: UNEXO LIFE SCIENCES PVT, LTD.
+
+ENDEREÇO: B-16, SECTOR 4, BAWANA INDUSTRIAL AREA, DELHI - 110039 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001492
+
+EMPRESA SOLICITANTE: Ephar-Flow Serviços Analíticos Ltda - CNPJ: 36.130.126/0001-28
+
+AUTORIZ/MS: 1238452 - EXPEDIENTE(s): 0951682/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos

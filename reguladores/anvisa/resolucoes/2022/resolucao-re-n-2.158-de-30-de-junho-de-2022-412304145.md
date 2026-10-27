@@ -1,0 +1,273 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.158, DE 30 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Prod de Terapias Avan"
+tipo: "Resolução"
+numero: "2158"
+data: 2022-06-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/07/2022, seção 1, p. 139"
+data_publicacao: 2022-07-04
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.158-de-30-de-junho-de-2022-412304145"
+sha256_html_fonte: 0c0dcf44b14e1b7cc4743bd80303c997816c387d49b68fa56cc2d76f29d1c053
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.158, DE 30 DE JUNHO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 2.158, DE 30 DE JUNHO DE 2022</p>
+  <p class="dou-paragraph" >O Gerente-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">GUSTAVO MENDES LIMA SANTOS</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p>
+  <p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p>
+  <p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p>
+  <p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >--------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >ASTRAZENECA DO BRASIL LTDA 60318797000100</p>
+  <p class="dou-paragraph" >BENRALIZUMABE</p>
+  <p class="dou-paragraph" >FASENRA 25351.111862/2017-08 06/2028</p>
+  <p class="dou-paragraph" >10383 PRODUTO BIOLÓGICO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO(S) PRINCÍPIO(S) ATIVO(S) 4141645/20-7</p>
+  <p class="dou-paragraph" >1.1618.0267.001-1 36 Meses</p>
+  <p class="dou-paragraph" >30 MG/ML SOL INJ CT SER PREECH VD TRANS X 1ML</p>
+  <p class="dou-paragraph" >--------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >ELI LILLY DO BRASIL LTDA 43940618000144</p>
+  <p class="dou-paragraph" >insulina LISPRO</p>
+  <p class="dou-paragraph" >HUMALOG 25000.019583/95-35 06/2026</p>
+  <p class="dou-paragraph" >11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 1361819/22-9</p>
+  <p class="dou-paragraph" >11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0855218/21-5</p>
+  <p class="dou-paragraph" >11932 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0858055/21-3</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0855227/21-4</p>
+  <p class="dou-paragraph" >1.1260.0008.004-2 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0008.005-0 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0008.012-3 36 Meses</p>
+  <p class="dou-paragraph" >100 UI /ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0008.013-1 36 Meses</p>
+  <p class="dou-paragraph" >100 UI /ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0008.014-1 36 Meses</p>
+  <p class="dou-paragraph" >100 UI /ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0008.015-8 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0008.019-0 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC PLAS AJUSTE DE DOSE DE 0,5 UNIDADE</p>
+  <p class="dou-paragraph" >1.1260.0008.020-4 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC PLAS AJUSTE DE DOSE DE 0,5 UNIDADE</p>
+  <p class="dou-paragraph" >1.1260.0008.021-2 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC PLAS AJUSTE DE DOSE DE 0,5 UNIDADE</p>
+  <p class="dou-paragraph" >insulina LISPRO</p>
+  <p class="dou-paragraph" >Humalog Mix 25351.480087/2005-51 08/2026</p>
+  <p class="dou-paragraph" >11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 1361817/22-2</p>
+  <p class="dou-paragraph" >11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0855216/21-9</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0855225/21-8</p>
+  <p class="dou-paragraph" >11932 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0855223/21-1</p>
+  <p class="dou-paragraph" >1.1260.0179.004-3 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 5 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0179.005-1 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 2 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0179.006-1 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 1 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0179.007-8 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0179.008-6 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0179.009-4 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 1361817/22-2</p>
+  <p class="dou-paragraph" >11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0855216/21-9</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0855225/21-8</p>
+  <p class="dou-paragraph" >1.1260.0179.002-7 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 2 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0179.003-5 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 5 CARP VD INC X 3 ML</p>
+  <p class="dou-paragraph" >1.1260.0179.010-8 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0179.011-6 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >1.1260.0179.012-4 36 Meses</p>
+  <p class="dou-paragraph" >100 UI/ML SUS INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC PLAS</p>
+  <p class="dou-paragraph" >--------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >GLAXOSMITHKLINE BRASIL LTDA 33247743000110</p>
+  <p class="dou-paragraph" >Hemaglutinina Filamentosa + Toxóide Tetânico + Toxóide diftérico + Toxóide pertussis + Haemophilus influenzae tipo b + Pertactina + Poliovírus inativados tipo 1 + Poliovírus inativados tipo 2 + Poliovírus inativados tipo 3</p>
+  <p class="dou-paragraph" >Infanrix Penta 25000.034097/98-35 11/2029</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 3073763/21-0</p>
+  <p class="dou-paragraph" >11919 PRODUTOS BIOLÓGICOS - 33. ALTERAÇÃO NO PROTOCOLO DE ESTABILIDADE PÓS-REGISTRO DA SUBSTÂNCIA ATIVA - MODERADA 4058576/21-0</p>
+  <p class="dou-paragraph" >11925 PRODUTOS BIOLÓGICOS - 38. ALTERAÇÃO DO ADJUVANTE QUÍMICO/SINTÉTICO - MODERADA 3074052/21-5</p>
+  <p class="dou-paragraph" >1.0107.0156.001-3 36 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS + SER VD TRANS DIL X 0,5 ML + 2 AGU</p>
+  <p class="dou-paragraph" >1.0107.0156.002-1 36 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS + 10 SER VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >Conjugado de Polissacarídeo Capsular de Haemophilus Influenzae tipo B e toxóide tetânico + Toxóide pertussis + Pertactina + Toxóide diftérico + Toxóide Tetânico + Poliovírus inativados tipo 1 + Poliovírus inativados tipo 2 + Poliovírus inativados tipo 3 + Hemaglutinina Filamentosa + Antígeno de superfície da Hepatite B</p>
+  <p class="dou-paragraph" >INFANRIX HEXA 25351.004586/00-32 04/2026</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 3073571/21-8</p>
+  <p class="dou-paragraph" >11919 PRODUTOS BIOLÓGICOS - 33. ALTERAÇÃO NO PROTOCOLO DE ESTABILIDADE PÓS-REGISTRO DA SUBSTÂNCIA ATIVA - MODERADA 4058746/21-1</p>
+  <p class="dou-paragraph" >11925 PRODUTOS BIOLÓGICOS - 38. ALTERAÇÃO DO ADJUVANTE QUÍMICO/SINTÉTICO - MODERADA 3073579/21-3</p>
+  <p class="dou-paragraph" >1.0107.0162.001-6 36 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS + SUS DIL SER PREENC VD TRANS X 0.5 ML</p>
+  <p class="dou-paragraph" >1.0107.0162.002-4 36 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS + SUS DIL 10 SER PREENC VD TRANS X 0.5 ML</p>
+  <p class="dou-paragraph" >Toxóide diftérico + Toxóide Tetânico + Toxóide pertussis + Hemaglutinina Filamentosa + Pertactina</p>
+  <p class="dou-paragraph" >REFORTRIX 25351.025286/00-97 04/2026</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 3073526/21-2</p>
+  <p class="dou-paragraph" >11919 PRODUTOS BIOLÓGICOS - 33. ALTERAÇÃO NO PROTOCOLO DE ESTABILIDADE PÓS-REGISTRO DA SUBSTÂNCIA ATIVA - MODERADA 4058884/21-0</p>
+  <p class="dou-paragraph" >11925 PRODUTOS BIOLÓGICOS - 38. ALTERAÇÃO DO ADJUVANTE QUÍMICO/SINTÉTICO - MODERADA 3073539/21-4</p>
+  <p class="dou-paragraph" >1.0107.0161.001-0 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT SER PREENC VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0161.002-9 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT 10 SER PREENC VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0161.003-7 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT 10 FA VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >Toxóide diftérico + Toxóide Tetânico + Toxóide pertussis + Hemaglutinina Filamentosa + Pertactina + Poliovírus inativados tipo 1 + Poliovírus inativados tipo 3 + Poliovírus inativados tipo 2</p>
+  <p class="dou-paragraph" >REFORTRIX IPV 25351.080282/2008-27 01/2026</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 3073558/21-1</p>
+  <p class="dou-paragraph" >11919 PRODUTOS BIOLÓGICOS - 33. ALTERAÇÃO NO PROTOCOLO DE ESTABILIDADE PÓS-REGISTRO DA SUBSTÂNCIA ATIVA - MODERADA 4058563/21-8</p>
+  <p class="dou-paragraph" >11925 PRODUTOS BIOLÓGICOS - 38. ALTERAÇÃO DO ADJUVANTE QUÍMICO/SINTÉTICO - MODERADA 3073543/21-2</p>
+  <p class="dou-paragraph" >1.0107.0282.001-9 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT SER PREENC VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0282.002-7 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT 10 SER PREENC VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >mepolizumabe</p>
+  <p class="dou-paragraph" >NUCALA 25351.486953/2015-34 08/2027</p>
+  <p class="dou-paragraph" >11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 3872280/21-1</p>
+  <p class="dou-paragraph" >11923 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MODERADA 3872239/21-9</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 3872345/21-0</p>
+  <p class="dou-paragraph" >11948 PRODUTOS BIOLÓGICOS - 58. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DO PRODUTO TERMINADO - MODERADA 4418100/21-1</p>
+  <p class="dou-paragraph" >1.0107.0335.002-4 24 Meses</p>
+  <p class="dou-paragraph" >100 MG/ML SOL INJ CT SER PREENC VD TRANS + ADAPT + AGU</p>
+  <p class="dou-paragraph" >1.0107.0335.003-2 24 Meses</p>
+  <p class="dou-paragraph" >100 MG/ML SOL INJ CT CAR VD TRANS + CAN APLIC + AGU</p>
+  <p class="dou-paragraph" >1.0107.0335.004-0 24 Meses</p>
+  <p class="dou-paragraph" >40 MG/ 0,4 ML SOL INJ CT SER PREENC VD TRANS + ADAPT + AGU</p>
+  <p class="dou-paragraph" >belimumabe</p>
+  <p class="dou-paragraph" >BENLYSTA 25351.699419/2010-15 11/2027</p>
+  <p class="dou-paragraph" >11892 PRODUTOS BIOLÓGICOS - 8. ALTERAÇÃO DO PROCESSO DE PURIFICAÇÃO - MAIOR 3872916/21-4</p>
+  <p class="dou-paragraph" >1.0107.0295.001-1 60 Meses</p>
+  <p class="dou-paragraph" >120 MG PO LIOF INJ IN CT FA VD INC</p>
+  <p class="dou-paragraph" >1.0107.0295.002-8 60 Meses</p>
+  <p class="dou-paragraph" >400 MG PO LIOF INJ CT FA VD INC</p>
+  <p class="dou-paragraph" >1.0107.0295.003-6 36 Meses</p>
+  <p class="dou-paragraph" >200 MG/ML SOL INJ CT SER PREENC VD TRANS X 1ML</p>
+  <p class="dou-paragraph" >1.0107.0295.004-4 36 Meses</p>
+  <p class="dou-paragraph" >200 MG/ML SOL INJ CT 4 SER PREENC VD TRANS X 1ML</p>
+  <p class="dou-paragraph" >1.0107.0295.005-2 36 Meses</p>
+  <p class="dou-paragraph" >200 MG/ML SOL INJ CT SER PREENC VD TRANS X 1ML + CAN APLIC</p>
+  <p class="dou-paragraph" >1.0107.0295.006-0 36 Meses</p>
+  <p class="dou-paragraph" >200 MG/ML SOL INJ CT 4 SER PREENC VD TRANS X 1ML + CAN APLIC</p>
+  <p class="dou-paragraph" >Bexsero 25351.943506/2016-01 05/2026</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 3125351/21-2</p>
+  <p class="dou-paragraph" >1.0107.0321.001-1 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT SER PREENCH VD TRANS X 0,5 ML +AGU</p>
+  <p class="dou-paragraph" >PROTEÍNA DE FUSÃO NHBA RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + VESÍCULAS DE MEMBRANA EXTERNA (OMV) DE NEISSERIA MENINGITIDIS GRUPO B, CEPA NZ98/254 + PROTEÍNA DE FUSÃO FHBP RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + Proteína Nad A recombinante de Neisseria meningitidis grupo B</p>
+  <p class="dou-paragraph" >1.0107.0321.002-8 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT SER PREENCH VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >PROTEÍNA DE FUSÃO NHBA RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + VESÍCULAS DE MEMBRANA EXTERNA (OMV) DE NEISSERIA MENINGITIDIS GRUPO B, CEPA NZ98/254 + PROTEÍNA DE FUSÃO FHBP RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + Proteína Nad A recombinante de Neisseria meningitidis grupo B</p>
+  <p class="dou-paragraph" >1.0107.0321.003-6 36 Meses</p>
+  <p class="dou-paragraph" >SUS INJ CT 10 SER PREENCH VD TRANS X 0,5 ML</p>
+  <p class="dou-paragraph" >PROTEÍNA DE FUSÃO NHBA RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + PROTEÍNA DE FUSÃO FHBP RECOMBINANTE DE NEISSERIA MENINGITIDIS GRUPO B + Proteína Nad A recombinante de Neisseria meningitidis grupo B + VESÍCULAS DE MEMBRANA EXTERNA (OMV) DE NEISSERIA MENINGITIDIS GRUPO B, CEPA NZ98/254</p>
+  <p class="dou-paragraph" >VÍRUS DO SARAMPO + VÍRUS DA CAXUMBA + VÍRUS DA RUBEOLA</p>
+  <p class="dou-paragraph" >Priorix 25000.018182/98-00 03/2029</p>
+  <p class="dou-paragraph" >11895 PRODUTOS BIOLÓGICOS - 9. ALTERAÇÃO NA ESCALA DO PROCESSO DE FABRICAÇÃO - MODERADA 4631039/21-8</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 0272753/22-6</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312085/22-7</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312142/22-0</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312145/22-4</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312149/22-7</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312152/22-7</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312154/22-3</p>
+  <p class="dou-paragraph" >1.0107.0148.001-1 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS MONODOSE + AMP VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0148.002-8 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS MONODOSE + SER PREEN VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0148.003-6 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD AMB MULTIDOSE 10 DOSES + AMP VD TRANS DIL X 5 ML</p>
+  <p class="dou-paragraph" >1.0107.0148.006-0 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS MONODOSE + SER PREEN VD TRANS DIL X 0,5 ML + 2 AGU REMOVIVEL</p>
+  <p class="dou-paragraph" >1.0107.0148.007-9 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS MONODOSE + 10 SER PREENC VD TRANS DIL X 0,5 ML + 20 AGU REMOVIVEL</p>
+  <p class="dou-paragraph" >1.0107.0148.008-7 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS MONODOSE + 100 SER PREENC VD TRANS DIL X 0,5 ML + AGU REMOVIVEL</p>
+  <p class="dou-paragraph" >1.0107.0148.009-5 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS + 10 AMP VD TRANS DIL X 0,5</p>
+  <p class="dou-paragraph" >1.0107.0148.010-9 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS + 100 AMP VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0148.011-7 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS + 10 SER PREENC VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0148.012-5 24 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS + 100 SER PREENC VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >VÍRUS DO SARAMPO + VÍRUS DA CAXUMBA + VÍRUS DA RUBEOLA + Virus da varicela</p>
+  <p class="dou-paragraph" >Priorix Tetra 25351.124866/2008-11 08/2029</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 0272800/22-1</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312158/22-6</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312175/22-6</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312178/22-1</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312181/22-1</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312183/22-7</p>
+  <p class="dou-paragraph" >11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 4312204/22-3</p>
+  <p class="dou-paragraph" >1.0107.0276.001-6 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS + SER PREENC VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.002-4 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS+ 10 SER PREENC VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.003-2 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS + 100 SER PREENC VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.004-0 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS+ AMP VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.005-9 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS + 10 AMP VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.006-7 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS + 100 AMP VD TRANS DIL X 0,5 ML</p>
+  <p class="dou-paragraph" >1.0107.0276.007-5 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT FA VD TRANS + SER PREENC VD TRANS DIL X 0,5ML + 2 AGU REMOV</p>
+  <p class="dou-paragraph" >1.0107.0276.008-3 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 10 FA VD TRANS+ 10 SER PREENC VD TRANS DIL X 0,5ML + 20 AGU REMOV</p>
+  <p class="dou-paragraph" >1.0107.0276.009-1 18 Meses</p>
+  <p class="dou-paragraph" >PO LIOF INJ CT 100 FA VD TRANS + 100 SER PREENC VD TRANS DIL X 0,5ML + AGU REMOV</p>
+  <p class="dou-paragraph" >Oligossacarídeo Meningocócico A + OLIGOSSACARÍDEO MENINGOCÓCICO DO GRUPO C + Oligossacarídeo Meningocócico W135 + Oligossacarídeo Meningocócico Y</p>
+  <p class="dou-paragraph" >Menveo 25351.945177/2016-12 06/2026</p>
+  <p class="dou-paragraph" >11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0151827/22-5</p>
+  <p class="dou-paragraph" >11932 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0151819/22-4</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0151918/22-2</p>
+  <p class="dou-paragraph" >11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0151933/22-6</p>
+  <p class="dou-paragraph" >1.0107.0322.002-3 36 Meses</p>
+  <p class="dou-paragraph" >10 MCG PO LIOF SOL INJ X 5 DOSES CT 5 FA VD TRANS + 5-5-5 MCG SOL INJ 5 FA VD TRANS X 0,6 ML</p>
+  <p class="dou-paragraph" >1.0107.0322.003-1 36 Meses</p>
+  <p class="dou-paragraph" >10 MCG PO LIOF SOL INJ X 1 DOSE CT FA VD TRANS + 5-5-5 MCG SOL INJ FA VD TRANS X 0,6 ML</p>
+  <p class="dou-paragraph" >--------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA 61286647000116</p>
+  <p class="dou-paragraph" >SOMATROPINA</p>
+  <p class="dou-paragraph" >Omnitrope 25351.645688/2009-08 02/2026</p>
+  <p class="dou-paragraph" >11890 PRODUTOS BIOLÓGICOS - 7. ALTERAÇÃO DE PROCESSO DE FERMENTAÇÃO OU PROPAGAÇÃO VIRAL OU CELULAR, FRACIONAMENTO OU EXTRAÇÃO - MAIOR 2160104/21-6</p>
+  <p class="dou-paragraph" >11892 PRODUTOS BIOLÓGICOS - 8. ALTERAÇÃO DO PROCESSO DE PURIFICAÇÃO - MAIOR 2297493/21-8</p>
+  <p class="dou-paragraph" >1.0047.0494.001-7 24 Meses</p>
+  <p class="dou-paragraph" >5 MG (15 UI) SOL INJ CT CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.002-5 24 Meses</p>
+  <p class="dou-paragraph" >5 MG (15 UI) SOL INJ CT 5 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.003-3 24 Meses</p>
+  <p class="dou-paragraph" >5 MG (15UI) SOL INJ CT 10 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.004-1 18 Meses</p>
+  <p class="dou-paragraph" >10 MG (30 UI) SOL INJ CT CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.005-1 18 Meses</p>
+  <p class="dou-paragraph" >10 MG (30 UI) SOL INJ CT 5 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.006-8 18 Meses</p>
+  <p class="dou-paragraph" >10 MG (30UI) SOL INJ CT 10 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.007-6 18 Meses</p>
+  <p class="dou-paragraph" >15 MG (45UI) SOL INJ CT 1 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.008-4 18 Meses</p>
+  <p class="dou-paragraph" >15 MG (45UI) SOL INJ CT 5 CARP VD TRANS X 1,5 ML</p>
+  <p class="dou-paragraph" >1.0047.0494.009-2 18 Meses</p>
+  <p class="dou-paragraph" >15 MG (45UI) SOL INJ CT 10 CARP VD TRANS X 1,5 ML</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

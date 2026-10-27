@@ -1,0 +1,23 @@
+---
+titulo: "Resolução-re nº 1.742, de 29 de maio de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1742"
+data: 2020-05-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/06/2020, seção 1, p. 74"
+data_publicacao: 2020-06-01
+edicao: "103"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.742-de-29-de-maio-de-2020-259410103"
+sha256_html_fonte: 3af871478a0bf2c0c12054451b9618fc52a074ff197ce71db683d205b7e29335
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# Resolução-re nº 1.742, de 29 de maio de 2020
+
+<div class="texto-dou"><p class="identifica">Resolução-re nº 1.742, de 29 de maio de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">Carlos Alexandre Oliveira Gomes</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >CLASSIFICAÇÃO TOXICOLÓGICA</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >NICHINO DO BRASIL AGROQUÍMICOS LTDA / 20.664.619/0001-08</p><p class="dou-paragraph" >TAKUMI</p><p class="dou-paragraph" >25351.253268/2016-60</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 2139545/16-4</p><p class="dou-paragraph" >CLASSE Categoria 5 - Produto Improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >NORTOX S/A / 75.263.400/0001-99</p><p class="dou-paragraph" >DIAFENTIURON NORTOX</p><p class="dou-paragraph" >25351.679893/2015-74</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0967053/15-0</p><p class="dou-paragraph" >CLASSE Categoria 4 - Produto Pouco Tóxico</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >OURO FINO QUIMICA LTDA / 09.100.671/0001-07</p><p class="dou-paragraph" >UNÂNIMEBR</p><p class="dou-paragraph" >25351.184860/2016-80</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 2027752/16-1</p><p class="dou-paragraph" >CLASSE Categoria 5 - Produto Improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >PROVENTIS LIFESCIENCE DEFENSIVOS AGRÍCOLAS LTDA. / 14.497.712/0001-72</p><p class="dou-paragraph" >AZOXYSTROBIN 250 SC PROVENTIS</p><p class="dou-paragraph" >25351.166651/2014-66</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0225918/14-4</p><p class="dou-paragraph" >CLASSE Categoria 4 - Produto Pouco Tóxico</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. / 02.974.733/0001-52</p><p class="dou-paragraph" >DIRETO</p><p class="dou-paragraph" >25351.833660/2016-82</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1201128/16-2</p><p class="dou-paragraph" >CLASSE Categoria 5 - Produto Improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >YONON BIOCIENCIAS E DEFENSIVOS AGRICOLAS LTDA / 24.941.471/0001-62</p><p class="dou-paragraph" >SURVEY 800 WG</p><p class="dou-paragraph" >25351.342399/2013-41</p><p class="dou-paragraph" >5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0480832/13-1</p><p class="dou-paragraph" >CLASSE Categoria 3 - Produto Moderadamente Tóxico</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

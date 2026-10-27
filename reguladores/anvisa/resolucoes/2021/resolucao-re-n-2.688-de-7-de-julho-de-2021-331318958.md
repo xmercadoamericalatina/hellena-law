@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.688, DE 7 DE Julho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2688"
+data: 2021-07-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/07/2021, seção 1, p. 124"
+data_publicacao: 2021-07-12
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.688-de-7-de-julho-de-2021-331318958"
+sha256_html_fonte: c265a67f08017cd38d10bd0bb97e021e2d551162974fdb44aae3f326b6c77812
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.688, DE 7 DE Julho DE 2021
+
+RESOLUÇÃO RE Nº 2.688, DE 7 DE Julho DE 2021
+
+A Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituta, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Indeferir o pleito de Concessão Autorização de Funcionamento de Empresas em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ROSILANE DE AQUINO SILVA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: LORIVAL HOFFMANN DA SILVA 97436879049
+
+ENDEREÇO: RUA CÉSAR AUGUSTO DALÇOQUIO, Nº 2293 SALA 01
+
+BAIRRO: SALSEIROS
+
+MUNICÍPIO: ITAJAÍ
+
+UF: SC
+
+CEP: 88.311-558
+
+CNPJ: 12.883.115/0001-50
+
+PROCESSO Nº: 25741.040304/2021-08 (EXP: 0560347/21-1)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+MOTIVO DO INDEFERIMENTO: POR NÃO ATENDER INTEGRALMENTE AS EXIGÊNCIAS DO ANEXO III DA RESOLUÇÃO RDC 345/02 ALTERADA PELA RESOLUÇÃO RDC 374/20: NÃO APRESENTAR CONTRATO SOCIAL COM OS OBJETIVOS CLARAMENTE EXPLICITADOS DA ATIVIDADE REQUERIDA. NÃO APRESENTAR ALVARÁ SANITÁRIO PARA A ATIVIDADE REQUERIDA.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: CATARINENSE COLETA DE RESÍDUOS HOSPITALARES LTDA
+
+ENDEREÇO: RUA AZAMBUJA, Nº 838
+
+BAIRRO: AZAMBUJA
+
+MUNICÍPIO: BRUSQUE
+
+UF: SC
+
+CEP: 88.353-460
+
+CNPJ: 07.345.289/0001-20
+
+PROCESSO Nº: 25741.102435/2021-88 (EXP: 0749451/21-3)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+MOTIVO DO INDEFERIMENTO: POR NÃO ATENDER INTEGRALMENTE AS EXIGÊNCIAS DO ANEXO III DA RESOLUÇÃO RDC 345/02 ALTERADA PELA RESOLUÇÃO RDC 374/20: NÃO APRESENTAR LICENÇA AMBIENTAL VÁLIDA PARA O LOCAL DE DESTINAÇÃO FINAL DOS RESÍDUOS. NÃO APRESENTAR ALVARÁ SANITÁRIO VÁLIDO.

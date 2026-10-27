@@ -1,0 +1,182 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.917, DE 12 DE Maio DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1917"
+data: 2021-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/05/2021, seção 1, p. 108"
+data_publicacao: 2021-05-17
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.917-de-12-de-maio-de-2021-320064210"
+sha256_html_fonte: 1d2004db568080a9686a264e8b5d0e23f97108229f9fdd0ff976a91ed275b456
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 1.917, DE 12 DE Maio DE 2021
+
+RESOLUÇÃO RE Nº 1.917, DE 12 DE Maio DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAÚJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: CATALENT INDIANA, LLC
+
+ENDEREÇO: 1300 S. PATTERSON DRIVE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1241
+
+EMPRESA SOLICITANTE: BIOMARIN BRASIL FARMACÊUTICA LTDA - CNPJ: 08.002.360/0001-34
+
+AUTORIZ/MS: 1073334 - EXPEDIENTE(s): 0853203/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FAMAR HEALTH CARE SERVICES MADRID, S.A.U.
+
+ENDEREÇO: AVDA. LEGANÉS. 62 - 28923 ALCORCÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.0561
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 2968856/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 0968051/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0625
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 1034739/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: WYETH PHARMACEUTICALS COMPANY
+
+ENDEREÇO: STATE ROAD NO. 3 (KILOMETER 141.3), GUAYAMA, PUERTO RICO (PR) 00784 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.1015
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0444888/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SAMSUNG BIOLOGICS CO. LTD.
+
+ENDEREÇO: 300, SONGDO BIO-DAERO, YEONSU-GU, INCHEON, 21987 - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.1327
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 2953937/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FAMAR HEALTH CARE SERVICES MADRID, S.A.U.
+
+ENDEREÇO: AVDA. LEGANÉS. 62 - 28923 ALCORCÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.0561
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 2968653/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ENESTIA BELGIUM N.V.
+
+ENDEREÇO: KLOCKNERSTRAAT 1, HAMONT-ACHEL, LIMBURG, B-3930 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0744
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 1099989/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG
+
+ENDEREÇO: EISENBAHNSTRASSE 2 - 4, 88085 LANGENARGEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0626
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1133656/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1009
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 4143596/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0003-65 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, S/N KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0559417/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIONORICA SE
+
+ENDEREÇO: KERSCHENSTEINERSTRASSE 11-15 92318 NEUMARKT IN DER OBERPFALZ, DEUTSCHLAND - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.1261
+
+EMPRESA SOLICITANTE: BIONORICA DO BRASIL DISTRIBUICAO E IMPORTACAO LTDA - CNPJ: 19.585.186/0001-16
+
+AUTORIZ/MS: 1123421 - EXPEDIENTE(s): 0237088/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: REYOUNG PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO. 1, RUIYANG ROAD, YIYUAN COUNTY, SHANDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.1283
+
+EMPRESA SOLICITANTE: SANVAL COMÉRCIO E INDÚSTRIA LTDA - CNPJ: 61.068.755/0001-12
+
+AUTORIZ/MS: 1007146 - EXPEDIENTE(s): 1357925/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos): Pós Liofilizados

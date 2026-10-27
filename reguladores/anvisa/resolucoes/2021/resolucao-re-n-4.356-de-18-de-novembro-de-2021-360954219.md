@@ -1,0 +1,244 @@
+---
+titulo: "RESOLUÇÃO RE Nº 4.356, DE 18 DE Novembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4356"
+data: 2021-11-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/11/2021, seção 1, p. 247"
+data_publicacao: 2021-11-22
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.356-de-18-de-novembro-de-2021-360954219"
+sha256_html_fonte: e89eb91a7eb03cf546f497d39e918fa634849da5a9cfba18468f5c974350c442
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 4.356, DE 18 DE Novembro DE 2021
+
+RESOLUÇÃO RE Nº 4.356, DE 18 DE Novembro DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, Substituta, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA FABRICANTE: BAXALTA MANUFACTURING SÀRL
+
+ENDEREÇO: ROUTE DE PIERRE-À-BOT 111, 200 NEUCHÂTEL - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000070
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 1153309/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA: CIFARMA CIENTÍFICA FARMACÊUTICA LTDA. - CNPJ: 17.562.075/0003-20 - AUTORIZ/MS:
+
+ENDEREÇO: aVENIDA DAS INDÚSTRIAS, 3651
+
+MUNICÍPIO: SANTA LUZIA - UF: MG - EXPEDIENTE: 1999195/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Efervescentes; Comprimidos Revestidos; Granulados; Granulados Efervescentes; Granulados Revestidos; Pastilhas; Pós; Pós Efervescentes
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE DUNGARVAN LIMITED
+
+ENDEREÇO: KNOCKBRACK, DUNGARVAN. CO. WATERFORD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000272
+
+EMPRESA SOLICITANTE: MAPPEL INDÚSTRIA DE EMBALAGENS S.A. - CNPJ: 01.233.103/0001-64
+
+AUTORIZ/MS: 1034806 - EXPEDIENTE(s): 1312394/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Adesivos
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000131
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 1949284/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CILAG AG
+
+ENDEREÇO: HOCHSTRASSE 201, 8200 SCHAFFHAUSEN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000157
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 1951255/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI-AVENTIS DEUTSCHLAND GMBH
+
+ENDEREÇO: BRÜNINGSTRASSE 50, 65926 FRANKFURT AM MAIN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000560
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0968016/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 1458260/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: MERZ PHARMA GMBH &CO. KGAA
+
+ENDEREÇO: AM PHARMAPARK - 06861, DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000417
+
+EMPRESA SOLICITANTE: MERZ FARMACÊUTICA COMERCIAL LTDA - CNPJ: 11.681.446/0001-45
+
+AUTORIZ/MS: 1088021 - EXPEDIENTE(s): 1312184/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA AB
+
+ENDEREÇO: LARS FORSSELLS GATA 23, STOCKHOLM, 11275 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000454
+
+EMPRESA SOLICITANTE: OCTAPHARMA BRASIL LTDA - CNPJ: 02.552.927/0001-60
+
+AUTORIZ/MS: 1039712 - EXPEDIENTE(s): 1998913/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BUSHU PHARMACEUTICALS LTD.
+
+ENDEREÇO: 1 TAKENO, KAWAGOE, SAITAMA 350-0801 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.001084
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 0853468/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GLENMARK GENERICS S.A.
+
+ENDEREÇO: CALLE 9, Nº 593, INGENIERO MEYER OKS, PARQUE INDUSTRIAL PILAR, PROVÍNCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.000281
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 2047334/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000201
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 1493061/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK A/S
+
+ENDEREÇO: KIRKE VAERLOSEVEJ 30, 3500, VAERLOSE - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.000445
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 1622798/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: LG CHEM, LTD.
+
+ENDEREÇO: 151, OSONGSAENGMYEONG 1-RO, OSONG-EUP, HEUNGDEOK-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001257
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 1963658/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MAYNE PHARMA INC
+
+ENDEREÇO: 1240 SUGG PARKWAY, GREENVILLE, NORTH CAROLINA (NC) 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001510
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1710613/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: INTAS PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT Nº 496/1/A&B, SARKHEJ BAVLA HIGHWAY, VILLAGE: MATODA, TAL - SANAND, DIST: AHMEDABAD GUJARAT STATE, INDIA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001475
+
+EMPRESA SOLICITANTE: ACCORD FARMACÊUTICA LTDA - CNPJ: 64.171.697/0001-46
+
+AUTORIZ/MS: 1055377 - EXPEDIENTE(s): 4076479/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA SAS
+
+ENDEREÇO: 72 RUE DU MARÉCHAL FOCH, 67380 LINGOLSHEIM - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000457
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 2755407/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES MBH
+
+ENDEREÇO: OBERLAAER STRASSE 235, A-1100 VIENA - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000456
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 2758604/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica

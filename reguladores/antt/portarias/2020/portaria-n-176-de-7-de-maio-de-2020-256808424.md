@@ -1,0 +1,50 @@
+---
+titulo: "PORTARIA Nº 176, DE 7 DE MAIO DE 2020"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Terrestres/Superintendência de Exploração de Infraestrutura Rodoviária"
+tipo: "Portaria"
+numero: "176"
+data: 2020-05-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/05/2020, seção 1, p. 54"
+data_publicacao: 2020-05-14
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-176-de-7-de-maio-de-2020-256808424"
+sha256_html_fonte: 8c3a5bb96f1a7c8827cae9436f4f14048aa8d38e4c445b17da7e96d55dcfbb87
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 176, DE 7 DE MAIO DE 2020
+
+PORTARIA Nº 176, DE 7 DE MAIO DE 2020
+
+O Superintendente de Exploração da Infraestrutura Rodoviária, da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições e em conformidade com a Resolução nº 5.818, de 03 de maio de 2018, alterada pela Resolução 5.881 de 31 de março de 2020 e Portaria nº 028 de 07/02/2019, fundamentado no que consta do processo nº 50500.042085/2020-92, resolve:
+
+**Art.1º** Autorizar a readequação de travessia em MND de rede de fibra ótica na faixa de domínio da Rodovia BR-060, sob concessão à CONCEBRA - Concessionária de Rodovias Centrais do Brasil S.A, por meio de travessia subterrânea no km 30+320m, em Brasília/DF de interesse de OI S.A.
+
+**§1º** A presente portaria está adstrita à referida obra e os eventuais pleitos de retificação, complementação ou revogação deverão ser feitas em relação às disposições principais do escopo que compõem o Caput.
+
+**§2º** Outras disposições não especificadas no Caput serão tratadas por meio de aditivos ao Contrato de Permissão Especial de Uso - CPEU, devendo a concessionária informar à Unidade Regional da ANTT sobre os ajustes ou alterações realizadas.
+
+**Art.2º** A CONCEBRA deverá encaminhar, à Unidade Regional de Minas Gerais - URMG, uma das vias do Contrato de Permissão Especial de Uso, tão logo seja assinado pelas partes.
+
+**Art.3º** O início da obra objeto desta portaria está condicionado à assinatura prévia do Contrato de Permissão Especial de Uso - CPEU a ser firmado entre OI e a CONCEBRA e que trará as particularidades e obrigações entre as partes.
+
+**Art.4º** Caberá à CONCEBRA acompanhar e fiscalizar a execução do projeto por ela aprovado e manter atualizado o cadastro das instalações, atentando para o cumprimento dos parâmetros contratuais e à segurança dos usuários, sujeitando-se às penalidades cabíveis.
+
+**Art.5º** A OI deverá concluir a obra objeto desta portaria no prazo de 30 (trinta) dias após a assinatura do Contrato de Permissão Especial de Uso.
+
+**Art.6º** Na implantação e conservação da referida obra, a OI deverá observar as medidas de segurança recomendadas pela CONCEBRA, responsabilizando-se por danos ou interferências com redes não cadastradas e preservando a integridade de todos os elementos constituintes da Rodovia.
+
+**Art.7º** A OI assumirá todo o ônus relativo à implantação, manutenção e ao eventual remanejamento das instalações, responsabilizando-se por eventuais impactos ou problemas decorrentes destas e que venham a afetar a Rodovia.
+
+**Art.8º** A referida autorização resultará em receita extraordinária anual a ser recolhida e atualizada conforme Resolução ANTT nº 2552/2008 no valor inicial de R$ 768,77 (Setecentos e sessenta e oito reais e setenta e sete centavos).
+
+**Art.9º** A OI deverá encaminhar à Unidade Regional da ANTT e à CONCEBRA cópia do projeto "As built" em meio digital.
+
+**Art.10.** A autorização concedida por meio desta Portaria tem caráter precário, podendo ser revogada, anulada ou cassada a qualquer tempo de acordo com critérios de conveniência da ANTT.
+
+Parágrafo Único. A OI abstém-se de cobrar qualquer tipo de indenização em razão da revogação, anulação ou cassação da autorização, bem como reembolso em virtude dos custos com as obras executadas.
+
+**Art.11.** Esta Portaria entra em vigor na data de sua publicação.
+
+MARCELO ALCIDES DOS SANTOS

@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO Nº 2.010, DE 20 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2010"
+data: 2022-06-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/06/2022, seção 1, p. 168"
+data_publicacao: 2022-06-27
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-2.010-de-20-de-junho-de-2022-410382896"
+sha256_html_fonte: 882e07b5461b7209095e34a1d056b138ffb6b0dd9432d5d19cb1c8613f1d395c
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO Nº 2.010, DE 20 DE JUNHO DE 2022
+
+RESOLUÇÃO Nº 2.010, DE 20 DE JUNHO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução da Diretoria Colegiada RDC n° 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Indeferir a concessão de Autorização de Funcionamento de Empresa e cadastramento de filial constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: OLGA S DA SILVA FRANCISCO DEDETIZACAO
+
+ENDEREÇO: RUA PROFESSORA VICENTINA, S/N, LOTE 4 QUADRA E
+
+BAIRRO: COELHO DA ROCHA
+
+MUNICÍPIO: SÃO JOÃO DE MERITI
+
+UF: RJ
+
+CEP: 25.550-650
+
+CNPJ: 24.070.681/0001-22
+
+PROCESSO Nº: 25351.661844/2021-13 (EXP :2431593/21-5)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+MOTIVO DO INDEFERIMENTO: NÃO ATENDIMENTO DAS EXIGÊNCIAS SANITÁRIAS CONSTANTES DA RESOLUÇÃO RDC 345/2002, ALTERADA PELA RESOLUÇÃO RDC Nº 374 DE 16 DE ABRIL DE 2020, CONFORME DISPOSTO PELOS ARTIGOS 2º (INCISOS II, IV E PARÁGRAFO ÚNICO), 3º, 5º, 11, 14, 16 DO REGULAMENTO, ANEXOS I E III DA RESOLUÇÃO RDC 345/2002, ALTERADA PELA RESOLUÇÃO RDC Nº 374 DE 16 DE ABRIL DE 2020; ARTIGOS 1º, 3º, 4º, 5º, 7º, 8º, 9º, 10º, 11, 12, 81, 82, 83, 84, 94, ANEXOS I E II DA RESOLUÇÃO RDC 661, DE 30 DE MARÇO DE 2022; ARTIGO 2º (INCISO V E INCISOS I, II E PARÁGRAFO ÚNICO DO § 2º) DA RESOLUÇÃO RDC Nº 24, 06 DE JULHO DE 2005.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: LIMPIND ASSEIO, CONSERVAÇÃO E MANUTENÇÃO LTDA
+
+ENDEREÇO: R FRANCO DE ALMEIDA, 28
+
+BAIRRO: VILA MARIA HELENA
+
+MUNICÍPIO: DUQUE DE CAXIAS
+
+UF: RJ
+
+CEP: 25.251-470
+
+CNPJ: 03.571.922/0004-90
+
+PROCESSO Nº: 25351.699767/2021-66 (EXP:2550652/21-5)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+MOTIVO DO INDEFERIMENTO: SOLICITAÇÃO DE CONCESSÃO DE AFE NÃO VINCULADA AO CADASTRO NACIONAL DE PESSOA JURÍDICA - CNPJ DA MATRIZ DA EMPRESA, CONTRARIANDO ART. 5º, ART. 12, ART. 14, ART. 16 DO ANEXO I E ANEXO III DA RESOLUÇÃO RDC 345/2002, ALTERADA PELA RESOLUÇÃO RDC Nº 374 DE 16 DE ABRIL DE 2020.

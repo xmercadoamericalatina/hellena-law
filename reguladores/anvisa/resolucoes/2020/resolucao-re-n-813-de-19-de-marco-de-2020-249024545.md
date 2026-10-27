@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 813, de 19 de MARÇO de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "813"
+data: 2020-03-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2020, seção 1, p. 194"
+data_publicacao: 2020-03-20
+edicao: "55"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-813-de-19-de-marco-de-2020-249024545"
+sha256_html_fonte: 667062782c1c736df035b81ff2c0aeaf01a1e7aee6c82ed6501d9340aff8a5fa
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 813, de 19 de MARÇO de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 813, de 19 de MARÇO de 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Cancelar, a pedido, a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: R&amp;B COMERCIO DE PRODUTOS ORGANICOS E NATURAIS LTDA ME</p><p class="dou-paragraph" >ENDEREÇO: AV. BOSCHETTI, 336</p><p class="dou-paragraph" >BAIRRO: VL. MEDEIROS CEP: 02205000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 18.002.362/0001-87</p><p class="dou-paragraph" >PROCESSO: 25351.182095/2015-31 AUTORIZ/MS: 2.07984.1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >ARMAZENAR: COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE</p><p class="dou-paragraph" >DISTRIBUIR: COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE</p><p class="dou-paragraph" >EXPEDIR: COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE</p><p class="dou-paragraph" >IMPORTAR: COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: MEDLIFE COMÉRCIO E SERVIÇOS DE EQUIPAMENTOS HOSPITALARES LTDA. - ME</p><p class="dou-paragraph" >ENDEREÇO: AV BARAO DE STUDART, 1421 A</p><p class="dou-paragraph" >BAIRRO: ALDEOTA CEP: 60120001 - FORTALEZA/CE</p><p class="dou-paragraph" >CNPJ: 04.331.316/0001-17</p><p class="dou-paragraph" >PROCESSO: 25016.126227/2007-11 AUTORIZ/MS: P0M3Y8675753 (8.03999.8)</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >COMERCIALIZAR: CORRELATO</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: JOANES DE QUEIROZ FERNANDES - ME</p><p class="dou-paragraph" >ENDEREÇO: RUA PROFESSOR JULIO HOLANDA, 279</p><p class="dou-paragraph" >BAIRRO: ALTO SAO FRANCISCO CEP: 63900000 - QUIXADÁ/CE</p><p class="dou-paragraph" >CNPJ: 19.378.667/0001-50</p><p class="dou-paragraph" >PROCESSO: 25351.316756/2016-48 AUTORIZ/MS: M911092M6511 (8.14271.5)</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >COMERCIALIZAR: CORRELATOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: BSB CENTRO DE DISTRIBUIÇÃO E LOGÍSTICA LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA MACAUBA LOTE N° 5 SALA 304</p><p class="dou-paragraph" >BAIRRO: ÁGUAS CLARAS CEP: 71928180 - TAGUATINGA/DF</p><p class="dou-paragraph" >CNPJ: 04.246.726/0001-60</p><p class="dou-paragraph" >PROCESSO: 25351.562882/2015-50 AUTORIZ/MS: PLY3894L02H3 (8.12770.6)</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >ARMAZENAR: CORRELATOS</p><p class="dou-paragraph" >DISTRIBUIR: CORRELATOS</p><p class="dou-paragraph" >EXPEDIR: CORRELATOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: LAB LINE DIAGNÓSTICA LTDA.</p><p class="dou-paragraph" >ENDEREÇO: Rua Industrial José Costa, 313</p><p class="dou-paragraph" >BAIRRO: Nova Granada CEP: 30431330 - BELO HORIZONTE/MG</p><p class="dou-paragraph" >CNPJ: 01.173.695/0001-76</p><p class="dou-paragraph" >PROCESSO: 05170159 AUTORIZ/MS: 8.00586.1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE</p><p class="dou-paragraph" >ARMAZENAR: CORRELATOS</p><p class="dou-paragraph" >DISTRIBUIR: CORRELATOS</p><p class="dou-paragraph" >EXPEDIR: CORRELATOS</p><p class="dou-paragraph" >IMPORTAR: CORRELATOS</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

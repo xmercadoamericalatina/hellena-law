@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.922, DE 10 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "1922"
+data: 2020-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2020, seção 1, p. 154"
+data_publicacao: 2020-06-15
+edicao: "112"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.922-de-10-de-junho-de-2020-261494085"
+sha256_html_fonte: 954de678c5c06fbe6d7083521b58a706a5f28f2171f6070548494505cf9283da
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.922, DE 10 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.922, DE 10 DE JUNHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Publicar o cancelamento de registro a pedido dos medicamentos similares, genéricos e novos, sob os nºs de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784 de 1999.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL CNPJ</p><p class="dou-paragraph" >N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S.</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >BIOLAB SANUS FARMACÊUTICA LTDA - 49.475.833/0001-06</p><p class="dou-paragraph" >25351.089448/2017-61 0489295/20-0 ARADOIS ANLO 109740248</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >CELLERA FARMACÊUTICA S.A. - 33.173.097/0002-74</p><p class="dou-paragraph" >25351.578787/2017-18 0118160/20-2 KONECTA 104400214</p><p class="dou-paragraph" >25351.578789/2017-15 0119549/20-2 VITARA 104400211</p><p class="dou-paragraph" >25351.578802/2017-28 0119105/20-5 LEVORE 104400209</p><p class="dou-paragraph" >25351.578803/2017-72 0119400/20-3 ADAPTA 104400212</p><p class="dou-paragraph" >25351.387595/2018-85 0191961/20-0 CERTARA 104400218</p><p class="dou-paragraph" >25351.387597/2018-74 0191713/20-7 CERTARA 104400219</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - 61.082.426/0002-07</p><p class="dou-paragraph" >25351.068927/2017-44 0375748/20-0 ANASEPTIL CARE 178170836</p><p class="dou-paragraph" >25351.424210/2016-14 0376014/20-6 BRONCOFLUX 178170835</p><p class="dou-paragraph" >25351.644781/2009-15 0530905/20-1 EXIT 178170087</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >FUNDAÇÃO BAIANA DE PESQ. CIENTIFICA E DESENV. TECNOLOGICO, FORNECIMENTO E DISTRIBUIÇÃO DE MEDICAMENTOS-BAHIAFARMA - 13.078.518/0001-90</p><p class="dou-paragraph" >25351.025593/2017-14 0058289/20-1 SYDEROTELOS 198830003</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GLENMARK FARMACÊUTICA LTDA - 44.363.661/0001-57</p><p class="dou-paragraph" >25351.003963/2010-82 0452106/20-4 GLICEP XR 110130278</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA - 05.044.984/0001-26</p><p class="dou-paragraph" >25351.192756/2009-47 0056729/20-9 ALD MUNE 167730142</p><p class="dou-paragraph" >25351.111184/2017-30 0089886/20-4 AZITROGRAN 167730543</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LIBBS FARMACÊUTICA LTDA - 61.230.314/0001-75</p><p class="dou-paragraph" >25000.012214/92-88 0126891/20-1 SENSITRAM 100330058</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >MARJAN INDÚSTRIA E COMÉRCIO LTDA - 60.726.692/0001-81</p><p class="dou-paragraph" >25000.010058/97-06 0191970/20-9 LOSARTEC 101550200</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SUN FARMACÊUTICA DO BRASIL LTDA - 05.035.244/0001-23</p><p class="dou-paragraph" >25351.009257/00-88 0543393/20-2 HIDROXINE 146820003</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >TORRENT DO BRASIL LTDA - 33.078.528/0001-32</p><p class="dou-paragraph" >25351.627747/2012-38 0443402/20-1 AZULIX MF 105250070</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

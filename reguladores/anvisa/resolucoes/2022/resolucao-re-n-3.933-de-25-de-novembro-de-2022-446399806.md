@@ -1,0 +1,192 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.933, DE 25 DE NOVEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3933"
+data: 2022-11-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/11/2022, seção 1, p. 112"
+data_publicacao: 2022-11-28
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.933-de-25-de-novembro-de-2022-446399806"
+sha256_html_fonte: bc0c81b9705522954f5ac376bd4c83f16ac9fe56de8be099775ccb3d03f78ab7
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.933, DE 25 DE NOVEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.933, DE 25 DE NOVEMBRO DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: air liquide brasil ltda - CNPJ: 00.331.788/0045-30 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: av. joão XXIII, s/n
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 4171158/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA - CNPJ: 44.734.671/0025-29 - AUTORIZ/MS: 1002981
+
+ENDEREÇO: AV DAS QUARESMEIRAS, 451 - BLOCO B
+
+MUNICÍPIO: POUSO ALEGRE - UF: MG - EXPEDIENTE: 4851022/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: NEOLAB SOLUCOES FARMACEUTICAS ESTEREIS DO BRASIL LTDA. - CNPJ: 42.063.573/0001-04 - AUTORIZ/MS: 1281868
+
+ENDEREÇO: AV NSRA DA ASSUNCAO, 736
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 4946775/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PACKAGING COORDINATORS, LLC
+
+ENDEREÇO: 3001 RED LION ROAD, PHILADELPHIA , PENNSYLVANIA (PA) 19114 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000138
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1263867/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: APOTEK PRODUKTION & LABORATORIER AB (APL)
+
+ENDEREÇO: CELSIUSGATAN 43, MALMO, SE 212 14 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.001409
+
+EMPRESA SOLICITANTE: INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MEDICAMENTOS LTDA - CNPJ: 21.810.980/0001-68
+
+AUTORIZ/MS: 1138407 - EXPEDIENTE(s): 2738844/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM LILLE SAS
+
+ENDEREÇO: PARC D' ACTIVITES ROUBAIX-EST, 22 RUE DE TOUFFLERS CS 50070, LYS LEZ LANNOY, 59452 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000180
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 2714215/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA SCHWEIZERHALLE AG
+
+ENDEREÇO: ROTHAUSSTRASSE 4133, PRATTELN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001449
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 2738319/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Pós
+
+.........................................
+
+EMPRESA FABRICANTE: CILAG AG
+
+ENDEREÇO: HOCHSTRASSE 201, 8200 SCHAFFHAUSEN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000157
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 2665199/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Esterilização Terminal; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CILAG AG
+
+ENDEREÇO: HOCHSTRASSE 201, 8200 SCHAFFHAUSEN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000157
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 2665556/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VALDEPHARM
+
+ENDEREÇO: PARC INDUSTRIEL D'INCARVILLE, PARC DE LA FRINGALE - CS 10606, VAL DE REUIL CEDEX, 27106 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.001165
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 2384838/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CIPLA LTD
+
+ENDEREÇO: PLOT NO. 9 & 10 INDORE SPECIAL ECONOMIC ZONE, PHASE II, PITHAMPUR, DISTRICT DHAR, MADHYA PRADESH PIN CODE: 454775 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000995
+
+EMPRESA SOLICITANTE: CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 18.268.051/0001-64
+
+AUTORIZ/MS: 1115411 - EXPEDIENTE(s): 4258336/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções Aerossóis
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER AG
+
+ENDEREÇO: MÜLLERSTRASSE 178, 13353, BERLIM - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000091
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 4899103/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: AUROBINDO PHARMA LIMITED UNIT-XV
+
+ENDEREÇO: PLOT NO-17 A, E BONANGI (VILLAGE), JAWAHARLAL NEHRU PHARMA CITY, PARAWADA (MANDAL), VISAKHAPATNAM DISTRICT, ANDHRA PRADESH - 531 021 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001438
+
+EMPRESA SOLICITANTE: AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA - CNPJ: 04.301.884/0001-75
+
+AUTORIZ/MS: 1051679 - EXPEDIENTE(s): 4200528/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SHANDONG ANXIN PHARMACEUTICAL CO. LTD
+
+ENDEREÇO: NO. 849, DONGJIA TOWN, LICHENG DISTRICT, JINAN CITY, SHANDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001181
+
+EMPRESA SOLICITANTE: INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 33.258.401/0001-03
+
+AUTORIZ/MS: 1000637 - EXPEDIENTE(s): 4406412/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos) (Granel): Pós com Preparação Asséptica

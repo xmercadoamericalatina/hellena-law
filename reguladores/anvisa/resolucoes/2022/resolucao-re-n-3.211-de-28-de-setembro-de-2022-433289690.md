@@ -1,0 +1,275 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.211, DE 28 DE SETEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "3211"
+data: 2022-09-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/10/2022, seção 1, p. 103"
+data_publicacao: 2022-10-03
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.211-de-28-de-setembro-de-2022-433289690"
+sha256_html_fonte: aa2a99fe180e926d78d61494c36062bf6a3b39b25f7a2e10a64a37c5aaead44e
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 3.211, DE 28 DE SETEMBRO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 3.211, DE 28 DE SETEMBRO DE 2022</p>
+  <p class="dou-paragraph" >O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Deferir os registros e as petições dos produtos saneantes, conforme relação anexa.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">RODRIGO JOSÉ VIANA OTTONI</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >AEROLAB LABORATORIO DE PESQUISAS E DESENVOLVIMENTO DE PRODUTOS QUIMICOS E COSMETICOS LTDA. / 32.931.957/0001-48</p>
+  <p class="dou-paragraph" >BUZZ OFF Multi Inseticida Eucalipto</p>
+  <p class="dou-paragraph" >25351.538320/2022-01 / 394500003</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2704550221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LPL INDUSTRIA E COMERCIO DE SANEANTES EIRELI / 14.622.908/0001-41</p>
+  <p class="dou-paragraph" >ESTÉRA PEROXY HC</p>
+  <p class="dou-paragraph" >25351.540200/2020-01 / 357750021</p>
+  <p class="dou-paragraph" >392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 4368970225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP / 03.365.708/0001-34</p>
+  <p class="dou-paragraph" >SEVEN DETERGENTE PARA MÁQUINAS DE LAVAR LOUÇAS MAX</p>
+  <p class="dou-paragraph" >25351.000358/2022-05 / 323310108</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4188310227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COOPERATIVA AGROPECUÁRIA CASCAVEL LTDA / 76.098.219/0001-37</p>
+  <p class="dou-paragraph" >COMPLEX PRO GB400 - COOPAVEL COOPERATIVA AGROINDUSTRIAL</p>
+  <p class="dou-paragraph" >25351.149534/2022-06 / 309390009</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4357238226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LPL INDUSTRIA E COMERCIO DE SANEANTES EIRELI / 14.622.908/0001-41</p>
+  <p class="dou-paragraph" >NIUTEX ADITIV</p>
+  <p class="dou-paragraph" >25351.200100/2022-07 / 357750034</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4426123224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >H&amp;H INDUSTRIA E COMERCIO DE PRODUTOS DE SANEANTES LTDA / 39.574.144/0001-97</p>
+  <p class="dou-paragraph" >ÁGUA SANITÁRIA H&amp;H</p>
+  <p class="dou-paragraph" >25351.166503/2022-10 / 309320001</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4380575225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >HIGIE-PLUS CHEMICAL IND. COM. PRODUTOS DE LIMPEZA LTDA / 84.806.462/0001-90</p>
+  <p class="dou-paragraph" >DESODORIZANTE SANITÁRIO NOBRE</p>
+  <p class="dou-paragraph" >25351.523713/2022-10 / 313080039</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2665496224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CALLAMARYS INDUSTRIA E COMERCIO DE COSMETICOS E SANEANTES LTDA / 01.932.232/0001-40</p>
+  <p class="dou-paragraph" >MULTIUSO ZEROBAC TUPI</p>
+  <p class="dou-paragraph" >25351.538359/2022-10 / 358810007</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2704765227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >HIGIE-PLUS CHEMICAL IND. COM. PRODUTOS DE LIMPEZA LTDA / 84.806.462/0001-90</p>
+  <p class="dou-paragraph" >PEDRA SANITÁRIA RUBI</p>
+  <p class="dou-paragraph" >25351.540307/2022-11 / 313080040</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2707438227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Ipanema Indústria de Produtos Veterinários Ltda. / 64.687.015/0001-52</p>
+  <p class="dou-paragraph" >ATRATEX MATA BARATAS GEL</p>
+  <p class="dou-paragraph" >25351.523648/2022-14 / 323800040</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2665315220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PONTO FRANCO LIMPE BEM PRODUTOS DE LIMPEZA LTDA ME / 26.525.549/0001-93</p>
+  <p class="dou-paragraph" >ALVEJANTE LIMPE BEM CLORO ATIVO</p>
+  <p class="dou-paragraph" >25351.133063/2022-14 / 372510004</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4318335224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MUSTANG PLURON QUÍMICA LTDA / 47.078.704/0001-40</p>
+  <p class="dou-paragraph" >PLURON 461 A1</p>
+  <p class="dou-paragraph" >25351.268263/2013-17 / 305463127</p>
+  <p class="dou-paragraph" >330 - REG. SANEANTES - Modificação de Fórmula de Produto / 4312493227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >VALÊNCIA INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA - EPP / 01.798.208/0001-60</p>
+  <p class="dou-paragraph" >DESINFETANTE VALÊNCIA</p>
+  <p class="dou-paragraph" >25351.349347/2019-17 / 333840013</p>
+  <p class="dou-paragraph" >331 - REG. SANEANTES - Nova versão de Produto / 2737959225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COLGATE PALMOLIVE INDUSTRIAL LTDA / 03.816.532/0001-90</p>
+  <p class="dou-paragraph" >AJAX BANHEIRO</p>
+  <p class="dou-paragraph" >25351.125816/2022-18 / 341460419</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4307305221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BECKER INDUSTRIA DE COSMETICOS LTDA - ME / 17.172.186/0001-69</p>
+  <p class="dou-paragraph" >DESINFETANTE CLORADO BECKER 10%</p>
+  <p class="dou-paragraph" >25351.031424/2020-19 / 371940044</p>
+  <p class="dou-paragraph" >332 - REG. SANEANTES - Nova Embalagem de Produto / 4474685229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ADHETECH QUÍMICA INDÚSTRIA E COMÉRCIO LTDA / 61.608.410/0001-04</p>
+  <p class="dou-paragraph" >REMOTECH CR</p>
+  <p class="dou-paragraph" >25351.483676/2015-20 / 317140088</p>
+  <p class="dou-paragraph" >335 - REG. SANEANTES - Cancelamento de Registro de Produto a Pedido / 4461729222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PEK INDUSTRIA QUIMICA EIRELI - ME / 09.077.776/0001-84</p>
+  <p class="dou-paragraph" >PSC ALCALINO</p>
+  <p class="dou-paragraph" >25351.083044/2022-21 / 354130006</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4238985222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15</p>
+  <p class="dou-paragraph" >MORTEIN PRO RATICIDA BLOCO</p>
+  <p class="dou-paragraph" >25351.074938/2022-21 / 302271037</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4233134224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA MACATUBA LTDA - ME / 05.971.158/0001-22</p>
+  <p class="dou-paragraph" >TM 7101 - HIPOCLORITO DE SÓDIO A 1% TAMANI</p>
+  <p class="dou-paragraph" >25351.184760/2022-25 / 332290013</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4411432226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >UZUCLEAN INDUSTRIA COMERCIO IMPORTACAO E EXPORTACAO LTDA / 09.271.415/0001-74</p>
+  <p class="dou-paragraph" >HIPOCLORITO DE SÓDIO 12% PRÓ MAX UZUCLEAN</p>
+  <p class="dou-paragraph" >25351.099312/2022-27 / 338930020</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4263808223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ECOLAB QUÍMICA LTDA / 00.536.772/0001-42</p>
+  <p class="dou-paragraph" >QUALLIX DTHS H</p>
+  <p class="dou-paragraph" >25351.812066/2021-29 / 300530947</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4618010215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DE SANGOSSE AGROQUÍMICA LTDA / 72.097.017/0001-10</p>
+  <p class="dou-paragraph" >MAKI GR TECH</p>
+  <p class="dou-paragraph" >25351.238551/2009-29 / 322330088</p>
+  <p class="dou-paragraph" >3782 - REG. SANEANTES - Retificação de Publicação de Registro / 4554050221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >METTA FABRIL INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 37.173.216/0001-69</p>
+  <p class="dou-paragraph" >BRIL ODOR PEDRA SANITÁRIA</p>
+  <p class="dou-paragraph" >25351.523676/2022-31 / 307010013</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2665394227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Ipanema Indústria de Produtos Veterinários Ltda. / 64.687.015/0001-52</p>
+  <p class="dou-paragraph" >ATRATEX-PRO FORMICIDA GEL</p>
+  <p class="dou-paragraph" >25351.523644/2022-36 / 323800039</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2665309220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CLINIL COMERCIO E INDUSTRIA DE PRODUTOS DE LIMPEZA LTDA / 07.145.484/0001-06</p>
+  <p class="dou-paragraph" >DESINFETANTE CLINIL PLUS</p>
+  <p class="dou-paragraph" >25351.426367/2018-38 / 333240005</p>
+  <p class="dou-paragraph" >331 - REG. SANEANTES - Nova versão de Produto / 2709405229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BURN INDÚSTRIA E COMÉRCIO LTDA / 11.636.336/0001-61</p>
+  <p class="dou-paragraph" >INSPIRA MULTIUSO ANTIMOFO 5 EM 1</p>
+  <p class="dou-paragraph" >25351.633937/2021-40 / 353990002</p>
+  <p class="dou-paragraph" >330 - REG. SANEANTES - Modificação de Fórmula de Produto / 4369001226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Ipanema Indústria de Produtos Veterinários Ltda. / 64.687.015/0001-52</p>
+  <p class="dou-paragraph" >ATRATEX FORMICIDA GEL</p>
+  <p class="dou-paragraph" >25351.523642/2022-47 / 323800038</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2665298228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >AEROLAB LABORATORIO DE PESQUISAS E DESENVOLVIMENTO DE PRODUTOS QUIMICOS E COSMETICOS LTDA. / 32.931.957/0001-48</p>
+  <p class="dou-paragraph" >BUZZ OFF Multi Inseticida Citronela</p>
+  <p class="dou-paragraph" >25351.538321/2022-47 / 394500004</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2704551227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RHUANY INDÚSTRIA QUÍMICA LTDA - ME / 05.452.947/0001-57</p>
+  <p class="dou-paragraph" >RHUANY ÁGUA SANITÁRIA</p>
+  <p class="dou-paragraph" >25351.144983/2019-54 / 338520011</p>
+  <p class="dou-paragraph" >389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 4326173220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP / 03.365.708/0001-34</p>
+  <p class="dou-paragraph" >SEVEN ADITIVO ALCALINO RCP</p>
+  <p class="dou-paragraph" >25351.083056/2022-56 / 323310109</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4239030226</p>
+  <p class="dou-paragraph" >SEVEN DETERGENTE PARA MÁQUINAS DE LAVAR LOUÇAS</p>
+  <p class="dou-paragraph" >25351.616948/2013-57 / 323310037</p>
+  <p class="dou-paragraph" >389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 4387998229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MUSTANG PLURON QUÍMICA LTDA / 47.078.704/0001-40</p>
+  <p class="dou-paragraph" >PLURON 461 A</p>
+  <p class="dou-paragraph" >25351.347915/2010-59 / 305463098</p>
+  <p class="dou-paragraph" >330 - REG. SANEANTES - Modificação de Fórmula de Produto / 4258247227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS S.A / 03.157.268/0001-20</p>
+  <p class="dou-paragraph" >DETERGENTE GR 04</p>
+  <p class="dou-paragraph" >25351.097237/2022-60 / 384520001</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 0652286224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ADHETECH QUÍMICA INDÚSTRIA E COMÉRCIO LTDA / 61.608.410/0001-04</p>
+  <p class="dou-paragraph" >REMOTECH CR SC</p>
+  <p class="dou-paragraph" >25351.483670/2015-65 / 317140087</p>
+  <p class="dou-paragraph" >335 - REG. SANEANTES - Cancelamento de Registro de Produto a Pedido / 4461777227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BELLOBELLA INDUSTRIA DE COSMÉTICOS LTDA / 21.559.832/0001-12</p>
+  <p class="dou-paragraph" >ÁLCOOL ETÍLICO LÍQUIDO 70 °INPM</p>
+  <p class="dou-paragraph" >25351.252859/2022-67 / 395350001</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 1436081220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CLEAN PERFECT QUÍMICA E TRANSPORTE LTDA / 09.388.397/0001-05</p>
+  <p class="dou-paragraph" >CLEAN PERFECT ALCOOL 70%</p>
+  <p class="dou-paragraph" >25351.183662/2022-71 / 311990001</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4410267221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RPD Produtos para Limpeza Ltda-Me / 01.097.621/0001-06</p>
+  <p class="dou-paragraph" >DESINFETANTE MULTI USO ESPECIAL DEFINITY</p>
+  <p class="dou-paragraph" >25351.274544/2022-71 / 355050005</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 1547822228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A M QUIMICA INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS IMPORTACAO E EXPORTACAO LTDA - EPP / 07.842.762/0001-84</p>
+  <p class="dou-paragraph" >ÁGUA SANITÁRIA TOP CLEAN</p>
+  <p class="dou-paragraph" >25351.121248/2022-78 / 352770005</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4300039224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >AEROLAB LABORATORIO DE PESQUISAS E DESENVOLVIMENTO DE PRODUTOS QUIMICOS E COSMETICOS LTDA. / 32.931.957/0001-48</p>
+  <p class="dou-paragraph" >BUZZ OFF Multi Inseticida Limoneno</p>
+  <p class="dou-paragraph" >25351.538319/2022-78 / 394500002</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2704549222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MAZA PRODUTOS QUIMICOS LTDA / 96.230.719/0001-98</p>
+  <p class="dou-paragraph" >HIPOCLORITO DE SODIO CONCENTRADO DA MAZA</p>
+  <p class="dou-paragraph" >25351.264706/2021-81 / 393720005</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 1229648216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >INDUSTRIA QUIMICA DIPIL LTDA / 78.175.189/0001-40</p>
+  <p class="dou-paragraph" >RACON SB</p>
+  <p class="dou-paragraph" >25351.021856/2022-83 / 320570086</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4205466226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LUMIX PRODUTOS DE LIMPEZA LTDA-ME / 13.612.851/0001-37</p>
+  <p class="dou-paragraph" >ÁGUA SANITÁRIA LUMIX</p>
+  <p class="dou-paragraph" >25351.193197/2022-86 / 313550033</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4419973226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >INDUSTRIA QUIMICA NOSSA SENHORA DA PIEDADE LTDA / 09.402.590/0001-53</p>
+  <p class="dou-paragraph" >PEDRA SANITÁRIA EKOBOM</p>
+  <p class="dou-paragraph" >25351.130237/2022-89 / 368470010</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4312405221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BOMBRIL S/A / 50.564.053/0001-03</p>
+  <p class="dou-paragraph" >PINHO BRIL</p>
+  <p class="dou-paragraph" >25351.020985/2003-91 / 305890201</p>
+  <p class="dou-paragraph" >396 - REG. SANEANTES - Alteração (Inclusão Ou Exclusão) de Fabricante / 4258362221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BECKER INDUSTRIA DE COSMETICOS LTDA - ME / 17.172.186/0001-69</p>
+  <p class="dou-paragraph" >BECKER ÁLCOOL ETÍLICO</p>
+  <p class="dou-paragraph" >25351.801346/2022-92 / 371940060</p>
+  <p class="dou-paragraph" >3769 - REG. SANEANTES - Recurso Administrativo / 4577574225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DIMPLE INDÚSTRIA E COMÉRCIO DE PRODUTOS AUTOMOTIVOS LTDA. ME / 04.097.456/0001-72</p>
+  <p class="dou-paragraph" >DESINCRUSTANTE ÁCIDO AL PRODUTOS AUTOMOTIVOS</p>
+  <p class="dou-paragraph" >25351.147144/2022-93 / 340000019</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4350472223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >INDÚSTRIAS REUNIDAS RAYMUNDO DA FONTE S/A / 11.507.415/0001-72</p>
+  <p class="dou-paragraph" >ÁLCOOL EM GEL BRILUX</p>
+  <p class="dou-paragraph" >25351.125841/2022-93 / 306930123</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4307381220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CIN 3 A INDUSTRIA E COMERCIO LTDA / 11.470.361/0001-18</p>
+  <p class="dou-paragraph" >CIN CLORO GEL</p>
+  <p class="dou-paragraph" >25351.505894/2022-94 / 343640004</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 2521005223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RODOL LTDA / 02.524.305/0001-28</p>
+  <p class="dou-paragraph" >RD CAP 1000</p>
+  <p class="dou-paragraph" >25351.210023/2022-95 / 326740076</p>
+  <p class="dou-paragraph" >30020 - REG. SANEANTES - Registro de produtos saneantes / 4447418223</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

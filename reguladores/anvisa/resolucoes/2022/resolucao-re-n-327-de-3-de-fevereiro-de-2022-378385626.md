@@ -1,0 +1,130 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 327, DE 3 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "327"
+data: 2022-02-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/02/2022, seção 1, p. 473"
+data_publicacao: 2022-02-07
+edicao: "26"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-327-de-3-de-fevereiro-de-2022-378385626"
+sha256_html_fonte: eb23c329a18fccec5fd0e6083b3ddc3ffea4bfd83e89be6c37535a8e3203be1f
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 327, DE 3 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE Nº 327, DE 3 DE FEVEREIRO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituto, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ARTHUR LEONARDO LOPES DA SILVA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: X AVIATION LIMPEZA E HIGIENIZACAO DE AERONAVES LTDA
+
+ENDEREÇO: AV EMILIO ANTONON, 1501 GALPAO HANGAR I SALA 10
+
+BAIRRO: AEROPORTO
+
+MUNICÍPIO: JUNDIAI
+
+UF: SP
+
+CEP: 13.212-010
+
+CNPJ: 42.202.434/0001-14
+
+PROCESSO Nº: 25351.891812/2021-32 ( EXP. 4739533/21-9)
+
+AUTORIZ/MS: 9.09799-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: INTERSEC SHIPPING SERVIÇO DE TRANSPORTE EIRELI.
+
+ENDEREÇO: PASSAGEM LAMEIRA BITTENCURT N°12 - FUNDO SALTOS
+
+BAIRRO: FATIMA
+
+MUNICÍPIO: BELÉM
+
+UF: PA
+
+CEP: 66.060-290
+
+CNPJ: 31.369.868/0001-97
+
+PROCESSO Nº: 25351.898040/2021-60 ( EXP:4754452/21-6)
+
+AUTORIZ/MS: 9.09803-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: RESILOG ES TRANSPORTE E LOGÍSTICA LTDA
+
+ENDEREÇO: R. MARATAIZES, Nº 250, COND. VILLAGGIO LARANJEIRAS BLOCO I, SALA 1018
+
+BAIRRO: PLANALTO DE CARAPINA
+
+MUNICÍPIO: SERRA
+
+UF: ES
+
+CEP: 29162-738
+
+CNPJ: 43.160.689/0001-24
+
+PROCESSO Nº: 25351.761727/2021-41 ( EXP:4531801/21-1)
+
+AUTORIZ/MS: 9.09802-2
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: SERVISAM - SERVIÇOS DE SANEAMENTO E MEIO AMBIENTE LTDA
+
+ENDEREÇO: TV. TEÓFILO CONDURU N° 920 - ANDAR 2
+
+BAIRRO: CANUDOS
+
+MUNICÍPIO: BELÉM
+
+UF: PA
+
+CEP: 66070 - 530
+
+CNPJ: 21.332.050/0001-46
+
+PROCESSO Nº: 25351.413711/2021-24 ( EXP: 3842335/21-1)
+
+AUTORIZ/MS: 9.09786-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;

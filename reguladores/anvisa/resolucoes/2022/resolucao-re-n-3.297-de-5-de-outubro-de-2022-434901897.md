@@ -1,0 +1,228 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.297, DE 5 DE OUTUBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3297"
+data: 2022-10-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/10/2022, seção 1, p. 104"
+data_publicacao: 2022-10-10
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.297-de-5-de-outubro-de-2022-434901897"
+sha256_html_fonte: 028289b4b40cd08aab8e9d7c8ccde4dcde3184eb2911054370df8e3461d58414
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.297, DE 5 DE OUTUBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.297, DE 5 DE OUTUBRO DE 2022
+
+A Gerente-Geral substituta de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução de Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA: AIR LIQUIDE BRASIL - CNPJ: 00.331.788/0077-17 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: Fazenda Apucarana Grande KM 02 Rua P com Rua 5 - S/N
+
+MUNICÍPIO: ORTIGUEIRA - UF: PR - EXPEDIENTE: 1534320/22-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos Medicinais
+
+.........................................
+
+EMPRESA: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0002-61 - AUTORIZ/MS: 1006839
+
+ENDEREÇO: AV. ENGº EUSÉBIO STEVAUX, 2555
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 1435837/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DA USP - CNPJ: 60.448.040/0001-22 - AUTORIZ/MS: 1211040
+
+ENDEREÇO: Av.Dr. Enéas de Carvalho Aguiar 255
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 1453142/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: AJINOMOTO ALTHEA, INC.
+
+ENDEREÇO: 11040 ROSELLE STREET, SAN DIEGO, CALIFORNIA (CA) 92121 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001203
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0358978/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000201
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 1419316/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: GENENTECH, INC.
+
+ENDEREÇO: 1 DNA WAY, SOUTH SAN FRANCISCO, CA 94080 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000246
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1338528/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI HSC - HEROUVILLE SAINT CLAIR
+
+ENDEREÇO: RUE LOUIS PASTEUR, 14200 HEROUVILLE SAINT CLAIR - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000571
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1310071/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED HAMELN GMBH
+
+ENDEREÇO: LANGES FELD 13 - 31789, HAMELN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000295
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 1449025/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000478
+
+EMPRESA SOLICITANTE: JCR DO BRASIL FARMACEUTICOS IMPORTACAO E EXPORTACAO LTDA. - CNPJ: 17.326.920/0001-05
+
+AUTORIZ/MS: 1137415 - EXPEDIENTE(s): 1519585/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: SYNTHON CHILE LTDA.
+
+ENDEREÇO: EL CASTAÑO Nº 145, LAMPA, SANTIAGO - PAÍS: CHILE - CÓDIGO ÚNICO: A.001125
+
+EMPRESA SOLICITANTE: Laboratórios Bagó do Brasil S/A - CNPJ: 04.748.181/0009-47
+
+AUTORIZ/MS: 1056264 - EXPEDIENTE(s): 1519540/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIO-TECHNOLOGY GENERAL (ISRAEL) LTD.
+
+ENDEREÇO: BE'ER TUVIA INDUSTRIAL ZONE, POB 571 KIRYAT MALACHI, 8310402 - PAÍS: ISRAEL - CÓDIGO ÚNICO: A.000110
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 1449535/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALKERMES PHARMA IRELAND LTD
+
+ENDEREÇO: MONKSLAND, ATHLONE, CO. WESTMEATH - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000768
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 1185622/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ZAMBON S.P.A.
+
+ENDEREÇO: VIA DELLA CHIMICA, 9 - 36100 VICENZA (VI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000646
+
+EMPRESA SOLICITANTE: ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. - CNPJ: 61.100.004/0001-36
+
+AUTORIZ/MS: 1000841 - EXPEDIENTE(s): 0962946/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000478
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1338986/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1264044/22-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN BAD OLDESLOE GMBH
+
+ENDEREÇO: INDUSTRIESTRASSE 32-36, 23843, BAD OLDESLOE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000260
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 1449200/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI-AVENTIS DE COLOMBIA S.A.
+
+ENDEREÇO: CARRERA 9 NRO. 30-29, CALI, VALLE DEL CAUCA - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.001180
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0596142/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos

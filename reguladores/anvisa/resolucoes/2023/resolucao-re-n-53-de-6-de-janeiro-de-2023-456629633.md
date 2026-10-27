@@ -1,0 +1,200 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 53, DE 6 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "53"
+data: 2023-01-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/01/2023, seção 1, p. 51"
+data_publicacao: 2023-01-09
+edicao: "6"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-53-de-6-de-janeiro-de-2023-456629633"
+sha256_html_fonte: 7ddae18813596da52fb374bf3c4763255b33e6226d6fa5ee62b3333342cdeb8d
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 53, DE 6 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 53, DE 6 DE JANEIRO DE 2023
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA: BOEHRINGER INGELHEIM DO BRASIL QUIMICA E FARMACEUTICA LTDA - CNPJ: 60.831.658/0021-10 - AUTORIZ/MS: 1003678
+
+ENDEREÇO: Rod. Régis Bittencourt (BR116), Km 286
+
+MUNICÍPIO: ITAPECERICA DA SERRA - UF: SP - EXPEDIENTE: 4397704/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ROVI PHARMA INDUSTRIAL SERVICES S.A
+
+ENDEREÇO: VIA COMPLUTENSE 140, 28805 ALCALA DE HENARES, MADRID. - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000237
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 4307296/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SEQIRUS VACCINES LIMITED (ANTIGA NOVARTIS VACCINES AND DIAGNOSTICS LIMITED)
+
+ENDEREÇO: GASKILL ROAD, SPEKE, LIVERPOOL, MERSEYSIDE - L24 9GR - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000712
+
+EMPRESA SOLICITANTE: CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 62.969.589/0001-98
+
+AUTORIZ/MS: 1001510 - EXPEDIENTE(s): 4276626/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Emulsões Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT GERMANY SCHORNDORF GMBH
+
+ENDEREÇO: STEINBEISSTRASSE 1 UND 2, 73614, SCHORNDORF - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000134
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4307100/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: HAUPT PHARMA MÜNSTER GMBH
+
+ENDEREÇO: SCHLEEBRÜGGENKAMP 15, 48159 MÜNSTER - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000903
+
+EMPRESA SOLICITANTE: LIBBS FARMACÊUTICA LTDA - CNPJ: 61.230.314/0001-75
+
+AUTORIZ/MS: 1000333 - EXPEDIENTE(s): 4312422/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: AJINOMOTO ALTHEA, INC.
+
+ENDEREÇO: 11040 ROSELLE STREET, SAN DIEGO, CALIFORNIA (CA) 92121 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001203
+
+EMPRESA SOLICITANTE: ALEXION SERVICOS E FARMACEUTICA DO BRASIL LTDA - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 2521104/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MANNKIND CORPORATION
+
+ENDEREÇO: ONE CASPER STREET, CONNECTICUT (CT) 06810-6903 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001291
+
+EMPRESA SOLICITANTE: BIOMM SA - CNPJ: 04.752.991/0001-10
+
+AUTORIZ/MS: 1133489 - EXPEDIENTE(s): 4411882/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Pós
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 4357701/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ROTTENDORF PHARMA GMBH
+
+ENDEREÇO: OSTENFELDER STRASSE 51-61, 59320 - ENNIGERLOH - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000535
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 4386118/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: TAIHO PHARMACEUTICAL CO.,LTD
+
+ENDEREÇO: KITAJIMA PLANT,1-1,IUCHI,TAKABO,KITAJIMA-CHO,ITANO-GUN- TOKUSHIMA - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.001316
+
+EMPRESA SOLICITANTE: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76
+
+AUTORIZ/MS: 1012787 - EXPEDIENTE(s): 4386531/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: NAPROD LIFE SCIENCES PVT. LTD
+
+ENDEREÇO: PLOT Nº. G-17/1, MIDC, TARAPUR, BOISAR, THANE 401506 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000745
+
+EMPRESA SOLICITANTE: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41
+
+AUTORIZ/MS: 1006461 - EXPEDIENTE(s): 4307354/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM ESPAÑA, S.A.
+
+ENDEREÇO: PRAT DE LA RIBA 50, 08174, SANT CUGAT DEL VALLÈS - BARCELONA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000113
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 4357325/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: NAPROD LIFE SCIENCES PVT. LTD
+
+ENDEREÇO: PLOT Nº. G-17/1, MIDC, TARAPUR, BOISAR, THANE 401506 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000745
+
+EMPRESA SOLICITANTE: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41
+
+AUTORIZ/MS: 1006461 - EXPEDIENTE(s): 4307086/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000080
+
+EMPRESA SOLICITANTE: ALEXION SERVICOS E FARMACEUTICA DO BRASIL LTDA - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 2521057/22-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................

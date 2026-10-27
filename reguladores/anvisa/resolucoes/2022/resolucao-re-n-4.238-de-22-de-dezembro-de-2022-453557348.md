@@ -1,0 +1,272 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.238, DE 22 DE DEZEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "4238"
+data: 2022-12-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/12/2022, seção 1, p. 129"
+data_publicacao: 2022-12-26
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.238-de-22-de-dezembro-de-2022-453557348"
+sha256_html_fonte: bea02cec7fa847798e36e0a28a989aa846130c65a81b1a1b4aed6322c2138d54
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 4.238, DE 22 DE DEZEMBRO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 4.238, DE 22 DE DEZEMBRO DE 2022</p>
+  <p class="dou-paragraph" >O Gerente-Geral de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.</p>
+  <p class="dou-paragraph" >......................................................................................</p>
+  <p class="assina">NÉLIO CEZAR DE AQUINO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p>
+  <p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p>
+  <p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p>
+  <p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda 30872270000153</p>
+  <p class="dou-paragraph" >DICLOFENACO DIETILAMÔNIO</p>
+  <p class="dou-paragraph" >ADVIPRO 25351.400206/2022-09 05/2032</p>
+  <p class="dou-paragraph" >11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 4737985/22-8</p>
+  <p class="dou-paragraph" >1.9290.0004.001-1 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 5 G</p>
+  <p class="dou-paragraph" >1.9290.0004.002-1 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 6 G</p>
+  <p class="dou-paragraph" >1.9290.0004.003-8 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 10 G</p>
+  <p class="dou-paragraph" >1.9290.0004.004-6 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 20 G</p>
+  <p class="dou-paragraph" >1.9290.0004.005-4 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 30 G</p>
+  <p class="dou-paragraph" >1.9290.0004.006-2 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 40 G</p>
+  <p class="dou-paragraph" >1.9290.0004.007-0 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 50 G</p>
+  <p class="dou-paragraph" >1.9290.0004.008-9 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 60 G</p>
+  <p class="dou-paragraph" >1.9290.0004.009-7 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 100 G</p>
+  <p class="dou-paragraph" >1.9290.0004.010-0 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 120 G</p>
+  <p class="dou-paragraph" >1.9290.0004.011-9 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 150 G</p>
+  <p class="dou-paragraph" >1.9290.0004.012-7 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 30 G</p>
+  <p class="dou-paragraph" >1.9290.0004.013-5 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 50 G</p>
+  <p class="dou-paragraph" >1.9290.0004.014-3 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 60 G</p>
+  <p class="dou-paragraph" >1.9290.0004.015-1 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 100 G</p>
+  <p class="dou-paragraph" >1.9290.0004.016-1 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 120 G</p>
+  <p class="dou-paragraph" >1.9290.0004.017-8 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 150 G</p>
+  <p class="dou-paragraph" >1.9290.0004.018-6 24 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G SOL DERM AER TB AL X 85 ML</p>
+  <p class="dou-paragraph" >1.9290.0004.019-4 24 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G SOL DERM AER CT TB AL X 85 ML</p>
+  <p class="dou-paragraph" >IBUPROFENO</p>
+  <p class="dou-paragraph" >ADVIL 25351.400358/2022-01 10/2027</p>
+  <p class="dou-paragraph" >11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 4738149/22-9</p>
+  <p class="dou-paragraph" >1.9290.0005.001-7 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 2</p>
+  <p class="dou-paragraph" >1.9290.0005.002-5 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT 1 BL AL PLAS TRANS X 4</p>
+  <p class="dou-paragraph" >1.9290.0005.003-3 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 8</p>
+  <p class="dou-paragraph" >1.9290.0005.004-1 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 10</p>
+  <p class="dou-paragraph" >1.9290.0005.005-1 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 16</p>
+  <p class="dou-paragraph" >1.9290.0005.006-8 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 20</p>
+  <p class="dou-paragraph" >1.9290.0005.007-6 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 40</p>
+  <p class="dou-paragraph" >1.9290.0005.008-4 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 50</p>
+  <p class="dou-paragraph" >1.9290.0005.009-2 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 100</p>
+  <p class="dou-paragraph" >1.9290.0005.010-6 36 Meses</p>
+  <p class="dou-paragraph" >200 MG COM REV CT BL AL PLAS TRANS X 200</p>
+  <p class="dou-paragraph" >1.9290.0005.011-4 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 2</p>
+  <p class="dou-paragraph" >1.9290.0005.012-2 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 6</p>
+  <p class="dou-paragraph" >1.9290.0005.013-0 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 8</p>
+  <p class="dou-paragraph" >1.9290.0005.014-9 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 10</p>
+  <p class="dou-paragraph" >1.9290.0005.015-7 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 16</p>
+  <p class="dou-paragraph" >1.9290.0005.016-5 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 20</p>
+  <p class="dou-paragraph" >1.9290.0005.017-3 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 36</p>
+  <p class="dou-paragraph" >1.9290.0005.018-1 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 60</p>
+  <p class="dou-paragraph" >1.9290.0005.019-1 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 80</p>
+  <p class="dou-paragraph" >1.9290.0005.020-3 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 90</p>
+  <p class="dou-paragraph" >1.9290.0005.021-1 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 120</p>
+  <p class="dou-paragraph" >1.9290.0005.022-1 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 160</p>
+  <p class="dou-paragraph" >1.9290.0005.023-8 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT BL AL PLAS TRANS X 180</p>
+  <p class="dou-paragraph" >1.9290.0005.024-6 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT FR PLAS OPC X 10</p>
+  <p class="dou-paragraph" >1.9290.0005.025-4 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT FR PLAS OPC X 16</p>
+  <p class="dou-paragraph" >1.9290.0005.026-2 24 Meses</p>
+  <p class="dou-paragraph" >400 MG CAP MOLE CT FR PLAS OPC X 20</p>
+  <p class="dou-paragraph" >1.9290.0005.027-0 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 20 ML + COP + SER DOS (SABOR LARANJA)</p>
+  <p class="dou-paragraph" >1.9290.0005.028-9 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 30 ML + COP + SER DOS (SABOR LARANJA)</p>
+  <p class="dou-paragraph" >1.9290.0005.029-7 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 90 ML + COP + SER DOS (SABOR LARANJA)</p>
+  <p class="dou-paragraph" >1.9290.0005.030-0 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 200 ML + COP + SER DOS (SABOR LARANJA)</p>
+  <p class="dou-paragraph" >1.9290.0005.031-9 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 20 ML + COP + SER DOS (SABOR ABACAXI)</p>
+  <p class="dou-paragraph" >1.9290.0005.032-7 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 90 ML + COP + SER DOS (SABOR ABACAXI)</p>
+  <p class="dou-paragraph" >1.9290.0005.033-5 24 Meses</p>
+  <p class="dou-paragraph" >20 MG/ML SUS OR CT FR PLAS OPC X 200 ML + COP + SER DOS (SABOR ABACAXI)</p>
+  <p class="dou-paragraph" >1.9290.0005.034-3 18 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SUS OR CT FR GOT PLAS OPC X 10 ML</p>
+  <p class="dou-paragraph" >1.9290.0005.035-1 18 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SUS OR CT FR GOT PLAS OPC X 15 ML</p>
+  <p class="dou-paragraph" >1.9290.0005.036-1 18 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SUS OR CT FR GOT PLAS OPC X 20 ML</p>
+  <p class="dou-paragraph" >1.9290.0005.037-8 18 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SUS OR CT FR GOT PLAS OPC X 25 ML</p>
+  <p class="dou-paragraph" >1.9290.0005.038-6 24 Meses</p>
+  <p class="dou-paragraph" >50 MG/ML SUS OR CT FR GOT PLAS OPC X 30 ML</p>
+  <p class="dou-paragraph" >PARACETAMOL + CAFEÍNA ANIDRA</p>
+  <p class="dou-paragraph" >SONRIDOR CAF 25351.400593/2022-75 05/2029</p>
+  <p class="dou-paragraph" >11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 4738415/22-1</p>
+  <p class="dou-paragraph" >1.9290.0006.001-2 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIENT X 2</p>
+  <p class="dou-paragraph" >1.9290.0006.002-0 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV STR AL PLAS X 2</p>
+  <p class="dou-paragraph" >1.9290.0006.003-9 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65 ,0) MG COM EFEV CT STR AL POLIET X 4</p>
+  <p class="dou-paragraph" >1.9290.0006.004-7 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 8</p>
+  <p class="dou-paragraph" >1.9290.0006.005-5 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 10</p>
+  <p class="dou-paragraph" >1.9290.0006.006-3 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65 ,0) MG COM EFEV CT STR AL POLIET X 12</p>
+  <p class="dou-paragraph" >1.9290.0006.007-1 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 16</p>
+  <p class="dou-paragraph" >1.9290.0006.008-1 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 20</p>
+  <p class="dou-paragraph" >1.9290.0006.009-8 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 24</p>
+  <p class="dou-paragraph" >1.9290.0006.010-1 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 30</p>
+  <p class="dou-paragraph" >1.9290.0006.011-1 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 32</p>
+  <p class="dou-paragraph" >1.9290.0006.012-8 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 36</p>
+  <p class="dou-paragraph" >1.9290.0006.013-6 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 40</p>
+  <p class="dou-paragraph" >1.9290.0006.014-4 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 48</p>
+  <p class="dou-paragraph" >1.9290.0006.015-2 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 50</p>
+  <p class="dou-paragraph" >1.9290.0006.016-0 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 60</p>
+  <p class="dou-paragraph" >1.9290.0006.017-9 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 100</p>
+  <p class="dou-paragraph" >1.9290.0006.018-7 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIETX 120</p>
+  <p class="dou-paragraph" >1.9290.0006.019-5 24 Meses</p>
+  <p class="dou-paragraph" >(500,0 + 65,0) MG COM EFEV CT STR AL POLIET X 200</p>
+  <p class="dou-paragraph" >IBUPROFENO</p>
+  <p class="dou-paragraph" >Advil 12h 25351.400604/2022-17 04/2030</p>
+  <p class="dou-paragraph" >11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 4738426/22-2</p>
+  <p class="dou-paragraph" >1.9290.0007.001-8 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 2</p>
+  <p class="dou-paragraph" >1.9290.0007.002-6 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 4</p>
+  <p class="dou-paragraph" >1.9290.0007.003-4 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 6</p>
+  <p class="dou-paragraph" >1.9290.0007.004-2 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 8</p>
+  <p class="dou-paragraph" >1.9290.0007.005-0 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 10</p>
+  <p class="dou-paragraph" >1.9290.0007.006-9 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 12</p>
+  <p class="dou-paragraph" >1.9290.0007.007-7 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 14</p>
+  <p class="dou-paragraph" >1.9290.0007.008-5 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 21</p>
+  <p class="dou-paragraph" >1.9290.0007.009-3 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 32</p>
+  <p class="dou-paragraph" >1.9290.0007.010-7 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 36</p>
+  <p class="dou-paragraph" >1.9290.0007.011-5 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT BL AL PLAS PVC/PVDC/PE TRANS X 40</p>
+  <p class="dou-paragraph" >1.9290.0007.012-3 24 Meses</p>
+  <p class="dou-paragraph" >600 MG COM REV LIB PROL CT FR PLAS PEAD OPC X 14</p>
+  <p class="dou-paragraph" >DICLOFENACO DIETILAMÔNIO</p>
+  <p class="dou-paragraph" >CATAFLAMPRO 25351.400698/2022-24 05/2028</p>
+  <p class="dou-paragraph" >11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 4738527/22-3</p>
+  <p class="dou-paragraph" >1.9290.0008.001-3 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 5 G</p>
+  <p class="dou-paragraph" >1.9290.0008.002-1 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 6 G</p>
+  <p class="dou-paragraph" >1.9290.0008.003-1 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 10 G</p>
+  <p class="dou-paragraph" >1.9290.0008.004-8 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 20 G</p>
+  <p class="dou-paragraph" >1.9290.0008.005-6 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 30 G</p>
+  <p class="dou-paragraph" >1.9290.0008.006-4 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 40 G</p>
+  <p class="dou-paragraph" >1.9290.0008.007-2 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 50 G</p>
+  <p class="dou-paragraph" >1.9290.0008.008-0 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 60 G</p>
+  <p class="dou-paragraph" >1.9290.0008.009-9 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 100 G</p>
+  <p class="dou-paragraph" >1.9290.0008.010-2 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 120 G</p>
+  <p class="dou-paragraph" >1.9290.0008.011-0 36 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G GEL CT TB AL LAMIN X 150 G</p>
+  <p class="dou-paragraph" >1.9290.0008.012-9 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 30 G</p>
+  <p class="dou-paragraph" >1.9290.0008.013-7 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 50 G</p>
+  <p class="dou-paragraph" >1.9290.0008.014-5 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 60 G</p>
+  <p class="dou-paragraph" >1.9290.0008.015-3 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 100 G</p>
+  <p class="dou-paragraph" >1.9290.0008.016-1 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 120 G</p>
+  <p class="dou-paragraph" >1.9290.0008.017-1 36 Meses</p>
+  <p class="dou-paragraph" >23,2 MG/G GEL CT TB AL LAMIN X 150 G</p>
+  <p class="dou-paragraph" >1.9290.0008.018-8 24 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G SOL DERM AER TB AL X 85 ML</p>
+  <p class="dou-paragraph" >1.9290.0008.019-6 24 Meses</p>
+  <p class="dou-paragraph" >11,6 MG/G SOL DERM AER CT TB AL X 85 ML</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

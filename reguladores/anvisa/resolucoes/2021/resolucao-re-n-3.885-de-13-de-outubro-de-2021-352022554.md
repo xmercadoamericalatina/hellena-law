@@ -1,0 +1,272 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.885, DE 13 DE Outubro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3885"
+data: 2021-10-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/10/2021, seção 1, p. 116"
+data_publicacao: 2021-10-14
+edicao: "194"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.885-de-13-de-outubro-de-2021-352022554"
+sha256_html_fonte: fa1ae695675952c54f47e3d430dc7505092b7807bd496aa2ddb2f9e90d2bb0d9
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO RE Nº 3.885, DE 13 DE Outubro DE 2021
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO RE Nº 3.885, DE 13 DE Outubro DE 2021</p>
+  <p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 173-B, aliado ao art. 54, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º.&nbsp;Alterar a Autorização de Funcionamento das Empresas&nbsp;constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >FARMACIA SOCORRO LTDA / 01.615.148/0001-01</p>
+  <p class="dou-paragraph" >25351.100612/2020-02 / 7708631</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844374211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BIOCURE PHARMA BIOTECHNOLOGY S.A. / 05.051.581/0001-04</p>
+  <p class="dou-paragraph" >25351.866941/2020-10 / 8207351</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3776340215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ATACADO NET COMERCIO DE COSMETICOS LTDA / 11.328.774/0001-62</p>
+  <p class="dou-paragraph" >25351.726296/2010-11 / 2056796</p>
+  <p class="dou-paragraph" >724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 3718555212</p>
+  <p class="dou-paragraph" >25351.726296/2010-11 / 2056796</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3718549212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LIMA &amp;SENA DISTRIBUIDORA DE PRODUTOS ODONTO E MEDICOS HOSPITALARES LTDA / 40.619.828/0001-47</p>
+  <p class="dou-paragraph" >25351.524451/2021-11 / 1256377</p>
+  <p class="dou-paragraph" >7151 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - RAZÃO SOCIAL / 3718444216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >C DE S S SANTOS EPP / 08.808.267/0001-11</p>
+  <p class="dou-paragraph" >25351.683119/2008-11 / 0569311</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829413213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FAXE CARGO - TRANSPORTES E LOGÍSTICA LTDA / 08.755.435/0001-58</p>
+  <p class="dou-paragraph" >25351.066950/2008-11 / 1073152</p>
+  <p class="dou-paragraph" >7124 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA - AMPLIAÇÃO DE ATIVIDADES / 3718507218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BIOCURE PHARMA BIOTECHNOLOGY S.A. / 05.051.581/0001-04</p>
+  <p class="dou-paragraph" >25351.867118/2020-13 / 4024286</p>
+  <p class="dou-paragraph" >724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 3776535211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ETOS FARMA LTDA / 24.909.043/0001-52</p>
+  <p class="dou-paragraph" >25351.487050/2016-14 / 7487449</p>
+  <p class="dou-paragraph" >70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3871173217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >THORACOM DISTRIBUIDORA E IMPORTADORA DE MATERIAL MEDICO-HOSPITALAR LTDA - ME / 28.790.652/0001-96</p>
+  <p class="dou-paragraph" >25351.684449/2017-14 / 8160489</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3718285215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >R. V. ÍMOLA TRANSPORTES E LOGÍSTICA LTDA / 05.366.444/0001-69</p>
+  <p class="dou-paragraph" >25351.321397/2006-15 / 2042918</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3761623216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA NATURALE LTDA ME / 04.827.519/0001-07</p>
+  <p class="dou-paragraph" >25351.073345/2007-16 / 0484246</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829405212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MUNDO NOVO COMERCIO DE MEDICAMENTOS LTDA / 20.217.213/0001-87</p>
+  <p class="dou-paragraph" >25351.388365/2014-18 / 7230280</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829417216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Natek - Natureza e Tecnologia Indústria e Comércio de Produtos Biotecnológicos Ltda / 05.234.897/0001-31</p>
+  <p class="dou-paragraph" >25351.032973/2003-18 / 8018099</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3616786215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SOMED PRODUTOS PARA SAUDE E CORRELATOS LTDA / 31.896.399/0001-64</p>
+  <p class="dou-paragraph" >25351.391998/2019-18 / 8184418</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3776329211</p>
+  <p class="dou-paragraph" >25351.391998/2019-18 / 8184418</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3776573210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGA VIVER COM SAUDE LTDA ME / 62.093.455/0002-37</p>
+  <p class="dou-paragraph" >25351.407830/2014-19 / 7234202</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829409215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA EBENEZER SILVA LTDA / 31.295.728/0001-11</p>
+  <p class="dou-paragraph" >25351.742777/2013-19 / 7070766</p>
+  <p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3842909218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TONDIN E TONDIN DROGARIA LTDA / 35.074.365/0001-45</p>
+  <p class="dou-paragraph" >25351.097383/2020-23 / 7709147</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829415210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >AVIAR MANIPULAÇÃO EIRELI / 72.509.557/0001-63</p>
+  <p class="dou-paragraph" >25351.188526/2002-23 / 0289971</p>
+  <p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3840847213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >IRMÃOS MATTAR E CIA LTDA / 25.102.146/0150-10</p>
+  <p class="dou-paragraph" >25351.601141/2021-28 / 7815551</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829594216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >QUALINORTE COMERCIO DE PRODUTOS HOSPITALARES EIRELI / 39.451.696/0001-08</p>
+  <p class="dou-paragraph" >25351.874032/2021-28 / 8215876</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3776331216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FAITHCARE MEDICAL LTDA / 31.651.640/0001-95</p>
+  <p class="dou-paragraph" >25351.861329/2018-28 / 8176596</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3776264217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA OURO PRETO LTDA / 08.143.052/0001-29</p>
+  <p class="dou-paragraph" >25351.306682/2013-35 / 0934299</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829407219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RAIA DROGASIL S/A / 61.585.865/1577-27</p>
+  <p class="dou-paragraph" >25351.500492/2017-36 / 7539812</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3841394219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ASSÉPTICO PRODUTOS DESCARTÁVEIS LTDA ME / 00.618.346/0001-58</p>
+  <p class="dou-paragraph" >25351.471563/2012-37 / 8088014</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3776166215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PLANO A I COMERCIO DE MEDICAMENTOS LTDA / 28.467.051/0001-47</p>
+  <p class="dou-paragraph" >25351.668703/2017-37 / 7556302</p>
+  <p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3844355214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CSB DROGARIAS S/A / 42.225.938/0027-99</p>
+  <p class="dou-paragraph" >25351.204388/2002-37 / 0154860</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844359217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LIMA &amp;SENA DISTRIBUIDORA DE PRODUTOS ODONTO E MEDICOS HOSPITALARES LTDA / 40.619.828/0001-47</p>
+  <p class="dou-paragraph" >25351.503267/2021-38 / 3104339</p>
+  <p class="dou-paragraph" >732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 3718536218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >L.E.ALMEIDA COMÉRCIO DE PRODUTOS MÉDICOS HOSPITALARES EIRELI - ME / 27.358.419/0001-76</p>
+  <p class="dou-paragraph" >25351.226482/2017-39 / 1166618</p>
+  <p class="dou-paragraph" >7155 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - ENDEREÇO MATRIZ / 3761355211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >LIMA &amp;SENA DISTRIBUIDORA DE PRODUTOS ODONTO E MEDICOS HOSPITALARES LTDA / 40.619.828/0001-47</p>
+  <p class="dou-paragraph" >25351.098245/2021-42 / 8218720</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3718466210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FAXE CARGO - TRANSPORTES E LOGÍSTICA LTDA / 08.755.435/0001-58</p>
+  <p class="dou-paragraph" >25351.710631/2008-47 / 2048711</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3718532212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >lifetech comercial ltda / 07.682.133/0001-34</p>
+  <p class="dou-paragraph" >25351.534934/2017-48 / 8156531</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3761384211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMAX S.A. / 21.759.758/0001-88</p>
+  <p class="dou-paragraph" >25351.144403/2018-48 / 3079884</p>
+  <p class="dou-paragraph" >732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 3761341211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ANGEL FARMA FARMACIA E DROGARIA LTDA / 18.615.544/0001-23</p>
+  <p class="dou-paragraph" >25351.622078/2013-53 / 7020625</p>
+  <p class="dou-paragraph" >70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3861700215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >igapó medicamentos genericos ltda / 10.256.755/0001-05</p>
+  <p class="dou-paragraph" >25351.457511/2014-54 / 7254760</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844368216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DRAKKAR 1 INTERMEDIACAO DE NEGOCIOS EIRELI / 28.855.805/0001-36</p>
+  <p class="dou-paragraph" >25351.578503/2019-55 / 8189997</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3761450214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA OLHE O PRECO EIRELI / 32.273.833/0001-12</p>
+  <p class="dou-paragraph" >25351.077271/2020-56 / 7706842</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844366210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TAGLOG SERVIÇOS LOGÍSTICOS LTDA / 10.635.834/0005-50</p>
+  <p class="dou-paragraph" >25351.396338/2020-59 / 8200059</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3761345216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA CENTRAL DE MEDICAMENTOS LTDA / 11.843.300/0001-59</p>
+  <p class="dou-paragraph" >25351.501773/2014-63 / 7272576</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829411217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA VARGEM ALEGRE LTDA / 41.498.583/0001-00</p>
+  <p class="dou-paragraph" >25351.673225/2021-63 / 7819489</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844372214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >IRMÃOS MATTAR E CIA LTDA / 25.102.146/0153-62</p>
+  <p class="dou-paragraph" >25351.601592/2021-65 / 7817409</p>
+  <p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3829491215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ELIS REGINA KESLER TRUCOLO EIRELI / 04.794.208/0001-80</p>
+  <p class="dou-paragraph" >25351.545333/2020-66 / 4021400</p>
+  <p class="dou-paragraph" >751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3718537214</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMAX S.A. / 21.759.758/0001-88</p>
+  <p class="dou-paragraph" >25351.204085/2005-67 / 8025526</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3761616210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EMILCARDIO PRODUTOS HOSPITALARES LTDA / 01.292.636/0001-17</p>
+  <p class="dou-paragraph" >25351.208118/2004-67 / 8022075</p>
+  <p class="dou-paragraph" >829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3631385218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Apoio Dental Comércio de Produtos e Equipamentos Odontológicos em Geral Ltda / 10.925.214/0001-22</p>
+  <p class="dou-paragraph" >25351.093476/2015-70 / 1135979</p>
+  <p class="dou-paragraph" >7155 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - ENDEREÇO MATRIZ / 3761323212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A.B.S. PRODUTOS HOSPITALARES LTDA. / 02.356.205/0002-10</p>
+  <p class="dou-paragraph" >25351.151513/2016-72 / 8138159</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3718583216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Tecno Comércio de Artigos Médicos Ereli / 22.516.109/0001-19</p>
+  <p class="dou-paragraph" >25351.369126/2021-80 / 8222308</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3718429217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JUNIOR MEDICAMENTOS LTDA / 15.007.158/0001-60</p>
+  <p class="dou-paragraph" >25351.189276/2014-82 / 7157391</p>
+  <p class="dou-paragraph" >70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3758781211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ELITE CIRÚRGICA COMÉRCIO DE MATERIAL HOSPITALAR EIRELI ME. / 10.957.159/0001-52</p>
+  <p class="dou-paragraph" >25351.179329/2014-91 / 8103901</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3718423219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ARTVEND RIO COMERCIO E SERVIÇOS LTDA / 03.770.754/0001-19</p>
+  <p class="dou-paragraph" >25351.654765/2012-91 / 8090523</p>
+  <p class="dou-paragraph" >866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3718563215</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ELAINE CARVALHO DE SOUZA EIRELI - ME / 07.894.229/0001-66</p>
+  <p class="dou-paragraph" >25351.725861/2015-94 / 8131758</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3776208210</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A BORGES DOS SANTOS / 39.529.682/0001-60</p>
+  <p class="dou-paragraph" >25351.684419/2021-94 / 7831227</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844376217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA AVIAÇÃO ARAÇATUBA LTDA / 11.137.002/0001-43</p>
+  <p class="dou-paragraph" >25351.678811/2013-94 / 7048132</p>
+  <p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3844357211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >L. CESTARI INDUSTRIA E COMERCIO DE COSMETICOS LTDA ME / 08.086.033/0001-08</p>
+  <p class="dou-paragraph" >25351.588120/2019-95 / 4014811</p>
+  <p class="dou-paragraph" >7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3761596219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Costa Comércio Varejista de Medicamentos LTDA ME / 09.174.398/0001-57</p>
+  <p class="dou-paragraph" >25351.234709/2018-95 / 7583293</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844364213</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >J DOS S OLIVEIRA ME / 10.948.835/0001-21</p>
+  <p class="dou-paragraph" >25351.072502/2014-97 / 7106700</p>
+  <p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3844361219</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA ZENVAL LTDA / 13.274.717/0001-73</p>
+  <p class="dou-paragraph" >25351.447939/2014-99 / 7250541</p>
+  <p class="dou-paragraph" >70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3878477217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMAX S.A. / 21.759.758/0001-88</p>
+  <p class="dou-paragraph" >25351.002067/01-75 / 2031228</p>
+  <p class="dou-paragraph" >724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 3761614217</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ZAMMI INSTRUMENTAL EIRELI / 30.450.803/0001-09</p>
+  <p class="dou-paragraph" >25001.007313/83 / 1021635</p>
+  <p class="dou-paragraph" >867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3718519216</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMAX S.A. / 21.759.758/0001-88</p>
+  <p class="dou-paragraph" >25000.016645/98-27 / 1036474</p>
+  <p class="dou-paragraph" >7143 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - INDÚSTRIA - RAZÃO SOCIAL / 3761615213</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

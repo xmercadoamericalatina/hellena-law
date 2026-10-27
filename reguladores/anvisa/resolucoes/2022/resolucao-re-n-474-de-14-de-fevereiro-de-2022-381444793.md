@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 474, DE 14 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "474"
+data: 2022-02-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/02/2022, seção 1, p. 110"
+data_publicacao: 2022-02-21
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-474-de-14-de-fevereiro-de-2022-381444793"
+sha256_html_fonte: 90adf6bf46eee4705edbee46bbe71254de216b8dabd6f81b2abbcb4b3724c04b
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 474, DE 14 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE Nº 474, DE 14 DE FEVEREIRO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituto, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse de Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ARTHUR LEONARDO LOPES DA SILVA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: LAVNOS SERVICE LTDA
+
+ENDEREÇO: RUA DOS CARMELITAS Nº 48
+
+BAIRRO: TRAPIA II
+
+MUNICÍPIO: CARMÓPOLIS
+
+UF: SE
+
+CEP: 49740-000
+
+CNPJ: 34.056.905/0001-03
+
+PROCESSO Nº: 25351.677077/2021-56 ( EXP: 4355121/21-6)
+
+AUTORIZ/MS: 909805-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: QUANTICA SHIPPING AGENCY LTDA
+
+ENDEREÇO: R. ALMIRANTE BARROSO, Nº 166, APT 22
+
+BAIRRO: CAMPO GRANDE
+
+MUNICÍPIO: SANTOS
+
+UF: SP
+
+CEP: 11.075-440
+
+CNPJ: 44.297.676/0001-64
+
+PROCESSO Nº: 25351.976832/2021-82 ( EXP. 4856090/21-6)
+
+AUTORIZ/MS: 9.09806-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: H2O LOCAÇÕES E SERVIÇOS LTDA
+
+ENDEREÇO: RUA GROTAS, Nº 210, SALA 02
+
+BAIRRO: VILA MARANHÃO
+
+MUNICÍPIO: SÃO LUÍS
+
+UF: MA
+
+CEP: 65091-236
+
+CNPJ: 10.537.511/0001-09
+
+PROCESSO Nº: 25351.633381/2021-91 ( EXP: 4264694/21-3)
+
+AUTORIZ/MS: 9.09798-0
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: VIX TRANSPORTES DEDICADOS LTDA
+
+ENDEREÇO: AV. MARIO GURGEL, Nº 5030, SETOR CENTRO ADM AB SALA 105
+
+BAIRRO: VILA CAPIXABA
+
+MUNICÍPIO: CARIACICA
+
+UF: ES
+
+CEP: 29145-901
+
+CNPJ: 09.452.900/0001-44
+
+PROCESSO Nº: 25748.000003/2022-54 ( EXP;0082018/22-7)
+
+AUTORIZ/MS: 9.09807-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: ESGOTEC SERVIÇOS DE TRANSPORTES LTDA
+
+ENDEREÇO: RUA PAJURAZINHO Nº 625 - GLEBA - AE3
+
+BAIRRO: DISTRITO INDUSTRIAL II
+
+MUNICÍPIO: MANAUS
+
+UF: AM
+
+CEP: 69007-410
+
+CNPJ: 07.402.200/0001-10
+
+PROCESSO Nº: 25758.003702/2022-37 ( EXP:0258334/22-3)
+
+AUTORIZ/MS: 9.09808-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E RECOLHIMENTO DE RESÍDUOS RESULTANTES DO TRATAMENTO DE ÁGUAS SERVIDAS E DEJETOS EM TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;

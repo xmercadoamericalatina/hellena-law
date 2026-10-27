@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 362, de 6 de FEVEREIRO de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "362"
+data: 2020-02-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/02/2020, seção 1, p. 128"
+data_publicacao: 2020-02-10
+edicao: "28"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-362-de-6-de-fevereiro-de-2020-242335427"
+sha256_html_fonte: 99dc3839e339d7104b3ee25443ae48ce3c5b61aecbbd40f69e5db12ecf916b75
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 362, de 6 de FEVEREIRO de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 362, de 6 de FEVEREIRO de 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: DROGARIA SANTOS BAIÃO LTDA</p><p class="dou-paragraph" >ENDEREÇO: PRACA TENENTE MOL Nº 32 LOJA 02</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 35390000 - JEQUERI/MG</p><p class="dou-paragraph" >CNPJ: 05.769.814/0001-09</p><p class="dou-paragraph" >PROCESSO: 25351.467592/2014-09</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: O endereço solicitado é o mesmo para o qual a empresa obteve a concessão da AFE nº 7.25906-5, não havendo motivação para alteração de endereço.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: ALVES E PAULO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA CABO JOAO DOS SANTOS 161</p><p class="dou-paragraph" >BAIRRO: RIBEIRAO CEP: 13904025 - AMPARO/SP</p><p class="dou-paragraph" >CNPJ: 25.206.693/0001-02</p><p class="dou-paragraph" >PROCESSO: 25351.459841/2016-46</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: KRAUSE &amp; KRAUSE LTDA</p><p class="dou-paragraph" >ENDEREÇO: AV MINAS GERAIS 4807</p><p class="dou-paragraph" >BAIRRO: CIDADE ALTA CEP: 76954000 - ALTA FLORESTA D'OESTE/RO</p><p class="dou-paragraph" >CNPJ: 33.265.750/0001-44</p><p class="dou-paragraph" >PROCESSO: 25351.012492/2020-89</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: ANILTON SEGOBIA CRUZ ME</p><p class="dou-paragraph" >ENDEREÇO: AV DILSON CASAROTTO 268</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 79750000 - NOVA ANDRADINA/MS</p><p class="dou-paragraph" >CNPJ: 15.039.660/0001-53</p><p class="dou-paragraph" >PROCESSO: 25351.189052/2013-90</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: CASTRO &amp; CIA. LTDA</p><p class="dou-paragraph" >ENDEREÇO: AV DOUTOR JOSE DE MAGALHAES PINTO, 1179, LOJA 03</p><p class="dou-paragraph" >BAIRRO: GIOVANINI CEP: 35170096 - CORONEL FABRICIANO/MG</p><p class="dou-paragraph" >CNPJ: 31.599.349/0001-15</p><p class="dou-paragraph" >PROCESSO: 25351.724739/2018-99</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

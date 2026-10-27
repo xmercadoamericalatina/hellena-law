@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.469, DE 15 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "2469"
+data: 2020-07-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/07/2020, seção 1, p. 86"
+data_publicacao: 2020-07-16
+edicao: "135"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.469-de-15-de-julho-de-2020-267032179"
+sha256_html_fonte: bcb744da3518f50a503eff87eb8aaee1bfc216490a530820ed2365d05c2ef1f2
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.469, DE 15 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.469, DE 15 DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p><p class="dou-paragraph" >MEDICAMENTO EXPERIMENTAL</p><p class="dou-paragraph" >CE</p><p class="dou-paragraph" >NÚMERO DO PROCESSO EXPEDIENTE</p><p class="dou-paragraph" >ASSUNTO DA PETIÇÃO</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI MEDLEY FARMACÊUTICA LTDA. - 10.588.595/0010-92</p><p class="dou-paragraph" >SAR443122</p><p class="dou-paragraph" >55/2020</p><p class="dou-paragraph" >25351.550968/2020-85 1910490/20-1</p><p class="dou-paragraph" >10750 - ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) - Sintético</p><p class="dou-paragraph" >25351.647018/2020-72 2213864/20-1</p><p class="dou-paragraph" >10482 - ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica - Medicamentos Sintéticos</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >RESOLUTION LATIN AMERICA PESQUISA CLÍNICA LTDA - 14.946.877/0001-84</p><p class="dou-paragraph" >Maralixibat</p><p class="dou-paragraph" >56/2020</p><p class="dou-paragraph" >25351.235707/2020-38 0962078/20-8</p><p class="dou-paragraph" >10751 - ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) de ORPCs - Sintético</p><p class="dou-paragraph" >25351.261330/2020-72 1035367/20-4</p><p class="dou-paragraph" >10482 - ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica - Medicamentos Sintéticos</p><p class="dou-paragraph" >25351.330299/2020-27 1248036/20-3</p><p class="dou-paragraph" >10483 - ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica de ORPC's - Medicamentos Sintéticos</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >MERCK SHARP &amp; DOHME FARMACEUTICA LTDA - 45.987.013/0001-34</p><p class="dou-paragraph" >Vacina 9-Valente do Papilomavírus Humano, Recombinante (V503)</p><p class="dou-paragraph" >54/2020</p><p class="dou-paragraph" >25351.079778/2020-44 0363494/20-9</p><p class="dou-paragraph" >10754 - ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desenvolvimento Clínico de Medicamento (DDCM) - Produtos Biológicos</p><p class="dou-paragraph" >25351.162634/2020-58 0713420/20-7</p><p class="dou-paragraph" >10479 - ENSAIOS CLÍNICOS - Anuência em Processo de Pesquisa Clínica - Produtos Biológicos</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >ASTRAZENECA DO BRASIL LTDA - 60.318.797/0001-00</p><p class="dou-paragraph" >Dapagliflozina propanediol</p><p class="dou-paragraph" >24/2017</p><p class="dou-paragraph" >25351.344355/2018-96 0527820/20-1</p><p class="dou-paragraph" >10824 - ENSAIOS CLÍNICOS - Emenda Substancial a Protocolo Clínico</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >QUINTILES BRASIL LTDA - 02.529.870/0001-88</p><p class="dou-paragraph" >bintrafuspe alfa</p><p class="dou-paragraph" >38/2019</p><p class="dou-paragraph" >25351.733370/2019-96 3518387/19-0</p><p class="dou-paragraph" >10818 - ENSAIOS CLÍNICOS - Modificação de DDCM - Inclusão de protocolo de ensaio clínico não previsto no plano inicial de desenvolvimento</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 944, DE 2 DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "944"
+data: 2020-04-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2020, seção 1, p. 126"
+data_publicacao: 2020-04-06
+edicao: "66"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-944-de-2-de-abril-de-2020-251283512"
+sha256_html_fonte: 0d4039db948803b39c20c2bd9ca275a096f5acbfaaac75a70836703f5f3419e7
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 944, DE 2 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 944, DE 2 DE ABRIL DE 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: ORGANIZAÇÃO FARMACEUTICA NAKANO LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA CAPITÃO PUCCI, 539</p><p class="dou-paragraph" >BAIRRO: LAJEADO CEP: 08450000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 03.123.210/0027-02</p><p class="dou-paragraph" >PROCESSO: 25351.600202/2018-34</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DROGARIA BOLSONI NOVA PARADA LTDA.</p><p class="dou-paragraph" >ENDEREÇO: AV. ELISIO TEIXEIRA LEITE Nº 6741</p><p class="dou-paragraph" >BAIRRO: PARADA DE TAIPAS CEP: 02810000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 04.203.000/0001-40</p><p class="dou-paragraph" >PROCESSO: 25351.181189/2002-43</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não cumprimento da exigência formulada sob o número de notificação 2110848/19-0, contrariando os artigos 6º e 11 da RDC nº 204/2005.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DROGARIA MORO LTDA</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA PRESIDENTE VARGAS, 1353 COMERCIAL</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 97015511 - SANTA MARIA/RS</p><p class="dou-paragraph" >CNPJ: 05.881.868/0001-61</p><p class="dou-paragraph" >PROCESSO: 25351.152686/2014-78</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação da declaração assinada do Anexo I da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DROGALIRA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA. ME</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA SAO PAULO, Nº 804</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 16370000 - PARAPUÃ/SP</p><p class="dou-paragraph" >CNPJ: 08.017.794/0001-08</p><p class="dou-paragraph" >PROCESSO: 25351.441815/2006-90</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: FARMA CLINIC FARMACIA E PERFUMARIA LTDA</p><p class="dou-paragraph" >ENDEREÇO: R TOBIAS BARRETO, 803</p><p class="dou-paragraph" >BAIRRO: mooca CEP: 03176000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 06.323.433/0001-64</p><p class="dou-paragraph" >PROCESSO: 25351.578113/2013-90</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO: Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >_ _ _ _ _ _ _ _ _ _ _ _</p><p class="dou-paragraph" >Total de Empresas: 5</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

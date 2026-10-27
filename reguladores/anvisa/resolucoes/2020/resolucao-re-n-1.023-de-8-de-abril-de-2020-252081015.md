@@ -1,0 +1,234 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.023, DE 8 DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1023"
+data: 2020-04-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/04/2020, seção 1, p. 70"
+data_publicacao: 2020-04-13
+edicao: "70"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.023-de-8-de-abril-de-2020-252081015"
+sha256_html_fonte: 99bd63bc51a5c209979a1c2594fc90f6d9800b172d0b78dbdcec0a5d817e5eea
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 1.023, DE 8 DE ABRIL DE 2020
+
+RESOLUÇÃO-RE Nº 1.023, DE 8 DE ABRIL DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LTD.
+
+ENDEREÇO: PLOT Nº. E-37/39, MIDC, SATPUR, NASIK 422 007 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0282
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 2265143/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: KNOLL LLC
+
+ENDEREÇO: ROAD 144, KM. 2.6, JAYUYA - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.0007
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 2255771/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Hormônios) (Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: GÄRTUNAVÄGEN, SÖDERTÄLJE, 151 85 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.0046
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2513969/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE MANUFACTURING S.P.A.
+
+ENDEREÇO: STRADA PROVINCIALE ASOLANA Nº 90 (LOC. SAN POLO), 43056 TORRILE (PR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0276
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1829169/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 85 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.0047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2513932/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA: hipolabor farmacêutica ltda - CNPJ: 19.570.720/0007-06 - AUTORIZ/MS: 1013430
+
+ENDEREÇO: av das industrias, 263
+
+MUNICÍPIO: MONTES CLAROS - UF: MG - EXPEDIENTE: 0581618/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 85 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.0047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2513952/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: GÄRTUNAVÄGEN, SÖDERTÄLJE, 151 85 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.0046
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 2513945/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: GLENMARK PHARMACEUTICALS LTD.
+
+ENDEREÇO: PLOT Nº. E-37/39, MIDC, SATPUR, NASIK 422 007 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0282
+
+EMPRESA SOLICITANTE: GLENMARK FARMACÊUTICA LTDA - CNPJ: 44.363.661/0001-57
+
+AUTORIZ/MS: 1010130 - EXPEDIENTE(s): 2265141/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA: hipolabor farmacêutica ltda - CNPJ: 19.570.720/0007-06 - AUTORIZ/MS: 1013430
+
+ENDEREÇO: av das industrias, 263
+
+MUNICÍPIO: MONTES CLAROS - UF: MG - EXPEDIENTE: 0581615/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: GENENTECH, INC.
+
+ENDEREÇO: 1 DNA WAY, SOUTH SAN FRANCISCO, CA 94080 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0246
+
+EMPRESA SOLICITANTE: Instituto de Tecnologia do Paraná - CNPJ: 77.964.393/0001-88
+
+AUTORIZ/MS: 1009605 - EXPEDIENTE(s): 2132454/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: RECORDATI RARE DISEASES
+
+ENDEREÇO: ECO RIVER PARC 30 RUE DES PEUPLIERS, NANTERRE, 92000 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.1373
+
+EMPRESA SOLICITANTE: RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - CNPJ: 53.056.057/0001-79
+
+AUTORIZ/MS: 1171267 - EXPEDIENTE(s): 0581620/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL MEDICARE LIMITED
+
+ENDEREÇO: SURVEY N° 22 & 24, VILLAGE - UJETI, POST - BASKA - TAL - HALOL, DIST PANCHMAHAL - 389 350, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0755
+
+EMPRESA SOLICITANTE: RANBAXY FARMACÊUTICA LTDA - CNPJ: 73.663.650/0001-90
+
+AUTORIZ/MS: 1023528 - EXPEDIENTE(s): 0488835/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0345
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 0538633/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos): Pós Liofilizados
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: INDUSTRIAL AREA 3 A.B. ROAD, DEWAS, 455 001, MADHYA PRADESH - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0520
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 3520468/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: CENTRO DE INMUNOLOGIA MOLECULAR (CIM)
+
+ENDEREÇO: CALLE 216 Y ESQUINA 15, REPARTO ATABEY, PLAYA, LA HABANA - PAÍS: CUBA - CÓDIGO ÚNICO: A.0150
+
+EMPRESA SOLICITANTE: EUROFARMA LABORATÓRIOS S.A. - CNPJ: 61.190.096/0001-92
+
+AUTORIZ/MS: 1000438 - EXPEDIENTE(s): 0202607/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0257
+
+EMPRESA SOLICITANTE: SANVAL COMÉRCIO E INDÚSTRIA LTDA - CNPJ: 61.068.755/0001-12
+
+AUTORIZ/MS: 1007146 - EXPEDIENTE(s): 3411942/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.081, DE 23 DE jUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2081"
+data: 2020-06-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/06/2020, seção 1, p. 93"
+data_publicacao: 2020-06-25
+edicao: "120"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.081-de-23-de-junho-de-2020-263400325"
+sha256_html_fonte: 4757093c6ea513bfa98a3c6276a819f6313a45848b9e310adc375ab8cffef8e8
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 2.081, DE 23 DE jUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 2.081, DE 23 DE jUNHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >V B DE L SOUSA LTDA / 035.841.452/0001-80</p><p class="dou-paragraph" >25351.546200/2020-15 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1896607201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMAPOP DROAGARIA LTDA / 002.685.175/0001-05</p><p class="dou-paragraph" >25351.555420/2020-21 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1923980207</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >A empresa já possui autorização vigente, nº 0.04533-8, contrariando o disposto na RDC nº 222/2006, Resolução RDC nº 275/2019 e Lei 9.782/99.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA ME FARMA LTDA / 036.698.238/0001-80</p><p class="dou-paragraph" >25351.550997/2020-47 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1910590208</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ferraz farma comercial ltda / 008.977.640/0003-20</p><p class="dou-paragraph" >25351.550984/2020-78 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1910564209</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ESUIT - DROGARIA SINDICAL EIRELI / 036.504.309/0001-66</p><p class="dou-paragraph" >25351.555405/2020-83 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1923950205</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIA MULT TUDO LTDA / 032.109.304/0001-88</p><p class="dou-paragraph" >25351.550982/2020-89 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1910560206</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

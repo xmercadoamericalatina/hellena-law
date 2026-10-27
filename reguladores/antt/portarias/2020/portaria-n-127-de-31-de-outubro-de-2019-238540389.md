@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 127, DE 31 DE OUTUBRO DE 2019"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Terrestres/Superintendência de Serviços de Transportes de Passageiros"
+tipo: "Portaria"
+numero: "127"
+data: 2019-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/01/2020, seção 1, p. 75"
+data_publicacao: 2020-01-17
+edicao: "12"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-127-de-31-de-outubro-de-2019-238540389"
+sha256_html_fonte: b119efeaf65095db0c48a4d5a396537dfc0af253d6a0e52c80c8729b31c36684
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 127, DE 31 DE OUTUBRO DE 2019
+
+PORTARIA Nº 127, DE 31 DE OUTUBRO DE 2019
+
+O SUPERINTENDENTE DE SERVIÇOS DE TRANSPORTE DE PASSAGEIROS DA AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, no uso de suas atribuições, previstas no art. 40 do anexo da Resolução nº 5.810, de 03 de maio de 2018 e no que dispõe o art. 42 da Resolução nº. 5285, de 09 de fevereiro de 2017 e fundamentado no Processo nº 50500.319911/2019-63, resolve:
+
+**Art. 1º** Deferir o pedido da empresa TRANSBRAZ LTDA, CNPJ nº 03.456.707/0001-03, para a supressão da linha SÃO JOSÉ DO EGITO (PE) - CAMPINA GRANDE (PB) prefixo nº 04-0041-00.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+João Paulo de Souza

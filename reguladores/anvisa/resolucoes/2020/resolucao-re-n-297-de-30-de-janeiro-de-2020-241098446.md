@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 297, DE 30 DE JANEIRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "297"
+data: 2020-01-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/02/2020, seção 1, p. 128"
+data_publicacao: 2020-02-03
+edicao: "23"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-297-de-30-de-janeiro-de-2020-241098446"
+sha256_html_fonte: ac2ef5ead818d6c2c8c0d46669133322eb3064a5e78ba32fda0b5b4d2332d4a0
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 297, DE 30 DE JANEIRO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 297, DE 30 DE JANEIRO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes do anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: APOTHEKE FARMÁCIA DE MANIPULAÇÃO E DROGARIA LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA 279, nº 4975, SALA 11, ED. LAS VEGAS</p><p class="dou-paragraph" >BAIRRO: MEIA PRAIA CEP: 88220000 - ITAPEMA/SC</p><p class="dou-paragraph" >CNPJ: 31.368.733/0001-07</p><p class="dou-paragraph" >PROCESSO: 25351.338793/2019-04</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19842-2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: IMIRIM FARMACIA DE MANIPULACAO LTDA EPP</p><p class="dou-paragraph" >ENDEREÇO: RUA BRIGADEIRO GAVIÃO PEIXOTO, 262</p><p class="dou-paragraph" >BAIRRO: LAPA CEP: 05078000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 06.038.937/0002-13</p><p class="dou-paragraph" >PROCESSO: 25351.739010/2019-06</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19761-2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: B&amp;B Manipulação e Cosméticos Ltda</p><p class="dou-paragraph" >ENDEREÇO: Rua Marechal Deodoro, 1205</p><p class="dou-paragraph" >BAIRRO: Centro CEP: 96020220 - PELOTAS/RS</p><p class="dou-paragraph" >CNPJ: 34.565.001/0001-03</p><p class="dou-paragraph" >PROCESSO: 25351.731838/2019-16</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19871-2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: BOTIPHARMA COM. DE MEDICAMENTOS LTDA.</p><p class="dou-paragraph" >ENDEREÇO: RUA 7 DE SETEMBRO nº 341, QD.42 LT.01</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 77600000 - PARAÍSO DO TOCANTINS/TO</p><p class="dou-paragraph" >CNPJ: 34.714.304/0001-32</p><p class="dou-paragraph" >PROCESSO: 25351.739011/2019-42</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19760-9</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: s &amp; a FARMACÊUTICA LTDA</p><p class="dou-paragraph" >ENDEREÇO: av.CARANDAÍ 58</p><p class="dou-paragraph" >BAIRRO: SANTA EFIGÊNIA CEP: 30130060 - BELO HORIZONTE/MG</p><p class="dou-paragraph" >CNPJ: 09.037.876/0001-87</p><p class="dou-paragraph" >PROCESSO: 25351.040062/2020-57</p><p class="dou-paragraph" >AUTORIZ/MS: 1.19856-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >_ _ _ _ _ _ _ _ _ _ _ _</p><p class="dou-paragraph" >Total de Empresas: 5</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

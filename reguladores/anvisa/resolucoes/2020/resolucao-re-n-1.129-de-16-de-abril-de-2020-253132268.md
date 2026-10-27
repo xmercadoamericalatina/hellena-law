@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.129, DE 16 DE ABRIL DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1129"
+data: 2020-04-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2020, seção 1, p. 178"
+data_publicacao: 2020-04-20
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.129-de-16-de-abril-de-2020-253132268"
+sha256_html_fonte: 67d4dea59c35dc60e5b9ccf36a7a79dc43f830417a1e40f25027607aef978727
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.129, DE 16 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.129, DE 16 DE ABRIL DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos dispostos no art. 43, da Resolução de Diretoria Colegiada - RDC nº 39, de 14 de agosto de 2013, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Produtos para Saúde por meio de sua renovação automática.</p><p class="dou-paragraph" >Art. 2º A presente certificação terá validade de 2 (dois) anos a partir de sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Empresa: 3M do Brasil Ltda. CNPJ: 45.985.371/0001-08</p><p class="dou-paragraph" >Endereço: Rodovia Anhanguera, Km 110, Jardim Manchester, Sumaré/SP CEP: 13001-970</p><p class="dou-paragraph" >Autorização: 8.02.849-3 Expediente: 2131485/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >-------------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: AGF Medical Ltda. CNPJ: 09.511.423/0001-40</p><p class="dou-paragraph" >Endereço: Rua Gonçalves Ledo n. 1414, Centro, Fortaleza/CE CEP: 60110-261</p><p class="dou-paragraph" >Autorização: 8.07.051-7 Expediente: 1996141/19-8</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >-------------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: CMS Produtos Hospitalares Ltda. CNPJ: 03.301.390/0001-28</p><p class="dou-paragraph" >Endereço: R 06 c/ Rua 18 c/ Rua 19, Quadra 21, Lotes 1 e 44, Sala 02 S/N, Polo Empresarial de Goiás, Aparecida de Goiânia/GO CEP: 74985-105</p><p class="dou-paragraph" >Autorização: 8.00.653-2 Expediente: 2066638/19-6</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >-------------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: CMS Produtos Médicos Ltda. CNPJ: 01.476.143/0001-37</p><p class="dou-paragraph" >Endereço: Rua 06 S/N C/ Rua 18 C/ Rua 19 Quadra 21 Lote 01 e 44 - Sala 01- Plo Empresarial Goiás, Aparecida de Goiânia/GO CEP: 74985-105</p><p class="dou-paragraph" >Autorização: 1.03.276-2 Expediente: 2066640/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >-------------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: Ortomed Pró Hospitalar Comércio e Representação Ltda. CNPJ: 73.123.903/0001-33</p><p class="dou-paragraph" >Endereço: Avenida Washington Luiz, 432, Jd. Emília, Sorocaba/SP CEP: 18031-000</p><p class="dou-paragraph" >Autorização: 8.01.878-7 Expediente: 2165165/19-9</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

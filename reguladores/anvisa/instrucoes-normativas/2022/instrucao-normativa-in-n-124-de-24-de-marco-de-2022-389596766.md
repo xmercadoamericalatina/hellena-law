@@ -1,0 +1,48 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA - IN N° 124, DE 24 DE MARÇO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Diretoria Colegiada"
+tipo: "Instrução Normativa"
+numero: "124"
+data: 2022-03-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/03/2022, seção 1, p. 295"
+data_publicacao: 2022-03-30
+edicao: "61"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-in-n-124-de-24-de-marco-de-2022-389596766"
+sha256_html_fonte: 48134e391d3c7ff47a7a3477d7ac883d5706cf7c1b77c855039c1ec44c438605
+baixado_em: 2026-10-20
+---
+# INSTRUÇÃO NORMATIVA - IN N° 124, DE 24 DE MARÇO DE 2022
+
+INSTRUÇÃO NORMATIVA - IN N° 124, DE 24 DE MARÇO DE 2022
+
+Estabelece a "Lista de ativos permitidos em produtos cosméticos para alisar ou ondular os cabelos" com requisitos para seu uso, nos termos da Resolução de Diretoria Colegiada - RDC n° 409, de 27 de julho de 2020.
+
+A Diretoria Colegiada Da Agência Nacional De Vigilância Sanitária, no uso das competências que lhe conferem os arts. 7º, inciso III e IV, e 15, incisos III e IV da Lei nº 9.782, de 26 de janeiro de 1999, e considerando o disposto no art. 187, VII e §§ 1º e 3º, do Regimento Interno, aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve adotar a seguinte Instrução Normativa, conforme deliberado em reunião realizada em 23 de março de 2022, e eu, Diretor Presidente, determino a sua publicação:
+
+**Art. 1º** Esta Instrução Normativa estabelece, em Anexo, a "Lista de ativos permitidos em produtos cosméticos para alisar ou ondular os cabelos" com requisitos para seu uso, nos termos da Resolução de Diretoria Colegiada - RDC nº 409, de 27 de julho de 2020.
+
+**Art. 2º** Ficam revogadas as seguintes normas:
+
+I - Instrução Normativa - IN n° 64, de 27 de julho de 2020; e
+
+II - Instrução Normativa - IN n° 98, de 23 de junho de 2021.
+
+**Art. 3º** Esta Instrução Normativa entra em vigor em 2 de maio de 2022.
+
+ANTONIO BARRA TORRES
+
+Diretor-Presidente
+
+## ANEXO
+
+LISTA DE ATIVOS PERMITIDOS EM PRODUTOS COSMÉTICOS PARA ALISAR OU ONDULAR OS CABELOS
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº</p></td>      <td rowspan="1" colspan="1"><p>ATIVO</p></td>      <td rowspan="1" colspan="1"><p>NOMENCLATURA INTERNACIONAL DE INGREDIENTE COSMÉTICO (INCI) DO ATIVO</p></td>      <td rowspan="1" colspan="1"><p>CONCENTRAÇÃO MÁXIMA E/OU pH AUTORIZADOS NO PRODUTO PRONTO PARA USO</p></td>      <td rowspan="1" colspan="1"><p>ADVERTÊNCIAS QUE DEVEM CONSTAR NO RÓTULO DO PRODUTO ACABADO</p></td>      <td rowspan="1" colspan="1"><p>OUTROS REQUISITOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Ácido tioglicólico e seus sais</p></td>      <td rowspan="1" colspan="1"><p>AMMONIUM THIOGLYCOLATE, CALCIUM THIOGLYCOLATE, CALCIUM THIOGLYCOLATE HYDROXIDE, ETHANOLAMINE THIOGLYCOLATE, MAGNESIUM THIOGLYCOLATE, POTASSIUM THIOGLYCOLATE, SODIUM THIOGLYCOLATE, STRONTIUM THIOGLYCOLATE, THIOGLYCOLIC ACID</p></td>      <td rowspan="1" colspan="1"><p>1-Uso geral: 8%, pH 7 a 9,5.</p><p>2-Uso profissional: 11%, pH 7 a 9,5.</p><p>(porcentagens calculadas como ácido tioglicólico)</p></td>      <td rowspan="1" colspan="1"><p>No MODO DE USO devem constar obrigatoriamente as seguintes informações:</p><p>- Evitar contato com os olhos.</p><p>-Em caso de contato, enxaguar com água imediata e abundantemente e procurar um médico.</p><p>-Usar luvas adequadas.</p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Outras advertências:</p><p>-Contém sais de ácido tioglicólico.</p><p>-Seguir as instruções de uso.</p><p>-Manter fora do alcance de crianças.</p><p>-Só para uso profissional (quando for o caso).</p></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Ésteres do ácido tioglicólico</p></td>      <td rowspan="1" colspan="1"><p>BUTYL THIOGLYCOLATE, ETHYL THIOGLYCOLATE, GLYCERYL THIOGLYCOLATE, ISOOCTYL THIOGLYCOLATE, ISOPROPYL THIOGLYCOLATE, METHYL THIOGLYCOLATE</p></td>      <td rowspan="1" colspan="1"><p>1-Uso geral: 8%, pH 6 a 9,5;</p><p>2-Uso profissional: 11%, pH 6 a 9,5</p><p>(porcentagens calculadas como ácido tioglicólico)</p></td>      <td rowspan="1" colspan="1"><p>No MODO DE USO devem constar obrigatoriamente as seguintes informações:</p><p>-Pode causar sensibilização por contato com a pele.</p><p>-Evitar contato com os olhos.</p><p>-No caso de contato com os olhos, lavar com água imediata e abundantemente e consultar um médico.</p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>-Usar luvas adequadas.</p><p>Outras advertências:</p><p>-Contém ésteres de ácido tioglicólico.</p><p>-Seguir as instruções de uso.</p><p>-Manter fora do alcance de crianças.</p><p>-Só para uso profissional (quando for o caso).</p></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Hidróxido de sódio ou potássio</p></td>      <td rowspan="1" colspan="1"><p>SODIUM HYDROXIDE, POTASSIUM HYDROXIDE</p></td>      <td rowspan="1" colspan="1"><p>1-Uso geral: 2% em massa.</p><p>2-Uso profissional: 4,5% em massa.</p><p>A soma dos hidróxidos é calculada em massa como hidróxido de sódio.</p></td>      <td rowspan="1" colspan="1"><p>-Contém álcali.</p><p>-Evitar contato com os olhos. Pode causar cegueira.</p><p>-Manter fora do alcance de crianças.</p><p>-Só para uso profissional (quando for o caso).</p></td>      <td rowspan="1" colspan="1"><p>-Podem ser utilizadas isoladamente ou misturadas entre si desde que a soma destas substâncias não exceda a concentração máxima autorizada para cada uma delas.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Hidróxido de Lítio</p></td>      <td rowspan="1" colspan="1"><p>LITHIUM HYDROXIDE</p></td>      <td rowspan="1" colspan="1"><p>1-Uso geral: 2% em massa.</p><p>2-Uso profissional: 4,5% em massa.</p><p>A concentração de hidróxido de lítio é calculada em peso de hidróxido de sódio. No caso de misturas, a soma não deve exceder a concentração máxima autorizada.</p></td>      <td rowspan="1" colspan="1"><p>1 - Contém álcali.</p><p>-Evitar contato com os olhos.</p><p>-Pode causar cegueira.</p><p>-Manter fora do alcance de crianças.</p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>2 - Só para uso profissional.</p><p>-Contém álcali.</p><p>-Evitar contato com os olhos.</p><p>-Pode causar cegueira</p></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>Hidróxido de Cálcio</p></td>      <td rowspan="1" colspan="1"><p>CALCIUM HYDROXIDE</p></td>      <td rowspan="1" colspan="1"><p>7% em peso como hidróxido de cálcio</p></td>      <td rowspan="1" colspan="1"><p>-Contém álcali.</p><p>-Evitar contato com os olhos.</p><p>-Pode causar cegueira.</p><p>-Manter fora do alcance de crianças.</p></td>      <td rowspan="1" colspan="1"><p>-Alisante para cabelos contendo dois componentes: hidróxido de cálcio e um sal de guanidina</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>Sulfitos e bissulfitos inorgânicos</p></td>      <td rowspan="1" colspan="1"><p>AMMONIUM BISULFITE, AMMONIUM SULFITE, POTASSIUM METABISULFITE, POTASSIUM SULFITE, SODIUM BISULFITE, SODIUM METABISULFITE, SODIUM SULFITE</p></td>      <td rowspan="1" colspan="1"><p>6,7% expressos em SO2 livre</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>Pirogalol</p></td>      <td rowspan="1" colspan="1"><p>PYROGALLOL</p></td>      <td rowspan="1" colspan="1"><p>3%, até pH 3,5.</p></td>      <td rowspan="1" colspan="1"><p>No MODO DE USO deve constar, logo após o tempo de</p><p>pausa do produto nos cabelos, a etapa:</p><p>- Enxágue com água em abundância até a remoção completa do produto.</p><p>Outras advertências:</p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>-Este produto pode causar irritação ou alergia.</p><p>-Contém Pirogalol.</p><p>-Não utilizar nos cílios, sobrancelhas e buço.</p><p>-Manter fora do alcance das crianças.</p><p>-Usar luvas adequadas.</p><p>-Alisa e tinge os cabelos.</p></td>      <td rowspan="1" colspan="1"></td>     </tr>    </tbody>   </table>
+
+Notas:
+
+1\. A coluna com as nomenclaturas internacionais de ingredientes cosméticos (INCI) dos ativos não contempla todas as nomenclaturas INCI existentes, portanto, podem existir outras que não constam nesta lista.
+
+2\. O valor de casas decimais não expressas para concentrações e pH presentes nesta lista é "zero".

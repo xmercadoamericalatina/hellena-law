@@ -1,0 +1,162 @@
+---
+titulo: "RESOLUÇÃO RE Nº 772, DE 10 DE Março DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "772"
+data: 2022-03-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/03/2022, seção 1, p. 120"
+data_publicacao: 2022-03-14
+edicao: "49"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-772-de-10-de-marco-de-2022-385486369"
+sha256_html_fonte: 88ef6770de00a912846716de80d0a1c6b6da82a42b4636994778e91dd6a1401b
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 772, DE 10 DE Março DE 2022
+
+RESOLUÇÃO RE Nº 772, DE 10 DE Março DE 2022
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: UCB PHARMA S.A.
+
+ENDEREÇO: CHEMIN DU FORIEST, 1420-BRAINE L'ALLEUD - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000618
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 3476344/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: UCB PHARMA S.A.
+
+ENDEREÇO: CHEMIN DU FORIEST, 1420-BRAINE L'ALLEUD - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000618
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 3476547/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED EL MASNOU, S.A.
+
+ENDEREÇO: C/ CAMIL FABRA, 58 - EL MASNOU, BARCELONA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000019
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 3513692/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pomadas com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ENGELHARD ARZNEIMITTEL GMBH &CO. KG
+
+ENDEREÇO: HERZBERGSTRASSE 3, 61138, NIEDERDORFELDEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000208
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 3578931/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Granel): Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI FRANCE
+
+ENDEREÇO: 6 RUE DU REMPART, 27400 LOUVIERS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000981
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 3616859/21-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: BRISTOL-MYERS SQUIBB MANUFACTURING COMPANY
+
+ENDEREÇO: STATE ROAD Nº 3, KM. 77.5, HUMACAO PUERTO RICO (PR) 00791 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.000121
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 3245264/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SALUTAS PHARMA GMBH
+
+ENDEREÇO: OTTO-VON-GUERICKE-ALLEE 1-39179- BARLEBEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000538
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 3026751/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANESTA LLC
+
+ENDEREÇO: 4745 WILEY POST WAY, SALT LAKE CITY, UTAH (UT) 84116 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000824
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 2940193/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER PHARMACEUTICAL SOLUTIONS LLC
+
+ENDEREÇO: 927 SOUTH CURRY PIKE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000081
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 3665515/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIO SANDERSON S.A.
+
+ENDEREÇO: CALLE CARLOS FERNÀNDEZ Nº 244, COMUNA DE SAN JOAQUÍN - PAÍS: CHILE - CÓDIGO ÚNICO: A.000352
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 3559600/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED BARBERA S.L.
+
+ENDEREÇO: RONDA DE SANTA MARIA, 158, 08210, BARBERÀ DEL VALLÈS, BARCELONA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000431
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 3513683/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos

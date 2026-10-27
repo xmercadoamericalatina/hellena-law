@@ -1,0 +1,318 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.698, DE 31 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3698"
+data: 2019-12-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/01/2020, seção 1, p. 37"
+data_publicacao: 2020-01-06
+edicao: "3"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.698-de-31-de-dezembro-de-2019-236559579"
+sha256_html_fonte: 4a3bac42017ad367cf06b105df30a2764299a9d5ecbe12b7d6e5d5478dc639a0
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE nº 3.698, DE 31 DE DEZEMBRO DE 2019
+
+RESOLUÇÃO-RE nº 3.698, DE 31 DE DEZEMBRO DE 2019
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária Substituto, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+VARLEY DIAS SOUZA
+
+## ANEXO
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: INDUSTRIAL AREA 3 A.B. ROAD, DEWAS, 455 001, MADHYA PRADESH - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0520
+
+EMPRESA SOLICITANTE: RANBAXY FARMACÊUTICA LTDA - CNPJ: 73.663.650/0001-90
+
+AUTORIZ/MS: 1023528 - EXPEDIENTE(s): 0602305/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Cefalosporínicos): Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Penicilínicos): Cápsulas; Pós
+
+.........................................
+
+EMPRESA FABRICANTE: IPSEN BIOPHARM LTD.
+
+ENDEREÇO: ASH ROAD, WREXHAM INDUSTRIAL ESTATE, WREXHAM, CLWYD, LL13 9UF - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0322
+
+EMPRESA SOLICITANTE: BEAUFOUR IPSEN FARMACÊUTICA LTDA - CNPJ: 07.718.721/0001-80
+
+AUTORIZ/MS: 1069773 - EXPEDIENTE(s): 0338382/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO S.P.A.
+
+ENDEREÇO: VIA DELLE MAGNOLIE 15 (LOC. FRAZIONE ZONA INDUSTRIALE) - 70026 MODUGNO (BA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0410
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0571786/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIOTEST AG
+
+ENDEREÇO: LANDSTEINERSTRASSE 5, 63303 DREIEICH. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0111
+
+EMPRESA SOLICITANTE: BIOTEST FARMACÊUTICA LTDA - CNPJ: 33.348.731/0001-81
+
+AUTORIZ/MS: 1009147 - EXPEDIENTE(s): 0591298/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI PASTEUR INC.
+
+ENDEREÇO: 1 DISCOVERY DRIVE, SWIFTWATER, PENNSYLVANIA (PA) 18370 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0552
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0334907/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALTEA FARMACÉUTICA S.A.
+
+ENDEREÇO: CALLE 10 Nº. 65-28 Y CALLE 10 Nº. 65-75 (MUESTREO), BOGOTÁ D.C. - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.0407
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0585371/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Efervescentes; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PANPHARMA - BEIGNON
+
+ENDEREÇO: 10 RUE DU CHÊNOT, PARC D'ACTIVITÉ DU CHÊNOT, BEIGNON, 56380 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0870
+
+EMPRESA SOLICITANTE: OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTRIBUIDORA LTDA - CNPJ: 38.909.503/0001-57
+
+AUTORIZ/MS: 1027487 - EXPEDIENTE(s): 0389685/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ONCOTEC PHARMA PRODUKTION GMBH
+
+ENDEREÇO: AM PHARMAPARK, 06861, DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0627
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0478962/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: DR. REDDY'S LABORATORIES LIMITED, FORMULATIONS TECHNICAL OPERATIONS - UNIT II
+
+ENDEREÇO: SURVEY, N° 42,45 & 46 BACHUPALLY VILLAGE, BACHUPALLY MANDAL,MEDCHAL MALKAJGIRI DISTRICT, TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0196
+
+EMPRESA SOLICITANTE: DR. REDDYS FARMACÊUTICA DO BRASIL LTDA - CNPJ: 03.978.166/0001-75
+
+AUTORIZ/MS: 1051431 - EXPEDIENTE(s): 0491944/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SANTÉ S.A.S
+
+ENDEREÇO: 2 RUE DU PRESSOIR VERT 45400 SEMOY - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0692
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0517295/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PURDUE PHARMACEUTICALS L.P.
+
+ENDEREÇO: 4701 PURDUE DRIVE, WILSON, NORTH CAROLINA (NC) 27893 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0515
+
+EMPRESA SOLICITANTE: MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICOS LTDA - CNPJ: 15.127.898/0001-30
+
+AUTORIZ/MS: 1091981 - EXPEDIENTE(s): 0468580/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN BAD OLDESLOE GMBH
+
+ENDEREÇO: INDUSTRIESTRASSE 32-36, 23843, BAD OLDESLOE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0260
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0357106/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK HEALTHCARE KGAA
+
+ENDEREÇO: FRANKFURTER STRASSE 250, 64293 DARMSTADT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0404
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0611586/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos): Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ETHYPHARM
+
+ENDEREÇO: ZONE INDUSTRIELLE DE SAINT-ARNOULT 28 170 CHÂTEAUNEUF EN THYMERAIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.1021
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0359335/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES LIMITED
+
+ENDEREÇO: PLOT NO. 20 & 21, PHARMEZ THE PHARMACEUTICAL SPECIAL ECONOMIC ZONE,. SARKHEJ - BAVLA N. H. NO. 8A, NEAR VILLAGE MATODA,TAL-SANAND, MATODA, AHMEDABAD - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0930
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0524527/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Hormônios): Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN BAD OLDESLOE GMBH
+
+ENDEREÇO: INDUSTRIESTRASSE 32-36, 23843, BAD OLDESLOE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0260
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0357097/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: IPSEN PHARMA BIOTECH
+
+ENDEREÇO: PARC D'ACTIVITÉS DU PLATEAU DE SIGNES, CHEMIN DÉPARTEMENTAL NO 402, 83870 - SIGNES - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0323
+
+EMPRESA SOLICITANTE: BEAUFOUR IPSEN FARMACÊUTICA LTDA - CNPJ: 07.718.721/0001-80
+
+AUTORIZ/MS: 1069773 - EXPEDIENTE(s): 0368748/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Hormônios): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK HEALTHCARE KGAA
+
+ENDEREÇO: FRANKFURTER STRASSE 250, 64293 DARMSTADT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0404
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0611696/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Hormônios) (Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: GSK VACCINES GMBH
+
+ENDEREÇO: EMIL-VON-BEHRING-STR. 76 UND 79, 35041 MARBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.1390
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0395149/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SHARP & DOHME LTD.
+
+ENDEREÇO: SHOTTON LANE, CRAMLINGTON, NORTHUMBERLAND NE23 3JU - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0413
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 0587023/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: PHARMASCIENCE INDÚSTRIA FARMACÊUTICA EIRELI - CNPJ: 25.773.037/0001-83 - AUTORIZ/MS: 1017173
+
+ENDEREÇO: RUA TEXACO, N° 640
+
+MUNICÍPIO: BETIM - UF: MG - EXPEDIENTE: 0104550/19-4; 0104682/19-9; 0104560/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós; Pós Efervescentes
+
+Líquidos não estéreis: Emulsões; Óleos; Soluções; Suspensões; Xaropes
+
+Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: NATCO PHARMA LIMITED
+
+ENDEREÇO: KOTUR, RANGARREDDY DISTRICT, TELENGANA, INDIA, PIN 509228 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0929
+
+EMPRESA SOLICITANTE: NATCOFARMA DO BRASIL LTDA - CNPJ: 08.157.293/0001-27
+
+AUTORIZ/MS: 1082611 - EXPEDIENTE(s): 0322230/18-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: INOVAT INDUSTRIA FARMACEUTICA LTDA - CNPJ: 27.864.378/0001-90 - AUTORIZ/MS: 1173254
+
+ENDEREÇO: Avenida Presidente Tancredo de Almeida Neves, 1555
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 0001524/19-5; 0001499/19-1; 0001526/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Penicilínicos): Cápsulas; Pós

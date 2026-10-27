@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 797, DE 19 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "797"
+data: 2020-03-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/03/2020, seção 1, p. 142"
+data_publicacao: 2020-03-23
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-797-de-19-de-marco-de-2020-249242366"
+sha256_html_fonte: fff3f943d8084611cb60e53cc659b4a7e087cf0a29ed11dfeccc7430126be55f
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 797, DE 19 DE MARÇO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 797, DE 19 DE MARÇO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Cancelar o registro sanitário de medicamentos e produtos biológicos, ou de apresentações, conforme anexo.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p><p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p><p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p><p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >EUROFARMA LABORATÓRIOS S.A. 61190096000192</p><p class="dou-paragraph" >VALERATO DE BETAMETASONA + SULFATO DE GENTAMICINA + TOLNAFTATO + CLIOQUINOL 25351.054603/2003-23 04/2029</p><p class="dou-paragraph" >1429 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 3115021/19-7</p><p class="dou-paragraph" >1.0043.0900.001-5 24 Meses</p><p class="dou-paragraph" >0,5 MG/G + 1,0 MG/G + 10,0 MG/G + 10,0 MG/G CREM DERM CT BG AL X 20 G</p><p class="dou-paragraph" >1.0043.0900.002-3 24 Meses</p><p class="dou-paragraph" >0,5 MG/G + 1,0 MG/G + 10,0 MG/G + 10,0 MG/G CREM DERM CT BG AL X 10 G</p><p class="dou-paragraph" >VALERATO DE BETAMETASONA + SULFATO DE GENTAMICINA + TOLNAFTATO + CLIOQUINOL 25351.054606/2003-67 04/2029</p><p class="dou-paragraph" >1429 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 2650397/19-2</p><p class="dou-paragraph" >1.0043.0901.001-0 24 Meses</p><p class="dou-paragraph" >0,5 MG/G + 1,0 MG/G + 10,0 MG/G + 10,0 MG/G POM DERM CT BG AL X 20 G</p><p class="dou-paragraph" >1.0043.0901.002-9 24 Meses</p><p class="dou-paragraph" >0,5 MG/G + 1,0 MG/G + 10,0 MG/G + 10,0 MG/G POM DERM CT BG AL X 10 G</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >SANOFI-AVENTIS FARMACÊUTICA LTDA 02685377000157</p><p class="dou-paragraph" >IRBESARTANA</p><p class="dou-paragraph" >APROVEL 25351.411964/2006-24 02/2028</p><p class="dou-paragraph" >1446 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 2612202/19-2</p><p class="dou-paragraph" >1.1300.0993.010-1 24 Meses</p><p class="dou-paragraph" >150 MG COM REV CT BL AL PLAS OPC X 30</p><p class="dou-paragraph" >1.1300.0993.012-8 24 Meses</p><p class="dou-paragraph" >300 MG COM REV CT BL AL PLAS OPC X 30</p><p class="dou-paragraph" >FRANOL 25351.412003/2006-37 04/2028</p><p class="dou-paragraph" >1446 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 2613200/19-1</p><p class="dou-paragraph" >1.1300.1060.001-2 24 Meses</p><p class="dou-paragraph" >3MG/ML + 2,4MG/ML XPE CT FR VD AMB X 60 ML</p><p class="dou-paragraph" >TEOFILINA + SULFATO DE EFEDRINA</p><p class="dou-paragraph" >1.1300.1060.003-9 24 Meses</p><p class="dou-paragraph" >3MG/ML + 2,4MG/ML XPE CT FR PLAS TRANS X 60 ML</p><p class="dou-paragraph" >TEOFILINA</p><p class="dou-paragraph" >1.1300.1060.005-5 36 Meses</p><p class="dou-paragraph" >120MG + 15MG COM CT BL AL PLAS TRANS X 20</p><p class="dou-paragraph" >TEOFILINA + SULFATO DE EFEDRINA</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

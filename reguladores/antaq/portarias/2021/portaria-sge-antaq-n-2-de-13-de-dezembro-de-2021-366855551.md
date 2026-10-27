@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA SGE ANTAQ Nº 2, de 13 de dezembro de 2021"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Aquaviários/Secretaria-Geral"
+tipo: "Portaria"
+numero: "2"
+data: 2021-12-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/12/2021, seção 1, p. 66"
+data_publicacao: 2021-12-14
+edicao: "234"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sge-antaq-n-2-de-13-de-dezembro-de-2021-366855551"
+sha256_html_fonte: 2944708b6f0c1bcab93469c37d5a222ea18b767ecd1df6a845c54ebc4140bf4e
+baixado_em: 2026-10-21
+---
+# PORTARIA SGE ANTAQ Nº 2, de 13 de dezembro de 2021
+
+PORTARIA SGE ANTAQ Nº 2, de 13 de dezembro de 2021
+
+O SECRETÁRIO-GERAL DA AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS - ANTAQ, no uso das atribuições que lhe confere os incisos I e III do art. 29 do Regimento Interno desta Agência, considerando o disposto no art. 2º da Portaria DG 378 (SEI nº 1468866) e o que consta do processo nº 50300.022020/2021-68,resolve:
+
+**Art. 1°** As competências das subunidades da Secretaria-Geral - SGE são definidas nesta Portaria.
+
+**Art. 2º** Compete à Coordenadoria de Reuniões de Diretoria e Consultas Públicas - CRCP:I - organizar os procedimentos de elaboração das pautas de reuniões da Diretoria Colegiada;II - confeccionar as atas de reuniões da Diretoria Colegiada;III - atuar na preparação das consultas públicas realizadas no âmbito da Agência cujo objeto seja a aprovação ou a alteração de normativos;IV - gerenciar a publicação de atos administrativos decorrentes de reuniões da Diretoria Colegiada; V - gerir a base de dados de atos normativos e deliberações em geral; VI - confeccionar os aditamentos e a extinção de outorgas da navegação; e VII - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 3º** Compete ao Serviço de Pautas e Atas - SPA, que compõe a Coordenadoria de Reuniões de Diretoria e Consultas Públicas:I - organizar, publicar e manter atualizadas no portal da Agência as pautas de reuniões da Diretoria Colegiada;II - gerenciar os procedimentos referentes à solicitações de sustentação oral em reuniões da Diretoria Colegiada;III - confeccionar os atos resultantes de reuniões da Diretoria Colegiada;IV - elaborar e publicar as atas das reuniões da Diretoria Colegiada;V - preparar os roteiros de consultas públicas realizadas no âmbito da Agência; e VI - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação. Art. 4º Compete ao Serviço de Publicações e Consolidação Normativa - SPCN, que compõe a Coordenadoria de Reuniões de Diretoria e Consultas Públicas:I - publicar no Diário Oficial da União os atos resultantes de reuniões da Diretoria Colegiada e demais atos assinados pelo Diretor-Geral;II - publicar no Diário Oficial da União ou no portal da Agência os atos administrativos a ele encaminhados com tal finalidade;III - encaminhar à área competente os atos administrativos resultantes de reuniões da Diretoria Colegiada passíveis de publicação no Boletim Interno;IV - manter atualizada a base de atos registrados nos sistemas de informação da Agência, lançando novos atos, consolidando os forem alterados e registrando sua revogação; e V - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 5º** Compete à Coordenadoria de Gestão do Conhecimento - CGEC:I - gerir a biblioteca e realizar a gestão do acervo;II - atuar como gestor do sistema de consulta a atos normativos, deliberações em geral e acervo da biblioteca;III - gerenciar as atividades da editora ANTAQ;IV - realizar a gestão do portal, da Intranet e do ambiente de capacitação online da Agência;V - promover a contínua sistematização e atualização da jurisprudência nas bases de dados da Agência;VI - atuar junto a órgãos acadêmicos e demais centros de informação;VII - fomentar as atividades inerentes ao processo de gestão do conhecimento; e VIII - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 6º** Compete ao Serviço de Jurisprudência - SEJUR, que compõe a Coordenadoria de Gestão do Conhecimento:I - manter atualizada a base de dados do sistema de jurisprudência;II - administrar o dicionário de termos técnicos para fins de pesquisa jurisprudencial;III - gerenciar a base de dados de jurisprudência selecionada;IV - elaborar e publicar informativos de jurisprudência;V - propor anteprojetos de enunciados que poderão compor a Súmula da Agência; e VI - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 7º** Compete à Coordenadoria de Distribuição, Deliberações e Comunicações Processuais - CDCP:I - realizar a distribuição de processos entre os diretores da Agência mediante sorteio;II - gerenciar o tratamento das deliberações da Diretoria Colegiada e dos relatores;III - gerir a expedição das comunicações processuais decorrentes de deliberações da Diretoria Colegiada e dos relatores e de recursos apreciados em nível gerência e superintendência; e IV - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 8º** Compete ao Serviço de Deliberações e Comunicação Processual - SDCP, que compõe a Coordenadoria de Distribuição, Deliberações e Comunicações Processuais:I - confeccionar as comunicações processuais e os expedientes internos decorrentes de deliberações da Diretoria Colegiada e dos relatores;II - registrar as deliberações da Diretoria Colegiada e dos relatores;III - controlar os prazos estabelecidos por deliberações da Diretoria Colegiada e dos relatores para atuação da Secretaria-Geral;IV - gerenciar as notificações de penalidades aplicadas pela Diretoria Colegiada e pelos relatores;V - registrar o trânsito em julgado dos acórdãos e das deliberações a ela encaminhadas com essa finalidade;VI - encaminhar processos nos quais haja interposição de recursos contra deliberações da Diretoria Colegiada ou de relatores à respectiva unidade responsável técnica, para exame preliminar de admissibilidade e posterior encaminhamento ao relator; e VII - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 9º** Compete à Coordenadoria de Gestão de Documentos - CGD:I - supervisionar a política de gestão, preservação e acesso de documentos arquivísticos da ANTAQ;II - gerenciar a atividade de protocolo da Agência;III - orientar as unidades organizacionais na produção e editoração de documentos e processos e no controle de sua tramitação, bem como na organização de seus arquivos correntes;IV - Inventariar periodicamente os processos em suporte papel eventualmente existentes, principalmente os classificados como sigilosos e controlados;V - orientar a pesquisa e recuperação da informação pelos servidores;VI - acompanhar as Unidades Regionais quanto as atividades de protocolo, inventário, digitalização, classificação quanto ao assunto, integridade e disponibilidade, acesso e pesquisa de documentos e processos;VII - efetuar o arquivamento, desarquivamento e empréstimo de documentos e processos custodiados no Arquivo Central;VIII - destinar documentação transferida ao Arquivo Central para guarda permanente ou eliminação, em conformidade com tabela de temporalidade de documentos em vigor;IX - apoiar a Comissão Permanente de Avaliação de Documentos - CPAD;X - administrar a atividade de arquivo;XI - gerenciar sistemas informatizados de gestão de documentos arquivísticos e seus metadados; e XII - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 10.** Compete ao Serviço de Protocolo - PROT, que compõe a Coordenadoria de Gestão de Documentos:I - efetuar o recebimento, a distribuição e a expedição de correspondências, documentos e processos;II - gerenciar a digitalização de documentos e processos;III - executar a indexação de documentos e processos bem como a sua classificação e tratamento quanto ao assunto, integridade e disponibilidade, de modo a preservar a segurança, identificação, recuperação, avaliação e seleção da informação;IV - efetuar a abertura, o registro, a juntada, o desapensamento e o encerramento de volumes dos processos;V - efetuar a reconstituição de processos e o desentranhamento e desmembramento de peças processuais; e VI - manter atualizado o fluxograma das atividades desempenhadas em sua área de atuação.
+
+**Art. 11.** Esta Portaria entra em vigor na data de sua publicação.
+
+PAULO MORUM XAVIER

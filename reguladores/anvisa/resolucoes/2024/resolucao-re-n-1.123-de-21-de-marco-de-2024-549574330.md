@@ -1,0 +1,80 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.123, DE 21 DE MARÇO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1123"
+data: 2024-03-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/03/2024, seção 1, p. 100"
+data_publicacao: 2024-03-22
+edicao: "57"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.123-de-21-de-marco-de-2024-549574330"
+sha256_html_fonte: 43b3ee4562ec18b3bb105d887db1dd1be9ff2676cbe76f2adcc9f3eca15f644b
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.123, DE 21 DE MARÇO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 1.123, DE 21 DE MARÇO DE 2024</p>
+  <p class="dou-paragraph" >O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento para as Empresas constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >Luis Fernando Rosa Ltda. / 08.457.189/0001-58</p>
+  <p class="dou-paragraph" >25351.415909/2023-12 /</p>
+  <p class="dou-paragraph" >861 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - FABRICAR / 0672058235</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >O documento apresentado não atesta o cumprimento dos requisitos técnicos para as atividade e classe pleiteada, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Adicionalmente, o Relatório de Inspeção nº 01.000232/24, emitido pela Vigilância Sanitária competente, atesta que a empresa não cumpre com os requisitos técnicos exigidos para a atividade pleiteada.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >silva e rocha ltda / 53.771.996/0001-03</p>
+  <p class="dou-paragraph" >25351.109688/2024-19 /</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0327727241</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A declaração do Anexo I da RDC nº 275/2019 apresentada não contém a razão social e o CNPJ da empresa, contrariando o art. 11 da RDC nº 275/2019.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >sena saude medicamentos e produtos hospitalares ltda / 53.545.520/0001-46</p>
+  <p class="dou-paragraph" >25351.117985/2024-38 /</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE MATRIZ) / 0344285243</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >Não apresentação de Relatório de Inspeção que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitido pela autoridade sanitária local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Conforme estabelecido pelo art. 51, da Lei 6.360/76 e pelo art. 3º do Decreto 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >M&amp;M FARMACIA LTDA / 07.442.545/0001-05</p>
+  <p class="dou-paragraph" >25351.115048/2024-48 /</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0339136243</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A declaração do Anexo I da RDC nº 275/2019 apresentada não contém a razão social e o CNPJ da empresa, contrariando o art. 11 da RDC nº 275/2019.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FORTE MEDICAMENTOS LTDA / 50.363.333/0005-87</p>
+  <p class="dou-paragraph" >25351.107267/2024-53 /</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0323668241</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A declaração do Anexo I da RDC nº 275/2019 apresentada não contém o CNPJ da empresa, contrariando o art. 11 da RDC nº 275/2019. Ademais, o CNPJ informado pertence a outra empresa filial.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >fds comercio de medicamentos ltda / 53.059.585/0001-81</p>
+  <p class="dou-paragraph" >25351.107635/2024-63 /</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0324270241</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A declaração do Anexo I da RDC nº 275/2019 apresentada não contém a razão social e o CNPJ da empresa, contrariando o art. 11 da RDC nº 275/2019.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A.R. RODRIGUEZ &amp; CIA LTDA / 04.562.591/0004-94</p>
+  <p class="dou-paragraph" >25351.117802/2024-84 /</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0344073246</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >O documento apresentado, emitido pela autoridade sanitária local competente, não atesta o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >sena saude medicamentos e produtos hospitalares ltda / 53.545.520/0001-46</p>
+  <p class="dou-paragraph" >25351.117984/2024-93 /</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0344284247</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >Não apresentação de Relatório de Inspeção que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitido pela autoridade sanitária local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Conforme estabelecido pelo art. 51, da Lei 6.360/76 e pelo art. 3º do Decreto 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário.</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

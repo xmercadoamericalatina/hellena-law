@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.515, DE 16 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "2515"
+data: 2020-07-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/07/2020, seção 1, p. 106"
+data_publicacao: 2020-07-20
+edicao: "137"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.515-de-16-de-julho-de-2020-267506981"
+sha256_html_fonte: cf73548840ceef0e17d3d15ec65125dabb11abdb1d982f030bdda9b0e99c0714
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.515, DE 16 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.515, DE 16 DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder a revalidação automática do registro dos medicamentos similares, genéricos, novos, específicos, dinamizados, fitoterápicos, biológicos e dos Insumos Farmacêuticos Ativos (IFAs) sob o nº de processos constantes do anexo desta Resolução, nos termos do § 6º do art. 12 da Lei nº. 6.360, de 1976.</p><p class="dou-paragraph" >Art. 2º A revalidação abrange os pedidos que ainda não foram objetos de qualquer manifestação por parte da Anvisa.</p><p class="dou-paragraph" >Parágrafo único. Não constam do anexo desta Resolução os expedientes protocolados fora do prazo estabelecido nos termos da Lei nº. 6360, de 1976.</p><p class="dou-paragraph" >Art. 3º A revalidação automática não impedirá a continuação da análise da petição de renovação de registro requerida, podendo a Administração, se for o caso, indeferir o pedido de renovação e cancelar o registro que tenha sido automaticamente revalidado, ou ratificá-lo deferindo o pedido de renovação.</p><p class="dou-paragraph" >Art. 4º Os medicamentos revalidados podem ser consultados, assim como suas apresentações válidas no link: https://consultas.anvisa.gov.br/#/medicamentos/</p><p class="dou-paragraph" >Art. 5º Será considerada a data de revalidação do registro contada a partir do final da vigência do período de validade anterior, de modo que não há interrupção na regularidade do registro.</p><p class="dou-paragraph" >Art. 6º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL</p><p class="dou-paragraph" >NOME DO PRODUTO VALIDADE DO REGISTRO</p><p class="dou-paragraph" >NÚMERO DO PROCESSO NÚMERO DO EXPEDIENTE</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A</p><p class="dou-paragraph" >AZITROMICINA DI-HIDRATADA 07/2025</p><p class="dou-paragraph" >25351.566130/2014-81 3434115/19-3</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP</p><p class="dou-paragraph" >ZIDOVUDINA 07/2025</p><p class="dou-paragraph" >25351.616753/2013-99 3556669/19-8</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >LIBBS FARMACÊUTICA LTDA</p><p class="dou-paragraph" >AZITROMICINA DI-HIDRATADA 07/2025</p><p class="dou-paragraph" >25351.451606/2014-64 3248686/19-3</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >PHARLAB INDÚSTRIA FARMACÊUTICA S.A.</p><p class="dou-paragraph" >ACICLOVIR 07/2025</p><p class="dou-paragraph" >25351.492264/2014-46 2039344/19-0</p><p class="dou-paragraph" >CLORIDRATO DE CIPROFLOXACINO MONOIDRATADO 07/2025</p><p class="dou-paragraph" >25351.513709/2014-73 2039336/19-9</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >PRATI DONADUZZI &amp; CIA LTDA</p><p class="dou-paragraph" >CLORIDRATO DE CIPROFLOXACINO MONOIDRATADO 07/2025</p><p class="dou-paragraph" >25351.654452/2012-69 3431822/19-4</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >ZYDUS NIKKHO FARMACÊUTICA LTDA</p><p class="dou-paragraph" >CLORIDRATO DE CIPROFLOXACINO MONOIDRATADO 07/2025</p><p class="dou-paragraph" >25351.560708/2012-76 2029755/19-6</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

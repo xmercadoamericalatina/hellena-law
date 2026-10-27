@@ -1,0 +1,23 @@
+---
+titulo: "Resolução-re nº 1.954, de 10 de junho de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1954"
+data: 2020-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2020, seção 1, p. 171"
+data_publicacao: 2020-06-15
+edicao: "112"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.954-de-10-de-junho-de-2020-261494185"
+sha256_html_fonte: 615d5f632d569ff80febcd09404e2274a256f0b076672f562f7cc6084a6f41d3
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# Resolução-re nº 1.954, de 10 de junho de 2020
+
+<div class="texto-dou"><p class="identifica">Resolução-re nº 1.954, de 10 de junho de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de pós-registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato desta avaliação de resíduos não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">CARLOS ALEXANDRE OLIVEIRA GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >NORTOX S/A / 75.263.400/0001-99</p><p class="dou-paragraph" >HEXAZINONA D NORTOX</p><p class="dou-paragraph" >25351.038461/2008-61</p><p class="dou-paragraph" >5047 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE MODALIDADE DE APLICAÇÃO, 0670189/20-1</p><p class="dou-paragraph" >PROPICONAZOLE NORTOX</p><p class="dou-paragraph" >25351.008063/2004-97</p><p class="dou-paragraph" >5078 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CSFI (CULTURAS COM SUPORTE FITOSSANITÁRIO INSUFICIENTE) - MINOR CROPS, 0682952/20-6</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >OXIQUÍMICA AGROCIÊNCIA LTDA. / 65.011.967/0001-14</p><p class="dou-paragraph" >SUPERA</p><p class="dou-paragraph" >25351.011755/00-18</p><p class="dou-paragraph" >5047 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE MODALIDADE DE APLICAÇÃO, 0687752/20-5</p><p class="dou-paragraph" >AUGE</p><p class="dou-paragraph" >25351.016369/2007-60</p><p class="dou-paragraph" >5047 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE MODALIDADE DE APLICAÇÃO, 0687761/20-4</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >RAINBOW DEFENSIVOS AGRÍCOLAS LTDA / 10.486.463/0001-69</p><p class="dou-paragraph" >GLUCARE</p><p class="dou-paragraph" >25351.330886/2015-26</p><p class="dou-paragraph" >5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0736612/20-3</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >SYNGENTA PROTEÇÃO DE CULTIVOS LTDA / 60.744.463/0001-90</p><p class="dou-paragraph" >Fomesafen Pré-mistura</p><p class="dou-paragraph" >25351.337472/2005-89</p><p class="dou-paragraph" >5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 0526665/18-3</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >TECNOMYL BRASIL DISTRIBUÍDORA DE PRODUTOS AGRÍCOLAS LTDA. / 05.280.269/0001-92</p><p class="dou-paragraph" >TOPINAM</p><p class="dou-paragraph" >25351.507013/2013-16</p><p class="dou-paragraph" >5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0351320/20-2</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52</p><p class="dou-paragraph" >Banter</p><p class="dou-paragraph" >25351.753694/2008-91</p><p class="dou-paragraph" >5001 - Avaliação Toxicológica para Reclassificação Toxicológica, 2264795/19-3</p><p class="dou-paragraph" >Batent</p><p class="dou-paragraph" >25351.748968/2008-82</p><p class="dou-paragraph" >5001 - Avaliação Toxicológica para Reclassificação Toxicológica, 2264802/19-0</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

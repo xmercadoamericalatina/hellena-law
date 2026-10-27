@@ -1,0 +1,306 @@
+---
+titulo: "RESOLUÇÃO RE Nº Nº 1.528, DE 14 DE Abril DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1528"
+data: 2021-04-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/04/2021, seção 1, p. 207"
+data_publicacao: 2021-04-19
+edicao: "72"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-n-1.528-de-14-de-abril-de-2021-314763919"
+sha256_html_fonte: 2b3984c1dc8345af708238051166bd2b89397d8bd7fc1fdce95fbee36f88c9d8
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº Nº 1.528, DE 14 DE Abril DE 2021
+
+RESOLUÇÃO RE Nº Nº 1.528, DE 14 DE Abril DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: BAXTER PHARMACEUTICAL SOLUTIONS LLC
+
+ENDEREÇO: 927 SOUTH CURRY PIKE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0081
+
+EMPRESA SOLICITANTE: SHIRE FARMACÊUTICA BRASIL LTDA. - CNPJ: 07.898.671/0001-60
+
+AUTORIZ/MS: 1069791 - EXPEDIENTE(s): 3685709/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PENN PHARMACEUTICAL SERVICES LIMITED
+
+ENDEREÇO: UNITS 23-24 TAFARNAUBACH INDUSTRIAL ESTATE, TREDEGAR, NP22 3AA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0484
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 2554158/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PROCAPS S.A.
+
+ENDEREÇO: CALLE 80 N.º 78 B-201, ATLANTICO, BARRANQUILLA - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.0860
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0413451/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA: KRESS FARMACEUTICA S.A. - CNPJ: 84.712.579/0001-05 - AUTORIZ/MS: 1006571
+
+ENDEREÇO: RUA ORLEANS, Nº 638, FUNDOS
+
+MUNICÍPIO: JOINVILLE - UF: SC - EXPEDIENTE: 4322033/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: HEARST LABORATÓRIOS DO BRASIL LTDA - CNPJ: 28.634.665/0001-76 - AUTORIZ/MS: 1010573
+
+ENDEREÇO: AV. ACTURA, Nº 100
+
+MUNICÍPIO: DUQUE DE CAXIAS - UF: RJ - EXPEDIENTE: 3724242/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: WYETH PHARMACEUTICAL DIVISION OF WYETH HOLDINGS LLC
+
+ENDEREÇO: 401 NORTH MIDDLETOWN ROAD, PEARL RIVER, NEW YORK (NY) 10965 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0638
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 3215469/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos) (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER PHARMACEUTICALS INDIA PRIVATE LIMITED-UNIDADE 1
+
+ENDEREÇO: VILLAGE VASANA, CHACHARWADI, TAL-SANAND, AHMEDABAD- 382 213, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1340
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0001-80
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 1148728/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Emulsões Parenterais de Grande Volume com Esterilização Terminal; Emulsões Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN-CILAG MANUFACTURING LLC
+
+ENDEREÇO: STATE ROAD 933, KM 0.1, MAMEY WARD, GURABO, PLANT 1700, PR 00778 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.0326
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 2953930/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A
+
+ENDEREÇO: VIALE G.B. STUCCHI, 110 - 20900 MONZA (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0477
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 3568314/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ACS DOBFAR S.P.A.
+
+ENDEREÇO: NUCLEO INDUSTRIALE S. ATTO (LOC. S. NICOLO' A TORDINO), 64100 TERAMO (TE). - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0218
+
+EMPRESA SOLICITANTE: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03
+
+AUTORIZ/MS: 1055622 - EXPEDIENTE(s): 1067813/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Carbapenêmicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT PHARMA SOLUTIONS, LLC
+
+ENDEREÇO: 14 SCHOOLHOUSE ROAD, SOMERSET, NEW JERSEY (NJ) 08873 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1170
+
+EMPRESA SOLICITANTE: LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA - CNPJ: 33.051.491/0001-59
+
+AUTORIZ/MS: 1001629 - EXPEDIENTE(s): 2777091/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Citotóxicos) (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO SA
+
+ENDEREÇO: ZONE INDUSTRIALLE DE L'OURIETTAZ CH-1170, AUBONNE - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0408
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 3550151/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: IVAX PHARMACEUTICALS UK LIMITED
+
+ENDEREÇO: ASTON LANE NORTH, WHITEHOUSE VALE INDUSTRIAL ESTATE, PRESTON BROOK, RUNCORN, CHESHIRE, WA7 3FA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0668
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 2584294/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM REIMS
+
+ENDEREÇO: 10 RUE COLONEL CHARBONNEAUX, 51100 REIMS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0181
+
+EMPRESA SOLICITANTE: Mawdsleys Pharmaceuticals do Brasil Ltda - CNPJ: 19.501.429/0001-90
+
+AUTORIZ/MS: 1158322 - EXPEDIENTE(s): 0413763/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: SERVIER (IRELAND) INDUSTRIES LTD.
+
+ENDEREÇO: MONEYLANDS, GOREY ROAD, ARKLOW, CO.WICKLOW - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.0576
+
+EMPRESA SOLICITANTE: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76
+
+AUTORIZ/MS: 1012787 - EXPEDIENTE(s): 2860333/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: INTAS PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT 5 A 14- PHARMEZ ,BUILDING: B, C AND G, NEAR VILLAGE MATODA, TAL-SANAND, CITY: MATODA, DIST: AHMEDABAD, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0704
+
+EMPRESA SOLICITANTE: ACCORD FARMACÊUTICA LTDA - CNPJ: 64.171.697/0001-46
+
+AUTORIZ/MS: 1055377 - EXPEDIENTE(s): 2554249/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Citotóxicos): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PHARMA GMBH &CO. KG
+
+ENDEREÇO: BIRKENDORFER STR. 65, 88397 - BIBERACH AN DER RISS - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0116
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 2806251/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LTS LOHMANN THERAPIE-SYSTEME AG
+
+ENDEREÇO: LOHMANNSTRASSE 2, 56626, ANDERNACH. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0384
+
+EMPRESA SOLICITANTE: PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda - CNPJ: 30.872.270/0001-53
+
+AUTORIZ/MS: 1192905 - EXPEDIENTE(s): 0768069/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+.........................................
+
+EMPRESA FABRICANTE: CELGENE INTERNATIONAL SÀRL
+
+ENDEREÇO: ROUTE DE PERREUX 1, 2017 BOUDRY - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0143
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 0919915/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Sólidos não estéreis (Citotóxicos): Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FARMACEUTICI FORMENTI S.P.A
+
+ENDEREÇO: VIA DI VITTORIO 2 - 21040 ORIGGIO (VA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0224
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 3056650/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87 UND 99 - 101, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0625
+
+EMPRESA SOLICITANTE: Bracco Imaging do Brasil Importação e Distribuição de Medicamentos Ltda - CNPJ: 10.742.412/0004-01
+
+AUTORIZ/MS: 1080379 - EXPEDIENTE(s): 2554335/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: FDA ALLERGENIC FARMACEUTICA LTDA - EPP - CNPJ: 00.749.145/0001-90 - AUTORIZ/MS: 1028609
+
+ENDEREÇO: RUA DA ABOLIÇÃO Nº 413
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 3622072/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: M.R. PHARMA S.A.
+
+ENDEREÇO: ESTADOS UNIDOS Nº 5105, ÁREA DE PROMOCIÓN EL TRIANGULO, PARTIDO DE MALVINAS ARGENTINAS, PROVÍNCIA DE BUENOS AIRES. - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0387
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0430221/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.811, de 4 de junho de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1811"
+data: 2020-06-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/06/2020, seção 1, p. 36"
+data_publicacao: 2020-06-05
+edicao: "107"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.811-de-4-de-junho-de-2020-260296472"
+sha256_html_fonte: 5dcdf426db7c5b3b8815585201254a4b9c6df86d1a87656c191647006163af76
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.811, de 4 de junho de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.811, de 4 de junho de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos dispostos no art. 8°, da Resolução de Diretoria Colegiada - RDC nº 346, de 13 de março de 2020, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo a Certificação de Boas Práticas de Fabricação de Produtos para Saúde.</p><p class="dou-paragraph" >Art. 2º A presente certificação terá validade durante a vigência da Resolução de Diretoria Colegiada - RDC 346/2020.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Shangai Fosun Long March Medical Science Co.Ltd</p><p class="dou-paragraph" >Endereço: Nº 830 Chengyin Road, Boashan District, 200444, Shanghai, China</p><p class="dou-paragraph" >Solicitante: Yin´S Brasil Comércio Internacional Ltda CNPJ: 02.462.686/0001-68</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.07.721-1 Expediente: 1567797/20-2</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III - Emergência COVID-19</p><p class="dou-paragraph" >---------------</p><p class="dou-paragraph" >Fabricante: Shangai Fosun Long March Medical Science Co.Ltd</p><p class="dou-paragraph" >Endereço: Nº 830 Chengyin Road, Boashan District, 200444, Shanghai, China</p><p class="dou-paragraph" >Solicitante: MS Bastos Comércio e Representações Ltda - ME CNPJ: 13.882.701/0001-43</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.15.752-3 Expediente: 1567950/20-5</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III - Emergência COVID-19</p><p class="dou-paragraph" >----------------</p><p class="dou-paragraph" >Fabricante: Nanjing Vazyme Medical Technology Co., LTD.</p><p class="dou-paragraph" >Endereço: F1 - F3, Building C 1-2, Red Maple Park of Technological Industry - State Economy &amp; Technology Development Zone, Nanjing - 210038 - China.</p><p class="dou-paragraph" >Solicitante: Optme Importação e Exportação de Produtos Ltda. - ME CNPJ: 19.739.452/0001-18</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.11.186-3</p><p class="dou-paragraph" >Expediente: 1247103/20-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro das classes III - Emergência COVID-19</p><p class="dou-paragraph" >---------------</p><p class="dou-paragraph" >Fabricante: Nanjing Vazyme Medical Technology Co., LTD.</p><p class="dou-paragraph" >Endereço: F1 - F3, Building C 1-2, Red Maple Park of Technological Industry - State Economy &amp; Technology Development Zone, Nanjing - 210038 - China.</p><p class="dou-paragraph" >Solicitante: Med 7 Produtos Hospitalares Ltda. EPP CNPJ: 08.140.941/0001-32</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.03.866-8</p><p class="dou-paragraph" >Expediente: 1567935/20-6</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p><p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro das classes III - Emergência COVID-19</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

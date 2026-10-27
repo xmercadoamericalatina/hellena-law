@@ -1,0 +1,23 @@
+---
+titulo: "Resolução - re nº 393, de 6 de fevereiro de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "393"
+data: 2020-02-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/02/2020, seção 1, p. 159"
+data_publicacao: 2020-02-10
+edicao: "28"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-393-de-6-de-fevereiro-de-2020-242335255"
+sha256_html_fonte: 1441c6e8c3eb8872e024bb897915246304cd66237299acaf4a4b7ea226784e64
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# Resolução - re nº 393, de 6 de fevereiro de 2020
+
+<div class="texto-dou"><p class="identifica">Resolução - re nº 393, de 6 de fevereiro de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.</p><p class="dou-paragraph" >Art. 2º A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">Carlos Alexandre Oliveira Gomes</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL/CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL</p><p class="dou-paragraph" >NÚMERO DO PROCESSO</p><p class="dou-paragraph" >PETIÇÃO(ÕES)/EXPEDIENTE(S)</p><p class="dou-paragraph" >CLASSIFICAÇÃO TOXICOLÓGICA</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >BASF S/A / 48.539.407/0001-18</p><p class="dou-paragraph" >ACRONIS FS</p><p class="dou-paragraph" >25351.551614/2010-58</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 727120/10-4</p><p class="dou-paragraph" >Categoria 4 - Produto pouco tóxico</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >DE SANGOSSE AGROQUÍMICA LTDA / 72.097.017/0001-10</p><p class="dou-paragraph" >EXILIS</p><p class="dou-paragraph" >25351.213229/2019-71</p><p class="dou-paragraph" >5083 - PRODUTO BIOQUÍMICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO (BIOQUÍMICO) JÁ REGISTRADO NO PAÍS, 0325680/19-4</p><p class="dou-paragraph" >Categoria 5 - improvável de Causar Dano Agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >DOW AGROSCIENCES INDUSTRIAL LTDA / 47.180.625/0001-46</p><p class="dou-paragraph" >CHAPARRAL</p><p class="dou-paragraph" >25351.225080/2011-66</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 313967/11-1</p><p class="dou-paragraph" >Categoria 5 - Produto improvável de causar dano agudo</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >OXON BRASIL DEFENSIVOS AGRÍCOLAS LTDA / 07.224.503/0001-90</p><p class="dou-paragraph" >VISCLOR</p><p class="dou-paragraph" >25351.600309/2010-73</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 792185/10-3</p><p class="dou-paragraph" >Categoria 4 - Produto pouco tóxico</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >SYNGENTA PROTEÇÃO DE CULTIVOS LTDA / 60.744.463/0001-90</p><p class="dou-paragraph" >MAXXTEC</p><p class="dou-paragraph" >25351.678156/2010-01</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 896775/10-0</p><p class="dou-paragraph" >Não Classificado</p><p class="dou-paragraph" >-----------------------------</p><p class="dou-paragraph" >W. NEUDORFF SERVIÇOS DE AGRICULTURA DO BRASIL LTDA / 07.408.566/0001-04</p><p class="dou-paragraph" >SLUGGO</p><p class="dou-paragraph" >25351.616620/2018-43</p><p class="dou-paragraph" >5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 0855454/18-4</p><p class="dou-paragraph" >Não Classificado</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

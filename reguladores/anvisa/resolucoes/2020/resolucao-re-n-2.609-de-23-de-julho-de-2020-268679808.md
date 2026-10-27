@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.609, DE 23 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2609"
+data: 2020-07-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/07/2020, seção 1, p. 55"
+data_publicacao: 2020-07-27
+edicao: "142"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.609-de-23-de-julho-de-2020-268679808"
+sha256_html_fonte: 3cdf9c401bac932365bef550003b6b122e359d5a96b288a8c089e1f53eed6b93
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.609, DE 23 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.609, DE 23 DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Biocon Biologics India Limited</p><p class="dou-paragraph" >Endereço: Plot NO. 2, 3, 4&amp; 5 Phase-IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru - 560 099</p><p class="dou-paragraph" >País: Índia Código Único: A.0106</p><p class="dou-paragraph" >Solicitante: Instituto Butantan CNPJ: 61.821.344/0001-56</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.02.234-0 Expediente: 0204794/20-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: trastuzumabe.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Chugai Pharma Manufacturing Co., Ltd</p><p class="dou-paragraph" >Endereço: 16-3 Kiyohara Kogyodanchi, Utsunomiya City, Tochigi</p><p class="dou-paragraph" >País: Japão Código Único: A.0155</p><p class="dou-paragraph" >Solicitante: Produtos Roche Químicos e Farmacêuticos S.A. CNPJ: 33.009.945/0001-23</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.100-4. Expediente(s): 3220078/19-2</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: tocilizumabe</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Lonza Biologics PLC</p><p class="dou-paragraph" >Endereço: 228 Bath Road, Slough, Berkshire, SL1 4DX</p><p class="dou-paragraph" >País: Reino Unido Código Único: A.1117</p><p class="dou-paragraph" >Solicitante: Amgen Biotecnologia do Brasil Ltda. CNPJ: 18.774.815/0001-93</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.10.244-0 Expediente(s): 3448226/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: blinatumomabe</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Merck Sharp &amp; Dohme Corp.</p><p class="dou-paragraph" >Endereço: 2778 South East Side Highway, Elkton, Virginia 22827</p><p class="dou-paragraph" >País: Estados Unidos da América Código Único: A.0401</p><p class="dou-paragraph" >Solicitante: Merck Sharp &amp; Dohme Farmacêutica Ltda. CNPJ: 45.987.013/0001-34</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.029-0 Expediente(s): 0202628/20-5</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: partícula semelhante a vírus de proteína L1 do HPV dos tipos 6, 11, 16, 18, 31, 33, 45, 52 e 58.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

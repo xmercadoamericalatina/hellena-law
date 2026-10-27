@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.997, DE 17 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1997"
+data: 2020-06-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/06/2020, seção 1, p. 142"
+data_publicacao: 2020-06-22
+edicao: "117"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.997-de-17-de-junho-de-2020-262751186"
+sha256_html_fonte: bfcfb5e005cc2b4c921b355a900f5f513b644d9d06682f6a6898c4d678bbfb44
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.997, DE 17 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 1.997, DE 17 DE JUNHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Distribuição e Armazenagem preconizados em legislação vigente, para a área de produtos para a saúde, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Produtos para Saúde.</p><p class="dou-paragraph" >Art. 2º A presente certificação terá validade de 2 (dois) anos a partir de sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Empresa: BECTON DICKINSON INDÚSTRIAS CIRÚRGICAS LTDA CNPJ:21.551.379/0021-41</p><p class="dou-paragraph" >Endereço: RUA VEREADOR GERMANO LUIZ VIEIRA N° 500, ARM. 3 SALA BD CEP: 88316701</p><p class="dou-paragraph" >Autorização de Funcionamento: 8126043 Expediente: 0261683/18-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >---------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: Biomedical Distribution Mercosur CNPJ: 02.426.290/0007-50</p><p class="dou-paragraph" >Endereço: Rodovia Sc 486 Km 4 Sn, Parte 3-Itaipava-Itajaí/SC CEP: 88316-003</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.09.773-4 Expediente: 3507952/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >---------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: Imagem Sistemas Médicos Ltda CNPJ: 59.269.654/0001-68</p><p class="dou-paragraph" >Endereço: Avenida Juruá Nº 105, Galpão 09, 10 E 11 - Alphaville - Barueri/SP CEP: 06455-010</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.00.688-4 Expediente: 0869916/20-3</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >---------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: Laboratórios B. Braun S/A CNPJ: 31.673.254/0001-02</p><p class="dou-paragraph" >Endereço: Avenida Eugenio Borges, N° 1092, Avenida Jequitibá, Nº 09-Arsenal-São Gonçalo/RJ CEP: 24751-000</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.01.369-9 Expediente: 3546456/19-0</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p><p class="dou-paragraph" >---------------------------------------------------------------------------</p><p class="dou-paragraph" >Empresa: Merck S/A CNPJ: 33.069.212/0012-37</p><p class="dou-paragraph" >Endereço: Estrada Dos Bandeirantes, Nº 1700, Galpão 03, Armazém 108 A 113-Taquara - Rio De Janeiro/RJ CEP: 22775-111</p><p class="dou-paragraph" >Autorização de Funcionamento: 8.12.431-5 Expediente: 3411915/19-6</p><p class="dou-paragraph" >Certificado de Boas Práticas de Distribuição e Armazenagem:</p><p class="dou-paragraph" >Produtos para Saúde.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

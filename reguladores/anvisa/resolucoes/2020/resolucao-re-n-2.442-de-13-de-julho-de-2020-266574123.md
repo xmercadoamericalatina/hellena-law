@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.442, DE 13 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2442"
+data: 2020-07-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/07/2020, seção 1, p. 301"
+data_publicacao: 2020-07-14
+edicao: "133"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.442-de-13-de-julho-de-2020-266574123"
+sha256_html_fonte: 79857b364771a05eeb7e12586c26fce45847de83ccd4450b5fc9e061f1ac7fbf
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.442, DE 13 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.442, DE 13 DE JULHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >N2 FARMACIA DE MANIPULAÇÃO / 020.655.611/0002-66</p><p class="dou-paragraph" >25351.574616/2020-15 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1984212201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >RG COMERCIO DE MEDICAMENTOS LTDA / 036.322.497/0001-01</p><p class="dou-paragraph" >25351.607612/2020-21 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2090631205</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >JOLIMKA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 032.736.771/0001-38</p><p class="dou-paragraph" >25351.607605/2020-29 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2090617200</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >D G DA CRUZ / 022.006.668/0001-89</p><p class="dou-paragraph" >25351.612314/2020-52 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2105203204</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MANIBULA FARMACIA DE MANIPULAÇÃO LTDA / 004.638.260/0002-29</p><p class="dou-paragraph" >25351.607608/2020-62 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2090623204</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >A empresa já possui AFE vigente, n º0.63221-7, contrariando o disposto na RDC nº 275/2019.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ARLEN ANTONIO PEREIRA / 036.739.021/0001-70</p><p class="dou-paragraph" >25351.612295/2020-64 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2105165208</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da declaração assinada do Anexo da RDC 275/2019, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da RDC n° 25/2011.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

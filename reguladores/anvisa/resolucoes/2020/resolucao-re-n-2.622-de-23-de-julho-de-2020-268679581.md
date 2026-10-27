@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.622, DE 23 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "2622"
+data: 2020-07-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/07/2020, seção 1, p. 47"
+data_publicacao: 2020-07-27
+edicao: "142"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.622-de-23-de-julho-de-2020-268679581"
+sha256_html_fonte: 46b336cdaf98a06a4918bf28452cb98756367fee12c28bcb4d212c89d6cef041
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.622, DE 23 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.622, DE 23 DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Publicar o cancelamento de registro da apresentação a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784 de 1999.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">GUSTAVO MENDES LIMA SANTOS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >RAZÃO SOCIAL CNPJ</p><p class="dou-paragraph" >MARCA COMERCIAL Nº PROCESSO EXPEDIENTE CANCELAMENTO M.S.</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >1FARMA INDUSTRIA FARMACEUTICA LTDA - 48.113.906/0001-49</p><p class="dou-paragraph" >cloridrato de fexofenadina 25351.058471/2014-19 2010904/20-1 1048101390394 1048101390416 1048101390432</p><p class="dou-paragraph" >FEXX 25351.354302/2018-83 2011204/20-1 1048101470381 1048101470401 1048101470428</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >BLAU FARMACÊUTICA S.A. - 58.430.828/0001-60</p><p class="dou-paragraph" >NOVASUTIN 25000.019316/99-82 2170057/20-5 1163700170014 1163700170057 1163700170065</p><p class="dou-paragraph" >ANFUGINE 25000.019321/99-12 2170149/20-1 1163700190023 1163700190015</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - 05.161.069/0001-10</p><p class="dou-paragraph" >omeprazol 25351.622464/2010-38 2078111/20-3 1558404190013 1558404190021 1558404190031 1558404190048 1558404190056 1558404190064 1558404190072 1558404190080 1558404190196 1558404190201</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >CIMED INDÚSTRIA DE MEDICAMENTOS LTDA - 02.814.497/0001-07</p><p class="dou-paragraph" >cloridrato de fexofenadina 25351.749127/2013-72 2010800/20-1 1438102030391 1438102030411 1438102030438</p><p class="dou-paragraph" >FENAXXE 25351.749124/2013-95 2011102/20-9 1438102160390 1438102160412 1438102160439</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - 44.734.671/0001-51</p><p class="dou-paragraph" >CLOPAM 25000.034157/96-01 2277833/20-1 1029801890024 1029801890040 1029801890032 1029801890059</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >EMS S/A - 57.507.378/0003-65</p><p class="dou-paragraph" >cloridrato de nafazolina 25351.197089/2004-09 2210997/20-8 1023507180040</p><p class="dou-paragraph" >NARINEF 25351.310660/2015-31 2324586/20-7 1023511660027</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GERMED FARMACEUTICA LTDA - 45.992.062/0001-65</p><p class="dou-paragraph" >cloridrato de nafazolina 25351.143027/2017-93 2324511/20-5 1058308960022</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GUERBET PRODUTOS RADIOLÓGICOS LTDA - 42.180.406/0001-43</p><p class="dou-paragraph" >DOTAREM 25351.023681/00-81 2109181/20-1 1498000160123 1498000160042 1498000160050</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >PHARLAB INDÚSTRIA FARMACÊUTICA S.A. - 02.501.297/0001-02</p><p class="dou-paragraph" >cloridrato de propranolol 25351.568762/2007-34 2037043/20-1 1410700650030 1410700650049</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

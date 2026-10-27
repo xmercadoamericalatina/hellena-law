@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA DG ANTAQ Nº 328, DE 19 DE ABRIL DE 2021"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Aquaviários"
+tipo: "Portaria"
+numero: "328"
+data: 2021-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2021, seção 1, p. 202"
+data_publicacao: 2021-04-22
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-dg-antaq-n-328-de-19-de-abril-de-2021-315220671"
+sha256_html_fonte: 611a6edb106dc3d18ed7336a7d1e7ce42d5cf43e345109c60686da051f182683
+baixado_em: 2026-10-21
+---
+# PORTARIA DG ANTAQ Nº 328, DE 19 DE ABRIL DE 2021
+
+PORTARIA DG ANTAQ Nº 328, DE 19 DE ABRIL DE 2021
+
+A DIRETORIA DA AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS - ANTAQ, no uso das atribuições que lhe confere o art. 19 do Regimento Interno, tendo em vista o deliberado em sua 498ª Reunião Ordinária, realizada em 8 de abril de 2021, e considerando o disposto no processo nº 50300.006319/2019-51, resolve:
+
+**Art. 1º** Alterar os artigos 3º, 4º, 6º, 9º, 10 e 11 da Portaria nº 277/2019-DG/ANTAQ, de 22 de agosto de 2019, que passam a vigorar com a seguinte redação: "Art. 3º O Comitê Estratégico de Governança - CEG, será composto pelos membros titulares das seguintes unidades organizacionais: I - Superintendência de Outorgas - SOG; II - Superintendência de Regulação - SRG; III - Superintendência de Fiscalização e Coordenação das Unidades Regionais - SFC; IV - Superintendência de Desempenho, Desenvolvimento e Sustentabilidade - SDS; V - Superintendência de Administração e Finanças - SAF; VI - Gabinete do Diretor-Geral; e VII - Secretaria de Planejamento e Coordenação Interna - SPL. .........................................................................................................................Art. 4º O CEG será presidido pelo Chefe de Gabinete do Diretor-Geral que, em seus impedimentos, será substituído pelo Secretário de Planejamento e Coordenação Interna..........................................................................................................................Art. 6º O CEG reunir-se-á ordinariamente a cada mês, e, extraordinariamente, em qualquer data, por convocação do presidente ou secretário-executivo do Comitê.§ 1º A participação de servidor público federal no CEG será considerada prestação de serviço público relevante, não sendo remunerada. § 2º As deliberações do Comitê Estratégico de Gestão poderão ocorrer em ambiente virtual, por meio do Sistema Eletrônico de Informações - SEI, a critério do presidente ou secretário-executivo do Comitê. .........................................................................................................................Art. 9º As decisões do Comitê serão tomadas por maioria dos votos. Parágrafo único. Havendo empate na votação de matéria, o tema reingressará para pauta da próxima reunião do Comitê ou, alternativamente, a critério do seu presidente, será remetido para votação em Reunião Ordinária da Diretoria Colegiada. Art. 10. As decisões e diretrizes aprovadas pelo CEG serão formalizadas por meio da publicação das deliberações constantes das atas de reunião no Boletim de Pessoal e Serviço da ANTAQ. Parágrafo único. O Comitê disponibilizará suas atas no sítio eletrônico oficial da ANTAQ, ressalvado o conteúdo sujeito a sigilo. Art. 11. As atribuições do Comitê Estratégico de Governança, exclusivamente relacionadas a atos de gestão e governança administrativa, são as seguintes: .........................................................................................................................V - avaliar e submeter o Plano Estratégico e o Plano de Gestão Anual da ANTAQ à aprovação da Diretoria Colegiada; VI - propor a revisão de objetivos, iniciativas e indicadores estratégicos; .........................................................................................................................IX - decidir sobre o cancelamento ou suspensão de iniciativas e projetos estratégicos; X - monitorar o Plano Estratégico e o Plano de Gestão Anual da ANTAQ; .........................................................................................................................XXVIII - identificar as ações e os projetos de simplificação administrativa, modernização da gestão pública e melhoria da prestação dos serviços públicos às empresas, aos cidadãos e à sociedade civil; XXIX - propor alterações a seu regimento interno; e XXX - designar e nomear os membros dos comitês temáticos que compõem a estrutura do CEG.......................................................................................................................... Art. 12. O CEG poderá instituir comitês temáticos com a finalidade de apoiar as suas ações envolvendo mecanismos de liderança, estratégia e controle, desde que: I - não haja sobreposição com competências de comitês temáticos previamente instituídos; II - a composição seja limitada até o número máximo de 7 membros; III - seja estabelecido caráter temporário e duração não superior a um ano; e IV - não existam mais do que 5 comitês temáticos operando simultaneamente. § 1º Os comitês temáticos têm a competência para formular políticas e diretrizes transversais na ANTAQ e promover iniciativas integradas entre as unidades da Agência relativas às suas áreas de atuação. § 2º Os comitês, sempre que tratarem de temas de interesse comum ou quando de interesse no contexto mais amplo da ANTAQ, funcionarão de maneira integrada e coordenada com a definição, pelo CEG, do comitê responsável para discussão do tema específico em questão. § 3º Os comitês poderão ser instituídos e extintos, a critério do CEG, para discussão de temas específicos visando atender a interesses e demandas da Agência ou assuntos e determinações emanadas do Governo Federal. ........................................................................................................................." (NR)
+
+**Art. 2º** Fica revogada a Portaria nº 137/2020-DG/ANTAQ, de 12 de junho de 2020.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+EDUARDO NERY MACHADO FILHO
+
+Diretor-Geral

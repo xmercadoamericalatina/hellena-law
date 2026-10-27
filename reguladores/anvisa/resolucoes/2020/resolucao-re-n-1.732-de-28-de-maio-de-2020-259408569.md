@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.732, DE 28 DE MAIO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1732"
+data: 2020-05-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/06/2020, seção 1, p. 85"
+data_publicacao: 2020-06-01
+edicao: "103"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.732-de-28-de-maio-de-2020-259408569"
+sha256_html_fonte: 57ce066391809dbae7214fd003bf76538a8d1a0a84a0e641ca15dec5151416e3
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.732, DE 28 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.732, DE 28 DE MAIO DE 2020</p><p class="dou-paragraph" >O Gerente de Produtos de Higiene, Perfumes, Cosméticos e Saneantes no uso da atribuição que lhe confere o art. 164, aliado ao disposto no art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art.1º Indeferir os registros e as petições dos produtos de higiene pessoal, perfumes e cosméticos, conforme relação anexa.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">ITAMAR DE FALCO JUNIOR</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >OME DA EMPRESA / CNPJ</p><p class="dou-paragraph" >NOME DO PRODUTO E MARCA</p><p class="dou-paragraph" >NÚMERO DO PROCESSO / REGISTRO</p><p class="dou-paragraph" >PETIÇÃO(ÕES) / EXPEDIENTE(S)</p><p class="dou-paragraph" >_______________________________</p><p class="dou-paragraph" >ALPHA COSMÉTICOS PROFISSIONAIS LTDA / 008.769.965/0001-55</p><p class="dou-paragraph" >GEL LIQUIDO ATIVADOR OSMIUM</p><p class="dou-paragraph" >25351.372743/2014-53 / 249550041</p><p class="dou-paragraph" >238 - REG. COSMÉTICOS - Revalidação de Registro / 0313365/20-6</p><p class="dou-paragraph" >LYZZO GEL CREME RELAXER LINE MÉDIO</p><p class="dou-paragraph" >25351.427351/2014-06 / 249550042</p><p class="dou-paragraph" >238 - REG. COSMÉTICOS - Revalidação de Registro / 0165264/20-8</p><p class="dou-paragraph" >CREME ALISANTE SÓDIO OSMIUM</p><p class="dou-paragraph" >25351.479977/2014-20 / 249550045</p><p class="dou-paragraph" >238 - REG. COSMÉTICOS - Revalidação de Registro / 0165277/20-0</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >BIOMÁTIKA INDÚSTRIA E COMÉRCIO DE PRODUTOS NATURAIS S/A / 007.801.309/0001-20</p><p class="dou-paragraph" >GEL PARA HIGIENE DAS MÃOS DAUF</p><p class="dou-paragraph" >25351.149832/2019-92 /</p><p class="dou-paragraph" >289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0685730/20-4</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >C&amp;M INDUSTRIAL EIRELI / 10.586.083/0001-04</p><p class="dou-paragraph" >Alcool em Gel - Machado Industrial</p><p class="dou-paragraph" >25351.334585/2020-61 /</p><p class="dou-paragraph" >287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1260385/20-5</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >COSINTER INTERNACIONAL IND E COM COSMETICOS LTDA / 085.080.836/0001-04</p><p class="dou-paragraph" >Gel Antisséptico Hidratante 70% Sem Perfume Red Apple</p><p class="dou-paragraph" >25351.218796/2020-58 / 216760192</p><p class="dou-paragraph" >232 - REG. COSMÉTICOS - Substituição do Acondicionamento de Produto Registrado / 1480637/20-3</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >HM INDUSTRIA E COMERCIO DE PRODUTOS DE BELEZA LTDA - ME / 005.847.170/0001-20</p><p class="dou-paragraph" >QOD CITY 30 DIAS DE EFEITO LISO</p><p class="dou-paragraph" >25351.778726/2015-06 / 251080001</p><p class="dou-paragraph" >238 - REG. COSMÉTICOS - Revalidação de Registro / 1480414/20-4</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >VIVA EMBALAGENS LTDA. / 003.807.033/0001-36</p><p class="dou-paragraph" >ÁLCOOL EM GEL - JEITÔ</p><p class="dou-paragraph" >25351.196760/2020-14 /</p><p class="dou-paragraph" >287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0829406/20-4</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

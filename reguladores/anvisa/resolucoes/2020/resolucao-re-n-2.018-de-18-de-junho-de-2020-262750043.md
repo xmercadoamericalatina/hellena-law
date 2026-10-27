@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.018, DE 18 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2018"
+data: 2020-06-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/06/2020, seção 1, p. 145"
+data_publicacao: 2020-06-22
+edicao: "117"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.018-de-18-de-junho-de-2020-262750043"
+sha256_html_fonte: db7246b350596e7b1cdb97deb056c3606e88fbdfbdad6806e4e29bd9a9307685
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 2.018, DE 18 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 2.018, DE 18 DE JUNHO DE 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >JAMEF TRANSPORTES EIRELI / 020.147.617/0022-76</p><p class="dou-paragraph" >25351.470855/2020-05 / 1239293</p><p class="dou-paragraph" >7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1665357202</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >distribuidora de medicamentos santa barbara eireli / 036.447.388/0001-10</p><p class="dou-paragraph" >25351.477256/2020-12 / 1239305</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1684131200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >REPRESENTA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 034.938.331/0001-99</p><p class="dou-paragraph" >25351.472626/2020-17 / 1239280</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1669891206</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >TRANS KOTHE TRANSPORTES RODOVIARIOS SA / 003.052.564/0021-00</p><p class="dou-paragraph" >25351.477250/2020-37 / 1239319</p><p class="dou-paragraph" >7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1684089205</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MMC SOLUCOES EM LOGISTICA LTDA / 028.205.382/0001-09</p><p class="dou-paragraph" >25351.352128/2020-59 / 1237946</p><p class="dou-paragraph" >7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1295226205</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DISLAB GO COMERCIAL FARMACÊUTICA LTDA / 017.715.064/0003-33</p><p class="dou-paragraph" >25351.381662/2020-72 / 1239245</p><p class="dou-paragraph" >7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 1899451200</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MEDMAIS SAUDE DISTRIBUIDORA HOSPITALAR EIRELI / 033.665.884/0001-52</p><p class="dou-paragraph" >25351.549953/2020-74 / 1239276</p><p class="dou-paragraph" >704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1907625208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >CARDOSO DISTRIBUIDORA DE MEDICAMENTOS LTDA / 033.866.941/0001-61</p><p class="dou-paragraph" >25351.439773/2020-85 / 1239201</p><p class="dou-paragraph" >7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 1842069209</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

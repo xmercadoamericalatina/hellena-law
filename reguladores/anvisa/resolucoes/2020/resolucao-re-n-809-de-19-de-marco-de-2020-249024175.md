@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 809, DE 19 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "809"
+data: 2020-03-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2020, seção 1, p. 184"
+data_publicacao: 2020-03-20
+edicao: "55"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-809-de-19-de-marco-de-2020-249024175"
+sha256_html_fonte: c60fe72d6f066961d904dcdeb91cd88d846d6f133ff7b7fed1ca20f7db2072cd
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 809, DE 19 DE MARÇO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 809, DE 19 DE MARÇO DE 2020</p><p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes do anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">DANIEL MARCOS PEREIRA DOURADO</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: FORMULA X MANIPULAÇÃO E COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI</p><p class="dou-paragraph" >ENDEREÇO: Rua 22 de Novembro, 113</p><p class="dou-paragraph" >BAIRRO: Centro CEP: 76900111 - JI-PARANÁ/RO</p><p class="dou-paragraph" >CNPJ: 28.176.483/0001-07</p><p class="dou-paragraph" >PROCESSO: 25351.152601/2020-08</p><p class="dou-paragraph" >AUTORIZ/MS: 1.21808-2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: ARISTIDES AVILO DO NASCIMENTO - ME</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA JOSÉ DO PATROCÍNIO, 824</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 62500000 - ITAPIPOCA/CE</p><p class="dou-paragraph" >CNPJ: 28.064.721/0001-84</p><p class="dou-paragraph" >PROCESSO: 25351.112142/2020-11</p><p class="dou-paragraph" >AUTORIZ/MS: 1.22795-3</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DE FREITAS ZANQUI FARMACIA PERSONALIZADA LTDA</p><p class="dou-paragraph" >ENDEREÇO: RUA SIQUEIRA CAMPOS S-61 SUL</p><p class="dou-paragraph" >BAIRRO: CENTRO CEP: 17280000 - PEDERNEIRAS/SP</p><p class="dou-paragraph" >CNPJ: 34.446.018/0001-33</p><p class="dou-paragraph" >PROCESSO: 25351.162816/2020-29</p><p class="dou-paragraph" >AUTORIZ/MS: 1.21855-4</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: SUPREMA FARMA FARMÁCIA DE MANIPULAÇÃO</p><p class="dou-paragraph" >ENDEREÇO: AVENIDA LACERDA FRANCO 666</p><p class="dou-paragraph" >BAIRRO: CAMBUCI CEP: 01536000 - SÃO PAULO/SP</p><p class="dou-paragraph" >CNPJ: 31.287.695/0001-68</p><p class="dou-paragraph" >PROCESSO: 25351.179536/2020-50</p><p class="dou-paragraph" >AUTORIZ/MS: 1.23654-2</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: FARMACIA ALQUIMIA EIRELI EPP FL.22</p><p class="dou-paragraph" >ENDEREÇO: RUA JOSE CELSO CLAUDIO, 833, LOJA 05</p><p class="dou-paragraph" >BAIRRO: JARDIM CAMBURI CEP: 29090410 - VITÓRIA/ES</p><p class="dou-paragraph" >CNPJ: 31.823.214/0023-05</p><p class="dou-paragraph" >PROCESSO: 25351.148978/2020-54</p><p class="dou-paragraph" >AUTORIZ/MS: 1.21767-1</p><p class="dou-paragraph" >ATIVIDADE/CLASSE:</p><p class="dou-paragraph" >MANIPULAR: INSUMOS FARMACÊUTICOS</p><p class="dou-paragraph" >_ _ _ _ _ _ _ _ _ _ _ _</p><p class="dou-paragraph" >Total de Empresas: 5</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

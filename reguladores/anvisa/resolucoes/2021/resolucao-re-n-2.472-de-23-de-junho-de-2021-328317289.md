@@ -1,0 +1,216 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.472, DE 23 DE Junho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2472"
+data: 2021-06-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/06/2021, seção 1, p. 163"
+data_publicacao: 2021-06-28
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.472-de-23-de-junho-de-2021-328317289"
+sha256_html_fonte: 8351d633b0d5dc4e06b16cb163d6ff619e673cb90a2d34c8c0a06579b4185755
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.472, DE 23 DE Junho DE 2021
+
+RESOLUÇÃO RE Nº 2.472, DE 23 DE Junho DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: FAREVA PAU 2
+
+ENDEREÇO: SITE AQUITAINE PHARM INTERNATIONAL 2, 50 CHEMIN DE MAZEROLLES, IDRON, 64320 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0906
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0286725/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 4516677/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: EMCURE PHARMACEUTICALS LIMITED
+
+ENDEREÇO: PLOT NO. P-2, I.T.B.T. PARK, PHASE-II, M.I.D.C. HINJWADI, PUNE 411057, MAHARASHTRA. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0205
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 4535762/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0033
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 3929291/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0033
+
+EMPRESA SOLICITANTE: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91
+
+AUTORIZ/MS: 1139004 - EXPEDIENTE(s): 4447771/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PF CONSUMER HEALTHCARE CANADA ULC
+
+ENDEREÇO: 1025 MARCEL-LAURIN BOULEVARD, ST. LAURENT, QUÉBEC H4R 1J6 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.0486
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1710834/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS LTDA - CNPJ: 35.820.448/0095-16 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: RUA JOAO COSTA MARTIN, 165
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 0594748/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: VERTEX FARMACEUTICA DO BRASIL LTDA. - CNPJ: 21.798.065/0001-02
+
+AUTORIZ/MS: 1138239 - EXPEDIENTE(s): 4461781/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos; Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: CADILA HEALTHCARE LIMITED
+
+ENDEREÇO: PLOT Nº. 417, 419, 420, SARKHEJ BAVLA NATIONAL HIGHWAY Nº 8A, VILLAGE-MORAIYA, TAL-SANAND, AHMEDABAD 382 210 - GUJARAT - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0128
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 1710403/21-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: SUN FARMACÊUTICA DO BRASIL LTDA - CNPJ: 05.035.244/0001-23
+
+AUTORIZ/MS: 1046820 - EXPEDIENTE(s): 3991706/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM MILANO S.R.L.
+
+ENDEREÇO: VIA CARNEVALE, 1 - 20090, SEGRATE, (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0532
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 3945266/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A
+
+ENDEREÇO: VIALE G.B. STUCCHI, 110 - 20900 MONZA (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0477
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 4516402/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH &CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 3845707/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: WOCKHARDT LIMITED
+
+ENDEREÇO: BIOTECH PARK, H-14/2A, M.I.D.C. WALUJ, AURANGABAD 431136, MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0631
+
+EMPRESA SOLICITANTE: GERAIS, COMÉRCIO E IMPORTAÇÃO DE MATERIAIS E EQUIPAMENTOS MEDICOS LTDA - CNPJ: 04.491.780/0001-70
+
+AUTORIZ/MS: 1166743 - EXPEDIENTE(s): 3071338/20-1
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: J.R.D.INDUSTRIA FARMACEUTICA LTDA. - CNPJ: 03.869.526/0002-81 - AUTORIZ/MS: 1027899
+
+ENDEREÇO: Rua VPR - 03 Quadra 02-A, Mod. 48 e 49
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 1622928/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Óleos; Soluções; Xaropes
+
+.........................................
+
+EMPRESA: J.R.D.INDUSTRIA FARMACEUTICA LTDA. - CNPJ: 03.869.526/0002-81 - AUTORIZ/MS: 1027899
+
+ENDEREÇO: Rua VPR - 03 Quadra 02-A, Mod. 48 e 49
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 2193047/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Pós

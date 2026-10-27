@@ -1,0 +1,124 @@
+---
+titulo: "RESOLUÇÃO RE Nº 4.162, DE 4 DE Novembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4162"
+data: 2021-11-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/11/2021, seção 1, p. 102"
+data_publicacao: 2021-11-08
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.162-de-4-de-novembro-de-2021-357342304"
+sha256_html_fonte: 857e109030112d922c8755fc1f49e0510f5f4ed8f50490591aee8f3d10bfc31d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 4.162, DE 4 DE Novembro DE 2021
+
+RESOLUÇÃO RE Nº 4.162, DE 4 DE Novembro DE 2021
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Indeferir os registros e as petições dos produtos saneantes, conforme anexo.
+
+**Art. 2º** O motivo do indeferimento do processo/petição deverá ser consultado no site: http://www.anvisa.gov.br.
+
+**Art.3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSE VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA: BRILHO XIKE PRODUTOS DE LIMPEZA LTDA- ME
+
+AUTORIZAÇÃO: 3.03499-0
+
+NOME DO PRODUTO E MARCA: AGRO BIOS QUAT 80 F
+
+NUMERO DE PROCESSO: 25351.963156/2020-04
+
+NUMERO DE REGISTRO: 3.3499.0011.001-3
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 04/2031
+
+APRESENTAÇÃO: SEM VERSÃO + FRASCO DE PLASTICO OPACO + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3782 REG. SANEANTES - Retificação de Publicação de Registro
+
+EXPEDIENTE DA PETIÇÃO: 3781790/21-5
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: AGRO BIOS QUAT 80 F
+
+NUMERO DE PROCESSO: 25351.963156/2020-04
+
+NUMERO DE REGISTRO: 3.3499.0011.002-1
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 04/2031
+
+APRESENTAÇÃO: SEM VERSÃO + GALAO PLASTICO + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3782 REG. SANEANTES - Retificação de Publicação de Registro
+
+EXPEDIENTE DA PETIÇÃO: 3781790/21-5
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: AGRO BIOS QUAT 80 F
+
+NUMERO DE PROCESSO: 25351.963156/2020-04
+
+NUMERO DE REGISTRO: 3.3499.0011.003-1
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 04/2031
+
+APRESENTAÇÃO: SEM VERSÃO + BOMBONA PLASTICA + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3782 REG. SANEANTES - Retificação de Publicação de Registro
+
+EXPEDIENTE DA PETIÇÃO: 3781790/21-5
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: LAUNER QUÍMICA INDUSTRIA E COMÉRCIO LTDA
+
+AUTORIZAÇÃO: 3.02521-8
+
+NOME DO PRODUTO E MARCA: PRO TORK DETERGENTE ÁCIDO
+
+NUMERO DE PROCESSO: 25351.194254/2021-63
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: BOMBONA PLASTICA OPACA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222029 DESINCRUSTANTE ÁCIDO
+
+ASSUNTO DA PETIÇÃO: 30020 REG. SANEANTES - Registro de produtos saneantes
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE

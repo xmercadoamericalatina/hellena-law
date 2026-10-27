@@ -1,0 +1,318 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.009, de 18 de JUNHO de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2009"
+data: 2020-06-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/06/2020, seção 1, p. 143"
+data_publicacao: 2020-06-22
+edicao: "117"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.009-de-18-de-junho-de-2020-262749120"
+sha256_html_fonte: fa40887360fe74ea31e8e1e8fe6b4fae3089225208b969db86b62d0f2c044256
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE nº 2.009, de 18 de JUNHO de 2020
+
+RESOLUÇÃO-RE nº 2.009, de 18 de JUNHO de 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03 - AUTORIZ/MS: 1055622
+
+ENDEREÇO: RODOVIA PROFESSOR ZEFERINO VAZ, SP-332, KM 135
+
+MUNICÍPIO: COSMÓPOLIS - UF: SP - EXPEDIENTE: 3133305/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: 20 SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA - CNPJ: 33.051.491/0001-59
+
+AUTORIZ/MS: 1001629 - EXPEDIENTE(s): 3321502/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Citotóxicos): Cápsulas; Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT ARGENTINA S.A.I.C.
+
+ENDEREÇO: AVENIDA MÁRQUEZ 654/ 91, CIUDAD DE VILA LOMA HERMOSA, PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0130
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0803502/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN ORTHO LLC
+
+ENDEREÇO: STATE ROAD 933, KM 0,1, MAMEY WARD, GURABO, PR 00778 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.0328
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 2421700/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 3495443/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03 - AUTORIZ/MS: 1055622
+
+ENDEREÇO: RODOVIA PROFESSOR ZEFERINO VAZ, SP-332, KM 135
+
+MUNICÍPIO: COSMÓPOLIS - UF: SP - EXPEDIENTE: 3133304/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Cefalosporínicos): Soluções; Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: RUE DE L'INSTITUT, 89, 1330, RIXENSART - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0271
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 3436966/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 3346009/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI S.P.A.
+
+ENDEREÇO: VIA VALCANELLO, 4 - 03012 - ANAGNI (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0292
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 3103089/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT PHARMA SOLUTIONS LLC
+
+ENDEREÇO: 1100 ENTERPRISE DRIVE, WINCHESTER, KENTUCKY (KY) 40391 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0136
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 2401891/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0201
+
+EMPRESA SOLICITANTE: ALEXION FARMACEUTICA BRASIL IMPORTACAO E DISTRIBUICAO DE PRODUTOS E SERVICOS DE ADMINISTRACAO - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 3141286/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP - CNPJ: 43.640.754/0001-19 - AUTORIZ/MS: 1010391
+
+ENDEREÇO: RUA ENDRES, Nº 35
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 3450752/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03 - AUTORIZ/MS: 1055622
+
+ENDEREÇO: RODOVIA PROFESSOR ZEFERINO VAZ, SP-332, KM 135
+
+MUNICÍPIO: COSMÓPOLIS - UF: SP - EXPEDIENTE: 3133306/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PIERRE FABRE MEDICAMENT PRODUCTION - IDRON
+
+ENDEREÇO: AQUITAINE PHARM INTERNATIONAL 1, AVENUE DU BÉARN, IDRON 64320 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0506
+
+EMPRESA SOLICITANTE: SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 3431912/19-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: MSD INTERNATIONAL GMBH T/A MSD IRELAND (BALLYDINE)
+
+ENDEREÇO: KILSHEELAN, CLONMEL, CO. TIPPERARY - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.0878
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 3370862/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA: SANTISA LABORATÓRIO FARMACÊUTICO S/A - CNPJ: 04.099.395/0001-82 - AUTORIZ/MS: 1001862
+
+ENDEREÇO: RUA MONSENHOR CLARO, N° 6-90
+
+MUNICÍPIO: BAURU - UF: SP - EXPEDIENTE: 3420753/19-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03 - AUTORIZ/MS: 1055622
+
+ENDEREÇO: RODOVIA PROFESSOR ZEFERINO VAZ, SP-332, KM 135
+
+MUNICÍPIO: COSMÓPOLIS - UF: SP - EXPEDIENTE: 3133308/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Cefalosporínicos): Cápsulas; Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03 - AUTORIZ/MS: 1055622
+
+ENDEREÇO: RODOVIA PROFESSOR ZEFERINO VAZ, SP-332, KM 135
+
+MUNICÍPIO: COSMÓPOLIS - UF: SP - EXPEDIENTE: 3133307/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA: FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP - CNPJ: 43.640.754/0001-19 - AUTORIZ/MS: 1010391
+
+ENDEREÇO: RUA ENDRES, Nº 35
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 3450745/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: SK CHEMICALS CO., LTD.
+
+ENDEREÇO: 149, SANDAN-RO, HEUNGDEOK-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO, REPUBLIC OF KOREA - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.1167
+
+EMPRESA SOLICITANTE: Aché Laboratórios Farmacêuticos S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 2476628/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+.........................................
+
+EMPRESA: Air Liquide Brasil Ltda - CNPJ: 00.331.788/0012-71 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: Via Vicinal Antônio Sarti, 540
+
+MUNICÍPIO: SERTÃOZINHO - UF: SP - EXPEDIENTE: 3321454/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP - CNPJ: 43.640.754/0001-19 - AUTORIZ/MS: 1010391
+
+ENDEREÇO: RUA ENDRES, Nº 35
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 3450459/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Cefalosporínicos): Cápsulas; Pós
+
+Sólidos não estéreis (Penicilínicos): Cápsulas; Pós
+
+.........................................
+
+EMPRESA: LINDE GASES LTDA - CNPJ: 60.619.202/0002-29 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: R TABOAO, S/N - VIA ANCHIETA KM 13
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 1180920/18-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: PARC DE LA NOIRE EPINE, RUE FLEMING 20, 1300, WAVRE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0270
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 3435385/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 1308809/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: Farmoquimica S/A - CNPJ: 33.349.473/0003-10 - AUTORIZ/MS: 1003906
+
+ENDEREÇO: R: Viúva Claudio 300
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 1079406/15-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal

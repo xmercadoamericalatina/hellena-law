@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 6, DE 2 DE JANEIRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "6"
+data: 2020-01-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/01/2020, seção 1, p. 32"
+data_publicacao: 2020-01-06
+edicao: "3"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-6-de-2-de-janeiro-de-2020-236558451"
+sha256_html_fonte: 813f74f248843836b8bfc1c57b6c7c11b2a9e5905a6071f8c3454c5ae4b8380f
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 6, DE 2 DE JANEIRO DE 2020
+
+<div class="texto-dou"><p class="dou-paragraph" ></p><p class="identifica">RESOLUÇÃO-RE Nº 6, DE 2 DE JANEIRO DE 2020</p><p class="dou-paragraph" >A Gerente-Geral de Medicamentos e Produtos Biológicos, substituta, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.</p><p class="assina">ERICA FRANÇA COSTA</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p><p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p><p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p><p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p><p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p><p class="dou-paragraph" >COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO</p><p class="dou-paragraph" >----------------------------</p><p class="dou-paragraph" >GALLIA INDÚSTRIA FARMACÊUTICA LTDA 12022755000176</p><p class="dou-paragraph" >CETOCONAZOL + DIPROPIONATO DE BETAMETASONA</p><p class="dou-paragraph" >BETRIX 25351.597252/2019-16 04/2024</p><p class="dou-paragraph" >11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 2496502/19-2</p><p class="dou-paragraph" >1.8871.0004.001-4 24 Meses</p><p class="dou-paragraph" >20 MG/G + 0,64MG/G CREM DERM CT BG AL X 10 G</p><p class="dou-paragraph" >1.8871.0004.002-2 24 Meses</p><p class="dou-paragraph" >20 MG/G + 0,64MG/G CREM DERM CX 200 BG AL X 10 G</p><p class="dou-paragraph" >1.8871.0004.003-0 24 Meses</p><p class="dou-paragraph" >20 MG/G + 0,64MG/G CREM DERM CT BG AL X 30 G</p><p class="dou-paragraph" >1.8871.0004.004-9 24 Meses</p><p class="dou-paragraph" >20 MG/G + 0,64MG/G CREM DERM CX 100 BG AL X 30 G</p><p class="dou-paragraph" >NIMESULIDA</p><p class="dou-paragraph" >OPTAFLAN 25351.597259/2019-20 08/2024</p><p class="dou-paragraph" >11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 2496510/19-3</p><p class="dou-paragraph" >(150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR - 026537/01-3 - 25351.006433/01-83)</p><p class="dou-paragraph" >1.8871.0007.001-0 24 Meses</p><p class="dou-paragraph" >100 MG COM CT BL AL TRANS PVC/PVDC X 12</p><p class="dou-paragraph" >TIOCONAZOL + TINIDAZOL</p><p class="dou-paragraph" >Amplogin 25351.597267/2019-76 02/2024</p><p class="dou-paragraph" >11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 2496492/19-1</p><p class="dou-paragraph" >1.8871.0005.001-1 24 Meses</p><p class="dou-paragraph" >20MG/G + 30MG/G CREM VAG CT BG AL X 35G + 7 APL</p><p class="dou-paragraph" >1.8871.0005.002-8 24 Meses</p><p class="dou-paragraph" >20 MG/G +30 MG/G CREM VAG CT 100 BG AL X 35 G + 700 APL</p><p class="dou-paragraph" >ACEBROFILINA</p><p class="dou-paragraph" >RESPIRAN 25351.597273/2019-23 06/2024</p><p class="dou-paragraph" >11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 2496526/19-0</p><p class="dou-paragraph" >1.8871.0006.001-5 24 Meses</p><p class="dou-paragraph" >5 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED</p><p class="dou-paragraph" >1.8871.0006.002-3 24 Meses</p><p class="dou-paragraph" >10 MG/ML XPE CT FR PLAS AMB X 120 ML + CP MED</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.090, DE 24 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2090"
+data: 2022-06-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/06/2022, seção 1, p. 180"
+data_publicacao: 2022-06-27
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.090-de-24-de-junho-de-2022-410390994"
+sha256_html_fonte: cca60c5338dedbb92bdcfee995a358fe296219694a64b7f4f9bafa4717151265
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.090, DE 24 DE JUNHO DE 2022
+
+RESOLUÇÃO-RE Nº 2.090, DE 24 DE JUNHO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC n° 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Indeferir pleito de concessão de Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2°** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: MACEIO DEDETIZACAO E ALO LIMPEZA EIRELI
+
+ENDEREÇO: R MARIA VITORIA DE FRANCA CHAVES, Nº39-
+
+BAIRRO: POÇO
+
+MUNICÍPIO: MACEIÓ
+
+UF: AL
+
+CEP: 57.025-870
+
+CNPJ: 12.255.379/0001-60
+
+PROCESSO: 25351.503841/2021-58 (EXP: 5187991/21-3)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ESGOTAMENTO, COLETA E TRATAMENTO DE EFLUENTES SANITÁRIOS DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, AEROPORTOS, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS E POSTOS DE FRONTEIRAS;
+
+MOTIVO DO INDEFERIMENTO: NÃO CUMPRIMENTO DE EXIGÊNCIAS CONTIDAS NA NOTIFICAÇÃO DE EXIGÊNCIA DA CVPAFAL DE 31/01/2022, CONFORME PRECONIZADOS NOS ARTIGOS 6° E 11, DA RESOLUÇÃO RDC Nº 204 DE 06 DE JULHO DE 2005. A EMPRESA NÃO APRESENTOU LICENÇA SANITÁRIA CONTEMPLANDO A ATIVIDADE DO PLEITO DA AFE: ESGOTAMENTO E TRATAMENTO DE EFLUENTES SANITÁRIOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: GEOGREEN DESENVOLVIMENTO AMBIENTAL LTDA
+
+ENDEREÇO: RUA MARIA RODRIGUES, 117
+
+BAIRRO: OLARIA
+
+MUNICÍPIO: RIO DE JANEIRO
+
+UF: RJ
+
+CEP: 21.031-490
+
+CNPJ: 04.263.680/0001-97
+
+PROCESSO: 25752.015099/2022-96 (EXP: 1534597/22-1)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES;
+
+MOTIVO DO INDEFERIMENTO: A EMPRESA NÃO POSSUI ATIVIDADE ECONÔMICA RELACIONADA COM A ATIVIDADE PLEITEADA, INCISO III DA RESOLUÇÃO RDC Nº 345/2002 E ARTIGO 2º DA RESOLUÇÃO RDC 664/2022. E NÃO APRESENTOU DOCUMENTOS NECESSÁRIOS PARA PETIÇÃO, INCISO III, CONFORME RELAÇÃO DE DOCUMENTOS ANEXO III DA RESOLUÇÃO RDC 345/2002, ALTERADA PELA RESOLUÇÃO RDC Nº 374 DE 16 DE ABRIL DE 2020. E NÃO APRESENTOU DOCUMENTOS EXIGIDOS PELOS ARTIGOS 22 E 32 DA RESOLUÇÃO RDC Nº 664, DE 30 DE MARÇO DE 2022.

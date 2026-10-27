@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.547, DE 12 DE MAIO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1547"
+data: 2022-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2022, seção 1, p. 101"
+data_publicacao: 2022-05-16
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.547-de-12-de-maio-de-2022-400078642"
+sha256_html_fonte: b70369a59949b0587507b656547a5e09f8c1b3419b5940ae438a40422ce1340d
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 1.547, DE 12 DE MAIO DE 2022
+
+RESOLUÇÃO-RE Nº 1.547, DE 12 DE MAIO DE 2022
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Indeferir o pedido de Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: ASGAARD NAVEGACAO S/A
+
+ENDEREÇO: RUA LAURO MULLER, 116, SALA 2601 A 2608,
+
+BAIRRO: BOTAFOGO
+
+MUNICÍPIO: RIO DE JANEIRO
+
+UF: RJ
+
+CEP: 22.290-160
+
+CNPJ: 15.733.714/0001-86
+
+PROCESSO: 25752.758656/2020-03 (EXP:4623650/20-3)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO DE BORDO DE VEÍCULOS TERRESTRES QUE OPEREM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS, AERONAVES E EMBARCAÇÕES;
+
+MOTIVO DO INDEFERIMENTO: A EMPRESA NÃO APRESENTOU EM SUA TOTALIDADE OS DOCUMENTOS REFERENTES A NOTIFICAÇÃO Nº 06 (1304535) PRECONIZADOS PELA RDC 345/2002 E QUE FOI ENVIADA PARA A EMPRESA, ESPECIFICAMENTE NO QUE DIZ RESPEITO AO CONTRATO SOCIAL E CNPJ, QUE DEVEM CONTEMPLAR A ATIVIDADE ESPECÍFICA PLEITEADA PELA EMPRESA.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRIZ
+
+EMPRESA: LUDEMAR ANTONIO ARPINI
+
+ENDEREÇO: RUA PRINCIPAL S/Nº
+
+BAIRRO: DISTRITO DOMINGOS PETROLINE
+
+MUNICÍPIO: RIO GRANDE
+
+UF: RS
+
+CEP: 96.219-000
+
+CNPJ: 26.843.188/0001-23
+
+PROCESSO N°: 25351.099974/2021-16 (EXP: 3229876/21-1)
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS;
+
+MOTIVO DO INDEFERIMENTO: NÃO PROTOCOLOU CUMPRIMENTO PARA A NOTIFICAÇÃO DE EXIGÊNCIA Nº 3816799/21-9 RECEBIDA PELA EMPRESA EM 28/09/2021, COM PRAZO PARA ATENDIMENTO ATÉ 26/01/2022, CONFORME ART. 11 DA RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC Nº 204, DE 06 DE JULHO DE 2005.

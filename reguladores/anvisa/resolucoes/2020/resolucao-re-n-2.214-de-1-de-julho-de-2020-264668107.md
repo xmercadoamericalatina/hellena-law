@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.214, DE 1º DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2214"
+data: 2020-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/07/2020, seção 1, p. 62"
+data_publicacao: 2020-07-02
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.214-de-1-de-julho-de-2020-264668107"
+sha256_html_fonte: b46519473a8a5f19673e5b396778c048e57b312d85e380fbf862cde6521dfca6
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.214, DE 1º DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.214, DE 1º DE JULHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >FARMACIA NOVAFELIX LTDA / 004.237.231/0001-74</p><p class="dou-paragraph" >25351.192729/2017-09 / 7510517</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987592204</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MACER DROGUISTAS LTDA / 071.448.047/0011-32</p><p class="dou-paragraph" >25351.002655/2003-14 / 0275206</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987578209</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >francileia da silva castro de sousa - me / 012.706.993/0001-09</p><p class="dou-paragraph" >25351.212507/2011-16 / 0764094</p><p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 1987564209</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >PLANALTOMARYS COMERCIO DE MEDICAMENTOS LTDA / 011.721.885/0001-34</p><p class="dou-paragraph" >25351.035618/2015-26 / 7361311</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987582207</p><p class="dou-paragraph" >25351.035618/2015-26 / 7361311</p><p class="dou-paragraph" >7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1987550209</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ORGANIZAÇÃO FARMACEUTICA NAKANO LTDA / 003.123.210/0027-02</p><p class="dou-paragraph" >25351.600202/2018-34 / 7606325</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987580201</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >SAVIO &amp; SILVA FARMACIA LTDA / 031.609.162/0001-55</p><p class="dou-paragraph" >25351.308871/2019-38 / 7657398</p><p class="dou-paragraph" >7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 1987562202</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >GENESIS FARMA COM. PROD. FARMACÊUTICOS PERFUMARIA E COSMETICOS LTDA / 029.893.436/0001-39</p><p class="dou-paragraph" >25351.193225/2019-60 / 7645569</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987590208</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA E PERFUMARIA MEGA POPULAR EIRELI - ME / 023.426.895/0001-26</p><p class="dou-paragraph" >25351.766190/2015-67 / 7428096</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987588206</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >AGILFARMA MEDICAMENTOS LTDA / 007.967.085/0001-20</p><p class="dou-paragraph" >25351.285013/2006-93 / 0468001</p><p class="dou-paragraph" >7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1987586200</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

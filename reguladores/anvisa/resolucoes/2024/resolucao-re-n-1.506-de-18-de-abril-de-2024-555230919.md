@@ -1,0 +1,140 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.506, DE 18 DE ABRIL DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1506"
+data: 2024-04-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2024, seção 1, p. 231"
+data_publicacao: 2024-04-22
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.506-de-18-de-abril-de-2024-555230919"
+sha256_html_fonte: c95ce704a9ee319d0ec769ddfa151aea8edea570b319938ef14922d1573d7bd0
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.506, DE 18 DE ABRIL DE 2024
+
+RESOLUÇÃO-RE Nº 1.506, DE 18 DE ABRIL DE 2024
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA: EMS SIGMA PHARMA LTDA - CNPJ: 00.923.140/0001-31 - AUTORIZ/MS: 1035695
+
+ENDEREÇO: ROD JORNALISTA FRANCISCO AGUIRRE PROENCA KM 08 BLOCO VIII
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0926529/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Pós
+
+.........................................
+
+EMPRESA: GERMED FARMACEUTICA LTDA - CNPJ: 45.992.062/0001-65 - AUTORIZ/MS: 1005833
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0926273/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA: GERMED FARMACEUTICA LTDA - CNPJ: 45.992.062/0001-65 - AUTORIZ/MS: 1005833
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0926860/23-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA: LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 05.044.984/0001-26 - AUTORIZ/MS: 1067738
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0926534/23-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Xampus
+
+.........................................
+
+EMPRESA: MYRALIS INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 17.440.261/0001-25 - AUTORIZ/MS: 1014621
+
+ENDEREÇO: AVENIDA ROGELIA GALLARDO ALONSO, NÚMERO 650
+
+MUNICÍPIO: AGUAÍ - UF: SP - EXPEDIENTE: 0799129/23-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA FABRICANTE: P&G HEALTH AUSTRIA GMBH & CO. OG.
+
+ENDEREÇO: HÖSSLGASSE 20, 9800 SPITTAL AN DER DRAU - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000874
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 0953587/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA PHARMACEUTICAL COMPANY LIMITED
+
+ENDEREÇO: 4720 MITSUI, HIKARI, YAMAGUCHI 743-8502 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000607
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1060410/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: TITAN LABORATORIES PVT. LTD
+
+ENDEREÇO: PLOT NO E27/1 & E27/2, M.I.D.C MAHAD, VILLAGE-JITE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001392
+
+EMPRESA SOLICITANTE: EMS S/A - CNPJ: 57.507.378/0003-65
+
+AUTORIZ/MS: 1002351 - EXPEDIENTE(s): 1073153/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: QUOTIENT SCIENCES - PHILADELPHIA, LLC
+
+ENDEREÇO: 3 CHELSEA PARKWAY, SUITE 305, BOOTHWYN, PENNSYLVANIA (PA) 19061 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001410
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0865195/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: GRIFOLS WORLDWIDE OPERATIONS LIMITED
+
+ENDEREÇO: GRANGE CASTLE BUSINESS PARK, CLONDALKIN, DUBLIN 22 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001362
+
+EMPRESA SOLICITANTE: GRIFOLS BRASIL LTDA - CNPJ: 02.513.899/0001-71
+
+AUTORIZ/MS: 1036417 - EXPEDIENTE(s): 1095359/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)

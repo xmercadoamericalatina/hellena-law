@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.320, DE 6 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2320"
+data: 2020-07-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2020, seção 1, p. 168"
+data_publicacao: 2020-07-07
+edicao: "128"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.320-de-6-de-julho-de-2020-265384134"
+sha256_html_fonte: 05e74fa0725cc7d276654f4e65db1d96c35af3824c357d001ed9ceb6f8bca4c6
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.320, DE 6 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.320, DE 6 DE JULHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >FARMACIA PREÇOMENOR LINHARES / 036.672.484/0001-62</p><p class="dou-paragraph" >25351.592588/2020-18 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2038542201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MURILO PEREIRA RIBEIRO / 035.962.124/0001-32</p><p class="dou-paragraph" >25351.587894/2020-32 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2023890208</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ALCIDES PEREIRA DA SILVA DE MORPARA / 001.650.055/0001-00</p><p class="dou-paragraph" >25351.603605/2020-50 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2078314201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMACIA &amp; DROGARIA GARCIA LTDA / 036.763.465/0001-41</p><p class="dou-paragraph" >25351.592594/2020-75 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2038554204</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >R.M. FERNANDES - FARMACIA / 034.290.078/0001-00</p><p class="dou-paragraph" >25351.588516/2020-76 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2026059208</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >J X CAVALCANTE / 034.961.236/0001-06</p><p class="dou-paragraph" >25351.592583/2020-95 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2038532203</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >O documento apresentado pela empresa encontra-se com seu prazo de validade expirado, e não houve apresentação da Documentação de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

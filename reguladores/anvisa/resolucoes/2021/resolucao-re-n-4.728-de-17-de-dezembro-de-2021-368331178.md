@@ -1,0 +1,152 @@
+---
+titulo: "RESOLUÇÃO RE Nº 4.728, DE 17 DE Dezembro DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4728"
+data: 2021-12-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/12/2021, seção 1, p. 302"
+data_publicacao: 2021-12-20
+edicao: "238"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.728-de-17-de-dezembro-de-2021-368331178"
+sha256_html_fonte: 04a7088f390fb9c6cb4621f41e1e8b2446ad71c560b43e93971fd2b8e65b1144
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 4.728, DE 17 DE Dezembro DE 2021
+
+RESOLUÇÃO RE Nº 4.728, DE 17 DE Dezembro DE 2021
+
+O Gerente da Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes, no uso da atribuição que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Tornar insubsistente a RESOLUÇÃO-RE Nº 4.625, DE 9 DE DEZEMBRO DE 2021, única e exclusivamente quanto aos Processos nº 25351.554160/2017-71 e nº 25351.579507/2011-01, referente à empresa CERAS JOHNSON, publicada no Diário Oficial da União nº 233, de 13 de dezembro de 2021, Seção 1, págs. 208 a 223, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSE VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA: CERAS JOHNSON
+
+AUTORIZAÇÃO: 3.00063-1
+
+NOME DO PRODUTO E MARCA: PATO PEDRA SANITÁRIA
+
+VERSÃO: LAVANDA
+
+NUMERO DE PROCESSO: 25351.554160/2017-71
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745211/21-1
+
+NOME DO PRODUTO E MARCA: PATO PEDRA SANITÁRIA
+
+VERSÃO: PINHO
+
+NUMERO DE PROCESSO: 25351.554160/2017-71
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO TRANSPARENTE + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745211/21-1
+
+NOME DO PRODUTO E MARCA: GLADE PEDRA SANITÁRIA JOHNSON
+
+VERSÃO: BOUQUET DE LAVANDA
+
+NUMERO DE PROCESSO: 25351.579507/2011-01
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745478/21-4
+
+NOME DO PRODUTO E MARCA: GLADE PEDRA SANITÁRIA JOHNSON
+
+VERSÃO: FLORES DO CAMPO
+
+NUMERO DE PROCESSO: 25351.579507/2011-01
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745478/21-4
+
+NOME DO PRODUTO E MARCA: GLADE PEDRA SANITÁRIA JOHNSON
+
+VERSÃO: BOSQUE DE PINHO
+
+NUMERO DE PROCESSO: 25351.579507/2011-01
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745478/21-4
+
+NOME DO PRODUTO E MARCA: GLADE PEDRA SANITÁRIA JOHNSON
+
+VERSÃO: BRISA MARINHA
+
+NUMERO DE PROCESSO: 25351.579507/2011-01
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACO PLASTICO + CAIXA PAPEL CARTAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222036 DETERGENTE SANITÁRIO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4745478/21-4

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.100, de 15 de ABRIL de 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1100"
+data: 2020-04-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2020, seção 1, p. 173"
+data_publicacao: 2020-04-20
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.100-de-15-de-abril-de-2020-253132635"
+sha256_html_fonte: d31ff82992ea8d358fc40b9026c53bacc47116fee65be865f2f47d9f7ce62176
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 1.100, de 15 de ABRIL de 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE nº 1.100, de 15 de ABRIL de 2020</p><p class="dou-paragraph" >O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados Substituto, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder alteração de endereço na Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RODOLFO NAVARRO NUNES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >EMPRESA: RIGHT SOLUÇÃO EM COMÉRCIO INTERNACIONAL LTDA</p><p class="dou-paragraph" >ENDEREÇO: ALAMEDA RIO BRANCO, Nº 14 SALA 401</p><p class="dou-paragraph" >BAIRRO: CENTRO</p><p class="dou-paragraph" >MUNICÍPIO: BLUMENAU</p><p class="dou-paragraph" >UF: SC</p><p class="dou-paragraph" >CEP: 88.010-016</p><p class="dou-paragraph" >CNPJ: 14.454.049/0001-29</p><p class="dou-paragraph" >PROCESSO N°: 25741.511053/2019-27 (EXP: 0739883/20-2)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.08972-3</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: Prestação de serviço de administração ou representação de negócios em nome do representante legal ou responsável direto por embarcação, tomando as providências necessárias ao seu despacho em portos organizados e terminais aquaviários instalados no território nacional.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DEDETIZADORA JOKART S/S LTDA.</p><p class="dou-paragraph" >ENDEREÇO: RUA ANTÔNIO DE JESUS MANOEL, Nº 101</p><p class="dou-paragraph" >BAIRRO: SAÚDE</p><p class="dou-paragraph" >MUNICÍPIO: SÃO PAULO</p><p class="dou-paragraph" >UF: SP</p><p class="dou-paragraph" >CEP: 04.293-002</p><p class="dou-paragraph" >CNPJ: 01.033.293/0001-76</p><p class="dou-paragraph" >PROCESSO: 25759.663276/2013-12 (EXP: 1052242/20-5)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.06107-3</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: prestação de serviço de desinsetização ou desratização em Embarcações, Veículos Terrestres em trânsito por estações e passagens de fronteira, Aeronaves, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estações e passagens de fronteira.</p><p class="dou-paragraph" >----------------------------------------------------</p><p class="dou-paragraph" >EMPRESA: DEDETIZADORA JOKART S/S LTDA.</p><p class="dou-paragraph" >ENDEREÇO: RUA ANTÔNIO DE JESUS MANOEL, Nº 101</p><p class="dou-paragraph" >BAIRRO: SAÚDE</p><p class="dou-paragraph" >MUNICÍPIO: SÃO PAULO</p><p class="dou-paragraph" >UF: SP</p><p class="dou-paragraph" >CEP: 04.293-002</p><p class="dou-paragraph" >CNPJ: 01.033.293/0001-76</p><p class="dou-paragraph" >PROCESSO: 25759.314877/2017-51 (EXP: 1051765/20-1)</p><p class="dou-paragraph" >AUTORIZ/MS: 9.08036-1</p><p class="dou-paragraph" >ÁREA: PAF</p><p class="dou-paragraph" >ATIVIDADE: prestação de serviço de limpeza, desinfecção e descontaminação de superfícies de Aeronaves, Veículos Terrestres em trânsito por estações e passagens de fronteira, Embarcações, terminais portuários e aeroportuários de cargas e viajantes, terminais aduaneiros de uso público e estação e passagem de fronteiras.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

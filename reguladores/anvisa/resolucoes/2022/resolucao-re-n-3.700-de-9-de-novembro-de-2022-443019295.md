@@ -1,0 +1,274 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.700, DE 9 DE NOVEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3700"
+data: 2022-11-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/11/2022, seção 1, p. 191"
+data_publicacao: 2022-11-10
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.700-de-9-de-novembro-de-2022-443019295"
+sha256_html_fonte: d921ffebfea178372bcc55abdc3250b6203fdd16666f141bf327a4fac92fdcf6
+baixado_em: 2026-10-20
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 3.700, DE 9 DE NOVEMBRO DE 2022
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 3.700, DE 9 DE NOVEMBRO DE 2022</p>
+  <p class="dou-paragraph" >O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º. Cancelar, a pedido, a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >cremasco manipulação de formulas ltda / 06.203.659/0002-02</p>
+  <p class="dou-paragraph" >25351.790847/2010-01 / 0734783</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0525095221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0752-90</p>
+  <p class="dou-paragraph" >25351.157194/2018-01 / 7574167</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0077749228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >R F GARCIA SILVA COMERCIO DE MEDICAMENTOS-ME / 14.325.777/0001-30</p>
+  <p class="dou-paragraph" >25351.489130/2016-04 / 7487253</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0703160222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FABIO AUGUSTO GIUNTI RIBEIRO / 30.862.558/0001-47</p>
+  <p class="dou-paragraph" >25351.814125/2018-06 / 8182283</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0246840226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA HAMBURGUESA LTDA / 91.673.251/0006-05</p>
+  <p class="dou-paragraph" >25351.012031/2015-08 / 7357425</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0409730221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GAMA &amp; VICENTIN LTDA EPP / 58.087.909/0007-02</p>
+  <p class="dou-paragraph" >25351.467590/2014-10 / 7259048</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0053575223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >R F GARCIA SILVA COMERCIO DE MEDICAMENTOS LTDA / 14.325.777/0002-11</p>
+  <p class="dou-paragraph" >25351.867805/2021-10 / 7778911</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0703503229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EXPRESSO PATO BRANCO LTDA - ME / 19.794.799/0001-63</p>
+  <p class="dou-paragraph" >25351.230486/2015-11 / 8121367</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0484646222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA FAUSTINO LTDA - ME / 26.803.303/0001-36</p>
+  <p class="dou-paragraph" >25351.268182/2017-11 / 7518157</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0420299226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAN DROGARIA LTDA / 58.195.413/0013-92</p>
+  <p class="dou-paragraph" >25351.188563/2014-12 / 7194097</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0714219226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAN DROGARIAS LTDA / 58.195.413/0050-37</p>
+  <p class="dou-paragraph" >25351.114987/2019-16 / 7639166</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0718182225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAVIDA COMERCIAL DE DROGAS LTDA / 55.992.358/0044-70</p>
+  <p class="dou-paragraph" >25351.662865/2014-18 / 7338172</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0702395222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA SAGITARIO LTDA-EPP / 62.173.570/0001-30</p>
+  <p class="dou-paragraph" >25351.352101/2014-18 / 7217055</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0337734222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA KISSYFARMA LTDA - ME / 10.628.982/0001-14</p>
+  <p class="dou-paragraph" >25351.525019/2014-19 / 7289047</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0053647224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA MORIMOTO LTDA / 32.620.841/0015-93</p>
+  <p class="dou-paragraph" >25351.231823/2006-20 / 0462438</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0068787221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EXPRESSO PATO BRANCO LTDA - ME / 19.794.799/0001-63</p>
+  <p class="dou-paragraph" >25351.230508/2015-23 / 1140549</p>
+  <p class="dou-paragraph" >7042 - AFE - CANCELAMENTO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA / 0484731220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >belo monte farma unipessoal ltda. / 39.475.890/0001-23</p>
+  <p class="dou-paragraph" >25351.628895/2021-25 / 7816189</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0127260228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0464-36</p>
+  <p class="dou-paragraph" >25351.791402/2016-25 / 7430497</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0077586220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Pharmaguia Comércio de Medicamentos Ltda / 03.746.578/0003-41</p>
+  <p class="dou-paragraph" >25351.365066/2021-26 / 7801995</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0405280223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Medville Diagnostica Ltda - EPP / 12.957.960/0001-23</p>
+  <p class="dou-paragraph" >25351.584173/2011-27 / 8081016</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0248262220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAVIDA COMERCIAL DE DROGAS LTDA / 55.992.358/0047-12</p>
+  <p class="dou-paragraph" >25351.420970/2011-30 / 0790668</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0703512228</p>
+  <p class="dou-paragraph" >25351.420970/2011-30 / 0790668</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0702470223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >POLITEC IMPORTAÇÃO E COMÉRCIO LTDA. / 43.894.609/0006-79</p>
+  <p class="dou-paragraph" >25351.329181/2018-31 / 8169200</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0416886221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FAZFARMANET FARMACEUTICA LTDA / 33.605.829/0002-58</p>
+  <p class="dou-paragraph" >25351.475888/2020-33 / 7766945</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0654497225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RODRIGO LUIZ BORGES &amp; CIA LTDA / 07.442.439/0001-13</p>
+  <p class="dou-paragraph" >25351.281239/2005-34 / 0440881</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 8520290218</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >translute transportes rodoviários / 57.012.098/0001-14</p>
+  <p class="dou-paragraph" >25351.384613/2010-35 / 8065626</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 8505815211</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >drogacenter distribuidora de medicamentos ltda. / 55.992.358/0045-50</p>
+  <p class="dou-paragraph" >25351.356992/2011-39 / 0779451</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0702746220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0757-03</p>
+  <p class="dou-paragraph" >25351.214488/2018-39 / 7579471</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0077431226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA ROSA DE ALEM PARAIBA LTDA / 18.602.099/0001-67</p>
+  <p class="dou-paragraph" >25351.138753/2014-41 / 7138926</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0602184221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GIL &amp; LUIS FARMA LTDA / 22.556.231/0003-80</p>
+  <p class="dou-paragraph" >25351.463738/2019-43 / 7669780</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0506996223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAN DROGARIAS LTDA. / 58.195.413/0018-05</p>
+  <p class="dou-paragraph" >25351.613644/2009-43 / 0629236</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0717964222</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAN DROGARIAS LTDA / 58.195.413/0040-65</p>
+  <p class="dou-paragraph" >25351.323981/2014-49 / 7214409</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0717990221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >R BOTELHO REGO ME / 19.837.359/0001-46</p>
+  <p class="dou-paragraph" >25351.466350/2014-51 / 8108973</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 4740197227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SOU MAIS FARMA COMERCIAL LTDA / 26.246.183/0008-90</p>
+  <p class="dou-paragraph" >25351.796246/2018-51 / 7624358</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0655015221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Prime Farma Drogaria LTDA / 43.619.833/0001-48</p>
+  <p class="dou-paragraph" >25351.723429/2021-52 / 7860650</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0653634224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0839-86</p>
+  <p class="dou-paragraph" >25351.063099/2020-53 / 7705725</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0077282228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Gaucha Diagnostica Ltda EPP / 16.697.411/0001-18</p>
+  <p class="dou-paragraph" >25351.046076/2013-57 / 8092524</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0717983226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0399-01</p>
+  <p class="dou-paragraph" >25351.765731/2014-59 / 7344024</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0078132221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JOHNSON &amp; JOHNSON DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA. / 54.516.661/0067-20</p>
+  <p class="dou-paragraph" >25351.488234/2015-62 / 8125813</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 4242705221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DERMOGRAL - FARMÁCIA DERMATOLÓGICA LTDA / 87.005.716/0004-02</p>
+  <p class="dou-paragraph" >25351.648709/2013-64 / 7040386</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0308401229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMACIA GLOBO LTDA / 42.881.609/0001-67</p>
+  <p class="dou-paragraph" >25351.156173/2021-65 / 7837966</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0142269223</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MI COMERCIO DE PRODUTOS FARMACÊUTICOS / 10.573.832/0004-01</p>
+  <p class="dou-paragraph" >25351.359806/2014-66 / 7216609</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0563139224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >PRISCILA CARNEIRO LENARTEVITZ RUAS ME / 08.542.454/0001-04</p>
+  <p class="dou-paragraph" >25351.033227/2007-67 / 0484445</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0333250221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0094-18</p>
+  <p class="dou-paragraph" >25351.687752/2020-74 / 8214793</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0492975221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA DROGALANDA DE CAFELÂNDIA LTDA. / 44.499.861/0001-31</p>
+  <p class="dou-paragraph" >25351.003658/2003-75 / 0240031</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0423389221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RUTE ALANA SANTOS DA CRUZ / 39.668.598/0001-27</p>
+  <p class="dou-paragraph" >25351.138305/2021-77 / 7789577</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 8519094212</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JHONATAN WESKLY MOREIRA DE SOUZA / 14.821.549/0001-51</p>
+  <p class="dou-paragraph" >25351.330858/2021-80 / 7845529</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0587761220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >APLITEC IMPERMEABILIZANTES PARA ESTOFADOS LTDA / 33.237.223/0001-26</p>
+  <p class="dou-paragraph" >25351.570847/2014-81 / 3061030</p>
+  <p class="dou-paragraph" >719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0277183227</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A N D R DOS SANTOS &amp; CIA LTDA / 03.233.517/0001-19</p>
+  <p class="dou-paragraph" >25351.555238/2009-81 / 0623831</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0069391220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAVIDA COMERCIAL DE DROGAS LTDA / 55.992.358/0053-60</p>
+  <p class="dou-paragraph" >25351.249829/2013-82 / 0919839</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0703208221</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >GEFARMA DROGARIA LTDA-ME / 18.073.685/0001-61</p>
+  <p class="dou-paragraph" >25351.705787/2021-83 / 7821632</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0468945229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGAVIDA COMERCIAL DE DROGAS LTDA / 55.992.358/0046-31</p>
+  <p class="dou-paragraph" >25351.505901/2014-84 / 7272290</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0703066225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA DIARIAMENTE COMÉRCIO DE MEDICAMENTOS LTDA / 05.240.070/0004-83</p>
+  <p class="dou-paragraph" >25351.650058/2018-87 / 7611311</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0699444220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >johnson &amp; johnson do brasil indústria e comércio de produtos para saúde ltda. / 54.516.661/0075-30</p>
+  <p class="dou-paragraph" >25351.746199/2015-88 / 8131073</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0675980224</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0646-80</p>
+  <p class="dou-paragraph" >25351.354507/2017-88 / 7526288</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0078006225</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BELA FARMÁCIA DE MANIPULAÇÃO / 14.152.712/0001-30</p>
+  <p class="dou-paragraph" >25351.713898/2011-91 / 0813779</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0310501226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >IMAES IMPORTACAO LTDA / 12.100.924/0002-20</p>
+  <p class="dou-paragraph" >25351.190257/2016-95 / 8138911</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0154669229</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >francileide m da silva / 33.136.969/0001-43</p>
+  <p class="dou-paragraph" >25351.460897/2019-96 / 7669148</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0131213228</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CORONIS MED COMÉRCIO DE PRODUTOS MÉDICOS E HOSPITALARES EIRELI / 33.736.807/0001-46</p>
+  <p class="dou-paragraph" >25351.277806/2020-97 / 8210635</p>
+  <p class="dou-paragraph" >877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0485930226</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FARMÁCIA EL KIK DE MIRACEMA LTDA ME / 19.039.092/0002-22</p>
+  <p class="dou-paragraph" >25351.026673/2017-97 / 7496670</p>
+  <p class="dou-paragraph" >7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0127113220</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SUL MAX INDUSTRIAL LTDA / 02.698.274/0001-21</p>
+  <p class="dou-paragraph" >25023.022971/99 / 3022930</p>
+  <p class="dou-paragraph" >719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0323648223</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

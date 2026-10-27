@@ -1,0 +1,210 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.179, DE 1° DE JULHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2179"
+data: 2022-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/07/2022, seção 1, p. 151"
+data_publicacao: 2022-07-04
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.179-de-1-de-julho-de-2022-412296990"
+sha256_html_fonte: a54be37ac65c278e8298b905f0f34062402d39755912869afcd819ee0c77fe76
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.179, DE 1° DE JULHO DE 2022
+
+RESOLUÇÃO-RE Nº 2.179, DE 1° DE JULHO DE 2022
+
+A Gerente-Geral substituta de Inspeção e Fiscalização Sanitária no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução de Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ALESSANDRA PAIXÃO DIAS
+
+## ANEXO
+
+EMPRESA: Laboratorio Tiaraju Alimentos e Cosméticos LTDA EPP - CNPJ: 08.352.440/0002-09 - AUTORIZ/MS: 1237028
+
+ENDEREÇO: Antonio Pereira da Silva, 580
+
+MUNICÍPIO: SANTO ÂNGELO - UF: RS - EXPEDIENTE: 0065142/22-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: ZHEJIANG HUAHAI PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: XUNQIAO, LINHAI, ZHEJIANG - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.000876
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 4228959/21-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: HAUPT PHARMA WOLFRATSHAUSEN GMBH
+
+ENDEREÇO: PFAFFENRIEDER STRAßE 5, 82515 WOLFRATSHAUSEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001394
+
+EMPRESA SOLICITANTE: ULTRAGENYX BRASIL FARMACEUTICA LTDA - CNPJ: 27.724.245/0001-18
+
+AUTORIZ/MS: 1239643 - EXPEDIENTE(s): 8452760/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem primária; Granel): Líquidos
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A
+
+ENDEREÇO: VIALE G.B. STUCCHI, 110 - 20900 MONZA (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000477
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 4474339/21-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DR. WILLMAR SCHWABE GMBH & CO. KG
+
+ENDEREÇO: WILLMAR SCHWABE STRASSE 4, 76227 KARLSRUHE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000197
+
+EMPRESA SOLICITANTE: HERBARIUM LABORATORIO BOTANICO LTDA - CNPJ: 78.950.011/0001-20
+
+AUTORIZ/MS: 1018606 - EXPEDIENTE(s): 8452770/21-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Granel): Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA GMBH
+
+ENDEREÇO: LEHNITZSTRASSE 70-98, 16515 ORANIENBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000451
+
+EMPRESA SOLICITANTE: GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA - CNPJ: 15.670.288/0001-89
+
+AUTORIZ/MS: 1109297 - EXPEDIENTE(s): 8534717/21-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED HAMELN GMBH
+
+ENDEREÇO: LANGES FELD 13 - 31789, HAMELN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000295
+
+EMPRESA SOLICITANTE: BLAU FARMACÊUTICA S.A. - CNPJ: 58.430.828/0001-60
+
+AUTORIZ/MS: 1016377 - EXPEDIENTE(s): 8519528/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LEK D.D.,PE PROIZVODNJA MENGES
+
+ENDEREÇO: KOLODVORSKA CESTA 27,MENGES,1234 - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.001341
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4855712/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA: messer GASES LTDA - CNPJ: 60.619.202/0012-09 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: RODOVIA BR 101 SUL - KM 84,50
+
+MUNICÍPIO: JABOATÃO DOS GUARARAPES - UF: PE - EXPEDIENTE: 0064792/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES LIMITED
+
+ENDEREÇO: KUNDAIM INDUSTRIAL ESTATE, KUNDAIM VILLAGE, PONDA, GOA 403115 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000390
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0047070/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: ABBOTT BIOLOGICALS B.V.
+
+ENDEREÇO: VEERWEG 12, OLST, 8121 AA - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000592
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4855759/21-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: STRIDES PHARMA SCIENCE LIMITED
+
+ENDEREÇO: NO. 36/7, SURAGAJAKKANAHALLI, INDLAVADI CROSS, ANEKAL TALUK, BANGALORE - 562 106 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000599
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 0064936/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FAREVA UNTERACH GMBH
+
+ENDEREÇO: MONDSEESTRASSE, 11 - A-4866, UNTERACH AM ATTERSEE - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000751
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 6181028/21-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALLERGAN SALES, LLC.
+
+ENDEREÇO: 8301 MARS DRIVE, PO BOX 2675, WACO , TEXAS - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000025
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 4487557/21-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Emulsões com Preparação Asséptica; Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GREEN CROSS CORPORATION.
+
+ENDEREÇO: 40 SANDAN-GIL, HWASUN-EUP, HWASUN-GUN, JEOLLANAM-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001428
+
+EMPRESA SOLICITANTE: BLAU FARMACÊUTICA S.A. - CNPJ: 58.430.828/0001-60
+
+AUTORIZ/MS: 1016377 - EXPEDIENTE(s): 8548902/21-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica

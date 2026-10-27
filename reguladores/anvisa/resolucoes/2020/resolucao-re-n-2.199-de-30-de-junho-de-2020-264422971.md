@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.199, DE 30 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2199"
+data: 2020-06-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/07/2020, seção 1, p. 133"
+data_publicacao: 2020-07-01
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.199-de-30-de-junho-de-2020-264422971"
+sha256_html_fonte: ce365bb0205d0e97dfb461fb2eacf7a7a49d6a89d55511c8e77df003ab9a26b6
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.199, DE 30 DE JUNHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.199, DE 30 DE JUNHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º. Indeferir o pedido de Autorização de Funcionamento para as Empresas constantes no anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >PILATI MÓVEIS LTDA / 091.229.096/0001-10</p><p class="dou-paragraph" >25351.490263/2020-00 /</p><p class="dou-paragraph" >861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 1725686201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção ou documento equivalente que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente; conforme disposto nos artigos 15 e 18 da RDC nº 16/2014. Conforme o estabelecido pelo artigo 51 da Lei n° 6360/76 e pelo artigo terceiro do decreto n° 8.077/13, a autorização emitida pela Anvisa precede o licenciamento sanitário.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >QUALITY MEDICAL COMERCIAL DE PRODUTOS MÉDICOS HOSPITALARES LTDA / 034.243.692/0001-10</p><p class="dou-paragraph" >25351.743218/2019-11 /</p><p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 3575430193</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não cumprimento da exigência formulada sob o número 0268824/20-7, acessada pela empresa em 13/02/2020, contrariando os artigos 6º e 11 da RDC nº 204/2005.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >MOURA &amp; MARTINS DISTRIBUIDORA DE MATERIAL HOSPITALAR E PRODUTOS PARA A SAÚDE LTDA / 036.752.303/0001-08</p><p class="dou-paragraph" >25351.488866/2020-33 /</p><p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 1723476200</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção ou documento equivalente que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente; conforme disposto nos artigos 15 e 18 da RDC nº 16/2014. Conforme o estabelecido pelo artigo 51 da Lei n° 6360/76 e pelo artigo terceiro do decreto n° 8.077/13, a autorização emitida pela Anvisa precede o licenciamento sanitário.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >ANDRADE EQUIPAMENTOS MEDICOS EIRELI / 033.251.129/0001-21</p><p class="dou-paragraph" >25351.490207/2020-67 /</p><p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 1725588200</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do relatório de inspeção ou documento equivalente que ateste o cumprimento dos requisitos técnicos para as atividades e classes pleiteadas, emitidos pela autoridade sanitária local competente; conforme disposto nos artigos 15 e 18 da RDC nº 16/2014. Conforme o estabelecido pelo artigo 51 da Lei n° 6360/76 e pelo artigo terceiro do decreto n° 8.077/13, a autorização emitida pela Anvisa precede o licenciamento sanitário.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

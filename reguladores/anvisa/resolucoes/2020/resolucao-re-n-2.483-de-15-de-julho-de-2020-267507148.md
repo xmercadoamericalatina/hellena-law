@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.483, DE 15 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2483"
+data: 2020-07-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/07/2020, seção 1, p. 114"
+data_publicacao: 2020-07-20
+edicao: "137"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.483-de-15-de-julho-de-2020-267507148"
+sha256_html_fonte: aa6d8c136d316c569e1fe530eb5e1e22e8e15136c20dafd5a1102e398edf24a5
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.483, DE 15 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.483, DE 15 DE JULHO DE 2020</p><p class="dou-paragraph" >O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,</p><p class="dou-paragraph" >considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:</p><p class="dou-paragraph" >Art. 1º Conceder à(s) empresa(s) constante(s) no anexo, a Certificação de Boas Práticas de Fabricação de Medicamentos.</p><p class="dou-paragraph" >Art. 2º A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.</p><p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">RONALDO LUCIO PONCIANO GOMES</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >Fabricante: Baxter Manufacturing S.p.A</p><p class="dou-paragraph" >Endereço: Via della Chimica, 5 - 02015 Santa Rufina, Cittaducale, Rieti</p><p class="dou-paragraph" >País: Itália Código único: A.0079</p><p class="dou-paragraph" >Solicitante: Shire Farmacêutica Brasil Ltda. CNPJ: 07.898.671/0001-60</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.06.979-1 Expediente(s): 3258158/19-3</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos (fracionamento e purificação): complexo protrombínico (fatores II, VII, IX e X), fator VIII de coagulação, fator IX de coagulação, imunoglobulina G, intermediário eluato de feiba.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Boehringer Ingelheim RCV GmbH &amp; Co KG.</p><p class="dou-paragraph" >Endereço: Dr. Boehringer Gasse 5-11, 1121, Viena</p><p class="dou-paragraph" >País: Áustria Código único: A.0117</p><p class="dou-paragraph" >Solicitante: Bayer S.A. CNPJ: 18.459.628/0001-15</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.07.056-8 Expediente(s): 3399097/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: betainterferona 1b.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: CinnaGen Co.</p><p class="dou-paragraph" >Endereço: West Sixth St., 3rd Sq., Simindasht Industrial Area, Karaj, Alborz</p><p class="dou-paragraph" >País: Irã Código único: A.1285</p><p class="dou-paragraph" >Solicitante: Laboratórios Bagó do Brasil S.A. CNPJ: 04.748.181/0009-47</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.05.626-4 Expediente(s): 0152650/20-2</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: adalimumabe e betainterferona 1a.</p><p class="dou-paragraph" >-----------------------------------------------</p><p class="dou-paragraph" >Fabricante: Sandoz GmbH - BP Kundl</p><p class="dou-paragraph" >Endereço: Biochemiestrasse 10, 6250 Kundl</p><p class="dou-paragraph" >País: Áustria Código único: A.0540</p><p class="dou-paragraph" >Solicitante: Glaxosmithkline Brasil Ltda CNPJ: 33.247.743/0001-10</p><p class="dou-paragraph" >Autorização de Funcionamento: 1.00.107-1 Expediente(s): 3060399/19-1</p><p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Medicamentos:</p><p class="dou-paragraph" >Insumos farmacêuticos ativos biológicos: proteína de fusão NHBA recombinante de Neisseria meningitidis do sorogrupo B, proteína Nad A recombinante de Neisseria meningitidis do sorogrupo B e proteína de fusão fHBP recombinante de Neisseria meningitidis do sorogrupo B.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

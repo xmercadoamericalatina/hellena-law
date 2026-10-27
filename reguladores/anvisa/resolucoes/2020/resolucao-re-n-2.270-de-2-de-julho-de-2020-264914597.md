@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.270, DE 2 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2270"
+data: 2020-07-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/07/2020, seção 1, p. 102"
+data_publicacao: 2020-07-03
+edicao: "126"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.270-de-2-de-julho-de-2020-264914597"
+sha256_html_fonte: 13fc425c1238335469ed8a68b7df73a3066b34ecbbebf0b79357920d7996eeb7
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 2.270, DE 2 DE JULHO DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO-RE Nº 2.270, DE 2 DE JULHO DE 2020</p><p class="dou-paragraph" >A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">PATRICIA AZEVEDO CHAGAS</p><p class="dou-paragraph" >ANEXO</p><p class="dou-paragraph" >DROGARIA AIZAWA LTDA / 030.367.575/0001-08</p><p class="dou-paragraph" >25351.588528/2020-09 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2026086205</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >A empresa já possui autorização vigente, Nº 7.65155-0, contrariando o disposto na RDC nº 222/2006, Resolução RDC nº 275/2019 e Lei 9.782/99.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >FARMÁCIA DE MANIPULAÇÃO CAMOMILA LTDA ME / 022.925.473/0001-32</p><p class="dou-paragraph" >25351.564947/2020-47 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1952012203</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >A empresa já possui AFE vigente, Nº 0.26081-3, contrariando o disposto na RDC nº 222/2006, Resolução RDC nº 275/2019 e Lei 9.782/99. Deve ser solicitado o cancelamento da autorização antes de ser possível obter outra autorização do mesmo tipo.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >cleo andradas de oliveira / 034.308.333/0001-02</p><p class="dou-paragraph" >25351.564952/2020-50 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1952022201</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >DROGARIA RODRIGUES ALMEIDA LTDA / 036.953.890/0001-01</p><p class="dou-paragraph" >25351.564938/2020-56 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1951994200</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >priscilla chaves correia / 032.047.719/0001-74</p><p class="dou-paragraph" >25351.564943/2020-69 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1952004202</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >Não apresentação do Documento de Instrução, contrariando o Art. 11 da RDC nº 275/2019 e Art. 3° da Resolução RDC n° 25/2011.</p><p class="dou-paragraph" >--------------------------------------</p><p class="dou-paragraph" >i b do nascimento / 004.345.710/0001-04</p><p class="dou-paragraph" >25351.564934/2020-78 /</p><p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1951986209</p><p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p><p class="dou-paragraph" >A empresa já possui autorização vigente, Nº 0.82993-2, contrariando o disposto na RDC nº 222/2006, Resolução RDC nº 275/2019 e Lei 9.782/99.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

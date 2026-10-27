@@ -1,0 +1,144 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.904, DE 10 DE JUNHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1904"
+data: 2020-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2020, seção 1, p. 155"
+data_publicacao: 2020-06-15
+edicao: "112"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.904-de-10-de-junho-de-2020-261496458"
+sha256_html_fonte: 8c141436389aa1ed4d7a2ead4a7371b5fc6e62ab6c3199d5b31d2265dfef773a
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 1.904, DE 10 DE JUNHO DE 2020
+
+RESOLUÇÃO-RE Nº 1.904, DE 10 DE JUNHO DE 2020
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados Substituto, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NORBERTO POLLA DE CAMPOS
+
+## ANEXO
+
+EMPRESA: NAVEGAÇÃO E COMÉRCIO GUARARAPES LTDA.
+
+ENDEREÇO: RUA DA ASSEMBLÉIA, 67 - EDIF SÃO GABRIEL - SALA 51-A
+
+BAIRRO: RECIFE
+
+MUNICÍPIO: RECIFE
+
+UF: PE
+
+CEP: 50.030-130
+
+CNPJ: 09.122.847/0001-13
+
+PROCESSO N°: 25757.505173/2020-50 (EXP: 1769623/20-2)
+
+AUTORIZ/MS: 9.09201-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: PEDRO CELSO DIAS DE MORAES SÃO SEBASTIÃO - ME
+
+ENDEREÇO: AV. VEREADOR ANTÔNIO BORGES, Nº 75
+
+BAIRRO: VIRADOURO
+
+MUNICÍPIO: SÃO SEBASTIÃO
+
+UF: SP
+
+CEP: 11.600-200
+
+CNPJ: 00.653.350/0001-57
+
+PROCESSO: 25759.468454/2020-02 (EXP: 1657832/20-5)
+
+AUTORIZ/MS: 9.09202-0
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: APL GESTÃO AMBIENTAL LTDA
+
+ENDEREÇO: ESTRADA MARIA MADALENA ANDRIOTTI MINUZZO Nº 281
+
+BAIRRO: SITIO GAUCHO
+
+MUNICÍPIO: GRAVATAI
+
+UF: RS
+
+CEP: 94010-970
+
+CNPJ: 03.842.117/0001-00
+
+PROCESSO N°: 25751.475045/2019-91 (EXP: 1997590/19-2)
+
+AUTORIZ/MS: 9.09198-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA E RECOLHIMENTO DE RESÍDUOS RESULTANTES DO TRATAMENTO DE ÁGUAS SERVIDAS E DEJETOS EM TERMINAIS, PORTUÁRIOS, AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: APL GESTÃO AMBIENTAL LTDA
+
+ENDEREÇO: ESTRADA MARIA MADALENA ANDRIOTTI MINUZZO Nº 281
+
+BAIRRO: SITIO GAUCHO
+
+MUNICÍPIO: GRAVATAI
+
+UF: RS
+
+CEP: 94010-970
+
+CNPJ: 03.842.117/0001-00
+
+PROCESSO N°: 25751.475068/2019-03 (EXP: 1997692/19-5)
+
+AUTORIZ/MS: 9.09200-2
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ESGOTAMENTO E TRATAMENTO DE EFLUENTES SANITARIOS DE VEICULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCACOES, TERMINAIS AEROPORTUARIOS, ESTACOES E PASSAGENS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: APL GESTÃO AMBIENTAL LTDA
+
+ENDEREÇO: ESTRADA MARIA MADALENA ANDRIOTTI MINUZZO Nº 281
+
+BAIRRO: SITIO GAUCHO
+
+MUNICÍPIO: GRAVATAI
+
+UF: RS
+
+CEP: 94010-970
+
+CNPJ: 03.842.117/0001-00
+
+PROCESSO N°: 25751.475057/2019-15 (EXP: 1997648/19-8)
+
+AUTORIZ/MS: 9.09199-1
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

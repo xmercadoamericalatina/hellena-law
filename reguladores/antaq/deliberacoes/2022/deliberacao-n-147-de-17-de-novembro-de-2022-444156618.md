@@ -1,0 +1,34 @@
+---
+titulo: "DELIBERAÇÃO Nº 147, De 17 de novembro de 2022"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Aquaviários"
+tipo: "Deliberação"
+numero: "147"
+data: 2022-11-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/11/2022, seção 1, p. 51"
+data_publicacao: 2022-11-18
+edicao: "217"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-147-de-17-de-novembro-de-2022-444156618"
+sha256_html_fonte: 27d116e37d80db9362c53fd1e24f2978249fabb09918e9503b0dc4589fdc8126
+baixado_em: 2026-10-20
+---
+# DELIBERAÇÃO Nº 147, De 17 de novembro de 2022
+
+DELIBERAÇÃO Nº 147, De 17 de novembro de 2022
+
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS, no uso da competência que lhe é conferida pelo inciso IV do art. 20 do Regimento Interno, considerando o que consta do Processo nº 50300.006569/2022-96 e ad referendum da Diretoria Colegiada, resolve:
+
+**Art. 1º** Aprovar as seguintes alterações no Calendário de Reuniões de Diretoria para o 2º semestre de 2022:
+
+I - convocação de Reunião Extraordinária para 6 de dezembro de 2022, às 10 horas, para apresentação do estudo sobre os impactos das mudanças climáticas nos portos brasileiros; e
+
+II - antecipação da 534ª Reunião Ordinária para o dia 7 de dezembro às 14 horas, em decorrência da necessidade de adequação da agenda dos Diretores da ANTAQ.
+
+**Art. 2º** O Calendário de Reuniões da Diretoria referente ao 2º semestre de 2022 passa a vigorar conforme abaixo:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NÚMERO</p></td>      <td rowspan="1" colspan="1"><p>DATA</p></td>      <td rowspan="1" colspan="1"><p>MODALIDADE</p></td>      <td rowspan="1" colspan="1"><p>HORÁRIO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>525ª</p></td>      <td rowspan="1" colspan="1"><p>25 a 27/07/2022</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>14h de 25/07/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 27/07/2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>27ªReunião</p></td>      <td rowspan="1" colspan="1"><p>28/07/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>10h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Extraordinária</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>526ª</p></td>      <td rowspan="1" colspan="1"><p>11/08/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>527ª</p></td>      <td rowspan="1" colspan="1"><p>15 a 17/08/2022</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p>14h de 15/08/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 17/08/2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>528ª</p></td>      <td rowspan="1" colspan="1"><p>01/09/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>9h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>529ª</p></td>      <td rowspan="1" colspan="1"><p>14/09/2022 00:00</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p>14h de 12/09/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 14/09/2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>530ª</p></td>      <td rowspan="1" colspan="1"><p>29/09/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>531ª</p></td>      <td rowspan="1" colspan="1"><p>24 a 26/10/2022</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p>14h de 24/10/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 26/10/2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>532ª</p></td>      <td rowspan="1" colspan="1"><p>10/11/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>9h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>533ª</p></td>      <td rowspan="1" colspan="1"><p>21/11 a 23/11/2022</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p>14h de 21/11/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 23/11/2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>28ª Reunião</p></td>      <td rowspan="1" colspan="1"><p>06/12/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>10h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Extraordinária</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>534ª</p></td>      <td rowspan="1" colspan="1"><p>07/12/2022</p></td>      <td rowspan="1" colspan="1"><p>Videoconferência</p></td>      <td rowspan="1" colspan="1"><p>14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>535ª</p></td>      <td rowspan="1" colspan="1"><p>14/12/2022 00:00</p></td>      <td rowspan="1" colspan="1"><p>Virtual</p></td>      <td rowspan="1" colspan="1"><p>14h de 12/12/2022 às 14h</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de 14/12/2022</p></td>     </tr>    </tbody>   </table>
+
+**Art. 3º** Esta Deliberação entra em vigor na data de sua publicação no Diário Oficial da União.
+
+EDUARDO NERY MACHADO FILHO

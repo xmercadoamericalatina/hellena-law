@@ -1,0 +1,48 @@
+---
+titulo: "DELIBERAÇÃO Nº 217, DE 22 DE JULHO DE 2024"
+orgao: "Ministério dos Transportes/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Deliberação"
+numero: "217"
+data: 2024-07-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/07/2024, seção 1, p. 76"
+data_publicacao: 2024-07-23
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-217-de-22-de-julho-de-2024-573680454"
+sha256_html_fonte: a27ed63fcbe81ea340ec290d1fd33e6ed573a907ca2540cc71f04af31684046f
+baixado_em: 2026-10-16
+---
+# DELIBERAÇÃO Nº 217, DE 22 DE JULHO DE 2024
+
+DELIBERAÇÃO Nº 217, DE 22 DE JULHO DE 2024
+
+A Diretoria da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições, fundamentada no Voto DGS - 048, de 22 de julho de 2024, e no que consta do processo nº 50505.056525/2024-72;
+
+Considerando o cumprimento do disposto no capítulo 19 do Contrato de Concessão relativo ao Edital nº 04/2023, firmado com a Concessionária EPR Minas Gerias S/A - Via Mineira.; e
+
+Considerando o comunicado ao Ministério da Fazenda, em cumprimento ao inciso VII do art. 24 da Lei 10.233, de 5 de junho de 2001 combinado com o inciso VIII do art. 3º do Decreto 4.130, de 13 de fevereiro de 2002, delibera:
+
+**Art. 1º** Promover a atualização do valor da tarifa de pedágio nas praças existentes P1 - Itabirito, P2 - Conselheiro Lafaiete, e P3 - Barbacena, dos trechos concedidos da BR-040/MG, trecho Belo Horizonte/MG - Juiz de Fora/MG., explorado pela Concessionária EPR Minas Gerais S/A - Via Mineira, segundo os seguintes parâmetros:
+
+I - Tarifa Básica de Pedágio quilométrica de R$ 0,15729 (quinze mil, setecentos e vinte nove centésimos de milésimos de real por quilômetro), para Trechos Homogêneos de pista dupla, correspondentes ao valor básico da Tarifa de Pedágio para a categoria 1 de veículos fixados no contrato de concessão;
+
+II - Aplicação do Índice de Reajustamento Tarifário (IRT) de 1,04144, que representa o percentual positivo de 4,14% (quatro inteiros e quatorze centésimos por cento), correspondente à variação do IPCA no período entre a data-base da tarifa ofertada no leilão, julho de 2023, e o mês de início da cobrança do pedágio, agosto de 2024, com vista à recomposição tarifária;
+
+**Art. 2º** Aprovar, na forma da tabela anexa, a Tarifa de Pedágio reajustada e após arredondamento, nas praças de pedágio P1, P2 e P3, com efeito econômico-financeiro a partir da data de início da cobrança.
+
+**Art. 3º** A Concessionária fica autorizada a dar início à cobrança da tarifa de pedágio na data da assinatura do termo de arrolamento e transferência de bens, nos termos da cláusula 19.1.1. do Contrato de Concessão, desde que observado o prazo mínimo de 10 (dez) dias contados da publicação desta deliberação e cumpridas as demais condições para a assunção do trecho.
+
+**Art. 4º** Esta Deliberação entra em vigor na data de sua publicação.
+
+RAFAEL VITALE RODRIGUES
+
+Diretor-Geral
+
+## ANEXO
+
+TABELA DE TARIFAS
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Categoria de Veículo</p></td>      <td rowspan="1" colspan="1"><p>Tipo de Veículo</p></td>      <td rowspan="1" colspan="1"><p>Número de Eixos</p></td>      <td rowspan="1" colspan="1"><p>Rodagem</p></td>      <td rowspan="1" colspan="1"><p>Multiplicador da Tarifa</p></td>      <td rowspan="1" colspan="3"><p>Valores a serem Praticados (R$)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>P1</p></td>      <td rowspan="1" colspan="1"><p>P3</p></td>      <td rowspan="1" colspan="1"><p>P5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Automóvel, caminhonete e furgão</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Simples</p></td>      <td rowspan="1" colspan="1"><p>1,0</p></td>      <td rowspan="1" colspan="1"><p>12,70</p></td>      <td rowspan="1" colspan="1"><p>12,70</p></td>      <td rowspan="1" colspan="1"><p>12,70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Caminhão leve, ônibus, caminhão-trator e furgão</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>2,0</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Automóvel e caminhonete com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Simples</p></td>      <td rowspan="1" colspan="1"><p>1,5</p></td>      <td rowspan="1" colspan="1"><p>19,05</p></td>      <td rowspan="1" colspan="1"><p>19,05</p></td>      <td rowspan="1" colspan="1"><p>19,05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Caminhão, caminhão-trator, caminhão-trator com semi-reboque e ônibus</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>3,0</p></td>      <td rowspan="1" colspan="1"><p>38,10</p></td>      <td rowspan="1" colspan="1"><p>38,10</p></td>      <td rowspan="1" colspan="1"><p>38,10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>Automóvel e caminhonete com reboque</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Simples</p></td>      <td rowspan="1" colspan="1"><p>2,0</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>      <td rowspan="1" colspan="1"><p>25,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>Caminhão com reboque e caminhão trator com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>4,0</p></td>      <td rowspan="1" colspan="1"><p>50,80</p></td>      <td rowspan="1" colspan="1"><p>50,80</p></td>      <td rowspan="1" colspan="1"><p>50,80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>Caminhão com reboque e caminhão trator com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>5,0</p></td>      <td rowspan="1" colspan="1"><p>63,50</p></td>      <td rowspan="1" colspan="1"><p>63,50</p></td>      <td rowspan="1" colspan="1"><p>63,50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>Caminhão com reboque e caminhão trator com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>6,0</p></td>      <td rowspan="1" colspan="1"><p>76,20</p></td>      <td rowspan="1" colspan="1"><p>76,20</p></td>      <td rowspan="1" colspan="1"><p>76,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>Caminhão com reboque e caminhão trator com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>7,0</p></td>      <td rowspan="1" colspan="1"><p>88,90</p></td>      <td rowspan="1" colspan="1"><p>88,90</p></td>      <td rowspan="1" colspan="1"><p>88,90</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>Caminhão com reboque e caminhão trator com semi-reboque</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>Dupla</p></td>      <td rowspan="1" colspan="1"><p>8,0</p></td>      <td rowspan="1" colspan="1"><p>101,60</p></td>      <td rowspan="1" colspan="1"><p>101,60</p></td>      <td rowspan="1" colspan="1"><p>101,60</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>Motocicletas, motonetas, triciclos e bicicletas motorizadas</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"><p>Ambulâncias, veículos oficiais e do Corpo Diplomático</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>    </tbody>   </table>
+
+Obs.: Nos termos da subcláusula 19.2.7, para os veículos com mais de 8 (oito) eixos, será adotado o Multiplicador de Tarifa equivalente à categoria 10, acrescido do resultado da multiplicação entre: (i) o Multiplicador de Tarifa correspondente à Categoria 1 e (ii) o número de eixos do veículo que excederem a 8 (oito) eixos.

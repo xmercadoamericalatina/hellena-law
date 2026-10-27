@@ -1,0 +1,160 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.050, DE 15 DE SETEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3050"
+data: 2022-09-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/09/2022, seção 1, p. 217"
+data_publicacao: 2022-09-19
+edicao: "178"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.050-de-15-de-setembro-de-2022-430064257"
+sha256_html_fonte: 38128d7dc638a75a5ec7e8a3eb6c2eeb5e2d65fa3559b1858a7fe129100d3ac6
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 3.050, DE 15 DE SETEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 3.050, DE 15 DE SETEMBRO DE 2022
+
+O Gerente-Geral substituto de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos por meio de sua renovação automática.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: SIEGFRIED HAMELN GMBH
+
+ENDEREÇO: LANGES FELD 13 - 31789, HAMELN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000295
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0990982/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: MEGALABS FARMACEUTICA S.A. - CNPJ: 33.026.055/0001-20 - AUTORIZ/MS: 1001433
+
+ENDEREÇO: RUA SIMÕES DA MOTA, 57
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 1160883/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Óleos; Soluções; Suspensões
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000033
+
+EMPRESA SOLICITANTE: ULTRAGENYX BRASIL FARMACEUTICA LTDA - CNPJ: 27.724.245/0001-18
+
+AUTORIZ/MS: 1239643 - EXPEDIENTE(s): 0770337/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: NATCO PHARMA LIMITED
+
+ENDEREÇO: KOTHUR, RANGAREDDY DISTRICT, TELANGANA, INDIA, PIN 509228 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000929
+
+EMPRESA SOLICITANTE: NATCOFARMA DO BRASIL LTDA - CNPJ: 08.157.293/0001-27
+
+AUTORIZ/MS: 1082611 - EXPEDIENTE(s): 1359459/22-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: PACKAGING COORDINATORS, LLC
+
+ENDEREÇO: 3001 RED LION ROAD, PHILADELPHIA , PENNSYLVANIA (PA) 19114 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000138
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0652582/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED HAMELN GMBH
+
+ENDEREÇO: LANGES FELD 13 - 31789, HAMELN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000295
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 0652371/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: OPELLA HEALTHCARE INTERNATIONAL SAS
+
+ENDEREÇO: 56, ROUTE DE CHOISY-60200, COMPIÈGNE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000556
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 1185763/22-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS MEDICAL CARE - SMAD
+
+ENDEREÇO: Z.I. DE LA PONTCHONNIÈRE, ROUTE DE LA CHANADE, SAVIGNY - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000784
+
+EMPRESA SOLICITANTE: FRESENIUS MEDICAL CARE LTDA - CNPJ: 01.440.590/0001-36
+
+AUTORIZ/MS: 1032239 - EXPEDIENTE(s): 0883708/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA FABRICANTE: CYNDEA PHARMA, S.L
+
+ENDEREÇO: POLÍGONO INDUSTRIAL EMILIANO REVILLA SANZ AVENIDA DE ÁGREDA, 31, OLVEGA 42110 (SORIA) - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000992
+
+EMPRESA SOLICITANTE: BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA DE MEDICAMENTOS LTDA - CNPJ: 11.082.598/0001-21
+
+AUTORIZ/MS: 1087593 - EXPEDIENTE(s): 1263854/22-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: MAROPACK AG
+
+ENDEREÇO: INDUSTRIESTRASSE BRISECK 4, 6144 ZELL LU - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001161
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 1143447/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis (Embalagem primária): Géis
+
+.........................................
+
+EMPRESA FABRICANTE: LTS LOHMANN THERAPIE-SYSTEME AG
+
+ENDEREÇO: LOHMANNSTRASSE 2, 56626, ANDERNACH. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000384
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 0962518/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos

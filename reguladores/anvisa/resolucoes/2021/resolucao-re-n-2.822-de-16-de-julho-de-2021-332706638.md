@@ -1,0 +1,136 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.822, DE 16 DE Julho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2822"
+data: 2021-07-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/07/2021, seção 1, p. 165"
+data_publicacao: 2021-07-19
+edicao: "134"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.822-de-16-de-julho-de-2021-332706638"
+sha256_html_fonte: 96980c98ffd9b4d0162a087dac98bdcfdbbdaee026d01bc720a0b37dbb5ef65e
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.822, DE 16 DE Julho DE 2021
+
+RESOLUÇÃO RE Nº 2.822, DE 16 DE Julho DE 2021
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Indeferir os registros e as petições dos produtos saneantes, conforme anexo.
+
+**Art. 2º** O motivo do indeferimento do processo/petição deverá ser consultado no site: http://www.anvisa.gov.br.
+
+**Art.3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ITAMAR DE FALCO JUNIOR
+
+## ANEXO
+
+NOME DA EMPRESA: FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A
+
+AUTORIZAÇÃO: 3.03548-9
+
+NOME DO PRODUTO E MARCA: ÁLCOOL AEROSSOL MINUANO
+
+NUMERO DE PROCESSO: 25351.548807/2020-21
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: LATA AEROSSOL
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205061 DESINFETANTE PARA USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3882 Registro de Produto de Risco 2 - Desinfetante para Uso Geral
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: HIGEX - INDÚSTRIA E COMÉRCIO DE PRODUTOS SANEANTES LTDA - EPP
+
+AUTORIZAÇÃO: 3.04020-0
+
+NOME DO PRODUTO E MARCA: STERIGEX
+
+NUMERO DE PROCESSO: 25351.339441/2021-82
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: SACO PLASTICO + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 30020 REG. SANEANTES - Registro de produtos saneantes
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: STERIGEX
+
+NUMERO DE PROCESSO: 25351.339441/2021-82
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: BALDE + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 30020 REG. SANEANTES - Registro de produtos saneantes
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+NOME DO PRODUTO E MARCA: STERIGEX
+
+NUMERO DE PROCESSO: 25351.339441/2021-82
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: BOMBONA PLASTICA OPACA + PRODUTO SOMENTE CONTEM EMBALAGEM PRIMARIA
+
+VALIDADE DO PRODUTO: 12 Meses
+
+CATEGORIA: 3205053 DESINFETANTE PARA INDÚSTRIA ALIMENTÍCIA E AFINS
+
+ASSUNTO DA PETIÇÃO: 30020 REG. SANEANTES - Registro de produtos saneantes
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: VALDEMIR CARLOS DA SILVA PRODUTOS
+
+AUTORIZAÇÃO: 3.08053-0
+
+NOME DO PRODUTO E MARCA: CLORO GEL BRILHO CERTO
+
+NUMERO DE PROCESSO: 25351.355770/2021-71
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 6 Meses
+
+CATEGORIA: 3222025 LIMPADOR DESENGORDURANTE
+
+ASSUNTO DA PETIÇÃO: 30020 REG. SANEANTES - Registro de produtos saneantes
+
+EM DESACORDO COM A LEGISLAÇÃO VIGENTE

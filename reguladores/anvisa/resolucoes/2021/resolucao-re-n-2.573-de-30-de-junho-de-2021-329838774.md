@@ -1,0 +1,142 @@
+---
+titulo: "RESOLUÇÃO RE Nº 2.573, DE 30 DE Junho DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2573"
+data: 2021-06-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/07/2021, seção 1, p. 86"
+data_publicacao: 2021-07-05
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.573-de-30-de-junho-de-2021-329838774"
+sha256_html_fonte: eb856fdf3338aea58db9025aafc8ca3b03f018413b3576db19240dd57182ba63
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 2.573, DE 30 DE Junho DE 2021
+
+RESOLUÇÃO RE Nº 2.573, DE 30 DE Junho DE 2021
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANA CAROLINA MOREIRA MARINO ARAUJO
+
+## ANEXO
+
+EMPRESA FABRICANTE: HAUPT PHARMA AMAREG GMBH
+
+ENDEREÇO: DONAUSTAUFER STRASSE 378 - 93055 REGENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0944
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 3929560/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: AMGEN MANUFACTURING, LIMITED
+
+ENDEREÇO: PR STATE ROAD 31, KM 24.6, JUNCOS, PUERTO RICO - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.0032
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4321830/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GENZYME IRELAND LIMITED
+
+ENDEREÇO: IDA INDUSTRIAL PARK, OLD KILMEADEN ROAD, WATERFORD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.0253
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 3637241/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BAXALTA BELGIUM MANUFACTURING S.A
+
+ENDEREÇO: BOULEVARD RENÉ BRANQUART 80, B-7860 - LESSINES . - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0082
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 4263414/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: HOLOPACK VERPACKUNGSTECHNIK GMBH
+
+ENDEREÇO: BAHNHOFSTRASSE 20, 73453 ABTSGMÜND-UNTERGRÖNINGEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0303
+
+EMPRESA SOLICITANTE: OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTRIBUIDORA LTDA - CNPJ: 38.909.503/0001-57
+
+AUTORIZ/MS: 1027487 - EXPEDIENTE(s): 3774467/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA: ATHOSFARMA INDUSTRIA E COMERCIO DE EMBALAGENS LTDA. - CNPJ: 18.747.650/0001-60 - AUTORIZ/MS: 1118284
+
+ENDEREÇO: RUA ALBERTO GUIZZO Nº 919
+
+MUNICÍPIO: INDAIATUBA - UF: SP - EXPEDIENTE: 4240487/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: AMGEN EUROPE B.V.
+
+ENDEREÇO: MINERVUM 7061, 4817 ZK, BREDA - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.0029
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 4321832/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84 - AUTORIZ/MS: 1004548
+
+ENDEREÇO: ALAMEDA XINGU, Nº 766
+
+MUNICÍPIO: BARUERI - UF: SP - EXPEDIENTE: 3431461/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: MSN LABORATORIES PRIVATE LIMITED., FORMULATIONS DIVISION, UNIT - II
+
+ENDEREÇO: SY. NO. 1277 &1319 TO 1324, NANDIGAMA (VILLAGE), NANDIGAMA (MANDAL), RANGAREDDY DISTRICT - PINCODE - 509 228 TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1175
+
+EMPRESA SOLICITANTE: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41
+
+AUTORIZ/MS: 1006461 - EXPEDIENTE(s): 4143575/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA: ALEXSANDRO SANTOS DA SILVA - CNPJ: 05.329.135/0001-19 - AUTORIZ/MS: 2200013
+
+ENDEREÇO: RUA RODRIGUES CHAVES, Nº 121 -
+
+MUNICÍPIO: JOÃO PESSOA - UF: PB - EXPEDIENTE: 1215923/18-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gases Medicinais
