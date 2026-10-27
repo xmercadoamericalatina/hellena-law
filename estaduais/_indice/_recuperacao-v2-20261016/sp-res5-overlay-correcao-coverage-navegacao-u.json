@@ -1,0 +1,65 @@
+{
+  "estado": "correcao_de_cobertura_sem_mutacao_dos_congelados",
+  "manifesto_anterior": {
+    "path": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-res5-tachado.json",
+    "sha256": "6ecd6ca04382743fdccda8515fc9a5e522478e3388976394fa85f93a2be8631f"
+  },
+  "prova_raiz": {
+    "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/diagnostico-texto-preliminar-raiz.json",
+    "sha256": "4d0f9239a02348608705dac5c1100fcf38ada06f88af433248f33fac167ca0a2"
+  },
+  "correcao": "A igualdade anterior usou DOM integral e somente máscaras bold/italic/strike. Não certifica limites normativos nem sublinhado. A alegação ampla sem perdas fica retirada.",
+  "casos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "navegacao_extra_glifos_sem_brancos": 69,
+      "trecho_extra": "Assembleia Legislativa do Estado de São Paulo Ficha informativa Texto compilado",
+      "sublinhado_fonte": [],
+      "decisao": "aguarda_overlay_raiz_de_delimitacao_e_gates",
+      "alteracao_local": false
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "navegacao_extra_glifos_sem_brancos": 69,
+      "trecho_extra": "Assembleia Legislativa do Estado de São Paulo Ficha informativa Texto compilado",
+      "sublinhado_fonte": [],
+      "decisao": "aguarda_overlay_raiz_de_delimitacao_e_gates",
+      "alteracao_local": false
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "navegacao_extra_glifos_sem_brancos": 69,
+      "trecho_extra": "Assembleia Legislativa do Estado de São Paulo Ficha informativa Texto compilado",
+      "sublinhado_fonte": [
+        {
+          "tag": "u",
+          "text": "",
+          "attrs": {}
+        },
+        {
+          "tag": "u",
+          "text": "Resolução n° 776, de 14 de outubro de 1996",
+          "attrs": {}
+        }
+      ],
+      "decisao": "retido_sublinhado_sem_representacao_fiel_GFM",
+      "alteracao_local": false
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "navegacao_extra_glifos_sem_brancos": 69,
+      "trecho_extra": "Assembleia Legislativa do Estado de São Paulo Ficha informativa Texto compilado",
+      "sublinhado_fonte": [],
+      "decisao": "aguarda_overlay_raiz_de_delimitacao_e_gates",
+      "alteracao_local": false
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "navegacao_extra_glifos_sem_brancos": 69,
+      "trecho_extra": "Assembleia Legislativa do Estado de São Paulo Ficha informativa Texto compilado",
+      "sublinhado_fonte": [],
+      "decisao": "aguarda_overlay_raiz_de_delimitacao_e_gates",
+      "alteracao_local": false
+    }
+  ]
+}

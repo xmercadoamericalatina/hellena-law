@@ -1,0 +1,147 @@
+{
+  "manifesto": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-res5-tachado.json",
+  "manifesto_sha256": "6ecd6ca04382743fdccda8515fc9a5e522478e3388976394fa85f93a2be8631f",
+  "total": 5,
+  "erros": [],
+  "headers_H1_byteiguais": 5,
+  "chars_bold_italic_strike_exatos": 5,
+  "sem_tabelas_imagens": 5,
+  "estrutura": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "blocos_fonte": 10,
+      "blocos_gfm": 16,
+      "mesclas_de_blocos_fonte": {},
+      "splits_somente_em_BR_fonte": {
+        "5": [
+          6,
+          7,
+          8
+        ],
+        "10": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "limites_inesperados": [],
+      "glifos_tachados_restaurados": 164
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "blocos_fonte": 7,
+      "blocos_gfm": 10,
+      "mesclas_de_blocos_fonte": {},
+      "splits_somente_em_BR_fonte": {
+        "5": [
+          6,
+          7,
+          8
+        ],
+        "7": [
+          10,
+          11
+        ]
+      },
+      "limites_inesperados": [],
+      "glifos_tachados_restaurados": 257
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "blocos_fonte": 12,
+      "blocos_gfm": 37,
+      "mesclas_de_blocos_fonte": {},
+      "splits_somente_em_BR_fonte": {
+        "5": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "12": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "limites_inesperados": [],
+      "glifos_tachados_restaurados": 303
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "blocos_fonte": 25,
+      "blocos_gfm": 32,
+      "mesclas_de_blocos_fonte": {},
+      "splits_somente_em_BR_fonte": {
+        "25": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "limites_inesperados": [],
+      "glifos_tachados_restaurados": 2028
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "blocos_fonte": 7,
+      "blocos_gfm": 19,
+      "mesclas_de_blocos_fonte": {},
+      "splits_somente_em_BR_fonte": {
+        "5": [
+          6,
+          7,
+          8
+        ],
+        "6": [
+          9,
+          10,
+          11
+        ],
+        "7": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "limites_inesperados": [],
+      "glifos_tachados_restaurados": 365
+    }
+  ],
+  "arquivos_lista": 21,
+  "bytes_lista": 1269877,
+  "aplicado": false
+}

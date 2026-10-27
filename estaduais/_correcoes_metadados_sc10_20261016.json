@@ -1,0 +1,43 @@
+{
+  "data": "2026-10-16",
+  "documentos": [
+    {
+      "path_antes": "estaduais/SC/leis-complementares/sem-ano/lc-128-sem-ano-id11179.md",
+      "path_depois": "estaduais/SC/leis-complementares/1994/lc-128-1994-id11179.md",
+      "campo": "data",
+      "sha256_antes": "d0bf77f54a2217f37302d06c090aaa5e85e6e8a2332f3642e70aee537d705645",
+      "sha256_depois": "321f0094b77c6f8d6bb5ef917348975f2a463cb7167921bd63c45b77f6016beb",
+      "corpo_sha256": "8aa5c41e5f2976029a061f002b00570c26eca958693b227133b5fe697c2347bb",
+      "header_sha256_antes": "927bd08102ecfd1886a9651be7ba3af67004d69a14ca70e03ea39e96bb184286",
+      "header_sha256_depois": "0cd0dc5ed591e9cd9bb9068c9ef8772e10bd3ee103816a7e0b0791a6e45952da",
+      "snapshot_antes": "estaduais/SC/_indice/_integracao-tabelas-20261016/metadata-antes/estaduais/SC/leis-complementares/sem-ano/lc-128-sem-ano-id11179.md",
+      "snapshot_depois": "estaduais/SC/_indice/_integracao-tabelas-20261016/metadata-depois/estaduais/SC/leis-complementares/1994/lc-128-1994-id11179.md",
+      "fonte": "https://leis.alesc.sc.gov.br/ato-normativo/11179",
+      "cache": "estaduais/SC/_fonte/leis-complementares/1994/lc-128-1994-id11179.html.gz",
+      "fonte_sha256": "e16dbd4a4a5d309e152b681d8f2d76f5ff8ce98a68ff5bfa81d963ace5a1bc25",
+      "cache_gzip_sha256": "6893e4adaf58476d0b6f87a0ff8d68b51d1cb913313df7bb919be6f066181be7",
+      "fundamento": "dc:title oficial LEI COMPLEMENTAR Nº128,de09deoutubrode1994; fecho09outubro1994 corrobora. Índice semano não prevalece sobre epígrafe própria."
+    },
+    {
+      "path_antes": "estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "path_depois": "estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "campo": "revogada",
+      "sha256_antes": "edfb19eb3f942a35ca5cfcb6d74e57a5cff3c53124a7cdb308348945dc818b33",
+      "sha256_depois": "bd6d103dbc545c54f71b80a876a5ba1299835cc32f8d86283c7f9179c080a93c",
+      "corpo_sha256": "fd9042e64c061b37a23970bf79edd3b5c3fc27e0f6ca2eb6ac41f896b45e243c",
+      "header_sha256_antes": "fbc36e86f5eba8a82a5494c8b7a3da452e6eb80e2e7f682af9b12695bd9747e2",
+      "header_sha256_depois": "8776899ee009d1947160bb485e1aa6014e6e5ac2a473adfe42086f7551979177",
+      "snapshot_antes": "estaduais/SC/_indice/_integracao-tabelas-20261016/metadata-antes/estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "snapshot_depois": "estaduais/SC/_indice/_integracao-tabelas-20261016/metadata-depois/estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "fonte": "https://leis.alesc.sc.gov.br/ato-normativo/12738",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/1999/leip-11178-1999-id12738.html.gz",
+      "fonte_sha256": "d73d0e802fb31fcf179733830cd83294089d1d62c1272aac9ab884d85fa5576e",
+      "cache_gzip_sha256": "61d5557e3caf7f3dd2553b88b2a4c1388f65dbd8107d744373a3267f12e3a799",
+      "fundamento": "Nota própria antesFONTE: REVOGADA TOTALMENTE PELA LEI COMPLEMENTAR280/04; não inferido apenas de texto tachado."
+    }
+  ],
+  "corpos_titulos_fontes_outros_headers_preservados": true,
+  "limites": [
+    "LEIP1120/1991 epígrafe15vsfecho16 preservados; VolumesI/II próprios ausentes, documento retido."
+  ]
+}

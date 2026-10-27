@@ -1,0 +1,133 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1952/dec-30618-1952-03-10.md",
+      "urn": "urn:lex:br:federal:decreto:1952-03-10;30618",
+      "sha256": "6498bcacb89415cfbfa01798c5e6194ad9a017cb357c80e3ab0ad7e6f89a53f3",
+      "sha256_fonte_html": "8a8a8ae2b1755f334e478d785e7f60dea19c027a233a02fc3096c9425570fc81",
+      "marcadores": [
+        {
+          "inicio": 6120,
+          "fim": 6293,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-030618-0-000-10-03-1952@@@</span></p>",
+          "texto_original": "###DEC-030618-0-000-10-03-1952@@@",
+          "codigo": "###DEC-030618-0-000-10-03-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-03-10"
+        },
+        {
+          "inicio": 110312,
+          "fim": 110501,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-030618-0-000-10-03-1952@@@</span></p>",
+          "texto_original": "###DEC-030618-0-000-10-03-1952@@@",
+          "codigo": "###DEC-030618-0-000-10-03-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-03-10"
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "CAPÍTULO I — DA FINALIDADE",
+          "fonte": "CAPÍTULO I DA FINALIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA ORGANIZAÇÃO",
+          "fonte": "CAPÍTULO II DA ORGANIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS",
+          "fonte": "CAPÍTULO III DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Capítulo IV — Das Atribuições do Pessoal",
+          "fonte": "Capítulo IV Das Atribuições do Pessoal",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Capítulo V — Da Lotação",
+          "fonte": "Capítulo V Da Lotação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Capítulo VI — Do Horário",
+          "fonte": "Capítulo VI Do Horário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Capítulo VII — Das Substituições",
+          "fonte": "Capítulo VII Das Substituições",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO VIII DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29971-1951-09-10.md",
+      "urn": "urn:lex:br:federal:decreto:1951-09-10;29971",
+      "sha256": "85f0a1b1602656a7b14a0cf1bdfec471a9d20e873c0f016fa798cc454b6d3a2c",
+      "sha256_fonte_html": "7e893b6f824d840e16b7c561381490524d09a88a0a8a1ce35a974fdba2491979",
+      "marcadores": [
+        {
+          "inicio": 5688,
+          "fim": 5861,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-029971-0-000-10-09-1951@@@</span></p>",
+          "texto_original": "###DEC-029971-0-000-10-09-1951@@@",
+          "codigo": "###DEC-029971-0-000-10-09-1951@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1951-09-10"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29233-1951-01-26.md",
+      "urn": "urn:lex:br:federal:decreto:1951-01-26;29233",
+      "sha256": "3c0698a4256ebc9f36cf6ca6384087ccd90447b51e8b174ea4bd26016535f1d9",
+      "sha256_fonte_html": "c59ac833408437648bc3a6dd0e117f0010e19447238e87978aa34960629df90b",
+      "marcadores": [
+        {
+          "inicio": 5639,
+          "fim": 5813,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-029233-0-000-26-01-1951@@@3</span></p>",
+          "texto_original": "###DEC-029233-0-000-26-01-1951@@@3",
+          "codigo": "###DEC-029233-0-000-26-01-1951@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "3",
+          "data_codigo": "1951-01-26"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1951/dec-29971-1951-09-10.md",
+      "candidate": "federal/_candidatos_excecoes_012_20261021_001/dec-29971-1951-09-10.md",
+      "sha256_candidato": "15d716821fa38e1d557684a400abe747061ecee923b0ec0d06178f3dcb3f31f6",
+      "sha256_preimagem": "85f0a1b1602656a7b14a0cf1bdfec471a9d20e873c0f016fa798cc454b6d3a2c",
+      "mudanca": "Dois escapes de crases literais nas coordenadas, sem outra alteração no corpo."
+    }
+  ],
+  "resumo": {
+    "revisados": 3,
+    "aprovados": 3,
+    "reparos_privados": 1
+  }
+}

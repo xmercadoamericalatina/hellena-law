@@ -1,0 +1,1022 @@
+{
+  "estado": "indice_conferido",
+  "HEAD": "fb687f302f8454a449c2cf8f4aa7f28d8e2a12ce",
+  "atos": 24,
+  "paths": 168,
+  "paths_alterados": 165,
+  "bytes": 20581705,
+  "todos_blobs_iguais_disco": true,
+  "24_SHA256_iguais_aprovacao": true,
+  "whitespace_canonicos": "somente hardbreaks de dois espacos ou EOF; fontes e provas congeladas preservadas byte a byte",
+  "diff_check_exit": 2,
+  "blobs": [
+    {
+      "path": "WORKLOG.md",
+      "sha256": "17e20538956249836937d6aea1e8edd6b7e279a7988e36a5691ce8320da69abe",
+      "bytes": 88823,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/conversor-bb853717.py",
+      "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+      "bytes": 14266,
+      "alterado": false
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-805-2000-05-03-id5191.html.gz",
+      "sha256": "4fdb8c1b4329d72d67dbaf8418f582d4835c132b7852b406f9f28b5841630d5c",
+      "bytes": 2455,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-806-2000-06-28-id5192.html.gz",
+      "sha256": "372fc3c5ab70770f7c47cf4397f98c2f16c31756e8d56d313bcac846d0e25ef7",
+      "bytes": 2475,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-807-2000-08-09-id5193.html.gz",
+      "sha256": "417f866a960a304b25455808ff8989030b1562bba5209e7ab9e58de7a29b5ddd",
+      "bytes": 3492,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-808-2000-10-18-id5194.html.gz",
+      "sha256": "48a90f31df2d3dd2ad688494789cdafc2e13a44e01631a27e915446df2524729",
+      "bytes": 2056,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-809-2000-12-01-id5195.html.gz",
+      "sha256": "8c8ecbb3709b2985ac1a3068161fdcf9f5ba05e6d5a1a9efde187cf7bc0731a5",
+      "bytes": 3440,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-810-2000-12-04-id5196.html.gz",
+      "sha256": "e6e598fae6563831c607d1a3c51aec46cad7d4e5662bf099c0f49c89b0a082e0",
+      "bytes": 1999,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-811-2001-03-13-id3897.html.gz",
+      "sha256": "822ba968d98c73498bb481ca2adeb75f5f2c778915abee7edc396b3f6df6451e",
+      "bytes": 2390,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-812-2001-05-30-id3898.html.gz",
+      "sha256": "eb1a34451594c510f32ff0016b18030cf43a7699c6f6178bd19f250fb5480cf8",
+      "bytes": 1584,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-813-2001-09-25-id3899.html.gz",
+      "sha256": "5db51ba0859d858d8233770a5ccab1c04641fdc839dff2ab09692ad4fb931bc8",
+      "bytes": 2586,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-814-2001-09-26-id3900.html.gz",
+      "sha256": "c5088491247951e84fd1f637c51db8b0238ed6e7e3d56bac695dc4338b4a6908",
+      "bytes": 2859,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-815-2001-09-28-id3901.html.gz",
+      "sha256": "01f893ac869c0159c175e74d96f9bbb617a2ae9f9df2581a635c4153d145f5b2",
+      "bytes": 1949,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-816-2001-10-31-id3902.html.gz",
+      "sha256": "65c44f40f79c993e7674c9778c3dcba67c43e77f24645225b5cdad5588f83971",
+      "bytes": 1902,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-817-2001-11-22-id3903.html.gz",
+      "sha256": "44e7f1cb7a46922f22580483c9f120fe26bc3d37fda6ba394e424a3edb0e2e12",
+      "bytes": 2962,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-818-2001-12-06-id3904.html.gz",
+      "sha256": "61519c55f5e2e6a29682737591f5878aa42a746e87af6138d6b42c74baac82dd",
+      "bytes": 3483,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-819-2001-12-14-id3905.html.gz",
+      "sha256": "5736a06b31db63c3d6bd6377112e44ea6ef0acdd6a4aad642b531394e7fd3d19",
+      "bytes": 1994,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-820-2001-12-14-id3906.html.gz",
+      "sha256": "085b1c853aba8ba17604095fb0250139d747347f030ddeae64bb340ffd24b891",
+      "bytes": 1561,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-821-2001-12-14-id3907.html.gz",
+      "sha256": "05f51c551d0670799fe6ba0819a75f1853cff56e1d8618bf050182c3115bf78b",
+      "bytes": 4138,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-822-2001-12-14-id3908.html.gz",
+      "sha256": "3b8f59d1b40c0ea8e4d9a772ac89ef8254b96e41e087de959e8e8f94a14a446f",
+      "bytes": 3381,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-823-2002-02-14-id924.html.gz",
+      "sha256": "8b4f80ec5335d41a8240bf06e4c5f739a02466bf05f2230194ef3deaffbfd1ed",
+      "bytes": 1787,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-824-2002-03-15-id925.html.gz",
+      "sha256": "51614f8d84bfba1d6239c95e0578cfd9ef6fb3132a08715e4043750750fce4a2",
+      "bytes": 1974,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-826-2002-10-23-id1010.html.gz",
+      "sha256": "503e8c297d1c21cb429d265acbb690f0adf9e182dd12319fd71436a9d3b032cf",
+      "bytes": 2514,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-827-2002-11-27-id1236.html.gz",
+      "sha256": "91dba9409a3296d7805d022a2acf4e306db7cd93f6a8e6edafd1cd24b94a4a39",
+      "bytes": 1990,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-828-2002-12-17-id1399.html.gz",
+      "sha256": "e079c963634f718a56b8346d6eca0dfd58ff9e65ccfe74f43f46b98e421d2031",
+      "bytes": 1943,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-829-2002-12-17-id1400.html.gz",
+      "sha256": "7cb6620fcf6139b32da57a66eff64f27f787e88d44f3794bb4fc9a4d6195298e",
+      "bytes": 3051,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-830-2002-12-17-id1401.html.gz",
+      "sha256": "d9d92610c5fc1c8ae018be52fe8a17e964980617aee957b0aada4b0657f2ed0c",
+      "bytes": 1630,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/_indice/legislacao_normas.zip",
+      "sha256": "9138dffb95566277a103a3de4cdb42fd433f73286cabcaa9eea8f9ca53bdaa67",
+      "bytes": 10226190,
+      "alterado": false
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "sha256": "8529aeff0d3c23cfeeb5f943c1a510eeb4289a5f54b966056150d42c88e07161",
+      "bytes": 3192,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-806-2000-06-28-id5192.md",
+      "sha256": "7f247cab5db18f388012c54a9bbf987ecd5273bf4ff9dd51ae17c3cee0341a3a",
+      "bytes": 3417,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+      "sha256": "bee6c2fa002c0d64ac97ed288eb2c462564e7487e2f67bcb24985365cfe5603c",
+      "bytes": 7229,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "sha256": "43cfe93e76828243793ecc7917feee768c2ac18c65fe26be84664e331ac678f9",
+      "bytes": 2115,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-809-2000-12-01-id5195.md",
+      "sha256": "626dc0e9320509dc6655269472305d701a29c937052ed5d20b1f11d3b4702581",
+      "bytes": 5871,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-810-2000-12-04-id5196.md",
+      "sha256": "3064e7d9418d76ab7572aadf60b96bd811835f03edf3456a2fda28f31834eb7d",
+      "bytes": 2279,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-811-2001-03-13-id3897.md",
+      "sha256": "c149fc184d49552f8afe1e876fc2e32288ba18e8d240591afc4a73b59494c261",
+      "bytes": 3603,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-812-2001-05-30-id3898.md",
+      "sha256": "ed0fd82699fc907fdedec6447b6a242515a40255365115f1ecec03dd4f25e4d0",
+      "bytes": 1800,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-813-2001-09-25-id3899.md",
+      "sha256": "2041c37422878809aaf36f2bf1d86b997f4417bbdf99ff6a7ba7a48c4f7db8c1",
+      "bytes": 3730,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-814-2001-09-26-id3900.md",
+      "sha256": "7e88a0b5e0570d1019e507eeb29d84ae07729072782c52d62f05e36d87b342f8",
+      "bytes": 4655,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-815-2001-09-28-id3901.md",
+      "sha256": "970bdb846cb85766a8e077c64a0c3bb97e00fd1e91b53412c907f9106e06fc8b",
+      "bytes": 2124,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-816-2001-10-31-id3902.md",
+      "sha256": "c6977f3aec8d726b4f5e395949c5b9f19fb083a3172bdf6edcbb622124826427",
+      "bytes": 1965,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-817-2001-11-22-id3903.md",
+      "sha256": "321345f5039e21eba0aa2466991f0f291c63a3ac2f592c5b6146551f1358f297",
+      "bytes": 5092,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-818-2001-12-06-id3904.md",
+      "sha256": "9d107d2a6d41cbcc05236ac64525d973add9ca7c1d2470675f9a072cc12bacab",
+      "bytes": 6160,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-819-2001-12-14-id3905.md",
+      "sha256": "2d2f59ea8c20befe5ab211ba8d2a506aebeb3369b3c0ce2d83d560c7823c8991",
+      "bytes": 2248,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-820-2001-12-14-id3906.md",
+      "sha256": "bbab1fd873370a9712f59423d42d673c7f0b385186f73de3481d28d6f0d74cae",
+      "bytes": 1420,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "sha256": "ced0899b752f1359ee3b97dadc7270e3a417871d9f8029852b5303c5b7f83d36",
+      "bytes": 7239,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-823-2002-02-14-id924.md",
+      "sha256": "eedc4e77f98428fddd8ed293cac660bf37aba60cf18367032c78386d32c47cee",
+      "bytes": 1799,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-824-2002-03-15-id925.md",
+      "sha256": "94fa4860e1398feb033c329e8fe51b81f5a001be7b862635512298f279f2603a",
+      "bytes": 2112,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-826-2002-10-23-id1010.md",
+      "sha256": "d1549fcbe5fde58f119cf4008e24afb4eecbbc1a9398d45a5f4a7d8cc21ea151",
+      "bytes": 4003,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-827-2002-11-27-id1236.md",
+      "sha256": "a738199d87e4ef0edfbf7ef2ec39857b7a2de3defa64f88db8da9ff838126557",
+      "bytes": 2849,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-828-2002-12-17-id1399.md",
+      "sha256": "a4afa3d00193a6be3491d316bb4e18b38815c638c2dabab00d97b305196af597",
+      "bytes": 2130,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "sha256": "f00bb68de7deeb34d1d0d68669dca468d67263a87e3d26baef532b259929f6bc",
+      "bytes": 5232,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-830-2002-12-17-id1401.md",
+      "sha256": "054323b086b55109ba2c50d03ddacab783d4e4044b0a200f0e4564a330e9e7e9",
+      "bytes": 1565,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/auditar-sp-res52.py",
+      "sha256": "73ab345fb88a398ead8fef453a770ad471bdc07778a4ed22b2682c2abbc19e7a",
+      "bytes": 4327,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/fechar-sp-res-primeiras25.py",
+      "sha256": "bc9df428ea066805510cf5191c9127dca52ed002da79e7a85f6af119b2928715",
+      "bytes": 6976,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-res20.json",
+      "sha256": "a7491f3c43768ee76f7d1d4884e2a7ed96525a97d65c907f32b88a0d752a9f99",
+      "bytes": 32259,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-res5-tachado.json",
+      "sha256": "6ecd6ca04382743fdccda8515fc9a5e522478e3388976394fa85f93a2be8631f",
+      "bytes": 9571,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/preparar-sp-res5-tachado.py",
+      "sha256": "8dafb102a39399408d694838cae25d7fd993180bba248154b200fa18545899f7",
+      "bytes": 5940,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/restaurar-sp-dlg71-css.py",
+      "sha256": "5d1b4adaf7b0a5cbe791fd1b342c789713a63f3645137424941f5705992393ae",
+      "bytes": 10294,
+      "alterado": false
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/GFM20-raiz.html",
+      "sha256": "08b694f207e418879eee16a9fe910f15d691346f0871168c04ad46f1bb17148b",
+      "bytes": 62524,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/GitHub20-raiz.html",
+      "sha256": "c551e1cbea7c0ae76f53cc102008df133e4c0dc95b6a77c5c9c47f2e0f39c45a",
+      "bytes": 64690,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/SP-paths-HEAD-raiz.txt",
+      "sha256": "9c05650f14b586ecce7d89712554096c184269a809ce3e5262b09ff532dcb1a3",
+      "bytes": 3802471,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/censo-HTML-estilos-raiz.json",
+      "sha256": "795c30a2c4023397bb3b299648d444175dac2e66f317629b2f741a0304b25497",
+      "bytes": 3079,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/config20-raiz.json",
+      "sha256": "b7d78cac8ece2fe2c3d118f1e37db5731b7ae2873c67951b22e0538500711f05",
+      "bytes": 3719,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/perfil-flags-CSS-raiz-final.json",
+      "sha256": "e413a5b99f736119ee9c405a04c3cc09382507e5940e451676f3dd09ad850e9e",
+      "bytes": 17052,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/perfil20-selecionado.json",
+      "sha256": "e00d8e775c29b4958c66642aba89e5f224a66fb7fc303c66c7df125bd430d563",
+      "bytes": 294435,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/selecao20-XML-raiz.xml",
+      "sha256": "15d8db325ff729346d3431de8406ca47cac3fd5665d4b2751008121f175c1c9f",
+      "bytes": 21018,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/verificacao-GFM-GitHub20-raiz.json",
+      "sha256": "6ce495458a5b38d8b195a19953754d5af29ee4c8742a9d03273a020d085018d2",
+      "bytes": 8020,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/verificacao-primarios20-raiz.json",
+      "sha256": "1eb609523d13566d62834729a46370df5dcc23d2e6656b7f4ed64be98cdfc5da",
+      "bytes": 35115,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/verificar-GitHub-raiz.py",
+      "sha256": "044ee654ad528267293017851fb0658aa804570733389bce1ed28d32537168ea",
+      "bytes": 2748,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/verificar-flags-CSS-raiz.py",
+      "sha256": "8da25ac2eef44f1b423d631cf9be25cd7a3eff3f32ac73828521bd51a36eebf2",
+      "bytes": 4800,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res20/verificar-primarios-raiz.py",
+      "sha256": "09ebb57f31efa91301c5cbe1677d27bf2d80453bfe864d477a52f2d0b4797e74",
+      "bytes": 4507,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res24/aplicar-SP24-raiz.py",
+      "sha256": "4a2df46689bed04117024a1d5ac56c4f418b0ccd30da0713f0e51ca73fc33952",
+      "bytes": 7671,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res24/aprovacao-publicacao24-raiz.json",
+      "sha256": "a7a48250d9ac9cb416204577d338261deef3df6a388cabbdb602fd9e60b9eb18",
+      "bytes": 34976,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/GFM4-raiz.html",
+      "sha256": "4281bd2a84b5a5c5a17d239f977cee7af81302cdb8a2a1abd19cd7cd41ba3c36",
+      "bytes": 17590,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/GitHub4-raiz.html",
+      "sha256": "0c926f38e5ed13f7d5c7dc7c9a4106e95626e9b5950a0c0e7fd28ae30d3fe72b",
+      "bytes": 18318,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/censo-HTML-estilos-raiz.json",
+      "sha256": "1f4085c4d0cc387136215f0d1157d0b6c68e6f60ad7987f3f3b77d6422bb75c1",
+      "bytes": 1093,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/censo-HTML-raiz.py",
+      "sha256": "962944ecd95643c23d076dedec40221579199e2edcc408a2685393fef60a6edb",
+      "bytes": 1375,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/config4-raiz.json",
+      "sha256": "450529c7d7a7d042803f71fd2f33cd548e9bec16992725e34a7a224e7e613948",
+      "bytes": 687,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/overlay-candidatos4-raiz.json",
+      "sha256": "43bfa4b696401acd529ab533c3573af410a9db130811038831606b6f86ae8a25",
+      "bytes": 3228,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/perfil-flags-CSS-raiz-final.json",
+      "sha256": "22144a44670da7eb17144fcb521e5dd025ef56f599ebfc4a48a6b9155b12d457",
+      "bytes": 3731,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/perfil4-selecionado.json",
+      "sha256": "233fcfd33e2930e00da031fde918eb602b5323363d6462f0deb6f8196024c8dd",
+      "bytes": 73988,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-805-2000-05-03-id5191.md",
+      "sha256": "8529aeff0d3c23cfeeb5f943c1a510eeb4289a5f54b966056150d42c88e07161",
+      "bytes": 3192,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-808-2000-10-18-id5194.md",
+      "sha256": "43cfe93e76828243793ecc7917feee768c2ac18c65fe26be84664e331ac678f9",
+      "bytes": 2115,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-822-2001-12-14-id3908.md",
+      "sha256": "ced0899b752f1359ee3b97dadc7270e3a417871d9f8029852b5303c5b7f83d36",
+      "bytes": 7239,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-829-2002-12-17-id1400.md",
+      "sha256": "f00bb68de7deeb34d1d0d68669dca468d67263a87e3d26baef532b259929f6bc",
+      "bytes": 5232,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/verificacao-GFM-GitHub4-raiz.json",
+      "sha256": "e2cdc3e3169dd75c85df10413f1f0471e07278091f33cfe4e08b9fffb2a7a359",
+      "bytes": 1915,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/verificar-GitHub-raiz.py",
+      "sha256": "78592d34cbeaf383f369cbf7d97e61f2eb0b869c40b9825cf8d1d618a811fade",
+      "bytes": 2742,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/verificar-flags-CSS-raiz.py",
+      "sha256": "c9e3c3062f86ea13a33f714fdfc1add7946542485dc83ef402e7601e37112ca9",
+      "bytes": 4773,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/GFM5-raiz.html",
+      "sha256": "7e9222405c038506f67d06c4f08c0c803e22d7c177654195f6b372c6ebdaed87",
+      "bytes": 26168,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/GitHub5-raiz.html",
+      "sha256": "646df911c4b35ad57c4d5f5539de72892f4425c868b3b65b243e4221fcc050fb",
+      "bytes": 27337,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/SP-paths-HEAD-raiz.txt",
+      "sha256": "9c05650f14b586ecce7d89712554096c184269a809ce3e5262b09ff532dcb1a3",
+      "bytes": 3802471,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/censo-HTML-estilos-raiz.json",
+      "sha256": "c25539b39eea88b7a0e70d4a40c9a934843da71d5e0346aae1ef4aee85c64b53",
+      "bytes": 1245,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/config5-raiz.json",
+      "sha256": "14a3a15ef0760b3dc461218526c33c832f1949b689119d71b40cbca0b4bdbed8",
+      "bytes": 858,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/diagnosticar-texto-raiz.py",
+      "sha256": "85244a3b290a3a79ae702e18215bcbc6aaee4880fd748789bd4a618f4f77cbbd",
+      "bytes": 1484,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/diagnostico-texto-preliminar-raiz.json",
+      "sha256": "4d0f9239a02348608705dac5c1100fcf38ada06f88af433248f33fac167ca0a2",
+      "bytes": 2867,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/overlay-candidatos5-raiz.json",
+      "sha256": "07e86412feadd3606c1a17198ac52467213bcbe0e79d1948e72732725cb2dbb2",
+      "bytes": 3568,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/perfil5-selecionado.json",
+      "sha256": "c2aa0001a3986893ce91ae7530334d5adeb9a9ef8a772d8b815ad80ce0c3f0b3",
+      "bytes": 107447,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/res-alesp-805-2000-05-03-id5191.md",
+      "sha256": "1f4f49cade6d4caa68e342517f8cf09d6d6c29369c72120af050837d274b2deb",
+      "bytes": 3276,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/res-alesp-808-2000-10-18-id5194.md",
+      "sha256": "9ea2c80d5df90351589ca31401313b07613185dbd186ecd471e3801daa1138a4",
+      "bytes": 2199,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/res-alesp-821-2001-12-14-id3907.md",
+      "sha256": "22cc20488c588b8591fa4256d4e6b706cd7e442420fa9a81c433e72b51368fbc",
+      "bytes": 7957,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/res-alesp-822-2001-12-14-id3908.md",
+      "sha256": "0ed1a229ac9652cce0af0b547a631f3e357aea50f4fd023ded3e374f6e6bb7c5",
+      "bytes": 7323,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/res-alesp-829-2002-12-17-id1400.md",
+      "sha256": "18cf1826c1e3c7c8d0799fae1b9178b63bb76ef0b0b57e0b354ce7d75af81d6b",
+      "bytes": 5316,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/selecao5-XML-raiz.xml",
+      "sha256": "67d3b2854b0bc568c292d124188e5e8d6a2205c2aa41f883d3eaeaaab4656536",
+      "bytes": 4730,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/verificacao-GFM-GitHub5-raiz.json",
+      "sha256": "d7ee633b5480ed97612812f04f11c880e955745cff1ee9037d4a670a5a6307eb",
+      "bytes": 2278,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/verificacao-primarios5-raiz.json",
+      "sha256": "6b386c02940e5e886f6c6f27706109c5ca8be797cfe34caa3418f0f74b24c906",
+      "bytes": 9404,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/verificar-GitHub-raiz.py",
+      "sha256": "a12ce15837783897a7458cc17a1e50376c28515be303f3902750cc56e302789b",
+      "bytes": 2742,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/verificar-flags-CSS-raiz.py",
+      "sha256": "219f141255461d164a27425e7242681a76f97f4fbbe82a85ef8a88881e26c072",
+      "bytes": 4773,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res5/verificar-primarios-raiz.py",
+      "sha256": "0519f252173ef9ddf8f7896b7c6d1995a105f5f0e0523639639739a205a23ad4",
+      "bytes": 4844,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res-primeiras25-contextos.json",
+      "sha256": "3373255b991e0627d7e97ddb71b5e43434852f27807b9f224ac4d0efc1775eaf",
+      "bytes": 7632,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20-overlay-coverage-css.json",
+      "sha256": "37c4daea11f41476588e929eee05391156b91ba57b428d6c2751af61406be923",
+      "bytes": 912,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20-perfil-css-independente.json",
+      "sha256": "470e95e197dcc9441d2c3c3957a6f9254609156965ad0d8c6c155fbefb786584",
+      "bytes": 11598,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20-verificacao-final.json",
+      "sha256": "a92feb76c85a7515c06b48434e85cfa9b1d7e615201afbc85445c3f07be193eb",
+      "bytes": 608,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-806-2000-06-28-id5192.md",
+      "sha256": "7f247cab5db18f388012c54a9bbf987ecd5273bf4ff9dd51ae17c3cee0341a3a",
+      "bytes": 3417,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+      "sha256": "bee6c2fa002c0d64ac97ed288eb2c462564e7487e2f67bcb24985365cfe5603c",
+      "bytes": 7229,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-809-2000-12-01-id5195.md",
+      "sha256": "626dc0e9320509dc6655269472305d701a29c937052ed5d20b1f11d3b4702581",
+      "bytes": 5871,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-810-2000-12-04-id5196.md",
+      "sha256": "3064e7d9418d76ab7572aadf60b96bd811835f03edf3456a2fda28f31834eb7d",
+      "bytes": 2279,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-811-2001-03-13-id3897.md",
+      "sha256": "c149fc184d49552f8afe1e876fc2e32288ba18e8d240591afc4a73b59494c261",
+      "bytes": 3603,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-812-2001-05-30-id3898.md",
+      "sha256": "ed0fd82699fc907fdedec6447b6a242515a40255365115f1ecec03dd4f25e4d0",
+      "bytes": 1800,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-813-2001-09-25-id3899.md",
+      "sha256": "2041c37422878809aaf36f2bf1d86b997f4417bbdf99ff6a7ba7a48c4f7db8c1",
+      "bytes": 3730,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-814-2001-09-26-id3900.md",
+      "sha256": "7e88a0b5e0570d1019e507eeb29d84ae07729072782c52d62f05e36d87b342f8",
+      "bytes": 4655,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-815-2001-09-28-id3901.md",
+      "sha256": "970bdb846cb85766a8e077c64a0c3bb97e00fd1e91b53412c907f9106e06fc8b",
+      "bytes": 2124,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-816-2001-10-31-id3902.md",
+      "sha256": "c6977f3aec8d726b4f5e395949c5b9f19fb083a3172bdf6edcbb622124826427",
+      "bytes": 1965,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-817-2001-11-22-id3903.md",
+      "sha256": "321345f5039e21eba0aa2466991f0f291c63a3ac2f592c5b6146551f1358f297",
+      "bytes": 5092,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-818-2001-12-06-id3904.md",
+      "sha256": "9d107d2a6d41cbcc05236ac64525d973add9ca7c1d2470675f9a072cc12bacab",
+      "bytes": 6160,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-819-2001-12-14-id3905.md",
+      "sha256": "2d2f59ea8c20befe5ab211ba8d2a506aebeb3369b3c0ce2d83d560c7823c8991",
+      "bytes": 2248,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-820-2001-12-14-id3906.md",
+      "sha256": "bbab1fd873370a9712f59423d42d673c7f0b385186f73de3481d28d6f0d74cae",
+      "bytes": 1420,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-823-2002-02-14-id924.md",
+      "sha256": "eedc4e77f98428fddd8ed293cac660bf37aba60cf18367032c78386d32c47cee",
+      "bytes": 1799,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-824-2002-03-15-id925.md",
+      "sha256": "94fa4860e1398feb033c329e8fe51b81f5a001be7b862635512298f279f2603a",
+      "bytes": 2112,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-826-2002-10-23-id1010.md",
+      "sha256": "d1549fcbe5fde58f119cf4008e24afb4eecbbc1a9398d45a5f4a7d8cc21ea151",
+      "bytes": 4003,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-827-2002-11-27-id1236.md",
+      "sha256": "a738199d87e4ef0edfbf7ef2ec39857b7a2de3defa64f88db8da9ff838126557",
+      "bytes": 2849,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-828-2002-12-17-id1399.md",
+      "sha256": "a4afa3d00193a6be3491d316bb4e18b38815c638c2dabab00d97b305196af597",
+      "bytes": 2130,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-830-2002-12-17-id1401.md",
+      "sha256": "054323b086b55109ba2c50d03ddacab783d4e4044b0a200f0e4564a330e9e7e9",
+      "bytes": 1565,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2000/res-alesp-806-2000-06-28-id5192.md",
+      "sha256": "a86c3b70aa0ed348655d060ecc5ea83304373b8a933bc559dc8f9736afb461a0",
+      "bytes": 3410,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+      "sha256": "42a85736237743ab021af39ee37bbfb1a5b162bc80f2ec63d5cb5e277915d8f2",
+      "bytes": 7222,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2000/res-alesp-809-2000-12-01-id5195.md",
+      "sha256": "eb7c43b5743b220bfe90adafb1d47cd07a298dc3144ca7510277dcdab85c0c14",
+      "bytes": 5864,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2000/res-alesp-810-2000-12-04-id5196.md",
+      "sha256": "0674aa0e0beef8e25335e523ac9bcd777e3b5cfea0ef97054df0a3ffbe3e9b80",
+      "bytes": 2336,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-811-2001-03-13-id3897.md",
+      "sha256": "7b4893cbcb0807c8cafae8089c73c9da3b3d9e59fc0597e9591de9f8d39582ae",
+      "bytes": 3596,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-812-2001-05-30-id3898.md",
+      "sha256": "98a2f1a565b9737e01f10d74d244602b108555756429288559d47a055b5e8ae6",
+      "bytes": 1793,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-813-2001-09-25-id3899.md",
+      "sha256": "bc76f87bf9946abc3c77408c991a5cc215854b8a8a206a45a355f7efb23a1fa8",
+      "bytes": 3723,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-814-2001-09-26-id3900.md",
+      "sha256": "fbacef8d22dca663c10afdce46218b688a6b97f50c43be2363f84e1ac7ac3dc0",
+      "bytes": 4648,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-815-2001-09-28-id3901.md",
+      "sha256": "5700a4508598fc3050d77ed59cbc9bd59abbcab3ffd014b73b9e241833708935",
+      "bytes": 2117,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-816-2001-10-31-id3902.md",
+      "sha256": "c2fc0c39fcf0358acfeec0af7211814aa7b71734fde0344b7c1d8bb8582ed0f8",
+      "bytes": 1958,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-817-2001-11-22-id3903.md",
+      "sha256": "90a2bfcb0c99f4f2170cfe373a1219a34034a5927f1d54a77d04ca243475c84a",
+      "bytes": 5085,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-818-2001-12-06-id3904.md",
+      "sha256": "0fc07a5de72e216df08e17ad0cc1e7267e70c2a9e9c76ba88ee69ab8b7489edf",
+      "bytes": 6153,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-819-2001-12-14-id3905.md",
+      "sha256": "29b9afaefecb42a3eda6266f0911072e588abd3d4fca4e715fea3522c610b144",
+      "bytes": 2241,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2001/res-alesp-820-2001-12-14-id3906.md",
+      "sha256": "2875dfed5741738aecfec439b0bc10454722aac0b8524d72011497b80c8b6b5e",
+      "bytes": 1413,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-823-2002-02-14-id924.md",
+      "sha256": "9f6a186ea760afe73492052764d63fbfb79acba99670438f3bbeeed9a65084f0",
+      "bytes": 1792,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-824-2002-03-15-id925.md",
+      "sha256": "e137b6f0661d094b8eb50e0c4c915fc1f1b7e5dbde416eb245cbcf3099177f9f",
+      "bytes": 2105,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-826-2002-10-23-id1010.md",
+      "sha256": "e9f43af3cb0890aa39603488582b59a95e026c83d06370b5e1896757c0fae777",
+      "bytes": 3996,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-827-2002-11-27-id1236.md",
+      "sha256": "7291d3a3f0489bf1837e8b529226a330cf5a3acc3e80057514862bf2aa8ed5a7",
+      "bytes": 2842,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-828-2002-12-17-id1399.md",
+      "sha256": "b05e70b0d854c67e8577262e9e555ebe45df59e545bd3456c81649a648133865",
+      "bytes": 2123,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/snapshots/resolucoes/2002/res-alesp-830-2002-12-17-id1401.md",
+      "sha256": "7df00187493ca1702e327fc91671dd363bf068aab432ae52930bd57538b98578",
+      "bytes": 1558,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res25-decisoes.json",
+      "sha256": "2f57fc3cdacc6ab5f1cab63a6a75b21b29dbceb175f4893ddcc6424ffb4bd122",
+      "bytes": 106792,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-overlay-correcao-coverage-navegacao-u.json",
+      "sha256": "badd52bb917482ac74c3816067f978072b3c665537ce3f99c6e331b8d140b6ff",
+      "bytes": 2789,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado-verificacao-final.json",
+      "sha256": "c22899fcb0a0526fed311cc9d8bf6789fe5564062dc3b90bc5cb328ab8433c36",
+      "bytes": 3029,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "sha256": "56b19f425b3f5cebd72cd6831eb3403b2ced2bbaaa3aee18f2efb221a074026c",
+      "bytes": 3256,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "sha256": "98c766bed0ef4322aff3298fd4281c556768650a47022b1b910b541ef9cbcb70",
+      "bytes": 2179,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "sha256": "829c8ebf892b303a67fc568bb59ecc00ceaecc47dd5be6b1747d1931d3af2c50",
+      "bytes": 7937,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "sha256": "2677fd88f49990d6b43fd8d4637c51342e130cac5bf9acf2a4f4c83cdbdb53d1",
+      "bytes": 7367,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "sha256": "fccede23fcc959ccfb583229a78b40daadf857ef0387b597011cb43c33bf99e9",
+      "bytes": 5296,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/ledger.json",
+      "sha256": "b28ae6150d863422528ddab4a96b0f53fd8bf1b5cc4f36556a2cb19b82c7a57d",
+      "bytes": 10916,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "sha256": "7f938f81c8fdccf5f843993232aab4895bd1c0ff586d5737f82416b6b109629b",
+      "bytes": 3042,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "sha256": "566facd910cd77bcef24791f9a54e80ad82bf36ff8ccc92c0c42f10395e772b1",
+      "bytes": 1857,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "sha256": "c7355ec4c4078f202a9fa9e366cc921182a1ea844e186802c0a7242a13763157",
+      "bytes": 7571,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "sha256": "25fed821962974ddc9dbef45605ebcaa358eb50412e958a734da40a205693557",
+      "bytes": 4736,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "sha256": "6f4097c5218bbe67e6784e47c65cd0e3110f3ab69f6810f78101050446a39512",
+      "bytes": 4824,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-res52-perfil.json",
+      "sha256": "69035a389a6772d05c58bbe920ead2192d260a2083a51303b64554e47372c2f1",
+      "bytes": 1157683,
+      "alterado": true
+    },
+    {
+      "path": "estaduais/_publicacao_SP24_raiz_20261016.json",
+      "sha256": "241de1f801e1f616196acad746404a7c00ec8844ee9f53f7c1ca549725d44192",
+      "bytes": 13255,
+      "alterado": true
+    }
+  ]
+}

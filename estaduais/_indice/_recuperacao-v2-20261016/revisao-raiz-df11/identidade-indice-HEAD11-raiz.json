@@ -1,0 +1,122 @@
+{
+  "estado": "identidade_indice_selecao_HEAD_DF11_conferidos_sem_aplicacao",
+  "HEAD": "f5b6edc42eddff0c0259f0caec8fdac2a566ce54",
+  "DF_tree_oid": "5c8d81dbd24c14d50652b555663c6c84d57fb649",
+  "indice_primario_total": 106683,
+  "registros11_exatos_primario_e925": true,
+  "fontes_HEAD_lidas": 65976,
+  "UIDs_ausentes_HEAD": true,
+  "documentos": [
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-66-1995-12-15.md",
+      "UID": "65029",
+      "numero": "66",
+      "data": "1995-12-15",
+      "arquivo": "DL_066_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "922cf3b4f9ded1e820d1a9ef335fc55b5427444079f02671a18d60b9c261bfc8"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-65-1995-11-14.md",
+      "UID": "65028",
+      "numero": "65",
+      "data": "1995-11-14",
+      "arquivo": "DL_065_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "b76b3f7f2aa52ad8175aa062c1c087719e4b843f42d7dbcdc1c69fe67b345bab"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-64-1995-10-31.md",
+      "UID": "65027",
+      "numero": "64",
+      "data": "1995-10-31",
+      "arquivo": "DL_064_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "7d3f256150fbcfaec1e52ee66f34be6fd94c3e82fd67c8dfa50ec1837cc1b99d"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-63-1995-10-30.md",
+      "UID": "65026",
+      "numero": "63",
+      "data": "1995-10-30",
+      "arquivo": "DL_063_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "9a0dfd219ee59a32ff7ba72b276019f209d472c48cd61ce123a9e33b7029d8a1"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-62-1995-10-17.md",
+      "UID": "78435",
+      "numero": "62",
+      "data": "1995-10-17",
+      "arquivo": "DL_062_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "8728d8c8cee5cc5268df40528ded46a7f493d5a7d1a713283e224f51941cc871"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-61-1995-10-11.md",
+      "UID": "65025",
+      "numero": "61",
+      "data": "1995-10-11",
+      "arquivo": "DL_061_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "0b58203713f584f335cb75584402c4c0f7b9a12d9471d6e64583bf5b49b5f2a6"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-60-1995-10-11.md",
+      "UID": "65024",
+      "numero": "60",
+      "data": "1995-10-11",
+      "arquivo": "DL_060_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "0059fef16984f5110d2928f282e97b1e922151b7afa3d5c7196fc7dc4d3787ff"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-59-1995-10-05.md",
+      "UID": "65023",
+      "numero": "59",
+      "data": "1995-10-05",
+      "arquivo": "DL_059_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "063393decb96c12e320b5646da404b61b9707d193ad08900578b4ecc5958cb1a"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-58-1995-10-05.md",
+      "UID": "65022",
+      "numero": "58",
+      "data": "1995-10-05",
+      "arquivo": "DL_058_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "c38d5197f107c52fcfc9cad31d25e757bb6f7d7b32e9c5cfe7bdbcf8cbd340e6"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-56-1995-10-02.md",
+      "UID": "65020",
+      "numero": "56",
+      "data": "1995-10-02",
+      "arquivo": "DL_056_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "2e8c9804c6e954496eda6248a9a4f03adb650e82b037f50c6bf953d440b69329"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-57-1995-10-02.md",
+      "UID": "65021",
+      "numero": "57",
+      "data": "1995-10-02",
+      "arquivo": "DL_057_1995.html",
+      "versao_texto": "fonte capturada",
+      "revogada": null,
+      "SHA_candidato": "ccde12fa7a042c436f1f9fcf4fabf95b7ee127e9ded0032e7990c47b238e2eea"
+    }
+  ],
+  "limites": "Publicacao e categoria do cadastro; nao certifica originalidade/facsimile. Fonte capturada. SemRevogacaoExpressa nao implica vigencia positiva."
+}

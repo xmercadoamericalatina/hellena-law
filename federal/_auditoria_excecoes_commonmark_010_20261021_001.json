@@ -1,0 +1,156 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1953/dec-34719-1953-11-30.md",
+      "urn": "urn:lex:br:federal:decreto:1953-11-30;34719",
+      "sha256": "83522c4c272a614c1fa1cfaf9742c3a943d84cc458e9c8ea6ba5f2557c69ca37",
+      "sha256_fonte_html": "14e3c13e93559491911bfa47a8d084aedd20e82b53fd804d4c4ddc30c17d0af1",
+      "marcadores": [
+        {
+          "inicio": 5722,
+          "fim": 5896,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">0###DEC-034719-0-000-30-11-1953@@@</span></p>",
+          "texto_original": "0###DEC-034719-0-000-30-11-1953@@@",
+          "codigo": "###DEC-034719-0-000-30-11-1953@@@",
+          "prefixo_preservado": "0",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-11-30"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-34868-1953-12-31.md",
+      "urn": "urn:lex:br:federal:decreto:1953-12-31;34868",
+      "sha256": "9bffa096d3cb8d93d0536fb01a67355a0768f7d303dc62d4ccc52a41ce7a153e",
+      "sha256_fonte_html": "4a53a0d9051cb622d69ddbf78c7962fa9ed0b475a09792fd8703cc1be1fafa2c",
+      "marcadores": [
+        {
+          "inicio": 808,
+          "fim": 915,
+          "html_original": "<p style=\"margin-bottom:12pt\"><span style=\"font-family:Arial\">###DEC-034868-0-000-31-12-1953@@@*</span></p>",
+          "texto_original": "###DEC-034868-0-000-31-12-1953@@@*",
+          "codigo": "###DEC-034868-0-000-31-12-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "*",
+          "data_codigo": "1953-12-31"
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "TÍTULO I — Normas Gerais",
+          "fonte": "TÍTULO I Normas Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO II — Classificação",
+          "fonte": "TÍTULO II Classificação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO IV — Descrição",
+          "fonte": "TÍTULO IV Descrição",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO V — Uso",
+          "fonte": "TÍTULO V Uso",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO VII — Disposições Gerais",
+          "fonte": "TÍTULO VII Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-33814-1953-09-11.md",
+      "urn": "urn:lex:br:federal:decreto:1953-09-11;33814",
+      "sha256": "015a84df135f5dfd00cb48807fce86c2ba3c64bff27c98d319c0fcebf47fb63e",
+      "sha256_fonte_html": "e9fb2fba4d7c1ea0ee9ef0fabc7c02b37f1a8f93848f623ca3978b88ef1b9ac6",
+      "marcadores": [
+        {
+          "inicio": 5742,
+          "fim": 5915,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-033814-0-000-11-09-1953@@@</span></p>",
+          "texto_original": "###DEC-033814-0-000-11-09-1953@@@",
+          "codigo": "###DEC-033814-0-000-11-09-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-09-11"
+        },
+        {
+          "inicio": 8117,
+          "fim": 8312,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-033814-0-000-11-09-1953@@@RET+++</span></p>",
+          "texto_original": "###DEC-033814-0-000-11-09-1953@@@RET+++",
+          "codigo": "###DEC-033814-0-000-11-09-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "RET+++",
+          "data_codigo": "1953-09-11"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-33031-1953-06-12.md",
+      "urn": "urn:lex:br:federal:decreto:1953-06-12;33031",
+      "sha256": "fd261ba1f1f3a3339637b139c2bab2d1c752e997219bbd7362de0dbea5399147",
+      "sha256_fonte_html": "c7d2f8ca1fc815da0ef1b8ad3d8243fe5bbf3503333bc92997fed9a01a29c0fd",
+      "marcadores": [
+        {
+          "inicio": 6275,
+          "fim": 6448,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-033031-0-000-12-06-1953@@@</span></p>",
+          "texto_original": "###DEC-033031-0-000-12-06-1953@@@",
+          "codigo": "###DEC-033031-0-000-12-06-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-06-12"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1953/dec-34868-1953-12-31.md",
+      "candidate": "federal/_candidatos_excecoes_010_20261021_001/dec-34868-1953-12-31.md",
+      "sha256_candidato": "60aa915b8a605ff6a8dadffeb16fa0f6a954ff7e5c55c11ff75306de4622e78d",
+      "sha256_preimagem": "9bffa096d3cb8d93d0536fb01a67355a0768f7d303dc62d4ccc52a41ce7a153e",
+      "mudanca": "Três trechos de itálico gerados dentro de números passam a HTML em inline, preservando a marcação da fonte e impedindo a exibição indevida de seis asteriscos. Nenhum caractere normativo foi emendado.",
+      "trechos": [
+        {
+          "antes": "7*.2 -* Cinza de brim",
+          "depois": "7<em>.2 - </em>Cinza de brim",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">7</span><span style=\"font-family:Arial; font-style:italic\">.2 - </span><span style=\"font-family:Arial\">Cinza de brim</span></p>"
+        },
+        {
+          "antes": "7*.2 - G*andola mescIa",
+          "depois": "7<em>.2 - G</em>andola mescIa",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">7</span><span style=\"font-family:Arial; font-style:italic\">.2 - G</span><span style=\"font-family:Arial\">andola mescIa</span></p>"
+        },
+        {
+          "antes": "1*.2 - G*arance de parada",
+          "depois": "1<em>.2 - G</em>arance de parada",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">1</span><span style=\"font-family:Arial; font-style:italic\">.2 - G</span><span style=\"font-family:Arial\">arance de parada</span></p>"
+        }
+      ]
+    }
+  ],
+  "resumo": {
+    "revisados": 4,
+    "aprovados": 4,
+    "reparos_privados": 1
+  }
+}

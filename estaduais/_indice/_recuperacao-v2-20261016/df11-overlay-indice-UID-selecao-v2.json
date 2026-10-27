@@ -1,0 +1,586 @@
+{
+  "HEAD": "f5b6edc42eddff0c0259f0caec8fdac2a566ce54",
+  "DF_tree_oid": "5c8d81dbd24c14d50652b555663c6c84d57fb649",
+  "mapa": "estaduais/_indice/_recuperacao-v2-20261016/df-HEAD-fontes-5c8d81dbd24c14d50652b555663c6c84d57fb649.json",
+  "mapa_sha256": "c85050b62dcdc4016aa8c5853dec9dc709041dc038638f45cc3ef69bb7a45e76",
+  "total": 11,
+  "indice_original11_sha256": "fd4d1652e2db6eb53fade3ebeb83d398fc0a3df9d563d748cdfd5533c52496c5",
+  "indice_original925_sha256": "fd4d1652e2db6eb53fade3ebeb83d398fc0a3df9d563d748cdfd5533c52496c5",
+  "documentos": [
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-66-1995-12-15.md",
+      "UID": "65029",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "15/12/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "66f9186d-e919-324e-b58e-016384c9ad32",
+            "filename": "DL_066_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2575,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_066_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-66-1995-12-15.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-66-1995-12-15.html.gz",
+      "cache_original_gzip_sha256": "22c87bcc95a6bf8d8c0ee583bafd3150775642f4a718b001fde090af261444b6"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-65-1995-11-14.md",
+      "UID": "65028",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "14/11/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "ca59a9ba-eb01-3ecb-92a8-29bd0c83c01f",
+            "filename": "DL_065_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2160,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_065_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-65-1995-11-14.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-65-1995-11-14.html.gz",
+      "cache_original_gzip_sha256": "0035dd4d3ac6283fbd129bc2461bed9d4dd706a68e1a398c2a5d5002d9779db8"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-64-1995-10-31.md",
+      "UID": "65027",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "31/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "9df4910b-dde5-39a7-949c-b4372f4332f4",
+            "filename": "DL_064_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2184,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_064_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-64-1995-10-31.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-64-1995-10-31.html.gz",
+      "cache_original_gzip_sha256": "3fb64e6f376d7f02675962e263aa52cae08d5040855984e29b5eadc1053e9f1c"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-63-1995-10-30.md",
+      "UID": "65026",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "30/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "54a7951a-35ee-397f-8896-eee403d6faa5",
+            "filename": "DL_063_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2176,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_063_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-63-1995-10-30.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-63-1995-10-30.html.gz",
+      "cache_original_gzip_sha256": "8d1e8c05bf176a099e04253c0d75d717e1e20c97f7b2c74b02a96c8ca9959c7d"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-62-1995-10-17.md",
+      "UID": "78435",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "17/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "70f582ea-4f35-3d0f-b98a-46dda775a7c6",
+            "filename": "DL_062_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2148,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_062_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-62-1995-10-17.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-62-1995-10-17.html.gz",
+      "cache_original_gzip_sha256": "5e25d84285669c552deb384f467de350513d0e11efc04ba427538a395f6933f2"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-61-1995-10-11.md",
+      "UID": "65025",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "11/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "902f69bb-4dc1-347f-87a7-3e19cd9cb1d5",
+            "filename": "DL_061_1995.html",
+            "mimetype": "text/html",
+            "filesize": 1981,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_061_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-61-1995-10-11.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-61-1995-10-11.html.gz",
+      "cache_original_gzip_sha256": "643ad53612d345e4bfdbd13b89c6a68246e1f7fc32442b7490c7431e46aee990"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-60-1995-10-11.md",
+      "UID": "65024",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "11/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "efa9d68a-2e69-3134-b71b-5319b5bbc03a",
+            "filename": "DL_060_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2128,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_060_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-60-1995-10-11.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-60-1995-10-11.html.gz",
+      "cache_original_gzip_sha256": "48c84faaf54a1e9f0fb5edc68d7e5df3b2e4d5d8e81735b2eb26b4647a3592ed"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-59-1995-10-05.md",
+      "UID": "65023",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "05/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "cecbf02b-7d14-3e67-9a8c-81c8b0f62e63",
+            "filename": "DL_059_1995.html",
+            "mimetype": "text/html",
+            "filesize": 1977,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_059_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-59-1995-10-05.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-59-1995-10-05.html.gz",
+      "cache_original_gzip_sha256": "7932589629f83e5e0d08ea73720330d76248c0373ce887afa8d659c3d34942de"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-58-1995-10-05.md",
+      "UID": "65022",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "05/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "08074b3a-405e-3612-a9ca-38e65b70d607",
+            "filename": "DL_058_1995.html",
+            "mimetype": "text/html",
+            "filesize": 1836,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_058_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-58-1995-10-05.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-58-1995-10-05.html.gz",
+      "cache_original_gzip_sha256": "b1ec45b6c89ebecb2663acc2833a6b14224e2d3be8f1704ff13645ea32b374f8"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-56-1995-10-02.md",
+      "UID": "65020",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "02/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "bdeec214-4a6c-349a-af50-57d6f3cb603e",
+            "filename": "DL_056_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2241,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_056_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-56-1995-10-02.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-56-1995-10-02.html.gz",
+      "cache_original_gzip_sha256": "000009b71f96b475ba07768cb824b2a504f1dab5eb4ef5f5cd80084d040bee40"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-57-1995-10-02.md",
+      "UID": "65021",
+      "indices11_925_registro_exato": true,
+      "indice_tipo": "Decreto Legislativo",
+      "indice_data_assinatura": "02/10/1995",
+      "indice_situacao": "Sem Revogação Expressa",
+      "ar_atualizado": {
+        "id_file": null,
+        "filename": null,
+        "mimetype": null,
+        "filesize": 0,
+        "uuid": null
+      },
+      "fontes": [
+        {
+          "ch_fonte": null,
+          "ch_tipo_publicacao": null,
+          "nm_tipo_publicacao": "Publicação",
+          "ch_tipo_fonte": null,
+          "nm_tipo_fonte": null,
+          "dt_publicacao": null,
+          "nr_pagina": null,
+          "nr_coluna": null,
+          "ds_observacao_fonte": null,
+          "ds_republicacao": null,
+          "ar_fonte": {
+            "id_file": "dfe59b5c-6d9e-3b99-9964-4101cf921981",
+            "filename": "DL_057_1995.html",
+            "mimetype": "text/html",
+            "filesize": 2190,
+            "uuid": null
+          },
+          "ds_diario": null,
+          "ar_diario": {
+            "id_file": null,
+            "filename": null,
+            "mimetype": null,
+            "filesize": 0,
+            "uuid": null
+          },
+          "st_ativolink": false
+        }
+      ],
+      "arquivo_selecionado_pelo_caller": "DL_057_1995.html",
+      "sem_UID_HEAD": true,
+      "canonicointegral_snapshot_sha_igual": true,
+      "nota_versao": "Publicação é categoria do índice, não prova texto original; proposta usa fonte capturada.",
+      "path_relativo": "decretos-legislativos/1995/dlg-57-1995-10-02.md",
+      "cache_original": "estaduais/DF/_fonte/decretos-legislativos/1995/dlg-57-1995-10-02.html.gz",
+      "cache_original_gzip_sha256": "32a93803729f2d5e2f9384aab4d7ba6382738c53accbccd8de27c6746904d41c"
+    }
+  ],
+  "estado": "prova_readonly_adicional_sem_mutacao_dos_congelados",
+  "overlay_anterior_sha256": "e0d2c7afc0d2c3e1d84cfae4f2ac13670317f5103719e93262e54f59726311c8",
+  "correcao_descritor": "Campo cache anterior continha caminhoMDrelativo; renomeado path_relativo, cache real explícito abaixo. Nenhum dado normativo ou índice alterado."
+}

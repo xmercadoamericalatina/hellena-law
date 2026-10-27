@@ -1,0 +1,203 @@
+{
+  "metodo": "Renderização independente marked 17.0.5 com GFM; pontuação e números/contextos confrontados literalmente com HTML primário. Apenas títulos editoriais comprovados e códigos cadastrais descritos são normalizados. Nenhum MD canônico foi alterado.",
+  "registros": [
+    {
+      "path": "federal/decretos/1956/dec-39512-1956-07-04.md",
+      "urn": "urn:lex:br:federal:decreto:1956-07-04;39512",
+      "sha256_md": "b1e0f13727bedb09507453a2226dfd7f96b1c680781919e0b44b45f59948d017",
+      "sha256_fonte_html": "ac1737be69424bb0755744867a879d1e0d2435aa1404ae73523947b1c095835b",
+      "status": "aprovado_replay_commonmark_gfm_independente",
+      "texto_com_pontuacao_igual": true,
+      "numeros_contextos_iguais": true,
+      "normalizacoes_heading_comprovadas": [],
+      "marcador_administrativo": {
+        "natureza": "Marcador administrativo de cadastro com identidade comprovada.",
+        "prova": "Código inicial fora do dispositivo e códigos de retificação da mesma identidade. Número, complemento e data coincidem com a epígrafe e a URN. Todos os demais caracteres permanecem intactos.",
+        "paragrafos": [
+          {
+            "inicio": 701,
+            "fim": 826,
+            "paragrafo_html": "<p style=\"widows:0; orphans:0; font-size:0.83em\"><span style=\"font-family:Arial\">###DEC-039512-0-000-04-07-1956@@@</span></p>",
+            "marcador": "###DEC-039512-0-000-04-07-1956@@@",
+            "prefixo_literal_preservado": "",
+            "sufixo_literal_preservado": "",
+            "numero": "39512",
+            "data": "1956-07-04",
+            "sha256_paragrafo_html": "ff144735fd0267b0845cc67f12bd42ba40e154dd1dbbfd73012f054274bd2118"
+          }
+        ]
+      },
+      "motor": "marked 17.0.5, CommonMark com GFM"
+    },
+    {
+      "path": "federal/decretos/1956/dec-39257-1956-05-28.md",
+      "urn": "urn:lex:br:federal:decreto:1956-05-28;39257",
+      "sha256_md": "f9a6be1b52389d3a3164f2a6ed5bf42e7f1435da3e32bf5d7a16136e34915a91",
+      "sha256_fonte_html": "9516ea7bbedccddc337abac3ea0b6fba4cf6e909ac5b46252e6b1241ccc9a5f1",
+      "status": "aprovado_replay_commonmark_gfm_independente",
+      "texto_com_pontuacao_igual": true,
+      "numeros_contextos_iguais": true,
+      "normalizacoes_heading_comprovadas": [
+        {
+          "markdown": "CAPÍTULO I — DO REGIME ORÇAMENTO",
+          "fonte": "CAPÍTULO I DO REGIME ORÇAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do empenho",
+          "fonte": "Seção I Do empenho",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Liquidação",
+          "fonte": "Seção II Da Liquidação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do pagamento",
+          "fonte": "Seção III Do pagamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO REGIMENTO FINANCEIRO",
+          "fonte": "CAPÍTULO II DO REGIMENTO FINANCEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do regime do suprimento",
+          "fonte": "Seção I Do regime do suprimento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da requisição e da autorização",
+          "fonte": "Seção II Da requisição e da autorização",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da aplicação",
+          "fonte": "Seção III Da aplicação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da movimentação",
+          "fonte": "Seção IV Da movimentação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "sEÇÃO v — Do recolhicimento",
+          "fonte": "sEÇÃO v Do recolhicimento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Da verificação das contas em geral",
+          "fonte": "Seção VI Da verificação das contas em geral",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS ADIANTAMENTOS",
+          "fonte": "CAPÍTULO III DOS ADIANTAMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção i — Do regime de adiantamento",
+          "fonte": "Seção i Do regime de adiantamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da autorização",
+          "fonte": "Seção II Da autorização",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da aplicação",
+          "fonte": "Seção III Da aplicação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da prestação de contas",
+          "fonte": "Seção IV Da prestação de contas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS PRESTAÇÕES DE CONTAS GERAIS",
+          "fonte": "CAPÍTULO IV DAS PRESTAÇÕES DE CONTAS GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DISPOSIÇÃO GERAL",
+          "fonte": "CAPÍTULO V DISPOSIÇÃO GERAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "marcador_administrativo": {
+        "natureza": "Marcador administrativo de cadastro com identidade comprovada.",
+        "prova": "Código inicial fora do dispositivo e códigos de retificação da mesma identidade. Número, complemento e data coincidem com a epígrafe e a URN. Todos os demais caracteres permanecem intactos.",
+        "paragrafos": [
+          {
+            "inicio": 6358,
+            "fim": 6531,
+            "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-039257-0-000-28-05-1956@@@</span></p>",
+            "marcador": "###DEC-039257-0-000-28-05-1956@@@",
+            "prefixo_literal_preservado": "",
+            "sufixo_literal_preservado": "",
+            "numero": "39257",
+            "data": "1956-05-28",
+            "sha256_paragrafo_html": "b64d5143b79942c64017c4e683fb5f6e5bf7b014e83df3939eb904881b57a7d9"
+          }
+        ]
+      },
+      "motor": "marked 17.0.5, CommonMark com GFM",
+      "reparo_privado": {
+        "candidate": "federal/_candidatos_excecoes_commonmark_20261020_001/dec-39257-1956-05-28.md",
+        "sha256_candidato": "dcc79a7ffddb83bd25d16a49c0380d2dee0e42dba6e5a550795af78a76896b39",
+        "sha256_preimagem": "f9a6be1b52389d3a3164f2a6ed5bf42e7f1435da3e32bf5d7a16136e34915a91",
+        "mudanca": "Markup do rótulo Art. 33 corrigido para renderizar literalmente Art."
+      }
+    },
+    {
+      "path": "federal/decretos/1956/dec-39088-1956-04-30.md",
+      "urn": "urn:lex:br:federal:decreto:1956-04-30;39088",
+      "sha256_md": "3ad6d0fef76746b1a26b78d4be582ca4f2e44d1ddc466daec4d51f5dcdfe2a4f",
+      "sha256_fonte_html": "855f87ce0b6e98a0381c80898c8f9078c3e63a03d6294c26c020c559c1df40c6",
+      "status": "aprovado_replay_commonmark_gfm_independente",
+      "texto_com_pontuacao_igual": true,
+      "numeros_contextos_iguais": true,
+      "normalizacoes_heading_comprovadas": [],
+      "marcador_administrativo": {
+        "paragrafo_fonte": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-039088-0-000-30-04-1956@@@w</span></p>",
+        "literal": "###DEC-039088-0-000-30-04-1956@@@w",
+        "sufixo_preservado": "w",
+        "ressalva": "Sufixo literal w permanece visível no MD; apenas o código cadastral foi excluído."
+      },
+      "motor": "marked 17.0.5, CommonMark com GFM"
+    },
+    {
+      "path": "federal/decretos/1958/dec-43276-1958-02-25.md",
+      "urn": "urn:lex:br:federal:decreto:1958-02-25;43276",
+      "sha256_md": "9ba7769549412df73642d709430d9f3118abe514376f2f724dc14724bbdff346",
+      "sha256_fonte_html": "981051acac3ac96a22acae42d2a0d6bc6d41ce196d5cd2d72afda33b46273d25",
+      "status": "aprovado_replay_commonmark_gfm_independente",
+      "texto_com_pontuacao_igual": true,
+      "numeros_contextos_iguais": true,
+      "normalizacoes_heading_comprovadas": [],
+      "marcador_administrativo": {
+        "paragrafo_fonte": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-043276-0-000-24-02-1958@@@</span></p>",
+        "literal": "###DEC-043276-0-000-24-02-1958@@@",
+        "sufixo_preservado": "",
+        "ressalva": "Marcador administrativo informa 24/02; epígrafe própria, fecho e metadados informam 25/02/1958."
+      },
+      "motor": "marked 17.0.5, CommonMark com GFM",
+      "reparo_privado": {
+        "candidate": "federal/_candidatos_excecoes_commonmark_20261020_001/dec-43276-1958-02-25.md",
+        "sha256_candidato": "edecf6af8a07057638fc028fabe5356c9145f425b8b64ae15d35113668bc4d2e",
+        "sha256_preimagem": "9ba7769549412df73642d709430d9f3118abe514376f2f724dc14724bbdff346",
+        "mudanca": "Três rótulos numéricos escapados e nota de divergência do código cadastral."
+      }
+    }
+  ],
+  "resumo": {
+    "auditados": 4,
+    "aprovados": 4,
+    "reparos_privados": 2
+  }
+}

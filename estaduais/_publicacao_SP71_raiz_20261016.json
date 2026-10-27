@@ -1,0 +1,575 @@
+{
+  "quantidade": 71,
+  "aprovacao": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp71/aprovacao-publicacao-SP71-raiz.json",
+  "sha256_aprovacao": "d08a4667e4217a0d77907c4a25e03359c81d7ea18f94bbafa47f5d9f16b12f3f",
+  "atos": [
+    {
+      "path": "estaduais/SP/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp71/dlg-705-2000-12-21-id5227.md",
+      "old_sha256": "8c5c59284cbe4df902297d807a2ed63e3afe050ef033fdf6157776b777cef917",
+      "new_sha256": "710a90afbfd3d62c82fcce2c628e3b073b57ce3f5b23dc6f93d77935bf6994b9",
+      "alteracao_corpo": true,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-css/snapshots/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+      "old_sha256": "71cb04f283b578f9a58dbc9faee41ad64be788436a98cef8e4bf8a833d42d845",
+      "new_sha256": "5f1cce7ab64c36e89c0c9fe04663bdccde63fb4004c690257bb767e06fef4eea",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md",
+      "old_sha256": "b61473e3ccebaffd736640cb2bea452511188741878e637793a73842278b6fc4",
+      "new_sha256": "f8a5bfa6b34e8efc1178510842f366aef9da9d7a215d8115b1d8c55e4573c309",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md",
+      "old_sha256": "55ba9eedabc3bcb852ec2739a8021ff0eedce432da6dc06179a238bbbcc35327",
+      "new_sha256": "31389eee8e41d2596627fc3d3cca002bd56c2ca61a017d22940201ad7fcfaa70",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md",
+      "old_sha256": "fe01f94f6e5b6f35a92ccf04815c061146740027ee942a67f7ba19439a07a7e9",
+      "new_sha256": "2065a2a0528334e40d4eb4b780bc5ea4493f2225a8b26919d4b52a748f040e13",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md",
+      "old_sha256": "d686fdf4a6577fd2f001c684a0270138249705d65b2db0a39a2f499ae5c8dbb0",
+      "new_sha256": "05b01235a2bfac035e7ff958ef70860bed991ad37ba4ddb662f7f1ac71f0b681",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md",
+      "old_sha256": "906a49add13bb9281b820b51c260089d986a4979f48c11c0ec3d6314ae8da6c1",
+      "new_sha256": "e8c2bad9c4272968ab228d0cf1387a7fac4337a7fb74c10cf8e838e2298ed8d0",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md",
+      "old_sha256": "acf17350682de5b9456d556be41c6e989ab93af6ffb1ce57fef9a4738b2a8006",
+      "new_sha256": "9f366b9be1bd889a77bbfd0f12674326b37d1b93a598ba7b8dacd3e907a14165",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md",
+      "old_sha256": "3359bd1e3b6fa4621c533b919760db31bd8ca6aa0f886e83d98013169a60ed29",
+      "new_sha256": "adcf69f4b37991d87723b254e542bcc0f190f67403bf42318bf9601be7ea3094",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md",
+      "old_sha256": "40e4fbc4280fb6eb3dcf6a5561fb850dffb86fa6c493890e1ec83981a53153a7",
+      "new_sha256": "cede49c054f5a62cb95c8c5ebac91e5505217277505061c8fef26098e7e76fdc",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md",
+      "old_sha256": "e3779466ddfca677fee7865d6532ad888f503a6f78fc08df860803e186cce8d9",
+      "new_sha256": "45337c773f3c2dfe2432061f0e770c0f84718e315c1608cbb0786c4262989032",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md",
+      "old_sha256": "f437aafff7496d5d7a9973ecbaebb8363dd027b13fd2236ec0d7088a25563374",
+      "new_sha256": "bfe343486f9d252680a7d45b5a6210d9c50107291c73895e692f151634399b57",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md",
+      "old_sha256": "ef391ae7926162b8a881ea3a4d2b1d9acae85caf700bd80d0c142d96f0349e8a",
+      "new_sha256": "2cb76a49f96a6f56ec4955f66281251e53573b8c9e8b51f99b103e2e3d966aa3",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md",
+      "old_sha256": "0be0ec9ef2e568e18e846764660115b13f4711de10c791665b552d6b039d4cb2",
+      "new_sha256": "e635b6351b953a4dd065b9ebfd45259fd20e3bf7a4fea827009bf73018fd472c",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md",
+      "old_sha256": "d556b2272fcdba740c4d9e852cd8a9090ac1ec8a89ca2ba9d3a1e8303196d0bf",
+      "new_sha256": "6fb50d05418294722944e8da6eda9e5a6fe7c0c856a1354b932aecf3559f6597",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md",
+      "old_sha256": "4b7e3a06a62eb13917fb035dda3fc16919035b785b21b471f4f7774a2c42b4b1",
+      "new_sha256": "258c9cbe6e3a6c8103ba1df45dff6b0c70ba8cd8eec9f3155e79dcd4f751b05f",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md",
+      "old_sha256": "e977f70c8ab867f41fb18adbe9da7e0117817c5b17ba92a7b7c4a6470afed8b1",
+      "new_sha256": "811c1e3ce2d8fd09c81c42bea66090ff60b36ca3f93aca4d182771738d45cabc",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md",
+      "old_sha256": "f420f5760589882d1c5ca0f4b3d0689bb0d5fd07c5b98e2f514110e7d7191c89",
+      "new_sha256": "fe8d962fc1cf865beaea48dc34cd38a9f026baaf1c0ca6b21ddd33998cdce337",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md",
+      "old_sha256": "b6c9197fee57785302dbe07ef2a88baa947915927040ac43fe222b5d0156b7e8",
+      "new_sha256": "385dc8d85cb3ae2d1e1fff959cea96c154f1094d6a335cc2e809bfe5804bedb0",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md",
+      "old_sha256": "e3b25d8f423942eeec7c179b6cfbbecefe4ce2f1701e65db45133f05efc9645d",
+      "new_sha256": "140b7e06165cba3bc67f04bc62f6f9ad4ed6e655a31fdfb2e0c70105aa316602",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md",
+      "old_sha256": "1abd12082e66f050df4b316d0dd6571c19947ad92bd996a283782107e853d000",
+      "new_sha256": "3469a4013360cb4da4fdd962cdf7987e5d0521dda2c4f79e89f14a9ee4e7ac26",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md",
+      "old_sha256": "8e735135dcd7fd00d5150599e07948f87a8246abb7d56f9c94dd11ee8f6dfd46",
+      "new_sha256": "83c1228f33256be8877733c408a50c539c064064231b1009f07c9f20abdd1daf",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md",
+      "old_sha256": "cc95b8767cbf911c3a758d3c7d78bd3d46b6cfb8df1e60459cd9e117aaab387e",
+      "new_sha256": "8bb1da6425545552b7e0d5db5cda33f9487c178dd6b3ab0c85a53cfc8ef72034",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md",
+      "old_sha256": "c3c676cf1221bc85af55a15dc8d954e351fb310cc2cefc4a36ff3b66ef6d22ad",
+      "new_sha256": "41fff9f34347377e578a658e40b71befba89c8aa003850f8fa1eaa340fce80dd",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md",
+      "old_sha256": "acbee5be7533a75d699978b5845318acf2d039c8a4b62c87d11fd34e8e7f6acd",
+      "new_sha256": "45dd7b609147ada2a751887ba6456957ee611a0e12284bcfbdd37c37d05393d7",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md",
+      "old_sha256": "883994019d95cefea5c0a46191e74182395096aaf02b9dc22204c66395210417",
+      "new_sha256": "24bc4e7ec66a01dd163b2371e2681dc5feb3c591086b872d9891ad289ff4a25b",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md",
+      "old_sha256": "967f3ba9ae53226ae4dbf37f13a5596340fd4c00b1a304605415561045777fcd",
+      "new_sha256": "6ec16cda584528ea7a70c613cc93af16048bb43790cb514fe54091076cf079d8",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md",
+      "old_sha256": "1221cf591566df517e0c91a2a58c7ee6feadde250873215a82ebe59d4c8400c5",
+      "new_sha256": "faafca573df5562d3195d1491624428a8b3bed9a5dad21287048bd3a91b12f27",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md",
+      "old_sha256": "decb5989f6cb9df1aa5ebf8eca8e3e6c7ede376cb919add8e69f8dfacd7b2d9d",
+      "new_sha256": "ffe6141313a53d6e5b527cba57a8f6f88a1c3655fabd9433fbf9597ff7f766e1",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md",
+      "old_sha256": "637f482470dc72d47bae092679dedd26e8801eed9b12d5c6e692c7decf008563",
+      "new_sha256": "d11a6119c02210ac4727680133f874b399112b4bc486d94fc3abe604d6764c63",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md",
+      "old_sha256": "f2a8e182e60622b809b3abd984e9d6e38e9998a2e1c40c52058f941ecd555ebe",
+      "new_sha256": "08ba49bc08b7b521fe7b400fd87535ecd592ef76069c30cb9ed4ffdfe609c753",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md",
+      "old_sha256": "ced2f4a091fd2c651aaa9edbda6a9f9bdd6f0da3bec68277044af889808f3d72",
+      "new_sha256": "01c8878208963d85a09f2d6434902deaf967c19c0566d8d6f02957a0c1e73943",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md",
+      "old_sha256": "091d7cd0d5863005d5874cb91e155092e40d06a089a8493a7fae71bcfcb2cb84",
+      "new_sha256": "5e86ae091b6f699d29a6b07652e272efcb6525d693026e650e241407edc2f63a",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md",
+      "old_sha256": "63d0a9b420730f89cc0430f76e2e1eb914a3460ba435b5994091cf3e60a178aa",
+      "new_sha256": "b257c0d09aeb46ea012a15125dbbf5facb2aa7ddc4ec984f98dff7d4eaca7c85",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md",
+      "old_sha256": "7eb1a2c1cd91dbe8887e04193fe028fd4396299ca3045d5fb8a682dca70cbdd3",
+      "new_sha256": "1295472128bf3bf00350e904bc4e981cc0346bcbb390c86d54ec342b64fd4123",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md",
+      "old_sha256": "5379f0e7f2f8db4b0a6a1fae3489bfa2ebe06da30626dbbc01fdacd188053e19",
+      "new_sha256": "bbf1a8fbcb0753a5dbd89bade9902716b0e4cd0458c3e6bffc571e5b7cae947b",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md",
+      "old_sha256": "f7881db77e1713fb502ee17f514e9768a52b5356ad5b79182a96d6ce9f496718",
+      "new_sha256": "06311dbf5188bdb8fdf8c94854e859433972bff5a44f4586cbb719f7da4a3896",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md",
+      "old_sha256": "020c7094591f04e9ed3c5bef60930971d6089752860d382fa4ba01b0735ad684",
+      "new_sha256": "994d8f4beff6c7c4219fd1c79c43cbc7562475cc0624d7c2b02938a5163dbbdc",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md",
+      "old_sha256": "5a762a5aa10b65c8313a011e5cc2c1582b14bf705d33fc6e9df6868c17b4817c",
+      "new_sha256": "36e6751ec922e9ca618f49979ec107b8408c822747c48b4ebb0315313c3f85ec",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md",
+      "old_sha256": "43e365d3db6a6a1750a08a738adf698ef2783ca797bd787e96314d01dcbd0033",
+      "new_sha256": "07c69a86de75ae47c338e93895c4ffe987fc4e7512f76659e527ea29217645c2",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md",
+      "old_sha256": "c0b2c4c293e78b9f6568abf4a44fc0f6d247f183745f53ce05bb02806a40d6c6",
+      "new_sha256": "81228f35c754b229378e533903be93fc66a79acbd542b79b54947c039474d657",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md",
+      "old_sha256": "0579c94609664c1a64efe9e74cababcda669ac0a01059507dcfe7ba8588ef639",
+      "new_sha256": "ebdb4f2282555f347d30192c4f893a3a5b7b6d7186a9cb8671c3b45a438e6a7d",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md",
+      "old_sha256": "8a7f01baeb3c9a76fcf8a6d1a02e4e1ad04395bb399a67af84ba8896ddd94eba",
+      "new_sha256": "dece4a95e359b131cac2c0f6022ba8e24ef4eeaabf2cbc6c1d2f8573f6ffde13",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md",
+      "old_sha256": "6a1a86998dacc5dc9fdf2cd3a7275477597c2493f00bc8c83ca08feb99cbf184",
+      "new_sha256": "02bfb7e819773c3962414d309a2674bf677d2910b6a568fd7454131d3d5b3582",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md",
+      "old_sha256": "1b37d23e068185b13fafb1e51ab5075231b19fc0b369fddd72c2c04936be33da",
+      "new_sha256": "5d7af205ee03f82491aa76f22ebcbffec769204e45cd2ad957e60723ca84f696",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md",
+      "old_sha256": "9be9a98969c549ebf412f96199d9a826aed7c43d95a5dd2e43aaa55dab42fcdb",
+      "new_sha256": "aa8ac0ae5461441d6a7895a62392305f03a7716023f13ed991ea2c0dc28c61d9",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md",
+      "old_sha256": "51125b36526ddb48d5200fa9e36c33f2d721ef213c1c4f17c064c431eb2acd55",
+      "new_sha256": "301eb5ef62448f73e14ddb96ce64f38db85acb85101d686bfe08f3cacaa96648",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md",
+      "old_sha256": "4f1168a6a0ed9ffb1648bb19545b1657b733efa70442174beb4ce7974582bfd2",
+      "new_sha256": "883dab5577ac8c1dabf11992bed1600ad2e217a125a70d4f85cfa38d7ee493b8",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md",
+      "old_sha256": "edc25d2f7e34c4b297d1df8fc751ad49bf2e6a865b1da2e7647c1a059436e9ca",
+      "new_sha256": "f4a8f6133db5f80380f4cbb532d206cc0797d4305b566d05625562e633ebafad",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md",
+      "old_sha256": "297e43fb5ebe2532e45bb493ab6d0285a02fd785ec0eb0d1494be6647579197d",
+      "new_sha256": "b8b2ddc3eec93f57dc070ab4d169cd82434578e58903c8a650b86d1b32f78382",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md",
+      "old_sha256": "2528c5966fa4055087adb04b9eb916a98465c3c389c4d6c7f7d273fb257238e8",
+      "new_sha256": "f2cee57342f3b12e3582c4cdfee357e14da8b133dc6ad3c39e35aaad689b9ee2",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md",
+      "old_sha256": "1f8aeaff237cb72b7c5ecadb869ea741e8dae4e3fe03a9361911bae14acd07eb",
+      "new_sha256": "f468d00f675bf76265e00d2f0d6fd80cc7d416a79bbb7fdc06d45d35082a2ddf",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md",
+      "old_sha256": "bfd8ce5f652b0268e55cb576e1f17f1abd23881b7102857f99a2159965bc292b",
+      "new_sha256": "4d9fb8d3a5e87d293acce3694fa231672a126e57e3719d6a19e87875d4292723",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md",
+      "old_sha256": "0d4cb1b0ea0e64723acf4d3c3c93bbc98985f72c057a715d2143ad594c9ca05c",
+      "new_sha256": "3be14211ff964d8404f6d663f4c0c4860f972d0ec4730b9bde7ec875d7db672f",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md",
+      "old_sha256": "37cc7e5a799b6a8f2e0bb38d936cb891a10c43c8740688e08cf2a7fdd680917a",
+      "new_sha256": "30305040787657a470cdef1e313863af8fe6dd5b5654661e7b0260830f85ba1b",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md",
+      "old_sha256": "dbbfed51e4b2790c7f9fda6ec44939a812aa23452b2c40def3e79652545740ff",
+      "new_sha256": "bf66f5315f4df2bc768129c8704a978c4f2286d05e64a4ff5467682b23ffdb28",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md",
+      "old_sha256": "735f465a2398feaf05c5bfdea57341d2f5a9774c335f22e8a882e9323efa0cc6",
+      "new_sha256": "fcc1765a9f30d3d04bf44ec3dff08a5f60c2339b281544406a6b50ba3d61c92e",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md",
+      "old_sha256": "0ee9ee19f2b04938a27a169bda6247fc272b2ca735e5d485b463fbdd50aaaacc",
+      "new_sha256": "7a2e6d46cb80cb748fea8b53bd51f2bbb82295cb101d0e5d8ab647a8802f637e",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md",
+      "old_sha256": "38356fc0d405858e79429c2658ed566999f7c196b509a5dc847b68aeb434c256",
+      "new_sha256": "4860f4eb7564f44b1849dd040167f60a204ad9bb46f93e0664bb46f39f9b5637",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md",
+      "old_sha256": "c9ac49a9c2b4c02cb65a57937274e1cff43ca5367e8da40f680d3238e60b3f36",
+      "new_sha256": "5805826b3bd5ad43319523a1c18c17d539e51d348ccedb094eb11172cc7ef728",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md",
+      "old_sha256": "49504dabc8c5e47c49cc06d185d046b19594c6d2edb7bc7cfbf9400591e989bb",
+      "new_sha256": "6659db7366abf46390cb43fe5127058119f9631ea59c55b8afb52055fcdcd240",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md",
+      "old_sha256": "7d4381cccd1cbcc7756710d63728068cffe3e787305d298cda1890e38ea5e9b8",
+      "new_sha256": "aab3fcec31729c31a655f0bc012667aa5480b184a4ab7342cec27bc5ae32cdae",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md",
+      "old_sha256": "1b095e9360dc8c3a0a999d81d1673fcbbc0bf58d38c7027ad9b98a8d508910dd",
+      "new_sha256": "891aa29fd93dbe5430a0951f9300f8ec03c9a498ccaa3f59828b4edd72b97354",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md",
+      "old_sha256": "853c9b0eb5b70084e90d449c082ef591ebc839f88bbc77530a8e1524684d8d2c",
+      "new_sha256": "4f2245fe5df87ae7e7d22049fd3f9fcf7344c1116644074d3ef54b664d7cca82",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md",
+      "old_sha256": "c58a2979d51641a169512e79ebaab8e64dddc5934b2002b67c9e89acc78fd767",
+      "new_sha256": "dbd3560a034be07a0adf6d923963d84afcf4970b3129e27f4ea706f81f633593",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md",
+      "old_sha256": "2b22da6c0fc4cbffaaf85241a80a9b4b6986187735170abfc0d2f3afb53e594b",
+      "new_sha256": "acd6636e9d2511ce87f1be1f092d53d01c41dd2222eb2dcccdd00bcf8963d163",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md",
+      "old_sha256": "f242d2c8731ac201ebbee30abc0357a77c49b3e1bfabda550f8df9b940929194",
+      "new_sha256": "873199c0b5c8c0c3dacdabe2e5f74aa53c784fe1e04d819fb02bf8236e401c95",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-minimo/candidatos/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+      "old_sha256": "d4ade612f5cd502747d895c9e7ff17b620de591a2ed094f3673cb3aefb05e31f",
+      "new_sha256": "44073f5a85260a69b2381d3c70109404c950473d79af5cdc95d8049d5dad2b5e",
+      "alteracao_corpo": true,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md",
+      "old_sha256": "20406eacb98002ad0abf574bf34bcf2d8e1c109cd56f099155a744e3feb308b9",
+      "new_sha256": "d830c8ab602c996015cdbbeaff006a686145d574072cf413c3564b6741c6f4e9",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-versao-capturada/candidatos/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md",
+      "old_sha256": "12fd86dceb22060678cec67db4f04cfa4f58eb6e130fc4d5f103e67483bd2bb6",
+      "new_sha256": "abd4d8087fe33848831d861c5e0e2d6ca1f87be2ccc175c90158bf26774f0870",
+      "alteracao_corpo": false,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-minimo/candidatos/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md",
+      "old_sha256": "1c8b2117f3e2a612425643aae8cc7079b29036904050b25a163a02b62d8e3712",
+      "new_sha256": "983acbe8ea740a5d45aa4608b3224a5d9873828d40dc6534d6c6801979810eb3",
+      "alteracao_corpo": true,
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md"
+    }
+  ]
+}

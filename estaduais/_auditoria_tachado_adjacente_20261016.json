@@ -1,0 +1,270 @@
+{
+  "conversor_antes": "5f175721c3555ac4dbba3f7e7e193a6b3b17a8da8af7ece0deb3932e4fa34e80",
+  "conversor_depois": "c279938417256fe46782d45df2884aad8ecd2973b266f9629cbf15011e2efb93",
+  "motor_gfm": "cmarkgfm2025.10.22",
+  "fixtures": [
+    {
+      "html": "<p><s>“<b>Art. 1º</b> texto</s></p>",
+      "markdown": "~~“**Art. 1º**~~ ~~texto~~\n",
+      "gfm": "<p><del>“<strong>Art. 1º</strong></del> <del>texto</del></p>\n"
+    },
+    {
+      "html": "<p><s><b>A MESA</b>, usando</s></p>",
+      "markdown": "~~**A MESA**, usando~~\n",
+      "gfm": "<p><del><strong>A MESA</strong>, usando</del></p>\n"
+    },
+    {
+      "html": "<p><s>x<b>y</b>z</s></p>",
+      "markdown": "~~x**y**z~~\n",
+      "gfm": "<p><del>x<strong>y</strong>z</del></p>\n"
+    },
+    {
+      "html": "<p><s>x</s><b>y</b><s>z</s></p>",
+      "markdown": "~~x~~**y**~~z~~\n",
+      "gfm": "<p><del>x</del><strong>y</strong><del>z</del></p>\n"
+    },
+    {
+      "html": "<p><s>−</s>5</p>",
+      "markdown": "~~−~~5\n",
+      "gfm": "<p><del>−</del>5</p>\n"
+    },
+    {
+      "html": "<p><s>antes<br>depois</s></p>",
+      "markdown": "~~antes~~  \n~~depois~~\n",
+      "gfm": "<p><del>antes</del><br />\n<del>depois</del></p>\n"
+    },
+    {
+      "html": "<p>vivo <s>morto</s> vivo</p>",
+      "markdown": "vivo ~~morto~~ vivo\n",
+      "gfm": "<p>vivo <del>morto</del> vivo</p>\n"
+    },
+    {
+      "html": "<p><s> </s>vivo</p>",
+      "markdown": "vivo\n",
+      "gfm": "<p>vivo</p>\n"
+    },
+    {
+      "html": "<p><s>“</s><s><b>x</b></s></p>",
+      "markdown": "~~“**x**~~\n",
+      "gfm": "<p><del>“<strong>x</strong></del></p>\n"
+    },
+    {
+      "html": "<p><del><i>a</i><b>b</b>c</del></p>",
+      "markdown": "~~*a***b**c~~\n",
+      "gfm": "<p><del><em>a</em><strong>b</strong>c</del></p>\n"
+    }
+  ],
+  "sc_conferidos": 170,
+  "sc_alterados": [
+    {
+      "path": "estaduais/SC/leis-ordinarias/1960/lei-2486-1960-id3122.md",
+      "sha256_antes": "2e06434721ba65627a7fdfa92c20ed4d283e36843576a8755079b52b709bc480",
+      "fonte_sha256": "7b63dd56b289aa3660e73654fa6cb76e144a0acf6b3fc4939b23de60353a24dc",
+      "cache": "estaduais/SC/_fonte/leis-ordinarias/1960/lei-2486-1960-id3122.html.gz",
+      "sha256_depois": "2af446663de861fc492d164799e58e610be78d75673dbd2dd124c90dc3a9d5a3",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-ordinarias/1964/lei-3591-1964-id4664.md",
+      "sha256_antes": "4b187105827ecf0ccff710cc71d8c64a626b28e9aa33795bb6e20100d252e8d7",
+      "fonte_sha256": "9cca40d3c97c03b3999e23fc1e7a86d881188fdb5f2ce810d59da04ff69058d4",
+      "cache": "estaduais/SC/_fonte/leis-ordinarias/1964/lei-3591-1964-id4664.html.gz",
+      "sha256_depois": "afcb5c042e9622bc0d565ea93bf9b36df3e9e6725ae804b828f943107ff29bc1",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-ordinarias/2005/lei-13545-2005-id15271.md",
+      "sha256_antes": "062dc17e679d4ba713d39e2264bbb48aa2ba12fa1158fe724ed9c35f92054b7b",
+      "fonte_sha256": "fe3e6b7a26bda6ec333b321d13904ff2aca3eb69a939a1ad503ccb3121ba3458",
+      "cache": "estaduais/SC/_fonte/leis-ordinarias/2005/lei-13545-2005-id15271.html.gz",
+      "sha256_depois": "f84531d83e3105204e4b8062ec6a2790d7716e6a28462f6a3d7fe2da036dec8b",
+      "limites_adjacentes_corrigidos": 3
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1996/leip-10075-1996-id11572.md",
+      "sha256_antes": "2827adcb868075cce614f8d6e4912c5c990bfe53de56c244af1c47f2669c3b1e",
+      "fonte_sha256": "38bd67923f2d6d59bacad8f3e52646d11f5804b6355a2986800640dbfc6f6cde",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/1996/leip-10075-1996-id11572.html.gz",
+      "sha256_depois": "3f35fc95dd7d9445e1f2f65789ea3189f4db5b0abe7d152e3e5ea4f758754340",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2000/leip-11372-2000-id12948.md",
+      "sha256_antes": "eac3cc33a05bade4fb229051b9d08e144137f91e5b76b1d42a40ccedab25972e",
+      "fonte_sha256": "0a0e9ed833894aa3d327edbafc08eeda4f20b4317adb6058477d4f34bf85d17a",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2000/leip-11372-2000-id12948.html.gz",
+      "sha256_depois": "c66c75b37beeec5b2d6acd02268cf328fe1a808895e896fdd5bdca73152a2e51",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2000/leip-11378-2000-id12954.md",
+      "sha256_antes": "cb6fbeae82747362c9ea92b692210dffab568a6cbb351c6f469eaf2bcc9a7f8a",
+      "fonte_sha256": "081044e4f0f114c9267d602f7fe861c0714cb6c912d6789afcb3ff968a195e5e",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2000/leip-11378-2000-id12954.html.gz",
+      "sha256_depois": "3d5302bab7df93fe0b238fa0143eb488f26149d815eecde0db7f187e17ef3966",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2000/leip-11457-2000-id13039.md",
+      "sha256_antes": "2a30d08249f244bc43f404225ae034fb0cda47dfa8df5cfa107e972121f874a8",
+      "fonte_sha256": "6906c732acd9c77664d968578650152534f1cec0125899047bfe3b0a8a1f28b6",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2000/leip-11457-2000-id13039.html.gz",
+      "sha256_depois": "08fea2f7ec708629304a5d94fe14110e3caf007275e3dec29094ba79d6f418d1",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2001/leip-11909-2001-id13517.md",
+      "sha256_antes": "2e12507a0506b090e9dd62d016995b92edf1a97b1e22547d24d5a0950f6fb566",
+      "fonte_sha256": "0cd7336be9d18bd952f5e0c7207de2f214e21c2579fd0cad5a194a813939076e",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2001/leip-11909-2001-id13517.html.gz",
+      "sha256_depois": "642838f52de6dafbb8da849fa103119e3acc4e58dcc7ff7d980fb169a55c0d16",
+      "limites_adjacentes_corrigidos": 1
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2005/leip-13348-2005-id15056.md",
+      "sha256_antes": "9e2527d30b51359238ea86e29f68dc9550ca3e2e2517488bc2616d1f83ebd677",
+      "fonte_sha256": "e0277d4b233b3aa49ea55dfdc161fa50e2635be252ffe98c46c4128c0b96704e",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2005/leip-13348-2005-id15056.html.gz",
+      "sha256_depois": "f91eb5e91a94c17bff4522ea2529e762782d81b53f021e248bf441a0e5e370f3",
+      "limites_adjacentes_corrigidos": 2
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/2007/leip-13922-2007-id15758.md",
+      "sha256_antes": "62e3e7b413ea8ecf53b7b6d4b5f513f41f1cfa4e6f47f4a4b21df18391628e1b",
+      "fonte_sha256": "3c3cc39a98d62e54d8a3bc03ed4821e6be2ca640b406331d4863a2060ce570ac",
+      "cache": "estaduais/SC/_fonte/leis-promulgadas/2007/leip-13922-2007-id15758.html.gz",
+      "sha256_depois": "eb886540305006231dd2a803f7d67ee898e9276ef34dd832c6eaf3709d5c3310",
+      "limites_adjacentes_corrigidos": 1
+    }
+  ],
+  "limite": "Compara caracteres não brancos e estilos del/strong/em no HTML gerado pelo GFM; remove somente tildes espúrias da saída anterior para comparação. Não é inspeção visual por navegador.",
+  "backup": {
+    "path": "estaduais/SC/_indice/_reparos-tachado-adjacente-20261016/md-antes.jsonl.gz",
+    "sha256_arquivo": "63300637941bfe91acbef1689d3d262336a5e2137ac99ee2098ddd5e258a7bed",
+    "documentos": 10
+  },
+  "estado": "aplicado",
+  "metadados_identicos": 10,
+  "reais_sem_tachado": [
+    {
+      "cache": "estaduais/BA/_fonte/decretos/1975/decreto-no-24578-de-02-de-janeiro-de-1975.html.gz",
+      "fonte_sha256": "93784f69e48719fec4a404e42cfc414710612635ceacbbe6864e4dbade3bfa4f",
+      "saida_sha256": "d537c70b76e886e5dc6e1d10bc291a83ecb3a4489779739aaf6c18df5c3c9237",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/BA/_fonte/decretos/2021/decreto-no-20303-de-12-de-marco-de-2021.html.gz",
+      "fonte_sha256": "7ed5714a7c426624af15764093ce903ef24c2d090de252f390bf5b5bcb11de55",
+      "saida_sha256": "07f776556037b90e66f942d476ccd46b815198f2fe89876b9c12649c5f088d90",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/BA/_fonte/decretos/2021/decreto-no-20304-de-12-de-marco-de-2021.html.gz",
+      "fonte_sha256": "a2157d3c31d8ad07eed357b3ccb16825e8442b9f75a23a535b83c032307813bd",
+      "saida_sha256": "e4c926cda005bb7704817e3695356c42e1c8d8a03ee6d54caffee93169c3130a",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/ES/_fonte/decretos-legislativos/2016/del-1-2016-id33951.html.gz",
+      "fonte_sha256": "520b0a7a2ad93ebd613e8f6e6b5150a88de4b3fdd2b45fe9c01a2648a43c0412",
+      "saida_sha256": "e05a19b379e6c3cfc84f0f6ee7bba6269829aeede09460daeb064060a753a120",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/ES/_fonte/decretos-legislativos/2016/del-2-2016-id33952.html.gz",
+      "fonte_sha256": "d2b02a8fc74ef6225cdf5327c24ba615a27c5173d2cc9c8ef5af6ed9146bad1b",
+      "saida_sha256": "ee39555ff0b13f07ddc33d913559f1de4d0d44ce4403e5d002e63803159a8af7",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/ES/_fonte/decretos-legislativos/2016/del-3-2016-id33953.html.gz",
+      "fonte_sha256": "c5c87f2088ea1b1c7ece513c38bb98266362d65383394a8629b18cab6abcb35b",
+      "saida_sha256": "fe09806332a0959975f590a933a9de2f8093a3bc5f37e65e35168260f7d08403",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/MG/_fonte/decretos-nao-numerados/2003/dsn-1-2003.html.gz",
+      "fonte_sha256": "460ef2c390d1dbe4939a1de95745fcbceae2c90d91a99fe344c5ad3f76a7c3a1",
+      "saida_sha256": "5345d7b4894da20cc86d2b232d575894830b24d65741d330b5b9193be526c953",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/MG/_fonte/decretos-nao-numerados/2003/dsn-101-2003.html.gz",
+      "fonte_sha256": "7d6befe4d6510c646dccf28fe29c8db169cce887900f46805bd0eefb660f2973",
+      "saida_sha256": "c48853faa008866288cacfbe514e57d3903146a1c93f9741f1e10e183cab792a",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/MG/_fonte/decretos-nao-numerados/2003/dsn-103-2003.html.gz",
+      "fonte_sha256": "7cdbd2fbb02f08a9930cef891d838ccdf43f09084c5f7f0c9ec310bc0553199a",
+      "saida_sha256": "b7e868962662c8e0a7590e6c5b8b9ea7c707397fe01a047af475749609030398",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/PE/_fonte/decretos/2020/dec-49064-2020-id50736.html.gz",
+      "fonte_sha256": "0c89ff743d3bd99284aba7d1dca2be091af84989758cd1d24b0e042573c8ed95",
+      "saida_sha256": "66dc9ec88efb7c4ec59b9fa93045dc3e5e24a5af4a3027df281e7396ad7d5cfd",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/PE/_fonte/decretos/2020/dec-49065-2020-id50737.html.gz",
+      "fonte_sha256": "36b0e4812efc400dc286110a87e43d8a455bc427eeac9fc58210301fe4ff7d72",
+      "saida_sha256": "c18dd80fd8f1a462f02ab1a9b8b41729cd796fe00b64df306eb00f1fda5c57f6",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/PE/_fonte/decretos/2020/dec-49066-2020-id50738.html.gz",
+      "fonte_sha256": "e1b5aa2ffc0107b0eca8b1f042aa951c10876460aea87e98c4e9cdeb916a25f2",
+      "saida_sha256": "ca0bbb3eee594dddfbe5e0905be2998649070b6575f38d7267d3674b07d1fceb",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/PI/_fonte/constituicao/1989/constituicao-pi-sapl-compilada.html.gz",
+      "fonte_sha256": "69216c86b28e3ffbbde62bf2c2a59f01ef99dbc24b561e624702692c89eaefe4",
+      "saida_sha256": "1c1d768cf2c09a648ef7bddc4914ad406140981132e21717daaf227906f3b01a",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2026/lei-11159-2026-c5e51cbc38.html.gz",
+      "fonte_sha256": "20758ca2df0520594bd505bd86cebed352643536b76422c79bc753fb906e09ec",
+      "saida_sha256": "f2c4e47ae74a52739ca6c438506557f8b93abc8f61f82f4eed35ecd474aedbae",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2026/lei-11160-2026-cbf8d50b29.html.gz",
+      "fonte_sha256": "4f4394f272edc26d8ee80c29d2fc41d4e13251e5178f66b7864c19deab523cd7",
+      "saida_sha256": "72a4e02cacc29523ca0005f13fe106b5f58b8aedf910d7c50bc1bbd049874232",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2026/lei-11161-2026-141d1f5464.html.gz",
+      "fonte_sha256": "bf2ebdff1e3c0546d412e98b9ddb75b91a53341ab02270ffe06c61dcbd1f262b",
+      "saida_sha256": "34b9046acd05b20c22d761a8ee2d5382e89696b3ca9b3322cb1636f017eff7d0",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/SC/_fonte/leis-ordinarias/1960/lei-2555-1960-id3209.html.gz",
+      "fonte_sha256": "e186e4056d782b132cc204b244a8841249c7fb804a1333215296ef0afd7af2f9",
+      "saida_sha256": "386e7473890e6a4d238440841a3e9a0468c8b8d759075195976af74138b9a50a",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/SP/_fonte/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.html.gz",
+      "fonte_sha256": "43f4ddb834d0c5547f316ab83e7e7edf6adb5514ce5dc151dcc9ace750b980da",
+      "saida_sha256": "fe1b7fbd04784bb5160d6284764dbb98d0fb0c84308c799e019780b8de3289b1",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.html.gz",
+      "fonte_sha256": "11287023be16aeaa4bc906d100cda60fc98fba68f5f7016c78af4e68fbe1c8b9",
+      "saida_sha256": "98e5d7c0562d6be7ec3fdb76e02dfd2ad00aa1f6ec26cce8de8e56de415e6955",
+      "saida_identica": true
+    },
+    {
+      "cache": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.html.gz",
+      "fonte_sha256": "c6ff589d6d1143f1ef232149022fdb9344b8b494d7f3673e4938982df45dffef",
+      "saida_sha256": "25cd3eab5ace9c487d0ebc3958045370198b0ebff02eabfbfea84fb8a8beef38",
+      "saida_identica": true
+    }
+  ]
+}

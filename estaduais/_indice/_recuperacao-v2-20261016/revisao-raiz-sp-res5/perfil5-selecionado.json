@@ -1,0 +1,649 @@
+{
+  "script_sha256": "73ab345fb88a398ead8fef453a770ad471bdc07778a4ed22b2682c2abbc19e7a",
+  "indice_zip_sha256": "9138dffb95566277a103a3de4cdb42fd433f73286cabcaa9eea8f9ca53bdaa67",
+  "documentos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "uf": "SP",
+      "sha256_arquivo": "7f938f81c8fdccf5f843993232aab4895bd1c0ff586d5737f82416b6b109629b",
+      "sha256_corpo": "a7afe1041b643a998dd7d4b0683ade95a5ece4e74b9771226903903e5cdc7e88",
+      "fonte": "https://www.al.sp.gov.br/norma/5191",
+      "cache_original": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-805-2000-05-03-id5191.html.gz",
+      "md_sha256_atual": "7f938f81c8fdccf5f843993232aab4895bd1c0ff586d5737f82416b6b109629b",
+      "fonte_sha256": "febccbca712eab18e8daf127efbaeea6beaaa22796955b5777b55a6f76701c76",
+      "cache_gzip_sha256": "4fdb8c1b4329d72d67dbaf8418f582d4835c132b7852b406f9f28b5841630d5c",
+      "encoding_real": "utf-8",
+      "indice_registro": {
+        "Data": "2000-05-03T00:00:00-03:00",
+        "Ementa": "Dispõe sobre a afiliação da Assembléia Legislativa do Estado de São Paulo à União Nacional dos Legislativos Estaduais e à União Parlamentar do Mercosul",
+        "IdNorma": "5191",
+        "IdTema": "347",
+        "Autores": "Mesa Diretora",
+        "CadDO": "Legislativo",
+        "DataDO": "2023-05-05 16:38:46",
+        "Numero": "805",
+        "PagDO": "1",
+        "IdTipo": "19",
+        "Promulg": "L",
+        "Situacao": "1",
+        "URLFicha": "http://www.al.sp.gov.br/norma/5191"
+      },
+      "metadata": {
+        "titulo": "\"Resolução da Alesp nº 805, de 03/05/2000\"",
+        "uf": "\"SP\"",
+        "tipo": "\"Resolução\"",
+        "numero": "\"805\"",
+        "data": "2000-05-03",
+        "ementa": "\"Dispõe sobre a afiliação da Assembléia Legislativa do Estado de São Paulo à União Nacional dos Legislativos Estaduais e à União Parlamentar do Mercosul\"",
+        "situacao": "\"Sem revogação expressa\"",
+        "revogada": "null",
+        "versao_texto": "\"atualizada\"",
+        "publicacao": "\"Legislativo, 04/05/2000, p.1\"",
+        "fonte": "\"https://www.al.sp.gov.br/norma/5191\"",
+        "baixado_em": "2026-10-16"
+      },
+      "fonte_corpo_chars_sha256": "914a512ea2b704a57b27340a0df4d058515e75a0ab8e99107c2cd35a230d7bd3",
+      "gfm_corpo_chars_sha256": "090d5cc72ad3ba0ee7e884e3c1bb2649ef4399d3542ae522d86eddcbc5c2f73a",
+      "caracteres_fonte_gfm_iguais": false,
+      "divergencia": {
+        "pos": 660,
+        "fonte": "dênciasãoosdefinidosnoestatutodaUNALE.§2°-FicaaMesadaAssembléiaLegislativaautorizadaafirmarconvêniocomaUNALEparacooperaçãoeintercâmbiotecnológicovisandoaoaprimoramentodoprocessoleg",
+        "gfm": "dênciasãoosdefinidosnoestatutodaUNALE.§2°-FicaaMesadaAssembleiaLegislativaautorizadaafirmartermodecooperaçãocomaUNALEquedisciplinedemaneirapormenorizadaaçõesdefortalecimentodoPoder"
+      },
+      "tags_body": {
+        "body": 1,
+        "a": 5,
+        "br": 12,
+        "h1": 2,
+        "i": 1,
+        "h2": 1,
+        "span": 3,
+        "h3": 1,
+        "p": 6,
+        "strong": 10,
+        "s": 1,
+        "em": 2
+      },
+      "assets_body": [],
+      "links_body": [
+        {
+          "href": "https://www.al.sp.gov.br"
+        },
+        {
+          "href": "/norma/5191"
+        },
+        {
+          "href": "compilacao-resolucao.alesp-805-03.05.2000.html"
+        },
+        {
+          "data-idanotacao": "208880",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/208880"
+        },
+        {
+          "data-idanotacao": "208880",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/208880"
+        }
+      ],
+      "artigos_detectados": [
+        "14",
+        "1",
+        "3",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "fecho_fonte": "Assembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.VANDERLEI MACRIS - PresidenteRoberto Gouveia - 1° SecretárioPaschoal Thomeu - 2° Secretário\n",
+      "source_text": "RESOLUÇÃO DA ALESP N° 805, DE 03 DE MAIO DE 2000\n(Última atualização: Resolução da Alesp n° 941, de 04/12/2023)\n(Projeto de Resolução n° 13, de 2000)Dispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais e UNALE e à União Parlamentar do Mercosul - U.P.M.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - A Assembléia Legislativa do Estado de São Paulo passa a integrar, como afiliada, a União Nacional dos Legislativos Estaduais - UNALE.§ 1° - As obrigações e direitos decorrentes desta providência são os definidos no estatuto da UNALE.§ 2° - Fica a Mesa da Assembléia Legislativa autorizada a firmar convênio com a UNALE para cooperação e intercâmbio tecnológico visando ao aprimoramento do processo legislativo informatizado.§ 2° - Fica a Mesa da Assembleia Legislativa autorizada a firmar termo de cooperação com a UNALE que discipline de maneira pormenorizada ações de fortalecimento do Poder Legislativo Estadual junto aos demais Poderes constituídos. (NR)- § 2° com redação dada pela Resolução n° 941, de 04/12/2023. § 3° - Enquanto perdurar a vigência do termo de cooperação a que se refere o § 2° deste artigo, fica a ALESP autorizada a transferir à UNALE o valor referente ao pagamento das mensalidades da associação, não se aplicando a sistemática da Lei Federal n° 13.019, de 31 de julho de 2014, em razão do disposto no artigo 3°, inciso IX, do referido diploma. (NR)- § 3° acrescentado pela Resolução n° 941, de 04/12/2023.Artigo 2° - A inscrição dos Deputados na UNALE e no seu Fundo de Assistência Parlamentar - FAP é optativa, responsabilizando-se o parlamentar pelos custos dela advindos.Artigo 3° - A Assembléia Legislativa do Estado de São Paulo associar-se-á à União Parlamentar do Mercosul - U.P.M.Parágrafo único - Os direitos e obrigações decorrentes desta providência são as definidas no estatuto da U.P.M.Artigo 4° - As despesas decorrentes da execução desta resolução correrão à conta das dotações próprias consignadas no orçamento vigente.Artigo 5° - Esta Resolução entra em vigor na data de sua publicação.Assembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.VANDERLEI MACRIS - PresidenteRoberto Gouveia - 1° SecretárioPaschoal Thomeu - 2° Secretário\n",
+      "gfm_text": "RESOLUÇÃO DA ALESP N° 805, DE 03 DE MAIO DE 2000\n(Última atualização: Resolução da Alesp n° 941, de 04/12/2023)\n(Projeto de Resolução n° 13, de 2000)\nDispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais e UNALE e à União Parlamentar do Mercosul - U.P.M.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - A Assembléia Legislativa do Estado de São Paulo passa a integrar, como afiliada, a União Nacional dos Legislativos Estaduais - UNALE.\n§ 1° - As obrigações e direitos decorrentes desta providência são os definidos no estatuto da UNALE.\n§ 2° - Fica a Mesa da Assembleia Legislativa autorizada a firmar termo de cooperação com a UNALE que discipline de maneira pormenorizada ações de fortalecimento do Poder Legislativo Estadual junto aos demais Poderes constituídos. (NR)\n- § 2° com redação dada pela Resolução n° 941, de 04/12/2023.\n§ 3° - Enquanto perdurar a vigência do termo de cooperação a que se refere o § 2° deste artigo, fica a ALESP autorizada a transferir à UNALE o valor referente ao pagamento das mensalidades da associação, não se aplicando a sistemática da Lei Federal n° 13.019, de 31 de julho de 2014, em razão do disposto no artigo 3°, inciso IX, do referido diploma. (NR)\n- § 3° acrescentado pela Resolução n° 941, de 04/12/2023.\nArtigo 2° - A inscrição dos Deputados na UNALE e no seu Fundo de Assistência Parlamentar - FAP é optativa, responsabilizando-se o parlamentar pelos custos dela advindos.\nArtigo 3° - A Assembléia Legislativa do Estado de São Paulo associar-se-á à União Parlamentar do Mercosul - U.P.M.\nParágrafo único - Os direitos e obrigações decorrentes desta providência são as definidas no estatuto da U.P.M.\nArtigo 4° - As despesas decorrentes da execução desta resolução correrão à conta das dotações próprias consignadas no orçamento vigente.\nArtigo 5° - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\nVANDERLEI MACRIS - Presidente\nRoberto Gouveia - 1° Secretário\nPaschoal Thomeu - 2° Secretário\n",
+      "source_text_integral": "\nTexto compilado\nRESOLUÇÃO DA ALESP N° 805, DE 03 DE MAIO DE 2000\n(Última atualização: Resolução da Alesp n° 941, de 04/12/2023)\n(Projeto de Resolução n° 13, de 2000)Dispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais e UNALE e à União Parlamentar do Mercosul - U.P.M.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - A Assembléia Legislativa do Estado de São Paulo passa a integrar, como afiliada, a União Nacional dos Legislativos Estaduais - UNALE.§ 1° - As obrigações e direitos decorrentes desta providência são os definidos no estatuto da UNALE.§ 2° - Fica a Mesa da Assembléia Legislativa autorizada a firmar convênio com a UNALE para cooperação e intercâmbio tecnológico visando ao aprimoramento do processo legislativo informatizado.§ 2° - Fica a Mesa da Assembleia Legislativa autorizada a firmar termo de cooperação com a UNALE que discipline de maneira pormenorizada ações de fortalecimento do Poder Legislativo Estadual junto aos demais Poderes constituídos. (NR)- § 2° com redação dada pela Resolução n° 941, de 04/12/2023. § 3° - Enquanto perdurar a vigência do termo de cooperação a que se refere o § 2° deste artigo, fica a ALESP autorizada a transferir à UNALE o valor referente ao pagamento das mensalidades da associação, não se aplicando a sistemática da Lei Federal n° 13.019, de 31 de julho de 2014, em razão do disposto no artigo 3°, inciso IX, do referido diploma. (NR)- § 3° acrescentado pela Resolução n° 941, de 04/12/2023.Artigo 2° - A inscrição dos Deputados na UNALE e no seu Fundo de Assistência Parlamentar - FAP é optativa, responsabilizando-se o parlamentar pelos custos dela advindos.Artigo 3° - A Assembléia Legislativa do Estado de São Paulo associar-se-á à União Parlamentar do Mercosul - U.P.M.Parágrafo único - Os direitos e obrigações decorrentes desta providência são as definidas no estatuto da U.P.M.Artigo 4° - As despesas decorrentes da execução desta resolução correrão à conta das dotações próprias consignadas no orçamento vigente.Artigo 5° - Esta Resolução entra em vigor na data de sua publicação.Assembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.VANDERLEI MACRIS - PresidenteRoberto Gouveia - 1° SecretárioPaschoal Thomeu - 2° Secretário\n",
+      "gfm_text_integral": "Assembleia Legislativa do Estado de São Paulo Ficha informativa\nTexto compilado\nRESOLUÇÃO DA ALESP N° 805, DE 03 DE MAIO DE 2000\n(Última atualização: Resolução da Alesp n° 941, de 04/12/2023)\n(Projeto de Resolução n° 13, de 2000)\nDispõe sobre a afiliação da ALESP à União Nacional dos Legislativos Estaduais e UNALE e à União Parlamentar do Mercosul - U.P.M.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - A Assembléia Legislativa do Estado de São Paulo passa a integrar, como afiliada, a União Nacional dos Legislativos Estaduais - UNALE.\n§ 1° - As obrigações e direitos decorrentes desta providência são os definidos no estatuto da UNALE.\n§ 2° - Fica a Mesa da Assembleia Legislativa autorizada a firmar termo de cooperação com a UNALE que discipline de maneira pormenorizada ações de fortalecimento do Poder Legislativo Estadual junto aos demais Poderes constituídos. (NR)\n- § 2° com redação dada pela Resolução n° 941, de 04/12/2023.\n§ 3° - Enquanto perdurar a vigência do termo de cooperação a que se refere o § 2° deste artigo, fica a ALESP autorizada a transferir à UNALE o valor referente ao pagamento das mensalidades da associação, não se aplicando a sistemática da Lei Federal n° 13.019, de 31 de julho de 2014, em razão do disposto no artigo 3°, inciso IX, do referido diploma. (NR)\n- § 3° acrescentado pela Resolução n° 941, de 04/12/2023.\nArtigo 2° - A inscrição dos Deputados na UNALE e no seu Fundo de Assistência Parlamentar - FAP é optativa, responsabilizando-se o parlamentar pelos custos dela advindos.\nArtigo 3° - A Assembléia Legislativa do Estado de São Paulo associar-se-á à União Parlamentar do Mercosul - U.P.M.\nParágrafo único - Os direitos e obrigações decorrentes desta providência são as definidas no estatuto da U.P.M.\nArtigo 4° - As despesas decorrentes da execução desta resolução correrão à conta das dotações próprias consignadas no orçamento vigente.\nArtigo 5° - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\nVANDERLEI MACRIS - Presidente\nRoberto Gouveia - 1° Secretário\nPaschoal Thomeu - 2° Secretário\n",
+      "gfm_tags": {
+        "p": 17,
+        "br": 5,
+        "em": 3,
+        "strong": 9
+      },
+      "revisao_contextual_pendente": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "uf": "SP",
+      "sha256_arquivo": "566facd910cd77bcef24791f9a54e80ad82bf36ff8ccc92c0c42f10395e772b1",
+      "sha256_corpo": "5c648a674576fa5e4741169dd3b4ac37564db14e52d69a3285e6f64fe2a26d4a",
+      "fonte": "https://www.al.sp.gov.br/norma/5194",
+      "cache_original": "estaduais/SP/_fonte/resolucoes/2000/res-alesp-808-2000-10-18-id5194.html.gz",
+      "md_sha256_atual": "566facd910cd77bcef24791f9a54e80ad82bf36ff8ccc92c0c42f10395e772b1",
+      "fonte_sha256": "319f34a9678d1569de0ed22c1b9346db31231ef289838e07194f43283b02997a",
+      "cache_gzip_sha256": "48a90f31df2d3dd2ad688494789cdafc2e13a44e01631a27e915446df2524729",
+      "encoding_real": "utf-8",
+      "indice_registro": {
+        "Data": "2000-10-18T00:00:00-02:00",
+        "Ementa": "Altera o artigo 87 e o § 4° do artigo 90 do Regimento Interno.",
+        "IdNorma": "5194",
+        "IdTema": "347",
+        "Autores": "Dráusio Barreto",
+        "CadDO": "Legislativo",
+        "DataDO": "2023-05-05 16:38:46",
+        "Numero": "808",
+        "PagDO": "1",
+        "IdTipo": "19",
+        "Promulg": "L",
+        "Situacao": "1",
+        "URLFicha": "http://www.al.sp.gov.br/norma/5194"
+      },
+      "metadata": {
+        "titulo": "\"Resolução da Alesp nº 808, de 18/10/2000\"",
+        "uf": "\"SP\"",
+        "tipo": "\"Resolução\"",
+        "numero": "\"808\"",
+        "data": "2000-10-18",
+        "ementa": "\"Altera o artigo 87 e o § 4° do artigo 90 do Regimento Interno.\"",
+        "situacao": "\"Sem revogação expressa\"",
+        "revogada": "null",
+        "versao_texto": "\"atualizada\"",
+        "publicacao": "\"Legislativo, 19/10/2000, p.1\"",
+        "fonte": "\"https://www.al.sp.gov.br/norma/5194\"",
+        "baixado_em": "2026-10-16"
+      },
+      "fonte_corpo_chars_sha256": "b85177357b4fe7e14459babbbd5a88c1f23e401383c427322be5a929ed8da05c",
+      "gfm_corpo_chars_sha256": "13587ee98ab720e3bb57be6634b12b857cff43cf946cf1bfc3368c06fb21f80d",
+      "caracteres_fonte_gfm_iguais": false,
+      "divergencia": {
+        "pos": 772,
+        "fonte": "enosquerequeiralicençafundadaemoutroincisodomesmoartigo.”II-“Artigo90-..........................................................................................................”“§4",
+        "gfm": "enosquerequeiralicençafundadaemoutroincisodomesmoartigo.”II-Revogado.-IncisoIIrevogadopelaResoluçãonº811,de13/03/2001.Artigo2º-EstaResoluçãoentraemvigornadatadesuapublicação.Assemb"
+      },
+      "tags_body": {
+        "body": 1,
+        "a": 5,
+        "br": 10,
+        "h1": 2,
+        "i": 1,
+        "h2": 1,
+        "h3": 1,
+        "p": 3,
+        "strong": 5,
+        "strike": 1,
+        "em": 1
+      },
+      "assets_body": [],
+      "links_body": [
+        {
+          "href": "http://www.al.sp.gov.br"
+        },
+        {
+          "href": "/norma/?id=5194"
+        },
+        {
+          "href": "compilacao-resolucao.alesp-808-18.10.2000.html"
+        },
+        {
+          "target": "_top",
+          "href": "http://www.al.sp.gov.br/norma?id=40681"
+        },
+        {
+          "target": "_top",
+          "href": "http://www.al.sp.gov.br/norma?id=3897"
+        }
+      ],
+      "artigos_detectados": [
+        "87",
+        "90",
+        "14",
+        "1",
+        "87",
+        "84",
+        "90",
+        "2"
+      ],
+      "fecho_fonte": "Assembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\r\nVANDERLEI MACRIS - Presidente\r\nRoberto Gouveia - 1º Secretário\r\nPaschoal Thomeu - 2º Secretário\r\n \r\n \t \r\n ",
+      "source_text": "RESOLUÇÃO - ALESP Nº 808, DE 18 DE OUTUBRO DE 2000 \r\n \t(Atualizada até a Resolução nº 811, de 13 de março de 2001) \r\n \t(Projeto de Resolução nº 32, de 1996, do Deputado Dráusio Barreto - PSDB) \r\n \tAltera o artigo 87 e o § 4° do artigo 90 do Regimento Interno. \r\n \t\r\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\r\nArtigo 1º - Os dispositivos abaixo relacionados de Resolução nº 576, de 26 de junho de 1970, com modificações posteriores, passam a vigorar com a seguinte redação:\r\nI - “Artigo 87 - Para afastar-se do território nacional, por período superior a 15 dias, o Deputado deverá dar prévia ciência à Assembléia, sendo considerado licenciado nos termos do inciso III do artigo 84, a menos que requeira licença fundada em outro inciso do mesmo artigo.”\r\nII - “Artigo 90 - ..........................................................................................................”\r\n“§ 4º - Não será de qualquer modo subvencionada viagem de Deputado ao exterior, salvo se em missão oficial pelo Fórum Parlamentar de Assuntos Latino-Americanos.”\r\n\r\nII - Revogado.\r\n\r\n- Inciso II revogado pela Resolução nº 811, de 13/03/2001.\r\nArtigo 2º - Esta Resolução entra em vigor na data de sua publicação.\r\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\r\nVANDERLEI MACRIS - Presidente\r\nRoberto Gouveia - 1º Secretário\r\nPaschoal Thomeu - 2º Secretário\r\n \r\n \t \r\n ",
+      "gfm_text": "RESOLUÇÃO - ALESP Nº 808, DE 18 DE OUTUBRO DE 2000\n(Atualizada até a Resolução nº 811, de 13 de março de 2001)\n(Projeto de Resolução nº 32, de 1996, do Deputado Dráusio Barreto - PSDB)\nAltera o artigo 87 e o § 4° do artigo 90 do Regimento Interno.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1º - Os dispositivos abaixo relacionados de Resolução nº 576, de 26 de junho de 1970, com modificações posteriores, passam a vigorar com a seguinte redação:\nI - “Artigo 87 - Para afastar-se do território nacional, por período superior a 15 dias, o Deputado deverá dar prévia ciência à Assembléia, sendo considerado licenciado nos termos do inciso III do artigo 84, a menos que requeira licença fundada em outro inciso do mesmo artigo.”\nII - Revogado.\n- Inciso II revogado pela Resolução nº 811, de 13/03/2001.\nArtigo 2º - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\nVANDERLEI MACRIS - Presidente\nRoberto Gouveia - 1º Secretário\nPaschoal Thomeu - 2º Secretário\n",
+      "source_text_integral": " \r\n \tTexto compilado \r\n \tRESOLUÇÃO - ALESP Nº 808, DE 18 DE OUTUBRO DE 2000 \r\n \t(Atualizada até a Resolução nº 811, de 13 de março de 2001) \r\n \t(Projeto de Resolução nº 32, de 1996, do Deputado Dráusio Barreto - PSDB) \r\n \tAltera o artigo 87 e o § 4° do artigo 90 do Regimento Interno. \r\n \t\r\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\r\nArtigo 1º - Os dispositivos abaixo relacionados de Resolução nº 576, de 26 de junho de 1970, com modificações posteriores, passam a vigorar com a seguinte redação:\r\nI - “Artigo 87 - Para afastar-se do território nacional, por período superior a 15 dias, o Deputado deverá dar prévia ciência à Assembléia, sendo considerado licenciado nos termos do inciso III do artigo 84, a menos que requeira licença fundada em outro inciso do mesmo artigo.”\r\nII - “Artigo 90 - ..........................................................................................................”\r\n“§ 4º - Não será de qualquer modo subvencionada viagem de Deputado ao exterior, salvo se em missão oficial pelo Fórum Parlamentar de Assuntos Latino-Americanos.”\r\n\r\nII - Revogado.\r\n\r\n- Inciso II revogado pela Resolução nº 811, de 13/03/2001.\r\nArtigo 2º - Esta Resolução entra em vigor na data de sua publicação.\r\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\r\nVANDERLEI MACRIS - Presidente\r\nRoberto Gouveia - 1º Secretário\r\nPaschoal Thomeu - 2º Secretário\r\n \r\n \t \r\n ",
+      "gfm_text_integral": "Assembleia Legislativa do Estado de São Paulo Ficha informativa\nTexto compilado\nRESOLUÇÃO - ALESP Nº 808, DE 18 DE OUTUBRO DE 2000\n(Atualizada até a Resolução nº 811, de 13 de março de 2001)\n(Projeto de Resolução nº 32, de 1996, do Deputado Dráusio Barreto - PSDB)\nAltera o artigo 87 e o § 4° do artigo 90 do Regimento Interno.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da IX Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1º - Os dispositivos abaixo relacionados de Resolução nº 576, de 26 de junho de 1970, com modificações posteriores, passam a vigorar com a seguinte redação:\nI - “Artigo 87 - Para afastar-se do território nacional, por período superior a 15 dias, o Deputado deverá dar prévia ciência à Assembléia, sendo considerado licenciado nos termos do inciso III do artigo 84, a menos que requeira licença fundada em outro inciso do mesmo artigo.”\nII - Revogado.\n- Inciso II revogado pela Resolução nº 811, de 13/03/2001.\nArtigo 2º - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 03 de maio de 2000.\nVANDERLEI MACRIS - Presidente\nRoberto Gouveia - 1º Secretário\nPaschoal Thomeu - 2º Secretário\n",
+      "gfm_tags": {
+        "p": 11,
+        "br": 5,
+        "em": 2,
+        "strong": 4
+      },
+      "revisao_contextual_pendente": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "uf": "SP",
+      "sha256_arquivo": "c7355ec4c4078f202a9fa9e366cc921182a1ea844e186802c0a7242a13763157",
+      "sha256_corpo": "553b34e131481c0f1133b9678fdd200f5e8ceadd634f2f78b1b2aa60b7da4c88",
+      "fonte": "https://www.al.sp.gov.br/norma/3907",
+      "cache_original": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-821-2001-12-14-id3907.html.gz",
+      "md_sha256_atual": "c7355ec4c4078f202a9fa9e366cc921182a1ea844e186802c0a7242a13763157",
+      "fonte_sha256": "c5d0ccffe1b3d6d09285c03a0bc52170f3b7cf09ed0238d13bf35a81bf8b9985",
+      "cache_gzip_sha256": "05f51c551d0670799fe6ba0819a75f1853cff56e1d8618bf050182c3115bf78b",
+      "encoding_real": "utf-8",
+      "indice_registro": {
+        "Data": "2001-12-14T00:00:00-02:00",
+        "Ementa": "Cria o Instituto do Legislativo Paulista.",
+        "IdNorma": "3907",
+        "IdTema": "347",
+        "Autores": "Mesa Diretora",
+        "CadDO": "Legislativo",
+        "DataDO": "2023-05-05 16:38:46",
+        "Numero": "821",
+        "PagDO": "6",
+        "IdTipo": "19",
+        "Promulg": "L",
+        "Situacao": "1",
+        "URLFicha": "http://www.al.sp.gov.br/norma/3907"
+      },
+      "metadata": {
+        "titulo": "\"Resolução da Alesp nº 821, de 14/12/2001\"",
+        "uf": "\"SP\"",
+        "tipo": "\"Resolução\"",
+        "numero": "\"821\"",
+        "data": "2001-12-14",
+        "ementa": "\"Cria o Instituto do Legislativo Paulista.\"",
+        "situacao": "\"Sem revogação expressa\"",
+        "revogada": "null",
+        "versao_texto": "\"atualizada\"",
+        "publicacao": "\"Legislativo, 18/12/2001, p.6\"",
+        "fonte": "\"https://www.al.sp.gov.br/norma/3907\"",
+        "baixado_em": "2026-10-16"
+      },
+      "fonte_corpo_chars_sha256": "f6bacdf771a3e2673aaec767d8e1ce5d2c94d9ff15c6e4831b624be825542ca2",
+      "gfm_corpo_chars_sha256": "46808c8991c1a3608d32cb3cb950d452135b8410ed358342deb1aa3562f50edd",
+      "caracteres_fonte_gfm_iguais": false,
+      "divergencia": {
+        "pos": 4169,
+        "fonte": "decadaPartidoPolíticocomassentonaAssembléiaLegislativa,1(um)representantedosfuncionários,eleitodeformadiretaentreseuspares,e1(um)membrorepresentantedecadaumadasuniversidadesconveni",
+        "gfm": "decadaPartidoPolíticocomassentonaAssembléiaLegislativa,1(um)ex-DeputadorepresentantedaAssociaçãodosParlamentaresdoEstadodeSãoPaulo,porelaindicado,1(um)representantedosfuncionários,"
+      },
+      "tags_body": {
+        "body": 1,
+        "a": 10,
+        "br": 27,
+        "h1": 2,
+        "i": 1,
+        "h2": 1,
+        "h3": 1,
+        "p": 8,
+        "strong": 26,
+        "s": 1,
+        "em": 2,
+        "span": 2,
+        "u": 1
+      },
+      "assets_body": [],
+      "links_body": [
+        {
+          "href": "https://www.al.sp.gov.br"
+        },
+        {
+          "href": "/norma/3907"
+        },
+        {
+          "href": "compilacao-resolucao.alesp-821-14.12.2001.html"
+        },
+        {
+          "data-idanotacao": "2653",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/2653"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "159695",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/159695"
+        },
+        {
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "209117",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/209117"
+        }
+      ],
+      "artigos_detectados": [
+        "14",
+        "1",
+        "2",
+        "1",
+        "3",
+        "4",
+        "5",
+        "5",
+        "5",
+        "6",
+        "6",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "fecho_fonte": "Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "source_text": "RESOLUÇÃO DA ALESP N° 821, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 942, de 22/02/2024)\n(Projeto de Resolução n° 20, de 2001)Cria o Instituto do Legislativo Paulista.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - Fica criado, sob a denominação de Instituto do Legislativo Paulista, o Instituto de Estudos, Capacitação e Políticas Públicas do Poder Legislativo do Estado de São Paulo vinculado à Mesa Diretora, com sede na Assembléia Legislativa e os seguintes objetivos:I - realizar estudos, pesquisas e debates para o desenvolvimento e aplicação de políticas públicas no Estado;II - subsidiar os trabalhos parlamentares, oferecendo suporte técnico-temático à ação legislativa para definição de medidas que estimulem o desenvolvimento da sociedade paulista;III - avaliar os resultados obtidos pela aplicação do Índice Paulista de Responsabilidade Social - IPRS, criado pela Lei n° 10.765, de 19 de fevereiro de 2001, nos Municípios, com o fim de propor medidas que contribuam para o desenvolvimento e a justiça social;IV - realizar estudos, atividades e debates sobre o Estado, o Poder Legislativo, ética, cidadania e projetos de desenvolvimento, visando ao aprimoramento social e da democracia;V - preparar, elaborar e acompanhar a implantação de convênios e protocolos de cooperação técnica a serem firmados pela Assembléia Legislativa com outros institutos, órgãos públicos e universidades;VI - propor ações legislativas na área de políticas públicas, objetivando maior interação do Poder Legislativo com a sociedade e o aperfeiçoamento da participação política;VII - realizar, como atividade preparatório de cada legislatura e durante as sessões legislativas, seminários, cursos e eventos sobre o parlamento, a missão da instituição, o exercício do mandato, processo legislativo, atuação fiscalizadora e demais temas que ofereçam subsídios e instrumentos adequados à ação dos Deputados;VIII - atuar em conjunto com o Departamento de Comissões da Assembléia Legislativa, visando ao levantamento de dados técnicos, à elaboração de estudos e pesquisas e à realização de eventos sobre temas de interesse do Poder Legislativo ou sobre projetos de lei em tramitação;IX - atuar em conjunto com o Departamento de Recursos Humanos da Assembléia Legislativa, visando ao aperfeiçoamento e à capacitação profissional dos servidores, através de convênios com instituições que atuem na área de estudos, pesquisas e ensino de políticas públicas e outros temas de interesse do Poder Legislativo;X - implantar, através de convênios com instituições universitárias, cursos de especialização nas áreas de atuação do Poder Legislativo, destinados à qualificação de servidores e profissionais nestas áreas;XI - realizar estudos, seminários, campanhas e debates, para orientar a legislação participativa e a iniciativa popular, capacitando lideranças sociais para acompanhar as ações da Assembléia Legislativa.Parágrafo único - O disposto nos incisos II, IV, VI, VII e IX não substituem ou eliminam as competências regimentais e constitucionais das Comissões Permanentes e Temporárias, e nem aquelas dos Departamentos e Divisões da Assembléia Legislativa previstas na Resolução n° 776, de 1996 e nos Atos n°s 26, de 1996 e 1, de 1997, da Mesa, que dão suporte ao processo legislativo.Artigo 2° - O artigo 1°, inciso I, da Resolução n° 776, de 14 de outubro de 1996, fica assim acrescido: \"L - Instituto de Estudos, Capacitação e Políticas Públicas\".Artigo 3° - O Instituto tem como órgãos da administração uma Diretoria, um Conselho Deliberativo e um Conselho Gestor.Artigo 4° - A diretoria do Instituto é composta por três membros, sendo 1 (um) Diretor-Presidente e 2 (dois) Diretores-Executivos indicados pela Mesa da Assembléia Legislativa, sendo pelo menos um deles escolhido entre os servidores do Quadro Permanente do QSAL, com prejuízo do desempenho das atribuições de seus cargos efetivos, e que possuam nível superior completo.§ 1° - As deliberações da Diretoria dar-se-ão por decisão colegiada.§ 2° - A gestão da Diretoria coincidirá com o mandato da Mesa e poderá ser prorrogada até que novas indicações sejam concretizadas, não excedendo ao prazo máximo de 60 (sessenta) dias após o término do mandato, podendo haver recondução.§ 3° - O Instituto terá apoio técnico das unidades administrativas da Assembléia Legislativa e será secretariado por Grupo de Apoio constituído por servidores do Quadro Permanente do QSAL, sendo permitida a participação de servidores colocados à disposição deste Poder.Artigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa.Artigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) ex-Deputado representante da Associação dos Parlamentares do Estado de São Paulo, por ela indicado, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa. (NR)- Artigo 5° com redação dada pela Resolução n° 868, de 08/06/2010.Artigo 6° - O Conselho Gestor será formado pelos Secretários Gerais de Administração e Parlamentar, pelo Procurador Chefe, pelo Diretor do Departamento de Recursos Humanos e pelo Diretor do Departamento de Comissões, sem prejuízo do desempenho de suas funções.Artigo 6°-A - Além dos indicados para compor a Diretoria, o Conselho Deliberativo e o Conselho Gestor, será nomeado servidor efetivo para exercer o cargo em comissão de Gestor de Divisão, previsto na Resolução n° 776, de 14 de outubro de 1996, a ser lotado no Instituto. (NR)- Artigo 6°-A acrescentado pela Resolução n° 942, de 22/02/2024.Artigo 7° - As funções exercidas pelos membros do Conselho Deliberativo ou do Conselho Gestor, atinentes às atividades específicas do Instituto, serão honoríficas, consideradas de relevante interesse público e não receberão remuneração de qualquer espécie.Parágrafo único - A participação de servidor nesses Conselhos será considerada nos processos internos da avaliação.Artigo 8° - A Mesa da Assembléia Legislativa regulamentará esta Resolução no prazo de 60 (sessenta) dias, estabelecendo o Regulamento Interno do Instituto.Artigo 9° - Esta resolução entrará em vigor na data da sua publicação.Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "gfm_text": "RESOLUÇÃO DA ALESP N° 821, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 942, de 22/02/2024)\n(Projeto de Resolução n° 20, de 2001)\nCria o Instituto do Legislativo Paulista.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - Fica criado, sob a denominação de Instituto do Legislativo Paulista, o Instituto de Estudos, Capacitação e Políticas Públicas do Poder Legislativo do Estado de São Paulo vinculado à Mesa Diretora, com sede na Assembléia Legislativa e os seguintes objetivos:\nI - realizar estudos, pesquisas e debates para o desenvolvimento e aplicação de políticas públicas no Estado;\nII - subsidiar os trabalhos parlamentares, oferecendo suporte técnico-temático à ação legislativa para definição de medidas que estimulem o desenvolvimento da sociedade paulista;\nIII - avaliar os resultados obtidos pela aplicação do Índice Paulista de Responsabilidade Social - IPRS, criado pela Lei n° 10.765, de 19 de fevereiro de 2001, nos Municípios, com o fim de propor medidas que contribuam para o desenvolvimento e a justiça social;\nIV - realizar estudos, atividades e debates sobre o Estado, o Poder Legislativo, ética, cidadania e projetos de desenvolvimento, visando ao aprimoramento social e da democracia;\nV - preparar, elaborar e acompanhar a implantação de convênios e protocolos de cooperação técnica a serem firmados pela Assembléia Legislativa com outros institutos, órgãos públicos e universidades;\nVI - propor ações legislativas na área de políticas públicas, objetivando maior interação do Poder Legislativo com a sociedade e o aperfeiçoamento da participação política;\nVII - realizar, como atividade preparatório de cada legislatura e durante as sessões legislativas, seminários, cursos e eventos sobre o parlamento, a missão da instituição, o exercício do mandato, processo legislativo, atuação fiscalizadora e demais temas que ofereçam subsídios e instrumentos adequados à ação dos Deputados;\nVIII - atuar em conjunto com o Departamento de Comissões da Assembléia Legislativa, visando ao levantamento de dados técnicos, à elaboração de estudos e pesquisas e à realização de eventos sobre temas de interesse do Poder Legislativo ou sobre projetos de lei em tramitação;\nIX - atuar em conjunto com o Departamento de Recursos Humanos da Assembléia Legislativa, visando ao aperfeiçoamento e à capacitação profissional dos servidores, através de convênios com instituições que atuem na área de estudos, pesquisas e ensino de políticas públicas e outros temas de interesse do Poder Legislativo;\nX - implantar, através de convênios com instituições universitárias, cursos de especialização nas áreas de atuação do Poder Legislativo, destinados à qualificação de servidores e profissionais nestas áreas;\nXI - realizar estudos, seminários, campanhas e debates, para orientar a legislação participativa e a iniciativa popular, capacitando lideranças sociais para acompanhar as ações da Assembléia Legislativa.\nParágrafo único - O disposto nos incisos II, IV, VI, VII e IX não substituem ou eliminam as competências regimentais e constitucionais das Comissões Permanentes e Temporárias, e nem aquelas dos Departamentos e Divisões da Assembléia Legislativa previstas na Resolução n° 776, de 1996 e nos Atos n°s 26, de 1996 e 1, de 1997, da Mesa, que dão suporte ao processo legislativo.\nArtigo 2° - O artigo 1°, inciso I, da Resolução n° 776, de 14 de outubro de 1996, fica assim acrescido: \"L - Instituto de Estudos, Capacitação e Políticas Públicas\".\nArtigo 3° - O Instituto tem como órgãos da administração uma Diretoria, um Conselho Deliberativo e um Conselho Gestor.\nArtigo 4° - A diretoria do Instituto é composta por três membros, sendo 1 (um) Diretor-Presidente e 2 (dois) Diretores-Executivos indicados pela Mesa da Assembléia Legislativa, sendo pelo menos um deles escolhido entre os servidores do Quadro Permanente do QSAL, com prejuízo do desempenho das atribuições de seus cargos efetivos, e que possuam nível superior completo.\n§ 1° - As deliberações da Diretoria dar-se-ão por decisão colegiada.\n§ 2° - A gestão da Diretoria coincidirá com o mandato da Mesa e poderá ser prorrogada até que novas indicações sejam concretizadas, não excedendo ao prazo máximo de 60 (sessenta) dias após o término do mandato, podendo haver recondução.\n§ 3° - O Instituto terá apoio técnico das unidades administrativas da Assembléia Legislativa e será secretariado por Grupo de Apoio constituído por servidores do Quadro Permanente do QSAL, sendo permitida a participação de servidores colocados à disposição deste Poder.\nArtigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) ex-Deputado representante da Associação dos Parlamentares do Estado de São Paulo, por ela indicado, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa. (NR)\n- Artigo 5° com redação dada pela Resolução n° 868, de 08/06/2010.\nArtigo 6° - O Conselho Gestor será formado pelos Secretários Gerais de Administração e Parlamentar, pelo Procurador Chefe, pelo Diretor do Departamento de Recursos Humanos e pelo Diretor do Departamento de Comissões, sem prejuízo do desempenho de suas funções.\nArtigo 6°-A - Além dos indicados para compor a Diretoria, o Conselho Deliberativo e o Conselho Gestor, será nomeado servidor efetivo para exercer o cargo em comissão de Gestor de Divisão, previsto na Resolução n° 776, de 14 de outubro de 1996, a ser lotado no Instituto. (NR)\n- Artigo 6°-A acrescentado pela Resolução n° 942, de 22/02/2024.\nArtigo 7° - As funções exercidas pelos membros do Conselho Deliberativo ou do Conselho Gestor, atinentes às atividades específicas do Instituto, serão honoríficas, consideradas de relevante interesse público e não receberão remuneração de qualquer espécie.\nParágrafo único - A participação de servidor nesses Conselhos será considerada nos processos internos da avaliação.\nArtigo 8° - A Mesa da Assembléia Legislativa regulamentará esta Resolução no prazo de 60 (sessenta) dias, estabelecendo o Regulamento Interno do Instituto.\nArtigo 9° - Esta resolução entrará em vigor na data da sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.\na) WALTER FELDMAN - Presidente\na) Hamilton Pereira - 1° Secretário\na) Dorival Braga - 2° Secretário\n",
+      "source_text_integral": "\nTexto compilado\nRESOLUÇÃO DA ALESP N° 821, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 942, de 22/02/2024)\n(Projeto de Resolução n° 20, de 2001)Cria o Instituto do Legislativo Paulista.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - Fica criado, sob a denominação de Instituto do Legislativo Paulista, o Instituto de Estudos, Capacitação e Políticas Públicas do Poder Legislativo do Estado de São Paulo vinculado à Mesa Diretora, com sede na Assembléia Legislativa e os seguintes objetivos:I - realizar estudos, pesquisas e debates para o desenvolvimento e aplicação de políticas públicas no Estado;II - subsidiar os trabalhos parlamentares, oferecendo suporte técnico-temático à ação legislativa para definição de medidas que estimulem o desenvolvimento da sociedade paulista;III - avaliar os resultados obtidos pela aplicação do Índice Paulista de Responsabilidade Social - IPRS, criado pela Lei n° 10.765, de 19 de fevereiro de 2001, nos Municípios, com o fim de propor medidas que contribuam para o desenvolvimento e a justiça social;IV - realizar estudos, atividades e debates sobre o Estado, o Poder Legislativo, ética, cidadania e projetos de desenvolvimento, visando ao aprimoramento social e da democracia;V - preparar, elaborar e acompanhar a implantação de convênios e protocolos de cooperação técnica a serem firmados pela Assembléia Legislativa com outros institutos, órgãos públicos e universidades;VI - propor ações legislativas na área de políticas públicas, objetivando maior interação do Poder Legislativo com a sociedade e o aperfeiçoamento da participação política;VII - realizar, como atividade preparatório de cada legislatura e durante as sessões legislativas, seminários, cursos e eventos sobre o parlamento, a missão da instituição, o exercício do mandato, processo legislativo, atuação fiscalizadora e demais temas que ofereçam subsídios e instrumentos adequados à ação dos Deputados;VIII - atuar em conjunto com o Departamento de Comissões da Assembléia Legislativa, visando ao levantamento de dados técnicos, à elaboração de estudos e pesquisas e à realização de eventos sobre temas de interesse do Poder Legislativo ou sobre projetos de lei em tramitação;IX - atuar em conjunto com o Departamento de Recursos Humanos da Assembléia Legislativa, visando ao aperfeiçoamento e à capacitação profissional dos servidores, através de convênios com instituições que atuem na área de estudos, pesquisas e ensino de políticas públicas e outros temas de interesse do Poder Legislativo;X - implantar, através de convênios com instituições universitárias, cursos de especialização nas áreas de atuação do Poder Legislativo, destinados à qualificação de servidores e profissionais nestas áreas;XI - realizar estudos, seminários, campanhas e debates, para orientar a legislação participativa e a iniciativa popular, capacitando lideranças sociais para acompanhar as ações da Assembléia Legislativa.Parágrafo único - O disposto nos incisos II, IV, VI, VII e IX não substituem ou eliminam as competências regimentais e constitucionais das Comissões Permanentes e Temporárias, e nem aquelas dos Departamentos e Divisões da Assembléia Legislativa previstas na Resolução n° 776, de 1996 e nos Atos n°s 26, de 1996 e 1, de 1997, da Mesa, que dão suporte ao processo legislativo.Artigo 2° - O artigo 1°, inciso I, da Resolução n° 776, de 14 de outubro de 1996, fica assim acrescido: \"L - Instituto de Estudos, Capacitação e Políticas Públicas\".Artigo 3° - O Instituto tem como órgãos da administração uma Diretoria, um Conselho Deliberativo e um Conselho Gestor.Artigo 4° - A diretoria do Instituto é composta por três membros, sendo 1 (um) Diretor-Presidente e 2 (dois) Diretores-Executivos indicados pela Mesa da Assembléia Legislativa, sendo pelo menos um deles escolhido entre os servidores do Quadro Permanente do QSAL, com prejuízo do desempenho das atribuições de seus cargos efetivos, e que possuam nível superior completo.§ 1° - As deliberações da Diretoria dar-se-ão por decisão colegiada.§ 2° - A gestão da Diretoria coincidirá com o mandato da Mesa e poderá ser prorrogada até que novas indicações sejam concretizadas, não excedendo ao prazo máximo de 60 (sessenta) dias após o término do mandato, podendo haver recondução.§ 3° - O Instituto terá apoio técnico das unidades administrativas da Assembléia Legislativa e será secretariado por Grupo de Apoio constituído por servidores do Quadro Permanente do QSAL, sendo permitida a participação de servidores colocados à disposição deste Poder.Artigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa.Artigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) ex-Deputado representante da Associação dos Parlamentares do Estado de São Paulo, por ela indicado, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa. (NR)- Artigo 5° com redação dada pela Resolução n° 868, de 08/06/2010.Artigo 6° - O Conselho Gestor será formado pelos Secretários Gerais de Administração e Parlamentar, pelo Procurador Chefe, pelo Diretor do Departamento de Recursos Humanos e pelo Diretor do Departamento de Comissões, sem prejuízo do desempenho de suas funções.Artigo 6°-A - Além dos indicados para compor a Diretoria, o Conselho Deliberativo e o Conselho Gestor, será nomeado servidor efetivo para exercer o cargo em comissão de Gestor de Divisão, previsto na Resolução n° 776, de 14 de outubro de 1996, a ser lotado no Instituto. (NR)- Artigo 6°-A acrescentado pela Resolução n° 942, de 22/02/2024.Artigo 7° - As funções exercidas pelos membros do Conselho Deliberativo ou do Conselho Gestor, atinentes às atividades específicas do Instituto, serão honoríficas, consideradas de relevante interesse público e não receberão remuneração de qualquer espécie.Parágrafo único - A participação de servidor nesses Conselhos será considerada nos processos internos da avaliação.Artigo 8° - A Mesa da Assembléia Legislativa regulamentará esta Resolução no prazo de 60 (sessenta) dias, estabelecendo o Regulamento Interno do Instituto.Artigo 9° - Esta resolução entrará em vigor na data da sua publicação.Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "gfm_text_integral": "Assembleia Legislativa do Estado de São Paulo Ficha informativa\nTexto compilado\nRESOLUÇÃO DA ALESP N° 821, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 942, de 22/02/2024)\n(Projeto de Resolução n° 20, de 2001)\nCria o Instituto do Legislativo Paulista.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - Fica criado, sob a denominação de Instituto do Legislativo Paulista, o Instituto de Estudos, Capacitação e Políticas Públicas do Poder Legislativo do Estado de São Paulo vinculado à Mesa Diretora, com sede na Assembléia Legislativa e os seguintes objetivos:\nI - realizar estudos, pesquisas e debates para o desenvolvimento e aplicação de políticas públicas no Estado;\nII - subsidiar os trabalhos parlamentares, oferecendo suporte técnico-temático à ação legislativa para definição de medidas que estimulem o desenvolvimento da sociedade paulista;\nIII - avaliar os resultados obtidos pela aplicação do Índice Paulista de Responsabilidade Social - IPRS, criado pela Lei n° 10.765, de 19 de fevereiro de 2001, nos Municípios, com o fim de propor medidas que contribuam para o desenvolvimento e a justiça social;\nIV - realizar estudos, atividades e debates sobre o Estado, o Poder Legislativo, ética, cidadania e projetos de desenvolvimento, visando ao aprimoramento social e da democracia;\nV - preparar, elaborar e acompanhar a implantação de convênios e protocolos de cooperação técnica a serem firmados pela Assembléia Legislativa com outros institutos, órgãos públicos e universidades;\nVI - propor ações legislativas na área de políticas públicas, objetivando maior interação do Poder Legislativo com a sociedade e o aperfeiçoamento da participação política;\nVII - realizar, como atividade preparatório de cada legislatura e durante as sessões legislativas, seminários, cursos e eventos sobre o parlamento, a missão da instituição, o exercício do mandato, processo legislativo, atuação fiscalizadora e demais temas que ofereçam subsídios e instrumentos adequados à ação dos Deputados;\nVIII - atuar em conjunto com o Departamento de Comissões da Assembléia Legislativa, visando ao levantamento de dados técnicos, à elaboração de estudos e pesquisas e à realização de eventos sobre temas de interesse do Poder Legislativo ou sobre projetos de lei em tramitação;\nIX - atuar em conjunto com o Departamento de Recursos Humanos da Assembléia Legislativa, visando ao aperfeiçoamento e à capacitação profissional dos servidores, através de convênios com instituições que atuem na área de estudos, pesquisas e ensino de políticas públicas e outros temas de interesse do Poder Legislativo;\nX - implantar, através de convênios com instituições universitárias, cursos de especialização nas áreas de atuação do Poder Legislativo, destinados à qualificação de servidores e profissionais nestas áreas;\nXI - realizar estudos, seminários, campanhas e debates, para orientar a legislação participativa e a iniciativa popular, capacitando lideranças sociais para acompanhar as ações da Assembléia Legislativa.\nParágrafo único - O disposto nos incisos II, IV, VI, VII e IX não substituem ou eliminam as competências regimentais e constitucionais das Comissões Permanentes e Temporárias, e nem aquelas dos Departamentos e Divisões da Assembléia Legislativa previstas na Resolução n° 776, de 1996 e nos Atos n°s 26, de 1996 e 1, de 1997, da Mesa, que dão suporte ao processo legislativo.\nArtigo 2° - O artigo 1°, inciso I, da Resolução n° 776, de 14 de outubro de 1996, fica assim acrescido: \"L - Instituto de Estudos, Capacitação e Políticas Públicas\".\nArtigo 3° - O Instituto tem como órgãos da administração uma Diretoria, um Conselho Deliberativo e um Conselho Gestor.\nArtigo 4° - A diretoria do Instituto é composta por três membros, sendo 1 (um) Diretor-Presidente e 2 (dois) Diretores-Executivos indicados pela Mesa da Assembléia Legislativa, sendo pelo menos um deles escolhido entre os servidores do Quadro Permanente do QSAL, com prejuízo do desempenho das atribuições de seus cargos efetivos, e que possuam nível superior completo.\n§ 1° - As deliberações da Diretoria dar-se-ão por decisão colegiada.\n§ 2° - A gestão da Diretoria coincidirá com o mandato da Mesa e poderá ser prorrogada até que novas indicações sejam concretizadas, não excedendo ao prazo máximo de 60 (sessenta) dias após o término do mandato, podendo haver recondução.\n§ 3° - O Instituto terá apoio técnico das unidades administrativas da Assembléia Legislativa e será secretariado por Grupo de Apoio constituído por servidores do Quadro Permanente do QSAL, sendo permitida a participação de servidores colocados à disposição deste Poder.\nArtigo 5° - O Conselho Deliberativo é integrado pelos membros da Diretoria, 1 (um) parlamentar representante de cada Partido Político com assento na Assembléia Legislativa, 1 (um) ex-Deputado representante da Associação dos Parlamentares do Estado de São Paulo, por ela indicado, 1 (um) representante dos funcionários, eleito de forma direta entre seus pares, e 1 (um) membro representante de cada uma das universidades conveniadas com a Assembléia Legislativa. (NR)\n- Artigo 5° com redação dada pela Resolução n° 868, de 08/06/2010.\nArtigo 6° - O Conselho Gestor será formado pelos Secretários Gerais de Administração e Parlamentar, pelo Procurador Chefe, pelo Diretor do Departamento de Recursos Humanos e pelo Diretor do Departamento de Comissões, sem prejuízo do desempenho de suas funções.\nArtigo 6°-A - Além dos indicados para compor a Diretoria, o Conselho Deliberativo e o Conselho Gestor, será nomeado servidor efetivo para exercer o cargo em comissão de Gestor de Divisão, previsto na Resolução n° 776, de 14 de outubro de 1996, a ser lotado no Instituto. (NR)\n- Artigo 6°-A acrescentado pela Resolução n° 942, de 22/02/2024.\nArtigo 7° - As funções exercidas pelos membros do Conselho Deliberativo ou do Conselho Gestor, atinentes às atividades específicas do Instituto, serão honoríficas, consideradas de relevante interesse público e não receberão remuneração de qualquer espécie.\nParágrafo único - A participação de servidor nesses Conselhos será considerada nos processos internos da avaliação.\nArtigo 8° - A Mesa da Assembléia Legislativa regulamentará esta Resolução no prazo de 60 (sessenta) dias, estabelecendo o Regulamento Interno do Instituto.\nArtigo 9° - Esta resolução entrará em vigor na data da sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.\na) WALTER FELDMAN - Presidente\na) Hamilton Pereira - 1° Secretário\na) Dorival Braga - 2° Secretário\n",
+      "gfm_tags": {
+        "p": 37,
+        "br": 2,
+        "em": 3,
+        "strong": 26
+      },
+      "revisao_contextual_pendente": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "uf": "SP",
+      "sha256_arquivo": "25fed821962974ddc9dbef45605ebcaa358eb50412e958a734da40a205693557",
+      "sha256_corpo": "2fc7e85386aba78193c00e58bcf761707d7f6d40587cdede978f268e58683fd9",
+      "fonte": "https://www.al.sp.gov.br/norma/3908",
+      "cache_original": "estaduais/SP/_fonte/resolucoes/2001/res-alesp-822-2001-12-14-id3908.html.gz",
+      "md_sha256_atual": "25fed821962974ddc9dbef45605ebcaa358eb50412e958a734da40a205693557",
+      "fonte_sha256": "0fbe56ebcc41df4ab86d9909689ec8ed9becdd6265618370586b5ad909259bc5",
+      "cache_gzip_sha256": "3b8f59d1b40c0ea8e4d9a772ac89ef8254b96e41e087de959e8e8f94a14a446f",
+      "encoding_real": "utf-8",
+      "indice_registro": {
+        "Data": "2001-12-14T00:00:00-02:00",
+        "Ementa": "Dispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da Resolução nº 783, de 1º de julho de 1997.",
+        "IdNorma": "3908",
+        "IdTema": "347",
+        "Autores": "Mesa Diretora",
+        "CadDO": "Legislativo",
+        "DataDO": "2023-05-05 16:38:46",
+        "Numero": "822",
+        "PagDO": "7",
+        "IdTipo": "19",
+        "Promulg": "L",
+        "Situacao": "1",
+        "URLFicha": "http://www.al.sp.gov.br/norma/3908"
+      },
+      "metadata": {
+        "titulo": "\"Resolução da Alesp nº 822, de 14/12/2001\"",
+        "uf": "\"SP\"",
+        "tipo": "\"Resolução\"",
+        "numero": "\"822\"",
+        "data": "2001-12-14",
+        "ementa": "\"Dispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da <a target='_blank' class='anotacao-link' href='/norma/8881'>Resolução nº 783, de 1º de julho de 1997</a>.\"",
+        "situacao": "\"Sem revogação expressa\"",
+        "revogada": "null",
+        "versao_texto": "\"atualizada\"",
+        "publicacao": "\"Legislativo, 15/12/2001, p.7\"",
+        "fonte": "\"https://www.al.sp.gov.br/norma/3908\"",
+        "baixado_em": "2026-10-16"
+      },
+      "fonte_corpo_chars_sha256": "7dd96100f0d1e63a4a4c8220860d5bb91f09de43a6ab46e7a48e81d9a2fbe8ff",
+      "gfm_corpo_chars_sha256": "043b600a749a277bf4804bd6e25c8c08eed0bcadda1d63e1b172fe1697b165cb",
+      "caracteres_fonte_gfm_iguais": false,
+      "divergencia": {
+        "pos": 466,
+        "fonte": "ulgaaseguinteResolução:Artigo1°-AaplicaçãodoAuxílio-EncargosgeraisdeGabinetedeDeputadoeAuxílio-Hospedagem,devidosmensalmente,destinadosacobrirgastoscomofuncionamentoemanutençãodosg",
+        "gfm": "ulgaaseguinteResolução:Artigo1°-AaplicaçãodoAuxílio-EncargosGeraisdeGabinetedeDeputadoeAuxílio-Hospedagem,devidosmensalmente,destinadosacobrirgastoscomofuncionamentoemanutençãodosg"
+      },
+      "tags_body": {
+        "body": 1,
+        "a": 15,
+        "br": 9,
+        "h1": 2,
+        "i": 1,
+        "h2": 1,
+        "h3": 1,
+        "p": 21,
+        "s": 10,
+        "strong": 14,
+        "em": 7
+      },
+      "assets_body": [],
+      "links_body": [
+        {
+          "href": "https://www.al.sp.gov.br"
+        },
+        {
+          "href": "/norma/3908"
+        },
+        {
+          "href": "compilacao-resolucao.alesp-822-14.12.2001.html"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "196980",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/196980"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "210534",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/210534"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "10009",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/10009"
+        },
+        {
+          "data-idanotacao": "210534",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/210534"
+        },
+        {
+          "data-idanotacao": "210534",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/210534"
+        },
+        {
+          "data-idanotacao": "925",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/925"
+        },
+        {
+          "data-idanotacao": "170542",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/170542"
+        },
+        {
+          "data-idanotacao": "170542",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/170542"
+        },
+        {
+          "data-idanotacao": "210534",
+          "class": "anotacao-link",
+          "target": "blank",
+          "href": "https://www.al.sp.gov.br/norma/210534"
+        }
+      ],
+      "artigos_detectados": [
+        "11",
+        "14",
+        "1",
+        "11",
+        "1",
+        "11",
+        "1",
+        "2",
+        "11",
+        "92",
+        "92",
+        "3",
+        "3",
+        "24",
+        "11",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "fecho_fonte": "Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "source_text": "RESOLUÇÃO DA ALESP N° 822, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 946, de 13/01/2025)\n(Projeto de Resolução n° 35, de 2001)Dispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da Resolução n° 783, de 1° de julho de 1997.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - A aplicação do Auxílio-Encargos gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 1°, inciso I, alínea \"I\" e 8° da Resolução n° 776/96, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução.Artigo 1° - A aplicação do Auxílio-Encargos Gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 2°, inciso I, alínea \"k\" da Resolução n.° 925, de 2 de fevereiro de 2021 e 8° da Resolução n.° 776, de 14 de outubro de 1996, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n.° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução. (NR)- Artigo 1° com redação dada pela Resolução n° 946, de 13/01/2025.Artigo 2° - Toda despesa efetuada pelo Gabinete de Deputado da Assembléia Legislativa, de acordo com o artigo 11 da Resolução n° 783, de 1° de julho de 1997, deverá ser individual e adequadamente comprovada sob pena de não ser ressarcida.Parágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, mediante comunicado à Mesa da Assembléia Legislativa.Parágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n.° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n.° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, desde que lotado no respectivo Gabinete, mediante comunicado ao Núcleo de Fiscalização e Controle. (NR)- Parágrafo único com redação dada pela Resolução n° 946, de 13/01/2025.Artigo 3° - Ato da Mesa da Assembléia Legislativa estabelecerá as espécies de despesas a serem ressarcidas, bem como os procedimentos para a comprovação das despesas e o pagamento das mesmas.Artigo 3° - Ato da Mesa da Assembleia Legislativa estabelecerá as espécies e os respectivos limites das despesas a serem ressarcidas, bem como os procedimentos para a sua comprovação e o reembolso das mesmas. (NR)- \"Caput\" com redação dada pela Resolução n° 946, de 13/01/2025.§ 1° - Cada despesa efetivada, observada sua natureza, não poderá exceder o limite de dispensa de licitação previsto no inciso II do artigo 24 da Lei n° 8.666, de 21 de junho de 1993, com alterações posteriores.§ 1° - Cada despesa efetivada, observada sua natureza, não poderá exceder, mensalmente, o limite correspondente a 760 (setecentos e sessenta) UFESPs. (NR)- § 1° com redação dada pela Resolução n° 824, de 15/03/2002, com efeitos a partir de 15/03/2002.§ 2° - A despesa prevista no item 2 do § 3° do artigo 11 da Resolução n° 783, de 1° de julho de 1997, será passível de reembolso até o limite mensal de R$ 2.850,00 (dois mil, oitocentos e cinquenta reais). (NR)- § 2° acrescentado pela Resolução n° 890, de 19/06/2013.§ 2° - § 3° -  As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembléia Legislativa a responsabilidade sobre o seu pagamento. (NR)- § 2° renumerado para § 3° pela Resolução n° 890, de 19/06/2013.Parágrafo único - As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembleia Legislativa a responsabilidade sobre o seu pagamento. (NR)- Parágrafo único acrescentado pela Resolução n° 946, de 13/01/2025, revogados os §§ 1° a 3°.Artigo 4° - Não serão objeto de ressarcimento as despesas efetuadas com aquisição de material permanente, assim considerado os de vida útil superior a dois anos.Artigo 5° - Cabe única e exclusivamente à Mesa da Assembléia Legislativa, em caráter definitivo, avaliar e decidir sobre as contas dos Gabinetes dos Deputados e tudo o que a elas diga respeito.Parágrafo único - Poderá ser delegada às Secretarias da Assembléia Legislativa a operacionalização dos procedimentos burocráticos necessários ao cumprimento do contido no \"caput\" deste artigo.Artigo 6° - Esta Resolução será regulamentada por Ato da Mesa da Assembléia Legislativa, no prazo de 60 (sessenta) dias da data de sua publicação.Artigo 7° - Esta resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de março de 2002.Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "gfm_text": "RESOLUÇÃO DA ALESP N° 822, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 946, de 13/01/2025)\n(Projeto de Resolução n° 35, de 2001)\nDispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da Resolução n° 783, de 1° de julho de 1997.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - A aplicação do Auxílio-Encargos Gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 2°, inciso I, alínea \"k\" da Resolução n.° 925, de 2 de fevereiro de 2021 e 8° da Resolução n.° 776, de 14 de outubro de 1996, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n.° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução. (NR)\n- Artigo 1° com redação dada pela Resolução n° 946, de 13/01/2025.\nArtigo 2° - Toda despesa efetuada pelo Gabinete de Deputado da Assembléia Legislativa, de acordo com o artigo 11 da Resolução n° 783, de 1° de julho de 1997, deverá ser individual e adequadamente comprovada sob pena de não ser ressarcida.\nParágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n.° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n.° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, desde que lotado no respectivo Gabinete, mediante comunicado ao Núcleo de Fiscalização e Controle. (NR)\n- Parágrafo único com redação dada pela Resolução n° 946, de 13/01/2025.\nArtigo 3° - Ato da Mesa da Assembleia Legislativa estabelecerá as espécies e os respectivos limites das despesas a serem ressarcidas, bem como os procedimentos para a sua comprovação e o reembolso das mesmas. (NR)\n- \"Caput\" com redação dada pela Resolução n° 946, de 13/01/2025.\nParágrafo único - As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembleia Legislativa a responsabilidade sobre o seu pagamento. (NR)\n- Parágrafo único acrescentado pela Resolução n° 946, de 13/01/2025, revogados os §§ 1° a 3°.\nArtigo 4° - Não serão objeto de ressarcimento as despesas efetuadas com aquisição de material permanente, assim considerado os de vida útil superior a dois anos.\nArtigo 5° - Cabe única e exclusivamente à Mesa da Assembléia Legislativa, em caráter definitivo, avaliar e decidir sobre as contas dos Gabinetes dos Deputados e tudo o que a elas diga respeito.\nParágrafo único - Poderá ser delegada às Secretarias da Assembléia Legislativa a operacionalização dos procedimentos burocráticos necessários ao cumprimento do contido no \"caput\" deste artigo.\nArtigo 6° - Esta Resolução será regulamentada por Ato da Mesa da Assembléia Legislativa, no prazo de 60 (sessenta) dias da data de sua publicação.\nArtigo 7° - Esta resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de março de 2002.\nAssembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.\na) WALTER FELDMAN - Presidente\na) Hamilton Pereira - 1° Secretário\na) Dorival Braga - 2° Secretário\n",
+      "source_text_integral": "\nTexto compilado\nRESOLUÇÃO DA ALESP N° 822, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 946, de 13/01/2025)\n(Projeto de Resolução n° 35, de 2001)Dispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da Resolução n° 783, de 1° de julho de 1997.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:Artigo 1° - A aplicação do Auxílio-Encargos gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 1°, inciso I, alínea \"I\" e 8° da Resolução n° 776/96, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução.Artigo 1° - A aplicação do Auxílio-Encargos Gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 2°, inciso I, alínea \"k\" da Resolução n.° 925, de 2 de fevereiro de 2021 e 8° da Resolução n.° 776, de 14 de outubro de 1996, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n.° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução. (NR)- Artigo 1° com redação dada pela Resolução n° 946, de 13/01/2025.Artigo 2° - Toda despesa efetuada pelo Gabinete de Deputado da Assembléia Legislativa, de acordo com o artigo 11 da Resolução n° 783, de 1° de julho de 1997, deverá ser individual e adequadamente comprovada sob pena de não ser ressarcida.Parágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, mediante comunicado à Mesa da Assembléia Legislativa.Parágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n.° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n.° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, desde que lotado no respectivo Gabinete, mediante comunicado ao Núcleo de Fiscalização e Controle. (NR)- Parágrafo único com redação dada pela Resolução n° 946, de 13/01/2025.Artigo 3° - Ato da Mesa da Assembléia Legislativa estabelecerá as espécies de despesas a serem ressarcidas, bem como os procedimentos para a comprovação das despesas e o pagamento das mesmas.Artigo 3° - Ato da Mesa da Assembleia Legislativa estabelecerá as espécies e os respectivos limites das despesas a serem ressarcidas, bem como os procedimentos para a sua comprovação e o reembolso das mesmas. (NR)- \"Caput\" com redação dada pela Resolução n° 946, de 13/01/2025.§ 1° - Cada despesa efetivada, observada sua natureza, não poderá exceder o limite de dispensa de licitação previsto no inciso II do artigo 24 da Lei n° 8.666, de 21 de junho de 1993, com alterações posteriores.§ 1° - Cada despesa efetivada, observada sua natureza, não poderá exceder, mensalmente, o limite correspondente a 760 (setecentos e sessenta) UFESPs. (NR)- § 1° com redação dada pela Resolução n° 824, de 15/03/2002, com efeitos a partir de 15/03/2002.§ 2° - A despesa prevista no item 2 do § 3° do artigo 11 da Resolução n° 783, de 1° de julho de 1997, será passível de reembolso até o limite mensal de R$ 2.850,00 (dois mil, oitocentos e cinquenta reais). (NR)- § 2° acrescentado pela Resolução n° 890, de 19/06/2013.§ 2° - § 3° -  As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembléia Legislativa a responsabilidade sobre o seu pagamento. (NR)- § 2° renumerado para § 3° pela Resolução n° 890, de 19/06/2013.Parágrafo único - As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembleia Legislativa a responsabilidade sobre o seu pagamento. (NR)- Parágrafo único acrescentado pela Resolução n° 946, de 13/01/2025, revogados os §§ 1° a 3°.Artigo 4° - Não serão objeto de ressarcimento as despesas efetuadas com aquisição de material permanente, assim considerado os de vida útil superior a dois anos.Artigo 5° - Cabe única e exclusivamente à Mesa da Assembléia Legislativa, em caráter definitivo, avaliar e decidir sobre as contas dos Gabinetes dos Deputados e tudo o que a elas diga respeito.Parágrafo único - Poderá ser delegada às Secretarias da Assembléia Legislativa a operacionalização dos procedimentos burocráticos necessários ao cumprimento do contido no \"caput\" deste artigo.Artigo 6° - Esta Resolução será regulamentada por Ato da Mesa da Assembléia Legislativa, no prazo de 60 (sessenta) dias da data de sua publicação.Artigo 7° - Esta resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de março de 2002.Assembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.a) WALTER FELDMAN - Presidentea) Hamilton Pereira - 1° Secretárioa) Dorival Braga - 2° Secretário\n",
+      "gfm_text_integral": "Assembleia Legislativa do Estado de São Paulo Ficha informativa\nTexto compilado\nRESOLUÇÃO DA ALESP N° 822, DE 14 DE DEZEMBRO DE 2001\n(Última atualização: Resolução da Alesp n° 946, de 13/01/2025)\n(Projeto de Resolução n° 35, de 2001)\nDispõe sobre a comprovação de despesas com o auxílio instituído pelo artigo 11 da Resolução n° 783, de 1° de julho de 1997.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1° - A aplicação do Auxílio-Encargos Gerais de Gabinete de Deputado e Auxílio-Hospedagem, devidos mensalmente, destinados a cobrir gastos com o funcionamento e manutenção dos gabinetes, previstos nos artigos 2°, inciso I, alínea \"k\" da Resolução n.° 925, de 2 de fevereiro de 2021 e 8° da Resolução n.° 776, de 14 de outubro de 1996, com hospedagem e demais despesas inerentes ao pleno exercício das atividades parlamentares, a que se refere o artigo 11 da Resolução n.° 783, de 1° de julho de 1997, obedecerá, doravante, o contido na presente Resolução. (NR)\n- Artigo 1° com redação dada pela Resolução n° 946, de 13/01/2025.\nArtigo 2° - Toda despesa efetuada pelo Gabinete de Deputado da Assembléia Legislativa, de acordo com o artigo 11 da Resolução n° 783, de 1° de julho de 1997, deverá ser individual e adequadamente comprovada sob pena de não ser ressarcida.\nParágrafo único - A comprovação das despesas de que se trata será de responsabilidade do Deputado titular do respectivo Gabinete, ou do ocupante de cargo em comissão com lotação no gabinete do Deputado ao qual for atribuída a Gratificação de Assessor Chefe de Gabinete de Deputado, nos termos do artigo 92 da Resolução n.° 776, de 14 de outubro de 1996, com a redação dada pela Resolução n.° 783, de 1° de julho de 1997, ou ainda, de outro servidor designado pelo parlamentar para este fim, desde que lotado no respectivo Gabinete, mediante comunicado ao Núcleo de Fiscalização e Controle. (NR)\n- Parágrafo único com redação dada pela Resolução n° 946, de 13/01/2025.\nArtigo 3° - Ato da Mesa da Assembleia Legislativa estabelecerá as espécies e os respectivos limites das despesas a serem ressarcidas, bem como os procedimentos para a sua comprovação e o reembolso das mesmas. (NR)\n- \"Caput\" com redação dada pela Resolução n° 946, de 13/01/2025.\nParágrafo único - As contratações e aquisições realizadas com os recursos de que se trata serão de exclusiva responsabilidade do titular do Gabinete, sendo que a inadimplência do contratante com referência a estas despesas, em especial, com referência aos alugueres, encargos trabalhistas, previdenciários, fiscais e comerciais, não transfere à Assembleia Legislativa a responsabilidade sobre o seu pagamento. (NR)\n- Parágrafo único acrescentado pela Resolução n° 946, de 13/01/2025, revogados os §§ 1° a 3°.\nArtigo 4° - Não serão objeto de ressarcimento as despesas efetuadas com aquisição de material permanente, assim considerado os de vida útil superior a dois anos.\nArtigo 5° - Cabe única e exclusivamente à Mesa da Assembléia Legislativa, em caráter definitivo, avaliar e decidir sobre as contas dos Gabinetes dos Deputados e tudo o que a elas diga respeito.\nParágrafo único - Poderá ser delegada às Secretarias da Assembléia Legislativa a operacionalização dos procedimentos burocráticos necessários ao cumprimento do contido no \"caput\" deste artigo.\nArtigo 6° - Esta Resolução será regulamentada por Ato da Mesa da Assembléia Legislativa, no prazo de 60 (sessenta) dias da data de sua publicação.\nArtigo 7° - Esta resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de março de 2002.\nAssembléia Legislativa do Estado de São Paulo, aos 14 de dezembro de 2001.\na) WALTER FELDMAN - Presidente\na) Hamilton Pereira - 1° Secretário\na) Dorival Braga - 2° Secretário\n",
+      "gfm_tags": {
+        "p": 23,
+        "br": 2,
+        "em": 5,
+        "strong": 10
+      },
+      "revisao_contextual_pendente": true
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "uf": "SP",
+      "sha256_arquivo": "6f4097c5218bbe67e6784e47c65cd0e3110f3ab69f6810f78101050446a39512",
+      "sha256_corpo": "cfa044433e2199391a86c0eae378d5feb87a66c9162b015c5605557a9ccd7955",
+      "fonte": "https://www.al.sp.gov.br/norma/1400",
+      "cache_original": "estaduais/SP/_fonte/resolucoes/2002/res-alesp-829-2002-12-17-id1400.html.gz",
+      "md_sha256_atual": "6f4097c5218bbe67e6784e47c65cd0e3110f3ab69f6810f78101050446a39512",
+      "fonte_sha256": "9a75a7ae1c68b00b750dc0abb5370678f44a04b631a7ef98aed64d217f30f9f4",
+      "cache_gzip_sha256": "7cb6620fcf6139b32da57a66eff64f27f787e88d44f3794bb4fc9a4d6195298e",
+      "encoding_real": "utf-8",
+      "indice_registro": {
+        "Data": "2002-12-17T00:00:00-02:00",
+        "Ementa": "Cria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo.",
+        "IdNorma": "1400",
+        "IdTema": "347",
+        "Autores": "Mesa Diretora",
+        "CadDO": "Legislativo",
+        "DataDO": "2023-05-05 16:38:46",
+        "Numero": "829",
+        "PagDO": "5",
+        "IdTipo": "19",
+        "Promulg": "L",
+        "Situacao": "1",
+        "URLFicha": "http://www.al.sp.gov.br/norma/1400"
+      },
+      "metadata": {
+        "titulo": "\"Resolução da Alesp nº 829, de 17/12/2002\"",
+        "uf": "\"SP\"",
+        "tipo": "\"Resolução\"",
+        "numero": "\"829\"",
+        "data": "2002-12-17",
+        "ementa": "\"Cria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo.\"",
+        "situacao": "\"Sem revogação expressa\"",
+        "revogada": "null",
+        "versao_texto": "\"atualizada\"",
+        "publicacao": "\"Legislativo, 18/12/2002, p.5\"",
+        "fonte": "\"https://www.al.sp.gov.br/norma/1400\"",
+        "baixado_em": "2026-10-16"
+      },
+      "fonte_corpo_chars_sha256": "3f6fbe81759fa663329fab7480a82c0f272a47f792ccd5fd458a4ab0e9a4bd37",
+      "gfm_corpo_chars_sha256": "8daee2ccccd6e3f5ba6afdbe42c72665046cd8657eff7c2dc93bc8533201b448",
+      "caracteres_fonte_gfm_iguais": false,
+      "divergencia": {
+        "pos": 1653,
+        "fonte": "MesadaAssembléiaLegislativa.Artigo2º-OConselhoserácompostode48(quarentaeoito)membroserespectivossubstitutos,escolhidosentreosrepresentantesdasorganizaçõesemovimentossociais,comprom",
+        "gfm": "MesadaAssembléiaLegislativa.Artigo2º-OConselhoserácompostodenomínimo16(dezesseis)enomáximo48(quarentaeoito)membroserespectivossubstitutos,escolhidosentreosrepresentantesdasorganiza"
+      },
+      "tags_body": {
+        "body": 1,
+        "a": 4,
+        "br": 27,
+        "h1": 2,
+        "i": 1,
+        "h2": 1,
+        "h3": 1,
+        "p": 3,
+        "strong": 22,
+        "strike": 1,
+        "em": 1
+      },
+      "assets_body": [],
+      "links_body": [
+        {
+          "href": "http://www.al.sp.gov.br"
+        },
+        {
+          "href": "/norma/?id=1400"
+        },
+        {
+          "href": "compilacao-resolucao.alesp-829-17.12.2002.html"
+        },
+        {
+          "target": "_top",
+          "href": "http://www.al.sp.gov.br/norma?id=157554"
+        }
+      ],
+      "artigos_detectados": [
+        "14",
+        "1",
+        "2",
+        "2",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "fecho_fonte": "Assembléia Legislativa do Estado de São Paulo, aos 17 de dezembro de 2002.\r\nWALTER FELDMAN - Presidente\r\nHamilton Pereira - 1º Secretário\r\nDorival Braga - 2º Secretário\r\n \r\n \t \r\n ",
+      "source_text": "RESOLUÇÃO - ALESP Nº 829, DE 17 DE DEZEMBRO DE 2002 \r\n \t(Atualizada até a Resolução  nº 864, de 10 de setembro de 2009) \r\n \t(Projeto de Resolução nº 13, de 2002) \r\n \tCria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo. \r\n \t\r\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\r\nArtigo 1º - Fica criado o Conselho Parlamentar pela Cultura de Paz, de natureza permanente e deliberativa, com sede na Assembléia Legislativa do Estado de São Paulo.\r\nParágrafo único - Compete ao Conselho a formulação, coordenação, supervisão  e avaliação da política parlamentar voltada a ações pela cultura de paz, mediante as seguintes atribuições:\r\n1 - formular diretrizes e sugerir a promoção de atividades que visem às manifestações comunitárias e parlamentares pela paz, bem como tomar medidas efetivas na busca deste mesmo objetivo nos cenários sócio-econômico, político, filosófico, religioso e cultural;\r\n2 - sugerir ações governamentais;\r\n3 - assessorar o Poder Legislativo, emitindo pareceres e acompanhando a elaboração e execução de ações parlamentares em questões relativas às manifestações da comunidade pela cultura de paz;\r\n4 - desenvolver estudos, debates e pesquisas relativos à persecução de ideais comprometidos com a cultura de paz no Estado e ao cumprimento do disposto nos tratados internacionais;\r\n5 - desenvolver projetos próprios que promovam a participação de toda a sociedade a favor dos ideais de que trata esta resolução;\r\n6 - apoiar realizações mencionadas no \"caput\" e no item 5 , bem como promover entendimentos e intercâmbios com organizações e movimentos sociais, nacionais e internacionais, pelos mesmos ideais;\r\n7 - elaborar o seu regimento interno \"ad referendum\" da Mesa da Assembléia Legislativa.\r\nArtigo 2º - O Conselho será composto de 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembléia Legislativa, na seguinte proporção:\r\nI - 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no \"caput\";\r\nII - 12 (doze) Deputados.\r\n\r\nArtigo 2º - O Conselho será composto de no mínimo 16 (dezesseis) e no máximo 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembleia Legislativa, na seguinte proporção: (NR)\r\nI - no mínimo 12 (doze) e no máximo 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no “caput”; (NR)\r\nII - no mínimo 4 (quatro) e no máximo 12 (doze) Deputados. (NR)\r\n\r\n- Artigo 2º com redação dada pela Resolução  nº 864, de 10/09/2009.\r\n§ 1º - A nomeação dos conselheiros recairá sobre pessoas indicadas por suas respectivas organizações e movimentos sociais comprometidos com a cultura de paz, devidamente credenciados junto à Mesa da Assembléia Legislativa.\r\n§ 2º - Os Deputados serão indicados pelas Lideranças Partidárias, dentre aqueles que têm afinidade com o tema, e nomeados pelo Presidente da Assembléia Legislativa, que assegurará, tanto quanto possível, a representação proporcional dos Partidos.\r\nArtigo 3º - As funções dos membros do Conselho não serão remuneradas, mas consideradas de serviço público relevante.\r\nArtigo 4º - O mandato dos membros do Conselho será de 2 (dois) anos, permitida uma recondução consecutiva, nos termos do Regimento Interno.\r\nArtigo 5º - A Mesa Diretora do Conselho Parlamentar pela Cultura de Paz, escolhida entre seus membros, será nomeada pelo Presidente da Assembléia Legislativa.\r\nArtigo 6º - No início de seu mandato, a Mesa Diretora da Assembléia Legislativa apresentará aos parlamentares e à comunidade os membros do Conselho Parlamentar pela Cultura de Paz.\r\nArtigo 7º - O Poder Legislativo propiciará ao Conselho as condições necessárias ao seu funcionamento, no que concerne a recursos humanos e materiais.\r\nArtigo 8º - Esta Resolução entra em vigor na data de sua publicação.\r\nAssembléia Legislativa do Estado de São Paulo, aos 17 de dezembro de 2002.\r\nWALTER FELDMAN - Presidente\r\nHamilton Pereira - 1º Secretário\r\nDorival Braga - 2º Secretário\r\n \r\n \t \r\n ",
+      "gfm_text": "RESOLUÇÃO - ALESP Nº 829, DE 17 DE DEZEMBRO DE 2002\n(Atualizada até a Resolução nº 864, de 10 de setembro de 2009)\n(Projeto de Resolução nº 13, de 2002)\nCria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1º - Fica criado o Conselho Parlamentar pela Cultura de Paz, de natureza permanente e deliberativa, com sede na Assembléia Legislativa do Estado de São Paulo.\nParágrafo único - Compete ao Conselho a formulação, coordenação, supervisão e avaliação da política parlamentar voltada a ações pela cultura de paz, mediante as seguintes atribuições:\n1 - formular diretrizes e sugerir a promoção de atividades que visem às manifestações comunitárias e parlamentares pela paz, bem como tomar medidas efetivas na busca deste mesmo objetivo nos cenários sócio-econômico, político, filosófico, religioso e cultural;\n2 - sugerir ações governamentais;\n3 - assessorar o Poder Legislativo, emitindo pareceres e acompanhando a elaboração e execução de ações parlamentares em questões relativas às manifestações da comunidade pela cultura de paz;\n4 - desenvolver estudos, debates e pesquisas relativos à persecução de ideais comprometidos com a cultura de paz no Estado e ao cumprimento do disposto nos tratados internacionais;\n5 - desenvolver projetos próprios que promovam a participação de toda a sociedade a favor dos ideais de que trata esta resolução;\n6 - apoiar realizações mencionadas no \"caput\" e no item 5 , bem como promover entendimentos e intercâmbios com organizações e movimentos sociais, nacionais e internacionais, pelos mesmos ideais;\n7 - elaborar o seu regimento interno \"ad referendum\" da Mesa da Assembléia Legislativa.\nArtigo 2º - O Conselho será composto de no mínimo 16 (dezesseis) e no máximo 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembleia Legislativa, na seguinte proporção: (NR)\nI - no mínimo 12 (doze) e no máximo 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no “caput”; (NR)\nII - no mínimo 4 (quatro) e no máximo 12 (doze) Deputados. (NR)\n- Artigo 2º com redação dada pela Resolução nº 864, de 10/09/2009.\n§ 1º - A nomeação dos conselheiros recairá sobre pessoas indicadas por suas respectivas organizações e movimentos sociais comprometidos com a cultura de paz, devidamente credenciados junto à Mesa da Assembléia Legislativa.\n§ 2º - Os Deputados serão indicados pelas Lideranças Partidárias, dentre aqueles que têm afinidade com o tema, e nomeados pelo Presidente da Assembléia Legislativa, que assegurará, tanto quanto possível, a representação proporcional dos Partidos.\nArtigo 3º - As funções dos membros do Conselho não serão remuneradas, mas consideradas de serviço público relevante.\nArtigo 4º - O mandato dos membros do Conselho será de 2 (dois) anos, permitida uma recondução consecutiva, nos termos do Regimento Interno.\nArtigo 5º - A Mesa Diretora do Conselho Parlamentar pela Cultura de Paz, escolhida entre seus membros, será nomeada pelo Presidente da Assembléia Legislativa.\nArtigo 6º - No início de seu mandato, a Mesa Diretora da Assembléia Legislativa apresentará aos parlamentares e à comunidade os membros do Conselho Parlamentar pela Cultura de Paz.\nArtigo 7º - O Poder Legislativo propiciará ao Conselho as condições necessárias ao seu funcionamento, no que concerne a recursos humanos e materiais.\nArtigo 8º - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 17 de dezembro de 2002.\nWALTER FELDMAN - Presidente\nHamilton Pereira - 1º Secretário\nDorival Braga - 2º Secretário\n",
+      "source_text_integral": " \r\n \tTexto compilado \r\n \tRESOLUÇÃO - ALESP Nº 829, DE 17 DE DEZEMBRO DE 2002 \r\n \t(Atualizada até a Resolução  nº 864, de 10 de setembro de 2009) \r\n \t(Projeto de Resolução nº 13, de 2002) \r\n \tCria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo. \r\n \t\r\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\r\nArtigo 1º - Fica criado o Conselho Parlamentar pela Cultura de Paz, de natureza permanente e deliberativa, com sede na Assembléia Legislativa do Estado de São Paulo.\r\nParágrafo único - Compete ao Conselho a formulação, coordenação, supervisão  e avaliação da política parlamentar voltada a ações pela cultura de paz, mediante as seguintes atribuições:\r\n1 - formular diretrizes e sugerir a promoção de atividades que visem às manifestações comunitárias e parlamentares pela paz, bem como tomar medidas efetivas na busca deste mesmo objetivo nos cenários sócio-econômico, político, filosófico, religioso e cultural;\r\n2 - sugerir ações governamentais;\r\n3 - assessorar o Poder Legislativo, emitindo pareceres e acompanhando a elaboração e execução de ações parlamentares em questões relativas às manifestações da comunidade pela cultura de paz;\r\n4 - desenvolver estudos, debates e pesquisas relativos à persecução de ideais comprometidos com a cultura de paz no Estado e ao cumprimento do disposto nos tratados internacionais;\r\n5 - desenvolver projetos próprios que promovam a participação de toda a sociedade a favor dos ideais de que trata esta resolução;\r\n6 - apoiar realizações mencionadas no \"caput\" e no item 5 , bem como promover entendimentos e intercâmbios com organizações e movimentos sociais, nacionais e internacionais, pelos mesmos ideais;\r\n7 - elaborar o seu regimento interno \"ad referendum\" da Mesa da Assembléia Legislativa.\r\nArtigo 2º - O Conselho será composto de 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembléia Legislativa, na seguinte proporção:\r\nI - 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no \"caput\";\r\nII - 12 (doze) Deputados.\r\n\r\nArtigo 2º - O Conselho será composto de no mínimo 16 (dezesseis) e no máximo 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembleia Legislativa, na seguinte proporção: (NR)\r\nI - no mínimo 12 (doze) e no máximo 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no “caput”; (NR)\r\nII - no mínimo 4 (quatro) e no máximo 12 (doze) Deputados. (NR)\r\n\r\n- Artigo 2º com redação dada pela Resolução  nº 864, de 10/09/2009.\r\n§ 1º - A nomeação dos conselheiros recairá sobre pessoas indicadas por suas respectivas organizações e movimentos sociais comprometidos com a cultura de paz, devidamente credenciados junto à Mesa da Assembléia Legislativa.\r\n§ 2º - Os Deputados serão indicados pelas Lideranças Partidárias, dentre aqueles que têm afinidade com o tema, e nomeados pelo Presidente da Assembléia Legislativa, que assegurará, tanto quanto possível, a representação proporcional dos Partidos.\r\nArtigo 3º - As funções dos membros do Conselho não serão remuneradas, mas consideradas de serviço público relevante.\r\nArtigo 4º - O mandato dos membros do Conselho será de 2 (dois) anos, permitida uma recondução consecutiva, nos termos do Regimento Interno.\r\nArtigo 5º - A Mesa Diretora do Conselho Parlamentar pela Cultura de Paz, escolhida entre seus membros, será nomeada pelo Presidente da Assembléia Legislativa.\r\nArtigo 6º - No início de seu mandato, a Mesa Diretora da Assembléia Legislativa apresentará aos parlamentares e à comunidade os membros do Conselho Parlamentar pela Cultura de Paz.\r\nArtigo 7º - O Poder Legislativo propiciará ao Conselho as condições necessárias ao seu funcionamento, no que concerne a recursos humanos e materiais.\r\nArtigo 8º - Esta Resolução entra em vigor na data de sua publicação.\r\nAssembléia Legislativa do Estado de São Paulo, aos 17 de dezembro de 2002.\r\nWALTER FELDMAN - Presidente\r\nHamilton Pereira - 1º Secretário\r\nDorival Braga - 2º Secretário\r\n \r\n \t \r\n ",
+      "gfm_text_integral": "Assembleia Legislativa do Estado de São Paulo Ficha informativa\nTexto compilado\nRESOLUÇÃO - ALESP Nº 829, DE 17 DE DEZEMBRO DE 2002\n(Atualizada até a Resolução nº 864, de 10 de setembro de 2009)\n(Projeto de Resolução nº 13, de 2002)\nCria o Conselho Parlamentar pela Cultura de Paz, na Assembléia Legislativa do Estado de São Paulo.\nA MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso da atribuição que lhe confere a alínea \"j\" do inciso II do artigo 14 da X Consolidação do Regimento Interno e nos termos do resolvido pelo Plenário, promulga a seguinte Resolução:\nArtigo 1º - Fica criado o Conselho Parlamentar pela Cultura de Paz, de natureza permanente e deliberativa, com sede na Assembléia Legislativa do Estado de São Paulo.\nParágrafo único - Compete ao Conselho a formulação, coordenação, supervisão e avaliação da política parlamentar voltada a ações pela cultura de paz, mediante as seguintes atribuições:\n1 - formular diretrizes e sugerir a promoção de atividades que visem às manifestações comunitárias e parlamentares pela paz, bem como tomar medidas efetivas na busca deste mesmo objetivo nos cenários sócio-econômico, político, filosófico, religioso e cultural;\n2 - sugerir ações governamentais;\n3 - assessorar o Poder Legislativo, emitindo pareceres e acompanhando a elaboração e execução de ações parlamentares em questões relativas às manifestações da comunidade pela cultura de paz;\n4 - desenvolver estudos, debates e pesquisas relativos à persecução de ideais comprometidos com a cultura de paz no Estado e ao cumprimento do disposto nos tratados internacionais;\n5 - desenvolver projetos próprios que promovam a participação de toda a sociedade a favor dos ideais de que trata esta resolução;\n6 - apoiar realizações mencionadas no \"caput\" e no item 5 , bem como promover entendimentos e intercâmbios com organizações e movimentos sociais, nacionais e internacionais, pelos mesmos ideais;\n7 - elaborar o seu regimento interno \"ad referendum\" da Mesa da Assembléia Legislativa.\nArtigo 2º - O Conselho será composto de no mínimo 16 (dezesseis) e no máximo 48 (quarenta e oito) membros e respectivos substitutos, escolhidos entre os representantes das organizações e movimentos sociais, comprometidos com a cultura de paz, e do Poder Legislativo, nomeados pelo Presidente da Assembleia Legislativa, na seguinte proporção: (NR)\nI - no mínimo 12 (doze) e no máximo 36 (trinta e seis) representantes das organizações e movimentos sociais referidos no “caput”; (NR)\nII - no mínimo 4 (quatro) e no máximo 12 (doze) Deputados. (NR)\n- Artigo 2º com redação dada pela Resolução nº 864, de 10/09/2009.\n§ 1º - A nomeação dos conselheiros recairá sobre pessoas indicadas por suas respectivas organizações e movimentos sociais comprometidos com a cultura de paz, devidamente credenciados junto à Mesa da Assembléia Legislativa.\n§ 2º - Os Deputados serão indicados pelas Lideranças Partidárias, dentre aqueles que têm afinidade com o tema, e nomeados pelo Presidente da Assembléia Legislativa, que assegurará, tanto quanto possível, a representação proporcional dos Partidos.\nArtigo 3º - As funções dos membros do Conselho não serão remuneradas, mas consideradas de serviço público relevante.\nArtigo 4º - O mandato dos membros do Conselho será de 2 (dois) anos, permitida uma recondução consecutiva, nos termos do Regimento Interno.\nArtigo 5º - A Mesa Diretora do Conselho Parlamentar pela Cultura de Paz, escolhida entre seus membros, será nomeada pelo Presidente da Assembléia Legislativa.\nArtigo 6º - No início de seu mandato, a Mesa Diretora da Assembléia Legislativa apresentará aos parlamentares e à comunidade os membros do Conselho Parlamentar pela Cultura de Paz.\nArtigo 7º - O Poder Legislativo propiciará ao Conselho as condições necessárias ao seu funcionamento, no que concerne a recursos humanos e materiais.\nArtigo 8º - Esta Resolução entra em vigor na data de sua publicação.\nAssembléia Legislativa do Estado de São Paulo, aos 17 de dezembro de 2002.\nWALTER FELDMAN - Presidente\nHamilton Pereira - 1º Secretário\nDorival Braga - 2º Secretário\n",
+      "gfm_tags": {
+        "p": 20,
+        "br": 12,
+        "em": 2,
+        "strong": 20
+      },
+      "revisao_contextual_pendente": true
+    }
+  ],
+  "limites": [
+    "Perfil técnico, não aprova por igualdade de caracteres.",
+    "Situação desconhecida deve continuar null; API JSON não está em cache.",
+    "A versão original declarada pelo coletor não prova atualização jurídica presente."
+  ]
+}

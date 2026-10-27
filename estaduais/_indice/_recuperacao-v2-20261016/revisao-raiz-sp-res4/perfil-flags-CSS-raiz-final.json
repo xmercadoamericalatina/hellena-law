@@ -1,0 +1,73 @@
+{
+  "estado": "perfil_independente_texto_e_flags_por_caractere",
+  "total": 4,
+  "com_divergencia": 0,
+  "bits": {
+    "bold": 1,
+    "italic": 2,
+    "strike": 4,
+    "underline": 8,
+    "sup": 16,
+    "sub": 32
+  },
+  "documentos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-805-2000-05-03-id5191.md",
+      "sha256_candidato": "8529aeff0d3c23cfeeb5f943c1a510eeb4289a5f54b966056150d42c88e07161",
+      "sha256_fonte": "febccbca712eab18e8daf127efbaeea6beaaa22796955b5777b55a6f76701c76",
+      "chars": 2035,
+      "chars_flags_divergentes": 0,
+      "flags_fonte_ausentes": 0,
+      "Bextra_rotulos_permitidos": [],
+      "flags_adicionais_inesperados": [],
+      "sha256_flags_fonte": "e6c07492dc1e96a3b71635cc37f3d5d99cdf32c786d18eb0736bbf96d6aec957",
+      "sha256_flags_candidato": "e6c07492dc1e96a3b71635cc37f3d5d99cdf32c786d18eb0736bbf96d6aec957",
+      "intervalos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-808-2000-10-18-id5194.md",
+      "sha256_candidato": "43cfe93e76828243793ecc7917feee768c2ac18c65fe26be84664e331ac678f9",
+      "sha256_fonte": "319f34a9678d1569de0ed22c1b9346db31231ef289838e07194f43283b02997a",
+      "chars": 1281,
+      "chars_flags_divergentes": 0,
+      "flags_fonte_ausentes": 0,
+      "Bextra_rotulos_permitidos": [],
+      "flags_adicionais_inesperados": [],
+      "sha256_flags_fonte": "db86c9d98c8a712d3770ca685d917bb2276f4f316d4cb32ca92107d08a78c9e4",
+      "sha256_flags_candidato": "db86c9d98c8a712d3770ca685d917bb2276f4f316d4cb32ca92107d08a78c9e4",
+      "intervalos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-822-2001-12-14-id3908.md",
+      "sha256_candidato": "ced0899b752f1359ee3b97dadc7270e3a417871d9f8029852b5303c5b7f83d36",
+      "sha256_fonte": "0fbe56ebcc41df4ab86d9909689ec8ed9becdd6265618370586b5ad909259bc5",
+      "chars": 5236,
+      "chars_flags_divergentes": 0,
+      "flags_fonte_ausentes": 0,
+      "Bextra_rotulos_permitidos": [],
+      "flags_adicionais_inesperados": [],
+      "sha256_flags_fonte": "3f28f1fd50485c64e4051c96273447fbfc4be6b297f79535986d285e52b6594b",
+      "sha256_flags_candidato": "3f28f1fd50485c64e4051c96273447fbfc4be6b297f79535986d285e52b6594b",
+      "intervalos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-829-2002-12-17-id1400.md",
+      "sha256_candidato": "f00bb68de7deeb34d1d0d68669dca468d67263a87e3d26baef532b259929f6bc",
+      "sha256_fonte": "9a75a7ae1c68b00b750dc0abb5370678f44a04b631a7ef98aed64d217f30f9f4",
+      "chars": 3727,
+      "chars_flags_divergentes": 0,
+      "flags_fonte_ausentes": 0,
+      "Bextra_rotulos_permitidos": [],
+      "flags_adicionais_inesperados": [],
+      "sha256_flags_fonte": "66540f01279ead383acaa452ce83cdcc426d782f95c08acec398ffd39b4c7699",
+      "sha256_flags_candidato": "66540f01279ead383acaa452ce83cdcc426d782f95c08acec398ffd39b4c7699",
+      "intervalos": []
+    }
+  ],
+  "politica": "Preserva mascaras da fonte; admite somente B adicional em rotulos ArtigoN/Paragrafo unico, convencao preexistente. Nao afirma igualdade absoluta de flags.",
+  "limite": "CSS inline e tags semanticas; nao busca stylesheet externo nem computa defaulttipografico de headings. Nao prova sozinha integralidade contextual."
+}

@@ -1,0 +1,38 @@
+{
+  "estado": "formato_e_render_conferidos_sem_aplicacao",
+  "quantidade": 4,
+  "atos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-805-2000-05-03-id5191.md",
+      "sha256_candidato": "8529aeff0d3c23cfeeb5f943c1a510eeb4289a5f54b966056150d42c88e07161",
+      "formato_erros": [],
+      "formato_avisos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-808-2000-10-18-id5194.md",
+      "sha256_candidato": "43cfe93e76828243793ecc7917feee768c2ac18c65fe26be84664e331ac678f9",
+      "formato_erros": [],
+      "formato_avisos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-822-2001-12-14-id3908.md",
+      "sha256_candidato": "ced0899b752f1359ee3b97dadc7270e3a417871d9f8029852b5303c5b7f83d36",
+      "formato_erros": [],
+      "formato_avisos": []
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-sp-res4/res-alesp-829-2002-12-17-id1400.md",
+      "sha256_candidato": "f00bb68de7deeb34d1d0d68669dca468d67263a87e3d26baef532b259929f6bc",
+      "formato_erros": [],
+      "formato_avisos": []
+    }
+  ],
+  "GitHub_vs_GFM": "texto/bold/italic/del/u/sup/sub/titulos/listas/tabelas iguais",
+  "payload_bytes": 18765,
+  "SHA_HTML_GitHub": "0c926f38e5ed13f7d5c7dc7c9a4106e95626e9b5950a0c0e7fd28ae30d3fe72b",
+  "limite": "Nao certifica CSS externo/pixels da fonte; mascara fonte inline verificada em prova separada; leitura integral contextual e identidade primaria separadas"
+}

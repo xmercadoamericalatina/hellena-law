@@ -1,0 +1,188 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1948/dec-26042-1948-12-17.md",
+      "urn": "urn:lex:br:federal:decreto:1948-12-17;26042",
+      "sha256": "9cd8f68b9b7d8739443e2856f8a57bebb35a105f6da5cbe959015d214a8db994",
+      "sha256_fonte_html": "cb166e88c3338da85bcf861a9be8cdfa01bdb1cf0e52d174d7c57a908ad06320",
+      "marcadores": [
+        {
+          "codigo": "###DEC-026042-0-000-17-12-1948@@@",
+          "inicio": 6409,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-026042-0-000-17-12-1948@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 26.042, DE 17 DE DEZEMBRO DE 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Promulga os Ato"
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "capítulo i — OBJETIVO",
+          "fonte": "capítulo i OBJETIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo ii — FUNÇÕES",
+          "fonte": "capítulo ii FUNÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo iii — MEMBROS E MEMBROS ASSOCIADOS",
+          "fonte": "capítulo iii MEMBROS E MEMBROS ASSOCIADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo IV — ÓRGÃOS",
+          "fonte": "capítulo IV ÓRGÃOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo V — A ASSEMBLÉIA MUNDIAL DE SAÚDE",
+          "fonte": "capítulo V A ASSEMBLÉIA MUNDIAL DE SAÚDE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo vii — O SECRETARIADO",
+          "fonte": "capítulo vii O SECRETARIADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo viii — COMISSÕES",
+          "fonte": "capítulo viii COMISSÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo ix — CONFERÊNCIAS",
+          "fonte": "capítulo ix CONFERÊNCIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo x — SEDE",
+          "fonte": "capítulo x SEDE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xi — ORGANIZAÇÕES REGIONAIS",
+          "fonte": "capítulo xi ORGANIZAÇÕES REGIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xii — ORÇAMENTO E DESPESA",
+          "fonte": "capítulo xii ORÇAMENTO E DESPESA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xiii — VOTO",
+          "fonte": "capítulo xiii VOTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xiv — RELATÓRIOS APRESENTADOS PELOS ESTADOS",
+          "fonte": "capítulo xiv RELATÓRIOS APRESENTADOS PELOS ESTADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xv — CAPACIDADE JURÍDICA, PRIVILÉGIOS E IMUNIDADES",
+          "fonte": "capítulo xv CAPACIDADE JURÍDICA, PRIVILÉGIOS E IMUNIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xvi — RELAÇÕES COM OUTRAS ORGANIZAÇÕES",
+          "fonte": "capítulo xvi RELAÇÕES COM OUTRAS ORGANIZAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xvii — EMENDAS",
+          "fonte": "capítulo xvii EMENDAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xviii — INTERPRETAÇÃO",
+          "fonte": "capítulo xviii INTERPRETAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo xix — ENTRADA EM VIGOR",
+          "fonte": "capítulo xix ENTRADA EM VIGOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1948/dec-25695-1948-10-19.md",
+      "urn": "urn:lex:br:federal:decreto:1948-10-19;25695",
+      "sha256": "952020a37b9ecede828ed8273b1145f7c03bd8b70fdc54c0c3c287e88336f0bf",
+      "sha256_fonte_html": "abcf2da9a8b59fe4d3ccfe03fb551ed5a1d82e39316b7e40e1a1ffd7e775dcf9",
+      "marcadores": [
+        {
+          "codigo": "###DEC-025695-0-000-19-10-1948@@@",
+          "inicio": 5922,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-025695-0-000-19-10-1948@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 25.695, DE 19 DE OUTUBRO DE 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt; text-align:left\"><span style=\"font-size:1.2em\""
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1948/dec-25637-1948-10-06.md",
+      "urn": "urn:lex:br:federal:decreto:1948-10-06;25637",
+      "sha256": "62e7cccd3dbf6c4e999de6df13e4298c132cab0fea2325a966a8fce13bd051db",
+      "sha256_fonte_html": "6cad73a422302b136964cd2f89786b1833dea91779584057d39d99f9d7600419",
+      "marcadores": [
+        {
+          "codigo": "###DEC-025637-0-000-06-10-1948@@@",
+          "inicio": 5887,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-025637-0-000-06-10-1948@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 25.637, de 6 de outubro de 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Autoriza o cidadã"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1948/dec-25148-1948-06-29.md",
+      "urn": "urn:lex:br:federal:decreto:1948-06-29;25148",
+      "sha256": "3c3f6f50e62be96c41520fc954395e2ebdca954b5dad653592d003c3bf8477f2",
+      "sha256_fonte_html": "5756e8efc7d8d993017d73dc088714838b3852ce65f85f04ec14c2de833ae981",
+      "marcadores": [
+        {
+          "codigo": "###DEC-025148-0-000-29-06-1948@@@",
+          "inicio": 5915,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-025148-0-000-29-06-1948@@@29</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 25.148, DE 29 DE junho DE 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Concede à Socied"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1948/dec-26042-1948-12-17.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-26042-1948-12-17.md",
+      "sha256_candidato": "67c48ed011c4901d95b19658cb55d54ec91ccb3ffca630490a689dbf92549ff9",
+      "sha256_preimagem": "9cd8f68b9b7d8739443e2856f8a57bebb35a105f6da5cbe959015d214a8db994",
+      "mudanca": "4 escapes de crases literais, sem outras mudanças no corpo."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25695-1948-10-19.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-25695-1948-10-19.md",
+      "sha256_candidato": "626cec82354e6f8b0dd1d2029af643b999da1be52f279f933eeb20e56b713293",
+      "sha256_preimagem": "952020a37b9ecede828ed8273b1145f7c03bd8b70fdc54c0c3c287e88336f0bf",
+      "mudanca": "5 escapes de crases literais, sem outras mudanças no corpo."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25637-1948-10-06.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-25637-1948-10-06.md",
+      "sha256_candidato": "7b20500b644666c3abcc5e44858a4b6112a8eae24c65d12a6d3675d4409d4952",
+      "sha256_preimagem": "62e7cccd3dbf6c4e999de6df13e4298c132cab0fea2325a966a8fce13bd051db",
+      "mudanca": "5 escapes de crases literais, sem outras mudanças no corpo."
+    }
+  ],
+  "resumo": {
+    "revisados": 4,
+    "aprovados": 4,
+    "reparos_privados": 3
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "escopo": "Revisão somente leitura de identidade/texto integral em21leisconstitucionais. Imagem e tabelas de cabeçalho/ementa são delimitadas pelo contexto, não retenção automática. Não certifica vigência atual, não muda metas ou MDs.",
+  "resumo": {
+    "auditados": 21,
+    "integra_html_confirmada": 21,
+    "retidos_revisao": 0
+  },
+  "confirmados": [
+    {
+      "path": "federal/leis-constitucionais/1938/lct-1-1938-05-16.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1938-05-16;1",
+      "sha256_md": "6323224cb3ef88b759431f15cc7a701d1ff04c016d88b1d3bae460fe69135e8c",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT001.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/e80c27647658fda4fbcaaf807030fa6e8b56b1442f8302b8461c6e881c50fde9.html.gz",
+      "sha256_fonte": "20f2f113b7f052748a186b72ed28e68bd997fb97825046bbf6924aa4dc99ed79",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572913",
+      "epigrafe": "lei nº 1 de 16 de maio de 1938.",
+      "data_fecho": "1938-05-16",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1938/lct-2-1938-05-16.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1938-05-16;2",
+      "sha256_md": "7bdaba260018d3bf8c8d2bbb3b509de2b3f19ae704f6b6076f5a3db9adebc780",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT002.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/1769bd8db8e602ffeab6f2973f9bef911b2e258ee0c3ad691a3326aa2bcf4b55.html.gz",
+      "sha256_fonte": "190e65b6b6b70905892d17caff1a9b33bf1b5af6c6aa3010e80fce539bbea920",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572914",
+      "epigrafe": "lei nº 2 de 16 de maio de 1938.",
+      "data_fecho": "1938-05-16",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1940/lct-3-1940-09-18.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1940-09-18;3",
+      "sha256_md": "172a6090e54ea7dd1133bc4d5f3569a6267022d119df513885050a447e18b0ec",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT003.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/f6860d95b400b0fd0fb329bba36823ae021c9361c72923c7ad52fa9d3d817fdf.html.gz",
+      "sha256_fonte": "f19f635679e7efee9ddb4900e52e07c88bf9e763c3f0e8eb2aa80ed25b020d3e",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572915",
+      "epigrafe": "lei nº 3 de 18 de setembro de 1940.",
+      "data_fecho": "1940-09-18",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1940/lct-4-1940-09-20.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1940-09-20;4",
+      "sha256_md": "e7a8e79e715aa9833c5574d60ee586f40478e04cfadd636197fb28b77ca41006",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT004.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/ff54118c936748bf21bc360a676c129556bcb8a70a1863a5b521b8fab7bd13f0.html.gz",
+      "sha256_fonte": "6bf5dea4debc0ee88ebdb71b59fc8e3f70413fda6a5449d2995e88243511ec4e",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572916",
+      "epigrafe": "lei nº 4 de 18 de setembro de 1940.",
+      "data_fecho": "1940-09-20",
+      "divergencia_epigrafe_declarada": true,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1942/lct-5-1942-03-10.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1942-03-10;5",
+      "sha256_md": "e5611608274dbc2e6ab58ff35a63ba63bcedc415ae99a99ed1ec561b767c5138",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT005.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/c76620f0be3c1abc93e68ea1ac79e01afe9654cb246a3efe4e6a581b345a6820.html.gz",
+      "sha256_fonte": "e9f6bbf0b46c468aefb9da10a485f4ea64d23dce7265a7f01a3360d565d86259",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572917",
+      "epigrafe": "lei nº 5 de 10 de marco de 1942.",
+      "data_fecho": "1942-03-10",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1942/lct-6-1942-05-13.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1942-05-13;6",
+      "sha256_md": "70df33de4d12c86155a2245b02a190b5b2c69ab33b3b6914b4e5703de4b5b655",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT006.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/99138fb33bfd159ad85b16fa014ca9131b4519cdef2f4e9605be90d4f661781e.html.gz",
+      "sha256_fonte": "c8b31ebe9b1714ea9bf53de2a63ed361e254ef34acb4c533174b633fb5febb48",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572918",
+      "epigrafe": "lei nº 6 de 13 de maio de 1942.",
+      "data_fecho": "1942-05-13",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1942/lct-7-1942-09-30.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1942-09-30;7",
+      "sha256_md": "60b8956f82397a2f17023749a8afbb24eba2e69f1f7df6da898129f5b283825d",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT007.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/6e703b4a9df82ee14aea32d145979992b490dd0aa9b3f15563af76ea1258a290.html.gz",
+      "sha256_fonte": "4f31904f17a60f91dbd94299b00cca130ee5ca0666e037fbc78a3f8258471d52",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572919",
+      "epigrafe": "lei nº 7 de 30 de setembro de 1942.",
+      "data_fecho": "1942-09-30",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1942/lct-8-1942-10-12.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1942-10-12;8",
+      "sha256_md": "01e19976991e9a9bed594979e4d59add776c3ee85bf97d81d109bac95ff7a021",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT008.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/caf905b72fd57debaac463cbd64dc75dcc6a09c0484abaf138eb3f9d00e28c86.html.gz",
+      "sha256_fonte": "eb7ff3eeaba8841149c2b06c4f944468ae68a48bb9116ac3593342af5dc43e1a",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572920",
+      "epigrafe": "lei nº 8 de 12 de outubro de 1942.",
+      "data_fecho": "1942-10-12",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-10-1945-05-26.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-05-26;10",
+      "sha256_md": "84266f90d9788981a155ba6ba292a0ce06f6d7cfce69afc76e5a4dbc784aaeda",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT010.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/bd4ec172a515e876c9d5c17fcbc0c0329427018b78a975f8667db0745276fddb.html.gz",
+      "sha256_fonte": "ad6047bdcdf7df8df7e0e884f2ef2a2f49d74e353d29c6581df4a345aa0192e8",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572922",
+      "epigrafe": "lei nº 10 de 26 de maio de 1945.",
+      "data_fecho": "1945-05-26",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-11-1945-10-30.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-10-30;11",
+      "sha256_md": "c35487ac79cc0e76b03031463e99ce84e644c380a55a4abc6de81a01bba55db3",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT011.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/8727ac3de53c92e9655f6bb290ea9c153907b922d6b132781247d634ec03939d.html.gz",
+      "sha256_fonte": "4db10161514d076790eab77d4ebb0aef98dcfa4f09d8fb673f7ea9992de26272",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572923",
+      "epigrafe": "lei nº 11 de 30 de outubro de 1945.",
+      "data_fecho": "1945-10-30",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-12-1945-11-07.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-11-07;12",
+      "sha256_md": "5bc5d3c9193881a37fbcaaa980141f0bd3a11a4cd26bccd229cc5412b86c99b6",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT012.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/d002cf03d3cecfc0a4a602b429600499fca1f0e49642fa8d5bdcba0eb96f8d8c.html.gz",
+      "sha256_fonte": "7f66c031677a78a7bd2cd25007863677000b7335b9777822ebf7ee457debe6f6",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572924",
+      "epigrafe": "lei nº 12 de 7 de novembro de 1945.",
+      "data_fecho": "1945-11-07",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-13-1945-11-12.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-11-12;13",
+      "sha256_md": "3aebec3dfc7ce98421bceda8d5aae16a30e0af711d6ea4b1e3e769ece2e1a922",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT013.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/d329464e4c56404083712695c8ca05a74cc33d360d2a2a5f00f5df029b8a2d94.html.gz",
+      "sha256_fonte": "148454254e82c901dbbacd3192f528fc4a11db978031a6cdf508c6b1ca10434a",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572925",
+      "epigrafe": "lei nº 13 de 12 de novembro de 1945.",
+      "data_fecho": "1945-11-12",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-14-1945-11-17.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-11-17;14",
+      "sha256_md": "7a0f94dbae3a6966be29803df87ff36c47cc6147ffbef10f6b1634ee3a239478",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT014.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/7e65c73baa8cde4900d8e6075e5df85f2434ef88bf395639cb57da349b586945.html.gz",
+      "sha256_fonte": "168adfeaa68d69315b9b9beaddeb4cc33d6cfbb8ecffc9b0e63885e04eeffde8",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572926",
+      "epigrafe": "lei nº 14 de 17 de novembro de 1945.",
+      "data_fecho": "1945-11-17",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-15-1945-11-26.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-11-26;15",
+      "sha256_md": "26a15582a18606c2b3a3bea9f617a6d8986d1cc9b25ce2d22be921102cf810e1",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT015.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/d9f4f54e96fe8712060cd3cf070b8f13f2d7d1085a9c252999a05acfed0811e6.html.gz",
+      "sha256_fonte": "0ace701d2c48dc5cc0032b02f584d7053caebb58677069a66cf19bd327781ac5",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572927",
+      "epigrafe": "lei nº 15 de 26 de novembro de 1945.",
+      "data_fecho": "1945-11-26",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-16-1945-11-30.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-11-30;16",
+      "sha256_md": "416ae592ac7bd3ab655228a41a685b614fc51c85fa6ca507fa94a2ef8cee98e8",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT016.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/7709a2a7e8130c8334de672e8fdacd16f628d4387b5365e7516c51d358d58eab.html.gz",
+      "sha256_fonte": "ba4e5a15e6366ec8f649011f3116af9034d2d9f1116dc870c0bce13a8020cd74",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572928",
+      "epigrafe": "lei nº 16 de 30 de novembro de 1945.",
+      "data_fecho": "1945-11-30",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-17-1945-12-03.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-12-03;17",
+      "sha256_md": "0d7672e0ad5dbd09844bef51975289fb856703f325bb269533341c1152da3509",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT017.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/2adbad6be34e10ddb0520a50f0cefaca2b47cdec26a7ebe278d42623a9f65414.html.gz",
+      "sha256_fonte": "03a6adec77b1556620a0ea39b9fbe2c999a3f66a420cf5176b850eb6d713e7c4",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572929",
+      "epigrafe": "lei nº 17 de 3 de dezembro de 1945.",
+      "data_fecho": "1945-12-03",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-18-1945-12-11.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-12-11;18",
+      "sha256_md": "e69912ad4be69c5b8c98f517cd688ad6d585067bff1c983823bb427fea39d679",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT018.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/8595267e9677bb90543128bd72186c2c678250b69078a3ee8f89ba5050fa5479.html.gz",
+      "sha256_fonte": "14151b7accc41e0313a5e9f1fa54db78bebc0c937a7f2a5bc96c5ce89385a886",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572930",
+      "epigrafe": "lei nº 18 de 11 de dezembro de 1945.",
+      "data_fecho": "1945-12-11",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-19-1945-12-31.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-12-31;19",
+      "sha256_md": "03a6d2c5446c46d9584e43e1724325cc54730f4ae26a40339d50540ef7338c47",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT019.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/2ab9159d59984b83acaa4b781cb4c731f52cb6c4a10aeb583d2777c956930ea5.html.gz",
+      "sha256_fonte": "428ab53fadbb234f55158c4b4d0385ee6af4de5740ca9ed3709559921651c870",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572931",
+      "epigrafe": "lei nº 19 de 31 de dezembro de 1945.",
+      "data_fecho": "1945-12-31",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1945/lct-9-1945-02-28.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1945-02-28;9",
+      "sha256_md": "14b5701946b3fb797726da7e26fff3d02b6cf3b50105d55cdc330a103104519b",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT009.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/8321166d127276edbfe39339188585426289d04126a3da7dfcd4ae0e581fe747.html.gz",
+      "sha256_fonte": "30ccf94774021b09a8beaba2d39b15131135624bb3a10740086ca8405b424d6a",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572921",
+      "epigrafe": "lei nº 9 de 28 de fevereiro de 1945.",
+      "data_fecho": "1945-02-28",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1946/lct-20-1946-01-02.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1946-01-02;20",
+      "sha256_md": "c41d72586bdb9e22e0fa6a57e9f62ee3477c69484da4a3f34dadf8d68688b11c",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT020.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/5591548c631c1910eb1e289c781f2700d17ca610e7486494f68b330bb479b1c6.html.gz",
+      "sha256_fonte": "5d081e393618633e4a5a73a960eb576a3cf4905ee6f51d771b583afe7b61fef1",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572932",
+      "epigrafe": "lei nº 20 de 2 de janeiro de 1946.",
+      "data_fecho": "1946-01-02",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    },
+    {
+      "path": "federal/leis-constitucionais/1946/lct-21-1946-01-23.md",
+      "urn": "urn:lex:br:federal:lei.constitucional:1946-01-23;21",
+      "sha256_md": "49a2ef390e90cee180295090fc97c5ed32fd5c1eb08de12d280e6fc959bd2cec",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/LEIS/LCT/LCT021.htm",
+      "fonte_cache": "federal/_fonte/planalto-pendencias/99a6564ff4b843f5e8ddf021e3ad52fbffe66a8265ea7035d8843045eeeb1ef0.html.gz",
+      "sha256_fonte": "a06923a7fc6f2cb794510a6ae8d7325ac1dfd8c599ec8bd9585f3dcfc75e313d",
+      "status": "texto_integral_html_confirmado",
+      "id_senado": "572933",
+      "epigrafe": "lei nº 21 de 23 de janeiro de 1946.",
+      "data_fecho": "1946-01-23",
+      "divergencia_epigrafe_declarada": false,
+      "elementos_decorativos_excluidos": {
+        "imagem": "Brastra.gif,74x82, exclusivamente no cabeçalho Presidência/CasaCivil/Subchefia, antes da epígrafe",
+        "tabelas": "Cabeçalho decorativo e quadro de apresentação da ementa; nenhumatablea partir do dispositivo próprio"
+      },
+      "checks": [
+        "Todo texto visível fonte/MD idêntico",
+        "Fecho próprio coincide com índice",
+        "Número próprio da epígrafe e URN conferidos",
+        "Nenhuma tabela/figura ou anexo próprio faltante no corpo normativo",
+        "Sem mudar corpos ou metadados"
+      ]
+    }
+  ],
+  "retidos_revisao": [],
+  "receipts": {
+    "path": "federal/_receipts_auditoria_lct21_20261020.jsonl.gz",
+    "sha256": "ee0d3290c8918e29cbdcd336557fa34b2e3d9f693e061c5df0b74581a1887ae8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "escopo": "Auditoria somenteleitura do conteúdo da edição da fonte, sem mudar MD/meta e sem certificar vigência atual. Delimitação contextual exclui brasão/cabeçalho editorial, não conteúdo normativo.",
+  "confirmados": [
+    {
+      "path": "federal/regimentos/regimento-camara.md",
+      "sha256_md": "c07c5e465aa756f68b7080ecfcbdc942dda1f903e2e48a19a9a5b485e1f40896",
+      "fonte": "https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-normaatualizada-pl.html",
+      "sha256_fonte_html": "e95d7b34dd5fdfeae4892cc4e3893c56eb9f1c28cb418af22639a8c7846639d9",
+      "fonte_cache": "federal/_fonte/camara/b35d57c6d5b9c72f909c2552d3a33bd4dbacd39e386e11a814e2891ec6243695.html.gz",
+      "sha256_area_corpo_norma": "ef3affc987c886f77232c1e83efde7c077ad5f9532b514b842e67f430fcca1fe",
+      "status": "integra_html_do_corpo_normativo_confirmada",
+      "identidade": "Resolução17/1989 própria, Câmara dosDeputados, fecho21/9/1989; regulamento anexo efetivamente transcrito a partir deArt1 atédisposições finais e normasconexas.",
+      "checks": {
+        "texto_visible_integral": true,
+        "tabelas_ausentes_em_ambos": true,
+        "anexo_regimento_efetivamente_presente": true,
+        "sem_visual_normativo_omitido": true
+      },
+      "exclusao_documentada": {
+        "img": "ÚnicoIMGdo corpo HTML é brasão nacional120x114 antes da epígrafe, decodificado e inspecionado visualmente; não é figura normativa.",
+        "sha256_png_brasao": "3b55666043cb13efec43565bf2815ca8e64de431f96564f09ae4d6ec65eb43f2",
+        "prefixo_editorial_nao_transcrito": "Câmara dosDeputados / Centro deDocumentação eInformação; únicos49caracteres alfanuméricos de diferença, antes da resolução."
+      }
+    }
+  ],
+  "resumo": {
+    "auditados": 1,
+    "integra_html_confirmada": 1,
+    "retidos": 0
+  },
+  "receipts": {
+    "path": "federal/_receipts_auditoria_regimento_camara_20261020.jsonl.gz",
+    "sha256": "50acc21b7d155f080cf99c2c50cd76e82e2b9186af4a023c6adfbd76496e2de8"
+  }
+}

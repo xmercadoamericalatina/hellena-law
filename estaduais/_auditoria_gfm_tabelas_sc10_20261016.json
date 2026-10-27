@@ -1,0 +1,88 @@
+{
+  "manifesto_sc10_sha256": "e568a0343fb3227378a10c9c8ccf29500f27938845a15026fef89d3939114daa",
+  "conversor_sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+  "motor": "cmarkgfm2025.10.22 com HTML habilitado",
+  "documentos": [
+    {
+      "path": "estaduais/SC/leis-complementares/2006/lc-356-2006-id15532.md",
+      "sha256_md": "d38b0b51679dda36094405bcacdb34d2f0377d08cad4447b008a87eed96aedf8",
+      "tabelas": 7,
+      "celulas": 304,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "7e57da0d51d209c5148bb116fe81f4dcee6daedf4d2ec0174deff4abc727c49b"
+    },
+    {
+      "path": "estaduais/SC/leis-complementares/1994/lc-128-1994-id11179.md",
+      "sha256_md": "321f0094b77c6f8d6bb5ef917348975f2a463cb7167921bd63c45b77f6016beb",
+      "tabelas": 3,
+      "celulas": 32,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "56dcd608c7f778a916a91cbed392a1a21cf015bbcd2ec2fa8269629401dcbefb"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1971/leip-1086-1971-id5713.md",
+      "sha256_md": "e338f1b4d2baa69fe862945ac029d6189b36b35389acfd2dffc9faa8b3d50865",
+      "tabelas": 13,
+      "celulas": 235,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "8914df37ac99b6e8a28576d77a29262625695cdf467ed2cfe7be813196dbbea7"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1114-1988-id8703.md",
+      "sha256_md": "328e1922c3a937494c1614fe29e2398f0e6c347c1981674ecbe6a6a0749ba0d5",
+      "tabelas": 13,
+      "celulas": 138,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "ab8800199573d060aa60bb84c9559f11ed6e04aa63a9a91e0b0ef506e7a3a4e1"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1116-1988-id8780.md",
+      "sha256_md": "6c42a936df09bbb6852254b644feeda77420202ac6740366c63522462a1416a0",
+      "tabelas": 11,
+      "celulas": 43,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "faae38b5db330a58236bce27dd8ecef332f488072ab34d736e8ceb4a6af0914b"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1991/leip-1120-1991-id9520.md",
+      "sha256_md": "b0d0bd41f042d2a5277a87d4f5415dde539051022cd3e21140c7e8b59df30955",
+      "tabelas": 1,
+      "celulas": 93,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "d438cc36e0314caaf3f60f1d9f13895c1de20197f5d0b7ca3eaa9c870d3eb67a"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1992/leip-1130-1992-id9882.md",
+      "sha256_md": "e01f3c06bf976adc6b3677eb21030dbba265ca2d8b45f3899c06ccc30463c538",
+      "tabelas": 25,
+      "celulas": 976,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "d38720db58cb23d388db1a1b779c28dd474f35b56c48e2c0a82bb6c4c6ee6dcc"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1993/leip-1148-1993-id10549.md",
+      "sha256_md": "0d72f2c264b9c9f194c7351e62619c05b4fbb01998e14ce7da7e3f4fcb0bfdc1",
+      "tabelas": 5,
+      "celulas": 455,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "cc57f811f3802e8d84a9aff3525cd78f52aac59b360617713f4d466e8579abbb"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1998/leip-10933-1998-id12479.md",
+      "sha256_md": "f5cf66b1537aeb162a761b3f58b2397a344d24baf666b991be67be407590a90b",
+      "tabelas": 4,
+      "celulas": 26,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "679ed8fede55a1565c51bda7451343c208b407e8533bae259b30f6ac3106ff2f"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "sha256_md": "bd6d103dbc545c54f71b80a876a5ba1299835cc32f8d86283c7f9179c080a93c",
+      "tabelas": 2,
+      "celulas": 86,
+      "eventos_html_identicos": true,
+      "sha256_eventos": "c06dff630217acb58c9271f1849aa2990525e6cea4fa3c9884f072c3ef5489d7"
+    }
+  ],
+  "limite": "Confere que o parser GFM preserva exatamente a árvore HTML sanitizada emitida, atributos e texto. Não verifica CSS, sanitização do GitHub ou aparência no navegador."
+}

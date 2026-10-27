@@ -1,0 +1,19 @@
+{
+  "escopo": "Cobertura de identidades URN da série MPV no índice oficial local, sem reduzir meta. Não certifica íntegra/atualização de todos os7488textos antigos. O lote11novo tem validação integral separada.",
+  "indice_urn_unicas": 7497,
+  "urns_fisicas_unicas": 7499,
+  "presentes_indice": 7497,
+  "ausentes_indice": [],
+  "extras_fora_indice": [
+    {
+      "urn": "urn:lex:br:federal:medida.provisoria:2023-07-24;1182",
+      "path": "federal/medidas-provisorias/2023/mpv-1182-2023-07-24.md"
+    },
+    {
+      "urn": "urn:lex:br:federal:medida.provisoria:2026-05-29;1363",
+      "path": "federal/medidas-provisorias/2026/mpv-1363-2026-05-29.md"
+    }
+  ],
+  "duplicacoes": [],
+  "criterio": "URN exata lida do cabeçalho de cada MD; fonte oficial primária das novas11normas comprovada em manifesto separado."
+}

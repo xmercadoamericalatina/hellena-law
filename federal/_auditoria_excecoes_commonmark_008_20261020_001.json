@@ -1,0 +1,253 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1956/dec-38891-1956-03-13.md",
+      "urn": "urn:lex:br:federal:decreto:1956-03-13;38891",
+      "sha256": "44500850f994f04298d847e87c72341f2d9ce4f5166c995d7127890d6114acee",
+      "sha256_fonte_html": "139c7772df4a5474a7ca04a56762f2835a678de1a3a60ccec7e1876b706c7301",
+      "marcadores": [
+        {
+          "inicio": 5765,
+          "fim": 5939,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-038891-0-000-13-03-1956@@@-</span></p>",
+          "texto_original": "###DEC-038891-0-000-13-03-1956@@@-",
+          "codigo": "###DEC-038891-0-000-13-03-1956@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "-",
+          "data_codigo": "1956-03-13"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37683-1955-08-02.md",
+      "urn": "urn:lex:br:federal:decreto:1955-08-02;37683",
+      "sha256": "bdd9ec22cdd2692e365a65a080929314fdffcd8862bb11259017501d1eba17d3",
+      "sha256_fonte_html": "2ffa661641519f483783fdd5dc64bbc990bf6770d7b2d91987e79938ab525787",
+      "marcadores": [
+        {
+          "inicio": 5773,
+          "fim": 5947,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">b###DEC-037683-0-000-02-08-1955@@@</span></p>",
+          "texto_original": "b###DEC-037683-0-000-02-08-1955@@@",
+          "codigo": "###DEC-037683-0-000-02-08-1955@@@",
+          "prefixo_preservado": "b",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-08-02"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37588-1955-07-11.md",
+      "urn": "urn:lex:br:federal:decreto:1955-07-11;37588",
+      "sha256": "7a3feaa5f7749586552d2078d1af52b6376403cd1e976a8fb00254d43a7d2826",
+      "sha256_fonte_html": "48e74b9515261b1e33caf271477fd3f3d6d0cace6ced3c146ecf563a7f3f7e49",
+      "marcadores": [
+        {
+          "inicio": 5720,
+          "fim": 5894,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">B###DEC-037588-0-000-11-07-1955@@@</span></p>",
+          "texto_original": "B###DEC-037588-0-000-11-07-1955@@@",
+          "codigo": "###DEC-037588-0-000-11-07-1955@@@",
+          "prefixo_preservado": "B",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-07-11"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37563-1955-07-01.md",
+      "urn": "urn:lex:br:federal:decreto:1955-07-01;37563",
+      "sha256": "79350c4b03b516e2a17d26adc4a73785ec0ff5fe7d4bb78db617ba894d3fa91e",
+      "sha256_fonte_html": "b41cab894c1f786eccbd1bc5801584fdb742d6dff7adead24a72f1361a299913",
+      "marcadores": [
+        {
+          "inicio": 5777,
+          "fim": 5951,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-037563-0-000-01-07-1955@@@b</span></p>",
+          "texto_original": "###DEC-037563-0-000-01-07-1955@@@b",
+          "codigo": "###DEC-037563-0-000-01-07-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "b",
+          "data_codigo": "1955-07-01"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37514-1955-06-22.md",
+      "urn": "urn:lex:br:federal:decreto:1955-06-22;37514",
+      "sha256": "0fefd4230460084d4eff1ad935be8879f2750fe4526bc8961859c14b9700899e",
+      "sha256_fonte_html": "30df8a362ce3a56e38fb7954c1af5046642309104ae3d80516de74bb505ec894",
+      "marcadores": [
+        {
+          "inicio": 5761,
+          "fim": 5935,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">B###DEC-037514-0-000-22-06-1955@@@</span></p>",
+          "texto_original": "B###DEC-037514-0-000-22-06-1955@@@",
+          "codigo": "###DEC-037514-0-000-22-06-1955@@@",
+          "prefixo_preservado": "B",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-06-22"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37510-1955-06-17.md",
+      "urn": "urn:lex:br:federal:decreto:1955-06-17;37510",
+      "sha256": "ffda61f1d932627a3269f9a368389c24cf1209a338bc856f43b214214307a517",
+      "sha256_fonte_html": "bebaeaaa051555ab22f8b7b06e06383da5612a09e18bbed0bf1495a370bb5512",
+      "marcadores": [
+        {
+          "inicio": 5759,
+          "fim": 5932,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-037510-0-000-17-06-1955@@@</span></p>",
+          "texto_original": "###DEC-037510-0-000-17-06-1955@@@",
+          "codigo": "###DEC-037510-0-000-17-06-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-06-17"
+        },
+        {
+          "inicio": 8766,
+          "fim": 8963,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-037510-0-000-17-06-1965@@@RET01+++</span></p>",
+          "texto_original": "###DEC-037510-0-000-17-06-1965@@@RET01+++",
+          "codigo": "###DEC-037510-0-000-17-06-1965@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "RET01+++",
+          "data_codigo": "1965-06-17"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37466-1955-06-10.md",
+      "urn": "urn:lex:br:federal:decreto:1955-06-10;37466",
+      "sha256": "89ed4cd57f6c7ab374a704cdd5c0156ea710c7872fde3d17c62faeae251a96b8",
+      "sha256_fonte_html": "133c71627db81ba0c0233a849c216b3abde66a5c0211ceacb4c0fe343d0fc154",
+      "marcadores": [
+        {
+          "inicio": 5763,
+          "fim": 5937,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">b###DEC-037466-0-000-10-06-1955@@@</span></p>",
+          "texto_original": "b###DEC-037466-0-000-10-06-1955@@@",
+          "codigo": "###DEC-037466-0-000-10-06-1955@@@",
+          "prefixo_preservado": "b",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-06-10"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37425-1955-06-02.md",
+      "urn": "urn:lex:br:federal:decreto:1955-06-02;37425",
+      "sha256": "0c93de5f465fe5419a0e0e9474001a3d406b8303be575228f87df6b822d955ea",
+      "sha256_fonte_html": "d936cdb6c843637798eee52cbcf312260283511f8dd7363ebb82fce7fc0711b1",
+      "marcadores": [
+        {
+          "inicio": 5763,
+          "fim": 5937,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">b###DEC-037425-0-000-02-06-1955@@@</span></p>",
+          "texto_original": "b###DEC-037425-0-000-02-06-1955@@@",
+          "codigo": "###DEC-037425-0-000-02-06-1955@@@",
+          "prefixo_preservado": "b",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-06-02"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37392-1955-05-25.md",
+      "urn": "urn:lex:br:federal:decreto:1955-05-25;37392",
+      "sha256": "898a289004de20be12e5e09f58a502d04643dcc6fd5d3980ec5de571f0bf3cac",
+      "sha256_fonte_html": "6684d377aaee1b0c071093bceb20d1e72d75e4f962e3903bc3634bd1c4602f41",
+      "marcadores": [
+        {
+          "inicio": 5739,
+          "fim": 5913,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">b###DEC-037392-0-000-25-05-1955@@@</span></p>",
+          "texto_original": "b###DEC-037392-0-000-25-05-1955@@@",
+          "codigo": "###DEC-037392-0-000-25-05-1955@@@",
+          "prefixo_preservado": "b",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-05-25"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-37378-1955-05-24.md",
+      "urn": "urn:lex:br:federal:decreto:1955-05-24;37378",
+      "sha256": "7b80b15b62bca3fe32f63685ada3b9fdf800cead41b814459e5367ee3808ecbd",
+      "sha256_fonte_html": "6883fee379d15328bc1c3dec923dcb8c8aa0b196f067ff118bd91b528e3f7dbd",
+      "marcadores": [
+        {
+          "inicio": 5738,
+          "fim": 5912,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-037378-0-000-24-05-1955@@@+</span></p>",
+          "texto_original": "###DEC-037378-0-000-24-05-1955@@@+",
+          "codigo": "###DEC-037378-0-000-24-05-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "+",
+          "data_codigo": "1955-05-24"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1956/dec-38891-1956-03-13.md",
+      "candidate": "federal/_candidatos_excecoes_008_20261020_001/dec-38891-1956-03-13.md",
+      "sha256_candidato": "bb50562fffacd6241c84dacbf7f673381133530b3cb55451d1493876a7c75a8c",
+      "sha256_preimagem": "44500850f994f04298d847e87c72341f2d9ce4f5166c995d7127890d6114acee",
+      "mudanca": "Um escape do sinal literal - isolado; preserva o caractere da fonte que CommonMark tratava como marcador de lista."
+    },
+    {
+      "path": "federal/decretos/1955/dec-37510-1955-06-17.md",
+      "candidate": "federal/_candidatos_excecoes_008_20261020_001/dec-37510-1955-06-17.md",
+      "sha256_candidato": "dcdd9e1311e3dd13ff0202ecf7abf290fea7555de4d60bef9f955c93f573f943",
+      "sha256_preimagem": "ffda61f1d932627a3269f9a368389c24cf1209a338bc856f43b214214307a517",
+      "mudanca": "Somente nota editorial de divergência do ano no marcador administrativo da retificação."
+    },
+    {
+      "path": "federal/decretos/1955/dec-37378-1955-05-24.md",
+      "candidate": "federal/_candidatos_excecoes_008_20261020_001/dec-37378-1955-05-24.md",
+      "sha256_candidato": "5727c1b3cc2822744d8c422d4a2e442d735a20ea16904c7250168070e9431531",
+      "sha256_preimagem": "7b80b15b62bca3fe32f63685ada3b9fdf800cead41b814459e5367ee3808ecbd",
+      "mudanca": "Um escape do sinal literal + isolado; preserva o caractere da fonte que CommonMark tratava como marcador de lista."
+    }
+  ],
+  "resumo": {
+    "revisados": 10,
+    "aprovados": 10,
+    "reparos_privados": 3
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "manifesto_sha256": "a7491f3c43768ee76f7d1d4884e2a7ed96525a97d65c907f32b88a0d752a9f99",
+  "helper_sha256": "5d1b4adaf7b0a5cbe791fd1b342c789713a63f3645137424941f5705992393ae",
+  "total": 20,
+  "documentos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-806-2000-06-28-id5192.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-806-2000-06-28-id5192.md",
+      "candidato_sha256": "7f247cab5db18f388012c54a9bbf987ecd5273bf4ff9dd51ae17c3cee0341a3a",
+      "fonte_sha256": "b59c67a83a9870ae291725805e0035774cce6296e3038acece6b41576a6b8df9",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+      "candidato_sha256": "bee6c2fa002c0d64ac97ed288eb2c462564e7487e2f67bcb24985365cfe5603c",
+      "fonte_sha256": "569e2ac9f48cba229d07ed0b52093498589456f0fb408bd3fa8f8437c13de246",
+      "chars_exatos": true,
+      "mascaras_diferentes": [
+        {
+          "pos": 1674,
+          "char": "§",
+          "fonte": [
+            false,
+            false
+          ],
+          "candidato": [
+            true,
+            false
+          ]
+        },
+        {
+          "pos": 1675,
+          "char": "2",
+          "fonte": [
+            false,
+            false
+          ],
+          "candidato": [
+            true,
+            false
+          ]
+        },
+        {
+          "pos": 1676,
+          "char": "º",
+          "fonte": [
+            false,
+            false
+          ],
+          "candidato": [
+            true,
+            false
+          ]
+        }
+      ],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 3
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-809-2000-12-01-id5195.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-809-2000-12-01-id5195.md",
+      "candidato_sha256": "626dc0e9320509dc6655269472305d701a29c937052ed5d20b1f11d3b4702581",
+      "fonte_sha256": "7644149b8c7f98ecf082a3d48af7e570c90729a003bb016f54688b55359ab387",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-810-2000-12-04-id5196.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2000/res-alesp-810-2000-12-04-id5196.md",
+      "candidato_sha256": "3064e7d9418d76ab7572aadf60b96bd811835f03edf3456a2fda28f31834eb7d",
+      "fonte_sha256": "ec5a46851f7126490b7e4323d9a8b05e6d839cf1be8eb52163e0944a8788909b",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-811-2001-03-13-id3897.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-811-2001-03-13-id3897.md",
+      "candidato_sha256": "c149fc184d49552f8afe1e876fc2e32288ba18e8d240591afc4a73b59494c261",
+      "fonte_sha256": "d46ab59609b55b9396e918ac60e20e269c325cb5d5702a5db7ec338a64f9f793",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-812-2001-05-30-id3898.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-812-2001-05-30-id3898.md",
+      "candidato_sha256": "ed0fd82699fc907fdedec6447b6a242515a40255365115f1ecec03dd4f25e4d0",
+      "fonte_sha256": "f228ba216cb17e6b31ea72ea8b05136786799ad8f892018e00c6c4e88fe391fa",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-813-2001-09-25-id3899.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-813-2001-09-25-id3899.md",
+      "candidato_sha256": "2041c37422878809aaf36f2bf1d86b997f4417bbdf99ff6a7ba7a48c4f7db8c1",
+      "fonte_sha256": "6c3b27f44d7ce5e060b496103702763bc481e2e259f01e1b55256f56559ee49e",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-814-2001-09-26-id3900.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-814-2001-09-26-id3900.md",
+      "candidato_sha256": "7e88a0b5e0570d1019e507eeb29d84ae07729072782c52d62f05e36d87b342f8",
+      "fonte_sha256": "b7d602082eef9a72a0249879b282fbd1d3cbde28363aadf1029ac3387b49209e",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-815-2001-09-28-id3901.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-815-2001-09-28-id3901.md",
+      "candidato_sha256": "970bdb846cb85766a8e077c64a0c3bb97e00fd1e91b53412c907f9106e06fc8b",
+      "fonte_sha256": "fba6b860d0b3f514fedd7c80ee0a004fb6462db700026754a6225a066f8a9b98",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-816-2001-10-31-id3902.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-816-2001-10-31-id3902.md",
+      "candidato_sha256": "c6977f3aec8d726b4f5e395949c5b9f19fb083a3172bdf6edcbb622124826427",
+      "fonte_sha256": "cd3eb8da40c54245334c3d59cb5c9c7e154d69effdac0318170ae76d92c8f483",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-817-2001-11-22-id3903.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-817-2001-11-22-id3903.md",
+      "candidato_sha256": "321345f5039e21eba0aa2466991f0f291c63a3ac2f592c5b6146551f1358f297",
+      "fonte_sha256": "6f34d0574c83e6d542761323b68f4a31b4bc013cf27f409c4566d010b7900818",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-818-2001-12-06-id3904.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-818-2001-12-06-id3904.md",
+      "candidato_sha256": "9d107d2a6d41cbcc05236ac64525d973add9ca7c1d2470675f9a072cc12bacab",
+      "fonte_sha256": "05826250eff612d02b2716d3c8d1615ba439c54f09795ef1ba0f153955315415",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-819-2001-12-14-id3905.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-819-2001-12-14-id3905.md",
+      "candidato_sha256": "2d2f59ea8c20befe5ab211ba8d2a506aebeb3369b3c0ce2d83d560c7823c8991",
+      "fonte_sha256": "2d99b30e2b32a64e9611f59736100fd162ec995be93b4b0c3fb05f3bb2b4b631",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-820-2001-12-14-id3906.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2001/res-alesp-820-2001-12-14-id3906.md",
+      "candidato_sha256": "bbab1fd873370a9712f59423d42d673c7f0b385186f73de3481d28d6f0d74cae",
+      "fonte_sha256": "9fee48b560d4057f13ad160aa2b3df5f2e6f2ebfadbe5dc7eae8da4ae7709bd8",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-823-2002-02-14-id924.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-823-2002-02-14-id924.md",
+      "candidato_sha256": "eedc4e77f98428fddd8ed293cac660bf37aba60cf18367032c78386d32c47cee",
+      "fonte_sha256": "5bc65a5f174bddd2ca69771cefbeb5ab3fbd250dde54ec4d3ad78dcd9fcb8f48",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-824-2002-03-15-id925.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-824-2002-03-15-id925.md",
+      "candidato_sha256": "94fa4860e1398feb033c329e8fe51b81f5a001be7b862635512298f279f2603a",
+      "fonte_sha256": "e717843dcf9f1bc5f0ca34735fa833509e63fcca24a922ee984ec54692edbcb2",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-826-2002-10-23-id1010.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-826-2002-10-23-id1010.md",
+      "candidato_sha256": "d1549fcbe5fde58f119cf4008e24afb4eecbbc1a9398d45a5f4a7d8cc21ea151",
+      "fonte_sha256": "a09f4a4c3ba053cfc36a254e8fbd8409a4a32abdce42030cddb58a88f567e3f7",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-827-2002-11-27-id1236.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-827-2002-11-27-id1236.md",
+      "candidato_sha256": "a738199d87e4ef0edfbf7ef2ec39857b7a2de3defa64f88db8da9ff838126557",
+      "fonte_sha256": "4d34d701d678987cf85b6084adfea4132f1bf9ca34b3fb8482078d9666d91444",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-828-2002-12-17-id1399.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-828-2002-12-17-id1399.md",
+      "candidato_sha256": "a4afa3d00193a6be3491d316bb4e18b38815c638c2dabab00d97b305196af597",
+      "fonte_sha256": "6e602c4dc6569721c5d15dc361db55ce31d8dc2c0b60e203dd0404c43f6c380e",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-830-2002-12-17-id1401.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20/candidatos/resolucoes/2002/res-alesp-830-2002-12-17-id1401.md",
+      "candidato_sha256": "054323b086b55109ba2c50d03ddacab783d4e4044b0a200f0e4564a330e9e7e9",
+      "fonte_sha256": "336586827273ead0cd6168549c2792df207f8a6d473538f8454ff79f5212993f",
+      "chars_exatos": true,
+      "mascaras_diferentes": [],
+      "mascaras_fonte_perdidas": 0,
+      "extras": 0
+    }
+  ],
+  "limite": "PerfilCSS independente de HTML5; divergências extras não são aprovadas automaticamente, máscaras por glifo não branco semdefaultsUA/CSSexterno."
+}

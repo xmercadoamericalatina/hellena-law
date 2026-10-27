@@ -1,0 +1,283 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1953/dec-32807-1953-05-20.md",
+      "urn": "urn:lex:br:federal:decreto:1953-05-20;32807",
+      "sha256": "c8b7f9eb53f4d522776f965d37c513c1a4e632a88f3c47515ceaf6e13119a9f7",
+      "sha256_fonte_html": "07a65d5c4feb4d97679f5d8845b7527cdb1dd113d62e3a0a855efc92347d3612",
+      "marcadores": [
+        {
+          "inicio": 5639,
+          "fim": 5812,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032807-0-000-20-05-1953@@@</span></p>",
+          "texto_original": "###DEC-032807-0-000-20-05-1953@@@",
+          "codigo": "###DEC-032807-0-000-20-05-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-05-20"
+        },
+        {
+          "inicio": 7538,
+          "fim": 7736,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032807-0-000-20-05-1953@@@RET 01+++</span></p>",
+          "texto_original": "###DEC-032807-0-000-20-05-1953@@@RET 01+++",
+          "codigo": "###DEC-032807-0-000-20-05-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "RET 01+++",
+          "data_codigo": "1953-05-20"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-32653-1953-04-30.md",
+      "urn": "urn:lex:br:federal:decreto:1953-04-30;32653",
+      "sha256": "fe7909770355a71b229ff9fdffa012b27159ce9af61f44d66a57467012bac6fa",
+      "sha256_fonte_html": "e71d453614d7f2a356e6a2b3f0479001b3671ff157f0d37047314a20c3aaedd5",
+      "marcadores": [
+        {
+          "inicio": 5677,
+          "fim": 5850,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032653-0-000-30-04-1953@@@</span></p>",
+          "texto_original": "###DEC-032653-0-000-30-04-1953@@@",
+          "codigo": "###DEC-032653-0-000-30-04-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-04-30"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-32630-1953-04-27.md",
+      "urn": "urn:lex:br:federal:decreto:1953-04-27;32630",
+      "sha256": "4290a383c182c914a79ff9a160f15b7d5ea7540dbfe86ee5f9784ec7605839ff",
+      "sha256_fonte_html": "7cba5dfdff8e194d4439528aaac78e83982645a241c4aaeb8e486c256a6ecec6",
+      "marcadores": [
+        {
+          "inicio": 5760,
+          "fim": 5933,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032630-0-000-27-04-1953@@@</span></p>",
+          "texto_original": "###DEC-032630-0-000-27-04-1953@@@",
+          "codigo": "###DEC-032630-0-000-27-04-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-04-27"
+        },
+        {
+          "inicio": 15338,
+          "fim": 15527,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032630-0-000-27-04-1953@@@</span></p>",
+          "texto_original": "###DEC-032630-0-000-27-04-1953@@@",
+          "codigo": "###DEC-032630-0-000-27-04-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-04-27"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-32605-1953-04-23.md",
+      "urn": "urn:lex:br:federal:decreto:1953-04-23;32605",
+      "sha256": "cf7861bd08097604197757443fdee6bab81d44dd1fc1887254d87bf1a5aebbfc",
+      "sha256_fonte_html": "8a8dc7f6f2a5bcb4ba924d59dfe0bd5ad003d52ee6bbf9303f89861325a94616",
+      "marcadores": [
+        {
+          "inicio": 6053,
+          "fim": 6226,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-032605-0-000-23-04-1953@@@</span></p>",
+          "texto_original": "###DEC-032605-0-000-23-04-1953@@@",
+          "codigo": "###DEC-032605-0-000-23-04-1953@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-04-23"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1953/dec-32058-1953-01-07.md",
+      "urn": "urn:lex:br:federal:decreto:1953-01-07;32058",
+      "sha256": "7a4a9817a26842582809400bb1bd51759eb011e12483442f83a1a3cafc794136",
+      "sha256_fonte_html": "3b9e97532ee668b2cae66058b4c9c3401460ae41a79d74fd73baaf70415bad07",
+      "marcadores": [
+        {
+          "inicio": 5739,
+          "fim": 5914,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">X3###DEC-032058-0-000-07-01-1953@@@</span></p>",
+          "texto_original": "X3###DEC-032058-0-000-07-01-1953@@@",
+          "codigo": "###DEC-032058-0-000-07-01-1953@@@",
+          "prefixo_preservado": "X3",
+          "sufixo_preservado": "",
+          "data_codigo": "1953-01-07"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-31974-1952-12-19.md",
+      "urn": "urn:lex:br:federal:decreto:1952-12-19;31974",
+      "sha256": "f988a85a4e8be9bbf728aa671974872f42e4455a358a43285a8fc6931518010c",
+      "sha256_fonte_html": "f3a60e2d8d05da2e4ee0a517049a26a8d3b2bd5a72d63cb3603f3eee25fad5cd",
+      "marcadores": [
+        {
+          "inicio": 5718,
+          "fim": 5891,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031974-0-000-19-12-1952@@@</span></p>",
+          "texto_original": "###DEC-031974-0-000-19-12-1952@@@",
+          "codigo": "###DEC-031974-0-000-19-12-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-12-19"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-31769-1952-11-12.md",
+      "urn": "urn:lex:br:federal:decreto:1952-11-12;31769",
+      "sha256": "0231c2e9b758a37079aa4a4ede91280f043bb7ac8aef6e7c33f3a75a200eca94",
+      "sha256_fonte_html": "49aab7bc9590a006557643515287bf77a6a133174f5079577e6d99d4778c7a2d",
+      "marcadores": [
+        {
+          "inicio": 5660,
+          "fim": 5833,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031769-0-000-12-11-1952@@@</span></p>",
+          "texto_original": "###DEC-031769-0-000-12-11-1952@@@",
+          "codigo": "###DEC-031769-0-000-12-11-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-11-12"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-31132-1952-07-11.md",
+      "urn": "urn:lex:br:federal:decreto:1952-07-11;31132",
+      "sha256": "47a0b30b68c3a6fbff55f6d75e3f519fe423508a1054c41bd8bdac6eaca4210c",
+      "sha256_fonte_html": "8498f2365bfab0ec185fde8000cfb80884a1e666d70916eed7aef5a164c09fff",
+      "marcadores": [
+        {
+          "inicio": 5765,
+          "fim": 5938,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031132-0-000-11-07-1952@@@</span></p>",
+          "texto_original": "###DEC-031132-0-000-11-07-1952@@@",
+          "codigo": "###DEC-031132-0-000-11-07-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-07-11"
+        },
+        {
+          "inicio": 11281,
+          "fim": 11470,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031132-0-000-11-07-1952@@@</span></p>",
+          "texto_original": "###DEC-031132-0-000-11-07-1952@@@",
+          "codigo": "###DEC-031132-0-000-11-07-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-07-11"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-31106-1952-07-09.md",
+      "urn": "urn:lex:br:federal:decreto:1952-07-09;31106",
+      "sha256": "a3e955ca5dc1d94d43d3d212016445bee6bb796f299bb1276c9cb71aa64d4189",
+      "sha256_fonte_html": "264adda7570435bc6164b4e09556ce696d9b86a447ae22a6e319ada10f2fdac9",
+      "marcadores": [
+        {
+          "inicio": 5726,
+          "fim": 5900,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031106-0-000-09-07-1952@@@I</span></p>",
+          "texto_original": "###DEC-031106-0-000-09-07-1952@@@I",
+          "codigo": "###DEC-031106-0-000-09-07-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "I",
+          "data_codigo": "1952-07-09"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-31056-1952-06-30.md",
+      "urn": "urn:lex:br:federal:decreto:1952-06-30;31056",
+      "sha256": "4ebcf76e72ea517a024f1260725b4ef1fc138cd9594b617b892db456fe7f02e9",
+      "sha256_fonte_html": "e04fde2bb17d3d9a03f70ccfeb253533d1a8541b43e374e04c328fdf04bc61b5",
+      "marcadores": [
+        {
+          "inicio": 5735,
+          "fim": 5970,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em; -aw-import:spaces\">&#xa0;</span><span style=\"font-size:1.2em\">###DEC-031056-0-000-30-06-1952@@@</span></p>",
+          "texto_original": "###DEC-031056-0-000-30-06-1952@@@",
+          "codigo": "###DEC-031056-0-000-30-06-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-06-30"
+        },
+        {
+          "inicio": 16572,
+          "fim": 16761,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-031056-0-000-30-06-1952@@@</span></p>",
+          "texto_original": "###DEC-031056-0-000-30-06-1952@@@",
+          "codigo": "###DEC-031056-0-000-30-06-1952@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1952-06-30"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1953/dec-32653-1953-04-30.md",
+      "candidate": "federal/_candidatos_excecoes_011_20261021_001/dec-32653-1953-04-30.md",
+      "sha256_candidato": "5528e01a4528ccea27d921eefc79cc109d64b70e84632f59002859478f5e099b",
+      "sha256_preimagem": "fe7909770355a71b229ff9fdffa012b27159ce9af61f44d66a57467012bac6fa",
+      "mudanca": "Dois escapes de crases literais nas coordenadas, preservando os caracteres da fonte sem outra alteração no corpo."
+    },
+    {
+      "path": "federal/decretos/1952/dec-31974-1952-12-19.md",
+      "candidate": "federal/_candidatos_excecoes_011_20261021_001/dec-31974-1952-12-19.md",
+      "sha256_candidato": "77c8c5d79559e1bfb4c3f9102771d3a4cc4efbbe65d7709f08e514645c2dc247",
+      "sha256_preimagem": "f988a85a4e8be9bbf728aa671974872f42e4455a358a43285a8fc6931518010c",
+      "mudanca": "Dois escapes de crases literais nas coordenadas, preservando os caracteres da fonte sem outra alteração no corpo."
+    },
+    {
+      "path": "federal/decretos/1952/dec-31769-1952-11-12.md",
+      "candidate": "federal/_candidatos_excecoes_011_20261021_001/dec-31769-1952-11-12.md",
+      "sha256_candidato": "4de9d1d9c1c676dabbdf5095699c92722ba6486bfad05884db5eacc67264654c",
+      "sha256_preimagem": "0231c2e9b758a37079aa4a4ede91280f043bb7ac8aef6e7c33f3a75a200eca94",
+      "mudanca": "Dois escapes de crases literais nas coordenadas, preservando os caracteres da fonte sem outra alteração no corpo."
+    }
+  ],
+  "resumo": {
+    "revisados": 10,
+    "aprovados": 10,
+    "reparos_privados": 3
+  }
+}

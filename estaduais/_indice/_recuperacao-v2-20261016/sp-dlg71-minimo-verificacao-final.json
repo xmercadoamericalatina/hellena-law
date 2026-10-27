@@ -1,0 +1,20 @@
+{
+  "manifesto": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-dlg71-minimo.json",
+  "manifesto_sha256": "0997fb47d28e3e3e67bc2dc8c8beeecf5f3288188c9c5b12d9800f82a7294e81",
+  "total": 71,
+  "erros": [],
+  "corpos_alterados": [
+    "estaduais/SP/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.md",
+    "estaduais/SP/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+    "estaduais/SP/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md"
+  ],
+  "corpos_byteiguais": 68,
+  "mascaras_fonte_incluidas": 71,
+  "italico_exato": 71,
+  "Bextra_apenas_rotulos": 105,
+  "fixtures_heranca_reset": 4,
+  "arquivos_lista": 220,
+  "bytes_lista": 1229102,
+  "aplicado": false,
+  "ensaio7_nao_adotado": true
+}

@@ -1,0 +1,2338 @@
+{
+  "documentos": 232,
+  "retificacoes_avulsas": 0,
+  "com_artigos_proprios": 229,
+  "sem_artigos_revisados_manualmente": 3,
+  "documentos_com_aviso_anexo_nao_reproduzido": 1,
+  "registros": [
+    {
+      "path": "federal/decretos/1945/dec-20289-1945-12-31.md",
+      "sha256_publicacao_anterior": "d7611dc868110bc65051c8e242345540371373a35b680365a667a6752de9a13e",
+      "sha256_atual": "d7611dc868110bc65051c8e242345540371373a35b680365a667a6752de9a13e",
+      "sha256_fonte_html": "9ebd1e887d59a0ade861ee66c0e0a90bf0f7499755cdf3b7eabb679771d0e461",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20290-1945-12-31.md",
+      "sha256_publicacao_anterior": "934f565c029c2b638186af75c9f646376f391f88991a76b898848a7ef7d0e2e5",
+      "sha256_atual": "934f565c029c2b638186af75c9f646376f391f88991a76b898848a7ef7d0e2e5",
+      "sha256_fonte_html": "2da8f7ccf58da0390cca1cc0ffd4c49209153dc672c4f7f47207cef098050d9a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20291-1945-12-31.md",
+      "sha256_publicacao_anterior": "bb265c7243621d14261d3c7f86431980cc1bc431cb4100a90262dfb8cce83509",
+      "sha256_atual": "bb265c7243621d14261d3c7f86431980cc1bc431cb4100a90262dfb8cce83509",
+      "sha256_fonte_html": "a08b495e5eca09947b53a175715e361bc079ec65fdd38826d5149ba45405796d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20292-1945-12-31.md",
+      "sha256_publicacao_anterior": "a7c1f21042e0b82cd09faa2b563d5d6837871e66f4a9e033dcb0a1babcd28db4",
+      "sha256_atual": "a7c1f21042e0b82cd09faa2b563d5d6837871e66f4a9e033dcb0a1babcd28db4",
+      "sha256_fonte_html": "ab65a3816c0b70f83ae87e3e50dbf848d6d6288cf732c3f4401529da2231e0b5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20293-1945-12-31.md",
+      "sha256_publicacao_anterior": "f633993c12346e04a30fd375dd750a8e51352f3aa74850e93e8f3859a1ea3ca8",
+      "sha256_atual": "f633993c12346e04a30fd375dd750a8e51352f3aa74850e93e8f3859a1ea3ca8",
+      "sha256_fonte_html": "5f89421bd97f105ae63d382f5454b5ba5353caaf5beb0b0001b8d5beed0ad7db",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20294-1945-12-31.md",
+      "sha256_publicacao_anterior": "483eae340cc54925e0225071ffd6602aabf725f487b0b23b6358e65d014689e0",
+      "sha256_atual": "483eae340cc54925e0225071ffd6602aabf725f487b0b23b6358e65d014689e0",
+      "sha256_fonte_html": "57bc3a1c0093101222936eb47b8e40e89ee44355af40c7c2debfa706ab70d459",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20295-1945-12-31.md",
+      "sha256_publicacao_anterior": "07e474eac4199ecbb1db1caf292c5a5256b4172749bfa132a297cb9faec46fba",
+      "sha256_atual": "07e474eac4199ecbb1db1caf292c5a5256b4172749bfa132a297cb9faec46fba",
+      "sha256_fonte_html": "ebcbb7152bd07ff9d0e3e69c6b1364912f44c9e81a455e127e080d4dfba96ad0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20296-1945-12-31.md",
+      "sha256_publicacao_anterior": "833ef85ae99a0bccbfd983bba19a06ade94801e8bd64241dc386a9f5326deb04",
+      "sha256_atual": "833ef85ae99a0bccbfd983bba19a06ade94801e8bd64241dc386a9f5326deb04",
+      "sha256_fonte_html": "de500d2ca28aeef793385665d82ca684774900e392f766ac0eefe73eca29ad7c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20283-1945-12-28.md",
+      "sha256_publicacao_anterior": "8619ffbb6f87f7665f70693e80d509eff4895d65c9a19318bfda89a1923d2fe3",
+      "sha256_atual": "8619ffbb6f87f7665f70693e80d509eff4895d65c9a19318bfda89a1923d2fe3",
+      "sha256_fonte_html": "673475187b9fad4916f1b533c33a64765ebfaafb1b435dfe8d8af009eee52d29",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20284-1945-12-28.md",
+      "sha256_publicacao_anterior": "3820907fba822ee23bc2ddf0d6183880301d114ed48010d83586841c75fa429a",
+      "sha256_atual": "3820907fba822ee23bc2ddf0d6183880301d114ed48010d83586841c75fa429a",
+      "sha256_fonte_html": "be714bf6b4c199f72c018c6195157a3f8a2ede82cc51075183926f258f5c9388",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20285-1945-12-28.md",
+      "sha256_publicacao_anterior": "1608497b773eba0551fcec97a79630f4fc9a5b17facabed24ee089c16b75f924",
+      "sha256_atual": "1608497b773eba0551fcec97a79630f4fc9a5b17facabed24ee089c16b75f924",
+      "sha256_fonte_html": "31223892e2836df49689c9a882a89c87ccb11e2f4be618b1943fda7ca44f9e59",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20286-1945-12-28.md",
+      "sha256_publicacao_anterior": "7a91eed63271220e9526045b6a6439f3102181d589a2c6002a77bf9502ccd891",
+      "sha256_atual": "7a91eed63271220e9526045b6a6439f3102181d589a2c6002a77bf9502ccd891",
+      "sha256_fonte_html": "caa4fb457334fc0eca6ae9decc502fed078d9f4231632c25429d73ba572ae18b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20287-1945-12-28.md",
+      "sha256_publicacao_anterior": "1f88336bc0f55cbca3ca909f3aed19f13260a6b02642d8079d06c1941236433d",
+      "sha256_atual": "1f88336bc0f55cbca3ca909f3aed19f13260a6b02642d8079d06c1941236433d",
+      "sha256_fonte_html": "4fd698eba82215b8f248d9c805af941a7a7e6aafa1fd492780c0763589014363",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20288-1945-12-28.md",
+      "sha256_publicacao_anterior": "4e6f293a572a2c0fb73dfb187317ef4523287894a0e6ff47cd73fb1a26fd9e65",
+      "sha256_atual": "4e6f293a572a2c0fb73dfb187317ef4523287894a0e6ff47cd73fb1a26fd9e65",
+      "sha256_fonte_html": "6ae498265401695e4cf4d8e90d8ea79c8287e185fd8f96bb0e1856603616dd0c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20282-1945-12-27.md",
+      "sha256_publicacao_anterior": "c59a83ca8999492dc3ba3708b0f2c2934ef9f282855de37969d0a80c732649c9",
+      "sha256_atual": "c59a83ca8999492dc3ba3708b0f2c2934ef9f282855de37969d0a80c732649c9",
+      "sha256_fonte_html": "d17334c7b6b43b0edc2d7f24315b555aab451dd9ddafcc1d34857f651873ad08",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20269-1945-12-26.md",
+      "sha256_publicacao_anterior": "1433dc988892b7584d35b17bb6e538830cd995594b433b74f6586da58ebd7680",
+      "sha256_atual": "1433dc988892b7584d35b17bb6e538830cd995594b433b74f6586da58ebd7680",
+      "sha256_fonte_html": "17d0cc28e11c65a24251a19edd8b68fd6b34f49feb71a2e10847a87e9012cf07",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20270-1945-12-26.md",
+      "sha256_publicacao_anterior": "ea5d46fdc9436819921d9c8f85184d1ae63b00206f3a3b69643b791dc82f8893",
+      "sha256_atual": "ea5d46fdc9436819921d9c8f85184d1ae63b00206f3a3b69643b791dc82f8893",
+      "sha256_fonte_html": "94d55fa88006d1010cdafb2f731c1eaf33527a0680ebadd3b6e8954b33f96f35",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20271-1945-12-26.md",
+      "sha256_publicacao_anterior": "b1e73611938fce104192c2a8a952e11611f5139b061f5f655513701a1630009e",
+      "sha256_atual": "b1e73611938fce104192c2a8a952e11611f5139b061f5f655513701a1630009e",
+      "sha256_fonte_html": "61aa52dfcb1d4784b3fb63c993e77bee5dc3c028bc1d8f5af9335a31d3b00007",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20272-1945-12-26.md",
+      "sha256_publicacao_anterior": "44b3a1900df8849b49230d2e2011bd50a885249a19a5cd8a53b18aecf5f33d8e",
+      "sha256_atual": "44b3a1900df8849b49230d2e2011bd50a885249a19a5cd8a53b18aecf5f33d8e",
+      "sha256_fonte_html": "920a3d368e4959a1bae8f794f367a85da2e29ceb4d3e70774e482d43e00f97e2",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20273-1945-12-26.md",
+      "sha256_publicacao_anterior": "f90c24a14d6f956a3b31120eefaed3f055a23617c2684247856543c5b98efb7f",
+      "sha256_atual": "f90c24a14d6f956a3b31120eefaed3f055a23617c2684247856543c5b98efb7f",
+      "sha256_fonte_html": "4da301d83c78521b818f2437800d879ddf3557674943fb074fae2ba994dd602b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20274-1945-12-26.md",
+      "sha256_publicacao_anterior": "cf61c0017e1ed3fdbb5d7ef7219bec07d2d3fc6ffb62e2cb81dbc2c4cec044c6",
+      "sha256_atual": "cf61c0017e1ed3fdbb5d7ef7219bec07d2d3fc6ffb62e2cb81dbc2c4cec044c6",
+      "sha256_fonte_html": "0de42c5f40a902810aae7c94b605b1faf5d84463a5e932a2146ff71dc7f1b212",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20275-1945-12-26.md",
+      "sha256_publicacao_anterior": "9d2526b4769b60197c731ffbfb0a329cdfbb23410b232686ecb917fce1b4418b",
+      "sha256_atual": "9d2526b4769b60197c731ffbfb0a329cdfbb23410b232686ecb917fce1b4418b",
+      "sha256_fonte_html": "627cf355c76a6ba54b17c203cf4d77f2a4363591a9bee93e735e4e2e254d2911",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20276-1945-12-26.md",
+      "sha256_publicacao_anterior": "d10ac5fe3612a2f499d7c42eed128a1549b83b19442a011d94a27401bdccead1",
+      "sha256_atual": "d10ac5fe3612a2f499d7c42eed128a1549b83b19442a011d94a27401bdccead1",
+      "sha256_fonte_html": "badba629fa9e1b3a224634830aa88a4e0c1ac66e524154f096e60488ccd0672f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20277-1945-12-26.md",
+      "sha256_publicacao_anterior": "c0efcc3a3d6f23112dba5675687f6d7e249cf564ccfea586c23cb5fc98815535",
+      "sha256_atual": "c0efcc3a3d6f23112dba5675687f6d7e249cf564ccfea586c23cb5fc98815535",
+      "sha256_fonte_html": "8753233ec0db85d19f3e28842bfda817d7088bf8b21f81631301e5010561c7c8",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20278-1945-12-26.md",
+      "sha256_publicacao_anterior": "8c593c18eb1ddb6a785411f43b1daad0e2b3d2a0c5964000ba5e478f352ee856",
+      "sha256_atual": "8c593c18eb1ddb6a785411f43b1daad0e2b3d2a0c5964000ba5e478f352ee856",
+      "sha256_fonte_html": "640cddd2fe62f9fb40bd434d7f729aef3a7d8eb21b9474f71b3c84a45e588ccf",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20279-1945-12-26.md",
+      "sha256_publicacao_anterior": "dbc1ed5d4984774e8e5f31b8821e34de3690805f69bb64c53f226ef7aef573b5",
+      "sha256_atual": "dbc1ed5d4984774e8e5f31b8821e34de3690805f69bb64c53f226ef7aef573b5",
+      "sha256_fonte_html": "d580801232a2493a077011431f5f06da1119e0f6f4ace67ef6ac60d03fe951f0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20280-1945-12-26.md",
+      "sha256_publicacao_anterior": "653bcb26a69627d2dbd0d90d0ae81889898e5aaf9d1fcffffbef972aa8ea38b8",
+      "sha256_atual": "653bcb26a69627d2dbd0d90d0ae81889898e5aaf9d1fcffffbef972aa8ea38b8",
+      "sha256_fonte_html": "e498b911442cf6836e6137480c20b57b2a518a898b30798f8d0f711f6456797d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20281-1945-12-26.md",
+      "sha256_publicacao_anterior": "4c4abe6ebb3137637dab11c506d7083d8809b93c91b9f086f6d9e317fadd6ced",
+      "sha256_atual": "4c4abe6ebb3137637dab11c506d7083d8809b93c91b9f086f6d9e317fadd6ced",
+      "sha256_fonte_html": "0cc125819f8798076c673efb195af89efeb55f0f63cd1b135c9b9625046d8396",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20268-1945-12-24.md",
+      "sha256_publicacao_anterior": "d6013d084eba74f341173be5be52d2528ea6707b32f77b3fda9b014599c396e3",
+      "sha256_atual": "d6013d084eba74f341173be5be52d2528ea6707b32f77b3fda9b014599c396e3",
+      "sha256_fonte_html": "9de8d71f5d40abed46b376f95c0c3e2efbc6083b5fca93ba7fc1096449dac31c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20265-1945-12-21.md",
+      "sha256_publicacao_anterior": "a843ccb2a31497ba7e306f14011f3b87019ad13b2e559e3348e8c0417130a134",
+      "sha256_atual": "a843ccb2a31497ba7e306f14011f3b87019ad13b2e559e3348e8c0417130a134",
+      "sha256_fonte_html": "f5c77b38131f0a959a3620fa0a02c4ae4df66ea816b7bb0e0d057230f9f4da99",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20266-1945-12-21.md",
+      "sha256_publicacao_anterior": "0d8ae9bbc2414be7cb32c04329064c6395e6f7de873480b646ffdd2c64b09388",
+      "sha256_atual": "0d8ae9bbc2414be7cb32c04329064c6395e6f7de873480b646ffdd2c64b09388",
+      "sha256_fonte_html": "799a9ead66353f98e96ee27cb9a4482cbeef77e64f28c8d06ab041bd40213dca",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": false,
+      "revisao_manual": "Comando presidencial faz públicos depósitos de ratificação; não usa artigos. Corpo decisório e fecho próprios presentes."
+    },
+    {
+      "path": "federal/decretos/1945/dec-20267-1945-12-21.md",
+      "sha256_publicacao_anterior": "cfae82fab307453f21ba23aad28fff38ab9bfca95ae02b4b5e373f1efaa8dc6f",
+      "sha256_atual": "cfae82fab307453f21ba23aad28fff38ab9bfca95ae02b4b5e373f1efaa8dc6f",
+      "sha256_fonte_html": "46a471e5cb7a7e278b59bbd04253bfe977e81092e7d1b7f53b6cb0801ffe31a5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20251-1945-12-20.md",
+      "sha256_publicacao_anterior": "28a6f33cee4f32f32aeb3fa31dfc9f38c30efe941e330d43c633a4320514eea2",
+      "sha256_atual": "28a6f33cee4f32f32aeb3fa31dfc9f38c30efe941e330d43c633a4320514eea2",
+      "sha256_fonte_html": "72e2ebf6d4a2db3c7164ce3c44f870ee0892bca05896d53522119eee401fb2de",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20252-1945-12-20.md",
+      "sha256_publicacao_anterior": "c76143137e476bda99bf5637659497965c53a64bc4a3f1aa33ef9c148aa5a077",
+      "sha256_atual": "c76143137e476bda99bf5637659497965c53a64bc4a3f1aa33ef9c148aa5a077",
+      "sha256_fonte_html": "c2b146510b161b2197556804dea38e0586cebdeb2d9c36e3b9cb59bf1a005de0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20253-1945-12-20.md",
+      "sha256_publicacao_anterior": "9f570f6da748903b817a470e336b178c3a00bc5c84572016be052e2b96bf9b3c",
+      "sha256_atual": "9f570f6da748903b817a470e336b178c3a00bc5c84572016be052e2b96bf9b3c",
+      "sha256_fonte_html": "037071b05f5b81ca71e620ace9384398e34570e3c4762e816a4adcbe4c0e9cae",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20254-1945-12-20.md",
+      "sha256_publicacao_anterior": "6b0b01a83fe36ff4ffa219f01fc99245d5c01769e75cf78ee57426c7e575fdf0",
+      "sha256_atual": "6b0b01a83fe36ff4ffa219f01fc99245d5c01769e75cf78ee57426c7e575fdf0",
+      "sha256_fonte_html": "f4c1dfae6fc7b1619f87cbfff4d78c81f332157b070cd04cebe68c593c06a73d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20255-1945-12-20.md",
+      "sha256_publicacao_anterior": "aea0fae676bf3998c9e937dad8dcb7d4ae468d9a96d27b5cf818420feeee50cd",
+      "sha256_atual": "aea0fae676bf3998c9e937dad8dcb7d4ae468d9a96d27b5cf818420feeee50cd",
+      "sha256_fonte_html": "7efdb6a91b37e0e33a1c31e3ce8605f6af54ffc78b6b88068327a80cab9c79cd",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20256-1945-12-20.md",
+      "sha256_publicacao_anterior": "85b3f087aa8d9648a4bd076603af9af69044acb09013375a5bbbd7f6aaa4193a",
+      "sha256_atual": "85b3f087aa8d9648a4bd076603af9af69044acb09013375a5bbbd7f6aaa4193a",
+      "sha256_fonte_html": "3919d665768e514ea2d18f748f9bc0cc7be7fc5f8a40102085a24c96cf0fdf14",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20250-1945-12-19.md",
+      "sha256_publicacao_anterior": "0cb5814c149d7253b735451ce2dacd6015afa9600a81c927434f54293b0a3754",
+      "sha256_atual": "0cb5814c149d7253b735451ce2dacd6015afa9600a81c927434f54293b0a3754",
+      "sha256_fonte_html": "3ff41f667ee88c8d303ef43a59cfc606395b9ea56ecadd69af586adbd7e6c75c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20249-1945-12-19.md",
+      "sha256_publicacao_anterior": "a1054f151d2045d62901b02f969575cc6dfa94b87df990447b4b0c6057c65d73",
+      "sha256_atual": "a1054f151d2045d62901b02f969575cc6dfa94b87df990447b4b0c6057c65d73",
+      "sha256_fonte_html": "db204c676b085a560ac1188d6eb7227c478a729f7881249a310c282fedef1541",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20248-1945-12-19.md",
+      "sha256_publicacao_anterior": "51818ac5ff0a0c6729059bf10868dfca6ec3f254292635d666f98ef03347e0c3",
+      "sha256_atual": "51818ac5ff0a0c6729059bf10868dfca6ec3f254292635d666f98ef03347e0c3",
+      "sha256_fonte_html": "b698dd2e562c9d3a84e28811f6f290d6c32cd9e9d1dd0dfa709eb1bb6aa58617",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20247-1945-12-19.md",
+      "sha256_publicacao_anterior": "542e4a0292fdb639fc9d309543f3417fecc174116578d06d5fcfeb0472fb3448",
+      "sha256_atual": "542e4a0292fdb639fc9d309543f3417fecc174116578d06d5fcfeb0472fb3448",
+      "sha256_fonte_html": "8b66a6fed75a08a2d062500bc4c0dcee8d2d558268a820dc0116e15179113ac3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20246-1945-12-19.md",
+      "sha256_publicacao_anterior": "d92c625a7f6b20e73995e94793eb8e88f025c28aa33d00318c2d70539463a110",
+      "sha256_atual": "d92c625a7f6b20e73995e94793eb8e88f025c28aa33d00318c2d70539463a110",
+      "sha256_fonte_html": "ff618031a6ba7168a518f052fa7d7cc0e21f28f8b196944ba1c8fd79bbee066b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20245-1945-12-19.md",
+      "sha256_publicacao_anterior": "163ae8340375a0a1b8a9eb643808249fc0f82e8d60a6557207a2c7f300fdc6ac",
+      "sha256_atual": "163ae8340375a0a1b8a9eb643808249fc0f82e8d60a6557207a2c7f300fdc6ac",
+      "sha256_fonte_html": "b0f1cc1294b06875bc9e815406bbecc2d365dadfcbea87696bac809fe0e3bfba",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20244-1945-12-19.md",
+      "sha256_publicacao_anterior": "95e6e0d7c70b19c99b0ce86a32ce4bf086e1087ef14d62774f5cba2381cb92f4",
+      "sha256_atual": "95e6e0d7c70b19c99b0ce86a32ce4bf086e1087ef14d62774f5cba2381cb92f4",
+      "sha256_fonte_html": "2f50d150c1d1e2e3e53364902fc5131f6d63d565bcb4196f62e3759bfd6f51c8",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20243-1945-12-19.md",
+      "sha256_publicacao_anterior": "4a1cf621cfc8ee727f6f73c5ae4f8dbfcb57410414b591f0e4a42b5ce0ce9447",
+      "sha256_atual": "4a1cf621cfc8ee727f6f73c5ae4f8dbfcb57410414b591f0e4a42b5ce0ce9447",
+      "sha256_fonte_html": "71a60c349d8a39c022d11291ec973200847d47bf9a8a50c264a19c1522254eff",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20242-1945-12-19.md",
+      "sha256_publicacao_anterior": "b736d7357c2407b833a2ea46420d67d26306444a2b93b37d897ef140006362ed",
+      "sha256_atual": "b736d7357c2407b833a2ea46420d67d26306444a2b93b37d897ef140006362ed",
+      "sha256_fonte_html": "46e65ceeb6928c85beee72ef9741ec7d13aca1216005a043ed013a4a6df91c3c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20241-1945-12-19.md",
+      "sha256_publicacao_anterior": "bf91521a5ff3aba98d8bb230a3fed85b856318b5e8da8b9a99cb91682e770477",
+      "sha256_atual": "bf91521a5ff3aba98d8bb230a3fed85b856318b5e8da8b9a99cb91682e770477",
+      "sha256_fonte_html": "d9e48b61d3f120278b53b8dd81ef09e93db89719543d5fdb7f1faaf3570e9168",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20240-1945-12-19.md",
+      "sha256_publicacao_anterior": "e062d9cfdcc87a0c61dac746e9faf35272aaac18d93b6d6d76a78475b3cf7c54",
+      "sha256_atual": "e062d9cfdcc87a0c61dac746e9faf35272aaac18d93b6d6d76a78475b3cf7c54",
+      "sha256_fonte_html": "e4966acb43c9a062c4805bf1a285776689b0a66afc67bc98f7e89c82518febd7",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20239-1945-12-19.md",
+      "sha256_publicacao_anterior": "3985db27d3d5011beec2b7ec33159982428a0f1532a870aab818df74600cbad7",
+      "sha256_atual": "3985db27d3d5011beec2b7ec33159982428a0f1532a870aab818df74600cbad7",
+      "sha256_fonte_html": "00ec8f88d68a7f9d478b19758eeba6358d796409efed5e15df9c22df80b581f5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20238-1945-12-19.md",
+      "sha256_publicacao_anterior": "523e2a4e2dd5a9840f7c0a72bdc5590101a54f22eaa07afbd441abe9f430b7e8",
+      "sha256_atual": "523e2a4e2dd5a9840f7c0a72bdc5590101a54f22eaa07afbd441abe9f430b7e8",
+      "sha256_fonte_html": "85043df5887350d9ee0eda10b4a4a262e7bca5d0c0522ba4c8f20e3e8a31f110",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20237-1945-12-19.md",
+      "sha256_publicacao_anterior": "d788355a2bba1505fdc6f088c35e445425c22627e00e5dc10508bdc1516d1c89",
+      "sha256_atual": "d788355a2bba1505fdc6f088c35e445425c22627e00e5dc10508bdc1516d1c89",
+      "sha256_fonte_html": "8384ee147c34376bf1957a1ca8f60c132f160d2ad287469e0a3d98baf4b48fb3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20236-1945-12-19.md",
+      "sha256_publicacao_anterior": "281b52bfd2e8d075099d3f7eaf6bee62a0a71c9e4346a8938852c6d24b11ad64",
+      "sha256_atual": "281b52bfd2e8d075099d3f7eaf6bee62a0a71c9e4346a8938852c6d24b11ad64",
+      "sha256_fonte_html": "7811985cfdadc689464c1292fb81ad0c1c6a47e70399a08926b8d373e5866ce4",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20235-1945-12-19.md",
+      "sha256_publicacao_anterior": "4a237c3119300f17ec9a85e39c27d44da59f1786da5f44446cc8d809e92ae58e",
+      "sha256_atual": "4a237c3119300f17ec9a85e39c27d44da59f1786da5f44446cc8d809e92ae58e",
+      "sha256_fonte_html": "d3fdd2df3f81a645f827e4bb62eb5b315899541d5604f61d754a7e78d9e0f4f1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20234-1945-12-19.md",
+      "sha256_publicacao_anterior": "7791d83eee8385ea11ce277172e758986e77414d0a526e1d9a2021f2b8658511",
+      "sha256_atual": "7791d83eee8385ea11ce277172e758986e77414d0a526e1d9a2021f2b8658511",
+      "sha256_fonte_html": "19f08465891f17a85b546133e0b13c4ae5c7ba43cbf068eb77b71c943c615487",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20233-1945-12-19.md",
+      "sha256_publicacao_anterior": "495454dafac668600d79c199acf3105807da44f7560b7b78f32424ad7ad810e3",
+      "sha256_atual": "495454dafac668600d79c199acf3105807da44f7560b7b78f32424ad7ad810e3",
+      "sha256_fonte_html": "832ce95eb181c4428325b673718fa7b07bd97abb6feaced0c9185fcb93401afa",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20232-1945-12-19.md",
+      "sha256_publicacao_anterior": "89f27ec8e7408061bab1003e20e480be8f0dc7a96544d73cc747caf26c37dceb",
+      "sha256_atual": "89f27ec8e7408061bab1003e20e480be8f0dc7a96544d73cc747caf26c37dceb",
+      "sha256_fonte_html": "a73c7c804f4b0afa08e58bece1f8f8942f2b204a655380d33970ff9d8fc6b61f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20231-1945-12-19.md",
+      "sha256_publicacao_anterior": "0aa3f1284dd77cb1cf79985a0a0c1dc8c5a3ac56beaf7d9d7344d46e92b787d4",
+      "sha256_atual": "0aa3f1284dd77cb1cf79985a0a0c1dc8c5a3ac56beaf7d9d7344d46e92b787d4",
+      "sha256_fonte_html": "044eb59f0f1ae22c2b15f739fffbf7af355c2317a1d13b0549767d870f6ddc40",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20230-1945-12-19.md",
+      "sha256_publicacao_anterior": "053c36b7dee17767184ac010046e9ea35151d08a5050f0000325a8360ad1afac",
+      "sha256_atual": "053c36b7dee17767184ac010046e9ea35151d08a5050f0000325a8360ad1afac",
+      "sha256_fonte_html": "43fdbe9e3ba7c589974fb550eeaa1089e4a8276eaeddb6d34bd4fb5a74f3ac84",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20229-1945-12-19.md",
+      "sha256_publicacao_anterior": "2b6ca147adae3680fb313b0914b70baf3cef768dc7436ba739142d0a9d732fc0",
+      "sha256_atual": "2b6ca147adae3680fb313b0914b70baf3cef768dc7436ba739142d0a9d732fc0",
+      "sha256_fonte_html": "493f20f56bcb1063645eda3c08d217d88d8fdc24122456c8c45349c65523b27c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20228-1945-12-19.md",
+      "sha256_publicacao_anterior": "c4d842a6beacecc322c75d7754090a5d862aeaa5c8b289d14a91cab6efcb9299",
+      "sha256_atual": "c4d842a6beacecc322c75d7754090a5d862aeaa5c8b289d14a91cab6efcb9299",
+      "sha256_fonte_html": "76e55a6a6245a90fd94a7b58b6fbc7a8877e8d4bbc8f551660c98b3f25a122d0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20227-1945-12-19.md",
+      "sha256_publicacao_anterior": "cf9c6b6684790a5173734d0ee0a3c8e896cd620a62b2c435d3850f0961fe7dea",
+      "sha256_atual": "cf9c6b6684790a5173734d0ee0a3c8e896cd620a62b2c435d3850f0961fe7dea",
+      "sha256_fonte_html": "c0ff7fe8ea363206012cd5f33a9d5d05cb1da074912cefb33be3f0a784899002",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20226-1945-12-19.md",
+      "sha256_publicacao_anterior": "44305d1859a21ae05ca6d548cdafefb306c8913b12200a168ab2d985f68158db",
+      "sha256_atual": "44305d1859a21ae05ca6d548cdafefb306c8913b12200a168ab2d985f68158db",
+      "sha256_fonte_html": "0a6d9c4bf2ee271d18ee648e277c6f98e61da860d5dff823fa00fd8ced13cc60",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20225-1945-12-19.md",
+      "sha256_publicacao_anterior": "0c56b728b1ef5a0167e03741013d4bf9a374ebcec72eeb21ec21d7020272dfcb",
+      "sha256_atual": "0c56b728b1ef5a0167e03741013d4bf9a374ebcec72eeb21ec21d7020272dfcb",
+      "sha256_fonte_html": "364b72eb6f1944337a0bf141cd6613b2eb91250028ceb90604f555e0a78ae6f9",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20224-1945-12-19.md",
+      "sha256_publicacao_anterior": "336e9d6c26ad0c6d0c3d1bea258057f7ad873fb0fba3772254b9f70eb201f611",
+      "sha256_atual": "336e9d6c26ad0c6d0c3d1bea258057f7ad873fb0fba3772254b9f70eb201f611",
+      "sha256_fonte_html": "a998e48ea882a34c9107cacc0c88f7b4bc095e69d51f3de9f5de563ea946daf5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20223-1945-12-19.md",
+      "sha256_publicacao_anterior": "a57009555f36a81f7f8e3ff3bed503f053185f7dfbfe3a0d48aaa3dbd41a8783",
+      "sha256_atual": "a57009555f36a81f7f8e3ff3bed503f053185f7dfbfe3a0d48aaa3dbd41a8783",
+      "sha256_fonte_html": "893546e195ecf3a401c1a874150c399343bede52839ca496a40874629545c511",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20222-1945-12-17.md",
+      "sha256_publicacao_anterior": "3b839417d60e9b0ca95e5499b8b3a8e38a83971e75c28d8ed36988f6af595df6",
+      "sha256_atual": "3b839417d60e9b0ca95e5499b8b3a8e38a83971e75c28d8ed36988f6af595df6",
+      "sha256_fonte_html": "b95215a1df0bf2306a1032ad7376a471874fb66e952a03d92677df290ea49b00",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20221-1945-12-17.md",
+      "sha256_publicacao_anterior": "f5cdc9554b9fd58ea1af8c600a4b8007f539aa72c12fd319176f283492048a7a",
+      "sha256_atual": "f5cdc9554b9fd58ea1af8c600a4b8007f539aa72c12fd319176f283492048a7a",
+      "sha256_fonte_html": "5a30eca2b87957471fa3819de33a9278e3293c0a495be5f988196a0917268d4c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20220-1945-12-17.md",
+      "sha256_publicacao_anterior": "353bb90e93af6703db322e757f48c8360ed58a852987a0fc4875a5cfd2af6f4e",
+      "sha256_atual": "353bb90e93af6703db322e757f48c8360ed58a852987a0fc4875a5cfd2af6f4e",
+      "sha256_fonte_html": "cfb1b19699a68a86e85a1aaf3776a2e0a800a0c4602e2df293bb9c1a58159f53",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20219-1945-12-17.md",
+      "sha256_publicacao_anterior": "e2185c4467954199657f702cb8714d9714240ffe57c9cec34ef737e538af47cb",
+      "sha256_atual": "e2185c4467954199657f702cb8714d9714240ffe57c9cec34ef737e538af47cb",
+      "sha256_fonte_html": "7f4996c8da78ddd160a19718a84c49c4be1315b9054793ae1b114438ae431444",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20218-1945-12-17.md",
+      "sha256_publicacao_anterior": "680893c8bffde0cc55ea33f9a1c059b290b4653dd10a3a9436a774c024cafa2c",
+      "sha256_atual": "680893c8bffde0cc55ea33f9a1c059b290b4653dd10a3a9436a774c024cafa2c",
+      "sha256_fonte_html": "bf0464530ca7472e122a04b63303bc23f6425353231dd47351b74659ea37f6ff",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20217-1945-12-17.md",
+      "sha256_publicacao_anterior": "95117d580ae2a29c60d44ba69b290f4f5e29402f63b6b0640a9d3a9bc359342f",
+      "sha256_atual": "95117d580ae2a29c60d44ba69b290f4f5e29402f63b6b0640a9d3a9bc359342f",
+      "sha256_fonte_html": "2879f14bdbad860a9b670091e84590dfc6a8fb4d7c6549be949f4b3ddfe94193",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20216-1945-12-17.md",
+      "sha256_publicacao_anterior": "36aa3db74e129e0b8f446a6ada73fed46bc956e996c5d13017d35c74ad11210f",
+      "sha256_atual": "36aa3db74e129e0b8f446a6ada73fed46bc956e996c5d13017d35c74ad11210f",
+      "sha256_fonte_html": "d7795cd5b2127447bdb945397ff969ae1e765015d5e10f5f323fac1fac2c74df",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20214-1945-12-17.md",
+      "sha256_publicacao_anterior": "0d426cddb41b76a6808b1f454836ad90f7ce94615d24b5d07d13f24af080880b",
+      "sha256_atual": "0d426cddb41b76a6808b1f454836ad90f7ce94615d24b5d07d13f24af080880b",
+      "sha256_fonte_html": "65df94212b6e13c387c1844e5fb520a88d853b9f772b9f3223f98931b3e07016",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20213-1945-12-17.md",
+      "sha256_publicacao_anterior": "06d4d82cdbe48a926433e39856f021643a9939477eaf7e97536d02480be8fba5",
+      "sha256_atual": "06d4d82cdbe48a926433e39856f021643a9939477eaf7e97536d02480be8fba5",
+      "sha256_fonte_html": "ec55dcc34fffd2e882fba13504d16329e733ab41dca9f72893d79662adc67ec3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20212-1945-12-14.md",
+      "sha256_publicacao_anterior": "aec58f702c5a9c449cb632b3beaa97556ba1a487afaa7860eda70639b71a42f8",
+      "sha256_atual": "aec58f702c5a9c449cb632b3beaa97556ba1a487afaa7860eda70639b71a42f8",
+      "sha256_fonte_html": "c0cd16ff10fafffad9b29f2ecc4f311e22936343a6ae88810052bef76f0e2eec",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20211-1945-12-14.md",
+      "sha256_publicacao_anterior": "43af0cd03020b5d47db5f92cde66893263b5c4c4cf21e0c4ae04892917184f71",
+      "sha256_atual": "43af0cd03020b5d47db5f92cde66893263b5c4c4cf21e0c4ae04892917184f71",
+      "sha256_fonte_html": "1d28a01b3c1390926c73e856303517ea8e20f290cf64a0ff2cdb82bd85f98739",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20210-1945-12-14.md",
+      "sha256_publicacao_anterior": "41957ec7a5e29748f36a064d076c103271528ec743a8dee1dd9f0591c9e22bb4",
+      "sha256_atual": "41957ec7a5e29748f36a064d076c103271528ec743a8dee1dd9f0591c9e22bb4",
+      "sha256_fonte_html": "e66b9749f801035bb55467069c457731fe6ca13780ddd91bc5dcc637345ddf90",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20209-1945-12-14.md",
+      "sha256_publicacao_anterior": "8cd107e4ca5546d1a0c1a5367342164ba17869020e2a8bbe1f3804d527090cf2",
+      "sha256_atual": "8cd107e4ca5546d1a0c1a5367342164ba17869020e2a8bbe1f3804d527090cf2",
+      "sha256_fonte_html": "289a4817df01ac39492880493e9948af2cd3c53287e5140628d478b7a14d0e7e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20208-1945-12-14.md",
+      "sha256_publicacao_anterior": "508d3613af826dc66e116f1464efb293ac675841652e6fb33e34020d1d2c9440",
+      "sha256_atual": "508d3613af826dc66e116f1464efb293ac675841652e6fb33e34020d1d2c9440",
+      "sha256_fonte_html": "240641d41542291f701971447eca86ae8372b3d93eebdd40ac8e9e03a556659c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20207-1945-12-14.md",
+      "sha256_publicacao_anterior": "a011d91ae5196a85f95472aef3aff44f77522306ea44e6627642009ca84e4254",
+      "sha256_atual": "a011d91ae5196a85f95472aef3aff44f77522306ea44e6627642009ca84e4254",
+      "sha256_fonte_html": "2554c207a37c52f1decc6b844075831e5a9172e112314195b3ae838208c01b8f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20206-1945-12-14.md",
+      "sha256_publicacao_anterior": "2e02a7f91248423b4d5f4d8fc496ccb8700a9c56ebeb338339a810fa2ee9622e",
+      "sha256_atual": "2e02a7f91248423b4d5f4d8fc496ccb8700a9c56ebeb338339a810fa2ee9622e",
+      "sha256_fonte_html": "a9554737a1b5cd7d7b419598e7cac5baee21206dced66c7f50cbb34651bcc7ab",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20205-1945-12-14.md",
+      "sha256_publicacao_anterior": "0ae2c5f4f14025f359d3afa10ba816581de6adc78d277e3ce2c0603a9cb1aab0",
+      "sha256_atual": "0ae2c5f4f14025f359d3afa10ba816581de6adc78d277e3ce2c0603a9cb1aab0",
+      "sha256_fonte_html": "8cb88636f466ee5de68cea8b32cdce21599b9d8d97487230994d4ae2334757ec",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20204-1945-12-14.md",
+      "sha256_publicacao_anterior": "0ceff88e75a1761caad872e7e7aee0c95aec640b803c84a792f576c148a71deb",
+      "sha256_atual": "0ceff88e75a1761caad872e7e7aee0c95aec640b803c84a792f576c148a71deb",
+      "sha256_fonte_html": "e0f63a2e9e2ea446afba0171b6b9d7073b271acbb8b472840d63afd761fc2852",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20203-1945-12-14.md",
+      "sha256_publicacao_anterior": "89d279780cecb67924ac5817196fa23ee8b8511289d19bacca5ef12acfdbe64e",
+      "sha256_atual": "89d279780cecb67924ac5817196fa23ee8b8511289d19bacca5ef12acfdbe64e",
+      "sha256_fonte_html": "a92ab3e526803d080513985f9ff6bd6f4fa23eeeaefbb931b020ad3b9890970c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20202-1945-12-14.md",
+      "sha256_publicacao_anterior": "b2dff960ba915d49c2bd6871b14417a2334d7ae8082442c8a10701526e584f53",
+      "sha256_atual": "b2dff960ba915d49c2bd6871b14417a2334d7ae8082442c8a10701526e584f53",
+      "sha256_fonte_html": "c1b2e3fb7e61749839500165e8063e62575c541ac5a91666682461b38d9347bb",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20201-1945-12-14.md",
+      "sha256_publicacao_anterior": "181b934be91247dd563ccec5ae183a8767b21340c3d672a3a611cef08707fbfc",
+      "sha256_atual": "181b934be91247dd563ccec5ae183a8767b21340c3d672a3a611cef08707fbfc",
+      "sha256_fonte_html": "4a5b11923aa107f254034b151d797b87701cd3d5f8ba7341c3168913ecd33c60",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20198-1945-12-14.md",
+      "sha256_publicacao_anterior": "d86814b04ac7e24bfbd5a3b15824007061a03ca52962a084b099debe66a8c653",
+      "sha256_atual": "d86814b04ac7e24bfbd5a3b15824007061a03ca52962a084b099debe66a8c653",
+      "sha256_fonte_html": "ddca7991343f29c7c7025360a8e5adff2ea4f0fa7d868464f6dbd33f9781949b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20197-1945-12-14.md",
+      "sha256_publicacao_anterior": "6eb7dd273571d9cab89c693994df829c916685b58f0b2452afe672ac356f1ec0",
+      "sha256_atual": "6eb7dd273571d9cab89c693994df829c916685b58f0b2452afe672ac356f1ec0",
+      "sha256_fonte_html": "f594047bd12a8a59239df52e713f35ab3459e0a8abd4ac895e599fbbef838b4a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20196-1945-12-14.md",
+      "sha256_publicacao_anterior": "c8e671dcab76536fabe772a33864f23c0d37562d37591b9b71ba71dbda442a97",
+      "sha256_atual": "c8e671dcab76536fabe772a33864f23c0d37562d37591b9b71ba71dbda442a97",
+      "sha256_fonte_html": "575226ea33e9427863fa3524e6c9358856bcb1de489ec919835cca643a48e227",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20195-1945-12-13.md",
+      "sha256_publicacao_anterior": "ed21bcf8509747478f5d2cae7d28c7046b493c6712e446dc21099e5b1545528f",
+      "sha256_atual": "ed21bcf8509747478f5d2cae7d28c7046b493c6712e446dc21099e5b1545528f",
+      "sha256_fonte_html": "b373aec723d7b91a57c1eb0567a02372f72478047e001b72774402732740db65",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20194-1945-12-13.md",
+      "sha256_publicacao_anterior": "67146c9ece3fd174aead9a71db789b7941928aec94a54f0b69b5be392f5ea8d7",
+      "sha256_atual": "67146c9ece3fd174aead9a71db789b7941928aec94a54f0b69b5be392f5ea8d7",
+      "sha256_fonte_html": "bfc7180eab2a9c730a2febb2d624805ab3cb54e2dba55abff4eaea916bf6e717",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20193-1945-12-13.md",
+      "sha256_publicacao_anterior": "f96632ee9557b0dabacb047e609e64c9ca74b2fc8416e3b54ea26eda48e2bac1",
+      "sha256_atual": "f96632ee9557b0dabacb047e609e64c9ca74b2fc8416e3b54ea26eda48e2bac1",
+      "sha256_fonte_html": "f3e54610cfac37d6cef8cbb349016e66e9fe5403ab9d9fdba2ca3e218ccbbb31",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20192-1945-12-13.md",
+      "sha256_publicacao_anterior": "88d598868f3ba1adee31f540fbe24e39258b6698d21965e892426d82840cafb2",
+      "sha256_atual": "88d598868f3ba1adee31f540fbe24e39258b6698d21965e892426d82840cafb2",
+      "sha256_fonte_html": "cec710b19efe362ff5e68f82c53a3aea0cb323e448ea292e27b478ffb511fb26",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20190-1945-12-13.md",
+      "sha256_publicacao_anterior": "dc6adcfacb290a51bf78c46c526d641f5353e5af7a8b7c2839fa00747960e8d2",
+      "sha256_atual": "dc6adcfacb290a51bf78c46c526d641f5353e5af7a8b7c2839fa00747960e8d2",
+      "sha256_fonte_html": "d39b54425dfd66c0a68bd73ac1a9681b785d5f83203ae1dea8cb1b80ac0e0d09",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20189-1945-12-13.md",
+      "sha256_publicacao_anterior": "2b1771b7e7c70b75e73b69da18f4a217f804754c554fba9a70402a12a7ebfb51",
+      "sha256_atual": "2b1771b7e7c70b75e73b69da18f4a217f804754c554fba9a70402a12a7ebfb51",
+      "sha256_fonte_html": "1c80b35ae841af5e59a78677b81caafd40b8b42514a4327fd5997e9153c852af",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20188-1945-12-13.md",
+      "sha256_publicacao_anterior": "8f398d7f4231e5e2cf810e074e3a11730ff50233b4910f3d361832df88db2bb8",
+      "sha256_atual": "8f398d7f4231e5e2cf810e074e3a11730ff50233b4910f3d361832df88db2bb8",
+      "sha256_fonte_html": "fbcc8d08b60ad9c7e756223768951084f3e19f97492cfbbc91d9570c6b0a9924",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20187-1945-12-13.md",
+      "sha256_publicacao_anterior": "35f15f92a9ec2173ce278bc52d412e7e067c68056ce302856de396aba31e8fd8",
+      "sha256_atual": "35f15f92a9ec2173ce278bc52d412e7e067c68056ce302856de396aba31e8fd8",
+      "sha256_fonte_html": "e44324b64aaa88928ae083227d4b57da3fe536710f7a0e35378ec826f5571b1c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20186-1945-12-13.md",
+      "sha256_publicacao_anterior": "3e699c1de9f994cead49c530aae069916d61c1b6b2f9ea6500a6ccee5552b5f2",
+      "sha256_atual": "3e699c1de9f994cead49c530aae069916d61c1b6b2f9ea6500a6ccee5552b5f2",
+      "sha256_fonte_html": "9f7583c15a03dfc095f9eaacb708ea7cea0d8de4a31789fe89bd601d2776ee88",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20185-1945-12-13.md",
+      "sha256_publicacao_anterior": "81de411f22b46950a333df41e5e021a870c58e4eee40acc82cf07aa55e15b10a",
+      "sha256_atual": "81de411f22b46950a333df41e5e021a870c58e4eee40acc82cf07aa55e15b10a",
+      "sha256_fonte_html": "82b08eeca35c0a0cd368c902e2bd96c982ccfeca8072810aabf9b0efdebfe3e6",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20184-1945-12-13.md",
+      "sha256_publicacao_anterior": "48f1f0d434084fced548349e2bae9abf79da35c51d32d74b49c6513f0cc16357",
+      "sha256_atual": "48f1f0d434084fced548349e2bae9abf79da35c51d32d74b49c6513f0cc16357",
+      "sha256_fonte_html": "8a3634aea0f898e1910f11c142e949f903c2d1165f6b4d955b6f21eb683418db",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20183-1945-12-13.md",
+      "sha256_publicacao_anterior": "f9c70e6375e8e0e65338abb19e14574f85f96599c7ea4fce3bd804317b8175ff",
+      "sha256_atual": "f9c70e6375e8e0e65338abb19e14574f85f96599c7ea4fce3bd804317b8175ff",
+      "sha256_fonte_html": "e4164d752d25b19d0ccf8821650938035c5e924ddf604cf4a8827c6ddca7051d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20182-1945-12-13.md",
+      "sha256_publicacao_anterior": "d55ec46e828a3c20ae72086ee5661d5821a8d287eae034ee2c53bf23b2fc3be2",
+      "sha256_atual": "d55ec46e828a3c20ae72086ee5661d5821a8d287eae034ee2c53bf23b2fc3be2",
+      "sha256_fonte_html": "42e623b7f9557ddf1d888ee63dc762610f1fb1f519e417a86667f25ab7990f19",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20181-1945-12-13.md",
+      "sha256_publicacao_anterior": "b2cee6e52e4a9fdf14cbcba55c2a1382d9e742996d51301e8a90ae255cd2a1d9",
+      "sha256_atual": "b2cee6e52e4a9fdf14cbcba55c2a1382d9e742996d51301e8a90ae255cd2a1d9",
+      "sha256_fonte_html": "0b497e33b2c92cf1ea2e792c1e47e5f4d41f4de649c7191b744b88928c5ec37d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20180-1945-12-13.md",
+      "sha256_publicacao_anterior": "a23cc80830fb593f84dd3d9f69491a047c2ead2a4e5c57b246db43d3c086445c",
+      "sha256_atual": "a23cc80830fb593f84dd3d9f69491a047c2ead2a4e5c57b246db43d3c086445c",
+      "sha256_fonte_html": "18fd2dfa9c8e899547094b7b7148deaac0b021b8b76771349c8179cad08ecc89",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20179-1945-12-12.md",
+      "sha256_publicacao_anterior": "41362ca8229412761a9ecd60d6d170d6050b439f6c662c4caadfe188dc14437f",
+      "sha256_atual": "41362ca8229412761a9ecd60d6d170d6050b439f6c662c4caadfe188dc14437f",
+      "sha256_fonte_html": "f958fe2855f4ae702590ef580f9481f6dcffcc8e284def2c42705804b1d541b1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20178-1945-12-12.md",
+      "sha256_publicacao_anterior": "1ed9de3d82d46da71b338c45d09282b0fb712558a315205e822e80c54d6956c5",
+      "sha256_atual": "1ed9de3d82d46da71b338c45d09282b0fb712558a315205e822e80c54d6956c5",
+      "sha256_fonte_html": "7d7588690d1009e06d2414285345b1ad678063ec8f428076e29f39ec1e11e285",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20177-1945-12-12.md",
+      "sha256_publicacao_anterior": "97944aa0bf5ab762c75e0ba8c3ecc4ec59b67b05de85d4bc457a6c5e29a8e691",
+      "sha256_atual": "97944aa0bf5ab762c75e0ba8c3ecc4ec59b67b05de85d4bc457a6c5e29a8e691",
+      "sha256_fonte_html": "03a9a0e4b7bd17ed6238dfd9a37ccec6f2205a6615d643529d3a1f8804b73f09",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20176-1945-12-12.md",
+      "sha256_publicacao_anterior": "e7efa8893406916896a0483cf366ba0145282238d18482e6c59e6c8fd2dace59",
+      "sha256_atual": "49d0908859539175086522a894cd085dc83ec26bffcaa5c5cffd8179400ff069",
+      "sha256_fonte_html": "faba4c68c9cfe00df9281278c1f324286ea9d1681f1b850c405d052eb4c9aea5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": false,
+      "revisao_manual": "Comando presidencial faz pública aplicação territorial de convenção; não usa artigos. Corpo decisório e fecho presentes; nota diplomática citada não está em nenhuma das duas transcrições oficiais consultadas, agora explicitada no documento."
+    },
+    {
+      "path": "federal/decretos/1945/dec-20175-1945-12-11.md",
+      "sha256_publicacao_anterior": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+      "sha256_atual": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+      "sha256_fonte_html": "7c0e050f99d8ae751d6817bcbb78c44bc2dd53336e198127122b74696d31c15f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20174-1945-12-11.md",
+      "sha256_publicacao_anterior": "c5c1d418d0b253739c85f55d8a398e60e64d2c24ae021729005e26e4d7d3b909",
+      "sha256_atual": "c5c1d418d0b253739c85f55d8a398e60e64d2c24ae021729005e26e4d7d3b909",
+      "sha256_fonte_html": "2cfcd19b3b2b0b31c03dabf20360a1f3a4aa51468d0a5309f90d8e2171b541d4",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20173-1945-12-10.md",
+      "sha256_publicacao_anterior": "edd0e340bfc7d9290465235db8ae47894ab6b03da4da5bcd04cab406b072ea23",
+      "sha256_atual": "edd0e340bfc7d9290465235db8ae47894ab6b03da4da5bcd04cab406b072ea23",
+      "sha256_fonte_html": "2c2b2a6abedcc3ae55279440e7249220b5f2b1201bc6c72cff3217d050857172",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20172-1945-12-10.md",
+      "sha256_publicacao_anterior": "c48f064e170951a539ebe44c08ee0e541fdc901c8bb0e649ccd4ef4fdf0e02f6",
+      "sha256_atual": "c48f064e170951a539ebe44c08ee0e541fdc901c8bb0e649ccd4ef4fdf0e02f6",
+      "sha256_fonte_html": "5ab7016034b3d8b97eac6edfe73808ff631babe27b962cf5dbf85b54fd9ec48e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20171-1945-12-10.md",
+      "sha256_publicacao_anterior": "a9d0e4f7e11e90774dc0a9653dc4d8539096c3572bb7c6cac6804183536b3fbb",
+      "sha256_atual": "a9d0e4f7e11e90774dc0a9653dc4d8539096c3572bb7c6cac6804183536b3fbb",
+      "sha256_fonte_html": "7e9341415f332b66f6c930af0d69aa1ea02adabb37ae1f60b657777b4a99131d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20170-1945-12-10.md",
+      "sha256_publicacao_anterior": "e12e8c648a29e1d4b5e0ff744ada049c5355da456c98a9120a3f1038b789028f",
+      "sha256_atual": "e12e8c648a29e1d4b5e0ff744ada049c5355da456c98a9120a3f1038b789028f",
+      "sha256_fonte_html": "975fdcbdc979c1b146ac38e0ceed8faab264d5256a9d296dd08d43587de12b3c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20169-1945-12-10.md",
+      "sha256_publicacao_anterior": "77058c473aeac06e117583662f99763e3f4d75775598e700ee5c721a53a46a49",
+      "sha256_atual": "77058c473aeac06e117583662f99763e3f4d75775598e700ee5c721a53a46a49",
+      "sha256_fonte_html": "ef826c86beefb005ca1c0c5600d582e882d65018bfc91b8919059ce381899cae",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20168-1945-12-10.md",
+      "sha256_publicacao_anterior": "27050ef9f558ce661f4a41fee2b9ec687ed709441623687ff5cd16e494e806ac",
+      "sha256_atual": "27050ef9f558ce661f4a41fee2b9ec687ed709441623687ff5cd16e494e806ac",
+      "sha256_fonte_html": "2e61ae4e1036e26b40de497fe23e7d9490f06ded76b92febef209b5c9f9d184c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20167-1945-12-10.md",
+      "sha256_publicacao_anterior": "fd19a8747853dbc52fced5c89d7dee6431425496646180f19e8253795d6a50b2",
+      "sha256_atual": "fd19a8747853dbc52fced5c89d7dee6431425496646180f19e8253795d6a50b2",
+      "sha256_fonte_html": "aba686019a82514d4e9a18cce7d58457686df7fad8efaf6d7f1638ebbb7c9115",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20166-1945-12-10.md",
+      "sha256_publicacao_anterior": "ec6f655e127d03def339ecd703c68acf57d9df91cdaca389125a2959414ffcc2",
+      "sha256_atual": "ec6f655e127d03def339ecd703c68acf57d9df91cdaca389125a2959414ffcc2",
+      "sha256_fonte_html": "c46172d353229cf811740012f1efc1504e2812e9540e5cfef3eee9959df508ed",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20165-1945-12-10.md",
+      "sha256_publicacao_anterior": "9a55df5047cd937ff63a822972c6406ce18eb8cfcea6c716da0e418b65933fe0",
+      "sha256_atual": "9a55df5047cd937ff63a822972c6406ce18eb8cfcea6c716da0e418b65933fe0",
+      "sha256_fonte_html": "69146ad51914a220a5434a00c86bd63f8ee41bd4093cfb02a3a52477dbe85266",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20164-1945-12-07.md",
+      "sha256_publicacao_anterior": "def76da94c9bcb10702e70757d048f036821d16189796bc5fc6161078c75e915",
+      "sha256_atual": "def76da94c9bcb10702e70757d048f036821d16189796bc5fc6161078c75e915",
+      "sha256_fonte_html": "59c618241d4f9ba4cf3cb094c67609eca7f173720018a7da757a96eabdc3efb7",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20163-1945-12-07.md",
+      "sha256_publicacao_anterior": "04d8ae84deb4aadf6ad0f6622fa4788d2fcbf678c33f0cdd01952d00107f83a3",
+      "sha256_atual": "04d8ae84deb4aadf6ad0f6622fa4788d2fcbf678c33f0cdd01952d00107f83a3",
+      "sha256_fonte_html": "450d3b51d55d7a8769c905204922daea8c70177aeef3b363ed10328cc3b71a13",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20162-1945-12-07.md",
+      "sha256_publicacao_anterior": "55e946746b3d44fe962730d4ad3cb7eec97f7805f8debe99fbc4fa2fefa8f1ef",
+      "sha256_atual": "55e946746b3d44fe962730d4ad3cb7eec97f7805f8debe99fbc4fa2fefa8f1ef",
+      "sha256_fonte_html": "3f7909b8cffeea260fe27ad23fccd3c7c3a1ab44a2a1d3ef4a4253d9e570e76a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20161-1945-12-07.md",
+      "sha256_publicacao_anterior": "607afba9212f7e6e69d0263770b6ac9841fe5ec42baa8badb0b59dd0cc269657",
+      "sha256_atual": "607afba9212f7e6e69d0263770b6ac9841fe5ec42baa8badb0b59dd0cc269657",
+      "sha256_fonte_html": "bed53a95c90877b22a05dd4697d9d405e0fb6453ca6ee102c542dfbb4a151e3a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20160-1945-12-07.md",
+      "sha256_publicacao_anterior": "8f1ba90f2b14d489e7fb76fbe2f56581d06ab798a5e0338541622efe96314300",
+      "sha256_atual": "8f1ba90f2b14d489e7fb76fbe2f56581d06ab798a5e0338541622efe96314300",
+      "sha256_fonte_html": "d2806980ae3f45d68c6948a30eab357cd2861808fcf3e4837b35b1295684f6bb",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20159-1945-12-07.md",
+      "sha256_publicacao_anterior": "fa7858ee7f89a9b377191fb178f26627f7261645dc3ec938f458eae735ba0d0b",
+      "sha256_atual": "fa7858ee7f89a9b377191fb178f26627f7261645dc3ec938f458eae735ba0d0b",
+      "sha256_fonte_html": "31605b3a4c7438dca71cfbe0d36e14e235068c69759b6f3eb34924e144a34d22",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20158-1945-12-07.md",
+      "sha256_publicacao_anterior": "a390e68ee070b71b41d818a866afc4079b315e4cbe90b68525bb68cb9dc30b0d",
+      "sha256_atual": "a390e68ee070b71b41d818a866afc4079b315e4cbe90b68525bb68cb9dc30b0d",
+      "sha256_fonte_html": "6f886b8a24864a69484ffb34894ca88f9c97297a1458602020075cf0ef316e2f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20157-1945-12-07.md",
+      "sha256_publicacao_anterior": "ac9b37201051cd030509004e78fb323746182fc768cce78f89a705eb38666edb",
+      "sha256_atual": "ac9b37201051cd030509004e78fb323746182fc768cce78f89a705eb38666edb",
+      "sha256_fonte_html": "ffe041f8c7d01947e3505c51f5f6739a475082de6e11727795a47f478eac46c1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20156-1945-12-06.md",
+      "sha256_publicacao_anterior": "bf8a00350880557a8dcaabbd17adc57a5e5e58be1a0fb072bb6843ded3f12913",
+      "sha256_atual": "bf8a00350880557a8dcaabbd17adc57a5e5e58be1a0fb072bb6843ded3f12913",
+      "sha256_fonte_html": "e8e2548b1d23948b7b9bd9f8e4b0d9f0d4ba1e40b57cfa6246d02652af80ccd2",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20155-1945-12-06.md",
+      "sha256_publicacao_anterior": "1d8160ab879899ee8b29d8c0152fca730db508f5149b4fec8b2c25f2683c7078",
+      "sha256_atual": "1d8160ab879899ee8b29d8c0152fca730db508f5149b4fec8b2c25f2683c7078",
+      "sha256_fonte_html": "f00d722cd3ba16c773c117b922711ec85b77137f8d2301751239705c1441bc92",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20154-1945-12-06.md",
+      "sha256_publicacao_anterior": "850a8b6899c57f069c5488c18a331990eda5ba90f9b47f6dc9eb4bff388ea948",
+      "sha256_atual": "850a8b6899c57f069c5488c18a331990eda5ba90f9b47f6dc9eb4bff388ea948",
+      "sha256_fonte_html": "34724b52d53dd246fbb39c635632ce33484d859201636b331b09c9584548ee44",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20153-1945-12-06.md",
+      "sha256_publicacao_anterior": "458c545c67eef4d9cf8b974709be861fd07e3e8ab5e25d1e9fa9ede1389350b3",
+      "sha256_atual": "458c545c67eef4d9cf8b974709be861fd07e3e8ab5e25d1e9fa9ede1389350b3",
+      "sha256_fonte_html": "7068209da496ce1ba3bbf8f5ccd7e474cf4c2edd6e582a57405fdfb7a79462d0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20152-1945-12-06.md",
+      "sha256_publicacao_anterior": "8b17805f89057e5c472f45d12edbcbd9f907a45129c4c53175510bf6344405e0",
+      "sha256_atual": "8b17805f89057e5c472f45d12edbcbd9f907a45129c4c53175510bf6344405e0",
+      "sha256_fonte_html": "22ad2c432268722a00ea31dc06d878a9e08027212cf1c1247d547707de4cc332",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20151-1945-12-06.md",
+      "sha256_publicacao_anterior": "58b91152741b238cf5a2c3afff82c3de26a8091f1f83edaf09478d91f22772c7",
+      "sha256_atual": "58b91152741b238cf5a2c3afff82c3de26a8091f1f83edaf09478d91f22772c7",
+      "sha256_fonte_html": "b8d27b737df812775f334f621a49dc53dbd2418d9f4027f1d2b9a47ad8a2a533",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20150-1945-12-06.md",
+      "sha256_publicacao_anterior": "9810af8a96090ea750b0937cd19b720464062132deed0f344bc42445803fcd01",
+      "sha256_atual": "9810af8a96090ea750b0937cd19b720464062132deed0f344bc42445803fcd01",
+      "sha256_fonte_html": "54759f727d00c630334bb1feee2238d9aad2954b13104129645e53917d322ff0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20149-1945-12-06.md",
+      "sha256_publicacao_anterior": "74503fb005b92cce50360931090135de79e0380bdd79d0d886539a12c88b36f5",
+      "sha256_atual": "74503fb005b92cce50360931090135de79e0380bdd79d0d886539a12c88b36f5",
+      "sha256_fonte_html": "99da27c04964008a728e00da888dc3b0d043d063aaeaff03f431623730f840c8",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20148-1945-12-06.md",
+      "sha256_publicacao_anterior": "a27b2b75686cc3ae59d7648f050aad91b39afbc50726e3b904ed716d2d602a2a",
+      "sha256_atual": "a27b2b75686cc3ae59d7648f050aad91b39afbc50726e3b904ed716d2d602a2a",
+      "sha256_fonte_html": "24dad2d3f451db3f2574663462cb2e8376a8fbd75770722db5fb5780e0fba4f6",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20147-1945-12-06.md",
+      "sha256_publicacao_anterior": "c1e3ac051c9fa061f00d5c052dc0c7c8c3f9cc5321242de9a51ac79f35de06c1",
+      "sha256_atual": "c1e3ac051c9fa061f00d5c052dc0c7c8c3f9cc5321242de9a51ac79f35de06c1",
+      "sha256_fonte_html": "e132bb9c968c6de67d05ac15fc748a1d7f7b71991d469746bff18a05b5a74f4b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20146-1945-12-06.md",
+      "sha256_publicacao_anterior": "d131ef2e45c17ef8884dd960018f6f7e3e5e97c5277c5d017c722fc3e4143b11",
+      "sha256_atual": "d131ef2e45c17ef8884dd960018f6f7e3e5e97c5277c5d017c722fc3e4143b11",
+      "sha256_fonte_html": "e8c42213df180f743c3ea4a8d0d1679ef2802117bc551228b598cd33eaf13801",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20145-1945-12-06.md",
+      "sha256_publicacao_anterior": "6f3b466104f01a75b166391435f24bf878899b94c76322a06dc0462360b15264",
+      "sha256_atual": "6f3b466104f01a75b166391435f24bf878899b94c76322a06dc0462360b15264",
+      "sha256_fonte_html": "936bb9d025a82e7028e7af9b8f3f6b7908f014fb46b047a53850c2290cc7dbdd",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20144-1945-12-06.md",
+      "sha256_publicacao_anterior": "3132ca52ce2d92e934db85dd73414135a1438ea36c61958caa198f1121f9c680",
+      "sha256_atual": "3132ca52ce2d92e934db85dd73414135a1438ea36c61958caa198f1121f9c680",
+      "sha256_fonte_html": "400abd75a60749b4219092172b0f9ef8cd44a8f4c20b93202b50ad67e7ad7e7e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20143-1945-12-06.md",
+      "sha256_publicacao_anterior": "8cf9b0e309dd55834e340127591417f3e3336d9fb94c70f614decf26c0af027d",
+      "sha256_atual": "8cf9b0e309dd55834e340127591417f3e3336d9fb94c70f614decf26c0af027d",
+      "sha256_fonte_html": "820da68d85d757752e331dad23f60c452721ebce7c57284386539e785c391bed",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20140-1945-12-06.md",
+      "sha256_publicacao_anterior": "272f23656d96b31f116c1f0b1d445e3987ab79eef7b9d8f751320d9cc3b8bda1",
+      "sha256_atual": "272f23656d96b31f116c1f0b1d445e3987ab79eef7b9d8f751320d9cc3b8bda1",
+      "sha256_fonte_html": "0a48f914eceb682ae12c4ac2b8b9264038ab6db0d61aad79e975af89566e1c3d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20139-1945-12-06.md",
+      "sha256_publicacao_anterior": "da3bd755a721b2020687e6fc49d6c54fb00708df70adeb8e5eb08e6101946d4b",
+      "sha256_atual": "da3bd755a721b2020687e6fc49d6c54fb00708df70adeb8e5eb08e6101946d4b",
+      "sha256_fonte_html": "80ab0a5c99c803680284217b9c38327cfd86614bf7593d58785615cb0286c66a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20138-1945-12-06.md",
+      "sha256_publicacao_anterior": "503b4e78c87836070fa133a39b88615a55a69b649f99e2ac57121af678fa1e28",
+      "sha256_atual": "503b4e78c87836070fa133a39b88615a55a69b649f99e2ac57121af678fa1e28",
+      "sha256_fonte_html": "8cb7c921397c4057583e605bd4b31e2b8d0d815015ea7a6f0748f616a3b68220",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20137-1945-12-05.md",
+      "sha256_publicacao_anterior": "2205ee3a9488f446544f83a17b8d2dec058fc222041633a7ffd184ad9638c563",
+      "sha256_atual": "2205ee3a9488f446544f83a17b8d2dec058fc222041633a7ffd184ad9638c563",
+      "sha256_fonte_html": "578888ca8eca33e96c5f5b2fb3fa10b75cf1fb419e431f2c18c55cb862490db8",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20136-1945-12-05.md",
+      "sha256_publicacao_anterior": "1e9017367d1191adc36c42570ad4b3a6aca7b37902fb4564a033bac28d20c603",
+      "sha256_atual": "1e9017367d1191adc36c42570ad4b3a6aca7b37902fb4564a033bac28d20c603",
+      "sha256_fonte_html": "d3e3f4f316c176bfaeeb96d027da3ecb468f3f51f5ffdafc6ddf8cb2f712741d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20135-1945-12-05.md",
+      "sha256_publicacao_anterior": "0d39e92d55836d9a5b8282c40eeac1858e82005b25d3c731836c7a544f4acbe0",
+      "sha256_atual": "0d39e92d55836d9a5b8282c40eeac1858e82005b25d3c731836c7a544f4acbe0",
+      "sha256_fonte_html": "51eaba37d3d51970d597bd0087d75ef9b2f17af193068950806169d86e99ba4d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20134-1945-12-05.md",
+      "sha256_publicacao_anterior": "419b722b8c27c225664c629d424f417ed91a07f8b47d4d72e18d54d0236bdbf9",
+      "sha256_atual": "419b722b8c27c225664c629d424f417ed91a07f8b47d4d72e18d54d0236bdbf9",
+      "sha256_fonte_html": "d6f4c1d414b7171dc895e211e5073f561b583a48116be77f2c35b42aebe94ff3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20133-1945-12-05.md",
+      "sha256_publicacao_anterior": "61ba2c05c76102e402cd8c79e73019395468d8de966aea64084d25e7c1faf144",
+      "sha256_atual": "61ba2c05c76102e402cd8c79e73019395468d8de966aea64084d25e7c1faf144",
+      "sha256_fonte_html": "f47fdf260d21db82396409079734d27fc42112d1b7ee8c43f9027c49144a114e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20132-1945-12-05.md",
+      "sha256_publicacao_anterior": "bcf370566b65dd7930c0e602dd198909823e251c867e3ab7739fb015f826855f",
+      "sha256_atual": "bcf370566b65dd7930c0e602dd198909823e251c867e3ab7739fb015f826855f",
+      "sha256_fonte_html": "559c54a662a8c736af684596a8f52c9602d2bac9a6ffd230b5b71894572e5fe6",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20131-1945-12-05.md",
+      "sha256_publicacao_anterior": "db2855afc3e299c79cca5437c55ecced10c2897ac3af5c5e6b03164ca5c93a7a",
+      "sha256_atual": "db2855afc3e299c79cca5437c55ecced10c2897ac3af5c5e6b03164ca5c93a7a",
+      "sha256_fonte_html": "d8ef622c0ff944702c55ac188bbd2f8fcccddef66327197da8e63b27f9709ce6",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20130-1945-12-05.md",
+      "sha256_publicacao_anterior": "947accdba222d8b0c9fc3faf6cdcba274c6c9d00c906e331ed6a8ed2e8f1777c",
+      "sha256_atual": "947accdba222d8b0c9fc3faf6cdcba274c6c9d00c906e331ed6a8ed2e8f1777c",
+      "sha256_fonte_html": "63b384f5b9d9b4b250cfb2f43c40ff01ee14948d1ef231bc18a9e96f45b06e7f",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20129-1945-12-04.md",
+      "sha256_publicacao_anterior": "9f0426c800a34e2a26baf0eb2e9941a86b2b8339388685926f4e60b81b589bc9",
+      "sha256_atual": "9f0426c800a34e2a26baf0eb2e9941a86b2b8339388685926f4e60b81b589bc9",
+      "sha256_fonte_html": "5c2b82dec45abb0d35f4426bf5681c521812afd2aef57fdec81313a88cb38c98",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20128-1945-12-04.md",
+      "sha256_publicacao_anterior": "8694fe427afddc0068621b7b0675710a9af87beccecef996475a7f028788af94",
+      "sha256_atual": "8694fe427afddc0068621b7b0675710a9af87beccecef996475a7f028788af94",
+      "sha256_fonte_html": "60a91190280011f7204dc0e1bcf37219893f50ae0a88e1678c6f954f92f7b3d9",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20127-1945-12-04.md",
+      "sha256_publicacao_anterior": "6893b2268baa1dbe749de60607eb0a940eb99cf4a59d862703b53b7527e917e0",
+      "sha256_atual": "6893b2268baa1dbe749de60607eb0a940eb99cf4a59d862703b53b7527e917e0",
+      "sha256_fonte_html": "aa4496d5c7d3c101a5485b8e34582c896fac69993031694ee69b3cac29ef67fb",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20126-1945-12-04.md",
+      "sha256_publicacao_anterior": "1c06f3ea63c33cb4ce2bb4e4e33662c1638c7865b1426c81dcaf15245d197e5a",
+      "sha256_atual": "1c06f3ea63c33cb4ce2bb4e4e33662c1638c7865b1426c81dcaf15245d197e5a",
+      "sha256_fonte_html": "93f5cbea1162ad3ad0615067f25da791cc94ae574af27c5aa6b34d74b57d6d7a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20125-1945-12-04.md",
+      "sha256_publicacao_anterior": "1a6d6e7c971a24e1472e17295d183da8fdb306efce1d5fc02d60f71093e1c619",
+      "sha256_atual": "1a6d6e7c971a24e1472e17295d183da8fdb306efce1d5fc02d60f71093e1c619",
+      "sha256_fonte_html": "c62985def53d09a8ec456c03670fe0f8187de5feeeae52e3da0cf8876c562e4d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20124-1945-12-04.md",
+      "sha256_publicacao_anterior": "8b1ead15de81b437780636992dc283e6d4b86b4b081f4118bd69a578f607e53a",
+      "sha256_atual": "8b1ead15de81b437780636992dc283e6d4b86b4b081f4118bd69a578f607e53a",
+      "sha256_fonte_html": "eb1e97a7f3380f1285ff886ff0c2ed2936da043ac6abb0e3d8216c6e1af36bc0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20123-1945-12-04.md",
+      "sha256_publicacao_anterior": "efe40206f53d92f92734cf08194d93a57171976daaf8386300078a042bd96faf",
+      "sha256_atual": "efe40206f53d92f92734cf08194d93a57171976daaf8386300078a042bd96faf",
+      "sha256_fonte_html": "89505c1d99be144773566f9f4ff688670cb7239ac8e3baa5be5510bb8e5b6b02",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20122-1945-12-04.md",
+      "sha256_publicacao_anterior": "273e8dea3995bffc476e0ee7b023edb7f059505058bc7aee311fd1d05d80dce7",
+      "sha256_atual": "273e8dea3995bffc476e0ee7b023edb7f059505058bc7aee311fd1d05d80dce7",
+      "sha256_fonte_html": "e872edeea4c269aab7d9071fd956c6c35976339a8d448ab69cec8bbade9c66e5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20121-1945-12-04.md",
+      "sha256_publicacao_anterior": "91ec0d63c9277c5b27b6f8dd1f280bfbc8c27f70698cf36b8d536ca8d330c5b8",
+      "sha256_atual": "91ec0d63c9277c5b27b6f8dd1f280bfbc8c27f70698cf36b8d536ca8d330c5b8",
+      "sha256_fonte_html": "2a6c2923dcb1257f9aa2611158964036fb654b28a3274a3cd4c587804c2a732e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20120-1945-12-04.md",
+      "sha256_publicacao_anterior": "5dd71f2ee678376775e5569da0d015e1fe1bbdd08b543cb03407dd4826d7ecde",
+      "sha256_atual": "5dd71f2ee678376775e5569da0d015e1fe1bbdd08b543cb03407dd4826d7ecde",
+      "sha256_fonte_html": "3b7273aebb325fd761a9e07c438eca0a3d361e5b281131a3df69f7103fa60601",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20119-1945-12-04.md",
+      "sha256_publicacao_anterior": "f5243998973e8fa3d07daf1064d1efa38492263cfed1ca0dd162dfe5144234fa",
+      "sha256_atual": "f5243998973e8fa3d07daf1064d1efa38492263cfed1ca0dd162dfe5144234fa",
+      "sha256_fonte_html": "305024359e99755130c7a9fedadb7a0f99ca5caff29180ec41bd398fc98fc5d1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20118-1945-12-04.md",
+      "sha256_publicacao_anterior": "334cc87b3685555de21f56ab3ace684b89c25aa4fb49f3f4bf1b3547ca76af90",
+      "sha256_atual": "334cc87b3685555de21f56ab3ace684b89c25aa4fb49f3f4bf1b3547ca76af90",
+      "sha256_fonte_html": "5d9793fcbadced91d7cd98f7b608e66be22387afb1b924a6cb576f67b974054c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20117-1945-12-04.md",
+      "sha256_publicacao_anterior": "e076777cedba374435d17fa680930f6f671e09f9532bbbd1d5c767880b024973",
+      "sha256_atual": "e076777cedba374435d17fa680930f6f671e09f9532bbbd1d5c767880b024973",
+      "sha256_fonte_html": "8ccd198aa75e6ef60e8aee88115f917e1ae1da2d23bd1322d733a4df75d28720",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20116-1945-12-04.md",
+      "sha256_publicacao_anterior": "91bd44652641a555f324f757f8388b7d56ee7cf4393b1a7b0cf313bda3c864a4",
+      "sha256_atual": "91bd44652641a555f324f757f8388b7d56ee7cf4393b1a7b0cf313bda3c864a4",
+      "sha256_fonte_html": "9a8b352c51e6ef422ae8c7973980356fdd1440cd0861ee024d71779ad7a51a68",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20115-1945-12-04.md",
+      "sha256_publicacao_anterior": "0fe6a20077c8009ed176a309bd6c673f1348f8a121dd201efaececf1dc2531ff",
+      "sha256_atual": "0fe6a20077c8009ed176a309bd6c673f1348f8a121dd201efaececf1dc2531ff",
+      "sha256_fonte_html": "d0954e4837272551d706a41d1bee3f59beb0069025e731b73a44af72286bf622",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20114-1945-12-04.md",
+      "sha256_publicacao_anterior": "8dd5c57cad25c880fbfe4f28afbc80ecf6ec6b0b151556f17c9f6f5fd2d306d2",
+      "sha256_atual": "8dd5c57cad25c880fbfe4f28afbc80ecf6ec6b0b151556f17c9f6f5fd2d306d2",
+      "sha256_fonte_html": "06a201a49485c8c78a7047b1a3733ba0e0134c0644d2f711f480d7dbf096a95e",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20113-1945-12-04.md",
+      "sha256_publicacao_anterior": "f69d153e81813d3256a01faf4400ff430a535276d8b9720eab1aaaf8a21a3921",
+      "sha256_atual": "f69d153e81813d3256a01faf4400ff430a535276d8b9720eab1aaaf8a21a3921",
+      "sha256_fonte_html": "77036b908e1049e78192ea0bedf6b3719a89a882ac10f3a5bdb6ed9dbd2627e1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20112-1945-12-04.md",
+      "sha256_publicacao_anterior": "f228e782e7c4571fd0ba3634bb4c524596b4fedcbe2eb839637ff86793424881",
+      "sha256_atual": "f228e782e7c4571fd0ba3634bb4c524596b4fedcbe2eb839637ff86793424881",
+      "sha256_fonte_html": "772c1c812123683cc2c92a5891fb4327aac35dfe7aab2a99e4f3740dd202ed93",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20111-1945-12-04.md",
+      "sha256_publicacao_anterior": "db974604c13390fc64cd6c9bea17cc1d48161ab5a877c161f40f850d5fbdedfd",
+      "sha256_atual": "db974604c13390fc64cd6c9bea17cc1d48161ab5a877c161f40f850d5fbdedfd",
+      "sha256_fonte_html": "fe4f34b534a886d60797c84513ef436d1bdbc91b78427fcfd67faa86c005e144",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20110-1945-12-04.md",
+      "sha256_publicacao_anterior": "b7bb0faf40a2746f51618a5cc955566293a9301b899c8b0d34589029368bd895",
+      "sha256_atual": "b7bb0faf40a2746f51618a5cc955566293a9301b899c8b0d34589029368bd895",
+      "sha256_fonte_html": "f19b150093c6ebf868ae1e467abca9eb7114c358e299ef57c2f9e0e601818d47",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20109-1945-12-04.md",
+      "sha256_publicacao_anterior": "428ccd73aa87ef95e38b96107c9ee9e41c08a676e843872db2cf4c93b364f72c",
+      "sha256_atual": "428ccd73aa87ef95e38b96107c9ee9e41c08a676e843872db2cf4c93b364f72c",
+      "sha256_fonte_html": "df184f023ee1a4a715a3e8da931277b8f91137f8a56297546986a4db423b992a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20108-1945-12-04.md",
+      "sha256_publicacao_anterior": "13ff73eb51438adf98e633a9f811baefe042457a0edebb8d93bc7defee38ffba",
+      "sha256_atual": "13ff73eb51438adf98e633a9f811baefe042457a0edebb8d93bc7defee38ffba",
+      "sha256_fonte_html": "3074c17aad7ed401807d9ce2aa8f8bde3594767ec7abe218316497e335916b3b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20107-1945-12-04.md",
+      "sha256_publicacao_anterior": "5c5d8a3ea64b921bd0911fac3cd3c44ceb59ec26dc194b9a9e409ad3a84b4abd",
+      "sha256_atual": "5c5d8a3ea64b921bd0911fac3cd3c44ceb59ec26dc194b9a9e409ad3a84b4abd",
+      "sha256_fonte_html": "9969956678b2da4d274ea0c512e2f5ef681b5bb5f8211355fb8cd338cbe3f733",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20106-1945-12-04.md",
+      "sha256_publicacao_anterior": "12b8b80b14fa369803244cf009246870aa3ca2e3d5a901da1386741f6a913a95",
+      "sha256_atual": "12b8b80b14fa369803244cf009246870aa3ca2e3d5a901da1386741f6a913a95",
+      "sha256_fonte_html": "ed44cc623eb73f206125e341e986dee6a780fbc5332aa0cdebc003b92c806422",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20105-1945-12-04.md",
+      "sha256_publicacao_anterior": "55b62c31526bc26b20de41a89e4b5988fe4cb4f70a27e3624b0be8001d4a073b",
+      "sha256_atual": "55b62c31526bc26b20de41a89e4b5988fe4cb4f70a27e3624b0be8001d4a073b",
+      "sha256_fonte_html": "e3d94a9dda8231f92d51cd1356819da101fb4f1769be6966999ba4d9fa0d46ad",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20104-1945-12-04.md",
+      "sha256_publicacao_anterior": "49655ec2573f0ccc00b030a8f57aab752979336d719147223c01381d010ab7ee",
+      "sha256_atual": "49655ec2573f0ccc00b030a8f57aab752979336d719147223c01381d010ab7ee",
+      "sha256_fonte_html": "954d009f17b6823f1a422f6ca1f3a6b8fc0f13e89feca65a3a2694e07f316136",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20103-1945-12-04.md",
+      "sha256_publicacao_anterior": "0c064ef235f8553302006afed9ad19278414249a48cc46df1fde94a806b7e9b2",
+      "sha256_atual": "0c064ef235f8553302006afed9ad19278414249a48cc46df1fde94a806b7e9b2",
+      "sha256_fonte_html": "eb6bbe338bbc62fd8d74902c62b762abc8fcab35270a03a9246bfdba33a48881",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20102-1945-12-04.md",
+      "sha256_publicacao_anterior": "62cc7fd4aa46979e87a1ce448fc8fa1be10c12261a166833ee0e6876a0a0c659",
+      "sha256_atual": "62cc7fd4aa46979e87a1ce448fc8fa1be10c12261a166833ee0e6876a0a0c659",
+      "sha256_fonte_html": "a9775505752a079578d36cf2d49d76e4d1de0c40c78e4c4dd30d61f1c3af5953",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20101-1945-12-04.md",
+      "sha256_publicacao_anterior": "b07b25a4aa6b5eb923425d434aea5583cd6f3a1752a2b200cec329b717ecad89",
+      "sha256_atual": "b07b25a4aa6b5eb923425d434aea5583cd6f3a1752a2b200cec329b717ecad89",
+      "sha256_fonte_html": "f1e236cf7e0c9cc01ce2d58e69cf954396e36fc9e1126bb1473b1f1bda8da12d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20100-1945-12-04.md",
+      "sha256_publicacao_anterior": "da617824782815e2c919d06a3fa2e88cc0ef4b15bfc232e695d97a549bfd68b4",
+      "sha256_atual": "da617824782815e2c919d06a3fa2e88cc0ef4b15bfc232e695d97a549bfd68b4",
+      "sha256_fonte_html": "84b64bab37c55b29174759845a4fc5c1ef48752b9efb1fd193aaf6c8ba0396b2",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20099-1945-12-04.md",
+      "sha256_publicacao_anterior": "c06c384c3b270cca543f0772a9fca0f104eb8547d3dedfd11909e32369911cfe",
+      "sha256_atual": "c06c384c3b270cca543f0772a9fca0f104eb8547d3dedfd11909e32369911cfe",
+      "sha256_fonte_html": "cc0f589740378af1474de43acc6c9472673bc843b44448fcc3cbd3f2eeaab35c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20098-1945-12-04.md",
+      "sha256_publicacao_anterior": "6eb2e2d337860de2bbb98708530d2a3a21d07f5e35a2180a09a409f0f226f32a",
+      "sha256_atual": "6eb2e2d337860de2bbb98708530d2a3a21d07f5e35a2180a09a409f0f226f32a",
+      "sha256_fonte_html": "aa3967e1cf85fee06c0731a6353b1f1761b01dd77861f6f0b516ec52ef78100d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20097-1945-12-04.md",
+      "sha256_publicacao_anterior": "bb1f8070b2f6961e9297dbc71a0cd9028e21a52dbd9c239657d0b7cb2cefa3de",
+      "sha256_atual": "bb1f8070b2f6961e9297dbc71a0cd9028e21a52dbd9c239657d0b7cb2cefa3de",
+      "sha256_fonte_html": "c263e4c2f3d8217e618f6adbbad1afeec7692501bd4f82547505df304d428f55",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20096-1945-12-04.md",
+      "sha256_publicacao_anterior": "ae9bb91751fdabd5f2a0ec31ad79ad2dc1b43e7e5aa74a9b5c7a8814ab89766b",
+      "sha256_atual": "ae9bb91751fdabd5f2a0ec31ad79ad2dc1b43e7e5aa74a9b5c7a8814ab89766b",
+      "sha256_fonte_html": "41b0297a2a8e9d6f54db18d08a75188bf3d7baa7de60cb07211a2f4925377f51",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20095-1945-12-04.md",
+      "sha256_publicacao_anterior": "b0086e8554375bf414a54d12f2b950164736bb32c2cf91ab1b7ac7d1f159b4e4",
+      "sha256_atual": "b0086e8554375bf414a54d12f2b950164736bb32c2cf91ab1b7ac7d1f159b4e4",
+      "sha256_fonte_html": "71ad6ecc15f0135be547ed6dfc31f1978653ec104d6ceff63cb81565f026413b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20094-1945-12-04.md",
+      "sha256_publicacao_anterior": "a9f3f5fe6661f9c0a3b9ea85c1fe3bfeae46b76a3422f0373608a87e7be59437",
+      "sha256_atual": "a9f3f5fe6661f9c0a3b9ea85c1fe3bfeae46b76a3422f0373608a87e7be59437",
+      "sha256_fonte_html": "1cd6a30428a8b4a8b5b16db99420c0214b4abf1e9dde89fa679896e1133858d0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20093-1945-12-04.md",
+      "sha256_publicacao_anterior": "a4a3641272743229f06421dd77074a8b3015806647f90cda65ce43c57431f395",
+      "sha256_atual": "a4a3641272743229f06421dd77074a8b3015806647f90cda65ce43c57431f395",
+      "sha256_fonte_html": "be364f9b165285c5f7f23cb47060c477782606890bf33b69c93380f0fb2d88f2",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20092-1945-12-04.md",
+      "sha256_publicacao_anterior": "9c860b339780675a9c6705dec8a9972b4ecae3c83b5f6b52f851b34351dec02f",
+      "sha256_atual": "9c860b339780675a9c6705dec8a9972b4ecae3c83b5f6b52f851b34351dec02f",
+      "sha256_fonte_html": "8cb732272b6c91fcf31dc0bcf402c585e8c45e3da339224f1ff538e73e7c9881",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20091-1945-12-04.md",
+      "sha256_publicacao_anterior": "3581ab49f8a73b4c2c600b790204e1ab9bac8272383f21e2ebda183a36b7825d",
+      "sha256_atual": "3581ab49f8a73b4c2c600b790204e1ab9bac8272383f21e2ebda183a36b7825d",
+      "sha256_fonte_html": "90d873bd3fad0850d4940326e6bee244510ba9d79af8f358d4a03b7bbde92f56",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20090-1945-12-04.md",
+      "sha256_publicacao_anterior": "1c5772c65f89d566883a8ad8bee5d176c3098c78643e9d749d5473527a7c14de",
+      "sha256_atual": "1c5772c65f89d566883a8ad8bee5d176c3098c78643e9d749d5473527a7c14de",
+      "sha256_fonte_html": "c56502b4aaa65302c6950d34f00da85a62510cd4292facef35002d12c4da6b72",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20089-1945-12-04.md",
+      "sha256_publicacao_anterior": "501d1ccf3c570b3f6245139f2ff81bcf161887205412276df1c1a13198997a67",
+      "sha256_atual": "501d1ccf3c570b3f6245139f2ff81bcf161887205412276df1c1a13198997a67",
+      "sha256_fonte_html": "381d13de2f14a6d15a115a7de6e5b4bb6714056f7aa93726fefcaa6755700ac9",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20088-1945-12-04.md",
+      "sha256_publicacao_anterior": "82be966d68186dbff3f9c2e36548f3c7383e09041e7f4a0a9d5890bb50d9a46e",
+      "sha256_atual": "82be966d68186dbff3f9c2e36548f3c7383e09041e7f4a0a9d5890bb50d9a46e",
+      "sha256_fonte_html": "fa908255f07a261868f4cb46db149e45a282a59c99b278cdee1c669804d6ef28",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20087-1945-12-04.md",
+      "sha256_publicacao_anterior": "2d7a8aef2215217d7858367afc4584f856d135b6fbaa64ce6ac31ad37c213b61",
+      "sha256_atual": "2d7a8aef2215217d7858367afc4584f856d135b6fbaa64ce6ac31ad37c213b61",
+      "sha256_fonte_html": "5e43583feafc3e956a17319cb8f780f3418e046bd77decfcc838096957390133",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20086-1945-12-04.md",
+      "sha256_publicacao_anterior": "972927384cb2208a61d4f505ad29bb0e0ab3a3456e059c39dda7bc8b50d4ed95",
+      "sha256_atual": "972927384cb2208a61d4f505ad29bb0e0ab3a3456e059c39dda7bc8b50d4ed95",
+      "sha256_fonte_html": "3d6a6342a2cc0b032840a78de5a029f306e6c9f7cc4198e6ba84f1678a5d4e53",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20085-1945-12-04.md",
+      "sha256_publicacao_anterior": "c84d13a761b969899a43a9ef4c7c28b46e9bab59d1e4d2d3067b88d4d6cfb760",
+      "sha256_atual": "c84d13a761b969899a43a9ef4c7c28b46e9bab59d1e4d2d3067b88d4d6cfb760",
+      "sha256_fonte_html": "5d2633acbd54716607a52161a5c4d4f6907c3933da5e95fe8477052c2b0360b0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20084-1945-12-04.md",
+      "sha256_publicacao_anterior": "1f978f0af466ae12d4a941ffed566b8ecc58c4ca96eb9d4926dcd7459a4d99b5",
+      "sha256_atual": "1f978f0af466ae12d4a941ffed566b8ecc58c4ca96eb9d4926dcd7459a4d99b5",
+      "sha256_fonte_html": "453d3aca91ede792dae34d20b7fea84276179a86c7cc50409fc014506c50e2e1",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20083-1945-12-03.md",
+      "sha256_publicacao_anterior": "91396426bec0ec125dd8f59b3ada3b326cfa00c6ee3ee4506b644705f5a1306a",
+      "sha256_atual": "91396426bec0ec125dd8f59b3ada3b326cfa00c6ee3ee4506b644705f5a1306a",
+      "sha256_fonte_html": "74bd8363fbd0164001e2d71245a9eeefb1b85636e113b6f5c62e6a6085ee9169",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": false,
+      "revisao_manual": "Comando presidencial arbitra gratificações diretamente; não usa artigos. Decisão, valores e fecho próprios presentes."
+    },
+    {
+      "path": "federal/decretos/1945/dec-20082-1945-12-03.md",
+      "sha256_publicacao_anterior": "240b28d47564cdeab6fdc8c4f03ffeaf0a23cac948dd8dd8c2eade89e3238205",
+      "sha256_atual": "240b28d47564cdeab6fdc8c4f03ffeaf0a23cac948dd8dd8c2eade89e3238205",
+      "sha256_fonte_html": "1ecefa537beff3b0f4fa22901d57eeec9e9e3b9d8cb549a804a237e0de0d1c7c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20081-1945-11-30.md",
+      "sha256_publicacao_anterior": "0f105a49105a95acf5806dabfbf713d815b58ac3b48d493f33cd1f60b08921f4",
+      "sha256_atual": "0f105a49105a95acf5806dabfbf713d815b58ac3b48d493f33cd1f60b08921f4",
+      "sha256_fonte_html": "0d5f955bc574b44b4b6eff02e85723928c701cbca3dea58540f1bfcceb181cb0",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20080-1945-11-30.md",
+      "sha256_publicacao_anterior": "58c4237bd9f38e7ed26779b9c1da312f557d456282548da3fa45d56944cca2da",
+      "sha256_atual": "58c4237bd9f38e7ed26779b9c1da312f557d456282548da3fa45d56944cca2da",
+      "sha256_fonte_html": "7637cbe64ed03ff88b726e8c4423c5fd750f75ae682f30cd2c963153351c621b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20079-1945-11-30.md",
+      "sha256_publicacao_anterior": "ff374ccd201939847326d997089927284ed6e2cfe56642ab2e3ed696b4477942",
+      "sha256_atual": "ff374ccd201939847326d997089927284ed6e2cfe56642ab2e3ed696b4477942",
+      "sha256_fonte_html": "38fbb199415c4d8741334f46c74f0bac21d4c906d3a1d5d0483b16dec7647809",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20078-1945-11-30.md",
+      "sha256_publicacao_anterior": "a57338e6d25c7ea291c8b8b704244ec171adbee84651631c78b611bb8fa043e8",
+      "sha256_atual": "a57338e6d25c7ea291c8b8b704244ec171adbee84651631c78b611bb8fa043e8",
+      "sha256_fonte_html": "06c779f1d3422f252e7fb0ccda85ada668d7dce521b1f8a30f61bebaf4bb358a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20077-1945-11-30.md",
+      "sha256_publicacao_anterior": "cfe6abffbbdef5376e2d217bf2509ac2455697eec6f108c5102bd8524023dbcd",
+      "sha256_atual": "cfe6abffbbdef5376e2d217bf2509ac2455697eec6f108c5102bd8524023dbcd",
+      "sha256_fonte_html": "593f42c298127f888f98b112c99e26dbf5ce63639ce345a679a9efc1b33847d3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20076-1945-11-30.md",
+      "sha256_publicacao_anterior": "a98eeb5d4e2b21f7031de961f978f9ae5777ae3974c5365f5511517f360476d0",
+      "sha256_atual": "a98eeb5d4e2b21f7031de961f978f9ae5777ae3974c5365f5511517f360476d0",
+      "sha256_fonte_html": "3b8f0226cd1f2028f25a3a97696e81728e95523ab480ae8056e44d4c6257e234",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20075-1945-11-30.md",
+      "sha256_publicacao_anterior": "11c319e3178ff46f0b6a7e4e16aad3c1ff1814ad463dbb54aae8dc121bd01ae2",
+      "sha256_atual": "11c319e3178ff46f0b6a7e4e16aad3c1ff1814ad463dbb54aae8dc121bd01ae2",
+      "sha256_fonte_html": "4903c9fb9c978e36f4f0fd481df110a94e1d120c85b1e18919f6ae12885970b5",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20074-1945-11-30.md",
+      "sha256_publicacao_anterior": "8267f66f1629bf530d52b6f8a24bed7e8b216bad325a556895e5fe57a8f080a7",
+      "sha256_atual": "8267f66f1629bf530d52b6f8a24bed7e8b216bad325a556895e5fe57a8f080a7",
+      "sha256_fonte_html": "1ffe1fe384aea1d9e31fbac4b1b15bed82ed2e9557002bdd03dc2551e01e4e4b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20073-1945-11-30.md",
+      "sha256_publicacao_anterior": "03bdbc2a3e1a91faeb2e4a5bba3bf5a28312f5a0268b4edea3392aaf14e52681",
+      "sha256_atual": "03bdbc2a3e1a91faeb2e4a5bba3bf5a28312f5a0268b4edea3392aaf14e52681",
+      "sha256_fonte_html": "e808efd65fe8d1ab7291fa59191e2b29fc243f194dd57efb1385b5f58c38bb57",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20072-1945-11-30.md",
+      "sha256_publicacao_anterior": "31d6961f18ed46882ce4e67bfdb0c203422af824ad9f5f8c56d17bf55cec882d",
+      "sha256_atual": "31d6961f18ed46882ce4e67bfdb0c203422af824ad9f5f8c56d17bf55cec882d",
+      "sha256_fonte_html": "280b542d0f35da333e38aa665afe36e578fa027d4955d3bcce7499bd22a1ff1a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20071-1945-11-30.md",
+      "sha256_publicacao_anterior": "ba3763f625b17146098a507d508daed140c75b926f1417611ee1bcbd3c10dcdb",
+      "sha256_atual": "ba3763f625b17146098a507d508daed140c75b926f1417611ee1bcbd3c10dcdb",
+      "sha256_fonte_html": "1af3a5f260b1e456e7ee6a2e1e552722892d64ac243b8f0947643eec09dc3985",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20070-1945-11-30.md",
+      "sha256_publicacao_anterior": "01461c75ef95f796e7ae844cefacede9170af3a8f9b7225685c69efb01cfb4a0",
+      "sha256_atual": "01461c75ef95f796e7ae844cefacede9170af3a8f9b7225685c69efb01cfb4a0",
+      "sha256_fonte_html": "4d4ed2d7766c19405b569ee4caaefc2b3fb6c18ff20a637a2ade914f84ebf3ce",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20069-1945-11-30.md",
+      "sha256_publicacao_anterior": "369eb81c54ae798a2bf739dab459705970d9941091b00a387ef3560f2e5e3c10",
+      "sha256_atual": "369eb81c54ae798a2bf739dab459705970d9941091b00a387ef3560f2e5e3c10",
+      "sha256_fonte_html": "47a194feacafdacd277582d41b4e65e35a491a6eebdaeabddff949016c9f2a66",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20068-1945-11-30.md",
+      "sha256_publicacao_anterior": "8bb649436ba063b763336272b8ae1bc39c74a74b8dc00ef203b210ecb783ef3f",
+      "sha256_atual": "8bb649436ba063b763336272b8ae1bc39c74a74b8dc00ef203b210ecb783ef3f",
+      "sha256_fonte_html": "1b946ad366df477139a7cf9b6fe03c855da4185055b4314cf4203e35a0c3a117",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20067-1945-11-30.md",
+      "sha256_publicacao_anterior": "f0d3332d4de7e104653366c8326ab06f43b404117e557f82f0820d17b3e41386",
+      "sha256_atual": "f0d3332d4de7e104653366c8326ab06f43b404117e557f82f0820d17b3e41386",
+      "sha256_fonte_html": "0f2ad9e0ba38f64752dbd3623b3102614f399c88856266c128732abb2ac72001",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20066-1945-11-30.md",
+      "sha256_publicacao_anterior": "60ad7bc730d8a4023fda408cd551409fec22d3c1a38387d86adfb9b4d954bb93",
+      "sha256_atual": "60ad7bc730d8a4023fda408cd551409fec22d3c1a38387d86adfb9b4d954bb93",
+      "sha256_fonte_html": "71e106b0c5c86f17408bc3609deb66d066bfe364a14df864b5dbd278215b33a9",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20065-1945-11-30.md",
+      "sha256_publicacao_anterior": "59b6e1d75de551a38e85d18ad5e82790a5cac1f23b118a64f3bdf574433ce7fd",
+      "sha256_atual": "59b6e1d75de551a38e85d18ad5e82790a5cac1f23b118a64f3bdf574433ce7fd",
+      "sha256_fonte_html": "83e949716fe001ef4d7a74001ea09854a6b68015ecbd9371d3c9e7eb5eb9c144",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20064-1945-11-30.md",
+      "sha256_publicacao_anterior": "c752a046cc18c152dc9aa45b4fe9a7e9b6077eefbc6ea2c144c3a902d7fb6756",
+      "sha256_atual": "c752a046cc18c152dc9aa45b4fe9a7e9b6077eefbc6ea2c144c3a902d7fb6756",
+      "sha256_fonte_html": "f3609571c76a01c8d679865b8fcefd902922227bc9399d03adc69af83994ae2d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20063-1945-11-30.md",
+      "sha256_publicacao_anterior": "43f6cbf3a516eea876187722e7d38764a3fdb2182f2464d3d88ff822cecdb00e",
+      "sha256_atual": "43f6cbf3a516eea876187722e7d38764a3fdb2182f2464d3d88ff822cecdb00e",
+      "sha256_fonte_html": "3e84960d1b30a8f48756aee9982f4c28acc1ed77e9f04075aa018249e7ae160d",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20062-1945-11-30.md",
+      "sha256_publicacao_anterior": "a8280ba4203f1199eed5bed9fa03c2994c98435997cfec41e72f198dc36c922f",
+      "sha256_atual": "a8280ba4203f1199eed5bed9fa03c2994c98435997cfec41e72f198dc36c922f",
+      "sha256_fonte_html": "48aeed62fedaa11e0ccc2cd729016723921bbbe299e2241f0431b24a95c31043",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20061-1945-11-30.md",
+      "sha256_publicacao_anterior": "1b99ed2673b4f7ac9291ecf8d747964e43c3b98e2143468b1dec5ad900936344",
+      "sha256_atual": "1b99ed2673b4f7ac9291ecf8d747964e43c3b98e2143468b1dec5ad900936344",
+      "sha256_fonte_html": "fa9c5f9780bc2d6e787b123d8c19f58773c2856932b3e1556e91db04e8a8d65b",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20060-1945-11-30.md",
+      "sha256_publicacao_anterior": "a8dd0b0f20e28d52eabceb06b5398f34d908c9d600f6e238947885aa4334f6da",
+      "sha256_atual": "a8dd0b0f20e28d52eabceb06b5398f34d908c9d600f6e238947885aa4334f6da",
+      "sha256_fonte_html": "ccf85da151cb70374c641cf345b8157cba84bf3eea1fa008799dabfcd9dbd8f8",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20059-1945-11-30.md",
+      "sha256_publicacao_anterior": "b0e15826deeb48a2f629518ffd0e20ad9c053781c9575f51f659ec29cc3adbba",
+      "sha256_atual": "b0e15826deeb48a2f629518ffd0e20ad9c053781c9575f51f659ec29cc3adbba",
+      "sha256_fonte_html": "e0b717811699d35b632a0ad08733cc19ece4834f65e616251664ba68a0b56082",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20058-1945-11-30.md",
+      "sha256_publicacao_anterior": "b6a98c24546a4e2d2d8d8f31e8d7e781d617e20543e21fda2ffc362a25992c91",
+      "sha256_atual": "b6a98c24546a4e2d2d8d8f31e8d7e781d617e20543e21fda2ffc362a25992c91",
+      "sha256_fonte_html": "bc292b9bd6700098fcb2620d44c14b0b237c4c317bf94e7979e6914297b9b71a",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20057-1945-11-30.md",
+      "sha256_publicacao_anterior": "ff80ba1af7399af89a841ed86a1d2ea86662df868c6b27b82a15acf2bf6f173f",
+      "sha256_atual": "ff80ba1af7399af89a841ed86a1d2ea86662df868c6b27b82a15acf2bf6f173f",
+      "sha256_fonte_html": "72fe81b80ea88ab6ab6f206d75ff071a278439be1f4254118072f67785a03323",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20056-1945-11-30.md",
+      "sha256_publicacao_anterior": "14a6866d1b2751626c94af5ef75daac2a798ae41e1fe6e38733e9f201b22e5c3",
+      "sha256_atual": "14a6866d1b2751626c94af5ef75daac2a798ae41e1fe6e38733e9f201b22e5c3",
+      "sha256_fonte_html": "ea72f83336515eac4472b7b9662c5586c655d519378ecccd2f742be4b22c16b3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20055-1945-11-30.md",
+      "sha256_publicacao_anterior": "7ea896d6712518c4cc09c87c8d3070620a8693f05806b2d9bc70b0e9924e08a1",
+      "sha256_atual": "7ea896d6712518c4cc09c87c8d3070620a8693f05806b2d9bc70b0e9924e08a1",
+      "sha256_fonte_html": "0b31b79bff6554f134978f2f136ceb754f384fac1f79dc97692da6f245d402ac",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20054-1945-11-30.md",
+      "sha256_publicacao_anterior": "929e65661f977d319a56ff48da27a1780fc52d853271bdefc125178166aba545",
+      "sha256_atual": "929e65661f977d319a56ff48da27a1780fc52d853271bdefc125178166aba545",
+      "sha256_fonte_html": "4c3a64c6ea4332741b33410622c97df4d09400d623aec8aca61d6fea9b5815e3",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20053-1945-11-28.md",
+      "sha256_publicacao_anterior": "136ade52ea1e6c835614edeebddb27e2f3f3bf5b66c480449be6733024e6607c",
+      "sha256_atual": "136ade52ea1e6c835614edeebddb27e2f3f3bf5b66c480449be6733024e6607c",
+      "sha256_fonte_html": "5005aeef4e9e06618f4aecaec8747ae2dc236154edd6541b5338d037d7cf39e9",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20052-1945-11-28.md",
+      "sha256_publicacao_anterior": "4a663918aaceb87522febfb306ff47f63bcd41d57877709ba764be36dd9644cb",
+      "sha256_atual": "4a663918aaceb87522febfb306ff47f63bcd41d57877709ba764be36dd9644cb",
+      "sha256_fonte_html": "82e63cf4b458c4e61b0e30ae9c0c309768ec6c1a34335da754343fcc3defac48",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    },
+    {
+      "path": "federal/decretos/1945/dec-20051-1945-11-28.md",
+      "sha256_publicacao_anterior": "4f0edb6825829c7efa0dcaddaa0fac2fe6b38c2def46c2ebda303be59833e63d",
+      "sha256_atual": "4f0edb6825829c7efa0dcaddaa0fac2fe6b38c2def46c2ebda303be59833e63d",
+      "sha256_fonte_html": "b977c6541212a5260926bb62e69d63b12e325615aa796310eb60d3e221609f0c",
+      "versao_fonte": "Original",
+      "retificacao_avulsa": false,
+      "artigo_proprio": true,
+      "revisao_manual": null
+    }
+  ],
+  "alteracoes": [
+    {
+      "path": "federal/decretos/1945/dec-20176-1945-12-12.md",
+      "motivo": "Aviso específico de anexo ausente nas duas fontes oficiais, sem alterar a redação normativa.",
+      "backup_anterior": "federal/_fonte/auditorias/dec20176-antes-aviso-anexo-20261020.md.gz",
+      "fonte_complementar": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-20176-12-dezembro-1945-327314-publicacaooriginal-1-pe.html",
+      "sha256_html_complementar": "8d3d889aef9570fb90b60fcece5442ac8cf8f4121ba1f9cccf27d26a116fc26f"
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "estado": "aplicado14_publicavel12_retidos2",
+  "conversor_sha256": "c279938417256fe46782d45df2884aad8ecd2973b266f9629cbf15011e2efb93",
+  "baseline_sha256": "95aadd3b5daa2422b01ae194cdf9a1a87998165fb12e6a789fd1db558c69789e",
+  "documentos": [
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3937-2015-id32620.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2015/res-3937-2015-id32620.html.gz",
+      "fonte_sha256": "4f0a76dc6041b7748297a5eedd58ad4833edeccc31a50114da883ca9bce3264b",
+      "sha256_antes": "677274a46524386dd1751792f6819c3ca2f524d59aeb61a0bcbfb68dce86422e",
+      "sha256_depois": "6ca94e1954924e52d9dbb12fc9960cda258636b825e479c093114b2d39354240",
+      "header_sha256": "9c1a1e9bc774ed6ef545f457eda0099a8fc84f26623798c4ae1ca2244b642dc6",
+      "numero": "3937",
+      "data_propria": "2015-03-11",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2015.json",
+        "sha256_arquivo": "46f455997824e8e0f486bbe1d03808e3fa79b264ce7e07d4b6b114f867f27e00",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "3937",
+          "Ano": "2015",
+          "Data": "11/03/2015",
+          "Ementa": "Cria Comissão Parlamentar de Inquérito, para apurar suposta irregularidade no pagamento e sonegação de tributos e valores gerados nas atividades de exploração e produção de petróleo e gás natural no Estado do Espírito Santo.",
+          "cod": "32620",
+          "Autor": "Enivaldo dos Anjos| Almir Vieira| Cacau Lorenzoni| DARY PAGUNG| Dr Rafael Favatto| Edson Magalhães| Eliana Dadalto| Euclério Sampaio| Freitas| Guerino Zanon| HUDSON LEAL| RAQUEL LESSA| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3943-2015-id32647.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2015/res-3943-2015-id32647.html.gz",
+      "fonte_sha256": "c8d64c8187c7a7ba819c550e2b8626431b35f8d70d63ee89909b65c7cc429643",
+      "sha256_antes": "4d7c8c7e394390d1ffbb3738eff188db5536814ecdcdaf900fa9542fc7950c86",
+      "sha256_depois": "e7e8bf7fc0dbeb4222dbd4e305812dcb10bd5321c2ba366c3be08c29535009c8",
+      "header_sha256": "5071b2ebef59b62198183e252ef70d9ba664950e1701a40d286b4bc517cf05da",
+      "numero": "3943",
+      "data_propria": "2015-04-06",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2015.json",
+        "sha256_arquivo": "46f455997824e8e0f486bbe1d03808e3fa79b264ce7e07d4b6b114f867f27e00",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "3943",
+          "Ano": "2015",
+          "Data": "08/04/2015",
+          "Ementa": "Cria uma Comissão Parlamentar de Inquérito, constituída de 05 (cinco) membros, para no prazo de 90 (noventa) dias apurar responsabilidades face às denúncias relacionadas às matérias  que vêm reiteradamente sendo divulgadas pela imprensa deste Estado, bem",
+          "cod": "32647",
+          "Autor": "Euclério Sampaio| Almir Vieira| Cacau Lorenzoni| DARY PAGUNG| Doutor Hércules| Dr Rafael Favatto| Edson Magalhães| Eliana Dadalto| Enivaldo dos Anjos| HUDSON LEAL| MARCELO SANTOS| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": false,
+      "pendencia": "Ofício035/2014 e Decreto3745-R descritos como anexos; ainda não comprovados no HTML fonte."
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3949-2015-id32736.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2015/res-3949-2015-id32736.html.gz",
+      "fonte_sha256": "aa17105120443b44710c9dc8420ddb0a5f9afd85734e76f453b56a89bc1e1be7",
+      "sha256_antes": "4367a6a553c7fe3a0e599c0db947af46ed05dae29e025fa1bcc3d78b3ae01c98",
+      "sha256_depois": "1b193755da2e5ba0eb907ff5bb29fe3483f590bf812b1aa45ccb4565fe703169",
+      "header_sha256": "128a85a8fdaf29408fc74052b228e311d08dc6174e75722f97abcdb8e2f3ef2c",
+      "numero": "3949",
+      "data_propria": "2015-05-04",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2015.json",
+        "sha256_arquivo": "46f455997824e8e0f486bbe1d03808e3fa79b264ce7e07d4b6b114f867f27e00",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "3949",
+          "Ano": "2015",
+          "Data": "04/05/2015",
+          "Ementa": "Cria Comissão Especial, para Discussão e Acompanhamento das Obras de Duplicação da BR 101 e Serviços Prestados da Concessionária ECO 101.",
+          "cod": "32736",
+          "Autor": "Erick Musso| Almir Vieira| Amaro Neto| BRUNO LAMAS| Da Vitória| DARY PAGUNG| Dr Rafael Favatto| Edson Magalhães| Eliana Dadalto| Freitas| Gilsinho Lopes| Guerino Zanon| MARCELO SANTOS| Padre Honório| RAQUEL LESSA| Sandro Locutor| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4109-2015-id33058.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2015/res-4109-2015-id33058.html.gz",
+      "fonte_sha256": "a17275bccfbecc842b2a3ca3702b1dba5aac4576f481c515ee50ab9f0323a59e",
+      "sha256_antes": "86419719fcb14b7458432f50f41154cced921e636ecd4146d5ee76bb52681aef",
+      "sha256_depois": "c76a88c620def10a3d423ee16a86324f53a9de494faf79ab64905c07e396a228",
+      "header_sha256": "3d4b819541a4a83f1d7bec0ab7ccf3ff3f9defa8ad80177be8026b1e11638228",
+      "numero": "4109",
+      "data_propria": "2015-09-15",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2015.json",
+        "sha256_arquivo": "46f455997824e8e0f486bbe1d03808e3fa79b264ce7e07d4b6b114f867f27e00",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4109",
+          "Ano": "2015",
+          "Data": "15/09/2015",
+          "Ementa": "Institui a Casa do Vereador no âmbito da Assembleia Legislativa do Estado do Espírito Santo - Ales e altera as Resoluções nº 1.948, de 14.6.2000; nº 2.890, de 23.12.2010, e nº 3.637, de 10.12.2013.",
+          "cod": "33058",
+          "Autor": "MESA DIRETORA| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4110-2015-id33059.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2015/res-4110-2015-id33059.html.gz",
+      "fonte_sha256": "90ef4c1280eb2777294add9c5e6c3eba161ca8fc34b8fcd4b2fff73218b26de0",
+      "sha256_antes": "5af6bde5dcf334eb8a6cf51cf0b2ccc5d77e7cec041fa2a2cca7669507bd1901",
+      "sha256_depois": "b31000bd2629ab864702e2f7f2eaa73e18a37981069a41e10bab2f74773d6fad",
+      "header_sha256": "f9e561bad70a1b297de5db212a41ca679635e5b0eef741d8634b21e6bfc2998a",
+      "numero": "4110",
+      "data_propria": "2015-09-15",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2015.json",
+        "sha256_arquivo": "46f455997824e8e0f486bbe1d03808e3fa79b264ce7e07d4b6b114f867f27e00",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4110",
+          "Ano": "2015",
+          "Data": "15/09/2015",
+          "Ementa": "Institui a Comenda “José Maria Pimenta”, a ser concedida pela Assembleia Legislativa aos servidores ativos e inativos.",
+          "cod": "33059",
+          "Autor": "MESA DIRETORA| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4240-2016-id40005.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2016/res-4240-2016-id40005.html.gz",
+      "fonte_sha256": "df706c61cfb3f5b10d8666edca574bab96883e38e751c369781c852743bacf81",
+      "sha256_antes": "3f52feb2d4e3fe449ce117a071c28fb5692635f53a250e8231073c2ee90c7632",
+      "sha256_depois": "5c431d96d017f84ef1fadbdadd4502e5e7a3fb54d408a93adaa9ef6f7f9198d4",
+      "header_sha256": "3c8ea9094b6053980268087156a542dcdc4ce9b43286129dfd89f47b4086fc78",
+      "numero": "4240",
+      "data_propria": "2016-02-24",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2016.json",
+        "sha256_arquivo": "0d0cb48a4e66b0caad7c7792dce2f19f563d0bef94981b90c4509b3b343c21b9",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4240",
+          "Ano": "2016",
+          "Data": "24/02/2016",
+          "Ementa": "Institui a Comenda “Florence Nightingale” concedida aos enfermeiros que tenham de algum modo contribuído para o Desenvolvimento da Categoria. ",
+          "cod": "40005",
+          "Autor": "JANETE DE SÁ| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4348-2016-id34308.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2016/res-4348-2016-id34308.html.gz",
+      "fonte_sha256": "09055f278a062f364f32f06b62f83b809de2309dddb1eab800401d4b78d24720",
+      "sha256_antes": "1819a70c1a5e8190d2bc1f9143e5856f47d55214d2fc98638f023f167574ad14",
+      "sha256_depois": "28ddedef39ae5f235f23648f9484c6a2f6ca06f6377f70af612ac55d37253c45",
+      "header_sha256": "12ea595003cb7cc950ffbb18f8a85d0f0aa8a5c02c6ead85222d4ea2847d771b",
+      "numero": "4348",
+      "data_propria": "2016-05-09",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2016.json",
+        "sha256_arquivo": "0d0cb48a4e66b0caad7c7792dce2f19f563d0bef94981b90c4509b3b343c21b9",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4348",
+          "Ano": "2016",
+          "Data": "09/05/2016",
+          "Ementa": "Altera a Resolução 3.941, de 25 de março de 2015, para, apurar denúncias relacionadas à “Máfia dos Guinchos” e “Pátio/Estacionamento/Depósito” de veículos apreendidos e possível conluio entre autoridades, prestadores de serviços e lesão ao cidadão, além de investigar participação de servidor público e empresas terceirizadas com intuito de lesar contribuinte.  ",
+          "cod": "34308",
+          "Autor": "",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4349-2016-id34309.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2016/res-4349-2016-id34309.html.gz",
+      "fonte_sha256": "62fc024d3582962e3e603520e946f24f65a6cbe0f156481ed59c394e5e0f6381",
+      "sha256_antes": "2fa3175ea35cc1d392f40978a4f48d733c24ad42cec149fd9cd930f7aa2ab67e",
+      "sha256_depois": "9ad54f39696efe85d692ba28c2ed4c815d41939b4c84e93b54a4998f8cee9f7e",
+      "header_sha256": "8eca06d69c5f20983ae33e0467d45bd99312db91e82aebe6670ac0f83de62b4e",
+      "numero": "4349",
+      "data_propria": "2016-05-09",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2016.json",
+        "sha256_arquivo": "0d0cb48a4e66b0caad7c7792dce2f19f563d0bef94981b90c4509b3b343c21b9",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4349",
+          "Ano": "2016",
+          "Data": "09/05/2016",
+          "Ementa": "Requerimento de transposição do prazo de funcionamento da CPI da Sonegação de Tributos, para a Sessão Legislativa seguinte (2017), bem como, o aditamento no seu campo de investigação. ",
+          "cod": "34309",
+          "Autor": "Enivaldo dos Anjos| Dr Rafael Favatto| RAQUEL LESSA| DARY PAGUNG| Euclério Sampaio| HUDSON LEAL| Freitas| Eliana Dadalto| Edson Magalhães| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4504-2016-id34276.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2016/res-4504-2016-id34276.html.gz",
+      "fonte_sha256": "f1df6e32308f81e8ba7fa68a26696fb1d245db9aa7f2c16c3f86c48a6b658d32",
+      "sha256_antes": "c627fedafe886b9dbf5184b145c49576c4a6f3f40d2ea259c5d108d6626dbbcc",
+      "sha256_depois": "907dfb1be19656a7ce7d6023727970e9d0c274204ab2183942777a0d505b2c59",
+      "header_sha256": "5f3e286d0f447693f3b4d0f9a7463024ac828b44ae457830fae49b4ae55906f8",
+      "numero": "4504",
+      "data_propria": "2016-10-19",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2016.json",
+        "sha256_arquivo": "0d0cb48a4e66b0caad7c7792dce2f19f563d0bef94981b90c4509b3b343c21b9",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4504",
+          "Ano": "2016",
+          "Data": "18/10/2016",
+          "Ementa": "Altera o inciso II do artigo 2º da Resolução nº 1805, de 23.10.1995, que dispõe sobre forma de concessão e o valor do vale-alimentação a servidor cedido de outro Poder.",
+          "cod": "34276",
+          "Autor": "MESA DIRETORA| ",
+          "Situação": "Revogada"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-4675-2017-id34545.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2017/res-4675-2017-id34545.html.gz",
+      "fonte_sha256": "09be852029a857e5114adbb099dc90ba475718fa5cfb6185996fbfb87f6a1f3a",
+      "sha256_antes": "a6f35b3b6d23020b2430242aedc2ad83ec3391401323d833cf8a87f46a7af976",
+      "sha256_depois": "c1016f3123a3dfd3c75d5300a1d569aeba07b98e727678188044c1e96e44f0b0",
+      "header_sha256": "27a5bb17527e346263a309790d9bb00b7232e57d470ff290f662143de4e06038",
+      "numero": "4675",
+      "data_propria": "2017-05-03",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2017.json",
+        "sha256_arquivo": "b3827e00b95f1a678d1c4e869ee0af6668d1b6ae2794a2fb8e48f72e51af1134",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "4675",
+          "Ano": "2017",
+          "Data": "03/05/2017",
+          "Ementa": "Institui a comenda “Jairo Maia”, concedida pela Assembleia Legislativa a profissionais da área da Comunicação. ",
+          "cod": "34545",
+          "Autor": "HUDSON LEAL| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5128-2017-id41021.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2017/res-5128-2017-id41021.html.gz",
+      "fonte_sha256": "9e4a947a0c1fe9f67478636bbf42ad1ed5a870b9d7fc956b2c8b365539d9f20e",
+      "sha256_antes": "5839d10d1eee627fed46515330317112b01a68e35728e2c54d5bed7613706c50",
+      "sha256_depois": "1132cdc6d7ba1768c7d56b23e41da9a5d46b934ca948849dbde99b7cf999351c",
+      "header_sha256": "a7d910d2f3bb5bb99a02f1fca1d86f02aae8ad489ce67fb2a9f6b83c397ae1e6",
+      "numero": "5128",
+      "data_propria": "2017-10-31",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2017.json",
+        "sha256_arquivo": "b3827e00b95f1a678d1c4e869ee0af6668d1b6ae2794a2fb8e48f72e51af1134",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "5128",
+          "Ano": "2017",
+          "Data": "31/10/2017",
+          "Ementa": "Altera a Resolução nº 2.890, de 23 de dezembro de 2010, e a Resolução nº 3.418, de 07 de agosto de 2013, dispondo sobre a carreira dos servidores titulares do cargo efetivo de Técnico Legislativo Júnior, e dá outras providências. ",
+          "cod": "41021",
+          "Autor": "JANETE DE SÁ| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5161-2017-id40489.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2017/res-5161-2017-id40489.html.gz",
+      "fonte_sha256": "924ab8d77de3a5adc4b292326851fc3dfdf2777430307198b63d0fde13f3a81b",
+      "sha256_antes": "672420ab25f4d546456e0d0dd2333895d832610b59fd6f8e7113d02937db4168",
+      "sha256_depois": "907ebfaf09956e7d96f07e939e5c9aef1a476e3a0f9d8d3382ad7b799db8b5fe",
+      "header_sha256": "3443c840e099b52042a4d235ab08c4517c840cc5324486766369ad5a53013e88",
+      "numero": "5161",
+      "data_propria": "2017-11-20",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2017.json",
+        "sha256_arquivo": "b3827e00b95f1a678d1c4e869ee0af6668d1b6ae2794a2fb8e48f72e51af1134",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "5161",
+          "Ano": "2017",
+          "Data": "20/11/2017",
+          "Ementa": "Admite na Ordem do Mérito “Domingos Martins” a Luiz Inácio Lula da Silva.",
+          "cod": "40489",
+          "Autor": "Nunes| ",
+          "Situação": "Revogada"
+        }
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5296-2018-id38210.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2018/res-5296-2018-id38210.html.gz",
+      "fonte_sha256": "9ff3b9aaf47e2d0a8f3d35babb03f537ca1f36155c2c9ce6545d013ac0f5132c",
+      "sha256_antes": "1c352af9f148f08fae537e4cb4546a8514eb9fe844d81b7c7a278fd9fedf6546",
+      "sha256_depois": "fe3e1aa09828c67703c78016d0e3ed9e64fb27016157adea8b4475e6c03c93a6",
+      "header_sha256": "93889d559dcbaeb4b60aea29fc3c58116bffd93490361799083f979992a80056",
+      "numero": "5296",
+      "data_propria": "2018-02-27",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2018.json",
+        "sha256_arquivo": "f351e118c0a82a45551bf94b50266c264ba571f3c9af110ae9dc65797416712a",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "5296",
+          "Ano": "2018",
+          "Data": "27/02/2018",
+          "Ementa": "Altera a Resolução nº 2.890, de 23 de dezembro de 2010, dispondo sobre a Coordenação de Transparência, Inovação e Desenvolvimento de Projetos Especiais, e dá outras providências.",
+          "cod": "38210",
+          "Autor": "MESA DIRETORA| Enivaldo dos Anjos| Erick Musso| RAQUEL LESSA| ",
+          "Situação": "Revogada"
+        }
+      },
+      "publicavel": false,
+      "pendencia": "Imagembrasao do cabeçalho indicada pela fonte retorna404; não foi substituída por imagem de outra URL."
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5417-2018-id39266.md",
+      "cache": "estaduais/ES/_fonte/resolucoes/2018/res-5417-2018-id39266.html.gz",
+      "fonte_sha256": "6761217eae4a7e9f69f7cdb38fcd4d1b0aaff3229f908487527f04cf60f2ee13",
+      "sha256_antes": "59373279a3d421cc9c0dc9ff8decb94381762465c6047937c20a2d49e9d82a63",
+      "sha256_depois": "e06ec20fcae7d31456981357c24f3c046afe1905ee59297f13faa30796084d61",
+      "header_sha256": "f542f3871659139443e9b4ed6bb36ef5794251c575bf2e3d1ec0d9adb49c7fdd",
+      "numero": "5417",
+      "data_propria": "2018-04-06",
+      "indice": {
+        "path": "estaduais/ES/_indice/anos/7-2018.json",
+        "sha256_arquivo": "f351e118c0a82a45551bf94b50266c264ba571f3c9af110ae9dc65797416712a",
+        "registro": {
+          "Lei": "Resolução",
+          "Numero": "5417",
+          "Ano": "2018",
+          "Data": "06/04/2018",
+          "Ementa": "Dispõe sobre a concessão na forma de auxílio financeiro, do auxílio-creche aos servidores da Assembleia Legislativa do Estado do Espírito Santo – ALES, nos termos dos artigos 88 e 91 da Lei Complementar nº 46, de 31.01.1994. ",
+          "cod": "39266",
+          "Autor": "MESA DIRETORA| ",
+          "Situação": "Em Vigor"
+        }
+      },
+      "publicavel": true
+    }
+  ],
+  "backup": {
+    "path": "estaduais/ES/_indice/_reparos-tachado-20261016/md-antes.jsonl.gz",
+    "sha256_arquivo": "9d3d3e531fcc77ebe1e485743ec2952b92b7948c791dd0dbbbca71f828f90616"
+  },
+  "validacao_texto_tachado_gfm": [
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3937-2015-id32620.md",
+      "fonte_sha256": "4f0a76dc6041b7748297a5eedd58ad4833edeccc31a50114da883ca9bce3264b",
+      "caracteres_fonte_sem_brancos": 4541,
+      "caracteres_gfm_sem_brancos": 4541,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3943-2015-id32647.md",
+      "fonte_sha256": "c8d64c8187c7a7ba819c550e2b8626431b35f8d70d63ee89909b65c7cc429643",
+      "caracteres_fonte_sem_brancos": 2175,
+      "caracteres_gfm_sem_brancos": 2175,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3949-2015-id32736.md",
+      "fonte_sha256": "aa17105120443b44710c9dc8420ddb0a5f9afd85734e76f453b56a89bc1e1be7",
+      "caracteres_fonte_sem_brancos": 1797,
+      "caracteres_gfm_sem_brancos": 1797,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4109-2015-id33058.md",
+      "fonte_sha256": "a17275bccfbecc842b2a3ca3702b1dba5aac4576f481c515ee50ab9f0323a59e",
+      "caracteres_fonte_sem_brancos": 10394,
+      "caracteres_gfm_sem_brancos": 10394,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4110-2015-id33059.md",
+      "fonte_sha256": "90ef4c1280eb2777294add9c5e6c3eba161ca8fc34b8fcd4b2fff73218b26de0",
+      "caracteres_fonte_sem_brancos": 1417,
+      "caracteres_gfm_sem_brancos": 1417,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4240-2016-id40005.md",
+      "fonte_sha256": "df706c61cfb3f5b10d8666edca574bab96883e38e751c369781c852743bacf81",
+      "caracteres_fonte_sem_brancos": 2507,
+      "caracteres_gfm_sem_brancos": 2507,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4348-2016-id34308.md",
+      "fonte_sha256": "09055f278a062f364f32f06b62f83b809de2309dddb1eab800401d4b78d24720",
+      "caracteres_fonte_sem_brancos": 2159,
+      "caracteres_gfm_sem_brancos": 2159,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4349-2016-id34309.md",
+      "fonte_sha256": "62fc024d3582962e3e603520e946f24f65a6cbe0f156481ed59c394e5e0f6381",
+      "caracteres_fonte_sem_brancos": 3966,
+      "caracteres_gfm_sem_brancos": 3966,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4504-2016-id34276.md",
+      "fonte_sha256": "f1df6e32308f81e8ba7fa68a26696fb1d245db9aa7f2c16c3f86c48a6b658d32",
+      "caracteres_fonte_sem_brancos": 1145,
+      "caracteres_gfm_sem_brancos": 1145,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-4675-2017-id34545.md",
+      "fonte_sha256": "09be852029a857e5114adbb099dc90ba475718fa5cfb6185996fbfb87f6a1f3a",
+      "caracteres_fonte_sem_brancos": 1600,
+      "caracteres_gfm_sem_brancos": 1600,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5128-2017-id41021.md",
+      "fonte_sha256": "9e4a947a0c1fe9f67478636bbf42ad1ed5a870b9d7fc956b2c8b365539d9f20e",
+      "caracteres_fonte_sem_brancos": 5771,
+      "caracteres_gfm_sem_brancos": 5771,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5161-2017-id40489.md",
+      "fonte_sha256": "924ab8d77de3a5adc4b292326851fc3dfdf2777430307198b63d0fde13f3a81b",
+      "caracteres_fonte_sem_brancos": 810,
+      "caracteres_gfm_sem_brancos": 810,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5296-2018-id38210.md",
+      "fonte_sha256": "9ff3b9aaf47e2d0a8f3d35babb03f537ca1f36155c2c9ce6545d013ac0f5132c",
+      "caracteres_fonte_sem_brancos": 3618,
+      "caracteres_gfm_sem_brancos": 3618,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5417-2018-id39266.md",
+      "fonte_sha256": "6761217eae4a7e9f69f7cdb38fcd4d1b0aaff3229f908487527f04cf60f2ee13",
+      "caracteres_fonte_sem_brancos": 28419,
+      "caracteres_gfm_sem_brancos": 28419,
+      "texto_identico": true,
+      "tachado_identico": true,
+      "diferencas": []
+    }
+  ],
+  "imagens": [
+    {
+      "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/Brasao.png",
+      "documentos": [
+        "estaduais/ES/resolucoes/2015/res-3937-2015-id32620.md",
+        "estaduais/ES/resolucoes/2015/res-3943-2015-id32647.md",
+        "estaduais/ES/resolucoes/2015/res-3949-2015-id32736.md",
+        "estaduais/ES/resolucoes/2015/res-4110-2015-id33059.md"
+      ],
+      "http": 200,
+      "content_type": "image/png",
+      "url_final": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/Brasao.png",
+      "sha256": "480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97",
+      "cache": "estaduais/ES/_fonte/auditorias/tachado-es14-20261016/480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97.png"
+    },
+    {
+      "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png",
+      "documentos": [
+        "estaduais/ES/resolucoes/2015/res-4109-2015-id33058.md",
+        "estaduais/ES/resolucoes/2016/res-4240-2016-id40005.md",
+        "estaduais/ES/resolucoes/2016/res-4348-2016-id34308.md",
+        "estaduais/ES/resolucoes/2016/res-4349-2016-id34309.md",
+        "estaduais/ES/resolucoes/2016/res-4504-2016-id34276.md",
+        "estaduais/ES/resolucoes/2017/res-4675-2017-id34545.md",
+        "estaduais/ES/resolucoes/2017/res-5161-2017-id40489.md",
+        "estaduais/ES/resolucoes/2018/res-5417-2018-id39266.md"
+      ],
+      "http": 200,
+      "content_type": "image/png",
+      "url_final": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png",
+      "sha256": "480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97",
+      "cache": "estaduais/ES/_fonte/auditorias/tachado-es14-20261016/480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97.png"
+    },
+    {
+      "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/RES51282017_files/brasao.png",
+      "documentos": [
+        "estaduais/ES/resolucoes/2017/res-5128-2017-id41021.md"
+      ],
+      "http": 200,
+      "content_type": "image/png",
+      "url_final": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/RES51282017_files/brasao.png",
+      "sha256": "480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97",
+      "cache": "estaduais/ES/_fonte/auditorias/tachado-es14-20261016/480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97.png"
+    },
+    {
+      "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/RES52962018_files/brasao.png",
+      "documentos": [
+        "estaduais/ES/resolucoes/2018/res-5296-2018-id38210.md"
+      ],
+      "erro": "HTTPError: HTTP Error 404: PÁGINA NÃO EXISTENTE."
+    }
+  ],
+  "imagem_verificada_visualmente": {
+    "sha256": "480164abb70d2106aa105e34957d8e42d19c3eee97db55a91fae86ab1f0b3c97",
+    "descricao": "Único brasão da República no cabeçalho, visto pela raiz; sem conteúdo normativo. Três URLs respondem com os mesmos bytes; uma URL retorna404."
+  },
+  "limites": "Texto e alcance do tachado comparados caractere a caractere sem brancos no HTMLfonte/GFM. Cabeçalhos preservados e situação vinculada ao índice oficial. Publicação não declara vigência além do status explícito da fonte. Dois casos continuam retidos; não há teste visual por navegador.",
+  "inventario_graficos_corpo": [
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3937-2015-id32620.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "Brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3943-2015-id32647.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "Brasao.png",
+            "alt": "Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: C:\\Users\\R2\\Desktop\\OPERACIONAL\\ALES - RESOLUÇÕES\\HTML\\Brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-3949-2015-id32736.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "Brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4109-2015-id33058.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2015/res-4110-2015-id33059.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "Brasao.png",
+            "alt": "Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: Descrição: C:\\Users\\R2\\Desktop\\OPERACIONAL\\ALES - RESOLUÇÕES\\HTML\\Brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4240-2016-id40005.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "brasao.png",
+            "alt": "Descrição: Descrição: \\\\10.3.129.4\\Operacional\\Agape\\ATUALIZAÇÕES\\ASSEMBLEIAS\\ALES\\HTML\\brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4348-2016-id34308.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4349-2016-id34309.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "brasao.png",
+            "alt": "Descrição: \\\\10.3.129.4\\Operacional\\Agape\\ATUALIZAÇÕES\\ASSEMBLEIAS\\ALES\\HTML\\brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2016/res-4504-2016-id34276.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "79",
+            "height": "79",
+            "id": "_x0000_i1025",
+            "src": "brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-4675-2017-id34545.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5128-2017-id41021.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "./RES51282017_files/brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2017/res-5161-2017-id40489.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "brasao.png",
+            "alt": "Descrição: Descrição: C:\\Users\\R2\\Desktop\\html\\brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5296-2018-id38210.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "RES52962018_files/brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    },
+    {
+      "path": "estaduais/ES/resolucoes/2018/res-5417-2018-id39266.md",
+      "graficos": [
+        {
+          "tag": "img",
+          "attrs": {
+            "width": "78",
+            "height": "78",
+            "id": "_x0000_i1025",
+            "src": "brasao.png"
+          },
+          "caracteres_antes": 0
+        }
+      ]
+    }
+  ],
+  "revisao_independente": {
+    "path": "estaduais/ES/_indice/_reparos-tachado-20261016/revisao-independente-es14.json",
+    "sha256_arquivo": "cb37e8e516745fa5e507558e2c7b258835751f887c926754730a40d8e95410f3",
+    "resultado": "12aprovados2retidos",
+    "divergencias_literais_preservadas": [
+      "Res5128: publicação DPL06/10/2017 anterior à assinatura31/10/2017",
+      "Res4675: preâmbulo embaralhado na própria fonte",
+      "Res5296(retida):DPL01/03/2017 anterior à epígrafe2018"
+    ]
+  }
+}

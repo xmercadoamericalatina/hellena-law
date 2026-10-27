@@ -1,0 +1,40 @@
+---
+titulo: "Decreto Legislativo nº 289, de 13 de julho de 2021"
+uf: "TO"
+tipo: "Decreto Legislativo"
+numero: "289"
+data: 2021-07-13
+ementa: "Reconhece, para os fins do art. 65, I e II da Lei Complementar nº 101, de 4 de maio de 2000, a ocorrência do estado de calamidade pública no Município de Cachoeirinha."
+publicacao: "Diário Oficial da Assembleia"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.to.leg.br/norma/199"
+arquivo: "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2021/199/decreto_legislativo_289_000851.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 289, de 13 de julho de 2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DIRLEG-AI FIs. 72
+
+DECRETO LEGISLATIVO N° 289, de 13 de julho de 2021. Reconhece, para os fins do art. 65, I e II da Lei Complementar n° 101, de 4 de maio de 2000, a ocorrência do estado de calamidade pública no Município de Cachoeirinha. A Assembleia Legislativa o Estado do Tocantins decreta:
+
+**Art. 1°** Fica reconhecida, exclusivamente para os fins do art. 65, I e II da
+
+Lei Complementar n° 101, de 4 de maio de 2000, notadamente para as dispensas do atingimento dos resultados fiscais previstos na Lei de Diretrizes Orçamentárias de 2021, e da limitação de empenho de que trata o art. 9° da Lei Complementar n° 101, de 4 de maio de 2000, a ocorrência do estado de calamidade pública, até 30 de junho de 2021, nos termos da solicitação do Prefeito do Municipio de Cachoeirinha, em decorrência da pandemia da COVID-19 causada pelo novo coronavírus.
+
+**Parágrafo único.** O prazo de que trata o caput deste artigo pode ser prorrogavel por igual período, desde que solicitado à Assembleia Legislativa do Estado do Tocantins pelo Chefe do Poder Executivo Municipal, devidamente fundamentado.
+
+**Art. 2°** Ficam suspensas a contagem dos prazos e as disposições estabelecidas nos artigos 23 e 31 da Lei Complementar Federal n° 101, de 4 de maio de 2000, enquanto perdurar o estado de calamidade pública.
+
+**Art. 3°** A contratação emergencial de pessoal e a autorização de despesas extraordinárias deverão observar os termos dispostos na legislação local, destinadas exclusivamente à situação de calamidade pública.
+
+**Art. 4°** Os atos e despesas decorrentes da situação de calamidade pública devem ser divulgados amplamente no correspondente Portal de Transparência, nos termos da Lei Complementar Federal n° 101, de 4 de maio de 2000, e da Lei Federal n° 12.527, de 18 de novembro de 2011.
+
+**Art. 5°** Caberá ao Tribunal de Contas do Estado do Tocantins o controle e a fiscalização dos atos praticados enquanto perdurar o estado de calamidade pública, na forma da legislação pertinente, ficando os órgãos interessados da Administração responsáveis pela demonstração da legalidade e regularidade dos atos administrativos, da despesa e sua execução.
+
+DIRLEG-AL
+
+¡ Fls.
+
+**Art. 6°** Este Decreto Legislativo entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de março de 2021. Palácio Deputado João D'Abreu, em Palmas, aos 13 dias do mês de julho de 2021; 200º da Independência, 133º da República e 33º do Estado. Deputado ANTONIO ANDRADE Presidente

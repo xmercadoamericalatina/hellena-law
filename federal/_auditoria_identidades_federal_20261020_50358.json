@@ -1,0 +1,16 @@
+{
+  "paths_unicos": 50358,
+  "urns_unicas": 50358,
+  "identidades_tipo_numero_ano_unicas": 50358,
+  "urns_duplicadas": [],
+  "identidades_duplicadas": [],
+  "colisoes_com_baseline": [],
+  "hash_sequencia_identidades": "b9a883d1c50049f0dc3fb8476b3c28446ca3164c08098890c8910a72aa7018a2",
+  "erros": [],
+  "escopo": "50.358 caminhos únicos nos snapshots históricos aceitos: cache001–025, revisões/recuperações, novos001/002 e232 publicados. Inclui paths posteriormente retidos por anexos; não é contagem de cobertura apta.",
+  "metodo": "Cabeçalhos reais MD relidos; confronto por URN e por tipo/número normalizado/ano. Colisões com snapshot publicado fornecido pelo coordenador, excluindo caches/auditorias internas. Nenhum Git ou MD modificado.",
+  "baseline": {
+    "path": "/tmp/federal20261020-index-urns.txt",
+    "sha256": "a5202f5c7f06a76bf6b31a63db2e8a6a45eb619a6987c46017aee1bd4dc8845d"
+  }
+}

@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Legislação brasileira em números</title>
+<style>
+  :root {
+    color-scheme: light;
+    --fundo: #fbfaf8; --cartao: #fff; --borda: #e7e3dc; --texto: #1c1a17;
+    --suave: #6b655c; --realce: #9a3412; --realce2: #c2410c; --grade: #efece6;
+    --serie: #9a3412;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --fundo: #14120f; --cartao: #1c1a17; --borda: #2e2a25; --texto: #f2efe9;
+      --suave: #a39c91; --realce: #fb923c; --realce2: #fdba74; --grade: #272320;
+      --serie: #fb923c;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --fundo: #14120f; --cartao: #1c1a17; --borda: #2e2a25; --texto: #f2efe9;
+    --suave: #a39c91; --realce: #fb923c; --realce2: #fdba74; --grade: #272320;
+    --serie: #fb923c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--fundo); color: var(--texto);
+    font: 15px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  .env { max-width: 1120px; margin: 0 auto; padding: 48px 20px 80px; }
+  header { border-bottom: 1px solid var(--borda); padding-bottom: 28px; margin-bottom: 36px; }
+  h1 { font-size: clamp(26px, 5vw, 40px); line-height: 1.15; margin: 0 0 10px; letter-spacing: -.02em; }
+  .sub { color: var(--suave); max-width: 62ch; margin: 0; }
+  h2 {
+    font-size: 13px; text-transform: uppercase; letter-spacing: .09em; color: var(--suave);
+    margin: 52px 0 16px; font-weight: 600;
+  }
+  h2:first-of-type { margin-top: 36px; }
+  .nota { color: var(--suave); font-size: 13px; margin: 10px 0 0; max-width: 70ch; }
+  .numeros { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+  .num {
+    background: var(--cartao); border: 1px solid var(--borda); border-radius: 12px; padding: 18px;
+  }
+  .num b { display: block; font-size: clamp(22px, 4vw, 30px); letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .num span { color: var(--suave); font-size: 12.5px; }
+  .cartao {
+    background: var(--cartao); border: 1px solid var(--borda); border-radius: 14px;
+    padding: 20px; overflow: hidden;
+  }
+  .duas { display: grid; gap: 16px; grid-template-columns: 1fr; }
+  @media (min-width: 860px) { .duas { grid-template-columns: 1fr 1fr; } }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .barras td { padding: 5px 0; vertical-align: middle; }
+  .barras td:first-child { white-space: nowrap; padding-right: 12px; color: var(--texto); }
+  .barras td:last-child {
+    text-align: right; font-variant-numeric: tabular-nums; color: var(--suave);
+    padding-left: 12px; white-space: nowrap;
+  }
+  .trilha { background: var(--grade); border-radius: 4px; height: 20px; width: 100%; min-width: 60px; }
+  .barra { background: var(--realce); height: 20px; border-radius: 4px; }
+  .rotulo { font-variant-numeric: tabular-nums; }
+  svg { display: block; width: 100%; height: auto; }
+  .nuvem { line-height: 2.1; }
+  .nuvem span { margin-right: 12px; color: var(--realce2); white-space: nowrap; }
+  .nuvem span i { color: var(--suave); font-size: 11px; font-style: normal; }
+  .rolar { overflow-x: auto; }
+  footer { margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--borda); color: var(--suave); font-size: 13px; }
+  a { color: var(--realce2); }
+  .aviso {
+    background: var(--cartao); border: 1px solid var(--borda); border-left: 3px solid var(--realce);
+    border-radius: 0 10px 10px 0; padding: 14px 18px; margin: 18px 0 0; font-size: 13.5px;
+    color: var(--suave);
+  }
+</style>
+</head>
+<body>
+<div class="env">
+<header>
+  <h1>Legislação brasileira em números</h1>
+  <p class="sub">O que há no acervo: <span id="resumo"></span>. Tudo calculado a partir dos próprios
+  arquivos, por <code>scripts/estatisticas.py</code>.</p>
+</header>
+
+<div class="numeros" id="cartoes"></div>
+
+<h2>Normas por esfera</h2>
+<div class="cartao"><table class="barras" id="t-ufs"></table></div>
+<p class="nota">Paraná e Rio de Janeiro não aparecem: a fonte do PR bloqueia acesso automatizado e
+o servidor da ALERJ não respondia. O Acre tem acervo só até 2009.</p>
+
+<h2>Quando foram aprovadas</h2>
+<div class="cartao"><div id="g-decadas"></div></div>
+<p class="nota">Por década de aprovação. Normas sem data em nenhuma fonte ficam fora deste gráfico.</p>
+
+<h2>Sobre o que as leis tratam</h2>
+<div class="cartao"><table class="barras" id="t-cat"></table></div>
+<div class="aviso">Categoria inferida da ementa por padrões de texto, não por classificação
+oficial. Vale a primeira regra que casa, das mais específicas para as mais genéricas; 13,8% das
+ementas não casam com nenhuma e caem em <b>Outros</b>. Serve para ter noção de proporção, não para
+contagem exata.</div>
+
+<div class="duas" style="margin-top:16px">
+  <div>
+    <h2 style="margin-top:36px">Tipo de instrumento</h2>
+    <div class="cartao"><table class="barras" id="t-tipos"></table></div>
+  </div>
+  <div>
+    <h2 style="margin-top:36px">Quem mais assinou</h2>
+    <div class="cartao"><table class="barras" id="t-pessoas"></table></div>
+  </div>
+</div>
+<p class="nota">O signatário sai do bloco de assinatura do próprio texto. Em cerca de 48% dos
+arquivos a assinatura não está na camada de texto do PDF, ou o OCR a perdeu; esses ficam com
+autoria institucional e não entram neste ranking.</p>
+
+<h2>Palavras mais frequentes nas ementas</h2>
+<div class="cartao nuvem" id="nuvem"></div>
+<p class="nota">Palavras de quatro letras ou mais, sem as de função. O tamanho é proporcional à
+frequência.</p>
+
+<footer>
+  Gerado de <b id="f-total"></b> arquivos Markdown convertidos de fontes oficiais.
+  Os textos não substituem a publicação no Diário Oficial.
+</footer>
+</div>
+
+<script>
+const D = {"total": 323849, "ocr": 17016, "com_ementa": 301362, "autores": 5414, "caracteres": 1438543783, "ufs": [["SP", 40203, "São Paulo"], ["FED", 29185, "Federal"], ["GO", 27415, "Goiás"], ["MG", 26733, "Minas Gerais"], ["SC", 22254, "Santa Catarina"], ["BA", 15342, "Bahia"], ["PB", 15047, "Paraíba"], ["ES", 13805, "Espírito Santo"], ["PE", 13552, "Pernambuco"], ["PA", 11995, "Pará"], ["CE", 11182, "Ceará"], ["RS", 11158, "Rio Grande do Sul"], ["MT", 10415, "Mato Grosso"], ["SE", 9955, "Sergipe"], ["DF", 9170, "Distrito Federal"], ["MA", 8798, "Maranhão"], ["AM", 8081, "Amazonas"], ["RO", 8025, "Rondônia"], ["MS", 7213, "Mato Grosso do Sul"], ["PI", 5913, "Piauí"], ["RN", 5305, "Rio Grande do Norte"], ["AP", 3606, "Amapá"], ["AL", 2954, "Alagoas"], ["RR", 2906, "Roraima"], ["AC", 2355, "Acre"], ["TO", 1282, "Tocantins"]], "tipos": [["Lei Ordinária", 289684], ["Decreto-Lei", 18366], ["Lei Complementar", 12598], ["Emenda Constitucional", 2013], ["Lei Delegada", 550], ["Lei Promulgada", 434], ["Emenda à Lei Orgânica", 134], ["Constituição Estadual", 26], ["Decreto-Lei Complementar", 23], ["Lei Constitucional", 19], ["Lei Orgânica", 1]], "categorias": [["Utilidade pública", 59184], ["Outros", 41471], ["Orçamento e crédito", 28892], ["Alteração de outra norma", 26854], ["Pessoal e cargos", 25298], ["Denominação de bem público", 22307], ["Organização administrativa", 14882], ["Datas e calendário oficial", 9800], ["Terras e imóveis", 9141], ["Educação", 8868], ["Tributos e isenções", 8832], ["Transporte, obras e saneamento", 6604], ["Direitos e assistência social", 6279], ["Título de cidadão e honrarias", 6262], ["Cultura, esporte e turismo", 6183], ["Auxílios e subvenções", 5984], ["Saúde", 4495], ["Segurança pública", 4445], ["Meio ambiente", 2710], ["Criação de órgão ou entidade", 1763], ["Convênios e contratos", 1108]], "ano": [[1822, 1], [1823, 6], [1827, 1], [1828, 20], [1829, 8], [1830, 22], [1831, 23], [1832, 9], [1833, 12], [1834, 6], [1835, 28], [1836, 47], [1837, 38], [1838, 34], [1839, 15], [1840, 23], [1841, 34], [1842, 29], [1843, 15], [1844, 43], [1845, 20], [1846, 45], [1847, 30], [1848, 14], [1849, 30], [1850, 39], [1851, 19], [1852, 19], [1853, 26], [1854, 35], [1855, 35], [1856, 35], [1857, 57], [1858, 44], [1859, 31], [1860, 9], [1861, 19], [1862, 16], [1863, 21], [1864, 38], [1865, 117], [1866, 81], [1867, 49], [1868, 31], [1869, 47], [1870, 109], [1871, 50], [1872, 43], [1873, 61], [1874, 42], [1875, 59], [1876, 58], [1877, 69], [1878, 21], [1879, 77], [1880, 174], [1881, 152], [1882, 74], [1883, 107], [1884, 68], [1885, 132], [1886, 85], [1887, 63], [1888, 76], [1889, 129], [1890, 1], [1891, 33], [1892, 130], [1893, 160], [1894, 49], [1895, 126], [1896, 153], [1897, 62], [1898, 118], [1899, 120], [1900, 88], [1901, 82], [1902, 69], [1903, 55], [1904, 51], [1905, 71], [1906, 131], [1907, 89], [1908, 62], [1909, 59], [1910, 95], [1911, 102], [1912, 95], [1913, 82], [1914, 102], [1915, 52], [1916, 70], [1917, 66], [1918, 107], [1919, 112], [1920, 75], [1921, 114], [1922, 94], [1923, 53], [1924, 126], [1925, 125], [1926, 97], [1927, 120], [1928, 125], [1929, 67], [1930, 23], [1935, 337], [1936, 633], [1937, 850], [1938, 1172], [1939, 1192], [1940, 1361], [1941, 1590], [1942, 1619], [1943, 1385], [1944, 1509], [1945, 1912], [1946, 2217], [1947, 1420], [1948, 2096], [1949, 1751], [1950, 1302], [1951, 1996], [1952, 1798], [1953, 1928], [1954, 1804], [1955, 2145], [1956, 2188], [1957, 2597], [1958, 1909], [1959, 2403], [1960, 2608], [1961, 3411], [1962, 2943], [1963, 2911], [1964, 2847], [1965, 3796], [1966, 2296], [1967, 2538], [1968, 2476], [1969, 2449], [1970, 1802], [1971, 1864], [1972, 1452], [1973, 1642], [1974, 2102], [1975, 1791], [1976, 1759], [1977, 1874], [1978, 1964], [1979, 2413], [1980, 2706], [1981, 2844], [1982, 2657], [1983, 2067], [1984, 2834], [1985, 3232], [1986, 2644], [1987, 2774], [1988, 3015], [1989, 3774], [1990, 3525], [1991, 4062], [1992, 4089], [1993, 4421], [1994, 4440], [1995, 3845], [1996, 3777], [1997, 4035], [1998, 4384], [1999, 3917], [2000, 3984], [2001, 4506], [2002, 5436], [2003, 5149], [2004, 4985], [2005, 5488], [2006, 5715], [2007, 5432], [2008, 6220], [2009, 6397], [2010, 5817], [2011, 5817], [2012, 5307], [2013, 5895], [2014, 5476], [2015, 5200], [2016, 4863], [2017, 5393], [2018, 5008], [2019, 5251], [2020, 4422], [2021, 6789], [2022, 6862], [2023, 7937], [2024, 8699], [2025, 10126], [2026, 6404]], "decadas": [[1820, 36], [1830, 234], [1840, 283], [1850, 340], [1860, 428], [1870, 589], [1880, 1060], [1890, 952], [1900, 757], [1910, 883], [1920, 996], [1930, 4207], [1940, 16860], [1950, 20070], [1960, 28275], [1970, 18663], [1980, 28547], [1990, 40495], [2000, 53312], [2010, 54027], [2020, 51239]], "palavras": [["pública", 66641], ["utilidade", 59264], ["dispõe", 50977], ["município", 45814], ["declara", 42514], ["autoriza", 41502], ["sede", 32208], ["altera", 31575], ["poder", 28545], ["associação", 26597], ["crédito", 26493], ["executivo", 26075], ["institui", 21970], ["especial", 19920], ["cria", 17975], ["dezembro", 15985], ["concede", 14669], ["denominação", 14411], ["foro", 13878], ["reconhece", 13551], ["federal", 11617], ["secretaria", 11290], ["cidade", 11190], ["distrito", 10806], ["cargos", 10159], ["abre", 10124], ["ministério", 10073], ["abrir", 9554], ["âmbito", 8923], ["entidade", 8867], ["saúde", 8108], ["favor", 8027], ["imóvel", 7995], ["janeiro", 7916], ["suplementar", 7894], ["servidores", 7706], ["considera", 7671], ["social", 7635], ["complementar", 7610], ["público", 7506], ["título", 7344], ["nova", 7328], ["valor", 7310], ["quadro", 7074], ["grande", 7031], ["escola", 6862], ["dispositivos", 6786], ["redação", 6759], ["julho", 6634], ["educação", 6634], ["desenvolvimento", 6568], ["denomina", 6476], ["orçamento", 6212], ["instituto", 6161], ["abertura", 6144], ["mato", 6039], ["ensino", 5990], ["serviços", 5989], ["criação", 5983], ["união", 5941], ["programa", 5787], ["grosso", 5711], ["exercício", 5677], ["fixa", 5641], ["vencimentos", 5566], ["justiça", 5539], ["novembro", 5442], ["cultural", 5437], ["estabelece", 5359], ["públicos", 5347], ["acrescenta", 5345], ["centro", 5245], ["tribunal", 5227], ["capital", 5113], ["decreto", 5049], ["nacional", 4951], ["fazenda", 4950], ["calendário", 4946], ["junho", 4929], ["fundo", 4880]], "pessoas": [["Marconi Ferreira Perillo Júnior", 4247], ["Aécio Neves", 3795], ["Geraldo Alckmin", 3457], ["Ronaldo Caiado", 3097], ["Getulio Vargas", 2654], ["Antonio Augusto Junho Anastasia", 2357], ["Camilo Sobreira de Santana", 2158], ["Joaquim Domingos Roriz", 2142], ["Luiz Inácio Lula da Silva", 2121], ["José Renato Casagrande", 2070], ["Romeu Zema Neto", 2066], ["Luiz Antonio Fleury Filho", 2022], ["Luiz Henrique da Silveira", 2013], ["João Raimundo Colombo", 1986], ["Carlos Alberto a. de Carvalho Pinto", 1936]], "cat_uf": {"SE": [["Utilidade pública", 3945], ["Pessoal e cargos", 1078], ["Orçamento e crédito", 1078], ["Outros", 969], ["Alteração de outra norma", 606], ["Auxílios e subvenções", 317]], "SP": [["Denominação de bem público", 10153], ["Outros", 6391], ["Utilidade pública", 5417], ["Alteração de outra norma", 2778], ["Pessoal e cargos", 2755], ["Terras e imóveis", 2494]], "PE": [["Auxílios e subvenções", 2763], ["Outros", 1794], ["Orçamento e crédito", 1465], ["Alteração de outra norma", 1203], ["Pessoal e cargos", 1170], ["Denominação de bem público", 789]], "PB": [["Outros", 2675], ["Utilidade pública", 2309], ["Denominação de bem público", 1395], ["Título de cidadão e honrarias", 1203], ["Pessoal e cargos", 1084], ["Alteração de outra norma", 1013]], "MS": [["Utilidade pública", 1818], ["Alteração de outra norma", 1059], ["Pessoal e cargos", 681], ["Outros", 638], ["Denominação de bem público", 536], ["Datas e calendário oficial", 429]], "MT": [["Utilidade pública", 2571], ["Outros", 1395], ["Alteração de outra norma", 1387], ["Pessoal e cargos", 840], ["Organização administrativa", 652], ["Denominação de bem público", 450]], "GO": [["Outros", 5349], ["Utilidade pública", 3762], ["Alteração de outra norma", 2417], ["Denominação de bem público", 1834], ["Organização administrativa", 1797], ["Orçamento e crédito", 1649]], "AC": [["Outros", 428], ["Alteração de outra norma", 350], ["Título de cidadão e honrarias", 314], ["Orçamento e crédito", 282], ["Pessoal e cargos", 229], ["Utilidade pública", 113]], "AM": [["Outros", 967], ["Alteração de outra norma", 865], ["Pessoal e cargos", 793], ["Utilidade pública", 773], ["Datas e calendário oficial", 722], ["Título de cidadão e honrarias", 633]], "MA": [["Utilidade pública", 3810], ["Outros", 772], ["Alteração de outra norma", 719], ["Pessoal e cargos", 633], ["Orçamento e crédito", 401], ["Organização administrativa", 367]], "DF": [["Outros", 1393], ["Orçamento e crédito", 1381], ["Organização administrativa", 1064], ["Alteração de outra norma", 904], ["Pessoal e cargos", 779], ["Datas e calendário oficial", 564]], "AP": [["Outros", 455], ["Pessoal e cargos", 450], ["Alteração de outra norma", 330], ["Utilidade pública", 326], ["Organização administrativa", 308], ["Datas e calendário oficial", 260]], "AL": [["Utilidade pública", 594], ["Outros", 285], ["Pessoal e cargos", 257], ["Orçamento e crédito", 243], ["Alteração de outra norma", 223], ["Organização administrativa", 213]], "MG": [["Utilidade pública", 13195], ["Denominação de bem público", 2258], ["Outros", 1875], ["Terras e imóveis", 1773], ["Orçamento e crédito", 1684], ["Alteração de outra norma", 934]], "RR": [["Alteração de outra norma", 432], ["Pessoal e cargos", 429], ["Outros", 317], ["Organização administrativa", 272], ["Orçamento e crédito", 251], ["Direitos e assistência social", 213]], "RN": [["Utilidade pública", 2202], ["Pessoal e cargos", 443], ["Outros", 441], ["Cultura, esporte e turismo", 343], ["Alteração de outra norma", 340], ["Datas e calendário oficial", 304]], "RS": [["Outros", 2313], ["Pessoal e cargos", 2130], ["Alteração de outra norma", 1451], ["Terras e imóveis", 942], ["Orçamento e crédito", 863], ["Datas e calendário oficial", 514]], "RO": [["Orçamento e crédito", 2057], ["Alteração de outra norma", 1424], ["Pessoal e cargos", 829], ["Outros", 791], ["Utilidade pública", 628], ["Organização administrativa", 378]], "PI": [["Utilidade pública", 1382], ["Pessoal e cargos", 664], ["Outros", 614], ["Alteração de outra norma", 545], ["Organização administrativa", 379], ["Denominação de bem público", 374]], "PA": [["Utilidade pública", 3036], ["Orçamento e crédito", 2870], ["Outros", 1346], ["Pessoal e cargos", 892], ["Alteração de outra norma", 670], ["Datas e calendário oficial", 458]], "BA": [["Utilidade pública", 9390], ["Outros", 1444], ["Orçamento e crédito", 1061], ["Alteração de outra norma", 868], ["Pessoal e cargos", 812], ["Tributos e isenções", 274]], "ES": [["Outros", 1899], ["Utilidade pública", 1583], ["Pessoal e cargos", 1483], ["Orçamento e crédito", 1436], ["Alteração de outra norma", 1329], ["Título de cidadão e honrarias", 1319]], "CE": [["Outros", 1451], ["Utilidade pública", 1406], ["Pessoal e cargos", 1368], ["Denominação de bem público", 1361], ["Alteração de outra norma", 1158], ["Datas e calendário oficial", 1032]], "TO": [["Utilidade pública", 203], ["Título de cidadão e honrarias", 172], ["Alteração de outra norma", 148], ["Outros", 117], ["Pessoal e cargos", 103], ["Datas e calendário oficial", 99]], "FED": [["Orçamento e crédito", 7685], ["Outros", 5352], ["Alteração de outra norma", 3701], ["Pessoal e cargos", 2943], ["Organização administrativa", 2199], ["Tributos e isenções", 1778]]}};
+const fmt = n => n.toLocaleString('pt-BR');
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+
+document.getElementById('resumo').textContent =
+  `${fmt(D.total)} normas, de ${D.ano.length ? D.ano[0][0] : ''} a ${D.ano.length ? D.ano[D.ano.length-1][0] : ''}`;
+document.getElementById('f-total').textContent = fmt(D.total);
+
+const cartoes = [
+  [fmt(D.total), 'normas em Markdown'],
+  [fmt(D.ufs.length - 1) + ' + 1', 'estados e a União'],
+  [fmt(D.autores), 'autores no histórico'],
+  [(D.caracteres / 1e9).toFixed(2) + ' bi', 'caracteres de texto'],
+  [fmt(D.ocr), 'vindas de OCR'],
+];
+document.getElementById('cartoes').innerHTML = cartoes
+  .map(([a, b]) => `<div class="num"><b>${a}</b><span>${b}</span></div>`).join('');
+
+function barras(alvo, dados, rotulo) {
+  const max = Math.max(...dados.map(d => d[1]));
+  document.getElementById(alvo).innerHTML = dados.map(d => `
+    <tr>
+      <td>${rotulo(d)}</td>
+      <td style="width:100%"><div class="trilha"><div class="barra"
+        style="width:${Math.max(2, 100 * d[1] / max)}%"></div></div></td>
+      <td class="rotulo">${fmt(d[1])}</td>
+    </tr>`).join('');
+}
+
+barras('t-ufs', D.ufs, d => d[0] === 'FED' ? 'União' : `${d[2]} <span style="color:var(--suave)">${d[0]}</span>`);
+barras('t-cat', D.categorias, d => d[0]);
+barras('t-tipos', D.tipos, d => d[0]);
+barras('t-pessoas', D.pessoas, d => d[0]);
+
+// --- série por década, em SVG ---
+function decadas(alvo, dados) {
+  const L = 44, R = 8, T = 10, B = 30, A = 260;
+  const n = dados.length, max = Math.max(...dados.map(d => d[1]));
+  const W = 900, larg = (W - L - R) / n;
+  const y = v => T + (A - T - B) * (1 - v / max);
+  const barras = dados.map(([dec, v], i) => {
+    const x = L + i * larg;
+    return `<rect x="${x + larg * 0.12}" y="${y(v)}" width="${larg * 0.76}"
+      height="${A - B - y(v)}" rx="2" fill="var(--serie)">
+      <title>${dec}s: ${fmt(v)} normas</title></rect>` +
+      (dec % 20 === 0 ? `<text x="${x + larg / 2}" y="${A - 10}" text-anchor="middle"
+        font-size="11" fill="var(--suave)">${dec}</text>` : '');
+  }).join('');
+  const linhas = [0, 0.5, 1].map(f => {
+    const v = max * f;
+    return `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grade)"/>
+      <text x="${L - 6}" y="${y(v) + 4}" text-anchor="end" font-size="11"
+        fill="var(--suave)">${v >= 1000 ? Math.round(v / 1000) + 'k' : Math.round(v)}</text>`;
+  }).join('');
+  document.getElementById(alvo).innerHTML =
+    `<svg viewBox="0 0 ${W} ${A}" role="img" aria-label="normas por década">${linhas}${barras}</svg>`;
+}
+decadas('g-decadas', D.decadas);
+
+// --- nuvem de palavras ---
+const pmax = D.palavras[0][1], pmin = D.palavras[D.palavras.length - 1][1];
+document.getElementById('nuvem').innerHTML = D.palavras.map(([p, c]) => {
+  const t = 13 + 26 * Math.sqrt((c - pmin) / (pmax - pmin || 1));
+  return `<span style="font-size:${t.toFixed(1)}px" title="${fmt(c)} ementas">${p} <i>${fmt(c)}</i></span>`;
+}).join('');
+</script>
+</body>
+</html>

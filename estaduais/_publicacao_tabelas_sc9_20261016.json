@@ -1,0 +1,151 @@
+{
+  "estado": "aprovado_raiz_para_publicacao9_retido1",
+  "manifesto_sc10": {
+    "path": "estaduais/_reparo_tachado_tabelas_sc_20261016.json",
+    "sha256": "e568a0343fb3227378a10c9c8ccf29500f27938845a15026fef89d3939114daa"
+  },
+  "integracao": {
+    "path": "estaduais/_integracao_tabelas_semanticas_20261016.json",
+    "sha256": "70db2e58fa3bcf5e96533fa70642bb0ba69d84abe45f915f384ff77fad034a3c"
+  },
+  "revisao_independente": {
+    "path": "estaduais/SC/_indice/_revisao-independente-tabelas-20261016/revisao.json",
+    "sha256": "14dfa08f4c5eaab7de0ebc65c7dd3a89f237f23d651baf5d408446aab16da7a1"
+  },
+  "metadata": {
+    "path": "estaduais/_correcoes_metadados_sc10_20261016.json",
+    "sha256": "ade9b11ec54047859c7817fa182e5ec1a2c5dc84e6490357ad9470a9b98170f5",
+    "corpos_e_outros_headers_identicos": true
+  },
+  "core_sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+  "documentos": [
+    {
+      "path": "estaduais/SC/leis-complementares/2006/lc-356-2006-id15532.md",
+      "sha256_md": "d38b0b51679dda36094405bcacdb34d2f0377d08cad4447b008a87eed96aedf8",
+      "sha256_fonte": "d55160de1ffb066fd25bdd753b4ef199bb52e438bf44bdac1d33bac4efe5ee27",
+      "sha256_semantica": "73196d0f7f854c7938aea8f00b6120bbc79ad1ad49aa49c7b02d41bd92c14245",
+      "tabelas": 7,
+      "celulas": 304,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-complementares/1994/lc-128-1994-id11179.md",
+      "sha256_md": "321f0094b77c6f8d6bb5ef917348975f2a463cb7167921bd63c45b77f6016beb",
+      "sha256_fonte": "e16dbd4a4a5d309e152b681d8f2d76f5ff8ce98a68ff5bfa81d963ace5a1bc25",
+      "sha256_semantica": "c483916af94fac2e635152393fc37b4999dae6a441a00369c735e938b40b2fa3",
+      "tabelas": 3,
+      "celulas": 32,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1971/leip-1086-1971-id5713.md",
+      "sha256_md": "e338f1b4d2baa69fe862945ac029d6189b36b35389acfd2dffc9faa8b3d50865",
+      "sha256_fonte": "dd7d9bc06021479182d8db549063da35b2054954b4d4cdacd2ec9a25e12515e9",
+      "sha256_semantica": "bf54087ba0eb3d768f2bd03fa1da5a1e6c963169524f832ec0e776910b266611",
+      "tabelas": 13,
+      "celulas": 235,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1114-1988-id8703.md",
+      "sha256_md": "328e1922c3a937494c1614fe29e2398f0e6c347c1981674ecbe6a6a0749ba0d5",
+      "sha256_fonte": "381aef59fe2752a773cdbd3de7c3b8c0c3edd91a7cf3ae098d3569f00f65dcf9",
+      "sha256_semantica": "c048ab2de5e3b87f66a590ad6f5914f1c5479e9d93b3e57deef9bf80d5213237",
+      "tabelas": 13,
+      "celulas": 138,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1116-1988-id8780.md",
+      "sha256_md": "6c42a936df09bbb6852254b644feeda77420202ac6740366c63522462a1416a0",
+      "sha256_fonte": "8f06c368961f1830d7b2af054e1d8064b3c31e361be48a06df9c922aa802a8e3",
+      "sha256_semantica": "538e39a03c01cd941d034c58b59cd020118e3de327a0e19a0837a866d89089d6",
+      "tabelas": 11,
+      "celulas": 43,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1991/leip-1120-1991-id9520.md",
+      "sha256_md": "b0d0bd41f042d2a5277a87d4f5415dde539051022cd3e21140c7e8b59df30955",
+      "sha256_fonte": "9ba4e75dbf209dc5fc689637e02d6d5a5615b22ac1051f7939bfd3950c7367dd",
+      "sha256_semantica": "eab29fa5214eee8d2ae48db5722dfa7043f5dfc87240bb56370b902b785f6bbf",
+      "tabelas": 1,
+      "celulas": 93,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": false
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1992/leip-1130-1992-id9882.md",
+      "sha256_md": "e01f3c06bf976adc6b3677eb21030dbba265ca2d8b45f3899c06ccc30463c538",
+      "sha256_fonte": "fb9d682a34ddbfca05a581fd2fc71fd4f56178668298f448e7d176e5432fd87e",
+      "sha256_semantica": "527e32890c25dcb44581343cc0b7c6a680ef67307c269ff5db5b32993eaf855d",
+      "tabelas": 25,
+      "celulas": 976,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1993/leip-1148-1993-id10549.md",
+      "sha256_md": "0d72f2c264b9c9f194c7351e62619c05b4fbb01998e14ce7da7e3f4fcb0bfdc1",
+      "sha256_fonte": "191b1bcf428303661cd6064f9ff3bb7d34756ea9ee315044fab6d14893fdb8a1",
+      "sha256_semantica": "dbbec9e2ec780681305e3dc3b0c0513428416fe54994fbe5bebc5d9cc642ef0c",
+      "tabelas": 5,
+      "celulas": 455,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1998/leip-10933-1998-id12479.md",
+      "sha256_md": "f5cf66b1537aeb162a761b3f58b2397a344d24baf666b991be67be407590a90b",
+      "sha256_fonte": "8a2a07adbdadf9f88798996f0fc3636b241542939f6a79b85364ae79381544b5",
+      "sha256_semantica": "4e57a190484dd19c6dfa863fa62163999730019590029cc6675637f37fb06089",
+      "tabelas": 4,
+      "celulas": 26,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "sha256_md": "bd6d103dbc545c54f71b80a876a5ba1299835cc32f8d86283c7f9179c080a93c",
+      "sha256_fonte": "d73d0e802fb31fcf179733830cd83294089d1d62c1272aac9ab884d85fa5576e",
+      "sha256_semantica": "a6d25589b83e52688b23a06148868b511dde84081fde6f9cdae32367cf40586b",
+      "tabelas": 2,
+      "celulas": 86,
+      "fonte_MD_perfil_iguais": true,
+      "publicavel": true
+    }
+  ],
+  "limites": [
+    "LEIP1120retida por volumes próprios ausentes; divergência de datas preservada.",
+    "Comparação estrutural e parser GFM não constituem inspeção visual do GitHub ou navegador.",
+    "Scripts históricos de testes preservam os caminhos/cache do ambiente da execução; não se afirma execução autônoma em clone limpo sem suas dependências/caches.",
+    "A prova independente original é do core dfde e de headers anteriores; raiz comparou todas árvores/corpos com o corebb atual e conferiu as duas correções mínimas de metadata separadamente."
+  ],
+  "verificacoes_raiz": {
+    "arquivos_perfil_hash_conferidos": 82,
+    "AST_scripts": 5,
+    "metadados_correcoes_minimas": 2,
+    "html5_oracle": {
+      "fixtures": 8,
+      "sha256_prova": "58c34fe21110d1ac2bc8d2c2406038e1f0ca90b01cafbd87f5f87500afda9dea"
+    },
+    "RFB_pendencia_PDF_sem_cache": {
+      "HTTP": 0,
+      "canonico_ledger_preservados": true,
+      "sha256_prova": "80a5e731604f18964f736d448b57f9f87694e1b505ec4705bb52ddb25ce116b6"
+    }
+  },
+  "diff_check": {
+    "path": "estaduais/_whitespace_preservado_sc9_20261016.json",
+    "sha256": "4355a3ddd96d1bba585943e49a934c875673163d1cab514df4ad5ce2fc8a99bf",
+    "ocorrencias": 80,
+    "snapshots_originais": 79,
+    "quebra_GFM_com_br_na_fonte": 1,
+    "alteracoes_indevidas": 0
+  }
+}

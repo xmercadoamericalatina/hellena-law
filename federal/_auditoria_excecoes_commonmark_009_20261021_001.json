@@ -1,0 +1,365 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1955/dec-36963-1955-03-01.md",
+      "urn": "urn:lex:br:federal:decreto:1955-03-01;36963",
+      "sha256": "fca208826f46e93874a42ee5685797cc245ee764b4d40fc2ce2af13a3788b967",
+      "sha256_fonte_html": "ef9ed334f83c5d7d9d6f375bc53b13da8317b6f3fd17edeec28de6f0a0b4e356",
+      "marcadores": [
+        {
+          "inicio": 5804,
+          "fim": 5977,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-036963-0-000-01-03-1955@@@</span></p>",
+          "texto_original": "###DEC-036963-0-000-01-03-1955@@@",
+          "codigo": "###DEC-036963-0-000-01-03-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-03-01"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-36932-1955-02-18.md",
+      "urn": "urn:lex:br:federal:decreto:1955-02-18;36932",
+      "sha256": "e3b6991cd155362e90b248819fa112ea08c0c1c25ad8ccca45cc0877789a0462",
+      "sha256_fonte_html": "83bde031ba9b3efc537d1e623f2e310444bbb5972466b3d3da80262e59e0ff96",
+      "marcadores": [
+        {
+          "inicio": 5780,
+          "fim": 5954,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-036932-0-000-18-02-1955@@@b</span></p>",
+          "texto_original": "###DEC-036932-0-000-18-02-1955@@@b",
+          "codigo": "###DEC-036932-0-000-18-02-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "b",
+          "data_codigo": "1955-02-18"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-36836-1955-02-02.md",
+      "urn": "urn:lex:br:federal:decreto:1955-02-02;36836",
+      "sha256": "5196b7f92a49245bb3c96405d4753e9c6858961141b4d44afce18cdd5d36f131",
+      "sha256_fonte_html": "99e11777fbe449be22734fcadc3b339b37b3797a43ba519a47cd26e80dc9f7c0",
+      "marcadores": [
+        {
+          "inicio": 5756,
+          "fim": 5930,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">b###DEC-036836-0-000-02-02-1955@@@</span></p>",
+          "texto_original": "b###DEC-036836-0-000-02-02-1955@@@",
+          "codigo": "###DEC-036836-0-000-02-02-1955@@@",
+          "prefixo_preservado": "b",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-02-02"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-36799-1955-01-21.md",
+      "urn": "urn:lex:br:federal:decreto:1955-01-21;36799",
+      "sha256": "cd64ac72839729d31c87db3cf028a472a5f6040937a3d2cb19ee1aae8d54b34d",
+      "sha256_fonte_html": "909331980e354c045aa45ce3f8aa2e188e388c84e66d10d2c6974c354a040e0e",
+      "marcadores": [
+        {
+          "inicio": 5822,
+          "fim": 5996,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">/###DEC-036799-0-000-21-01-1955@@@</span></p>",
+          "texto_original": "/###DEC-036799-0-000-21-01-1955@@@",
+          "codigo": "###DEC-036799-0-000-21-01-1955@@@",
+          "prefixo_preservado": "/",
+          "sufixo_preservado": "",
+          "data_codigo": "1955-01-21"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1955/dec-36786-1955-01-18.md",
+      "urn": "urn:lex:br:federal:decreto:1955-01-18;36786",
+      "sha256": "9130555c91004f67bdda31de974a6df5e7fac7b397055d22974b4eaa05c8b039",
+      "sha256_fonte_html": "ccdb05a154daf8e55579b198c8fccc6f950d0c23ace1193adfac9a62feb0b486",
+      "marcadores": [
+        {
+          "inicio": 5746,
+          "fim": 5920,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-036786-0-000-18-01-1955@@@-</span></p>",
+          "texto_original": "###DEC-036786-0-000-18-01-1955@@@-",
+          "codigo": "###DEC-036786-0-000-18-01-1955@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "-",
+          "data_codigo": "1955-01-18"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-36691-1954-12-29.md",
+      "urn": "urn:lex:br:federal:decreto:1954-12-29;36691",
+      "sha256": "7d1d3a3951f43d513d991e4c2cf87202c9b46a902841aed7adfc71e09dc9fec8",
+      "sha256_fonte_html": "ad067c0ae3f4310752d50dad2a8d324e1f6e688484b1ed110398f22b90d7db43",
+      "marcadores": [
+        {
+          "inicio": 5657,
+          "fim": 5831,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-036691-0-000-29-12-1954@@@*</span></p>",
+          "texto_original": "###DEC-036691-0-000-29-12-1954@@@*",
+          "codigo": "###DEC-036691-0-000-29-12-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "*",
+          "data_codigo": "1954-12-29"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-36585-1954-12-08.md",
+      "urn": "urn:lex:br:federal:decreto:1954-12-08;36585",
+      "sha256": "8b37f466502373c80584c25b252b5eddc7eee391dc180aaa69dc689ccfa14666",
+      "sha256_fonte_html": "b40642c808318add51e5dc14c2793656b04e4506f2d6842d611426c92382db2c",
+      "marcadores": [
+        {
+          "inicio": 5718,
+          "fim": 5891,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-036585-0-000-08-12-1954@@@</span></p>",
+          "texto_original": "###DEC-036585-0-000-08-12-1954@@@",
+          "codigo": "###DEC-036585-0-000-08-12-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-12-08"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-35783-1954-07-07.md",
+      "urn": "urn:lex:br:federal:decreto:1954-07-07;35783",
+      "sha256": "cc6b3be8b7bc7c004a459a9cbed8e2b758f22b0c685aeb54d145a353047b7075",
+      "sha256_fonte_html": "c0a94564c5c4264506eb8db06a0454369796db15d49f5746bbdc44bc97899dca",
+      "marcadores": [
+        {
+          "inicio": 5728,
+          "fim": 5902,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">/###DEC-035783-0-000-07-07-1954@@@</span></p>",
+          "texto_original": "/###DEC-035783-0-000-07-07-1954@@@",
+          "codigo": "###DEC-035783-0-000-07-07-1954@@@",
+          "prefixo_preservado": "/",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-07-07"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-35677-1954-06-16.md",
+      "urn": "urn:lex:br:federal:decreto:1954-06-16;35677",
+      "sha256": "a9058e037993bb6c8233dd0bb690851c85df896a7349071902869ce3b05d9cb4",
+      "sha256_fonte_html": "d7795fe67d5ece60d9879145f24fbe32d5cce39698eb3125f4cc35cddb311866",
+      "marcadores": [
+        {
+          "inicio": 5723,
+          "fim": 5896,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-035677-0-000-16-07-1954@@@</span></p>",
+          "texto_original": "###DEC-035677-0-000-16-07-1954@@@",
+          "codigo": "###DEC-035677-0-000-16-07-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-07-16"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-35623-1954-06-07.md",
+      "urn": "urn:lex:br:federal:decreto:1954-06-07;35623",
+      "sha256": "6ac74b511ee9e53aee0c9918be7217b6f4befd1239c8e5660b5467e7bce841d7",
+      "sha256_fonte_html": "d5f2f0a43315047ac4531bf237b72659bbf1c47acae2e88262c7f18e238843ca",
+      "marcadores": [
+        {
+          "inicio": 5779,
+          "fim": 5952,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-035623-0-000-07-06-1954@@@</span></p>",
+          "texto_original": "###DEC-035623-0-000-07-06-1954@@@",
+          "codigo": "###DEC-035623-0-000-07-06-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-06-07"
+        },
+        {
+          "inicio": 43901,
+          "fim": 44090,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-035623-0-000-07-06-1954@@@</span></p>",
+          "texto_original": "###DEC-035623-0-000-07-06-1954@@@",
+          "codigo": "###DEC-035623-0-000-07-06-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-06-07"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1954/dec-35403-1954-04-20.md",
+      "urn": "urn:lex:br:federal:decreto:1954-04-20;35403",
+      "sha256": "df0c57bc12b116b4d1af956f11e02f16d26c050361f9c0ab3012cbe660bab3b0",
+      "sha256_fonte_html": "9064aeb330904b2499746a5647a8c55e42fd529a5500b690dd5f99ff07cd01c3",
+      "marcadores": [
+        {
+          "inicio": 5764,
+          "fim": 5937,
+          "html_original": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-035403-0-000-20-04-1954@@@</span></p>",
+          "texto_original": "###DEC-035403-0-000-20-04-1954@@@",
+          "codigo": "###DEC-035403-0-000-20-04-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-04-20"
+        },
+        {
+          "inicio": 87249,
+          "fim": 87438,
+          "html_original": "<p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-035403-0-000-20-04-1954@@@</span></p>",
+          "texto_original": "###DEC-035403-0-000-20-04-1954@@@",
+          "codigo": "###DEC-035403-0-000-20-04-1954@@@",
+          "prefixo_preservado": "",
+          "sufixo_preservado": "",
+          "data_codigo": "1954-04-20"
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "TÍTULO I — DA FINALIDADE",
+          "fonte": "TÍTULO I DA FINALIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO II — DA ORGANIZAÇÃO",
+          "fonte": "TÍTULO II DA ORGANIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO III — DA COMPETÊNCIA DOS ÓRGÃOS",
+          "fonte": "TÍTULO III DA COMPETÊNCIA DOS ÓRGÃOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — Da Divisão Orçamentária",
+          "fonte": "CAPÍTULO I Da Divisão Orçamentária",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Da Divisão Financeira",
+          "fonte": "CAPÍTULO II Da Divisão Financeira",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Da Divisão Patrimonial",
+          "fonte": "CAPÍTULO III Da Divisão Patrimonial",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capÍtulo IV — Da Divisão de Bancos e Correspondência",
+          "fonte": "capÍtulo IV Da Divisão de Bancos e Correspondência",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — Da Divisão de Orientação e Contrôle",
+          "fonte": "CAPÍTULO V Da Divisão de Orientação e Contrôle",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — Do serviço de Administração e das Turmas de Serviços Auxiliares",
+          "fonte": "CAPÍTULO VI Do serviço de Administração e das Turmas de Serviços Auxiliares",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — Das Contadorias e Subcontadorias Seccionais",
+          "fonte": "CAPÍTULO VII Das Contadorias e Subcontadorias Seccionais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO V — DAS ATRIBUIÇÕES DO PESSOAL",
+          "fonte": "TÍTULO V DAS ATRIBUIÇÕES DO PESSOAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO VI — DAS SUBSTITUIÇÕES",
+          "fonte": "TÍTULO VI DAS SUBSTITUIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO VII — DA LOTAÇÃO",
+          "fonte": "TÍTULO VII DA LOTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO VIII — DO HORÁRIO",
+          "fonte": "TÍTULO VIII DO HORÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO IX — DO BOLETIM DA CONTADORIA GERAL DA REPÚBLICA",
+          "fonte": "TÍTULO IX DO BOLETIM DA CONTADORIA GERAL DA REPÚBLICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO X — DISPOSIÇÕES GERAIS",
+          "fonte": "TÍTULO X DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1955/dec-36786-1955-01-18.md",
+      "candidate": "federal/_candidatos_excecoes_009_20261021_001/dec-36786-1955-01-18.md",
+      "sha256_candidato": "e69f44ef3868e2fbc824f19ce5db68bef13da7414f9b729383042df581074300",
+      "sha256_preimagem": "9130555c91004f67bdda31de974a6df5e7fac7b397055d22974b4eaa05c8b039",
+      "mudanca": "Um escape do sinal literal - isolado para preservar o caractere da fonte, que CommonMark tratava como marcador de lista."
+    },
+    {
+      "path": "federal/decretos/1954/dec-36585-1954-12-08.md",
+      "candidate": "federal/_candidatos_excecoes_009_20261021_001/dec-36585-1954-12-08.md",
+      "sha256_candidato": "b1755cee9cfb300cc99b48ce666c9a201fe772920426b932850cc45474c600a9",
+      "sha256_preimagem": "8b37f466502373c80584c25b252b5eddc7eee391dc180aaa69dc689ccfa14666",
+      "mudanca": "Três escapes de crases literais nas coordenadas, sem outra alteração no corpo."
+    },
+    {
+      "path": "federal/decretos/1954/dec-35677-1954-06-16.md",
+      "candidate": "federal/_candidatos_excecoes_009_20261021_001/dec-35677-1954-06-16.md",
+      "sha256_candidato": "0b89a45569f486387e33952e2e530ea1ccc46af727e42698a686038b3b264427",
+      "sha256_preimagem": "a9058e037993bb6c8233dd0bb690851c85df896a7349071902869ce3b05d9cb4",
+      "mudanca": "Somente nota editorial de divergência do mês no código administrativo."
+    }
+  ],
+  "resumo": {
+    "revisados": 11,
+    "aprovados": 11,
+    "reparos_privados": 3
+  }
+}

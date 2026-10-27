@@ -1,0 +1,259 @@
+{
+  "criado_em": "2026-10-21T07:33:13.032658+00:00",
+  "auditados": 1783,
+  "manifestos": [
+    {
+      "path": "federal/_lote_dec_continuacao_20261020_012.json",
+      "sha256": "7ea9ee17e9c563cfbf6cdb4eb722c67d18e2142e8e5feef0260983e3d87fc8f6"
+    }
+  ],
+  "elementos_visuais": [],
+  "anexos_pendentes": [
+    {
+      "path": "federal/decretos/1952/dec-30691-1952-03-29.md",
+      "urn": "urn:lex:br:federal:decreto:1952-03-29;30691",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-29;30691",
+      "sha256": "724eb74c69a8df6a8c49d7d0e0c769841f0aca3754c3cb18255a099fbe5db51b",
+      "fonte_html_cache": "federal/_fonte/decretos/1952/dec-30691-1952-03-29.html.gz",
+      "sha256_fonte_html": "0ef7060e6f7d6a23a8f677c88ffee93c186c646c0671a1d4170f50baedfec429",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1952 pags. 486 a 492 carimbos.",
+        "estado": "revisao_documental_necessaria"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-30163-1951-11-13.md",
+      "urn": "urn:lex:br:federal:decreto:1951-11-13;30163",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-13;30163",
+      "sha256": "57ceca9624266518da019331c0dd38a701bcb98123d39d120cbb0e5236fd318d",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-30163-1951-11-13.html.gz",
+      "sha256_fonte_html": "02a1ad184caef03314aef1abe038813d4838a3b660989092cfe540dcbe195c6b",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1951 pags. 93 simbolo fig. 01",
+        "estado": "revisao_documental_necessaria"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29784-1951-07-19.md",
+      "urn": "urn:lex:br:federal:decreto:1951-07-19;29784",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-19;29784",
+      "sha256": "b6482ae398905481594ebcdf5b67c163acf750bc76269b50a3f6ba728304222a",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29784-1951-07-19.html.gz",
+      "sha256_fonte_html": "194c31ff7d39dc8a335d6f61ac099a40349f47e3a0e65ed903e11b54bdf431ec",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabela unica de mensalista do ministerio do trabalho, industria e comercio, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, 19 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "danton coelho"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29795-1951-07-19.md",
+      "urn": "urn:lex:br:federal:decreto:1951-07-19;29795",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-19;29795",
+      "sha256": "5a6fb89c38c246b0773112a42170fe0d5ce2108f3e139724c75c5b4f336f7bdd",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29795-1951-07-19.html.gz",
+      "sha256_fonte_html": "0f23b9bc2f16f436232fad30cf46dc8caab8b3c45ba9579a1707310d5b011ae7",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da educacao e saude as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, em 19 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "e. simoes filho"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29768-1951-07-16.md",
+      "urn": "urn:lex:br:federal:decreto:1951-07-16;29768",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-16;29768",
+      "sha256": "c6901a5908ec8484f44892011eed1f553f4318c8c378d7eac40826488f799c80",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29768-1951-07-16.html.gz",
+      "sha256_fonte_html": "b22aa4b2663dc7739b4b01798ee0fa0179151956ed08bbc673ba6f45f734fa03",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "t. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da aeronautica, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, em 16 de julho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "nero moura"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29739-1951-07-09.md",
+      "urn": "urn:lex:br:federal:decreto:1951-07-09;29739",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-09;29739",
+      "sha256": "3287041c8589e3f105b8f35486c37df33ba7f8e84ce349b5eee9aae48aace65e",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29739-1951-07-09.html.gz",
+      "sha256_fonte_html": "2e3f3ce83566827ac0f8fae0b55917818f55266412059f3e6df80fb46d6cdf5d",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabelas unica de mensalistas do ministerio da justica e negocios interiores as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do art. 2º do decreto-lei nº 5.175 de 7 de janeiro de 1943,",
+        "fecho": "rio de janeiro, em 9 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "francisco negrao de lima"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29737-1951-07-03.md",
+      "urn": "urn:lex:br:federal:decreto:1951-07-03;29737",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-03;29737",
+      "sha256": "168964acb802d3e95a96d5dcb2695639f7b323af81603a20b8403da49ad3243d",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29737-1951-07-03.html.gz",
+      "sha256_fonte_html": "3bf326c41ebc54c9a2f5b20e0cc4ec9dfc6d09a98b42587b49930e27a5777918",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "unica de mensalistas do ministerio da viacao e obras publicas, a ser oportunamente organizada, as funcoes constantes do anexo ii deste decreto.\n§ 1º realizadas as provas, os atuais ocupantes das funcoes a que se refere este artigo, se nao satisfizerem as condico",
+        "fecho": "rio de janeiro, em 3 de julho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "alvaro de souza lima"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29672-1951-06-15.md",
+      "urn": "urn:lex:br:federal:decreto:1951-06-15;29672",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-15;29672",
+      "sha256": "d7a84046cd7f044e72771549567cc71115dd05f121c0a4201fd2df55603fc453",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29672-1951-06-15.html.gz",
+      "sha256_fonte_html": "94d87fefa4bbe0ec92c14447a2b646d52addfe565daf3439b7715570492275d2",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "to e consequente inclusao na nova t.u.m. a ser oportunidade organizada para aquele ministerio, as funcoes constantes do anexo deste decreto.\n§ 1º realizadas as provas, os atuais ocupantes das funcoes a que se refere este artigo, se nao satisfizerem as condico",
+        "fecho": "rio de janeiro, 15 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "newton estilac leal"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29651-1951-06-08.md",
+      "urn": "urn:lex:br:federal:decreto:1951-06-08;29651",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-08;29651",
+      "sha256": "3bb03b4abf041a3b24d707346df41c14864ce1506607525999efdbb575853ca3",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29651-1951-06-08.html.gz",
+      "sha256_fonte_html": "e65871614b5d519ed7cddfd3c33818d7c58a1b25a362807b87f62472738daa72",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1951 figuras.",
+        "estado": "revisao_documental_necessaria"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29638-1951-06-05.md",
+      "urn": "urn:lex:br:federal:decreto:1951-06-05;29638",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-05;29638",
+      "sha256": "92888f2c97a1e8d552f9e06ae4a702a7b07ac118d76ef1334af79b68adec2ea2",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29638-1951-06-05.html.gz",
+      "sha256_fonte_html": "02b03e601f5c4cd9757082267a2a62d5ee48324f46a30d29881471a7a7be0d68",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ":\nart. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da fazenda, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, 5 de junho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "horacio lafer"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29639-1951-06-05.md",
+      "urn": "urn:lex:br:federal:decreto:1951-06-05;29639",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-05;29639",
+      "sha256": "53a248091cabe5ef9ff91a54f2ac7bc862ea6011b1151ecd71369129785ea18e",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29639-1951-06-05.html.gz",
+      "sha256_fonte_html": "fa74e2d6f1c20c82a2ff81ac902ca630a036a6517c16c271dd08222db06873d0",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabela unica de mensalistas (t.u.m.) do ministerio das relacoes exteriores, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7-1-43, e a data d",
+        "fecho": "rio de janeiro, 5 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "joao neves da fontoura"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29736-1951-06-03.md",
+      "urn": "urn:lex:br:federal:decreto:1951-06-03;29736",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-03;29736",
+      "sha256": "8b31df121cbe08750f23509d464a5372ef4db53dd9087921d17d7b531ce4107a",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29736-1951-06-03.html.gz",
+      "sha256_fonte_html": "316b3615f7d8149ada5ccf8f562b058f4441a77e36cfce55502ec494a79aa418",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "a:\nart. 1º ficam extintas e suprimidas na tabela unica de mensalista do ministerio da marinha, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 1943, e a data de sua admissao nao mant",
+        "fecho": "rio de janeiro, em 3 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "renato de almeida guillobel"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+      "urn": "urn:lex:br:federal:decreto:1951-01-04;29081",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-01-04;29081",
+      "sha256": "3f45940cad875aa3c5656d9a610531af6d0a0a019db24cc9f91d27320264cfa7",
+      "fonte_html_cache": "federal/_fonte/decretos/1951/dec-29081-1951-01-04.html.gz",
+      "sha256_fonte_html": "c863ebb9ae2b96f5e0e1b7f4eefb2c3586ceecf73277ac14eec556957d293cd4",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º – fica alterada, na forma da relacao anexa, a tabela unica de extranumerarios-mensalistas do ministerio da aeronautica.",
+        "lacuna": "<<anexo>>clbr vol. 02 ano 1951 pags. 4 a 16 tabelas.\n",
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-19;29004",
+      "sha256": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "fonte_html_cache": "federal/_fonte/decretos/1950/dec-29004-1950-12-19.html.gz",
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "manifesto": "federal/_lote_dec_continuacao_20261020_012.json",
+      "evidencia": {
+        "motivo": "Relação própria que determina a alteração da tabela pelo presente decreto substituída por placeholder terminal; referência bibliográfica não reproduz os nomes ou dados exigidos pelo comando.",
+        "remissao": "art. 1º fica alterada, na forma da relacao anexa, a tabela de extranumerario-mensalista da universidade de recife.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1950 pags. 389 a 392 tabelas.\n",
+        "estado": "ausencia_na_transcricao"
+      }
+    }
+  ],
+  "erros": [],
+  "sha256_sequencia_paths_md_html": "1a8455d48ef0d9f56c569241d234cc89a2b3c637e1d5f4009d04f68106667d70",
+  "limite": "Comprova revisão visual de todo HTML e registra casos conservadores de suplemento próprio ausente; não prova cobertura de toda remissão possível, vigência ou integralidade externa."
+}

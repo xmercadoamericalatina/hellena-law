@@ -1,0 +1,1756 @@
+{
+  "estado": "proposta_isolada_sem_aplicacao",
+  "total_canonicos": 70,
+  "retidos": 1,
+  "HEAD_conferido": "6593c56e63f354ed269b1ed818cfe3e990c8e945",
+  "documentos": [
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+      "md_sha256": "71cb04f283b578f9a58dbc9faee41ad64be788436a98cef8e4bf8a833d42d845",
+      "fonte_sha256": "11287023be16aeaa4bc906d100cda60fc98fba68f5f7016c78af4e68fbe1c8b9",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md",
+      "md_sha256": "b61473e3ccebaffd736640cb2bea452511188741878e637793a73842278b6fc4",
+      "fonte_sha256": "c6ff589d6d1143f1ef232149022fdb9344b8b494d7f3673e4938982df45dffef",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md",
+      "md_sha256": "55ba9eedabc3bcb852ec2739a8021ff0eedce432da6dc06179a238bbbcc35327",
+      "fonte_sha256": "9d197e81ed36eae52f10ec28a76be54048bf4f441b71f3ec54e710d3dc794638",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md",
+      "md_sha256": "fe01f94f6e5b6f35a92ccf04815c061146740027ee942a67f7ba19439a07a7e9",
+      "fonte_sha256": "cbe6c98e537b8372156175bd7b357cddf76a6fb40b0b86ec5a5c6c8e66041f6d",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md",
+      "md_sha256": "d686fdf4a6577fd2f001c684a0270138249705d65b2db0a39a2f499ae5c8dbb0",
+      "fonte_sha256": "fd6f3ae96c4795ae803edfb86ae4720e218bc77c43b439d3affc7609fa0fafb0",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md",
+      "md_sha256": "906a49add13bb9281b820b51c260089d986a4979f48c11c0ec3d6314ae8da6c1",
+      "fonte_sha256": "b52d29f834cfdda1ac1d6272ba16b1a28a48293b4a19a18131521a179f8f2524",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md",
+      "md_sha256": "acf17350682de5b9456d556be41c6e989ab93af6ffb1ce57fef9a4738b2a8006",
+      "fonte_sha256": "2c2d4d838e73449a0e214ed12d7aa866cdb19892576db13e2915a96efe9c8e0b",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md",
+      "md_sha256": "3359bd1e3b6fa4621c533b919760db31bd8ca6aa0f886e83d98013169a60ed29",
+      "fonte_sha256": "49afa2202ab5e53235e1ace53627d00d80c5e15d6e172636a5559e5955166479",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md",
+      "md_sha256": "40e4fbc4280fb6eb3dcf6a5561fb850dffb86fa6c493890e1ec83981a53153a7",
+      "fonte_sha256": "f8d11e32cd0df46e98a2a16af1f71097ddda80a3740c5a198d917c3a1c67b4eb",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md",
+      "md_sha256": "e3779466ddfca677fee7865d6532ad888f503a6f78fc08df860803e186cce8d9",
+      "fonte_sha256": "46a4aa1afc8c1c3d01d37734d102e97d6c4f23a98a8cb30637a1f794b2280ae8",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md",
+      "md_sha256": "f437aafff7496d5d7a9973ecbaebb8363dd027b13fd2236ec0d7088a25563374",
+      "fonte_sha256": "31828d5ba8f73595e9a81e8383ed6dd97589f57a4a7ef3f55e0c5e8a50a184b5",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md",
+      "md_sha256": "ef391ae7926162b8a881ea3a4d2b1d9acae85caf700bd80d0c142d96f0349e8a",
+      "fonte_sha256": "314eff65d5465c131062f94ba7afdff7603abc00df9a3dd3433c7f507b594aad",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md",
+      "md_sha256": "0be0ec9ef2e568e18e846764660115b13f4711de10c791665b552d6b039d4cb2",
+      "fonte_sha256": "8e0fca142181c23e4aa3266006bf18fe0957a3dcce1cf97fb534e923cc2ddfd9",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md",
+      "md_sha256": "d556b2272fcdba740c4d9e852cd8a9090ac1ec8a89ca2ba9d3a1e8303196d0bf",
+      "fonte_sha256": "fbbf4d99a6e17fc82791e8f3411f9d85a90cde395628cd615561b0982509a63f",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md",
+      "md_sha256": "4b7e3a06a62eb13917fb035dda3fc16919035b785b21b471f4f7774a2c42b4b1",
+      "fonte_sha256": "67b41ddb15fecd8408fe5817de39aaf3e2578c39ff79b258ed1aeec163040718",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md",
+      "md_sha256": "e977f70c8ab867f41fb18adbe9da7e0117817c5b17ba92a7b7c4a6470afed8b1",
+      "fonte_sha256": "63305390e217a3cbe087d7cd17240cb55b15d8f5423e3aeb5929ea572c7e292b",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md",
+      "md_sha256": "f420f5760589882d1c5ca0f4b3d0689bb0d5fd07c5b98e2f514110e7d7191c89",
+      "fonte_sha256": "cbff455ffd0f95a569305437274000351e0cdc3a102bb959fe88dda0d81899e0",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md",
+      "md_sha256": "b6c9197fee57785302dbe07ef2a88baa947915927040ac43fe222b5d0156b7e8",
+      "fonte_sha256": "cc692565f0bb9b71e34114805c89b7d97bcca605e5aa3aa2b06fde5fa1fadd7f",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md",
+      "md_sha256": "e3b25d8f423942eeec7c179b6cfbbecefe4ce2f1701e65db45133f05efc9645d",
+      "fonte_sha256": "3c084f5d7c8f378e738e507abf5ef43a4993a43b200c67a1fd2864ac6bc2098b",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md",
+      "md_sha256": "1abd12082e66f050df4b316d0dd6571c19947ad92bd996a283782107e853d000",
+      "fonte_sha256": "24c17130155cff5554e37a3a659d8fc68578a28ffb16dc42293cd77ede4b88e1",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md",
+      "md_sha256": "8e735135dcd7fd00d5150599e07948f87a8246abb7d56f9c94dd11ee8f6dfd46",
+      "fonte_sha256": "96cb9879d8c5a8564ed5dde636b9b86fbf7800542edacbf2fc82ae530073bcac",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md",
+      "md_sha256": "cc95b8767cbf911c3a758d3c7d78bd3d46b6cfb8df1e60459cd9e117aaab387e",
+      "fonte_sha256": "8de2d03cdff51b42c6540217e2e85cec11d6e3160272e57ee5583af988cda637",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md",
+      "md_sha256": "c3c676cf1221bc85af55a15dc8d954e351fb310cc2cefc4a36ff3b66ef6d22ad",
+      "fonte_sha256": "a9baef9bb85796703cf4f07e4a4b8c36bb4ba04781f9aed8163c9a0264776912",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md",
+      "md_sha256": "acbee5be7533a75d699978b5845318acf2d039c8a4b62c87d11fd34e8e7f6acd",
+      "fonte_sha256": "c8132ae2b2efe27900cc3fabe1cd30cd2518b3b27ac86966460e2f34c3779950",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md",
+      "md_sha256": "883994019d95cefea5c0a46191e74182395096aaf02b9dc22204c66395210417",
+      "fonte_sha256": "38fec407234b808c0d0d25e8034cca288c4d86a0a1123b6eb7c3041d464bff34",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md",
+      "md_sha256": "967f3ba9ae53226ae4dbf37f13a5596340fd4c00b1a304605415561045777fcd",
+      "fonte_sha256": "e99ba59d4d1367cd84185c42f162e928ba02f8503045e273b24beae5c62f17cd",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md",
+      "md_sha256": "1221cf591566df517e0c91a2a58c7ee6feadde250873215a82ebe59d4c8400c5",
+      "fonte_sha256": "bed6ab29aa7d0eff3c5f92dff27318aaf145b32a49c4173f91d8d224424083ec",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md",
+      "md_sha256": "decb5989f6cb9df1aa5ebf8eca8e3e6c7ede376cb919add8e69f8dfacd7b2d9d",
+      "fonte_sha256": "3641ab8212a3ad3074d1434b78ac5bd87cdd1d8501a5aaab3ad1de18aa3497c8",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md",
+      "md_sha256": "637f482470dc72d47bae092679dedd26e8801eed9b12d5c6e692c7decf008563",
+      "fonte_sha256": "b99e4c46e0ddf86af177b0c687f370c64dab756b452987f969113dc8afc9fb39",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md",
+      "md_sha256": "f2a8e182e60622b809b3abd984e9d6e38e9998a2e1c40c52058f941ecd555ebe",
+      "fonte_sha256": "9e18c45def2c9a12178a6a8c6a8d356f694f156693b0a14c061eecd9853cbdf2",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md",
+      "md_sha256": "ced2f4a091fd2c651aaa9edbda6a9f9bdd6f0da3bec68277044af889808f3d72",
+      "fonte_sha256": "abfcf31a8e53eac58fea880097f4cf861e4b57f9cadbd279ed1a47d6c5d07fb6",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md",
+      "md_sha256": "091d7cd0d5863005d5874cb91e155092e40d06a089a8493a7fae71bcfcb2cb84",
+      "fonte_sha256": "cfa23700f8c8af77816259f7f57a7030ee85a13df1ad9b0549d2e4dca8553d4a",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md",
+      "md_sha256": "63d0a9b420730f89cc0430f76e2e1eb914a3460ba435b5994091cf3e60a178aa",
+      "fonte_sha256": "55ecdb4429ec8f872a2e2b494e896f7351e0457ba755989eaef63bcf242bd70a",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md",
+      "md_sha256": "7eb1a2c1cd91dbe8887e04193fe028fd4396299ca3045d5fb8a682dca70cbdd3",
+      "fonte_sha256": "4488cffd4fd88c4d82936d298882ef0694d4ad81047d9e45251b6f945b47db8b",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md",
+      "md_sha256": "5379f0e7f2f8db4b0a6a1fae3489bfa2ebe06da30626dbbc01fdacd188053e19",
+      "fonte_sha256": "631914985be48522f2d035f182dc5e8794f230f25aa279cdd17744abb551e387",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md",
+      "md_sha256": "f7881db77e1713fb502ee17f514e9768a52b5356ad5b79182a96d6ce9f496718",
+      "fonte_sha256": "7a5553a5107b9a40cb0a6b4a2c3b06238693a0326eac69693f6f1373d490fc20",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md",
+      "md_sha256": "020c7094591f04e9ed3c5bef60930971d6089752860d382fa4ba01b0735ad684",
+      "fonte_sha256": "2e53aae7be9e4cd40578b81bf1d2d17a8bbff9558291a00d86f6e6da0f39c762",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md",
+      "md_sha256": "5a762a5aa10b65c8313a011e5cc2c1582b14bf705d33fc6e9df6868c17b4817c",
+      "fonte_sha256": "9f9a7bcadd44b8831fcb1eac85706c50dc494115a4bb9465f4d25245efc832a3",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md",
+      "md_sha256": "43e365d3db6a6a1750a08a738adf698ef2783ca797bd787e96314d01dcbd0033",
+      "fonte_sha256": "c7b95f75bdb25e5e87122bc9684930cca6d79e042e087f64bf90154c778fe2c5",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md",
+      "md_sha256": "c0b2c4c293e78b9f6568abf4a44fc0f6d247f183745f53ce05bb02806a40d6c6",
+      "fonte_sha256": "4c36bd3094ba6e8d67751f055e71b82961def3d3e6e8f28cf1922e9022a31932",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md",
+      "md_sha256": "0579c94609664c1a64efe9e74cababcda669ac0a01059507dcfe7ba8588ef639",
+      "fonte_sha256": "421dae658030f454a8ab032003937d7c84ec70e62d7fba05466f3ace2167ce97",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md",
+      "md_sha256": "8a7f01baeb3c9a76fcf8a6d1a02e4e1ad04395bb399a67af84ba8896ddd94eba",
+      "fonte_sha256": "f4db5ea4bcde51cf1598ae476a98dfc119365ceab4c63f8ef8bff985d7d1c511",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md",
+      "md_sha256": "6a1a86998dacc5dc9fdf2cd3a7275477597c2493f00bc8c83ca08feb99cbf184",
+      "fonte_sha256": "b5ddae7cf26ae2f98e72e145c9d462f986a557d9cc38a0c4a0b40af87467fb38",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md",
+      "md_sha256": "1b37d23e068185b13fafb1e51ab5075231b19fc0b369fddd72c2c04936be33da",
+      "fonte_sha256": "a414ce15d4f06436d8bc6723638f766466f6d971221c3e9ffa10a26fb54dbd04",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md",
+      "md_sha256": "9be9a98969c549ebf412f96199d9a826aed7c43d95a5dd2e43aaa55dab42fcdb",
+      "fonte_sha256": "e2edb7e80ccbd6f2822cfa7137a991c407d75a1abb0f2455e9991ccf8c0f4db7",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md",
+      "md_sha256": "51125b36526ddb48d5200fa9e36c33f2d721ef213c1c4f17c064c431eb2acd55",
+      "fonte_sha256": "cbb764d51336c5b387d67cb664c286a3ca798c14ae24935ab6b6e8da026b1da4",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md",
+      "md_sha256": "4f1168a6a0ed9ffb1648bb19545b1657b733efa70442174beb4ce7974582bfd2",
+      "fonte_sha256": "021486b409d0a086fec03f7eedc472307243860c5acd500d8c3bbf741ee8c963",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md",
+      "md_sha256": "edc25d2f7e34c4b297d1df8fc751ad49bf2e6a865b1da2e7647c1a059436e9ca",
+      "fonte_sha256": "2c17303e468e04791a6824ab2db78d6fce0606121720020a00e3d0286ae7f091",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md",
+      "md_sha256": "297e43fb5ebe2532e45bb493ab6d0285a02fd785ec0eb0d1494be6647579197d",
+      "fonte_sha256": "7920a2b91cc5c9d89417f9286fe1bc7809434fa9389cf883b972c4259c8befb5",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md",
+      "md_sha256": "2528c5966fa4055087adb04b9eb916a98465c3c389c4d6c7f7d273fb257238e8",
+      "fonte_sha256": "52dade80ad2ccba6e6eb8ce1c99c6fe8f4c45e7dcb9291aaa45db6eda94052ee",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md",
+      "md_sha256": "1f8aeaff237cb72b7c5ecadb869ea741e8dae4e3fe03a9361911bae14acd07eb",
+      "fonte_sha256": "798dd968ef4997b4bd5a21e8e6aa95d17856b01a6a6a61ebd0ea5bedb7886976",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md",
+      "md_sha256": "bfd8ce5f652b0268e55cb576e1f17f1abd23881b7102857f99a2159965bc292b",
+      "fonte_sha256": "e2e566a2f22dda4abb2baca53108345845b2e83d473532c741ab044242195000",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md",
+      "md_sha256": "0d4cb1b0ea0e64723acf4d3c3c93bbc98985f72c057a715d2143ad594c9ca05c",
+      "fonte_sha256": "d11b750ba85ec19c5773cfc43b8fb03709fd299ae1cf600ef9d4933f83f7ae36",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md",
+      "md_sha256": "37cc7e5a799b6a8f2e0bb38d936cb891a10c43c8740688e08cf2a7fdd680917a",
+      "fonte_sha256": "f13c9d3881e8e6c7cbf11a018d621a9e88e73fcf4790f00ea3fb26e7d795ca99",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md",
+      "md_sha256": "dbbfed51e4b2790c7f9fda6ec44939a812aa23452b2c40def3e79652545740ff",
+      "fonte_sha256": "cac5557bca514d988186965feef3b5726d1011ad7f9d0487e39fe258f47037cd",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md",
+      "md_sha256": "735f465a2398feaf05c5bfdea57341d2f5a9774c335f22e8a882e9323efa0cc6",
+      "fonte_sha256": "fb24b565a71b467653ec1bece4561d59c590f3c465c4d2f0004e300f7db585cb",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md",
+      "md_sha256": "0ee9ee19f2b04938a27a169bda6247fc272b2ca735e5d485b463fbdd50aaaacc",
+      "fonte_sha256": "ddc862c81cf323aa9f664dd946eeabfd737ca6ad50901cd8c73eb97fa85e4f8a",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md",
+      "md_sha256": "38356fc0d405858e79429c2658ed566999f7c196b509a5dc847b68aeb434c256",
+      "fonte_sha256": "697b5a9da047695756d3cd503f56f5cb5cf20f0df790551ff29226b0d5b70466",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md",
+      "md_sha256": "c9ac49a9c2b4c02cb65a57937274e1cff43ca5367e8da40f680d3238e60b3f36",
+      "fonte_sha256": "64135ee7f19efea8ce9aa1a1921813ede0063c733575ede2cc904fa13f55159b",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md",
+      "md_sha256": "49504dabc8c5e47c49cc06d185d046b19594c6d2edb7bc7cfbf9400591e989bb",
+      "fonte_sha256": "e6e5e7c01a726c8b5807a76db664900c83ba976cbe2b6e0d9421564f09e04b6d",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md",
+      "md_sha256": "7d4381cccd1cbcc7756710d63728068cffe3e787305d298cda1890e38ea5e9b8",
+      "fonte_sha256": "f6cbdc668c898c0198a709025849b769d65d3e073bca8bfce4110b10ce627ad6",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md",
+      "md_sha256": "1b095e9360dc8c3a0a999d81d1673fcbbc0bf58d38c7027ad9b98a8d508910dd",
+      "fonte_sha256": "ec5e056140d6d160a41a40c720f9ad1d83910e76f9a31238a9fbfee89e733d40",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md",
+      "md_sha256": "853c9b0eb5b70084e90d449c082ef591ebc839f88bbc77530a8e1524684d8d2c",
+      "fonte_sha256": "4497effb980355419dfd4ca97e7aa95cd39f3a3ab7288086d84ea63d75f5c29d",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md",
+      "md_sha256": "c58a2979d51641a169512e79ebaab8e64dddc5934b2002b67c9e89acc78fd767",
+      "fonte_sha256": "9d88b0e679f4e01a6e8f02785f39a77ea8a32fcd0af65ad1d17649eb2b70d8cc",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md",
+      "md_sha256": "2b22da6c0fc4cbffaaf85241a80a9b4b6986187735170abfc0d2f3afb53e594b",
+      "fonte_sha256": "9a81437058d036c9c000acb32ec8367fc556177da8a38b3dee4d432d5a25d4a3",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md",
+      "md_sha256": "f242d2c8731ac201ebbee30abc0357a77c49b3e1bfabda550f8df9b940929194",
+      "fonte_sha256": "f34aa4a5241494966013d7dd5c2b6730f9a3bf55efa1a4d07fb472c49c9312c4",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+      "md_sha256": "d4ade612f5cd502747d895c9e7ff17b620de591a2ed094f3673cb3aefb05e31f",
+      "fonte_sha256": "fdcca73f246d20f73771cfa1e3f25d45941cd96cb1e77bbeed9c9efc9ab2d95f",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md",
+      "md_sha256": "20406eacb98002ad0abf574bf34bcf2d8e1c109cd56f099155a744e3feb308b9",
+      "fonte_sha256": "68adde369c2ad482f06844dfad548e1ff6c640e0ad4b1b8247981a66ac8bb02c",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md",
+      "md_sha256": "12fd86dceb22060678cec67db4f04cfa4f58eb6e130fc4d5f103e67483bd2bb6",
+      "fonte_sha256": "688a29ea40a892acefe5fb7979e529faa576ad4ab5b47d0870d792ff72879efa",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md",
+      "md_sha256": "1c8b2117f3e2a612425643aae8cc7079b29036904050b25a163a02b62d8e3712",
+      "fonte_sha256": "46e9127198854efe3a97b9ddaef34cb41959f4b858d4bb93251b99c0e3821219",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md"
+    }
+  ],
+  "retencoes": [
+    {
+      "path": "estaduais/SP/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.md",
+      "motivo": "DLG705 tem **Artigo1.**° e **Artigo2.**° interpretados como asteriscos literais pelo GFM; texto normativo presente, mas não liberação automática nem alteração canônica nesta rodada."
+    }
+  ],
+  "ledger": {
+    "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-decisoes.json",
+    "sha256": "9cc1b768f09e57800610cf34d40e1271368fc21163879a35eca27e8962930ee3",
+    "bytes": 369547
+  },
+  "lista_publicacao": [
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+      "sha256": "71cb04f283b578f9a58dbc9faee41ad64be788436a98cef8e4bf8a833d42d845",
+      "bytes": 1133,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.html.gz",
+      "sha256": "f1d6bcba7679b2570f47edbbf4288ba7778a1ff379d46cb7f833e085e57434d5",
+      "bytes": 1203,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+      "sha256": "71cb04f283b578f9a58dbc9faee41ad64be788436a98cef8e4bf8a833d42d845",
+      "bytes": 1133,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md",
+      "sha256": "b61473e3ccebaffd736640cb2bea452511188741878e637793a73842278b6fc4",
+      "bytes": 1131,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.html.gz",
+      "sha256": "04dc89f7d99fa527218fe2a1c6b9788aea0a5fa1fe34304a2077f8aab1fce2c0",
+      "bytes": 1187,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md",
+      "sha256": "b61473e3ccebaffd736640cb2bea452511188741878e637793a73842278b6fc4",
+      "bytes": 1131,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md",
+      "sha256": "55ba9eedabc3bcb852ec2739a8021ff0eedce432da6dc06179a238bbbcc35327",
+      "bytes": 1128,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.html.gz",
+      "sha256": "39b96909b2e27cc83589535d248783032720fac599f8e6f9ff688fda7ffb24d4",
+      "bytes": 1206,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-708-2001-12-14-id3935.md",
+      "sha256": "55ba9eedabc3bcb852ec2739a8021ff0eedce432da6dc06179a238bbbcc35327",
+      "bytes": 1128,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md",
+      "sha256": "fe01f94f6e5b6f35a92ccf04815c061146740027ee942a67f7ba19439a07a7e9",
+      "bytes": 1472,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.html.gz",
+      "sha256": "cd9c9dad5cb7d4a84cc95c55792ee66792e0b9e32a34b5dccfa660ce5323e745",
+      "bytes": 1403,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-709-2001-12-18-id3934.md",
+      "sha256": "fe01f94f6e5b6f35a92ccf04815c061146740027ee942a67f7ba19439a07a7e9",
+      "bytes": 1472,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md",
+      "sha256": "d686fdf4a6577fd2f001c684a0270138249705d65b2db0a39a2f499ae5c8dbb0",
+      "bytes": 1239,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.html.gz",
+      "sha256": "71bd7bc6694f508a2bae93b9eda4033a21df87fa70cd77c9018054e9e7eb7b09",
+      "bytes": 1265,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2001/dlg-710-2001-12-18-id3933.md",
+      "sha256": "d686fdf4a6577fd2f001c684a0270138249705d65b2db0a39a2f499ae5c8dbb0",
+      "bytes": 1239,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md",
+      "sha256": "906a49add13bb9281b820b51c260089d986a4979f48c11c0ec3d6314ae8da6c1",
+      "bytes": 2073,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.html.gz",
+      "sha256": "a3dc16fb350162420f2a19428228984be99f1f1d9ef5e393e2d5602157e31957",
+      "bytes": 1620,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-711-2002-05-29-id1542.md",
+      "sha256": "906a49add13bb9281b820b51c260089d986a4979f48c11c0ec3d6314ae8da6c1",
+      "bytes": 2073,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md",
+      "sha256": "acf17350682de5b9456d556be41c6e989ab93af6ffb1ce57fef9a4738b2a8006",
+      "bytes": 1463,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.html.gz",
+      "sha256": "906b685f81dbed96df286cc8de33d46dfee295bedc3627efec2cca4399accb0a",
+      "bytes": 1383,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2002/dlg-712-2002-12-18-id1405.md",
+      "sha256": "acf17350682de5b9456d556be41c6e989ab93af6ffb1ce57fef9a4738b2a8006",
+      "bytes": 1463,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md",
+      "sha256": "3359bd1e3b6fa4621c533b919760db31bd8ca6aa0f886e83d98013169a60ed29",
+      "bytes": 1163,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.html.gz",
+      "sha256": "7617e643db7d59b509dd6d449ab8d785c68f9a795f9e8622af84bad072197268",
+      "bytes": 1229,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-713-2003-08-21-id2248.md",
+      "sha256": "3359bd1e3b6fa4621c533b919760db31bd8ca6aa0f886e83d98013169a60ed29",
+      "bytes": 1163,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md",
+      "sha256": "40e4fbc4280fb6eb3dcf6a5561fb850dffb86fa6c493890e1ec83981a53153a7",
+      "bytes": 1198,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.html.gz",
+      "sha256": "8826326c83e32acbb600794cf2a7f7d4d7ec5b6ad6006682236cf2b658d1972f",
+      "bytes": 1207,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-714-2003-08-21-id2249.md",
+      "sha256": "40e4fbc4280fb6eb3dcf6a5561fb850dffb86fa6c493890e1ec83981a53153a7",
+      "bytes": 1198,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md",
+      "sha256": "e3779466ddfca677fee7865d6532ad888f503a6f78fc08df860803e186cce8d9",
+      "bytes": 1546,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.html.gz",
+      "sha256": "1427dd41924bceab6dae16eca1d59f1429cf40ac43835c49eb6349cb528079f5",
+      "bytes": 1376,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-715-2003-09-05-id2291.md",
+      "sha256": "e3779466ddfca677fee7865d6532ad888f503a6f78fc08df860803e186cce8d9",
+      "bytes": 1546,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md",
+      "sha256": "f437aafff7496d5d7a9973ecbaebb8363dd027b13fd2236ec0d7088a25563374",
+      "bytes": 1549,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.html.gz",
+      "sha256": "8e792aa7c3fc851f0a65eb7d386465496d48b48acde7b512821eeac45faf02c7",
+      "bytes": 1366,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-716-2003-09-25-id2336.md",
+      "sha256": "f437aafff7496d5d7a9973ecbaebb8363dd027b13fd2236ec0d7088a25563374",
+      "bytes": 1549,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md",
+      "sha256": "ef391ae7926162b8a881ea3a4d2b1d9acae85caf700bd80d0c142d96f0349e8a",
+      "bytes": 1201,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.html.gz",
+      "sha256": "322ab54addf1af074c44bdc3651dc3f9577bebe69e2f82cc8d5d9a58813286d4",
+      "bytes": 1249,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-717-2003-12-16-id49131.md",
+      "sha256": "ef391ae7926162b8a881ea3a4d2b1d9acae85caf700bd80d0c142d96f0349e8a",
+      "bytes": 1201,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md",
+      "sha256": "0be0ec9ef2e568e18e846764660115b13f4711de10c791665b552d6b039d4cb2",
+      "bytes": 1201,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.html.gz",
+      "sha256": "af4ed767d46a4b07a979ac4f2f4c03abc179082cdceb83a320cf9452eac86d75",
+      "bytes": 1252,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-718-2003-12-16-id49132.md",
+      "sha256": "0be0ec9ef2e568e18e846764660115b13f4711de10c791665b552d6b039d4cb2",
+      "bytes": 1201,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md",
+      "sha256": "d556b2272fcdba740c4d9e852cd8a9090ac1ec8a89ca2ba9d3a1e8303196d0bf",
+      "bytes": 1478,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.html.gz",
+      "sha256": "55e2aad8952e90ffa37bc1684311407c086bbb22ff815dc712536aead6babcfc",
+      "bytes": 1428,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2003/dlg-719-2003-12-16-id49133.md",
+      "sha256": "d556b2272fcdba740c4d9e852cd8a9090ac1ec8a89ca2ba9d3a1e8303196d0bf",
+      "bytes": 1478,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md",
+      "sha256": "4b7e3a06a62eb13917fb035dda3fc16919035b785b21b471f4f7774a2c42b4b1",
+      "bytes": 1363,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.html.gz",
+      "sha256": "84e5157825ccab77674b4334c1f099a457194971315457ec0a19536166907fec",
+      "bytes": 1509,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-720-2004-02-18-id49581.md",
+      "sha256": "4b7e3a06a62eb13917fb035dda3fc16919035b785b21b471f4f7774a2c42b4b1",
+      "bytes": 1363,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md",
+      "sha256": "e977f70c8ab867f41fb18adbe9da7e0117817c5b17ba92a7b7c4a6470afed8b1",
+      "bytes": 1809,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.html.gz",
+      "sha256": "a52c906590bb730aae88bf39711f6259c48feec956c605b85ffc13a1c21ab279",
+      "bytes": 1635,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-721-2004-05-20-id50930.md",
+      "sha256": "e977f70c8ab867f41fb18adbe9da7e0117817c5b17ba92a7b7c4a6470afed8b1",
+      "bytes": 1809,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md",
+      "sha256": "f420f5760589882d1c5ca0f4b3d0689bb0d5fd07c5b98e2f514110e7d7191c89",
+      "bytes": 1536,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.html.gz",
+      "sha256": "70c40ae3dd86888b1cb5c21d076f36da83220404f21ecfc41ffcd821530025fe",
+      "bytes": 1683,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-722-2004-09-10-id51758.md",
+      "sha256": "f420f5760589882d1c5ca0f4b3d0689bb0d5fd07c5b98e2f514110e7d7191c89",
+      "bytes": 1536,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md",
+      "sha256": "b6c9197fee57785302dbe07ef2a88baa947915927040ac43fe222b5d0156b7e8",
+      "bytes": 1455,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.html.gz",
+      "sha256": "f089da1b3078ca2411d0bd8672b644c67e959816a035a7e338fb728222cee9e7",
+      "bytes": 1708,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2004/dlg-723-2004-12-30-id52389.md",
+      "sha256": "b6c9197fee57785302dbe07ef2a88baa947915927040ac43fe222b5d0156b7e8",
+      "bytes": 1455,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md",
+      "sha256": "e3b25d8f423942eeec7c179b6cfbbecefe4ce2f1701e65db45133f05efc9645d",
+      "bytes": 1575,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.html.gz",
+      "sha256": "582ecd8ad5a6aa8252aa020fb07435bf81f0531792f281d70ba3bfe50181053f",
+      "bytes": 1714,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-724-2006-03-22-id61839.md",
+      "sha256": "e3b25d8f423942eeec7c179b6cfbbecefe4ce2f1701e65db45133f05efc9645d",
+      "bytes": 1575,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md",
+      "sha256": "1abd12082e66f050df4b316d0dd6571c19947ad92bd996a283782107e853d000",
+      "bytes": 1554,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.html.gz",
+      "sha256": "742cb36d97bda3bf9143912d83804447c3f8da6aeba56f15c4f9178d93202d28",
+      "bytes": 1666,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2006/dlg-725-2006-12-15-id69249.md",
+      "sha256": "1abd12082e66f050df4b316d0dd6571c19947ad92bd996a283782107e853d000",
+      "bytes": 1554,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md",
+      "sha256": "8e735135dcd7fd00d5150599e07948f87a8246abb7d56f9c94dd11ee8f6dfd46",
+      "bytes": 1593,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.html.gz",
+      "sha256": "7cbdb39e8174f4a6b04773c8cf6dd846156eca8e1c2c1a9e3cd2b7e2490ba642",
+      "bytes": 1482,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-726-2007-06-19-id72315.md",
+      "sha256": "8e735135dcd7fd00d5150599e07948f87a8246abb7d56f9c94dd11ee8f6dfd46",
+      "bytes": 1593,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md",
+      "sha256": "cc95b8767cbf911c3a758d3c7d78bd3d46b6cfb8df1e60459cd9e117aaab387e",
+      "bytes": 1834,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.html.gz",
+      "sha256": "072ce476e3322636c5a77c01abef1edabac9c293e1bb2d121da8a3919cc86da9",
+      "bytes": 1597,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-727-2007-06-22-id72496.md",
+      "sha256": "cc95b8767cbf911c3a758d3c7d78bd3d46b6cfb8df1e60459cd9e117aaab387e",
+      "bytes": 1834,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md",
+      "sha256": "c3c676cf1221bc85af55a15dc8d954e351fb310cc2cefc4a36ff3b66ef6d22ad",
+      "bytes": 1709,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.html.gz",
+      "sha256": "0e115c410f42f3a401274b6ba39e64793bcb394b2c436e455b4f114ebc487ae0",
+      "bytes": 1531,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-728-2007-06-22-id72497.md",
+      "sha256": "c3c676cf1221bc85af55a15dc8d954e351fb310cc2cefc4a36ff3b66ef6d22ad",
+      "bytes": 1709,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md",
+      "sha256": "acbee5be7533a75d699978b5845318acf2d039c8a4b62c87d11fd34e8e7f6acd",
+      "bytes": 1995,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.html.gz",
+      "sha256": "7b912cecd9f540af115970a6219c76c2655082c58e8b9e13d42651ab18f17e6f",
+      "bytes": 1747,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-729-2007-06-22-id72498.md",
+      "sha256": "acbee5be7533a75d699978b5845318acf2d039c8a4b62c87d11fd34e8e7f6acd",
+      "bytes": 1995,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md",
+      "sha256": "883994019d95cefea5c0a46191e74182395096aaf02b9dc22204c66395210417",
+      "bytes": 1933,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.html.gz",
+      "sha256": "d4b280ba791ba620f5ec14585313eaa837f39d7f262cde44f813724d371542ee",
+      "bytes": 1793,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-730-2007-06-22-id72499.md",
+      "sha256": "883994019d95cefea5c0a46191e74182395096aaf02b9dc22204c66395210417",
+      "bytes": 1933,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md",
+      "sha256": "967f3ba9ae53226ae4dbf37f13a5596340fd4c00b1a304605415561045777fcd",
+      "bytes": 1788,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.html.gz",
+      "sha256": "3e3c9c50dc47ab4f56c603c4cf285f018b219a2360baead7f3a82b08bf13ce43",
+      "bytes": 1613,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-731-2007-06-22-id72500.md",
+      "sha256": "967f3ba9ae53226ae4dbf37f13a5596340fd4c00b1a304605415561045777fcd",
+      "bytes": 1788,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md",
+      "sha256": "1221cf591566df517e0c91a2a58c7ee6feadde250873215a82ebe59d4c8400c5",
+      "bytes": 1807,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.html.gz",
+      "sha256": "2f9de1c8782be65a5aede23f2462d564bdac2668941c3b1ed660c530b477a72c",
+      "bytes": 1604,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-732-2007-06-22-id72501.md",
+      "sha256": "1221cf591566df517e0c91a2a58c7ee6feadde250873215a82ebe59d4c8400c5",
+      "bytes": 1807,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md",
+      "sha256": "decb5989f6cb9df1aa5ebf8eca8e3e6c7ede376cb919add8e69f8dfacd7b2d9d",
+      "bytes": 1927,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.html.gz",
+      "sha256": "8d597c84203225ebf9212ba71da31f4133fc602a6032fd0532ae40d801c1c94e",
+      "bytes": 1653,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-733-2007-06-22-id72502.md",
+      "sha256": "decb5989f6cb9df1aa5ebf8eca8e3e6c7ede376cb919add8e69f8dfacd7b2d9d",
+      "bytes": 1927,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md",
+      "sha256": "637f482470dc72d47bae092679dedd26e8801eed9b12d5c6e692c7decf008563",
+      "bytes": 1980,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.html.gz",
+      "sha256": "a3b21fc2b5c44940d5b4525d49c982e4860c3758ec58df7be07c316bfa70958f",
+      "bytes": 1752,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-734-2007-06-22-id72503.md",
+      "sha256": "637f482470dc72d47bae092679dedd26e8801eed9b12d5c6e692c7decf008563",
+      "bytes": 1980,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md",
+      "sha256": "f2a8e182e60622b809b3abd984e9d6e38e9998a2e1c40c52058f941ecd555ebe",
+      "bytes": 1709,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.html.gz",
+      "sha256": "1d86f9e3c7a418d19ab8526310e5ad0f37d9f6e0172dc158f7304aba534e92a4",
+      "bytes": 1496,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-735-2007-06-22-id72504.md",
+      "sha256": "f2a8e182e60622b809b3abd984e9d6e38e9998a2e1c40c52058f941ecd555ebe",
+      "bytes": 1709,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md",
+      "sha256": "ced2f4a091fd2c651aaa9edbda6a9f9bdd6f0da3bec68277044af889808f3d72",
+      "bytes": 2097,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.html.gz",
+      "sha256": "d0b43eca31d0bd0b07815d4d1ac60de6dc79007c9f4898ffb9968d657163d899",
+      "bytes": 1661,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-736-2007-06-22-id72505.md",
+      "sha256": "ced2f4a091fd2c651aaa9edbda6a9f9bdd6f0da3bec68277044af889808f3d72",
+      "bytes": 2097,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md",
+      "sha256": "091d7cd0d5863005d5874cb91e155092e40d06a089a8493a7fae71bcfcb2cb84",
+      "bytes": 1798,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.html.gz",
+      "sha256": "eb6565cb889962d53b4e7b2de221c57199039714b854d70daaf3fb5d46d6595b",
+      "bytes": 1652,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-737-2007-06-22-id72506.md",
+      "sha256": "091d7cd0d5863005d5874cb91e155092e40d06a089a8493a7fae71bcfcb2cb84",
+      "bytes": 1798,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md",
+      "sha256": "63d0a9b420730f89cc0430f76e2e1eb914a3460ba435b5994091cf3e60a178aa",
+      "bytes": 1805,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.html.gz",
+      "sha256": "d94196a34fd049ad42f1f529c0b5614c7dbe711d2ae7cf853c2ceb916b12096c",
+      "bytes": 1673,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-738-2007-06-22-id72507.md",
+      "sha256": "63d0a9b420730f89cc0430f76e2e1eb914a3460ba435b5994091cf3e60a178aa",
+      "bytes": 1805,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md",
+      "sha256": "7eb1a2c1cd91dbe8887e04193fe028fd4396299ca3045d5fb8a682dca70cbdd3",
+      "bytes": 1792,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.html.gz",
+      "sha256": "a5459dcce5c50ec6583cd783ac3a53d7b8b908f1a90164a11c06f57f4658d176",
+      "bytes": 1637,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-739-2007-06-22-id72508.md",
+      "sha256": "7eb1a2c1cd91dbe8887e04193fe028fd4396299ca3045d5fb8a682dca70cbdd3",
+      "bytes": 1792,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md",
+      "sha256": "5379f0e7f2f8db4b0a6a1fae3489bfa2ebe06da30626dbbc01fdacd188053e19",
+      "bytes": 1776,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.html.gz",
+      "sha256": "23ee9d5d00e84328b999f76a1090be779985b199164e2e79b5540682cc557107",
+      "bytes": 1635,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-740-2007-06-22-id72509.md",
+      "sha256": "5379f0e7f2f8db4b0a6a1fae3489bfa2ebe06da30626dbbc01fdacd188053e19",
+      "bytes": 1776,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md",
+      "sha256": "f7881db77e1713fb502ee17f514e9768a52b5356ad5b79182a96d6ce9f496718",
+      "bytes": 1936,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.html.gz",
+      "sha256": "b395186730a1e8fcb4c20e8acf15cb88ba5c9bdc752c7b1259562cb3e61eb8ec",
+      "bytes": 1748,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-741-2007-07-06-id72797.md",
+      "sha256": "f7881db77e1713fb502ee17f514e9768a52b5356ad5b79182a96d6ce9f496718",
+      "bytes": 1936,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md",
+      "sha256": "020c7094591f04e9ed3c5bef60930971d6089752860d382fa4ba01b0735ad684",
+      "bytes": 1766,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.html.gz",
+      "sha256": "4eb4ed8ac0611a1fde659534208a5408edfe74e8372530aa18f22dd10996dfff",
+      "bytes": 1620,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-742-2007-07-06-id72798.md",
+      "sha256": "020c7094591f04e9ed3c5bef60930971d6089752860d382fa4ba01b0735ad684",
+      "bytes": 1766,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md",
+      "sha256": "5a762a5aa10b65c8313a011e5cc2c1582b14bf705d33fc6e9df6868c17b4817c",
+      "bytes": 1859,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.html.gz",
+      "sha256": "1f693ac8a52b4676b2e195419019e72c9ae6058aaaf237c4d2c9e4389bb94b35",
+      "bytes": 1585,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-743-2007-07-06-id72799.md",
+      "sha256": "5a762a5aa10b65c8313a011e5cc2c1582b14bf705d33fc6e9df6868c17b4817c",
+      "bytes": 1859,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md",
+      "sha256": "43e365d3db6a6a1750a08a738adf698ef2783ca797bd787e96314d01dcbd0033",
+      "bytes": 1768,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.html.gz",
+      "sha256": "c08b487730c6078900c3c081c320dbefa5f8fd8eed53bd15e0a92c1bcbab7dc1",
+      "bytes": 1585,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-744-2007-07-06-id72800.md",
+      "sha256": "43e365d3db6a6a1750a08a738adf698ef2783ca797bd787e96314d01dcbd0033",
+      "bytes": 1768,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md",
+      "sha256": "c0b2c4c293e78b9f6568abf4a44fc0f6d247f183745f53ce05bb02806a40d6c6",
+      "bytes": 1817,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.html.gz",
+      "sha256": "d80b50e64ea146748cc58b7a40837955785b19fb08c621c00ac7e6323b6b20fd",
+      "bytes": 1564,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-745-2007-07-06-id72801.md",
+      "sha256": "c0b2c4c293e78b9f6568abf4a44fc0f6d247f183745f53ce05bb02806a40d6c6",
+      "bytes": 1817,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md",
+      "sha256": "0579c94609664c1a64efe9e74cababcda669ac0a01059507dcfe7ba8588ef639",
+      "bytes": 1798,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.html.gz",
+      "sha256": "f16a4c5b9d0bcb595d249ebc17d87567aef6ccbdff90486dcd61760b5204526e",
+      "bytes": 1553,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-746-2007-07-06-id72802.md",
+      "sha256": "0579c94609664c1a64efe9e74cababcda669ac0a01059507dcfe7ba8588ef639",
+      "bytes": 1798,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md",
+      "sha256": "8a7f01baeb3c9a76fcf8a6d1a02e4e1ad04395bb399a67af84ba8896ddd94eba",
+      "bytes": 1894,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.html.gz",
+      "sha256": "94edb95e8baccb3af1cf0f33ca94bfe2195c1efe346696b84d73df4b076cc166",
+      "bytes": 1609,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-747-2007-07-06-id72803.md",
+      "sha256": "8a7f01baeb3c9a76fcf8a6d1a02e4e1ad04395bb399a67af84ba8896ddd94eba",
+      "bytes": 1894,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md",
+      "sha256": "6a1a86998dacc5dc9fdf2cd3a7275477597c2493f00bc8c83ca08feb99cbf184",
+      "bytes": 1636,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.html.gz",
+      "sha256": "283094bcb855ee725ea6de1f1c4bbeb31ca34f34570825dfb12f60b3415bce92",
+      "bytes": 1759,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-748-2007-07-06-id72804.md",
+      "sha256": "6a1a86998dacc5dc9fdf2cd3a7275477597c2493f00bc8c83ca08feb99cbf184",
+      "bytes": 1636,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md",
+      "sha256": "1b37d23e068185b13fafb1e51ab5075231b19fc0b369fddd72c2c04936be33da",
+      "bytes": 1751,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.html.gz",
+      "sha256": "0b05018c8e0a33dcdb530483f676cfe47345022f288d6669a2515bc575ff33cb",
+      "bytes": 1563,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-749-2007-07-06-id72805.md",
+      "sha256": "1b37d23e068185b13fafb1e51ab5075231b19fc0b369fddd72c2c04936be33da",
+      "bytes": 1751,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md",
+      "sha256": "9be9a98969c549ebf412f96199d9a826aed7c43d95a5dd2e43aaa55dab42fcdb",
+      "bytes": 1966,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.html.gz",
+      "sha256": "2716e30f5ee7e6e8ee9dd751aff182f7591acb19db3c240ad7dbfe20def269e7",
+      "bytes": 1665,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-750-2007-07-06-id72806.md",
+      "sha256": "9be9a98969c549ebf412f96199d9a826aed7c43d95a5dd2e43aaa55dab42fcdb",
+      "bytes": 1966,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md",
+      "sha256": "51125b36526ddb48d5200fa9e36c33f2d721ef213c1c4f17c064c431eb2acd55",
+      "bytes": 1894,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.html.gz",
+      "sha256": "33c069e13140de62b47c7ac660ae6f0e678c9304083b873209c1caf63f81deb7",
+      "bytes": 1826,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-751-2007-07-06-id72807.md",
+      "sha256": "51125b36526ddb48d5200fa9e36c33f2d721ef213c1c4f17c064c431eb2acd55",
+      "bytes": 1894,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md",
+      "sha256": "4f1168a6a0ed9ffb1648bb19545b1657b733efa70442174beb4ce7974582bfd2",
+      "bytes": 1749,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.html.gz",
+      "sha256": "84bbd127569e73b81f8639afa7d9ab6998936b93593e627e906e4f3fbaf33424",
+      "bytes": 1554,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-752-2007-07-06-id72808.md",
+      "sha256": "4f1168a6a0ed9ffb1648bb19545b1657b733efa70442174beb4ce7974582bfd2",
+      "bytes": 1749,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md",
+      "sha256": "edc25d2f7e34c4b297d1df8fc751ad49bf2e6a865b1da2e7647c1a059436e9ca",
+      "bytes": 2027,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.html.gz",
+      "sha256": "c45afe056a6b6c36e4e51aa3d97155df547e8d56a5ba66e6c578d78dfcd87a93",
+      "bytes": 1686,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-753-2007-07-06-id72809.md",
+      "sha256": "edc25d2f7e34c4b297d1df8fc751ad49bf2e6a865b1da2e7647c1a059436e9ca",
+      "bytes": 2027,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md",
+      "sha256": "297e43fb5ebe2532e45bb493ab6d0285a02fd785ec0eb0d1494be6647579197d",
+      "bytes": 2017,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.html.gz",
+      "sha256": "aaf79dbe162d8ef9d860d3ec5e7b74511cefb2f7747816dd66c69b965773510c",
+      "bytes": 1712,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-754-2007-07-06-id72810.md",
+      "sha256": "297e43fb5ebe2532e45bb493ab6d0285a02fd785ec0eb0d1494be6647579197d",
+      "bytes": 2017,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md",
+      "sha256": "2528c5966fa4055087adb04b9eb916a98465c3c389c4d6c7f7d273fb257238e8",
+      "bytes": 1768,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.html.gz",
+      "sha256": "36329359b327c52143d52a7126e44ce9c4dccd885022ac3a4e6639177a9dbf5a",
+      "bytes": 1537,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-755-2007-07-06-id72811.md",
+      "sha256": "2528c5966fa4055087adb04b9eb916a98465c3c389c4d6c7f7d273fb257238e8",
+      "bytes": 1768,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md",
+      "sha256": "1f8aeaff237cb72b7c5ecadb869ea741e8dae4e3fe03a9361911bae14acd07eb",
+      "bytes": 1732,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.html.gz",
+      "sha256": "388ff0bf0ccd12ebfc6d1bd34cfc022cbbb2ae2242b3d5acd7c143f08af46633",
+      "bytes": 1522,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-756-2007-07-06-id72812.md",
+      "sha256": "1f8aeaff237cb72b7c5ecadb869ea741e8dae4e3fe03a9361911bae14acd07eb",
+      "bytes": 1732,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md",
+      "sha256": "bfd8ce5f652b0268e55cb576e1f17f1abd23881b7102857f99a2159965bc292b",
+      "bytes": 1728,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.html.gz",
+      "sha256": "da6d212392a6c00d72a50d52ccf511606ff351af97b8788d2f51f969ae5536cc",
+      "bytes": 1529,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-757-2007-07-06-id72813.md",
+      "sha256": "bfd8ce5f652b0268e55cb576e1f17f1abd23881b7102857f99a2159965bc292b",
+      "bytes": 1728,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md",
+      "sha256": "0d4cb1b0ea0e64723acf4d3c3c93bbc98985f72c057a715d2143ad594c9ca05c",
+      "bytes": 1712,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.html.gz",
+      "sha256": "3f171da88d04c0d9ed44bf507008c1933f59c171dcddee7b7841eaab12ca2389",
+      "bytes": 1492,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-758-2007-07-06-id72814.md",
+      "sha256": "0d4cb1b0ea0e64723acf4d3c3c93bbc98985f72c057a715d2143ad594c9ca05c",
+      "bytes": 1712,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md",
+      "sha256": "37cc7e5a799b6a8f2e0bb38d936cb891a10c43c8740688e08cf2a7fdd680917a",
+      "bytes": 1734,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.html.gz",
+      "sha256": "d5400a1b379089784429c9b0fb8f8ebd6e6036772287276d0f04565af24026f3",
+      "bytes": 1484,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-759-2007-07-06-id72815.md",
+      "sha256": "37cc7e5a799b6a8f2e0bb38d936cb891a10c43c8740688e08cf2a7fdd680917a",
+      "bytes": 1734,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md",
+      "sha256": "dbbfed51e4b2790c7f9fda6ec44939a812aa23452b2c40def3e79652545740ff",
+      "bytes": 1807,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.html.gz",
+      "sha256": "5d39f668ca1302d4f20db83a7d3b734e49907d93ffae8832f98c2aa3493c04c0",
+      "bytes": 1546,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-760-2007-07-06-id72816.md",
+      "sha256": "dbbfed51e4b2790c7f9fda6ec44939a812aa23452b2c40def3e79652545740ff",
+      "bytes": 1807,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md",
+      "sha256": "735f465a2398feaf05c5bfdea57341d2f5a9774c335f22e8a882e9323efa0cc6",
+      "bytes": 1735,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.html.gz",
+      "sha256": "b2e34d8d0dd1fbbd0a9199978670618e91877c634bbe50d27c9afe7814202a8f",
+      "bytes": 1503,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-761-2007-07-06-id72817.md",
+      "sha256": "735f465a2398feaf05c5bfdea57341d2f5a9774c335f22e8a882e9323efa0cc6",
+      "bytes": 1735,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md",
+      "sha256": "0ee9ee19f2b04938a27a169bda6247fc272b2ca735e5d485b463fbdd50aaaacc",
+      "bytes": 1680,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.html.gz",
+      "sha256": "6f117e6d9a3309b00b00449fcadbf0b67becd0d9443594fbd164c9341d2c6dd8",
+      "bytes": 1495,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-762-2007-07-06-id72818.md",
+      "sha256": "0ee9ee19f2b04938a27a169bda6247fc272b2ca735e5d485b463fbdd50aaaacc",
+      "bytes": 1680,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md",
+      "sha256": "38356fc0d405858e79429c2658ed566999f7c196b509a5dc847b68aeb434c256",
+      "bytes": 1684,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.html.gz",
+      "sha256": "31ba1585c9cd180375a765a8e6f20aed9b6f86495b3ed8bda78fd51b35208121",
+      "bytes": 1724,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-763-2007-07-11-id72865.md",
+      "sha256": "38356fc0d405858e79429c2658ed566999f7c196b509a5dc847b68aeb434c256",
+      "bytes": 1684,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md",
+      "sha256": "c9ac49a9c2b4c02cb65a57937274e1cff43ca5367e8da40f680d3238e60b3f36",
+      "bytes": 1687,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.html.gz",
+      "sha256": "a60abeac04fc8139a01f2e24ac4a7bc68f0a80ab7d12905bf1ca964a764755ab",
+      "bytes": 1716,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-764-2007-07-11-id72866.md",
+      "sha256": "c9ac49a9c2b4c02cb65a57937274e1cff43ca5367e8da40f680d3238e60b3f36",
+      "bytes": 1687,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md",
+      "sha256": "49504dabc8c5e47c49cc06d185d046b19594c6d2edb7bc7cfbf9400591e989bb",
+      "bytes": 1805,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.html.gz",
+      "sha256": "389237edd016d8b24062944eaafa4ce2239aae5be2cb249f156cbe8decf6e4b4",
+      "bytes": 1836,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-765-2007-08-03-id73375.md",
+      "sha256": "49504dabc8c5e47c49cc06d185d046b19594c6d2edb7bc7cfbf9400591e989bb",
+      "bytes": 1805,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md",
+      "sha256": "7d4381cccd1cbcc7756710d63728068cffe3e787305d298cda1890e38ea5e9b8",
+      "bytes": 1856,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.html.gz",
+      "sha256": "ef747682e277e6e71b06e649d4be08e06500d02ece211e43e2a42a8fb3dcd945",
+      "bytes": 1856,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-766-2007-08-03-id73376.md",
+      "sha256": "7d4381cccd1cbcc7756710d63728068cffe3e787305d298cda1890e38ea5e9b8",
+      "bytes": 1856,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md",
+      "sha256": "1b095e9360dc8c3a0a999d81d1673fcbbc0bf58d38c7027ad9b98a8d508910dd",
+      "bytes": 1734,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.html.gz",
+      "sha256": "ea36229219d186bdf230acccb086244bd1ae3363f7930595652b781a7222d4df",
+      "bytes": 1793,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-767-2007-08-03-id73377.md",
+      "sha256": "1b095e9360dc8c3a0a999d81d1673fcbbc0bf58d38c7027ad9b98a8d508910dd",
+      "bytes": 1734,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md",
+      "sha256": "853c9b0eb5b70084e90d449c082ef591ebc839f88bbc77530a8e1524684d8d2c",
+      "bytes": 2193,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.html.gz",
+      "sha256": "6cf3922112bd399e8afb7c53e301728e87ddbbabb81f940f9713a17d1b0e1f4b",
+      "bytes": 1989,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-768-2007-08-03-id73378.md",
+      "sha256": "853c9b0eb5b70084e90d449c082ef591ebc839f88bbc77530a8e1524684d8d2c",
+      "bytes": 2193,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md",
+      "sha256": "c58a2979d51641a169512e79ebaab8e64dddc5934b2002b67c9e89acc78fd767",
+      "bytes": 1570,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.html.gz",
+      "sha256": "70f725ad86f098b9637282800fc2a37d2a791b4a7f753280ea5fae9d0d916733",
+      "bytes": 1692,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-769-2007-11-13-id74576.md",
+      "sha256": "c58a2979d51641a169512e79ebaab8e64dddc5934b2002b67c9e89acc78fd767",
+      "bytes": 1570,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md",
+      "sha256": "2b22da6c0fc4cbffaaf85241a80a9b4b6986187735170abfc0d2f3afb53e594b",
+      "bytes": 1618,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.html.gz",
+      "sha256": "9db9a8c81b0ded846afa602890012e5349ab059e8ccec932e4b3685d0ccfb2f2",
+      "bytes": 1655,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2007/dlg-770-2007-12-22-id74912.md",
+      "sha256": "2b22da6c0fc4cbffaaf85241a80a9b4b6986187735170abfc0d2f3afb53e594b",
+      "bytes": 1618,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md",
+      "sha256": "f242d2c8731ac201ebbee30abc0357a77c49b3e1bfabda550f8df9b940929194",
+      "bytes": 1728,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.html.gz",
+      "sha256": "d8def85276d30a8e1224021f95cbfaf2df3140048dfc6dbbee0e4dedb7f80190",
+      "bytes": 1658,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-771-2008-02-13-id76315.md",
+      "sha256": "f242d2c8731ac201ebbee30abc0357a77c49b3e1bfabda550f8df9b940929194",
+      "bytes": 1728,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+      "sha256": "d4ade612f5cd502747d895c9e7ff17b620de591a2ed094f3673cb3aefb05e31f",
+      "bytes": 1624,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.html.gz",
+      "sha256": "f90eb8af2552a4b44d8c3802d43f58b20b07e81a130099b80f1330dbcc637fb1",
+      "bytes": 2548,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-772-2008-04-17-id76848.md",
+      "sha256": "d4ade612f5cd502747d895c9e7ff17b620de591a2ed094f3673cb3aefb05e31f",
+      "bytes": 1624,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md",
+      "sha256": "20406eacb98002ad0abf574bf34bcf2d8e1c109cd56f099155a744e3feb308b9",
+      "bytes": 1508,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.html.gz",
+      "sha256": "a40764fcadc69ec4ad9e67c95333a8416a914b757b8ddfb034748bb944db5bfc",
+      "bytes": 2505,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-773-2008-04-30-id77197.md",
+      "sha256": "20406eacb98002ad0abf574bf34bcf2d8e1c109cd56f099155a744e3feb308b9",
+      "bytes": 1508,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md",
+      "sha256": "12fd86dceb22060678cec67db4f04cfa4f58eb6e130fc4d5f103e67483bd2bb6",
+      "bytes": 1600,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.html.gz",
+      "sha256": "8d0eb50a6c63c72a508128fde1476fda897439b1bc67cc0c7224f03de66234b5",
+      "bytes": 2481,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-774-2008-05-28-id77667.md",
+      "sha256": "12fd86dceb22060678cec67db4f04cfa4f58eb6e130fc4d5f103e67483bd2bb6",
+      "bytes": 1600,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/SP/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md",
+      "sha256": "1c8b2117f3e2a612425643aae8cc7079b29036904050b25a163a02b62d8e3712",
+      "bytes": 1846,
+      "papel": "canonico_aprovacao_raiz_pendente"
+    },
+    {
+      "path": "estaduais/SP/_fonte/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.html.gz",
+      "sha256": "6a8259cbc58dd13a4c14a82808981a89762d5861239ae636d85a8cd4503152e2",
+      "bytes": 2485,
+      "papel": "fonte_original_gzip"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg70-snapshots/decretos-legislativos/2008/dlg-775-2008-05-28-id77668.md",
+      "sha256": "1c8b2117f3e2a612425643aae8cc7079b29036904050b25a163a02b62d8e3712",
+      "bytes": 1846,
+      "papel": "snapshot_previo_integral"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-perfil.json",
+      "sha256": "e5a70dd846147c10f03e16a8cbc662b084306220ed4a9e92bd14319c82da7c55",
+      "bytes": 392244,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-contextos.json",
+      "sha256": "03e5e75f53be423365ee039903952af7409b2ecfad60c1d6307a7d2f233434ab",
+      "bytes": 10378,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-estrutura-gfm.json",
+      "sha256": "66af741cfefa5ff3b2cc461179769e1813d1282ccab7f73b5254c15a6b9da135",
+      "bytes": 14726,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-dlg71-decisoes.json",
+      "sha256": "9cc1b768f09e57800610cf34d40e1271368fc21163879a35eca27e8962930ee3",
+      "bytes": 369547,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/sp-paths-head-fechamento-6593c56e63f3.txt",
+      "sha256": "f8b8c154f98e7eaadfd4279fc81ae81992a0d804476a2936e2a915ba7f862313",
+      "bytes": 3791660,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "estaduais/_indice/_recuperacao-v2-20261016/auditar-sp-dlg71.py",
+      "sha256": "38ff09858640a3f92c44652ab457c6be73d58b885b1be50a20f9f38fdc4f8dee",
+      "bytes": 4220,
+      "papel": "prova_reproducivel"
+    },
+    {
+      "path": "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/_indice/_recuperacao-v2-20261016/fechar-sp-dlg71.py",
+      "sha256": "a469446c458c17de828417179c8e6f51879fc25e6ec02cb09d6177aee32dce3a",
+      "bytes": 7567,
+      "papel": "prova_reproducivel"
+    }
+  ],
+  "total_arquivos_lista": 217,
+  "total_bytes_lista": 4940306,
+  "indice_original_preservado_nao_copiado": {
+    "path": "estaduais/SP/_indice/legislacao_normas.zip",
+    "sha256": "9138dffb95566277a103a3de4cdb42fd433f73286cabcaa9eea8f9ca53bdaa67",
+    "registros_relevantes_no_ledger": 71
+  },
+  "limites": [
+    "Proposta específica70DLG, não aprovação dos6365SP nem50104v2.",
+    "Sem JSON da API, original não foi independentemente reconstituído; não certifica versão jurídica atual.",
+    "Logos classificados por posição/ancestral institucional e nomes exatos, sem pixels/rede.",
+    "Nenhum HTTP/Git de escrita/canônico/script compartilhado/core/coletor alterado."
+  ]
+}

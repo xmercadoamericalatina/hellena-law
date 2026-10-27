@@ -1,0 +1,29 @@
+from pathlib import Path
+import json,hashlib,shutil,subprocess
+B=Path('/Volumes/ExternalSSD/GitHub/constituicao');A=B/'estaduais/_indice/_recuperacao-v2-20261016';O=A/'revisao-raiz-sp71';sha=lambda b:hashlib.sha256(b).hexdigest()
+pre=json.loads((O/'preflight-integridade71-raiz.json').read_text());primary=json.loads((O/'verificacao-primarios71-raiz.json').read_text());flags=json.loads((O/'perfil-flags-CSS-raiz-restaurado.json').read_text());gfm=json.loads((O/'verificacao-GFM-GitHub71-raiz.json').read_text());styles=json.loads((O/'prova-estilos-head-raiz.json').read_text());manifest=A/'manifesto-sp-dlg71-minimo.json'
+assert sha(manifest.read_bytes())=='0997fb47d28e3e3e67bc2dc8c8beeecf5f3288188c9c5b12d9800f82a7294e81'
+assert pre['quantidade']==primary['quantidade']==flags['total']==gfm['quantidade']==71
+assert not styles['regras_STYLE_com_formatos_criticos'];assert all(not r['flags_fonte_ausentes'] and not r['flags_adicionais_inesperados'] for r in flags['documentos']);assert sum(sum(t['fim']-t['inicio'] for t in r['Bextra_rotulos_permitidos']) for r in flags['documentos'])==105
+assert primary['HEAD']==subprocess.check_output(['rtk','proxy','git','rev-parse','HEAD'],text=True,cwd=B).strip()
+expected={r['path']:r['sha256_candidato'] for r in flags['documentos']};assert expected=={r['path']:r['sha256_candidato'] for r in gfm['atos']}
+assert {r['path']:r['new_sha256'] for r in pre['atos']}==expected
+for r in pre['atos']:
+ assert sha((B/r['path']).read_bytes())==r['old_sha256'];assert sha((B/r['candidato']).read_bytes())==r['new_sha256'];assert (B/r['snapshot']).read_bytes()==(B/r['path']).read_bytes()
+proofs=['preflight-integridade71-raiz.json','verificacao-primarios71-raiz.json','perfil-flags-CSS-raiz-restaurado.json','verificacao-GFM-GitHub71-raiz.json','prova-estilos-head-raiz.json']
+approval={'estado':'aprovado_raiz_para_publicacao71','quantidade':71,'HEAD_preaplicacao':primary['HEAD'],'atos':pre['atos'],'provas':[{'path':str((O/name).relative_to(B)),'sha256':sha((O/name).read_bytes())} for name in proofs],'leitura_integral_raiz':71,'primarios_XML_unicos':71,'registros_XML_relacionamento':primary['registros_XML'],'versionamento':'fonte capturada; JSON seletor original/atualizada nao foi preservado; nenhuma atualidade juridica inferida','situacao':'71null, sem revogacao expressa nao equivale vigente','formatacao':'Mascaras da fonte incluidas;105B adicionais apenasrotulosnormativos convencao do repositorio; nao igualdade absoluta de flags','escopo_alteracao':'68corposinalterados;705delimitadoresstrong;772/775pontuacaobold;semharmonizarlapsosimpressos','contexto':'Comandos e fechamentos completos; balanços/processos/contratos são objeto externo dos julgamentos, não anexos próprios novos. Notas716/742 corrigidas em overlay, normas inalteradas.','limites':['Sem facsimile ou certificacaojuridica','CSS externo e pixels/logo nao verificados; HTML integral e indice oficial preservados','DiagnosticoCSSpreliminar amplo corrigido:0italico perdido,2pontosBfaltantes+105Bextras rotulos; ensaio exato nao adotado']}
+approval_path=O/'aprovacao-publicacao-SP71-raiz.json';approval_path.write_text(json.dumps(approval,ensure_ascii=False,indent=2)+'\n')
+for r in pre['atos']:shutil.copyfile(B/r['candidato'],B/r['path'])
+for target,source in [('verificar-flags-CSS-raiz.py','/tmp/perfil-css-sp71-raiz.py'),('verificar-primarios-raiz.py','/tmp/primarios-sp71-raiz.py'),('verificar-GitHub-raiz.py','/tmp/github-sp71-raiz.py'),('aplicar-SP71-raiz.py','/tmp/aplicar-SP71-raiz.py')]:shutil.copyfile(source,O/target)
+paths=set(pre['fontes_e_provas']);paths.update(r['path'] for r in pre['atos']);paths.update(str(p.relative_to(B)) for p in O.rglob('*') if p.is_file());paths.update(['estaduais/SP/_indice/legislacao_normas.zip',str(manifest.relative_to(B)),str((A/'manifesto-sp-dlg70-versao-capturada.json').relative_to(B)),str((A/'sp-dlg70-verificacao-final.json').relative_to(B)),str((A/'sp-dlg71-minimo-verificacao-final.json').relative_to(B)),str((A/'overlay-contextos-sp-dlg71-correcao716-742.json').relative_to(B))])
+pub=B/'estaduais/_publicacao_SP71_raiz_20261016.json';pub.write_text(json.dumps({'quantidade':71,'aprovacao':str(approval_path.relative_to(B)),'sha256_aprovacao':sha(approval_path.read_bytes()),'atos':pre['atos']},ensure_ascii=False,indent=2)+'\n');paths.update([str(pub.relative_to(B)),'WORKLOG.md'])
+work=B/'WORKLOG.md';s=work.read_text();entry=f'''## SP71 aprovado e aplicado pela raiz — 16/10/2026
+
+- Aprovação{sha(approval_path.read_bytes())};71atos705–775novos,corpos/fechosintegralmentelidos. XMLoficial71IDs/163relações(nãonormasextras),número/data/tipo/URL/header/fechoconferidos,zeroHEADduplicados. ZIP10MB+recorteXMLpreservados. Fontecapturada/71null,semJSONseletor/sematualidadejurídicainferida.
+- Formato71zero/GitHubDOMigual/carácteresfontesiguais/máscarasfontesincluídas;105Bextrasapenasrótulosconvencionais.68corposbyteiguais,705rawstrong°foradoB e772/775pontoBrestaurado. Notas716/742corrigidasemoverlay. Nenhumcore/colletor/metageralalterado.
+-71canônicoscopiadosSHAexatosapóscheckbaselines/snapshots. Lista/tmp/SP71-publicacao-paths.txt;stage/índice/formato/commit/pushpendentes,PROGRESSOviahook.
+- RFBcorreçãocontrato:frontendoficialenumeraoriginal/exclusiva/conjuntacomoOriginal(provae9649ce3…e52e);conjuntanãocontradizrótulooriginalsozinho. Retificações/anexos/segmentoscontinuamretidosporfidelidadeprópria. DEC2000manifestofinal3f5dab56…8c487aguardaraiz;V4municipal796emcurso.
+
+''';work.write_text(s.replace('# Continuação da coleta\n\n','# Continuação da coleta\n\n'+entry,1))
+for path in paths:assert (B/path).is_file() and not (B/path).is_symlink(),path
+Path('/tmp/SP71-publicacao-paths.txt').write_text(''.join(p+'\n' for p in sorted(paths)));print(json.dumps({'canonicos':71,'paths':len(paths),'bytes':sum((B/p).stat().st_size for p in paths),'sha256_aprovacao':sha(approval_path.read_bytes())}))

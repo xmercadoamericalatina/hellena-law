@@ -1,0 +1,23 @@
+{
+  "perfil": "estaduais/_indice/_recuperacao-v2-20261016/sp-res20-perfil-css-independente.json",
+  "perfil_sha256": "470e95e197dcc9441d2c3c3957a6f9254609156965ad0d8c6c155fbefb786584",
+  "total": 20,
+  "mascaras_fonte_incluidas": 20,
+  "italico_exato": 20,
+  "mascaras_exatas": 19,
+  "Bextra": {
+    "path": "estaduais/SP/resolucoes/2000/res-alesp-807-2000-08-09-id5193.md",
+    "rotulo": "§2º",
+    "posicoes": [
+      1674,
+      1675,
+      1676
+    ],
+    "contexto": "Res807/art1/incisoIII, redação substitutiva do§2 doart112 doRegimento; somente rótulo normativo tornado bold pela convenção do gerador. Nenhuma palavra de comando ou pontuação acrescentada."
+  },
+  "corpos_modificados": 0,
+  "limites": [
+    "Máscaras explícitas por glifo não branco; semdefaultsUA/CSSexterno.",
+    "Não alegar igualdade de máscaras para807; três extras são rótulo normativo, sem perda de fonte."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "estado": "11aplicados_somente_candidatos_aprovados",
+  "HEAD_base": "7abcccab19ed386a0fa3c0ba6f4c8af97e851e50",
+  "DF_tree_base": "5c8d81dbd24c14d50652b555663c6c84d57fb649",
+  "documentos": [
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-56-1995-10-02.md",
+      "sha256": "2e8c9804c6e954496eda6248a9a4f03adb650e82b037f50c6bf953d440b69329",
+      "baseline_sha256": "03c31c9c14ecd3ea089e3e9ee16af73aeb5774678988c59d6ba405490db3f743"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-57-1995-10-02.md",
+      "sha256": "ccde12fa7a042c436f1f9fcf4fabf95b7ee127e9ded0032e7990c47b238e2eea",
+      "baseline_sha256": "efa2b90574e291bb99fe749665c8f00c56f0ab8370a4027eba1f6acc20cb4449"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-58-1995-10-05.md",
+      "sha256": "c38d5197f107c52fcfc9cad31d25e757bb6f7d7b32e9c5cfe7bdbcf8cbd340e6",
+      "baseline_sha256": "8625b58cb7d653c70c470509a5aa945d4fd49e506365291899a6388cba2e4a81"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-59-1995-10-05.md",
+      "sha256": "063393decb96c12e320b5646da404b61b9707d193ad08900578b4ecc5958cb1a",
+      "baseline_sha256": "b61940b9e00432e174df829558f275f2cb50e7345c63074b57945c0f6fb9ca2b"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-60-1995-10-11.md",
+      "sha256": "0059fef16984f5110d2928f282e97b1e922151b7afa3d5c7196fc7dc4d3787ff",
+      "baseline_sha256": "d889bffbf4cfbfa2d38de50ae7881566a6b8852dec208149b32e8d6ce5abdaf1"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-61-1995-10-11.md",
+      "sha256": "0b58203713f584f335cb75584402c4c0f7b9a12d9471d6e64583bf5b49b5f2a6",
+      "baseline_sha256": "a686b0493e0ea52cb297a7d963b8a954a3f4c2188cab1d0915e988f24e79cf98"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-62-1995-10-17.md",
+      "sha256": "8728d8c8cee5cc5268df40528ded46a7f493d5a7d1a713283e224f51941cc871",
+      "baseline_sha256": "235bcd99f9c3a006a77b82499bc04102b2df185a75fe3ec083ea7cca806819ea"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-63-1995-10-30.md",
+      "sha256": "9a0dfd219ee59a32ff7ba72b276019f209d472c48cd61ce123a9e33b7029d8a1",
+      "baseline_sha256": "7063a818f49682b35b85c202c362af4694f37693e06aaeb4d6f79e8e4ea4d610"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-64-1995-10-31.md",
+      "sha256": "7d3f256150fbcfaec1e52ee66f34be6fd94c3e82fd67c8dfa50ec1837cc1b99d",
+      "baseline_sha256": "c6bbd4cae9ae6803453ec8f046419e4be5b29e65ec7ebf5d58cde2f46a192b3c"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-65-1995-11-14.md",
+      "sha256": "b76b3f7f2aa52ad8175aa062c1c087719e4b843f42d7dbcdc1c69fe67b345bab",
+      "baseline_sha256": "46f681ee8eb78ec0437b286ec12d9c6e8b891e73a4d77d66eb98070186ad1300"
+    },
+    {
+      "path": "estaduais/DF/decretos-legislativos/1995/dlg-66-1995-12-15.md",
+      "sha256": "922cf3b4f9ded1e820d1a9ef335fc55b5427444079f02671a18d60b9c261bfc8",
+      "baseline_sha256": "3ec45b18cfde269cd9dfd0ceb276b031c34d223ee8c19fe57eb0834f19c068d9"
+    }
+  ],
+  "indice_primario_snapshot": {
+    "path": "estaduais/_indice/_recuperacao-v2-20261016/revisao-raiz-df11/indice-SINJ-106683-fd4d1652.json.gz",
+    "raw_SHA256": "fd4d1652e2db6eb53fade3ebeb83d398fc0a3df9d563d748cdfd5533c52496c5",
+    "raw_bytes": 279310480,
+    "gzip_SHA256": "49c578db65a24d38d75c8b1fbdfa74007baf53191965226a4abb43e2de1dc17b",
+    "gzip_bytes": 17988825,
+    "registros": 106683
+  },
+  "limite": "Sem nova inferencia/reconversao/HTTP; copias exatas dos11aprovados. Snapshots antigos integrais preservados. Nenhum outro canônico alterado."
+}

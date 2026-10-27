@@ -1,0 +1,128 @@
+{
+  "total": 5,
+  "core": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/conversor-bb853717.py",
+    "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+    "bytes": 14266,
+    "papel": "conversor_fisico_congelado"
+  },
+  "documentos": [
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2000/res-alesp-805-2000-05-03-id5191.md",
+      "old_sha256": "7f938f81c8fdccf5f843993232aab4895bd1c0ff586d5737f82416b6b109629b",
+      "new_sha256": "56b19f425b3f5cebd72cd6831eb3403b2ced2bbaaa3aee18f2efb221a074026c",
+      "fonte_sha256": "febccbca712eab18e8daf127efbaeea6beaaa22796955b5777b55a6f76701c76",
+      "fonte_gzip_sha256": "4fdb8c1b4329d72d67dbaf8418f582d4835c132b7852b406f9f28b5841630d5c",
+      "cabecalho_byteigual": true,
+      "H1_byteigual": "# Resolução da Alesp nº 805, de 03/05/2000",
+      "chars_fontes_gfm_exatos": true,
+      "bold_italic_strike_mascaras_exatas": true,
+      "glifos_tachados_restaurados": 164,
+      "flags_source_candidate_sha256": "40fc77061fac79c6e0dcfb0c94d1401dfdeaa968ca80878ce6cdec892c7c515b",
+      "edicao_declarada_literal": "(Última atualização: Resolução da Alesp n° 941, de 04/12/2023)",
+      "versao_justificativa": "atualizada preservada como edição compilada expressamente declarada noHTML, com redações/NR incorporadas e histórico tachado. Não certifica atualidade posterior à data declarada.",
+      "contexto_individual": "Cinco artigos instituem afiliação à UNALE/UPM, opção individual FAP, custeio e vigência; estatutos são objetos externos identificados, sem anexo próprio prometido. Fonte declara compilação até Res941/2023 e incorpora §2/§3 com notas de redação/acréscimo. Não prova atualização posterior a essa edição.",
+      "limites": [
+        "Sem tabela/imagem/objeto nobody; nenhum agrupamento por palavras ou consolidação inventada.",
+        "Máscaras explícitas inline/tags por glifo não branco; semdefaultsUA/CSSexterno.",
+        "Res808epígrafe18out2000/fecho03maio2000 preservados literalmente, sem harmonização."
+      ]
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2000/res-alesp-808-2000-10-18-id5194.md",
+      "old_sha256": "566facd910cd77bcef24791f9a54e80ad82bf36ff8ccc92c0c42f10395e772b1",
+      "new_sha256": "98c766bed0ef4322aff3298fd4281c556768650a47022b1b910b541ef9cbcb70",
+      "fonte_sha256": "319f34a9678d1569de0ed22c1b9346db31231ef289838e07194f43283b02997a",
+      "fonte_gzip_sha256": "48a90f31df2d3dd2ad688494789cdafc2e13a44e01631a27e915446df2524729",
+      "cabecalho_byteigual": true,
+      "H1_byteigual": "# Resolução da Alesp nº 808, de 18/10/2000",
+      "chars_fontes_gfm_exatos": true,
+      "bold_italic_strike_mascaras_exatas": true,
+      "glifos_tachados_restaurados": 257,
+      "flags_source_candidate_sha256": "d1a7d344cedf1f47b3f33f895712357690fa4f27434bda3d474dfc793ab92f3a",
+      "edicao_declarada_literal": "(Atualizada até a Resolução nº 811, de 13 de março de 2001)",
+      "versao_justificativa": "atualizada preservada como edição compilada expressamente declarada noHTML, com redações/NR incorporadas e histórico tachado. Não certifica atualidade posterior à data declarada.",
+      "contexto_individual": "Dois artigos próprios: altera art87 e marca incisoII revogado pela Res811/2001; fonte declara compilação até811/2001. Epígrafe18out2000 contradiz fecho03maio2000: preservar literal e data própria da epígrafe/XML, sem harmonizar. A compilação declarada não prova atualidade posterior.",
+      "limites": [
+        "Sem tabela/imagem/objeto nobody; nenhum agrupamento por palavras ou consolidação inventada.",
+        "Máscaras explícitas inline/tags por glifo não branco; semdefaultsUA/CSSexterno.",
+        "Res808epígrafe18out2000/fecho03maio2000 preservados literalmente, sem harmonização."
+      ]
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2001/res-alesp-821-2001-12-14-id3907.md",
+      "old_sha256": "c7355ec4c4078f202a9fa9e366cc921182a1ea844e186802c0a7242a13763157",
+      "new_sha256": "829c8ebf892b303a67fc568bb59ecc00ceaecc47dd5be6b1747d1931d3af2c50",
+      "fonte_sha256": "c5d0ccffe1b3d6d09285c03a0bc52170f3b7cf09ed0238d13bf35a81bf8b9985",
+      "fonte_gzip_sha256": "05f51c551d0670799fe6ba0819a75f1853cff56e1d8618bf050182c3115bf78b",
+      "cabecalho_byteigual": true,
+      "H1_byteigual": "# Resolução da Alesp nº 821, de 14/12/2001",
+      "chars_fontes_gfm_exatos": true,
+      "bold_italic_strike_mascaras_exatas": true,
+      "glifos_tachados_restaurados": 303,
+      "flags_source_candidate_sha256": "9219d8938806603fc83a7805d15aaaf2ad3b1afb52989c10c891ae0313440f2e",
+      "edicao_declarada_literal": "(Última atualização: Resolução da Alesp n° 942, de 22/02/2024)",
+      "versao_justificativa": "atualizada preservada como edição compilada expressamente declarada noHTML, com redações/NR incorporadas e histórico tachado. Não certifica atualidade posterior à data declarada.",
+      "contexto_individual": "Nove artigos mais6-A criam InstitutoLegislativo:11objetivos, ressalva de competências, órgãos, Diretoria, Conselhos, cargo e funções. Fonte declara última atualização942/22fev2024; art5 tem redação868/2010 e6-A acrescentado942/2024 incorporados com notas próprias. Regulamento será estabelecido em60dias (art8), não anexo ausente. Fecho14dez2001/três assinaturas.",
+      "limites": [
+        "Sem tabela/imagem/objeto nobody; nenhum agrupamento por palavras ou consolidação inventada.",
+        "Máscaras explícitas inline/tags por glifo não branco; semdefaultsUA/CSSexterno.",
+        "Res808epígrafe18out2000/fecho03maio2000 preservados literalmente, sem harmonização."
+      ]
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2001/res-alesp-822-2001-12-14-id3908.md",
+      "old_sha256": "25fed821962974ddc9dbef45605ebcaa358eb50412e958a734da40a205693557",
+      "new_sha256": "2677fd88f49990d6b43fd8d4637c51342e130cac5bf9acf2a4f4c83cdbdb53d1",
+      "fonte_sha256": "0fbe56ebcc41df4ab86d9909689ec8ed9becdd6265618370586b5ad909259bc5",
+      "fonte_gzip_sha256": "3b8f59d1b40c0ea8e4d9a772ac89ef8254b96e41e087de959e8e8f94a14a446f",
+      "cabecalho_byteigual": true,
+      "H1_byteigual": "# Resolução da Alesp nº 822, de 14/12/2001",
+      "chars_fontes_gfm_exatos": true,
+      "bold_italic_strike_mascaras_exatas": true,
+      "glifos_tachados_restaurados": 2028,
+      "flags_source_candidate_sha256": "722df49f40c0a3ffa917c139ada9d0a9660c0440e1f5630413753064f9ecf194",
+      "edicao_declarada_literal": "(Última atualização: Resolução da Alesp n° 946, de 13/01/2025)",
+      "versao_justificativa": "atualizada preservada como edição compilada expressamente declarada noHTML, com redações/NR incorporadas e histórico tachado. Não certifica atualidade posterior à data declarada.",
+      "contexto_individual": "Sete artigos sobre auxílio/reembolso; fonte declara compilação946/13jan2025 e incorpora alterações em1,2parágrafo,3caput/parágrafo, com revogação expressa de antigos§§1–3. Não confundir supressão jurídica declarada com perda do conversor. Procedimentos serão definidos por Ato daMesa (arts3/6), não anexo próprio faltante. Fecho14dez2001, efeitos15mar2002 e três assinaturas.",
+      "limites": [
+        "Sem tabela/imagem/objeto nobody; nenhum agrupamento por palavras ou consolidação inventada.",
+        "Máscaras explícitas inline/tags por glifo não branco; semdefaultsUA/CSSexterno.",
+        "Res808epígrafe18out2000/fecho03maio2000 preservados literalmente, sem harmonização."
+      ]
+    },
+    {
+      "path": "estaduais/SP/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "candidato": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/candidatos/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "snapshot": "estaduais/_indice/_recuperacao-v2-20261016/sp-res5-tachado/snapshots/resolucoes/2002/res-alesp-829-2002-12-17-id1400.md",
+      "old_sha256": "6f4097c5218bbe67e6784e47c65cd0e3110f3ab69f6810f78101050446a39512",
+      "new_sha256": "fccede23fcc959ccfb583229a78b40daadf857ef0387b597011cb43c33bf99e9",
+      "fonte_sha256": "9a75a7ae1c68b00b750dc0abb5370678f44a04b631a7ef98aed64d217f30f9f4",
+      "fonte_gzip_sha256": "7cb6620fcf6139b32da57a66eff64f27f787e88d44f3794bb4fc9a4d6195298e",
+      "cabecalho_byteigual": true,
+      "H1_byteigual": "# Resolução da Alesp nº 829, de 17/12/2002",
+      "chars_fontes_gfm_exatos": true,
+      "bold_italic_strike_mascaras_exatas": true,
+      "glifos_tachados_restaurados": 365,
+      "flags_source_candidate_sha256": "b85a24491864d0dffc48469eadd1997acbf259d9621c338d64a1b2787d9958d8",
+      "edicao_declarada_literal": "(Atualizada até a Resolução  nº 864, de 10 de setembro de 2009)",
+      "versao_justificativa": "atualizada preservada como edição compilada expressamente declarada noHTML, com redações/NR incorporadas e histórico tachado. Não certifica atualidade posterior à data declarada.",
+      "contexto_individual": "Oito artigos criam ConselhoCulturadePaz; sete atribuições, composição16–48 com12–36sociedade/4–12deputados e dois parágrafos, mandato, Mesa e apoio. Fonte declara compilação864/10set2009 e art2incisosI/II incorporados comNR. Regimento será elaborado adreferendum (art1item7), não anexo ausente. Fecho17dez2002/três assinaturas.",
+      "limites": [
+        "Sem tabela/imagem/objeto nobody; nenhum agrupamento por palavras ou consolidação inventada.",
+        "Máscaras explícitas inline/tags por glifo não branco; semdefaultsUA/CSSexterno.",
+        "Res808epígrafe18out2000/fecho03maio2000 preservados literalmente, sem harmonização."
+      ]
+    }
+  ],
+  "estado": "proposta_isolada_nao_aplicada",
+  "sem_HTTP_Git_core_canonicos": true
+}

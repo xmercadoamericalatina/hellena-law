@@ -1,0 +1,27 @@
+{
+  "manifesto": "estaduais/_indice/_recuperacao-v2-20261016/manifesto-sp-dlg70-versao-capturada.json",
+  "manifesto_sha256": "1435a9abde93888e87ef3d8e8f8013ff6df84275b8be4225a6ec6e9da1734b6d",
+  "documentos": 70,
+  "arquivos_lista": 221,
+  "bytes_lista": 5033998,
+  "erros": [],
+  "candidatos_metadado_unico_confirmados": 70,
+  "corpos_byteiguais_confirmados": 70,
+  "status_null_confirmados": 70,
+  "retido705_excluido": true,
+  "HEAD_final": "6593c56e63f354ed269b1ed818cfe3e990c8e945",
+  "HEAD_baseline": "6593c56e63f354ed269b1ed818cfe3e990c8e945",
+  "arvore_SP_baseline_e_final": [
+    "6519da7552954b0e861b7887cac60c74c775d00e",
+    "6519da7552954b0e861b7887cac60c74c775d00e"
+  ],
+  "dedupe_por_path_id_tipo_numero_ano_preservado_pela_mesma_arvore": true,
+  "underline_vazio739": {
+    "literal": "<u><o:p></o:p></u>",
+    "fundamento": "Único u do body dos71 não envolve texto; não há perda de palavras sublinhadas."
+  },
+  "limites": [
+    "Não aplica candidatos, não prova atualização jurídica, não certifica50104v2.",
+    "Fontes e snapshots integrais permanecem preservados; nenhum HTTP/Git de escrita/core/canônico tocado."
+  ]
+}
