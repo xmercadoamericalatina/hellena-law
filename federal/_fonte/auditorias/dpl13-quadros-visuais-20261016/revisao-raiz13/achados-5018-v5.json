@@ -1,0 +1,40 @@
+{
+  "estado": "quatro_deltas_raiz_em_proposta_isolada_ainda_sem_aprovacao13",
+  "fonte_candidato": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/candidato-coletanea-v4.md",
+  "sha256_v4": "482967487e4598bee7db7e4d9f3cf7f56afb5094342255f6047f09eaa6c033e2",
+  "candidato_v5": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/revisao-raiz13/5018-candidato-v5.md",
+  "sha256_v5": "0ce123a527e95df990c6a5b97c2bf696a03a210ddcafe7c37d35a31519cc5f5a",
+  "paginas_raiz_lidas_integralmente": [
+    45,
+    46,
+    47
+  ],
+  "deltas": [
+    {
+      "antes": "consignação \"Material\". da Secretaria",
+      "depois": "consignação \"Material\", da Secretaria",
+      "pagina_PDF": 47,
+      "fundamento": "pontuacao literal"
+    },
+    {
+      "antes": "| 14. Chauffeur Julio Pinto",
+      "depois": "| 14. *Chauffeur* Julio Pinto",
+      "pagina_PDF": 46,
+      "fundamento": "italico impresso"
+    },
+    {
+      "antes": "| 15. Chauffeur Miguel Loureiro",
+      "depois": "| 15. *Chauffeur* Miguel Loureiro",
+      "pagina_PDF": 46,
+      "fundamento": "italico impresso"
+    },
+    {
+      "antes": "\ng) 2:100$",
+      "depois": "\n*g)* 2:100$",
+      "pagina_PDF": 47,
+      "fundamento": "italico do rotulo impresso"
+    }
+  ],
+  "observacao_valor": "Alínea d imprime2:889$250, confirmadoampliado; hipóteseinicial350 descartada, nenhumvaloralterado.",
+  "limites": "Semcatálogo/identidade/GFM/árvoretabela/renderGitHub/re-renderoriginalde13concluídos;faltam24páginasdemais12atos.Nãocanônico/Git."
+}

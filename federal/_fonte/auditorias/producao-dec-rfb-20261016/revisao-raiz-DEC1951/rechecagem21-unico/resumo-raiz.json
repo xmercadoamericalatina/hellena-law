@@ -1,0 +1,80 @@
+{
+  "estado": "revisao_raiz_independente_nao_aprovacao",
+  "documentos": 21,
+  "com_erros": 1,
+  "falhas": [
+    {
+      "path": "federal/decretos/1975/dec-76583-1975-11-10.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC21-raiz.py\", line 67, in <module>\n    assert not re.search(r'\\b(?:anex[oa]s?|apens[oa]s?|ilegivel|omitid[oa]|suprimid[oa])\\b|\\(\\s*\\.\\s*\\.\\s*\\.\\s*\\)',norm(' '.join(ps)))\nAssertionError\n"
+      ]
+    }
+  ],
+  "CSS_head": [
+    {
+      "sha256": "3f07c806cb921e272f4279d759c17cac627a1e45638b995bd22f9982a214e670",
+      "qtd": 21,
+      "literal": "body { font-family:Calibri }p { margin:0pt }"
+    }
+  ],
+  "CSS_inline": {
+    "margin-bottom": {
+      "12pt": 84,
+      "6pt": 60,
+      "18pt": 21
+    },
+    "widows": {
+      "0": 202
+    },
+    "orphans": {
+      "0": 202
+    },
+    "font-size": {
+      "0.83em": 230,
+      "0.75em": 21
+    },
+    "font-family": {
+      "arial": 234,
+      "'times new roman'": 37
+    },
+    "margin-top": {
+      "12pt": 84,
+      "6pt": 56,
+      "18pt": 21
+    },
+    "text-align": {
+      "center": 87,
+      "justify": 94
+    },
+    "font-weight": {
+      "bold": 107
+    },
+    "text-transform": {
+      "uppercase": 63
+    },
+    "margin-left": {
+      "198.45pt": 21,
+      "212.65pt": 45
+    },
+    "text-indent": {
+      "28.35pt": 102
+    },
+    "line-height": {
+      "12pt": 123
+    },
+    "font-style": {
+      "italic": 37
+    },
+    "-aw-import": {
+      "spaces": 2
+    }
+  },
+  "spans_espaciais": [],
+  "sequencias_artigos_requerem_contexto": [],
+  "limites": [
+    "Sem revisao humana integral1951 ou facsimiles; valida snapshot oficial HTML+JSON e sequencia literal GFM.",
+    "CSS text-transform/posicao/size nao sao alegados identicos em pixels.",
+    "Marcador administrativo so retirado de P inicial inteiro, vinculado a numero/data propria.",
+    "Dedup HEAD atual e GitHub ainda pendentes."
+  ]
+}

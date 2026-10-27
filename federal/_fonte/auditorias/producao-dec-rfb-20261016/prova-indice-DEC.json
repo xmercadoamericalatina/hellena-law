@@ -1,0 +1,31 @@
+{
+  "fonte_master": "federal/_indice/DEC.json",
+  "sha256_master": "ee4da737474800846c2634f64d6af6d8bc9d37f8bfca670e27f012594d2e4fef",
+  "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/indice-DEC-master-congelado.json.gz",
+  "sha256_snapshot": "05bae939074ed9faf044f3738ab0a28323f298509e7445207b66b9c9a6baad2a",
+  "Metadados_literais": {
+    "Versao": "15/10/2026 23:19:46",
+    "VersaoServico": "3",
+    "DescricaoDataSet": "Índice de DEC, montado por scripts/indice_federal.py",
+    "AtualizacaoIncremental": {
+      "tipo": "DEC",
+      "anos_consultados": [
+        "2026"
+      ],
+      "snapshot_anterior": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_indice/_snapshots/DEC-20261015-231940-d7a23537fd06.json.gz",
+      "historicos_preservados": 153308,
+      "recorte_anterior": 329,
+      "recorte_atual": 329,
+      "adicionados": [],
+      "retirados_da_fonte": [],
+      "alterados": []
+    }
+  },
+  "total_registros": 153637,
+  "por_tipo": {
+    "DEC-n": 139127,
+    "DEC-sn": 14510
+  },
+  "fontes_API_anuais": "https://legis.senado.leg.br/dadosabertos/legislacao/lista?tipo=DEC&ano={ano}",
+  "descricao": "Master integral preservado; coorte e soDEC-n. Nao substitui universo pelo coletado."
+}

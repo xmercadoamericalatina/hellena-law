@@ -1,0 +1,50 @@
+{
+  "instante": "2026-10-16T11:01:02.229156+00:00",
+  "processos_python_reais": [
+    "10422 10421    05:06:05 /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python -I scripts/baixar_dou.py --de 2024-01-01 --ate 2024-12-31 --workers 4 --rps 3",
+    "40381 40380    08:22:04 /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python -I -u scripts/baixar_rfb.py --usar-indice --rps 4",
+    "76664 76663    06:47:34 /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app/Contents/MacOS/Python -I -u scripts/baixar_federal.py --tipos DEC-n --workers 4 --rps 3"
+  ],
+  "coletores_preservados_sem_reinicio": true,
+  "logs_saldo": {
+    "_log_decretos_metadados_20261016.txt": "ro': 1} ~1031 min restantes\n38750/139127 {'ok': 28425, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1030 min restantes\n38800/139127 {'ok': 28475, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1030 min restantes\n38850/139127 {'ok': 28525, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1030 min restantes\n38900/139127 {'ok': 28575, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1029 min restantes\n38950/139127 {'ok': 28625, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1029 min restantes\n39000/139127 {'ok': 28675, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1029 min restantes\n39050/139127 {'ok': 28725, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1028 min restantes\n39100/139127 {'ok': 28775, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1028 min restantes\n39150/139127 {'ok': 28825, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1028 min restantes\n39200/139127 {'ok': 28875, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1027 min restantes\n39250/139127 {'ok': 28925, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1027 min restantes\n39300/139127 {'ok': 28975, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1027 min restantes\n39350/139127 {'ok': 29025, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1027 min restantes\n39400/139127 {'ok': 29075, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1027 min restantes\n39450/139127 {'ok': 29125, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1026 min restantes\n39500/139127 {'ok': 29175, 'pulado': 10277, 'sem_texto': 47, 'erro': 1} ~1026 min restantes\n",
+    "_log_rfb_corpos_validos.txt": "a texto íntegro e público\nerro 88720 fonte não declara texto íntegro e público\nerro 88719 fonte não declara texto íntegro e público\nok 88714 {'ok': 44543, 'skip': 5498, 'equivalente': 474}\nok 88713 {'ok': 44544, 'skip': 5498, 'equivalente': 474}\nok 88712 {'ok': 44545, 'skip': 5498, 'equivalente': 474}\nok 88711 {'ok': 44546, 'skip': 5498, 'equivalente': 474}\nok 88710 {'ok': 44547, 'skip': 5498, 'equivalente': 474}\nok 88709 {'ok': 44548, 'skip': 5498, 'equivalente': 474}\nok 88708 {'ok': 44549, 'skip': 5498, 'equivalente': 474}\nok 88707 {'ok': 44550, 'skip': 5498, 'equivalente': 474}\nok 88706 {'ok': 44551, 'skip': 5498, 'equivalente': 474}\nok 88705 {'ok': 44552, 'skip': 5498, 'equivalente': 474}\nok 88704 {'ok': 44553, 'skip': 5498, 'equivalente': 474}\nok 88703 {'ok': 44554, 'skip': 5498, 'equivalente': 474}\nok 88702 {'ok': 44555, 'skip': 5498, 'equivalente': 474}\nok 88701 {'ok': 44556, 'skip': 5498, 'equivalente': 474}\nok 88700 {'ok': 44557, 'skip': 5498, 'equivalente': 474}\nok 88699 {'ok': 44558, 'skip': 5498, 'equivalente': 474}\nok 88698 {'ok': 44559, 'skip': 5498, 'equivalente': 474}\nok 88697 {'ok': 44560, 'skip': 5498, 'equivalente': 474}\nok 88696 {'ok': 44561, 'skip': 5498, 'equivalente': 474}\nok 88691 {'ok': 44562, 'skip': 5498, 'equivalente': 474}\nok 88690 {'ok': 44563, 'skip': 5498, 'equivalente': 474}\nok 88689 {'ok': 44564, 'skip': 5498, 'equivalente': 474}\nok 88688 {'ok': 44565, 'skip': 5498, 'equivalente': 474}\nok 88687 {'ok': 44566, 'skip': 5498, 'equivalente': 474}\n"
+  },
+  "DOU": {
+    "PID": 10422,
+    "escopo_processual": "2024-01-01 a2024-12-31",
+    "dias_com_cache_indice_2024": 310,
+    "ultimo_dia_cache_2024": "2024-11-05",
+    "minimo_dia_cache_todos": "2024-01-01",
+    "maximo_dia_cache_todos": "2024-11-05",
+    "completude_textos": "Nao inferida de indice/dia; reter para auditoria de atos proprios/datas/tipos/integra/anexos antes de publicacao",
+    "stdout": "PIPE; nao usar_log_dou.txt antigo como terminal desta execucao"
+  },
+  "RFB": {
+    "PID": 40381,
+    "rps": 4,
+    "indice_independente": "checklist-indice-RFB.json",
+    "completude_corpos": false,
+    "caso_retencao_comprovado": {
+      "path": "reguladores/rfb/2002/rfb-sijut-131856.md",
+      "sha256_MD": "59bd9cb70e2c03e5b9b82980ab9219bdd83630e82123ce2507af4fa1fd3748d4",
+      "problema": "EpigrafeADE67/2002 mas corpoRetificacao de2023. Integro:true/visaooriginal nao prova corpo integral autonomo do ato epigrafado. Sem editar."
+    }
+  },
+  "DEC": {
+    "PID": 76664,
+    "rps": 3,
+    "indice_fonte": "federal/_indice/DEC.json",
+    "completude_corpos": false,
+    "gates": [
+      "_rawmetadata associado imutavel porSHA",
+      "primario/URN/tipo/numero/data/encoding/status",
+      "HTMLcompleto vsGFM+mascaras",
+      "fecho+assinatura",
+      "HEADdedup",
+      "sem anexos/tabelas/imagens/U/geometria nao revisados"
+    ]
+  },
+  "HTTP_adicional": false,
+  "Git_mutacao": false
+}

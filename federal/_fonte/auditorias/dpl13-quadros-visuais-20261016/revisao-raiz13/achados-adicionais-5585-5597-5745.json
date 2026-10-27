@@ -1,0 +1,41 @@
+{
+  "estado": "correcoes_isoladas_nao_aprovacao_publicacao",
+  "achados": [
+    {
+      "numero": "5585",
+      "antes_sha256": "5db6de9c4020d415bc085352ae23a413a5091279bd059ab0bc9a18a8f8f55476",
+      "candidato": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/revisao-raiz13/5585-candidato-v2.md",
+      "sha256": "308bf43d8bc0308d5ff606f777ff8a852436496ce87e76a7294acabd08c14ab7",
+      "alteracoes": [
+        [
+          "1928 — Janeiro a dezembro:",
+          "1928 — Janeiro a dezembro."
+        ],
+        [
+          "Ao director de Serviços Adolpho",
+          "Ao director de serviços Adolpho"
+        ]
+      ]
+    },
+    {
+      "numero": "5597",
+      "antes_sha256": "f5f2fafbee10fc55b101edf633bc9d4ad39b8a515d5fcfb2dc6c76118a443500",
+      "candidato": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/revisao-raiz13/5597-candidato-v2.md",
+      "sha256": "65a159abf158f22869366f06be342c1c8d904979c720327ba0f3626995720afc",
+      "alteracoes": [
+        [
+          "107° da Independencia",
+          "107º da Independencia"
+        ]
+      ]
+    },
+    {
+      "numero": "5745",
+      "antes_sha256": "e668f50d226fd9fef178d3ca4b9e1fd3317783e92e4b78568dfaa8a534c81c02",
+      "candidato": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/revisao-raiz13/5745-candidato-v4.md",
+      "sha256": "d25b919b57402263fbfc4020f225680b82a0dd82b1e7fbb3fc54e662fc6468b0",
+      "alteracoes": "Reinsere duas linhas impressas, inclusive grafia literal re Mesquita. Nenhuma diferença de versão sustenta a exclusão.",
+      "fonte": "pagina110 PNG4000 e crop"
+    }
+  ]
+}

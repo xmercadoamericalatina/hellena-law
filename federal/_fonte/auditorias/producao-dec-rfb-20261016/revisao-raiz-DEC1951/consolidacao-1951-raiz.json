@@ -1,0 +1,144 @@
+{
+  "estado": "validacao_fonte_render_concluida; dedup e aprovacao final pendentes",
+  "UTC": "2026-10-16T13:25:42.288918+00:00",
+  "documentos": 1951,
+  "rodadas": [
+    {
+      "rodada": "V1",
+      "verificados": 1951,
+      "sem_erros": 1318
+    },
+    {
+      "rodada": "rechecagem633/",
+      "verificados": 633,
+      "sem_erros": 612
+    },
+    {
+      "rodada": "rechecagem21-unico/",
+      "verificados": 21,
+      "sem_erros": 20
+    },
+    {
+      "rodada": "rechecagem1-apenso-v2/",
+      "verificados": 1,
+      "sem_erros": 1
+    }
+  ],
+  "inputs": [
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/documentos-raiz.jsonl",
+      "sha256": "7f1d2801d86da08071725df93d210af3359ee2ba5a1e78a04096373e35daf02b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/rechecagem633/documentos-raiz.jsonl",
+      "sha256": "cd6e5dd18d502dbb4d8d49e923860a479c042e3fd04a4d3c811a31f690ad0d97"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/rechecagem21-unico/documentos-raiz.jsonl",
+      "sha256": "c412b61dced9c9cad07d51271e3b6f85a77ae80c264908990914b2dd41301724"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/rechecagem1-apenso-v2/documentos-raiz.jsonl",
+      "sha256": "05f116c4b242b035328d14cfd7bcb842e93cbcab469188b2fafeb09b2807ed56"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/GitHub/resumo-GitHub1951-raiz.json",
+      "sha256": "6d988f39ed8d5e60a3481dd9ee6e8a8dd6b65433e8d7bb999a2969d6ade90a79"
+    }
+  ],
+  "consolidacao": {
+    "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao-raiz-DEC1951/documentos1951-consolidados-raiz.jsonl",
+    "sha256": "de22d4968474e7b5363304a55a92c39b291818d1c7f3c7334ba95921be5626d4"
+  },
+  "contextos12": [
+    {
+      "path": "federal/decretos/1975/dec-75871-1975-06-16.md",
+      "sha256_fonte": "2331b060edcc56ce2085317d116e555b4cad78b8cf85cc57bd3e515bda1b7da0",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "Artigos8/9/75 pertencem a redacao citada do Decreto71848/1973. Artigos proprios1/2 completos."
+    },
+    {
+      "path": "federal/decretos/1975/dec-75906-1975-06-25.md",
+      "sha256_fonte": "dc8e6e70217732060e4287b603ca61829f075cc10230ffe599f92b53fea0111c",
+      "estado": "retido",
+      "decisao_leitura_integral_raiz": "FonteHTML rotula como paragrafo4 o que outra numeracao poderia sugerir Art4. Preservar literal; candidato de fonte integral alternativa em recuperacao."
+    },
+    {
+      "path": "federal/decretos/1975/dec-76923-1975-12-23.md",
+      "sha256_fonte": "40856238a3e3cb2784619d8dcef0a246d3de9f9f87be2b5a93cf45278f815e95",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "Artigo15 integral presente com virgula no rotulo. Sem lacuna de artigo; literal mantido."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77443-1976-04-14.md",
+      "sha256_fonte": "da9730770d8b6b7d296053ed91dcd3669d0d515c891801225f6b9ce304468c60",
+      "estado": "retido",
+      "decisao_leitura_integral_raiz": "Cotejo integral Camara identificou Paragrafo unico e todo GrupoSetorialVI ausentes no HTMLNormas. DuplicidadeArt4 adicional. Requer outra fonte integral, sem enxerto."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77544-1976-05-04.md",
+      "sha256_fonte": "9e165c5cd628ddd7ecd729fa49f748bb0b7e4210ff3a5752b826bfd7fac177ba",
+      "estado": "retido",
+      "decisao_leitura_integral_raiz": "Art. inicial sem numeral na fonteNormas; Camara possui1. Preparar versao integral alternativa, sem completar numeral por inferencia."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77620-1976-05-17.md",
+      "sha256_fonte": "653ddb2c99c3a8243a09a547e579e31f44e35328724342194f0616e36fe0a992",
+      "estado": "retido",
+      "decisao_leitura_integral_raiz": "Art. inicial sem numeral na fonteNormas; Camara possui1. Preparar versao integral alternativa, sem completar numeral por inferencia."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77978-1976-07-07.md",
+      "sha256_fonte": "fe8dd4ef2ff33a961c8216244a07cf8b6d0f2183a90d7e69acb23de2070bb829",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "Artigos1/2 internos entre aspas sao nova redacao do Decreto77318/1976. Artigos proprios1/2 completos."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78010-1976-07-08.md",
+      "sha256_fonte": "7f5d3d28cc34ea2b7c5a2e942e231a1816f709dd5d7104d7984268dabfdb3567",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "Artigos1/2 internos entre aspas sao nova redacao da concessao Decreto74203/1974. Artigos proprios1/2/3 completos."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78273-1976-08-17.md",
+      "sha256_fonte": "95ce5fc15183b4276e3768c87f5eca2c51301f5683c393337889a3af53f5de5c",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "SegundoArt1 e redacao substitutiva explicitamente introduzida pelo primeiroArt1 sobre Decreto76206/1975; artigos proprios1/2."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78373-1976-09-03.md",
+      "sha256_fonte": "099cca9544820c7f508b1f2198a1334de63d8cd95eceaa9250c405457c26657e",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "SegundoArt1 e redacao substitutiva explicitamente introduzida pelo primeiroArt1 sobre Decreto72174/1973; artigos proprios1/2."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78587-1976-10-18.md",
+      "sha256_fonte": "0d656cd1d349b2918b407af348f59da30d16169dcdd356f45902abbffb5fa3fa",
+      "estado": "retido",
+      "decisao_leitura_integral_raiz": "Art.- inicial sem numeral; Camara possui1. Frase repetida tambem na Camara nao corrigida. Fonte integral alternativa em recuperacao."
+    },
+    {
+      "path": "federal/decretos/1977/dec-79192-1977-02-01.md",
+      "sha256_fonte": "83da6780158bebc72d4ad325a30870bd1c94d5f8b1fa2baa56696ea939259835",
+      "estado": "resolvido",
+      "decisao_leitura_integral_raiz": "Artigos14/45 internos entre aspas sao nova redacao do regulamento da ESG; artigos proprios1/2/3 completos."
+    }
+  ],
+  "referencia_apenso76583": "Processo apenso690-68DFZ02, nao anexo integrante do decreto. Excecao restrita ao literal completo normalizado; fonte e texto imutaveis. V1falhou por literal de excecao nao normalizado, V2passou.",
+  "spans_NBSP": {
+    "documentos": 4,
+    "spans": 5,
+    "ocorrencias_propriedades_V1": 10,
+    "contexto": "4assinaturas e1epigrafe; nao colunas de dados"
+  },
+  "candidatos_sem_pendencia_contextual": 1946,
+  "retidos_contextuais": 5,
+  "aprovacao_publicacao": false,
+  "limites": [
+    "Sem leitura humana integral1951 ou comprovacao de facsimiles. Contextos alertados12 foram lidos integralmente.",
+    "Original refere-se a metadado encodingOriginal do portal; API indica UnofficialLegalValue, nao certificacao de exemplar impresso.",
+    "Texto e B/I/del/U/sup/sub cotejados; B extra somente rotulos normativos. Nao alega pixels/CSStexttransform/posicionamento identicos.",
+    "Correcao de reconhecedorArtigoUnico e excecao processoapenso nao modificam corpus.",
+    "Dedup HEAD em execucao; nenhuma aprovacao/publicacao neste relatorio."
+  ]
+}

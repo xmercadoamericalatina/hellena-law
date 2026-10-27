@@ -1,0 +1,137 @@
+[
+  {
+    "numero": "77544",
+    "URN": "urn:lex:br:federal:decreto:1976-05-04;77544",
+    "data": "1976-05-04",
+    "SHA_Normas": "9e165c5cd628ddd7ecd729fa49f748bb0b7e4210ff3a5752b826bfd7fac177ba",
+    "SHA_raw": "e7e79accd94efaddd7010cfa7413af7a87c81ce881d9764af8d347df4b9c9c38",
+    "deltas": [
+      {
+        "tipo": "replace",
+        "normas": "REPÚBLICA ,",
+        "camara": "REPÚBLICA,",
+        "contexto_antes": "Paulo, Estado de São Paulo. O VICE-PRESIDENTE DA"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Decreta: Art .",
+        "camara": "DECRETA: Art. 1º.",
+        "contexto_antes": "de 1976 do Ministério da Educação e Cultura,"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 2º",
+        "camara": "Art. 2º.",
+        "contexto_antes": "cidade de São Paulo, Estado de São Paulo."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Adalberto",
+        "camara": "ADALBERTO",
+        "contexto_antes": "1976; 155º da Independência e 88º da República."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Santos",
+        "camara": "SANTOS",
+        "contexto_antes": "da Independência e 88º da República. Adalberto P."
+      }
+    ]
+  },
+  {
+    "numero": "77620",
+    "URN": "urn:lex:br:federal:decreto:1976-05-17;77620",
+    "data": "1976-05-17",
+    "SHA_Normas": "653ddb2c99c3a8243a09a547e579e31f44e35328724342194f0616e36fe0a992",
+    "SHA_raw": "4fafb6149c0692c0ae22517eeb0cd26d3c330569c9b72e850baea8facc95cb22",
+    "deltas": [
+      {
+        "tipo": "replace",
+        "normas": "Decreta: Art .",
+        "camara": "DECRETA: Art. 1º.",
+        "contexto_antes": "n.º 318, de 14 de março de 1967,"
+      },
+      {
+        "tipo": "replace",
+        "normas": "este",
+        "camara": "leste",
+        "contexto_antes": "e rumos verdadeiros: cento e quarenta metros (140m),"
+      },
+      {
+        "tipo": "replace",
+        "normas": "este",
+        "camara": "leste",
+        "contexto_antes": "(200m), sul (S); cento e setenta metros (170m),"
+      },
+      {
+        "tipo": "replace",
+        "normas": "este",
+        "camara": "leste",
+        "contexto_antes": "oitenta metros (80m), sul (S); cem metros (100m),"
+      },
+      {
+        "tipo": "replace",
+        "normas": "único -",
+        "camara": "único.",
+        "contexto_antes": "oeste (W); duzentos metros (200m), norte (N). Parágrafo"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 2º",
+        "camara": "Art. 2º.",
+        "contexto_antes": "Produção Mineral, do Ministério das Minas e Energia."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 3º",
+        "camara": "Art. 3º.",
+        "contexto_antes": "forma do artigo 59 do Código de Mineração."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Ernesto Geisel",
+        "camara": "ERNESTO GEISEL",
+        "contexto_antes": "1976; 155º da Independência e 88º da República."
+      }
+    ]
+  },
+  {
+    "numero": "78587",
+    "URN": "urn:lex:br:federal:decreto:1976-10-18;78587",
+    "data": "1976-10-18",
+    "SHA_Normas": "0d656cd1d349b2918b407af348f59da30d16169dcdd356f45902abbffb5fa3fa",
+    "SHA_raw": "401da48cb68eee6ceb75a17b5770a9b20fe37fba9a2d5046d16f01c2fe5ac016",
+    "deltas": [
+      {
+        "tipo": "replace",
+        "normas": "REPÚBLICA ,",
+        "camara": "REPÚBLICA,",
+        "contexto_antes": "Jequitaí, Estado de Minas Gerais. O PRESIDENTE DA"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . -",
+        "camara": "Art. 1º.",
+        "contexto_antes": "318, de 14 de março de 1967, DECRETA:"
+      },
+      {
+        "tipo": "replace",
+        "normas": "único -",
+        "camara": "único.",
+        "contexto_antes": "mil e cem metros (2.100m), deste (E). Parágrafo"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 2º -",
+        "camara": "Art. 2º.",
+        "contexto_antes": "Produção Mineral, do Ministério das Minas e Energia."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 3º",
+        "camara": "Art. 3º.",
+        "contexto_antes": "forma do artigo 59 do Código de Mineração."
+      }
+    ]
+  }
+]

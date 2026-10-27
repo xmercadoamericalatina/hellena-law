@@ -1,0 +1,31 @@
+{
+  "estado": "Auditoria independente dos gates, não aprovação contextual humana de2000documentos",
+  "limitacoes_verificadores_congelados": [
+    {
+      "gate": "fecho inicial inventario",
+      "limitacao": "Regex ampla procura cidade e ano em qualquer posição; pode encontrar citação.",
+      "substituicao_overlay": "DOMHTML5 próprio: data em parágrafo de fecho único, fórmula Independência/República, depois do articulado, assinatura presidencial explícita primeiro e cauda terminal só nomes."
+    },
+    {
+      "gate": "assinatura preparador",
+      "limitacao": "Até6linhas pós-data aceitas por aparência de nome; isso não prova autoridade nem assinatura própria.",
+      "substituicao_overlay": "Exige literal ErnestoGeisel normalizado como primeiro parágrafo pós-fecho, com contexto integral e demais nomes preservados."
+    },
+    {
+      "gate": "skip head/script/style",
+      "limitacao": "Replay pode ignorar conteúdo/controles sem qualificá-los.",
+      "substituicao_overlay": "Todos elementos/atributos/comentários DOMHTML5 e controlesbrutos são inventariados; só comentário condicionalOffice puramente documental é classificado como metadado."
+    },
+    {
+      "gate": "links externos",
+      "limitacao": "Extensão .PDF/.imagem não cobre link integrante com URL sem extensão.",
+      "substituicao_overlay": "Todos anchors e atributos inventariados, rótulos de anexos/íntegra/quadros/tabelas/mapas retidos; objetos/controles e CSSurl/import/protocolos especiais separados."
+    },
+    {
+      "gate": "omissão/controle",
+      "limitacao": "NUL/FFFD/reticências não cobrem todos controles Unicode/CSS, comentários e vocabulário de omissão.",
+      "substituicao_overlay": "Bidi/C0, atributos ocultos, CSSdeexibição, comentários, ilegível/suprimido/omitido/vetado/anexo/apêndice/separata e não reproduzido/publicado/incluído em contexto."
+    }
+  ],
+  "distincao": "Fecho e assinatura aqui são prova contextual estruturada automática auditável, com literais integrais por documento. Não confundir com replay idêntico nem leitura humana integral de cada fonte. Retenções permanecem condicionais até revisão contextual própria."
+}

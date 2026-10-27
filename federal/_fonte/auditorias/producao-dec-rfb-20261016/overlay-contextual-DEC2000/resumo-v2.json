@@ -1,0 +1,100 @@
+{
+  "documentos": 2000,
+  "retidos": 50,
+  "motivos_sobrepostos": {
+    "fecho_terminal_assinatura_nao_comprovados_contextualmente": 24,
+    "fecho_Brasilia_unico_nao_comprovado": 25,
+    "marcador_omissao_ou_anexo_contextual": 5
+  },
+  "tags": {
+    "html": 2000,
+    "head": 2000,
+    "meta": 6000,
+    "title": 2000,
+    "style": 2000,
+    "body": 2000,
+    "div": 2000,
+    "p": 27758,
+    "span": 38446
+  },
+  "comentarios": {
+    "metadados_Office_condicionais": 2000
+  },
+  "CSS": {
+    "margin-bottom": {
+      "12pt": 7989,
+      "6pt": 15045,
+      "18pt": 2023
+    },
+    "widows": {
+      "0": 27758
+    },
+    "orphans": {
+      "0": 27758
+    },
+    "font-size": {
+      "0.83em": 34722,
+      "0.75em": 2048,
+      "0.92em": 3,
+      "0.56em": 3
+    },
+    "font-family": {
+      "arial": 36388,
+      "'times new roman'": 2052,
+      "'lucida console'": 1
+    },
+    "margin-top": {
+      "12pt": 7989,
+      "6pt": 14168,
+      "18pt": 2023
+    },
+    "text-align": {
+      "center": 8876,
+      "justify": 16885,
+      "right": 2
+    },
+    "font-weight": {
+      "bold": 15814
+    },
+    "text-transform": {
+      "uppercase": 5965
+    },
+    "margin-left": {
+      "198.45pt": 2000,
+      "212.65pt": 4675,
+      "70.9pt": 1,
+      "56.7pt": 2,
+      "49.65pt": 1,
+      "28.35pt": 8,
+      "14.15pt": 2
+    },
+    "text-indent": {
+      "28.35pt": 19055,
+      "0pt": 2
+    },
+    "line-height": {
+      "12pt": 21086
+    },
+    "font-style": {
+      "italic": 2866
+    },
+    "-aw-import": {
+      "spaces": 326,
+      "ignore": 90
+    },
+    "width": {
+      "11pt": 2,
+      "3.35pt": 2,
+      "36pt": 1
+    },
+    "display": {
+      "inline-block": 5
+    },
+    "vertical-align": {
+      "super": 3
+    }
+  },
+  "conclusao": "Overlay de auditoria dos verificadores, sem promoção automática nem revisão humana integral2000; contexto literal de cada fecho/tail foi preservado. Datas de citações não são aceitas por simples regex: exige bloco terminal antes de assinatura presidencial explícita, anos independência/república e ausência de texto posterior além de nomes.",
+  "Git_HTTP_canonicos": false,
+  "preprocessamento_parser": "Remove exclusivamente BOM U+FEFF inicial da string entregue ao HTML5; SHA e bytes raw permanecem intocados. V1 preservado mostra erro artificial de parser por BOM como caractere antes de html. Nenhuma outra correção HTML."
+}

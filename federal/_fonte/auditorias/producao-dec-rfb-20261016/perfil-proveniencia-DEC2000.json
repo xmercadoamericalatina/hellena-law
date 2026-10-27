@@ -1,0 +1,122 @@
+{
+  "perfil_scripts": [
+    {
+      "original": "scripts/baixar_federal.py",
+      "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/baixar_federal-5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7.py",
+      "sha256": "5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7"
+    },
+    {
+      "original": "scripts/html2md.py",
+      "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/html2md-bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c.py",
+      "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c"
+    },
+    {
+      "original": "scripts/auditar.py",
+      "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/auditar-5583f5a11bab51014d6faa56e0d1ec39505c2f74caed545a47cd517d02ea75a7.py",
+      "sha256": "5583f5a11bab51014d6faa56e0d1ec39505c2f74caed545a47cd517d02ea75a7"
+    },
+    {
+      "original": "scripts/comum.py",
+      "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/comum-9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "original": "scripts/datas.py",
+      "snapshot": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/datas-0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc.py",
+      "sha256": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc"
+    }
+  ],
+  "HEAD_inicio_snapshot": "b60074348043741c45f88e278b0ddb8eacea8362",
+  "HEAD_atual": "6593c56e63f354ed269b1ed818cfe3e990c8e945",
+  "HEAD_mesmo_escopo": false,
+  "HEAD_urns_escopo_amplo": {
+    "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-urns-escopo-amplo.txt",
+    "sha256": "f8f64e9d55adb4ff9667b12e0b70790c31f555ef60212f8ef0d47ec8272d6e0a"
+  },
+  "HEAD_identidades_alternativas": {
+    "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-decretos-alternativos-metadados.json",
+    "sha256": "e613394a486ad662b5e6963f0243d6f98c9821200240f7f19599e168d5eb7f8f"
+  },
+  "indice_primario": {
+    "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/prova-indice-DEC.json",
+    "sha256": "ffeb666f18b61d80b1b5e47abb8fb16d560c06c449520dfccf8a194cc4d711b3"
+  },
+  "coletores_e_checklists": {
+    "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/checklist-coletores.json",
+    "sha256": "a8a053428dc98906b99cf5d56c20ac82c413b7798a586b1163bca040dd58c57a"
+  },
+  "mudancas_entre_HEADs_no_escopo_federal_reguladores": [
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/dpl-263-1894-12-20.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/dpl-3029-1915-11-22.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/dpl-4970-1925-10-28.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/manifesto-candidatos3.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/manifesto-congelado3.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/preparar3-3d8b4a57bcea089dd9baaffcb57424d7b808dc3c2253074e950160e8900747fc.py",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/primarios3.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/prova-ausencia-HEAD-canonicos.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/revisao-raiz-parcial3.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/verificacao-raiz3-DOM-metadados.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/dpl-1107-1903-11-24.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/dpl-2967-1915-02-08.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/dpl-395-1896-10-13.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dossie-identidade-divergencia.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dpl-4115-1920-08-27.md",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/fonte.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/fragmento-proprio.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/metadados.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/prova.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/render-corpo-GFM.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/manifesto-candidatos4.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/manifesto-congelado4.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/preparar4-6d899de72dadab3e8427a1a20af2eb18b7d9124f6cb72734018234bc87351ba1.py",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/primarios4.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/prova-ausencia-HEAD.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/GFM7.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/GitHub7.html",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/aprovacao-publicacao7-raiz.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/auditoria-formato7.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/diffcheck.txt.gz",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/verificacao-indice-whitespace.json",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/verificar-indice-raiz.py",
+    "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/verificar-raiz7.py",
+    "federal/_publicacao_recuperacao7_raiz_20261016.json",
+    "federal/decretos-legislativos/1894/dpl-263-1894-12-20.md",
+    "federal/decretos-legislativos/1896/dpl-395-1896-10-13.md",
+    "federal/decretos-legislativos/1903/dpl-1107-1903-11-24.md",
+    "federal/decretos-legislativos/1915/dpl-2967-1915-02-08.md",
+    "federal/decretos-legislativos/1915/dpl-3029-1915-11-22.md",
+    "federal/decretos-legislativos/1920/dpl-4115-1920-08-27.md",
+    "federal/decretos-legislativos/1925/dpl-4970-1925-10-28.md"
+  ],
+  "escopo_HEAD_equivalente_comprovado": false
+}

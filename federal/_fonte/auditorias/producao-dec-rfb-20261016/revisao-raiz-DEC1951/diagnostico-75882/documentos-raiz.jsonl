@@ -1,0 +1,1 @@
+{"path": "federal/decretos/1975/dec-75882-1975-06-19.md", "erros": ["Traceback (most recent call last):\n  File \"/tmp/diagnostico-75882-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?\\.?\\s*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"]}

@@ -1,0 +1,69 @@
+{
+  "estado": "revisao_raiz_independente_nao_aprovacao",
+  "documentos": 1,
+  "com_erros": 0,
+  "falhas": [],
+  "CSS_head": [
+    {
+      "sha256": "3f07c806cb921e272f4279d759c17cac627a1e45638b995bd22f9982a214e670",
+      "qtd": 1,
+      "literal": "body { font-family:Calibri }p { margin:0pt }"
+    }
+  ],
+  "CSS_inline": {
+    "margin-bottom": {
+      "12pt": 4,
+      "6pt": 3,
+      "18pt": 1
+    },
+    "widows": {
+      "0": 10
+    },
+    "orphans": {
+      "0": 10
+    },
+    "font-size": {
+      "0.83em": 11,
+      "0.75em": 1
+    },
+    "font-family": {
+      "'times new roman'": 13
+    },
+    "margin-top": {
+      "12pt": 4,
+      "6pt": 3,
+      "18pt": 1
+    },
+    "text-align": {
+      "center": 4,
+      "justify": 5
+    },
+    "font-weight": {
+      "bold": 7
+    },
+    "text-transform": {
+      "uppercase": 3
+    },
+    "margin-left": {
+      "198.45pt": 1,
+      "212.65pt": 2
+    },
+    "text-indent": {
+      "28.35pt": 5
+    },
+    "line-height": {
+      "12pt": 6
+    },
+    "font-style": {
+      "italic": 1
+    }
+  },
+  "spans_espaciais": [],
+  "sequencias_artigos_requerem_contexto": [],
+  "limites": [
+    "Sem revisao humana integral1951 ou facsimiles; valida snapshot oficial HTML+JSON e sequencia literal GFM.",
+    "CSS text-transform/posicao/size nao sao alegados identicos em pixels.",
+    "Marcador administrativo so retirado de P inicial inteiro, vinculado a numero/data propria.",
+    "Dedup HEAD atual e GitHub ainda pendentes."
+  ]
+}

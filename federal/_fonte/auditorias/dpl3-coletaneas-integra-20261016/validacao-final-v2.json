@@ -1,0 +1,47 @@
+{
+  "AST": true,
+  "formato3_erros": 0,
+  "formato3_avisos": 0,
+  "replay_returncode": 0,
+  "replay": "{\"candidatos\": 3, \"diferencas_registradas\": 61, \"paginas_visuais\": 18, \"ledger_sha256\": \"eae764989a137e72a1e6dd9ff93f8cb936a7d6cef6e09aa3cd7b86b746de8aa4\", \"HTTP\": 0, \"canonicos_alterados\": 0}\n",
+  "helper_sha256": "2011de2f516749751ac1efdb77b124de9ae87cf7a0c1721dc23858208618e364",
+  "atos": [
+    {
+      "numero": "5488",
+      "path_canonico": "federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256_MD": "b5f4beb642c175b2a1f43514646cf30271c51b41fc26b2947b82bd309cbb195b",
+      "sha256_corpo": "77ba1fde68de74f142af7e4d686992bccaa9341b3aa6087ab9fdc2621ef92de5",
+      "artigos_sequenciais": 3,
+      "diferencas": 1,
+      "paginas": 2,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    },
+    {
+      "numero": "5515",
+      "path_canonico": "federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256_MD": "b35a83610984d3f11b371c17aa1c4a6a0e383bcfa16b0f6f73d569813735a9e3",
+      "sha256_corpo": "896ee2d428debe04196bdbcb199a3779b591ba5d33d4f323bed013394bffef84",
+      "artigos_sequenciais": 45,
+      "diferencas": 28,
+      "paginas": 6,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    },
+    {
+      "numero": "4743",
+      "path_canonico": "federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256_MD": "c16f00eb8aeb1192a667670e8ffb97e69b52f928ebbd2d2eedc76034940ec289",
+      "sha256_corpo": "d5a2aec25aae333cdd947360c3bcfd551b27fb9c7180239357015ba93ff08c9a",
+      "artigos_sequenciais": 37,
+      "diferencas": 32,
+      "paginas": 10,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    }
+  ],
+  "HTTP_nesta_preparacao": 0,
+  "canonicos_alterados": 0,
+  "nao_alega_igualdade_HTML_coletanea": true,
+  "nota": "Todos61deltas e lapsos impressos preservados estão noledger. Fonteprincipalcoletânea explícita; HTMLoriginal íntegroembackup/cachecomoalternativa. Revisão raiz ainda necessária."
+}

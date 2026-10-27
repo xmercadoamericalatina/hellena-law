@@ -1,0 +1,53 @@
+{
+  "estado": "leitura_integral13_concluida_achados_impedem_publicacao",
+  "atos_lidos": [
+    "5018",
+    "2168",
+    "3497",
+    "3681",
+    "5116",
+    "5099",
+    "5173",
+    "5368",
+    "5633",
+    "5636",
+    "5585",
+    "5597",
+    "5745"
+  ],
+  "paginas_lidas": 27,
+  "paginas_totais": 27,
+  "restantes_atos": 0,
+  "restantes_paginas": 0,
+  "5018": {
+    "paginas_pdf": [
+      45,
+      46,
+      47
+    ],
+    "candidato_raiz_v5_sha256": "0ce123a527e95df990c6a5b97c2bf696a03a210ddcafe7c37d35a31519cc5f5a",
+    "achados": "achados-5018-v5.json",
+    "pendente": "GFM, provenance, render original e demais gates finais"
+  },
+  "2168": {
+    "paginas_pdf": [
+      110
+    ],
+    "candidato_sha256": "193ddd5043310ab0234567ddbb5ec523fceb7553ec0f56c799012454a614ba55",
+    "cotejo": "Leitura integral da página; epígrafe, fórmula, artigo único, quadro7x3, fecho e assinaturas; valores Ouro/Papel e vazios literais $ preservados",
+    "deltas_encontrados": []
+  },
+  "limite": "Leitura visual parcial; faltam demais atos, integridade fontes e gates completos; nenhum candidato promovido",
+  "achados_novos": {
+    "5585": [
+      "1928 — Janeiro a dezembro: candidato termina com dois-pontos; fonte termina com ponto",
+      "director de Serviços no candidato; serviços minúsculo na fonte"
+    ],
+    "5745": [
+      "V3 omite Miguel Cazelli254$000 e José Ferreira re/de Mesquita240$000 impressos na página110. Alegação prévia diferença versão está incorreta; leitura ampliada e V4 pendentes"
+    ],
+    "5597": [
+      "107° no candidato; marcador ordinal deve preservar107º"
+    ]
+  }
+}

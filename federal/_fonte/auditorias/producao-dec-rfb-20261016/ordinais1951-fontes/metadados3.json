@@ -1,0 +1,83 @@
+[
+  {
+    "numero": "75906",
+    "data": "1975-06-25",
+    "urn": "urn:lex:br:federal:decreto:1975-06-25;75906",
+    "rawmetadata_SHA": "7b20f18e4301e29619bbaca3d8e03f7661c023db3de1b6069a7860bff72979f8",
+    "encoding": [
+      {
+        "datePublished": "1975-06-26",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contentUrl": "https://normas.leg.br/api/binario/4356939b-a3cd-42a8-a440-197f6afb62f8/texto",
+        "@type": "LegislationObject",
+        "name": "Publicação Original [Decreto nº 75.906 de 25/06/1975]  [Diário Oficial da União  de 26/06/1975] (p. 7648, col. 3)",
+        "legislationLegalValue": "UnofficialLegalValue",
+        "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+        "publisher": {
+          "@type": "GovernmentOrganization",
+          "@id": "https://www.congressonacional.leg.br/"
+        },
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1975-06-25;75906@1975-06-25~texto;pt$text-html",
+        "version": "Original"
+      }
+    ],
+    "sameAs": [
+      "http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1975-06-25;75906",
+      "http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=498546"
+    ]
+  },
+  {
+    "numero": "76923",
+    "data": "1975-12-23",
+    "urn": "urn:lex:br:federal:decreto:1975-12-23;76923",
+    "rawmetadata_SHA": "fa515f0b9b2599acebba2ee4aab9978accaf367f3281417bf536dadb3509104a",
+    "encoding": [
+      {
+        "datePublished": "1975-12-26",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contentUrl": "https://normas.leg.br/api/binario/5e3f03af-0200-4de3-970b-d13bcabeb44e/texto",
+        "@type": "LegislationObject",
+        "name": "Publicação Original [Decreto nº 76.923 de 23/12/1975]  [Diário Oficial da União  de 26/12/1975] (p. 17088, col. 1)",
+        "legislationLegalValue": "UnofficialLegalValue",
+        "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+        "publisher": {
+          "@type": "GovernmentOrganization",
+          "@id": "https://www.congressonacional.leg.br/"
+        },
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1975-12-23;76923@1975-12-23~texto;pt$text-html",
+        "version": "Original"
+      }
+    ],
+    "sameAs": [
+      "http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1975-12-23;76923",
+      "http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=499563"
+    ]
+  },
+  {
+    "numero": "77443",
+    "data": "1976-04-14",
+    "urn": "urn:lex:br:federal:decreto:1976-04-14;77443",
+    "rawmetadata_SHA": "081a2b014f7d1f71f961926e5de8ed4348f9aba463ee9bdc8bad164240ce78fa",
+    "encoding": [
+      {
+        "datePublished": "1976-04-19",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contentUrl": "https://normas.leg.br/api/binario/2e719787-5c32-46e7-b26a-badf67b19736/texto",
+        "@type": "LegislationObject",
+        "name": "Publicação Original [Decreto nº 77.443 de 14/04/1976]  [Diário Oficial da União  de 19/04/1976] (p. 4904, col. 1)",
+        "legislationLegalValue": "UnofficialLegalValue",
+        "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+        "publisher": {
+          "@type": "GovernmentOrganization",
+          "@id": "https://www.congressonacional.leg.br/"
+        },
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1976-04-14;77443@1976-04-14~texto;pt$text-html",
+        "version": "Original"
+      }
+    ],
+    "sameAs": [
+      "http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1976-04-14;77443",
+      "http://legis.senado.leg.br/legislacao/DetalhaSigen.action?id=500083"
+    ]
+  }
+]

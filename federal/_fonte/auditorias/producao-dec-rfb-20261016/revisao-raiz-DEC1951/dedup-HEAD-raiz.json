@@ -1,0 +1,29 @@
+{
+  "HEAD": "f5b6edc42eddff0c0259f0caec8fdac2a566ce54",
+  "escopo": [
+    "federal",
+    "reguladores"
+  ],
+  "canonicos_HEAD": 156376,
+  "cabecalhos_extraidos": 156376,
+  "sem_cabecalho": [],
+  "candidatos": 1951,
+  "duplicatas": [],
+  "paths_canonicos_ausentes_HEAD": true,
+  "comando_git_grep": [
+    "rtk",
+    "proxy",
+    "git",
+    "grep",
+    "-n",
+    "-E",
+    "^(urn|numero|data|tipo|titulo|fonte):",
+    "HEAD",
+    "--",
+    ":(glob)federal/**/*.md",
+    ":(glob)reguladores/**/*.md",
+    ":(glob,exclude)**/_*/**"
+  ],
+  "prova_cabecalhos_SHA256": "769ee81a89d326baa5423355292e52dbe91517076132920c38537bb0ac8ef7ea",
+  "limite": "Dedup de identidades URN e numero/data/tipo em metadados publicados; nao certifica integridade dos textos."
+}

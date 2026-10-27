@@ -1,0 +1,283 @@
+{
+  "estado": "envelope_conferido_sem_aprovacao",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-decretos-alternativos-metadados.json",
+      "sha256": "e613394a486ad662b5e6963f0243d6f98c9821200240f7f19599e168d5eb7f8f",
+      "bytes": 13940
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-urns-escopo-amplo.txt",
+      "sha256": "f8f64e9d55adb4ff9667b12e0b70790c31f555ef60212f8ef0d47ec8272d6e0a",
+      "bytes": 11067018
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/RFB-erros-reclassificados-por-fonte.json",
+      "sha256": "8d5c78be7f14bf59606f683c2dbfd938b106fafceaaca556d9cf151e989fe2d2",
+      "bytes": 306094
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/censo-CSS-DEC2000.json",
+      "sha256": "e467b77da48a0633f955c6d45a000668a3f17f06d08b0eb044389149274252f5",
+      "bytes": 524
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/censo_css_dec2000.py",
+      "sha256": "54f1d1fa1a7e76912ede3a1f2dce8d4999100220ce349eb49087ff571da97b09",
+      "bytes": 1912
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/checklist-coletores.json",
+      "sha256": "a8a053428dc98906b99cf5d56c20ac82c413b7798a586b1163bca040dd58c57a",
+      "bytes": 5370
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/checklist-indice-RFB.json",
+      "sha256": "304952780828bccee47a535c427e322e09bb25dcd3c594ed488b322d5ca69a49",
+      "bytes": 614
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/prova.json",
+      "sha256": "e9649ce3a8657739af22950750181f9ad47257d58b9a759d186aecf02410e52e",
+      "bytes": 1917
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/HEAD-congelamento.txt",
+      "sha256": "94816778b427a565ffc50f6107d86d8838f262c22267785688db33e649359b3a",
+      "bytes": 41
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/HEAD-paths.txt",
+      "sha256": "d7d79c4bf3b217d616b37441ad633e567336b8ff1119a5239910fdda0ccd4811",
+      "bytes": 118000
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/backup-MDs.jsonl.gz",
+      "sha256": "d28128c6afc20f3d01a217a33defc8b13f84b3e3c6b9fce167c8ecf018a2efb4",
+      "bytes": 1232944
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/backup-fontes.jsonl.gz",
+      "sha256": "0c23c28bf7ec76b98d8614f74c9aa8cd50f1888d4c252515f294257fd91033b6",
+      "bytes": 5767471
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/congelar_coorte_dec.py",
+      "sha256": "e9d2ef8b604c2c300097a427092d34ca0e75f5ffb1301b0634a4f03a4fb802db",
+      "bytes": 8923
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/coorte2000.jsonl",
+      "sha256": "7b748d69c00ab3c6551fa58b1220997a0d1051cb914bec6ba8d6601ae2a81f8b",
+      "bytes": 8049739
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/inventariar_producao_dec.py",
+      "sha256": "4118045584c54f617db04261e439983871c02e5786d7ab264e4579d9df7ee9f3",
+      "bytes": 6955
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/manifesto.json",
+      "sha256": "c9fa0107fd00d9096449c850d3e2e0b2c36ef18ea02923e7c922de0344d4e491",
+      "bytes": 3460
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/paths2000.txt",
+      "sha256": "9d3e4e00e66b45ca566c90929db91134f33676f9fccbed4493fd6990f52f8f64",
+      "bytes": 92000
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/retencoes-adicionais-ate-coorte.json",
+      "sha256": "3a7747aab9e07963d0f9ec0165d5c66ee448d249ee8280d93b451936fdc88455",
+      "bytes": 7032
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/verificar_coorte_dec_fechada.py",
+      "sha256": "8593398d0f88c80d49d595004e7c4b41df4120dca9ab9ed27ac1faff6599d492",
+      "bytes": 3211
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/verificar_dec_gfm.py",
+      "sha256": "b97da2c8ef77221e76bd75158828c1ff2e83adfce8e84155e04823f4ed20073d",
+      "bytes": 4300
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/gates-extras-midias-DEC2000-v2.json",
+      "sha256": "001e8d8bce8041d8b5df712412163cab7515c98c5914bdecb693cb6b0c3d30f6",
+      "bytes": 646572
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/indice-DEC-master-congelado.json.gz",
+      "sha256": "05bae939074ed9faf044f3738ab0a28323f298509e7445207b66b9c9a6baad2a",
+      "bytes": 11383379
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/manifesto-final-DEC2000.json",
+      "sha256": "3f5dab56bef71b877ef3b68741632326fb7dc7accb4cd087e09bb988a8b8c487",
+      "bytes": 5512
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/controles-complementares.json",
+      "sha256": "2133feefc531229ae02ceea7e5dda7b468c9006d5d43c4a61c2bc4cce5d7fae6",
+      "bytes": 554933
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/decisoes-contextuais-marcadores.json",
+      "sha256": "cac4e86dadedc61f3a5637d26a9bee73e02767a91d8c6a29950fa93b43b30f5d",
+      "bytes": 2689
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/documentos-v2.jsonl",
+      "sha256": "9599fa32f1465093a0ec8e1cd16b8b3fbb3d4173c5268b13caffa667a96864ac",
+      "bytes": 12713804
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/documentos.jsonl",
+      "sha256": "2041595187729f3d6dc1feced0c0c684cee87e2168b158c6ec6445991393c4cf",
+      "bytes": 4962400
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/fechar_overlay_contextual_dec2000.py",
+      "sha256": "091cd55daf956a3eababc1319f988b0b6f7d72160cc6f598779872663b3101e7",
+      "bytes": 3926
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/fonte-LucidaConsole.json",
+      "sha256": "f40f990d2f73c553a218d850799d76cab03de07c6ff2befd1f4ef6bde9dd1524",
+      "bytes": 640
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/limites-CSS-transformacao.json",
+      "sha256": "48170bbc105112a3c0c9ee83901bf89402ed2a3194b665d47d97a581e0c89376",
+      "bytes": 2931
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/manifesto-overlay.json",
+      "sha256": "5955ace8f2a7f5f7c26a47126807959d71b2bfc474baa2099a61c9ccbb83320f",
+      "bytes": 5103
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/paths-retidos.txt",
+      "sha256": "a25e5db2f404ac9d84201d55258121b27f6a7558d12cf8738cd6915c0e0f08ee",
+      "bytes": 2254
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/paths-sem-alerta-adicional.txt",
+      "sha256": "553b9947ee5978f5e0ecb1111a6d22ecb16eaf55694168c489153182778ef403",
+      "bytes": 89746
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/resumo-v2.json",
+      "sha256": "d7df9a2ed3654c8b9a7199266361750945889f22bb0257e93b7d26c8a4579264",
+      "bytes": 2395
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/resumo.json",
+      "sha256": "78f920ddb0818415dbadd60b8b9fad2fab268f064d11f4512bd37540d50bb68a",
+      "bytes": 2178
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/retencoes-finais.jsonl",
+      "sha256": "369fdf68ddb4bfe3a08684a10aca01aa9c1be35cabb9b8c1730f9aaab81c0023",
+      "bytes": 844239
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/revisao-dos-verificadores.json",
+      "sha256": "f5d5855f0968f98fb8b6feeec68bdba50442d837d41db2d98ad6aa91f854811c",
+      "bytes": 2208
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/revisar_contexto_dec2000-v1.py",
+      "sha256": "e45b01465c065356a634b3cd5092a4d617d205fc758d00c0750febb9cd325b9e",
+      "bytes": 6824
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/revisar_contexto_dec2000-v2.py",
+      "sha256": "908e360dea904b8bd6a1c1b99860f5bd914bd5e0b0726ee76ec05218fd91f39c",
+      "bytes": 7501
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/overlay-contextual-DEC2000/verificar_controles_complementares_dec2000.py",
+      "sha256": "60cf72b9fd2f61896894378d94899ba5ead6cd41ba69f932b8e5efbb33c9335d",
+      "bytes": 1555
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/auditar-5583f5a11bab51014d6faa56e0d1ec39505c2f74caed545a47cd517d02ea75a7.py",
+      "sha256": "5583f5a11bab51014d6faa56e0d1ec39505c2f74caed545a47cd517d02ea75a7",
+      "bytes": 6128
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/baixar_federal-5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7.py",
+      "sha256": "5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7",
+      "bytes": 19590
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/comum-9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/datas-0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc.py",
+      "sha256": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc",
+      "bytes": 2886
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-conversao/html2md-bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c.py",
+      "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+      "bytes": 14266
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-proveniencia-DEC2000.json",
+      "sha256": "dcf560af0c0d6613a0ec7ba7fe75e1e55b912153a41fa38b737cf52b34f906f1",
+      "bytes": 10341
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/prova-continuidade-HEAD-DEC.json",
+      "sha256": "ff09e09ebd7522e6fc99c8b2976134b7a28ee58bf10a45ddce01a4baf39e3a08",
+      "bytes": 418
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/prova-indice-DEC.json",
+      "sha256": "ffeb666f18b61d80b1b5e47abb8fb16d560c06c449520dfccf8a194cc4d711b3",
+      "bytes": 1229
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resultado-validacao-DEC2000.json",
+      "sha256": "d0f46ae72bc286af1149c4c27a563eb752d9a9af7b6484527d65d295459dbda9",
+      "bytes": 789
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resumo-DEC-fase1.json",
+      "sha256": "5aaa018f5a09e8622053a372ba118e538ee677f12423a579c78f4dd4cbc8b658",
+      "bytes": 679
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resumo-RFB-fase1.json",
+      "sha256": "5e14a444662054cb21aa835a32236cab4a3e87bcc2ce364e85f5d390ae65a2e2",
+      "bytes": 552
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao4-espacos-posicionados-DEC2000.json",
+      "sha256": "e3330e7f9b3a664dda6db5f5281c8febe90203de21a743d46d6f7bc82b571957",
+      "bytes": 5520
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/verificar4_espacos_dec.py",
+      "sha256": "c112649f8fb0b2fe226ef16e7d4af0773d11b82286f9c56ce0631646f1e30ce1",
+      "bytes": 2380
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/verificar_extras_coorte_dec.py",
+      "sha256": "7855ebd508db125923c842c12745abf147351bb28fba7b4a129e3f96cea7e8e5",
+      "bytes": 2820
+    }
+  ],
+  "documentos_rawmetadata_censeados": 1951,
+  "legislationLegalValue": {
+    "null": 1951
+  },
+  "encoding_versions_todos_encodings": {
+    "Original": 1951
+  },
+  "limites": "VersaoOriginal e valor juridico da API nao certificam exemplar impresso. Manifestos historicos mantem suas limitacoes, substituidos somente por overlays explicitos."
+}

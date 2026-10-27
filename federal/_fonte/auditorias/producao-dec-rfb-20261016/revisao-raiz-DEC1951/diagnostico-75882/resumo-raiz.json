@@ -1,0 +1,79 @@
+{
+  "estado": "revisao_raiz_independente_nao_aprovacao",
+  "documentos": 1,
+  "com_erros": 1,
+  "falhas": [
+    {
+      "path": "federal/decretos/1975/dec-75882-1975-06-19.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/diagnostico-75882-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?\\.?\\s*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    }
+  ],
+  "CSS_head": [
+    {
+      "sha256": "3f07c806cb921e272f4279d759c17cac627a1e45638b995bd22f9982a214e670",
+      "qtd": 1,
+      "literal": "body { font-family:Calibri }p { margin:0pt }"
+    }
+  ],
+  "CSS_inline": {
+    "margin-bottom": {
+      "12pt": 4,
+      "6pt": 2,
+      "18pt": 1
+    },
+    "widows": {
+      "0": 9
+    },
+    "orphans": {
+      "0": 9
+    },
+    "font-size": {
+      "0.83em": 14,
+      "0.75em": 1
+    },
+    "font-family": {
+      "arial": 16
+    },
+    "margin-top": {
+      "12pt": 4,
+      "6pt": 2,
+      "18pt": 1
+    },
+    "text-align": {
+      "center": 4,
+      "justify": 4
+    },
+    "font-weight": {
+      "bold": 5
+    },
+    "text-transform": {
+      "uppercase": 3
+    },
+    "margin-left": {
+      "198.45pt": 1,
+      "212.65pt": 2
+    },
+    "text-indent": {
+      "28.35pt": 4
+    },
+    "line-height": {
+      "12pt": 5
+    },
+    "font-style": {
+      "italic": 2
+    },
+    "-aw-import": {
+      "spaces": 2
+    }
+  },
+  "spans_espaciais": [],
+  "sequencias_artigos_requerem_contexto": [],
+  "limites": [
+    "Sem revisao humana integral1951 ou facsimiles; valida snapshot oficial HTML+JSON e sequencia literal GFM.",
+    "CSS text-transform/posicao/size nao sao alegados identicos em pixels.",
+    "Marcador administrativo so retirado de P inicial inteiro, vinculado a numero/data propria.",
+    "Dedup HEAD atual e GitHub ainda pendentes."
+  ]
+}

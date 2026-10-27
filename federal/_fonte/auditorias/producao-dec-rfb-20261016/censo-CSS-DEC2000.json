@@ -1,0 +1,22 @@
+{
+  "documentos": 2000,
+  "valores": {
+    "font-family": {
+      "arial": 36388,
+      "'times new roman'": 2052,
+      "'lucida console'": 1
+    },
+    "font-weight": {
+      "bold": 15814
+    },
+    "font-style": {
+      "italic": 2866
+    },
+    "vertical-align": {
+      "super": 3
+    }
+  },
+  "CSS_externo_ou_import": [],
+  "valores_nao_suportados": [],
+  "observacao": "Censo literal independente do conversor. Herança/reset comuns aferidos pelo parser Forma; valores não suportados exigem revisão individual."
+}

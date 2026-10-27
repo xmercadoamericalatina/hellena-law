@@ -1,0 +1,98 @@
+{
+  "estado": "COORTE2000 FECHADA PARA REVISÃO RAIZ; sem aplicação/publicação",
+  "MDs": 2000,
+  "lista_exata": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/paths2000.txt",
+  "linhas_com_MD_SHA_corpo_SHA_fonte_SHA_rawmetadata_SHA_identidade_versao_status": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/coorte2000.jsonl",
+  "universo_DEC_n": 139127,
+  "completude_universo": false,
+  "fidelidade": "Texto integral DOM/GFM e máscaras por caractere não branco, incluindo pontuação: B fonte preservado; I/del/sup/sub idênticos. Extras B editoriais admitidos. CSS inline/herança inspecionados; censo não encontrou resets/valores desconhecidos nem CSS externo.",
+  "overlay_4_recuos": "Corrige descrição genérica sem geometria do manifesto interno: quatro documentos possuem cinco spans contendo apenas 1NBSP, antes de epígrafe/assinatura; fonte SHA e parágrafos exatos comprovados no relatório individual. Nenhuma coluna/valor/tabela. Exceção limitada às fontes SHA listadas, não regra geral.",
+  "limite_brancos": "Gate inicial tabs/NBSP em lines normalizadas era insuficiente. Auditoria extra V2 verifica dados crus antes de normalizar e não encontra tabs ou sequências NBSP; conserva evidência anterior.",
+  "retidos": "Todos fora da lista continuam fora desta aprovação; RFB/DOU e pendências históricas467,11+8 não incluídos.",
+  "fontes_backups": "2000MDs completos e2000HTML/rawmetadata bytes originais em packs imutáveis internos.",
+  "Git_mutacao": false,
+  "HTTP": false,
+  "canonicos_alterados": false,
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/manifesto.json",
+      "sha256": "c9fa0107fd00d9096449c850d3e2e0b2c36ef18ea02923e7c922de0344d4e491"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resultado-validacao-DEC2000.json",
+      "sha256": "d0f46ae72bc286af1149c4c27a563eb752d9a9af7b6484527d65d295459dbda9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/gates-extras-midias-DEC2000-v2.json",
+      "sha256": "001e8d8bce8041d8b5df712412163cab7515c98c5914bdecb693cb6b0c3d30f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/revisao4-espacos-posicionados-DEC2000.json",
+      "sha256": "e3330e7f9b3a664dda6db5f5281c8febe90203de21a743d46d6f7bc82b571957"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/censo-CSS-DEC2000.json",
+      "sha256": "e467b77da48a0633f955c6d45a000668a3f17f06d08b0eb044389149274252f5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/censo_css_dec2000.py",
+      "sha256": "54f1d1fa1a7e76912ede3a1f2dce8d4999100220ce349eb49087ff571da97b09"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/verificar4_espacos_dec.py",
+      "sha256": "c112649f8fb0b2fe226ef16e7d4af0773d11b82286f9c56ce0631646f1e30ce1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/verificar_extras_coorte_dec.py",
+      "sha256": "7855ebd508db125923c842c12745abf147351bb28fba7b4a129e3f96cea7e8e5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/prova-indice-DEC.json",
+      "sha256": "ffeb666f18b61d80b1b5e47abb8fb16d560c06c449520dfccf8a194cc4d711b3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/indice-DEC-master-congelado.json.gz",
+      "sha256": "05bae939074ed9faf044f3738ab0a28323f298509e7445207b66b9c9a6baad2a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/perfil-proveniencia-DEC2000.json",
+      "sha256": "dcf560af0c0d6613a0ec7ba7fe75e1e55b912153a41fa38b737cf52b34f906f1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/prova-continuidade-HEAD-DEC.json",
+      "sha256": "ff09e09ebd7522e6fc99c8b2976134b7a28ee58bf10a45ddce01a4baf39e3a08"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-urns-escopo-amplo.txt",
+      "sha256": "f8f64e9d55adb4ff9667b12e0b70790c31f555ef60212f8ef0d47ec8272d6e0a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/HEAD-decretos-alternativos-metadados.json",
+      "sha256": "e613394a486ad662b5e6963f0243d6f98c9821200240f7f19599e168d5eb7f8f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/checklist-coletores.json",
+      "sha256": "a8a053428dc98906b99cf5d56c20ac82c413b7798a586b1163bca040dd58c57a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/checklist-indice-RFB.json",
+      "sha256": "304952780828bccee47a535c427e322e09bb25dcd3c594ed488b322d5ca69a49"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resumo-DEC-fase1.json",
+      "sha256": "5aaa018f5a09e8622053a372ba118e538ee677f12423a579c78f4dd4cbc8b658"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/resumo-RFB-fase1.json",
+      "sha256": "5e14a444662054cb21aa835a32236cab4a3e87bcc2ce364e85f5d390ae65a2e2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/RFB-erros-reclassificados-por-fonte.json",
+      "sha256": "8d5c78be7f14bf59606f683c2dbfd938b106fafceaaca556d9cf151e989fe2d2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/prova.json",
+      "sha256": "e9649ce3a8657739af22950750181f9ad47257d58b9a759d186aecf02410e52e"
+    }
+  ]
+}

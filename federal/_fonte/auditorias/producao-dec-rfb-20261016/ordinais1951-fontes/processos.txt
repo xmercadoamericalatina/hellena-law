@@ -1,0 +1,4 @@
+10421    07:17:55 rtk proxy python3 -I scripts/baixar_dou.py --de 2024-01-01 --ate 2024-12-31 --workers 4 --rps 3
+40379    10:33:54 rtk proxy sh -c exec rtk proxy python3 -I -u scripts/baixar_rfb.py --usar-indice --rps 4 >> _log_rfb_corpos_validos.txt 2>&1
+40380    10:33:53 rtk proxy python3 -I -u scripts/baixar_rfb.py --usar-indice --rps 4
+76663    08:59:23 rtk proxy python3 -I -u scripts/baixar_federal.py --tipos DEC-n --workers 4 --rps 3

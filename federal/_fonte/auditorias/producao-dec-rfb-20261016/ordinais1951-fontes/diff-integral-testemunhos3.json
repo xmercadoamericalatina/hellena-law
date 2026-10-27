@@ -1,0 +1,398 @@
+[
+  {
+    "numero": "75906",
+    "deltas_tokens_completos": [
+      {
+        "tipo": "replace",
+        "normas": "REPÚBLICA ,",
+        "camara": "REPÚBLICA,",
+        "contexto_antes": "Município de Cáceres, Estado de Mato Grosso. O PRESIDENTE DA",
+        "contexto_depois": "usando da atribuição que lhe confere o artigo 81, item"
+      },
+      {
+        "tipo": "replace",
+        "normas": "' 'a''",
+        "camara": "\"a\"",
+        "contexto_antes": "III da Constituição e nos termos dos artigos 140, letra",
+        "contexto_depois": "e ' 'b'' , e 150 do Código de Águas"
+      },
+      {
+        "tipo": "replace",
+        "normas": "' 'b''",
+        "camara": "\"b\"",
+        "contexto_antes": "e nos termos dos artigos 140, letra ' 'a'' e",
+        "contexto_depois": ", e 150 do Código de Águas e, tendo em"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 1º",
+        "camara": "Art. 1º.",
+        "contexto_antes": "em vista o que consta do processo MME 700.998-73, DECRETA:",
+        "contexto_depois": "É outorgada à Centrais Elétricas Matogrossenses S.A. - CEMAT, concessão"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 2º",
+        "camara": "Art. 2º.",
+        "contexto_antes": "distribuição da concessionária ou suprimento a outros concessionários, quando autorizado.",
+        "contexto_depois": "A concessionária fica obrigada a cumprir o disposto no Código"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 3º",
+        "camara": "Art. 3º.",
+        "contexto_antes": "disposto no Código de Águas, leis subseqüentes e seus regulamentos.",
+        "contexto_depois": "A concessionária fica autorizada a estabelecer os sistemas de produção"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "-",
+        "contexto_antes": "energia elétrica de acordo com os projetos aprovados. § 1º",
+        "contexto_depois": "A concessionária concluirá as obras no prazo que for fixado"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "-",
+        "contexto_antes": "com as modificações que forem autorizadas, se necessárias. § 2º",
+        "contexto_depois": "A inobservância do prazo fixado sujeitará a concessionária às penalidades"
+      },
+      {
+        "tipo": "replace",
+        "normas": "inobservância",
+        "camara": "Inobservância",
+        "contexto_antes": "as modificações que forem autorizadas, se necessárias. § 2º A",
+        "contexto_depois": "do prazo fixado sujeitará a concessionária às penalidades previstas na"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "-",
+        "contexto_antes": "de energia elétrica em vigor e seus regulamentos. § 3º",
+        "contexto_depois": "O prazo referido poderá ser prorrogado por ato do Diretor"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "-",
+        "contexto_antes": "do Departamento Nacional de Águas e Energia Elétrica. § 4º",
+        "contexto_depois": "A concessão a que se refere o artigo 1º, vigorará"
+      },
+      {
+        "tipo": "replace",
+        "normas": "5º",
+        "camara": "5º.",
+        "contexto_antes": "existirem em função dos serviços concedidos reverterão à União. Art.",
+        "contexto_depois": "A concessionária poderá requerer que a concessão seja renovada, mediante"
+      },
+      {
+        "tipo": "replace",
+        "normas": "6º",
+        "camara": "6º.",
+        "contexto_antes": "de seu silêncio ser interpretado como desistência da renovação. Art.",
+        "contexto_depois": "O presente Decreto entrará em vigor na data da sua"
+      },
+      {
+        "tipo": "replace",
+        "normas": "ernesto geisel",
+        "camara": "ERNESTO GEISEL",
+        "contexto_antes": "de junho de 1975; 154º da Independência 87º da República.",
+        "contexto_depois": "Arnaldo Rodrigues Barbalho"
+      }
+    ],
+    "limite": "Inclui epigrafe/nota editorial diferentes; diff nao prova fidelidade impressa, nao aplicado"
+  },
+  {
+    "numero": "76923",
+    "deltas_tokens_completos": [
+      {
+        "tipo": "replace",
+        "normas": "Decreto-lei nº",
+        "camara": "Decreto-Lei n°",
+        "contexto_antes": "Regulamenta o",
+        "contexto_depois": "1.422, de 23 de outubro de 1975, que dispõe sobre"
+      },
+      {
+        "tipo": "replace",
+        "normas": "REPÚBLICA ,",
+        "camara": "REPÚBLICA,",
+        "contexto_antes": "sobre o Salário-Educação, e dá outras providências. O PRESIDENTE DA",
+        "contexto_depois": "usando das atribuições que lhe confere o artigo 81, item"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "lhe confere o artigo 81, item III, da Constituição, DECRETA:",
+        "contexto_depois": "1º O Salário-Educação, previsto no artigo 178 da Constituição, instituído"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "agrário não vinculados ao Instituto Nacional de Previdência Social (INPS).",
+        "contexto_depois": "2º O Salário-Educação será calculado pelo sistema de compensação do"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "à fiscalização nos termos deste Decreto e demais normas aplicáveis.",
+        "contexto_depois": "3º O Salário-Educação será cobrado mediante a aplicação de alíquota"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "sujeitos os contribuintes em atraso com o pagamento da contribuição.",
+        "contexto_depois": "5º O Instituto Nacional de Previdência social reterá do montante"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "cento), depositando a receita líquida no Banco do Brasil S.A.",
+        "contexto_depois": "6º O montante da arrecadação em cada Estado e Território"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "Fundo Nacional de Desenvolvimento da Educação, creditados ao Tesouro Nacional.",
+        "contexto_depois": "7º A parcela de 2/3 (dois terços) a que se"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "os programas de ensino de 1º grau, regular e supletivo.",
+        "contexto_depois": "8º A parcela de 1/3 (um terço) dos recursos, a"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "do Orçamento Próprio do Fundo Nacional de Desenvolvimento da Educação.",
+        "contexto_depois": "9º Estão fora do campo de incidência do Salário-Educação a"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "bem como as instituições oficiais de ensino de qualquer grau.",
+        "contexto_depois": "10. São isentas do recolhimento do Salário-Educação: I - As"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "como de significação relevante para o desenvolvimento cultural do País.",
+        "contexto_depois": "11. As empresas, contribuintes do Salário-Educação, estarão isentas do recolhimento"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "à fiscalização, nos termos deste Decreto e demais normas aplicáveis.",
+        "contexto_depois": "12. São condições para a opção a que se refere"
+      },
+      {
+        "tipo": "replace",
+        "normas": "2º",
+        "camara": "2º.",
+        "contexto_antes": "forma do § 1º do artigo 2º, deste Decreto. §",
+        "contexto_depois": "O pagamento mensal das bolsas de estudo mencionadas no §"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "S.A. para distribuição na forma do artigo 6º deste Decreto.",
+        "contexto_depois": "13. A autorização para a forma alternativa de cumprimento da"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "quais as empresas que estiverem isentas do pagamento do Salário-Educação.",
+        "contexto_depois": "14. A fiscalização a ser exercida pelo Ministério da Educação"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 15,",
+        "camara": "Art. 15.",
+        "contexto_antes": "a serem baixadas pelo Fundo Nacional de Desenvolvimento da Educação.",
+        "contexto_depois": "a alíquota do Salário-Educação é fixada em 2,5% (dois e"
+      },
+      {
+        "tipo": "replace",
+        "normas": "A r t.",
+        "camara": "Art.",
+        "contexto_antes": "variação do custo real unitário do ensino de 1º grau.",
+        "contexto_depois": "16. A vigência deste Decreto não prejudicará a arrecadação do"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "outubro de 1964, devido a 31 de dezembro de 1975.",
+        "contexto_depois": "17. Este Decreto entrará em vigor em 1º de janeiro"
+      },
+      {
+        "tipo": "replace",
+        "normas": "braga",
+        "camara": "Braga",
+        "contexto_antes": "154º da Independência e 87º da República. ERNESTO GEISEL Ney",
+        "contexto_depois": "João Paulo dos Reis Velloso L. G. Do Nascimento e"
+      }
+    ],
+    "limite": "Inclui epigrafe/nota editorial diferentes; diff nao prova fidelidade impressa, nao aplicado"
+  },
+  {
+    "numero": "77443",
+    "deltas_tokens_completos": [
+      {
+        "tipo": "replace",
+        "normas": "REPÚBLICA ,",
+        "camara": "REPÚBLICA,",
+        "contexto_antes": "de Desenvolvimento Industrial e dá outras providências. O PRESIDENTE DA",
+        "contexto_depois": "usando das atribuições que lhe confere o artigo 81, inciso"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 1º -",
+        "camara": "Art. 1º.",
+        "contexto_antes": "lhe confere o artigo 81, inciso III, da Constituição, DECRETA:",
+        "contexto_depois": "A política de desenvolvimento industrial do País, orientada e dirigida"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 2º -",
+        "camara": "Art. 2º.",
+        "contexto_antes": "Comércio, será conduzida pelo Conselho de Desenvolvimento Industrial - CDI.",
+        "contexto_depois": "O CDI será presidido pelo Ministro da Indústria e do"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Estado - Maior",
+        "camara": "Estado-Maior",
+        "contexto_antes": "Interior - Ministro das Minas e Energia - Ministro-Chefe do",
+        "contexto_depois": "das Forças Armadas - Presidente do Bando Nacional de Desenvolvimento"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Bando",
+        "camara": "Banco",
+        "contexto_antes": "do Estado - Maior das Forças Armadas - Presidente do",
+        "contexto_depois": "Nacional de Desenvolvimento Econômico - Presidente do Bando Central do"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Bando",
+        "camara": "Banco",
+        "contexto_antes": "Presidente do Bando Nacional de Desenvolvimento Econômico - Presidente do",
+        "contexto_depois": "Central do Brasil - Presidente da Confederação Nacional da Indústria"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "- Presidente do Banco do Brasil S.A.",
+        "contexto_antes": "de Desenvolvimento Econômico - Presidente do Bando Central do Brasil",
+        "contexto_depois": "- Presidente da Confederação Nacional da Indústria - Presidente da"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Indústria",
+        "camara": "Industria",
+        "contexto_antes": "da Confederação Nacional do Comercio. § 1º Ao Ministro da",
+        "contexto_depois": "e do Comércio, na qualidade de presidente do CDI, compete"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 3º -",
+        "camara": "Art. 3º.",
+        "contexto_antes": "- Chefe da Secretaria de Planejamento da Presidência da República.",
+        "contexto_depois": "Sem prejuízo do disposto no Decreto nº 77.065, de 20"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 4º",
+        "camara": "Art. 4º.",
+        "contexto_antes": "desenvolvimento industrial, estabelecidos na forma do Inciso I deste artigo.",
+        "contexto_depois": "O CDI terá uma Comissão de Coordenação e uma Secretaria-Geral."
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 4º",
+        "camara": "Art. 4º.",
+        "contexto_antes": "pelo Secretário-Geral da Secretaria de Planejamento da Presidência da República.",
+        "contexto_depois": "A Secretaria-Geral será subordinada ao Ministro da Indústria e do"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 5º",
+        "camara": "Art. 5º.",
+        "contexto_antes": "Ministro da Indústria e do Comércio, que designará o Secretário-Geral.",
+        "contexto_depois": "Terá a Secretaria-Geral do Conselho de Desenvolvimento Industrial e seguinte"
+      },
+      {
+        "tipo": "insert",
+        "normas": "",
+        "camara": "Parágrafo único . Ficam criados seis grupos setoriais, assim distribuídos:",
+        "contexto_antes": "- Serviço de Documentação e Divulgação IV - Grupos Setoriais.",
+        "contexto_depois": "Grupo Setorial I - Indústria de bens de capital; com"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 6º",
+        "camara": "Grupo Setorial VI - Indústrias de bens de consumo; com participação dos Ministérios da Fazenda, do Interior, das Minas e Energia, da Agricultura, da Saúde e da Secretaria de Planejamento da Presidência da República; do Banco Nacional de Desenvolvimento Econômico, do Banco Central do Brasil, da Carteira de Comércio Exterior do Banco do Brasil, do Conselho de Política Aduaneira e do Instituto Nacional da Propriedade Industrial. Art. 6º.",
+        "contexto_antes": "de Político Aduaneira e do Instituto Nacional da Propriedade Industrial.",
+        "contexto_depois": "Incumbe à Comissão de Coordenação: I - Analisar e compatibilizar"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 7º",
+        "camara": "Art. 7º.",
+        "contexto_antes": "os assuntos que lhe forem submetidos pelo Secretário-Geral do CDI.",
+        "contexto_depois": "Incumbe à Secretaria-Geral coordenar os estudos necessários à aplicação da"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 8º",
+        "camara": "Art. 8º.",
+        "contexto_antes": "e à concessão dos incentivos previsto na legislação em vigor.",
+        "contexto_depois": "Incumbe aos Grupos Setoriais: I - Analisar e avaliar, dentro"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 9º",
+        "camara": "Art. 9º.",
+        "contexto_antes": "atribuídos pelos Secretário-Geral do CDI ou pela Comissão de Coordenação.",
+        "contexto_depois": "O Secretário-Geral do CDI, no âmbito da Comissão de Coordenação"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "para exame de assuntos relacionados com suas áreas de atividade.",
+        "contexto_depois": "10. A Secretaria-Geral do CDI, ouvida a Comissão de Coordenação,"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art .",
+        "camara": "Art.",
+        "contexto_antes": "a evolução da economia com a programação global do Governo.",
+        "contexto_depois": "11. O Ministro da Industria e do Comércio aprovará o"
+      },
+      {
+        "tipo": "replace",
+        "normas": "Art . 12º -",
+        "camara": "Art. 12.",
+        "contexto_antes": "de Coordenação e dos Órgãos integrantes da Secretaria-Geral do CDI.",
+        "contexto_depois": "Este Decreto entrará em vigor na data de sua publicação,"
+      }
+    ],
+    "limite": "Inclui epigrafe/nota editorial diferentes; diff nao prova fidelidade impressa, nao aplicado"
+  }
+]

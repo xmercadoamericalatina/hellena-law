@@ -1,0 +1,15 @@
+{
+  "helper": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/preparar-candidatos13-49733f7380b70d91ad802f4c9542410e627f0166a0371eb708fa8c0bbb26e43e.py",
+  "sha256_helper": "49733f7380b70d91ad802f4c9542410e627f0166a0371eb708fa8c0bbb26e43e",
+  "comando": [
+    "rtk",
+    "proxy",
+    "python3",
+    "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/preparar-candidatos13-49733f7380b70d91ad802f4c9542410e627f0166a0371eb708fa8c0bbb26e43e.py",
+    "--auditar"
+  ],
+  "returncode": 0,
+  "stdout": "[('5745', 'e668f50d226fd9fef178d3ca4b9e1fd3317783e92e4b78568dfaa8a534c81c02'), ('5585', '5db6de9c4020d415bc085352ae23a413a5091279bd059ab0bc9a18a8f8f55476'), ('5116', '078b30e8177b1a03abbdd46fec6f363e9100e342d50e1dfd83745fb2bb58b103'), ('5018', '482967487e4598bee7db7e4d9f3cf7f56afb5094342255f6047f09eaa6c033e2'), ('3497', '0fb85ecd61e1f1d9c2a305735efe3038cc9420fd01b41bd28c5ce17caa46dcdd'), ('5597', 'f5f2fafbee10fc55b101edf633bc9d4ad39b8a515d5fcfb2dc6c76118a443500'), ('5636', 'a7a9c7b530e9b43679162c75cbc11909263e982125a2449227342867819ee89e'), ('3681', '2e7ec84ab91b591ac6a244c21869e9602626b7c9a75fb45793017d10d1e05d64'), ('5173', '8574a4b8b700ff0bb5bfe3319fb56779635075b718148fac75b084968e3fe9a5'), ('2168', '193ddd5043310ab0234567ddbb5ec523fceb7553ec0f56c799012454a614ba55'), ('5633', 'c28968960b9a4e0cfc1ae656934181a7b2a15ebbfe35cf87efb00c5599aa78aa'), ('5099', '84b628c44854554b0cbf39da2330a5afb8cde7db3d2efb29111aaa9ce278c277'), ('5368', 'a0a9687a624f55bddffd93ba06d3fd4fad30bfbe797f232c0ed65ed87a8d9dbe')]\n",
+  "stderr": "",
+  "modo": "somente leitura; semHTTP; compara reprodução exata dos13candidatos/ledgers/checkpoint"
+}

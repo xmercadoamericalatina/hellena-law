@@ -1,0 +1,28 @@
+{
+  "fonte": "https://normasinternet2.receita.fazenda.gov.br/449.6a48a6a93d199be7.js",
+  "origem_URL": "Nome observado no runtime oficial cacheado; sem HTTP nesta auditoria",
+  "arquivos": [
+    {
+      "arquivo": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/0e55949dfcf3ce82b432028abc6ea086e1d6123505162df17fbedf0040e4f85a.html",
+      "sha256": "0e55949dfcf3ce82b432028abc6ea086e1d6123505162df17fbedf0040e4f85a",
+      "bytes": 60644
+    },
+    {
+      "arquivo": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/46905a069c1b610e790c413e4b6954fb16e7cf6469c6485f5b414c2f15eda0da.js",
+      "sha256": "46905a069c1b610e790c413e4b6954fb16e7cf6469c6485f5b414c2f15eda0da",
+      "bytes": 2470816
+    },
+    {
+      "arquivo": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/08316bc64a70d906d22a820ce1ce9f455746f179fe309d2fdae1bb9ac10b629e.js",
+      "sha256": "08316bc64a70d906d22a820ce1ce9f455746f179fe309d2fdae1bb9ac10b629e",
+      "bytes": 3589
+    },
+    {
+      "arquivo": "federal/_fonte/auditorias/producao-dec-rfb-20261016/contrato-visao-RFB/b70121158a9e17298ac862f2ac17336748738e8998169aefced5a49d61551e78.js",
+      "sha256": "b70121158a9e17298ac862f2ac17336748738e8998169aefced5a49d61551e78",
+      "bytes": 431505
+    }
+  ],
+  "enum_literal": "tino(){return this.id==F.id}}const r=new n(1,\"Multivigente\",\"multivigente\"),L=new n(2,\"Vigente\",\"vigente\"),B=new n(3,\"Original\",\"original\"),C=new n(4,\"Original\",\"exclusiva\"),E=new n(5,\"Original\",\"conjunta\"),v=new n(6,\"Relacional\",\"relacional\"),T=new n(7,\"Anota\\xe7\\xe3o\",\"visao-anotacao\"),S=new n(8,\"Anota\\xe7\\xe3o\",\"ativa\"),F=new n(9,\"Anota\\xe7\\xe3o",
+  "conclusao": "conjunta e exclusiva são rotuladas Original pelo frontend oficial; valor JSON isolado não prova versão compilada. Íntegra e fidelidade de segmentos permanecem gates separados."
+}

@@ -1,0 +1,746 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="apple-itunes-app" content="app-id=1049343067" />
+    <meta name="google-play-app" content="app-id=br.leg.camara.infolegmovel" />
+    <script>
+      (function () {
+        let initialized = false;
+        let loading = false;
+
+        function ensureBody(callback) {
+          if (document.body) {
+            callback();
+          } else {
+            setTimeout(() => ensureBody(callback), 50);
+          }
+        }
+
+        function loadScript() {
+          if (loading || window.VLibras) return;
+          loading = true;
+
+          ensureBody(() => {
+            const s = document.createElement("script");
+            s.src = "https://vlibras.gov.br/app/vlibras-plugin.js";
+            s.onload = initVLibras;
+            document.body.appendChild(s);
+          });
+        }
+
+        function initVLibras() {
+          if (initialized || !window.VLibras) return;
+
+          ensureBody(() => {
+            if (!document.querySelector("[vw]")) {
+              const container = document.createElement("div");
+              container.innerHTML = `
+              <div vw class="enabled">
+                <div vw-access-button class="active"></div>
+                <div vw-plugin-wrapper>
+                  <div class="vw-plugin-top-wrapper"></div>
+                </div>
+              </div>
+            `;
+              document.body.appendChild(container);
+            }
+
+            (new window.VLibras.Widget(
+              "https://vlibras.gov.br/app",
+              "https://vlibras.gov.br/config/camara.json",
+            ),
+              $("body").append(
+                '<aside><div vw class="enabled"><div vw-access-button class="active"></div><div vw-plugin-wrapper><div class="vw-plugin-top-wrapper"></div></div></div></aside>',
+              ));
+            initialized = true;
+
+            injectCSS();
+            if (!window.location.pathname.includes("/comissoes")) {
+              bindButton();
+            }
+          });
+        }
+
+        function injectCSS() {
+          if (document.getElementById("vlibras-style")) return;
+          const style = document.createElement("style");
+          style.id = "vlibras-style";
+          style.innerHTML = `
+          [vw-access-button] { display: none !important; }
+          div[vw] { z-index: 999999 !important; }
+        `;
+          document.head.appendChild(style);
+        }
+
+        function bindButton() {
+          const btn = document.getElementById("meu-botao-vlibras");
+          if (!btn) {
+            setTimeout(bindButton, 300);
+            return;
+          }
+
+          btn.onclick = function (e) {
+            e.preventDefault();
+            const original = document.querySelector("[vw-access-button]");
+            if (original) original.click();
+          };
+        }
+
+        // OBSERVA MUTA&#199;&#213;ES DO DOM (ESSENCIAL NO PLONE)
+        const observer = new MutationObserver(() => {
+          if (!document.querySelector("[vw]") && !initialized) {
+            loadScript();
+          }
+        });
+
+        observer.observe(document.documentElement, {
+          childList: true,
+          subtree: true,
+        });
+
+        window.addEventListener("load", loadScript);
+      })();
+    </script>
+
+    <title>Portal da Câmara dos Deputados</title>
+  <style type="text/css">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/member-cachekey-46bb2e0fc9968a457e63f356c0ff3900.css);</style><style type="text/css">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/portlets-cachekey-8a45f49b338591ae0c9c8a91f261dc78.css);</style><style type="text/css" media="screen">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/deprecated-cachekey-32595b622b36f2eee9478f07796d4f67.css);</style><style type="text/css" media="screen">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-5b23f388acd88bdb65020b51a5a278fb.css);</style><style type="text/css">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/elements-cachekey-57e40a70bd8192a6f63782abff5c2748.css);</style><style type="text/css" media="all">@import url(https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/ploneCustom-cachekey-7fb44e17264e070fccf4e31d9f2ada1c.css);</style><link rel="stylesheet" type="text/css" href="https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/themecamara.leg.viradadigitalcsslibsbootstrap-datetimepicker.min-cachekey-ab2d257c1b49d2d194633e2ecb4564a2.css" /><link rel="stylesheet" type="text/css" href="https://www.camara.leg.br/tema/global/camara-custom.css" /><link rel="stylesheet" type="text/css" href="https://www2.camara.leg.br/portal_css/camara_leg_viradadigital/++theme++camara.leg.viradadigital/css/all.min.css" /><link rel="apple-touch-icon" sizes="180x180" href="https://www.camara.leg.br/tema/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="https://www.camara.leg.br/tema/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="https://www.camara.leg.br/tema/favicon-16x16.png" /><link rel="manifest" href="https://www.camara.leg.br/tema/site.webmanifest" /><link rel="mask-icon" href="https://www.camara.leg.br/tema/safari-pinned-tab.svg" color="#009e49" /><link rel="search" href="http://www2.camara.leg.br/busca-geral" title="Buscar neste site" /><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/resourceplone.app.jquery-cachekey-3fa72abea58e1799bd3b0bc237335d45.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/styleswitcher-cachekey-9178d2d1bc80488214ac8d40a46c7bdf.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/impressaoIframes-cachekey-7de901cf3c737563606c12fa53b7a321.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/GoogleAnalyticsTracker.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/kss-bbb-cachekey-df10a37e7aa4176c3b122c2e3b0ee128.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/inline_validation-cachekey-35d4d75a94cdb17b403a636871dd92cb.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljsbootstrap.min-cachekey-c15df71e2ec454087fe4c4eab0ce9d3e.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljslibsmoment.min-cachekey-860514b918ea422f7e82fa48125015c4.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljslibsmoment-pt-br-cachekey-0aafba4fb000126f1ed0f6701186de00.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljslibsbootstrap-datetimepicker.min-cachekey-fac2884b384d9c99236b26d0746facc4.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljslibsjquery.maskedinput.min-cachekey-e2f8b2523378532cc132594675b6dc6f.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljsacoes-tema-cachekey-a0084cf69f1785571a18f6a58a4986ac.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitaljscorrecoes-bootstrap-tema-cachekey-bd4c19550531506aa59d8b0aa7e8d6c5.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitalviradadigitalvendorjquery.mmenu.all-cachekey-f0e297313e30d6b2b2c2588ef23b5ef2.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitalviradadigitaljsvd_correcoes-cachekey-52a3614631388ad9e07bf35264bc73d5.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitalviradadigitaljsmmenu-correcoes-cachekey-8e45cc1e451978774afbfe2f5f1e95cf.js"></script><script type="text/javascript" src="https://www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/themecamara.leg.viradadigitalviradadigitaljsselecao-idioma-cachekey-998dbb210e1353a5d7f94011740ee16c.js"></script><meta name="msapplication-TileColor" content="#00a300" /><meta name="msapplication-TileImage" content="https://www.camara.leg.br/tema/mstile-144x144.png" /><meta name="theme-color" content="#009e49" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><link rel="canonical" href="" /><script type="text/javascript">
+          $("link[rel='canonical']").attr("href", window.location.href);
+        </script>
+
+
+
+
+
+
+
+<title>DECRETO Nº 76.923, DE 23 DE DEZEMBRO DE 1975 - Publicação Original - Portal Câmara dos Deputados</title>
+
+<meta name="description" content="Publicação de Decreto: Regulamenta o Decreto-Lei n°&nbsp;1.422, de 23 de outubro de 1975, que dispõe sobre o Salário-Educação, e dá outras providências. " />
+
+<!-- Coloque aqui sua referência ao CSS local -->
+<link rel="stylesheet" type="text/css" href="../../../_css/legislacao-v1.css" />
+
+<!-- Coloque aqui seu javascript -->
+<!-- script type="text/javascript" src="caminho-e-nome-do-arquivo.js"></script -->
+
+</head>
+<body>
+    <header class="l-cabecalho-portal" role="banner" id="portal-header">
+        <ul aria-label="Acesso direto" class="acesso-direto">
+          <!-- Links para saltar diretamente para &#225;reas importantes da p&#225;gina accesskey 2 = conte&#250;do e 3 = navega&#231;&#227;o -->
+          <li>
+            <a class="acesso-direto__link" href="#main-content" accesskey="2">Ir ao conteúdo</a>
+          </li>
+          <li>
+            <a class="acesso-direto__link" href="#main-nav" accesskey="3">Ir à navegação principal</a>
+          </li>
+        </ul>
+
+        <!--[if lte IE 9]>
+          <p class="browserupgrade">
+            Voc&#234; est&#225; usando um navegador <strong>defasado</strong>. Por favor,
+            <a href="https://browsehappy.com/">atualize seu navegador</a> para
+            melhorar sua experi&#234;ncia e sua seguran&#231;a.
+          </p>
+        <![endif]-->
+
+        <div class="nav-top">
+          <div class="container nav-top--container">
+            <a href="https://www2.camara.leg.br" class="logo-camara" accesskey="1"><span class="sr-only">Página inicial</span></a>
+
+            <div class="nav-top__palacio"></div>
+
+            <div class="nav-top__menu-superior">
+              <ul aria-label="Ferramentas de apoio" class="links-apoio">
+                <li class="links-apoio__item links-apoio__item--vlibras">
+                  <a id="meu-botao-vlibras" href="javascript:void(0);">
+                    <span>
+                      <img src="https://www.camara.leg.br/tema/assets/images/ico-vlibras-branco.png" alt="Ativar VLibras" width="28px" height="30px" />
+                    </span>
+                  </a>
+                </li>
+                <li class="links-apoio__item links-apoio__item--acessibilidade">
+                  <a href="https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade" accesskey="0">Acessibilidade</a>
+                </li>
+                <li class="links-apoio__item links-apoio__item--faleconosco">
+                  <a href="https://www.camara.leg.br/fale-conosco" accesskey="9">Fale Conosco</a>
+                </li>
+              </ul>
+
+              <ul class="orgaos-parceiros" aria-label="Órgãos parceiros">
+                <li class="orgaos-parceiros__item orgaos-parceiros__item--congresso">
+                  <a href="http://www.congressonacional.leg.br"><span>Congresso</span></a>
+                </li>
+                <li class="orgaos-parceiros__item orgaos-parceiros__item--senado">
+                  <a href="http://www.senado.leg.br"><span>Senado</span></a>
+                </li>
+              </ul>
+
+              <div class="lista-idiomas">
+                <button class="botao-idioma-topo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="4,0">
+                  <span class="botao-idioma-topo__sigla">PT</span>
+                </button>
+
+                <ul class="dropdown-menu dropdown-menu-right l-lista-idiomas" aria-label="Idioma">
+                  <li class="l-lista-idiomas__item">
+                    <a href="https://www2.camara.leg.br/english" class="idioma-topo">
+                      <span class="idioma-topo__bandeira idioma-topo__bandeira--ingles" aria-hidden="true"></span>
+                      <span class="idioma-topo__nome">English</span>
+                      <span class="idioma-topo__sigla">EN</span>
+                    </a>
+                  </li>
+                  <li class="l-lista-idiomas__item">
+                    <a href="https://www2.camara.leg.br/espanol" class="idioma-topo">
+                      <span class="idioma-topo__bandeira idioma-topo__bandeira--espanhol" aria-hidden="true"></span>
+                      <span class="idioma-topo__nome">Español</span>
+                      <span class="idioma-topo__sigla">ES</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="home-camara-menu">
+    <nav class="menu-global navbar navbar-expand-lg" role="navigation" aria-label="Navegação principal" id="menuglobal">
+      <div class="container menu-global--container">
+      
+
+        <a href="https://www.camara.leg.br" class="logo-camara" accesskey="1">
+          <span class="sr-only">Página inicial</span>
+        </a>
+
+      
+        
+        <!-- icone menu -->
+        <button class="menu-global--btnmenu navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarportal" aria-controls="navbarportal" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="menu-global--icon"></span>
+        </button>
+
+        <!-- icone busca -->
+        <button class="menu-global--btnsearch" type="button" data-toggle="collapse" data-target="#buscaportal" aria-controls="buscaportal" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fa fa-search"></span>
+        </button>
+
+        <div class="navbar-collapse hidden-sm hidden-md hidden-xs" id="navbarportal">
+          <ul title="Navegação Principal" id="main-nav" class="navbar-nav">
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-temas nav-link dropdown-toggle" id="temas">Assuntos</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="temas">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/agropecuaria">Agropecuária</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/cidades-e-transportes">Cidades e transportes</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/ciencia-tecnologia-e-comunicacoes">Ciência, tecnologia e comunicações</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/consumidor">Consumidor</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/direitos-humanos">Direitos humanos</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/economia">Economia</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/educacao-cultura-e-esportes">Educação, cultura e esportes</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/meio-ambiente-e-energia">Meio ambiente e energia</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/politica-e-administracao-publica">Política e administração pública</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/relacoes-exteriores">Relações exteriores</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/saude">Saúde</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/seguranca">Segurança</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assuntos/trabalho-previdencia-e-assistencia">Trabalho, previdência e assistência</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-institucional nav-link dropdown-toggle" id="institucional">Institucional</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="institucional">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/agenda">Agenda</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/transparencia/servicos-ao-cidadao">Serviços</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/a-camara/estruturaadm/mesa/presidencia">Presidência</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/biblioteca-e-publicacoes/">Biblioteca e publicações</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/escola-da-camara/">Escola da Câmara</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/papel-e-estrutura/">Papel e estrutura</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/historia-e-arquivo/">História e arquivo</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/a-camara/visiteacamara">Visite</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-deputados nav-link dropdown-toggle" id="deputados">Deputados</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="deputados">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/deputados/quem-sao">Quem são</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/deputados/liderancas-e-bancadas-partidarias">Lideranças e bancadas</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/deputados/frentes-e-grupos-parlamentares">Frentes e grupos parlamentares</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-atvlegislativa nav-link dropdown-toggle" id="atvlegislativa">Atividade Legislativa</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="atvlegislativa">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada">Propostas legislativas</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/plenario">Plenário</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/comissoes">Comissões</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/sessoesereunioes">Sessões e reuniões</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas">Estudos legislativos</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/atividade-legislativa/orcamento-da-uniao">Orçamento da União</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/legislacao">Legislação</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/entenda-o-processo-legislativo/">Entenda o processo legislativo</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/atividade-legislativa/participe">Participe</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-comunicacao nav-link dropdown-toggle" id="comunicacao">Comunicação</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="comunicacao">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/noticias">Agência Câmara de Notícias</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/radio">Rádio Câmara</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/tv">TV Câmara</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/banco-imagens">Banco de Imagens</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/assessoria-de-imprensa">Assessoria de Imprensa</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/comprove">Comprove uma notícia</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+            
+              
+                <li class="nav-item dropdown">
+                  <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="menu-global__item-transprestcontas nav-link dropdown-toggle" id="transprestcontas">Transparência e prestação de contas</a>
+
+                  
+                    <ul class="dropdown-menu" aria-labelledby="transprestcontas">
+                      <li class="dropdown-item">
+                        <a href="https://www.camara.leg.br/transparencia/">Transparência</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://www2.camara.leg.br/transparencia/prestacao-de-contas">Prestação de contas</a>
+                      </li>
+                      <li class="dropdown-item">
+                        <a href="https://dadosabertos.camara.leg.br/">Dados abertos</a>
+                      </li>
+                    </ul>
+                  
+                </li>
+              
+            
+          </ul>
+          <div class="outras-opcoes-menu-usuario hidden-md hidden-lg">
+            <ul aria-label="Ferramentas de apoio" class="links-apoio links-apoio--menu-mobile">
+              <li class="links-apoio__item links-apoio__item--acessibilidade">
+                <a href="https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade" accesskey="0">Acessibilidade</a>
+              </li>
+              <li class="links-apoio__item links-apoio__item--faleconosco">
+                <a href="https://www.camara.leg.br/fale-conosco" accesskey="9">Fale Conosco</a>
+              </li>
+            </ul>
+          </div>
+          <div class="lista-idiomas hidden-md hidden-lg">
+            <button id="botao-idioma-topo" class="botao-idioma-topo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="4,0">
+                <span class="botao-idioma-topo__sigla">PT</span>
+            </button>
+        
+            <ul class="dropdown-menu-right l-lista-idiomas " aria-label="Idioma">
+                <li class="l-lista-idiomas__item">
+                    <a href="https://www2.camara.leg.br/english" class="idioma-topo">
+                        <span class="idioma-topo__bandeira idioma-topo__bandeira--ingles" aria-hidden="true"></span>
+                        <span class="idioma-topo__nome">English</span>
+                        <span class="idioma-topo__sigla">EN</span>
+                    </a>
+                </li>
+                <li class="l-lista-idiomas__item">
+                    <a href="https://www2.camara.leg.br/espanol" class="idioma-topo">
+                        <span class="idioma-topo__bandeira idioma-topo__bandeira--espanhol" aria-hidden="true"></span>
+                        <span class="idioma-topo__nome">Español</span>
+                        <span class="idioma-topo__sigla">ES</span>            
+                    </a>
+                </li>
+            </ul>
+        </div>
+        </div>
+
+
+        <div class="collapse box-search" id="buscaportal">
+          <form role="search" accesskey="4" class="box-search__busca form-inline" action="https://www.camara.leg.br/busca-geral">
+            <label for="termo" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+            <input class="form-control box-search__campo" type="search" name="termo" id="termo" placeholder="Buscar" aria-label="Search" />
+          </form>
+        </div>
+      </div>
+    </nav>
+  </div>
+      </header>
+
+    <div class="breadcrumbs-marcacao">
+        <div class="container">
+            <nav aria-label="Onde estou">
+                <ol class="breadcrumb portal-breadcrumbs">
+                    <li class="breadcrumb-item"><a href="//www.camara.leg.br">Início</a></li>
+                    
+	<li class='breadcrumb-item'><a href='http://www2.camara.gov.br/atividade-legislativa'>Atividade Legislativa</a></li>
+    <li class='breadcrumb-item'><a href='http://www2.camara.gov.br/atividade-legislativa/legislacao'>Legislação</a></li>
+
+                    <li class="breadcrumb-item active" aria-current="page">Esta página</li>
+                </ol>
+            </nav>
+        </div>
+        
+        <div class="container-fluid p-0">
+            <div id="menu-secoes-internas" class="menu-secoes-internass">
+                <div id="portal-mainsection">
+                    <div class="l-identificacao-landing">
+                        <div class="container">
+                            <h1 class="titulo-landing">Legislação</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+        <div class="coluna-centro col-md-12">
+
+
+<div id="portal-column-content">
+	<div id="portal-content-wrapper">
+		<div class="documentContent">
+			<div id="content">
+	
+				<h2 class="documentFirstHeading">Legislação Informatizada - DECRETO Nº 76.923, DE 23 DE DEZEMBRO DE 1975 - Publicação Original</h2>
+				<div class="vejaTambem">
+			    	<p>Veja também:</p>
+			    	<ul>
+                                    <li>
+                                        <a href="decreto-76923-23-dezembro-1975-425617-norma-pe.html">Dados da Norma</a>
+                                    </li>
+                                </ul>
+			    </div>	
+                                
+
+					<h1>DECRETO Nº 76.923, DE 23 DE DEZEMBRO DE 1975</h1>
+				
+				<div class="textoNorma">
+				
+						<p class="ementa">
+							Regulamenta o Decreto-Lei n°&nbsp;1.422, de 23 de outubro de 1975, que dispõe sobre o Salário-Educação, e dá outras providências. 
+						</p>
+				
+						<div class="texto">
+							<P>O PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o artigo 81, item III, da Constituição, </P>
+<P>DECRETA: <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 1º O Salário-Educação, previsto no artigo 178 da Constituição, instituído pela Lei nº 4.440, de 27 de outubro de 1964, e reestruturado pelo Decreto-lei nº 1.422, de 23 de outubro de 1975, é uma contribuição patronal devida pelas empresas comerciais, industriais e agrícolas e destinada ao financiamento do ensino de 1º grau dos seus empregados de qualquer idade, e dos filhos destes, na faixa etária dos sete aos quatorze anos, suplementando os recursos públicos, destinados à manutenção e ao desenvolvimento desse grau de ensino. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º Entende-se como empresa, para os efeitos desta regulamentação, o empregador como tal definido no artigo 2º da Consolidação das Leis do Trabalho e no artigo 4º, alínea "a" , da Lei nº 3.807, de 26 de agosto de 1960, com a redação dada pelo artigo 1º da Lei nº 5.890, de 8 de junho de 1973, as empresas públicas e as sociedades de economia mista, na forma do parágrafo 2º, do artigo 170 da Constituição, e as demais entidades públicas ou privadas, todas elas vinculadas à Previdência Social, ressalvadas as exceções previstas na legislação específica e excluídos os órgãos da Administração Direta. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º Fica suspensa, até ulterior deliberação, a cobrança do Salário-Educação devido pelas empresas agrícolas ou agro-industriais vinculadas ao Fundo de Assistência ao Trabalhador Rural (FUNRURAL), neste caso exclusivamente em relação aos empregados do setor agrário não vinculados ao Instituto Nacional de Previdência Social (INPS). <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 2º O Salário-Educação será calculado pelo sistema de compensação do custo atuarial, sob a forma de quota percentual, com base no valor de referência, estabelecido no Decreto nº 75.704, de 8 de maio de 1975, cabendo a todas as empresas recolher, para esse fim, em relação a todos os seus titulares, sócios, diretores, gerentes e empregados, independente de idade, sexo, estado civil, nível de escolaridade, forma de admissão, regime de trabalho, modalidade de remuneração e número de filhos, a contribuição fixada no artigo 15 deste Decreto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º A quota percentual a que se refere este artigo fica fixada em 12% (doze por cento), do valor da referência, vigente na localidade, aproximado para a unidade de cruzeiros imediatamente superior. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º O Salário-Educação não tem caráter remuneratório na relação de emprego e não se vincula, para nenhum efeito, ao salário ou à remuneração percebida pelos empregados, titulares, sócios, diretores e gerentes das empresas sujeitas ao seu recolhimento. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 3º As operações concernentes ao recolhimento do Salário-Educação deverão ser lançadas, sob o título "Salário-Educação" na escrituração das empresas, sujeitas à fiscalização nos termos deste Decreto e demais normas aplicáveis. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 3º O Salário-Educação será cobrado mediante a aplicação de alíquota "ad valorem" sobre a folha do salário de contribuição, considerado pelas empresas para o recolhimento de suas contribuições previdenciárias, na forma do inciso I, do art. 76, da Lei nº 3.807, de 26 de agosto de 1960. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 4º Cabe ao Instituto Nacional de Previdência Social a arrecadação e fiscalização do Salário-Educação, obedecidos os mesmos prazos e as mesmas sanções administrativas e penais e as demais normas relativas às contribuições destinadas ao custeio da Previdência Social. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º O Salário-Educação devido pela Caixa Econômica Federal será por ela diretamente recolhido ao Banco do Brasil S.A., que creditará às unidades federadas e ao Fundo Nacional de Desenvolvimento da Educação, na forma do artigo 6º deste Decreto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º Integrem a receita do Salário-Educação as multas, a correção monetária e os juros de mora a que estão sujeitos os contribuintes em atraso com o pagamento da contribuição. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 5º O Instituto Nacional de Previdência social reterá do montante arrecadado por seu intermédio, a título de indenização das despesas de arrecadação e fiscalização, a importância equivalente a 1% (um por cento), depositando a receita líquida no Banco do Brasil S.A. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 6º O montante da arrecadação em cada Estado e Território e no Distrito Federal, depois de feita a dedução prevista no artigo anterior, será creditado pelo Banco do Brasil S.A. em duas contas distintas: </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) 2/3 (dois terços) em favor do Governo do Estado, Território ou Distrito Federal, onde a arrecadação tiver sido efetuada, para aplicação exclusivamente em programas de ensino de 1º grau, regular, ou supletivo; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 1/3 (um terço) em favor do Fundo Nacional de Desenvolvimento da Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º Valor total será estimado pelo Instituto Nacional de Previdência Social, mediante proposta do Ministério da Educação e Cultura, em março de cada exercício, para vigorar até fevereiro do exercício seguinte, com base na efetiva arrecadação do ano findo, acrescida do índice percentual médio da variação verificada no quadriênio anterior. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º O crédito citado no caput deste artigo se efetivará sob a forma de duodécimos. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 3º As diferenças, para mais ou para menos, nos valores creditados, serão apurados, ao final de cada exercício, e compensadas até 31 de março do exercício seguinte. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 4º O Instituto Nacional de Previdência Social e o Banco do Brasil S.A. colocarão à disposição do Fundo Nacional de Desenvolvimento da Educação todas as informações estatísticas e contáveis relativas à arrecadação e à transferência dos recursos do Salário-Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 5º Os recursos a que se refere a alínea b) do caput deste artigo serão, antes de sua transferência automática ao Fundo Nacional de Desenvolvimento da Educação, creditados ao Tesouro Nacional. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 7º A parcela de 2/3 (dois terços) a que se refere o artigo 6º, alínea a) deste Decreto, será aplicada pelas Secretarias de Educação das unidades federadas, e integrará os planos de aplicação aprovados pelos respectivos Conselhos de Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parágrafo único. Os planos a que se refere este artigo deverão adequar-se ao Plano Setorial de Educação e Cultura, sendo os recursos distribuídos entre os programas de ensino de 1º grau, regular e supletivo. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 8º A parcela de 1/3 (um terço) dos recursos, a que se refere o artigo 6º alínea b) deste Decreto será destinada a: </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; a) programas de iniciativa própria do Ministério da Educação e Cultura, nas áreas de estudos e pesquisas educacionais, planejamento, currículos, construções, equipamentos e material escolares, formação e aperfeiçoamento de pessoal docente e técnico, novas metodologias, assistência ao educando e outros programas especiais, sempre relacionados com o ensino de 1º grau; <BR>&nbsp;&nbsp;&nbsp;&nbsp; b) concessão de auxílios que permitam ao Ministério da Educação e Cultura contribuir para a correção das disparidades regionais e sociais, especialmente aquelas relativas aos deficits de escolarização da população na faixa etária entre os sete e os quatorze anos, em cada unidade federada, de modo a contemplar as mais necessitadas. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º Para os fins expressos na alínea b deste artigo, o Ministério da Educação e Cultura manterá levantamentos estatísticos e estudos técnicos atualizados que caracterizem os esforços quantitativo e qualitativo dos sistemas de ensino das unidades federadas, de modo a propiciar-lhes meios adicionais de que necessitem. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º Em combinação com os critérios estabelecidos nos artigo 43 e 54, e seus parágrafos, da Lei nº 5.692, de 11 de agosto de 1971, o Ministério da Educação e Cultura levará em conta outros indicadores que permitam o mais racional ajustamento dos programas e projetos aos objetivos do Salário-Educação, envolvendo necessariamente: </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; a) aspectos permanentes da realidade nacional e local; <BR>&nbsp;&nbsp;&nbsp;&nbsp; b) aspectos transitórios ou circunstanciais dessa realidade; <BR>&nbsp;&nbsp;&nbsp;&nbsp; c) aspectos específicos relacionados com a natureza do próprio programa ou projeto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 3º A programação dos recursos citados neste artigo desenvolver-se-á sob a forma de projetos e atividades constantes do Orçamento Próprio do Fundo Nacional de Desenvolvimento da Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 9º Estão fora do campo de incidência do Salário-Educação a União, os Estados, o Distrito Federal e os Municípios, e isentas as suas respectivas autarquias, bem como as instituições oficiais de ensino de qualquer grau. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 10. São isentas do recolhimento do Salário-Educação:</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; I&nbsp;- As instituições particulares de ensino de qualquer grau, devidamente autorizadas e registradas nos órgãos próprios dos sistemas de ensino, ou cujo funcionamento seja de algum modo por estes reconhecido; <BR>&nbsp;&nbsp;&nbsp;&nbsp; II&nbsp;- As organizações hospitalares e de assistência social, desde que portadoras do Certificado de Fins Filantrópicos, expedido pelo Órgão competente, na forma da Lei nº 3.577 de 4 de julho de 1959; <BR>&nbsp;&nbsp;&nbsp;&nbsp; III&nbsp;- As organizações de fins culturais que, por iniciativa do Ministério da Educação e Cultura, em consonância com a política nacional de cultura, venham a ser reconhecidas, por decreto presidencial, como de significação relevante para o desenvolvimento cultural do País. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 11. As empresas, contribuintes do Salário-Educação, estarão isentas do recolhimento do Salário-Educação se optarem pelo cumprimento da obrigação constitucional sob a forma de manutenção de ensino de 1º grau, quer regular, quer supletivo, através de: </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) ensino próprio para os seus empregados ou os filhos destes, ou pelo sistema de compensação, para quaisquer adultos ou crianças; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) sistema de bolsas de estudo, mediante contrato com instituições de ensino particular; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) indenização das despesas de autopreparação de seus empregados, mediante a apresentação do certificado de conclusão do 1º grau, via de exames supletivos, fixada nos limites do custo anual do ensino citado; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d) indenização para os filhos menores, mediante comprovante de freqüência, em estabelecimentos pagos, fixada nos mesmos limites da alínea anterior; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e) esquema misto, usando combinações das alternativas anteriores. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parágrafo único. As operações concernentes às despesas com a manutenção de ensino deverão ser lançadas sob os respectivos títulos, na escrituração da empresa e estão sujeitas à fiscalização, nos termos deste Decreto e demais normas aplicáveis. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 12. São condições para a opção a que se refere o artigo anterior:</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; I&nbsp;- Responsabilidade integral, pela empresa, das despesas com a manutenção, direta ou indireta, do ensino; <BR>&nbsp;&nbsp;&nbsp;&nbsp; II&nbsp;- Equivalência dessas despesas ao total da contribuição correspondente ao Salário-Educação respectivo;<BR>&nbsp;&nbsp;&nbsp;&nbsp; III&nbsp;- Oferta de vagas prefixada em número nunca inferior ao quociente da divisão da importância correspondente a 2,5% (dois e meio por cento) da folha mensal do salário de contribuição pela importância equivalente a 12% (doze por cento) do valor de referência vigente na localidade, aproximado para a unidade de cruzeiros imediatamente superior. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º Os contratos a serem firmados entre as empresas optantes e as instituições de ensino, nos termos do artigo 11, alínea b , deste Decreto, estabelecerão que o valor da mensalidade por bolsista será o custo respectivo calculado na forma do § 1º do artigo 2º, deste Decreto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º. O pagamento mensal das bolsas de estudo mencionadas no § 1º deste artigo deverá ser efetuado até o último dia do mês subsequente ao que corresponde à obrigação. </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; § 3° As variações, para menos, decorrentes da matrícula efetiva ou de alterações nas folhas do salário de contribuição, serão compensadas mediante o recolhimento da diferença à conta do Fundo Nacional de Desenvolvimento da Educação, no Banco do Brasil S.A. para distribuição na forma do artigo 6º deste Decreto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 13. A autorização para a forma alternativa de cumprimento da obrigação patronal, referida no artigo 11 deste Decreto, será concedida, anualmente, mediante certificado de cumprimento do disposto no artigo 178 da Constituição, a ser expedido pelo Ministério da Educação e Cultura, e será renovável ou não, tudo de conformidade com as instruções que para tal fim forem baixadas pelo Fundo Nacional de Desenvolvimento da Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 1º O certificado a que se refere este artigo comprovará, perante o Instituto Nacional da Previdência Social, o cumprimento da obrigação fixada no artigo 1º deste Decreto. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;§ 2º Caberá ao Ministério da Educação e Cultura comunicar ao Instituto Nacional da Previdência Social quais as empresas que estiverem isentas do pagamento do Salário-Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 14. A fiscalização a ser exercida pelo Ministério da Educação e Cultura, sem prejuízo das atribuições dos Tribunais de Contas, da União e das Unidades Federadas, e do Instituto Nacional da Previdência Social, na forma do artigo 4º deste Decreto, incidirá sobre todas as fases da arrecadação, transferência e aplicação dos recursos provenientes do Salário-Educação, de acordo com instruções a serem baixadas pelo Fundo Nacional de Desenvolvimento da Educação. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 15. a alíquota do Salário-Educação é fixada em 2,5% (dois e meio por cento) do Salário de contribuição a que se refere o artigo 3º deste Decreto, podendo ser revista mediante proposta do Ministério da Educação e Cultura, na qual se demostra a efetiva variação do custo real unitário do ensino de 1º grau. </P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 16.&nbsp; A vigência deste Decreto não prejudicará a arrecadação do salário-educação criado pelos Estados com base no art. 7º da Lei nº 4.440, de 27 de outubro de 1964, devido a 31 de dezembro de 1975. <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art. 17. Este Decreto entrará em vigor em 1º de janeiro de 1976, revogados os Decretos números 55.551, de 12 de janeiro de 1965, 58.053, de 28 de março de 1966, 65.317, de 10 de outubro de 1969, 68.592, de 6 de maio de 1971, 71.264, de 30 de outubro de 1972, 72.013, de 27 de março de 1973, 72.353, de 11 de junho de 1973, 72.665, de 20 de agosto de 1973 e demais disposições em contrário. </P>
+<P>Brasília, 23 de dezembro de 1975; 154º da Independência e 87º da República. </P>
+<P>ERNESTO GEISEL <BR>Ney Braga<BR>João Paulo dos Reis Velloso <BR>L. G. Do Nascimento e Silva <BR></P>
+						</div>
+					    
+				</div>
+				
+
+                                            <br>
+                                            <div class="rodapeTexto">
+                                                <div class="texto">
+                                                    Este texto não substitui o original publicado no Diário Oficial da União - Seção 1 de 26/12/1975
+                                                </div>
+                                            </div>
+
+					<br><br>
+					<div class="publicacoesTI">
+                                            <strong>Publicação:</strong>
+                                            <ul class="listaMarcada">
+                                                    <li>
+                                                        
+                                                        Diário Oficial da União - Seção 1
+                                                         - 26/12/1975, Página 17088 
+                                                        
+                                                        (Publicação Original)
+                                                        
+                                                    </li>
+                                                    <li>
+                                                        
+                                                        Coleção de Leis do Brasil
+                                                         - 1975, Página 730 
+                                                        Vol. 8          
+                                                        (Publicação Original)
+                                                        
+                                                    </li>
+                                            </ul>
+					</div>
+
+
+
+			</div> <!-- content // -->
+		</div> <!-- documentContent // -->
+	</div> <!-- portal-content-wrapper // -->
+</div> <!-- portal-column-content // --> 
+</div></div>
+<div class="js-mmenu-container">
+      
+
+      
+      
+
+      
+
+      <footer role="contentinfo" class="rodape-portal">
+        <!-- Coloque aqui o endere&#231;o e demais informa&#231;&#245;es de assinatura -->
+        <address class="rodape-portal-info">
+          <div class="container">
+            <div class="rodape-portal-info__nome">
+              <p>
+                <strong id="legislaturaRodape">57ª Legislatura - 4ª Sessão Legislativa Ordinária</strong>
+              </p>
+            </div>
+
+            <div class="l-rodape-info">
+              <div class="l-rodape-info__local rodape-portal-info__texto">
+                <span class="rodape-info">Câmara dos Deputados - Palácio do Congresso Nacional - Praça
+                  dos Três Poderes</span>
+                <span class="rodape-info">Brasília - DF - Brasil - CEP 70160-900</span>
+                <span class="rodape-info"><span class="rodape-info__destaque">CNPJ:</span>
+                  00.530.352/0001-59</span>
+              </div>
+
+              <div class="l-rodape-info__telefones rodape-portal-info__texto">
+                <ul class="list-unstyled" aria-label="Número para contato e horário de atendimento">
+                  <li>
+                    <span class="rodape-info__destaque">Disque-Câmara:</span>
+                    <a href="tel:0800-0-619-619">0800-0-619-619</a>, das 8h às
+                    20h
+                  </li>
+                  <li>
+                    <span class="rodape-info__destaque">Atendimento por WhatsApp:</span>
+                    <a href="https://wa.me//556132160000?text">(61) 3216-0000</a>, das 8h às 19h
+                  </li>
+                  <li>
+                    <span class="rodape-info__destaque">Atendimento presencial:</span>
+                    das 9h às 19h
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="acesso-provedor text-right">
+              <a title="Autenticar-se no site" href="/login_form">
+                <i class="fas fa-lock" aria-hidden="true"></i>
+              </a>
+            </div>
+          </div>
+        </address>
+        <!-- Coloque aqui a lista de redes sociais da C&#226;mara -->
+        <div class="rodape-portal-links rodape-portal-links--redes-sociais">
+          <div class="container">
+            <ul class="rodape-portal-links__lista" aria-label="Câmara nas redes sociais">
+              <li class="rodape-portal-links__item">
+                <a href="https://whatsapp.com/channel/0029Va2fexI3gvWgfMs6Fv31" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--whatsapp" aria-hidden="true"></span>
+                  <span class="sr-only">Whatsapp</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://t.me/CamaradosDeputados" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--telegram" aria-hidden="true"></span>
+                  <span class="sr-only">Telegram</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www.facebook.com/camaradeputados" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--facebook" aria-hidden="true"></span>
+                  <span class="sr-only">Facebook</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://twitter.com/camaradeputados" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--twitter" aria-hidden="true"></span>
+                  <span class="sr-only">X</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--youtube" aria-hidden="true"></span>
+                  <span class="sr-only">Youtube</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://tiktok.com/@camaradosdeputados" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--tiktok" aria-hidden="true"></span>
+                  <span class="sr-only">Tiktok</span>
+                </a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www.instagram.com/camaradeputados" class="rodape-portal-links__link">
+                  <span class="g-social-icon-outline g-social-icon-outline--instagram" aria-hidden="true"></span>
+                  <span class="sr-only">Instagram</span>
+                </a>
+              </li>
+              <li class="rodape-portal-links__item">
+                  <a href="https://www.threads.com/@camaradosdeputados" class="rodape-portal-links__link">
+                      <span class="g-social-icon-outline g-social-icon-outline--threads" aria-hidden="true"></span>
+                      <span class="sr-only">Threads</span>
+                  </a>
+              </li>
+              <li class="rodape-portal-links__item">
+                  <a href="https://bsky.app/profile/camara.leg.br" class="rodape-portal-links__link">
+                      <span class="g-social-icon-outline g-social-icon-outline--bluesky" aria-hidden="true"></span>
+                      <span class="sr-only">Bluesky</span>
+                  </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- Coloque aqui a lista de links de apoio do rodap&#233; -->
+        <div class="rodape-portal-links rodape-portal-links--apoio">
+          <div class="container">
+            <ul class="rodape-portal-links__lista" aria-label="Links de apoio">
+              <li class="rodape-portal-links__item">
+                <a href="https://www2.camara.leg.br/sobre-o-portal" class="rodape-portal-links__link">Sobre o portal</a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www2.camara.leg.br/termo-de-uso-e-politica-de-privacidade" class="rodape-portal-links__link">Termos de uso</a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www2.camara.leg.br/aplicativos/" class="rodape-portal-links__link">Aplicativos</a>
+              </li>
+
+              <li class="rodape-portal-links__item">
+                <a href="https://www.camara.leg.br/extranet" class="rodape-portal-links__link">Extranet</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+
+      <div class="barra-carregando" style="display: none">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Carregando</h5>
+            </div>
+            <div class="modal-body">
+              <p>Por favor, aguarde.</p>
+              <div class="progress">
+                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                  <span class="sr-only"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

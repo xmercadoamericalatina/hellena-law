@@ -1,0 +1,10 @@
+{
+  "ocorrencias": 324,
+  "categorias": {
+    "diff_context_or_original_GFM": 265,
+    "unified_diff_EOF_original": 4,
+    "GFM_MD": 55
+  },
+  "sha256_diff_check": "af4f7b44ec5819f836970c3a24a0c2d2ef6763b16d17bddf1bf2e9bf34a4c0d1",
+  "criterio": "Contextos vazios de unified diff e hardbreaks de dois espacos GFM, preservados; candidatos/fontes/deltas integrais congelados por SHA."
+}

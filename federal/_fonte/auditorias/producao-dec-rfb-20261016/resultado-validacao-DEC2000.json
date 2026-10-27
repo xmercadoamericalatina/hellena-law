@@ -1,0 +1,15 @@
+{
+  "verificacao_fechada": {
+    "estado": "PASSOU",
+    "documentos": 2000,
+    "comando": "rtk proxy /tmp/leis-gfm-verificacao/bin/python -u federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/verificar_coorte_dec_fechada.py",
+    "resultado_literal": "COORTE2000: hashes,backups,fontes,metadados,status,versao,replay,formato eGFM completos sem erros",
+    "sessao_terminal": 90821
+  },
+  "verificacao4_recuos": {
+    "estado": "PASSOU",
+    "sessao_terminal": 46049,
+    "resultado_literal": "4casos/5spans: somente1NBSP porrecuo deepigrafe/assinatura; demaisgeometrias ausentes; SHAfixo; semalteracao"
+  },
+  "limites": "Sem cotejo fac-símile: autoridade desta coorte HTML oficial integral com rawJSON vinculado. Aprovação/publicação dependem da revisão raiz."
+}

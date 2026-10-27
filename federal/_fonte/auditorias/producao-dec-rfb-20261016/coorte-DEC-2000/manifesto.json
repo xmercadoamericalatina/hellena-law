@@ -1,0 +1,60 @@
+{
+  "estado": "2000 decretos novos condicionais para revisao da raiz, sem publicacao/aplicacao",
+  "documentos": 2000,
+  "universo_primario_preservado": 139127,
+  "limite_da_coorte": "Subcoorte fechada da producao ja coletada; auditoria ampla e coletores continuam fora desta lista. Nao e alegacao de cobertura/completude do universo.",
+  "fontes": "HTMLpublico normas.leg.br e JSONoriginal imutavel porSHA; encoding/versao/forca legal/URN/data/numero conferidos; backups completos de todos2000MDs+fontes/metadados.",
+  "fidelidade": "Texto completo DOM/GFM normalizado identico; mascaras italico/strike/sup/sub identicas, negrito-fonte preservado; sem tabelas/imagens/U/anexos/OCR/omissoes/geometria/bordas/fontes simbolicas/ocultos. Data epigrafe e fecho proprios+assinaturas; casos que nao passam retidos. Nao afirma revisao visual de fac-simile.",
+  "status": "False apenas InForce explicito noJSON associado; demais null. NotInForce nao interpretado como revogacao.",
+  "dedup": "URN unica no snapshot e ausente emHEAD federal/reguladores;2000paths ausentes emHEAD no congelamento.",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/HEAD-congelamento.txt",
+      "sha256": "94816778b427a565ffc50f6107d86d8838f262c22267785688db33e649359b3a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/HEAD-paths.txt",
+      "sha256": "d7d79c4bf3b217d616b37441ad633e567336b8ff1119a5239910fdda0ccd4811"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/backup-MDs.jsonl.gz",
+      "sha256": "d28128c6afc20f3d01a217a33defc8b13f84b3e3c6b9fce167c8ecf018a2efb4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/backup-fontes.jsonl.gz",
+      "sha256": "0c23c28bf7ec76b98d8614f74c9aa8cd50f1888d4c252515f294257fd91033b6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/congelar_coorte_dec.py",
+      "sha256": "e9d2ef8b604c2c300097a427092d34ca0e75f5ffb1301b0634a4f03a4fb802db"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/coorte2000.jsonl",
+      "sha256": "7b748d69c00ab3c6551fa58b1220997a0d1051cb914bec6ba8d6601ae2a81f8b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/inventariar_producao_dec.py",
+      "sha256": "4118045584c54f617db04261e439983871c02e5786d7ab264e4579d9df7ee9f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/paths2000.txt",
+      "sha256": "9d3e4e00e66b45ca566c90929db91134f33676f9fccbed4493fd6990f52f8f64"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/retencoes-adicionais-ate-coorte.json",
+      "sha256": "3a7747aab9e07963d0f9ec0165d5c66ee448d249ee8280d93b451936fdc88455"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/verificar_coorte_dec_fechada.py",
+      "sha256": "8593398d0f88c80d49d595004e7c4b41df4120dca9ab9ed27ac1faff6599d492"
+    },
+    {
+      "path": "federal/_fonte/auditorias/producao-dec-rfb-20261016/coorte-DEC-2000/verificar_dec_gfm.py",
+      "sha256": "b97da2c8ef77221e76bd75158828c1ff2e83adfce8e84155e04823f4ed20073d"
+    }
+  ],
+  "HTTP": false,
+  "Git_mutacao": false,
+  "canonicos_alterados": false,
+  "frozen_11_e_8_intactos": true
+}

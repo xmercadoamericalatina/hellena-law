@@ -1,0 +1,35 @@
+{
+  "documentos": [
+    {
+      "path": "federal/decretos/1975/dec-76583-1975-11-10.md",
+      "sha256_fonte": "35d1ca6fe6f493ee6c8a31dfaf218a5fcc9ccb19f6c396a6a8349daf65e6e213",
+      "literal": [
+        "Santa Cruz, Estado do Rio de Janeiro, conforme processo protocolizado no ex IBRA sob nº 9.651-68, e apenso de nº 690-68 do DFZ/02.Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.Brasília, 10 de novembr"
+      ],
+      "decisao": "Apenso de processo administrativo identificado por número: referência contextual do imóvel/processo, não anexo declarado integrante do decreto. Retenção automática por palavra apenso é falso positivo. Não altera outras verificações."
+    },
+    {
+      "path": "federal/decretos/1976/dec-76975-1976-01-02.md",
+      "sha256_fonte": "13f17f1b9a4cecdaea3b43dc13a2c325059e0f44febfd90b71cb2f02920b983d",
+      "literal": [
+        {
+          "padrao": "(?:ap[eê]ndice|separata|n[aã]o\\s+(?:inclu[ií]d[oa]|reproduzid[oa]|publicad[oa]))",
+          "literal_contexto": " tendo um estabelecimento permanente no outro Estados Contratante, desde que, através de uma pessoa não incluída entre as mencionadas no § 6º, recebida prêmios ou segure riscos nesse outro Estado.</span></p><p style=\"margin-top:6pt; margin-bottom:6pt; text-inden"
+        }
+      ],
+      "decisao": "Não incluído/Não incluída é qualificação substantiva da pessoa/representante tributário no artigo da convenção, não aviso editorial de omissão. Falso positivo apenas deste marcador; ato permanece retido pela necessidade de cotejar instrumento pós-assinatura."
+    },
+    {
+      "path": "federal/decretos/1976/dec-76988-1976-01-06.md",
+      "sha256_fonte": "0de98007aee1c5fa2ff6492a833d935b8b0aba40f86467f4d25cb10703eb29e6",
+      "literal": [
+        {
+          "padrao": "(?:ap[eê]ndice|separata|n[aã]o\\s+(?:inclu[ií]d[oa]|reproduzid[oa]|publicad[oa]))",
+          "literal_contexto": " um estabelecimento permanente no outro Estado Contratante, desde que, através de um representante, não incluído entre as pessoas mencionadas no parágrafo 5 abaixo, receba prêmios ou segure riscos nesse outro Estado.</span></p><p style=\"margin-top:6pt; margin-bo"
+        }
+      ],
+      "decisao": "Não incluído/Não incluída é qualificação substantiva da pessoa/representante tributário no artigo da convenção, não aviso editorial de omissão. Falso positivo apenas deste marcador; ato permanece retido pela necessidade de cotejar instrumento pós-assinatura."
+    }
+  ],
+  "escopo": "Decisões pontuais por literal e SHA; não regra automática para todas ocorrências."
+}

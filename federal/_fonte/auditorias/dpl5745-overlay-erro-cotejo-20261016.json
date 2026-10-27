@@ -1,0 +1,16 @@
+{
+  "norma": "DPL5745/1929",
+  "estado": "Erro da revisao anterior confirmado pela raiz; candidato-v3 nao publicavel",
+  "achado_raiz": "PDF110 imprime Miguel Cazelli254$000 e Jose Ferreira de Mesquita240$000 entre Antonio Pereira Dutra e Ananias",
+  "origem_mecanica": {
+    "helper": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/preparar-candidatos13-49733f7380b70d91ad802f4c9542410e627f0166a0371eb708fa8c0bbb26e43e.py",
+    "sha256": "49733f7380b70d91ad802f4c9542410e627f0166a0371eb708fa8c0bbb26e43e",
+    "linha": 244,
+    "codigo": "  start=body.index('Ao official, Victor');end=body.index('\\n\\nd) de 49:391',start);bloco=body[start:end];entries=[x for x in bloco.split('\\n\\n') if 'Miguel Cazelli' not in x and 'José Ferreira de Mesquita' not in x];body=body[:start]+tabela2('\\n\\n'.join(entries))+body[end:]"
+  },
+  "origem_editorial": "Leitura visual anterior classificou erroneamente duas linhas como ausentes do papel. O helper eliminou explicitamente essas entradas, contaminando a selecao do candidato e inventario de celulas. A comparacao de324celulas nao era oracle independente de completude contra todas as linhas da fonte: a expectativa ja excluia as duas linhas.",
+  "retratacao": "E falsa a alegacao anterior de diferenca de versao por ausencia dessas duas entradas na coletanea. Nao ha base para omiti-las.",
+  "limite_das_provas_anteriores": "Contagens e igualdade de celulas selecionadas nao provam ausencia de linhas omitidas; revisao raiz integral prevalece.",
+  "correcao": "Raiz prepara candidato-v4 e prova literal; congelados preservados, nenhuma alteracao canonica.",
+  "arquivos_congelados_alterados": false
+}

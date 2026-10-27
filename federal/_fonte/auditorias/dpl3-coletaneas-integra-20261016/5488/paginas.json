@@ -1,0 +1,26 @@
+{
+  "ato": "5488",
+  "source_PDF": "federal/_fonte/auditorias/dpl-ilegiveis-pesquisa-20261016/colecao1928-parte1.pdf",
+  "source_sha256": "d3c045b4c02883598ec275d44f65dd8dbb27ce51189ddfbea9c763e9340615e4",
+  "paginas": [
+    {
+      "pagina_PDF_original": 155,
+      "pagina_impressa": 121,
+      "pdf_path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-155.pdf",
+      "pdf_sha256": "1425d9f2adb32bee8df5e0097e7bc649cd0dac1ae97991a127e8e335fabd5c5d",
+      "png_path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-155.png",
+      "png_sha256": "fc5247f20d676e4d44cece3db1846e3fbfbbdd8d4e85ecdafd5e35342e1c55db"
+    },
+    {
+      "pagina_PDF_original": 156,
+      "pagina_impressa": 122,
+      "pdf_path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-156.pdf",
+      "pdf_sha256": "77df1e74fa9460738bf965549f419ebe52b36f9ba7d862ee461719c422c46636",
+      "png_path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-156.png",
+      "png_sha256": "3ea4a5509b9658c6b337a23bc1db8550bd925a67c3f6de86881a020568915446"
+    }
+  ],
+  "PDF_derivado": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/paginas-integra-ato.pdf",
+  "PDF_derivado_sha256": "a9ed0020bbcab3085c150733cc15fbf0988e104d8c1588583fcfefa9ac622517",
+  "nota": "Páginas de fronteira incluem trechos de atos vizinhos; exclusão textual será explícita."
+}
