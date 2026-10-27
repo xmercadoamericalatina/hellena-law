@@ -1,0 +1,1250 @@
+{
+  "data": "2026-10-20",
+  "criterio": "Mesmos UF, tipo, número, data, fonte SAPL e arquivo oficial; corpos idênticos ou diferindo apenas em preenchimento gráfico de assinatura. Caminho histórico preservado; limpeza de assinatura preservada em 12 arquivos AL. Nenhuma norma fundida apenas por hash do corpo.",
+  "indices_oficiais_em_cache": {
+    "AL": {
+      "arquivo": "estaduais/AL/_indice/sapl.json",
+      "sha256": "dc46d0ed794ae25007deca5e1c59d17882e09efa5003239dff5a9163fc546eef"
+    },
+    "TO": {
+      "arquivo": "estaduais/TO/_indice/sapl.json",
+      "sha256": "2b8517bf1a86f71f0e642473b7fa52f8eb75693764190212e45f7bdce39ad4e4"
+    },
+    "RR": {
+      "arquivo": "estaduais/RR/_indice/sapl.json",
+      "sha256": "5f8bc15e4a1641fd9558455f918fb2862326fd536a1ae928b3ebe8a63d8b2045"
+    }
+  },
+  "pares": [
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1990/emenda-constituicao-1-1990-id81.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1990/emenda-a-constituicao-1-1990-id81.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "1",
+        "data": "1990-11-14",
+        "fonte": "https://sapl.al.al.leg.br/norma/81",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1990/81/81_texto_integral.pdf"
+      },
+      "sha256_anterior": "9fe659a7b06c311d997ec2dbb3425a18dee20b7cb4fc9f4151828db5ab0065f9",
+      "sha256_alias": "a44e74fed63e2ad030d2006f33caecc9df651feb3462032acf065b4b7a0e82f1",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1990/emenda-constituicao-2-1990-id80.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1990/emenda-a-constituicao-2-1990-id80.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "2",
+        "data": "1990-11-14",
+        "fonte": "https://sapl.al.al.leg.br/norma/80",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1990/80/80_texto_integral.pdf"
+      },
+      "sha256_anterior": "c1c4aa7cae6c240ac58f39fb2e43577c567e8b47669460263dcc77a499a97f6a",
+      "sha256_alias": "8d92ec13fcedcee740c375107f17429f118faa43564746b5733341f5922348a9",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1991/emenda-constituicao-3-1991-id79.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1991/emenda-a-constituicao-3-1991-id79.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "3",
+        "data": "1991-01-24",
+        "fonte": "https://sapl.al.al.leg.br/norma/79",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1991/79/79_texto_integral.pdf"
+      },
+      "sha256_anterior": "ecf1352249453766cf5cd2f81a52001a335f9c5735031e065469390c33e261ef",
+      "sha256_alias": "a60849d2792bec853074a47e852a292e148c8b24be205845052949383a196cd4",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1991/emenda-constituicao-4-1991-id78.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1991/emenda-a-constituicao-4-1991-id78.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "4",
+        "data": "1991-04-03",
+        "fonte": "https://sapl.al.al.leg.br/norma/78",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1991/78/78_texto_integral.pdf"
+      },
+      "sha256_anterior": "acf3db69143ef42f227d2854c219d57d425c7bc21faf45ebe484727dc18dc2f8",
+      "sha256_alias": "a3cedfac35cd38f96c89a39459648efd04b3802637c3bb8b2fb87799940adb7c",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1991/emenda-constituicao-5-1991-id77.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1991/emenda-a-constituicao-5-1991-id77.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "5",
+        "data": "1991-05-03",
+        "fonte": "https://sapl.al.al.leg.br/norma/77",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1991/77/77_texto_integral.pdf"
+      },
+      "sha256_anterior": "ff4d1ba8b7f4a254b73af45c49b36f302f3a7a1bfb6422cf73c6ed3061d80072",
+      "sha256_alias": "a1981cbcef1acc48647e6b331973caff86f62093cf07f85575a88c38e3cb0f73",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1992/emenda-constituicao-6-1992-id82.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1992/emenda-a-constituicao-6-1992-id82.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "6",
+        "data": "1992-09-02",
+        "fonte": "https://sapl.al.al.leg.br/norma/82",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1992/82/82_texto_integral.pdf"
+      },
+      "sha256_anterior": "1f57451d7963aad47894fb5c143f209eb0506c06a24d15a60bef96a371754457",
+      "sha256_alias": "6ac824e973d96ffbf5c9e987f4a78ed1a3c74bb1debd95da36f1a8266c860563",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1992/emenda-constituicao-7-1992-id76.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1992/emenda-a-constituicao-7-1992-id76.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "7",
+        "data": "1992-12-15",
+        "fonte": "https://sapl.al.al.leg.br/norma/76",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1992/76/76_texto_integral.pdf"
+      },
+      "sha256_anterior": "e14d05cef25c19525619b84c2f09dc79d1d7847b15721947b92a76fd5a9d10dd",
+      "sha256_alias": "a0faacc8348cd15a397ce8fdf46ae49907d91f075fa8d5812bfd5cf9c5496046",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1993/emenda-constituicao-8-1993-id75.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1993/emenda-a-constituicao-8-1993-id75.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "8",
+        "data": "1993-02-08",
+        "fonte": "https://sapl.al.al.leg.br/norma/75",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1993/75/75_texto_integral.pdf"
+      },
+      "sha256_anterior": "270d6cb25ebde9aa3e5d00c060aa4b74938dd666c671aa644f17ed9715cf8a49",
+      "sha256_alias": "65b09218a5e51bce57ab30b9cc75c0fbc461c18e74d77770016d5ef60bf5dffc",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1993/emenda-constituicao-9-1993-id74.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1993/emenda-a-constituicao-9-1993-id74.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "9",
+        "data": "1993-05-26",
+        "fonte": "https://sapl.al.al.leg.br/norma/74",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1993/74/74_texto_integral.pdf"
+      },
+      "sha256_anterior": "fef86adb6901cb2093dc6b40193a5b55708c87f8edef81b9476b72a3b35ad0e2",
+      "sha256_alias": "00f05977f00b7630dbf98c914c552e4fb30a22cc427773fdc79db3278cd43951",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1994/emenda-constituicao-10-1994-id73.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1994/emenda-a-constituicao-10-1994-id73.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "10",
+        "data": "1994-01-21",
+        "fonte": "https://sapl.al.al.leg.br/norma/73",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1994/73/73_texto_integral.pdf"
+      },
+      "sha256_anterior": "a4bdf5ee0468447be31da595733617901b40dc3dc09f3820ad85dd4265516038",
+      "sha256_alias": "68531d08573b28f5264ac6fb4a37b3ba2275b51e2af7fd4c6acfc9f882c86a17",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1994/emenda-constituicao-11-1994-id72.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1994/emenda-a-constituicao-11-1994-id72.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "11",
+        "data": "1994-08-24",
+        "fonte": "https://sapl.al.al.leg.br/norma/72",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1994/72/72_texto_integral.pdf"
+      },
+      "sha256_anterior": "dcd5c8d64bbd70e74d875d784c2dace51e85df98368e516f5726279efed65da1",
+      "sha256_alias": "33e98eb8ba42d6e1d7564e71c0eb2acd4c780d4d36c1102805cc94b70b7d2bce",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1995/emenda-constituicao-12-1995-id71.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1995/emenda-a-constituicao-12-1995-id71.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "12",
+        "data": "1995-05-30",
+        "fonte": "https://sapl.al.al.leg.br/norma/71",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1995/71/71_texto_integral.pdf"
+      },
+      "sha256_anterior": "a8f350721d7e6d4fbdc09feac35520686029255fae38fa73d119871778495119",
+      "sha256_alias": "839831e0341af84e953ac92f1bc13ccc68b56c727dabfceb6913ef9a5a17826c",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1995/emenda-constituicao-13-1995-id70.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1995/emenda-a-constituicao-13-1995-id70.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "13",
+        "data": "1995-06-27",
+        "fonte": "https://sapl.al.al.leg.br/norma/70",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1995/70/70_texto_integral.pdf"
+      },
+      "sha256_anterior": "711f20a311609ffea706d0fdc1757319ff163eadcbda3aeb9eb66f1aeb88d5ed",
+      "sha256_alias": "a438e94e62e274864cbc5a29d62ee86e9e739880d7eca1c3e3a3f6bb3ddd23a6",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1996/emenda-constituicao-14-1996-id69.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1996/emenda-a-constituicao-14-1996-id69.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "14",
+        "data": "1996-11-13",
+        "fonte": "https://sapl.al.al.leg.br/norma/69",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1996/69/69_texto_integral.pdf"
+      },
+      "sha256_anterior": "72d2e3e8bed368f311bc195aa1b24654d9c964e096cf748e639850caf7895963",
+      "sha256_alias": "506f3c221fcd02c34786a2443100baf63c15bf33061b4fe71b655454e7438b27",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1996/emenda-constituicao-15-1996-id68.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1996/emenda-a-constituicao-15-1996-id68.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "15",
+        "data": "1996-12-02",
+        "fonte": "https://sapl.al.al.leg.br/norma/68",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1996/68/68_texto_integral.pdf"
+      },
+      "sha256_anterior": "73272185536067fc500c89c64aebf0997e72a72d2bab158a8b18420726e85c7e",
+      "sha256_alias": "99bdd15641f75c9c76ddef29fad951b3dec99ff4eaceaf6c4791b852c4af61d7",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1997/emenda-constituicao-16-1997-id67.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1997/emenda-a-constituicao-16-1997-id67.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "16",
+        "data": "1997-10-17",
+        "fonte": "https://sapl.al.al.leg.br/norma/67",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1997/67/67_texto_integral.pdf"
+      },
+      "sha256_anterior": "316ffdd8e600896a2e43edfd69287a29b9c1aa3151bf50108c43aa1c3fea305c",
+      "sha256_alias": "ec15b34547114a7b07fed5cf9b2415d1d62e6374794f72cd32f15804bb1a503b",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1997/emenda-constituicao-17-1997-id66.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1997/emenda-a-constituicao-17-1997-id66.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "17",
+        "data": "1997-10-17",
+        "fonte": "https://sapl.al.al.leg.br/norma/66",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1997/66/66_texto_integral.pdf"
+      },
+      "sha256_anterior": "5b33613c085435cc82d998e3b0ab7a31446047442979369d30a104a48eba64fa",
+      "sha256_alias": "a6dada34b3ca5c1cbf1cd8c48b1a6ab528d2ef2808ea4b88eca29c9d65bc0171",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/1998/emenda-constituicao-18-1998-id65.md",
+      "removido": "estaduais/AL/emendas-constitucionais/1998/emenda-a-constituicao-18-1998-id65.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "18",
+        "data": "1998-05-07",
+        "fonte": "https://sapl.al.al.leg.br/norma/65",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1998/65/65_texto_integral.pdf"
+      },
+      "sha256_anterior": "61f3c3eea4d1f013d828ddb9dd9bbcccf3cde5e85a24fd804e15f43ef6b4085e",
+      "sha256_alias": "fb4fee66e2b5f4b8456e8930ab3c0bbab8691488f17b01335d9836f800a0e86e",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2000/emenda-constituicao-19-2000-id61.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2000/emenda-a-constituicao-19-2000-id61.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "19",
+        "data": "2000-07-18",
+        "fonte": "https://sapl.al.al.leg.br/norma/61",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2000/61/61_texto_integral.pdf"
+      },
+      "sha256_anterior": "97380167f114df9da1e98b8bdcbd461651809f2e8ba3eafbba2801545b0b2cef",
+      "sha256_alias": "21bbe838455d2d524c0d90e4134fc0b847ad0039301d18549614d9fb777f74c2",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2000/emenda-constituicao-20-2000-id64.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2000/emenda-a-constituicao-20-2000-id64.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "20",
+        "data": "2000-07-18",
+        "fonte": "https://sapl.al.al.leg.br/norma/64",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2000/64/64_texto_integral.pdf"
+      },
+      "sha256_anterior": "ed0ca35bddecba4caeffd02c497787f1f5d25194534a64f14b747df04f0882a6",
+      "sha256_alias": "4cd79790f90c2fa16ebeeb71ccb731b0f8cdbeb7280acb85134de0231e816fec",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2000/emenda-constituicao-21-2000-id62.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2000/emenda-a-constituicao-21-2000-id62.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "21",
+        "data": "2000-12-19",
+        "fonte": "https://sapl.al.al.leg.br/norma/62",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2000/62/62_texto_integral.pdf"
+      },
+      "sha256_anterior": "c0a8702e6ac8c425d880c708def83af2b12463b15834b8828a3af81f4d8609ea",
+      "sha256_alias": "d92f907bf4c2b246615591000193643f89637b4fd43134050ccd3d9e2fe920cf",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2000/emenda-constituicao-22-2000-id58.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2000/emenda-a-constituicao-22-2000-id58.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "22",
+        "data": "2000-12-26",
+        "fonte": "https://sapl.al.al.leg.br/norma/58",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2000/58/58_texto_integral.pdf"
+      },
+      "sha256_anterior": "9865f3a3c75bb2977e9c10d042cfb4de44473762ddc094eee2b5e81be31f3fe6",
+      "sha256_alias": "759ff8e770df145826c22e5379b7fe1b1cb2c612aee175aa1f459ab4ea09c157",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2001/emenda-constituicao-23-2001-id60.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2001/emenda-a-constituicao-23-2001-id60.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "23",
+        "data": "2001-08-22",
+        "fonte": "https://sapl.al.al.leg.br/norma/60",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2001/60/60_texto_integral.pdf"
+      },
+      "sha256_anterior": "bfffe52cf58855f399f57a948f4d4ab3b778f26726be97f1df9ad88a5d1f48cf",
+      "sha256_alias": "0d042987cfae993d2496fad8055fdaccc4a26162237c6380ede672011fd00a08",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2002/emenda-constituicao-24-2002-id57.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2002/emenda-a-constituicao-24-2002-id57.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "24",
+        "data": "2002-03-26",
+        "fonte": "https://sapl.al.al.leg.br/norma/57",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2002/57/57_texto_integral.pdf"
+      },
+      "sha256_anterior": "d3c5fa2234c8fa5dd8269e89f60b835da75ed1b365632d67e0d658e905c11a2f",
+      "sha256_alias": "c66a7ba5d76e50a3dbdbe74a3d4ec0c51718685ad7dc44ca9d024b9d10e6e588",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2002/emenda-constituicao-25-2002-id56.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2002/emenda-a-constituicao-25-2002-id56.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "25",
+        "data": "2002-05-23",
+        "fonte": "https://sapl.al.al.leg.br/norma/56",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2002/56/56_texto_integral.pdf"
+      },
+      "sha256_anterior": "c0873ac698744602ce436661e3b5e4b7b6eb60439953f1f006774e850b00e10b",
+      "sha256_alias": "48af9baac7f3f30e7a0be03e060f934c72e14151e92c88ad48b720b85b1cb52d",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2002/emenda-constituicao-26-2002-id55.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2002/emenda-a-constituicao-26-2002-id55.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "26",
+        "data": "2002-02-19",
+        "fonte": "https://sapl.al.al.leg.br/norma/55",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2002/55/55_texto_integral.pdf"
+      },
+      "sha256_anterior": "0c9db8b6f3c4973d813004baf1a995dbe5bb203144ccd0f4d8d9dfa5bdd0ca70",
+      "sha256_alias": "0a03e49092983bd2de01ec0709cdef16fc22ab007528416518ea1579ab851a23",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2002/emenda-constituicao-27-2002-id54.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2002/emenda-a-constituicao-27-2002-id54.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "27",
+        "data": "2002-06-19",
+        "fonte": "https://sapl.al.al.leg.br/norma/54",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2002/54/54_texto_integral.pdf"
+      },
+      "sha256_anterior": "eed41328b52132e15430131cf0005c953e8e98f779bc88b219745b85024c668b",
+      "sha256_alias": "920190ae021d5d95cd306764a71ef557d36ff27f8e9bb198e3ed4893eaaca742",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2003/emenda-constituicao-28-2003-id53.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2003/emenda-a-constituicao-28-2003-id53.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "28",
+        "data": "2003-06-26",
+        "fonte": "https://sapl.al.al.leg.br/norma/53",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2003/53/53_texto_integral.pdf"
+      },
+      "sha256_anterior": "af54d49076cdf139bcc397d57155faa126221251e151d942781b70dd462fffd0",
+      "sha256_alias": "d9fffd104128e5a618a92db6c255b718336e39ec9b70861780f8947f821eec42",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2003/emenda-constituicao-29-2003-id52.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2003/emenda-a-constituicao-29-2003-id52.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "29",
+        "data": "2003-09-08",
+        "fonte": "https://sapl.al.al.leg.br/norma/52",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2003/52/52_texto_integral.pdf"
+      },
+      "sha256_anterior": "b3174421f8c87ea2b23909b94560a6875babb2b4de24a187e1cdede6dc7141cc",
+      "sha256_alias": "e0c63349a69c4382bdc41b239a9a4b3a28e82b049fd43dda244869deb4fd9b25",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2003/emenda-constituicao-30-2003-id51.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2003/emenda-a-constituicao-30-2003-id51.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "30",
+        "data": "2003-12-18",
+        "fonte": "https://sapl.al.al.leg.br/norma/51",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2003/51/51_texto_integral.pdf"
+      },
+      "sha256_anterior": "dd29de22ec095cb6e919c86b9016ea47b5bfaef3fe39f4ba0deb4054acc28229",
+      "sha256_alias": "2cd01c1eceac06e859dc6df07c9ff3ef8cc4b72fcd051d8fe67af4467b597334",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2004/emenda-constituicao-31-2004-id50.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2004/emenda-a-constituicao-31-2004-id50.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "31",
+        "data": "2004-12-15",
+        "fonte": "https://sapl.al.al.leg.br/norma/50",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2004/50/50_texto_integral.pdf"
+      },
+      "sha256_anterior": "e7616afc92a843e137eec5a5d8445e7aed65ad78b812321be922d80ae541e8b9",
+      "sha256_alias": "70fbd6edaad851eb39f3d6ff6e335396f1f72a300862db2c03ae08b3495422b9",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2007/emenda-constituicao-32-2007-id49.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2007/emenda-a-constituicao-32-2007-id49.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "32",
+        "data": "2007-01-02",
+        "fonte": "https://sapl.al.al.leg.br/norma/49",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2007/49/49_texto_integral.pdf"
+      },
+      "sha256_anterior": "f853654fced4acfd9868c05bb4bcdb7abe7c39cbe9a49aa99a2f419422a680ca",
+      "sha256_alias": "5080e12c8ac9ceb1444c3cef57dec4f151b97850c21417f33a312a0b75a44261",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2007/emenda-constituicao-33-2007-id48.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2007/emenda-a-constituicao-33-2007-id48.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "33",
+        "data": "2007-05-22",
+        "fonte": "https://sapl.al.al.leg.br/norma/48",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2007/48/48_texto_integral.pdf"
+      },
+      "sha256_anterior": "27db6fb858efa0342cc8ef2f058f540d1e57333707d2d158576451ca5b0ad6f2",
+      "sha256_alias": "d8f230021ca09ac7cd9c087528ce70961e6bb846ebac5f2313263f2302f8f882",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2007/emenda-constituicao-34-2007-id47.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2007/emenda-a-constituicao-34-2007-id47.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "34",
+        "data": "2007-12-11",
+        "fonte": "https://sapl.al.al.leg.br/norma/47",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2007/47/47_texto_integral.pdf"
+      },
+      "sha256_anterior": "c82101cfe2c701aa554d012c45d972d2ea0b098343d5048194dc78341341dfbf",
+      "sha256_alias": "3c0a909a2e35fd28c05f3340cf129c5704bac4062c850a8c6ae4234d3f7ddf55",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2009/emenda-constituicao-35-2009-id46.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2009/emenda-a-constituicao-35-2009-id46.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "35",
+        "data": "2009-06-30",
+        "fonte": "https://sapl.al.al.leg.br/norma/46",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2009/46/46_texto_integral.pdf"
+      },
+      "sha256_anterior": "144742e09c4212ea3d8939f93e3da025d357d5e480aa7c6dd773d233d8972774",
+      "sha256_alias": "8ba55036beb5b5b3b7b40a6fd3118fb05378b82f18cf4cf84a979e06e8a696c8",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2010/emenda-constituicao-36-2010-id45.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2010/emenda-a-constituicao-36-2010-id45.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "36",
+        "data": "2010-05-13",
+        "fonte": "https://sapl.al.al.leg.br/norma/45",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2010/45/45_texto_integral.pdf"
+      },
+      "sha256_anterior": "6ef346296f1541e275d1917bbc3b599dfae6d13543f939e58b595fe783247412",
+      "sha256_alias": "00167b4b3838b43d94f06d4de292a4402b42f28b7b9a84a629d6abee495c91d3",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2010/emenda-constituicao-37-2010-id44.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2010/emenda-a-constituicao-37-2010-id44.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "37",
+        "data": "2010-05-13",
+        "fonte": "https://sapl.al.al.leg.br/norma/44",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2010/44/44_texto_integral.pdf"
+      },
+      "sha256_anterior": "7723b56c341605e73eb7cb19352a8289724d6ad5a422d17a257e756f87469728",
+      "sha256_alias": "e5cfa395bf175b5b3af237bcd3ce9d1b64799eca390966c9d410bc2a258608d5",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2010/emenda-constituicao-38-2010-id43.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2010/emenda-a-constituicao-38-2010-id43.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "38",
+        "data": "2010-12-28",
+        "fonte": "https://sapl.al.al.leg.br/norma/43",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2010/43/43_texto_integral.pdf"
+      },
+      "sha256_anterior": "291a981adbe40817862df009df3d6e2c63e898c68defcfb2150b0e95c7ec58ea",
+      "sha256_alias": "9526412efc6a1f861a32de6ae9d0e34629f2cbc72a4f6dca9fa6c1bef20109b1",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2014/emenda-constituicao-39-2014-id42.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2014/emenda-a-constituicao-39-2014-id42.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "39",
+        "data": "2014-02-04",
+        "fonte": "https://sapl.al.al.leg.br/norma/42",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2014/42/42_texto_integral.pdf"
+      },
+      "sha256_anterior": "42bf57f821531c6f438c44644a2aa452de8a631eaea79a4db0d1c5142bc5e045",
+      "sha256_alias": "6e16cb4d3f5434131db07d2eaa654948be0417d93334579e7404961855210bef",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2015/emenda-constituicao-40-2015-id677.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2015/emenda-a-constituicao-40-2015-id677.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "40",
+        "data": "2015-09-09",
+        "fonte": "https://sapl.al.al.leg.br/norma/677",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2015/677/677_texto_integral.pdf"
+      },
+      "sha256_anterior": "846d9ffb515f111c8352989ae886c4d7ab77d5c68900872ac05dc0910e479d71",
+      "sha256_alias": "9f3310023f5020c63b1a33c9d4c679a79978ebb81af97d649d458e42deee0b44",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2016/emenda-constituicao-41-2016-id1193.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2016/emenda-a-constituicao-41-2016-id1193.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "41",
+        "data": "2016-04-05",
+        "fonte": "https://sapl.al.al.leg.br/norma/1193",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2016/1193/1193_texto_integral.doc"
+      },
+      "sha256_anterior": "1562523f76cced0bdcd2cc939513cfefa88c5998c9eefcbf9c735e2efbf34045",
+      "sha256_alias": "2ea4fd73a10bdc8ae2cba254a87eb5cda3d772a840afcbd3f0a1cb73f721522a",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2019/emenda-constituicao-42-2019-id1697.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2019/emenda-a-constituicao-42-2019-id1697.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "42",
+        "data": "2019-09-24",
+        "fonte": "https://sapl.al.al.leg.br/norma/1697",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1697/emenda_constitucional_no_42-2019.pdf"
+      },
+      "sha256_anterior": "16b8e60f7404d90d298f5e10881f64fecdc1fc44c7944572b36516d88f19b701",
+      "sha256_alias": "4264ce6df576165243fec7b9197bebdf9d6d461404851c0a3b52271003c6a7fc",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2019/emenda-constituicao-43-2019-id1698.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2019/emenda-a-constituicao-43-2019-id1698.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "43",
+        "data": "2019-09-24",
+        "fonte": "https://sapl.al.al.leg.br/norma/1698",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1698/emenda_constitucional_no_43-2019.pdf"
+      },
+      "sha256_anterior": "d1996123974d10ab3ab009f1d627d724d06a543fdae2b7d96fcb38fc654922bb",
+      "sha256_alias": "e851ddf5a0e5b06dbd3f97a692e6bfd6bdcacb9f4b306ae00d6f540e9f9c1886",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2019/emenda-constituicao-44-2019-id1699.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2019/emenda-a-constituicao-44-2019-id1699.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "44",
+        "data": "2019-09-24",
+        "fonte": "https://sapl.al.al.leg.br/norma/1699",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1699/emenda_constitucional_no_44-2019.pdf"
+      },
+      "sha256_anterior": "5429f45812ce7c7d5ca5a19986dad013ab05e1a73225f800de7de8416d2ad04b",
+      "sha256_alias": "e33e29f4d9ba421c12fd59d8277aa899e0fc07de0832aa70d32db5b91b15c71b",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2019/emenda-constituicao-45-2019-id1732.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2019/emenda-a-constituicao-45-2019-id1732.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "45",
+        "data": "2019-12-11",
+        "fonte": "https://sapl.al.al.leg.br/norma/1732",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1732/emenda_constitucional_no_45-2019_-_acrescenta_inciso_xvi_ao_art._79_da_c.e.al..pdf"
+      },
+      "sha256_anterior": "7d5b254c1417a918e340e2da158a1d95af9fe07ee1b3f25c9fcc6feddf233c58",
+      "sha256_alias": "e7a4261c14e93dbdc4a3afa450d57e7cab3654cb51bd610d72a9af05a8fb95c7",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2019/emenda-constituicao-46-2019-id1733.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2019/emenda-a-constituicao-46-2019-id1733.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "46",
+        "data": "2019-12-11",
+        "fonte": "https://sapl.al.al.leg.br/norma/1733",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2019/1733/emenda_constitucional_no_46-2019.pdf"
+      },
+      "sha256_anterior": "9efa5c05954963df05ff23d43a867d2eecfa3b9bb4e7089cc3a9081003bc6f45",
+      "sha256_alias": "48de7df1962c443c503f3ac2f8e1142a193594ed79d64944d42298a33d8d8c7d",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2020/emenda-constituicao-47-2020-id1796.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2020/emenda-a-constituicao-47-2020-id1796.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "47",
+        "data": "2020-06-16",
+        "fonte": "https://sapl.al.al.leg.br/norma/1796",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2020/1796/emenda_constitucional_no_47-202020_-_acrescenta_o_art._177-a_da_c.e.al..pdf"
+      },
+      "sha256_anterior": "4fb9bf9dd682f499508382f230184732d5656b3f0f99a0bc7fa8c9a6c2bc3c3d",
+      "sha256_alias": "ed40a37503706387d0675e4f83328db7287adc72ca0508bfb28de55ae8c557b9",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2020/emenda-constituicao-48-2020-id1797.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2020/emenda-a-constituicao-48-2020-id1797.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "48",
+        "data": "2020-06-30",
+        "fonte": "https://sapl.al.al.leg.br/norma/1797",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2020/1797/emenda_constitucional_no_48-2020_-_da_nova_redacao_ao_1o_e_cria__-_dep._antonio_albuquerque.pdf"
+      },
+      "sha256_anterior": "7977157acb1459c28eba632da59eeaccc242575e8c1c8188d8b00ff4377b51e3",
+      "sha256_alias": "2d47fda5e09863b8888201162824c7cbf23c9698bcc80b2182323bfcfd10f87a",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2021/emenda-constituicao-49-2021-id2032.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2021/emenda-a-constituicao-49-2021-id2032.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "49",
+        "data": "2021-09-08",
+        "fonte": "https://sapl.al.al.leg.br/norma/2032",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2021/2032/emenda_constitucional_no_49-2021_-_da_nova_redacao_ao__1o_do_art._88_da_constiuicao_-_dep._paulo_dantas.pdf"
+      },
+      "sha256_anterior": "9fe1bc8a50da0a42380e9b6bc098907fea7c1c08b7c4e10bf6bc28b3dd7143f1",
+      "sha256_alias": "c4e2b96a691ed5909cf277f81a40a1e4c978cbef737c5c45b285b2458f6a9612",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2022/emenda-constituicao-50-2022-id2244.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2022/emenda-a-constituicao-50-2022-id2244.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "50",
+        "data": "2022-03-29",
+        "fonte": "https://sapl.al.al.leg.br/norma/2244",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2244/sancao_emenda_constitucional_no_50-2022_-_pec_no__alagoas_emenda_substitutiva_teto_unico_governamental.pdf"
+      },
+      "sha256_anterior": "41216ffd7ccb9f8ab06ce5283b327f725513d375e95e8b1c96bb020395e6a11f",
+      "sha256_alias": "f8d382ed1f1bea95f0a6a56fff20e490d34a87adda044eafb3bb7cd708e7dfff",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2022/emenda-constituicao-51-2022-id2391.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2022/emenda-a-constituicao-51-2022-id2391.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "51",
+        "data": "2022-12-21",
+        "fonte": "https://sapl.al.al.leg.br/norma/2391",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2022/2391/emenda_constitucional_no_51-2022__pec_no__92-2022_-_reeleicao_-_enviado_pelo_luna.pdf"
+      },
+      "sha256_anterior": "a8a6bdba1a2f38a5d94ea3b94ba50a125e39ac10023085e4a953001184cdfaae",
+      "sha256_alias": "dc8310d41d79be294a1fa42265084c12a69d2cc749529b357d016b785517c7d1",
+      "corpo": "limpeza de preenchimento de assinatura"
+    },
+    {
+      "preservado": "estaduais/AL/emendas-constitucionais/2024/emenda-constituicao-52-2024-id3230.md",
+      "removido": "estaduais/AL/emendas-constitucionais/2024/emenda-a-constituicao-52-2024-id3230.md",
+      "identidade": {
+        "uf": "AL",
+        "tipo": "Emenda Constitucional",
+        "numero": "52",
+        "data": "2024-10-15",
+        "fonte": "https://sapl.al.al.leg.br/norma/3230",
+        "arquivo": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2024/3230/emenda_constitucional_n_52-2024..pdf"
+      },
+      "sha256_anterior": "98a806bcfbffa58b6561039b570b4d0c85daf054915390d9d5860627fdefd36a",
+      "sha256_alias": "641d8b75e355dad00d4d46e4e5d56b0826c325c51951e4b9118e430c4255f38c",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-100-2025-id5031.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-100-2025-id5031.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "100",
+        "data": "2025-08-26",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5031",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5031/emenda_a_constituicao_no_100_de_26_de_agosto_de_2025.pdf"
+      },
+      "sha256_anterior": "78c1cd703b5d05b2966b51684b0edd50ec1f65eea7878ed711c0a9bd0652ddef",
+      "sha256_alias": "7c716eb851a4520cecd891be00cf93df96106f8ee19dd54cb5b6b4054ec80501",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-101-2025-id5032.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-101-2025-id5032.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "101",
+        "data": "2025-08-26",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5032",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5032/emenda_a_constituicao_no_101_de_26_de_agosto_de_2025.pdf"
+      },
+      "sha256_anterior": "ae8f3a599ee99772ea028a1cfab881104f0e09278daf9c450fda51e62eb4ca8b",
+      "sha256_alias": "a0f257b7db002783ded78462e1c058f1adb68068184ed8df48016f10954bac7e",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-105-2025-id5246.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-105-2025-id5246.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "105",
+        "data": "2025-12-22",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5246",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5246/emenda_a_constituicao_no_105_de_22_de_dezembro_de_2025.pdf"
+      },
+      "sha256_anterior": "9ed91ed21e22740ff8a8c67fcb21a0faa78d11d6836763564126e6b5833434fa",
+      "sha256_alias": "6f5a84e851acefe68abcdea64df804bbc9a0ce4f82384951b10d4525841c4435",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-94-2025-id4805.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-94-2025-id4805.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "94",
+        "data": "2024-12-18",
+        "fonte": "https://sapl.al.rr.leg.br/norma/4805",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/4805/emenda_a_constituicao_no_094_de_18_de_dezembro_de_2024.pdf"
+      },
+      "sha256_anterior": "df2c90dfc80108c7e2cb821822eb7c74b2229421fca6a96ecb11c98672d016e4",
+      "sha256_alias": "3d5e2d250f62c68b84dd161fd39d71dc1809fa34020e213e371f5dcf727ac8eb",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-95-2025-id4961.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-95-2025-id4961.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "95",
+        "data": "2025-06-10",
+        "fonte": "https://sapl.al.rr.leg.br/norma/4961",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/4961/emenda_a_constituicao_no_095_de_10_de_junho_de_2025.pdf"
+      },
+      "sha256_anterior": "e53a50c5ee054cbbb660bbff119116f594807264ceec8467eb8479eaeebf4385",
+      "sha256_alias": "eeed353fb931c4e459407bed4627463a1cad1b4bbdc6e90adea87e5a3ba6ed5a",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-96-2025-id5007.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-96-2025-id5007.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "96",
+        "data": "2025-06-26",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5007",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5007/emenda_a_constituicao_no_096_de_26_de_junho_de_2025.pdf"
+      },
+      "sha256_anterior": "d897bf83557dfa80c565cf864409eb82257b504d8e54c02a06fef3d8669a65a0",
+      "sha256_alias": "18e83a8f1ff43dd9a2292266c060b788049974177cb303fb244a56e636530f32",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-97-2025-id5028.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-97-2025-id5028.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "97",
+        "data": "2025-08-20",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5028",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5028/emenda_a_constituicao_no_097_de_20_de_agosto_de_2025.pdf"
+      },
+      "sha256_anterior": "9305c266b948193ffd61a19d73a395860b0c462bffe44009482700541d5b7ced",
+      "sha256_alias": "ddb6ec6b38d68a718f912cc499383b15c10f8700b1c3d9a02925fd5c199c4ecd",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-98-2025-id5029.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-98-2025-id5029.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "98",
+        "data": "2025-08-20",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5029",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5029/emenda_a_constituicao_no_098_de_20_de_agosto_de_2025.pdf"
+      },
+      "sha256_anterior": "f1f6564efe4ec2a7ec50520d8f3c5accacfc4cf41c1c914f31f080b1c03723a0",
+      "sha256_alias": "266f5a4a44ab64f8977121055b7d69045b774f10b27ee3523f880258598addc5",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2025/emenda-constituicao-99-2025-id5030.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2025/emenda-a-constituicao-99-2025-id5030.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "99",
+        "data": "2025-08-26",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5030",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2025/5030/emenda_a_constituicao_no_099_de_26_de_agosto_de_2025.pdf"
+      },
+      "sha256_anterior": "3c929f4dab9418c766f9c4eaadd390e30d70aa9536925b07020ab04f3b30a345",
+      "sha256_alias": "701807ef22b50f980d2414709efdf76592da2ecbd1471c0f1e1d5eb7187aaf45",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2026/emenda-constituicao-106-2026-id5377.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2026/emenda-a-constituicao-106-2026-id5377.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "106",
+        "data": "2026-03-31",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5377",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2026/5377/emenda_a_constiuicao_no_106_de_31_de_marco_de_2026.pdf"
+      },
+      "sha256_anterior": "01f3e12c4a460838b82a1f493ddab71bef72d659209772f52b25ae774ef9139b",
+      "sha256_alias": "0ceab5e96c0a3dae418d09bdba1aab6b19972077add19c0defcfda4edc6c3848",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/RR/emendas-constitucionais/2026/emenda-constituicao-107-2026-id5376.md",
+      "removido": "estaduais/RR/emendas-constitucionais/2026/emenda-a-constituicao-107-2026-id5376.md",
+      "identidade": {
+        "uf": "RR",
+        "tipo": "Emenda Constitucional",
+        "numero": "107",
+        "data": "2026-06-23",
+        "fonte": "https://sapl.al.rr.leg.br/norma/5376",
+        "arquivo": "https://sapl.al.rr.leg.br/media/sapl/public/normajuridica/2026/5376/emenda_a_constiuicao_no_107_de_23_de_junho_de_2026.pdf"
+      },
+      "sha256_anterior": "48db7c7589e8f002945bd4ab5d33513703cba2bfd246aa10c9edb6cb44b549cf",
+      "sha256_alias": "0844a29c8596cb4c476a5b4a1a197df902465c17246f519c2eb29f2048133559",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2020/emenda-constituicao-39-2020-id108.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2020/emenda-a-constituicao-39-2020-id108.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "39",
+        "data": "2020-07-07",
+        "fonte": "https://sapl.al.to.leg.br/norma/108",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2020/108/emenda_constitucional_no_39_000387.pdf"
+      },
+      "sha256_anterior": "616a6a8656c1a339d4bb7933e4185bc096f29706d614fd53a0e7d683a472e4e9",
+      "sha256_alias": "862b94845d9d3ea7d27d8af27077da2cbe587979bcdb77d2d1b13c40cdb61b14",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2020/emenda-constituicao-40-2020-id132.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2020/emenda-a-constituicao-40-2020-id132.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "40",
+        "data": "2020-12-09",
+        "fonte": "https://sapl.al.to.leg.br/norma/132",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2020/132/ec_40_2020_pec_08_2019.pdf"
+      },
+      "sha256_anterior": "8f90f7cc82530e946d614c8c40fa7af32aadd1fde0b1196a48c3346b6eceac1d",
+      "sha256_alias": "6b784db4cd25ab0308717a0175ab793527472c709e4460956f778bc2895084dd",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2021/emenda-constituicao-41-2021-id271.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2021/emenda-a-constituicao-41-2021-id271.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "41",
+        "data": "2021-11-23",
+        "fonte": "https://sapl.al.to.leg.br/norma/271",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2021/271/emenda_constitucional_41_001310.pdf"
+      },
+      "sha256_anterior": "605df8107a9204c62cddc3dd3b6997f4dca45571e4817256dd8f89efa30c43f3",
+      "sha256_alias": "a7df15bb08f6ad851122259d1dece0341803ee2522b5df4151aad1792fc914e0",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2021/emenda-constituicao-42-2021-id333.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2021/emenda-a-constituicao-42-2021-id333.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "42",
+        "data": "2021-12-15",
+        "fonte": "https://sapl.al.to.leg.br/norma/333",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2021/333/emenda_constitucional_42_000335.pdf"
+      },
+      "sha256_anterior": "bb4cf69c068f3450ac8e7dea2220bd8cc7248d045cea8b7f74ce1f8618f13b0b",
+      "sha256_alias": "bf5e1d25bbb50bc337c6e1be6ff9696e71777a4df2431226b20804807572fd48",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2021/emenda-constituicao-43-2021-id332.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2021/emenda-a-constituicao-43-2021-id332.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "43",
+        "data": "2021-12-15",
+        "fonte": "https://sapl.al.to.leg.br/norma/332",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2021/332/emenda_constitucional_43-2021_000346.pdf"
+      },
+      "sha256_anterior": "119af9de20d8b026ab4b8d1d0fc6844b07082284aab3a4bb5da704344003ab82",
+      "sha256_alias": "9e93bb6316a95dc6c56dcc84d48d763812e0ab6913ef7efc1625b321247ee755",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2022/emenda-constituicao-44-2022-id397.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2022/emenda-a-constituicao-44-2022-id397.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "44",
+        "data": "2022-04-20",
+        "fonte": "https://sapl.al.to.leg.br/norma/397",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/397/ec_44-2022_000779.pdf"
+      },
+      "sha256_anterior": "42c4f355896aa56ecc725fabac3059a59889741ce83407aa1a3f061d232b353e",
+      "sha256_alias": "79e401af7c8abd8b85f9169c2e7a63c9acc53b6595755e6b299b0019fb05076b",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2022/emenda-constituicao-45-2022-id502.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2022/emenda-a-constituicao-45-2022-id502.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "45",
+        "data": "2022-11-07",
+        "fonte": "https://sapl.al.to.leg.br/norma/502",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/502/emenda_constitucional_45-2022_001796.pdf"
+      },
+      "sha256_anterior": "6608915df5ebd980a87556cedcb1559152e14167a46a5c7ac110c19ca8ae1994",
+      "sha256_alias": "313a8ee88738c1db2cd994ec9a1d7923122f0b16fbac60230393ddc9a5b20be1",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2022/emenda-constituicao-46-2022-id512.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2022/emenda-a-constituicao-46-2022-id512.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "46",
+        "data": "2022-12-22",
+        "fonte": "https://sapl.al.to.leg.br/norma/512",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/512/emenda_constitucional_46-2022_001934.pdf"
+      },
+      "sha256_anterior": "2cb67e03cba38aa177b18eeb71522806ee97d2bf377667fa4837f2540c3ce4a6",
+      "sha256_alias": "735aa74a617f6e91f8615262db5e7ee7c99b0b0b6d5ea91158f7cea888a818e3",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2022/emenda-constituicao-47-2022-id513.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2022/emenda-a-constituicao-47-2022-id513.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "47",
+        "data": "2022-12-22",
+        "fonte": "https://sapl.al.to.leg.br/norma/513",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/513/emenda_constitucional_47-2022_001938.pdf"
+      },
+      "sha256_anterior": "6f3c47fff0f2ec490a58992207cf974f7dd71d49277bab8457f84d62408928df",
+      "sha256_alias": "76ec4911d0bfade13350c0ae42b9a5ba78600ee24942da014a5af706c137aaa4",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2022/emenda-constituicao-48-2022-id514.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2022/emenda-a-constituicao-48-2022-id514.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "48",
+        "data": "2022-12-22",
+        "fonte": "https://sapl.al.to.leg.br/norma/514",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2022/514/emenda_constitucional_48-2022_001940.pdf"
+      },
+      "sha256_anterior": "dc7fad4b7745228b330ac6a83de97a21a6f3915f9b2ec590718a0fa592449037",
+      "sha256_alias": "9f57ba75e0237db7ee32bf3f710191977d66c06517645191dffe4db5bf082316",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2023/emenda-constituicao-49-2023-id679.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2023/emenda-a-constituicao-49-2023-id679.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "49",
+        "data": "2023-07-21",
+        "fonte": "https://sapl.al.to.leg.br/norma/679",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/679/emendaconstitucional_49.pdf"
+      },
+      "sha256_anterior": "b8dda1ad6480135fbc892d20696322fd227ecc8bdd4b20e02c88e408859fde15",
+      "sha256_alias": "d350920737fa1a84c57c46214d4392a26ac487b191310ec179e8d122ead30a8d",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2023/emenda-constituicao-50-2023-id680.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2023/emenda-a-constituicao-50-2023-id680.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "50",
+        "data": "2023-08-09",
+        "fonte": "https://sapl.al.to.leg.br/norma/680",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/680/emendaconstitucional_50.pdf"
+      },
+      "sha256_anterior": "88f1f55ddb8b87a0fd66078be948d21abc1b1d7bafd99e731b6d2acc7a722e54",
+      "sha256_alias": "45cac67eabec9343c72c9e869ead011271f62c651730c4a069c19a3238f48384",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2023/emenda-constituicao-51-2023-id721.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2023/emenda-a-constituicao-51-2023-id721.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "51",
+        "data": "2023-11-08",
+        "fonte": "https://sapl.al.to.leg.br/norma/721",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/721/ec_51.pdf"
+      },
+      "sha256_anterior": "d21add987fde8222fb229a6ccc5d6119b057dede0e18ae48d2506886603b5552",
+      "sha256_alias": "aa8b2ea98da741ae9a9ef3b45b7093cd5d2c0a93b1f57914e1c5b6e4ed3ef7b4",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2023/emenda-constituicao-52-2023-id832.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2023/emenda-a-constituicao-52-2023-id832.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "52",
+        "data": "2023-12-14",
+        "fonte": "https://sapl.al.to.leg.br/norma/832",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2023/832/ec_52.pdf"
+      },
+      "sha256_anterior": "9cca8f4b55c228b8705bec3b61974368d210e7095b208abbe42254c11424e643",
+      "sha256_alias": "a548c0e6999531b49424effa105ea2666b0eb0b8c2c7e5d32a0fdc7d8ceea206",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2024/emenda-constituicao-56-2024-id1126.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2024/emenda-a-constituicao-56-2024-id1126.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "56",
+        "data": "2024-12-19",
+        "fonte": "https://sapl.al.to.leg.br/norma/1126",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2024/1126/ec_56.pdf"
+      },
+      "sha256_anterior": "255b1c26905bf5954f6a6d3f08d63a58e108c30f7aa006f9f9d88da66a4adb05",
+      "sha256_alias": "bea97dcf90e252a3c32b8da3a816de050404c9b94384f2f14d1c5c0d20bfb5af",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2025/emenda-constituicao-55-2025-id1147.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2025/emenda-a-constituicao-55-2025-id1147.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "55",
+        "data": "2024-11-06",
+        "fonte": "https://sapl.al.to.leg.br/norma/1147",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1147/ec_55.pdf"
+      },
+      "sha256_anterior": "007c58e9881e7be24f2232ab83d95e8dff3f82e192f27baf185f2479de36732b",
+      "sha256_alias": "5d0234d35226a010352fa11679c34a14c5e200ef28b51828f6519bf6df39ff76",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2025/emenda-constituicao-57-2025-id1450.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2025/emenda-a-constituicao-57-2025-id1450.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "57",
+        "data": "2025-12-17",
+        "fonte": "https://sapl.al.to.leg.br/norma/1450",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1450/ec_57-2025.pdf"
+      },
+      "sha256_anterior": "d9f4151d6a2fca9e3fbe0e1363538ffb6cfc1b9d712bb6aa697382eab4ce1831",
+      "sha256_alias": "310266bcb0351c7ff508eac84404599450edc0df240184b53fccfa823f4c4e94",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2025/emenda-constituicao-58-2025-id1452.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2025/emenda-a-constituicao-58-2025-id1452.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "58",
+        "data": "2025-12-17",
+        "fonte": "https://sapl.al.to.leg.br/norma/1452",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1452/ec_58-2025.pdf"
+      },
+      "sha256_anterior": "0a2846e6b9ad2c7f12ae8131fc6f590bcce65afa290d9f66f90937467b7a8ad3",
+      "sha256_alias": "1d8bf66d0a98418d7c27b5824d4ae17526b99a64b6ea6fda8e82c120b2084b54",
+      "corpo": "idêntico"
+    },
+    {
+      "preservado": "estaduais/TO/emendas-constitucionais/2025/emenda-constituicao-59-2025-id1451.md",
+      "removido": "estaduais/TO/emendas-constitucionais/2025/emenda-a-constituicao-59-2025-id1451.md",
+      "identidade": {
+        "uf": "TO",
+        "tipo": "Emenda Constitucional",
+        "numero": "59",
+        "data": "2025-12-17",
+        "fonte": "https://sapl.al.to.leg.br/norma/1451",
+        "arquivo": "https://sapl.al.to.leg.br/media/sapl/public/normajuridica/2025/1451/ec_59-2025.pdf"
+      },
+      "sha256_anterior": "df74a01f5992d818089ff80be9ccac371e343eb653a243814a6c404991255fd2",
+      "sha256_alias": "26098a4dd645a9ef99a94e081fb1bb62a46aa7320f00dba551ad7c6678a94a52",
+      "corpo": "idêntico"
+    }
+  ]
+}

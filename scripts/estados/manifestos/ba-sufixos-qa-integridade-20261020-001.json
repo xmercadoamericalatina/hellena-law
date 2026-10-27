@@ -1,0 +1,69 @@
+{
+  "total": 2,
+  "nota": "QA adicional sem alterar os dois MD ou os manifests/snapshots anteriores; novas normas ainda não presentes no HEAD.",
+  "sha256_snapshot_head_paths": "6cd408ba7ac29d0a2c8c5d17ba8dcafe127ddd73d6042ec4bee71cf990a795d5",
+  "documentos": [
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md",
+      "sha256_md": "d74c0b17fe5c730638753e490ddf2b82787a349915e3d2054b57c2202cabb2f1",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-181-a-de-09-de-julho-de-1991",
+      "numero": "181-A",
+      "data": "1991-07-09",
+      "cache": "estaduais/BA/_fonte/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.html.gz",
+      "sha256_fonte": "6ab6d67cf223454cbc7bc6f1fb7b02724322de72e3d67f975687fce01c85af5b",
+      "sha256_cache": "a9cce44d37a523585ad0aa6a1c91cc5ed5dea6d67cae4c4a43e677c0579614e8",
+      "limites_campo": [
+        0,
+        6649
+      ],
+      "epigrafe_literal": "DECRETO Nº 181 - A DE 09 DE JULHO DE 1991",
+      "dispositivo_proprio": "ões que lhe são conferidas pelo inciso V do art. 105 da Constituição Estadual ,\n\nD E C R E T A\n\nArt. 1º - Poderão ser pagas por dotações para Despesas de Exercícios Anteriores, constantes dos quadros discriminativos de despesas das unidades orçamentárias, as dívidas de exerc",
+      "corpo_confere_fonte_alfanumerico": true,
+      "normativo_inalterado_desde_correcao_metadata": "3726e052100e46e48e0c40c1b1bc871315f64d2cac53dc97404a0678f9832e53",
+      "tabelas_complexas_conferidas": 0,
+      "imagens_normativas": [],
+      "objetos_aprovados_proprios": false,
+      "remissoes_anexos_nao_representados": [],
+      "avisos_omissao": [],
+      "tachados": false,
+      "granularidade_revisao_contextual": "Uma epígrafe própria, artigos e assinaturas do mesmo ato. 181-A/1991 possui artigos 1–11; 34.321-A/1987 artigos 1–2. Não há texto de outro ato ou conteúdo aprovado não representado. Referências a despesas, quadros orçamentários ou futura competência para assinar convênios não aprovam objeto anexo próprio.",
+      "deduplicacao_HEAD_mesmos_anos": {
+        "arquivos_confrontados": 520,
+        "chave": "UF/tipo/numero com sufixo/data-ano e URL oficial",
+        "colisoes": []
+      },
+      "publicavel": true
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md",
+      "sha256_md": "42fa75d6f9f5b7231fec3ab9a403a0d9a0e8fd2ae2dd93dd8a775627941fdbe8",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-34321-a-de-15-de-janeiro-de-1987",
+      "numero": "34321-A",
+      "data": "1987-01-15",
+      "cache": "estaduais/BA/_fonte/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.html.gz",
+      "sha256_fonte": "f168b9f2b9be1e21c908bafa50d3a4ea9473977a4a3a1572b6acc06f7a2bf567",
+      "sha256_cache": "b6c1b4a619f51955644e41961fa91013c2d7d34f7e528018849f97e6818ad495",
+      "limites_campo": [
+        0,
+        1158
+      ],
+      "epigrafe_literal": "DECRETO Nº 34.321-A DE 15 DE JANEIRO DE 1987",
+      "dispositivo_proprio": "ento no que dispõe o § 2º, do artigo 65 da Lei nº 4.660, de 8 de abri1 de 1986,\n\nD E C R E T A\n\nArt. 1º - Fica autorizado o Secretário da Segurança Pública a assinar, em nome do Estado da Bahia, observadas as normas legais, pertinentes, convênios, contratos e termos aditivos",
+      "corpo_confere_fonte_alfanumerico": true,
+      "normativo_inalterado_desde_correcao_metadata": "44e963e8ab8cd6d52ab31e6d7ff5f861506c3d3eff7a828b9c65d9203047f5ae",
+      "tabelas_complexas_conferidas": 0,
+      "imagens_normativas": [],
+      "objetos_aprovados_proprios": false,
+      "remissoes_anexos_nao_representados": [],
+      "avisos_omissao": [],
+      "tachados": false,
+      "granularidade_revisao_contextual": "Uma epígrafe própria, artigos e assinaturas do mesmo ato. 181-A/1991 possui artigos 1–11; 34.321-A/1987 artigos 1–2. Não há texto de outro ato ou conteúdo aprovado não representado. Referências a despesas, quadros orçamentários ou futura competência para assinar convênios não aprovam objeto anexo próprio.",
+      "deduplicacao_HEAD_mesmos_anos": {
+        "arquivos_confrontados": 520,
+        "chave": "UF/tipo/numero com sufixo/data-ano e URL oficial",
+        "colisoes": []
+      },
+      "publicavel": true
+    }
+  ]
+}

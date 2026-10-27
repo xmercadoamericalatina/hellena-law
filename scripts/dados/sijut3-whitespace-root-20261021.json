@@ -1,0 +1,10 @@
+{
+  "path": "municipais/_lotes/20261021-sijut-paragrafos-proposta/auditar_cache_rfb.patch",
+  "sha256": "cd79bb89dca20a7d6509d8dd4f26ff03fed6283c074a6196c5bf3bb926a6dced",
+  "linhas": [
+    8,
+    10
+  ],
+  "bytes_linha": "20",
+  "criterio": "Duas linhas de contexto vazio de diff unificado contêm o marcador obrigatório de espaço. São evidência histórica imutável, não whitespace normativo. Nenhum outro aviso presente no index; EOF e demais classes continuam verificados."
+}

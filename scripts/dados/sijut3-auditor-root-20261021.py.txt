@@ -1,0 +1,26 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,datetime,sys
+sys.path.insert(0,'scripts')
+from metadados_lotes import carregar
+import auditar_cache_rfb as a
+import baixar_rfb as rfb
+sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('municipais/_lotes/20261021-sijut-paragrafos-proposta');mp=base/'manifesto.json';m=json.loads(mp.read_text());h={}
+for r in m['arquivos']:
+ b=Path(r['arquivo']).read_bytes();assert sha(b)==r['sha256'] and len(b)==r['bytes'];h[r['arquivo']]=r['sha256']
+h[str(mp)]=sha(mp.read_bytes())
+assert Path('scripts/auditar_cache_rfb.py').read_bytes()==(base/'auditar_cache_rfb.candidato.py').read_bytes()
+head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();tracked=set(subprocess.check_output(['git','ls-tree','-r','--name-only',head,'--','reguladores/rfb']).decode().splitlines())
+headers=carregar(Path.cwd(),Path('/tmp/constituicao-index-reguladores-head-v2-20261021.z').read_bytes())
+for f in ['/tmp/reguladores6930-paths-20261021.txt','/tmp/reguladores9994-paths-20261021.txt']:
+ for p in Path(f).read_text().splitlines():
+  if p.startswith('reguladores/rfb/') and '/_' not in p and p.endswith('.md'):meta,_=rfb.metadados_md(Path(p).read_text());headers.append({'path':p,'meta':meta})
+ids={a.chave(r['meta']) for r in headers if r['path'].startswith('reguladores/rfb/')};urls={r['meta'].get('fonte') for r in headers if r['path'].startswith('reguladores/rfb/')}
+catpath=Path('reguladores/rfb/_indice/snapshots/indice-20261021-115312-f1b22fe4.json.gz');raw=gzip.decompress(catpath.read_bytes());assert sha(raw)=='f1b22fe46a1bba76ac6c203a397c82482d9b84a782732570ec883e117534e7eb';index={int(r['idAto']):r for r in json.loads(raw)['documentos']}
+writes=[];proofs=[]
+for r in json.loads((base/'casos.json').read_text()):
+ p=r['path'];old=Path(p).read_bytes();assert p not in tracked and sha(old)==r['sha256_preimagem'];new=Path(r['candidato']).read_bytes();assert sha(new)==r['sha256_candidato'];source=gzip.decompress(Path(r['cache']).read_bytes());assert sha(source)==r['sha256_fonte'];record,meta=a.auditar(Path(r['candidato']).resolve(),index,ids,urls,datetime.date(2026,10,21));assert record['sha256_fonte']==r['sha256_fonte'];om,_=rfb.metadados_md(old.decode());nm,_=rfb.metadados_md(new.decode());assert {k:v for k,v in nm.items() if k not in ('sha256_texto','representacao_texto')}=={k:v for k,v in om.items() if k!='sha256_texto'};assert nm['representacao_texto']=='html-paragrafos-literais-sijut-v1';ids.add(a.chave(meta));urls.add(meta['fonte']);writes.append((p,old,new));record['path_canonico']=p;proofs.append(record)
+assert len(writes)==3
+for p,old,new in writes:
+ assert Path(p).read_bytes()==old;t=Path(p).with_suffix('.root-literal3.tmp');assert not t.exists();t.write_bytes(new);t.replace(p);h[p]=sha(new)
+for p in ['scripts/auditar_cache_rfb.py','scripts/sijut_paragrafos_literais_proposta.py','scripts/test_sijut_paragrafos_literais_proposta.py']:h[p]=sha(Path(p).read_bytes())
+q=Path('scripts/dados/sijut3-testes-root-20261021.txt');assert not q.exists();q.write_bytes(Path('/tmp/sijut-paragrafos-auditor-test-v2-root-20261021.log').read_bytes());h[str(q)]=sha(q.read_bytes());q=Path('scripts/dados/sijut3-integracao-root-20261021.json');assert not q.exists();q.write_text(json.dumps({'novas':3,'head_conferido':head,'verificacoes':proofs,'criterio':'Tres fontes SIJUT estritamente texto simples ativo: cada segmento representado por paragrafo HTML com escape literal, IDs e ordem preservados. Nao interpreta separador literal como Markdown. ROOT leu helper e patch minimo, repetiu cinco testes do modo e quatro do auditor existente. Catalogo oficial congelado115312, API, identidade, vigencia da fonte, corpo exato, SHA e dedup confrontados. Tres paths ausentes HEAD; aceites de fonte em recibos anteriores nao significavam publicacao. Fontes completas e preimagens preservadas no pacote imutavel anterior. Nenhuma extrapolacao para demais retencoes: inventario encontrou zero casos adicionais elegiveis. Metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(q)]=sha(q.read_bytes());Path('/tmp/sijut3-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');Path('/tmp/sijut3-paths-20261021.txt').write_text('\n'.join(h)+'\n');print('FINAL3',len(h),flush=True)

@@ -1,0 +1,41 @@
+{
+  "total": 2,
+  "documentos": [
+    {
+      "path": "estaduais/BA/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md",
+      "numero_anterior": "181",
+      "numero_corrigido": "181-A",
+      "titulo_anterior": "Decreto nº 181, de 09/07/1991",
+      "titulo_corrigido": "Decreto nº 181-A, de 09/07/1991",
+      "epigrafe_literal": "DECRETO Nº 181 - A DE 09 DE JULHO DE 1991",
+      "sha256_md_anterior": "5d38a254651b2263cc81ab188ae385e71033e0cbdf602e89362efe4e11011793",
+      "sha256_md": "d74c0b17fe5c730638753e490ddf2b82787a349915e3d2054b57c2202cabb2f1",
+      "backup": "estaduais/BA/_fonte/auditorias/metadata-sufixos-20261020/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md.gz",
+      "sha256_backup": "db7a4ad199db99ee2bb6f3e568d305f9c4cb693b681a07573ceef3079eaedd6b",
+      "sha256_normativo_inalterado": "3726e052100e46e48e0c40c1b1bc871315f64d2cac53dc97404a0678f9832e53",
+      "cache": "estaduais/BA/_fonte/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.html.gz",
+      "sha256_fonte": "6ab6d67cf223454cbc7bc6f1fb7b02724322de72e3d67f975687fce01c85af5b",
+      "correcao": "Somente metadata numero/titulo e H1 gerado. Nenhuma alteração na epígrafe/corpo original. Sufixo A literal na fonte oficial, omitido no campo Drupal; não inferido por slug.",
+      "origem_retencao": "scripts/estados/manifestos/pacote-ba-deduplicacao-20261020-002.json"
+    },
+    {
+      "path": "estaduais/BA/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md",
+      "numero_anterior": "34321",
+      "numero_corrigido": "34321-A",
+      "titulo_anterior": "Decreto nº 34321, de 15/01/1987",
+      "titulo_corrigido": "Decreto nº 34321-A, de 15/01/1987",
+      "epigrafe_literal": "DECRETO Nº 34.321-A DE 15 DE JANEIRO DE 1987",
+      "sha256_md_anterior": "5e5f12e1b839e8a41dbfb020981cb78b0084ebd6a7774fe820b3e30b7566d3ad",
+      "sha256_md": "42fa75d6f9f5b7231fec3ab9a403a0d9a0e8fd2ae2dd93dd8a775627941fdbe8",
+      "backup": "estaduais/BA/_fonte/auditorias/metadata-sufixos-20261020/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md.gz",
+      "sha256_backup": "23605d00fc85f50e1bbfd157875991197b13080b38b4c35cffa4eb1e0d9835a5",
+      "sha256_normativo_inalterado": "44e963e8ab8cd6d52ab31e6d7ff5f861506c3d3eff7a828b9c65d9203047f5ae",
+      "cache": "estaduais/BA/_fonte/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.html.gz",
+      "sha256_fonte": "f168b9f2b9be1e21c908bafa50d3a4ea9473977a4a3a1572b6acc06f7a2bf567",
+      "correcao": "Somente metadata numero/titulo e H1 gerado. Nenhuma alteração na epígrafe/corpo original. Sufixo A literal na fonte oficial, omitido no campo Drupal; não inferido por slug.",
+      "origem_retencao": "scripts/estados/manifestos/pacote-ba-deduplicacao-20261020-002.json"
+    }
+  ],
+  "coletor_corrigido": "scripts/estados/ba.py",
+  "teste": "test_ba_numero_epigrafe.py: 3 testes passaram"
+}

@@ -1,0 +1,48 @@
+{
+  "preparado_em": "2026-10-21T06:51:08.205961-03:00",
+  "valores_omitidos": 8,
+  "omissoes": [
+    {
+      "arquivo_original": "scripts/estados/manifestos/rn-indice-retomada-20261021-001.json",
+      "caminho_JSON": "/capturas/1/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/rn-indice-retomada-20261021-001.json",
+      "caminho_JSON": "/capturas/2/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/rn-indice-retomada-20261021-001.json",
+      "caminho_JSON": "/capturas/3/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/rn-indice-retomada-20261021-001.json",
+      "caminho_JSON": "/capturas/4/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/estaduais-agregado-rn-am-go-20261021-001.json",
+      "caminho_JSON": "/fontes_indices_primarias/1/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/estaduais-agregado-rn-am-go-20261021-001.json",
+      "caminho_JSON": "/fontes_indices_primarias/2/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/estaduais-agregado-rn-am-go-20261021-001.json",
+      "caminho_JSON": "/fontes_indices_primarias/3/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    },
+    {
+      "arquivo_original": "scripts/estados/manifestos/estaduais-agregado-rn-am-go-20261021-001.json",
+      "caminho_JSON": "/fontes_indices_primarias/4/headers/Set-Cookie",
+      "header": "Set-Cookie"
+    }
+  ],
+  "originais_privados_preservados": true,
+  "fontes_primarias_inalteradas": true
+}
