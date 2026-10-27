@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000053"
+uf: "SC"
+tipo: "Decreto"
+numero: "53"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35327"
+baixado_em: 2026-10-15
+---
+# DEC-000053
+
+DEC-000053
+
+ORIGEM EXECUTIVO. DEC-000053 04/05/1987 VIG 05/05/1987 STATUS VIGENTE FONTE PUB DOSC 05/05/1987 PAG 002. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. BRAZ PEREIRA DE CASTILHOS. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, LAGES, (SC). CATALOGOPENSÕES.

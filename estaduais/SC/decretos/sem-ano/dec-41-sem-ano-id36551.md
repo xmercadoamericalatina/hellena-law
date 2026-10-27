@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000041"
+uf: "SC"
+tipo: "Decreto"
+numero: "41"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36551"
+baixado_em: 2026-10-15
+---
+# DEC-000041
+
+DEC-000041
+
+ORIGEM EXECUTIVO. DEC-000041 26/08/1957 VIG 14/10/1957 FONTE PUB DOSC 14/10/1957 PAG 002. EMENTA CRIA FUNÇÕES GRATIFICADAS NA DIRETORIA DE OBRAS PUBLICAS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, DIRETORIA, OBRA PUBLICA, (SC). CATALOGOPESSOAL.

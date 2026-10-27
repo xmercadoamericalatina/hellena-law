@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000342"
+uf: "SC"
+tipo: "Decreto"
+numero: "342"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35488"
+baixado_em: 2026-10-15
+---
+# DEC-000342
+
+DEC-000342
+
+ORIGEM EXECUTIVO. DEC-000342 31/07/1987 VIG 11/05/1987 STATUS VIGENTE FONTE PUB DOSC 03/08/1987 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE EX-VEREADOR. MARIANGELA DE OLIVEIRA MORAES. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX VEREADOR, MUNICIPIO, LAGUNA, (SC). CATALOGOPENSÕES.

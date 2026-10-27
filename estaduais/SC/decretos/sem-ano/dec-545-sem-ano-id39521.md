@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000545"
+uf: "SC"
+tipo: "Decreto"
+numero: "545"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39521"
+baixado_em: 2026-10-15
+---
+# DEC-000545
+
+DEC-000545
+
+ORIGEM EXECUTIVO. DEC-000545 17/09/1999 VIG 17/09/1999 STATUS VIGENTE FONTE PUB DOSC 17/09/1999 PAG 005. EMENTA ABRE CREDITO SUPLEMENTAR EM FAVOR DO INSTITUTO DE PREVIDENCIA DO ESTADO DE SANTA CATARINA. IPESC CATALOGOORÇAMENTO.

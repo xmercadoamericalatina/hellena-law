@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004484"
+uf: "SC"
+tipo: "Decreto"
+numero: "4484"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38631"
+baixado_em: 2026-10-15
+---
+# DEC-004484
+
+DEC-004484
+
+ORIGEM EXECUTIVO. DEC-004484 26/12/1989 VIG 01/01/1990 STATUS VIGENTE FONTE PUB DOSC 26/12/1989 PAG 008. EMENTA INTRODUZ AS ALTERAÇÕES 188 A 190 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

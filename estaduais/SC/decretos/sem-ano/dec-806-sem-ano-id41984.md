@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000806"
+uf: "SC"
+tipo: "Decreto"
+numero: "806"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41984"
+baixado_em: 2026-10-15
+---
+# DEC-000806
+
+DEC-000806
+
+ORIGEM EXECUTIVO. DEC-000806 15/04/1996 VIG 15/04/1996 STATUS VIGENTE FONTE PUB DOSC 15/04/1996 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 1359 A 1367 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

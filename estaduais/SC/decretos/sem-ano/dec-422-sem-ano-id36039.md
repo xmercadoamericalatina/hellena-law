@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000422"
+uf: "SC"
+tipo: "Decreto"
+numero: "422"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36039"
+baixado_em: 2026-10-15
+---
+# DEC-000422
+
+DEC-000422
+
+ORIGEM EXECUTIVO. DEC-000422 12/07/1963 VIG 16/07/1963 STATUS VIGENTE FONTE PUB DOSC 16/07/1963 PAG 003. EMENTA EXTINQUE CARGOS PUBLICOS. INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, EXECUTIVO, LOTAÇÃO, CONSULTORIA JURIDICA, ESTADO, (SC). CATALOGOPESSOAL.

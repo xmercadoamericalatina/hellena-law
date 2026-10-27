@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002916"
+uf: "SC"
+tipo: "Decreto"
+numero: "2916"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40385"
+baixado_em: 2026-10-15
+---
+# DEC-002916
+
+DEC-002916
+
+ORIGEM EXECUTIVO. DEC-002916 29/05/1998 VIG 29/05/1998 STATUS VIGENTE FONTE PUB DOSC 29/05/1998 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, PONTE ALTA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

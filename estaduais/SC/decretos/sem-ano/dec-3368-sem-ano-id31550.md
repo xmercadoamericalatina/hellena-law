@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003368"
+uf: "SC"
+tipo: "Decreto"
+numero: "3368"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31550"
+baixado_em: 2026-10-15
+---
+# DEC-003368
+
+DEC-003368
+
+ORIGEM EXECUTIVO. DEC-003368 18/11/1998 VIG 18/11/1998 STATUS VIGENTE FONTE PUB DOSC 18/11/1998 PAG 001. EMENTA AUTORIZA O FUNCIONAMENTO DA EDUCAÇÃO INFANTIL - FAIXA ETARIA DE 0 (ZERO) A 6 (SEIS) ANOS NA ESCOLA MUNDO NOVO - MUNICIPIO BRAÇO DO NORTE. CATALOGOENSINO.

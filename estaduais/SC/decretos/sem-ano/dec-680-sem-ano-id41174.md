@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000680"
+uf: "SC"
+tipo: "Decreto"
+numero: "680"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41174"
+baixado_em: 2026-10-15
+---
+# DEC-000680
+
+DEC-000680
+
+ORIGEM EXECUTIVO. DEC-000680 12/02/1996 VIG 13/02/1996 STATUS VIGENTE FONTE PUB DOSC 13/02/1996 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. FUNDAÇÃO IRMÃ VERA. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, ENTIDADE, MUNICIPIO, LAGUNA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

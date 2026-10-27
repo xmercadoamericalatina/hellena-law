@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004607"
+uf: "SC"
+tipo: "Decreto"
+numero: "4607"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37856"
+baixado_em: 2026-10-15
+---
+# DEC-004607
+
+DEC-004607
+
+ORIGEM EXECUTIVO. DEC-004607 06/02/1990 VIG 07/02/1990 STATUS VIGENTE FONTE PUB DOSC 07/02/1990 PAG 002. EMENTA INTRODUZ AS ALTERAÇÕES 217 A 229 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001438"
+uf: "SC"
+tipo: "Decreto"
+numero: "1438"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36005"
+baixado_em: 2026-10-15
+---
+# DEC-001438
+
+DEC-001438
+
+ORIGEM EXECUTIVO. DEC-001438 14/06/1962 VIG 15/06/1962 STATUS VIGENTE FONTE PUB DOSC 15/06/1962 PAG 001. EMENTA DA NOVA REDAÇÃO AO ART 5, DO DEC GP 17/01/62/944. INDEXACAALTERAÇÃO, APROVAÇÃO, TABELA, VENCIMENTOS, FUNÇÃO, PESSOAL, GABINETE, PLANEJAMENTO, GOVERNO ESTADUAL, (SC). CATALOGOPESSOAL.

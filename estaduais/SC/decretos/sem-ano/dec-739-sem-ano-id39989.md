@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000739"
+uf: "SC"
+tipo: "Decreto"
+numero: "739"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39989"
+baixado_em: 2026-10-15
+---
+# DEC-000739
+
+DEC-000739
+
+ORIGEM EXECUTIVO. DEC-000739 03/12/1999 VIG 06/12/1999 STATUS VIGENTE FONTE PUB DOSC 06/12/1999 PAG 004. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, CORPO DE BOMBEIROS, MUNICIPIO, FRAIBURGO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

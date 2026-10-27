@@ -1,0 +1,16 @@
+---
+titulo: "DEC-031720"
+uf: "SC"
+tipo: "Decreto"
+numero: "31720"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33819"
+baixado_em: 2026-10-15
+---
+# DEC-031720
+
+DEC-031720
+
+ORIGEM EXECUTIVO. DEC-031720 11/03/1987 VIG 05/05/1986 STATUS VIGENTE FONTE PUB DOSC 12/03/1987 PAG 008. EMENTA CONCEDE PENSÃO A SANTINA MACHADO DE CARVALHO NA CONDIÇÃO DE VIUVA DE EX-SERVIDOR. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX SERVIDOR, MUNICIPIO, SOMBRIO, (SC). CATALOGOPENSÕES.

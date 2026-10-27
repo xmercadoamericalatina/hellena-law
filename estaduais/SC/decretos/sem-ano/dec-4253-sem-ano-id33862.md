@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004253"
+uf: "SC"
+tipo: "Decreto"
+numero: "4253"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33862"
+baixado_em: 2026-10-15
+---
+# DEC-004253
+
+DEC-004253
+
+ORIGEM EXECUTIVO. DEC-004253 27/06/1966 VIG 14/07/1966 STATUS VIGENTE FONTE PUB DOSC 14/07/1966 PAG 001. EMENTA MODIFICA TABELA DE FUNÇÕES GRATIFICADAS. INDEXACAALTERAÇÃO, TABELA, FUNÇÃO GRATIFICADA, DEPARTAMENTO, GEOGRAFIA, CARTOGRAFIA, ESTADO, (SC). CATALOGOPESSOAL.

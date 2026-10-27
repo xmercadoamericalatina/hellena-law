@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004499"
+uf: "SC"
+tipo: "Decreto"
+numero: "4499"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39653"
+baixado_em: 2026-10-15
+---
+# DEC-004499
+
+DEC-004499
+
+ORIGEM EXECUTIVO. DEC-004499 28/12/1989 VIG 28/12/1989 STATUS VIGENTE FONTE PUB DOSC 28/12/1989 PAG 002. EMENTA INTRODUZ AS ALTERAÇÕES 191 A 201 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

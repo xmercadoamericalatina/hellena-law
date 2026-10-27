@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001392"
+uf: "SC"
+tipo: "Decreto"
+numero: "1392"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35876"
+baixado_em: 2026-10-15
+---
+# DEC-001392
+
+DEC-001392
+
+ORIGEM EXECUTIVO. DEC-001392 05/12/1996 VIG 05/12/1996 STATUS VIGENTE FONTE PUB DOSC 05/12/1996 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 1456 A 1465 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

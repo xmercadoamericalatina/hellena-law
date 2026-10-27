@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000065"
+uf: "SC"
+tipo: "Decreto"
+numero: "65"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34419"
+baixado_em: 2026-10-15
+---
+# DEC-000065
+
+DEC-000065
+
+ORIGEM EXECUTIVO. DEC-000065 19/02/1957 VIG 22/02/1957 FONTE PUB DOSC 22/02/1957 PAG 001. EMENTA FIXA DIARIAS AOS MEMBROS DO MINISTERIO PUBLICA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, DIARIAS, MEMBROS, MINISTERIO PUBLICO, (SC). CATALOGODIARIAS.

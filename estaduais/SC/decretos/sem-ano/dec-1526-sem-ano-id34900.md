@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001526"
+uf: "SC"
+tipo: "Decreto"
+numero: "1526"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34900"
+baixado_em: 2026-10-15
+---
+# DEC-001526
+
+DEC-001526
+
+ORIGEM EXECUTIVO. DEC-001526 26/04/1988 VIG 27/04/1988 STATUS VIGENTE FONTE PUB DISC 27/04/1988 PAG 001. EMENTA INTRODUZ A ALTERAÇÃO 117 NO REGULAMENTO DO ICM E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICM), (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

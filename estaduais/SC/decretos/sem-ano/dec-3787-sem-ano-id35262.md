@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003787"
+uf: "SC"
+tipo: "Decreto"
+numero: "3787"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35262"
+baixado_em: 2026-10-15
+---
+# DEC-003787
+
+DEC-003787
+
+ORIGEM EXECUTIVO. DEC-003787 22/01/1947 VIG 30/01/1947 FONTE PUB DOSC 30/01/1947 PAG 001. EMENTA SUPRIME CARGOS NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

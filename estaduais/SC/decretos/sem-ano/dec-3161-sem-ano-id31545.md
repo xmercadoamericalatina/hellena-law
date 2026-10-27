@@ -1,0 +1,17 @@
+---
+titulo: "DEC-003161"
+uf: "SC"
+tipo: "Decreto"
+numero: "3161"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31545"
+baixado_em: 2026-10-15
+---
+# DEC-003161
+
+DEC-003161
+
+ORIGEM EXECUTIVO. DEC-003161 31/08/1998 VIG 31/08/1998 A 12/01/1999 STATUS REVOGADA FONTE PUB DOSC 31/08/1998 PAG 001. EMENTA INTRODUZ A ALTERAÇÃO 175 AO RICMS/97. VIDE  
+DEC-000012/99 DOSC 12/01/1999 PAG 001 REVOGAÇÃO. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

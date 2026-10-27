@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001352"
+uf: "SC"
+tipo: "Decreto"
+numero: "1352"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35909"
+baixado_em: 2026-10-15
+---
+# DEC-001352
+
+DEC-001352
+
+ORIGEM EXECUTIVO. DEC-001352 20/11/1996 VIG 20/11/1996 STATUS VIGENTE FONTE PUB DOSC 20/11/1996 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, MODELO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

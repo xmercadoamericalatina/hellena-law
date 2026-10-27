@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000341"
+uf: "SC"
+tipo: "Decreto"
+numero: "341"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34983"
+baixado_em: 2026-10-15
+---
+# DEC-000341
+
+DEC-000341
+
+ORIGEM EXECUTIVO. DEC-000341 31/07/1987 VIG 03/04/1987 STATUS VIGENTE FONTE PUB DOSC 03/08/1987 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE EX-VEREADOR. AMERICA ARNALDO BENDER RITTER. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX VEREADOR, MUNICIPIO, IPIRA, (SC). CATALOGOPENSÕES.

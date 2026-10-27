@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001044"
+uf: "SC"
+tipo: "Decreto"
+numero: "1044"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40469"
+baixado_em: 2026-10-15
+---
+# DEC-001044
+
+DEC-001044
+
+ORIGEM EXECUTIVO. DEC-001044 08/07/1996 VIG 08/07/1996 STATUS VIGENTE FONTE PUB DOSC 08/07/1996 PAG 013. EMENTA INTRODUZ AS ALTERAÇÕES 1433 A 1436 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

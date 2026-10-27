@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000273"
+uf: "SC"
+tipo: "Decreto"
+numero: "273"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31684"
+baixado_em: 2026-10-15
+---
+# DEC-000273
+
+DEC-000273
+
+ORIGEM EXECUTIVO. DEC-000273 16/07/1948 VIG 19/07/1948 STATUS VIGENTE FONTE PUB DOSC 19/07/1948 PAG 001. EMENTA EXTINGUE, NO QUADRO UNICO DO ESTADO, UM CARGO DE ALMOXARIFE. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAEXTINÇÃO, CARGO, ALMOXARIFE, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

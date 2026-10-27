@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000703"
+uf: "SC"
+tipo: "Decreto"
+numero: "703"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34053"
+baixado_em: 2026-10-15
+---
+# DEC-000703
+
+DEC-000703
+
+ORIGEM EXECUTIVO. DEC-000703 18/05/1976 VIG 24/05/1976 STATUS VIGENTE FONTE PUB DOSC 24/05/1976 PAG 01 . EMENTA SUSPENDE ATOS QUE IMPLIQUEM MOVIMENTAÇÃO DE PROFESSORES. INDEXACASUSPENÇÃO, MOVIMENTAÇÃO, PROFESSOR, MAGISTERIO, (SC). CATALOGOPESSOAL, MAGISTERIO.

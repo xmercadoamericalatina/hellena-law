@@ -1,0 +1,16 @@
+---
+titulo: "DEC-022175"
+uf: "SC"
+tipo: "Decreto"
+numero: "22175"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30915"
+baixado_em: 2026-10-15
+---
+# DEC-022175
+
+DEC-022175
+
+ORIGEM EXECUTIVO. DEC-022175 01/06/1984 VIG 04/06/1984 STATUS VIGENTE FONTE PUB DOSC 04/06/1984 PAG 005. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, SEDE, MUNICIPIO, PALHOÇA, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000134"
+uf: "SC"
+tipo: "Decreto"
+numero: "134"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31606"
+baixado_em: 2026-10-15
+---
+# DEC-000134
+
+DEC-000134
+
+ORIGEM EXECUTIVO. DEC-000134 12/04/1999 VIG 12/04/1999 STATUS VIGENTE FONTE PUB DOSC 12/04/1999 PAG 004. EMENTA AUTORIZA O FUNCIONAMENTO DE CURSOS DE ENSINO MEDIO E PROFISSIONALIZANTE NO SISTEMA ESTADUAL DE ENSINO. CATALOGOENSINO.

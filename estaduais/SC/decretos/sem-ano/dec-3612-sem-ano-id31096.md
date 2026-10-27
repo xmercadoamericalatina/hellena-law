@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003612"
+uf: "SC"
+tipo: "Decreto"
+numero: "3612"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31096"
+baixado_em: 2026-10-15
+---
+# DEC-003612
+
+DEC-003612
+
+ORIGEM EXECUTIVO. DEC-003612 23/12/1998 VIG 23/12/1998 STATUS VIGENTE FONTE PUB DOSC 23/12/1998 PAG 014. EMENTA RECONHECE O CURSO TECNICO DE AGROPECUARIA, NA AGROTECNICA MUNICIPAL IRINEU BORNHAUSEN, NO MUNICIPIO DE ABELARDO LUZ. CATALOGOENSINO.

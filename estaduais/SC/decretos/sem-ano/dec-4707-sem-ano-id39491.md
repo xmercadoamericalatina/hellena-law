@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004707"
+uf: "SC"
+tipo: "Decreto"
+numero: "4707"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39491"
+baixado_em: 2026-10-15
+---
+# DEC-004707
+
+DEC-004707
+
+ORIGEM EXECUTIVO. DEC-004707 19/04/1990 VIG 20/04/1990 STATUS VIGENTE FONTE PUB DOSC 20/04/1990 PAG 003. EMENTA INTRODUZ AS ALTERAÇÕES 254 A 259 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

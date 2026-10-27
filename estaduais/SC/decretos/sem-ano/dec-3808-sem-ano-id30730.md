@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003808"
+uf: "SC"
+tipo: "Decreto"
+numero: "3808"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30730"
+baixado_em: 2026-10-15
+---
+# DEC-003808
+
+DEC-003808
+
+ORIGEM EXECUTIVO. DEC-003808 13/02/1947 VIG 21/02/1947 STATUS VIGENTE FONTE PUB DOSC 21/02/1947 PAG 001. EMENTA CRIA ESCOLA MISTA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, ESTABELECIMENTO DE ENSINO, DISTRITO, CAPÃO ALTO, MUNICIPIO, LAGES, (SC). CATALOGOOBRA PUBLICA.

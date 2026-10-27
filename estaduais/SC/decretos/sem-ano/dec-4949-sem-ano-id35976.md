@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004949"
+uf: "SC"
+tipo: "Decreto"
+numero: "4949"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35976"
+baixado_em: 2026-10-15
+---
+# DEC-004949
+
+DEC-004949
+
+ORIGEM EXECUTIVO. DEC-004949 13/06/1990 VIG 05/04/1990 STATUS VIGENTE FONTE PUB DOSC 18/06/1990 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE PREFEITO. ZENIR SANTOS DE LIZ. INDEXACACONCESSÃO, PENSÕES, VIUVA, PREFEITO, MUNICIPIO, PONTE ALTA, (SC). CATALOGOPENSÕES.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001348"
+uf: "SC"
+tipo: "Decreto"
+numero: "1348"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37613"
+baixado_em: 2026-10-15
+---
+# DEC-001348
+
+DEC-001348
+
+ORIGEM EXECUTIVO. DEC-001348 12/02/1988 VIG 17/02/1988 STATUS VIGENTE FONTE PUB DOSC 17/02/1988 PAG 002. EMENTA INTRODUZ AS ALTERAÇÕES 96 A 112 NO REGULAMENTO DO ICM E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICM), (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

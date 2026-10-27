@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000857"
+uf: "SC"
+tipo: "Decreto"
+numero: "857"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39916"
+baixado_em: 2026-10-15
+---
+# DEC-000857
+
+DEC-000857
+
+ORIGEM EXECUTIVO. DEC-000857 08/05/1996 VIG 09/05/1996 STATUS VIGENTE FONTE PUB DOSC 09/05/1996 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, TROBUNDO CENTRAL, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

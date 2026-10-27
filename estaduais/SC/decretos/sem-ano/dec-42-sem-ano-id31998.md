@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000042"
+uf: "SC"
+tipo: "Decreto"
+numero: "42"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31998"
+baixado_em: 2026-10-15
+---
+# DEC-000042
+
+DEC-000042
+
+ORIGEM EXECUTIVO. DEC-000042 09/02/1999 VIG 09/02/1999 STATUS VIGENTE FONTE PUB DOSC 09/02/1999 PAG 001. EMENTA DECRETA LUTO OFICIAL. GERALDO WERNINGHAUS. INDEXACADECRETAÇÃO, LUTO OFICIAL, FALECIMENTO, EX PREFEITO. CATALOGOLUTO OFICIAL.

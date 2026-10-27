@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002886"
+uf: "SC"
+tipo: "Decreto"
+numero: "2886"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42144"
+baixado_em: 2026-10-15
+---
+# DEC-002886
+
+DEC-002886
+
+ORIGEM EXECUTIVO. DEC-002886 18/05/1998 VIG 18/05/1998 STATUS VIGENTE FONTE PUB DOSC 18/05/1998 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, SANTA ROSA DO SUL, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

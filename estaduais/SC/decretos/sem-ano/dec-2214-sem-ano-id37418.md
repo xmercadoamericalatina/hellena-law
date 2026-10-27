@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002214"
+uf: "SC"
+tipo: "Decreto"
+numero: "2214"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37418"
+baixado_em: 2026-10-15
+---
+# DEC-002214
+
+DEC-002214
+
+ORIGEM EXECUTIVO. DEC-002214 19/09/1988 VIG 20/09/1988 STATUS VIGENTE FONTE PUB DOSC 20/09/1988 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 179 A 182 NO REGULAMENTO DO ICM E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICM), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

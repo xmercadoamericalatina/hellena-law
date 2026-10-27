@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000096"
+uf: "SC"
+tipo: "Decreto"
+numero: "96"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32521"
+baixado_em: 2026-10-15
+---
+# DEC-000096
+
+DEC-000096
+
+ORIGEM EXECUTIVO. DEC-000096 25/09/1947 VIG 29/09/1947 STATUS VIGENTE FONTE PUB DOSC 29/09/1947 PAG 001. EMENTA ALTERA A T.N.M. DA DIRETORIA DA JUSTIÇA E SAUDE. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, DIRETORIA, JUSTIÇA, SAUDE, (SC). CATALOGOPESSOAL.

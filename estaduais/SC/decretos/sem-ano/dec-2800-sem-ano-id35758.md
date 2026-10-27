@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002800"
+uf: "SC"
+tipo: "Decreto"
+numero: "2800"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35758"
+baixado_em: 2026-10-15
+---
+# DEC-002800
+
+DEC-002800
+
+ORIGEM EXECUTIVO. DEC-002800 25/05/1965 VIG 02/06/1965 STATUS VIGENTE FONTE PUB DOSC 02/06/1965 PAG 002. EMENTA MODIFICA TABELA DAS FUNÇÕES GRATIFICADAS. INDEXACAALTERAÇÃO, TABELA, FUNÇÃO GRATIFICADA, DIRETORIA, OBRA PUBLICA, ESTADO, (SC). CATALOGOPESSOAL.

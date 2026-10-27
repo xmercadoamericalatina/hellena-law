@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003375"
+uf: "SC"
+tipo: "Decreto"
+numero: "3375"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40217"
+baixado_em: 2026-10-15
+---
+# DEC-003375
+
+DEC-003375
+
+ORIGEM EXECUTIVO. DEC-003375 01/06/1989 VIG 12/05/1989 STATUS VIGENTE FONTE PUB DOSC 02/06/1989 PAG 003. EMENTA INTRODUZ AS ALTERAÇÕES 30 A 32 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÕES, REGULAMENTO, (ICMS), (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

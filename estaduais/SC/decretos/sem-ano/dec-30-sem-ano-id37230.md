@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000030"
+uf: "SC"
+tipo: "Decreto"
+numero: "30"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37230"
+baixado_em: 2026-10-15
+---
+# DEC-000030
+
+DEC-000030
+
+ORIGEM EXECUTIVO. DEC-000030 30/06/1960 VIG 04/07/1960 STATUS VIGENTE FONTE PUB DOSC 04/07/1960 PAG 001. EMENTA VEDA ADMISSÕES OU NOMEAÇÕES PELO ESTADO. (EMENTA ELABORADA PELA SEA) INDEXACAPROIBIÇÃO, ADMISSÃO, NOMEAÇÃO, FUNCIONARIO PUBLICO, (SC). CATALOGOPESSOAL.

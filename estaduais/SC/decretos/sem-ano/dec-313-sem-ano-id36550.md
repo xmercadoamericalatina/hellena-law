@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000313"
+uf: "SC"
+tipo: "Decreto"
+numero: "313"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36550"
+baixado_em: 2026-10-15
+---
+# DEC-000313
+
+DEC-000313
+
+ORIGEM EXECUTIVO. DEC-000313 29/07/1957 VIG 01/08/1957 FONTE PUB DOSC 30/07/1957 PAG 001. EMENTA DISPÕE SOBRE O SALARIO DOS PROFESSORES DIARISTAS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, SALARIO, PROFESSOR, DIARISTA, MAGISTERIO, (SC). CATALOGOPESSOAL, MAGISTERIO.

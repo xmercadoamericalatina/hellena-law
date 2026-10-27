@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003803"
+uf: "SC"
+tipo: "Decreto"
+numero: "3803"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32754"
+baixado_em: 2026-10-15
+---
+# DEC-003803
+
+DEC-003803
+
+ORIGEM EXECUTIVO. DEC-003803 11/02/1947 VIG 14/02/1947 STATUS VIGENTE FONTE PUB DOSC 14/02/1947 PAG 001. EMENTA CRIA DUAS ESCOLAS MISTAS. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, ESTABELECIMENTO DE ENSINO, MUNICIPIO, TUBARÃO, (SC). CATALOGOOBRA PUBLICA.

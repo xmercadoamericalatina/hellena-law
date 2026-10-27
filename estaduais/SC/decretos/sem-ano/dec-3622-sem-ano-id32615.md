@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003622"
+uf: "SC"
+tipo: "Decreto"
+numero: "3622"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32615"
+baixado_em: 2026-10-15
+---
+# DEC-003622
+
+DEC-003622
+
+ORIGEM EXECUTIVO. DEC-003622 23/12/1998 VIG 23/12/1998 STATUS VIGENTE FONTE PUB DOSC 23/12/1998 PAG 015. EMENTA AUTORIZA O FUNCIONAMENTO DA EDUCAÇÃO INFANTIL - FAIXA ETARIA DE 0 (ZERO) A 06 (SEIS) ANOS NO CENTRO DE EDUCAÇÃO INFANTIL CRIANÇA BELA - ARAQUARI. CATALOGOENSINO.

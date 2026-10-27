@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005176"
+uf: "SC"
+tipo: "Decreto"
+numero: "5176"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39007"
+baixado_em: 2026-10-15
+---
+# DEC-005176
+
+DEC-005176
+
+ORIGEM EXECUTIVO. DEC-005176 07/08/1990 VIG 08/08/1990 STATUS VIGENTE FONTE PUB DOSC 08/08/1990 PAG 006. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, (ACARPESC). CATALOGOPATRIMONIO.

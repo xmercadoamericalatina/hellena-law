@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001954"
+uf: "SC"
+tipo: "Decreto"
+numero: "1954"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39925"
+baixado_em: 2026-10-15
+---
+# DEC-001954
+
+DEC-001954
+
+ORIGEM EXECUTIVO. DEC-001954 24/06/1997 VIG 24/06/1997 STATUS VIGENTE FONTE PUB DOSC 24/06/1997 PAG 006. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, XAXIM, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

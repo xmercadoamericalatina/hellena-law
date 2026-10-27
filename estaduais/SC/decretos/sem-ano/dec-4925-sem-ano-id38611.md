@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004925"
+uf: "SC"
+tipo: "Decreto"
+numero: "4925"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38611"
+baixado_em: 2026-10-15
+---
+# DEC-004925
+
+DEC-004925
+
+ORIGEM EXECUTIVO. DEC-004925 11/06/1990 VIG 12/06/1990 STATUS VIGENTE FONTE PUB DOSC 12/06/1990 PAG 005. EMENTA INTRODUZ A ALTERAÇÃO 273 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-024149"
+uf: "SC"
+tipo: "Decreto"
+numero: "24149"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35062"
+baixado_em: 2026-10-15
+---
+# DEC-024149
+
+DEC-024149
+
+ORIGEM EXECUTIVO. DEC-024149 23/11/1984 VIG 26/11/1984 STATUS VIGENTE FONTE PUB DOSC 26/11/1984 PAG 004. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, MUNICIPIO, IRANI, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

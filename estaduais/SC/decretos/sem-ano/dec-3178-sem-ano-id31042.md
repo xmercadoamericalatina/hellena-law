@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003178"
+uf: "SC"
+tipo: "Decreto"
+numero: "3178"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31042"
+baixado_em: 2026-10-15
+---
+# DEC-003178
+
+DEC-003178
+
+ORIGEM EXECUTIVO. DEC-003178 14/09/1998 VIG 14/09/1998 STATUS VIGENTE FONTE PUB DOSC 14/09/1998 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, HERVAL D'OESTE, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

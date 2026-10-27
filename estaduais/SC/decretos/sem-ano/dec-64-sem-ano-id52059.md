@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000064"
+uf: "SC"
+tipo: "Decreto"
+numero: "64"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/52059"
+baixado_em: 2026-10-15
+---
+# DEC-000064
+
+DEC-000064
+
+ORIGEM EXECUTIVO. DEC-000064 02/02/1976 VIG 05/02/1976 STATUS REVOGADA FONTE PUB DOSC 05/02/1976 PAG 001 EMENTA AUTORIZA A AQUISIÇÃO DE IMOVEL POR PERMUTA. OBSER INDEXACAAUTORIZAÇÃO, (DER), (SC), PERMUTA, IMOVEL, TERRENO, MUNICIPIO, LAGES, (SC), DESTINAÇÃO, INSTALAÇÃO, (DER), (SC). CATALOGOPATRIMONIO, BENS IMOVEIS.

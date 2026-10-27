@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000056"
+uf: "SC"
+tipo: "Decreto"
+numero: "56"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34262"
+baixado_em: 2026-10-15
+---
+# DEC-000056
+
+DEC-000056
+
+ORIGEM EXECUTIVO. DEC-000056 21/03/1947 VIG 24/03/1947 FONTE PUB DOSC 24/03/1947 PAG 001. EMENTA ELEVA REFERENCIA DE SALARIO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAALTERAÇÃO, REFERENCIA, SALARIO, PESSOAL, SECRETARIA DE FAZENDA, (SC). CATALOGOPESSOAL.

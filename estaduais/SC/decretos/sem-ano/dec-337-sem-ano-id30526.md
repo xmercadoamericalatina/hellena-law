@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000337"
+uf: "SC"
+tipo: "Decreto"
+numero: "337"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30526"
+baixado_em: 2026-10-15
+---
+# DEC-000337
+
+DEC-000337
+
+ORIGEM EXECUTIVO. DEC-000337 28/09/1948 VIG 28/09/1948 STATUS VIGENTE FONTE PUB DOSC 28/09/1948 PAG 001. EMENTA SUPRIME, NO QUADRO UNICO DO ESTADO, UM CARGO DE PROFESSOR. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACASUPRESSÃO, CARGO, PROFESSOR, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

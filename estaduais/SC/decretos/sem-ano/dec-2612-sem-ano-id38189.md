@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002612"
+uf: "SC"
+tipo: "Decreto"
+numero: "2612"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38189"
+baixado_em: 2026-10-15
+---
+# DEC-002612
+
+DEC-002612
+
+ORIGEM EXECUTIVO. DEC-002612 29/11/1988 VIG 30/11/1988 STATUS VIGENTE FONTE PUB DOSC 30/11/1988 PAG 001. EMENTA INTRODUZ AS ALTERAº{ES 183 A 197 NO REGULAMENTO DO ICM E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAº`O, REGULAMENTO, (ICM), (SC). CATALOGOLEGISLAº`O TRIBUTARIA.

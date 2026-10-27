@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000633"
+uf: "SC"
+tipo: "Decreto"
+numero: "633"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35417"
+baixado_em: 2026-10-15
+---
+# DEC-000633
+
+DEC-000633
+
+ORIGEM EXECUTIVO. DEC-000633 30/06/1955 VIG 04/07/1955 FONTE PUB DOSC 04/07/1955 PAG 001. EMENTA MODIFICA ESCALA DE SALARIO DAS SERIES FUNCIONAIS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAALTERAÇÃO, ESCALA, SALARIO, EXTRANUMERARIO MENSALISTA, ESTADO, (SC). CATALOGOPESSOAL.

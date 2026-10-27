@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005213"
+uf: "SC"
+tipo: "Decreto"
+numero: "5213"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38016"
+baixado_em: 2026-10-15
+---
+# DEC-005213
+
+DEC-005213
+
+ORIGEM EXECUTIVO. DEC-005213 09/08/1990 VIG 09/08/1990 STATUS VIGENTE FONTE PUB DOSC 09/08/1990 PAG 011. EMENTA AUTORIZA A DOAÇÃO DE BENS MOVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, BENS MOVEIS, PREFEITURA MUNICIPAL, URUPEMA, (SC). CATALOGOPATRIMONIO.

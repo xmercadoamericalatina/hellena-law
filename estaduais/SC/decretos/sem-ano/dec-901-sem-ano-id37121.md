@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000901"
+uf: "SC"
+tipo: "Decreto"
+numero: "901"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37121"
+baixado_em: 2026-10-15
+---
+# DEC-000901
+
+DEC-000901
+
+ORIGEM EXECUTIVO. DEC-000901 12/11/1963 VIG 21/11/1963 STATUS VIGENTE FONTE PUB DOSC 21/11/1963 PAG 001. EMENTA FIXA AS GRATIFICAÇÕES DOS MEMBROS DO CONSELHO RODOVIARIO DO ESTADO. INDEXACAFIXAÇÃO, VALOR, JETON, MEMBROS, CONSELHO RODOVIARIO, ESTADO, (SC). CATALOGOPESSOAL.

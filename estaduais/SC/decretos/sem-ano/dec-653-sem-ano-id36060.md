@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000653"
+uf: "SC"
+tipo: "Decreto"
+numero: "653"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36060"
+baixado_em: 2026-10-15
+---
+# DEC-000653
+
+DEC-000653
+
+ORIGEM EXECUTIVO. DEC-000653 12/08/1958 VIG 14/08/1958 FONTE PUB DOSC 14/08/1958 PAG 001. EMENTA CRIA FUNÇÃO GRATIFICADA NO TESOURO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

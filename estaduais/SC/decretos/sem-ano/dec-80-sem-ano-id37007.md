@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000080"
+uf: "SC"
+tipo: "Decreto"
+numero: "80"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37007"
+baixado_em: 2026-10-15
+---
+# DEC-000080
+
+DEC-000080
+
+ORIGEM EXECUTIVO. DEC-000080 05/02/1963 VIG 05/02/1963 STATUS VIGENTE FONTE PUB DOSC 05/02/1963 PAG 002. EMENTA MODIFICA NIVEIS DE FUNÇÃO GRATIFICADA. INDEXACAALTERAÇÃO, PADRÃO, FUNÇÃO GRATIFICADA, DIRETORIA, INTERIOR, JUSTIÇA, SECRETARIA DO INTERIOR E JUSTIÇA, (SC). CATALOGOPESSOAL.

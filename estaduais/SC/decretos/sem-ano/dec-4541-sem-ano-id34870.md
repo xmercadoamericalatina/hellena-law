@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004541"
+uf: "SC"
+tipo: "Decreto"
+numero: "4541"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34870"
+baixado_em: 2026-10-15
+---
+# DEC-004541
+
+DEC-004541
+
+ORIGEM EXECUTIVO. DEC-004541 06/09/1966 VIG 12/09/1966 STATUS VIGENTE FONTE PUB DOSC 12/09/1966 PAG 001. EMENTA FIXA GRATIFICAÇÃO. NOTA:(EMENTA ELABORADA PELA SEA). INDEXACAFIXAÇÃO, VALOR, JETON, MEMBROS, CONSELHO CONSULTIVO, COMISSÃO, ENERGIA ELETRICA, (SC). CATALOGOPESSOAL.

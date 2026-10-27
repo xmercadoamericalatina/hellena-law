@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003338"
+uf: "SC"
+tipo: "Decreto"
+numero: "3338"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32569"
+baixado_em: 2026-10-15
+---
+# DEC-003338
+
+DEC-003338
+
+ORIGEM EXECUTIVO. DEC-003338 09/11/1998 VIG 09/11/1998 STATUS VIGENTE FONTE PUB DOSC 09/11/1998 PAG 014. EMENTA AUTORIZA O FUNCIONAMENTO DA EDUCAÇÃO INFANTIL - FAIXA ETARIA DE 3 (TRES) A 6 (SEIS) ANOS NO CENTRO DE EDUCAÇÃO INFANTIL MUNDO MAGICO - MUNICIPIO CANOINHAS. CATALOGOENSINO.

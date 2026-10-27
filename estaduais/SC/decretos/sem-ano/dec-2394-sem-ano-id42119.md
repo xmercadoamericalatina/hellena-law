@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002394"
+uf: "SC"
+tipo: "Decreto"
+numero: "2394"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42119"
+baixado_em: 2026-10-15
+---
+# DEC-002394
+
+DEC-002394
+
+ORIGEM EXECUTIVO. DEC-002394 12/11/1997 VIG 12/11/1997 STATUS VIGENTE FONTE PUB DOSC 12/11/1997 PAG 002. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, CANELINHA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

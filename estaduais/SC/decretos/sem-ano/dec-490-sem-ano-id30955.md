@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000490"
+uf: "SC"
+tipo: "Decreto"
+numero: "490"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30955"
+baixado_em: 2026-10-15
+---
+# DEC-000490
+
+DEC-000490
+
+ORIGEM EXECUTIVO. DEC-000490 17/05/1949 VIG 18/05/1949 STATUS VIGENTE FONTE PUB DOSC 18/05/1949 PAG 001. EMENTA SUPRIME, NO QUADRO UNICO DO ESTADO, UM CARGO DE CONTINUO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACASUPRESSÃO, CARGO, CONTINUO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

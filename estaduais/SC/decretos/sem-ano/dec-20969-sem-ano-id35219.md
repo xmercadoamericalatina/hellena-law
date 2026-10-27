@@ -1,0 +1,16 @@
+---
+titulo: "DEC-020969"
+uf: "SC"
+tipo: "Decreto"
+numero: "20969"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35219"
+baixado_em: 2026-10-15
+---
+# DEC-020969
+
+DEC-020969
+
+ORIGEM EXECUTIVO. DEC-020969 21/12/1983 VIG 22/12/1983 STATUS VIGENTE FONTE PUB DOSC 22/12/1983 PAG 027. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, MUNICIPIO, LEBON REGIS, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

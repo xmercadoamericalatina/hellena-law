@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002137"
+uf: "SC"
+tipo: "Decreto"
+numero: "2137"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41045"
+baixado_em: 2026-10-15
+---
+# DEC-002137
+
+DEC-002137
+
+ORIGEM EXECUTIVO. DEC-002137 25/08/1997 VIG 25/08/1997 STATUS VIGENTE FONTE PUB DOSC 25/08/1997 PAG 001. EMENTA DESIGNA DIRETOR REPRESENTANTE DO ESTADO DE SANTA CATARINA NA DIRETORIA DO BRDE. PAULO ERNANI DA CUNHA TATIM. CATALOGO(BRDE).

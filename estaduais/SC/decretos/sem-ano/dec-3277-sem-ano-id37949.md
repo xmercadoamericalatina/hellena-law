@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003277"
+uf: "SC"
+tipo: "Decreto"
+numero: "3277"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37949"
+baixado_em: 2026-10-15
+---
+# DEC-003277
+
+DEC-003277
+
+ORIGEM EXECUTIVO. DEC-003277 17/05/1989 VIG 18/05/1989 STATUS VIGENTE FONTE PUB DOSC 18/05/1989 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE MAGISTRADO. NORMA TEREZINHA ALCANTARA. INDEXACACONCESSÃO, PENSÕES, VIUVA, MAGISTRADO, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOPENSÕES.

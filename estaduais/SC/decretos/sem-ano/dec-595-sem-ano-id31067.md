@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000595"
+uf: "SC"
+tipo: "Decreto"
+numero: "595"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31067"
+baixado_em: 2026-10-15
+---
+# DEC-000595
+
+DEC-000595
+
+ORIGEM EXECUTIVO. DEC-000595 28/09/1949 VIG 05/10/1949 STATUS VIGENTE FONTE PUB DOSC 05/10/1949 PAG 001. EMENTA CRIA GRUPO ESCOLAR NO SUB-DISTRITO DE SANTA TERESA, DISTRITO DE SÃO PEDRO DE ALCANTARA, MUNICIPIO DE SÃO JOSE, (SC). (NOTA: EMENTA ELABORADA PELA SJA). CATALOGOOBRA PUBLICA.

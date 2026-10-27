@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000082"
+uf: "SC"
+tipo: "Decreto"
+numero: "82"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35349"
+baixado_em: 2026-10-15
+---
+# DEC-000082
+
+DEC-000082
+
+ORIGEM EXECUTIVO. DEC-000082 25/04/1961 VIG 26/04/1961 STATUS VIGENTE FONTE PUB DOSC 26/04/1961 PAG 001. EMENTA DISPÕE SOBRE O EXPEDIENTE DO FUNCIONARIO ESTUDANTE. INDEXACANORMAS, HORARIO DE TRABALHO, FUNCIONARIO PUBLICO, ESTUDANTE, ESTADO, (SC). CATALOGOPESSOAL.

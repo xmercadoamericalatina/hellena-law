@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004685"
+uf: "SC"
+tipo: "Decreto"
+numero: "4685"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38002"
+baixado_em: 2026-10-15
+---
+# DEC-004685
+
+DEC-004685
+
+ORIGEM EXECUTIVO. DEC-004685 19/03/1990 VIG 30/11/1989 STATUS VIGENTE FONTE PUB DOSC 19/03/1990 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE VEREADOR. NADIA MARIA LAURENTINO DA CUNHA. INDEXACACONCESSÃO, PENSÕES, VIUVA, VEREADOR, MUNICIPIO, ITAJAI, (SC). CATALOGOPENSÕES.

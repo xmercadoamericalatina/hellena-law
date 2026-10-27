@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003442"
+uf: "SC"
+tipo: "Decreto"
+numero: "3442"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37310"
+baixado_em: 2026-10-15
+---
+# DEC-003442
+
+DEC-003442
+
+ORIGEM EXECUTIVO. DEC-003442 20/06/1989 VIG 21/06/1989 STATUS VIGENTE FONTE PUB DOSC 21/06/1989 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, (DER), DOAÇÃO, MAQUINA TERRAPLENAGEM, PREFEITURA MUNICIPAL, TIMBE DO SUL, (SC). CATALOGOPATRIMONIO.

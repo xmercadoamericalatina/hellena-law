@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004622"
+uf: "SC"
+tipo: "Decreto"
+numero: "4622"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36361"
+baixado_em: 2026-10-15
+---
+# DEC-004622
+
+DEC-004622
+
+ORIGEM EXECUTIVO. DEC-004622 13/02/1990 VIG 14/02/1990 STATUS VIGENTE FONTE PUB DOSC 14/02/1990 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 230 A 253 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

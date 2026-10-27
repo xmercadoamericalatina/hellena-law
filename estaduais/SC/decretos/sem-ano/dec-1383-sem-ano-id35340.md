@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001383"
+uf: "SC"
+tipo: "Decreto"
+numero: "1383"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35340"
+baixado_em: 2026-10-15
+---
+# DEC-001383
+
+DEC-001383
+
+ORIGEM EXECUTIVO. DEC-001383 02/03/1988 VIG 03/03/1988 STATUS VIGENTE FONTE PUB DOSC 03/03/1988 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, (DER), DOAÇÃO, MAQUINA DE TERRAPLENAGEM, PREFEITURA MUNICIPAL, IMBUIA, (SC). CATALOGOPATRIMONIO.

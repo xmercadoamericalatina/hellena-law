@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001331"
+uf: "SC"
+tipo: "Decreto"
+numero: "1331"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40032"
+baixado_em: 2026-10-15
+---
+# DEC-001331
+
+DEC-001331
+
+ORIGEM EXECUTIVO. DEC-001331 12/11/1996 VIG 12/11/1996 STATUS VIGENTE FONTE PUB DOSC 12/11/1996 PAG 012. EMENTA INTRODUZ AS ALTERAÇÕES 1442 A 1445 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

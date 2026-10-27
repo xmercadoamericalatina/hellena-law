@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000771"
+uf: "SC"
+tipo: "Decreto"
+numero: "771"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34770"
+baixado_em: 2026-10-15
+---
+# DEC-000771
+
+DEC-000771
+
+ORIGEM EXECUTIVO. DEC-000771 22/08/1950 VIG 28/08/1950 FONTE PUB DOSC 28/08/1950 PAG 001. EMENTA SUPRIME CARGO NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, MOTORISTA, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

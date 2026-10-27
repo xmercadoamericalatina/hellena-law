@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000335"
+uf: "SC"
+tipo: "Decreto"
+numero: "335"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37094"
+baixado_em: 2026-10-15
+---
+# DEC-000335
+
+DEC-000335
+
+ORIGEM EXECUTIVO. DEC-000335 30/07/1987 VIG 31/07/1987 STATUS VIGENTE FONTE PUB DOSC 31/07/1987 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 9 A 27 NO RICM-SC/87. OBSER VIGENCIA: ALTERAÇÃO 18 - 30/06/87 ALTERAÇÕES 9, 12, 14, 15, 16, 17, 20, 21, 22, 23, 25 - 01/07/87. ALTERAÇÃO 13 -02/07/87. ALTERAÇÃO 24, 26 - 01/08/87. ALTERAÇÃO 27 - 01/08/87. ALTERAÇÃO 19 - 01/09/87. INDEXACA(FALTA INDEXAR). CATALOGO(FALTA CATALOGO).

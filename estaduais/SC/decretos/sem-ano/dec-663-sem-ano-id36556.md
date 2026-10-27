@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000663"
+uf: "SC"
+tipo: "Decreto"
+numero: "663"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36556"
+baixado_em: 2026-10-15
+---
+# DEC-000663
+
+DEC-000663
+
+ORIGEM EXECUTIVO. DEC-000663 18/08/1958 VIG 21/08/1958 FONTE PUB DOSC 21/08/1958 PAG 001. EMENTA CRIA FUNÇÃO GRATIFICADA NO TESOURO DO ESTADO. NOTA: EMENTA LEABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

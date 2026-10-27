@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003095"
+uf: "SC"
+tipo: "Decreto"
+numero: "3095"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35761"
+baixado_em: 2026-10-15
+---
+# DEC-003095
+
+DEC-003095
+
+ORIGEM EXECUTIVO. DEC-003095 31/08/1965 VIG 01/09/1965 STATUS VIGENTE FONTE PUB DOSC 03/09/1965 PAG 002. EMENTA FIXA A GRATIFICAÇÃO DOS MEMBROS DA COMISSÃO ESTADUAL DE ENTORPECENTES. INDEXACAFIXAÇÃO, VALOR, JETON, MEMBROS, COMISSÃO ESTADUAL, ENTORPECENTE, (SC). CATALOGOPESSOAL.

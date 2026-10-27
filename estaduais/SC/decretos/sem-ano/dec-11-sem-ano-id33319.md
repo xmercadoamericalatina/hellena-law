@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000011"
+uf: "SC"
+tipo: "Decreto"
+numero: "11"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33319"
+baixado_em: 2026-10-15
+---
+# DEC-000011
+
+DEC-000011
+
+ORIGEM EXECUTIVO. DEC-000011 01/04/1987 VIG 03/04/1987 STATUS VIGENTE FONTE PUB DOSC 03/04/1987 PAG 003. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. HENRIQUETA MANTOVANI BONACOLSI. INDEXACACONCESSÃO, PENSÕES, VIUVA, JUIZ DE PAZ, MUNICIPIO, RIO DO SUL, (SC). CATALOGOPENSÕES.

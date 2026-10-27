@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004950"
+uf: "SC"
+tipo: "Decreto"
+numero: "4950"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38997"
+baixado_em: 2026-10-15
+---
+# DEC-004950
+
+DEC-004950
+
+ORIGEM EXECUTIVO. DEC-004950 13/06/1990 VIG 18/06/1990 STATUS VIGENTE FONTE PUB DOSC 18/06/1990 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, FUNDAÇÃO, EDUCAÇÃO, ESTADO, (SC). CATALOGOPATRIMONIO.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001290"
+uf: "SC"
+tipo: "Decreto"
+numero: "1290"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35733"
+baixado_em: 2026-10-15
+---
+# DEC-001290
+
+DEC-001290
+
+ORIGEM EXECUTIVO. DEC-001290 19/01/1988 VIG 30/12/1984 STATUS VIGENTE FONTE PUB DOSC 20/01/1988 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE EX-VEREADOR. ZELIA TEREZINHA BATTI MORONA. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX VEREADOR, MUNICIPIO, URUSSANGA, (SC). CATALOGOPENSÕES.

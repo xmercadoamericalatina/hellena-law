@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002179"
+uf: "SC"
+tipo: "Decreto"
+numero: "2179"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36251"
+baixado_em: 2026-10-15
+---
+# DEC-002179
+
+DEC-002179
+
+ORIGEM EXECUTIVO. DEC-002179 26/11/1964 VIG 04/12/1964 STATUS VIGENTE FONTE PUB DOSC 04/12/1964 PAG 002. EMENTA DISPÕE SOBRE GRATIFICAÇÃO DE MAGISTERIO. INDEXACAHIPOTESE, CONCESSÃO, GRATIFICAÇÃO DE MAGISTERIO, PROFESSOR, ESTADO, (SC). CATALOGOMAGISTERIO, PESSOAL.

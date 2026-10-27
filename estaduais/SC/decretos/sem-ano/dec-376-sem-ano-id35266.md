@@ -1,0 +1,17 @@
+---
+titulo: "DEC-000376A"
+uf: "SC"
+tipo: "Decreto"
+numero: "376"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35266"
+baixado_em: 2026-10-15
+---
+# DEC-000376A
+
+DEC-000376A
+
+ORIGEM EXECUTIVO. DEC-000376A 31/12/1948 VIG 17/01/1949 FONTE PUB DOSC 17/01/1949 PAG 001. EMENTA CRIA FUNÇÃO NO DEPARTAMENTO DE EDUCAÇÃO. NOTA: EMENTA ELABORADA PELA (SEA). VIDE  
+DEC-000385/49 DOSC 31/01/1949 PAG 001 COMPLEMENTAÇÃO. INDEXACACRIAÇÃO, FUNÇÃO, DEPARTAMENTO, EDUCAÇÃO, ESTADO, (SC). CATALOGOPESSOAL.

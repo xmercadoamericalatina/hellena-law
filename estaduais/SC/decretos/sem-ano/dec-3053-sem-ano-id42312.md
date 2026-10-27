@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003053"
+uf: "SC"
+tipo: "Decreto"
+numero: "3053"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42312"
+baixado_em: 2026-10-15
+---
+# DEC-003053
+
+DEC-003053
+
+ORIGEM EXECUTIVO. DEC-003053 03/07/1998 VIG 03/07/1998 STATUS VIGENTE FONTE PUB DOSC 03/07/1998 PAG 014. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, BELA VISTA DO TOLDO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

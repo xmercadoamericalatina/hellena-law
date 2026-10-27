@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000837"
+uf: "SC"
+tipo: "Decreto"
+numero: "837"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41980"
+baixado_em: 2026-10-15
+---
+# DEC-000837
+
+DEC-000837
+
+ORIGEM EXECUTIVO. DEC-000837 02/05/1996 VIG 03/05/1996 STATUS VIGENTE FONTE PUB DOSC 03/05/1996 PAG 002. EMENTA INTRODUZ AS ALTERAÇÕES 1389 A 1391 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

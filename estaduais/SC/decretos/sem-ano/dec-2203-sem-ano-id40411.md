@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002203"
+uf: "SC"
+tipo: "Decreto"
+numero: "2203"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40411"
+baixado_em: 2026-10-15
+---
+# DEC-002203
+
+DEC-002203
+
+ORIGEM EXECUTIVO. DEC-002203 30/09/1997 VIG 30/09/1997 STATUS VIGENTE FONTE PUB DOSC 30/09/1997 PAG 034. EMENTA AUTORIZA A CESSÃO DE USO DE BENS MOVEIS. INDEXACAAUTORIZAÇÃO, CONCESSÃO DE USO, BENS MOVEIS, MUNICIPIO, URUBICI, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

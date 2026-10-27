@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001581"
+uf: "SC"
+tipo: "Decreto"
+numero: "1581"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34906"
+baixado_em: 2026-10-15
+---
+# DEC-001581
+
+DEC-001581
+
+ORIGEM EXECUTIVO. DEC-001581 02/05/1988 VIG 02/05/1988 STATUS VIGENTE FONTE PUB DOSC 02/05/1988 PAG 001. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TERESA. HELIO JOSE DA SILVA. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, ITAJAI, (SC). CATALOGOPENSÕES.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001301"
+uf: "SC"
+tipo: "Decreto"
+numero: "1301"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36230"
+baixado_em: 2026-10-15
+---
+# DEC-001301
+
+DEC-001301
+
+ORIGEM EXECUTIVO. DEC-001301 27/01/1988 VIG 28/01/1988 STATUS VIGENTE FONTE PUB DOSC 28/01/1988 PAG 001. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. TEREZA DE JESUS GOMES. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, SÃO JOSE, (SC). CATALOGOPENSÕES.

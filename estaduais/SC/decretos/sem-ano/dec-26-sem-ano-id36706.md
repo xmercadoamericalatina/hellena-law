@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000026"
+uf: "SC"
+tipo: "Decreto"
+numero: "26"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36706"
+baixado_em: 2026-10-15
+---
+# DEC-000026
+
+DEC-000026
+
+ORIGEM EXECUTIVO. DEC-000026 10/12/1959 VIG 05/02/1960 STATUS VIGENTE FONTE PUB DOSC 05/02/1960 PAG 001. EMENTA INCLUI FUNÇÃO NA ESCALA DE SALARIOS DAS SERIES FUNCIONAIS. (EMENTA ELABORADA PELA SEA). INDEXACACRIAÇÃO, FUNÇÃO, SECRETARIA DE AGRICULTURA, (SC). CATALOGO(SAA), PESSOAL.

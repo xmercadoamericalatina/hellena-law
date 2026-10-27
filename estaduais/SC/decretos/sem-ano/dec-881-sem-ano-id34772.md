@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000881"
+uf: "SC"
+tipo: "Decreto"
+numero: "881"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34772"
+baixado_em: 2026-10-15
+---
+# DEC-000881
+
+DEC-000881
+
+ORIGEM EXECUTIVO. DEC-000881 04/01/1951 VIG 09/01/1951 FONTE PUB DOSC 09/01/1951 PAG 001. EMENTA DISPÕE SOBRE EFETIVAÇÃO DE FUNCIONARIOS INTERINOS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACANORMAS, EFETIVAÇÃO, FUNCIONARIO INTERINO, ESTADO, (SC). CATALOGOPESSOAL.

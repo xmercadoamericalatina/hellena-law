@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000019"
+uf: "SC"
+tipo: "Decreto"
+numero: "19"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34767"
+baixado_em: 2026-10-15
+---
+# DEC-000019
+
+DEC-000019
+
+ORIGEM EXECUTIVO. DEC-000019 14/07/1947 VIG 15/07/1947 FONTE PUB DESC 15/07/1947 PAG 001. EMENTA DISPÕE SOBRE DIARIAS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACANORMAS, CONCESSÃO, DIARIAS, PESSOAL, FISCALIZAÇÃO, SECRETARIA DE FAZENDA, (SC). CATALOGODIARIAS.

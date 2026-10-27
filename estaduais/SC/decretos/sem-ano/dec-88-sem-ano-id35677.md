@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000088"
+uf: "SC"
+tipo: "Decreto"
+numero: "88"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35677"
+baixado_em: 2026-10-15
+---
+# DEC-000088
+
+DEC-000088
+
+ORIGEM EXECUTIVO. DEC-000088 30/03/1959 VIG 17/04/1959 FONTE PUB DOSC 17/04/1959 PAG 001. REP DOSC 20/04/1959 PAG 001 REP DOSC 24/04/1959 PAG 001 EMENTA DISPÕE SOBRE DIARIAS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, DIARIAS, FUNCIONARIO PUBLICO, (SC). CATALOGODIARIAS.

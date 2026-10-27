@@ -1,0 +1,16 @@
+---
+titulo: "DEC-006130"
+uf: "SC"
+tipo: "Decreto"
+numero: "6130"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34303"
+baixado_em: 2026-10-15
+---
+# DEC-006130
+
+DEC-006130
+
+ORIGEM EXECUTIVO. DEC-006130 07/12/1990 VIG 07/12/1990 STATUS VIGENTE FONTE PUB DOSC 07/12/1990 PAG 004 EMENTA INTRODUZ AS ALTERAÇÕES 353 A 358 NO REGULAMENTO DO ICMS. OBSER INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

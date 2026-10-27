@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000293"
+uf: "SC"
+tipo: "Decreto"
+numero: "293"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36876"
+baixado_em: 2026-10-15
+---
+# DEC-000293
+
+DEC-000293
+
+ORIGEM EXECUTIVO. DEC-000293 11/06/1999 VIG 11/06/1999 STATUS VIGENTE FONTE PUB DOSC 11/06/1999 PAG 001. EMENTA DECRETA LUTO OFICIAL. LUIZ CARLOS SCHMIDT DE CARVALHO. INDEXACADECRETAÇÃO, LUTO OFICIAL, FALECIMENTO, SECRETARIO DE ESTADO. CATALOGOLUTO OFICIAL.

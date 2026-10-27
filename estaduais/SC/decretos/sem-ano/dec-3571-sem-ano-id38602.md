@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003571"
+uf: "SC"
+tipo: "Decreto"
+numero: "3571"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38602"
+baixado_em: 2026-10-15
+---
+# DEC-003571
+
+DEC-003571
+
+ORIGEM EXECUTIVO. DEC-003571 14/07/1989 VIG 01/07/1989 STATUS VIGENTE FONTE PUB DOSC 17/07/1989 PAG 007. REP DOSC 19/07/1989 PAG 002 EMENTA INTRODUZ A ALTERAÇÃO 37 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001351"
+uf: "SC"
+tipo: "Decreto"
+numero: "1351"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36405"
+baixado_em: 2026-10-15
+---
+# DEC-001351
+
+DEC-001351
+
+ORIGEM EXECUTIVO. DEC-001351 20/11/1996 VIG 20/11/1996 STATUS VIGENTE FONTE PUB DOSC 20/11/1996 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, CATANDUVA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

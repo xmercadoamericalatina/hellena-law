@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000048"
+uf: "SC"
+tipo: "Decreto"
+numero: "48"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34764"
+baixado_em: 2026-10-15
+---
+# DEC-000048
+
+DEC-000048
+
+ORIGEM EXECUTIVO. DEC-000048 28/01/1947 VIG 29/01/1947 FONTE PUB DOSC 29/01/1947 PAG 001. EMENTA REVIGORA DIARIAS DOS FUNCIONARIOS DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAREVIGORAÇÃO, VALOR, DIARIAS, FUNCIONARIO PUBLICO, ESTADO, (SC). CATALOGODIARIAS.

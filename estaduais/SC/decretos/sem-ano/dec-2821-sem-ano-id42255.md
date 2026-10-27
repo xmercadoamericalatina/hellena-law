@@ -1,0 +1,17 @@
+---
+titulo: "DEC-002821"
+uf: "SC"
+tipo: "Decreto"
+numero: "2821"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42255"
+baixado_em: 2026-10-15
+---
+# DEC-002821
+
+DEC-002821
+
+ORIGEM EXECUTIVO. DEC-002821 29/04/1998 VIG 29/04/1998 STATUS VIGENTE FONTE PUB DOSC 29/04/1998 PAG 011. EMENTA INTRODUZ AS ALTERAÇÕES 81 A 100 AO RICMS/97. VIDE  
+DEC-002849/98 DOSC 12/05/1998 PAG 002 ALTERAÇÃO. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

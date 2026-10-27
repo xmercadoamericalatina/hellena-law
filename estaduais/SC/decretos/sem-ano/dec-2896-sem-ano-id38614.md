@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002896"
+uf: "SC"
+tipo: "Decreto"
+numero: "2896"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38614"
+baixado_em: 2026-10-15
+---
+# DEC-002896
+
+DEC-002896
+
+ORIGEM EXECUTIVO. DEC-002896 29/12/1988 VIG 30/12/1988 STATUS VIGENTE FONTE PUB DOSC 30/12/1988 PAG 029. EMENTA AUTORIZA A DOAº`O DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAº`O, (DER), (SC), DOAº`O, BENS MOVEIS, PREFEITURA MUNICIPAL, FLORIANOPOLIS, (SC). CATALOGOPATRIMONIO.

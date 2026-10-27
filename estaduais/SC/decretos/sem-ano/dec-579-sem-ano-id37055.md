@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000579"
+uf: "SC"
+tipo: "Decreto"
+numero: "579"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37055"
+baixado_em: 2026-10-15
+---
+# DEC-000579
+
+DEC-000579
+
+ORIGEM EXECUTIVO. DEC-000579 13/06/1958 VIG 16/06/1958 FONTE PUB DOSC 16/06/1958 PAG 003. EMENTA CRIA FUNÇÃO GRATIFICADA NA SECRETARIA DA FAZENDA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SECRETARIA DE FAZENDA, (SC). CATALOGOPESSOAL.

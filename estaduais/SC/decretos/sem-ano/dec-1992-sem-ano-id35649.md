@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001992"
+uf: "SC"
+tipo: "Decreto"
+numero: "1992"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35649"
+baixado_em: 2026-10-15
+---
+# DEC-001992
+
+DEC-001992
+
+ORIGEM EXECUTIVO. DEC-001992 26/07/1988 VIG 27/07/1988 STATUS VIGENTE FONTE PUB DOSC 27/07/1988 PAG 002. EMENTA CONCEDE PENSÃO A VIUVA DE MAGISTRADO. CELITA LOURDES SPALDING GALLEGO. INDEXACACONCESSÃO, PENSÕES, VIUVA, MAGISTRADO, MUNICIPIO, CURITIBA, (PR). CATALOGOPENSÕES.

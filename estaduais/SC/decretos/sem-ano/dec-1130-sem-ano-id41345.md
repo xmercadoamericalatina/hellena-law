@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001130"
+uf: "SC"
+tipo: "Decreto"
+numero: "1130"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41345"
+baixado_em: 2026-10-15
+---
+# DEC-001130
+
+DEC-001130
+
+ORIGEM EXECUTIVO. DEC-001130 21/08/1996 VIG 21/08/1996 STATUS VIGENTE FONTE PUB DOSC 21/08/1996 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 1437 A 1441 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

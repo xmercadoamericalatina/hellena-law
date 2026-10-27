@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003816"
+uf: "SC"
+tipo: "Decreto"
+numero: "3816"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32251"
+baixado_em: 2026-10-15
+---
+# DEC-003816
+
+DEC-003816
+
+ORIGEM EXECUTIVO. DEC-003816 14/02/1947 VIG 25/02/1947 STATUS VIGENTE FONTE PUB DOSC 25/02/1947 PAG 001. EMENTA CRIA ESCOLA MISTA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, ESTABELECIMENTO DE ENSINO, MUNICIPIO, ARARANGUA, (SC). CATALOGOOBRA PUBLICA.

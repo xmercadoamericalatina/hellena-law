@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002289"
+uf: "SC"
+tipo: "Decreto"
+numero: "2289"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41255"
+baixado_em: 2026-10-15
+---
+# DEC-002289
+
+DEC-002289
+
+ORIGEM EXECUTIVO. DEC-002289 14/10/1997 VIG 14/10/1997 STATUS VIGENTE FONTE PUB DOSC 14/10/1997 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, CHAPADÃO DO LAGEADO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

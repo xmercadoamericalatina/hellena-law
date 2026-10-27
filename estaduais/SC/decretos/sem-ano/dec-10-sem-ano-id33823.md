@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000010"
+uf: "SC"
+tipo: "Decreto"
+numero: "10"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33823"
+baixado_em: 2026-10-15
+---
+# DEC-000010
+
+DEC-000010
+
+ORIGEM EXECUTIVO. DEC-000010 01/04/1987 VIG 01/07/1985 STATUS VIGENTE FONTE PUB DOSC 03/04/1987 PAG 003. EMENTA CONCEDE PENSÃO A VIUVA DE VEREADOR. GLACI LAUXEN. INDEXACACONCESSÃO, PENSÕES, VIUVA, VEREADOR, MUNICIPIO, GUARUJA DO SUL, (SC). CATALOGOPENSÕES.

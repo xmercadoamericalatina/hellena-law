@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001512"
+uf: "SC"
+tipo: "Decreto"
+numero: "1512"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36130"
+baixado_em: 2026-10-15
+---
+# DEC-001512
+
+DEC-001512
+
+ORIGEM EXECUTIVO. DEC-001512 24/03/1964 VIG 25/03/1964 STATUS VIGENTE FONTE PUB DOSC 25/03/1964 PAG 001. EMENTA FIXA GRATIF. DO CONSELHO RODOV. E DELEG. DE CONT. DO DER. INDEXACAFIXAÇÃO, VALOR, JETON, MEMBROS, CONSELHO RODOVIARIO, DELEGAÇÃO DE CONTROLE, (DER), (SC). CATALOGO(DER), PESSOAL.

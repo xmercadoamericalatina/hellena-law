@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000407"
+uf: "SC"
+tipo: "Decreto"
+numero: "407"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38699"
+baixado_em: 2026-10-15
+---
+# DEC-000407
+
+DEC-000407
+
+ORIGEM EXECUTIVO. DEC-000407 02/08/1999 VIG 02/08/1999 STATUS VIGENTE FONTE PUB DOSC 02/08/1999 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, BIBLIOTECA PUBLICA, ESTADO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

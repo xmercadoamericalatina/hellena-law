@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004549"
+uf: "SC"
+tipo: "Decreto"
+numero: "4549"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38285"
+baixado_em: 2026-10-15
+---
+# DEC-004549
+
+DEC-004549
+
+ORIGEM EXECUTIVO. DEC-004549 17/01/1990 VIG 18/01/1990 STATUS VIGENTE FONTE PUB DOSC 18/01/1990 PAG 005. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, (APAE), MUNICIPIO, ARARANGUA, (SC). CATALOGOPATRIMONIO.

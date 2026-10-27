@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000673"
+uf: "SC"
+tipo: "Decreto"
+numero: "673"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35307"
+baixado_em: 2026-10-15
+---
+# DEC-000673
+
+DEC-000673
+
+ORIGEM EXECUTIVO. DEC-000673 05/10/1987 VIG 06/10/1987 STATUS VIGENTE FONTE PUB DOSC 06/10/1987 PAG 002. EMENTA AUTORIZA DOAÇÃO DE VEICULO. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, PREFEITURA MUNICIPAL, BENEDITO NOVO, (SC). CATALOGOPATRIMONIO.

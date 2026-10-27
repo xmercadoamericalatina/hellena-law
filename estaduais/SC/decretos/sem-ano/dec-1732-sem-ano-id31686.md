@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001732"
+uf: "SC"
+tipo: "Decreto"
+numero: "1732"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31686"
+baixado_em: 2026-10-15
+---
+# DEC-001732
+
+DEC-001732
+
+ORIGEM EXECUTIVO. DEC-001732 11/05/1992 VIG 13/05/1992 STATUS VIGENTE FONTE PUB DOSC 13/05/1992 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ESTADO, JUSTIÇA, ADMINISTRAÇÃO, DOAÇÃO, MATERIAL, (INMETRO), (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

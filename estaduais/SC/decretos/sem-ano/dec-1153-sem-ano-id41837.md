@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001153"
+uf: "SC"
+tipo: "Decreto"
+numero: "1153"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41837"
+baixado_em: 2026-10-15
+---
+# DEC-001153
+
+DEC-001153
+
+ORIGEM EXECUTIVO. DEC-001153 11/09/1996 VIG 12/09/1996 STATUS VIGENTE FONTE PUB DOSC 12/09/1996 PAG 007. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, MATERIAL, MUNICIPIO, MONDAI, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

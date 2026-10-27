@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000369"
+uf: "SC"
+tipo: "Decreto"
+numero: "369"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31068"
+baixado_em: 2026-10-15
+---
+# DEC-000369
+
+DEC-000369
+
+ORIGEM EXECUTIVO. DEC-000369 28/08/1948 VIG 03/11/1948 STATUS VIGENTE FONTE PUB DOSC 03/11/1948 PAG 001. EMENTA ALTERA A T.N.M. DA DIRETORIA DE TERRAS. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, DIRETORIA, TERRAS, (SC). CATALOGOPESSOAL.

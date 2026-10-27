@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004398"
+uf: "SC"
+tipo: "Decreto"
+numero: "4398"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34869"
+baixado_em: 2026-10-15
+---
+# DEC-004398
+
+DEC-004398
+
+ORIGEM EXECUTIVO. DEC-004398 28/07/1966 VIG 02/08/1966 STATUS VIGENTE FONTE PUB DOSC 02/08/1966 PAG 001. EMENTA DISPÕE SOBRE REMUNERAÇÕES. NOTA:(EMENTA ELABORADA PELA SEA). INDEXACAFIXAÇÃO, REMUNERAÇÃO, MEMBROS, CONSELHO ESTADUAL, TELECOMUNICAÇÃO, (SC). CATALOGOPESSOAL.

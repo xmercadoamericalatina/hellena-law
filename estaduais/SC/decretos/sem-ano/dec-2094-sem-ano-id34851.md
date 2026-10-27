@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002094"
+uf: "SC"
+tipo: "Decreto"
+numero: "2094"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34851"
+baixado_em: 2026-10-15
+---
+# DEC-002094
+
+DEC-002094
+
+ORIGEM EXECUTIVO. DEC-002094 12/10/1960 VIG 13/10/1960 STATUS VIGENTE FONTE PUB DOSC 13/10/1960 PAG 002. EMENTA CRIA FUNÇÃO GRATIFICADA NO TESOURO DO ESTADO. (EMENTA ELABORADA PELA SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, TESOURO ESTADUAL, (SC). CATALOGOTESOURO ESTADUAL, PESSOAL.

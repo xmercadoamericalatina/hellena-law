@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001196"
+uf: "SC"
+tipo: "Decreto"
+numero: "1196"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35668"
+baixado_em: 2026-10-15
+---
+# DEC-001196
+
+DEC-001196
+
+ORIGEM EXECUTIVO. DEC-001196 18/12/1987 VIG 18/12/1987 STATUS VIGENTE FONTE PUB DOSC 18/12/1987 PAG 004. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. MANOEL DA SILVEIRA. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, IMBITUBA, (SC). CATALOGOPENSÕES.

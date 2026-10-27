@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002683"
+uf: "SC"
+tipo: "Decreto"
+numero: "2683"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40175"
+baixado_em: 2026-10-15
+---
+# DEC-002683
+
+DEC-002683
+
+ORIGEM EXECUTIVO. DEC-002683 07/12/1988 VIG 08/12/1988 STATUS VIGENTE FONTE PUB DOSC 08/12/1988 PAG 003. EMENTA DA NOVA REDAº`O AO ARTIGO 1 DO DECRETO 31.523, DE 04 DE MARºO DE 1987. INDEXACAALTERAº`O, DENOMINAº`O, ESCOLA ISOLADA, MUNICIPIO, CAMBORIU, (SC). CATALOGOOBRA PUBLICA.

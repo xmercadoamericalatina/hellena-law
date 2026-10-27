@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003376"
+uf: "SC"
+tipo: "Decreto"
+numero: "3376"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30539"
+baixado_em: 2026-10-15
+---
+# DEC-003376
+
+DEC-003376
+
+ORIGEM EXECUTIVO. DEC-003376 18/11/1998 VIG 18/11/1998 STATUS VIGENTE FONTE PUB DOSC 18/11/1998 PAG 002. EMENTA AUTORIZA O FUNCIONAMENTO DA EDUCAÇÃO INFANTIL - FAIXA ETARIA DE 0 (ZERO) A 6 (SEIS) ANOS NO CENTRO EDUCACIONAL ANGEL'S HOUSE - MUNICIPIO CRICIUMA. CATALOGOENSINO.

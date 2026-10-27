@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002114"
+uf: "SC"
+tipo: "Decreto"
+numero: "2114"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40694"
+baixado_em: 2026-10-15
+---
+# DEC-002114
+
+DEC-002114
+
+ORIGEM EXECUTIVO. DEC-002114 08/08/1997 VIG 08/08/1997 STATUS VIGENTE FONTE PUB DOSC 08/08/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, PORTO UNIÃO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

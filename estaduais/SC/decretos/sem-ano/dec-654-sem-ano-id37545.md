@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000654"
+uf: "SC"
+tipo: "Decreto"
+numero: "654"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37545"
+baixado_em: 2026-10-15
+---
+# DEC-000654
+
+DEC-000654
+
+ORIGEM EXECUTIVO. DEC-000654 30/09/1987 VIG 10/01/1987 STATUS VIGENTE FONTE PUB DOSC 01/10/1987 PAG 003. RET DOSC 03/11/1987 PAG 005 EMENTA CONCEDE PENSÃO A VIUVA DE EX-VEREADOR. MARIA MANTELLI FROZZA. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX VEREADOR, MUNICIPIO, ITAJAI, (SC). CATALOGOPENSÕES.

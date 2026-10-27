@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003955"
+uf: "SC"
+tipo: "Decreto"
+numero: "3955"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38747"
+baixado_em: 2026-10-15
+---
+# DEC-003955
+
+DEC-003955
+
+ORIGEM EXECUTIVO. DEC-003955 13/10/1989 VIG 17/10/1989 STATUS VIGENTE FONTE PUB DOSC 17/10/1989 PAG 007. EMENTA INTRODUZ AS ALTERAÇÕES 55 A 157 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

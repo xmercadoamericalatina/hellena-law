@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000762"
+uf: "SC"
+tipo: "Decreto"
+numero: "762"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35268"
+baixado_em: 2026-10-15
+---
+# DEC-000762
+
+DEC-000762
+
+ORIGEM EXECUTIVO. DEC-000762 11/08/1950 VIG 30/08/1950 FONTE PUB DOSC 30/08/1950 PAG 001. EMENTA DISPÕE SOBRE ATRIBUIÇÕES DO INSPETOR GERAL DO ENSINO NORMAL. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACOMPETENCIA, INSPETOR GERAL, ENSINO NORMAL, ESTADO, (SC). CATALOGOPESSOAL.

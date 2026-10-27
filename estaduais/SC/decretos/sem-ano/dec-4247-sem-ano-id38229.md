@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004247"
+uf: "SC"
+tipo: "Decreto"
+numero: "4247"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38229"
+baixado_em: 2026-10-15
+---
+# DEC-004247
+
+DEC-004247
+
+ORIGEM EXECUTIVO. DEC-004247 27/11/1989 VIG 28/11/1989 STATUS VIGENTE FONTE PUB DOSC 28/11/1989 PAG 004. EMENTA CONCEDE PENSÃO A VIUVA DE MAGISTRADO. RONA HICKEL DE CARVALHO. INDEXACACONCESSÃO, PENSÕES, VIUVA, MAGISTRADO, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOCONVENIO.

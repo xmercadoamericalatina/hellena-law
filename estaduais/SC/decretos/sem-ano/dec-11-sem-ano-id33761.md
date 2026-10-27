@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000011"
+uf: "SC"
+tipo: "Decreto"
+numero: "11"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33761"
+baixado_em: 2026-10-15
+---
+# DEC-000011
+
+DEC-000011
+
+ORIGEM EXECUTIVO. DEC-000011 09/05/1947 VIG 13/05/1947 FONTE PUB DOSC 13/05/1947 PAG 001. EMENTA LOTA CARGO NO TESOURO DO ESTADO DE SANTA CATARINA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, LOTAÇÃO, CARGO EFETIVO, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

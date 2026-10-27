@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000383"
+uf: "SC"
+tipo: "Decreto"
+numero: "383"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34266"
+baixado_em: 2026-10-15
+---
+# DEC-000383
+
+DEC-000383
+
+ORIGEM EXECUTIVO. DEC-000383 30/06/1950 VIG 06/07/1950 FONTE PUB DOSC 06/07/1950 PAG 001. EMENTA EXTINGUE UM CARGO NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO CARGO EFETIVO, CONDUTOR, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

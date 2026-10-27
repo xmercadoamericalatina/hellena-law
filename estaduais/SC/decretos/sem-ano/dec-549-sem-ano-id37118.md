@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000549"
+uf: "SC"
+tipo: "Decreto"
+numero: "549"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37118"
+baixado_em: 2026-10-15
+---
+# DEC-000549
+
+DEC-000549
+
+ORIGEM EXECUTIVO. DEC-000549 14/08/1963 VIG 21/08/1963 STATUS VIGENTE FONTE PUB DOSC 21/08/1963 PAG 001. EMENTA MODIFICA FUNÇÃO GRATIFICADA. INDEXACAALTERAÇÃO, PADRÃO, FUNÇÃO GRATIFICADA, ESTABELECIMENTO DE ENSINO, ENSINO PROFISSIONAL, ESTADO, (SC). CATALOGOPESSOAL.

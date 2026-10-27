@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003443"
+uf: "SC"
+tipo: "Decreto"
+numero: "3443"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37811"
+baixado_em: 2026-10-15
+---
+# DEC-003443
+
+DEC-003443
+
+ORIGEM EXECUTIVO. DEC-003443 20/06/1989 VIG 21/06/1989 STATUS VIGENTE FONTE PUB DOSC 21/06/1989 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, (DER), DOAÇÃO, MAQUINA DE TERRAPLENAGEM, PREFEITURA MUNICIPAL, POUSO REDONDO, (SC). CATALOGOPATRIMONIO.

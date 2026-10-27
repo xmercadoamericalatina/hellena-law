@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000414"
+uf: "SC"
+tipo: "Decreto"
+numero: "414"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37825"
+baixado_em: 2026-10-15
+---
+# DEC-000414
+
+DEC-000414
+
+ORIGEM EXECUTIVO. DEC-000414 19/03/1952 VIG 26/03/1952 STATUS VIGENTE FONTE PUB DOSC 26/03/1952 PAG 001. EMENTA DISPÕE SOBRE A LOTAÇÃO DO SERVIÇO DE DEFESA SANITARIA VEGETAL. NOTA: EMENTA ELABORADA PELA SEA. INDEXACAFIXAÇÃO, LOTAÇÃO, (SDVA), ESTADO, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

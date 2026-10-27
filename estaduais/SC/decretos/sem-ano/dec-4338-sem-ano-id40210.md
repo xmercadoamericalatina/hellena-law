@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004338"
+uf: "SC"
+tipo: "Decreto"
+numero: "4338"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40210"
+baixado_em: 2026-10-15
+---
+# DEC-004338
+
+DEC-004338
+
+ORIGEM EXECUTIVO. DEC-004338 13/12/1989 VIG 14/12/1989 STATUS VIGENTE FONTE PUB DOSC 14/12/1989 PAG 007. EMENTA INTRODUZ AS ALTERAÇÕES 182 A 186 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÕES, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

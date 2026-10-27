@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002947"
+uf: "SC"
+tipo: "Decreto"
+numero: "2947"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38899"
+baixado_em: 2026-10-15
+---
+# DEC-002947
+
+DEC-002947
+
+ORIGEM EXECUTIVO. DEC-002947 05/06/1998 VIG 05/06/1998 STATUS VIGENTE FONTE PUB DOSC 05/06/1998 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, BALNEARIO BARRA DO SUL, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

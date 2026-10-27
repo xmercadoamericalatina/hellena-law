@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003052"
+uf: "SC"
+tipo: "Decreto"
+numero: "3052"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41820"
+baixado_em: 2026-10-15
+---
+# DEC-003052
+
+DEC-003052
+
+ORIGEM EXECUTIVO. DEC-003052 03/07/1998 VIG 03/07/1998 STATUS VIGENTE FONTE PUB DOSC 03/07/1998 PAG 013. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, RIO NEGRINHO, (SC) CATALOGOPATRIMONIO, BENS MOVEIS.

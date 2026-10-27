@@ -1,0 +1,16 @@
+---
+titulo: "DEC-006132"
+uf: "SC"
+tipo: "Decreto"
+numero: "6132"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35305"
+baixado_em: 2026-10-15
+---
+# DEC-006132
+
+DEC-006132
+
+ORIGEM EXECUTIVO. DEC-006132 07/12/1990 VIG 07/12/1990 STATUS VIGENTE FONTE PUB DOSC 07/12/1990 PAG 005 EMENTA INTRODUZ AS ALTERAÇÕES 362 A 368 NO REGULAMENTO DO ICMS. OBSER INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002170"
+uf: "SC"
+tipo: "Decreto"
+numero: "2170"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42027"
+baixado_em: 2026-10-15
+---
+# DEC-002170
+
+DEC-002170
+
+ORIGEM EXECUTIVO. DEC-002170 08/09/1997 VIG 08/09/1997 STATUS VIGENTE FONTE PUB DOSC 08/09/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, ITUPORANGA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

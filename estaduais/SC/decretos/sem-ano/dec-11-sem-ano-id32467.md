@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000011"
+uf: "SC"
+tipo: "Decreto"
+numero: "11"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32467"
+baixado_em: 2026-10-15
+---
+# DEC-000011
+
+DEC-000011
+
+ORIGEM EXECUTIVO. DEC-000011 29/04/1947 VIG 08/05/1947 STATUS VIGENTE FONTE PUB DOSC 29/04/1947 PAG 001. EMENTA CRIA ESCOLA MISTA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, ESTABELECIMENTO DE ENSINO, DISTRITO, IBICARE, MUNICIPIO, JOAÇABA, (SC). CATALOGOOBRA PUBLICA.

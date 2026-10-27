@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000032"
+uf: "SC"
+tipo: "Decreto"
+numero: "32"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36174"
+baixado_em: 2026-10-15
+---
+# DEC-000032
+
+DEC-000032
+
+ORIGEM EXECUTIVO. DEC-000032 03/09/1959 VIG 04/09/1959 FONTE PUB DOSC 04/09/1959 PAG 001. EMENTA DISPÕE SOBRE UNIFORMES DA POLICIA MILITAR DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAALTERAÇÃO, PLANO, UNIFORME, POLICIA MILITAR, (SC). CATALOGOPOLICIA MILITAR.

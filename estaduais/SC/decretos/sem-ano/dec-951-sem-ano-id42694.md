@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000951"
+uf: "SC"
+tipo: "Decreto"
+numero: "951"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42694"
+baixado_em: 2026-10-15
+---
+# DEC-000951
+
+DEC-000951
+
+ORIGEM EXECUTIVO. DEC-000951 18/06/1996 VIG 18/06/1996 STATUS VIGENTE FONTE PUB DOSC 18/06/1996 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 1398 A 1403 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

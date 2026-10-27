@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000573"
+uf: "SC"
+tipo: "Decreto"
+numero: "573"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32072"
+baixado_em: 2026-10-15
+---
+# DEC-000573
+
+DEC-000573
+
+ORIGEM EXECUTIVO. DEC-000573 01/09/1949 VIG 20/09/1949 STATUS VIGENTE FONTE PUB DOSC 20/09/1949 PAG 001. EMENTA CRIA GRUPO ESCOLAR NA VILA DE CAXAMBU, MUNICIPIO DE CHAPECO, (SC), COM A DENOMINAÇÃO DE "CANDIDO RAMOS". (NOTA: EMENTA ELABORADA PELA SJA). CATALOGOESTABELECIMENTO DE ENSINO.

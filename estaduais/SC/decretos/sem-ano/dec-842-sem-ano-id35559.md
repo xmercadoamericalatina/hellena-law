@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000842"
+uf: "SC"
+tipo: "Decreto"
+numero: "842"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35559"
+baixado_em: 2026-10-15
+---
+# DEC-000842
+
+DEC-000842
+
+ORIGEM EXECUTIVO. DEC-000842 22/05/1959 VIG 04/06/1959 FONTE PUB DOSC 04/06/1959 PAG 001. EMENTA DISPÕE SOBRE REGULAMENTO DAS DELEGACIAS DE ENSINO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAREGULAMENTO, DELEGACIA, ENSINO, ESTADO, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

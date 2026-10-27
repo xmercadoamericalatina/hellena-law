@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000670"
+uf: "SC"
+tipo: "Decreto"
+numero: "670"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36048"
+baixado_em: 2026-10-15
+---
+# DEC-000670
+
+DEC-000670
+
+ORIGEM EXECUTIVO. DEC-000670 05/10/1987 VIG 06/10/1987 STATUS VIGENTE FONTE PUB DOSC 06/10/1987 PAG 002. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. MIGUEL KARPEN FILHO. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, SÃO JOSE, (SC). CATALOGOPENSÕES.

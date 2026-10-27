@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000035"
+uf: "SC"
+tipo: "Decreto"
+numero: "35"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37005"
+baixado_em: 2026-10-15
+---
+# DEC-000035
+
+DEC-000035
+
+ORIGEM EXECUTIVO. DEC-000035 10/01/1963 VIG 15/01/1963 STATUS VIGENTE FONTE PUB DOSC 15/01/1963 PAG 002. EMENTA SUPRIME CARGO PUBLICO. INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, EXECUTIVO, LOTAÇÃO, DEPARTAMENTO, GEOGRAFIA, CARTOGRAFIA, ESTADO, (SC). CATALOGOPESSOAL.

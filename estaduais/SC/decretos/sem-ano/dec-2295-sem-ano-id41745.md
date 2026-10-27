@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002295"
+uf: "SC"
+tipo: "Decreto"
+numero: "2295"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41745"
+baixado_em: 2026-10-15
+---
+# DEC-002295
+
+DEC-002295
+
+ORIGEM EXECUTIVO. DEC-002295 14/10/1997 VIG 14/10/1997 STATUS VIGENTE FONTE PUB DOSC 14/10/1997 PAG 006. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, GARUVA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

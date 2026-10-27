@@ -1,0 +1,16 @@
+---
+titulo: "DEC-02140"
+uf: "SC"
+tipo: "Decreto"
+numero: "2140"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40045"
+baixado_em: 2026-10-15
+---
+# DEC-02140
+
+DEC-02140
+
+ORIGEM EXECUTIVO. DEC-02140 05/09/1988 VIG 06/09/1988 STATUS VIGENTE FONTE PUB DOSC 06/09/1988 PAG 004. EMENTA AUTORIZA A DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, BENS MOVEIS, ENTIDADE, ESTADO, (SC). CATALOGOPATRIMONIO.

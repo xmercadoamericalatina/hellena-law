@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000189"
+uf: "SC"
+tipo: "Decreto"
+numero: "189"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/50192"
+baixado_em: 2026-10-15
+---
+# DEC-000189
+
+DEC-000189
+
+ORIGEM EXECUTIVO. DEC-000189 26/05/2015 VIG 27/05/2015 STATUS VIGENTE FONTE PUB DOSC 27/05/2015 PAG 002 EMENTA INTRODUZ AS ALTERAÇÕES 3.539 A 3.546 NO RICMS/SC-01 E ESTABELECE OUTRAS PROVIDENCIAS. OBSER INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

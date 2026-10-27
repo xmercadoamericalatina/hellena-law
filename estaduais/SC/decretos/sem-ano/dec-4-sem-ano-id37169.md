@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000004"
+uf: "SC"
+tipo: "Decreto"
+numero: "4"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37169"
+baixado_em: 2026-10-15
+---
+# DEC-000004
+
+DEC-000004
+
+ORIGEM EXECUTIVO. DEC-000004 12/02/1959 VIG 01/01/1959 FONTE PUB DOSC 03/03/1959 PAG 001. EMENTA DISPÕE SOBRE SALARIOS DO PESSOAL DIARISTA DO DEPARTAMENTO DE ESTRADAS DE RODAGEM (DER). NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, SALARIO, DIARISTA, (DER), (SC). CATALOGOPESSOAL, SALARIO.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002931"
+uf: "SC"
+tipo: "Decreto"
+numero: "2931"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37427"
+baixado_em: 2026-10-15
+---
+# DEC-002931
+
+DEC-002931
+
+ORIGEM EXECUTIVO. DEC-002931 30/12/1988 VIG 31/12/1988 STATUS VIGENTE FONTE PUB DOSC 31/12/1988 PAG 003. EMENTA INTRODUZ AS ALTERAº{ES 206 A 226 NO REGULAMENTO DO ICM, E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAº`O, REGULAMENTO, (ICM), (SC). CATALOGOLEGISLAº`O TRIBUTARIA.

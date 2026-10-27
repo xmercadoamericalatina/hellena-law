@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000246"
+uf: "SC"
+tipo: "Decreto"
+numero: "246"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36513"
+baixado_em: 2026-10-15
+---
+# DEC-000246
+
+DEC-000246
+
+ORIGEM EXECUTIVO. DEC-000246 08/05/1963 VIG 13/05/1963 STATUS VIGENTE FONTE PUB DOSC 13/05/1963 PAG 001. EMENTA CRIA FUNÇÕES GRATIFICADAS E DA OUTRAS PROVIDENCIAS. INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, DEPARTAMENTO, ORIENTAÇÃO, RACIONALIZAÇÃO, SERVIÇOS PUBLICOS, (SC). CATALOGOPESSOAL.

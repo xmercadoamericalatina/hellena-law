@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002297"
+uf: "SC"
+tipo: "Decreto"
+numero: "2297"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42729"
+baixado_em: 2026-10-15
+---
+# DEC-002297
+
+DEC-002297
+
+ORIGEM EXECUTIVO. DEC-002297 14/10/1997 VIG 14/10/1997 STATUS VIGENTE FONTE PUB DOSC 14/10/1997 PAG 006. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, AURORA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

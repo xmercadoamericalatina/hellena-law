@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003067"
+uf: "SC"
+tipo: "Decreto"
+numero: "3067"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39068"
+baixado_em: 2026-10-15
+---
+# DEC-003067
+
+DEC-003067
+
+ORIGEM EXECUTIVO. DEC-003067 14/03/1989 VIG 15/03/1989 STATUS VIGENTE FONTE PUB DOSC 15/03/1989 PAG 001. EMENTA CONCEDE PENS`O A FILHA DE EX-SERVIDOR DO ESTADO. MARIA JOSE AMORIM. INDEXACACONCESSÃO, PENSÕES, DEPENDENTE, EX SERVIDOR, MUNICIPIO, CAÇADOR, (SC). CATALOGOPENS{ES.

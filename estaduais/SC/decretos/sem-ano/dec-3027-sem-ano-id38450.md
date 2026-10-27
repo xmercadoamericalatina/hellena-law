@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003027"
+uf: "SC"
+tipo: "Decreto"
+numero: "3027"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38450"
+baixado_em: 2026-10-15
+---
+# DEC-003027
+
+DEC-003027
+
+ORIGEM EXECUTIVO. DEC-003027 30/06/1998 VIG 30/06/1998 STATUS VIGENTE FONTE PUB DOSC 30/06/1998 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, ITUPORANGA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

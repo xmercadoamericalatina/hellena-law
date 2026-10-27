@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003798"
+uf: "SC"
+tipo: "Decreto"
+numero: "3798"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33254"
+baixado_em: 2026-10-15
+---
+# DEC-003798
+
+DEC-003798
+
+ORIGEM EXECUTIVO. DEC-003798 05/02/1947 VIG 11/02/1947 FONTE PUB DOSC 11/02/1947 PAG 001. EMENTA EXTINGUE CARGO NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

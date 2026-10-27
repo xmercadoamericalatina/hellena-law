@@ -1,0 +1,18 @@
+---
+titulo: "DEC-000069"
+uf: "SC"
+tipo: "Decreto"
+numero: "69"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33857"
+baixado_em: 2026-10-15
+---
+# DEC-000069
+
+DEC-000069
+
+ORIGEM EXECUTIVO. DEC-000069 18/05/1987 VIG 01/06/1987 STATUS VIGENTE DO FONTE PUB DOSC 19/05/1987 PAG 001. EMENTA INTRODUZ A ALTERAÇÃO 8 NO RICM-SC/87. VIDE  
+DEC-000480/87 DOSC 31/08/1987 PAG 001 ALTERAÇÃO.  
+DEC-002873/88 DOSC 29/12/1988 PAG 004 ALTERAº`O. INDEXACA(FALTA INDEXAR). CATALOGO(FALTA CATALOGO).

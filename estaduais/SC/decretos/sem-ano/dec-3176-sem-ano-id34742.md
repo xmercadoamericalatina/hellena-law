@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003176"
+uf: "SC"
+tipo: "Decreto"
+numero: "3176"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34742"
+baixado_em: 2026-10-15
+---
+# DEC-003176
+
+DEC-003176
+
+ORIGEM EXECUTIVO. DEC-003176 16/09/1965 VIG 23/09/1965 STATUS VIGENTE FONTE PUB DOSC 23/09/1965 PAG 001. EMENTA FIXA GRATIFICAÇÃO. INDEXACAFIXAÇÃO, VALOR, JETON, MEMBROS, JUNTA DE CONTROLE, GABINETE, PLANEJAMENTO, GOVERNO ESTADUAL, (SC). CATALOGOPESSOAL.

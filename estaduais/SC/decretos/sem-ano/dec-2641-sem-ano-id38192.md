@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002641"
+uf: "SC"
+tipo: "Decreto"
+numero: "2641"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38192"
+baixado_em: 2026-10-15
+---
+# DEC-002641
+
+DEC-002641
+
+ORIGEM EXECUTIVO. DEC-002641 02/12/1988 VIG 05/12/1988 STATUS VIGENTE FONTE PUB DOSC 05/12/1988 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. MATILDE VICENTINI. INDEXACACONCESS`O, PENS{ES, VIUVA, JUIZ DE PAZ, MUNICIPIO, BOTUVERA, (SC). CATALOGOPENS{ES.

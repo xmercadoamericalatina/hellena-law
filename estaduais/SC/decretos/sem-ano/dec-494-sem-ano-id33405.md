@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000494"
+uf: "SC"
+tipo: "Decreto"
+numero: "494"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33405"
+baixado_em: 2026-10-15
+---
+# DEC-000494
+
+DEC-000494
+
+ORIGEM EXECUTIVO. DEC-000494 03/09/1987 VIG 04/09/1987 STATUS VIGENTE FONTE PUB DOSC 04/09/1987 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. NILSA ROCHA DE CARVALHO. INDEXACACONCESSÃO, PENSÕES, VIUVA , JUIZ DE PAZ, MUNICIPIO, BIGUAÇU, (SC). CATALOGOPENSÕES.

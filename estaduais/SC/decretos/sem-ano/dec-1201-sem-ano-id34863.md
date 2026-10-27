@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001201"
+uf: "SC"
+tipo: "Decreto"
+numero: "1201"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34863"
+baixado_em: 2026-10-15
+---
+# DEC-001201
+
+DEC-001201
+
+ORIGEM EXECUTIVO. DEC-001201 04/04/1962 VIG 17/04/1962 STATUS VIGENTE FONTE PUB DOSC 17/04/1962 PAG 001. EMENTA DISPÕE SOBRE A LEI 2975. INDEXACANORMAS, CONCESSÃO, LICENÇA, TRATAMENTO, INTERESSE PARTICULAR, MEMBROS, MAGISTERIO, (SC). CATALOGOPESSOAL, MAGISTERIO.

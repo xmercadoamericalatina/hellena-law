@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000113"
+uf: "SC"
+tipo: "Decreto"
+numero: "113"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31035"
+baixado_em: 2026-10-15
+---
+# DEC-000113
+
+DEC-000113
+
+ORIGEM EXECUTIVO. DEC-000113 28/09/1948 VIG 30/09/1948 STATUS VIGENTE FONTE PUB DOSC 30/09/1948 PAG 001. EMENTA ALTERA A T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MERNSALISTA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

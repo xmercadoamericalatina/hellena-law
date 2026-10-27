@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002171"
+uf: "SC"
+tipo: "Decreto"
+numero: "2171"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42519"
+baixado_em: 2026-10-15
+---
+# DEC-002171
+
+DEC-002171
+
+ORIGEM EXECUTIVO. DEC-002171 08/09/1997 VIG 08/09/1997 STATUS VIGENTE FONTE PUB DOSC 08/09/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, TREZE DE MAIO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

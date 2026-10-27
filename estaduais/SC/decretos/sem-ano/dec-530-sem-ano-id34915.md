@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000530"
+uf: "SC"
+tipo: "Decreto"
+numero: "530"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34915"
+baixado_em: 2026-10-15
+---
+# DEC-000530
+
+DEC-000530
+
+ORIGEM EXECUTIVO. DEC-000530 21/09/1987 VIG 22/09/1987 STATUS VIGENTE FONTE PUB DOSC 22/09/1987 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. ANGELA PALUDO. INDEXACACONCESSÃO, PENSÕES, VIUVA, JUIZ DE PAZ, MUNICIPIO, HERVAL D'OESTE, (SC). CATALOGOPENSÕES.

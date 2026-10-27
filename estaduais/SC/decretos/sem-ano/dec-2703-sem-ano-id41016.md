@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002703"
+uf: "SC"
+tipo: "Decreto"
+numero: "2703"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41016"
+baixado_em: 2026-10-15
+---
+# DEC-002703
+
+DEC-002703
+
+ORIGEM EXECUTIVO. DEC-002703 27/03/1998 VIG 27/03/1998 STATUS VIGENTE FONTE PUB DOSC 27/03/1998 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, JAGUARUNA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

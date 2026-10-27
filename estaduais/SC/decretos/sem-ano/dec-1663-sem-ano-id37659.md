@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001663"
+uf: "SC"
+tipo: "Decreto"
+numero: "1663"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37659"
+baixado_em: 2026-10-15
+---
+# DEC-001663
+
+DEC-001663
+
+ORIGEM EXECUTIVO. DEC-001663 16/05/1988 VIG 07/11/1985 STATUS VIGENTE FONTE PUB DOSC 17/05/1988 PAG 003. EMENTA CONCEDE PENSÃO A VIUVA DE VEREADOR. GESSI JUREMA LUCATEL. INDEXACACONCESSÃO, PENSÕES, VIUVA, VEREADOR, MUNICIPIO, SÃO CARLOS, (SC). CATALOGOPENSÕES.

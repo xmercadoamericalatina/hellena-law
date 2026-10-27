@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000058"
+uf: "SC"
+tipo: "Decreto"
+numero: "58"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31659"
+baixado_em: 2026-10-15
+---
+# DEC-000058
+
+DEC-000058
+
+ORIGEM EXECUTIVO. DEC-000058 05/12/1947 VIG 09/12/1947 STATUS VIGENTE FONTE PUB DOSC 09/12/1947 PAG 001. EMENTA ALTERA A T.N.M. DA SECRETARIA DA FAZENDA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, SECRETARIA DE FAZENDA, (SC). CATALOGOPESSOAL.

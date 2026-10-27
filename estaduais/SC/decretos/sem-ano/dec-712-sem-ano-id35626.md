@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000712"
+uf: "SC"
+tipo: "Decreto"
+numero: "712"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35626"
+baixado_em: 2026-10-15
+---
+# DEC-000712
+
+DEC-000712
+
+ORIGEM EXECUTIVO. DEC-000712 26/09/1963 VIG 15/10/1963 STATUS VIGENTE FONTE PUB DOSC 15/10/1963 PAG 001. EMENTA APROVA REGULAMENTO DO ENSINO PRIMARIO DE SANTA CATARINA. INDEXACAAPROVAÇÃO, REGULAMENTO, ENSINO PRIMARIO, ESTADO, (SC). CATALOGOENSINO.

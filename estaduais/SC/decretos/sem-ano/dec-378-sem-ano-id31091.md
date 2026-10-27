@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000378"
+uf: "SC"
+tipo: "Decreto"
+numero: "378"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31091"
+baixado_em: 2026-10-15
+---
+# DEC-000378
+
+DEC-000378
+
+ORIGEM EXECUTIVO. DEC-000378 30/09/1949 VIG 10/10/1949 STATUS VIGENTE FONTE PUB DOSC 10/10/1949 PAG 001. EMENTA ALTERA A T.N.M. DA DIRETORIA DE TERRAS E COLONIZAÇÃO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, DIRETORIA, TERRAS, COLONIZAÇÃO, (SC). CATALOGOPESSOAL.

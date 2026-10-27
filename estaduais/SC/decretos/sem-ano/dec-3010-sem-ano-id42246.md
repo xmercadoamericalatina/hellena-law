@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003010"
+uf: "SC"
+tipo: "Decreto"
+numero: "3010"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42246"
+baixado_em: 2026-10-15
+---
+# DEC-003010
+
+DEC-003010
+
+ORIGEM EXECUTIVO. DEC-003010 26/06/1998 VIG 26/06/1998 STATUS VIGENTE FONTE PUB DOSC 26/06/1998 PAG 009. EMENTA AUTORIZA A DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, TREZE DE MAIO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

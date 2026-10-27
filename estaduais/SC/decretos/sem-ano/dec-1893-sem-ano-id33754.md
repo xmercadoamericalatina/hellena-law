@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001893"
+uf: "SC"
+tipo: "Decreto"
+numero: "1893"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33754"
+baixado_em: 2026-10-15
+---
+# DEC-001893
+
+DEC-001893
+
+ORIGEM EXECUTIVO. DEC-001893 29/06/1988 VIG 30/06/1988 STATUS VIGENTE FONTE PUB DOSC 30/06/1988 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, (SC), DOAÇÃO, VEICULO AUTOMOTOR, FUNDAÇÃO, BEM ESTAR SOCIAL, MENOR. CATALOGOPATRIMONIO.

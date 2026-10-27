@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000684"
+uf: "SC"
+tipo: "Decreto"
+numero: "684"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36700"
+baixado_em: 2026-10-15
+---
+# DEC-000684
+
+DEC-000684
+
+ORIGEM EXECUTIVO. DEC-000684 13/04/1950 VIG 14/04/1950 FONTE PUB DOSC 14/04/1950 PAG 001. EMENTA DISPÕE SOBRE EFETIVAÇÃO DE FUNCIONARIOS. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACANORMAS, EFETIVAÇÃO, FUNCIONARIO INTERINO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

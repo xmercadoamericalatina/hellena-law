@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002113"
+uf: "SC"
+tipo: "Decreto"
+numero: "2113"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42653"
+baixado_em: 2026-10-15
+---
+# DEC-002113
+
+DEC-002113
+
+ORIGEM EXECUTIVO. DEC-002113 08/08/1997 VIG 08/08/1997 STATUS VIGENTE FONTE PUB DOSC 08/08/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, URIBICI, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

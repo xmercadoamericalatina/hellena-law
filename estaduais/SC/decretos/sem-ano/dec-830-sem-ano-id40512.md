@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000830"
+uf: "SC"
+tipo: "Decreto"
+numero: "830"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40512"
+baixado_em: 2026-10-15
+---
+# DEC-000830
+
+DEC-000830
+
+ORIGEM EXECUTIVO. DEC-000830 25/04/1996 VIG 25/04/1996 STATUS VIGENTE FONTE PUB DOSC 25/04/1996 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 1387 A 1388 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002063"
+uf: "SC"
+tipo: "Decreto"
+numero: "2063"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38846"
+baixado_em: 2026-10-15
+---
+# DEC-002063
+
+DEC-002063
+
+ORIGEM EXECUTIVO. DEC-002063 16/08/1988 VIG 17/08/1988 STATUS VIGENTE FONTE PUB DOSC 17/08/1988 PAG 003. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, (DER), (SC), DOAÇÃO, MAQUINA DE TERRAPLENAGEM, PREFEITURA MUNICIPAL, SEARA, (SC). CATALOGOPATRIMONIO.

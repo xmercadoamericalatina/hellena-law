@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000106"
+uf: "SC"
+tipo: "Decreto"
+numero: "106"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32691"
+baixado_em: 2026-10-15
+---
+# DEC-000106
+
+DEC-000106
+
+ORIGEM EXECUTIVO. DEC-000106 07/07/1948 VIG 07/07/1948 STATUS VIGENTE FONTE PUB DOSC 07/07/1948 PAG 001. EMENTA ALTERA A T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

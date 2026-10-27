@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002522"
+uf: "SC"
+tipo: "Decreto"
+numero: "2522"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41772"
+baixado_em: 2026-10-15
+---
+# DEC-002522
+
+DEC-002522
+
+ORIGEM EXECUTIVO. DEC-002522 19/12/1997 VIG 19/12/1997 STATUS VIGENTE FONTE PUB DOSC 19/12/1997 PAG 008. EMENTA AUTORIZA DOAÇÃO DE DIVERSOS BENS MOVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, FUNDAÇÃO, VIDA, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001451"
+uf: "SC"
+tipo: "Decreto"
+numero: "1451"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37233"
+baixado_em: 2026-10-15
+---
+# DEC-001451
+
+DEC-001451
+
+ORIGEM EXECUTIVO. DEC-001451 04/04/1988 VIG 05/04/1988 STATUS VIGENTE FONTE PUB DOSC 05/04/1988 PAG 007. EMENTA RATIFICA OS CONVENIOS ICM 01 A 14/88 E O AJUSTE SINIEF 01/88, CELEBRADOS EM BRASILIA - DF, EM 29 DE MARÇO DE 1988. INDEXACARATIFICAÇÃO, CONVENIO, (ICM), AJUSTE, (SINIEF), CELEBRAÇÃO, (DF). CATALOGOCONVENIO.

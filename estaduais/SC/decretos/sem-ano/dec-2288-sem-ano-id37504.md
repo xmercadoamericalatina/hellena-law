@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002288"
+uf: "SC"
+tipo: "Decreto"
+numero: "2288"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37504"
+baixado_em: 2026-10-15
+---
+# DEC-002288
+
+DEC-002288
+
+ORIGEM EXECUTIVO. DEC-002288 13/12/1962 VIG 18/12/1962 STATUS VIGENTE FONTE PUB DOSC 18/12/1962 PAG 003. EMENTA MODIFICA NIVEIS DE FUNÇÕES GRATIFICADAS. INDEXACAALTERAÇÃO, PADRÃO, FUNÇÃO GRATIFICADA, DEPARTAMENTO, ESTATISTICA, ESTADO, (SC). CATALOGOPESSOAL.

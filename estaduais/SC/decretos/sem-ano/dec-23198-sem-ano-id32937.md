@@ -1,0 +1,16 @@
+---
+titulo: "DEC-023198"
+uf: "SC"
+tipo: "Decreto"
+numero: "23198"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32937"
+baixado_em: 2026-10-15
+---
+# DEC-023198
+
+DEC-023198
+
+ORIGEM EXECUTIVO. DEC-023198 28/08/1984 VIG 29/08/1984 STATUS VIGENTE FONTE PUB DOSC 29/08/1984 PAG 008. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, SEDE, MUNICIPIO, MAFRA, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

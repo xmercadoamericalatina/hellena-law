@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001515"
+uf: "SC"
+tipo: "Decreto"
+numero: "1515"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35747"
+baixado_em: 2026-10-15
+---
+# DEC-001515
+
+DEC-001515
+
+ORIGEM EXECUTIVO. DEC-001515 22/04/1988 VIG 25/04/1988 STATUS VIGENTE FONTE PUB DOSC 25/04/1988 PAG 001. EMENTA RATIFICA OS PROTOCOLOS ICM 04/88, 08/88, 09/88 E 10/88, CELEBRADOS EM BRASILIA - DF, EM 29 DE MARÇO DE 1988. INDEXACARATIFICAÇÃO, PROTOCOLO, (ICM), CELEBRAÇÃO, (DF). CATALOGOLEGISLAÇÃO TRIBUTARIA.

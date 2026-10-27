@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003782"
+uf: "SC"
+tipo: "Decreto"
+numero: "3782"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35789"
+baixado_em: 2026-10-15
+---
+# DEC-003782
+
+DEC-003782
+
+ORIGEM EXECUTIVO. DEC-003782 30/08/1989 VIG 31/08/1989 STATUS VIGENTE FONTE PUB DOSC 31/08/1989 PAG 008. EMENTA INTRODUZ AS ALTERAÇÕES 38 A 52, NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

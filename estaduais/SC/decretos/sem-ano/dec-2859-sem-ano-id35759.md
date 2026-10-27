@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002859"
+uf: "SC"
+tipo: "Decreto"
+numero: "2859"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35759"
+baixado_em: 2026-10-15
+---
+# DEC-002859
+
+DEC-002859
+
+ORIGEM EXECUTIVO. DEC-002859 18/06/1965 VIG 25/06/1965 STATUS VIGENTE FONTE PUB DOSC 25/06/1965 PAG 001. EMENTA CRIA FUNÇÃO GRATIFICADA. INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, DEPARTAMENTO, GEOGRAFIA, CARTOGRAFIA, ESTADO, (SC). CATALOGOPESSOAL.

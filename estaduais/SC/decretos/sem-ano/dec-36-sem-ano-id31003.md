@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000036"
+uf: "SC"
+tipo: "Decreto"
+numero: "36"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31003"
+baixado_em: 2026-10-15
+---
+# DEC-000036
+
+DEC-000036
+
+ORIGEM EXECUTIVO. DEC-000036 08/10/1947 VIG 10/10/1947 STATUS VIGENTE FONTE PUB DOSC 10/10/1947 PAG 001. EMENTA ALTERA A T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

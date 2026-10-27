@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000092"
+uf: "SC"
+tipo: "Decreto"
+numero: "92"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30514"
+baixado_em: 2026-10-15
+---
+# DEC-000092
+
+DEC-000092
+
+ORIGEM EXECUTIVO. DEC-000092 24/05/1948 VIG 26/05/1948 STATUS VIGENTE FONTE PUB DOSC 26/05/1948 PAG 001. EMENTA SUPRIME, NO QUADRO UNICO DO ESTADO, UM CARGO DE ESCRIVÃO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACASUPRESSÃO, CARGO, ESCRIVÃO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

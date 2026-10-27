@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004135"
+uf: "SC"
+tipo: "Decreto"
+numero: "4135"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35364"
+baixado_em: 2026-10-15
+---
+# DEC-004135
+
+DEC-004135
+
+ORIGEM EXECUTIVO. DEC-004135 26/05/1966 VIG 04/07/1966 STATUS VIGENTE FONTE PUB DOSC 04/07/1966 PAG 001. EMENTA FIXA DIARIAS PARA O PESSOAL DA POLICIA MILITAR DO ESTADO. INDEXACAFIXAÇÃO, VALOR, DIARIAS, PESSOAL, POLICIA MILITAR, ESTADO, (SC). CATALOGODIARIAS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002376"
+uf: "SC"
+tipo: "Decreto"
+numero: "2376"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39034"
+baixado_em: 2026-10-15
+---
+# DEC-002376
+
+DEC-002376
+
+ORIGEM EXECUTIVO. DEC-002376 20/10/1988 VIG 21/10/1988 STATUS VIGENTE FONTE PUB DOSC 21/10/1988 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACA(DER), DOAÇÃO, VEICULO AUTOMOTOR, CONSELHO COMUNITARIO, MUNICIPIO, SÃO FRANCISCO DO SUL, (SC). CATALOGOPATRIMONIO.

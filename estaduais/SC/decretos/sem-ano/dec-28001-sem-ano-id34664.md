@@ -1,0 +1,16 @@
+---
+titulo: "DEC-028001"
+uf: "SC"
+tipo: "Decreto"
+numero: "28001"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34664"
+baixado_em: 2026-10-15
+---
+# DEC-028001
+
+DEC-028001
+
+ORIGEM EXECUTIVO. DEC-028001 18/12/1985 VIG 19/12/1985 STATUS VIGENTE FONTE PUB DOSC 19/12/1985 PAG 001. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, MUNICIPIO, PORTO UNIAO, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

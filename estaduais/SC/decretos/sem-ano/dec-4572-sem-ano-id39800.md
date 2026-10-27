@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004572"
+uf: "SC"
+tipo: "Decreto"
+numero: "4572"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39800"
+baixado_em: 2026-10-15
+---
+# DEC-004572
+
+DEC-004572
+
+ORIGEM EXECUTIVO. DEC-004572 18/01/1990 VIG 19/01/1990 STATUS VIGENTE FONTE PUB DOSC 19/01/1990 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE VEREADOR. INES PAGANINI POSSATO. INDEXACACONCESSÃO, PENSÕES, VIUVA, VEREADOR, MUNICIPIO, ARROIO TRINTA, (SC). CATALOGOPENSÕES.

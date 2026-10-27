@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004635"
+uf: "SC"
+tipo: "Decreto"
+numero: "4635"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40273"
+baixado_em: 2026-10-15
+---
+# DEC-004635
+
+DEC-004635
+
+ORIGEM EXECUTIVO. DEC-004635 19/02/1990 VIG 20/02/1990 STATUS VIGENTE FONTE PUB DOSC 20/02/1990 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE MAGISTRADO. IOLANDA PEREIRA GUIMARÃES. INDEXACACONCESSÃO, PENSÕES, VIUVA, MAGISTRADO, MUNICIPIO, SÃO FRANCISCO DO SUL, (SC). CATALOGOPENSÕES.

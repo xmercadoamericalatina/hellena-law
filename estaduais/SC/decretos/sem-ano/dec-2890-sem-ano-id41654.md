@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002890"
+uf: "SC"
+tipo: "Decreto"
+numero: "2890"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41654"
+baixado_em: 2026-10-15
+---
+# DEC-002890
+
+DEC-002890
+
+ORIGEM EXECUTIVO. DEC-002890 18/05/1998 VIG 18/05/1998 STATUS VIGENTE FONTE PUB DOSC 18/05/1998 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

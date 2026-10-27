@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003827"
+uf: "SC"
+tipo: "Decreto"
+numero: "3827"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37699"
+baixado_em: 2026-10-15
+---
+# DEC-003827
+
+DEC-003827
+
+ORIGEM EXECUTIVO. DEC-003827 13/03/1947 VIG 17/03/1947 FONTE PUB DOSC 17/03/1947 PAG 001. EMENTA SUPRIME CARGOS NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

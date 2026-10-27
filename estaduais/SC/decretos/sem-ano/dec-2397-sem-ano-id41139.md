@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002397"
+uf: "SC"
+tipo: "Decreto"
+numero: "2397"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41139"
+baixado_em: 2026-10-15
+---
+# DEC-002397
+
+DEC-002397
+
+ORIGEM EXECUTIVO. DEC-002397 12/11/1997 VIG 12/11/1997 STATUS VIGENTE FONTE PUB DOSC 12/11/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, TREZE DE MAIO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

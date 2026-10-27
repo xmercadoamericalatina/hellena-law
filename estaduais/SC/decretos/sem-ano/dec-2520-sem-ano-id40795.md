@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002520"
+uf: "SC"
+tipo: "Decreto"
+numero: "2520"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40795"
+baixado_em: 2026-10-15
+---
+# DEC-002520
+
+DEC-002520
+
+ORIGEM EXECUTIVO. DEC-002520 19/12/1997 VIG 19/12/1997 STATUS VIGENTE FONTE PUB DOSC 19/12/1997 PAG 008. EMENTA AUTORIZA DOAÇÃODE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, RIQUEZA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

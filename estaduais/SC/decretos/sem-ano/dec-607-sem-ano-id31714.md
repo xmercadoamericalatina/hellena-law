@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000607"
+uf: "SC"
+tipo: "Decreto"
+numero: "607"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31714"
+baixado_em: 2026-10-15
+---
+# DEC-000607
+
+DEC-000607
+
+ORIGEM EXECUTIVO. DEC-000607 18/10/1949 VIG 31/10/1949 STATUS VIGENTE FONTE PUB DOSC 31/10/1949 PAG 001. EMENTA CESSA O DESDOBRAMENTO DA ESCOLA MISTA DE RIBEIRÃO DA CAÇA, DISTRITO E MUNICIPIO DE TAIO, (SC). (NOTA: EMENTA ELABORADA PELA SJA). CATALOGOESTABELECIMENTO DE ENSINO.

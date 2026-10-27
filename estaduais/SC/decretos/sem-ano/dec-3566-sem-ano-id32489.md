@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003566"
+uf: "SC"
+tipo: "Decreto"
+numero: "3566"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32489"
+baixado_em: 2026-10-15
+---
+# DEC-003566
+
+DEC-003566
+
+ORIGEM EXECUTIVO. DEC-003566 17/12/1998 VIG 17/12/1998 STATUS VIGENTE FONTE PUB DOSC 17/12/1998 PAG 011. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, SANTA ROSA DE LIMA (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

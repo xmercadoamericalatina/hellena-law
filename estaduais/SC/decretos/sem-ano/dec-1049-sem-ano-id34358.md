@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001049"
+uf: "SC"
+tipo: "Decreto"
+numero: "1049"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34358"
+baixado_em: 2026-10-15
+---
+# DEC-001049
+
+DEC-001049
+
+ORIGEM EXECUTIVO. DEC-001049 28/02/1962 VIG 01/12/1961 STATUS VIGENTE FONTE PUB DOSC 15/03/1962 PAG 001. EMENTA APROVA TABELA DE VENCIMENTOS. INDEXACAAPROVAÇÃO, TABELA, VENCIMENTOS, PESSOAL, USINA, BENEFICIAMENTO, LEITE, (SC). CATALOGOPESSOAL.

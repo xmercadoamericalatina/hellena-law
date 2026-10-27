@@ -1,0 +1,17 @@
+---
+titulo: "DEC-004041"
+uf: "SC"
+tipo: "Decreto"
+numero: "4041"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34363"
+baixado_em: 2026-10-15
+---
+# DEC-004041
+
+DEC-004041
+
+ORIGEM EXECUTIVO. DEC-004041 18/04/1966 VIG 02/05/1966 STATUS VIGENTE FONTE PUB DOSC 02/05/1966 PAG 002. EMENTA CRIA FUNÇÃO GRATIFICADA. VIDE  
+DEC-005937/90 DOSC 09/11/1990 PAG 003 RESCISÃO. INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SECRETARIA DE SEGURANÇA PUBLICA, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001304"
+uf: "SC"
+tipo: "Decreto"
+numero: "1304"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37729"
+baixado_em: 2026-10-15
+---
+# DEC-001304
+
+DEC-001304
+
+ORIGEM EXECUTIVO. DEC-001304 29/01/1988 VIG 01/02/1988 STATUS VIGENTE FONTE PUB DOSC 01/02/1988 PAG 001. EMENTA APROVA TOMBAMENTO DO TAC - TEATRO ALVARO DE CARVALHO. INDEXACAAPROVAÇÃO, TOMBAMENTO, PREDIO, TEATRO, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOTOMBAMENTO.

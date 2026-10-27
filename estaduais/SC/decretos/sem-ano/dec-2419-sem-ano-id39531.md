@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002419"
+uf: "SC"
+tipo: "Decreto"
+numero: "2419"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39531"
+baixado_em: 2026-10-15
+---
+# DEC-002419
+
+DEC-002419
+
+ORIGEM EXECUTIVO. DEC-002419 25/10/1988 VIG 26/10/1988 STATUS VIGENTE FONTE PUB DOSC 26/10/1988 PAG 003. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. GERMANO DA SILVA. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, ANGELINA, (SC). CATALOGOPENSÕES.

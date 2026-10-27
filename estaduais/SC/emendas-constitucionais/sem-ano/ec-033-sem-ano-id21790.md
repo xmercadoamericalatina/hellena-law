@@ -1,0 +1,174 @@
+---
+titulo: "Emenda Constitucional nº 033 de 2003"
+uf: "SC"
+tipo: "Emenda Constitucional"
+numero: "033"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/21790"
+baixado_em: 2026-10-13
+---
+# Emenda Constitucional nº 033 de 2003
+
+EMENDA CONSTITUCIONAL Nº 33, 13 de junho de 2003
+
+Procedência – Dep. Francisco de Assis
+
+Natureza – PEC 01/03
+
+DO. 17.176 de 17/06/03
+
+DA. 5123 de 16/06/03
+
+Fonte: ALESC/GCAN
+
+Altera os artigos 31, 50, 57, 71, 90, 105, 107 e 108, inclui o Capítulo III-A no Título V, e acrescenta os artigos 51, 52, 53, 54 e 55 ao Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Santa Catarina.
+
+**A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA**, nos termos do art. 49, § 3º, da Constituição do Estado de Santa Catarina e art. 61, inciso I, do Regimento Interno, promulga o seguinte:
+
+**Art. 1º** A Seção III, do Capítulo IV do Título III e o caput do art. 31 da Constituição do Estado de Santa Catarina, passam a ter a seguinte redação:
+
+"Seção III
+
+Dos Militares Estaduais
+
+**Art. 31.** São militares estaduais os integrantes dos quadros efetivos da Polícia Militar e do Corpo de Bombeiros Militar, que terão as mesmas garantias, deveres e obrigações – estatuto, lei de remuneração, lei de promoção de oficiais e praças e regulamento disciplinar único.”
+
+**Art. 2º** O inciso I, do § 2º, do art. 50 da Constituição do Estado de Santa Catarina, passa a ter a seguinte redação:
+
+"Art. 50 .................................................................................................................
+
+**§ 2º** .......................................................................................................................
+
+I – a organização, o regime jurídico e a fixação ou modificação do efetivo dos militares estaduais;"
+
+**Art. 3º** O inciso V, do parágrafo único, do art. 57 da Constituição do Estado de Santa Catarina, passa a ter a seguinte redação:
+
+"Art. 57. ................................................................................................................
+
+**Parágrafo único.** ....................................................................................................
+
+V – organização da Polícia Militar e do Corpo de Bombeiros Militar e o regime jurídico de seus servidores;”
+
+**Art. 4º** O inciso XV, do art. 71 da Constituição do Estado de Santa Catarina, passa a ter a seguinte redação:
+
+“Art. 71. ................................................................................................................
+
+XV – nomear e exonerar o Comandante-Geral da Polícia Militar e o Comandante-Geral do Corpo de Bombeiros Militar, bem como os militares estaduais, para o exercício de cargos de interesse policial militar e de bombeiro militar, respectivamente, assim definidos em Lei, e promover os oficiais das respectivas corporações.”
+
+**Art. 5º** O caput do art. 90, da Constituição do Estado de Santa Catarina, passa a ter a seguinte redação:
+
+"Art. 90. Os Conselhos de Justiça funcionarão como órgãos de Primeiro Grau da Justiça Militar, constituídos na forma da lei de organização judiciária, com competência para processar e julgar, nos crimes militares definidos em Lei, os militares estaduais."
+
+**Art. 6º** Fica o art. 105 da Constituição do Estado de Santa Catarina, acrescido do inciso III, passando o seu parágrafo único a denominar-se § 1º, e acrescido do § 2º, com a seguinte redação:
+
+"Art. 105. ..............................................................................................................
+
+III – Corpo de Bombeiros Militar.
+
+**§ 2º** O regulamento disciplinar dos militares estaduais será revisto periodicamente, com intervalo de no máximo cinco anos, visando o seu aprimoramento e atualização.”
+
+**Art. 7º** O art. 107 e seus incisos, da Constituição do Estado de Santa Catarina, passam a ter a seguinte redação:
+
+“Art. 107. À Polícia Militar, órgão permanente, força auxiliar, reserva do Exército, organizada com base na hierarquia e na disciplina, subordinada ao Governador do Estado, cabe, nos limites de sua competência, além de outras atribuições estabelecidas em Lei:
+
+I – exercer a polícia ostensiva relacionada com:
+
+a preservação da ordem e da segurança pública;
+
+o radiopatrulhamento terrestre, aéreo, lacustre e fluvial;
+
+o patrulhamento rodoviário;
+
+a guarda e a fiscalização das florestas e dos mananciais;
+
+a guarda e a fiscalização do trânsito urbano;
+
+a polícia judiciária militar, nos termos de lei federal;
+
+a proteção do meio ambiente;
+
+a garantia do exercício do poder de polícia dos órgãos e entidades públicas, especialmente da área fazendária, sanitária, de proteção ambiental, de uso e ocupação do solo e de patrimônio cultural;
+
+II – cooperar com órgãos de defesa civil; e
+
+III – atuar preventivamente como força de dissuasão e repressivamente como de restauração da ordem pública.
+
+**§ 1º** A Polícia Militar:
+
+I – é comandada por oficial da ativa do último posto da corporação; e
+
+II – disporá de quadro de pessoal civil para a execução de atividades administrativas, auxiliares de apoio e de manutenção.
+
+**§ 2º** Os cargos não previstos nos quadros de organização da corporação poderão ser exercidos pelo pessoal da Polícia Militar, por nomeação do Governador do Estado.”
+
+**Art. 8º** Fica incluído o Capítulo III-A no Título V, da Constituição do Estado de Santa Catarina, contendo o art. 108, com a seguinte redação:
+
+“Capítulo III-A
+
+Do Corpo de Bombeiros Militar
+
+**Art. 108.** O Corpo de Bombeiros Militar, órgão permanente, força auxiliar, reserva do Exército, organizado com base na hierarquia e disciplina, subordinado ao Governador do Estado, cabe, nos limites de sua competência, além de outras atribuições estabelecidas em Lei:
+
+I – realizar os serviços de prevenção de sinistros ou catástrofes, de combate a incêndio e de busca e salvamento de pessoas e bens e o atendimento pré-hospitalar;
+
+II – estabelecer normas relativas à segurança das pessoas e de seus bens contra incêndio, catástrofe ou produtos perigosos;
+
+III – analisar, previamente, os projetos de segurança contra incêndio em edificações, contra sinistros em áreas de risco e de armazenagem, manipulação e transporte de produtos perigosos, acompanhar e fiscalizar sua execução, e impor sanções administrativas estabelecidas em Lei;
+
+IV – realizar perícias de incêndio e de áreas sinistradas no limite de sua competência;
+
+V – colaborar com os órgãos da defesa civil;
+
+VI – exercer a polícia judiciária militar, nos termos de lei federal;
+
+VII – estabelecer a prevenção balneária por salva-vidas; e
+
+VIII – prevenir acidentes e incêndios na orla marítima e fluvial.
+
+**§ 1º** O Corpo de Bombeiros Militar:
+
+I – é comandado por oficial da ativa do último posto da corporação; e
+
+II – disporá de quadro de pessoal civil para a execução de atividades administrativas, auxiliares de apoio e de manutenção.
+
+**§ 2º** Os cargos não previstos nos quadros de organização da corporação, poderão ser exercidos pelo pessoal do Corpo de Bombeiros Militar, por nomeação do Governador do Estado.”
+
+**Art. 9º** Ficam acrescentados ao Ato das Disposições Constitucionais Transitórias os seguintes artigos 51, 52, 53, 54 e 55:
+
+“Art. 51. Os militares estaduais e funcionários civis lotados funcionalmente nas unidades do Corpo de Bombeiros Militar, terão direito de optar pela permanência, conforme estabelecido em Lei.
+
+**Art. 52.** Os militares estaduais, lotados funcionalmente nas unidades ou órgãos da Polícia Militar, poderão optar pelo Corpo de Bombeiros Militar, de acordo com os prazos e requisitos de qualificação estabelecidos em Lei.
+
+**Art. 53.** Até que dispositivo legal regule sobre a organização básica, estatuto, regulamento disciplinar e lei de promoção de oficiais e praças, aplica-se ao Corpo de Bombeiros Militar a legislação vigente para a Polícia Militar.
+
+**§ 1º** A legislação que tratar de assuntos comuns como do estatuto, do regulamento disciplinar, da remuneração, do plano de carreira, da promoção de oficiais e praças e seus regulamentos, será única e aplicável aos militares estaduais.
+
+**§ 2º** A legislação que abordar assuntos como lei de organização básica, orçamento e fixação de efetivo, será especifica e aplicável a cada corporação.
+
+**Art. 54.** A efetivação do desmembramento patrimonial da Polícia Militar para o Corpo de Bombeiros Militar se dará na forma de lei.
+
+**Parágrafo único.** Será aproveitada pelo Corpo de Bombeiros Militar a estrutura administrativa existente, até que se promova a sua adequação.
+
+**Art. 55.** O Poder Executivo regulamentará a emancipação administrativa e operacional do Corpo de Bombeiros Militar, no prazo de 180 (cento e oitenta) dias, contados da publicação da emenda que institui este artigo, visando o seu aprimoramento e atualização.”
+
+PALÁCIO BARRIGA-VERDE, em Florianópolis, 13 de junho de 2003
+
+Deputado **VOLNEI MORASTONI**
+
+Presidente
+
+Deputado Onofre Santo Agostini, 1º Vice-Presidente
+
+Deputado Nilson Gonçalves, 2º Vice-Presidente
+
+Deputado Romildo Titon, 1º Secretário
+
+Deputado Altair Guidi, 2º Secretário
+
+Deputado Sérgio Godinho, 3º Secretário
+
+Deputado Francisco de Assis, 4º Secretário
+
+PAGE

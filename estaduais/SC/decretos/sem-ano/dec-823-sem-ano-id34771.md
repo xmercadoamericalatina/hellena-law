@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000823"
+uf: "SC"
+tipo: "Decreto"
+numero: "823"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34771"
+baixado_em: 2026-10-15
+---
+# DEC-000823
+
+DEC-000823
+
+ORIGEM EXECUTIVO. DEC-000823 23/10/1950 VIG 26/10/1950 FONTE PUB DOSC 26/10/1950 PAG 001. EMENTA SUPRIME CARGO NO QUADRO UNICO DO ESTADO DE SANTA CATARINA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

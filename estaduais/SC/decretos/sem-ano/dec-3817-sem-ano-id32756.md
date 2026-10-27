@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003817"
+uf: "SC"
+tipo: "Decreto"
+numero: "3817"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32756"
+baixado_em: 2026-10-15
+---
+# DEC-003817
+
+DEC-003817
+
+ORIGEM EXECUTIVO. DEC-003817 14/02/1947 VIG 25/02/1947 STATUS VIGENTE FONTE PUB DOSC 25/02/1947 PAG 001. EMENTA CRIA GRUPO ESCOLAR E DA DENOMINAÇÃO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, DENOMINAÇÃO, GRUPO ESCOLAR, MUNICIPIO, CHAPECO, (SC). CATALOGOOBRA PUBLICA.

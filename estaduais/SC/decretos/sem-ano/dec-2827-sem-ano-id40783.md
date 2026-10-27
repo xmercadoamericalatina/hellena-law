@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002827"
+uf: "SC"
+tipo: "Decreto"
+numero: "2827"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40783"
+baixado_em: 2026-10-15
+---
+# DEC-002827
+
+DEC-002827
+
+ORIGEM EXECUTIVO. DEC-002827 05/05/1998 VIG 05/05/1998 STATUS VIGENTE FONTE PUB DOSC 05/05/1998 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, SÃO JOSE DO CEDRO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000112"
+uf: "SC"
+tipo: "Decreto"
+numero: "112"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34480"
+baixado_em: 2026-10-15
+---
+# DEC-000112
+
+DEC-000112
+
+ORIGEM EXECUTIVO. DEC-000112 01/06/1987 VIG 02/06/1987 STATUS VIGENTE FONTE PUB DOSC 02/06/1987 PAG 006. EMENTA ALTERA O TERMO INICIAL DE VIGENCIA DO DEC 69, DE 18/05/87 QUE INTRODUZ A ALTERAÇÃO 8 NO RICM-SC/87. INDEXACA(FALTA INDEXAR). CATALOGO(FALTA CATALOGO).

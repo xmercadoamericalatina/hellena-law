@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003820"
+uf: "SC"
+tipo: "Decreto"
+numero: "3820"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33759"
+baixado_em: 2026-10-15
+---
+# DEC-003820
+
+DEC-003820
+
+ORIGEM EXECUTIVO. DEC-003820 24/02/1947 VIG 25/02/1947 FONTE PUB DOSC 25/02/1947 PAG 001. EMENTA SUPRIME CARGOS NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

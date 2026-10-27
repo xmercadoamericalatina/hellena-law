@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005186"
+uf: "SC"
+tipo: "Decreto"
+numero: "5186"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39009"
+baixado_em: 2026-10-15
+---
+# DEC-005186
+
+DEC-005186
+
+ORIGEM EXECUTIVO. DEC-005186 08/08/1990 VIG 09/08/1990 STATUS VIGENTE FONTE PUB DOSC 09/08/1990 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, (CEAG), (SC). CATALOGOPATRIMONIO.

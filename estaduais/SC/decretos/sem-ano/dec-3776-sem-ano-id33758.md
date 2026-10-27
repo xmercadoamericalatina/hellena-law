@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003776"
+uf: "SC"
+tipo: "Decreto"
+numero: "3776"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33758"
+baixado_em: 2026-10-15
+---
+# DEC-003776
+
+DEC-003776
+
+ORIGEM EXECUTIVO. DEC-003776 18/01/1947 VIG 22/01/1947 FONTE PUB DOSC 22/01/1947 PAG 001. EMENTA SUPRIME CARGO NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

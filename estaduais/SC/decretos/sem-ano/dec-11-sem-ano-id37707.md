@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000011"
+uf: "SC"
+tipo: "Decreto"
+numero: "11"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37707"
+baixado_em: 2026-10-15
+---
+# DEC-000011
+
+DEC-000011
+
+ORIGEM EXECUTIVO. DEC-000011 10/03/1960 VIG 23/03/1960 STATUS VIGENTE FONTE PUB DOSC 23/03/1960 PAG 001. EMENTA CRIA UMA FUNÇÃO GRATIFICADA NA DIRETORIA DA PRODUÇÃO ANIMAL. (EMENTA ELABORADA PELA SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SECRETARIA DE AGRICULTURA, (SC). CATALOGOPESSOAL.

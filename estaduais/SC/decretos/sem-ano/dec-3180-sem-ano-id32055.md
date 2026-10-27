@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003180"
+uf: "SC"
+tipo: "Decreto"
+numero: "3180"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32055"
+baixado_em: 2026-10-15
+---
+# DEC-003180
+
+DEC-003180
+
+ORIGEM EXECUTIVO. DEC-003180 14/09/1998 VIG 14/09/1998 STATUS VIGENTE FONTE PUB DOSC 14/09/1998 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, (APAE), MUNICIPIO, MAJOR VIEIRA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000338"
+uf: "SC"
+tipo: "Decreto"
+numero: "338"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32048"
+baixado_em: 2026-10-15
+---
+# DEC-000338
+
+DEC-000338
+
+ORIGEM EXECUTIVO. DEC-000338 29/09/1948 VIG 30/09/1948 STATUS VIGENTE FONTE PUB DOSC 30/09/1948 PAG 005. EMENTA SUPRIME, NO QUADRO UNICO DO ESTADO, UM CARGO DE CONTINUO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACASUPRESSÃO, CARGO, CONTINUO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

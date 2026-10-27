@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000018"
+uf: "SC"
+tipo: "Decreto"
+numero: "18"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35562"
+baixado_em: 2026-10-15
+---
+# DEC-000018
+
+DEC-000018
+
+ORIGEM EXECUTIVO. DEC-000018 14/06/1958 VIG 26/06/1958 FONTE PUB DOSC 26/06/1958 PAG 001. REP DOSC 04/07/1958 PAG 001 EMENTA DISPÕE SOBRE DIARIAS DA POLICIA MILITAR DE SC. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, DIARIAS, OFICIAL DA POLICIA MILITAR, (SC). CATALOGODIARIAS.

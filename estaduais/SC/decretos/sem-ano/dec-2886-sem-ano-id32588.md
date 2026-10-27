@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002886"
+uf: "SC"
+tipo: "Decreto"
+numero: "2886"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32588"
+baixado_em: 2026-10-15
+---
+# DEC-002886
+
+DEC-002886
+
+ORIGEM EXECUTIVO. DEC-002886 29/10/1992 VIG 01/11/1992 STATUS VIGENTE FONTE PUB DOSC 29/10/1992 PAG 023. EMENTA INTRODUZ AS ALTERAÇÕES 651 A 655 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

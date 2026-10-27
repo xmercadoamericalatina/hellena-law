@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001662"
+uf: "SC"
+tipo: "Decreto"
+numero: "1662"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37158"
+baixado_em: 2026-10-15
+---
+# DEC-001662
+
+DEC-001662
+
+ORIGEM EXECUTIVO. DEC-001662 16/05/1988 VIG 17/05/1988 STATUS VIGENTE FONTE PUB DOSC 17/05/1988 PAG 003. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. THERESA DEITOS SFREDO. INDEXACACONCESSÃO, PENSÕES, VIUVA, JUIZ DE PAZ, MUNICIPIO, SEARA, (SC). CATALOGOPENSÕES.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003011"
+uf: "SC"
+tipo: "Decreto"
+numero: "3011"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42737"
+baixado_em: 2026-10-15
+---
+# DEC-003011
+
+DEC-003011
+
+ORIGEM EXECUTIVO. DEC-003011 26/06/1998 VIG 26/06/1998 STATUS VIGENTE FONTE PUB DOSC 26/06/1998 PAG 009. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, FUNDAÇÃO. CATALOGOPATRIMONIO, BENS MOVEIS.

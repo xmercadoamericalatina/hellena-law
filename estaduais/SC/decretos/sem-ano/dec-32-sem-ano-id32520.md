@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000032"
+uf: "SC"
+tipo: "Decreto"
+numero: "32"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32520"
+baixado_em: 2026-10-15
+---
+# DEC-000032
+
+DEC-000032
+
+ORIGEM EXECUTIVO. DEC-000032 16/09/1947 VIG 24/09/1947 STATUS VIGENTE FONTE PUB DOSC 24/09/1947 PAG 001. EMENTA ALTERA A T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003142"
+uf: "SC"
+tipo: "Decreto"
+numero: "3142"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36839"
+baixado_em: 2026-10-15
+---
+# DEC-003142
+
+DEC-003142
+
+ORIGEM EXECUTIVO. DEC-003142 12/04/1989 VIG 01/03/1989 STATUS VIGENTE FONTE PUB DOSC 13/04/1989 PAG 008. EMENTA INTRODUZ A PRIMEIRA (1) ALTERAº`O NO REGULAMENTO DO ICMS - RICMS/SC. INDEXACAALTERAº`O, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAº`O TRIBUTARIA.

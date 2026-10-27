@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000052"
+uf: "SC"
+tipo: "Decreto"
+numero: "52"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31241"
+baixado_em: 2026-10-15
+---
+# DEC-000052
+
+DEC-000052
+
+ORIGEM EXECUTIVO. DEC-000052 13/03/1947 VIG 14/03/1947 STATUS VIGENTE FONTE PUB DOSC 13/03/1947 PAG 001. EMENTA CRIA FUNÇÃO NA T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, FUNÇÃO, COLETOR, TESOURO ESTADUAL, EXERCICIO, MUNICIPIO, MONDAI, (SC). CATALOGOPESSOAL.

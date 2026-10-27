@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004547"
+uf: "SC"
+tipo: "Decreto"
+numero: "4547"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39768"
+baixado_em: 2026-10-15
+---
+# DEC-004547
+
+DEC-004547
+
+ORIGEM EXECUTIVO. DEC-004547 17/01/1990 VIG 18/01/1990 STATUS VIGENTE FONTE PUB DOSC 18/01/1990 PAG 005. EMENTA AUTORIZA A DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, BENS MOVEIS, ENTIDADE, ESTADO, (SC). CATALOGOPATRIMONIO.

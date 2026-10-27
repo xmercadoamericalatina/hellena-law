@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000787"
+uf: "SC"
+tipo: "Decreto"
+numero: "787"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36171"
+baixado_em: 2026-10-15
+---
+# DEC-000787
+
+DEC-000787
+
+ORIGEM EXECUTIVO. DEC-000787 23/02/1959 VIG 01/01/1959 FONTE PUB DOSC 26/02/1959 PAG 001. EMENTA DISPÕE SOBRE CRIAÇÃO DE FUNÇÕES GRATIFICADAS NA SECRETARIA DE EDUCAÇÃO E CULTURA (SEC). NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SECRETARIA DE EDUCAÇÃO E CULTURA, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002410"
+uf: "SC"
+tipo: "Decreto"
+numero: "2410"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/41973"
+baixado_em: 2026-10-15
+---
+# DEC-002410
+
+DEC-002410
+
+ORIGEM EXECUTIVO. DEC-002410 18/11/1997 VIG 18/11/1997 STATUS VIGENTE FONTE PUB DOSC 18/11/1997 PAG 004. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, MONTE CASTELO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

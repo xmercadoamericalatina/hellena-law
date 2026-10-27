@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005091"
+uf: "SC"
+tipo: "Decreto"
+numero: "5091"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36833"
+baixado_em: 2026-10-15
+---
+# DEC-005091
+
+DEC-005091
+
+ORIGEM EXECUTIVO. DEC-005091 20/07/1990 VIG 23/07/1990 STATUS VIGENTE FONTE PUB DOSC 23/07/1990 PAG 006. EMENTA AUTORIZA A DOAÇÃO DE BENS MOVEIS. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, BENS MOVEIS, PREFEITURA MUNICIPAL, TIJUCAS, (SC). CATALOGOPATRIMONIO.

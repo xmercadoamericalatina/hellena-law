@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001356"
+uf: "SC"
+tipo: "Decreto"
+numero: "1356"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36627"
+baixado_em: 2026-10-15
+---
+# DEC-001356
+
+DEC-001356
+
+ORIGEM EXECUTIVO. DEC-001356 07/03/1964 VIG 10/03/1964 STATUS VIGENTE FONTE PUB DOSC 10/03/1964 PAG 001. EMENTA CRIA FUNÇÕES GRATIFICADAS. INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SECRETARIA DE SAUDE, ASSISTENCIA SOCIAL, (SC). CATALOGO(SESAS), PESSOAL.

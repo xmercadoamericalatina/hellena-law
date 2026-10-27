@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000233"
+uf: "SC"
+tipo: "Decreto"
+numero: "233"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31022"
+baixado_em: 2026-10-15
+---
+# DEC-000233
+
+DEC-000233
+
+ORIGEM EXECUTIVO. DEC-000233 22/05/1948 VIG 25/05/1948 STATUS VIGENTE FONTE PUB DOSC 25/05/1948 PAG 001. EMENTA DENOMINA OS CURSOS NORMAIS REGIONAIS QUE ESPECIFICA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACADENOMINAÇÃO, CURSOS, ENSINO NORMAL, ESTADO, (SC). CATALOGOENSINO.

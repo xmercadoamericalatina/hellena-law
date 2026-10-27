@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001195"
+uf: "SC"
+tipo: "Decreto"
+numero: "1195"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37663"
+baixado_em: 2026-10-15
+---
+# DEC-001195
+
+DEC-001195
+
+ORIGEM EXECUTIVO. DEC-001195 18/12/1987 VIG 18/12/1987 STATUS VIGENTE FONTE PUB DOSC 18/12/1987 PAG 004. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. ADECIO ANISIO DA SILVA. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, ITAJAI, (SC). CATALOGOPENSÕES.

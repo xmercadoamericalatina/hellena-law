@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000616"
+uf: "SC"
+tipo: "Decreto"
+numero: "616"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34415"
+baixado_em: 2026-10-15
+---
+# DEC-000616
+
+DEC-000616
+
+ORIGEM EXECUTIVO. DEC-000616 15/09/1954 VIG 24/09/1954 FONTE PUB DOSC 24/09/1954 PAG 001. EMENTA EXTINGUE CARGOS NO QUADRO UNICO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAEXTINÇÃO, CARGO EFETIVO, ESCRITURARIO, QUADRO GERAL, ESTADO, (SC). CATALOGOPESSOAL.

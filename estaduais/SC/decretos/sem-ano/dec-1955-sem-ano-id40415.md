@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001955"
+uf: "SC"
+tipo: "Decreto"
+numero: "1955"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40415"
+baixado_em: 2026-10-15
+---
+# DEC-001955
+
+DEC-001955
+
+ORIGEM EXECUTIVO. DEC-001955 24/06/1997 VIG 24/06/1997 STATUS VIGENTE FONTE PUB DOSC 24/06/1997 PAG 006. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, MORRO DA FUMAÇA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

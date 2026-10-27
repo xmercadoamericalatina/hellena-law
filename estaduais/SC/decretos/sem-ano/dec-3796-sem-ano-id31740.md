@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003796"
+uf: "SC"
+tipo: "Decreto"
+numero: "3796"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31740"
+baixado_em: 2026-10-15
+---
+# DEC-003796
+
+DEC-003796
+
+ORIGEM EXECUTIVO. DEC-003796 05/02/1947 VIG 11/02/1947 STATUS VIGENTE FONTE PUB DOSC 11/02/1947 PAG 001. EMENTA CRIA ESCOLA MISTA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, ESTABELECIMENTO DE ENSINO, DISTRITO, ERVEIRA, MUNICIPIO, MAFRA, (SC). CATALOGOOBRA PUBLICA.

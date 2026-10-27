@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002069"
+uf: "SC"
+tipo: "Decreto"
+numero: "2069"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39343"
+baixado_em: 2026-10-15
+---
+# DEC-002069
+
+DEC-002069
+
+ORIGEM EXECUTIVO. DEC-002069 17/08/1988 VIG 18/08/1988 STATUS VIGENTE FONTE PUB DOSC 18/08/1988 PAG 002. EMENTA AUTORIZA A DOAÇÃO DE VEICULO. INDEXACAAUTORIZAÇÃO, (DER), (SC), DOAÇÃO, MAQUINA DE TERRAPLENAGEM, PREFEITURA MUNICIPAL, ITAPEMA. (SC). CATALOGOPATRIMONIO.

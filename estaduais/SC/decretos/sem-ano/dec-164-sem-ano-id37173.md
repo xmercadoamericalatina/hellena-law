@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000164"
+uf: "SC"
+tipo: "Decreto"
+numero: "164"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37173"
+baixado_em: 2026-10-15
+---
+# DEC-000164
+
+DEC-000164
+
+ORIGEM EXECUTIVO. DEC-000164 23/11/1959 VIG 01/12/1959 FONTE PUB DOSC 01/12/1959 PAG 001. EMENTA CRIA FUNÇÃO GRATIFICADA NO PALACIO DO GOVERNO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, SEDE, GOVERNO ESTADUAL, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004337"
+uf: "SC"
+tipo: "Decreto"
+numero: "4337"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39714"
+baixado_em: 2026-10-15
+---
+# DEC-004337
+
+DEC-004337
+
+ORIGEM EXECUTIVO. DEC-004337 13/12/1989 VIG 19/12/1989 STATUS VIGENTE FONTE PUB DOSC 14/12/1989 PAG 006. EMENTA INTRODUZ AS ALTERAÇÕES 176 A 181 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

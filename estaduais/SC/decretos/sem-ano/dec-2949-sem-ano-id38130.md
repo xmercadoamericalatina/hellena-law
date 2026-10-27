@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002949"
+uf: "SC"
+tipo: "Decreto"
+numero: "2949"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38130"
+baixado_em: 2026-10-15
+---
+# DEC-002949
+
+DEC-002949
+
+ORIGEM EXECUTIVO. DEC-002949 30/12/1988 VIG 31/12/1988 STATUS VIGENTE FONTE PUB DOSC 31/12/1988 PAG 009. EMENTA REFORMULA PLANO DE APLICAº`O QUE MENCIONA. INDEXACAREFORMULAº`O, PLANO DE APLICAº`O, FUNDO DE DESENVOLVIMENTO, MUNICIPIOS, (SC). CATALOGOORºAMENTO.

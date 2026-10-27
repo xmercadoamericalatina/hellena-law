@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003592"
+uf: "SC"
+tipo: "Decreto"
+numero: "3592"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34361"
+baixado_em: 2026-10-15
+---
+# DEC-003592
+
+DEC-003592
+
+ORIGEM EXECUTIVO. DEC-003592 10/12/1965 VIG 16/12/1965 STATUS VIGENTE FONTE PUB DOSC 16/12/1965 PAG 001. EMENTA ATRIBUI GRATIFICAÇÃO MENSAL. NOTA:(EMENTA ELEBORADA PELA SEA). INDEXACAFIXAÇÃO, VALOR, GRATIFICAÇÃO, MEMBROS, GRUPO EXECUTIVO, BOLSA DE ESTUDO, ESTADO, (SC). CATALOGOPESSOAL.

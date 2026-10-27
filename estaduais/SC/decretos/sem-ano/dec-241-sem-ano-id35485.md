@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000241"
+uf: "SC"
+tipo: "Decreto"
+numero: "241"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35485"
+baixado_em: 2026-10-15
+---
+# DEC-000241
+
+DEC-000241
+
+ORIGEM EXECUTIVO. DEC-000241 07/07/1987 VIG 08/07/1987 STATUS VIGENTE FONTE PUB DOSC 08/07/1987 PAG 002. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. CRISTINA FERRARI DA SILVA. INDEXACACONCESSÃO, PENSÕES, VIUVA, JUIZ DE PAZ, MUNICIPIO, POUSO REDONDO, (SC). CATALOGOPENSÕES.

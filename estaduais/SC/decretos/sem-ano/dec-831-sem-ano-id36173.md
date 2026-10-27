@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000831"
+uf: "SC"
+tipo: "Decreto"
+numero: "831"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36173"
+baixado_em: 2026-10-15
+---
+# DEC-000831
+
+DEC-000831
+
+ORIGEM EXECUTIVO. DEC-000831 30/04/1959 VIG 04/05/1959 FONTE PUB DOSC 04/05/1959 PAG 001. EMENTA DISPÕE SOBRE REGIÕES ESCOLARES. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, UNIDADE REGIONAL, EDUCAÇÃO, ESTADO, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

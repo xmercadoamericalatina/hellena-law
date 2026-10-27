@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005090"
+uf: "SC"
+tipo: "Decreto"
+numero: "5090"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36336"
+baixado_em: 2026-10-15
+---
+# DEC-005090
+
+DEC-005090
+
+ORIGEM EXECUTIVO. DEC-005090 18/07/1990 VIG 20/07/1990 STATUS VIGENTE FONTE PUB DOSC 20/07/1990 PAG 010. EMENTA INTRODUZ AS ALTERAÇÕES 292 A 301 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

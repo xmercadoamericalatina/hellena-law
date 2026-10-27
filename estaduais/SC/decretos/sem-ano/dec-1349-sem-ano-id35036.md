@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001349"
+uf: "SC"
+tipo: "Decreto"
+numero: "1349"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35036"
+baixado_em: 2026-10-15
+---
+# DEC-001349
+
+DEC-001349
+
+ORIGEM EXECUTIVO. DEC-001349 10/12/1971 VIG 20/12/1971 STATUS VIGENTE FONTE PUB DOSC 20/12/1971 PAG 001. EMENTA ATRIBUI JETON AOS MEMBROS DO CONSELHO ESTADUAL DE CULTURA. INDEXACACONCESSÃO, JETON, MEMBROS, CONSELHO ESTADUAL, CULTURA, (SC). CATALOGOPESSOAL.

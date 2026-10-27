@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000897"
+uf: "SC"
+tipo: "Decreto"
+numero: "897"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40405"
+baixado_em: 2026-10-15
+---
+# DEC-000897
+
+DEC-000897
+
+ORIGEM EXECUTIVO. DEC-000897 22/05/1996 VIG 22/05/1996 STATUS VIGENTE FONTE PUB DOSC 22/05/1996 PAG 002. EMENTA INTRODUZ AS ALTERAÇÕES 1392 A 1397 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

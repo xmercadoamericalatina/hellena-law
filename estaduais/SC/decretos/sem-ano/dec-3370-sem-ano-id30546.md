@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003370"
+uf: "SC"
+tipo: "Decreto"
+numero: "3370"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/30546"
+baixado_em: 2026-10-15
+---
+# DEC-003370
+
+DEC-003370
+
+ORIGEM EXECUTIVO. DEC-003370 18/11/1998 VIG 18/11/1998 STATUS VIGENTE FONTE PUB DOSC 18/11/1998 PAG 001. EMENTA AUTORIZA O FUNCIONAMENTO DO ENSINO FUNDAMENTAL - 1 A 4 SERIE NO COLEGIO CENECISTA PRESIDENTE DUTRA - MUNICIPIO FAXINAL DOS GUEDES. CATALOGOENSINO.

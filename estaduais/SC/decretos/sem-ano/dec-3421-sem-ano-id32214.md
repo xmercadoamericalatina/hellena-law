@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003421"
+uf: "SC"
+tipo: "Decreto"
+numero: "3421"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32214"
+baixado_em: 2026-10-15
+---
+# DEC-003421
+
+DEC-003421
+
+ORIGEM EXECUTIVO. DEC-003421 04/12/1998 VIG 04/12/1998 STATUS VIGENTE FONTE PUB DOSC 04/12/1998 PAG 001. EMENTA DECRETA LUTO OFICIAL. ALEXANDRE PASSOS PUZINA. INDEXACADECRETAÇÃO, LUTO OFICIAL, FALECIMENTO, EX PREFEITO. CATALOGOLUTO OFICIAL.

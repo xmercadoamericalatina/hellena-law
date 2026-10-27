@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000005"
+uf: "SC"
+tipo: "Decreto"
+numero: "5"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34917"
+baixado_em: 2026-10-15
+---
+# DEC-000005
+
+DEC-000005
+
+ORIGEM EXECUTIVO. DEC-000005 19/06/1954 VIG 06/07/1954 FONTE PUB DOSC 06/07/1954 PAG 001. EMENTA LOTA CARGOS NA SECRETARIA DE AGRICULTURA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACALOTAÇÃO, CARGO EFETIVO, ESCRITURARIO, SECRETARIA DE AGRICULTURA, (SC). CATALOGO(SAG), PESSOAL.

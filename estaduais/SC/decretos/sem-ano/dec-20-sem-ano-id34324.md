@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000020"
+uf: "SC"
+tipo: "Decreto"
+numero: "20"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34324"
+baixado_em: 2026-10-15
+---
+# DEC-000020
+
+DEC-000020
+
+ORIGEM EXECUTIVO. DEC-000020 07/04/1987 VIG 09/04/1987 STATUS VIGENTE FONTE PUB DOSC 09/04/1987 PAG 002. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. JOÃO VISINTEVSKI. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, MAJOR VIEIRA, (SC). CATALOGOPENSÕES.

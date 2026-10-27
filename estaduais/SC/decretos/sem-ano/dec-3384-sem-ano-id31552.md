@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003384"
+uf: "SC"
+tipo: "Decreto"
+numero: "3384"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31552"
+baixado_em: 2026-10-15
+---
+# DEC-003384
+
+DEC-003384
+
+ORIGEM EXECUTIVO. DEC-003384 23/11/1998 VIG 23/11/1998 STATUS VIGENTE FONTE PUB DOSC 23/11/1998 PAG 002. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, RIQUEZA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000004"
+uf: "SC"
+tipo: "Decreto"
+numero: "4"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36084"
+baixado_em: 2026-10-15
+---
+# DEC-000004
+
+DEC-000004
+
+ORIGEM EXECUTIVO. DEC-000004 19/01/1959 VIG 28/01/1959 FONTE PUB DOSC 28/01/1959 PAG 002. EMENTA DISPÕE SOBRE JUSTIFICAÇÃO DE FALTAS DO FUNCIONALISMO PUBLICO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACANORMAS, JUSTIFICAÇÃO, FALTA, MOTIVO, SAUDE, FUNCIONARIO PUBLICO, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005177"
+uf: "SC"
+tipo: "Decreto"
+numero: "5177"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39503"
+baixado_em: 2026-10-15
+---
+# DEC-005177
+
+DEC-005177
+
+ORIGEM EXECUTIVO. DEC-005177 07/08/1990 VIG 08/08/1990 STATUS VIGENTE FONTE PUB DOSC 08/08/1990 PAG 007. EMENTA INTRODUZ AS ALTERAÇÕES 302 A 307 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-00035A"
+uf: "SC"
+tipo: "Decreto"
+numero: "35"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36673"
+baixado_em: 2026-10-15
+---
+# DEC-00035A
+
+DEC-00035A
+
+ORIGEM EXECUTIVO. DEC-00035A 30/07/1959 VIG 08/09/1959 FONTE PUB DOSC 08/09/1959 PAG 001. EMENTA CRIA FUNÇÕES GRATIFICADAS NO DEPARTAMENTO DE ESTRADAS DE RODAGEM (DER). NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, (DER), (SC). CATALOGO(DER), PESSOAL.

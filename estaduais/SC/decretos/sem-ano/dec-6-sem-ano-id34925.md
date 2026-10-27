@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000006"
+uf: "SC"
+tipo: "Decreto"
+numero: "6"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34925"
+baixado_em: 2026-10-15
+---
+# DEC-000006
+
+DEC-000006
+
+ORIGEM EXECUTIVO. DEC-000006 16/02/1956 VIG 17/02/1956 FONTE PUB DOSC 17/02/1956 PAG 001. EMENTA FIXA DIARIAS AOS FUNCIONARIOS DA SECRETARIA DA EDUCAÇÃO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, DIARIAS, PESSOAL, SECRETARIA DE EDUCAÇÃO, (SC). CATALOGODIARIAS.

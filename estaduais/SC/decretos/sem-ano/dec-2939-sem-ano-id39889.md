@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002939"
+uf: "SC"
+tipo: "Decreto"
+numero: "2939"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39889"
+baixado_em: 2026-10-15
+---
+# DEC-002939
+
+DEC-002939
+
+ORIGEM EXECUTIVO. DEC-002939 04/06/1998 VIG 04/06/1998 STATUS VIGENTE FONTE PUB DOSC 04/06/1998 PAG 001. EMENTA DECRETA LUTO OFICIAL. FLAVIO BALDISSERA. INDEXACADECRETAÇÃO, LUTO OFICIAL, FALECIMENTO, ESTADO, (SC). CATALOGOLUTO OFICIAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000001"
+uf: "SC"
+tipo: "Decreto"
+numero: "1"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34423"
+baixado_em: 2026-10-15
+---
+# DEC-000001
+
+DEC-000001
+
+ORIGEM EXECUTIVO. DEC-000001 08/02/1956 VIG 01/03/1956 FONTE PUB DOSC 01/03/1956 PAG 001. EMENTA FIXA DIARIA AO DIRETOR DA ESTRADA DE FERRO SANTA CATARINA. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, DIARIAS, DIRETOR, FERROVIA, (SC). CATALOGODIARIAS.

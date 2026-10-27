@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000224"
+uf: "SC"
+tipo: "Decreto"
+numero: "224"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35520"
+baixado_em: 2026-10-15
+---
+# DEC-000224
+
+DEC-000224
+
+ORIGEM EXECUTIVO. DEC-000224 26/04/1963 VIG 01/02/1963 STATUS VIGENTE FONTE PUB DOSC 02/05/1963 PAG 001. EMENTA CRIA A FUNÇÃO DE ASSISTENTE DO COMANDANTE GERAL DA POLICIA MILITAR DO ESTADO. INDEXACACRIAÇÃO, FUNÇÃO, POLICIA MILITAR, (SC). CATALOGOPOLICIA MILITAR, PESSOAL.

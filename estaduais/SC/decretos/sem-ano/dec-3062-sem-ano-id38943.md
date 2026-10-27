@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003062"
+uf: "SC"
+tipo: "Decreto"
+numero: "3062"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38943"
+baixado_em: 2026-10-15
+---
+# DEC-003062
+
+DEC-003062
+
+ORIGEM EXECUTIVO. DEC-003062 03/07/1998 VIG 03/07/1998 STATUS VIGENTE FONTE PUB DOSC 03/07/1998 PAG 015. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, ARVOREDO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

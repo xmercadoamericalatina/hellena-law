@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001148"
+uf: "SC"
+tipo: "Decreto"
+numero: "1148"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36637"
+baixado_em: 2026-10-15
+---
+# DEC-001148
+
+DEC-001148
+
+ORIGEM EXECUTIVO. DEC-001148 16/12/1987 VIG 16/12/1987 STATUS VIGENTE FONTE PUB DOSC 16/12/1987 PAG 016. EMENTA CONCEDE PENSÃO A VIUVA DE DESEMBARGADOR. IONE SIMONE RAMOS. INDEXACACONCESSÃO, PENSÕES, VIUVA, DESEMBARGADOR, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOPENSÕES.

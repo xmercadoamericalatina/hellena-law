@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000590"
+uf: "SC"
+tipo: "Decreto"
+numero: "590"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35300"
+baixado_em: 2026-10-15
+---
+# DEC-000590
+
+DEC-000590
+
+ORIGEM EXECUTIVO. DEC-000590 22/09/1987 VIG 23/09/1987 STATUS VIGENTE FONTE PUB DOSC 23/09/1987 PAG 020. EMENTA RATIFICA O CONVENIO ICM 49/87, CELEBRADO DURANTE A 47 REUNIÃO ORDINARIA DO CONFAZ. INDEXACA(FALTA INDEXAR). CATALOGO(FALTA CATALOGO).

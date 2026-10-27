@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003389"
+uf: "SC"
+tipo: "Decreto"
+numero: "3389"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31553"
+baixado_em: 2026-10-15
+---
+# DEC-003389
+
+DEC-003389
+
+ORIGEM EXECUTIVO. DEC-003389 23/11/1998 VIG 23/11/1998 STATUS VIGENTE FONTE PUB DOSC 23/11/1998 PAG 003. EMENTA AUTORIZA O FUNCIONAMENTO DO CURSO DE ENSINO MEDIO, NA MODALIDADE SUPLETIVA, NO COLEGIO DEHON, NO MUNICIPIO DE TUBARÃO. CATALOGOENSINO.

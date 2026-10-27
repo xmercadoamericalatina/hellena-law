@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000053"
+uf: "SC"
+tipo: "Decreto"
+numero: "53"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31746"
+baixado_em: 2026-10-15
+---
+# DEC-000053
+
+DEC-000053
+
+ORIGEM EXECUTIVO. DEC-000053 13/03/1947 VIG 14/03/1947 STATUS VIGENTE FONTE PUB DOSC 14/03/1947 PAG 001. EMENTA CRIA COLETORIA ESTADUAL. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACACRIAÇÃO, COLETORIA ESTADUAL, DISTRITO, URUPEMA, MUNICIPIO, SÃO JOAQUIM, (SC). CATALOGOPESSOAL.

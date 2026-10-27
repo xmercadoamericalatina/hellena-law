@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002861"
+uf: "SC"
+tipo: "Decreto"
+numero: "2861"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/31069"
+baixado_em: 2026-10-15
+---
+# DEC-002861
+
+DEC-002861
+
+ORIGEM EXECUTIVO. DEC-002861 28/10/1992 VIG 01/11/1992 STATUS VIGENTE FONTE PUB DOSC 29/10/1992 PAG 009. REP DOSC 11/11/1992 PAG 001 EMENTA INTRODUZ AS ALTERAÇÕES 657 E 658 AO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

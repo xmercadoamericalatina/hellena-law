@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001279"
+uf: "SC"
+tipo: "Decreto"
+numero: "1279"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36035"
+baixado_em: 2026-10-15
+---
+# DEC-001279
+
+DEC-001279
+
+ORIGEM EXECUTIVO. DEC-001279 15/01/1988 VIG 18/01/1988 STATUS VIGENTE FONTE PUB DOSC 18/01/1988 PAG 001. EMENTA RATIFICA O CONVENIO ICM 73/87, CELEBRADO EM GOIANIA-GO, EM 08 DE DEZEMBRO DE 1987. INDEXACARATIFICAÇÃO, CONVENIO, (ICM), CELEBRAÇÃO, MUNICIPIO, GOIANIA, (GO). CATALOGOCONVENIO.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002079"
+uf: "SC"
+tipo: "Decreto"
+numero: "2079"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40816"
+baixado_em: 2026-10-15
+---
+# DEC-002079
+
+DEC-002079
+
+ORIGEM EXECUTIVO. DEC-002079 23/07/1997 VIG 23/07/1997 STATUS VIGENTE FONTE PUB DOSC 23/07/1997 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTO, MUNICIPIO, SOMBRIO, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

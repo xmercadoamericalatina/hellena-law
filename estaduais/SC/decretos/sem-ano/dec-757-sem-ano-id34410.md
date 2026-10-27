@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000757"
+uf: "SC"
+tipo: "Decreto"
+numero: "757"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34410"
+baixado_em: 2026-10-15
+---
+# DEC-000757
+
+DEC-000757
+
+ORIGEM EXECUTIVO. DEC-000757 20/10/1987 VIG 21/10/1987 STATUS VIGENTE FONTE PUB DOSC 21/10/1987 PAG 002. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA. JOSE EMILIO INACIO. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, SÃO JOSÉ, (SC). CATALOGOPENSÕES.

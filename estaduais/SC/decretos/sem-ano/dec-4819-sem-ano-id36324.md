@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004819"
+uf: "SC"
+tipo: "Decreto"
+numero: "4819"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36324"
+baixado_em: 2026-10-15
+---
+# DEC-004819
+
+DEC-004819
+
+ORIGEM EXECUTIVO. DEC-004819 18/05/1990 VIG 21/05/1990 STATUS VIGENTE FONTE PUB DOSC 21/05/1990 PAG 001. EMENTA INTRODUZ A ALTERAÇÃO 262 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

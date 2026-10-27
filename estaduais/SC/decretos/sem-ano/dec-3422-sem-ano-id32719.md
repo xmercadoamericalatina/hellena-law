@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003422"
+uf: "SC"
+tipo: "Decreto"
+numero: "3422"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32719"
+baixado_em: 2026-10-15
+---
+# DEC-003422
+
+DEC-003422
+
+ORIGEM EXECUTIVO. DEC-003422 04/12/1998 VIG 04/12/1998 STATUS VIGENTE FONTE PUB DOSC 04/12/1998 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, RIQUEZA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001289"
+uf: "SC"
+tipo: "Decreto"
+numero: "1289"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37728"
+baixado_em: 2026-10-15
+---
+# DEC-001289
+
+DEC-001289
+
+ORIGEM EXECUTIVO. DEC-001289 19/01/1988 VIG 08/01/1988 STATUS VIGENTE FONTE PUB DOSC 20/01/1988 PAG 001. EMENTA CONCEDE PENSÃO A VIUVA DE EX-VEREADOR. MARIA LIBERATO BORGES. INDEXACACONCESSÃO, PENSÕES, VIUVA, EX VEREADOR, MUNICIPIO, URUSSANGA, (SC). CATALOGOPENSÕES.

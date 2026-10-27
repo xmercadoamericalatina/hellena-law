@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002615"
+uf: "SC"
+tipo: "Decreto"
+numero: "2615"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34079"
+baixado_em: 2026-10-15
+---
+# DEC-002615
+
+DEC-002615
+
+ORIGEM EXECUTIVO. DEC-002615 17/05/1977 VIG 18/05/1977 STATUS VIGENTE FONTE PUB DOSC 18/05/1977 PAG 007. EMENTA ALTERA DENOMINAÇÃO DE CARGO DE PROVIMENTO EM COMISSÃO. INDEXACAALTERAÇÃO, DENOMINAÇÃO, CARGO EM COMISSÃO, CASA CIVIL, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005219"
+uf: "SC"
+tipo: "Decreto"
+numero: "5219"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38543"
+baixado_em: 2026-10-15
+---
+# DEC-005219
+
+DEC-005219
+
+ORIGEM EXECUTIVO. DEC-005219 09/08/1990 VIG 09/08/1990 STATUS VIGENTE FONTE PUB DOSC 09/08/1990 PAG 011. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, SECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, (APAE), MUNICIPIO, NOVA TRENTO, (SC). CATALOGOPATRIMONIO.

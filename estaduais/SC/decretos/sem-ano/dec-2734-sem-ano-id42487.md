@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002734"
+uf: "SC"
+tipo: "Decreto"
+numero: "2734"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42487"
+baixado_em: 2026-10-15
+---
+# DEC-002734
+
+DEC-002734
+
+ORIGEM EXECUTIVO. DEC-002734 27/03/1998 VIG 27/03/1998 STATUS VIGENTE FONTE PUB DOSC 27/03/1998 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, MATERIAL, MUNICIPIO, LONTRAS, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

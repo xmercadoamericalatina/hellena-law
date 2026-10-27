@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000679"
+uf: "SC"
+tipo: "Decreto"
+numero: "679"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36619"
+baixado_em: 2026-10-15
+---
+# DEC-000679
+
+DEC-000679
+
+ORIGEM EXECUTIVO. DEC-000679 16/09/1963 VIG 26/09/1963 STATUS VIGENTE FONTE PUB DOSC 26/09/1963 PAG 003. EMENTA CRIA FUNÇÕES GRATIFICADAS E DA OUTRAS PROVIDENCIAS. INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, INSTITUTO DE EDUCAÇÃO, ESTADO, (SC). CATALOGOPESSOAL.

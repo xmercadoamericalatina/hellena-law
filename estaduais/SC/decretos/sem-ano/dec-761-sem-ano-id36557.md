@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000761"
+uf: "SC"
+tipo: "Decreto"
+numero: "761"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36557"
+baixado_em: 2026-10-15
+---
+# DEC-000761
+
+DEC-000761
+
+ORIGEM EXECUTIVO. DEC-000761 21/11/1958 VIG 01/03/1959 FONTE PUB DOSC 24/11/1958 PAG 001. EMENTA DISPÕE SOBRE GRATIFICAÇÕES DE MAGISTERIO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, VALOR, GRATIFICAÇÃO DE MAGISTERIO, ESTADO, (SC). CATALOGOPESSOAL, MAGISTERIO.

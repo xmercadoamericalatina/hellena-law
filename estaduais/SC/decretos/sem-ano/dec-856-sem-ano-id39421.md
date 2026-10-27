@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000856"
+uf: "SC"
+tipo: "Decreto"
+numero: "856"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39421"
+baixado_em: 2026-10-15
+---
+# DEC-000856
+
+DEC-000856
+
+ORIGEM EXECUTIVO. DEC-000856 08/05/1996 VIG 09/05/1996 STATUS VIGENTE FONTE PUB DOSC 09/05/1996 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, LAGUNA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002413"
+uf: "SC"
+tipo: "Decreto"
+numero: "2413"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39035"
+baixado_em: 2026-10-15
+---
+# DEC-002413
+
+DEC-002413
+
+ORIGEM EXECUTIVO. DEC-002413 25/10/1988 VIG 26/10/1988 STATUS VIGENTE FONTE PUB DOSC 26/10/1988 PAG 002. EMENTA CONCEDE PENSÃO A EGRESSO DO HOSPITAL COLONIA SANTA TEREZA.- ELVIRA DOS SANTOS. INDEXACACONCESSÃO, PENSÕES, HANSENIANO, MUNICIPIO, CAMPOS NOVOS, (SC). CATALOGOPENSÕES.

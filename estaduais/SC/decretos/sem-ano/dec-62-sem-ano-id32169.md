@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000062"
+uf: "SC"
+tipo: "Decreto"
+numero: "62"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32169"
+baixado_em: 2026-10-15
+---
+# DEC-000062
+
+DEC-000062
+
+ORIGEM EXECUTIVO. DEC-000062 16/12/1947 VIG 17/12/1947 STATUS VIGENTE FONTE PUB DOSC 17/12/1947 PAG 002. EMENTA ALTERA A T.N.M. DO TESOURO DO ESTADO. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

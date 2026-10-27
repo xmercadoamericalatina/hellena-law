@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000565"
+uf: "SC"
+tipo: "Decreto"
+numero: "565"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36553"
+baixado_em: 2026-10-15
+---
+# DEC-000565
+
+DEC-000565
+
+ORIGEM EXECUTIVO. DEC-000565 31/03/1958 VIG 05/05/1958 FONTE PUB DOSC 05/05/1958 PAG 001. EMENTA DISPÕE SOBRE A LOTAÇÃO DA DIRETORIA DO SERVIÇO DE FISCALIZAÇÃO DA FAZENDA. NOTA: EMENDA ELABORADA PELA (SEA). INDEXACAFIXAÇÃO, LOTAÇÃO, DIRETORIA, SERVIÇO, FISCALIZAÇÃO, FAZENDA PUBLICA, (SC). CATALOGOPESSOAL.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003253"
+uf: "SC"
+tipo: "Decreto"
+numero: "3253"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38583"
+baixado_em: 2026-10-15
+---
+# DEC-003253
+
+DEC-003253
+
+ORIGEM EXECUTIVO. DEC-003253 12/05/1989 VIG 15/05/1989 STATUS VIGENTE FONTE PUB DOSC 15/05/1989 PAG 003. EMENTA CONCEDE PENSÃO A VIUVA DE JUIZ DE PAZ. JOSEFA MONDINI CIPRIANI. INDEXACACONCESSÃO, PENSÕES, VIUVA, JUIZ DE PAZ, MUNICIPIO, APIUNA, (SC). CATALOGOPENSÕES.

@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004906"
+uf: "SC"
+tipo: "Decreto"
+numero: "4906"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36963"
+baixado_em: 2026-10-15
+---
+# DEC-004906
+
+DEC-004906
+
+ORIGEM EXECUTIVO. DEC-004906 28/05/1990 VIG 01/06/1990 STATUS VIGENTE FONTE PUB DOSC 29/05/1990 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 263 A 272 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRABALHISTA.

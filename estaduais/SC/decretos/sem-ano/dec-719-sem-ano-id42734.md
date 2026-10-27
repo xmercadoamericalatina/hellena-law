@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000719"
+uf: "SC"
+tipo: "Decreto"
+numero: "719"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/42734"
+baixado_em: 2026-10-15
+---
+# DEC-000719
+
+DEC-000719
+
+ORIGEM EXECUTIVO. DEC-000719 13/03/1996 VIG 14/03/1996 STATUS VIGENTE FONTE PUB DOSC 14/03/1996 PAG 001. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, UNIÃO DO OESTE, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

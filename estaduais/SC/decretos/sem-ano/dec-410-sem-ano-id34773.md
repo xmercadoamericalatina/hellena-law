@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000410"
+uf: "SC"
+tipo: "Decreto"
+numero: "410"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34773"
+baixado_em: 2026-10-15
+---
+# DEC-000410
+
+DEC-000410
+
+ORIGEM EXECUTIVO. DEC-000410 20/09/1951 VIG 24/09/1951 FONTE PUB DOSC 24/09/1951 PAG 001. EMENTA CRIA A COMISSÃO MUNICIPAL DE PREÇOS DO MUNICIPIO DE FLORIANOPOLIS. INDEXACACRIAÇÃO, COMISSÃO, PREÇO, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.

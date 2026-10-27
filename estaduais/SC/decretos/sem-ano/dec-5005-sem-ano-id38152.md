@@ -1,0 +1,16 @@
+---
+titulo: "DEC-005005"
+uf: "SC"
+tipo: "Decreto"
+numero: "5005"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/38152"
+baixado_em: 2026-10-15
+---
+# DEC-005005
+
+DEC-005005
+
+ORIGEM EXECUTIVO. DEC-005005 29/06/1990 VIG 01/07/1990 STATUS VIGENTE FONTE PUB DOSC 29/06/1990 PAG 011. EMENTA INTRODUZ AS ALTERAÇÕES 276 A 291 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

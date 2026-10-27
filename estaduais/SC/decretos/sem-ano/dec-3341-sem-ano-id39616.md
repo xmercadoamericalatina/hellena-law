@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003341"
+uf: "SC"
+tipo: "Decreto"
+numero: "3341"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39616"
+baixado_em: 2026-10-15
+---
+# DEC-003341
+
+DEC-003341
+
+ORIGEM EXECUTIVO. DEC-003341 30/05/1989 VIG 01/03/1989 STATUS VIGENTE FONTE PUB DOSC 31/05/1989 PAG 004. EMENTA INTRODUZ AS ALTERAÇÕES 11 A 29 NO REGULAMENTO DO ICMS E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

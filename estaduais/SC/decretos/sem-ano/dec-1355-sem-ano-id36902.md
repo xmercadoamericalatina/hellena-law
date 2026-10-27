@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001355"
+uf: "SC"
+tipo: "Decreto"
+numero: "1355"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/36902"
+baixado_em: 2026-10-15
+---
+# DEC-001355
+
+DEC-001355
+
+ORIGEM EXECUTIVO. DEC-001355 20/11/1996 VIG 20/11/1996 STATUS VIGENTE FONTE PUB DOSC 20/11/1996 PAG 005. EMENTA AUTORIZA DOAÇÃO DE BEM MOVEL INSERVIVEL. INDEXACAAUTORIZAÇÃO, DOAÇÃO, BENS MOVEIS, MUNICIPIO, PEDRAS GRANDES, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

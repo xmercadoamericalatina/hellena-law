@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002172"
+uf: "SC"
+tipo: "Decreto"
+numero: "2172"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/40561"
+baixado_em: 2026-10-15
+---
+# DEC-002172
+
+DEC-002172
+
+ORIGEM EXECUTIVO. DEC-002172 08/09/1997 VIG 08/09/1997 STATUS VIGENTE FONTE PUB DOSC 08/09/1997 PAG 003. EMENTA AUTORIZA DOAÇÃO DE BENS MOVEIS INSERVIVEIS. INDEXACAAUTORIZAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, MUNICIPIO, CANELINHA, (SC). CATALOGOPATRIMONIO, BENS MOVEIS.

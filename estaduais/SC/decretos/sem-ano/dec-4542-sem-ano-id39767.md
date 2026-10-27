@@ -1,0 +1,16 @@
+---
+titulo: "DEC-004542"
+uf: "SC"
+tipo: "Decreto"
+numero: "4542"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39767"
+baixado_em: 2026-10-15
+---
+# DEC-004542
+
+DEC-004542
+
+ORIGEM EXECUTIVO. DEC-004542 17/01/1990 VIG 18/01/1990 STATUS VIGENTE FONTE PUB DOSC 18/01/1990 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 202 A 216 NO REGULAMENTO DO ICMS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICMS), ESTADO, (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

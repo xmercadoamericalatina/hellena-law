@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000089"
+uf: "SC"
+tipo: "Decreto"
+numero: "89"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32014"
+baixado_em: 2026-10-15
+---
+# DEC-000089
+
+DEC-000089
+
+ORIGEM EXECUTIVO. DEC-000089 16/09/1947 VIG 23/09/1947 STATUS VIGENTE FONTE PUB DOSC 23/09/1947 PAG 001. EMENTA ALTERA A T.N.M. DA COLONIA SANTA TEREZA. (NOTA: EMENTA ELABORADA PELA SJA). INDEXACAALTERAÇÃO, TABELA, MENSALISTA, INSTITUIÇÃO HOSPITALAR, ESTADO, (SC). CATALOGOPESSOAL.

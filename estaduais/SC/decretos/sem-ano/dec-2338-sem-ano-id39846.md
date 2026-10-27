@@ -1,0 +1,16 @@
+---
+titulo: "DEC-002338"
+uf: "SC"
+tipo: "Decreto"
+numero: "2338"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/39846"
+baixado_em: 2026-10-15
+---
+# DEC-002338
+
+DEC-002338
+
+ORIGEM EXECUTIVO. DEC-002338 13/10/1988 VIG 14/10/1988 STATUS VIGENTE FONTE PUB DOSC 14/10/1988 PAG 004. EMENTA AUTORIZA DOAÇÃO DE VEICULO. INDEXACASECRETARIA DE ADMINISTRAÇÃO, DOAÇÃO, VEICULO AUTOMOTOR, CENTRO SOCIAL, POLICIA MILITAR, (SC). CATALOGOPATRIMONIO.

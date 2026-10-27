@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003609"
+uf: "SC"
+tipo: "Decreto"
+numero: "3609"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/32108"
+baixado_em: 2026-10-15
+---
+# DEC-003609
+
+DEC-003609
+
+ORIGEM EXECUTIVO. DEC-003609 23/12/1998 VIG 23/12/1998 STATUS VIGENTE FONTE PUB DOSC 23/12/1998 PAG 014. EMENTA AUTORIZA O FUNCIONAMENTO DO CURSO DE ENSINO MEDIO, NA ESCOLA BASICA CAMPOS VERDES, NO MUNICIPIO DE JAGUARUNA. CATALOGOENSINO.

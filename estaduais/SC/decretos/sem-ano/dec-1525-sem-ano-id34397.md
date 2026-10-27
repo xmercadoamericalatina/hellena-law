@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001525"
+uf: "SC"
+tipo: "Decreto"
+numero: "1525"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/34397"
+baixado_em: 2026-10-15
+---
+# DEC-001525
+
+DEC-001525
+
+ORIGEM EXECUTIVO. DEC-001525 26/04/1988 VIG 27/04/1988 STATUS VIGENTE FONTE PUB DOSC 27/04/1988 PAG 001. EMENTA AUTORIZA A DOAÇÃO DE BEM MOVEL. INDEXACAAUTORIZAÇÃO, FAZENDA PUBLICA, DOAÇÃO, BENS MOVEIS, MUSEU, MUNICIPIO, GUARACIABA, (SC). CATALOGOPATRIMONIO.

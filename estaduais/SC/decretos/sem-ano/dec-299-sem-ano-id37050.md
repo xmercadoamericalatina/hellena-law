@@ -1,0 +1,16 @@
+---
+titulo: "DEC-000299"
+uf: "SC"
+tipo: "Decreto"
+numero: "299"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37050"
+baixado_em: 2026-10-15
+---
+# DEC-000299
+
+DEC-000299
+
+ORIGEM EXECUTIVO. DEC-000299 30/04/1957 VIG 06/05/1957 FONTE PUB DOSC 06/05/1957 PAG 001. EMENTA CRIA FUNÇÕES GRATIFICADAS NO TESOURO DO ESTADO. NOTA: EMENTA ELABORADA PELA (SEA). INDEXACACRIAÇÃO, FUNÇÃO GRATIFICADA, TESOURO ESTADUAL, (SC). CATALOGOPESSOAL.

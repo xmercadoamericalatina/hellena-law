@@ -1,0 +1,16 @@
+---
+titulo: "DEC-003130"
+uf: "SC"
+tipo: "Decreto"
+numero: "3130"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/35812"
+baixado_em: 2026-10-15
+---
+# DEC-003130
+
+DEC-003130
+
+ORIGEM EXECUTIVO. DEC-003130 29/03/1989 VIG 03/04/1989 STATUS VIGENTE FONTE PUB DOSC 03/04/1989 PAG 007. EMENTA CONCEDE PENS`O A VIUVA DE MAGISTRADO. IRACEMA FRANºA PEDROSA. INDEXACACONCESS`O, PENS{ES, VIUVA, MAGISTRADO, MUNICIPIO, FLORIANOPOLIS, (SC). CATALOGOPENS{ES.

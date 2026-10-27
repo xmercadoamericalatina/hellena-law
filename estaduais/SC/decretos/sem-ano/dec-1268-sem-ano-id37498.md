@@ -1,0 +1,16 @@
+---
+titulo: "DEC-001268"
+uf: "SC"
+tipo: "Decreto"
+numero: "1268"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/37498"
+baixado_em: 2026-10-15
+---
+# DEC-001268
+
+DEC-001268
+
+ORIGEM EXECUTIVO. DEC-001268 31/12/1987 VIG 31/12/1987 STATUS VIGENTE FONTE PUB DOSC 31/12/1987 PAG 001. EMENTA INTRODUZ AS ALTERAÇÕES 65 A 95 NO RICM-SC/87 E DA OUTRAS PROVIDENCIAS. INDEXACAALTERAÇÃO, REGULAMENTO, (ICM), (SC). CATALOGOLEGISLAÇÃO TRIBUTARIA.

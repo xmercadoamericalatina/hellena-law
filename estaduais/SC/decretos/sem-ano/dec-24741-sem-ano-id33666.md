@@ -1,0 +1,16 @@
+---
+titulo: "DEC-024741"
+uf: "SC"
+tipo: "Decreto"
+numero: "24741"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/33666"
+baixado_em: 2026-10-15
+---
+# DEC-024741
+
+DEC-024741
+
+ORIGEM EXECUTIVO. DEC-024741 29/01/1985 VIG 30/01/1985 STATUS VIGENTE FONTE PUB DOSC 30/01/1985 PAG 001. EMENTA CRIA SUPERVISÃO LOCAL DE EDUCAÇÃO. INDEXACACRIAÇÃO, SUPERVISÃO ESCOLAR, MUNICIPIO, JARAGUA DO SUL, (SC). CATALOGOORGANIZAÇÃO ADMINISTRATIVA.
