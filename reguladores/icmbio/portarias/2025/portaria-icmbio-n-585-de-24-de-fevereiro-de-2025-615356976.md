@@ -1,0 +1,37 @@
+---
+titulo: "Portaria ICMBio Nº 585, de 24 de fevereiro de 2025"
+orgao: "Ministério do Meio Ambiente e Mudança do Clima/Instituto Chico Mendes de Conservação da Biodiversidade"
+tipo: "Portaria"
+numero: "585"
+data: 2025-02-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/02/2025, seção 1, p. 93"
+data_publicacao: 2025-02-28
+edicao: "42"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-icmbio-n-585-de-24-de-fevereiro-de-2025-615356976"
+baixado_em: 2026-10-15
+---
+# Portaria ICMBio Nº 585, de 24 de fevereiro de 2025
+
+Portaria ICMBio Nº 585, de 24 de fevereiro de 2025
+
+Cria a Reserva Particular do Patrimônio Natural - RPPN Sussuarana do Cerrado (processo nº 02070.011679/2023-69).
+
+O PRESIDENTE DO INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBio, no uso das competências atribuídas pelo art. 15, Seção I, Capítulo VI do Anexo I do Decreto nº 12.258, de 25 de novembro de 2024, nomeado pela Portaria de Pessoal nº 2.464 da Casa Civil, de 16 de maio de 2023, publicada no Diário Oficial da União de 17 de maio de 2023, resolve:
+
+**Art. 1º** Fica criada a Reserva Particular do Patrimônio Natural - RPPN Sussuarana do Cerrado, de interesse público e em caráter de perpetuidade, no imóvel denominado Fazenda Escorrega, situado no município de Teresina de Goiás - GO, matriculado no registro de imóveis da comarca de Teresina de Goiás - GO sob a matrícula nº 920.
+
+**Art. 2º** A RPPN Sussuarana do Cerrado, tem área total de 74,5493 hectares, definida no imóvel referido no art. 1º.
+
+**Parágrafo único.** A Reserva Particular do Patrimônio Natural Sussuarana do Cerrado inicia-se no vértice Pt1, de coordenadas N 8470557.1250 m e E 255085.9605 m, Datum SIRGAS 2000 com Meridiano Central -45, deste, com os seguintes azimute plano e distância:97°27'43.67'' e 361.02; até o vértice Pt2, de coordenadas N 8470510.2390 m e E 255443.9235 m; deste, com os seguintes azimute plano e distância:192°44'48.93'' e 684.39; até o vértice Pt3, de coordenadas N 8469842.7170 m e E 255292.9165 m; deste, com os seguintes azimute plano e distância:146°17'16.60'' e 104.25; até o vértice Pt4, de coordenadas N 8469755.9950 m e E 255350.7790 m; deste, com os seguintes azimute plano e distância:184°39'57.51'' e 952.55; até o vértice Pt5, de coordenadas N 8468806.6020 m e E 255273.2923 m; deste, com os seguintes azimute plano e distância:272°07'37.57'' e 401.49; até o vértice Pt6, de coordenadas N 8468821.5040 m e E 254872.0782 m; deste, com os seguintes azimute plano e distância:274°18'3.77'' e 5.82; até o vértice Pt7, de coordenadas N 8468821.9410 m e E 254866.2751 m; deste, com os seguintes azimute plano e distância:341°48'28.34'' e 41.81; até o vértice Pt8, de coordenadas N 8468861.6620 m e E 254853.2214 m; deste, com os seguintes azimute plano e distância:339°05'28.23'' e 55.16; até o vértice Pt9, de coordenadas N 8468913.1880 m e E 254833.5365 m; deste, com os seguintes azimute plano e distância:347°03'44.84'' e 41.71; até o vértice Pt10, de coordenadas N 8468953.8370 m e E 254824.1986 m; deste, com os seguintes azimute plano e distância:345°14'35.82'' e 20.55; até o vértice Pt11, de coordenadas N 8468973.7090 m e E 254818.9640 m; deste, com os seguintes azimute plano e distância:1°38'8.64'' e 34.77; até o vértice Pt12, de coordenadas N 8469008.4600 m e E 254819.9564 m; deste, com os seguintes azimute plano e distância:355°13'8.16'' e 39.03; até o vértice Pt13, de coordenadas N 8469047.3520 m e E 254816.7036 m; deste, com os seguintes azimute plano e distância:346°46'17.57'' e 48.97; até o vértice Pt14, de coordenadas N 8469095.0230 m e E 254805.4974 m; deste, com os seguintes azimute plano e distância:324°40'25.09'' e 18.64; até o vértice Pt15, de coordenadas N 8469110.2310 m e E 254794.7187 m; deste, com os seguintes azimute plano e distância:335°59'31.71'' e 31.84; até o vértice Pt16, de coordenadas N 8469139.3160 m e E 254781.7645 m; deste, com os seguintes azimute plano e distância:20°04'29.02'' e 24.57; até o vértice Pt17, de coordenadas N 8469162.3930 m e E 254790.1981 m; deste, com os seguintes azimute plano e distância:329°10'30.27'' e 14.77; até o vértice Pt18, de coordenadas N 8469175.0810 m e E 254782.6273 m; deste, com os seguintes azimute plano e distância:38°04'16.09'' e 20.46; até o vértice Pt19, de coordenadas N 8469191.1870 m e E 254795.2431 m; deste, com os seguintes azimute plano e distância:23°06'49.92'' e 26.95; até o vértice Pt20, de coordenadas N 8469215.9760 m e E 254805.8235 m; deste, com os seguintes azimute plano e distância:32°22'30.08'' e 35.27; até o vértice Pt21, de coordenadas N 8469245.7620 m e E 254824.7080 m; deste, com os seguintes azimute plano e distância:0°53'49.12'' e 56.22; até o vértice Pt22, de coordenadas N 8469301.9720 m e E 254825.5881 m; deste, com os seguintes azimute plano e distância:349°20'28.17'' e 26.51; até o vértice Pt23, de coordenadas N 8469328.0270 m e E 254820.6842 m; deste, com os seguintes azimute plano e distância:354°58'11.69'' e 15.36; até o vértice Pt24, de coordenadas N 8469343.3250 m e E 254819.3378 m; deste, com os seguintes azimute plano e distância:358°43'17.98'' e 30.41; até o vértice Pt25, de coordenadas N 8469373.7250 m e E 254818.6594 m; deste, com os seguintes azimute plano e distância:12°33'38.35'' e 64.93; até o vértice Pt26, de coordenadas N 8469437.1000 m e E 254832.7798 m; deste, com os seguintes azimute plano e distância:12°59'30.69'' e 10.66; até o vértice Pt27, de coordenadas N 8469447.4840 m e E 254835.1755 m; deste, com os seguintes azimute plano e distância:326°40'23.09'' e 4.83; até o vértice Pt28, de coordenadas N 8469451.5170 m e E 254832.5232 m; deste, com os seguintes azimute plano e distância:11°19'7.57'' e 24.41; até o vértice Pt29, de coordenadas N 8469475.4510 m e E 254837.3138 m; deste, com os seguintes azimute plano e distância:5°02'55.39'' e 68.45; até o vértice Pt30, de coordenadas N 8469543.6390 m e E 254843.3379 m; deste, com os seguintes azimute plano e distância:3°11'42.95'' e 30.41; até o vértice Pt31, de coordenadas N 8469574.0000 m e E 254845.0328 m; deste, com os seguintes azimute plano e distância:19°35'39.28'' e 15.09; até o vértice Pt32, de coordenadas N 8469588.2210 m e E 254850.0949 m; deste, com os seguintes azimute plano e distância:94°02'26.86'' e 3.07; até o vértice Pt33, de coordenadas N 8469588.0040 m e E 254853.1621 m; deste, com os seguintes azimute plano e distância:13°30'26.80'' e 996.69; até o vértice Pt1, de coordenadas N 8470557.1250 m e E 255085.9605 m, encerrando esta descrição. Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no sistema UTM, referenciadas ao Meridiano Central -45, tendo como DATUM SIRGAS 2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+**Art. 3º** A RPPN Sussuarana do Cerrado será administrada por sua proprietária Ana Maria Cavalcante Costa Osborn.
+
+**Parágrafo único.** A administradora referida no caput será responsável pelo cumprimento das exigências contidas na Lei nº 9.985, de 18 de julho de 2000, e no Decreto n.º 5.746, de 5 de abril de 2006.
+
+**Art. 4º** As condutas e atividades lesivas à área reconhecida como RPPN sujeitarão os infratores às sanções cabíveis previstas na Lei nº 9.605, de 12 de fevereiro de 1998, e no Decreto n° 6.514, de 22 de julho de 2008.
+
+**Art. 5** º Esta Portaria entra em vigor na data de sua publicação.
+
+MAURO OLIVEIRA PIRES

@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 260, DE 15 DE MAIO DE 2024"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+tipo: "Portaria"
+numero: "260"
+data: 2024-05-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/05/2024, seção 1, p. 67"
+data_publicacao: 2024-05-17
+edicao: "95"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-260-de-15-de-maio-de-2024-560175699"
+sha256_html_fonte: 9665a2346ef17f24b174de02c51884d928462f2b53b7db83d7365882c1e193b2
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 260, DE 15 DE MAIO DE 2024
+
+PORTARIA Nº 260, DE 15 DE MAIO DE 2024
+
+(Aditivo à Portaria Inmetro/Dimel n.º 302/2021)
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, no exercício da competência que lhe foi outorgada pelo artigo 4º, § 2º, da Lei nº 5.966, de 11 de dezembro de 1973, combinado com o disposto nos artigos 18, inciso XI, do Anexo I ao Decreto n.º 11.221, de 05 de outubro de 2022, e 105, inciso XI, do Anexo à Portaria n.º 2, de 4 de janeiro de 2017, do então Ministério da Indústria, Comércio Exterior e Serviços, bem como a Lei n.º 9.784, de 29 de janeiro de 1999 e a Portaria Inmetro n.º 436, de 02 de outubro de 2023;
+
+De acordo com o Regulamento Técnico Metrológico para esfigmomanômetros de medição não invasiva, aprovado pela Portaria Inmetro n.º 341/2021; e
+
+Considerando os elementos constantes do Processo Inmetro n.º 0052600.012161/2023-85, resolve:
+
+Incluir novo fabricante na Portaria Inmetro/Dimel n.º 302, de 16 de dezembro de 2021, publicada no Diário Oficial da União em 21/12/2021, seção 1, página 43, que aprova o modelo HEM-6181 de esfigmomanômetro eletrônico automático, marca Omron, de acordo com as condições especificadas, disponível no sítio do Inmetro: http://www.inmetro.gov.br/pam/ .
+
+MARCIO ANDRE OLIVEIRA BRITO

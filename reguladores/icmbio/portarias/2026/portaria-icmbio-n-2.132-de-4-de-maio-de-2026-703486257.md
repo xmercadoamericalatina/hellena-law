@@ -1,0 +1,59 @@
+---
+titulo: "Portaria ICMBio Nº 2.132, de 4 de maio de 2026"
+orgao: "Ministério do Meio Ambiente e Mudança do Clima/Instituto Chico Mendes de Conservação da Biodiversidade"
+tipo: "Portaria"
+numero: "2132"
+data: 2026-05-04
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/05/2026, seção 1, p. 132"
+data_publicacao: 2026-05-06
+edicao: "83"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-icmbio-n-2.132-de-4-de-maio-de-2026-703486257"
+baixado_em: 2026-10-15
+---
+# Portaria ICMBio Nº 2.132, de 4 de maio de 2026
+
+Portaria ICMBio Nº 2.132, de 4 de maio de 2026
+
+Altera a Portaria ICMBio nº 792, de 12 de setembro de 2018 (processo ICMBio nº 02070.011443/2017-84).
+
+O PRESIDENTE DO INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBio, nomeado pela Portaria de Pessoal nº 2.464 da Casa Civil, de 16 de maio de 2023, publicada no Diário Oficial da União de 17 de maio de 2023, no uso das competências atribuídas pelo art. 15, Seção I, Capítulo VI do Anexo I do Decreto nº 12.258, de 25 de novembro de 2024, resolve:
+
+**Art. 1º** A Portaria ICMBio nº 792, de 12 de setembro de 2018, publicada no Diário Oficial da União, de 17 de setembro de 2018, nº 179, Seção 1, p. 70, passa a vigorar com as seguintes alterações:
+
+"Art. 1º Fica instituído o Núcleo de Gestão Integrada - NGI ICMBio Araucárias, um arranjo organizacional estruturador do processo gerencial, integrando a gestão das Unidades de Conservação citadas a seguir:
+
+I - Estação Ecológica da Mata Preta;
+
+II - Parque Nacional das Araucárias; e
+
+III - Refúgio da Vida Silvestre dos Campos de Palmas.
+
+**§1º** O NGI ICMBio Araucárias, se constitui numa estratégia de gestão visando ao cumprimento dos objetivos específicos de cada uma das Unidades de Conservação, em conformidade com o Sistema Nacional de Unidades de Conservação da Natureza - SNUC, seus Decretos de Criação, seus Planos de Manejo, seus planejamentos e orientações de seus Conselhos.
+
+................................................
+
+**§3º** As competências do NGI ICMBio Araucárias serão desempenhadas para gerir e manter a integridade, além de promover o desenvolvimento sustentável, dos espaços territorialmente protegidos de acordo com o SNUC." (NR)
+
+"Art. 2º São objetivos gerais do NGI ICMBio Araucárias:
+
+I - o alcance de maior eficácia e efetividade na conservação da biodiversidade protegida e no uso sustentável dos recursos naturais no território das Unidades de Conservação sob gestão do NGI ICMBio Araucárias;
+
+................................................" (NR)
+
+"Art. 3º A gestão do NGI ICMBio Araucárias se dará mediante a integração de suas equipes, a elaboração conjunta de seus planejamentos, a execução integrada de suas atividades e o compartilhamento de recursos e de suas estruturas." (NR)
+
+"Art. 4º O NGI ICMBio Araucárias deverá estabelecer, periodicamente, planejamento operacional, planos de trabalho e/ ou outros instrumentos técnicos de gestão, estabelecendo prioridades e orientando a destinação de meios e de recursos para a realização das atividades de gestão das Unidades de Conservação." (NR)
+
+"Art. 5º Na execução de suas atividades finalísticas e de suporte operacional, o NGI ICMBio Araucárias poderá ser estruturado em Áreas Temáticas.
+
+**Parágrafo único.** A definição das Áreas Temáticas e suas respectivas atribuições será estabelecida em Regimento Interno, o qual será submetido pelo NGI à aprovação da respectiva Gerência Regional e do Presidente do ICMBio, com vistas à publicação no Boletim de Serviços do Instituto no prazo de 90 dias contado da entrada em vigor desta Portaria." (NR)
+
+"Art. 6º Os servidores lotados ou em exercício nas Unidades de Conservação mencionadas no art. 1º desta Portaria passam a ser lotados ou terem seu exercício no NGI ICMBio Araucárias." (NR)
+
+"Art. 7° O NGI ICMBio Araucárias será sediado em Palmas/PR." (NR)
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+MAURO OLIVEIRA PIRES

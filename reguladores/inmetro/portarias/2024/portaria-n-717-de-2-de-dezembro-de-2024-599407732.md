@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 717, DE 2 DE DEZEMBRO DE 2024"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+tipo: "Portaria"
+numero: "717"
+data: 2024-12-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/12/2024, seção 1, p. 32"
+data_publicacao: 2024-12-04
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-717-de-2-de-dezembro-de-2024-599407732"
+sha256_html_fonte: d5a28f76b5dd9db8893094522212ebecdbce49c133f3542c9fc217ba390d00af
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 717, DE 2 DE DEZEMBRO DE 2024
+
+PORTARIA Nº 717, DE 2 DE DEZEMBRO DE 2024
+
+Renovação de bolsas no âmbito do Subprograma Pesquisa e Desenvolvimento em Infraestrutura da Qualidade, do Programa Nacional de Apoio ao Desenvolvimento da Metrologia, Qualidade e Tecnologia, do Inmetro.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - Inmetro, no uso de suas atribuições, conferidas no § 3º do artigo 4º da Lei nº 5.966, de 11 de dezembro de 1973, o art. 18 da Estrutura Regimental da Autarquia, aprovada pelo Decreto nº 11.221, de 05 de outubro de 2022, e tendo em vista o disposto na Portaria Inmetro nº 302, de 12 de julho de 2023, que estabelece as normas gerais do Programa Nacional de Apoio ao Desenvolvimento da Metrologia, Qualidade e Tecnologia (Pronametro), e considerando o que consta nos processos SEI nº 0052600.009078/2021-67 e 0052600.012727/2021-15, resolve:
+
+**Art. 1º** Tornar pública a renovação de bolsas concedidas no âmbito do Edital nº 1/2021, aos pesquisadores e técnicos listados no quadro abaixo, por um período de até 12 (doze) meses, a contar de 01 de dezembro de 2024, condicionada à disponibilidade orçamentária e financeira, objetivando a continuidade das atividades de pesquisa e desenvolvimento em Infraestrutura da Qualidade, no Inmetro.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>BOLSISTA</p></td>      <td rowspan="1" colspan="1"><p>NÍVEL DA BOLSA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Alexander Martins da Silva</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Claudia Cipriano Ribeiro</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Fábio André Ludolf Cacais</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>João Glauber Cristovam Ferreira</p></td>      <td rowspan="1" colspan="1"><p>DCT-4 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Leonardo da Silva Pardellas</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Márcia Silva da Rocha</p></td>      <td rowspan="1" colspan="1"><p>DCT-2A 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Raquel Soares da Cunha</p></td>      <td rowspan="1" colspan="1"><p>DCT-4 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Sidney Pereira Sobra</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Tatiane dos Santos Mazioli</p></td>      <td rowspan="1" colspan="1"><p>DCT-4 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Vanderson Morgado Teixeira</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Vanessa Henriques Frazão</p></td>      <td rowspan="1" colspan="1"><p>DCT-4 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Verônica da Silva Ferreira</p></td>      <td rowspan="1" colspan="1"><p>DCT-4 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Viviane Fernandes Mello</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Walter Franklin Marques Correia</p></td>      <td rowspan="1" colspan="1"><p>DCT-3A 40%</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MARCIO ANDRE OLIVEIRA BRITO

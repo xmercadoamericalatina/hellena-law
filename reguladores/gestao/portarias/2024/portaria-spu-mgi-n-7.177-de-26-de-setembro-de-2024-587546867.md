@@ -1,0 +1,54 @@
+---
+titulo: "Portaria SPU/MGI Nº 7.177, DE 26 de setembro de 2024"
+orgao: "Ministério da Gestão e da Inovação em Serviços Públicos/Secretaria do Patrimônio da União"
+tipo: "Portaria"
+numero: "7177"
+data: 2024-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/10/2024, seção 1, p. 49"
+data_publicacao: 2024-10-01
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spu/mgi-n-7.177-de-26-de-setembro-de-2024-587546867"
+sha256_html_fonte: 875837504547967fef0a0467d2f443dd3a714cdb499bed1658d74357e4b45975
+baixado_em: 2026-10-16
+---
+# Portaria SPU/MGI Nº 7.177, DE 26 de setembro de 2024
+
+Portaria SPU/MGI Nº 7.177, DE 26 de setembro de 2024
+
+O SECRETÁRIO DO PATRIMÔNIO DA UNIÃO DO MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso das atribuições que lhe confere a Portaria SEDDM/ME nº 12.485, de 20 de outubro de 2021, e tendo em vista o disposto no art. 31, inciso I, da Lei nº 9.636, de 15 de maio de 1998, no art. 76, inciso I, alínea "f" da Lei nº 14.133, de 1º de abril de 2021, na deliberação/autorização do Grupo Especial de Destinação Supervisionada (GE-DESUP 2), Ata de Reunião realizada em 10 de Setembro de 2024, bem como os elementos que integram o Processo Administrativo 19739.028997/2024-41, resolve:
+
+**Art. 1º** Autorizar a doação com encargo ao Estado de Sergipe do imóvel urbano de propriedade da União, classificado como nacional interior, com área descrita de 216.850,65 m², parte de um todo maior, objeto de desmembramento da área registrada na 2ª Circunscrição Imobiliária da Comarca de Aracaju/Sergipe, sob a Matrícula nº 94.785, Livro 2, localizado na Avenida Silvério Leite Fontes S/N, Zona de Expansão, Bairro 17 de março, Município de Aracaju, Estado de Sergipe, e cadastrado no Sistema de Gerenciamento dos Imóveis de Uso Especial da União - SPIUnet sob o RIP 3105 00259.500-5.
+
+**Parágrafo único.** O imóvel teve sua área georreferenciada e assim se descreve e caracteriza: Sua poligonal é composta por 21 vértices no plano de Coordenadas UTM (SIRGAS 2000/ Meridiano Central 39 W Gr). Partindo do vértice V-01 de coordenadas UTM E= 708894.9060 e N= 8784463.5310, deste segue com o azimute de 213°41'20.84" e distância 50,42m, confrontando com a área da a Matrícula 94.786, chega-se ao vértice V-02 de coordenadas UTM E= 708866.9410 e N= 8784421.5820, deste segue com o azimute de 213°41'26.85" e distância 43,86m, confrontando com a a área da a Matrícula 94.786, chegando ao vértice V-03, de coordenadas UTM E= 708842.6130 e N= 8784385.0910, deste segue com o azimute de 308°47'01.94" e distância 27,62m, confrontando com a área da Matrícula 94.786, chega-se ao vértice V-04 de coordenadas UTM E= 708821.0800 e N= 8784402.3940, deste segue com o azimute de 230°42'29.28" e distância 16.39m, confrontando ainda com área da Matrícula 94.786, chega-se ao vértice V-05 de coordenadas UTM E= 708808.3920 e N= 8784392.0120, deste segue com o azimute de 182°23'47.30" e distância 45,99m, confrontando com a área da Matrícula 94.786, chega-se ao vértice V-06 de coordenadas UTM E= 708806.4690 e N= 8784346.0630, deste segue com o azimute de 177°06'05.29" e distância 45,62m, confrontando ainda com a área da Matrícula 94.786, chegando ao vértice V-07, de coordenadas UTM E= 708808.7760 e N= 8784300.4990, deste segue com o azimute de 270°54'28.52" e distância 177,02m, confrontando com a área da Matrícula 94.785, chega-se ao vértice V-08 de coordenadas UTM E= 708631.7770 e N= 8784303.3040, deste segue com o azimute de 288°02'48.27" e distância 164.38m, confrontando ainda com área da Matrícula 94.785, chega-se ao vértice V-09 de coordenadas UTM E= 708475.4830 e N= 8784354.2280, deste segue com o azimute de 288°02'47.35" e distância 255.55m, confrontando com a área da Matrícula 94.785, chega-se ao vértice V-10 de coordenadas UTM E= 708232.5030 e N=8784433.3950, deste segue com o azimute de 291°40'54.52" e distância 100.26m,confrontando a área da Matrícula 94.785, chegando ao vértice V-11, de coordenadas UTM E= 708139.3370 e N= 8784470.4360, deste segue com o azimute de 28°27'00.19" e distância 107.53m, ainda confrontando com a área da Matrícula 94.785, chega-se ao vértice V-12 de coordenadas UTM E= 708190.5630 e N= 8784564.9790, deste segue com o azimute de 116°32'22.01" e distância 82.06m, confrontando agora com a área da Matrícula 99.481, chega-se ao vértice V-13 de coordenadas UTM E= 708263.9750 e N= 8784528.3410, deste segue confrontando a área da Matrícula 99.481, com o azimute de 26°13'41.44" e distância 115.46m, chegando ao vértice V-14, de coordenadas UTM E= 708315.0040 e N= 8784631.8900, deste segue com o azimute de 282°40'49.38" e distância 0,08m, confrontando ainda com a área da Matrícula 99.481, chega-se ao vértice V-15 de coordenadas UTM E= 708314.9240 e N= 8784631.9080, com o azimute de 26°13'58.90" e distância 134.36m, chega-se ao vértice V-16, de coordenadas UTM E= 708374.3140 e N= 8784752.4290, deste segue com o azimute de 108°27'02.85" e distância 290.49, agora confrontando com a Av. Silvério Leite Fontes, chega-se ao vértice V-17 de coordenadas UTM E= 708649.8740 e N= 8784660.4910, com o azimute de 108°26'59.71" e distância 56.88m, chega-se ao vértice V-18, de coordenadas UTM E= 708703.8300 e N= 8784642.4900, deste segue com o azimute de 108°27'40.29" e distância 110.46m, confrontando ainda com a Av. Silvério Leite Fontes, chega-se ao vértice V-19 de coordenadas UTM E= 708808.6100 e N= 8784607.5100, com o azimute de 108°27'50.70" e distância 222.01m, chega-se ao vértice V-20, de coordenadas UTM E= 709019.1890 e N= 8784537.1980, deste segue com o azimute de 204°27'45.59" e distância 99.10, deste segue agora confrontando a área da Matrícula 94.786 até o vértice V-21, de coordenadas UTM E= 708978.1530 e N= 8784446.9970, deste segue com o azimute de 281°14'00.75" e distância 84.87, que segue ainda confrontando a área da Matrícula 94.786 até o vértice V-01 incial de coordenadas UTM E= 708894.9060 e N= 8784463.5310, fechando o polígono que perfaz uma área total de 216.771,59m² e perímetro de 2.230,42m.
+
+**Art. 2º** A doação a que se refere o art. 1º se destina à provisão habitacional de interesse social, com a finalidade específica de construção de 589 (quinhentas e oitenta e nove) unidades habitacionais, em benefício de famílias de baixa renda.
+
+**Parágrafo único.** O prazo para a construção do empreendimento e entrega das unidades habitacionais é de 04 (quatro) anos, prorrogável por iguais períodos, contados a partir da assinatura do contrato, a critério da Administração.
+
+**Art. 3º** O donatário obriga-se a:
+
+I - administrar, guardar, zelar, fiscalizar e controlar o imóvel doado, devendo conservá-lo, tomando as providências administrativas e judiciais para tal fim;
+
+II - transferir o domínio pleno (a propriedade) e as obrigações relativas às parcelas dos imóveis, especificados no art. 1º, aos beneficiários finais do Projeto de Provisão Habitacional de Interesse Social que utilizar o imóvel para sua moradia e de sua família, de acordo com as regras do Programa Minha Casa, Minha Vida, bem como aos requisitos do art. 31 da Lei nº 9.636, de 1998;
+
+III - inserir cláusula de inalienabilidade por um período de 5 (cinco) anos, conforme estabelece o art. 31, § 4º, inciso II (parte final), da Lei nº 9.636/1998, nos contratos de transferência gratuita do domínio pleno ao beneficiário final;
+
+IV - manter cadastro municipal atualizado das áreas supramencionadas.
+
+VI - proceder ao registro do contrato de doação com encargos, assim como dos títulos firmados com os beneficiários finais, nas matrículas dos imóveis;
+
+VII - as transferências de que tratam o inciso II do caput deste artigo deverão ser feitas preferencialmente em nome da mulher, conforme o disposto no art. 10, XI, da Lei 13.465/2017; e
+
+VIII - providenciar em todo material de divulgação, incluindo a inserção de placas no imóvel, a informação de que a destinação ocorreu em área da União, com o apoio do Governo Federal, conforme disposto no art. 18 da Portaria nº 2826, de 31 de janeiro de 2020.
+
+**Art. 4º** A doação tornar-se-á nula, independentemente de ato especial, sem direito do donatário a qualquer indenização, inclusive por benfeitorias realizadas, se descumprido o estabelecido nos arts. 2º e 3º desta Portaria ou, ainda, se ocorrer inadimplemento de cláusula contratual.
+
+**Art. 5º** O donatário responderá, judicial e extrajudicialmente, por quaisquer reivindicações que venham a ser efetuadas por terceiros concernentes ao imóvel ora autorizado em doação, inclusive por benfeitorias nele existentes.
+
+**Art. 6º** A doação a que se refere esta portaria não exime o interessado de obter todas as licenças, outorgas, autorizações e alvarás necessários ao empreendimento, em especial às licenças ambiental, artístico/histórico e urbanística.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+LÚCIO GERALDO DE ANDRADE

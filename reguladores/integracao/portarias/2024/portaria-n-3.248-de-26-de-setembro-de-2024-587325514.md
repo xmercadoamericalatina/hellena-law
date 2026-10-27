@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 3.248, DE 26 DE SETEMBRO DE 2024"
+orgao: "Ministério da Integração e do Desenvolvimento Regional/Secretaria Nacional de Proteção e Defesa Civil"
+tipo: "Portaria"
+numero: "3248"
+data: 2024-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2024, seção 1, p. 85"
+data_publicacao: 2024-09-30
+edicao: "189"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.248-de-26-de-setembro-de-2024-587325514"
+sha256_html_fonte: 8305b1f767320a955ac8c8d92c71b186933921d76019becf7eb704bfe913fca5
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 3.248, DE 26 DE SETEMBRO DE 2024
+
+PORTARIA Nº 3.248, DE 26 DE SETEMBRO DE 2024
+
+Autoriza o empenho e a transferência de recursos ao Município de Manaus - AM, para execução de ações de Defesa Civil.
+
+A UNIÃO, por intermédio do MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL, neste ato representado pelo SECRETÁRIO NACIONAL DE PROTEÇÃO E DEFESA CIVIL, SUBSTITUTO, nomeado pela Portaria n. 2.088, de 21 de junho de 2023, publicada no D.O.U, de 23 de junho de 2023, Seção 2, consoante delegação de competência conferida pela Portaria n. 2.191, de 27 de junho de 2023, publicada no DOU, de 28 de junho de 2023, Seção 1, e tendo em vista o disposto na Lei nº 12.340, de 01 de dezembro de 2010, na Lei nº 12.608, de 10 de abril de 2012, no Decreto nº 11.219, de 5 de outubro de 2022 e no Decreto nº 11.655, de 23 de agosto de 2023, resolve:
+
+**Art. 1°** Autorizar o empenho e o repasse de recursos ao Município de Manaus - AM, no valor de R$ 5.807.030,67 (cinco milhões, oitocentos e sete mil trinta reais e sessenta e sete centavos), para a execução de ações de resposta, conforme processo n. 59052.030607/2024-37.
+
+**Art. 2°** Os recursos financeiros serão empenhados a título de Transferência Obrigatória, conforme legislação vigente, observando a classificação orçamentária: PT: 06.182.2318.22BO.6506; GND: 3.3.40.41; Fonte: 3000; UG: 530012.
+
+**Art. 3°** Considerando a natureza e o volume de ações a serem implementadas, o prazo de execução será de 180 dias, a partir da publicação desta portaria no Diário Oficial da União (DOU).
+
+**Art. 4°** A utilização, pelo ente beneficiário, dos recursos transferidos, está vinculada exclusivamente à execução das ações especificadas no art. 1° desta Portaria.
+
+**Art. 5°** O proponente deverá apresentar prestação de contas final no prazo de 30 dias a partir do término da vigência, nos termos do art. 32 do Decreto nº 11.655, de 23 de agosto de 2023.
+
+**Art. 6°** Esta Portaria entra em vigor na data de sua publicação.
+
+PAULO ROBERTO FARIAS FALCÃO

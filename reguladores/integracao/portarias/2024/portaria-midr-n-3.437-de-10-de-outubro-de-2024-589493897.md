@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA MIDR Nº 3.437, DE 10 DE OUTUBRO DE 2024"
+orgao: "Ministério da Integração e do Desenvolvimento Regional/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3437"
+data: 2024-10-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/10/2024, seção 1, p. 60"
+data_publicacao: 2024-10-11
+edicao: "198"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-midr-n-3.437-de-10-de-outubro-de-2024-589493897"
+sha256_html_fonte: f0a3965d23e4c2ce1fa520839ebf455b5b4f8422ba0369ec1e91dc788cc390e0
+baixado_em: 2026-10-16
+---
+# PORTARIA MIDR Nº 3.437, DE 10 DE OUTUBRO DE 2024
+
+PORTARIA MIDR Nº 3.437, DE 10 DE OUTUBRO DE 2024
+
+Regulamenta o procedimento de interposição de recurso em face de requerimento não habilitado do apoio financeiro estabelecido por meio da Medida Provisória n. 1.219, de 15 de maio de 2024, da Medida Provisória n. 1.228, de 6 de junho de 2024, e da Medida Provisória n. 1.250, de 06 de agosto de 2024.
+
+O MINISTRO DE ESTADO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL, no uso da atribuição que lhe confere o inciso II do parágrafo único do art. 87 da Constituição Federal, e tendo em vista o disposto no Decreto Legislativo n. 36, de 7 de maio de 2024, nos artigos 9º da Medida Provisória n. 1.219, de 15 de maio de 2024, e da Medida Provisória n. 1.228, de 6 de junho de 2024, resolve:
+
+**Art. 1º** Estabelece o procedimento de interposição de recursos administrativos do "Sistema de Processamento dos Requerimentos de Apoio Financeiro às Famílias Desalojadas e Desabrigadas do Rio Grande do Sul" (Sistema Auxílio Reconstrução) como ferramenta para reforma de requerimento não habilitado do apoio financeiro estabelecido por meio das Medidas Provisórias n. 1.219, de 15 de maio de 2024, n. 1.228, de 6 de junho de 2024, e n. 1.250, de 06 de agosto de 2024.
+
+**Art. 2º** O processo de interposição de recursos seguirá as seguintes fases:
+
+I - O Ministério da Integração e do Desenvolvimento Regional - MIDR - divulgará a data de início do período de recursos administrativos no site do auxílio reconstrução, sem prejuízo do uso de outros meios de comunicação;
+
+II - Caso tenha interesse em interpor recurso em face da não habilitação do seu requerimento, o responsável familiar deverá apresentar, à prefeitura municipal responsável pelo envio do requerimento, os documentos comprobatórios e argumentos que fundamentem seu recurso, e solicitar a abertura de recurso, em até 15 (quinze) dias corridos da data de divulgação de que trata o inciso I deste artigo;
+
+III - O Poder Executivo municipal deverá tomar as providências necessárias, e se manifestar quanto as pendências do recurso no sistema de que trata o artigo 1º, em até 30 (trinta) dias corridos após abertura do recurso;
+
+IV - Após manifestação do município, a União realizará processamento do recurso administrativo, no prazo máximo de 30 (trinta) dias, prorrogável por igual período, considerando a disponibilidade de acesso às bases de dados atualizadas.
+
+**Art. 3º** Considerando os requisitos estabelecidos no artigo 4º da Instrução Normativa n. 4, de 7 de junho de 2024, deverão ser utilizados os meios constantes no Anexo I para regularização das pendências no âmbito do recurso administrativo.
+
+**Art. 4º** Os documentos e justificativas apresentados pelo responsável familiar requerente à prefeitura municipal para fim de saneamento de pendências e fundamentação de recurso deverão ter sua autenticidade e veracidade atestadas por agente público municipal em campo específico no sistema.
+
+**Art. 5º** O agente público municipal registrará seu posicionamento a respeito do recurso em campo específico do sistema, incluindo os motivos que ensejam tal posição.
+
+**Art. 6º** Todos os documentos apresentados pelo cidadão para comprovar a resolução de suas pendências ou quaisquer documentos gerados pelos agentes públicos, conforme Anexo a esta Portaria, deverão ser assinados e anexados nos respectivos critérios avaliados, na funcionalidade de recurso do sistema do Auxílio Reconstrução.
+
+**Art. 7º** Somente será considerado para processamento o recurso que teve todas suas pendências analisadas e que foi enviado pela Prefeitura.
+
+**Art. 8º** A análise desempenhada pelo Poder Executivo municipal não garante o provimento do recurso, que ainda deverá atender aos demais critérios necessários à concessão do benefício.
+
+**Art. 9º** O Ministério da Integração e do Desenvolvimento Regional e a Controladoria Geral da União poderão solicitar, a qualquer tempo, documentos e informações complementares ao Município para fins de auditoria dos processos de concessão do auxílio.
+
+**Art. 10.** Caso não seja cumprido o prazo estabelecido no inciso III do artigo 2º, o recurso será indeferido.
+
+**Art. 11.** Esta Portaria entra em vigor na data de sua publicação.
+
+ANTONIO WALDEZ GÓES DA SILVA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Pendência</p></td>      <td rowspan="1" colspan="1"><p>Meios de comprovação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CPF Não Regular</p></td>      <td rowspan="1" colspan="1"><p>Comprovante de situação cadastral do CPF do responsável familiar na Receita Federal em situação regular. O comprovante poderá ser obtido pela prefeitura ou cidadão no site da Receita Federal.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>(https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp);</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Não é o Titular do CPF Informado</p></td>      <td rowspan="1" colspan="1"><p>Comprovante de situação cadastral do CPF do responsável familiar na Receita Federal atestando a titularidade do mesmo em conjunto com um documento de identificação oficial (RG, CNH, Carteira de Trabalho, Passaporte). O comprovante poderá ser obtido pela prefeitura ou cidadão no site da Receita Federal.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>(https://servicos.receita.fazenda.gov.br/servicos/cpf/consultasituacao/consultapublica.asp)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Idade Menor que 16 Anos</p></td>      <td rowspan="1" colspan="1"><p>Documento de identificação oficial (RG, CNH, Carteira de Trabalho, Passaporte).</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>O documento deve comprovar que o responsável familiar tinha mais de 16 anos completos, antes do fim da vigência da Medida Provisória que instituiu o apoio financeiro no seu município, conforme lista publicada no site do auxílio reconstrução.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Indício de Óbito nas Bases de Governo*</p></td>      <td rowspan="1" colspan="1"><p>Declaração recente de órgão público que reconheça prova de vida, em atendimento presencial.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>a) Selecionar na funcionalidade de recurso do sistema do Auxílio Reconstrução, o endereço correto através da lista de endereços da família.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Endereço não confirmado nas bases do governo</p></td>      <td rowspan="1" colspan="1"><p>b) Parecer Social emitido por Assistente Social Municipal. O parecer deve ser subsidiado por visita in loco, que ateste que o endereço declarado se encontra em favelas e comunidades urbanas e rurais.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>c) Informar na funcionalidade de recurso do sistema do Auxílio Reconstrução, todos os membros da família. Essa operação possibilitará a verificação de endereços associados a família nas bases do governo federal de forma mais apurada.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Endereço Fora da Mancha Georreferenciada*</p></td>      <td rowspan="1" colspan="1"><p>a) Atualização da geolocalização do endereço registrado no requerimento. O cidadão poderá indicar a localização correta de seu endereço utilizando o mapa disponibilizado pelo sistema do Auxílio Reconstrução. Ressalta-se que, a modificação da geolocalização não altera o endereço cadastrado no requerimento e que será realizado um novo processamento para verificar se a nova localização está, ou não, dentro da área afetada no município do requerimento;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>b) Parecer/relatório da Defesa Civil do município que comprove que a residência está em área afetada. O cidadão deve apresentar documentação comprobatória e justificativas que fundamentem a solicitação para que a Defesa Civil do município, após visita in loco, ateste que o endereço está dentro da área afetada.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>a) Informar na funcionalidade de recursos do sistema do Auxílio Reconstrução, o endereço correto.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>b) Selecionar na funcionalidade de recurso do sistema do Auxílio Reconstrução, o endereço correto através da lista de endereços da família.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Mais de Uma Família no Mesmo Endereço</p></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>c) Informar na funcionalidade de recursos do sistema do Auxílio Reconstrução, a respectiva unidade consumidora de energia elétrica de seu endereço.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>d) Parecer do agente municipal esclarecendo a situação da família no endereço. O cidadão deve apresentar um documento oficial de algum órgão de governo ou de concessionária de serviços públicos que comprove o endereço de residência da família. De posse dos documentos e das informações, o agente municipal deverá realizar visita in loco e emitir obrigatoriamente parecer social esclarecendo a situação da família no endereço.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Família Unipessoal</p></td>      <td rowspan="1" colspan="1"><p>a) Informar na funcionalidade de recurso do sistema do Auxílio Reconstrução, todos os membros da família. Essa operação possibilitará a verificação de endereços associados a família nas bases do governo federal de forma mais apurada.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ou</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>b) Parecer Social emitido pelo Assistente Social Municipal. Se o requerente for realmente uma família unipessoal, deverá apresentar autodeclaração e solicitar Parecer Social emitido pelo Assistente Social Municipal, com visita in loco, que ateste a composição familiar do requerente.</p></td>     </tr>    </tbody>   </table>

@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 821, DE 22 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Integração e do Desenvolvimento Regional/Secretaria Nacional de Proteção e Defesa Civil"
+tipo: "Portaria"
+numero: "821"
+data: 2023-02-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/02/2023, seção 1, p. 19"
+data_publicacao: 2023-02-24
+edicao: "38"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-821-de-22-de-fevereiro-de-2023-465833395"
+sha256_html_fonte: b414afff59cb9d296af142993198ec5fcd8badaf3e5f0f2d631fb48de4f2cacc
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 821, DE 22 DE FEVEREIRO DE 2023
+
+PORTARIA Nº 821, DE 22 DE FEVEREIRO DE 2023
+
+A UNIÃO, por intermédio do MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL, neste ato representado pelo SECRETÁRIO NACIONAL DE PROTEÇÃO E DEFESA CIVIL, nomeado pela Portaria n. 190, de 1° de janeiro de 2023, publicada no D.O.U, de 2 de janeiro de 2023, Seção 2, Edição Extra B, consoante delegação de competência conferida pela Portaria n. 2.708, de 28 de outubro de 2021, publicada no DOU, de 29 de outubro de 2021, Seção 1, e tendo em vista o disposto na Lei nº 12.340, de 01 de dezembro de 2010, na Lei nº 12.608, de 10 de abril de 2012 e no Decreto nº 11.219, de 5 de outubro de 2022, resolve:
+
+**Art. 1°** Prorrogar o prazo de execução das ações de prevenção, previsto no art. 5° da Portaria n. 2.621, de 08 de novembro de 2019, constante no processo administrativo nº 59204.008250/2017-09, que autorizou a transferência de recursos ao Município de João Pessoa - PB, para ações de Defesa Civil até 03/05/2023.
+
+**Art. 2°** Ficam ratificados os demais dispositivos da Portaria acima citada, não alterados por esta.
+
+**Art. 3°** Esta Portaria entra em vigor na data de sua assinatura.
+
+WOLNEI WOLFF BARREIROS

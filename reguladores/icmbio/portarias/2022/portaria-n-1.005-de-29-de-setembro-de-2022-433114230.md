@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 1.005, DE 29 DE SETEMBRO DE 2022"
+orgao: "Ministério do Meio Ambiente/Instituto Chico Mendes de Conservação da Biodiversidade"
+tipo: "Portaria"
+numero: "1005"
+data: 2022-09-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2022, seção 1, p. 69"
+data_publicacao: 2022-09-30
+edicao: "187"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.005-de-29-de-setembro-de-2022-433114230"
+sha256_html_fonte: c90fd44d1088d297ae572b38fce25d3609d2ac8161a03aeaaa815b3e480e26c8
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 1.005, DE 29 DE SETEMBRO DE 2022
+
+PORTARIA Nº 1.005, DE 29 DE SETEMBRO DE 2022
+
+Realoca Cargos Comissionados Executivos - CCE e de Funções Comissionadas Executivas - FCE do ICMBio, constantes no Anexo II do Decreto Nº 11.193, de 08 de setembro de 2022.
+
+O PRESIDENTE DO INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - ICMBio, no uso das atribuições que lhe conferem o art. 18 do Anexo I do Decreto nº 11.193, de 08 de setembro de 2022, que aprovou a Estrutura Regimental do ICMBio, publicado no Diário Oficial da União de 09 de setembro de 2022, e tendo em vista o que consta do processo administrativo nº 02070.000563/2022-13;, resolve:
+
+**Art. 1º** Realocar os Cargos Comissionados Executivos - CCE e de Funções Comissionadas Executivas - FCE do ICMBio, constantes no Anexo II do Decreto Nº 11.193, de 08 de setembro de 2022, na forma do Anexo I desta Portaria.
+
+**Parágrafo único.** As alterações decorrentes desta Portaria deverão ser refletidas no Regimento Interno do ICMBio e nas alterações futuras do Decreto nº Decreto Nº 11.193, de 08 de setembro de 2022.
+
+**Art. 2º** Esta Portaria entra em vigor em 11 de outubro de 2022, em observância ao § 1º do art. 13 do Decreto nº 10.829, de 5 de outubro de 2021.
+
+MARCOS DE CASTRO SIMANOVIC
+
+## ANEXO I — QUADRO DEMONSTRATIVO DAS REALOCAÇÕES DE CCE E DE FCE DO ICMBIO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Unidade e do Cargo no Decreto nº 11.193/2022</p></td>      <td rowspan="1" colspan="1"><p>Denominação do Cargo no Decreto nº 11.193/2022</p></td>      <td rowspan="1" colspan="1"><p>Código do Cargo no Decreto nº 11.193/2022</p></td>      <td rowspan="1" colspan="1"><p>Qtd.</p></td>      <td rowspan="1" colspan="1"><p>Nova Unidade do Cargo</p></td>      <td rowspan="1" colspan="1"><p>Nova Denominação do Cargo</p></td>      <td rowspan="1" colspan="1"><p>Novo Código do Cargo</p></td>      <td rowspan="1" colspan="1"><p>Qtd.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PROCURADORIA FEDERAL ESPECIALIZADA</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>GERÊNCIAS REGIONAIS</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PROCURADORIA FEDERAL ESPECIALIZADA</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PROCURADORIA FEDERAL ESPECIALIZADA</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>CENTRO DE FORMAÇÃO EM CONSERVAÇÃO DA BIODIVERSIDADE</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CENTRO DE FORMAÇÃO EM CONSERVAÇÃO DA BIODIVERSIDADE</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE AÇÕES SOCIOAMBIENTAIS E CONSOLIDAÇÃO TERRITORIAL EM UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE CRIAÇÃO E MANEJO DE UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.02</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>GERÊNCIAS REGIONAIS</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.02</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.01</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>GERÊNCIAS REGIONAIS</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.01</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>GERÊNCIAS REGIONAIS</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>UNIDADES DE CONSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>    </tbody>   </table>

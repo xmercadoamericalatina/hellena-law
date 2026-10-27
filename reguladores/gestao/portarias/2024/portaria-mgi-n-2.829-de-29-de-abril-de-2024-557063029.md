@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA MGI Nº 2.829, DE 29 DE ABRIL DE 2024"
+orgao: "Ministério da Gestão e da Inovação em Serviços Públicos/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "2829"
+data: 2024-04-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/04/2024, seção 1, p. 67"
+data_publicacao: 2024-04-30
+edicao: "83"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mgi-n-2.829-de-29-de-abril-de-2024-557063029"
+sha256_html_fonte: 1e09a85730e67ab02712638881bc145c6e43ce02a7c5d39a710621b672ab2ab3
+baixado_em: 2026-10-16
+---
+# PORTARIA MGI Nº 2.829, DE 29 DE ABRIL DE 2024
+
+PORTARIA MGI Nº 2.829, DE 29 DE ABRIL DE 2024
+
+Fixa valor mensal per capita para a participação da União no custeio da assistência à saúde suplementar dos servidores públicos do Poder Executivo federal, dos militares da Polícia Militar e do Corpo de Bombeiros Militar dos extintos Territórios Federais do Amapá, de Rondônia e de Roraima, na condição de ativos ou inativos, seus dependentes e os pensionistas.
+
+A MINISTRA DE ESTADO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso II, da Constituição Federal de 1988, e considerando o disposto no art. 230 da Lei nº 8.112, de 11 de dezembro de 1990 e na Instrução Normativa SGP/SEDGG/ME nº 97, de 26 de dezembro de 2022, resolve:
+
+**Art. 1º** Os procedimentos adotados pelos órgãos e entidades do Sistema de Pessoal Civil da Administração Federal - Sipec, relativos à participação da União no custeio da assistência à saúde suplementar dos servidores públicos do Poder Executivo federal, dos militares da Polícia Militar e do Corpo de Bombeiros Militar dos extintos Territórios Federais do Amapá, de Rondônia e de Roraima, na condição de ativos ou inativos, seus dependentes e os pensionistas, de que trata a Instrução Normativa SGP/SEDGG/ME nº 97, de 26 de dezembro de 2022, deverão observar os valores per capita constantes do Anexo a esta Portaria.
+
+**Art. 2º** Excluem-se dos critérios estabelecidos nesta Portaria:
+
+I - a contratação de planos de saúde para atendimento a servidores lotados no exterior; e
+
+II - o sistema de saúde de que trata o art. 15 da Lei nº 9.650, de 27 de maio de 1998.
+
+**Art. 3º** Esta Portaria entra em vigor em 1º de maio de 2024.
+
+**Art. 4º** Fica revogada a Portaria MP nº 8, de 13 de janeiro de 2016.
+
+ESTHER DWECK
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>RENDA (REAIS/IDADE)</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 01</p><p>00 a 18</p></td>      <td rowspan="1" colspan="1"><p></p><p>FAIXA 02</p><p>19 a 23</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 03</p><p>24 a 28</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 04</p><p>29 a 33</p></td>      <td rowspan="1" colspan="1"><p></p><p>FAIXA 05</p><p>34 a 38</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 06</p><p>39 a 43</p></td>      <td rowspan="1" colspan="1"><p></p><p>FAIXA 07</p><p>44 a 48</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 08</p><p>49 a 53</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 09</p><p>54 a 58</p></td>      <td rowspan="1" colspan="1"><p>FAIXA 10</p><p>59 ou +</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>até 3.000</p></td>      <td rowspan="1" colspan="1"><p>254,18</p></td>      <td rowspan="1" colspan="1"><p>266,17</p></td>      <td rowspan="1" colspan="1"><p>269,77</p></td>      <td rowspan="1" colspan="1"><p>297,07</p></td>      <td rowspan="1" colspan="1"><p>305,95</p></td>      <td rowspan="1" colspan="1"><p>316,10</p></td>      <td rowspan="1" colspan="1"><p>361,06</p></td>      <td rowspan="1" colspan="1"><p>366,80</p></td>      <td rowspan="1" colspan="1"><p>372,51</p></td>      <td rowspan="1" colspan="1"><p>411,26</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 3.001 até 6.000</p></td>      <td rowspan="1" colspan="1"><p>196,34</p></td>      <td rowspan="1" colspan="1"><p>207,65</p></td>      <td rowspan="1" colspan="1"><p>211,02</p></td>      <td rowspan="1" colspan="1"><p>230,21</p></td>      <td rowspan="1" colspan="1"><p>238,60</p></td>      <td rowspan="1" colspan="1"><p>248,20</p></td>      <td rowspan="1" colspan="1"><p>280,87</p></td>      <td rowspan="1" colspan="1"><p>285,34</p></td>      <td rowspan="1" colspan="1"><p>289,80</p></td>      <td rowspan="1" colspan="1"><p>321,04</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 6.001 até 9.000</p></td>      <td rowspan="1" colspan="1"><p>160,80</p></td>      <td rowspan="1" colspan="1"><p>162,92</p></td>      <td rowspan="1" colspan="1"><p>166,10</p></td>      <td rowspan="1" colspan="1"><p>178,29</p></td>      <td rowspan="1" colspan="1"><p>186,21</p></td>      <td rowspan="1" colspan="1"><p>195,23</p></td>      <td rowspan="1" colspan="1"><p>210,12</p></td>      <td rowspan="1" colspan="1"><p>213,45</p></td>      <td rowspan="1" colspan="1"><p>216,78</p></td>      <td rowspan="1" colspan="1"><p>235,28</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 9.001 até 12.000</p></td>      <td rowspan="1" colspan="1"><p>142,18</p></td>      <td rowspan="1" colspan="1"><p>144,16</p></td>      <td rowspan="1" colspan="1"><p>147,11</p></td>      <td rowspan="1" colspan="1"><p>158,69</p></td>      <td rowspan="1" colspan="1"><p>166,10</p></td>      <td rowspan="1" colspan="1"><p>174,57</p></td>      <td rowspan="1" colspan="1"><p>187,87</p></td>      <td rowspan="1" colspan="1"><p>190,85</p></td>      <td rowspan="1" colspan="1"><p>193,82</p></td>      <td rowspan="1" colspan="1"><p>211,36</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 12.001 até 15.000</p></td>      <td rowspan="1" colspan="1"><p>132,03</p></td>      <td rowspan="1" colspan="1"><p>133,86</p></td>      <td rowspan="1" colspan="1"><p>136,60</p></td>      <td rowspan="1" colspan="1"><p>148,11</p></td>      <td rowspan="1" colspan="1"><p>155,02</p></td>      <td rowspan="1" colspan="1"><p>162,93</p></td>      <td rowspan="1" colspan="1"><p>176,13</p></td>      <td rowspan="1" colspan="1"><p>178,92</p></td>      <td rowspan="1" colspan="1"><p>181,71</p></td>      <td rowspan="1" colspan="1"><p>198,93</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 15.000 até 18.000</p></td>      <td rowspan="1" colspan="1"><p>121,87</p></td>      <td rowspan="1" colspan="1"><p>123,56</p></td>      <td rowspan="1" colspan="1"><p>126,10</p></td>      <td rowspan="1" colspan="1"><p>137,53</p></td>      <td rowspan="1" colspan="1"><p>143,95</p></td>      <td rowspan="1" colspan="1"><p>151,29</p></td>      <td rowspan="1" colspan="1"><p>164,39</p></td>      <td rowspan="1" colspan="1"><p>166,99</p></td>      <td rowspan="1" colspan="1"><p>169,60</p></td>      <td rowspan="1" colspan="1"><p>186,50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>de 18.0001 até 21.000</p></td>      <td rowspan="1" colspan="1"><p>111,72</p></td>      <td rowspan="1" colspan="1"><p>113,27</p></td>      <td rowspan="1" colspan="1"><p>115,59</p></td>      <td rowspan="1" colspan="1"><p>126,95</p></td>      <td rowspan="1" colspan="1"><p>132,88</p></td>      <td rowspan="1" colspan="1"><p>139,66</p></td>      <td rowspan="1" colspan="1"><p>152,65</p></td>      <td rowspan="1" colspan="1"><p>155,06</p></td>      <td rowspan="1" colspan="1"><p>157,48</p></td>      <td rowspan="1" colspan="1"><p>174,06</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>acima de 21.000</p></td>      <td rowspan="1" colspan="1"><p>106,64</p></td>      <td rowspan="1" colspan="1"><p>108,12</p></td>      <td rowspan="1" colspan="1"><p>110,33</p></td>      <td rowspan="1" colspan="1"><p>116,37</p></td>      <td rowspan="1" colspan="1"><p>121,80</p></td>      <td rowspan="1" colspan="1"><p>128,02</p></td>      <td rowspan="1" colspan="1"><p>140,90</p></td>      <td rowspan="1" colspan="1"><p>143,14</p></td>      <td rowspan="1" colspan="1"><p>145,37</p></td>      <td rowspan="1" colspan="1"><p>161,63</p></td>     </tr>    </tbody>   </table>

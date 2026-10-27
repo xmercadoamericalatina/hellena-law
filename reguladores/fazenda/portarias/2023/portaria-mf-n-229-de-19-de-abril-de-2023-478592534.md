@@ -1,0 +1,98 @@
+---
+titulo: "PORTARIA MF Nº 229, DE 19 DE ABRIL DE 2023"
+orgao: "Ministério da Fazenda/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "229"
+data: 2023-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/04/2023, seção 1, p. 25"
+data_publicacao: 2023-04-24
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mf-n-229-de-19-de-abril-de-2023-478592534"
+sha256_html_fonte: 6e42569d020931636eaa6a3901e6b1808ee38479749b2c9fabfd7066364a07ae
+baixado_em: 2026-10-16
+---
+# PORTARIA MF Nº 229, DE 19 DE ABRIL DE 2023
+
+PORTARIA MF Nº 229, DE 19 DE ABRIL DE 2023
+
+Altera, mediante antecipações e remanejamentos, os valores autorizados para pagamento de que tratam os Anexos II, III e IV do Decreto nº 11.415, de 16 de fevereiro de 2023, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2023 e dá outras providências.
+
+O MINISTRO DE ESTADO DA FAZENDA, tendo em vista o disposto no art. 9º, inciso II, alíneas "a", "b", item 1, e "c", itens 1 e 2, e § 1º, do Decreto nº 11.415, de 16 de fevereiro de 2023, resolve:
+
+**Art. 1º** Ficam alterados, mediante antecipações e remanejamentos, os valores autorizados para pagamento de que tratam os Anexos II, III e IV do Decreto nº 11.415, de 16 de fevereiro de 2023, na forma dos Anexos I a VI desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FERNANDO HADDAD
+
+## ANEXO I — Redução no Anexo II do Decreto Nº 11.415, de 16 de Fevereiro de 2023 -
+
+VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES DO TESOURO ESPECIFICADAS (1)(2)(3)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>46000 Ministério da Gestão e da Inovação em Serviços Públicos</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>49000 Ministério do Desenvolvimento Agrário e Agricultura Familiar</p></td>      <td rowspan="1" colspan="1"><p>914</p></td>      <td rowspan="1" colspan="1"><p>1.142</p></td>      <td rowspan="1" colspan="1"><p>1.371</p></td>      <td rowspan="1" colspan="1"><p>1.599</p></td>      <td rowspan="1" colspan="1"><p>1.828</p></td>      <td rowspan="1" colspan="1"><p>2.056</p></td>      <td rowspan="1" colspan="1"><p>2.285</p></td>      <td rowspan="1" colspan="1"><p>2.513</p></td>      <td rowspan="1" colspan="1"><p>2.742</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total</p></td>      <td rowspan="1" colspan="1"><p>914</p></td>      <td rowspan="1" colspan="1"><p>1.142</p></td>      <td rowspan="1" colspan="1"><p>1.371</p></td>      <td rowspan="1" colspan="1"><p>1.599</p></td>      <td rowspan="1" colspan="1"><p>1.828</p></td>      <td rowspan="1" colspan="1"><p>2.056</p></td>      <td rowspan="1" colspan="1"><p>20.242</p></td>      <td rowspan="1" colspan="1"><p>20.471</p></td>      <td rowspan="1" colspan="1"><p>20.699</p></td>     </tr>    </tbody>   </table>
+
+1\. Pagamentos relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: Todas as fontes, exceto as fontes 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 134, 136, 138 e 177 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7), emendas de comissão (RP8) e despesas não sujeitas ao teto de gastos especificadas no ADCT, art. 107, § 6º, inciso IV (PUC); art. 107, § 6º-A (EC 126/2022); e art. 107-A, § 6º.
+
+## ANEXO II — Acréscimo ao Anexo II do Decreto Nº 11.415, de 16 de Fevereiro de 2023 -
+
+VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES DO TESOURO ESPECIFICADAS (1)(2)(3)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>22000 Ministério da Agricultura e Pecuária</p></td>      <td rowspan="1" colspan="1"><p>914</p></td>      <td rowspan="1" colspan="1"><p>1.142</p></td>      <td rowspan="1" colspan="1"><p>1.371</p></td>      <td rowspan="1" colspan="1"><p>1.599</p></td>      <td rowspan="1" colspan="1"><p>1.828</p></td>      <td rowspan="1" colspan="1"><p>2.056</p></td>      <td rowspan="1" colspan="1"><p>2.285</p></td>      <td rowspan="1" colspan="1"><p>2.513</p></td>      <td rowspan="1" colspan="1"><p>2.742</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000 Ministério da Fazenda</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>      <td rowspan="1" colspan="1"><p>17.958</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>30211 Conselho Administrativo de Defesa Econômica *</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>33000 Ministério da Previdência Social</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>26.000</p></td>      <td rowspan="1" colspan="1"><p>20.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>39250 Agência Nacional de Transportes Terrestres**</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>5.000</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>46000 Ministério da Gestão e da Inovação em Serviços Públicos</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>45.235</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>71101 Recursos sob Supervisão do MF</p></td>      <td rowspan="1" colspan="1"><p>519.367</p></td>      <td rowspan="1" colspan="1"><p>474.205</p></td>      <td rowspan="1" colspan="1"><p>429.043</p></td>      <td rowspan="1" colspan="1"><p>383.880</p></td>      <td rowspan="1" colspan="1"><p>338.718</p></td>      <td rowspan="1" colspan="1"><p>293.555</p></td>      <td rowspan="1" colspan="1"><p>195.704</p></td>      <td rowspan="1" colspan="1"><p>97.852</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total</p></td>      <td rowspan="1" colspan="1"><p>619.874</p></td>      <td rowspan="1" colspan="1"><p>574.940</p></td>      <td rowspan="1" colspan="1"><p>530.006</p></td>      <td rowspan="1" colspan="1"><p>485.073</p></td>      <td rowspan="1" colspan="1"><p>440.139</p></td>      <td rowspan="1" colspan="1"><p>395.205</p></td>      <td rowspan="1" colspan="1"><p>241.346</p></td>      <td rowspan="1" colspan="1"><p>128.723</p></td>      <td rowspan="1" colspan="1"><p>21.099</p></td>     </tr>    </tbody>   </table>
+
+1\. Pagamentos relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: Todas as fontes, exceto as fontes 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 134, 136, 138 e 177 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7), emendas de comissão (RP8) e despesas não sujeitas ao teto de gastos especificadas no ADCT, art. 107, § 6º, inciso IV (PUC); art. 107, § 6º-A (EC 126/2022); e art. 107-A, § 6º.
+
+(\*) Unidade com prerrogativas de órgão setorial de acordo com o § 1º do art. 3º, combinado com o art. 51, ambos da Lei nº 13.848, de 2019.
+
+(\*\*) Unidade com prerrogativas de órgão setorial de acordo com o § 1º do art. 3º da Lei nº 13.848, de 25 de junho de 2019.
+
+## ANEXO III — Redução no Anexo III do Decreto Nº 11.415, de 16 de Fevereiro de 2023 - VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES PRÓPRIAS ESPECIFICADAS (1)(2) (3)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>30211 Conselho Administrativo de Defesa Econômica *</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>     </tr>    </tbody>   </table>
+
+1\. Pagamentos relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 134, 136 e 138 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7), emendas de comissão (RP8) e despesas não sujeitas ao teto de gastos especificadas no ADCT, art. 107, § 6º, inciso IV (PUC); art. 107, § 6º-A (EC 126/2022); e art. 107-A, § 6º.
+
+(\*) Unidade com prerrogativas de órgão setorial de acordo com o § 1º do art. 3º, combinado com o art. 51, ambos da Lei nº 13.848, de 2019.
+
+## ANEXO IV — Acréscimo ao Anexo III do Decreto Nº 11.415, de 16 de Fevereiro de 2023 - VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES PRÓPRIAS ESPECIFICADAS (1)(2) (3)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>33000 Ministério da Previdência Social</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>38.000</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>44000 Ministério do Meio Ambiente e Mudança do Clima</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>10.000</p></td>      <td rowspan="1" colspan="1"><p>5.000</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>48.000</p></td>      <td rowspan="1" colspan="1"><p>43.000</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>    </tbody>   </table>
+
+1\. Pagamentos relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 134, 136 e 138 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7), emendas de comissão (RP8) e despesas não sujeitas ao teto de gastos especificadas no ADCT, art. 107, § 6º, inciso IV (PUC); art. 107, § 6º-A (EC 126/2022); e art. 107-A, § 6º.
+
+## Anexo V — Redução no Anexo IV do Decreto Nº 11.415, de 16 de Fevereiro de 2023 -
+
+VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS COM RECURSOS ORIUNDOS DE LEIS OU ACORDOS ANTICORRUPÇÃO, NA FONTE ESPECIFICADA (1) (2)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>22000 Ministério da Agricultura e Pecuária</p></td>      <td rowspan="1" colspan="1"><p>914</p></td>      <td rowspan="1" colspan="1"><p>1.142</p></td>      <td rowspan="1" colspan="1"><p>1.371</p></td>      <td rowspan="1" colspan="1"><p>1.599</p></td>      <td rowspan="1" colspan="1"><p>1.828</p></td>      <td rowspan="1" colspan="1"><p>2.056</p></td>      <td rowspan="1" colspan="1"><p>2.285</p></td>      <td rowspan="1" colspan="1"><p>2.513</p></td>      <td rowspan="1" colspan="1"><p>2.742</p></td>     </tr>    </tbody>   </table>
+
+1\. Relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: 177 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+## ANEXO VI — Acréscimo ao Anexo IV do Decreto Nº 11.415, de 16 de Fevereiro de 2023 -
+
+VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS COM RECURSOS ORIUNDOS DE LEIS OU ACORDOS ANTICORRUPÇÃO, NA FONTE ESPECIFICADA (1) (2)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="10"><p>R$ mil</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos</p></td>      <td rowspan="1" colspan="1"><p>Até Abr</p></td>      <td rowspan="1" colspan="1"><p>Até Mai</p></td>      <td rowspan="1" colspan="1"><p>Até Jun</p></td>      <td rowspan="1" colspan="1"><p>Até Jul</p></td>      <td rowspan="1" colspan="1"><p>Até Ago</p></td>      <td rowspan="1" colspan="1"><p>Até Set</p></td>      <td rowspan="1" colspan="1"><p>Até Out</p></td>      <td rowspan="1" colspan="1"><p>Até Nov</p></td>      <td rowspan="1" colspan="1"><p>Até Dez</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>49000 Ministério do Desenvolvimento Agrário e Agricultura Familiar</p></td>      <td rowspan="1" colspan="1"><p>914</p></td>      <td rowspan="1" colspan="1"><p>1.142</p></td>      <td rowspan="1" colspan="1"><p>1.371</p></td>      <td rowspan="1" colspan="1"><p>1.599</p></td>      <td rowspan="1" colspan="1"><p>1.828</p></td>      <td rowspan="1" colspan="1"><p>2.056</p></td>      <td rowspan="1" colspan="1"><p>2.285</p></td>      <td rowspan="1" colspan="1"><p>2.513</p></td>      <td rowspan="1" colspan="1"><p>2.742</p></td>     </tr>    </tbody>   </table>
+
+1\. Relativos às dotações constantes da Lei Orçamentária de 2023 e aos restos a pagar.
+
+2\. Fontes: 177 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.

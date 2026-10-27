@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 3.392, DE 7 DE OUTUBRO DE 2024"
+orgao: "Ministério da Integração e do Desenvolvimento Regional/Secretaria Nacional de Proteção e Defesa Civil"
+tipo: "Portaria"
+numero: "3392"
+data: 2024-10-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/10/2024, seção 1, p. 63"
+data_publicacao: 2024-10-08
+edicao: "195"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.392-de-7-de-outubro-de-2024-588844685"
+sha256_html_fonte: 8fe53256174871e333d8a1c67727ee64273593c212f3a5f14fe6b6aa99187303
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 3.392, DE 7 DE OUTUBRO DE 2024
+
+PORTARIA Nº 3.392, DE 7 DE OUTUBRO DE 2024
+
+O SECRETÁRIO NACIONAL DE PROTEÇÃO E DEFESA CIVIL, no uso da competência que lhe foi delegada pela Portaria Ministerial nº 2.212, de 04 de julho de 2023, publicada no Diário Oficial da União, Seção 1, de 05 de julho de 2023, considerando o Decreto Nº 4.234, de 01 de outubro de 2024, do Governo do Estado do Pará/PA, e as demais informações constantes no processo nº 59051.037852/2024-85, resolve:
+
+**Art. 1º** Reconhecer, em decorrência de Incêndio Florestal, COBRADE: 1.4.1.3.2, a situação de emergência nos municípios relacionados abaixo.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N°</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>01</p></td>      <td rowspan="1" colspan="1"><p>Abel Figueiredo</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>02</p></td>      <td rowspan="1" colspan="1"><p>Acará</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>03</p></td>      <td rowspan="1" colspan="1"><p>Altamira</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>04</p></td>      <td rowspan="1" colspan="1"><p>Aurora do Pará</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>05</p></td>      <td rowspan="1" colspan="1"><p>Bagre</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>06</p></td>      <td rowspan="1" colspan="1"><p>Bonito</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>07</p></td>      <td rowspan="1" colspan="1"><p>Bragança</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>08</p></td>      <td rowspan="1" colspan="1"><p>Breu Branco</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09</p></td>      <td rowspan="1" colspan="1"><p>Cachoeira do Piriá</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>Cametá</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>Capitão Poço</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"><p>Concórdia do Pará</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>Dom Eliseu</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>Eldorado dos Carajás</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>Goianésia do Pará</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>Itaituba</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>Jacareacanga</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"><p>Maracanã</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>Marapanim</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>Moju</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>21</p></td>      <td rowspan="1" colspan="1"><p>Muaná</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>22</p></td>      <td rowspan="1" colspan="1"><p>Nova Ipixuna</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>Oriximiná</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>24</p></td>      <td rowspan="1" colspan="1"><p>Ourém</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25</p></td>      <td rowspan="1" colspan="1"><p>Pacajá</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>26</p></td>      <td rowspan="1" colspan="1"><p>Portel</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>Redenção</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>Rio Maria</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>Rurópolis</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>30</p></td>      <td rowspan="1" colspan="1"><p>São Félix do Xingu</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>31</p></td>      <td rowspan="1" colspan="1"><p>Tucuruí</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>Ulianópolis</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>33</p></td>      <td rowspan="1" colspan="1"><p>Vitória do Xingu</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>34</p></td>      <td rowspan="1" colspan="1"><p>Xinguara</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+WOLNEI WOLFF BARREIROS

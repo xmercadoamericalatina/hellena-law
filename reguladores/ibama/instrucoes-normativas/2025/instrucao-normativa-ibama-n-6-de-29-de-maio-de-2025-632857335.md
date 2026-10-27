@@ -1,0 +1,1075 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA IBAMA Nº 6, DE 29 DE MAIO DE 2025"
+orgao: "Ministério do Meio Ambiente e Mudança do Clima/Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis"
+tipo: "Instrução Normativa"
+numero: "6"
+data: 2025-05-29
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 30/05/2025, seção 1, p. 154"
+data_publicacao: 2025-05-30
+edicao: "101"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-ibama-n-6-de-29-de-maio-de-2025-632857335"
+baixado_em: 2026-10-16
+---
+# INSTRUÇÃO NORMATIVA IBAMA Nº 6, DE 29 DE MAIO DE 2025
+
+INSTRUÇÃO NORMATIVA IBAMA Nº 6, DE 29 DE MAIO DE 2025
+
+Estabelece os critérios para aplicação da modalidade de licenciamento de importação não automática para produtos sujeitos ao controle pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, de que trata o artigo 6°, da Portaria Secex nº 249, de 04 de julho de 2023, e o tratamento administrativo que será aplicado quando da implementação do Novo Processo de Importação, nos termos do Decreto nº 11.577, de 27 de junho de 2023.
+
+O PRESIDENTE DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - Ibama, no uso das atribuições que lhe confere o art. 15 do Anexo I do Decreto nº 12.130, de 7 de agosto de 2024, que aprovou a Estrutura Regimental do Ibama, publicado no Diário Oficial da União de 8 de agosto de 2024, e pelo Regimento Interno aprovado pela Portaria Ibama nº 92, de 14 de setembro de 2022, publicada no Diário Oficial da União de 16 de setembro de 2022, e considerando o Processo nº 02001.005949/2024-05, resolve:
+
+**Art. 1°** Estabelecer os critérios para aplicação da modalidade de licenciamento de importação não automática para produtos sujeitos ao controle pelo Ibama.
+
+**Art. 2** O controle administrativo sobre mercadorias será efetuado pelo Ibama por meio de tratamentos administrativos sobre operações de importação de mercadoria.
+
+**Parágrafo único.** Os tratamentos administrativos a que se refere o caput serão aplicados por meio do Portal Único de Comércio Exterior e compreendendo, sem prejuízo de eventuais medidas fiscalizatórias desta autarquia:
+
+I - monitoramento de operações de comércio exterior;
+
+II - licença, permissão, certificado ou outro documento de autorização para múltiplas operações de importação;
+
+III - licença, permissão, certificado ou outro documento de autorização por operação de importação;
+
+IV - conferência do Ibama na declaração de importação; e
+
+V - proibição de importação ou de exportação de mercadoria.
+
+**Art. 3°** Estão sujeitas a controle na importação pelo Ibama as seguintes situações:
+
+I - cargas sujeitas ao controle pelo Ibama e que se enquadrem como:
+
+a) resíduos sólidos;
+
+b) substâncias perigosas;
+
+c) poluentes orgânicos persistentes;
+
+d) produtos de controle ambiental;
+
+e) produtos químicos industriais;
+
+f) veículos automotores, máquinas agrícolas e rodoviárias, motociclos, ciclomotores e similares; ou
+
+g) espécies, produtos e subprodutos da biodiversidade;
+
+h) preservativos de madeira.
+
+II - em caso de necessidade de atendimento a procedimentos de controle, notificação ou consentimento prévio informado, definido em tratado internacional de que o País seja parte e que sejam implementadas por controle ambiental do Ibama; ou
+
+III - em casos identificados a partir de denúncia, gestão de risco ou fiscalização ambiental, em que a situação concreta evidenciar a necessidade de vistoria da carga anteriormente à autorização para sua internalização no país.
+
+**Art. 4°** A importação das mercadorias relacionadas no Art. 3° estará sujeita à conferência do Ibama na declaração de importação.
+
+**§1°** A conferência do Ibama abrange o exame documental e a inspeção da mercadoria, de forma presencial ou remota.
+
+**§2°** Após o registro, a declaração de importação será submetida à gestão de riscos do Ibama, que indicará um dos seguintes canais de fiscalização:
+
+I - verde, pelo qual o sistema registrará de forma automática a liberação pelo Ibama, dispensadas a análise documental e a inspeção da mercadoria por ele;
+
+II - amarelo, pelo qual será realizada a análise documental pelo Ibama, e, não sendo constatada irregularidade, será realizada a liberação por ele, sendo dispensada a inspeção da mercadoria; ou
+
+III - vermelho, pelo qual a liberação pelo Ibama somente será concluída após a realização da análise documental e da inspeção da mercadoria por ele.
+
+**Art. 5°** A listagem de códigos da Nomenclatura Comum do Mercosul - NCMs para os quais será aplicado o licenciamento de importação e tipo de tratamento administrativo no Portal Único de Comércio Exterior está definida no Anexo I, nos seguintes termos:
+
+I - no caso da licença para cada operação prevista no art. 2°. inciso III, limitada aos produtos e quantidades autorizados, bem como ao prazo de validade da licença:
+
+a) os códigos de NCM estão indicados com 'por operação' no Anexo I;
+
+b) o Ibama exigirá licença prévia ao embarque;
+
+c) é facultada ao Ibama a retirada da restrição de embarque, mediante justificativa fundamentada.
+
+II -no caso da licença prevista no art. 2º, inciso II, que poderá ser utilizada em múltiplas operações de importação, limitada aos produtos e quantidades autorizados, bem como ao prazo de validade da LPCO:
+
+a) os códigos de NCM estão indicados com 'flex' no Anexo I; e
+
+b) é dispensada a licença prévia ao embarque.
+
+III - para as mercadorias cuja importação é proibida nos termos da legislação ambiental vigente, os códigos da NCM estão indicados com 'impedimento' no Anexo I.
+
+**Parágrafo único.** O prazo de vigência da licença de importação atenderá:
+
+I - ao disposto em ato normativo editado pela Secretaria de Comércio Exterior, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços; ou
+
+II - ao indicado no Anexo I, conforme o produto objeto da operação de importação.
+
+**Art. 6°** Os códigos de NCMs sujeitos ao controle da importação por monitoramento, a que se refere o art. 2°., parágrafo único, inciso I desta Instrução Normativa, estão definidas no Anexo II.
+
+**Parágrafo único.** O tratamento administrativo por monitoramento será aplicado para produtos sujeitos a controle ambiental a posteriori por meio do acesso aos dados de importação para a verificação do cumprimento de regularidade das operações conforme definidas em norma ambiental.
+
+**Art. 7°** As disposições desta Instrução Normativa aplicam-se, no que couber, às operações de importação sujeitas ao controle do Ibama e realizadas por meio de licença de importação no módulo Siscomex LI Importação, conforme cronograma de desligamento desse módulo definido pelos órgãos gestores do Sistema Integrado de Comércio Exterior - Siscomex.
+
+**Art. 8°** Revoga-se o Anexo II da Instrução Normativa Ibama nº 17, de 1 de dezembro de 2021.
+
+**Art. 9°.** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+RODRIGO AGOSTINHO
+
+ANEXO INCMs CUJOS DESTAQUES ATRIBUEM CONTROLE AMBIENTAL AO IBAMA NO LICENCIAMENTO DE IMPORTAÇÃO, AOS QUAIS SE APLICARÁ TRATAMENTO ADMINISTRATIVO DE LPCO POR OPERAÇÃO, FLEX OU IMPEDIMENTO.
+
+O quadro a seguir apresenta as NCMs cujos destaques são objeto de controle ambiental pelo Ibama no licenciamento de importação, atualmente já aplicados no Siscomex. O quadro também dá transparência ao tratamento administrativo que será aplicado quando da implementação do Novo Processo de Importação, nos termos do Decreto nº 11.577, de 27 de junho de 2023.
+
+Quadro 1 - NCMs passíveis de controle ambiental pelo Ibama, por tipo de tratamento administrativo.
+
+| NCM | Descrição da Mercadoria | Destaque | Descrição Destaque | Ato Legal | Tratamento administrativo | Área responsável | Prazo de validade da LPCO |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0101 | CAVALOS, ASININOS E MUARES, VIVOS. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64458 | POR OPERAÇÃO | Comex |  |
+| 01023110 | PRENHES OU COM CRIA AO PÉ | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64509 | POR OPERAÇÃO | Comex |  |
+| 01023190 | OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64510 | POR OPERAÇÃO | Comex |  |
+| 01023911 | PRENHES OU COM CRIA AO PÉ | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70080 | POR OPERAÇÃO | Comex |  |
+| 01023919 | OUTROS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70081 | POR OPERAÇÃO | Comex |  |
+| 1023990 | OUTROS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70082 | POR OPERAÇÃO | Comex |  |
+| 01029000 | - OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64511 | POR OPERAÇÃO | Comex |  |
+| 0103 | ANIMAIS VIVOS DA ESPÉCIE SUÍNA. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64459 | POR OPERAÇÃO | Comex |  |
+| 0104 | ANIMAIS VIVOS DAS ESPÉCIES OVINA E CAPRINA. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64460 | POR OPERAÇÃO | Comex |  |
+| 01051300 | -- PATOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64512 | POR OPERAÇÃO | Comex |  |
+| 01051400 | -- GANSOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64513 | POR OPERAÇÃO | Comex |  |
+| 01059900 | -- OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64514 | POR OPERAÇÃO | Comex |  |
+| 01061100 | -- PRIMATAS |  |  | PORT IBAMA 1998 64445 | POR OPERAÇÃO | Comex |  |
+| 01061200 | -- BALEIAS, GOLFINHOS E BOTOS (MAMÍFEROS DA ORDEM CETAC |  |  | PORT IBAMA 1998 64446 | POR OPERAÇÃO | Comex |  |
+| 01061300 | -- CAMELOS E OUTROS CAMELÍDEOS (CAMELIDAE) | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 63748 | POR OPERAÇÃO | Comex |  |
+| 01061400 | -- COELHOS E LEBRES | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 63749 | POR OPERAÇÃO | Comex |  |
+
+| 01061900 | -- OUTROS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1993 60148 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 01062000 | - RÉPTEIS (INCLUINDO AS SERPENTES E AS TARTARUGAS MARIN |  |  | PORT IBAMA 1998 64449 | POR OPERAÇÃO | Comex |  |
+| 01063100 | -- AVES DE RAPINA |  |  | PORT IBAMA 1998 64447 | POR OPERAÇÃO | Comex |  |
+| 01063200 | -- PSITACIFORMES (INCLUINDO OS PAPAGAIOS, OS PERIQUITOS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1993 60150 | POR OPERAÇÃO | Comex |  |
+| 01063310 | AVESTRUZES (STRUTHIO CAMELUS), PARA REPRODUÇÃO | 001 | EXCLUSIVAMENTE ANIMAIS CAPTURADOS NA NATUREZA NO PAIS DE ORIGEM | PORT IBAMA 1998 64515 | POR OPERAÇÃO | Comex |  |
+| 01063390 | OUTROS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1993 63643 | POR OPERAÇÃO | Comex |  |
+| 01063900 | -- OUTRAS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1993 63644 | POR OPERAÇÃO | Comex |  |
+| 01064100 | -- ABELHAS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 63751 | POR OPERAÇÃO | Comex |  |
+| 1064900 | -- OUTROS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 63750 | POR OPERAÇÃO | Comex |  |
+| 01069000 | - OUTROS | 001 | EXCETO ANIMAIS DOMESTICOS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1993 60152 | POR OPERAÇÃO | Comex |  |
+| 02074100 | -- NÃO CORTADAS EM PEDAÇOS, FRESCAS OU REFRIGERADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70083 | POR OPERAÇÃO | Comex |  |
+| 02074200 | -- NÃO CORTADAS EM PEDAÇOS, CONGELADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70084 | POR OPERAÇÃO | Comex |  |
+| 02074400 | -- OUTRAS, FRESCAS OU REFRIGERADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70085 | POR OPERAÇÃO | Comex |  |
+| 02074500 | -- OUTRAS, CONGELADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70086 | POR OPERAÇÃO | Comex |  |
+| 02075100 | -- NÃO CORTADAS EM PEDAÇOS, FRESCAS OU REFRIGERADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70087 | POR OPERAÇÃO | Comex |  |
+| 02075200 | -- NÃO CORTADAS EM PEDAÇOS, CONGELADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70088 | POR OPERAÇÃO | Comex |  |
+| 02075400 | -- OUTRAS, FRESCAS OU REFRIGERADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70089 | POR OPERAÇÃO | Comex |  |
+| 02075500 | -- OUTRAS, CONGELADAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70090 | POR OPERAÇÃO | Comex |  |
+| 02081000 | - DE COELHOS OU LEBRES | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64655 | POR OPERAÇÃO | Comex |  |
+| 02083000 | - DE PRIMATAS |  |  | PORT IBAMA 1998 64452 | POR OPERAÇÃO | Comex |  |
+| 02084000 | - DE BALEIAS, GOLFINHOS E BOTOS (MAMÍFEROS DA ORDEM CET |  |  | PORT IBAMA 1998 64453 | POR OPERAÇÃO | Comex |  |
+| 02085000 | - DE RÉPTEIS (INCLUINDO AS SERPENTES E AS TARTARUGAS MA |  |  | PORT IBAMA 1998 64454 | POR OPERAÇÃO | Comex |  |
+| 02086000 | - DE CAMELOS E OUTROS CAMELÍDEOS (CAMELIDAE) | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64656 | POR OPERAÇÃO | Comex |  |
+| 02089000 | - OUTRAS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64657 | POR OPERAÇÃO | Comex |  |
+| 02109100 | -- DE PRIMATAS |  |  | PORT IBAMA 1998 64455 | POR OPERAÇÃO | Comex |  |
+| 02109200 | -- DE BALEIAS, GOLFINHOS E BOTOS (MAMÍFEROS DA ORDEM CE |  |  | PORT IBAMA 1998 64456 | POR OPERAÇÃO | Comex |  |
+| 02109300 | -- DE RÉPTEIS (INCLUINDO AS SERPENTES E AS TARTARUGAS M |  |  | PORT IBAMA 1998 64457 | POR OPERAÇÃO | Comex |  |
+| 02109911 | DE GALOS E DE GALINHAS | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66683 | POR OPERAÇÃO | Comex |  |
+| 02109919 | OUTRAS | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66684 | POR OPERAÇÃO | Comex |  |
+| 02109920 | CARNES DA ESPÉCIE OVINA | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66685 | POR OPERAÇÃO | Comex |  |
+| 02109930 | CARNES DA ESPÉCIE CAVALAR | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66686 | POR OPERAÇÃO | Comex |  |
+| 02109940 | MIUDEZAS COMESTÍVEIS | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66687 | POR OPERAÇÃO | Comex |  |
+
+| 02109990 | OUTRAS | 001 | Exceto esp cies Dom sticas, Conforme Portaria IBAMA 93/98 | RES CAMEX 2018 66688 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0301 | PEIXES VIVOS. |  |  | LEI IBAMA 1967 60372 | POR OPERAÇÃO | Comex |  |
+| 03024990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65627 | POR OPERAÇÃO | Comex |  |
+| 03027290 | OUTROS | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64580 | POR OPERAÇÃO | Comex |  |
+| 03027300 | -- CARPAS (CYPRINUSSPP., CARASSIUSSPP., CTENOPHARYNGODO | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65628 | POR OPERAÇÃO | Comex |  |
+| 03027400 | -- ENGUIAS (ANGUILLASPP.) | 001 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64581 | POR OPERAÇÃO | Comex |  |
+| 03028100 | -- CAÇÃO E OUTROS TUBARÕES | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64582 | POR OPERAÇÃO | Comex |  |
+| 03028200 | -- RAIAS (RAJIDAE) | 001 | MANTA SPP | DEC IBAMA 2000 64590 | POR OPERAÇÃO | Comex |  |
+| 03028923 | ESTURJÃO (ACIPENSER BAERII) |  |  | DEC IBAMA 2000 64476 | POR OPERAÇÃO | Comex |  |
+| 03028990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64583 | POR OPERAÇÃO | Comex |  |
+| 03029110 | OVAS DE TAINHAS (MUGILSPP.) | 001 | Esp cies constantes nos apendices da CITES | DEC IBAMA 2000 69923 | POR OPERAÇÃO | Comex |  |
+| 03029190 | OUTROS | 001 | Especies constantes nos apendices da CITES | DEC IBAMA 2000 69924 | POR OPERAÇÃO | Comex |  |
+| 03029200 | -- BARBATANAS DE TUBARÃO | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65630 | POR OPERAÇÃO | Comex |  |
+| 03029900 | -- OUTROS | 001 | PANGASIANODON GIGAS | RES CAMEX 2016 65631 | POR OPERAÇÃO | Comex |  |
+| 03029900 | -- OUTROS | 002 | ANGUILLA ANGUILLA | RES CAMEX 2016 65632 | POR OPERAÇÃO | Comex |  |
+| 03029900 | -- OUTROS | 003 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65633 | POR OPERAÇÃO | Comex |  |
+| 03029900 | -- OUTROS | 004 | MANTA SPP | RES CAMEX 2016 65634 | POR OPERAÇÃO | Comex |  |
+| 03029900 | -- OUTROS | 005 | ESTURJAO (ACIPENSER BAERII) | RES CAMEX 2016 65635 | POR OPERAÇÃO | Comex |  |
+| 03032490 | OUTROS | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64592 | POR OPERAÇÃO | Comex |  |
+| 03032500 | -- CARPAS (CYPRINUSSPP., CARASSIUSSPP., CTENOPHARYNGODO | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65636 | POR OPERAÇÃO | Comex |  |
+| 03032600 | -- ENGUIAS (ANGUILLASPP.) | 001 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64596 | POR OPERAÇÃO | Comex |  |
+| 03035990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65637 | POR OPERAÇÃO | Comex |  |
+| 03038111 | INTEIRO |  |  | IN MAPA 2011 70134 | POR OPERAÇÃO | Comex |  |
+| 03038112 | EVISCERADO, SEM CABEÇA E SEM BARBATANAS |  |  | IN MAPA 2011 70135 | POR OPERAÇÃO | Comex |  |
+| 03038113 | EM PEDAÇOS, COM PELE |  |  | IN MAPA 2011 70136 | POR OPERAÇÃO | Comex |  |
+| 03038114 | EM PEDAÇOS, SEM PELE |  |  | IN MAPA 2011 70137 | POR OPERAÇÃO | Comex |  |
+| 03038119 | OUTROS |  |  | IN MAPA 2011 70138 | POR OPERAÇÃO | Comex |  |
+| 03038190 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64584 | POR OPERAÇÃO | Comex |  |
+| 03038200 | -- RAIAS (RAJIDAE) | 001 | MANTA SPP | DEC IBAMA 2000 64591 | POR OPERAÇÃO | Comex |  |
+| 03038944 | ESTURJÕES (ACIPENSER BAERII, ACIPENSER GUELDENSTAEDTII, |  |  | DEC IBAMA 2000 64477 | POR OPERAÇÃO | Comex |  |
+| 03038990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64585 | POR OPERAÇÃO | Comex |  |
+| 03039110 | OVAS DE TAINHAS (MUGILSPP.) | 001 | Especies constantes nos apendices da CITES | DEC IBAMA 2000 69925 | POR OPERAÇÃO | Comex |  |
+| 03039190 | OUTROS | 001 | Especies constantes nos apendices da CITES | DEC IBAMA 2000 69926 | POR OPERAÇÃO | Comex |  |
+| 03039200 | -- BARBATANAS DE TUBARÃO | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65639 | POR OPERAÇÃO | Comex |  |
+| 03039990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65640 | POR OPERAÇÃO | Comex |  |
+| 03039990 | OUTROS | 002 | ESTURJAO (ACIPENSER ABERII/GUELDENSTAEDII/PERSICUS/STELLATUS) | RES CAMEX 2016 65641 | POR OPERAÇÃO | Comex |  |
+| 03043290 | OUTROS | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64593 | POR OPERAÇÃO | Comex |  |
+| 03043900 | -- OUTROS | 001 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64599 | POR OPERAÇÃO | Comex |  |
+| 03043900 | -- OUTROS | 002 | ESP CIES CONSTANTES NOS AP NDICES DA CITES | RES CAMEX 2016 65975 | POR OPERAÇÃO | Comex |  |
+| 03044700 | -- CAÇÃO E OUTROS TUBARÕES | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65642 | POR OPERAÇÃO | Comex |  |
+| 03044800 | -- RAIAS (RAJIDAE) | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65643 | POR OPERAÇÃO | Comex |  |
+
+| 03044990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64587 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 03045100 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64594 | POR OPERAÇÃO | Comex |  |
+| 03045100 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 002 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64597 | POR OPERAÇÃO | Comex |  |
+| 03045600 | -- CAÇÃO E OUTROS TUBARÕES | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65644 | POR OPERAÇÃO | Comex |  |
+| 03045700 | -- RAIAS (RAJIDAE) | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65645 | POR OPERAÇÃO | Comex |  |
+| 03045900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64588 | POR OPERAÇÃO | Comex |  |
+| 03046290 | OUTROS | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64595 | POR OPERAÇÃO | Comex |  |
+| 03046900 | -- OUTROS | 001 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64598 | POR OPERAÇÃO | Comex |  |
+| 03048810 | TUBARÃO-AZUL (PRIONACE GLAUCA) |  |  | IN MAPA 2011 70139 | POR OPERAÇÃO | Comex |  |
+| 03048890 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65646 | POR OPERAÇÃO | Comex |  |
+| 03048990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64609 | POR OPERAÇÃO | Comex |  |
+| 03049300 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64605 | POR OPERAÇÃO | Comex |  |
+| 03049300 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 002 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64600 | POR OPERAÇÃO | Comex |  |
+| 03049600 | -- CAÇÃO E OUTROS TUBARÕES | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65647 | POR OPERAÇÃO | Comex |  |
+| 03049700 | -- RAIAS (RAJIDAE) | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65648 | POR OPERAÇÃO | Comex |  |
+| 03049900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64610 | POR OPERAÇÃO | Comex |  |
+| 03052010 | OVAS DE TAINHAS (MUGILSPP.) | 001 | Especies constantes nos apendices da CITES | DEC IBAMA 2000 69927 | POR OPERAÇÃO | Comex |  |
+| 03052090 | OUTROS | 001 | Especies constantes no apendice da CITES | DEC IBAMA 2000 69928 | POR OPERAÇÃO | Comex |  |
+| 03053100 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64606 | POR OPERAÇÃO | Comex |  |
+| 03053100 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 002 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64601 | POR OPERAÇÃO | Comex |  |
+| 03053900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65649 | POR OPERAÇÃO | Comex |  |
+| 03054400 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64607 | POR OPERAÇÃO | Comex |  |
+| 03054400 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 002 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64602 | POR OPERAÇÃO | Comex |  |
+| 03054990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64611 | POR OPERAÇÃO | Comex |  |
+| 03055200 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65650 | POR OPERAÇÃO | Comex |  |
+| 03055390 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65651 | POR OPERAÇÃO | Comex |  |
+| 03055400 | -- ARENQUES (CLUPEA HARENGUS, CLUPEA PALLASII), ANCHOVA | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65652 | POR OPERAÇÃO | Comex |  |
+| 03055900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65653 | POR OPERAÇÃO | Comex |  |
+| 03056400 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 001 | PANGASIANODON GIGAS | DEC IBAMA 2000 64608 | POR OPERAÇÃO | Comex |  |
+| 03056400 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 002 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64603 | POR OPERAÇÃO | Comex |  |
+| 03056400 | -- TILÁPIAS (OREOCHROMISSPP.), BAGRES (PEIXES-GATO\*) (P | 003 | ESP CIES CONSTANTES NOS AP NDICES DA CITES | RES CAMEX 2016 65976 | POR OPERAÇÃO | Comex |  |
+| 03056990 | OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64613 | POR OPERAÇÃO | Comex |  |
+| 03057100 | -- BARBATANAS DE TUBARÃO | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64622 | POR OPERAÇÃO | Comex |  |
+| 03057200 | -- CABEÇAS, CAUDAS E BEXIGAS-NATATÓRIAS, DE PEIXES | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64623 | POR OPERAÇÃO | Comex |  |
+| 03057900 | -- OUTROS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64624 | POR OPERAÇÃO | Comex |  |
+| 03063100 | -- LAGOSTAS (PALINURUSSPP.,PANULIRUSSPP., JASUSSPP.) | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65654 | POR OPERAÇÃO | Comex |  |
+| 03063200 | -- LAVAGANTES (HOMARUSSPP.) | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65655 | POR OPERAÇÃO | Comex |  |
+
+| 03063300 | -- CARANGUEJOS | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65656 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 03063500 | -- CAMARÕES DE ÁGUA FRIA (PANDALUSSPP.,CRANGON CRANGON) | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65657 | POR OPERAÇÃO | Comex |  |
+| 03063600 | -- OUTROS CAMARÕES | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65658 | POR OPERAÇÃO | Comex |  |
+| 03063990 | OUTROS | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65659 | POR OPERAÇÃO | Comex |  |
+| 03069100 | -- LAGOSTAS (PALINURUSSPP.,PANULIRUSSPP.,JASUSSPP.) | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65660 | POR OPERAÇÃO | Comex |  |
+| 03069200 | -- LAVAGANTES (HOMARUSSPP.) | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65661 | POR OPERAÇÃO | Comex |  |
+| 03069300 | -- CARANGUEJOS | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65662 | POR OPERAÇÃO | Comex |  |
+| 03069500 | -- CAMARÕES | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65663 | POR OPERAÇÃO | Comex |  |
+| 03069990 | OUTROS | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65664 | POR OPERAÇÃO | Comex |  |
+| 03071100 | -- VIVAS, FRESCAS OU REFRIGERADAS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 63647 | POR OPERAÇÃO | Comex |  |
+| 03071900 | -- OUTRAS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 63648 | POR OPERAÇÃO | Comex |  |
+| 03072100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 59659 | POR OPERAÇÃO | Comex |  |
+| 03073100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 59661 | POR OPERAÇÃO | Comex |  |
+| 03074200 | -- VIVAS, FRESCAS OU REFRIGERADAS | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65665 | POR OPERAÇÃO | Comex |  |
+| 03075100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 59665 | POR OPERAÇÃO | Comex |  |
+| 03076000 | - CARACÓIS, EXCETO OS DO MAR | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 59666 | POR OPERAÇÃO | Comex |  |
+| 03077100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | TRICACNIDAE SPP | DEC IBAMA 2000 64629 | POR OPERAÇÃO | Comex |  |
+| 03077100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 002 | ESPECIMES VIVOS | LEI EXEC 1967 64703 | POR OPERAÇÃO | Comex |  |
+| 03077200 | -- CONGELADOS | 001 | TRICACNIDAE SPP | RES CAMEX 2016 65666 | POR OPERAÇÃO | Comex |  |
+| 03077900 | -- OUTROS | 001 | TRICACNIDAE SPP | DEC IBAMA 2000 64630 | POR OPERAÇÃO | Comex |  |
+| 03078100 | -- ABALONES (ORELHAS-DO-MAR\*) (HALIOTISSPP.) VIVOS, FRE | 001 | ESPECIMES VIVOS | LEI EXEC 1967 64702 | POR OPERAÇÃO | Comex |  |
+| 03078200 | -- ESTROMBOS (STROMBUSSPP.) VIVOS, FRESCOS OU REFRIGERA | 001 | SOMENTE ESPECIMES VIVOS | RES CAMEX 2016 65667 | POR OPERAÇÃO | Comex |  |
+| 03079100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | SOMENTE ANIMAIS VIVOS | PORT IBAMA 2004 59667 | POR OPERAÇÃO | Comex |  |
+| 03079100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 002 | LITHOPHAGA LITHOPHAGA | DEC IBAMA 2000 64632 | POR OPERAÇÃO | Comex |  |
+| 03081100 | -- VIVOS, FRESCOS OU REFRIGERADOS | 001 | ISOSTICHOPUS FUSCUS, PROVENIENTE DO EQUADOR | DEC IBAMA 2000 64633 | POR OPERAÇÃO | Comex |  |
+| 03081200 | -- CONGELADOS | 001 | ISOSTICHOPUS FUSCUS, PROVENIENTE DO EQUADOR | RES CAMEX 2016 65668 | POR OPERAÇÃO | Comex |  |
+| 03081900 | -- OUTROS | 001 | ISOSTICHOPUS FUSCUS, PROVENIENTE DO EQUADOR | DEC IBAMA 2000 64634 | POR OPERAÇÃO | Comex |  |
+| 03089000 | - OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64614 | POR OPERAÇÃO | Comex |  |
+| 03089000 | - OUTROS | 002 | ESPECIMES VIVOS | LEI EXEC 1967 64704 | POR OPERAÇÃO | Comex |  |
+| 03091000 | - DE PEIXE |  |  | PORT IBAMA 1998 69247 | POR OPERAÇÃO | Comex |  |
+| 04071900 | -- OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64516 | POR OPERAÇÃO | Comex |  |
+| 04072900 | -- OUTROS | 001 | OVOS DE ANIMAIS SILVESTRES PARA INCUBACAO | PORT SECEX 2011 63582 | POR OPERAÇÃO | Comex |  |
+| 04079000 | - OUTROS | 001 | OVOS DE ANIMAIS SILVESTRES PARA INCUBACAO | PORT SECEX 2011 63583 | POR OPERAÇÃO | Comex |  |
+| 04101000 | - INSETOS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70091 | POR OPERAÇÃO | Comex |  |
+| 04109000 | - OUTROS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70092 | POR OPERAÇÃO | Comex |  |
+| 05021090 | OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64517 | POR OPERAÇÃO | Comex |  |
+| 05029010 | PELOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64518 | POR OPERAÇÃO | Comex |  |
+| 05029020 | DESPERDÍCIOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64519 | POR OPERAÇÃO | Comex |  |
+| 05040019 | OUTRAS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64520 | POR OPERAÇÃO | Comex |  |
+| 05040090 | OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64521 | POR OPERAÇÃO | Comex |  |
+| 05059000 | - OUTROS | 001 | PELES E PENAS DE AVES SILVESTRES | COM DECEX 1997 5223 | POR OPERAÇÃO | Comex |  |
+
+| 0506 | OSSOS E NÚCLEOS CÓRNEOS, EM BRUTO, DESENGORDURADOS OU S | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64461 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 05071000 | - MARFIM; PÓ E DESPERDÍCIOS DE MARFIM |  |  | COM DECEX 1997 5222 | POR OPERAÇÃO | Comex |  |
+| 05079000 | - OUTROS | 001 | DE ANIMAIS SILVESTRES, INCLUSIVE TROFEUS DE CACA | COM DECEX 1997 5224 | POR OPERAÇÃO | Comex |  |
+| 05080000 | CORAL E MATÉRIAS SEMELHANTES, EM BRUTO OU SIMPLESMENTE | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64615 | POR OPERAÇÃO | Comex |  |
+| 05100090 | OUTROS | 002 | EXCETO DE ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64705 | POR OPERAÇÃO | Comex |  |
+| 05119110 | OVAS DE PEIXE FECUNDADAS, PARA REPRODUÇÃO | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64625 | POR OPERAÇÃO | Comex |  |
+| 05119190 | OUTROS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64626 | POR OPERAÇÃO | Comex |  |
+| 05119910 | EMBRIÕES DE ANIMAIS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64522 | POR OPERAÇÃO | Comex |  |
+| 05119920 | SÊMEN ANIMAL | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64523 | POR OPERAÇÃO | Comex |  |
+| 05119991 | CRINAS E SEUS DESPERDÍCIOS, MESMO EM MANTAS, MESMO COM | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64524 | POR OPERAÇÃO | Comex |  |
+| 05119999 | OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64525 | POR OPERAÇÃO | Comex |  |
+| 6012000 | BULBOS, TUBÉRCULOS, RAÍZES, CORMOS, COROAS E RIZOMAS |  | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | Decreto 3607/2000 | POR OPERAÇÃO | Comex |  |
+| 06029021 | DE ORQUÍDEA | 001 | EXCETO IN VITRO | PORT IBAMA 2004 59935 | POR OPERAÇÃO | Comex |  |
+| 6029029 | MUDAS DE PLANTAS ORNAMENTAIS |  | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | Decreto 3607/2000 | POR OPERAÇÃO | Comex |  |
+| 06029089 | OUTRAS | 001 | MUDAS DE CACTOS | DEC IBAMA 2000 58772 | POR OPERAÇÃO | Comex |  |
+| 06029090 | OUTRAS | 001 | CACTOS | DEC IBAMA 2000 58771 | POR OPERAÇÃO | Comex |  |
+| 12116000 | - CASCA DE CEREJEIRA AFRICANA (PRUNUS AFRICANA) | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69076 | POR OPERAÇÃO | Comex |  |
+| 15043000 | - GORDURAS E ÓLEOS DE MAMÍFEROS MARINHOS E RESPECTIVAS |  |  | PORT IBAMA 1998 70079 | POR OPERAÇÃO | Comex |  |
+| 15211000 | - CERAS VEGETAIS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64636 | POR OPERAÇÃO | Comex |  |
+| 16041700 | -- ENGUIAS | 001 | ANGUILLA ANGUILLA | DEC IBAMA 2000 64604 | POR OPERAÇÃO | Comex |  |
+| 16041800 | -- BARBATANAS DE TUBARÃO | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65671 | POR OPERAÇÃO | Comex |  |
+| 16041900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64616 | POR OPERAÇÃO | Comex |  |
+| 16042090 | OUTRAS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64627 | POR OPERAÇÃO | Comex |  |
+| 16043100 | -- CAVIAR |  |  | DEC IBAMA 2000 64478 | POR OPERAÇÃO | Comex |  |
+| 16043200 | -- SUCEDÂNEOS DO CAVIAR |  |  | DEC IBAMA 2000 64479 | POR OPERAÇÃO | Comex |  |
+| 16055200 | -- VIEIRAS, INCLUINDO A AMERICANA | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64617 | POR OPERAÇÃO | Comex |  |
+| 16055300 | -- MEXILHÕES | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64618 | POR OPERAÇÃO | Comex |  |
+| 16055600 | -- AMÊIJOAS, BERBIGÕES E ARCAS | 001 | TRIDACNAS | DEC IBAMA 2000 64631 | POR OPERAÇÃO | Comex |  |
+| 16056100 | -- PEPINOS-DO-MAR | 001 | ISOSTICHOPUS FUSCUS, PROVENIENTE DO EQUADOR | DEC IBAMA 2000 64635 | POR OPERAÇÃO | Comex |  |
+| 16056900 | -- OUTROS | 001 | ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64619 | POR OPERAÇÃO | Comex |  |
+| 30019090 | OUTROS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70093 | POR OPERAÇÃO | Comex |  |
+| 30029000 | - OUTROS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70094 | POR OPERAÇÃO | Cicam e Comex |  |
+| 33012912 | DE CEDRO | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64637 | POR OPERAÇÃO | Comex |  |
+| 33012913 | DE PAU-SANTO (BULNESIA SARMIENTOI) | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64638 | POR OPERAÇÃO | Comex |  |
+| 33012915 | DE PAU-ROSA | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64639 | POR OPERAÇÃO | Comex |  |
+| 34049029 | OUTRAS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64640 | POR OPERAÇÃO | Comex |  |
+
+| 35079049 | OUTRAS | 013 | ENZIMAS DE USO NA DEFESA AMBIENTAL (REMEDIACAO) | RES CONAMA 2002 59859 | FLEX | Cicam |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 35079049 | OUTRAS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70095 | POR OPERAÇÃO | Comex |  |
+| 41 | PELES, EXCETO AS PELES COM PELO, E COUROS. | 001 | PELES E COUROS DE ANIMAIS SILVESTRES | COM DECEX 1996 375 | POR OPERAÇÃO | Comex |  |
+| 41032000 | - DE RÉPTEIS |  |  | COM DECEX 1997 5303 | POR OPERAÇÃO | Comex |  |
+| 41139000 | OUTROS |  | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | Decreto 3607/2000 | POR OPERAÇÃO | Comex |  |
+| 42 | OBRAS DE COURO; ARTIGOS DE CORREEIRO OU DE SELEIRO; ARTIGOS DE VIAGEM, BOLSAS E ARTIGOS SEMELHANTES; OBRAS DE TRIPA. | 001 | CONFECCIONADOS A PARTIR DE ANIMAIS SILVESTRES | COM DECEX 1996 376 | POR OPERAÇÃO | Comex |  |
+| 42022100 | COM A SUPERFÍCIE EXTERIOR DE COURO NATURAL OU RECONSTITUÍDO |  | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | Decreto 3607/2000 | POR OPERAÇÃO | Comex |  |
+| 43 | PELES COM PELO E SUAS OBRAS; PELES COM PELO ARTIFICIAIS. | 001 | PELETERIAS(PELES COM PELO) E SUAS OBRAS DE ANIMAIS SILVESTRES. | COM DECEX 1997 377 | POR OPERAÇÃO | Comex |  |
+| 4404 | ARCOS DE MADEIRA; ESTACAS FENDIDAS; ESTACAS AGUÇADAS, N | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64474 | POR OPERAÇÃO | Comex |  |
+| 4406 | DORMENTES DE MADEIRA PARA VIAS FÉRREAS OU SEMELHANTES. | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64475 | POR OPERAÇÃO | Comex |  |
+| 44072100 | -- MAHOGANY (MOGNO) (SWIETENIASPP.) |  |  | RES CAMEX 2007 60629 | POR OPERAÇÃO | Comex |  |
+| 44072910 | DE CEDRO |  |  | RES CAMEX 2007 60630 | POR OPERAÇÃO | Comex |  |
+| 44072920 | DE IPÊ |  |  | Decreto 3607/2000 | POR OPERAÇÃO | Comex |  |
+| 44072990 | OUTRAS | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65475 | POR OPERAÇÃO | Comex |  |
+| 44079990 | OUTRAS | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65476 | POR OPERAÇÃO | Comex |  |
+| 44081010 | OBTIDAS POR CORTE DE MADEIRA ESTRATIFICADA | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65477 | POR OPERAÇÃO | Comex |  |
+| 44081099 | OUTRAS | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65478 | POR OPERAÇÃO | Comex |  |
+| 44083910 | OBTIDAS POR CORTE DE MADEIRA ESTRATIFICADA | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65479 | POR OPERAÇÃO | Comex |  |
+| 44083991 | DE CEDRO | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65480 | POR OPERAÇÃO | Comex |  |
+| 44083999 | OUTRAS | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65481 | POR OPERAÇÃO | Comex |  |
+| 44089010 | OBTIDAS POR CORTE DE MADEIRA ESTRATIFICADA | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65482 | POR OPERAÇÃO | Comex |  |
+| 44089090 | OUTRAS | 002 | esp cies constantes nos ap ndices da CITES | LEI LEGIS 2012 65483 | POR OPERAÇÃO | Comex |  |
+| 44091000 | - DE CONÍFERAS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64641 | POR OPERAÇÃO | Comex |  |
+| 44092200 | -- DE MADEIRAS TROPICAIS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65797 | POR OPERAÇÃO | Comex |  |
+| 44092900 | -- OUTRAS | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64642 | POR OPERAÇÃO | Comex |  |
+| 44123100 | -- COM, PELO MENOS, UMA CAMADA EXTERIOR DE MADEIRA TROP | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64643 | POR OPERAÇÃO | Comex |  |
+| 44123300 | -- OUTRAS, COM, PELO MENOS, UMA CAMADA EXTERIOR DE MADE | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65798 | POR OPERAÇÃO | Comex |  |
+| 44123400 | -- OUTRAS, COM, PELO MENOS, UMA CAMADA EXTERIOR DE MADE | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | RES CAMEX 2016 65799 | POR OPERAÇÃO | Comex |  |
+| 44123900 | -- OUTRAS, COM AMBAS AS CAMADAS EXTERIORES DE MADEIRA D | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64645 | POR OPERAÇÃO | Comex |  |
+| 44125100 | -- COM, PELO MENOS, UMA CAMADA EXTERIOR DE MADEIRA TROP | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69077 | POR OPERAÇÃO | Comex |  |
+| 44125200 | -- OUTRAS, COM, PELO MENOS, UMA CAMADA EXTERIOR DE MADE | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69078 | POR OPERAÇÃO | Comex |  |
+| 44125900 | -- OUTRAS, COM AMBAS AS CAMADAS EXTERIORES DE MADEIRA D | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69079 | POR OPERAÇÃO | Comex |  |
+| 44129900 | -- OUTRAS, COM AMBAS AS CAMADAS EXTERIORES DE MADEIRA D | 001 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC IBAMA 2000 64647 | POR OPERAÇÃO | Comex |  |
+| 5101 | LÃ NÃO CARDADA NEM PENTEADA. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64462 | POR OPERAÇÃO | Comex |  |
+
+| 5102 | PELOS FINOS OU GROSSEIROS, NÃO CARDADOS NEM PENTEADOS. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64463 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5103 | DESPERDÍCIOS DE LÃ OU DE PELOS FINOS OU GROSSEIROS, INC | 002 | EXCETO DE ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64706 | POR OPERAÇÃO | Comex |  |
+| 5104 | FIAPOS DE LÃ OU DE PELOS FINOS OU GROSSEIROS. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64464 | POR OPERAÇÃO | Comex |  |
+| 5105 | LÃ, PELOS FINOS OU GROSSEIROS, CARDADOS OU PENTEADOS (I | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64465 | POR OPERAÇÃO | Comex |  |
+| 5106 | FIOS DE LÃ CARDADA, NÃO ACONDICIONADOS PARA VENDA A RET | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64466 | POR OPERAÇÃO | Comex |  |
+| 5107 | FIOS DE LÃ PENTEADA, NÃO ACONDICIONADOS PARA VENDA A RE | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64467 | POR OPERAÇÃO | Comex |  |
+| 5108 | FIOS DE PELOS FINOS, CARDADOS OU PENTEADOS, NÃO ACONDIC | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64468 | POR OPERAÇÃO | Comex |  |
+| 5109 | FIOS DE LÃ OU DE PELOS FINOS, ACONDICIONADOS PARA VENDA | 002 | EXCETO DE ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64707 | POR OPERAÇÃO | Comex |  |
+| 5110 | FIOS DE PELOS GROSSEIROS OU DE CRINA (INCLUINDO OS FIOS | 002 | EXCETO DE ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64708 | POR OPERAÇÃO | Comex |  |
+| 5111 | TECIDOS DE LÃ CARDADA OU DE PELOS FINOS CARDADOS. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64469 | POR OPERAÇÃO | Comex |  |
+| 5112 | TECIDOS DE LÃ PENTEADA OU DE PELOS FINOS PENTEADOS. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64470 | POR OPERAÇÃO | Comex |  |
+| 5113 | TECIDOS DE PELOS GROSSEIROS OU DE CRINA. | 001 | EXCETO ESPECIES DOMESTICAS CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64471 | POR OPERAÇÃO | Comex |  |
+| 56022100 | -- DE LÃ OU DE PELOS FINOS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70096 | POR OPERAÇÃO | Comex |  |
+| 56081900 | -- OUTRAS | 001 | PARA CAPTURA DE AVES SILVESTRES | COM DECEX 1997 2574 | POR OPERAÇÃO | Comex |  |
+| 56089000 | - OUTRAS | 001 | PARA CAPTURA DE AVES SILVESTRES | COM DECEX 1997 374 | POR OPERAÇÃO | Comex |  |
+| 57011011 | FEITOS À MÃO | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64526 | POR OPERAÇÃO | Comex |  |
+| 57011012 | FEITOS A MÁQUINA | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64527 | POR OPERAÇÃO | Comex |  |
+| 57011020 | DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64528 | POR OPERAÇÃO | Comex |  |
+| 57021000 | - TAPETES DENOMINADOSKELIMOUKILIM, SCHUMACKSOUSOUMAK,KAR | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70097 | POR OPERAÇÃO | Comex |  |
+| 57023100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64529 | POR OPERAÇÃO | Comex |  |
+| 57024100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64530 | POR OPERAÇÃO | Comex |  |
+| 57025010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64531 | POR OPERAÇÃO | Comex |  |
+| 57029100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64532 | POR OPERAÇÃO | Comex |  |
+| 57031000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64533 | POR OPERAÇÃO | Comex |  |
+| 58011000 | - DE LÃ OU DE PELOS FINOS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70098 | POR OPERAÇÃO | Comex |  |
+| 60031000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64534 | POR OPERAÇÃO | Comex |  |
+| 60059010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64535 | POR OPERAÇÃO | Comex |  |
+| 60061000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64536 | POR OPERAÇÃO | Comex |  |
+| 61019010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64537 | POR OPERAÇÃO | Comex |  |
+| 61021000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64538 | POR OPERAÇÃO | Comex |  |
+
+| 61031010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64539 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 61032910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64540 | POR OPERAÇÃO | Comex |  |
+| 61033100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64541 | POR OPERAÇÃO | Comex |  |
+| 61034100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64542 | POR OPERAÇÃO | Comex |  |
+| 61041910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64543 | POR OPERAÇÃO | Comex |  |
+| 61042910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64544 | POR OPERAÇÃO | Comex |  |
+| 61043100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64545 | POR OPERAÇÃO | Comex |  |
+| 61044100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64546 | POR OPERAÇÃO | Comex |  |
+| 61045100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64547 | POR OPERAÇÃO | Comex |  |
+| 61046100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64548 | POR OPERAÇÃO | Comex |  |
+| 61101100 | -- DE LÃ | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64549 | POR OPERAÇÃO | Comex |  |
+| 61101900 | -- OUTROS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64550 | POR OPERAÇÃO | Comex |  |
+| 61119010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64551 | POR OPERAÇÃO | Comex |  |
+| 61149010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64552 | POR OPERAÇÃO | Comex |  |
+| 61151013 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64553 | POR OPERAÇÃO | Comex |  |
+| 61151091 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64554 | POR OPERAÇÃO | Comex |  |
+| 61152910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64555 | POR OPERAÇÃO | Comex |  |
+| 61159400 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64556 | POR OPERAÇÃO | Comex |  |
+| 61169100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64557 | POR OPERAÇÃO | Comex |  |
+| 62012000 | - DE LÃ OU DE PELOS FINOS | 003 | Exceto de esp cies dom sticas, conforme portaria Ibama 93/98 | PORT IBAMA 1998 70099 | POR OPERAÇÃO | Comex |  |
+| 62022000 | - DE LÃ OU DE PELOS FINOS | 001 | Exceto de especies domesticas, conforme portaria ibama 93/98 | PORT IBAMA 1998 69080 | POR OPERAÇÃO | Comex |  |
+| 62031100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64562 | POR OPERAÇÃO | Comex |  |
+| 62032910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64563 | POR OPERAÇÃO | Comex |  |
+| 62033100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64564 | POR OPERAÇÃO | Comex |  |
+| 62034100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64565 | POR OPERAÇÃO | Comex |  |
+| 62041100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64566 | POR OPERAÇÃO | Comex |  |
+| 62042100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64567 | POR OPERAÇÃO | Comex |  |
+| 62043100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64568 | POR OPERAÇÃO | Comex |  |
+| 62044100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64569 | POR OPERAÇÃO | Comex |  |
+| 62045100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64570 | POR OPERAÇÃO | Comex |  |
+
+| 62046100 | -- DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64571 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 62059010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64572 | POR OPERAÇÃO | Comex |  |
+| 62062000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64573 | POR OPERAÇÃO | Comex |  |
+| 62099010 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64574 | POR OPERAÇÃO | Comex |  |
+| 6210 | VESTUÁRIO CONFECCIONADO COM AS MATÉRIAS DAS POSIÇÕES 56 | 002 | Com parte de esp cie animal n o listada no Anexo I da Port. Ibama 93/1998 | PORT IBAMA 1998 70100 | POR OPERAÇÃO | Comex |  |
+| 62113910 | DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64575 | POR OPERAÇÃO | Comex |  |
+| 62141000 | - DE SEDA OU DE DESPERDÍCIOS DE SEDA | 002 | Com parte de esp cie animal n o listada no Anexo I da Port. Ibama 93/1998 | PORT IBAMA 1998 70101 | POR OPERAÇÃO | Comex |  |
+| 62142000 | - DE LÃ OU DE PELOS FINOS | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64576 | POR OPERAÇÃO | Comex |  |
+| 63012000 | - COBERTORES E MANTAS (EXCETO OS ELÉTRICOS), DE LÃ OU D | 001 | EXCETO ESPECIES DOMESTICAS, CONFORME PORTARIA IBAMA 93/98 | PORT IBAMA 1998 64577 | POR OPERAÇÃO | Comex |  |
+| 64 | CALÇADO, POLAINAS E ARTIGOS SEMELHANTES; SUAS PARTES. | 001 | CONFECCIONADOS COM COUROS DE ANIMAIS SILVESTRES | COM DECEX 1996 372 | POR OPERAÇÃO | Comex |  |
+| 65 | CHAPÉUS E ARTIGOS DE USO SEMELHANTE, E SUAS PARTES. | 001 | CONFECCIONADOS COM COUROS DE ANIMAIS SILVESTRES | COM DECEX 1996 369 | POR OPERAÇÃO | Comex |  |
+| 67 | PENAS E PENUGEM PREPARADAS E SUAS OBRAS; FLORES ARTIFICIAIS; OBRAS DECABELO. | 001 | PENAS DE AVES SILVESTRES | COM DECEX 1997 5307 | POR OPERAÇÃO | Comex |  |
+| 91011100 | -- DE MOSTRADOR EXCLUSIVAMENTE MECÂNICO | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65065 | POR OPERAÇÃO | Comex |  |
+| 91011900 | -- OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65066 | POR OPERAÇÃO | Comex |  |
+| 91012100 | -- DE CORDA AUTOMÁTICA | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65067 | POR OPERAÇÃO | Comex |  |
+| 91012900 | -- OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65068 | POR OPERAÇÃO | Comex |  |
+| 91019100 | -- FUNCIONANDO ELETRICAMENTE | 001 | Com pulseira de couro de animal silvestre | PORT IBAMA 1998 70102 | POR OPERAÇÃO | Comex |  |
+| 91019900 | -- OUTROS | 001 | Com pulseira de couro de animal silvestre | PORT IBAMA 1998 70103 | POR OPERAÇÃO | Comex |  |
+| 91021110 | COM CAIXA DE METAL COMUM | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65069 | POR OPERAÇÃO | Comex |  |
+| 91021190 | OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65070 | POR OPERAÇÃO | Comex |  |
+| 91021210 | COM CAIXA DE METAL COMUM | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65071 | POR OPERAÇÃO | Comex |  |
+| 91021220 | COM CAIXA DE PLÁSTICO, EXCETO AS REFORÇADAS COM FIBRA D | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65072 | POR OPERAÇÃO | Comex |  |
+| 91021290 | OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65073 | POR OPERAÇÃO | Comex |  |
+| 91021900 | -- OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65074 | POR OPERAÇÃO | Comex |  |
+| 91022100 | -- DE CORDA AUTOMÁTICA | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65075 | POR OPERAÇÃO | Comex |  |
+| 91022900 | -- OUTROS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65076 | POR OPERAÇÃO | Comex |  |
+| 91029100 | -- FUNCIONANDO ELETRICAMENTE | 001 | Com pulseira de couro de animal silvestre | PORT IBAMA 1998 70104 | POR OPERAÇÃO | Comex |  |
+| 91029900 | -- OUTROS | 001 | Com pulseira de couro de animal silvestre | PORT IBAMA 1998 70105 | POR OPERAÇÃO | Comex |  |
+| 91139000 | - OUTRAS | 001 | COM PULSEIRA DE COURO DE ANIMAL SILVESTRE | PORT IBAMA 1998 65077 | POR OPERAÇÃO | Comex |  |
+| 92079010 | GUITARRAS E CONTRABAIXOS | 001 | MANUFATURADOS COM ESP CIES CONSTANTES NOS AP NDICES DA CITES | DEC EXEC 2000 66377 | POR OPERAÇÃO | Comex |  |
+| 92099200 | -- PARTES E ACESSÓRIOS DE INSTRUMENTOS MUSICAIS DA POSI | 001 | MANUFATURADOS COM ESP CIES CONSTANTES NOS AP NDICES DA CITES | DEC EXEC 2000 66378 | POR OPERAÇÃO | Comex |  |
+| 92099400 | -- PARTES E ACESSÓRIOS DE INSTRUMENTOS MUSICAIS DA POSI | 001 | MANUFATURADOS COM ESP CIES CONSTANTES NOS AP NDICES DA CITES | DEC EXEC 2000 66379 | POR OPERAÇÃO | Comex |  |
+| 92099900 | -- OUTROS | 001 | MANUFATURADOS COM ESP CIES CONSTANTES NOS AP NDICES DA CITES | DL EXEC 2000 66380 | POR OPERAÇÃO | Comex |  |
+| 94019100 | -- DE MADEIRA | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69081 | POR OPERAÇÃO | Comex |  |
+| 94036000 | - OUTROS MÓVEIS DE MADEIRA | 002 | DE ESPECIES CONSTANTES NOS APENDICES DA CITES | DEC EXEC 2000 64709 | POR OPERAÇÃO | Comex |  |
+| 94039100 | -- DE MADEIRA | 001 | De especies constantes nos apendices da cites | PORT IBAMA 1998 69082 | POR OPERAÇÃO | Comex |  |
+| 95081000 | - CIRCOS AMBULANTES E COLEÇÕES DE ANIMAIS AMBULANTES | 001 | QUE POSSUAM ANIMAIS DE ESPECIES SILVESTRES | PORT IBAMA 1998 64578 | POR OPERAÇÃO | Comex |  |
+| 96011000 | - MARFIM TRABALHADO E OBRAS DE MARFIM |  |  | PORT IBAMA 1998 64448 | POR OPERAÇÃO | Comex |  |
+| 96019000 | - OUTROS | 001 | EXCETO DE PEIXES, INVERT. AQUAT. E ANIMAIS DOMEST. CONF. PORT. IBAMA 93/98 | PORT IBAMA 1998 64579 | POR OPERAÇÃO | Comex |  |
+| 96032900 | -- OUTROS | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70107 | POR OPERAÇÃO | Comex |  |
+| 96033000 | - PINCÉIS E ESCOVAS, PARA ARTISTAS, PINCÉIS DE ESCREVER | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70108 | POR OPERAÇÃO | Comex |  |
+| 96034010 | ROLOS | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70109 | POR OPERAÇÃO | Comex |  |
+| 96034090 | OUTROS | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70110 | POR OPERAÇÃO | Comex |  |
+
+| 96035000 | - OUTRAS ESCOVAS QUE CONSTITUAM PARTES DE MÁQUINAS, DE | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70111 | POR OPERAÇÃO | Comex |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 96039000 | - OUTROS | 001 | Que contenham pelos de animais de esp cies silvestres | PORT IBAMA 1998 70112 | POR OPERAÇÃO | Comex |  |
+| 97052200 | -- ESPÉCIES EXTINTAS OU AMEAÇADAS DE EXTINÇÃO, E SUAS P | 003 | Esp cies de fauna amea adas de extin o ou cites | PORT IBAMA 1998 70115 | POR OPERAÇÃO | Comex |  |
+| 97052900 | -- OUTRAS | 003 | Com parte de esp cie animal n o listada no Anexo I da Port. Ibama 93/1998 | PORT IBAMA 1998 70113 | POR OPERAÇÃO | Comex |  |
+| 97053100 | -- COM MAIS DE 100 ANOS | 001 | Que contenha esp cies constantes nos ap ndices da cites | PORT IBAMA 1998 70106 | POR OPERAÇÃO | Comex |  |
+| 97053900 | -- OUTRAS | 003 | Com parte de esp cie animal n o listada no Anexo I da Port. Ibama 93/1998 | PORT IBAMA 1998 70114 | POR OPERAÇÃO | Comex |  |
+| 33 | ÓLEOS ESSENCIAIS E RESINOIDES; PRODUTOS DE PERFUMARIA OU DE TOUCADOR PREPARADOS E PREPARAÇÕES COSMÉTICAS. | 101 | PRODUTO QUE UTILIZE SUBSTANCIA QUE CONSTOU DO PROTOCOLO DE MONTREAL(CFC) | COM DECEX 1997 4483 | IMPEDIMENTO | Corem |  |
+| 88 | AERONAVES E APARELHOS ESPACIAIS, E SUAS PARTES. | 101 | PRODUTO QUE UTILIZE SUBSTANCIA QUE CONSTOU DO PROTOCOLO DE MONTREAL(CFC) | COM DECEX 1997 2551 | IMPEDIMENTO | Corem |  |
+| 89 | EMBARCAÇÕES E ESTRUTURAS FLUTUANTES. | 101 | PRODUTO QUE UTILIZE SUBSTANCIA QUE CONSTOU DO PROTOCOLO DE MONTREAL(CFC) | COM DECEX 1997 2552 | IMPEDIMENTO | Corem |  |
+| 2524 | AMIANTO. | 001 | SOMENTE PARA RESIDUOS | DEC IBAMA 2003 58668 | IMPEDIMENTO | Corem |  |
+| 25172000 | - MACADAME DE ESCÓRIAS DE ALTOS-FORNOS, DE OUTRAS ESCÓR |  |  | DEC IBAMA 2003 58664 | POR OPERAÇÃO | Corem |  |
+| 25241000 | - CROCIDOLITA |  |  | IN IBAMA 2013 59559 | IMPEDIMENTO | Corem |  |
+| 25249000 | - OUTROS |  |  | PORT SECEX 2006 58845 | IMPEDIMENTO | Corem |  |
+| 26201100 | -- MATES DE GALVANIZAÇÃO |  |  | DEC IBAMA 2003 58689 | POR OPERAÇÃO | Corem |  |
+| 26201900 | -- OUTROS |  |  | DEC IBAMA 2003 58688 | POR OPERAÇÃO | Corem |  |
+| 26202100 | -- LAMAS (BORRAS) DE GASOLINA QUE CONTENHAM CHUMBO E LA |  |  | DEC IBAMA 2003 58690 | IMPEDIMENTO | Corem |  |
+| 26202900 | -- OUTROS |  |  | DEC IBAMA 2003 58691 | IMPEDIMENTO | Corem |  |
+| 26203000 | - QUE CONTENHAM PRINCIPALMENTE COBRE |  |  | DEC IBAMA 1995 39302 | POR OPERAÇÃO | Corem |  |
+| 26204000 | - QUE CONTENHAM PRINCIPALMENTE ALUMÍNIO |  |  | IN IBAMA 2013 64288 | POR OPERAÇÃO | Corem |  |
+| 26206000 | - QUE CONTENHAM ARSÊNIO, MERCÚRIO, TÁLIO OU SUAS MISTUR |  |  | DEC IBAMA 2003 58692 | IMPEDIMENTO | Corem |  |
+| 26209100 | -- QUE CONTENHAM ANTIMÔNIO, BERÍLIO, CÁDMIO, CROMO OU S |  |  | DEC IBAMA 2003 58693 | IMPEDIMENTO | Corem |  |
+| 26209910 | QUE CONTENHAM PRINCIPALMENTE TITÂNIO |  |  | DEC IBAMA 2003 58694 | POR OPERAÇÃO | Corem |  |
+| 26209990 | OUTROS |  |  | DEC IBAMA 2003 58695 | POR OPERAÇÃO | Corem |  |
+| 26211000 | - CINZAS E RESÍDUOS PROVENIENTES DA INCINERAÇÃO DE RESÍ |  |  | DEC IBAMA 2003 58696 | IMPEDIMENTO | Corem |  |
+| 26219010 | CINZAS DE ORIGEM VEGETAL |  |  | IN IBAMA 2013 64289 | POR OPERAÇÃO | Corem |  |
+| 26219090 | OUTRAS |  |  | IN IBAMA 2013 64290 | POR OPERAÇÃO | Corem |  |
+| 27109110 | QUE CONTENHAM BIFENILAS POLICLORADAS (PCB) NUMA CONCENT |  |  | DEC IBAMA 2005 70143 | IMPEDIMENTO | Corem |  |
+| 27109120 | OUTROS, QUE CONTENHAM TERFENILAS POLICLORADAS (PCT) OU |  |  | DEC IBAMA 2005 70144 | IMPEDIMENTO | Corem |  |
+| 27109190 | OUTROS |  |  | DEC IBAMA 2005 70145 | IMPEDIMENTO | Corem |  |
+| 27109900 | -- OUTROS |  |  | IN IBAMA 2013 64340 | IMPEDIMENTO | Corem |  |
+| 27139000 | - OUTROS RESÍDUOS DOS ÓLEOS DE PETRÓLEO OU DE MINERAIS |  |  | IN IBAMA 2013 64341 | IMPEDIMENTO | Corem |  |
+| 27150000 | MISTURAS BETUMINOSAS À BASE DE ASFALTO OU DE BETUME NAT | 001 | Exclusivamente Res duos | PORT SECEX 2011 66664 | POR OPERAÇÃO | Corem |  |
+| 28045000 | - BORO; TELÚRIO | 001 | DESPERDICIOS E RESIDUOS | IN IBAMA 2013 64301 | POR OPERAÇÃO | Corem |  |
+| 28048000 | - ARSÊNIO | 001 | DESPERDICIOS E RESIDUOS | IN IBAMA 2013 64302 | POR OPERAÇÃO | Corem |  |
+| 28049000 | - SELÊNIO | 001 | DESPERDICIOS E RESIDUOS | IN IBAMA 2013 64303 | POR OPERAÇÃO | Corem |  |
+| 28054000 | - MERCÚRIO |  |  | DEC IBAMA 2003 58663 | POR OPERAÇÃO | Corem |  |
+| 29031400 | -- TETRACLORETO DE CARBONO |  |  | COM DECEX 1996 800 | IMPEDIMENTO | Corem |  |
+
+| 29031910 | 1,1,1-TRICLOROETANO (METILCLOROFÓRMIO) |  |  | COM DECEX 1996 801 | IMPEDIMENTO | Corem |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 29032910 | HEXACLOROBUTADIENO |  |  | DEC IBAMA 2005 68874 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034100 | -- TRIFLUOROMETANO (HFC-23) |  |  | DEC EXEC 1990 69381 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034200 | -- DIFLUOROMETANO (HFC-32) |  |  | DEC EXEC 1990 69382 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034300 | -- FLUOROMETANO (HFC-41), 1,2-DIFLUOROETANO (HFC-152) E |  |  | DEC EXEC 1990 69383 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034400 | -- PENTAFLUOROETANO (HFC-125), 1,1,1-TRIFLUOROETANO (HF |  |  | DEC EXEC 1990 69384 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034510 | 1,1,1,2-TETRAFLUOROETANO (HFC-134A) |  |  | DEC EXEC 1990 69385 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034520 | 1,1,2,2-TETRAFLUOROETANO (HFC-134) |  |  | DEC EXEC 1990 69386 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034600 | -- 1,1,1,2,3,3,3-HEPTAFLUOROPROPANO (HFC-227EA), 1,1,1, |  |  | DEC EXEC 1990 69387 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034700 | -- 1,1,1,3,3-PENTAFLUOROPROPANO (HFC-245FA) E 1,1,2,2,3 |  |  | DEC EXEC 1990 69388 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034800 | -- 1,1,1,3,3-PENTAFLUOROBUTANO (HFC-365MFC) E 1,1,1,2,2 |  |  | DEC EXEC 1990 69389 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034900 | -- OUTROS |  |  | DEC EXEC 1990 69390 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034900 | -- OUTROS | 001 | Hidrofluorclorocarbonetos | DEC IBAMA 1990 69917 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034900 | -- OUTROS | 002 | Hidrofluorcarbonetos | DEC IBAMA 1990 69918 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29034900 | -- OUTROS | 003 | Hidrofluorolefinas | DEC IBAMA 1990 69919 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29035100 | -- 2,3,3,3-TETRAFLUOROPROPENO (HFO-1234YF), 1,3,3,3-TET |  |  | DEC EXEC 1990 69391 | FLEX | Corem |  |
+| 29035990 | OUTROS |  |  | DEC EXEC 1990 69392 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29035990 | OUTROS | 001 | Hidrofluorclorocarbonetos | DEC IBAMA 1990 69920 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29035990 | OUTROS | 002 | Hidrofluorcarbonetos | DEC IBAMA 1990 69921 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29035990 | OUTROS | 003 | Hidrofluorolefinas | DEC IBAMA 1990 69922 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29036100 | -- BROMETO DE METILA (BROMOMETANO) |  |  | DEC EXEC 1990 69393 | FLEX | Corem |  |
+| 29037100 | -- CLORODIFLUOROMETANO (HCFC-22) |  |  | PORT SECEX 2011 63618 | FLEX | Corem |  |
+| 29037200 | -- DICLOROTRIFLUOROETANOS (HCFC-123) |  |  | PORT SECEX 2011 63620 | FLEX | Corem |  |
+| 29037300 | -- DICLOROFLUOROETANOS (HCFC-141, 141B) |  |  | PORT SECEX 2011 63622 | FLEX | Corem |  |
+| 29037400 | -- CLORODIFLUOROETANOS (HCFC-142, 142B) |  |  | PORT SECEX 2011 63623 | FLEX | Corem |  |
+| 29037500 | -- DICLOROPENTAFLUOROPROPANOS (HCFC-225, 225CA, 225CB) |  |  | PORT SECEX 2011 63624 | FLEX | Corem |  |
+| 29037600 | -- BROMOCLORODIFLUOROMETANO (HALON-1211), BROMOTRIFLUOR |  |  | PORT SECEX 2011 63616 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037711 | TRICLOROFLUOROMETANO |  |  | RES CONAMA 2000 63601 | IMPEDIMENTO | Corem |  |
+| 29037712 | DICLORODIFLUOROMETANO |  |  | RES CONAMA 2000 63602 | IMPEDIMENTO | Corem |  |
+| 29037713 | CLOROTRIFLUOROMETANO |  |  | RES CONAMA 2000 63605 | IMPEDIMENTO | Corem |  |
+| 29037721 | TRICLOROTRIFLUOROETANOS |  |  | RES CONAMA 2000 63603 | IMPEDIMENTO | Corem |  |
+| 29037722 | DICLOROTETRAFLUOROETANOS E CLOROPENTAFLUOROETANO |  |  | RES CONAMA 2000 63604 | IMPEDIMENTO | Corem |  |
+| 29037723 | PENTACLOROFLUOROETANO |  |  | RES CONAMA 2000 63606 | IMPEDIMENTO | Corem |  |
+| 29037724 | TETRACLORODIFLUOROETANOS |  |  | RES CONAMA 2000 63607 | IMPEDIMENTO | Corem |  |
+| 29037731 | HEPTACLOROFLUOROPROPANOS |  |  | RES CONAMA 2000 63608 | IMPEDIMENTO | Corem |  |
+| 29037732 | HEXACLORODIFLUOROPROPANOS |  |  | RES CONAMA 2000 63609 | IMPEDIMENTO | Corem |  |
+| 29037733 | PENTACLOROTRIFLUOROPROPANOS |  |  | RES CONAMA 2000 63610 | IMPEDIMENTO | Corem |  |
+| 29037734 | TETRACLOROTETRAFLUOROPROPANOS |  |  | RES CONAMA 2000 63611 | IMPEDIMENTO | Corem |  |
+| 29037735 | TRICLOROPENTAFLUOROPROPANOS |  |  | RES CONAMA 2000 63612 | IMPEDIMENTO | Corem |  |
+| 29037736 | DICLOROEXAFLUOROPROPANOS |  |  | RES CONAMA 2000 63613 | IMPEDIMENTO | Corem |  |
+
+| 29037737 | CLOROEPTAFLUOROPROPANOS |  |  | RES CONAMA 2000 63614 | IMPEDIMENTO | Corem |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 29037790 | OUTROS |  |  | PORT SECEX 2011 63615 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037800 | -- OUTROS DERIVADOS PERALOGENADOS |  |  | PORT SECEX 2011 63617 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037911 | CLOROFLUOROETANOS |  |  | PORT SECEX 2011 63619 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037912 | CLOROTETRAFLUOROETANOS |  |  | PORT SECEX 2011 63621 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037919 | OUTROS |  |  | PORT SECEX 2011 63625 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 29037920 | DERIVADOS DO METANO, ETANO OU PROPANO, HALOGENADOS UNIC |  |  | PORT SECEX 2011 63626 | IMPEDIMENTO | Corem |  |
+| 29037990 | OUTROS | 001 | OUTS.DER.HALOG.D/HID.ACIC.C/2 HALOGENIOS DIF. | RES CONAMA 2000 63614 | IMPEDIMENTO | Corem |  |
+| 30069200 | -- RESÍDUOS FARMACÊUTICOS |  |  | IN MAPA 2002 59005 | IMPEDIMENTO | Corem |  |
+| 3804.00.11 | AO SULFITO |  |  |  | IMPEDIMENTO | Corem |  |
+| 3804.00.12 | À SODA OU AO SULFATO |  |  |  | IMPEDIMENTO | Corem |  |
+| 38130010 | QUE CONTENHAM BROMOCLORODIFLUOROMETANO, BROMOTRIFLUOROM |  |  | RES CONAMA 2000 62877 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38130020 | QUE CONTENHAM HIDROBROMOFLUORCARBONETOS (HBFC) DO METAN |  |  | RES CONAMA 2000 62878 | IMPEDIMENTO | Corem |  |
+| 38130030 | QUE CONTENHAM HIDROCLOROFLUORCARBONETOS (HCFC) DO METAN |  |  | RES CONAMA 2000 62879 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38130040 | QUE CONTENHAM BROMOCLOROMETANO |  |  | RES CONAMA 2000 62880 | IMPEDIMENTO | Corem |  |
+| 38140010 | QUE CONTENHAM CLOROFLUORCARBONETOS (CFC) DO METANO, DO |  |  | PORT DECEX 2010 62881 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38140020 | QUE CONTENHAM HIDROCLOROFLUORCARBONETOS (HCFC) DO METAN |  |  | PORT DECEX 2010 62882 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38140030 | QUE CONTENHAM TETRACLORETO DE CARBONO, BROMOCLOROMETANO |  |  | PORT DECEX 2010 62883 | IMPEDIMENTO | Corem |  |
+| 38140090 | OUTROS | 001 | CONTENDO CFC, CTC, METILCLOROFORMIO OU HCFC | DEC LEGIS 1990 63451 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38248210 | QUE CONTENHAM POLICLOROBIFENILAS (PCB) |  |  | IN IBAMA 2013 68808 | IMPEDIMENTO | Corem |  |
+| 38248290 | OUTRAS |  |  | IN IBAMA 2013 68809 | IMPEDIMENTO | Corem |  |
+| 38251000 | RESÍDUOS MUNICIPAIS |  |  |  | IMPEDIMENTO | Corem |  |
+| 38252000 | LAMAS DE TRATAMENTO DE ESGOTOS (LAMAS DE DEPURAÇÃO\*) |  |  |  | IMPEDIMENTO | Corem |  |
+| 38253000 | RESÍDUOS CLÍNICOS |  |  |  | IMPEDIMENTO | Corem |  |
+| 38254100 | HALOGENADOS |  |  |  | IMPEDIMENTO | Corem |  |
+| 38254900 | OUTROS |  |  |  | IMPEDIMENTO | Corem |  |
+| 38255000 | RESÍDUOS DE SOLUÇÕES DECAPANTES PARA METAIS, DE FLUIDOS HIDRÁULICOS, DE FLUIDOS PARA FREIOS (TRAVÕES) E DE FLUIDOS ANTICONGELANTES |  |  |  | IMPEDIMENTO | Corem |  |
+| 38256100 | -- QUE CONTENHAM PRINCIPALMENTE CONSTITUINTES ORGÂNICOS |  |  | IN IBAMA 2013 64280 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38256900 | -- OUTROS |  |  | IN IBAMA 2013 64281 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38259000 | - OUTROS |  |  | IN IBAMA 2013 64282 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38260000 | BIODIESEL E SUAS MISTURAS, QUE NÃO CONTENHAM OU QUE CON | 001 | Exclusivamente desperd cios e res duos | PORT SECEX 2011 66666 | POR OPERAÇÃO | Corem |  |
+| 38271110 | QUE CONTENHAM TRICLOROTRIFLUOROETANOS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69172 | IMPEDIMENTO | Corem |  |
+| 38271190 | OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69173 | IMPEDIMENTO | Corem |  |
+| 38271200 | -- QUE CONTENHAM HIDROBROMOFLUORCARBONETOS (HBFC) | 001 | Para uso na agropecu ria | RES CAMEX 2021 69174 | IMPEDIMENTO | Corem |  |
+| 38271300 | -- QUE CONTENHAM TETRACLORETO DE CARBONO | 001 | Para uso na agropecu ria | RES CAMEX 2021 69175 | IMPEDIMENTO | Corem |  |
+| 38271400 | -- QUE CONTENHAM 1,1,1-TRICLOROETANO (METILCLOROFÓRMIO) | 001 | Para uso na agropecu ria | RES CAMEX 2021 69176 | IMPEDIMENTO | Corem |  |
+| 38272000 | - QUE CONTENHAM BROMOCLORODIFLUOROMETANO (HALON-1211), | 001 | Para uso na agropecu ria | RES CAMEX 2021 69177 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38273110 | QUE CONTENHAM CLORODIFLUOROMETANO E PENTAFLUOROETANO | 001 | Para uso na agropecu ria | RES CAMEX 2021 69178 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38273190 | OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69179 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38273210 | QUE CONTENHAM CLORODIFLUOROMETANO E CLOROTETRAFLUOROETA | 001 | Para uso na agropecu ria | RES CAMEX 2021 69180 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38273290 | OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69181 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38273900 | -- OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69182 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38274000 | - QUE CONTENHAM BROMETO DE METILA (BROMOMETANO) OU BROM | 001 | Para uso na agropecu ria | RES CAMEX 2021 69183 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38275100 | -- QUE CONTENHAM TRIFLUOROMETANO (HFC-23) | 001 | Para uso na agropecu ria | RES CAMEX 2021 69184 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38275900 | -- OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69185 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38276100 | -- QUE CONTENHAM, EM MASSA, 15 % OU MAIS DE 1,1,1-TRIFL | 001 | Para uso na agropecu ria | RES CAMEX 2021 69186 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38276200 | -- OUTRAS, NÃO MENCIONADAS NA SUBPOSIÇÃO ACIMA, QUE CON | 001 | Para uso na agropecu ria | RES CAMEX 2021 69187 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+
+| 38276300 | -- OUTRAS, NÃO MENCIONADAS NAS SUBPOSIÇÕES ACIMA, QUE C | 001 | Para uso na agropecu ria | RES CAMEX 2021 69188 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 38276400 | -- OUTRAS, NÃO MENCIONADAS NAS SUBPOSIÇÕES ACIMA, QUE C | 001 | Para uso na agropecu ria | RES CAMEX 2021 69189 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38276500 | -- OUTRAS, NÃO MENCIONADAS NAS SUBPOSIÇÕES ACIMA, QUE C | 001 | Para uso na agropecu ria | RES CAMEX 2021 69190 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38276800 | -- OUTRAS, NÃO MENCIONADAS NAS SUBPOSIÇÕES ACIMA, QUE C | 001 | Para uso na agropecu ria | RES CAMEX 2021 69191 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38276900 | -- OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69192 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 38279000 | - OUTRAS | 001 | Para uso na agropecu ria | RES CAMEX 2021 69193 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 40121100 | -- DO TIPO UTILIZADO EM AUTOMÓVEIS DE PASSAGEIROS (INCL |  |  | ADPF JUD 2009 52908 | IMPEDIMENTO | Corem |  |
+| 40121200 | -- DO TIPO UTILIZADO EM ÔNIBUS (AUTOCARROS) OU CAMINHÕE |  |  | ADPF JUD 2009 52909 | IMPEDIMENTO | Corem |  |
+| 40121900 | -- OUTROS |  |  | ADPF STF 2009 52911 | POR OPERAÇÃO | Corem |  |
+| 40122000 | - PNEUMÁTICOS USADOS |  |  | IN IBAMA 2013 124 | IMPEDIMENTO | Corem |  |
+| 41152000 | - APARAS E OUTROS DESPERDÍCIOS DE COUROS OU DE PELES PR | 002 | QUE CONTENHAM COMPOSTOS DE CROMO HEXAVALENTE OU BIOCIDAS | IN IBAMA 2013 64304 | POR OPERAÇÃO | Corem |  |
+| 70010000 | CACOS, FRAGMENTOS E OUTROS DESPERDÍCIOS E RESÍDUOS DE V |  |  | IN IBAMA 2013 64292 | POR OPERAÇÃO | Corem |  |
+| 71123010 | QUE CONTENHAM OURO, MAS QUE NÃO CONTENHAM OUTROS METAIS |  |  | IN IBAMA 2013 64293 | POR OPERAÇÃO | Corem |  |
+| 71123020 | QUE CONTENHAM PLATINA, MAS QUE NÃO CONTENHAM OUTROS MET |  |  | IN IBAMA 2013 64294 | POR OPERAÇÃO | Corem |  |
+| 71123090 | OUTROS |  |  | IN IBAMA 2013 64295 | POR OPERAÇÃO | Corem |  |
+| 78020000 | DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE CHUMBO. |  |  | COM DECEX 1997 5314 | POR OPERAÇÃO | Corem |  |
+| 79020000 | DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE ZINCO. |  |  | COM DECEX 1997 5315 | POR OPERAÇÃO | Corem |  |
+| 81102000 | - DESPERDÍCIOS E RESÍDUOS, E SUCATA |  |  | DEC IBAMA 2003 58713 | POR OPERAÇÃO | Corem |  |
+| 81121300 | -- DESPERDÍCIOS E RESÍDUOS, E SUCATA |  |  | PORT SECEX 2004 53073 | POR OPERAÇÃO | Corem |  |
+| 81122200 | -- DESPERDÍCIOS E RESÍDUOS, E SUCATA |  |  | DEC IBAMA 2003 58714 | POR OPERAÇÃO | Corem |  |
+| 81125200 | -- DESPERDÍCIOS E RESÍDUOS, E SUCATA |  |  | IN IBAMA 2013 58715 | IMPEDIMENTO | Corem |  |
+| 81126100 | -- DESPERDÍCIOS E RESÍDUOS, E SUCATA |  |  | RES IBAMA 2012 69762 | POR OPERAÇÃO | Corem |  |
+| 81129200 | -- EM FORMAS BRUTAS; DESPERDÍCIOS E RESÍDUOS, E SUCATA; | 002 | SOMENTE DESPERDICIOS E RESIDUOS DE OUTROS METAIS, INC. GERMANIO E VANADIO | DEC IBAMA 2003 58718 | POR OPERAÇÃO | Corem |  |
+| 81129900 | -- OUTROS | 001 | DESPERDICIOS E RESIDUOS DE OUTROS METAIS QUAISQUER | DEC IBAMA 2003 58719 | POR OPERAÇÃO | Corem |  |
+| 81130090 | OUTROS | 001 | Desperd cios e res duos de Ceramais (cermets) | PORT SECEX 2011 66658 | POR OPERAÇÃO | Corem |  |
+| 84241000 | - EXTINTORES, MESMO CARREGADOS | 001 | CARCA C/ BROMOCLORODIFLUORMETANO, BROMOTRIFLUORMETANO, HALONS OU HCFC | IN IBAMA 2012 64367 | POR OPERAÇÃO | Corem | 31/12 do ano corrente, improrrogável |
+| 85491100 | -- DESPERDÍCIOS E RESÍDUOS, E SUCATA, DE ACUMULADORES D |  |  | RES IBAMA 2012 69763 | IMPEDIMENTO | Corem |  |
+| 85491200 | -- OUTROS, QUE CONTENHAM CHUMBO, CÁDMIO OU MERCÚRIO |  |  | RES IBAMA 2012 69764 | IMPEDIMENTO | Corem |  |
+| 85492100 | -- QUE CONTENHAM PILHAS, BATERIAS DE PILHAS OU ACUMULAD |  |  | RES IBAMA 2012 69765 | IMPEDIMENTO | Corem |  |
+| 85493100 | -- QUE CONTENHAM PILHAS, BATERIAS DE PILHAS OU ACUMULAD |  |  | RES IBAMA 2012 69766 | IMPEDIMENTO | Corem |  |
+| 85499100 | -- QUE CONTENHAM PILHAS, BATERIAS DE PILHAS OU ACUMULAD |  |  | RES IBAMA 2012 69767 | IMPEDIMENTO | Corem |  |
+| 8702 | VEÍCULOS AUTOMÓVEIS PARA TRANSPORTE DE DEZ PESSOAS OU M |  |  | PORT SECEX 2008 291 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 8703 | AUTOMÓVEIS DE PASSAGEIROS E OUTROS VEÍCULOS AUTOMÓVEIS |  |  | PORT SECEX 2008 292 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 8704 | VEÍCULOS AUTOMÓVEIS PARA TRANSPORTE DE MERCADORIAS. |  |  | PORT SECEX 2008 293 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 8705 | VEÍCULOS AUTOMÓVEIS PARA USOS ESPECIAIS (POR EXEMPLO, A |  |  | PORT SECEX 2008 53721 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 8706 | CHASSIS COM MOTOR PARA OS VEÍCULOS AUTOMÓVEIS DAS POSIÇ |  |  | PORT SECEX 2008 53399 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 8711 | MOTOCICLETAS (INCLUINDO OS CICLOMOTORES) E OUTROS CICLO |  |  | PORT SECEX 2008 294 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84244900 | -- OUTROS | 001 | Somente pulverizadores autopropelidos | RES CONAMA 2011 66317 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84291110 | DE POTÊNCIA NO VOLANTE IGUAL OU SUPERIOR A 387,76 KW (5 |  |  | RES CONAMA 2011 66319 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84291190 | OUTROS |  |  | RES CONAMA 2011 66320 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84291910 | BULLDOZERSDE POTÊNCIA NO VOLANTE IGUAL OU SUPERIOR A 23 |  |  | RES CONAMA 2011 66321 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84291990 | OUTROS |  |  | RES CONAMA 2011 66322 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84292010 | MOTONIVELADORES ARTICULADOS, DE POTÊNCIA NO VOLANTE IGU |  |  | RES CONAMA 2011 66323 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+
+| 84292090 | OUTROS |  |  | RES CONAMA 2011 66324 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 84293000 | - RASPO-TRANSPORTADORES (SCRAPERS) |  |  | RES CONAMA 2011 66325 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84294000 | - COMPACTADORES E ROLOS OU CILINDROS COMPRESSORES | 001 | Com pot ncia at 200HP e peso operacional m ximo at 2.500 kg, a diesel. | PORT SECEX 2011 63905 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84294000 | - COMPACTADORES E ROLOS OU CILINDROS COMPRESSORES | 003 | Com pot ncia at 200HP e peso operacional m x superior a 5.000 kg, a diesel | PORT SECEX 2011 66561 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84294000 | - COMPACTADORES E ROLOS OU CILINDROS COMPRESSORES | 005 | Com pot nc at 200 HP e peso operac m x > de 2500kg e at 5000kg, a diesel | PORT SECEX 2011 66563 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84294000 | - COMPACTADORES E ROLOS OU CILINDROS COMPRESSORES | 006 | Com pot ncia acima de 200 HP e at 751 HP, a diesel | PORT SECEX 2011 66564 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295111 | DO TIPO UTILIZADO EM MINAS SUBTERRÂNEAS |  |  | RES CONAMA 2011 66555 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295119 | OUTRAS |  |  | RES CONAMA 2011 66327 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295121 | DE POTÊNCIA NO VOLANTE IGUAL OU SUPERIOR A 454,13 KW (6 |  |  | RES CONAMA 2011 66328 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295129 | OUTRAS |  |  | RES CONAMA 2011 66329 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295191 | DE POTÊNCIA NO VOLANTE IGUAL OU SUPERIOR A 297,5 KW (39 |  |  | RES CONAMA 2011 66330 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295192 | DE POTÊNCIA NO VOLANTE INFERIOR OU IGUAL A 43,99 KW (59 |  |  | RES CONAMA 2011 66331 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295199 | OUTRAS |  |  | RES CONAMA 2011 66332 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295211 | DE POTÊNCIA NO VOLANTE IGUAL OU SUPERIOR A 484,7 KW (65 |  |  | RES CONAMA 2011 66333 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295212 | DE POTÊNCIA NO VOLANTE INFERIOR OU IGUAL A 40,3 KW (54 |  |  | RES CONAMA 2011 66334 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295219 | OUTRAS |  |  | RES CONAMA 2011 66335 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295220 | INFRAESTRUTURAS MOTORAS, PRÓPRIAS PARA RECEBER EQUIPAME |  |  | RES CONAMA 2011 66336 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295290 | OUTRAS |  |  | RES CONAMA 2011 66337 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84295900 | -- OUTROS |  |  | RES CONAMA 2011 66338 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84305000 | - OUTRAS MÁQUINAS E APARELHOS, AUTOPROPULSADOS |  |  | RES CONAMA 2011 66339 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84324100 | -- ESPALHADORES DE ESTRUME |  |  | RE CONAMA 2011 66340 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84324200 | -- DISTRIBUIDORES DE ADUBOS (FERTILIZANTES) |  |  | RES CONAMA 2011 66341 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84333000 | - OUTRAS MÁQUINAS E APARELHOS PARA COLHER E DISPOR O FE | 001 | Forrageiras Autopropelidas | RES CONAMA 2011 66372 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335100 | -- COLHEITADEIRAS COMBINADAS COM DEBULHADORAS (CEIFEIRA |  |  | RES CONAMA 2011 66343 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335200 | -- OUTRAS MÁQUINAS E APARELHOS PARA DEBULHA |  |  | RE CONAMA 2011 66344 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335300 | -- MÁQUINAS PARA COLHEITA DE RAÍZES OU TUBÉRCULOS |  |  | RES CONAMA 2011 66345 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335911 | COM CAPACIDADE PARA TRABALHAR ATÉ DOIS SULCOS DE COLHEI |  |  | RES CONAMA 2011 66346 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335919 | OUTRAS |  |  | RES CONAMA 2011 66347 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84335990 | OUTROS |  |  | RES CONAMA 2011 66348 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 84368000 | - OUTRAS MÁQUINAS E APARELHOS | 001 | Autopropulsadas sobre rodas para abate de rvores, com pot ncia >= 75 kW | RES CONAMA 2011 66392 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+
+| 84791010 | AUTOMOTRIZES PARA ESPALHAR E CALCAR PISOS (PAVIMENTOS) |  |  | RES CONAMA 2011 66350 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 84791090 | OUTROS | 001 | Somente fresadoras | RES CONAMA 2011 66318 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 85063010 | COM VOLUME EXTERIOR NÃO SUPERIOR A 300 CM3 |  |  | PORT SECEX 2008 53423 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87011000 | - TRATORES DE EIXO ÚNICO |  |  | RES CONAMA 2011 66351 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87012100 | -- UNICAMENTE COM MOTOR DE PISTÃO DE IGNIÇÃO POR COMPRE |  |  | RES CONAMA 2011 69395 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87012200 | -- EQUIPADOS PARA PROPULSÃO, SIMULTANEAMENTE, COM MOTOR |  |  | RES CONAMA 2011 69396 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87012300 | -- EQUIPADOS PARA PROPULSÃO, SIMULTANEAMENTE, COM MOTOR |  |  | RES CONAMA 2011 69397 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87012900 | -- OUTROS |  |  | RES CONAMA 2011 69399 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87013000 | - TRATORES DE LAGARTAS (ESTEIRAS) |  |  | PORT SECEX 2008 55813 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019100 | -- NÃO SUPERIOR A 18 KW |  |  | RES CONAMA 2011 66353 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019200 | -- SUPERIOR A 18 KW, MAS NÃO SUPERIOR A 37 KW |  |  | RES CONAMA 2011 66354 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019300 | -- SUPERIOR A 37 KW, MAS NÃO SUPERIOR A 75 KW |  |  | RES CONAMA 2011 66355 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019410 | TRATORES ESPECIALMENTE CONCEBIDOS PARA ARRASTAR TRONCOS |  |  | RES CONAMA 2011 66356 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019490 | OUTROS |  |  | RES CONAMA 2011 66357 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019510 | TRATORES ESPECIALMENTE CONCEBIDOS PARA ARRASTAR TRONCOS |  |  | RES CONAMA 2011 66358 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87019590 | OUTROS |  |  | RES CONAMA 2011 66359 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87021000 | - EQUIPADOS PARA PROPULSÃO, SIMULTANEAMENTE, COM MOTOR |  | VEICULO BLINDADO PARA EMPREGO CIVIL | RES CAMEX 2016 65813 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87022000 | - EQUIPADOS PARA PROPULSÃO, SIMULTANEAMENTE, COM MOTOR |  | VEICULO BLINDADO PARA EMPREGO CIVIL | RES CAMEX 2016 65813 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87023000 | - EQUIPADOS PARA PROPULSÃO, SIMULTANEAMENTE, COM MOTOR |  | VEICULO BLINDADO PARA EMPREGO CIVIL | RES CAMEX 2016 65814 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87029000 | - OUTROS |  | VEICULO BLINDADO PARA EMPREGO CIVIL | RES CAMEX 2016 65816 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032100 | -- DE CILINDRADA NÃO SUPERIOR A 1.000 CM3 |  | VEICULO(CARRO) BLINDADO | COM DECEX 1998 52599 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032210 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52600 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032290 | OUTROS |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52601 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032310 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52602 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032390 | OUTROS |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52603 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032410 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52604 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87032490 | OUTROS | 008 | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52605 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87033110 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52606 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87033190 | OUTROS |  | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52607 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87033210 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI |  | VEICULO(CARRO) BLINDADO | COM DECEX 1998 52608 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87033290 | OUTROS | 008 | VE CULOS MILITARES BLINDADOS | PORT MD 2020 52609 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+
+| 87033310 | COM CAPACIDADE DE TRANSPORTE DE PESSOAS SENTADAS INFERI | 001 | Ve culos Militares 1 1/2 Ton, p/ emprego operacional com ou sem blindagem | PORT MD 2020 68167 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 87033390 | OUTROS | 008 | VEICULO(CARRO) BLINDADO | COM DECEX 1998 52611 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87034000 | - OUTROS VEÍCULOS, EQUIPADOS PARA PROPULSÃO, SIMULTANEA |  | VEICULO (CARRO) DE PASSEIO BLINDADO DE CILINDRADA SUPERIOR A 1000 CM3 | RES CAMEX 2016 65817 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87035000 | - OUTROS VEÍCULOS, EQUIPADOS PARA PROPULSÃO, SIMULTANEA |  | VEICULO (CARRO) DE PASSEIO BLINDADO DE CILINDRADA SUPERIOR A 1000 CM3 | RES CAMEX 2016 65818 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87036000 | - OUTROS VEÍCULOS, EQUIPADOS PARA PROPULSÃO, SIMULTANEA |  | VEICULO (CARRO) DE PASSEIO BLINDADO DE CILINDRADA SUPERIOR A 1000 CM3 | RES CAMEX 2016 65819 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87037000 | - OUTROS VEÍCULOS, EQUIPADOS PARA PROPULSÃO, SIMULTANEA |  | VEICULO (CARRO) DE PASSEIO BLINDADO DE CILINDRADA SUPERIOR A 1000 CM3 | RES CAMEX 2016 65820 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87039000 | - OUTROS |  | VEICULO (CARRO) DE PASSEIO BLINDADO DE CILIN- DRADA SUPERIOR A 1000CM3 | COM DECEX 1998 52482 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87041010 | - COM CAPACIDADE DE CARGA IGUAL OU SUPERIOR A 85 TONELADAS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87041090 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042110 | CHASSIS COM MOTOR E CABINA |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042120 | COM CAIXA BASCULANTE |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042130 | FRIGORÍFICOS OU ISOTÉRMICOS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042190 | OUTROS |  | VEICULO BLINDADO DE EMPREGO CIVIL | PORT SECEX 2006 59608 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042210 | CHASSIS COM MOTOR E CABINA |  |  | PORT SECEX 2022 69298 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042220 | COM CAIXA BASCULANTE |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042230 | FRIGORÍFICOS OU ISOTÉRMICOS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042290 | OUTROS |  |  | PORT SECEX 2022 69299 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042310 | CHASSIS COM MOTOR E CABINA |  |  | PORT SECEX 2022 69300 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042320 | COM CAIXA BASCULANTE |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042330 | FRIGORÍFICOS OU ISOTÉRMICOS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042340 | DE CHASSIS ARTICULADO, PARA O TRANSPORTE DE TRONCOS (FORWARDER), COM GRUA INCORPORADA, DE POTÊNCIA MÁXIMA IGUAL OU SUPERIOR A 126 KW (170HP) |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87042390 | OUTROS |  |  | PORT SECEX 2022 69301 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043110 | CHASSIS COM MOTOR E CABINA |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043120 | COM CAIXA BASCULANTE |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043130 | FRIGORÍFICOS OU ISOTÉRMICOS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043190 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043210 | CHASSIS COM MOTOR E CABINA |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043220 | COM CAIXA BASCULANTE |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87043230 | FRIGORÍFICOS OU ISOTÉRMICOS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+
+| 87043290 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 87049000 | - OUTROS |  |  | PORT SECEX 2022 69302 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87051020 | COM TODOS OS EIXOS DE RODAS DIRECIONÁVEIS E CAPACIDADE MÁXIMA DE ELEVAÇÃO INFERIOR A 100 T |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87051030 | COM CAPACIDADE MÁXIMA DE ELEVAÇÃO IGUAL OU SUPERIOR A 100 T |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87051090 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87052000 | TORRES (DERRICKS) AUTOMÓVEIS, PARA SONDAGEM OU PERFURAÇÃO |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87053000 | VEÍCULOS DE COMBATE A INCÊNDIO |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87054000 | CAMINHÕES-BETONEIRAS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87059010 | CAMINHÕES PARA A DETERMINAÇÃO DE PARÂMETROS FÍSICOS CARACTERÍSTICOS (PERFILAGEM) DE POÇOS PETROLÍFEROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87059090 | OUTROS | 001 | VEIC. EQUIP. C/ FONTE RADIACAO - MAT. RADIOAT. E/OU FONTE DE RAD. IONIZANTE | LEI LEGIS 1974 63373 | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87060010 | DOS VEÍCULOS DA POSIÇÃO 87.02 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87060020 | DOS VEÍCULOS DAS SUBPOSIÇÕES 8701.10, 8701.30, 8701.91 a 8701.95 ou 8704.10 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87060090 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87111000 | COM MOTOR DE PISTÃO DE CILINDRADA NÃO SUPERIOR A 50 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87112010 | MOTOCICLETAS DE CILINDRADA INFERIOR OU IGUAL A 125 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87112020 | MOTOCICLETAS DE CILINDRADA SUPERIOR A 125 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87112090 | OUTROS |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87113000 | COM MOTOR DE PISTÃO DE CILINDRADA SUPERIOR A 250 CM3, MAS NÃO SUPERIOR A 500 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87114000 | COM MOTOR DE PISTÃO DE CILINDRADA SUPERIOR A 500 CM3, MAS NÃO SUPERIOR A 800 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 87115000 | COM MOTOR DE PISTÃO DE CILINDRADA SUPERIOR A 800 CM3 |  |  |  | FLEX | Direv | 31/12 do ano corrente, passível de prorrogação. |
+| 9201 | PIANOS, MESMO AUTOMÁTICOS; CRAVOS E OUTROS INSTRUMENTOS | 001 | COM TECLADO FEITO DE MARFIM | PORT IBAMA 1998 64472 | POR OPERAÇÃO | Comex |  |
+| 9706 | ANTIGUIDADES COM MAIS DE 100 ANOS. | 001 | COM ANIMAIS/PARTES DE ESPECIES SILVESTRES, EXCETO PEIXES/INVERT. AQUAT. | PORT IBAMA 1998 64473 | POR OPERAÇÃO | Comex |  |
+| 27109110 | Óleos de petróleo ou de minerais betuminosos (exc. óleos brutos) - Outros óleos combustíveis |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 27109120 | Óleos de petróleo ou de minerais betuminosos (exc. óleos brutos) - Óleos lubrificantes |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29032910 | Hidrocarbonetos acíclicos halogenados - Clorometano (Cloreto de metila) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29034900 | Hidrocarbonetos halogenados derivados de hidrocarbonetos acíclicos - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+
+| 29037800 | Hidrocarbonetos halogenados derivados de hidrocarbonetos aromáticos - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 29038110 | LINDANO (GAMA-HEXACLOROCICLOEXANO) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038120 | Tetracloroetileno (Percloroetileno) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038130 | Tricloroetileno |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038210 | ALDRIN |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038220 | CLORDANO |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038230 | HEPTACLORO |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038300 | MIREX (ISO) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038910 | HEXABROMOCICLODODECANOS (HBCD) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29038990 | Outros hidrocarbonetos acíclicos halogenados derivados de hidrocarbonetos saturados. |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29039210 | HEXACLOROBENZENO |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29039300 | PENTACLOROBENZENO (ISO) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29039400 | Hidrocarbonetos halogenados derivados de hidrocarbonetos cíclicos - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29039915 | Hexafluoropropileno |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29062920 | Álcool benzílico |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29081100 | PENTACLOROFENOL (ISO) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29093023 | Éteres-éter isopropílico |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29093024 | Éteres-éter butílico |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29093025 | Éteres-éter isobutílico |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29104000 | DIELDRIN (ISO, DCI) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29105000 | ENDRIN (ISO) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29147100 | Aldeídos - Benzaldeído |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29203000 | ENDOSSULFAN (ISO) | 002 | INGREDIENTE ATIVO UTILIZADO P/FORMULACAO DE PROD.PRESERV.DE MADEIRA OU AGRO | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38085922 | Inseticidas - à base de permetrina |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38085924 | Inseticidas - à base de cipermetrina |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38123929 | Preparações antioxidantes - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29036990 | Hidrocarbonetos cíclicos - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29049990 | Derivados halogenados, sulfonados, nitrados ou nitrosados de hidrocarbonetos - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29159000 | Ácidos carboxílicos com função aldeído ou cetona - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38248900 | Preparações químicas - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38249984 | Preparações químicas - Contendo ésteres de ácidos graxos |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29039220 | DDT |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29043100 | Derivados halogenados de hidrocarbonetos - Clorometano (Cloreto de metila) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29043500 | Derivados halogenados de hidrocarbonetos - Diclorometano (Cloreto de metileno) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29351000 | Sulfonamidas |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29352000 | Sulfonamidas derivadas |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29353000 | Sulfonamidas heterocíclicas |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29354000 | Sulfonamidas antibacterianas |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29355000 | Outras sulfonamidas |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38085200 | DDT (ISO) (CLOFENOTANO (DCI)), ACONDICIONADO EM EMBA | 004 | FORMUL.DE USO COMO PRESER.DE MADEIRA OU DESTI. A PROT. DE FLORESTAS E ECOSS | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29043200 | Derivados halogenados de hidrocarbonetos - Cloroetano (Cloreto de etila) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29043300 | Derivados halogenados de hidrocarbonetos - Dicloroetano (Cloreto de etileno) |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+
+| 29043400 | Derivados halogenados de hidrocarbonetos - Tricloroetano |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 29043600 | Derivados halogenados de hidrocarbonetos - Clorofórmio |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29221600 | Aminas - Diisopropanolamina |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29233000 | Compostos de amônio quaternário - Outros |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29234000 | Compostos de amônio quaternário - Hidróxidos |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 38085926 | Inseticidas - à base de deltametrina |  |  | DECRETO Nº 5.472/2005 | Por Operação | Diges |  |
+| 29224 | Aminoácidos, exceto os que contenham mais de um tipo de função oxigenada, e seus ésteres; sais destes produtos |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29051100 | Metanol (álcool metílico) |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29095012 | Eugenol |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29144099 | Outros cetonas sem outras funções oxigenadas. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29242992 | Diflubenzurom |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29329999 | Outros compostos heterocíclicos com heteroátomo(s) de nitrogênio apenas, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 2102 | Leveduras (vivas ou mortas); outros microrganismos monocelulares mortos (exceto as vacinas da posição 30.02); pós para levedar, preparados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 281122 | Dióxido de silício |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 25120000 | Farinhas siliciosas fósseis (por exemplo, kieselguhr, tripolita, diatomita) e outras terras siliciosas análogas de densidade aparente não superior a 1, mesmo calcinadas. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 28352910 | De ferro |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 29 | Produtos químicos orgânicos. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38085921 | À base de metamidofós (ISO) ou de monocrotofós (ISO) |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38085929 | Outros inseticidas, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38086100 | Acondicionadas em embalagens com um conteúdo de peso líquido não superior a 300 g |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38086290 | Outros fungicidas, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38086990 | Outros herbicidas, anti-sprouters e reguladores de crescimento para plantas, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089119 | Outros preparações para desinfecção ou esterilização de superfícies. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089191 | À base de acefato ou de Bacillus thuringiensis |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089193 | À base de dicrotofós |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089194 | À base de dissulfoton |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089195 | À base de fosfeto de alumínio |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089196 | À base de diclorvós |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089197 | À base de óleo mineral ou de tiometon |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089199 | Outros produtos para desinfecção ou esterilização, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089219 | Outros produtos para conservação de madeira. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089292 | À base de enxofre ou de ziram |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089293 | À base de mancozeb ou de maneb |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089294 | À base de sulfiram |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089319 | Outros preparados para proteção de plantas, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+
+| 38089322 | Outros, à base de ácido 2,4-diclorofenoxiacético (2,4-D), de ácido 4-(2,4-diclorofenoxi)butírico (2,4-DB), de ácido (4-cloro-2-metil)fenoxiacético (MCPA) ou de derivados de 2,4-D ou 2,4-DB | 001 | FORMULACAO DESTINADA A PROTECAO DE FLORESTAS, AMB. HIDRICOS E OUT. ECOSSIST | LEI Nº 14.785/2023 | Flex | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 38089323 | Outros, à base de atrazina ou de diuron | 001 | FORMULACAO DEST. PROTECAO FLORESTA, AMB.HIDRICO E OUTROS ECOS. | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089324 | Outros, à base de glifosato ou seus sais, de imazaquim ou de lactofen | 001 | FORM.DEST.PROT.FLORESTAS,AMB. HIDRICOS E OUT.ECOSSIST.,E C/PRESERV.MADEIRAS | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089325 | Outros, à base de dicloreto de paraquate, de propanil ou de simazina | 001 | FORM.DEST.PROT.FLORESTAS,AMB. HIDRICOS E OUT.ECOSSIST.,E C/PRESERV.MADEIRAS | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089326 | Outros, à base de trifluralina | 001 | FORM.DEST.PROT.FLORESTAS,AMB. HIDRICOS E OUT.ECOSSIST.,E C/PRESERV.MADEIRAS | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089327 | Outros, à base de imazetapir |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089328 | Outros, à base de ametrina ou de hexazinona |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089329 | Outros produtos para proteção de culturas, não especificados. | 013 | FORMULACAO DESTINADA A PROTECAO DE FLORESTAS, AMB.HIDRICOS E OUT.ECOSSISTEM | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089349 | Outros produtos para proteção de sementes. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089352 | Outros, à base de hidrazida maleica |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089359 | Outros produtos para proteção de plantas durante o transporte. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089992 | Acaricidas à base de ciexatin ou de óxido de fembutatina |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089994 | Nematicidas à base de metam sódio |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089995 | Outros nematicidas |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089996 | Raticidas |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089999 | Outros produtos químicos para agricultura, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089333 | Outros produtos para proteção de plantas contra pragas. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089991 | Acaricidas à base de amitraz, de clorfenvinfós ou de propargite |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089993 | Outros acaricidas |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 28470000 | Peróxidos de hidrogênio |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 28332510 | Sulfatos de cobre |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 28332520 | CÚPRICO | 012 | INGREDIENTE ATIVO UTILIZADO P/FORMULACAO PROD. PRESERV.DE MADEIRA | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38086210 | À base de alfa-cipermetrina (ISO) |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38086910 | À base de alfa-cipermetrina (ISO) |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089192 | Preparações para conservação de madeira - Contendo arseniais |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089291 | À base de hidróxido de cobre, de oxicloreto de cobre ou de óxido cuproso |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089295 | À base de compostos de arsênio, cobre ou cromo, exceto os produtos do subitem 3808.92.91 |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089297 | À base de propiconazol |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089299 | Outros produtos para conservação de materiais, não especificados. |  |  | LEI Nº 14.785/2023 | Flex | Diges |  |
+| 38089296 | À base de thiram |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29339969 | Outros compostos heterocíclicos com heteroátomo(s) de nitrogênio apenas, não especificados. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 25292200 | Carbonato de bário |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 27079100 | Outros produtos da destilação de alcatrão de hulha |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28012090 | Outros cloros. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+
+| 28048000 | Arsênio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 28100010 | ÁCIDO ORTOBÓRICO | 012 | INGREDIENTE ATIVO UTILIZADO P/FORMULACAO PRODUTOS PRESERVATIVOS DE MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28100090 | Outros óxidos de boro; ácidos bóricos. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28121911 | Tricloreto de arsênio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28191000 | Trióxido de cromo | 012 | INGREDIENTE ATIVO UTILIZADO. P/FORMULACAO PROD. PRESERV.DE MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28199010 | Óxidos |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28199020 | Hidróxidos |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28255010 | Óxido cúprico, com um teor de CuO igual ou superior a 98 %, em peso | 012 | INGREDIENTE ATIVO UTILIZADO. P/FORMULACAO PROD. PRESERV.DE MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28255090 | Outros hidróxidos e peróxidos de metais. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28261200 | De alumínio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28261920 | Fluoreto ácido de amônio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28261990 | Outros fluoretos. | 012 | FLUORETO DE SODIO QUANDO UTILIZ. P/FORMULACAO PROD. PRES. MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 28459000 | Outros cianetos, óxidos de cianogênio. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29242939 | Outros aminoácidos, não especificados. | 013 | IPBC-IODO PROPINILBUTIL CARBAMATO COMO ING.ATIVO P/PROD. PRESERV. MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29269022 | Ciflutrina |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29269023 | Cipermetrina | 002 | COMO INGREDIENTE ATIVO USADO P/FORMULACAO PRODS.PRESERV. MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29269024 | Deltametrina | 013 | ING.ATIVO UTILIZADO P/FORMULACAO DE PROD. PRESERV. MADEIRA | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302011 | EPTC |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302012 | Cartap |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302013 | Tiobencarb (dietiltiocarbamato de S-4-clorobenzila) |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302019 | Outros compostos de tiofeno. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302021 | Ziram; dimetilditiocarbamato de sódio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302022 | Dietilditiocarbamato de zinco |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302024 | Metam sódio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29302029 | Outros compostos de tiofeno halogenados. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29329994 | Carbosulfan ((dibutilaminotio)metilcarbamato de 2,3-di-hidro-2,2-dimetilbenzofuran-7-ila) |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29339959 | Outros compostos heterocíclicos com heteroátomo(s) de nitrogênio apenas, não especificados. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 29349935 | Outros, cuja estrutura contém exclusivamente heteroátomos de nitrogênio (azoto) e oxigênio |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 30039056 | Amitraz; cipermetrina |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 30049046 | Amitraz; cipermetrina |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| 32019020 | Taninos |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+
+| 38070000 | Alcatrões de madeira; óleos de alcatrão de madeira; creosoto de madeira; metileno; breu (pez) vegetal; breu (pez) para a indústria da cerveja e preparações semelhantes à base de colofônias, de ácidos resínicos ou de breu (pez) vegetal. |  |  | Portaria Interministerial nº 292/89 | Flex | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 25241000 | Amianto crisotila |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 25249000 | Amianto - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28111990 | Outros ácidos inorgânicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28521012 | Compostos de mercúrio - Nitrato de mercúrio |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28521013 | Compostos de mercúrio - Sulfato de mercúrio |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28521014 | Compostos de mercúrio - Cloreto de mercúrio |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28521023 | Compostos de mercúrio - Óxido de mercúrio |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28521025 | Compostos de mercúrio - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 28539090 | Outros compostos inorgânicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29031500 | Hidrocarbonetos acíclicos - Propeno (Propileno) |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29036200 | Hidrocarbonetos acíclicos - Estireno |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29038190 | Hidrocarbonetos halogenados - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29039918 | Hidrocarbonetos halogenados - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29039924 | Hidrocarbonetos halogenados - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29089100 | Derivados halogenados de fenóis - Pentaclorofenol |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29089200 | Derivados halogenados de fenóis - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29101000 | Óxidos de ferro |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29153600 | Ácidos carboxílicos - Ácido benzóico |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29161600 | Ácidos carboxílicos - Ácido tereftálico |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29181800 | Ácidos carboxílicos - Ácido salicílico |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29189100 | Ácidos carboxílicos - Ácido antranílico |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29191000 | Ésteres - Fosfatos de trietila |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29201110 | Aminas - Anilina |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29201120 | Aminas - Anilina e seus sais |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29241210 | Compostos de nitrogênio - Nitrobenzeno |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29241220 | Compostos de nitrogênio - Dinitrobenzeno |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29241230 | Compostos de nitrogênio - Trinitrobenzeno |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29242500 | Compostos de nitrogênio - Nitrofenóis |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29252100 | Compostos de nitrogênio - Isocianatos de metila |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29308010 | Compostos heterocíclicos - Furanos |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29308020 | Compostos heterocíclicos - Piridinas |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29308030 | Compostos heterocíclicos - Pirazinas |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29309051 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29309057 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29309059 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29311000 | TETRAMETILA DE CHUMBO E TETRAETILA DE CHUMBO | 013 | DIDECIL DIMETILCLORETO DE AMONIA INGR.ATIVO P/FORMUL.PROD.PRES.MADEIRA | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29312000 | Compostos heterocíclicos - Lactamas |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29315400 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29315999 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29329600 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 29339200 | Compostos heterocíclicos - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+
+| 38085923 | À BASE DE ALACLOR (ISO) | 001 | FORMULACAO DEST. PROTECAO FLORESTA, AMB.HIDRICO E OUTROS ECOS. | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 38085925 | Inseticidas - à base de lambda-cialotrina |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248110 | Preparações químicas - Contendo óleos de petróleo |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248210 | Preparações químicas - Contendo silicones |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248290 | Preparações químicas - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248300 | Preparações químicas - Contendo polímeros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248400 | Preparações químicas - Contendo resinas |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248500 | Preparações químicas - Contendo borrachas |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248600 | Preparações químicas - Contendo ceras |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248810 | Preparações químicas - Contendo óleos vegetais |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 38248820 | Preparações químicas - Contendo gorduras animais |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+| 68128000 | Produtos de amianto - Outros |  |  | DECRETO Nº 5.360/2005 | Flex | Diges |  |
+
+ANEXO IINCMs NÃO ANUÍDOS PELO IBAMA NA IMPORTAÇÃO, AOS QUAIS SE APLICARÁ TRATAMENTO ADMINISTRATIVO DE MONITORAMENTO
+
+O quadro a seguir apresenta as NCMs não anuídos pelo Ibama na importação, aos quais se aplicará tratamento administrativo de monitoramento. O quadro visa dar transparência ao tratamento administrativo que será aplicado quando da implementação do Novo Processo de Importação, nos termos do Decreto nº 11.577, de 27 de junho de 2023.
+
+Quadro 2 - NCMs passíveis de controle ambiental pelo Ibama, via monitoramento.
+
+| NCM | Descrição da Mercadoria | Ato Legal | Tratamento administrativo | Área responsável |
+| --- | --- | --- | --- | --- |
+| 01 | Animais vivos | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 03 | Peixes e crustáceos, moluscos e outros invertebrados aquáticos. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 05 | Outros produtos de origem animal, não especificados nem compreendidos noutros Capítulos. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 06 | Plantas vivas e produtos de floricultura. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 12 | Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 13 | Gomas, resinas e outros sucos e extratos vegetais. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 14 | Matérias para entrançar e outros produtos de origem vegetal, não especificados nem compreendidos noutros Capítulos. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018; IN IBAMA 13/2021 | Monitoramento | Cofispol; Coint |
+| 25 | Sal; enxofre; terras e pedras; gesso, cal e cimento. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008 | Monitoramento | Cofispol; Coint |
+| 26 | Minérios, escórias e cinzas. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008 | Monitoramento | Cofispol; Coint |
+| 27 | Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008 | Monitoramento | Cofispol; Coint |
+| 28 | Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008 | Monitoramento | Cofispol; Coint |
+| 29 | Produtos químicos orgânicos. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; IN IBAMA 10/2023; IN IBAMA 10/2023; IN IBAMA 11/2022 | Monitoramento | Cofispol; Coint |
+| 31 | Adubos (fertilizantes). | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008 | Monitoramento | Cofispol; Coint |
+| 33051000 | Óleos essenciais e resinoides; produtos de perfumaria ou de toucador preparados e preparações cosméticas - xampus | IN Ibama 26/2024 | Monitoramento | Cofispol |
+
+| 34 | Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos de conservação e limpeza, velas e artigos semelhantes, massas ou pastas para modelar, "ceras para odontologia" e composições para odontologia à base de gesso. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; IN IBAMA 10/2023; IN IBAMA 11/2022 | Monitoramento | Cofispol; Coint |
+| --- | --- | --- | --- | --- |
+| 38 | Produtos diversos das indústrias químicas. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; IN IBAMA 10/2023; IN IBAMA 11/2022 | Monitoramento | Cofispol; Coint |
+| 38260000 | Biodiesel e suas misturas, que não contenham ou que contenham menos de 70 %, em peso, de óleos de petróleo ou de óleos minerais betuminosos. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 40040000 | Desperdícios, resíduos e aparas, de borracha não endurecida, mesmo reduzidos a pó ou a grânulos. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 4011 | Pneumáticos novos, de borracha | Resolução Conama nº 416, de 2009. | Monitoramento | Corem |
+| 40121300 | Do tipo utilizado em veículos aéreos - Pneumáticos recauchutados | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 40121900 | Outros - Pneumático recacuchutados | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 40129010 | Flaps para pneus de borracha | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 40129090 | Outros - Pneumáticos recauchutados ou usados, de borracha; pneus maciços ou ocos, bandas de rodagem para pneumáticos e flaps, de borracha. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 44 | Madeira, carvão vegetal e obras de madeira. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018 | Monitoramento | Cofispol; Coint |
+| 45 | Cortiça e suas obras. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018 | Monitoramento | Cofispol; Coint |
+| 46 | Obras de espartaria ou de cestaria. | LEI FEDERAL 9605/1998; DEC FEDERAL 6514/2008; DEC FEDERAL 8772/2018 | Monitoramento | Cofispol; Coint |
+| 47071000 | Papel ou cartão para reciclar (desperdícios e resíduos) - Papel ou cartão, Kraft, crus, ou papel ou cartão, ondulados (canelados\*) | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 47072000 | Papel ou cartão para reciclar (desperdícios e resíduos) - Outro papel ou cartão, obtidos principalmente a partir de pasta química branqueada, não corada na massa " | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 47073000 | Papel ou cartão para reciclar (desperdícios e resíduos) - Papel ou cartão, obtidos principalmente a partir de pasta mecânica (por exemplo, jornais, periódicos e impressos semelhantes) | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 47079000 | Pastas de madeira ou de outras matérias fibrosas celulósicas; papel ou cartão de reciclar (desperdícios e aparas) - Papel ou cartão para reciclar (desperdícios e aparas). - Outros, incluindo os desperdícios e aparas não selecionados | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 63101000 | Selecionados - Trapos, cordéis, cordas e cabos, de matérias têxteis, em forma de desperdícios ou de artigos inutilizados. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 63109000 | Outros - Trapos, cordéis, cordas e cabos, de matérias têxteis, em forma de desperdícios ou de artigos inutilizados. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+
+| 68114000 | (Desperdícios e resíduos) que contenham amianto - Obras de fibrocimento, cimento-celulose ou produtos semelhantes. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| --- | --- | --- | --- | --- |
+| 72041000 | Desperdícios e resíduos, e sucata, de ferro fundido | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 72042900 | Desperdícios e resíduos, e sucata, de ligas de aço - outros | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 73201000 | Molas de folhas e suas folhas | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 73259100 | Esferas e artigos semelhantes, para moinhos | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 73259990 | Outras obras moldadas, de ferro fundido, ferro ou aço - outras - outras | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 73261100 | Esferas e artigos semelhantes, para moinhos | IN Ibama 26/2024 | Monitoramento | Cofispol |
+| 79020000 | Desperdícios e resíduos, e sucata, de zinco. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 80020000 | Desperdícios e resíduos, e sucata, de estanho. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81019700 | Tungstênio (volfrâmio): Outros - Desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81029700 | Molibdênio: Outros - Desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81033000 | Tântalo: Desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81043000 | Magnésio: Aparas, resíduos de torno e grânulos, calibrados; pós | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81053000 | Cobalto: Desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81061000 | Bismuto e suas obras, incluindo os desperdícios e resíduos, e sucata - Que contenham mais de 99,99 %, em peso, de bismuto | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81083000 | Titânio e suas obras, incluindo os desperdícios e resíduos, e sucata. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81089000 | Titânio e suas obras, incluindo os desperdícios e resíduos, e sucata - Outros | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81092100 | Zircônio em formas brutas; pós contendo menos de 1 parte de háfnio a 500 partes de zircônio por peso | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81092900 | Outros - Zircônio em formas brutas; pós | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81093100 | Resíduos e sucata de zircônio contendo menos de 1 parte de háfnio para 500 partes de zircônio em peso. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81093900 | Outros - Desperdícios e resíduos, e sucata - Zircônio e suas obras | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81099100 | Outros artigos de zircônio contendo menos de 1 parte de háfnio a 500 partes de zircônio em peso. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81099900 | Outros - Zircônio e suas obras, incluindo os desperdícios e resíduos, e sucata. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81110010 | Em formas brutas - Manganês e suas obras, incluindo os desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81110090 | Manganês e suas obras, incluindo os desperdícios e resíduos, e sucata - Outros | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81121300 | Berílio: Desperdícios e resíduos, e sucata | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81123100 | Háfnio (céltio): Em formas brutas; desperdícios e resíduos, e sucata; pós | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81123900 | Háfnio (céltio): Outros - incluindo os desperdícios e resíduos, e sucata. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81124100 | Rênio: Em formas brutas; desperdícios e resíduos, e sucata; pós | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81124900 | Rênio: Outros - incluindo os desperdícios e resíduos, e sucata. | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 81130090 | Cermets e suas obras, incluindo os desperdícios e resíduos, e sucata - Outros | IN Ibama 12/2013 e sucedâneas | Monitoramento | Corem |
+| 85061011 | De tensão igual a 1,5 V, cilíndricas, do tipo LR14 (C) | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061012 | De tensão igual a 1,5 V, cilíndricas, do tipo LR20 (D) | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061019 | Outras | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061020 | Outras pilhas | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061031 | Alcalinas, de tensão igual a 9 V | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061032 | Alcalinas, de tensão igual a 12 V | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85061039 | Outras | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85063010 | Com volume exterior não superior a 300 cm3 | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85063090 | Outras | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85071010 | De capacidade inferior ou igual a 20 Ah e tensão inferior ou igual a 12 V | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85071090 | Outros | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85072010 | De peso inferior ou igual a 1.000 kg | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85072090 | Outros | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85073011 | De capacidade inferior ou igual a 15 Ah | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85073019 | Outros | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |
+| 85073090 | Outros | Resolução Conama nº 401/2008 e suas atualizações | Monitoramento | Corem |

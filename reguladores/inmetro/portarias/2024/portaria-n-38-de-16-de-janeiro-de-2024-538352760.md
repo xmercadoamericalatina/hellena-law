@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 38, DE 16 DE JANEIRO DE 2024"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+tipo: "Portaria"
+numero: "38"
+data: 2024-01-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/01/2024, seção 1, p. 16"
+data_publicacao: 2024-01-19
+edicao: "14"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-38-de-16-de-janeiro-de-2024-538352760"
+sha256_html_fonte: 48f874cae5db4999dc2c2507bd500780a6687bbdfeddc8531e921cca12ebedd6
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 38, DE 16 DE JANEIRO DE 2024
+
+PORTARIA Nº 38, DE 16 DE JANEIRO DE 2024
+
+Renovação de bolsa no âmbito do Subprograma Pesquisa e Desenvolvimento em Infraestrutura da Qualidade, do Programa Nacional de Apoio ao Desenvolvimento da Metrologia, Qualidade e Tecnologia, do Inmetro.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - Inmetro, no uso de suas atribuições, conferidas no § 3º do artigo 4º da Lei nº 5.966, de 11 de dezembro de 1973, o art. 18 da Estrutura Regimental da Autarquia, aprovada pelo Decreto nº 11.221, de 05 de outubro de 2022, e tendo em vista o disposto na Portaria Inmetro nº 302, de 12 de julho de 2023, que estabelece as normas gerais do Programa Nacional de Apoio ao Desenvolvimento da Metrologia, Qualidade e Tecnologia (Pronametro), e considerando o que consta nos processos SEI nº 0052600.010175/2023-64 e 0052600.007959/2022-24, resolve:
+
+**Art. 1º** - Tornar pública a renovação de bolsa concedida no âmbito do Edital 2/2022, por um período de até 12 (doze) meses, a contar de 02/01/2024, conforme disponibilidade orçamentária e financeira, objetivando a continuidade das atividades de pesquisa e desenvolvimento em Infraestrutura da Qualidade, no Inmetro.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>BOLSISTA</p></td>      <td rowspan="1" colspan="1"><p>NÍVEL DA BOLSA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Lilian da Silva</p></td>      <td rowspan="1" colspan="1"><p>DCT-3 100%</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** - Esta Portaria entrará em vigor na data de sua publicação no Diário Oficial da União, retroagindo seus efeitos a 02 de janeiro de 2024.
+
+MARCIO ANDRE OLIVEIRA BRITO

@@ -1,0 +1,86 @@
+---
+titulo: "PORTARIA Nº 186, DE 5 DE MAIO DE 2023"
+orgao: "Ministério da Educação/Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira"
+tipo: "Portaria"
+numero: "186"
+data: 2023-05-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/05/2023, seção 1, p. 13"
+data_publicacao: 2023-05-08
+edicao: "86"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-186-de-5-de-maio-de-2023-481512027"
+sha256_html_fonte: 0beb169d0d80c5428ed5bdc4684277a9c59befce38759071355e0b3db0520ea7
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 186, DE 5 DE MAIO DE 2023
+
+PORTARIA Nº 186, DE 5 DE MAIO DE 2023
+
+Altera o cronograma da Portaria nº 139, de 30 de março de 2023, que dispõe sobre as transferências de recursos aos Estados e ao Distrito Federal para realização das atividades do Censo Escolar da Educação Básica nos anos letivos de 2023 e 2024.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA, no uso de suas atribuições definidas no art. 16, inc. VI e VIII, do Decreto nº 11.204, de 21 de setembro de 2022, e considerando os termos do Decreto nº 6.425 de 4 de abril de 2008, da Portaria MEC nº 316, de 4 de abril de 2007, e da Portaria Interministerial nº 424, de 30 de dezembro de 2016, resolve:
+
+"Art. 1º A Portaria nº 139,de 30 de março de 2023, passa a vigorar com as seguintes alterações:
+
+**Art. 1º** ....................................................................................................................
+
+**Art. 2º** ....................................................................................................................
+
+I - ...........................................................................................................................
+
+II - ..........................................................................................................................
+
+III - .........................................................................................................................
+
+IV - .........................................................................................................................
+
+**Art. 3º** ....................................................................................................................
+
+**Art. 4º** ....................................................................................................................
+
+**Art. 5º** ....................................................................................................................
+
+**Art. 6º** ....................................................................................................................
+
+**Art. 7º** ....................................................................................................................
+
+**Art. 8º** ....................................................................................................................
+
+I - ...........................................................................................................................
+
+II - ..........................................................................................................................
+
+III - .........................................................................................................................
+
+IV - .........................................................................................................................
+
+V - ..........................................................................................................................
+
+VI - .........................................................................................................................
+
+VII - ........................................................................................................................
+
+VIII - .......................................................................................................................
+
+IX - .........................................................................................................................
+
+X - ..........................................................................................................................
+
+XI - .........................................................................................................................
+
+**§ 1º** .......................................................................................................................
+
+**§ 2º** .......................................................................................................................
+
+**§ 3º** .......................................................................................................................
+
+**Art. 9** O concedente, na ocasião do recebimento da proposta, fará a devida análise por meio do Transferegov.br, conforme o cronograma a seguir:". (NR)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>AÇÃO</p></td>      <td rowspan="1" colspan="1"><p>RESPONSÁVEL</p></td>      <td rowspan="1" colspan="1"><p>PRAZOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Divulgação do Programa no Transferegov.br</p></td>      <td rowspan="1" colspan="1"><p>Concedente</p></td>      <td rowspan="1" colspan="1"><p>Até 60 (sessenta) dias após a publicação da Lei n° 14.535, de 17 de Janeiro de 2023.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Envio da Proposta, Plano de Trabalho, Projeto de execução e Projeto Básico/Termo de Referência, se for o caso</p></td>      <td rowspan="1" colspan="1"><p>Proponente</p></td>      <td rowspan="1" colspan="1"><p>De 8 de maio a 11 de maio de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1ª Análise</p></td>      <td rowspan="1" colspan="1"><p>Concedente</p></td>      <td rowspan="1" colspan="1"><p>Até 16 de maio de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1ª complementação</p></td>      <td rowspan="1" colspan="1"><p>Proponente</p></td>      <td rowspan="1" colspan="1"><p>Até 19 de maio de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2ª análise</p></td>      <td rowspan="1" colspan="1"><p>Concedente</p></td>      <td rowspan="1" colspan="1"><p>Até 24 de maio de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2ª complementação</p></td>      <td rowspan="1" colspan="1"><p>Proponente</p></td>      <td rowspan="1" colspan="1"><p>Até 31 de maio de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3ª análise</p></td>      <td rowspan="1" colspan="1"><p>Concedente</p></td>      <td rowspan="1" colspan="1"><p>Até 07 de junho de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3ª complementação</p></td>      <td rowspan="1" colspan="1"><p>Proponente</p></td>      <td rowspan="1" colspan="1"><p>Até 15 de junho de 2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Aprovação/Rejeição</p></td>      <td rowspan="1" colspan="1"><p>Concedente</p></td>      <td rowspan="1" colspan="1"><p>Até 22 de junho de 2023</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** O cronograma disposto no art. 9º é exclusivo para atender à solicitação do Ofício nº 10, de 2023, da Secretaria de Educação do Estado de São Paulo, conforme Processo 23036.010630/2022-02.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MANUEL FERNANDO PALACIOS DA CUNHA E MELO

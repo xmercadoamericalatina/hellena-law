@@ -1,0 +1,31 @@
+---
+titulo: "RESOLUÇÃO SUDECO Nº 335, DE 30 DE SETEMBRO DE 2026"
+orgao: "Ministério da Integração e do Desenvolvimento Regional/Superintendência do Desenvolvimento do Centro-Oeste"
+tipo: "Resolução"
+numero: "335"
+data: 2026-09-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/10/2026, seção 1, p. 56"
+data_publicacao: 2026-10-02
+edicao: "187"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-sudeco-n-335-de-30-de-setembro-de-2026-736044115"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO SUDECO Nº 335, DE 30 DE SETEMBRO DE 2026
+
+RESOLUÇÃO SUDECO Nº 335, DE 30 DE SETEMBRO DE 2026
+
+Revoga a participação do Fundo de Desenvolvimento do Centro-Oeste - FDCO no projeto da empresa UFV Mangaba Geração de Energia SPE Ltda., CNPJ nº 58.096.846/0001-57.
+
+A SUPERINTENDENTE DA SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO CENTRO-OESTE - SUDECO, no uso das atribuições que lhe confere o §1º do art. 5º e incisos I, III e VIII do art. 13 do Anexo I ao Decreto n.º 11.057, de 29 de abril de 2022, torna público que a Diretoria Colegiada, em sessão de sua 152ª Reunião Ordinária, realizada no dia 29 de setembro de 2026, resolve:
+
+**Art. 1º** Revogar a participação do Fundo de Desenvolvimento do Centro-Oeste - FDCO no projeto da empresa UFV Mangaba Geração de Energia SPE Ltda, CNPJ nº 58.096.846/0001-57, que objetivava a implantação de uma usina de geração de energia fotovoltaica com capacidade instalada de até 30,4 MW, que uma vez concluída, injetará aproximadamente 8,8 MW médios no Sistema Integrado Nacional- SIN, no município de Vila Propício, no Estado de Goiás.
+
+**Art. 2º** Esclarecer que a participação do FDCO no referido Projeto, no valor de R$ 50.000.000,00 (cinquenta milhões de reais), foi deliberada e aprovada na 144ª Reunião Ordinária da Diretoria Colegiada, ocorrida em 29 de janeiro de 2026, por meio da Resolução Sudeco nº 295, de 29 de janeiro de 2026.
+
+**Art. 3º** Fica revogada a Resolução Sudeco nº 295, de 29 de janeiro de 2026.
+
+**Art. 4º** Esta Resolução entra em vigor na data de sua publicação
+
+LUCIANA DE SOUSA BARROS

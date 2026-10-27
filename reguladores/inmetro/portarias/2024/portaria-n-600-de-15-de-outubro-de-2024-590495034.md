@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 600, DE 15 DE OUTUBRO DE 2024"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+tipo: "Portaria"
+numero: "600"
+data: 2024-10-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/10/2024, seção 1, p. 67"
+data_publicacao: 2024-10-16
+edicao: "201"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-600-de-15-de-outubro-de-2024-590495034"
+sha256_html_fonte: e5ed495a8e5b522966a9a83496f05c8e69c00b5b020afa5f89dec0fc5a5ca438
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 600, DE 15 DE OUTUBRO DE 2024
+
+PORTARIA Nº 600, DE 15 DE OUTUBRO DE 2024
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, Substituto, no exercício da competência que lhe foi outorgada pelo artigo 4º, § 2º, da Lei n.º 5.966, de 11 de dezembro de 1973, combinado com o disposto nos artigos 18, inciso XI, do Anexo I ao Decreto n.º 11.221, de 05 de outubro de 2022, e 105, inciso XI, do Anexo à Portaria n.º 2, de 4 de janeiro de 2017, do então Ministério da Indústria, Comércio Exterior e Serviços, bem como a Lei n.º 9.784, de 29 de janeiro de 1999 e a Portaria Inmetro n.º 436, de 02 de outubro de 2023;
+
+De acordo com o Regulamento Técnico Metrológico para instrumentos de pesagem não automáticos, aprovado pela Portaria Inmetro n.º 157/2022; e
+
+Considerando os elementos constantes do Processo Inmetro n.º 0052600.006930/2023-14, resolve:
+
+Aprovar os modelos da Família MRxxx/A de instrumentos de pesagem não automáticos, classes de exatidão I e II, marca Mettler Toledo, de acordo com as condições de aprovação especificadas, disponível no sítio do Inmetro: http://www.inmetro.gov.br/pam/.
+
+JOÃO NERY RODRIGUES FILHO

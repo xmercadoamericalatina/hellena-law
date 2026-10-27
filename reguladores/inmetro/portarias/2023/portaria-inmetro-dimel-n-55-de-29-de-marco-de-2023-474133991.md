@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA INMETRO/DIMEL Nº 55, DE 29 DE MARÇO DE 2023"
+orgao: "Ministério do Desenvolvimento, Indústria, Comércio e Serviços/Instituto Nacional de Metrologia, Qualidade e Tecnologia/Diretoria de Metrologia Legal"
+tipo: "Portaria"
+numero: "55"
+data: 2023-03-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/03/2023, seção 1, p. 18"
+data_publicacao: 2023-03-31
+edicao: "63"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-inmetro/dimel-n-55-de-29-de-marco-de-2023-474133991"
+sha256_html_fonte: 42848d47434179513a0a4ced6771a527aa08d62e696f1894be4cbb3d8f4a1ae9
+baixado_em: 2026-10-16
+---
+# PORTARIA INMETRO/DIMEL Nº 55, DE 29 DE MARÇO DE 2023
+
+PORTARIA INMETRO/DIMEL Nº 55, DE 29 DE MARÇO DE 2023
+
+O DIRETOR DE METROLOGIA LEGAL DO INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA (INMETRO), no exercício da delegação de competência outorgada por meio da Portaria n.º 257, de 12 de novembro de 1991, conferindo-lhe as atribuições dispostas no subitem 4.1, alínea "b", da regulamentação metrológica aprovada pela Resolução n.º 08, de 22 de dezembro de 2016, do Conmetro;
+
+De acordo com o Regulamento Técnico Metrológico para medidores eletrônicos de energia elétrica, aprovado pelas Portarias Inmetro nº 586/2012 e nº 587/2012; e,
+
+Considerando os elementos constantes do Processo Inmetro n.º 0052600.011071/2022-96, resolve:
+
+Incluir nova configuração de hardware e o item 6 SOFTWARE, na Portaria Inmetro/Dimel n° 130, de 4 de julho de 2019, publicada no D.O.U em 09/07/2019, seção 1, página 30, que aprova o modelo Cronos 6021-NG de medidor eletrônico de energia elétrica, marca Eletra, de acordo com as condições especificadas, disponível no sítio do Inmetro: http://www.inmetro.gov.br/pam/.(Aditivo às Portarias Inmetro/Dimel n.º 130/2019)
+
+MARCELO LUIS FIGUEIREDO MORAIS
