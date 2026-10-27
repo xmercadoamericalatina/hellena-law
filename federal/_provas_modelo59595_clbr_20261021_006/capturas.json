@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://bd.camara.leg.br/bd/items/14a45e46-7b56-4eb6-a847-8979237d8bb5/full",
+    "status": 200,
+    "headers": {
+      "server": "envoy",
+      "date": "Wed, 21 Oct 2026 07:18:55 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "522863",
+      "x-powered-by": "Express",
+      "x-ratelimit-limit": "500",
+      "x-ratelimit-remaining": "498",
+      "x-ratelimit-reset": "1792567168",
+      "link": "<https://bd.camara.leg.br/bd/bitstreams/b6feada9-1bc5-4214-9c90-fd3bd4c77ace/download> ; rel=\"item\" ; type=\"Adobe/PDF\" , <https://bd.camara.leg.br/bd/bitstreams/cbba9912-431c-475a-8eae-9f589772c32b/download> ; rel=\"item\" ; type=\"Adobe/PDF\" , <https://bd.camara.leg.br/bd/bitstreams/48bf40be-3d45-4c32-ad5c-dd5a2d31f231/download> ; rel=\"item\" ; type=\"image/png\" , <https://bd.camara.leg.br/bd/bitstreams/e2c3e541-205d-4568-8dc2-d47dc92e51d7/download> ; rel=\"item\" ; type=\"image/png\" , <https://bd.camara.leg.br/bd/signposting/describedby/14a45e46-7b56-4eb6-a847-8979237d8bb5> ; rel=\"describedby\" ; type=\"application/vnd.datacite.datacite+xml\" , <http://bd.camara.leg.br/bd/handle/bdcamara/19159> ; rel=\"cite-as\" , <https://bd.camara.leg.br/bd/signposting/linksets/14a45e46-7b56-4eb6-a847-8979237d8bb5> ; rel=\"linkset\" ; type=\"application/linkset\" , <https://bd.camara.leg.br/bd/signposting/linksets/14a45e46-7b56-4eb6-a847-8979237d8bb5/json> ; rel=\"linkset\" ; type=\"application/linkset+json\" , <https://schema.org/AboutPage> ; rel=\"type\" , <https://schema.org/CreativeWork> ; rel=\"type\"",
+      "etag": "W/\"7fa6f-Pp+noX8pf9S9hyNwzf2CZx8i0Is\"",
+      "vary": "Accept-Encoding",
+      "x-envoy-upstream-service-time": "535",
+      "connection": "close"
+    },
+    "url_final": "https://bd.camara.leg.br/bd/items/14a45e46-7b56-4eb6-a847-8979237d8bb5/full",
+    "path": "federal/_fonte/auditorias/clbr_modelos_20261021_003/1966-catalogo.html.gz",
+    "sha256": "2cdec2f86ea34efe32b039700c6b04ffb95aacdf6b2180698263f5002fa3f25d",
+    "bytes": 522863
+  },
+  {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/cbba9912-431c-475a-8eae-9f589772c32b/download",
+    "status": 200,
+    "headers": {
+      "server": "envoy",
+      "date": "Wed, 21 Oct 2026 07:18:57 GMT",
+      "content-type": "Adobe/PDF;charset=UTF-8",
+      "content-length": "124337725",
+      "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+      "content-language": "en",
+      "last-modified": "Wed, 12 Nov 2014 18:31:56 GMT",
+      "etag": "\"f1e7c5f36f57112d5697a786aeeefebf\"",
+      "accept-ranges": "bytes",
+      "expires": "Wed, 21 Oct 2026 08:18:57 GMT",
+      "cache-control": "private,no-cache",
+      "access-control-expose-headers": "Accept-Ranges",
+      "content-disposition": "attachment;filename=\"colecao_leis_1966_parte2.pdf\"",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "0",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+      "x-frame-options": "DENY",
+      "x-envoy-upstream-service-time": "38",
+      "connection": "close"
+    },
+    "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/cbba9912-431c-475a-8eae-9f589772c32b/content",
+    "path": "federal/_fonte/auditorias/clbr_modelos_20261021_003/1966.pdf",
+    "sha256": "2f35197dac55ecfb27e61b8717f8b0bbe16cbf10d79e47ca7dad2e59cf85c505",
+    "bytes": 124337725
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "escopo": "Snapshot oficial isolado do ano de 1993 para RRC. Nenhum índice global foi substituído.",
+  "captura": {
+    "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista?tipo=RRC&ano=1993",
+    "status": 200,
+    "consultado_em": "2026-10-20T23:04:42.003965",
+    "sha256_resposta": "2b35181cb3892375c96fba4e513e61263c6a9a929fa7dfe54677be891731bdd8",
+    "registros": 2,
+    "indices_globais_alterados": false
+  },
+  "resposta_oficial": {
+    "ListaDocumento": {
+      "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/ListaDocumentov3.xsd",
+      "Metadados": {
+        "Versao": "20/10/2026 23:04:41",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "documentos": {
+        "documento": [
+          {
+            "id": "589231",
+            "tipo": "RRC",
+            "descricao": "Resolução da Revisão Constitucional",
+            "numero": "2",
+            "norma": "RRC-2-1993-12-07",
+            "normaNome": "Resolução da Revisão Constitucional nº 2 de 07/12/1993",
+            "ementa": "PRORROGA PRAZOS PREVISTOS NOS ARTIGOS 4, CAPUT, E 6 DA RESOLUÇÃO 1, DE 1993 - RCF.",
+            "dataassinatura": "07/12/1993",
+            "anoassinatura": "1993",
+            "apelido": "RRC-2-1993-12-07"
+          },
+          {
+            "id": "589229",
+            "tipo": "RRC",
+            "descricao": "Resolução da Revisão Constitucional",
+            "numero": "1",
+            "norma": "RRC-1-1993-11-18",
+            "normaNome": "Resolução da Revisão Constitucional nº 1 de 18/11/1993",
+            "ementa": "DISPÕE SOBRE O FUNCIONAMENTO DOS TRABALHOS DE REVISÃO CONSTITUCIONAL E ESTABELECE NORMAS COMPLEMENTARES ESPECIFICAS.",
+            "dataassinatura": "18/11/1993",
+            "anoassinatura": "1993",
+            "apelido": "RRC-1-1993-11-18"
+          }
+        ]
+      }
+    }
+  },
+  "sha256_resposta_bruta": "2b35181cb3892375c96fba4e513e61263c6a9a929fa7dfe54677be891731bdd8",
+  "fundamento_recorte": "A série RRC contém duas normas oficiais de 1993. O início da coleta em 1994 omitia esses registros."
+}

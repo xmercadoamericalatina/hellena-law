@@ -1,0 +1,45 @@
+{
+  "109738:63": {
+    "urn": "urn:lex:br:senado.federal:resolucao:2022-04-20;10",
+    "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=109738&download=true",
+    "sha256_pdf": "2d1340ad6a8d049234ec904d73a8bfcec612bf9760a338b67d9835d9425b1e07",
+    "pagina": 63,
+    "sha256_extracao_original": "87456c243c2e8e0e68ed774ea3575db3b03093a70ddad12db454f20dfffbb929",
+    "sha256_render_conferido": "eb67a6b355e60d36cbe55b5b751cae4bc4d37b8d0edbad27d8296d2550c4bfd8",
+    "metodo": "Transcrição literal integral conferida visualmente em render2400px do PDF oficial. Número manuscrito10/11 e fecho manuscrito20deabril2022 são legíveis; nome impressoSenadorRodrigoPacheco e assinatura visual presentes. Sem inferir caracteres pelo índice. Ortografia/palavras mantidas; quebras normalizadas.",
+    "comando_render": "rtk proxy pdftoppm -f 63 -singlefile -scale-to 2400 -png ORIGINAL.pdf SAIDA",
+    "texto_verificado": "Faço saber que o Senado Federal aprovou, e eu, Rodrigo Pacheco, Presidente, nos termos do art. 48, inciso XXVIII, do Regimento Interno, promulgo a seguinte\n\nRESOLUÇÃO Nº 10, DE 2022\n\nDenomina “Repórter Fotográfico Orlando Brito” a tribuna de imprensa do Plenário do Senado Federal.\n\nO Senado Federal resolve:\n\nArt. 1º A tribuna de imprensa situada no Plenário do Senado Federal passa a denominar-se “Repórter Fotográfico Orlando Brito”.\n\nArt. 2º Esta Resolução entra em vigor na data de sua publicação.\n\nSenado Federal, em 20 de abril de 2022.\n\nSenador Rodrigo Pacheco\nPresidente do Senado Federal"
+  },
+  "109738:64": {
+    "urn": "urn:lex:br:senado.federal:resolucao:2022-04-20;11",
+    "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=109738&download=true",
+    "sha256_pdf": "2d1340ad6a8d049234ec904d73a8bfcec612bf9760a338b67d9835d9425b1e07",
+    "pagina": 64,
+    "sha256_extracao_original": "761541967d1f61f4cf39bfeaf7b5839e071afc67018d533545cd22f9008cb3e3",
+    "sha256_render_conferido": "f30a650c1a13e39dc732290fb4e27e89e1dd3d82182a26abef4887000d6c3ffb",
+    "metodo": "Transcrição literal integral conferida visualmente em render2400px do PDF oficial. Número manuscrito10/11 e fecho manuscrito20deabril2022 são legíveis; nome impressoSenadorRodrigoPacheco e assinatura visual presentes. Sem inferir caracteres pelo índice. Ortografia/palavras mantidas; quebras normalizadas.",
+    "comando_render": "rtk proxy pdftoppm -f 64 -singlefile -scale-to 2400 -png ORIGINAL.pdf SAIDA",
+    "texto_verificado": "Faço saber que o Senado Federal aprovou, e eu, Rodrigo Pacheco, Presidente, nos termos do art. 48, inciso XXVIII, do Regimento Interno, promulgo a seguinte\n\nRESOLUÇÃO Nº 11, DE 2022\n\nDenomina “Estúdio Carlos Alberto Pereira” o estúdio da TV Senado situado no Salão Azul.\n\nO Senado Federal resolve:\n\nArt. 1º O estúdio da TV Senado situado no Salão Azul, ao lado da Sala Senador Luiz Henrique da Silveira, passa a denominar-se “Estúdio Carlos Alberto Pereira”.\n\nArt. 2º Esta Resolução entra em vigor na data de sua publicação.\n\nSenado Federal, em 20 de abril de 2022.\n\nSenador Rodrigo Pacheco\nPresidente do Senado Federal"
+  },
+  "109732:78": {
+    "urn": "urn:lex:br:senado.federal:resolucao:2022-04-13;5",
+    "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=109732&download=true",
+    "sha256_pdf": "2ba39fbaafab7e582ee94ea06ed9cdb14969f286d1f3f55fafdb93696f1bab06",
+    "pagina": 78,
+    "pagina_final": 79,
+    "sha256_extracao_original": "45bfc7491015b87aae65ac36a791915bb8fdea104c2c7746564e83fab9714a8f",
+    "renders_conferidos": [
+      {
+        "pagina": 78,
+        "sha256_render": "49725696c9adb5416001835a184cb8f10dd1e03202adc9c36e95b1a1b96542d5"
+      },
+      {
+        "pagina": 79,
+        "sha256_render": "961c79c3001687de180b0200294c7e2623c370640df1f2d3aafbd131eb1e25d4"
+      }
+    ],
+    "metodo": "Transcrição literal integral das duas páginas conferida visualmente em render2400px. Número5 e data13deabril2022manuscritos inequívocos; assinatura e nomeimpressoRodrigoPacheco presentes. Textoarts1–6 eparágrafos íntegro; apenasquebras/realces normalizados.",
+    "comando_render": "rtk proxy pdftoppm -f78 -l79 -scale-to2400 -png ORIGINAL.pdf SAIDA",
+    "texto_verificado": "Faço saber que o Senado Federal aprovou, e eu, Rodrigo Pacheco, Presidente, nos termos do art. 48, inciso XXVIII, do Regimento Interno, promulgo a seguinte\n\nRESOLUÇÃO Nº 5, DE 2022\n\nInstitui, no âmbito da Comissão de Agricultura e Reforma Agrária (CRA), a Medalha Inovação no Campo.\n\nO Senado Federal resolve:\n\nArt. 1º É instituída, no âmbito da Comissão de Agricultura e Reforma Agrária (CRA), a Medalha Inovação no Campo, destinada a agraciar projetos tecnológicos e inovadores que visem ao desenvolvimento da agricultura e da pecuária.\n\nArt. 2º A Medalha, acompanhada da concessão de diploma de menção honrosa, será concedida anualmente pela Comissão de Agricultura e Reforma Agrária a até 3 (três) projetos, durante reunião especialmente convocada para esse fim.\n\nArt. 3º A indicação de projetos, acompanhada da respectiva justificativa, será realizada por qualquer Senador ou Senadora da República.\n\nArt. 4º Para proceder à apreciação das indicações e à escolha dos projetos agraciados, será constituído o Conselho da Medalha Inovação no Campo, composto por 5 (cinco) Senadores com assento na Comissão de Agricultura e Reforma Agrária, escolhidos pelos demais, sob a presidência de um de seus membros, além de representantes de instituições da sociedade civil que trabalhem com a temática da inovação na área rural, convidados na forma de regulamento.\n\n§ 1º A composição do Conselho a que se refere o caput será renovada a cada 2 (dois) anos, entre os meses de fevereiro e março da primeira sessão legislativa ordinária e da terceira sessão legislativa ordinária de cada legislatura, permitida a recondução de seus membros.\n\n§ 2º O Conselho elaborará o regulamento e definirá, a cada ano, as datas de recebimento das indicações e de premiação dos projetos agraciados.\n\nArt. 5º Uma vez escolhidos os projetos agraciados, esses serão amplamente divulgados pelos meios de comunicação do Senado Federal, em reunião da Comissão de Agricultura e Reforma Agrária e em sessão plenária, com ênfase nas boas práticas que os levaram a ser reconhecidos como projetos inovadores no campo.\n\nArt. 6º Esta Resolução entra em vigor na data de sua publicação.\n\nSenado Federal, em 13 de abril de 2022.\n\nSenador Rodrigo Pacheco\nPresidente do Senado Federal"
+  }
+}

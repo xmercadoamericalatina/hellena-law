@@ -1,0 +1,1557 @@
+{
+  "escopo": "Revisão contextual somente leitura de84 normas selecionadas por124 trechos. Julga apenas omissão de anexo/conteúdo externo na transcrição local; não afirma inexistência da norma ou documento externo nem atesta vigência/identidade global. Nenhum MD, fonte ou script de reguladores foi alterado.",
+  "resumo": {
+    "anexo_externo_ausente": 43,
+    "falso_positivo": 11,
+    "integra_no_quesito_anexo": 30
+  },
+  "equacao": "84 = 43 com anexo/conteúdo próprio externo ausente +30 com anexo reproduzido +11 falsos positivos do scan",
+  "registros": [
+    {
+      "path": "reguladores/antt/portarias/2024/portaria-n-13-de-13-de-marco-de-2024-549320517.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "e93968fde468859693bd616b73c887fefb6b90837ac7ccf356e23a32dd523db5",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-13-de-13-de-marco-de-2024-549320517",
+      "hash_fonte_declarado_no_cabecalho": "37471f8db4dca4070a10f1e7482674499afaf3ef78db00c1e2decadb39e584af",
+      "evidencias_textuais": [
+        "**Art. 1º** Aprovar o Plano Anual de Fiscalização Econômico-Financeira 2024, aplicável às Concessionárias do Serviço Público de Exploração da Infraestrutura Rodoviária Federal, na forma do Anexo, disponível no sítio eletrônico da ANTT."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/antt/portarias/2024/portaria-n-3-de-16-de-fevereiro-de-2024-545423014.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "6ef30c3932efe1a2ed36acd2eb930c2d16af977572c96d76e77468cc8f61dc9a",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-3-de-16-de-fevereiro-de-2024-545423014",
+      "hash_fonte_declarado_no_cabecalho": "e96fc7e960f2b19e4d011914ac713de9b724fb1bb922b36a7aa02bf5e1ae7959",
+      "evidencias_textuais": [
+        "**Art. 1º** Aprovar o Plano Anual de Fiscalização da Superintendência de Transporte Ferroviário - SUFER para o exercício de 2024, consubstanciado nos seguintes documentos, todos disponíveis no sítio eletrônico da ANTT:"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "I - Anexos A e B, referentes à Gerência de Controle e Fiscalização de Infraestrutura e Serviços - GECOF/SUFER; e",
+        "II - Anexo C, referente à Gerência de Fiscalização Econômico-Financeira - GEFEF/SUFER."
+      ],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/antt/deliberacoes/2024/deliberacao-n-374-de-3-de-outubro-de-2024-588377584.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "9206f5eca1224b96e8545e2871910ac0fd9572d1f79823bbf82c3cb87fd3e3fd",
+      "fonte": "https://www.in.gov.br/web/dou/-/deliberacao-n-374-de-3-de-outubro-de-2024-588377584",
+      "hash_fonte_declarado_no_cabecalho": "bb96a5fb3769816a78b2246d7f7689f8e2bc5cbed299820b1a23590b0c8274ef",
+      "evidencias_textuais": [
+        "**Art. 2º** Alterar o anexo da Deliberação nº 257, de 1º de setembro de 2022, publicada no Diário Oficial da União (DOU) de 2 de setembro de 2022, Seção 1, que será disponibilizado no sitio eletrônico da ANTT, para que passe a constar a nova minuta de Contrato de Adesão de que trata o art. 1º desta Deliberação."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/antt/portarias/2024/portaria-n-12-de-11-de-dezembro-de-2024-603289824.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "fd11573ff2670d0e4eadc10c368840a02b06ba6d110ea9358c89caf291e9726e",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-12-de-11-de-dezembro-de-2024-603289824",
+      "hash_fonte_declarado_no_cabecalho": "4deba82b3189e9996426ce19081447452d95b50a35b0d62849d33edc1c17569c",
+      "evidencias_textuais": [
+        "**Art. 2º** Alterar os Anexos I e II da Portaria nº 10, de 12 de janeiro de 2021, que serão disponibilizados no sítio eletrônico da ANTT."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-42-de-14-de-maio-de-2024-560745651.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "db754e487534d4c7180ed86046377bc4b85fd369adeb78053c7062ef3c7715ab",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-cegov/inss-n-42-de-14-de-maio-de-2024-560745651",
+      "hash_fonte_declarado_no_cabecalho": "5054b185abb4c1ff104d84228db61a2b01d8d5b1817c18facf0971ba74f0f3f1",
+      "evidencias_textuais": [
+        "**Art. 1º** O Anexo da Resolução CEGOV/INSS nº 37, de 28 de dezembro de 2023, publicada no Diário Oficial da União de 29 de dezembro de 2023, passa vigorar na forma do Anexo a esta Resolução.",
+        "**Parágrafo único.** O Anexo desta Resolução será publicado no Boletim de Serviço Eletrônico e disponibilizado no Portal do INSS."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera o Anexo da Resolução CEGOV/INSS nº 37, de 28 de dezembro de 2023, que aprova o Plano de Ação do INSS para o exercício de 2024."
+      ],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/mte/resolucoes/2024/resolucao-ccfgts-n-1.087-de-26-de-marco-de-2024-550372334.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Recursos disponíveis do FUNDO” trata de desembolso. A alteração da redação do anexo de resolução anterior está transcrita; não anuncia anexo próprio externo.",
+      "sha256_md": "59df782f4b5a5012ea85c1a518425384852496d32d3ed49714c6002d0fbe3abe",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-ccfgts-n-1.087-de-26-de-marco-de-2024-550372334",
+      "hash_fonte_declarado_no_cabecalho": "09167468ce4b73e973c8811e2926816a77e8ae4dd2fe8402252da8c93086b23b",
+      "evidencias_textuais": [
+        "**§ 5º** Fica autorizado o desembolso de recursos disponíveis do FUNDO para fazer frente às necessidades de capital usuais de manutenção, como despesas, custos e demais obrigações, já estabelecidos nos instrumentos e documentos vinculados aos investimentos realizados pelo FUNDO.\" (AC)"
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": " de recursos disponíveis do FUNDO para fazer frente às necessidades de capital usuais de manutenção, como despesas, custos e demais obrigações, já estabelecidos nos instrumentos e documentos vinculados aos investimentos realizados pelo FUNDO.\" (AC) **Art. 2º** Alterar a Resolução nº 1.078, de 28 de novembro de 2023, que passa a vigorar com a redação: \" Art. 9º (...) (...) h) apresentar o pagamento das despesas, custos e demais obrigações, já estabelecidos nos instrumentos e documentos vinculados aos investimentos; i) as demais informações relevantes de que tratam outras Resoluções.\" (NR) **Art. 3º** Esta Resolução entra em vigor no dia 3 de abril de 2024. LUIZ MARINHO Presidente do Conselho "
+    },
+    {
+      "path": "reguladores/ans/instrucoes-normativas/2024/instrucao-normativa-in-n-293-de-2-de-maio-de-2024-557722209.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A inclusão da nova monografia C89-CINMETILINA é aprovada e seu conteúdo é remetido ao portal da ANVISA. A monografia não integra a transcrição. O caminho está em ans, mas o órgão emissor no texto é ANVISA; nenhuma correção de metadados foi feita.",
+      "sha256_md": "15e0d86f65ece6685169fdf3ba8cc952ecf4e6b7d20c46cc65a01d2498dc2808",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-in-n-293-de-2-de-maio-de-2024-557722209",
+      "hash_fonte_declarado_no_cabecalho": "73ff7e41fad610677181b8f12f64e7e76b086c60d754e2fe502a6509f6bc6761",
+      "evidencias_textuais": [
+        "Dispõe sobre Inclusão da Monografia do ingrediente ativo C89 - CINMETILINA na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+        "**Art. 1º** Determinar a inclusão da monografia do ingrediente ativo C89 - CINMETILINA no Anexo da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+        "**Art.2º** Disponibilizar o conteúdo da referida monografia no endereço eletrônico: https://www.gov.br/anvisa/pt-br/setorregulado/regularizacao/agrotoxicos/monografias/monografias-autorizadas-por-letra"
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/cnmp/portarias/2024/portaria-cnmp-presi-n-239-de-1-de-agosto-de-2024-576308855.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Valores indisponíveis” é rubrica orçamentária. O Anexo com órgão e valor está reproduzido em tabela; não existe remissão externa no trecho.",
+      "sha256_md": "4d52770248594d762cc0aedd51782b28e354a8a98b830b14ad343e24e982b3d2",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-cnmp-presi-n-239-de-1-de-agosto-de-2024-576308855",
+      "hash_fonte_declarado_no_cabecalho": "adeeccf39d67baad24782863bdc1451a1471da076f3059fae8a22baf9874b63f",
+      "evidencias_textuais": [
+        "Valores Indisponíveis para Empenho e Movimentação Financeira"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": " de dezembro de 2023, bem como o que consta do Processo Administrativo nº 19.00.6400.0000845/2024-18, resolve: **Art. 1º** Ficam contidos, conforme Anexo desta Portaria, os valores para emissão de empenho e movimentação financeira de Outras Despesas Correntes e de Capital, constantes da Lei nº 14.822, de 22 de janeiro de 2024 (LOA 2024), no montante de R$ 5.444,00 (cinco mil, quatrocentos e quarenta e quatro reais). **Art. 2º** Esta Portaria entrará em vigor na data da sua publicação. PAULO GUSTAVO GONET BRANCO ## ANEXO Valores Indisponíveis para Empenho e Movimentação Financeira Outras Despesas Correntes e de Capital R$ 1,00 Órgão Valor 59000 - Conselho Nacional do Ministério Público 5.444 "
+    },
+    {
+      "path": "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-41-de-3-de-maio-de-2024-558187221.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "e4c021ee6158fe657f90f49870463627e8909204dfc0f218a0e41fe73cc57669",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-cegov/inss-n-41-de-3-de-maio-de-2024-558187221",
+      "hash_fonte_declarado_no_cabecalho": "8eebbd2ffe9e2ed1bdaf9580e3bb25dbc14c6bd7b697f84bde7d0dacd352c887",
+      "evidencias_textuais": [
+        "**Art. 2º** O Anexo a esta Resolução será publicado no Boletim de Serviço Eletrônico e divulgado no Portal do INSS."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/antt/deliberacoes/2024/deliberacao-n-554-de-19-de-dezembro-de-2024-603312848.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "ad2aee83cb988d07bfae4057588dd059b0298243409c9be65a0fe38e1245aefc",
+      "fonte": "https://www.in.gov.br/web/dou/-/deliberacao-n-554-de-19-de-dezembro-de-2024-603312848",
+      "hash_fonte_declarado_no_cabecalho": "8188a7a5faa8578bd4527409c9a30fb1de8660c5468b3afaf9c726c16bf0397c",
+      "evidencias_textuais": [
+        "**Parágrafo único.** Determinar, conforme o § 3º do art. 30 da Resolução nº 6.020, de 20 de julho de 2023, a divulgação do Relatório Final da Audiência Pública nº 07/2024 no sítio eletrônico da ANTT.",
+        "**Art. 2º** Aprovar os termos das minutas de Edital, Contrato de Autorização e Caderno de Obrigações para outorga de autorização, mediante chamamento público, visando a exploração indireta de ferrovias federais, conforme a documentação acostada aos autos do processo nº 50500.153595/2024-18, na forma dos anexos a esta Deliberação que serão disponibilizados no sitio eletrônico da ANTT."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-596-de-16-de-janeiro-de-2024-538091453.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "94bf7f2887ce3b9c63090d0c03cf5b4644fdc651f056e2c513eeddda6d7264c9",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-596-de-16-de-janeiro-de-2024-538091453",
+      "hash_fonte_declarado_no_cabecalho": "6dc3724b8bc52093a3d4b50c8aabbe9d26074681f46142f16f108b3a0033f37f",
+      "evidencias_textuais": [
+        "**Art. 3°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "T-CT ONCOLÓGICO (COM DIRETRIZ DE UTILIZAÇÃO), para estabelecer a cobertura obrigatória para o estadiamento de pacientes portadores de câncer pulmonar de células pequenas. **Art. 3°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans). **Art. 4º** Esta Resolução entra em vigor em 22 de janeiro de 2024. PAULO ROBERTO REBELLO FILHO Diretor-Presidente ANEXO I À MINUTA DE NORMA ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021 60\\. PET-CT ONCOLÓGICO (...) 10\\. Cobertura obrigatória de PET-CT Oncológico para pacientes portadores de câncer pulmonar de células pequenas (CPCP), comprovado por biópsia, no estadiamento do câncer. "
+    },
+    {
+      "path": "reguladores/antt/deliberacoes/2024/deliberacao-n-160-de-14-de-junho-de-2024-567496564.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Se disponíveis” qualifica manuais/termos de garantia de equipamentos da concessionária. As alterações dos AnexosI eII da deliberação anterior estão reproduzidas; não se trata de anexo próprio ausente.",
+      "sha256_md": "6fd13bb592c9b476a2fd00ca98be4632d6733e6ecbaf968681c6abfa349f10c6",
+      "fonte": "https://www.in.gov.br/web/dou/-/deliberacao-n-160-de-14-de-junho-de-2024-567496564",
+      "hash_fonte_declarado_no_cabecalho": "8e6416399bdb551b9fdc66ebc67741678515c8ef95540b9be746dc4999181a64",
+      "evidencias_textuais": [
+        "3.3.3.2 Nota Fiscal e, sempre que possível, identificação do fabricante; capacidade nominal de produção e capacidade real de produção, para equipamentos de via e de produção de transporte; vida útil total, vida útil remanescente e conforme registros contábeis da Concessionária; e, se disponíveis, manual de instruções e termo de garantia; e"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "\"ANEXO I",
+        "\"ANEXO II"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "rado o reequilíbrio econômico-financeiro do Contrato de Concessão. 2.11-A O reequilíbrio econômico-financeiro do Contrato de Concessão não abarcará o agravamento de passivos demonstrados como anteriores ao início da vigência do Contrato de Concessão Original, em decorrência do não cumprimento de obrigações por parte da Concessionária. ... 2.13.6. Por ocasião da comprovação do cumprimento desse plano, os passivos serão considerados saneados, e não serão objeto de reequilíbrio econômico-financeiro do Contrato de Concessão, ressalvado o disposto no item 2.11 desta Deliberação; ...\" (NR) **Art. 2º** Esta Deliberação entra em vigor na data de sua publicação. RAFAEL VITALE RODRIGUES Diretor-Geral "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-600-de-6-de-marco-de-2024-547025779.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "f0f4c29541a056380dca34bc732068a0e73c3d5ee74371640e874112aa27b7fe",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-600-de-6-de-marco-de-2024-547025779",
+      "hash_fonte_declarado_no_cabecalho": "c2231bf4fffce624bb23b88c29bb8f08829fff951864b8505104bbe3b6b6ff38",
+      "evidencias_textuais": [
+        "**Art. 3°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "IÁLISE PERITONEAL AUTOMÁTICA (DPA)\". **Art. 2°** O Anexo I da RN nº 465, de 24 de fevereiro de 2021, passa a vigorar acrescido do procedimento \"DIÁLISE PERITONEAL AUTOMÁTICA (DPA)\". **Art. 3°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans). **Art. 4º** Esta Resolução entra em vigor em 1º de abril de 2024. PAULO ROBERTO REBELLO FILHO Diretor-Presidente ANEXO I À MINUTA DE NORMA ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021 PROCEDIMENTO SUBGRUPO GRUPO CAPÍTULO OD AMB HCO HSO REF PAC DUT DIÁLISE PERITONEAL AUTOMÁTICA (DPA) PERITÔNIO SISTEMA DIGESTIVO E ANEXOS PROCEDIMENTOS CIRÚRGICOS E INVASIVOS AMB HCO HSO REF PAC "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-605-de-4-de-junho-de-2024-564244369.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "6d82845ca18b629a12de0c30c6d241a3ae974e4a150da0c9912eb2327fcd2004",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-605-de-4-de-junho-de-2024-564244369",
+      "hash_fonte_declarado_no_cabecalho": "c0c97a22a365bb1988ad20540689eafc007aaa3abe3aaab06274c49dfc9bd7ad",
+      "evidencias_textuais": [
+        "**Art. 3º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "apia neoadjuvante ou adjuvante, conforme Anexo desta Resolução. **Art. 3º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans). **Art. 4º** Esta Resolução entra em vigor no dia 01 de julho de 2024. PAULO ROBERTO REBELLO FILHO Diretor-Presidente ## ANEXO ANEXO I À MINUTA DE NORMA ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021 64\\. TERAPIA ANTINEOPLÁSICA ORAL PARA TRATAMENTO DO CÂNCER SUBSTÂNCIA LOCALIZAÇÃO INDICAÇÃO Olaparibe Mama Tratamento adjuvante de pacientes adultos com câncer de mama inicial de alto risco HER2 negativo, com mutação BRCA, que foram previamente tratados com quimioterapia neoadjuvante ou adjuvante "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-618-de-4-de-novembro-de-2024-594601681.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "847882464ed0ae498089bcb9ea3e2ed4fe34f80f83e7f4c0f72986a8751132b8",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-618-de-4-de-novembro-de-2024-594601681",
+      "hash_fonte_declarado_no_cabecalho": "5b056b59e01c12ab7a4c6f2f696b32047d2a8c1b7e5a6802802a864837ef3cb5",
+      "evidencias_textuais": [
+        "**Art. 3º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "ta Resolução. **Art. 3º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans). **Art. 4º** Esta Resolução entra em vigor no dia 02 de dezembro de 2024. PAULO ROBERTO REBELLO FILHO Diretor-Presidente ANEXO I À MINUTA DE NORMA ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021 64\\. TERAPIA ANTINEOPLÁSICA ORAL PARA TRATAMENTO DO CÂNCER SUBSTÂNCIA LOCALIZAÇÃO INDICAÇÃO Asciminibe LMC - Leucemia Mielocítica (mielóide, mielógena, granulocítica) Crônica Adultos com leucemia mieloide crônica cromossomo Philadelphia positivo (LMC Ph+) em fase crônica (FC), previamente tratados com dois ou mais inibidores da tirosina quinase (ITQ). "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-599-de-26-de-fevereiro-de-2024-545338544.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "027cac9afb59a7a8c8b6c5d3f33ef291616a2ed1a83023c3546429cc512430ae",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-599-de-26-de-fevereiro-de-2024-545338544",
+      "hash_fonte_declarado_no_cabecalho": "cc268ecdc01ac304b50648d78270d7666f111775254cc35eb40116240066a3fc",
+      "evidencias_textuais": [
+        "**Art. 4º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "arço de 2024. PAULO ROBERTO REBELLO FILHO Diretor-Presidente ## ANEXO ANEXO I À MINUTA DE NORMA ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021 PROCEDIMENTO SUBGRUPO GRUPO CAPÍTULO OD AMB HCO HSO REF PAC DUT TERAPIA PARA DOENÇA DE FABRY CLÁSSICA (COM DIRETRIZ DE UTILIZAÇÃO) TERAPÊUTICA PROCEDIMENTOS CLÍNICOS AMBULATORIAIS E HOSPITALARES PROCEDIMENTOS CLÍNICOS AMBULATORIAIS E HOSPITALARES AMB HCO HSO REF PAC 161 ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021 161\\. TERAPIA PARA DOENÇA DE FABRY CLÁSSICA 1\\. Cobertura obrigatória do medicamento Alfagalsidase em pacientes com sete anos de idade ou mais. 2\\. Cobertura obrigatória do medicamento Beta-agalsidase em pacientes com oito anos de idade ou mais. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-606-de-14-de-junho-de-2024-566233279.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "6e1c82a8d34ff4bf2b8ec537d8d6588db4579ecb3ab2d1cf516dfe0d1b190ca0",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-606-de-14-de-junho-de-2024-566233279",
+      "hash_fonte_declarado_no_cabecalho": "90bf1bc9a9c6a08fd75aab17ac8d62b1d2a99fcd4680737bf54493a22d52c77e",
+      "evidencias_textuais": [
+        "**Art. 4°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMAANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "ependente do padrão (paroxístico, persistente ou permanente), com risco moderado a alto de acidente vascular cerebral (AVC) mensurado pelo score CHA(2)DS(2)-VASc > = 2, e na presença de contraindicação\\* permanente e irreversível à anticoagulação de longo prazo com varfarina e/ou anticoagulantes orais diretos (DOAC), atestado por pelo menos duas das seguintes especialidades médicas: hematologia, neurologia e cardiologia. \\*Contraindicação entendida como uma das seguintes condições: sangramento grave devido a causa não reversível; sangramento prévio de causa não reversível ou relacionado ao uso de diferentes classes de anticoagulantes e sangramento espontâneo intracraniano ou intravertebral. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-607-de-14-de-junho-de-2024-566201057.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "a02094766d0025258387b37bf743028422d46ae75855264edf721356ce9ff145",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-607-de-14-de-junho-de-2024-566201057",
+      "hash_fonte_declarado_no_cabecalho": "0a40766d7061ff3680d7e5d156e3017cf3a504c014f56cf6191be97db1cdbbed",
+      "evidencias_textuais": [
+        "**Art. 5°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMAANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "nte ANEXO I À MINUTA DE NORMAANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021 PROCEDIMENTO SUBGRUPO GRUPO CAPÍTULO OD AMB HCO HSO REF PAC DUT ECOBRONCOSCOPIA COM PUNÇÃO ASPIRATIVA COM AGULHA FINA (COM DIRETRIZ DE UTILIZAÇÃO) ENDOSCOPIA DIAGNÓSTICA OU INTERVENCIONISTA ENDOSCÓPICO PROCEDIMENTOS CIRÚRGICOS E INVASIVOS HCO HSO REF PAC 165 ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021 32\\. HLA-B27, FENOTIPAGEM 1\\. Cobertura obrigatória na investigação diagnóstica de espondiloartrite axial. 165\\. ECOBRONCOSCOPIA COM PUNÇÃO ASPIRATIVA COM AGULHA FINA 1\\. Cobertura obrigatória no estadiamento tumoral de mediastino em pacientes com diagnóstico de câncer de pulmão com ou sem o uso combinado de ecoendoscopia. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-611-de-30-de-julho-de-2024-575658321.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "a0c61dceee01a6af4964eee21bfa1b88f587760b386b8dfb3a8ce3a67cea0ded",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-611-de-30-de-julho-de-2024-575658321",
+      "hash_fonte_declarado_no_cabecalho": "ef44f7f218b67eaa25cca35e129f6b694e47782ae254dc72f3e182a910ecf934",
+      "evidencias_textuais": [
+        "**Art. 4º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "a convencional (fototerapia e/ou terapias sintéticas sistêmicas), que atendam a pelo menos um dos seguintes critérios: a. Índice da Gravidade da Psoríase por Área - PASI superior a 10; b. Acometimento superior a 10% da superfície corporal; c. Índice de Qualidade de Vida em Dermatologia - DLQI superior a 10; d. Psoríase acometendo extensamente o aparelho ungueal, resistente ao tratamento convencional, associada a DLQI superior a 10; e. Psoríase palmo-plantar, resistente ao tratamento convencional, associada a DLQI superior a 10; f. Psoríase acometendo outras áreas especiais, como genitália, rosto, couro cabeludo e dobras, resistente ao tratamento convencional, associada a DLQI superior a 10. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-612-de-30-de-julho-de-2024-575693136.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "a253f6285354d2ecafd89d25b7fc5855b42244dc13882f6c88c484b73270406b",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-612-de-30-de-julho-de-2024-575693136",
+      "hash_fonte_declarado_no_cabecalho": "4967cfd0ffd8cacee92979550325693279a5cd57f00a2ab4aab156189bb57ba8",
+      "evidencias_textuais": [
+        "**Art. 5º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "l; e d. uso contínuo de corticoide oral para controle da asma nos últimos 6 meses ou 3 ou mais exacerbações asmáticas necessitando de tratamento com corticoide oral no último ano. 65.20 NEFRITE LÚPICA Cobertura obrigatória do medicamento Belimumabe, quando solicitado pelo médico assistente nefrologista ou reumatologista, de modo complementar à terapia padrão, para o tratamento de indução e/ou de manutenção de pacientes adultos com nefrite lúpica ativa, comprovada por biópsia, classe III (com ou sem achados combinados de classe V) ou classe IV (com ou sem achados combinados de classe V), de acordo com a classificação da Sociedade Internacional de Nefrologia e da Sociedade de Patologia Renal. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-616-de-16-de-outubro-de-2024-590824193.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "9bb43498079c6415c9c986ddb8001535ecee96a3c158e9f7aa7a40ca73f69f05",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-616-de-16-de-outubro-de-2024-590824193",
+      "hash_fonte_declarado_no_cabecalho": "c291c4e9182cb77a5fff08419a77d109686ce14974639c7bf7f13cf0c162d617",
+      "evidencias_textuais": [
+        "**Art. 5°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXOS",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "DICAÇÃO Abiraterona, Acetato de Próstata Associada ou não ao docetaxel, para o tratamento de pacientes com câncer de próstata metastático sensível à castração (CPSCm). 65\\. TERAPIA IMUNOBIOLÓGICA ENDOVENOSA, INTRAMUSCULAR OU SUBCUTÂNEA (COM DIRETRIZ DE UTILIZAÇÃO) 65.15 OSTEOPOROSE 1\\. Cobertura obrigatória do medicamento Romosozumabe para mulheres com osteoporose na pós-menopausa e que falharam ao tratamento medicamentoso (duas ou mais fraturas). 158\\. TERAPIA MEDICAMENTOSA INJETÁVEL AMBULATORIAL (COM DIRETRIZ DE UTILIZAÇÃO) SUBSTÂNCIA INDICAÇÃO Ganciclovir Tratamento de infecções causadas por Citomegalovírus (CMV) em indivíduos imunossuprimidos pelo Vírus da Imunodeficiência Humana (HIV). "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-449-de-12-de-janeiro-de-2024-537589924.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "639e5b2cc3db5168f850484f0a26cbb896fdb6b1fe0e1a078e2250d37ed1cb4f",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-449-de-12-de-janeiro-de-2024-537589924",
+      "hash_fonte_declarado_no_cabecalho": "21b7a490f151e326c6399eaf921f4647e1e762809887ded89d7e89d472cf0c29",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Segurança do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Manual\\_de\\_Seguranca\\_PIX.pdf"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 449 DE 12 DE JANEIRO DE 2024"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-515-de-30-de-agosto-de-2024-582079557.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "160f4b193e64ecec41932678ea737709cae0c05ad1d8d10690aa10f9aa9c82ba",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-515-de-30-de-agosto-de-2024-582079557",
+      "hash_fonte_declarado_no_cabecalho": "249a983f52e84f1a9bdd80ed8dc218d8a5e5d10e5f70bcd41c54c3e0705c8b13",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Fluxos do Processo de Efetivação do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet, na página destinada aos manuais que compõem o Regulamento do Pix: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/versoes\\_futuras/III\\_ManualdeFluxosdoProcessodeEfetivacaodoPix-versao2-0.pdf."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-603-de-1-de-abril-de-2024-551187676.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "aed5ba56dacc39972d92d19bd0232cf56514e4a9f97aa52080057501593a8f37",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-603-de-1-de-abril-de-2024-551187676",
+      "hash_fonte_declarado_no_cabecalho": "507225d3bb806c3b4b2d635c987605fcdb4b7ee29e59deacdbeb7b1548acab3f",
+      "evidencias_textuais": [
+        "**Art. 5º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXOS",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "com corticosteroide e/ou inibidores de calcineurina por pelo menos 6 meses, que atendam a pelo menos um dos seguintes critérios: a. Índice de Gravidade da Dermatite Atópica (SCORing Atopic Dermatitis) - SCORAD superior a 50; b. Índice de Severidade e Área de Eczema (Eczema Area and Severity Index) - EASI superior a 21; c. Índice de Qualidade de Vida em Dermatologia (Dermatology Life Quality Index) - DLQI superior a 10; d. Índice Pediátrico de Qualidade de Vida em Dermatologia (Children's Dermatology Life Quality Index- CDLQI superior a 12. Obs. referente ao item 2: Caso não seja observada resposta terapêutica satisfatória após 24 semanas de tratamento, a cobertura não será mais obrigatória. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-regimental-ans-n-29-de-4-de-novembro-de-2024-595415317.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "a5dd4bb50489f00701d54cbeeded8cfc85f4925ab874ca4399bfc1f658cb9bce",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-regimental-ans-n-29-de-4-de-novembro-de-2024-*-595415317",
+      "hash_fonte_declarado_no_cabecalho": "e3e0a1201a957493002f19868889a760e9d5f21a3dd812cb5d2ffb44bea85d3a",
+      "evidencias_textuais": [
+        "**Art. 4º.** O Anexo desta RR estará disponível para consulta e cópia no sítio institucional da ANS na internet - www.ans.gov.br.",
+        "XVI. manter atualizados e consolidados os atos normativos no Portal da ANS;",
+        "XXIV. gerir o acesso dos usuários da ANS ao portal da Imprensa Nacional para Publicação no Diário Oficial da União; e"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera o Anexo I e o Anexo I-F da Resolução Regimental - RR nº 21, de 17 de março de 2017, que dispõe sobre o Regimento Interno da Agência Nacional de Saúde Suplementar - ANS.",
+        "## ANEXO",
+        "\"ANEXO I",
+        "\"ANEXO I-F"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "esempenho das atribuições dispostas neste Anexo I-F, art. 9º, incisos II a X e XXV ; II. prestar apoio técnico, administrativo e operacional quanto ao cumprimento das competências regimentais da CGADC; III. propor e adotar práticas para a melhoria da qualidade dos processos organizacionais em tramitação na CGADC; IV. registrar e armazenar correspondências, documentos e processos no âmbito da CGADC; e V. Auxiliar a CGADC no apoio técnico e administrativo à Diretoria Colegiada. ........................................................................................................................\" (NR) Republicada por ter saído, no DOU 07-11-2024, Seção 1, pág. 61, com incorreção do original. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-624-de-19-de-dezembro-de-2024-603303641.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "82cabacdb1e6f638bf8daadc7b46381d7f3e918d693905a7926c1c7b088edaaf",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-624-de-19-de-dezembro-de-2024-603303641",
+      "hash_fonte_declarado_no_cabecalho": "d43812f3c7b9838c2fdf0894ce497dff4d81bc587959bbd38ea162b64b3fd141",
+      "evidencias_textuais": [
+        "**Art. 6º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXOS",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "ica demonstrada. 2\\. Cobertura obrigatória do Nirsevimabe para imunoprofilaxia para o vírus sincicial respiratório (VSR), para prematuros e crianças quando preenchido pelo menos um dos seguintes critérios: a. Crianças prematuras nascidas com idade gestacional &lt; 37 semanas (até 36 semanas e 6 dias) com idade inferior a 1 ano (até 11 meses e 29 dias) entrando ou durante sua primeira temporada do VSR; ou b. Crianças com idade inferior a 2 anos (até 1 ano, 11 meses e 29 dias) com doença pulmonar crônica da prematuridade (displasia broncopulmonar); ou c. Crianças com idade inferior a 2 anos (até 1 ano, 11 meses e 29 dias) com doença cardíaca congênita com repercussão hemodinâmica demonstrada. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-604-de-6-de-maio-de-2024-558204293.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "a1f8cc4c6ae782efa9f7679883f301e7822f76511b316dff7787ca259c061695",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-604-de-6-de-maio-de-2024-558204293",
+      "hash_fonte_declarado_no_cabecalho": "ab1787507467bb31c055cfbf74dfb20b69c311772b50032eccc511d6cbb85841",
+      "evidencias_textuais": [
+        "**Art. 5°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "OU TOMOGRAFIA COMPUTADORIZADA (COM DIRETRIZ DE UTILIZAÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm ABLAÇÃO POR RADIOFREQUÊNCIA DE METÁSTASES HEPÁTICAS DE CÂNCER COLORRETAL POR LAPAROTOMIA (COM DIRETRIZ DE UTILIZAÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm ABLAÇÃO POR RADIOFREQUÊNCIA DE METÁSTASES HEPÁTICAS DE CÂNCER COLORRETAL POR VIDEOLAPAROSCOPIA (COM DIRETRIZ DE UTILIZAÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-524-de-18-de-setembro-de-2024-586467367.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O Anexo de instruções do documento4111 está reproduzido com código, periodicidade, remessa, formato e responsáveis. O portal contém leiaute/XSD e instruções operacionais complementares; não substitui o Anexo próprio transcrito.",
+      "sha256_md": "af4ec97f1781c574fbc6b63f264a740614c7c31d59e07bcc447ed3613f0c9f2e",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-524-de-18-de-setembro-de-2024-586467367",
+      "hash_fonte_declarado_no_cabecalho": "2dab7cfcc731a1d902c1ebee6341fccfd81cbfc6b9ef6e11fe7986b378b0a041",
+      "evidencias_textuais": [
+        "**§ 1º** O leiaute, as instruções de preenchimento e demais informações necessárias para a elaboração do documento indicado neste artigo estão disponíveis na página do Banco Central do Brasil na internet, no endereço eletrônico https://www.bcb.gov.br/estabilidadefinanceira/leiautedocumentoscrd.",
+        "IV - recursos disponíveis de clientes:",
+        "a) 4.1.9.25.00.00-5 - Recursos Disponíveis de Clientes;"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## Anexo"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": " preenchimento e demais informações necessárias para a elaboração do documento, disponíveis na página do Banco Central do Brasil na internet, no endereço eletrônico https://www.bcb.gov.br/estabilidadefinanceira/leiautedocumentoscrd. Diretor responsável pela remessa: Diretor responsável p/ informações diárias - Res. BCB 208. Registro do diretor responsável: no módulo \"Vínculos - Inclusão - Diretor Responsável por Área de Atuação\" do Unicad. Registro do empregado indicado para responder a questionamentos: no módulo \"Vínculos - Inclusão - Responsável por Envio de Informações\" do Unicad. Endereço eletrônico para solução de dúvidas sobre o preenchimento e a remessa do documento: cosif@bcb.gov.br "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-619-de-25-de-novembro-de-2024-598226635.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "354f8f28abedd9c87abd2c22abf94ece02d191737f212d44d8a71385269d10ce",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-619-de-25-de-novembro-de-2024-598226635",
+      "hash_fonte_declarado_no_cabecalho": "2fbbfbd0f9e96de0df645d0e43d5bd75b36d84e3b13b06426965d7b074dd3ebc",
+      "evidencias_textuais": [
+        "**Art. 8º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "s e aminoglicosídeos/peptídeos cíclicos), quando preenchido pelo menos um dos critérios abaixo: a. paciente com tuberculose drogarresistente (TB DR) aos fármacos de 1ª linha após mutação detectada em teste de sensibilidade genotípico (LPA de 1ª linha); b. paciente com resistência inferida em teste de sensibilidade genotípico (LPA de 1ª linha). 170\\. IMPLANTE SUBDÉRMICO HORMONAL PARA CONTRACEPÇÃO 1\\. Cobertura obrigatória do implante subdérmico de etonogestrel para prevenção da gravidez não desejada para pessoas adultas em idade fértil em pelo menos uma das seguintes condições: a. em situação de rua; b. em uso de medicamentos teratogênicos; c. privadas de liberdade; d. trabalhadoras do sexo. "
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-610-de-29-de-julho-de-2024-575285625.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "ba63e51e83159436613cf4588f07d6523a4f91b6d78275168755c0217855841b",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-610-de-29-de-julho-de-2024-575285625",
+      "hash_fonte_declarado_no_cabecalho": "5f1fc08990ea2403f6b13129f718e0cf77db8395fc99a2471a5859ef79ca73f4",
+      "evidencias_textuais": [
+        "**Art. 6°** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO",
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 4,
+      "evidencia_conteudo_transcrito_final": "AÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm. ABLAÇÃO PERCUTÂNEA POR RADIOFREQUÊNCIA OU MICROONDAS DE METÁSTASES HEPÁTICAS DE CÂNCER COLORRETAL POR LAPAROTOMIA (COM DIRETRIZ DE UTILIZAÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm. ABLAÇÃO PERCUTÂNEA POR RADIOFREQUÊNCIA OU MICROONDAS DE METÁSTASES HEPÁTICAS DE CÂNCER COLORRETAL POR VIDEOLAPAROSCOPIA (COM DIRETRIZ DE UTILIZAÇÃO) Tratamento de metástases hepáticas de câncer colorretal, irressecáveis ou ressecáveis com alto risco cirúrgico, com tamanho até 4 cm. "
+    },
+    {
+      "path": "reguladores/inss/portarias/2024/portaria-dirben-inss-n-1.240-de-26-de-novembro-de-2024-598228595.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "5ec9fa6400109826894b4cd30f2bcb29d20e2fbb65f8c6502ecee46c42c5bd52",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-dirben/inss-n-1.240-de-26-de-novembro-de-2024-598228595",
+      "hash_fonte_declarado_no_cabecalho": "b800f1873a5f5c8010a0ac5a4ba6dcb91656b4c91b6c43d0eb54e9e3560dfdf3",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Anexo V - Relação dos Indicadores Disponibilizados no CNIS (SEI 18560118), será disponibilizado no Portal-INSS, na Intraprev."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-533-de-31-de-outubro-de-2024-593696066.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "6df32668337bc311cb3b5f7eae39272b062400affb9d7c6762dfbac02dbb2089",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-533-de-31-de-outubro-de-2024-593696066",
+      "hash_fonte_declarado_no_cabecalho": "e8b474cfa778176cf6707fd1b38799f97bbc6de10dd00205308c772d45a0816c",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Padrões para Iniciação do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet, na página destinada aos manuais que compõem o Regulamento do Pix: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/II\\_ManualdePadroesparaIniciacaodoPix.pdf."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 533 DE 31 DE OUTUBRO DE 2024"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/mte/portarias/2024/portaria-mte-n-991-de-19-de-junho-de-2024-566898958.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "Os AnexosI,II eIII estão reproduzidos: metodologia georreferenciada, atos de delimitação para pescadores e declaração. A disponibilidade da mancha de inundação é referência a dados operacionais do Grupo de Trabalho, não anúncio de anexo próprio omitido.",
+      "sha256_md": "dc7a1ca6e0756e3dd5c7fdfb3c62e6b201f28dcd97a9e713f07c92f10f9d7d5d",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-mte-n-991-de-19-de-junho-de-2024-566898958",
+      "hash_fonte_declarado_no_cabecalho": "80a099d04c4787b100be37af7c85ecfa56ecffdb0b1aae6d0bfefe1d0a02ee40",
+      "evidencias_textuais": [
+        "IV - declaração de redução do faturamento e da capacidade de operação do estabelecimento em decorrência dos eventos climáticos, que impossibilite o cumprimento de suas obrigações de pagamento da folha salarial, nos termos do Anexo III, a ser firmado no momento de adesão no Portal Emprega Brasil - Empregador.",
+        "**§ 1º** Para fins da verificação dos requisitos previstos no caput serão utilizadas as informações disponíveis nas seguintes bases de dados governamentais no momento do processamento:",
+        "**Parágrafo único.** O empregado poderá acompanhar a tramitação do processo de concessão do Apoio Financeiro pelo portal gov.br e pelo aplicativo da Carteira de Trabalho Digital, mediante cadastramento e senha, que dará acesso:"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I",
+        "## ANEXO II — DELIMITAÇÃO DAS ÁREAS EFETIVAMENTE ATINGIDAS PARA O PESCADOR PROFISSIONAL ARTESANAL",
+        "## ANEXO III — DECLARAÇÃO"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": " outubro de 1984; \\- IN IBAMA nº 193, de 2 de outubro de 2008; \\- IN IBAMA nº197, de 2 de outubro de 2008; e \\- Portaria SAP/MAPA nº 656, de 30 de março de 2022. ## ANEXO III — DECLARAÇÃO Declaro para fins de adesão ao Apoio Financeiro de trata a Medida Provisória nº 1.230, de 07 de junho de 2024, a redução de faturamento e da capacidade de operação do estabelecimento em decorrência dos eventos climáticos, que impossibilita o cumprimento das obrigações de pagamento da folha salarial. Declaro, ainda, não estar em débito com o sistema da seguridade social, nos termos do art. 195, § 3º, da Constituição. Por ser verdade, assumo inteira responsabilidade pela declaração acima sob as penas da lei. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-534-de-31-de-outubro-de-2024-593696038.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "44470546da6fd37944c09106b699d91e15e493d34b53b4ff20feb43d7e56765a",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-534-de-31-de-outubro-de-2024-593696038",
+      "hash_fonte_declarado_no_cabecalho": "256c936448b01d59d24dec46947ba6d0549954904973415ff455720bee5a01b1",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Tempos do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/IX\\_ManualdeTemposdoPix.pdf",
+        "Data Versão Descrição das alterações 11/8/2020 1.0 10/9/2020 1.1 Inclusão de nova seção (3.2.1.4), com novo ANS de cancelamento de reivindicação de posse para o PSP reivindicador. Seção 1: correção da referência da seção a qual se refere a figura ilustrativa. Seção 3.2.2.3: correção nas etapas do fluxo de reivindicação 12/11/2020 2.0 Estrutura: Inserção da seção 4 \"Índice de disponibilidade dos participantes\". Seção 1: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. Seção 2: Inserção de referência à Instrução Normativa nº 5, que define os limites máximos de tempo para validação e para liquidação das ordens de pagamentos instantâneos que cursam no SPI. Seção 2: Retirada da possibilidade de tempo máximo diferenciado para autorização de iniciação de transações pelo participante prestador de serviço de pagamento do usuário pagador, nos casos de transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. O tempo máximo diferenciado passa a ser somente para transações com suspeita de fraude. Seção 3: esclarecimento de que, para fins de contabilização dos ANS, todas as mensagens devem ser consideradas, inclusive aquelas de erro. Seção 3.1.2.1: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. Seção 3.1.2.2: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 534 DE 31 DE OUTUBRO DE 2024"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-467-de-22-de-abril-de-2024-555710006.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "31dd851acef25d12d3ba893167f037f18ea0a8d499eac775033d7b0e3a722e7c",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-467-de-22-de-abril-de-2024-555710006",
+      "hash_fonte_declarado_no_cabecalho": "cda1330a16db1b26fbbaa627e9afe7bc30f88d58e48cc873f26ecf8cc4db18d5",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual Operacional do DICT está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/X\\_Manual OperacionaldoDICT.pdf.",
+        "Data Versão Descrição das alterações 11/8/2020 1.0 10/9/2020 1.1 Seção 6: Ajustes na redação do fluxo de reivindicação, para deixar mais claro seu funcionamento: aso o usuário doador não se manifeste dentro do período de resolução, o PSP doador deve necessariamente confirmar a reivindicação no DICT; no período de encerramento, o usuário doador pode somente validar a posse da chave, cancelando o processo. A confirmação não é possível durante esse período; e previsão de que o PSP reivindicador deve cancelar o processo de reivindicação no DICT caso seu usuário não faça a validação ativa da chave até o trigésimo dia após o início do processo de reivindicação. Seção 6.1: ajustes nas etapas 5 e 7, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.2: ajustes nas etapas 7, 11, 12 e 13, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.3: ajuste no fluxo; e ajustes nas etapas 4, 12, 14, 15, 16, 17, 19 e 20, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.4: ajuste no fluxo; e ajustes nas etapas 6, 16, 18, 20, 21, 22, 23, 27 e 28, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 9: ajuste para deixar claro que a verificação de sincronismo não precisa ser realizada diariamente. Ela precisa ser realizada em intervalos máximos de 36 horas, conforme Manual de Tempos do Pix. Seção 10: ajuste para prever que a notificação de infração pode ser cancelada a qualquer tempo. Seção 10.1: ajuste na nomenclatura das mensagens enviadas para o D"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXOManual Operacional do Diretório de Identificadoresde Contas Transacionais (DICT)"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/inss/portarias/2024/portaria-dirben-inss-n-1.231-de-15-de-outubro-de-2024-591634287.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "13ced9ced24785f5645e87de24df9d9bc734916b9f9b06cc689098bed52a8463",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-dirben/inss-n-1.231-de-15-de-outubro-de-2024-591634287",
+      "hash_fonte_declarado_no_cabecalho": "c2b3b187d8739685765fd8c7d791de25afc11445831303528ad0670b665d59a2",
+      "evidencias_textuais": [
+        "**§ 1º** Na hipótese do caput, a solicitação poderá ocorrer pelo meio mais ágil disponível, conforme disponibilizado por cada Seção de Análise.",
+        "\"Art. 23. O SGREC e a COREC deverão realizar as configurações necessárias nos sistemas SAG Gestão e Portal do Atendimento - PAT para cumprimento dos dispositivos desta Portaria e seus anexos.\" (NR)",
+        "**Art. 2º** Os Anexos da Portaria Dirben/INSS nº 1.056/2022, passam a vigorar na forma dos Anexos I (documento SEI nº 17925156), II (documento SEI nº 17925169), III (documento SEI nº 17925185), IV (documento SEI nº 17925216) e V (documento SEI nº 17925244) desta Portaria, disponibilizados no Portal do INSS na Intraprev."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/mte/portarias/2024/portaria-semp-mte-n-443-de-1-de-abril-de-2024-551202718.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "Os anexos VII e VIII têm apenas título e URL de modelo/checklist da AGU; não trazem o respectivo conteúdo. Outros anexos estão presentes, o que não resolve estes anexos externos.",
+      "sha256_md": "3ecc2c29a8da6839223dcba9c007c9a7abbb52d76502cd56b0cc8a360188fc88",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-semp/mte-n-443-de-1-de-abril-de-2024-551202718",
+      "hash_fonte_declarado_no_cabecalho": "04d020b4799b7da145e483c6e4304572cf2b2b0e247efad31da9e5f9f5e73c1a",
+      "evidencias_textuais": [
+        "## ANEXO VII — Minuta de Termo de Fomento\n\nDisponível em: https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/minuta\\_de\\_termo\\_de\\_colaboracao\\_\\_atualizada\\_em\\_jul\\_2017\\_\\_.docx\n\n",
+        "## ANEXO VIII — Relação de documentos que devem constar no processo (termo de fomento com OSC) Lista de Verificação MROSC (checklist)\n\nDisponível em: https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/lista\\_de\\_verificacao\\_para\\_celebracao\\_de\\_termo\\_de\\_colaboracao\\_.pdf\n"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Anexo I - Declaração de ciência e concordância",
+        "Anexo II - Declaração sobre instalações e condições materiais;",
+        "Anexo III - Declaração do art. 27 do Decreto nº 8.726, de 2016;",
+        "Anexo IV - Relação dos dirigentes da entidade;",
+        "Anexo V - Declaração da não ocorrência de impedimentos;",
+        "Anexo VI - Referências;",
+        "Anexo VII - Minuta de Termo de Fomento; e",
+        "Anexo VIII - Relação de documentos que devem constar no processo - Lista de Verificação MROSC.",
+        "## ANEXO I — Declaração de ciência e concordância",
+        "## ANEXO II — Declaração sobre instalações e condições materiais",
+        "## ANEXO III — Declaração do art. 27 do Decreto nº 8.726, de 2016",
+        "## ANEXO IV — Relação dos dirigentes da entidade",
+        "## ANEXO V — Declaração da não ocorrência de impedimentos",
+        "## ANEXO VI — Referências",
+        "## ANEXO VII — Minuta de Termo de Fomento",
+        "## ANEXO VIII — Relação de documentos que devem constar no processo (termo de fomento com OSC) Lista de Verificação MROSC (checklist)"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-463-de-10-de-abril-de-2024-553579888.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O próprio Manual do Open Finance está reproduzido além do histórico: termos de uso, referências, seções numeradas, regras e disposições finais. A menção ao portal disponibiliza cópia/versão mais recente e guias auxiliares, sem substituir o anexo transcrito.",
+      "sha256_md": "b34f30cbe213e22eec24b707e34c1e6367af3e9768238a47e3d2a5fa6f12258c",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-463-de-10-de-abril-de-2024-553579888",
+      "hash_fonte_declarado_no_cabecalho": "185b4ec7c510a16bd80c6ccebe51cc68d1af430cef0ad521df1cdbde269ca7ed",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O manual de que trata o caput, em sua versão mais recente, estará acessível na página do Open Finance no sítio eletrônico do Banco Central do Brasil na internet e no Portal do Open Finance no Brasil, mantido pela Estrutura Responsável pela Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020.",
+        "Informações mais detalhadas e exemplos da aplicação deste manual poderão ser encontradas no Portal do Open Finance no Brasil (https://openfinancebrasil.org.br/), mantido pela Estrutura de Governança Responsável pela Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 2020.",
+        "Os atos normativos de competência do Conselho Monetário Nacional ou do Banco Central do Brasil podem ser acessados no sítio eletrônico do Banco Central do Brasil na internet (www.bcb.gov.br), por meio da opção de \"Busca de normas\"."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "e serviços por pessoas jurídicas em que seja exigido o consentimento de mais de um representante ou procurador da empresa; e V - ambiente de gestão de consentimentos concedidos por parte de pessoas naturais e jurídicas nas instituições participantes. 5\\. Regras transitórias As instituições receptoras de dados e as instituições iniciadoras de transação de pagamentos que passam a ser obrigadas a realizar o redirecionamento diretamente para o aplicativo da instituição transmissora de dados e da instituição detentora de conta, respectivamente, sem a passagem por navegadores, com base nas alterações promovidas nas subseções 4.1.1 e 4.1.2, devem concluir tal implementação até 30 de junho de 2024. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-456-de-29-de-fevereiro-de-2024-546042588.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O próprio Manual do Open Finance está reproduzido além do histórico: termos de uso, referências, seções numeradas, regras e disposições finais. A menção ao portal disponibiliza cópia/versão mais recente e guias auxiliares, sem substituir o anexo transcrito.",
+      "sha256_md": "e278c5b73d26b4dd29908f9113c79dab8bd01e2ca05ffe859132e4bfb6b7b4d0",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-456-de-29-de-fevereiro-de-2024-546042588",
+      "hash_fonte_declarado_no_cabecalho": "4cd60e8fdbd23d58017e4d1745525055561af49080950fed26d6e36e1652f515",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O manual de que trata o caput, em sua versão mais recente, estará acessível na página do Open Finance no sítio eletrônico do Banco Central do Brasil na internet e no Portal do Open Finance no Brasil, mantido pela Estrutura Responsável pela Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020.",
+        "Informações mais detalhadas e exemplos da aplicação deste manual poderão ser encontrados nos guias e tutoriais disponíveis no Portal do Open Finance no Brasil, na Área do Desenvolvedor.",
+        "São tratados neste manual aspectos como: formato para a troca de dados, desenho da interface, protocolo para transmissão de dados, versionamento, modelo de APIs e endpoints. Desse modo, o manual estabelece as diretrizes gerais sem esgotar todos os aspectos necessários à implementação das APIs para o Open Finance. As demais definições a cargo das instituições participantes, por meio da Estrutura Responsável pela Governança do Open Finance, nos termos da Circular nº 4.032, de 23 de junho de 2020, estarão disponíveis no Portal do Open Finance no Brasil, no qual poderão ser encontrados guias, tutoriais e outras informações operacionais sobre as APIs."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "o ecossistema que não terão, nesse momento, um SLA mínimo, tais como: a) Disponibilidade calculada do ponto de vista do provedor da API - deve considerar as informações fornecidas pelo provedor das APIs; e b) Disponibilidade calculada do ponto de vista do consumidor da API - deve considerar as informações fornecidas somente pelos consumidores das APIs, classificadas no PCM como \"PAIRED\" ou \"SINGLE\". 5.5 Timeout Padronização do timeout de tempo de resposta do provedor e do tempo de resposta do consumidor em quinze segundos. As requisições que excederem o limite de timeout do provedor deverão ser respondidas com o código de status HTTP 504 (Gateway Timeout). Brasília, 29 de fevereiro de 2024. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-561-de-6-de-dezembro-de-2024-601114081.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "8c2f697788af5ce7b8312b3031ef1e3238c9cac481f843a35adcdbede2103b01",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-561-de-6-de-dezembro-de-2024-601114081",
+      "hash_fonte_declarado_no_cabecalho": "c6bb275d0f0bf7aa4b489ef244b350a03534768d7d98de87d4e0d3dfb615998a",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual Operacional do DICT está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/X\\_ManualOperacionaldoDICT.pdf",
+        "24/8/2021 4.3 Seção 10: inserção de nota de rodapé para deixar claro que a notificação de infração para abertura de solicitação de devolução estará disponível somente a partir de 16 de novembro de 2021, nos termos da Resolução BCB nº 103. Seção 13: ajustes nos mecanismos de prevenção a ataques de leitura do DICT. As consultas sem liquidação para todos os tipos de chave passam a consumir fichas nos baldes, tanto para os usuários finais quanto para os participantes. Para isso, foi criado um novo balde, com 1.000 fichas, para as chaves CPF, CNPJ e aleatória para os usuários finais; e foi aumentado o incremento temporal de fichas para os participantes. Seção 13: inserção de nota de rodapé para explicar as novas regras de formação do campo PayerId. Seção 15: criação de um balde específico para o endpoint updateEntry. Com isso, o balde do createEntry e do deleteEntry foi diminuído. Seção 18: ajuste em nota de rodapé, para deixar claro que a solicitação de devolução estará disponível somente a partir de 16 de novembro de 2021, nos termos da Resolução BCB nº 103. 21/9/2021 4.4 Seção 10: inserção de texto para deixar mais claro o funcionamento da funcionalidade. Seção 10.3: inserção de notas de rodapé para deixar claro os casos em que o Mecanismo Especial de Devolução não pode ser acionado. Seção 10.4: inserção de notas de rodapé para deixar claro os casos em que o Mecanismo Especial de Devolução não pode ser acionado. Seção 13: ajustes nos mecanismos de prevenção a ataques de leitura do DICT. Separação de baldes de consultas de usuários PF e PJ, com definição de parâmetros diferenc"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 6
+    },
+    {
+      "path": "reguladores/mte/portarias/2024/portaria-semp-mte-n-738-de-16-de-maio-de-2024-560176102.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "Os anexos VII, VIII e IX têm apenas título e URL de modelo/checklist da AGU; não trazem o respectivo conteúdo. Outros anexos estão presentes, o que não resolve estes anexos externos.",
+      "sha256_md": "772bea15745ef59d7112caf78eb6fe2c1386d76d3e3e2c8be7c67aed165b34c3",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-semp-/mte-n-738-de-16-de-maio-de-2024-560176102",
+      "hash_fonte_declarado_no_cabecalho": "86ae6bdf3910e464b9e957b496dd3eee21587029357a1e8eb6e6b231c5fc9604",
+      "evidencias_textuais": [
+        "## ANEXO VII — MINUTA DE TERMO DE FOMENTO\n\nDisponível em: https://www.gov.br/agu/pt- br/composicao/cgu/cgu/modelos/conveniosecongeneres/minuta\\_de\\_termo\\_de\\_fomento atualizada\\_em\\_jul\\_2017 .docx\n\n",
+        "## ANEXO VIII — MINUTA DE TERMO DE COLABORAÇÃO\n\nDisponível em: https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/conveniosecongeneres/termo-de- colaboracao-marco-2024.pdf\n\n",
+        "## ANEXO IX — RELAÇÃO DE DOCUMENTOS QUE DEVEM CONSTAR NO PROCESSO (TERMO DE FOMENTO / TERMO DE COLABORAÇÃO COM ORGANIZAÇÃO DA\n\nSOCIEDADE CIVIL - OSC)\n\nLISTA DE VERIFICAÇÃO MROSC (CHECKLIST)\n\nDisponível em:https://www.gov.br/agu/pt- br/composicao/cgu/cgu/modelos/conveniosecongeneres/minuta\\_de\\_termo\\_de\\_fomento atualizada\\_em\\_jul\\_2017 .docx\n\n"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Anexo I - declaração de ciência e concordância;",
+        "Anexo II - declaração sobre instalações e condições materiais;",
+        "Anexo III - declaração do art. 27 do Decreto nº 8.726, de 2016;",
+        "Anexo IV - relação dos dirigentes da entidade;",
+        "Anexo V - declaração da não ocorrência de impedimentos;",
+        "Anexo VI - referências;",
+        "Anexo VII - minuta do termo de fomento;",
+        "Anexo VIII - minuta do termo de colaboração;",
+        "Anexo IX - relação de documentos que devem constar no processo - lista de verificação MROSC; e",
+        "Anexo X - termo de referência da submodalidade consórcio social de juventude, da modalidade projovem trabalhador, do programa nacional de inclusão de jovens - Projovem.",
+        "## ANEXO I — DECLARAÇÃO DE CIÊNCIA E CONCORDÂNCIA",
+        "## ANEXO II — DECLARAÇÃO SOBRE INSTALAÇÕES E CONDIÇÕES MATERIAIS",
+        "## ANEXO III — DECLARAÇÃO DO ART. 27 DO DECRETO Nº 8.726, DE 27 DE ABRIL DE 2016",
+        "## ANEXO IV — RELAÇÃO DOS DIRIGENTES DA ENTIDADE",
+        "## ANEXO V — DECLARAÇÃO DA NÃO OCORRÊNCIA DE IMPEDIMENTOS",
+        "## ANEXO VI — REFERÊNCIAS",
+        "## ANEXO VII — MINUTA DE TERMO DE FOMENTO",
+        "## ANEXO VIII — MINUTA DE TERMO DE COLABORAÇÃO",
+        "## ANEXO IX — RELAÇÃO DE DOCUMENTOS QUE DEVEM CONSTAR NO PROCESSO (TERMO DE FOMENTO / TERMO DE COLABORAÇÃO COM ORGANIZAÇÃO DA",
+        "## ANEXO X — TERMO DE REFERÊNCIA DA SUBMODALIDADE CONSÓRCIO SOCIAL DE JUVENTUDE, DA MODALIDADE PROJOVEM TRABALHADOR, DO PROGRAMA NACIONAL DE INCLUSÃO DE JOVENS - PROJOVEM"
+      ],
+      "tabelas_na_transcricao": 2
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-559-de-4-de-dezembro-de-2024-599887094.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O próprio Manual do Open Finance está reproduzido além do histórico: termos de uso, referências, seções numeradas, regras e disposições finais. A menção ao portal disponibiliza cópia/versão mais recente e guias auxiliares, sem substituir o anexo transcrito.",
+      "sha256_md": "2e4c2ec0b13473edbc3861958f3619248f2cdf0357064edaadcf007398e11ee9",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-559-de-4-de-dezembro-de-2024-599887094",
+      "hash_fonte_declarado_no_cabecalho": "73be7f840e149e97b052b829ff39cda115ef23c9e0af4ba3a5fff2dc922c0960",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O manual de que trata o caput, em sua versão mais recente, estará acessível na página do Open Finance no sítio eletrônico do Banco Central do Brasil na internet e no Portal do Open Finance no Brasil, mantido pelas instituições financeiras e pelas instituições de pagamento que integram a Estrutura Responsável pela Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020.",
+        "Informações mais detalhadas e exemplos da aplicação deste manual poderão ser encontradas no Portal do Open Finance no Brasil (https://openfinancebrasil.org.br/), mantido pelas instituições financeiras e pelas instituições de pagamento que integram a Estrutura de Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 2020.",
+        "Os atos normativos de competência do Conselho Monetário Nacional ou do Banco Central do Brasil podem ser acessados no sítio eletrônico do Banco Central do Brasil na internet (www.bcb.gov.br), por meio da opção de \"Busca de normas\"."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO Manual de Experiência do Cliente no Open Finance Versão 7.0"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "licáveis às diversas situações de compartilhamento de dados e serviços, abrangendo, no mínimo: I - compartilhamento de dados e serviços por pessoas naturais; II - compartilhamento de dados e serviços por pessoas jurídicas; III - compartilhamento de dados e serviços por pessoas naturais titulares de contas conjuntas em que seja exigido o consentimento de mais de um titular da conta; IV - compartilhamento de dados e serviços por pessoas jurídicas em que seja exigido o consentimento de mais de um representante ou procurador da empresa; e V - ambiente de gestão de consentimentos concedidos por parte de pessoas naturais e jurídicas nas instituições participantes. Brasília, 4 de dezembro de 2024. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-575-de-20-de-dezembro-de-2024-603329738.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O próprio Manual do Open Finance está reproduzido além do histórico: termos de uso, referências, seções numeradas, regras e disposições finais. A menção ao portal disponibiliza cópia/versão mais recente e guias auxiliares, sem substituir o anexo transcrito.",
+      "sha256_md": "b9d8734bf6ac032f06b23ef556481c1304ff87e3f751dec3e379566a38db0f76",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-575-de-20-de-dezembro-de-2024-603329738",
+      "hash_fonte_declarado_no_cabecalho": "9f52a99fafc874859163a366ca30bcc7640920c6f672ce5ae064c7cbafedc97e",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O manual de que trata o caput, em sua versão mais recente, estará acessível na página do Open Finance no sítio eletrônico do Banco Central do Brasil na internet e no Portal do Open Finance no Brasil, mantido pela Estrutura de Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020.",
+        "Informações mais detalhadas e exemplos da aplicação deste manual poderão ser encontradas no Portal do Open Finance no Brasil (https://openfinancebrasil.org.br/), mantido pela Estrutura de Governança do Open Finance.",
+        "Adicionalmente, considerando que as ferramentas e processos de monitoramento do Open Finance estão em constante processo de desenvolvimento, este manual se restringirá a aspectos em que já é possível obter métricas para monitoramento, sendo que as demais métricas e indicadores serão posteriormente incorporados à medida que estiverem disponíveis para acompanhamento."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "conta mencionadas no inciso II desta seção deve ser realizada por meio do ordenamento, por instituição e em ordem decrescente, da quantidade total de transações de iniciação de pagamento realizadas no âmbito do Open Finance, considerando as informações reportadas pelas instituições ao Banco Central do Brasil referentes às últimas 24 semanas, contadas a partir de 20 de dezembro de 2023. As mudanças realizadas nas seções e subseções deste manual entram em vigor conforme abaixo: I - subseções 2.1, 2.2, 2.4, 2.5 e 2.6.1: a partir de 1º de julho de 2025; e II - demais seções e subseções: a partir da entrada em vigor da Instrução Normativa que contém este manual. Brasília, 20 de dezembro de 2024. "
+    },
+    {
+      "path": "reguladores/bcb/portarias/2024/portaria-n-121.086-de-22-de-agosto-de-2024-580847350.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "Os seis Anexos com competência territorial, modelos, declarações e termo estão transcritos em doze tabelas. A disponibilidade de protocolo/boleto é funcionalidade operacional, não anexo externo.",
+      "sha256_md": "b838fec39f955cc8d8439a6f2e83a37112316251014c6c593d8146e52c705c58",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-121.086-de-22-de-agosto-de-2024-580847350",
+      "hash_fonte_declarado_no_cabecalho": "5e2555423d9b2d2e4c12e943fd64ad89d5efd77a81583b2ab1e23e3c21061fae",
+      "evidencias_textuais": [
+        "**Parágrafo único.** Para recebimento da proposta de transação por via eletrônica, o devedor informará o seu endereço eletrônico por meio do Protocolo Digital, disponível em www.bcb.gov.br.",
+        "2.7 Os pagamentos deverão ocorrer por meio de boleto a ser extraído pelo devedor no sítio eletrônico https://www3.bcb.gov.br/bcjur2-internet/gerar ."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I — COMPETÊNCIA TERRITORIAL PARA APRESENTAÇÃO DE PROPOSTA DE TRANSAÇÃO INDIVIDUAL E DOCUMENTOS, COM BASE NO DOMICÍLIO DO DEVEDOR - ENDEREÇO ELETRÔNICO PARA APRESENTAÇÃO DA PROPOSTA",
+        "## ANEXO II — MODELO DE PROPOSTA DE TRANSAÇÃO - LEI Nº 13.988, DE 2020 - REQUERIMENTO - PESSOA NATURAL",
+        "## ANEXO III — MODELO DE PROPOSTA DE TRANSAÇÃO - LEI Nº 13.988, DE 2020 - REQUERIMENTO - PESSOA JURÍDICA",
+        "## ANEXO IV — DECLARAÇÃO DE INEXISTÊNCIA DE BENS",
+        "## ANEXO V — RELAÇÃO DE TODAS AS AÇÕES JUDICIAIS EM QUE O DEVEDOR É PARTE, COM ESTIMATIVA DOS VALORES DEMANDADOS (inclusive trabalhistas)",
+        "## ANEXO VI — TERMO DE TRANSAÇÃO - LEI Nº 13.988, DE 2020"
+      ],
+      "tabelas_na_transcricao": 12,
+      "evidencia_conteudo_transcrito_final": "e 2005 - atentar para o disposto no § 3º do art. 10-C da Lei nº 10.522, de 2002, e no parágrafo primeiro do art. 6º e art. 26, inciso II, da Portaria Normativa AGU nº 130, de 2024, os quais autorizam a concessão de descontos sobre o valor principal, no caso de créditos decorrentes do exercício do poder de polícia. 5 Se o inadimplemento for de empresas em recuperação judicial, conforme art. 40, parágrafo único, da Portaria Normativa AGU nº 130, de 2024, a rescisão ocorrerá pela falta de pagamento de 6 (seis) parcelas consecutivas ou de 9 (nove) parcelas alternadas - inciso I, ou na falta de pagamento de 1(uma) até 5 (cinco) parcelas, conforme o caso, se as demais estiverem pagas - inciso II. "
+    },
+    {
+      "path": "reguladores/mte/instrucoes-normativas/2024/instrucao-normativa-gm-mte-n-7-de-14-de-outubro-de-2024-590261028.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "Remissões são ao Anexo de outra portaria e à publicação de TAC/acordos/cadastros futuros. Nenhum anexo próprio é aprovado e omitido nesse trecho.",
+      "sha256_md": "6654b9546713681e148a1ae9e07bcae8441a646035024546b29653f0214d0601",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-gm/mte-n-7-de-14-de-outubro-de-2024-590261028",
+      "hash_fonte_declarado_no_cabecalho": "c398cd0f56367729fb88fa83c31ee54856b1fc976a5edd3670491f88505e4e15",
+      "evidencias_textuais": [
+        "**Art. 12.** Celebrado o TAC ou recebida comunicação feita pela Advocacia-Geral da União da homologação do acordo judicial, a Coordenação de Diálogo Social e Promoção do Trabalho Decente da Secretaria de Inspeção do Trabalho, no prazo de 5 (cinco) dias, incluirá o administrado no Cadastro de Empregadores em Ajustamento de Conduta - CEAC, que será disponibilizado no mesmo sítio eletrônico oficial do Ministério do Trabalho e Emprego em que é divulgado o Cadastro de Empregadores que tenham submetido trabalhadores a condições análogas à escravidão.",
+        "**§ 2º** A Secretaria de Inspeção do Trabalho disponibilizará no sítio eletrônico oficial do Ministério do Trabalho e Emprego, observadas eventuais restrições dispostas na Lei nº 13.709, de 14 de agosto de 2018, cópia do TAC celebrado ou do acordo judicial homologado, por meio de link inserido no CEAC.",
+        "**§ 1º** Para dar cumprimento à obrigação de dar ampla publicidade à declaração de política e aos relatórios públicos, nos termos do inciso IV, alínea \"d\", e incisos V a VII do caput, tais documentos poderão ser disponibilizados pela Coordenação de Diálogo Social e Promoção do Trabalho Decente da Secretaria de Inspeção do Trabalho, a pedido do empregador ou administrado, no sítio eletrônico oficial do Ministério do Trabalho e Emprego, localizados topicamente junto ao mesmo link em que será publicado o TAC ou acordo judicial."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "ogas à escravidão, o Ministério do Trabalho e Emprego, representando a União, não celebrará novo TAC ou acordo judicial com o empregador ou administrado. **Parágrafo único.** Considera-se efetivada a reincidência a partir da prolação de decisão administrativa de procedência irrecorrível no âmbito administrativo referente a novo auto de infração lavrado em razão da constatação de trabalho em condições análogas à escravidão dentro do prazo de 2 (dois) anos, contado da inserção do empregador ou administrado no CEAC. **Art. 45.** Os casos omissos serão resolvidos pela Secretaria de Inspeção do Trabalho. **Art. 46.** Esta Instrução Normativa entra em vigor na data de sua publicação. LUIZ MARINHO "
+    },
+    {
+      "path": "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-45-de-4-de-outubro-de-2024-593334147.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "Embora haja previsão de publicação em Boletim/Portal, o Anexo do Plano de Ação está efetivamente reproduzido na transcrição em quatro tabelas, com projetos, indicadores, metas e prazos.",
+      "sha256_md": "e4a46bee7e0e3e5d60ceb8c0da5efe19e414d193d915f79d5446a555c42db9a4",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-cegov/inss-n-45-de-4-de-outubro-de-2024-593334147",
+      "hash_fonte_declarado_no_cabecalho": "1b5875ed62ea935ad10fb58484fee6eac064ccd64c6cbed45dbad87cf4176267",
+      "evidencias_textuais": [
+        "**Art. 1º** O Anexo da Resolução CEGOV/INSS nº 37, de 28 de dezembro de 2023, publicada no Diário Oficial da União de 29 de dezembro de 2023, passa a vigorar na forma do Anexo a esta Resolução.",
+        "**Parágrafo único.** O Anexo desta Resolução será publicado em Boletim de Serviço Eletrônico e disponibilizado no Portal do INSS."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera o Anexo da Resolução CEGOV/INSS nº 37, de 28 de dezembro de 2023, que aprova o Plano de Ação do INSS para o exercício de 2024.",
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 4,
+      "evidencia_conteudo_transcrito_final": "e de monitoramento: Superintendência Regional Meta: 35 Prazo: Dezembro/24 Ação: Centralizar a licitação com registro de preços de materiais padronizados Responsável: CGLCO/DIROFL - Coordenação-Geral de Licitações e Contratos da Diretoria de Orçamento, Finanças e Logística Indicador: Quantidade de processos licitados neste modelo - CENTRALIZA Unidade de monitoramento: Nacional Meta: 16 Prazo: Dezembro/24 Projeto: Modernização da Infraestrutura Tecnológica Responsável: CGTIS/DTI - Coordenação-Geral de Tecnologia da Informação e Segurança da Diretoria de Tecnologia da Informação Indicador: Percentual de implementação do projeto Unidade de monitoramento: Nacional Meta: 81,00% Prazo: Dezembro/24 "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-517-de-30-de-agosto-de-2024-582063129.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "9bdc30753646e52779b74915fef920b64e31e187fac5d55919653de555ed03ac",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-517-de-30-de-agosto-de-2024-582063129",
+      "hash_fonte_declarado_no_cabecalho": "b8fe1b6252cf0ac59e60d3a48b3cb4e9840a7f414fcb87640d3e04d5bad3a1b5",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O documento \"Requisitos Mínimos para a Experiência do Usuário\" está disponível no endereço eletrônico do Banco Central do Brasil na internet, na página destinada aos manuais que compõem o Regulamento do Pix: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/IV\\_RequisitosMinimosparaExperienciadoUsuario.pdf",
+        "-Página 63 - item 05: ajustes no texto referente à não efetivação de transação agendada, em função de insuficiência de saldo na conta do usuário. -Página 63 - item 05: ajustes no texto referente à não efetivação de transação agendada, em função de insuficiência de saldo na conta do usuário.  Capítulo 14: - Página 71 - item 06: alterações referentes à sanitização do campo \"Condições de disponibilização do serviço de saque\"; -Página 72 - item 11: alterações referentes à sanitização do campo \"infoAdicionais\"; -Página 73 - item 14: alterações referentes à sanitização do campo \"infoAdicionais\"; -Página 74 - item 16: alterações referentes à sanitização do campo \"infoAdicionais\"; e -Página 75 - item 19: alterações nas informações mínimas dos comprovantes das transações Pix Saque e Pix Troco. Capítulo 15: -Página 81 - item 15 (novo): obrigatoriedade de o prestador do serviço de iniciação de transação de pagamento cumprir os requisitos referentes ao conjunto de dados que deve ser informado ao usuário pagador antes da confirmação do pagamento, para cada forma de iniciação; -Página 82 - item 16 (novo): padronização do conjunto de dados que deve ser informado ao usuário pagador pelo prestador do serviço de iniciação de transação de pagamento e pelo participante detentor da conta transacional, nos casos em que o prestador do serviço de iniciação de transação de pagamento possui todas as informações do usuário recebedor.  Capítulo 17: -Página 87: ajustes das informações do payload da tela exemplificativa; e -Página 88 - item 02 (novo): obrigatoriedade de exibição das informações do pay"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 517, DE 30 DE AGOSTO DE 2024"
+      ],
+      "tabelas_na_transcricao": 14
+    },
+    {
+      "path": "reguladores/antt/portarias/2023/portaria-n-1-de-4-de-janeiro-de-2023-457159645.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "70d51e6df031b797b50892e6aa8c6e4950408e4144991d27fa2a9c2dee65a5cd",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-1-de-4-de-janeiro-de-2023-457159645",
+      "hash_fonte_declarado_no_cabecalho": "e6f3b9a16baaaf51f034ba1dd37ed7cdb6fb052d737a99984410d9a6e57c521c",
+      "evidencias_textuais": [
+        "**Art. 1º** Aprovar o Plano Anual de Fiscalização da Superintendência de Transporte Ferroviário - SUFER para o exercício de 2023, consubstanciado nos seguintes documentos, todos disponíveis no sítio eletrônico da ANTT:"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "I - Anexos A e B, referentes à Gerência de Controle e Fiscalização de Infraestrutura e Serviços - GECOF/SUFER; e",
+        "II - Anexo C, referente à Gerência de Fiscalização Econômico-Financeira -GEFEF/SUFER."
+      ],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/antt/portarias/2023/portaria-n-3-de-13-de-janeiro-de-2023-460764350.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova/altera plano, minutas ou anexos e determina disponibilização no sítio ANTT. A transcrição contém comando e assinaturas, sem o documento normativo aprovado/alterado.",
+      "sha256_md": "3dbca8b33c3dcaf1782d809b1bfff793fad92a15f7d3faa04e978c798b3d2f3c",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-3-de-13-de-janeiro-de-2023-460764350",
+      "hash_fonte_declarado_no_cabecalho": "2134a9e1b65c2037e51b5a457ccdb40175c695c63cc3ae721d993271fe622a0e",
+      "evidencias_textuais": [
+        "**Art. 1º** Aprovar o Plano Anual de Fiscalização Econômico-Financeira 2023, aplicável às Concessionárias do Serviço Público de Exploração da Infraestrutura Rodoviária Federal, na forma do Anexo, disponível no sítio eletrônico da ANTT."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-384-de-18-de-maio-de-2023-484561135.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "79ad61dfa07e128c28c67b89a5e9cb58397a1a4208339316bb774e577ba321fc",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-384-de-18-de-maio-de-2023-484561135",
+      "hash_fonte_declarado_no_cabecalho": "d1af83fad452ac04f557fdb6073f07bb7444b3407bed83383ff3c16f6d0a5c49",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Tempos do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/ versoes\\_futuras/IX\\_ManualdeTemposdoPix-versao5-1.pdf"
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-360-de-8-de-marco-de-2023-468775590.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O ato altera vigência e endereço de contato de um anexo de outra instrução normativa; a nova redação está integralmente reproduzida, sem anexo próprio remetido a sítio.",
+      "sha256_md": "a893887cf190e2f1a2cf164401588b5622b30b5a6519924eea84a37ddb73b9b5",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-360-de-8-de-marco-de-2023-468775590",
+      "hash_fonte_declarado_no_cabecalho": "591cac73423193b140f2747d3f52b7846b622164dc5dfdc3a7da1cb30c1b1c3b",
+      "evidencias_textuais": [],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": " à Instrução Normativa BCB nº 355, de 2023, passa a vigorar com a seguinte alteração: \".............................................................................................................................. ................................................................................................................................ \"Endereço Eletrônico para Solução de Dúvidas sobre o Preenchimento e a Remessa do Documento\": poupanca-diaria@bcb.gov.br . .....................................................................................................................\" (NR) **Art. 3º** Esta Instrução Normativa entra em vigor na data da sua publicação. Gilneu Francisco Astolfi Vivan "
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.553-de-1-de-fevereiro-de-2023-461733644.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "8e65f7d8f236ea688a6308535085dd6829a3ef7660b86f456316a6f62caedd95",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-pres/inss-n-1.553-de-1-de-fevereiro-de-2023-461733644",
+      "hash_fonte_declarado_no_cabecalho": "cb290f311a5ee4856ca08e2fed9098121bbe95fda8ef8f15a422991e6dba5616",
+      "evidencias_textuais": [
+        "**Art. 5º** O Anexo será publicado em Boletim de Serviço Eletrônico e divulgado no Portal do INSS e no gov.br."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.120-de-15-de-marco-de-2023-472357776.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "bf4826bfd07960139beb3347ebf871793d9dd6554b89a05ad174e2e59496c555",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-dirben/inss-n-1.120-de-15-de-marco-de-2023-472357776",
+      "hash_fonte_declarado_no_cabecalho": "b626898ef49c96e5b4919da7d0f381e4639093c6f0035684047feec5b0e81802",
+      "evidencias_textuais": [
+        "**Art. 2º** Aprovar o Anexo II - Cálculo de Juros de Mora (SEI 10891078) que passará a compor a Portaria Dirben/INSS nº 934, de 29 de setembro de 2021, e está disponível no Portal do INSS na intraprev."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-361-de-10-de-marco-de-2023-469414699.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "As alterações pontuais do AnexoI do MCR Documento6 estão transcritas entre aspas. O portal disponibiliza o consolidado da norma anterior; não é um novo anexo próprio omitido.",
+      "sha256_md": "3db5396bae794943283396c5ab7d9afd48be53ebb11c1b014137d28ab605e665",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-361-de-10-de-marco-de-2023-469414699",
+      "hash_fonte_declarado_no_cabecalho": "9484ecd45d27a77002e0691145d4f58c7a1fd00cf7500663423ab8d48d60e21c",
+      "evidencias_textuais": [
+        "**Art. 2º** O Anexo I do MCR - Documento 6 encontra-se disponibilizado no sítio eletrônico do Banco Central do Brasil, na página de consulta ao MCR, disponível no endereço eletrônico www3.bcb.gov.br/mcr."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera o Anexo I do Documento 6 (Demonstrativo das Exigibilidades e das Aplicações de Crédito Rural) do Manual de Crédito Rural (MCR)."
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "lidades de aplicação em crédito rural, ao final do período de cumprimento (posição informada do mês de junho), relativamente aos recursos dos MCR 6-2, 6-4 e 6-7, na forma apurada pelo MCR - Documento 6, fica sujeita, no último dia útil do mês de setembro do ano em que for finalizado o período de cumprimento, ao pagamento de custo financeiro, na forma do MCR 6.\" (NR) **Art. 2º** O Anexo I do MCR - Documento 6 encontra-se disponibilizado no sítio eletrônico do Banco Central do Brasil, na página de consulta ao MCR, disponível no endereço eletrônico www3.bcb.gov.br/mcr. **Art. 3º** Esta Instrução Normativa BCB entra em vigor em 3 de abril de 2023. CARLOS HENRIQUE MORAES ZANATTA AMATO Substituto "
+    },
+    {
+      "path": "reguladores/confaz/atos-normativos/2023/ato-cotepe-icms-n-26-de-22-de-marco-de-2023-472347150.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato publica MOC NFCom1.00a e anexo de leiaute/regras de validação como arquivos externos identificados inclusive por MD5. A transcrição traz identificadores e hashes, sem os dois documentos.",
+      "sha256_md": "55f1c17607814c848edd63efaf053713d9d7fad240a883d19327c3d8762d23b1",
+      "fonte": "https://www.in.gov.br/web/dou/-/ato-cotepe/icms-n-26-de-22-de-marco-de-2023-472347150",
+      "hash_fonte_declarado_no_cabecalho": "ea023f75675997abd3e2b3e32652a794839adbc4b6492f493ae10bc38eb77b0f",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O MOC e anexos referidos no \"caput\" serão disponibilizados no sítio eletrônico do CONFAZ (www.confaz.fazenda.gov.br) com as seguintes identificações e terão as respectivas chaves de codificação digital obtidas com a aplicação do algoritmo MD5 - \"MessageDigest\" 5:"
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-576-de-21-de-marco-de-2023-471925019.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "c86a32299c18f894e7fb97ce4b81954a1d77448bf9791b1c7b7bc94b86f08414",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-576-de-21-de-marco-de-2023-471925019",
+      "hash_fonte_declarado_no_cabecalho": "97500d3aedbb74b334c6c3c73e71c1d0e8b37a6f0d3212befe973d99d1b8ac8f",
+      "evidencias_textuais": [
+        "**Art. 3º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I À MINUTA DE NORMA",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 0,
+      "evidencia_conteudo_transcrito_final": "ento escrito e firmado, com a expressa manifestação da vontade da pessoa, após receber informações a respeito dos riscos da cirurgia, possíveis efeitos colaterais, dificuldades de sua reversão e opções de contracepção reversíveis existentes; e. seja realizado por profissional habilitado para proceder a sua reversão. Grupo II a. quando a manifestação de vontade expressa para fins de esterilização cirúrgica (vasectomia) ocorrer durante alterações na capacidade de discernimento por influência de álcool, drogas, estados emocionais alterados ou incapacidade mental temporária ou permanente; b. em pessoas absolutamente incapazes, exceto mediante autorização judicial, regulamentada na forma da lei. "
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.121-de-23-de-marco-de-2023-474548939.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "457fabad6e1468afb08febb08f362b745db5fee19adae371ba9ac196b874649a",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-dirben/inss-n-1.121-de-23-de-marco-de-2023-474548939",
+      "hash_fonte_declarado_no_cabecalho": "c47abc25651bb892984bb54e46f412343918c7bd0dc80a645f33369619fb1cba",
+      "evidencias_textuais": [
+        "**§ 2º** Existem 3 (três) tipos de indicadores no Portal CNIS:",
+        "I - Indicador de Pendência (CsPendencia): identifica a informação que possui alguma pendência, sendo necessária a atualização dessa informação no Portal CNIS para que ocorra a sua liberação e utilização pelos sistemas de benefícios. Geralmente informado com \"P\" na primeira letra da sigla do indicador;",
+        "**Art. 2º** Aprovar o Anexo V - Relação dos Indicadores Disponibilizados no CNIS (SEI 11137035) que passará a compor a Portaria Dirben/INSS nº 990, de 28 de março de 2022, que serão disponibilizados no Portal-INSS, na intraprev."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-575-de-8-de-marco-de-2023-469379563.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "25a115cbd694f4f443656e211c60b4afaec18a123ffb0cf6e29a2b083e6f117c",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-575-de-8-de-marco-de-2023-469379563",
+      "hash_fonte_declarado_no_cabecalho": "5d1253062f84e35e6cc89504a713f756a8c054591ea737c79c9ba96049fc51f7",
+      "evidencias_textuais": [
+        "**Art.4º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I — ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": " ter apresentado, durante a gestação do paciente, síndrome HELLP (hemólise, enzimas hepáticas aumentadas e baixa contagem de plaquetas) ou Fígado Gorduroso Agudo da Gravidez. 3\\. Cobertura obrigatória na triagem neonatal para detecção precoce da deficiência de acilCoA desidrogenase de cadeia média (MCADD). Método de análise espectrometria de massas em tandem qualitativo e quantitativo. 158\\. TERAPIA MEDICAMENTOSA INJETÁVEL AMBULATORIAL (COM DIRETRIZ DE UTILIZAÇÃO) SUBSTÂNCIA INDICAÇÃO Alfaepoetina Tratamento em primeira linha de pacientes adultos com Síndrome Mielodisplásica de Baixo Risco com anemia sintomática (Hb menor ou igual a 10 g/L) e antes da dependência transfusional estabelecida. "
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.566-de-9-de-maio-de-2023-482381264.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "50ac461d89c128310bb43df085a344cf36ae4897db4c4b7de6db92129aca64d6",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-pres/inss-n-1.566-de-9-de-maio-de-2023-482381264",
+      "hash_fonte_declarado_no_cabecalho": "f16b39495286b5ed3e8c8587d1e10c00451eceb2580d5bec87e7e1c1e88ba927",
+      "evidencias_textuais": [
+        "**Art. 2º** Os Anexos desta Portaria serão publicados no Boletim de Serviço Eletrônico e divulgados no Portal do Instituto no gov.br."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera Anexos da Portaria PRES/INSS nº 1.494, de 9 de setembro de 2022, que fixou a localização, denominação, codificação, vinculação, tipologia e o nível de referência das respectivas Funções Comissionadas Executivas e Cargos Comissionados Executivos de órgãos e unidades do INSS."
+      ],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.564-de-24-de-abril-de-2023-478921765.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "7e554d6c7adbd0756e869fd4841228f9062bb936c5c88fa73aa4cffe693613af",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-pres/inss-n-1.564-de-24-de-abril-de-2023-478921765",
+      "hash_fonte_declarado_no_cabecalho": "097683c38e741a4fcd181b88c9d049ae449e532d1c61d73949d6191fa465dc2d",
+      "evidencias_textuais": [
+        "**Art. 2º** Os Anexos desta Portaria serão publicados no Boletim de Serviço Eletrônico e divulgados no Portal do Instituto no gov.br."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "Altera Anexos da Portaria PRES/INSS nº 1.494, de 9 de setembro de 2022, que fixou a localização, denominação, codificação, vinculação, tipologia e o nível de referência das respectivas Funções Comissionadas Executivas e Cargos Comissionados Executivos de órgãos e unidades do INSS."
+      ],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-rn-n-577-de-5-de-maio-de-2023-481827363.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "882827d04506747a17588834431ef0c78291e24ee9d1fb22b0a8048e3871b8e9",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-rn-n-577-de-5-de-maio-de-2023-481827363",
+      "hash_fonte_declarado_no_cabecalho": "249737db04c2501d0be899a2db05a77122c0c97d5ca813322910898165acab92",
+      "evidencias_textuais": [
+        "**Art. 5º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": "ção de pacientes adultas com carcinoma epitelial avançado (estágio FIGO III-IV) de ovário (incluindo trompa de Falópio ou peritoneal primário) com status HRD positivo e que respondem (resposta completa ou parcial) à quimioterapia em primeira linha, baseada em platina Darolutamida Próstata Em combinação com docetaxel, para o tratamento de pacientes com câncer de próstata metastático hormônio-sensível 160\\. TESTE DE DEFICIÊNCIA DE RECOMBINAÇÃO HOMÓLOGA, HRD 1\\. Cobertura obrigatória para o diagnóstico de elegibilidade de pacientes com indicação de uso de medicação em que a bula ou a diretriz de utilização determine a análise de deficiência de recombinação homóloga para o início do tratamento. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-368-de-31-de-marco-de-2023-474890440.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "7014ac86825726c1c37337a71f4ea9bf09746ac72e4f9cf31faab59e3c64110e",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-368-de-31-de-marco-de-2023-474890440",
+      "hash_fonte_declarado_no_cabecalho": "efdabe2df4ead4f3a1297ef6c6660509341159899d2030c598560fbee5c3e4eb",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Fluxos do Processo de Efetivação do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/versoes\\_futuras/III\\_ManualdeFluxosdoProcessodeEfetivacaodoPix-versao1-4.pdf"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-367-de-31-de-marco-de-2023-474895558.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "a3bc4ec2099c0f9fbba0de67134d2101d66308f0064fce9e18333b03f5ba3c50",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-367-de-31-de-marco-de-2023-474895558",
+      "hash_fonte_declarado_no_cabecalho": "7f9b72eb2081fbdea273443dab9d991b01f26cb03138fa4ddf4a309ac701287d",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual das Interfaces de Comunicação está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/cedsfn/Manual%20das%20Interfaces%20de%20Comunicacao-1.11.pdf"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-571-de-8-de-fevereiro-de-2023-463841500.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A cláusula de consulta/cópia no portal não indica omissão: a redação normativa do(s) Anexo(s) está reproduzida após o corpo do ato, incluindo tabelas/critério(s) quando aplicável.",
+      "sha256_md": "143b73b79b4b6648334c04eccf85b0ef1543ef7a395059944e9ab16464fe3bc8",
+      "fonte": "https://www.in.gov.br/web/dou/-/resolucao-normativa-ans-n-571-de-8-de-fevereiro-de-2023-463841500",
+      "hash_fonte_declarado_no_cabecalho": "2f9147f961ec9f2f3c0e06b99fd5df2f3db76a42f556c0764255b9eae494edf7",
+      "evidencias_textuais": [
+        "**Art. 8º** Esta RN, bem como seu Anexo estarão disponíveis para consulta e cópia no sítio institucional da ANS na Internet (www.gov.br/ans)."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I — À MINUTA DA NORMA",
+        "ANEXO I DA RESOLUÇÃO NORMATIVA Nº 465/2021",
+        "ANEXO II DA RESOLUÇÃO NORMATIVA Nº 465/2021"
+      ],
+      "tabelas_na_transcricao": 2,
+      "evidencia_conteudo_transcrito_final": " (COM DIRETRIZ DE UTILIZAÇÃO) 1\\. Cobertura obrigatória para detecção de tuberculose latente, quando preenchido pelo menos um dos critérios abaixo: a. paciente em uso de medicamentos biológicos; b. paciente candidato à imunossupressão; c. paciente portador de HIV; d. paciente com doença inflamatória imunomediada; e. paciente receptor de transplante de órgão sólido. (...) 159\\. TERAPIA AVANÇADA PARA O TRATAMENTO DA ATROFIA MUSCULAR ESPINHAL (COM DIRETRIZ DE UTILIZAÇÃO) 1\\. Cobertura obrigatória do medicamento Onasemnogeno abeparvoveque para o tratamento de pacientes pediátricos com até 6 meses de idade com AME tipo I que estejam fora de ventilação mecânica invasiva acima de 16 horas por dia. "
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.548-de-19-de-janeiro-de-2023-458996125.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "5ad3739799680766d44b84ce5d9d5463cd344b1b6da5cab4274d07826c2ee1c0",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-pres/inss-n-1.548-de-19-de-janeiro-de-2023-458996125",
+      "hash_fonte_declarado_no_cabecalho": "03a5e31583edab8daa443d4e66976a6016c14312e3b4b5375a9995f7fb65d3f7",
+      "evidencias_textuais": [
+        "**Art. 18.** As denúncias que demandarem trabalho desproporcional para a sua pseudonimização poderão ser encaminhadas às áreas de apuração sem seus anexos, com indicação de que os documentos estão sob a guarda da ouvidoria e que se encontram disponíveis mediante solicitação formal da área de apuração, nos termos do Decreto nº 10.153, de 3 de dezembro de 2019."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-369-de-31-de-marco-de-2023-474901758.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "22622e2cab20f535a37803c22dadd4ffe5b52cf910be04de10232c4f7650a671",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-369-de-31-de-marco-de-2023-474901758",
+      "hash_fonte_declarado_no_cabecalho": "58b4375b0355a07b2ac9d35e1134424c78e240b786cf962b8b0aa499cd7b548c",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual de Tempos do Pix está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/versoes\\_futuras/IX\\_ManualdeTemposdoPix-versao5-0.pdf",
+        "Data Versão Descrição das alterações 11/8/2020 1.0 10/9/2020 1.1 Inclusão de nova seção (3.2.1.4), com novo ANS de cancelamento de reivindicação de posse para o PSP reivindicador. Seção 1: correção da referência da seção a qual se refere a figura ilustrativa. Seção 3.2.2.3: correção nas etapas do fluxo de reivindicação 12/11/2020 2.0 Estrutura: Inserção da seção 4 \"Índice de disponibilidade dos participantes\". Seção 1: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. Seção 2: Inserção de referência à Instrução Normativa nº 5, que define os limites máximos de tempo para validação e para liquidação das ordens de pagamentos instantâneos que cursam no SPI. Seção 2: Retirada da possibilidade de tempo máximo diferenciado para autorização de iniciação de transações pelo participante prestador de serviço de pagamento do usuário pagador, nos casos de transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. O tempo máximo diferenciado passa a ser somente para transações com suspeita de fraude. Seção 3: esclarecimento de que, para fins de contabilização dos ANS, todas as mensagens devem ser consideradas, inclusive aquelas de erro. Seção 3.1.2.1: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo. Seção 3.1.2.2: retirada da menção a transações com suspeita de infração à regulação de prevenção à \"lavagem\" de dinheiro e ao financiamento do terrorismo."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.131-de-12-de-maio-de-2023-483061844.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "2946a558dff586de37b1adb14c4d9ad9de8f2cd7f7d31c56bfae6e22c0ec0744",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-dirben/inss-n-1.131-de-12-de-maio-de-2023-483061844",
+      "hash_fonte_declarado_no_cabecalho": "20a64601f94d686a030c890cece488c417e320c565bb0719104ca7a62772b1a4",
+      "evidencias_textuais": [
+        "**Art. 18.** A SR consolidará o resultado dos participantes do PGARP de suas unidades e publicará Portaria no Boletim de Serviço Eletrônico com a lista de participantes selecionados por GEX e a data de início das atividades no programa.",
+        "**§ 1º** A listagem com os nomes dos servidores participantes do PGARP deverá ser publicada no portal do INSS, na Intranet.",
+        "**Art. 27.** No caso de ocorrência de qualquer das hipóteses de que trata este Capítulo, a respectiva SR deverá publicar Portaria no Boletim de Serviço Eletrônico, referente ao desligamento do servidor."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/inss/instrucoes-normativas/2023/instrucao-normativa-pres-inss-n-142-de-4-de-janeiro-de-2023-456629905.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O próprio ato determina publicação/disponibilização de seus anexos em Boletim/Portal/Intraprev. A transcrição encerra nas disposições finais e assinaturas, sem reproduzir o conteúdo dos anexos aprovados/alterados.",
+      "sha256_md": "75d7c477d34c48652444e4ac0212553cd9190d65cacc70ad646925c34e3d3e7f",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-pres/inss-n-142-de-4-de-janeiro-de-2023-456629905",
+      "hash_fonte_declarado_no_cabecalho": "84b99a607821c8b02ca0c37c0a4f4e73b2bbeaaa553c887277a8a046385b6d1e",
+      "evidencias_textuais": [
+        "**Art. 26.** Os Anexos desta Instrução Normativa serão publicados em Boletim de Serviço Eletrônico e no Portal gov.br."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-375-de-28-de-abril-de-2020-480220998.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "39239dd7f991d223f8064560312b96013bfc9010500d18565e3e83e4df05488c",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-375-de-28-de-abril-de-2020-480220998",
+      "hash_fonte_declarado_no_cabecalho": "a3e4a85bd52b9e4f5f52ffe8485a0f28082863e1f7f54635deece989e4db43ab",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O Manual Operacional do DICT está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/X\\_ManualOperacionaldoDICT.pdf",
+        "Data Versão Descrição das alterações 11/8/2020 1.0 10/9/2020 1.1 Seção 6: Ajustes na redação do fluxo de reivindicação, para deixar mais claro seu funcionamento: caso o usuário doador não se manifeste dentro do período de resolução, o PSP doador deve necessariamente confirmar a reivindicação no DICT; no período de encerramento, o usuário doador pode somente validar a posse da chave, cancelando o processo. A confirmação não é possível durante esse período; e previsão de que o PSP reivindicador deve cancelar o processo de reivindicação no DICT caso seu usuário não faça a validação ativa da chave até o trigésimo dia após o início do processo de reivindicação. Seção 6.1: ajustes nas etapas 5 e 7, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.2: ajustes nas etapas 7, 11, 12 e 13, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.3: ajuste no fluxo; e ajustes nas etapas 4, 12, 14, 15, 16, 17, 19 e 20, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 6.4: ajuste no fluxo; e ajustes nas etapas 6, 16, 18, 20, 21, 22, 23, 27 e 28, para deixar a redação mais clara e para incorporar os ajustes feitos ne seção 6. Seção 9: ajuste para deixar claro que a verificação de sincronismo não precisa ser realizada diariamente. Ela precisa ser realizada em intervalos máximos de 36 horas, conforme Manual de Tempos do Pix. Seção 10: ajuste para prever que a notificação de infração pode ser cancelada a qualquer tempo. Seção 10.1: ajuste na nomenclatura das mensagens enviadas para o "
+      ],
+      "titulos_anexo_na_transcricao": [
+        "ANEXO À INSTRUÇÃO NORMATIVA BCB Nº 375 DE 28 DE ABRIL DE 2023"
+      ],
+      "tabelas_na_transcricao": 1
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-347-de-31-de-janeiro-de-2023-461735123.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "A versão do manual/documento Pix divulgada pelo ato está em PDF externo. O bloco chamado ANEXO da transcrição contém apenas histórico de revisões e nota de AIR, sem o corpo integral do manual; título e tabelas de histórico não bastam.",
+      "sha256_md": "bff722d67cd98946c212bf7212d7940d615849d50b4268ecfe65e528b0977ac3",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-347-de-31-de-janeiro-de-2023-461735123",
+      "hash_fonte_declarado_no_cabecalho": "e3a9bf7e6511d5793740e213a9513f01ef5c6ee0b623e34510a6fd8b2be9ebdf",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O documento \"Requisitos Mínimos para a Experiência do Usuário\" está disponível no endereço eletrônico do Banco Central do Brasil na internet: https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento\\_Pix/IV\\_RequisitosMinimosparaExperienciadoUsuario.pdf",
+        "-Página 82 - item 16 (novo): padronização do conjunto de dados que deve ser informado ao usuário pagador pelo prestador do serviço de iniciação de transação de pagamento e pelo participante detentor da conta transacional, nos casos em que o prestador do serviço de iniciação de transação de pagamento possui todas as informações do usuário recebedor.  Capítulo 17: -Página 87: ajustes das informações do payload da tela exemplificativa; e -Página 88 - item 02 (novo): obrigatoriedade de exibição das informações do payload do QR dinâmico, para pagamentos com vencimento no Internet Banking.  Anexo I -Página 8: ajustes no item 10 - inclusão de referência ao Mecanismo Especial de Devolução; -Página 12: alteração do item 3 - sanitização do campo \"Descrição; -Página 14: alteração do item 6 - retorno da informação do nome do PSP do recebedor passa ser opcional nas transações iniciadas por chave; -Página 16: alteração do item 12 - obrigatoriedade das informações do CPF (mascarado ou não) / CNPJ do recebedor e das informações (nome, CPF (mascarado ou não) / CNPJ e nome do PSP) da ponta pagadora no comprovante, que deve ser disponibilizado para os usuários pagador e recebedor, e alterações referentes à sanitização do campo \"Descrição\"; -Página 19: alteração do item 1 - vedação à exibição dos nomes dos participantes liquidantes especiais na lista de instituições participantes e esclarecimentos sobre o número associado a cada PSP; -Página 21: alteração do item 8 - obrigatoriedade das informações do CPF (mascarado) / CNPJ do recebedor e das informações (nome, CPF (mascarado ou não) / CNPJ "
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 4
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-373-de-25-de-abril-de-2023-479521926.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "A transcrição contém as alterações e questionários/formulários incorporados à IN291 e a nota de AIR. “Modelo disponível no Anexo” é referência interna à IN alterada, não anúncio de arquivo externo omitido por este ato.",
+      "sha256_md": "f5bb255ef202c441bd2af5ec27ccbdeb3a73e7ba0ea16dfb14a492e7f4811e59",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-373-de-25-de-abril-de-2023-479521926",
+      "hash_fonte_declarado_no_cabecalho": "920e578cd7af672cbe4b7dadc7e847466fa1daafefe0da803dffc3fabf028c5f",
+      "evidencias_textuais": [
+        "I - formulário de adesão ao Pix, contendo as informações da instituição, conforme modelo disponível no Anexo I desta Instrução Normativa;",
+        "II - formulário de produtos e serviços que ofertará, conforme modelo disponível no Anexo I da Instrução Normativa BCB nº 290, de 29 de julho de 2022; e",
+        "a) conforme modelo disponível no Anexo VI desta Instrução Normativa, caso pretenda acessar de forma direta o DICT e ser participante direto do SPI; ou"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "\"Anexo VI - Questionário de autoavaliação em segurança - Instituições que pretendam atuar na modalidade provedor de conta transacional, acessar de forma direta o DICT e ser participante direto do SPI",
+        "\"Anexo VIII - Questionário de autoavaliação em segurança - Instituições que pretendam atuar na modalidade liquidante especial",
+        "\"Anexo IX - Questionário de autoavaliação em segurança - Instituições que pretendam atuar na modalidade iniciador e acessar de forma direta o DICT",
+        "\"Anexo X - Questionário de autoavaliação em segurança - Instituições que pretendam atuar na modalidade iniciador e acessar de forma indireta o DICT",
+        "\"Anexo XI - Questionário de autoavaliação em segurança - Instituições que pretendam atuar na modalidade iniciador e sem acesso ao DICT",
+        "\"Anexo I - Formulário de adesão ao Pix e de atualização cadastral para instituições que tenham autorização para funcionamento do Banco Central do Brasil e que pretendam atuar na modalidade provedor de conta transacional",
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 10,
+      "evidencia_conteudo_transcrito_final": " a obrigatoriedade da realização de análise de impacto regulatório (AIR) para a edição de atos normativos de interesse geral produzidos pelos órgãos e entidades da administração pública federal direta e indireta. Todavia, consoante se definiu no parágrafo 8 do Voto 280/2021-BCB, de 10 de novembro de 2021, o Regulamento do Pix, inclusive os demais documentos que o integram ou que o detalham e o complementam, não se caracterizam como ato regulatório de força cogente, ostentando, em verdade, natureza eminentemente contratual. Assim, modificações promovidas no referido regulamento e nos demais documentos que o integram ou que o detalham e o complementam não se sujeitam à produção prévia de AIR. "
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-371-de-10-de-abril-de-2023-476396660.md",
+      "classificacao": "integra_no_quesito_anexo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "O próprio Manual do Open Finance está reproduzido além do histórico: termos de uso, referências, seções numeradas, regras e disposições finais. A menção ao portal disponibiliza cópia/versão mais recente e guias auxiliares, sem substituir o anexo transcrito.",
+      "sha256_md": "10c676d118d105c9ff05e55d2cf3f2767a3fa184086a83a84c97b41266ab3c12",
+      "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-371-de-10-de-abril-de-2023-476396660",
+      "hash_fonte_declarado_no_cabecalho": "698dd9ebbb52161d31a1a33e31b0a93692eda74c1079449526b5052f2b86902c",
+      "evidencias_textuais": [
+        "**Parágrafo único.** O manual de que trata o caput, em sua versão mais recente, estará disponível na página do Open Finance no sítio eletrônico do Banco Central do Brasil na internet e no Portal Open Financedo Brasil, mantido pela Estrutura Responsável pela Governança do Open Finance de que trata o art. 44, § 1º, da Resolução Conjunta nº 1, de 4 de maio de 2020.",
+        "Informações mais detalhadas e exemplos da aplicação deste manual poderão ser encontradas nos guias e tutoriais disponíveis no Portal do Open Finance no Brasil, na Área do Desenvolvedor.",
+        "Referência Origem Resolução Conjunta nº 1, de 2020 https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&amp;numero=1 Circular nº 4.015, de 2020 https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&amp;numero=4015 Resolução BCB nº 32, de 2020 https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&amp;numero=32 Resolução BCB nº 1, de 2020 https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&amp;numero=1 Lei nº 13.709, de 2018 - Lei Geral de Proteção de Dados Pessoais (LGPD) https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm ISO 4217 https://www.iso.org/iso-4217-currency-codes.html ISO 3166 https://www.iso.org/iso-3166-country-codes.html Documento 3040 https://www.bcb.gov.br/estabilidadefinanceira/scrdoc3040 Portal do Open Finance no Brasil https://openfinancebrasil.org.br/ Resolução CNSP nº 415, de 20 de julho de 2021 https://www.in.gov.br/en/web/dou/-/resolucao-cnsp-n-415-de-20-de-julho-de-2021-333272165 Circular Susep nº 635, de 20 de julho de 2021 https://www.in.gov.br/en/web/dou/-/circular-susep-n-635-de-20-de-julho-de-2021-333254618"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO"
+      ],
+      "tabelas_na_transcricao": 28,
+      "evidencia_conteudo_transcrito_final": " transação de pagamento de Pix, os requisitos técnicos, o escopo, as formas de iniciação e demais procedimentos operacionais necessários devem ser implementados pelas instituições participantes conforme os limites estabelecidos pela regulamentação vigente. Os dados e demais requisitos para o compartilhamento do serviço de iniciação de transação de pagamento na modalidade Pix devem ser consultados nos regulamentos, documentos, manuais técnicos e demais instruções desse arranjo de pagamento. Demais dados e informações detalhados de caráter técnico necessários para o referido compartilhamento deverão ainda ser disponibilizadas no Portal do Open Finance no Brasil. Brasília, 10 de abril de 2023. "
+    },
+    {
+      "path": "reguladores/integracao/portarias/2024/portaria-sedec-midr-n-2.347-de-3-de-julho-de-2024-570602070.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "Plano de Capacitação Continuada2024–2028 aprovado como Anexo Único e remetido ao portal; a transcrição não contém o plano.",
+      "sha256_md": "0634e4477b897c8b4b9e8dab5802da40c04e5ae4769c87249acb39011ae6f61f",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-sedec/midr-n-2.347-de-3-de-julho-de-2024-570602070",
+      "hash_fonte_declarado_no_cabecalho": "acd1e3cd0541d1d1a977d87cde585db23525b7468245dbb5d6ea422b8d23403b",
+      "evidencias_textuais": [
+        "**Art. 1°** Aprovar o Plano de Capacitação Continuada em Proteção e Defesa Civil - 2024-2028, constante do Anexo Único e disponível no sítio eletrônico: https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/capacitações."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/aneel/portarias/2024/portaria-n-6.915-de-13-de-dezembro-de-2024-602943623.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova anexos e os remete à biblioteca ANEEL; a transcrição não contém os anexos.",
+      "sha256_md": "ccc0484a9b409edb6c0ea086a4f18d62b186a205674600f55d74b367f230eccb",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-6.915-de-13-de-dezembro-de-2024-602943623",
+      "hash_fonte_declarado_no_cabecalho": "c0061d0bf92b4383f11006ce639e30f572ea9432a505bc43352aff81e46402de",
+      "evidencias_textuais": [
+        "**Art. 2º** Os Anexos desta Portaria, encontram-se disponíveis no endereço eletrônico biblioteca.aneel.gov.br."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-71387.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova manual/tabelas/leiautes da e-Financeira como anexo(s) e remete a download externo. O documento termina após o artigo de vigência e assinatura, sem o anexo aprovado.",
+      "sha256_md": "b663343973b0d5c23c30e497395e72a8bd1bed4843fff610f490639f2bac67fd",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71387/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "857a82cd753ae46b1d227630a451fb33a972e8c9b4672cf8a8cdb9a15f12ef7f",
+      "evidencias_textuais": [
+        "**Art. 1º** Fica aprovada a nova versão do Manual de Preenchimento da e-Financeira, de que trata o inciso II do art. 15 da Instrução Normativa RFB nº 1.571, de 02 de julho de 2015, constante do anexo único deste Ato, disponível para download na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço http://http://www1.receita.fazenda.gov.br/sistemas/e-Financeira/manual-de-preenchimento.htm."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-72928.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova manual/tabelas/leiautes da e-Financeira como anexo(s) e remete a download externo. O documento termina após o artigo de vigência e assinatura, sem o anexo aprovado.",
+      "sha256_md": "c8fc3436ab6663157721d9542c69b1c9bad03b72333c35aa6349633eec8b8191",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/72928/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "3b1820a25d3b7a01dc094ce03bccc02d9f6d835477fead1426d2795ce9691a06",
+      "evidencias_textuais": [
+        "**Art. 1º** Fica aprovada a versão 1.0.2 do Manual de Preenchimento da e-Financeira, de que trata o inciso II do art. 15 da Instrução Normativa RFB nº 1.571, de 02 de julho de 2015, constante do anexo único deste Ato, disponível para download na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço http://http://www1.receita.fazenda.gov.br/sistemas/e-Financeira/manual-de-preenchimento.htm."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-73019.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova manual/tabelas/leiautes da e-Financeira como anexo(s) e remete a download externo. O documento termina após o artigo de vigência e assinatura, sem o anexo aprovado.",
+      "sha256_md": "0c0b9d3d22c53d15c188104da457ce05c943b00c3e7e425498e96372ad6807c4",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/73019/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "524b5798b38d10e01fe76070106acc8521b802c74358efbeaf20d43c3b12b1fe",
+      "evidencias_textuais": [
+        "**Art. 1º** Fica aprovada a nova versão das Tabelas da e-Financeira (anexo VIII), de que trata o inciso I do art. 15 da Instrução Normativa RFB nº 1.571, de 02 de julho de 2015, constante do anexo único deste Ato, disponível para download na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço http://www1.receita.fazenda.gov.br/sistemas/e-Financeira/ legislacao.htm."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/rfb/2015/rfb-sijut-70653.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Disponíveis para destinação” qualifica mercadorias/veículos perdidos, não disponibilidade de anexo externo. O AnexoI com a relação de processos/interessados está reproduzido em tabela.",
+      "sha256_md": "8b143b6197a314cd4aa5f21bc8966e9557197f233fbb3c91282e71a38364fae9",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/70653/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "abbaa13a0d7cca0242bceee276fdafe0acc4e75a062989a15a4c02d5bbfc34f4",
+      "evidencias_textuais": [
+        "**Art. 2º** Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": " MARIA PÁDOVA ## ANEXO I Seq Processo Termo de Guarda nº Interessado CPF/CNPJ 01 13150.720273/2015-97 0130100/SIANA000134/2015 Gran Express Transportes e Turismo Ltda-ME 10.651.870/0001-84 02 13150.720273/2015-97 0130100/SIANA000134/2015 Jelson Gonçalves da Silva 049.692.921-67 03 13150.720285/2015-11 0130100/SIANA000136/2015 José Guedes Clemente 651.863.896-68 04 13150.720285/2015-11 0130100/SIANA000136/2015 Marlete Clemente 029.658.416-95 05 13150.720287/2015-19 0130100/SIANA000137/2015 Marlete Clemente 029.658.416-95 06 13150.720283/2015-22 0130100/EDTSIANA000010/2015 Ministério da Fazenda 00.394.460/0065-06 07 13150.000003/2015-66 0130100/SIANA000137/2015 Roy Arnez Oresco ______________ "
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-71386.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova manual/tabelas/leiautes da e-Financeira como anexo(s) e remete a download externo. O documento termina após o artigo de vigência e assinatura, sem o anexo aprovado.",
+      "sha256_md": "5371e771898eb3819c2c9803e665b9f6671e1ecbfba9edcba52123df86f16545",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71386/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "7b7cf5bb387dddb1d83d74cbaf5b0662e31636c247ee4db59879c45e3c2fa7ca",
+      "evidencias_textuais": [
+        "**Art. 1º** Ficam aprovadas as novas versões dos Leiautes da e-Financeira, de que trata o inciso I do art. 15 da Instrução Normativa RFB nº 1.571, de 02 de julho de 2015, constantes dos anexos I a XII deste Ato, disponíveis para download na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço http://www1.receita.fazenda.gov.br/sistemas/e-financeira/legislacao.htm ."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-71951.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Disponíveis para destinação” qualifica mercadorias/veículos perdidos, não disponibilidade de anexo externo. O AnexoI com a relação de processos/interessados está reproduzido em tabela.",
+      "sha256_md": "22e0c210c827058726c8e165c4e0eee3d2f7159c19c6cf491dea88cf4e22be1f",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71951/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "b5fc1e6c2148332e99e27b7019cd89fc3caee096003b62091fdb88ca2544e82c",
+      "evidencias_textuais": [
+        "**Art. 2º** Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "ANA000139/2015 Newton Carlos Guedes Franco 560.134.696-87 03 13150.720302/2015-11 0310100/SIANA000139/2015 Valdecir dos Reis Lima 405.865.701-44 04 13150.720303/2015-65 0310100/SIANA000140/2015 Auto Socorro Guaporé Ltda-EPP 03.601.677/0001-73 05 13150.720303/2015-65 0310100/SIANA000140/2015 Valdecir dos Reis Lima 405.865.701-44 06 13150.720301/2015-76 0310100/SIANA000138/2015 Auto Socorro Guaporé Ltda-EPP 03.601.677/0001-73 07 13150.720301/2015-76 0310100/SIANA000138/2015 Valdecir dos Reis Lima 405.865.701-44 08 13150.720304/2015-18 0310100/SIANA000147/2015 Auto Socorro Guaporé Ltda-EPP 03.601.677/0001-73 09 13150.720304/2015-18 0310100/SIANA000147/2015 Valdecir dos Reis Lima 405.865.701-44 "
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-71952.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Disponíveis para destinação” qualifica mercadorias/veículos perdidos, não disponibilidade de anexo externo. O AnexoI com a relação de processos/interessados está reproduzido em tabela.",
+      "sha256_md": "cf1750d08ea3a7644dc9d7b642fc016d9e05fb79ea5bc49206e61e6a7ed2db4c",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71952/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "c8d18a216021595b8560fe8329961f54f386fcc455ec91a68b871e8fde62f47e",
+      "evidencias_textuais": [
+        "Art. 2~~º~~ Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "00155/2015 Ferro Velho do Xaropinho Ltda 09182548/0001-74 03 13150.7200321/2015-47 0130100/SIANA000155/2015 Lourenço Viana Espirito Santo 570.351.721-49 04 13150.7200321/2015-47 0130100/SIANA000155/2015 Nilo Batista Algarasaz 706.374.961-75 05 13150.7200307/2015-43 0130100/SIANA000143/2015 Auto Socorro Guaporé Ltda EPP 03601677/0001-73 06 13150.7200307/2015-43 0130100/SIANA000143/2015 Valdecir dos Reis Lima 405.865.701-44 07 13150.7200306/2015-07 0130100/SIANA000142/2015 Auto Socorro Guaporé Ltda EPP 03601677/0001-73 08 13150.7200306/2015-07 0130100/SIANA000142/2015 Mauro Gouveia de Moraes 570.343.976-00 09 13150.7200306/2015-07 0130100/SIANA000142/2015 Valdecir dos Reis Lima 405.865.701-44 "
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-71953.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Disponíveis para destinação” qualifica mercadorias/veículos perdidos, não disponibilidade de anexo externo. O AnexoI com a relação de processos/interessados está reproduzido em tabela.",
+      "sha256_md": "1a8da220d1614ed18477ca6b6b799e4e4398430a6ae2f80891e62ab46a01f1eb",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71953/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "16facae519405807a9234fce580aef7e40d91b4888cf4ab4792f856c11fd064b",
+      "evidencias_textuais": [
+        "**Art. 2º** Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente"
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": "ara destinação na forma da legislação vigente SÍLVIA MARIA PÁDOVA ## ANEXO I a Seq Processo Termo de Guarda Nº Interessado CPF/CNPJ Nº 01 13150.720305/2015-54 0310100/SIANA000144/2015 Gilberto de Oliveira 920.406.671-72 02 13150.000023/2015-37 0310100/SIANA000156/2015 Claudia Chuwckimia 03 13150.000023/2015-37 0310100/SIANA000156/2015 Maria Maytany Soleto 04 13150.720322/2015-91 0310100/SIANA000153/2015 Adilson Aragon 383.406.661-34 05 13150.720329/2015-11 0310100/SIANA000157/2015 Adilson Aragon 383.406.661-34 06 13150.720329/2015-11 0310100/SIANA000157/2015 Lourenço Viana do Espirito Santo 570.351.721-49 07 13150.720329/2015-11 0310100/SIANA000157/2015 Nilo Batista Algaranaz 706.374.961-75 "
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-72531.md",
+      "classificacao": "falso_positivo",
+      "liberar_neste_gate": true,
+      "fundamento_contextual": "“Disponíveis para destinação” qualifica mercadorias/veículos perdidos, não disponibilidade de anexo externo. O AnexoI com a relação de processos/interessados está reproduzido em tabela.",
+      "sha256_md": "d67de076b6dad2cd0ef6a774980de9324dd55d0045abd6ca0ed82a22c9db4219",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/72531/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "654c7dd9d1c37eb0120a7924b2129001e314331d1e2c8799d2e515da3364ad41",
+      "evidencias_textuais": [
+        "Art. 2~~º~~ Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente."
+      ],
+      "titulos_anexo_na_transcricao": [
+        "## ANEXO I"
+      ],
+      "tabelas_na_transcricao": 1,
+      "evidencia_conteudo_transcrito_final": ": Art. 1~~º~~ Considerar findos administrativamente os processos relacionados no Anexo I. Art. 2~~º~~ Aplicar a pena de perdimento as mercadorias e aos veículos, objetos dos mesmos processos, tornando-os disponíveis para destinação na forma da legislação vigente. SÍLVIA MARIA PÁDOVA ## ANEXO I Seq Processo Termo de Guarda Nº Interessado CPF/CNPJ Nº 01 13150.720299/2015-35 0130100/SIANA000152/2015 ROSELI OLIVEIRA SILVA 844.241.259-04 02 13150.720294/2015-11 0130100/SIANA000154/2015 WILSON MARTINS SOUSA 274.419.891-91 03 13150.720330/2015-38 0130100/EDTSIANA0001/2015 MINISTÉRIO DA FAZENDA 00394460/0065-06 04 13150.720004/2016-10 0130100/EDTSIANA0002/2016 MINISTÉRIO DA FAZENDA 00394460/0065-06 "
+    },
+    {
+      "path": "reguladores/rfb/2016/rfb-sijut-74243.md",
+      "classificacao": "anexo_externo_ausente",
+      "liberar_neste_gate": false,
+      "fundamento_contextual": "O ato aprova manual/tabelas/leiautes da e-Financeira como anexo(s) e remete a download externo. O documento termina após o artigo de vigência e assinatura, sem o anexo aprovado.",
+      "sha256_md": "2faa6270108c887c367fb076000e276dc3e773706e403b572695b544d9cbcf03",
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/74243/visao/original",
+      "hash_fonte_declarado_no_cabecalho": "74743ac896cf8fe2b96ec1c751adb085ffb4fb205ec01ca4eb734a8b0116c472",
+      "evidencias_textuais": [
+        "**Art. 1º** Fica aprovada a versão 1.0.3 do Manual de Preenchimento da e-Financeira, de que trata o inciso II do art. 15 da Instrução Normativa RFB nº 1.571, de 02 de julho de 2015, constante do anexo único deste Ato, disponível para download na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço http://sped.rfb.gov.br/pasta/show/1766."
+      ],
+      "titulos_anexo_na_transcricao": [],
+      "tabelas_na_transcricao": 0
+    }
+  ],
+  "retidos_paths": [
+    "reguladores/antt/portarias/2024/portaria-n-13-de-13-de-marco-de-2024-549320517.md",
+    "reguladores/antt/portarias/2024/portaria-n-3-de-16-de-fevereiro-de-2024-545423014.md",
+    "reguladores/antt/deliberacoes/2024/deliberacao-n-374-de-3-de-outubro-de-2024-588377584.md",
+    "reguladores/antt/portarias/2024/portaria-n-12-de-11-de-dezembro-de-2024-603289824.md",
+    "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-42-de-14-de-maio-de-2024-560745651.md",
+    "reguladores/ans/instrucoes-normativas/2024/instrucao-normativa-in-n-293-de-2-de-maio-de-2024-557722209.md",
+    "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-41-de-3-de-maio-de-2024-558187221.md",
+    "reguladores/antt/deliberacoes/2024/deliberacao-n-554-de-19-de-dezembro-de-2024-603312848.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-449-de-12-de-janeiro-de-2024-537589924.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-515-de-30-de-agosto-de-2024-582079557.md",
+    "reguladores/inss/portarias/2024/portaria-dirben-inss-n-1.240-de-26-de-novembro-de-2024-598228595.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-533-de-31-de-outubro-de-2024-593696066.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-534-de-31-de-outubro-de-2024-593696038.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-467-de-22-de-abril-de-2024-555710006.md",
+    "reguladores/inss/portarias/2024/portaria-dirben-inss-n-1.231-de-15-de-outubro-de-2024-591634287.md",
+    "reguladores/mte/portarias/2024/portaria-semp-mte-n-443-de-1-de-abril-de-2024-551202718.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-561-de-6-de-dezembro-de-2024-601114081.md",
+    "reguladores/mte/portarias/2024/portaria-semp-mte-n-738-de-16-de-maio-de-2024-560176102.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-517-de-30-de-agosto-de-2024-582063129.md",
+    "reguladores/antt/portarias/2023/portaria-n-1-de-4-de-janeiro-de-2023-457159645.md",
+    "reguladores/antt/portarias/2023/portaria-n-3-de-13-de-janeiro-de-2023-460764350.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-384-de-18-de-maio-de-2023-484561135.md",
+    "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.553-de-1-de-fevereiro-de-2023-461733644.md",
+    "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.120-de-15-de-marco-de-2023-472357776.md",
+    "reguladores/confaz/atos-normativos/2023/ato-cotepe-icms-n-26-de-22-de-marco-de-2023-472347150.md",
+    "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.121-de-23-de-marco-de-2023-474548939.md",
+    "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.566-de-9-de-maio-de-2023-482381264.md",
+    "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.564-de-24-de-abril-de-2023-478921765.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-368-de-31-de-marco-de-2023-474890440.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-367-de-31-de-marco-de-2023-474895558.md",
+    "reguladores/inss/portarias/2023/portaria-pres-inss-n-1.548-de-19-de-janeiro-de-2023-458996125.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-369-de-31-de-marco-de-2023-474901758.md",
+    "reguladores/inss/portarias/2023/portaria-dirben-inss-n-1.131-de-12-de-maio-de-2023-483061844.md",
+    "reguladores/inss/instrucoes-normativas/2023/instrucao-normativa-pres-inss-n-142-de-4-de-janeiro-de-2023-456629905.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-375-de-28-de-abril-de-2020-480220998.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-347-de-31-de-janeiro-de-2023-461735123.md",
+    "reguladores/integracao/portarias/2024/portaria-sedec-midr-n-2.347-de-3-de-julho-de-2024-570602070.md",
+    "reguladores/aneel/portarias/2024/portaria-n-6.915-de-13-de-dezembro-de-2024-602943623.md",
+    "reguladores/rfb/2016/rfb-sijut-71387.md",
+    "reguladores/rfb/2016/rfb-sijut-72928.md",
+    "reguladores/rfb/2016/rfb-sijut-73019.md",
+    "reguladores/rfb/2016/rfb-sijut-71386.md",
+    "reguladores/rfb/2016/rfb-sijut-74243.md"
+  ],
+  "liberaveis_neste_gate_paths": [
+    "reguladores/mte/resolucoes/2024/resolucao-ccfgts-n-1.087-de-26-de-marco-de-2024-550372334.md",
+    "reguladores/cnmp/portarias/2024/portaria-cnmp-presi-n-239-de-1-de-agosto-de-2024-576308855.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-596-de-16-de-janeiro-de-2024-538091453.md",
+    "reguladores/antt/deliberacoes/2024/deliberacao-n-160-de-14-de-junho-de-2024-567496564.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-600-de-6-de-marco-de-2024-547025779.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-605-de-4-de-junho-de-2024-564244369.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-618-de-4-de-novembro-de-2024-594601681.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-599-de-26-de-fevereiro-de-2024-545338544.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-606-de-14-de-junho-de-2024-566233279.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-607-de-14-de-junho-de-2024-566201057.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-611-de-30-de-julho-de-2024-575658321.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-612-de-30-de-julho-de-2024-575693136.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-616-de-16-de-outubro-de-2024-590824193.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-603-de-1-de-abril-de-2024-551187676.md",
+    "reguladores/ans/resolucoes/2024/resolucao-regimental-ans-n-29-de-4-de-novembro-de-2024-595415317.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-624-de-19-de-dezembro-de-2024-603303641.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-604-de-6-de-maio-de-2024-558204293.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-524-de-18-de-setembro-de-2024-586467367.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-619-de-25-de-novembro-de-2024-598226635.md",
+    "reguladores/ans/resolucoes/2024/resolucao-normativa-ans-n-610-de-29-de-julho-de-2024-575285625.md",
+    "reguladores/mte/portarias/2024/portaria-mte-n-991-de-19-de-junho-de-2024-566898958.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-463-de-10-de-abril-de-2024-553579888.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-456-de-29-de-fevereiro-de-2024-546042588.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-559-de-4-de-dezembro-de-2024-599887094.md",
+    "reguladores/bcb/instrucoes-normativas/2024/instrucao-normativa-bcb-n-575-de-20-de-dezembro-de-2024-603329738.md",
+    "reguladores/bcb/portarias/2024/portaria-n-121.086-de-22-de-agosto-de-2024-580847350.md",
+    "reguladores/mte/instrucoes-normativas/2024/instrucao-normativa-gm-mte-n-7-de-14-de-outubro-de-2024-590261028.md",
+    "reguladores/inss/resolucoes/2024/resolucao-cegov-inss-n-45-de-4-de-outubro-de-2024-593334147.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-360-de-8-de-marco-de-2023-468775590.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-361-de-10-de-marco-de-2023-469414699.md",
+    "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-576-de-21-de-marco-de-2023-471925019.md",
+    "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-575-de-8-de-marco-de-2023-469379563.md",
+    "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-rn-n-577-de-5-de-maio-de-2023-481827363.md",
+    "reguladores/ans/resolucoes/2023/resolucao-normativa-ans-n-571-de-8-de-fevereiro-de-2023-463841500.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-373-de-25-de-abril-de-2023-479521926.md",
+    "reguladores/bcb/instrucoes-normativas/2023/instrucao-normativa-bcb-n-371-de-10-de-abril-de-2023-476396660.md",
+    "reguladores/rfb/2015/rfb-sijut-70653.md",
+    "reguladores/rfb/2016/rfb-sijut-71951.md",
+    "reguladores/rfb/2016/rfb-sijut-71952.md",
+    "reguladores/rfb/2016/rfb-sijut-71953.md",
+    "reguladores/rfb/2016/rfb-sijut-72531.md"
+  ]
+}

@@ -1,0 +1,63 @@
+import json,gzip,re,hashlib,sys,collections,shutil
+from pathlib import Path
+from html.parser import HTMLParser
+sys.path.insert(0,'scripts')
+from preparar_lote_decretos_cache import fields
+from integridade_anexos_decreto import _limpar
+from integridade_html_federal import Visivel
+sha=lambda x:hashlib.sha256(x).hexdigest()
+blob=lambda x:hashlib.sha1(b'blob '+str(len(x)).encode()+b'\0'+x).hexdigest()
+B=Path('federal');snap=json.load(open('/tmp/federal-head-guard35-20261021.json'));tree=Path(snap['tree']).read_bytes();assert sha(tree)==snap['sha256_tree'];maskbytes=Path(snap['mascaras']).read_bytes();assert sha(maskbytes)==snap['sha256_mascaras'];masked={r['path'] for r in json.loads(maskbytes)['pendentes']};head={}
+for x in tree.split(b'\0'):
+ if x:
+  a,p=x.decode().split('\t',1);head[p]=a.split()[-1]
+strong={r['path']:r for r in map(json.loads,gzip.open(B/'_receipts_estratos_delta_guard35_20261021_007.jsonl.gz','rt')) if r['estrato']=='comando_proprio_e_rotulos_finais_vazios_sem_representacao_identificada'}
+class Blocks(HTMLParser):
+ def __init__(self,s):
+  super().__init__(convert_charrefs=True);self.source=s;self.offsets=[0];self.offsets.extend(m.end() for m in re.finditer('\n',s));self.cur=None;self.rows=[];self.skip=0
+ def pos(self):
+  l,c=self.getpos();return self.offsets[l-1]+c
+ def handle_starttag(self,t,a):
+  if t in {'head','script','style','xml'}:self.skip+=1
+  if not self.skip and t in {'p','h1','h2','h3','h4'}:
+   if self.cur:self.finish(self.pos())
+   self.cur={'tag':t,'start':self.pos(),'parts':[]}
+ def finish(self,end):
+  if self.cur:
+   self.cur.update(end=end,text=re.sub(r'\s+',' ',''.join(self.cur.pop('parts'))).strip());self.rows.append(self.cur);self.cur=None
+ def handle_endtag(self,t):
+  if t in {'head','script','style','xml'}:self.skip=max(0,self.skip-1)
+  if self.cur and t==self.cur['tag']:self.finish(self.pos()+len('</'+t+'>'))
+ def handle_data(self,d):
+  if not self.skip and self.cur:self.cur['parts'].append(d)
+def norm(s):return re.sub(r'\s+',' ',_limpar(s)).strip()
+rows=[];back=[];excluded=collections.Counter();excludedrows=[]
+for line in gzip.open(B/'_receipts_relacao_nominal_ausente_20261021_003.jsonl.gz','rt'):
+ r=json.loads(line);p=r['path']
+ if p not in strong:continue
+ q=strong[p];md=r['md_original'];html=r['fonte_html_original'];reason=None
+ if p not in head:reason='fora_do_HEAD_inedito'
+ elif p in masked:reason='mascara_HEAD_preexistente'
+ elif blob(md.encode())!=head[p]:reason='preimagem_diferente_do_blob_HEAD'
+ if reason:excluded[reason]+=1;excludedrows.append({'path':p,'motivo':reason});continue
+ assert sha(md.encode())==q['sha256_md'] and sha(html.encode())==q['sha256_fonte_html']
+ parsed=Blocks(html);parsed.feed(html);blocks=[b for b in parsed.rows if b['text']];ref=next((b for b in blocks if norm(b['text'])==q['trecho_artigo']),None);fc=q['evidencia_guard'].get('fecho','');fecho=next((b for b in blocks if norm(b['text'])==fc),None);vis=Visivel();vis.feed(html);counts=collections.Counter(t for t,a in vis.structure);visual=collections.Counter(vis.visual)
+ if not ref or not fecho or vis.visual or counts['table'] or re.search(r'[“”«»\"]',ref['text']):
+  why='literal_nao_localizado_ou_citacao_visual_requer_revisao';excluded[why]+=1;excludedrows.append({'path':p,'motivo':why});continue
+ meta,_,_=fields(md)
+ if not all(meta.get(k) for k in ['urn','sha256_metadados_fonte','data','numero']):
+  excluded['metadados_identidade_ausentes_no_MD']+=1;excludedrows.append({'path':p,'motivo':'metadados_identidade_ausentes_no_MD'});continue
+ mp=B/'_fonte/metadados-normas'/sha(meta['urn'].encode())/(meta['sha256_metadados_fonte']+'.json.gz')
+ if not mp.exists():excluded['metadados_cache_ausentes']+=1;excludedrows.append({'path':p,'motivo':'metadados_cache_ausentes'});continue
+ raw=gzip.decompress(mp.read_bytes());api=json.loads(raw)
+ if sha(raw)!=meta['sha256_metadados_fonte'] or api.get('legislationIdentifier')!=meta['urn'] or api.get('legislationDate')!=meta['data'] or meta['numero']!=meta['urn'].split(';')[-1]:
+  excluded['divergencia_identidade_ou_hash_metadados']+=1;excludedrows.append({'path':p,'motivo':'divergencia_identidade_ou_hash_metadados','numero_md':meta['numero'],'urn_md':meta['urn'],'data_md':meta['data'],'api_urn':api.get('legislationIdentifier'),'api_data':api.get('legislationDate'),'sha_json_confrontado':sha(raw)});continue
+ tail=[b for b in blocks if b['start']>=fecho['end']];caption=next((b['text'] for b in blocks if re.match(r'^decreto\b',norm(b['text']))),'')
+ row={'path':p,'head':snap['head'],'oid_blob_HEAD':head[p],'sha256_md':q['sha256_md'],'sha256_fonte_html':q['sha256_fonte_html'],'urn':meta['urn'],'fonte':meta['fonte'],'identidade':{'tipo':meta['tipo'],'numero':meta['numero'],'data':meta['data'],'titulo_metadados':api.get('headline'),'epigrafe_literal_html':caption,'fonte_metadados':meta['fonte_metadados'],'sha256_metadados_fonte':meta['sha256_metadados_fonte'],'api_identificador':api['legislationIdentifier'],'api_data':api['legislationDate'],'data_publicacao':api.get('datePublished')},'remissao_literal_html':ref['text'],'remissao_html_exato':html[ref['start']:ref['end']],'posicao_remissao':{'inicio':ref['start'],'fim':ref['end']},'fecho_literal_html':fecho['text'],'fecho_html_exato':html[fecho['start']:fecho['end']],'conteudo_terminal_literal':[b['text'] for b in tail],'html_terminal_exato':html[fecho['end']:],'contagens_area_normativa':{'table':counts['table'],'tr':counts['tr'],'td':counts['td'],'th':counts['th'],'visuais_objetos':dict(visual),'total_visuais_objetos':len(vis.visual),'blocos':len(blocks)},'verificacoes_predicado':q['verificacoes'],'sufixo_vazio_normalizado':q['sufixo_desde_primeiro_rotulo'],'prefixo_assinaturas_normalizado':q['prefixo_anterior_rotulos'],'conferencia_contextual_na_amostra_51':q['conferencia_contextual_na_amostra'],'estado':'proposta_individual_para_conferencia_ROOT_sem_alteracao_de_mascara','limite':'Indicador automático forte de ausência do objeto na transcrição consultada; não é revisão humana universal nem afirma ausência em todas as publicações da norma.'}
+ rows.append(row);back.append({'path':p,'oid_blob_HEAD':head[p],'sha256_md':q['sha256_md'],'sha256_fonte_html':q['sha256_fonte_html'],'md_original':md,'fonte_html_original':html,'metadados_json_original':raw.decode()})
+code=B/'_prova_predicado_guard35_head_20261021_008';assert not code.exists();code.mkdir();copies=[('/tmp/federal20261021-estratificar-delta-guard35.py','01-estratificar.py.txt'),('/tmp/federal20261021-fechar-estratos-guard35-v7.py','02-predicado-forte.py.txt'),('scripts/integridade_anexos_decreto.py','03-guard35.py.txt'),('scripts/preparar_lote_decretos_cache.py','04-fields.py.txt'),('scripts/integridade_html_federal.py','05-contagens.py.txt'),(__file__,'06-selecao-HEAD.py.txt')]
+for src,name in copies:shutil.copyfile(src,code/name)
+files=[]
+for name,data in [('_proposta_fortes_HEAD_guard35_20261021_008.jsonl.gz',rows),('_receipts_fortes_HEAD_guard35_20261021_008.jsonl.gz',back)]:
+ p=B/name;assert not p.exists();p.write_bytes(gzip.compress(('\n'.join(json.dumps(r,ensure_ascii=False) for r in data)+'\n').encode(),mtime=0));files.append(str(p))
+p=B/'_proposta_fortes_HEAD_guard35_20261021_008.json';summary={'head':snap,'escopo':'Proposta individual somente dos blobs HEAD idênticos à preimagem auditada, descontadas as 2.145 máscaras do snapshot. Sem alteração de canônicos ou registro.','resumo':{'estrato_forte_original':len(strong),'propostas':len(rows),'excluidos':dict(excluded),'soma':len(rows)+sum(excluded.values())},'predicado':'Executar 01 e 02 para o estrato original; 06 restringe por árvore HEAD, máscara, SHA de blob, literal HTML, ausência de visual/tabela/citação tipográfica e identidade API. Código arquivado em '+str(code),'propostas':{'path':files[0],'sha256':sha(Path(files[0]).read_bytes())},'preimagens_md_html_metadados':{'path':files[1],'sha256':sha(Path(files[1]).read_bytes())},'exclusoes':excludedrows,'limite':'Não aplicar máscara ampla sem conferência da regra, amostra e blobs pelo ROOT. Os demais estratos seguem em revisão.'};p.write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n');files.append(str(p));files.extend(str(x) for x in sorted(code.iterdir()));lp=Path('/tmp/federal20261021-fortes-HEAD-guard35-008-paths.txt');lp.write_text('\n'.join(files)+'\n');Path(str(lp).replace('-paths.txt','-hashes.json')).write_text(json.dumps([{'path':p,'sha256':sha(Path(p).read_bytes())} for p in files],indent=2)+'\n');assert len(strong)==len(rows)+sum(excluded.values());print(summary['resumo'],flush=True)

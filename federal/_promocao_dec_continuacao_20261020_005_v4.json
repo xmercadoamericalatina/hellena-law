@@ -1,0 +1,577 @@
+{
+  "escopo": "Somente plano de promoção; nenhum destino canônico alterado. Aplicar cada candidato após verificar preimagem.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1958/dec-44984-1958-12-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44984-1958-12-02.md",
+      "sha256_candidato": "52cd8265a3b6330e2bf24b33faca99dd14e28e6419b4949f2a9ba7702f9f8a35",
+      "sha256_preimagem": "bd985501ff877865edb373913d3156212b88a70ea7ecdd4c27a4abf4bec3d132",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44933-1958-12-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44933-1958-12-01.md",
+      "sha256_candidato": "7c9753f7c5983bf0fb25a27b7b34232fb7c761fc8944866767a0071fc6533cb8",
+      "sha256_preimagem": "6f5bb66cb15e71cd7511f06e4d0e3bfac9ec48cf2e8255cdf4e0e31324cf9f55",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44966-1958-12-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44966-1958-12-01.md",
+      "sha256_candidato": "d047dae13a35715e8f8db91e3af216dc86a2834cec1cb8f7a24e8b19d363719e",
+      "sha256_preimagem": "720873ea417760e5afa4e438f0bf5548b45d611b66f3db9015396401ea065533",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44890-1958-11-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44890-1958-11-27.md",
+      "sha256_candidato": "52eb4dc1d1dd99bf819a78e6161b55973de4774d5cb3c1e7be3f7796f8293cc4",
+      "sha256_preimagem": "0bd61741282cdc44e8e91a38689270939ecb27728dd440b813063751755dffb3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44723-1958-10-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44723-1958-10-21.md",
+      "sha256_candidato": "b031d917c66c07b12902ced8c464ea072a0a48b01dcfc7e8dd9314e82d2d89e0",
+      "sha256_preimagem": "4dd36e122e5a893d2718f3ab6388809dbbffa36ea373d47725f3a8c885126f0c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44724-1958-10-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44724-1958-10-21.md",
+      "sha256_candidato": "8502ceb8ff4f10eb701dc5e54194b6536bdd611491a57754498ed3002b4e220f",
+      "sha256_preimagem": "2848b0eeb42ae7a76a5fb9d7dc17bb53f0d60a277c6934badd8ac9f6fb71bba1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44709-1958-10-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44709-1958-10-20.md",
+      "sha256_candidato": "84f7cac1d02e59ca4fe09defaed4524807d9384cfec64c2c291d5a72795b20bb",
+      "sha256_preimagem": "078f2483c1e19c96db346fb16d8a3822a48ab553a5bf0a2a5413c7c98a95d5cf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44621-1958-10-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44621-1958-10-16.md",
+      "sha256_candidato": "72afad0097bf12d1dd3b7f0134acfba7a46924d2ec29e4f5b1bca72da2c18016",
+      "sha256_preimagem": "616a63e46ab1b2a279303a9587b9b2fd1857e827ec63b008329d2f9f61ce33ae",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44610-1958-10-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44610-1958-10-08.md",
+      "sha256_candidato": "e1b638ac93b60134adddb9a4d263309c2375ff84342c2e92d07eef3d3f5e1a82",
+      "sha256_preimagem": "5b4e472a598bc7e9a932402a0029133c9a2f98ffe5982e4e9d3ed3ea2470d904",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44608-1958-10-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44608-1958-10-06.md",
+      "sha256_candidato": "60e957cd6be0a81bacd668c6795b8f1b6201ea7b619f30e3d32f98eab9b159e7",
+      "sha256_preimagem": "30a7b04d313778093a2823c6f3a6358d855898bf1bbb68cc8059dd9bae2134cc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44591-1958-09-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44591-1958-09-26.md",
+      "sha256_candidato": "f98c89f64dabfda581f569d4f2f731ba9373216a81ab9a9d8285d913d56376c4",
+      "sha256_preimagem": "e87635cef25bce1b8f92fbc014380c7fc1f18cb490e694878c8902f2a219ea97",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44547-1958-09-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44547-1958-09-25.md",
+      "sha256_candidato": "90d13662cace2a1b96e795a14085d7ec29144305084d1e934b14b43e8da82d26",
+      "sha256_preimagem": "f4549da3ab7eec291eb49c21d1dd4230a0ace4891c73a958389cc671c6c0363d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44497-1958-09-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44497-1958-09-24.md",
+      "sha256_candidato": "a017e4ad73c14a1c8899b163a6a48ae33c5b7fb97902e307344ca503f8cacafd",
+      "sha256_preimagem": "40c6c51b157157783058d2fcff7ea4c4cb9502eca69c6dbc49261722e4b18e0e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44512-1958-09-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44512-1958-09-24.md",
+      "sha256_candidato": "62817a2831828240b1ec8f46f7c2804cdb18a3ad319d5ae2a5849dd179548463",
+      "sha256_preimagem": "95ed2e7db550b57d587380176c716df4edb6e74b0ad76b8aa738fbd2667939f3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44456-1958-09-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44456-1958-09-03.md",
+      "sha256_candidato": "7dee4e73bb23223b9379d695ed09e20c8a3dbed0cc40bd74b3e9f83dc1e0e813",
+      "sha256_preimagem": "dd1b8f7d05cde62b10711be1cfc821b17a4bc6c23562348a6d0b56f2739c4db0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44431-1958-08-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44431-1958-08-29.md",
+      "sha256_candidato": "1e5fa2fb47a5a50233493a7d975f5b2e7c76fa64c8bd4ad9039b3691b72a1f50",
+      "sha256_preimagem": "a20b950961906619d980ff82f17a72eab7b33829867b5e012856522095c2e8af",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44368-1958-08-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44368-1958-08-26.md",
+      "sha256_candidato": "3bceedfedf6ba32d56f7b2a32d68d0f6f44d0ed7c7609a94243abd1278cd8326",
+      "sha256_preimagem": "2c6103670283f9d15d44a4d36d131ff95958d2d298622459146928c407fa8afd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44277-1958-08-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44277-1958-08-07.md",
+      "sha256_candidato": "a25bbe6b9f85b1b43b0817ebe0cd4901d53c477ecb27318417e9123846663e48",
+      "sha256_preimagem": "b9fe38e512aa5b28ac2aa0f50e1f13488d06ca2ffcc9b77775c2652fb79abd7a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44241-1958-08-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44241-1958-08-04.md",
+      "sha256_candidato": "653843b65ea601f57d37d058adf8e435c822aa228d0e31af7697d11d1b54688f",
+      "sha256_preimagem": "eb87b3fe836ddf60d97a39a1fb5586ce0b81ea0b21d832753b3d583257531f0e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44237-1958-08-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44237-1958-08-01.md",
+      "sha256_candidato": "c183937c4227fe3911ee5f52db9a60e205a01c97484ea2d0db131dba83ddc7eb",
+      "sha256_preimagem": "3973689dc6f8726c6d2e3a808f4c4bdfb9240624997575032e54e1aa1cd45f65",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44213-1958-07-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44213-1958-07-31.md",
+      "sha256_candidato": "c3cb0cb5d05be373e828774cdd6d9524b2d3d2e182af3f8680b0f7ab1e231b79",
+      "sha256_preimagem": "b2c851efa8036509173e07efe576b0b844003b206c04258791b8f243457c9df8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44194-1958-07-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44194-1958-07-28.md",
+      "sha256_candidato": "5271b6b1bc3aa6632d8f29444f6ec8ead834dfcee37187720bf31de29ddf36b4",
+      "sha256_preimagem": "616c5cfe45ad7b83c3cbb37c69fb51e870d27700b6faa1d688cfcafb65d35b3b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44070-1958-07-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44070-1958-07-23.md",
+      "sha256_candidato": "503bf165ec1b6d64096642b93493ee28fdc99b368a27d42e2d7419f50bd89010",
+      "sha256_preimagem": "5845429d3644b98049941806893d5c963301e06eb20174bd4a8705c63ea963fd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44079-1958-07-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44079-1958-07-23.md",
+      "sha256_candidato": "36a36ecd8903732b740b1aee294430af36d8177812109cc4d2139da0f9ffec6b",
+      "sha256_preimagem": "baa5ca0cf5cf8a9ad271dc5c6e16cea62179a7147d847235944dacff6bbf5192",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44057-1958-07-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44057-1958-07-22.md",
+      "sha256_candidato": "5a935fcc6ba8baf18b6e4fb0bba8ad9d6e877415478cde7904ad58a84b9b42b5",
+      "sha256_preimagem": "246ec0bd20305f81c6af0c87629ba68130fd8b58c6747e2d2e26961ae4285707",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-44011-1958-07-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-44011-1958-07-08.md",
+      "sha256_candidato": "f1b1a5b0686b3cae1d8595d12abc5035b66fbf91d1440d843fff4bfe4741d48f",
+      "sha256_preimagem": "ca911fd7a6b87306a68ce40eb2845e5c1000278cc3f20790c2dcec155d3db4a1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43978-1958-07-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43978-1958-07-04.md",
+      "sha256_candidato": "7aa8df18f1fcae7e9cbbb16e38f1fc41047f32f5319b5eccc62081c058d684a7",
+      "sha256_preimagem": "73d524144156b5689f5acf4fb71f96d38f1bcbe5bc5d181f08f1a822ae6c963a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43914-1958-06-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43914-1958-06-19.md",
+      "sha256_candidato": "0233940c050c355b6cb9d1f741331bde300dd27bc2c0a24c1011474a3bbf7ac2",
+      "sha256_preimagem": "a51b8d177d735a916695f62aaa7ebfedc048f46532a7ece2a356da4cbaefcdcb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43848-1958-06-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43848-1958-06-09.md",
+      "sha256_candidato": "70f371972d22c9d962e5181502142ddbecb0e96150e596599a12fde8fcaf6d83",
+      "sha256_preimagem": "7ea326d588b6fb47fee5cd4b9b7f1151764636e8dd806a56b6fcb12ca5ef5453",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43861-1958-06-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43861-1958-06-09.md",
+      "sha256_candidato": "2158bb4fcdcf60a1f8c0367853aa6085c6cde1ea22dda74bce59bebd1d7deaa2",
+      "sha256_preimagem": "f6eb5da4cd56ea501898f899d6925834f23193433f27b667dd225a9dbc524746",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43867-1958-06-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43867-1958-06-09.md",
+      "sha256_candidato": "5bdbf5295e6c7f5d3233ec25b42d0f58354b8fe83bac65f8799366d3eea60189",
+      "sha256_preimagem": "0b4391274f0ecc896b0f7c03c7337e003312cd68ac6420fd8bcc510b674b8dac",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43869-1958-06-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43869-1958-06-09.md",
+      "sha256_candidato": "c7f4c1cb596406db7fcc61ec6d6f0670e5ad56ff4a56cb919e7dc460f088de2a",
+      "sha256_preimagem": "fae7e320f7ed659ea87cfaccccf4a380aae7df62c3173768068eae0cf10b8038",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43873-1958-06-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43873-1958-06-09.md",
+      "sha256_candidato": "9bed9b2fe7906256f84293fa70fe61298c41d30a2ef243503ccf842f05e7c299",
+      "sha256_preimagem": "1818db662fdf70fe8e159d64a5ae4b9c27008e2ee7a4e67698f1af03158cc437",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43833-1958-06-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43833-1958-06-06.md",
+      "sha256_candidato": "623dc99f0a7030171ebf68f7c32fd775e49e8a8e3c8eada014ff5dbc797c33ac",
+      "sha256_preimagem": "af348034e4dd11cc350adbd9a03803ead426ee8d650b0a9e767a678fb05e4ce7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43836-1958-06-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43836-1958-06-06.md",
+      "sha256_candidato": "0cd221308e50824348c3eb3dc385884abb26654195c906d474326ae4868b742a",
+      "sha256_preimagem": "bbf61060ec6e78054a7ba60bf1945448a1f71b0196800ab2d1a1055d44cc6a61",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43800-1958-05-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43800-1958-05-23.md",
+      "sha256_candidato": "c9a70a99446af6cc5568c616237a693aaa6b819b0d50ebf8645bc1c2845794df",
+      "sha256_preimagem": "f685cf0a10a3e2c339b602bbf11673d0e77c0866767fb51d1652e983428b223f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43803-1958-05-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43803-1958-05-23.md",
+      "sha256_candidato": "755bd5601720fe49b0501e4c4043dbd2132f6a8aa248586ec3ffc2bdd2033ff0",
+      "sha256_preimagem": "3dcf4f2b2156111268f075eb297478700b1b62e8f4134447973784de526dcde6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43742-1958-05-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43742-1958-05-21.md",
+      "sha256_candidato": "d3510245a77490d882a3139b78c9a31189f6bb48d07619823831a188b9e6d30c",
+      "sha256_preimagem": "f3bc62c49b80ded78a0ca1147fee4059f73f17dc3b48b29ddfec39ea43879ca7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43752-1958-05-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43752-1958-05-21.md",
+      "sha256_candidato": "637a0ca738403752fe86d899a3c6f9d9aaf0b34b49a8d19fdf6bf5f0c06b78d3",
+      "sha256_preimagem": "c64edd6874a9720e117634cc2013c79f2531e70280645a33557882734e129f3e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43765-1958-05-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43765-1958-05-21.md",
+      "sha256_candidato": "0bb6fff9d1e344b13710b2f423b1515849400abcbf839f25e6dfe740d2bec240",
+      "sha256_preimagem": "d8166419db849b68e432a50cd3298cd08e3dd81fd1a71f51ef7678f061cd0940",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43714-1958-05-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43714-1958-05-19.md",
+      "sha256_candidato": "8649d67b4b660a8187aaa103936507dce197f312b4a66e3f70b96c689903408e",
+      "sha256_preimagem": "0241039159a33f27c6aa34460426cafe97231c03d32b85c0bf5928f0b7c10fad",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43688-1958-05-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43688-1958-05-08.md",
+      "sha256_candidato": "27c182220a0d501e1f6335cd3af5e9a223cbc5647693d63a441575802c8281f5",
+      "sha256_preimagem": "9ec50fb8e47ceba1fe3c6c940adcc3c4248120053f7ae846af7311a25daeb368",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43675-1958-05-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43675-1958-05-07.md",
+      "sha256_candidato": "ff1c266d1c8206ca3415d8e40cf634d6c5352d09e6a4404c140df764fe6ee5f5",
+      "sha256_preimagem": "21b504d4033f3d13c97bf099364fdd45e72d2f3c19e15a8f4d4eb4cb3d31c634",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43677-1958-05-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43677-1958-05-07.md",
+      "sha256_candidato": "c1d3cdcb4c58cf519fb7b3b5e235dc2710fc22806cb365729594f9c808205de5",
+      "sha256_preimagem": "4ba7b68f8bfc9cdd7e5b0cc868771557a7cc32f08f0f326fc74c327c007e0fd7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43687-1958-05-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43687-1958-05-07.md",
+      "sha256_candidato": "dc819a97b6446a9f2b14bc02130fecdacab0b90b264d3b20bf27bf337acfcf96",
+      "sha256_preimagem": "df42749f9d293472b1b64bd629c220a3818738bbbebdabe21d364b4e91fc5c6e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43444-1958-03-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43444-1958-03-26.md",
+      "sha256_candidato": "3d0e9a03790ea1e2b8518833c6585d5cf976f5ebbab8666a750e5dab28ebf0de",
+      "sha256_preimagem": "5a7983c01ff6c962023ba893885d2a19c52914d307fb42b6e4d7aa6dd0863d7b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43413-1958-03-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43413-1958-03-25.md",
+      "sha256_candidato": "8c254eb28f26600c995564aa1190cc57c79a3f00d0bb19344124d5d3fbabbdea",
+      "sha256_preimagem": "cbaacef4f27cab17d2755643ff6fdb6c11aedde48165e1b7651fa31206e42927",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43354-1958-03-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43354-1958-03-12.md",
+      "sha256_candidato": "79a4b350f954e067feb3b69050318befdbfafa64526a487ffe4313bf257b3643",
+      "sha256_preimagem": "2acca755b0de761094bfbb5a9152046509c6cc09f37f96036aa7ef4c83198ae4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43378-1958-03-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43378-1958-03-12.md",
+      "sha256_candidato": "ed0254308cb659ef05df5774d9ccef0df099dbb9ba79cc6db2881af84328cc22",
+      "sha256_preimagem": "e6448f72138f10a57adf4ef08cbecac8b24239e3afeecb35b838a2f21041a021",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43335-1958-03-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43335-1958-03-11.md",
+      "sha256_candidato": "f2bf2888538e219b8476cee9744fc151166a0c3c6e9946b7f47aaa7aa97eac56",
+      "sha256_preimagem": "4f561b38acbcc5c737d21642261689f74ebfcccaae2702877e9f7f4b265a567e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43291-1958-02-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43291-1958-02-28.md",
+      "sha256_candidato": "e1242b2c70705d8afdf759b00bc7e5bd76973adc2b44d63dc2ea5830e7537026",
+      "sha256_preimagem": "a1ea4976b45a5eb7a3a04f32f8120667c582f1d2af2e960a72ad5a92c63187ef",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43287-1958-02-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43287-1958-02-26.md",
+      "sha256_candidato": "bc294df6b7d36dbe5adeb302a750e271ffcc7d4c89af7aa1d0d0aad19512b9b3",
+      "sha256_preimagem": "d97ad09f19675db99189b2a596a98eaf0f517d187ed9f3873d72bf69323ca6a2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43276-1958-02-25.md",
+      "candidate": "federal/_candidatos_excecoes_commonmark_20261020_001/dec-43276-1958-02-25.md",
+      "sha256_candidato": "edecf6af8a07057638fc028fabe5356c9145f425b8b64ae15d35113668bc4d2e",
+      "sha256_preimagem": "9ba7769549412df73642d709430d9f3118abe514376f2f724dc14724bbdff346",
+      "mudanca": "Três rótulos numéricos escapados e nota de divergência do código cadastral."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43236-1958-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43236-1958-02-22.md",
+      "sha256_candidato": "656097f86e572a5bbed65690caa520db9f7b3d7a4ece621a4f944b8f94d859f2",
+      "sha256_preimagem": "e14c78855df8bda60b5f58f3e141cd59055cc18864444d307710ae9c6932588e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43238-1958-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43238-1958-02-22.md",
+      "sha256_candidato": "a7879c8f6ba8fe507a0c34949c6ec6948624d1c266e427b1817bf0d0bf6c0263",
+      "sha256_preimagem": "d833c5eb708a0caacd8a0c77173938ca69efb6a7714f6d6fb4b3e9c677b19e90",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43239-1958-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43239-1958-02-22.md",
+      "sha256_candidato": "634c05889bc1332e00c5f08678bd16dc5fba2032a4a60aa527a56f9075dc7bf3",
+      "sha256_preimagem": "0560b34b5eed416ebd484a655aaa1819002ea6aa1be8b18811412d8f3395231e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43191-1958-02-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43191-1958-02-12.md",
+      "sha256_candidato": "91c2b15d7ffb284179ac94ccae5e7701087abce79699d900abd689f1fdc3757b",
+      "sha256_preimagem": "94959343d208b0f9f559cf525e35a74f69b55558dbe1dbe8c0f9158b20027987",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43184-1958-02-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43184-1958-02-06.md",
+      "sha256_candidato": "da34e04700f9a0d5b2931cd77d2b4238deb0229ac2e7f3a6da10b9add409e9c1",
+      "sha256_preimagem": "48c00634d69eb1fd6dbfeac936e9ca010cb573b592725be4fc12599d355ff1d6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43117-1958-01-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43117-1958-01-28.md",
+      "sha256_candidato": "5f396a1e575af9c0586565f96766ecf7b37ffdffc14f1dd64f23baf0853d42bb",
+      "sha256_preimagem": "f05c36d0d14ac3cd79323259c1614421fa9fe36fe93029d17f1f5dca9887c7af",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43131-1958-01-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43131-1958-01-28.md",
+      "sha256_candidato": "acfe0ccf24fdde2074975b1323c5b6a018988a675e66a87f6c32b35843f6d116",
+      "sha256_preimagem": "ce6309956e307ae6b61f313ca62693b1984d9479d68b7e77624bcb9c290f428b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43063-1958-01-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43063-1958-01-22.md",
+      "sha256_candidato": "a5a735148f4fee2df4c62255b48df3e59c54c2a5bc48044c6088d75a0998381a",
+      "sha256_preimagem": "968190ca2be782803aa17baef6939a0b97f2fbd05ed9517c7a59503bad979b9d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43077-1958-01-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43077-1958-01-22.md",
+      "sha256_candidato": "cbdd7ca600140a406ec4e94d88111acc25e7ce8c66abb6e1d90d0a6c7035e428",
+      "sha256_preimagem": "21f8442dc7f2cc839d4cc41d3a195f55a90f6a6a327d9a07a109a9030ab732c9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43050-1958-01-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43050-1958-01-16.md",
+      "sha256_candidato": "ec048d028e8a664ace2e203538ea181c590f05da49c88ab7961ca8d79a76d7ab",
+      "sha256_preimagem": "302801562d448043a95755b47535b867d77aae1c6adb5d0b0e640ac485b68c3c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43047-1958-01-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43047-1958-01-15.md",
+      "sha256_candidato": "1e5d6bb49b396426f2cddfafe69d2f42857d323653c75253332877668fdbddf1",
+      "sha256_preimagem": "2c97a4198bbddd498f3f2c2856044dc8159b230fa9c5e3bdc4ce9ee42c6135ad",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43019-1958-01-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43019-1958-01-09.md",
+      "sha256_candidato": "44116ecbec00e186b659edd898cecd4d699c36a4d566f44e565639403b6b7ea2",
+      "sha256_preimagem": "e609e281079f02deca0af939bdbe80991e26d3e5286dd665dfa64a8450ac84b4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1958/dec-43008-1958-01-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-43008-1958-01-08.md",
+      "sha256_candidato": "c9d63c00f2b742420fdbe245b5229ed22b3498e9ed201a86eb750f5e29754dd4",
+      "sha256_preimagem": "301d56d5985ecacdc26cf2e5f7dcc8c984c46e9dd96afc22e758e1d5cf0df5b6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1958/dec-45021-1958-12-04.md",
+    "federal/decretos/1958/dec-45022-1958-12-04.md",
+    "federal/decretos/1958/dec-45023-1958-12-04.md",
+    "federal/decretos/1958/dec-45020-1958-12-04.md",
+    "federal/decretos/1958/dec-44987-1958-12-02.md",
+    "federal/decretos/1958/dec-44879-1958-11-27.md",
+    "federal/decretos/1958/dec-44860-1958-11-21.md",
+    "federal/decretos/1958/dec-44861-1958-11-21.md",
+    "federal/decretos/1958/dec-44840-1958-11-11.md",
+    "federal/decretos/1958/dec-44851-1958-11-11.md",
+    "federal/decretos/1958/dec-44774-1958-11-06.md",
+    "federal/decretos/1958/dec-44766-1958-10-30.md",
+    "federal/decretos/1958/dec-44764-1958-10-27.md",
+    "federal/decretos/1958/dec-44667-1958-10-18.md",
+    "federal/decretos/1958/dec-44558-1958-09-25.md",
+    "federal/decretos/1958/dec-44573-1958-09-25.md",
+    "federal/decretos/1958/dec-44509-1958-09-24.md",
+    "federal/decretos/1958/dec-44484-1958-09-10.md",
+    "federal/decretos/1958/dec-44458-1958-09-03.md",
+    "federal/decretos/1958/dec-44444-1958-08-29.md",
+    "federal/decretos/1958/dec-44445-1958-08-29.md",
+    "federal/decretos/1958/dec-44450-1958-08-29.md",
+    "federal/decretos/1958/dec-44387-1958-08-26.md",
+    "federal/decretos/1958/dec-44359-1958-08-23.md",
+    "federal/decretos/1958/dec-44315-1958-08-18.md",
+    "federal/decretos/1958/dec-44312-1958-08-12.md",
+    "federal/decretos/1958/dec-44311-1958-08-11.md",
+    "federal/decretos/1958/dec-44298-1958-08-08.md",
+    "federal/decretos/1958/dec-44243-1958-08-06.md",
+    "federal/decretos/1958/dec-44244-1958-08-06.md",
+    "federal/decretos/1958/dec-44262-1958-08-06.md",
+    "federal/decretos/1958/dec-44269-1958-08-06.md",
+    "federal/decretos/1958/dec-44220-1958-07-31.md",
+    "federal/decretos/1958/dec-44223-1958-07-31.md",
+    "federal/decretos/1958/dec-44224-1958-07-31.md",
+    "federal/decretos/1958/dec-44199-1958-07-29.md",
+    "federal/decretos/1958/dec-44174-1958-07-28.md",
+    "federal/decretos/1958/dec-44173-a-1958-07-27.md",
+    "federal/decretos/1958/dec-44163-1958-07-25.md",
+    "federal/decretos/1958/dec-44116-1958-07-24.md",
+    "federal/decretos/1958/dec-44117-1958-07-24.md",
+    "federal/decretos/1958/dec-44118-1958-07-24.md",
+    "federal/decretos/1958/dec-44062-1958-07-23.md",
+    "federal/decretos/1958/dec-44075-1958-07-23.md",
+    "federal/decretos/1958/dec-44082-1958-07-23.md",
+    "federal/decretos/1958/dec-44051-1958-07-22.md",
+    "federal/decretos/1958/dec-44046-1958-07-21.md",
+    "federal/decretos/1958/dec-44035-1958-07-10.md",
+    "federal/decretos/1958/dec-44033-1958-07-09.md",
+    "federal/decretos/1958/dec-44034-1958-07-09.md",
+    "federal/decretos/1958/dec-43985-1958-07-05.md",
+    "federal/decretos/1958/dec-43986-1958-07-05.md",
+    "federal/decretos/1958/dec-43987-1958-07-05.md",
+    "federal/decretos/1958/dec-43972-1958-07-04.md",
+    "federal/decretos/1958/dec-43979-1958-07-04.md",
+    "federal/decretos/1958/dec-43961-a-1958-07-03.md",
+    "federal/decretos/1958/dec-43931-1958-07-01.md",
+    "federal/decretos/1958/dec-43922-1958-06-20.md",
+    "federal/decretos/1958/dec-43911-1958-06-17.md",
+    "federal/decretos/1958/dec-43908-1958-06-16.md",
+    "federal/decretos/1958/dec-43901-1958-06-13.md",
+    "federal/decretos/1958/dec-43893-1958-06-12.md",
+    "federal/decretos/1958/dec-43847-1958-06-09.md",
+    "federal/decretos/1958/dec-43865-1958-06-09.md",
+    "federal/decretos/1958/dec-43878-1958-06-09.md",
+    "federal/decretos/1958/dec-43834-1958-06-06.md",
+    "federal/decretos/1958/dec-43838-1958-06-06.md",
+    "federal/decretos/1958/dec-43818-1958-06-04.md",
+    "federal/decretos/1958/dec-43824-1958-06-04.md",
+    "federal/decretos/1958/dec-43808-1958-05-28.md",
+    "federal/decretos/1958/dec-43809-1958-05-28.md",
+    "federal/decretos/1958/dec-43737-1958-05-21.md",
+    "federal/decretos/1958/dec-43712-1958-05-17.md",
+    "federal/decretos/1958/dec-43705-1958-05-13.md",
+    "federal/decretos/1958/dec-43704-1958-05-09.md",
+    "federal/decretos/1958/dec-43652-1958-05-07.md",
+    "federal/decretos/1958/dec-43683-1958-05-07.md",
+    "federal/decretos/1958/dec-43636-1958-05-02.md",
+    "federal/decretos/1958/dec-43573-1958-04-26.md",
+    "federal/decretos/1958/dec-43574-1958-04-26.md",
+    "federal/decretos/1958/dec-43575-1958-04-26.md",
+    "federal/decretos/1958/dec-43501-1958-04-07.md",
+    "federal/decretos/1958/dec-43502-1958-04-07.md",
+    "federal/decretos/1958/dec-43503-1958-04-07.md",
+    "federal/decretos/1958/dec-43504-1958-04-07.md",
+    "federal/decretos/1958/dec-43480-1958-03-28.md",
+    "federal/decretos/1958/dec-43469-1958-03-27.md",
+    "federal/decretos/1958/dec-43423-1958-03-26.md",
+    "federal/decretos/1958/dec-43371-1958-03-12.md",
+    "federal/decretos/1958/dec-43317-1958-03-10.md",
+    "federal/decretos/1958/dec-43318-1958-03-10.md",
+    "federal/decretos/1958/dec-43324-1958-03-10.md",
+    "federal/decretos/1958/dec-43305-1958-03-07.md",
+    "federal/decretos/1958/dec-43306-1958-03-07.md",
+    "federal/decretos/1958/dec-43269-1958-02-24.md",
+    "federal/decretos/1958/dec-43237-1958-02-22.md",
+    "federal/decretos/1958/dec-43223-1958-02-21.md",
+    "federal/decretos/1958/dec-43189-1958-02-12.md",
+    "federal/decretos/1958/dec-43144-1958-02-03.md",
+    "federal/decretos/1958/dec-43168-1958-02-03.md",
+    "federal/decretos/1958/dec-43120-1958-01-28.md",
+    "federal/decretos/1958/dec-43053-1958-01-16.md",
+    "federal/decretos/1958/dec-43032-1958-01-14.md",
+    "federal/decretos/1958/dec-43030-1958-01-13.md",
+    "federal/decretos/1958/dec-43021-1958-01-09.md",
+    "federal/decretos/1958/dec-44505-1958-09-24.md",
+    "federal/decretos/1958/dec-44507-1958-09-24.md",
+    "federal/decretos/1958/dec-43925-1958-06-20.md"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "escopo": "Três candidatos: uma nova norma do Rio Doce e um grupo atômico com criação da identidade de Pouso Alegre e reparo do texto de Itapema. Nenhum MD canônico foi alterado. O grupo de Pouso Alegre/Itapema exige aplicar ambos os destinos juntos para não duplicar o texto histórico publicado sob URN errada.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos-nao-numerados/2010/dec-sn-2010-09-01-s3.md",
+      "candidate": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-09-01-s3.md",
+      "sha256_candidato": "e3a7f59cb209a8e6e02746eb1d48863d4ba08ebf05bc0c8814cb3447603822bb",
+      "sha256_md_publicado": null,
+      "acao": "criar_somente_apos_validar_grupo",
+      "grupo_integracao": "doce_novo",
+      "urn": "urn:lex:br:federal:decreto:2010-09-01;seq-sf-3",
+      "id_senado": "583769",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12847.htm",
+      "sha256_fonte_html": "ea62b15b88142e29c71e15c15e55300b14d45b24403fbc6b41d357c18a059c74",
+      "sha256_area_normativa_html": "1e265c81ee3c27ddf134a5afc1f9dc1815a51a0a6926d47121a277fd57d0eae9",
+      "ementa_propria": "Dá nova redação ao parágrafo único do art. 1º do Decreto de 25 de janeiro de 2002, que institui o Comitê da Bacia Hidrográfica do Rio Doce, localizada nos Estados de Minas Gerais e Espírito Santo.",
+      "identidade_discriminantes": [
+        "rio doce",
+        "25 de janeiro de 2002"
+      ],
+      "checks": [
+        "Epígrafe e fecho próprios confirmam a data",
+        "Objeto, beneficiário e localidade próprios correspondem ao índice",
+        "Todo texto visível e estrutura de tabelas correspondem à fonte",
+        "Sem figuras normativas ou anexos próprios omitidos",
+        "Sem usar a sequência como prova isolada de identidade"
+      ],
+      "limite": null
+    },
+    {
+      "path": "federal/decretos-nao-numerados/2010/dec-sn-2010-11-12-s11.md",
+      "candidate": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-11-12-s11.md",
+      "sha256_candidato": "da2a167c3e175a785a96eed5c0b40a1f8982474400a43ce0b919bf82b55c36e3",
+      "sha256_md_publicado": null,
+      "acao": "criar_somente_apos_validar_grupo",
+      "grupo_integracao": "pouso_itapema_atomico",
+      "urn": "urn:lex:br:federal:decreto:2010-11-12;seq-sf-11",
+      "id_senado": "576839",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12932.htm",
+      "sha256_fonte_html": "5c53acad8058553df72eb306e05b635284d77c4b9d46f5df69ae4887e891d0af",
+      "sha256_area_normativa_html": "5649b014b884437642b3053b039dc74c94094cd844765d73dd3859d1f760151e",
+      "ementa_propria": "Declara de utilidade pública, para fins de desapropriação, em favor da concessionária Autopista Fernão Dias S.A., os imóveis que menciona, localizados no Município de Pouso Alegre, no Estado de Minas Gerais, necessários à execução das obras de implantação do Centro de Controle Operacional - CCO na Rodovia Fernão Dias, BR-381/MG.",
+      "identidade_discriminantes": [
+        "autopista fernao dias",
+        "pouso alegre",
+        "centro de controle operacional",
+        "7.006,83",
+        "1.648,98",
+        "50500.071278/2009-45"
+      ],
+      "checks": [
+        "Epígrafe e fecho próprios confirmam a data",
+        "Objeto, beneficiário e localidade próprios correspondem ao índice",
+        "Todo texto visível e estrutura de tabelas correspondem à fonte",
+        "Sem figuras normativas ou anexos próprios omitidos",
+        "Sem usar a sequência como prova isolada de identidade"
+      ],
+      "limite": "As referências a plantas de projeto e processos administrativos são preservadas. A fonte não os apresenta como anexos deste decreto."
+    },
+    {
+      "path": "federal/decretos-nao-numerados/2010/dec-sn-2010-11-12-s12.md",
+      "candidate": "federal/_candidatos_dec_sn_20261020_001/dec-sn-2010-11-12-s12.md",
+      "sha256_candidato": "ba367087723576ee23f120c45fe1ca64415d851f19d8a4ec1c5e09fe4b3a2dee",
+      "sha256_md_publicado": "fa499119440a82b95ecfb204cee3db1ad5d7ee9add197ec63cf8583eb74ae775",
+      "acao": "substituir_preservando_historico",
+      "grupo_integracao": "pouso_itapema_atomico",
+      "urn": "urn:lex:br:federal:decreto:2010-11-12;seq-sf-12",
+      "id_senado": "580662",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12933.htm",
+      "sha256_fonte_html": "48869b3e6737cf24e081962a2e147b93bb7e49f5f46246fe2e4869461ccc08d5",
+      "sha256_area_normativa_html": "d0398910c759b6f449506eed663a972ee5dd4848b7e8b75c81d2bb848ec8d169",
+      "ementa_propria": "Declara de utilidade pública, para fins de desapropriação, em favor da concessionária Autopista Litoral Sul S.A., os imóveis que menciona, localizados no Município de Itapema, no Estado de Santa Catarina, necessários à execução das obras de implantação da Marginal Sul de Itapema, nas imediações do km 147+000m da Rodovia Governador Mário Covas, BR-101/SC.",
+      "identidade_discriminantes": [
+        "autopista litoral sul",
+        "itapema",
+        "147+000",
+        "br-101/sc"
+      ],
+      "checks": [
+        "Epígrafe e fecho próprios confirmam a data",
+        "Objeto, beneficiário e localidade próprios correspondem ao índice",
+        "Todo texto visível e estrutura de tabelas correspondem à fonte",
+        "Sem figuras normativas ou anexos próprios omitidos",
+        "Sem usar a sequência como prova isolada de identidade"
+      ],
+      "limite": "As referências a plantas de projeto e processos administrativos são preservadas. A fonte não os apresenta como anexos deste decreto."
+    }
+  ],
+  "resumo": {
+    "candidatos": 3,
+    "novos_destinos": 2,
+    "substituicoes_publicadas": 1,
+    "falhas": 0
+  },
+  "precondicoes_grupo_atomico": [
+    "Criar seq-sf-11 somente se ainda não existe.",
+    "Substituir seq-sf-12 somente se seu SHA anterior confere.",
+    "Validar ambos os candidatos e aplicar no mesmo ciclo de integração; não contar a lacuna 11 enquanto 12 conservar o corpo de outro ato."
+  ],
+  "historico_e_fontes": {
+    "path": "federal/_historico_e_fontes_dec_sn_20261020_001.jsonl.gz",
+    "sha256": "9d3a8386bb3e2db2d559383abe1502ac37907cdb40a1441097899d39ec57e06e"
+  }
+}

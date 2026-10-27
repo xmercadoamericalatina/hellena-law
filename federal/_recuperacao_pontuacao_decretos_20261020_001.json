@@ -1,0 +1,41 @@
+{
+  "escopo": "Reparo privado de renderização, sem alterar o MD canônico nem o lote congelado.",
+  "resumo": {
+    "candidatos": 1,
+    "publicaveis_apos_aplicacao_com_preimagem": 1,
+    "falhas": 0
+  },
+  "publicaveis": [
+    {
+      "path": "federal/decretos/1957/dec-42709-1957-11-29.md",
+      "candidate": "federal/_candidatos_pontuacao_decretos_20261020_001/dec-42709-1957-11-29.md",
+      "urn": "urn:lex:br:federal:decreto:1957-11-29;42709",
+      "sha256_preimagem": "e078b236c5acea67306133abc671700c34338929763eb83073712eee40a5df3e",
+      "sha256_candidato": "06bc1a828e2d19bf206271dd7ce327ec34459b948f880eb039ce0b6b174baca7",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1957-11-29;42709",
+      "sha256_fonte_html": "7cf3fac26e34e070cb3ba9e1d8f0e2cf438bbd744015519b9293974dec337f69",
+      "alteracao_exata": "Sete barras de escape inseridas imediatamente antes das sete crases literais; nenhum outro byte foi alterado.",
+      "checks": [
+        "Todo o texto visível com pontuação corresponde à fonte após renderização independente.",
+        "Sete crases literais da fonte preservadas, inclusive nas medidas de rumo.",
+        "Números, decimais, sinais, moedas, porcentagens e seus contextos permanecem iguais.",
+        "Normalização do marcador administrativo inicial comprovada por número, data e posição."
+      ],
+      "commonmark": {
+        "motor": "marked",
+        "versao": "17.0.5",
+        "opcoes": {
+          "gfm": true,
+          "pedantic": false,
+          "breaks": false
+        },
+        "dialeto": "CommonMark com extensão GFM de tachado, conforme o repositório."
+      },
+      "necessidade": "Substituir somente se a preimagem continuar com o SHA congelado; não publicar a versão anterior defeituosa no lote 006."
+    }
+  ],
+  "historico": {
+    "path": "federal/_historico_pontuacao_decretos_20261020_001.jsonl.gz",
+    "sha256": "bc3fe6d73aba30727f5cd1a5c5fcdefeb0954e24438ab4c313ec8a5ef552e31b"
+  }
+}

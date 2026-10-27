@@ -1,0 +1,12 @@
+{
+  "alterado_em": "2026-10-20T22:45:23.475786",
+  "path": "scripts/preparar_lote_decretos_rede.py",
+  "sha256_anterior": "3153ee5d46c222a5a3fb2d09f85716c8573ea265429e0118a00ebf6e3c34fd51",
+  "sha256_novo": "60a49f09ed3815bcd1d1d7f57aaee514d1782a07945a22a0d32bc47051db08ab",
+  "alteracao": "Limite de workers permitido de 4 para 8. CLI continua com padrão 4; limite global permanece em 4 rps e interrupção em HTTP 401, 403 ou 429 permanece inalterada.",
+  "diff_exato": {
+    "antes": "if not 0<args.rps<=4 or not 1<=args.workers<=4:",
+    "depois": "if not 0<args.rps<=4 or not 1<=args.workers<=8:"
+  },
+  "validacao": "Compilação sintática e teste de retomada do coletor; demais gates não foram modificados."
+}

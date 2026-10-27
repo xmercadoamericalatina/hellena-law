@@ -1,0 +1,502 @@
+{
+  "estado": "109_candidatos_condicionais_isolados_sem_aplicar",
+  "quantidades": {
+    "total": 114,
+    "condicionais": 109,
+    "retidos": 5,
+    "situacoes_condicionais": {
+      "None": 108,
+      "True": 1
+    }
+  },
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/HTML5-DOM109.json",
+      "sha256": "7c02c677fcdd1d8d93f475340cce0e74c9a1759d75603ebdec38910c9e149597"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1909/dpl-2168-1909-12-06.md",
+      "sha256": "251b1b082dbac58f81437921c6c565ff9816cf2fc9cf8ab6d60dd11e6845dfef"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1910/dpl-2355-1910-12-31.md",
+      "sha256": "8d06aa0c7415b6ef45cfacb0c79070cc72f2bd1b807c7cade9521b1ec2d1301d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1911/dpl-2406-1911-01-11.md",
+      "sha256": "8628d5b2d468b57b09533936067152954f6c43fbc722c051fd3b9cb0bd73d93f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1911/dpl-2528-1911-12-31.md",
+      "sha256": "89ccb5ec8b05bfbe1e7f5d6092864b335eeea6b91c2eac4895fd958a678e7533"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1912/dpl-2543-a-1912-01-05.md",
+      "sha256": "3486b13567cf7a356f236267e50b1f62a27fd5eb3109cd236ce6b278bf671605"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1913/dpl-2756-1913-01-10.md",
+      "sha256": "e225c57558a1ccc5151850f03d82f6d9611894f463eaa559317f33f5aa89cf6d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1914/dpl-2862-1914-08-15.md",
+      "sha256": "bca17cc8dc14db9a7546400c25f81a4af8f4acfe5b2751af6c6b8906be49da21"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1915/dpl-2939-1915-01-06.md",
+      "sha256": "02a38ac1ffea36ed62f4cd1f77db212f698d4454a15b0c6cdcc3715cb5d1925f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1915/dpl-3068-1915-12-30.md",
+      "sha256": "606af94665d17407f2d40d9d1eebf25a08921eaf088b2b1ea8b2f1875aef0044"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1916/dpl-3091-1916-01-12.md",
+      "sha256": "7be21487a4d73eb1a988566b31bce5eb25a431151a5029abb9d85ddc44bb474b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3221-1917-01-03.md",
+      "sha256": "4000c8b516d5d2f3fd858004202728d79ef3c217695331bb14f76ac993fee8e9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3234-1917-01-05.md",
+      "sha256": "64c7688d03d448de3335fc69fc81885e43739c0fda00ac7a660eac896615616e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3240-1917-01-10.md",
+      "sha256": "f0d7040a1a60091abf0ffec070c2cb188ebe3be79e6b341e77d1dfc479e64b41"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3351-1917-10-03.md",
+      "sha256": "1db4e4519118ddb40072fd97174aa6bf19fbff086eeb64dd08d654a468cb186e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3416-1917-12-12.md",
+      "sha256": "ff5f1a6bfe5a28c3df842d1ac6dbec9751c3a2bc205f6f1874a24efedde3f80a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3427-1917-12-27.md",
+      "sha256": "cde2d1ed4a327339e52b6a909b497ec2805ad1c738c5c38f805576680dd8e785"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3438-1917-12-27.md",
+      "sha256": "7d9fcdf2536a54be394401dcae78b0410fc9ef020ec7a378617922ea25aa2134"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3458-1918-01-07.md",
+      "sha256": "cf80c57195f8bd3d310adedecfd0fc061cfbf9382b67662cc52209f17256c638"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3462-1918-01-09.md",
+      "sha256": "b37d04ba535ea9d401fbc7728767ab0e973d7c4234f6ada751866fe9caef0540"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3466-1918-01-09.md",
+      "sha256": "8a4340dee1edface79a97ad5eacc03cf296c30bc7b7537150af6e6c1885db89d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3494-1918-01-19.md",
+      "sha256": "82d55a10c1a17d063022121ae3a87c6b2278f7a7dc4388c98a0db1942bf445f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3497-1918-01-24.md",
+      "sha256": "0ebb10d240d42b8e5b268f544bd79324116db96b50594fccc43538a084c70304"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3543-1918-09-25.md",
+      "sha256": "a7e07cacf9284eddd542f5003d1e6aa1d304622f5b58a28144eb34d1b66a6793"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3545-1918-10-02.md",
+      "sha256": "a17544b755223af6e0ee580cc3cca2fef449a2d954d749f2e56995e070eb60f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3550-1918-10-16.md",
+      "sha256": "b496ac5b1efac0cceece82c9659db2a9e1904c751a48a9dbe5cf41b0458ffcef"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3565-1918-11-13.md",
+      "sha256": "86294e779b8461feb43aee71c1907c8467b119f09c0c21177b1a789c924acc55"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3641-1918-12-31.md",
+      "sha256": "be47711f28a04f5262c019fdb401dd577c7fdf7a6ad846fafa90b1e3c2d0c21c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3676-1919-01-08.md",
+      "sha256": "8f9bdabd3bbcad89a4046130660604c18960ac30853172ab10b7e8b8bac80383"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3681-1919-01-08.md",
+      "sha256": "27a6233ff6ea731c9822cb799f4acf6df7387937317da8a8a4e6ddc0fc020d80"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3724-1919-01-15.md",
+      "sha256": "d7f60de40c91dd3ea86a8d0446d227dba0b3e8fdfde8fb8f40c9bb602ce77577"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3752-1919-08-20.md",
+      "sha256": "7bcfd480235648a6f9e3c153c2b6d3979c433faa022d9980e1f42858cf15a759"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3788-1919-10-03.md",
+      "sha256": "e1a4ac215c50a33def10e608d1d70fef02a09f85ef2d1a51eb86c39b24a2cace"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3830-1919-10-29.md",
+      "sha256": "735851111f726cbfeac171939e2e61cceb6a60878a8556b6141002a6f643f43b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3837-a-1919-10-29.md",
+      "sha256": "4e323dd0af8aaf17526288b6cccf0e60a59b66c7bfb91c92a145009e1f2a8dbd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-3987-1920-01-02.md",
+      "sha256": "f7f110da14725943b73cae86c85efc6167b701175d812e87fbc57ea768b2573d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4003-1920-01-07.md",
+      "sha256": "bb20d67589db7aba73b204160f10ab78bcd2f2352cde390c86f0bdc3f1af27c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4018-1920-01-09.md",
+      "sha256": "83a9e818a0c29b73d67992a72996600e35e1807f6ad149c96f262e70c9a877ce"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4034-1920-01-12.md",
+      "sha256": "431c78404d9086a32cd4a8234588df14020192a7f2908b6619a173ac6fcdcb18"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4051-1920-01-14.md",
+      "sha256": "5a9be5cef9d4a6c24ab7b55b60b470c90c1d7955a3104462923848431e7e60bd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4061-1920-01-16.md",
+      "sha256": "e98b4726c5a5540f2f59fe564cd023f86a8862a7ffd5d2962f1ec97e80ba5ea8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4206-1920-12-09.md",
+      "sha256": "e840cf63008d14cf093684f96ec19bcbe099453f14db772ff35d65bc10912221"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4209-1920-12-11.md",
+      "sha256": "960a39851be5719cbb43944f3752d3ab29e3dd1e47abbd5957fa5bd1c2b88211"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4213-1920-12-18.md",
+      "sha256": "7581402e57592687c0a186e4ef57d72c8772ac8afa99d3968f337c88966342d4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4226-1920-12-30.md",
+      "sha256": "9dd6209f80c34ad0d1037592c0fb534da1a9ab431cabe6556aef3e4a679be6c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4241-1921-01-05.md",
+      "sha256": "542ef1b7118036ac1cee9aecb3229a2666f7e309fa4794d7816ed2874bf9d4b9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4247-1921-01-06.md",
+      "sha256": "6c9d3743ce491f768d96ef9b6e7f98e1209625f5be349e1731fa363e60a9ade8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4255-1921-01-11.md",
+      "sha256": "dcb376efe09cf46b6c5106ad7e96a2b36ec948d4a2eede9bde47bc5b08b5604d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4265-1921-01-15.md",
+      "sha256": "178123e724d1f6c4308b5f8bf617cf64129c7beba1bd89d19ace119a93046b5b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4269-1921-01-17.md",
+      "sha256": "4a694eed7fc92f689c195303c6fe38e733f4ae428268a58528be9ab79dde5437"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4293-1921-07-05.md",
+      "sha256": "7c34b6bdf6f8041aacff05e2aa9d527dcfba3c1eab389aba7311784a451e6419"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4294-1921-07-06.md",
+      "sha256": "d771ba743877f411485892b7f81646c413ed636930312d30bbbecb774b49c155"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4381-1921-12-05.md",
+      "sha256": "15b8a8c4ef2eaff7c78174a203a84f6e27ba4e956fa03433ff831f8c84ec1e2a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4384-1921-12-08.md",
+      "sha256": "a081f2db73ccb4fb80d102b822a3adf21c7df6c398151d68f423fa2723c3899e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4421-1921-12-28.md",
+      "sha256": "d1d235091e75890c5f8ae6f20d9e70fd927d0acb3e4b3c0059d3dec122061a34"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4456-1922-01-07.md",
+      "sha256": "b2094342b0fad2003de5be1ca04e648ae5c1781c5a913b507a66099e60c95797"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4525-1922-01-26.md",
+      "sha256": "a571927237a46f4702dcfeef02913cbb4ff902c27871a9f54d34db325736b61b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4540-1922-02-06.md",
+      "sha256": "40c02d93d27ab2a79240e31cc7b975d3969d2321cad63fa121c14c25789dc73f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4547-1922-05-22.md",
+      "sha256": "67ea157e6e10f4ce93305571a22206624d94a86596090c49f225d26d5cf804fb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4548-1922-06-19.md",
+      "sha256": "fe59ec50d4a3b7b2c238570ae34885816d7cf37836631c5954b890958f170071"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md",
+      "sha256": "8f4f911d7c4a2a836b8c1c31fef8bffa98b20e21bac30202ecaa86c984b8f31f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4561-1922-08-21.md",
+      "sha256": "7cf90cdc10171e356a4b35b88616a093f54a3c07ddfe2dbdf72ed11d030d4173"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4626-1923-01-03.md",
+      "sha256": "ee6633d0b93f1d76900c2270d768ce48dab7fdc2607543d74a9c2f6eed2c811b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4627-1923-01-03.md",
+      "sha256": "4ad150767d5f6cac4a18e4dd62d7cc076c15ef2911199061ff065b407a9c9e2f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4629-1923-01-03.md",
+      "sha256": "a3e798131f4f747a45828d31dfd73805f4fb68fa8b5ce80db79d4680eb8d3dc0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4631-1923-01-04.md",
+      "sha256": "c28a0e91be1693b528d52c5daf0d08eaec6bd4e31c12ec64704f061093bfd902"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4635-a-1923-01-08.md",
+      "sha256": "91c7a0e71721e54c470afcc0beb0cfe7149cb71b12ebf252b3998efdd1482fee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4648-1923-01-17.md",
+      "sha256": "5c91ecc52855d06567bcf3b0ec6c42a6037f1b58fff65ec6d67bb31aa1f7fb5c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4679-1923-01-24.md",
+      "sha256": "3d9ad4170fa73b72e4103d013e0d88089d8c2c4382c9bd2f62c9d106ad22d1c2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256": "46868e8fc727d37f726608aef5f05be4ed767217e4dca76aa2e8af357fbbb2af"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4789-1924-01-02.md",
+      "sha256": "8e12fd2226c5f688bab72322c864458174db65eed0ec76defd815000e4288360"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4837-1924-07-10.md",
+      "sha256": "e1831aa57579e5f61e171d7fde7b5c4142ebbe4477ac5e48dcc2f35a3ad654eb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4892-1924-11-26.md",
+      "sha256": "8541a1a6b8f0e32d68656a35efa8de588aa65e99b9060468e87beb106a6ca536"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4895-1924-12-03.md",
+      "sha256": "ff6aa2606c98dc766e5c8d28a1329ab5dc0459b41aa5b685a72ec2849dfb3bf4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1925/dpl-4910-1925-01-10.md",
+      "sha256": "85c21fc9af7ae64462992be5ca969f0c3eeb9fd50ae3886c3fcabcb764bff2e7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1925/dpl-4977-1925-12-16.md",
+      "sha256": "af76b55dac678d18a265aac59035e3fc85f142ffa8bac4b0c557ce0787fcb04b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-4995-1926-06-05.md",
+      "sha256": "52f8b34984478099c24f156acc3cc69e09466ef4385b5653cdb34fbf03615633"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5018-1926-08-25.md",
+      "sha256": "0b91a1944ecd70c04dc9216490be1d0c3c7da92c9f37f2535c8161bef2a0cdeb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5029-1926-10-08.md",
+      "sha256": "e744d53fb6c9241087010a7778af2e25f1da69ca1bfb7511ffd299647efea2bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5047-1926-11-03.md",
+      "sha256": "d53c8045cb271822f87d9e07504c014d8567b1a97ed3b37951acb56104c6bb3e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5053-1926-11-06.md",
+      "sha256": "e47166de3d4a19188f2ee66bcb158ef187fabc3c3d3e82bce51552d4aac4a699"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5058-1926-11-09.md",
+      "sha256": "c354b59c476d15fbf1c1b5a224cc0bae9253edd35153f569a4cf0c2d781429d0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5100-1926-12-11.md",
+      "sha256": "be9542b8194ab0c2f3e2bbb41eba9e008923c1edcbf2e98c2446db38e56e54d2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5122-1926-12-30.md",
+      "sha256": "773b4ee2ed555d994c7a40ae083613ffd3502e0bc21f701160c550b06cd69776"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5143-1927-01-06.md",
+      "sha256": "1553b34d955f7f399584961a0fe58f8c72217b8dd86d91121a5350a3421ef7ab"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5161-1927-01-12.md",
+      "sha256": "ee35427cbdd3fac2806bc3fc17a07fad806cfa5f138417c951c88c23bb31f521"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5180-1927-01-23.md",
+      "sha256": "26c63f17196c86ed0c7746e0cdb02ab548a9ceb9c4fbf0f61f0afb8b959b0c05"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5180-a-1927-01-23.md",
+      "sha256": "f4d016cc30c8c2d7841931049c8ad77beeefb721af0b29ea97bce020fb36762d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5190-a-1927-06-23.md",
+      "sha256": "49d88181942e2a6348b9094d29527ccd5a2d806f6cebd00913981b998458b3bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5252-a-1927-09-09.md",
+      "sha256": "b9b3bf3f7d5e2fe06d31defc8aee1af3345f4663715a49392464d8bea3ae35b3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5343-1927-11-19.md",
+      "sha256": "aba72d95a0c9a04612cdc3f153965d5d3b1e2318ad73b69ccd47bec0af7cdba1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5407-1927-12-30.md",
+      "sha256": "e988674a9d6ab777a26d877b20dee45797458a8b51b5362f83192bf523982fab"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5426-1928-01-07.md",
+      "sha256": "61993e465c5ea525c104cd0120369a91de305f3b881cac4c9e7df3767d61570e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5429-1928-01-09.md",
+      "sha256": "02d120d809b87de990475ef5579e08d3e37ded4d171a1aca976c4029b252180a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5450-1928-01-16.md",
+      "sha256": "79917d25b2bd8257c23159cb7c4091aec7dbedde1101002b8efda40d3b32b6c7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5455-1928-01-17.md",
+      "sha256": "bfb21a0d5b892e809dcea968318c9112d6b60c7dc3d821a724f77d9776ce39f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5456-1928-01-17.md",
+      "sha256": "71ec50471ff64ea6802466e7a0f047b17e1303e4cf8c95a0e8620caf7793125f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5468-1928-02-09.md",
+      "sha256": "41153c41d4f2253bc923ab85898c60f8ec60e99d11cf87538b5a10526d32aead"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5485-1928-06-30.md",
+      "sha256": "63413fa40203dd47e7c4de840e7ed5dd5ceadc648708526da2905d64ddf9de9e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5542-1928-10-01.md",
+      "sha256": "ac902cd21b7f7fff4d3b43d667a475c35ff59eb013b6b501420c53f6e4e8997f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5548-a-1928-10-16.md",
+      "sha256": "b4d7e0f25c0e0bdff9d84f3368221d8be114c86686b3578e178a8a43b8d73c54"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5561-1928-11-01.md",
+      "sha256": "55872a6040c02ba22c08d0701600d7436f16677164098030b0dea5e30df02ccb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5574-1928-11-14.md",
+      "sha256": "4d44f453f222a3b04ee30199e3624cc9c6b7b77fa23a64c03c2b8d38c9e6879f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5583-1928-11-29.md",
+      "sha256": "296a3096538086e4c2797ad70484cd9a60f434ebde916b80f7775f880c3a02bd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5584-1928-11-30.md",
+      "sha256": "c3018812af0f4b8585bafdd0a100ab2490ffb06ee96ed11ac35ad359e0781a12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5597-1928-12-11.md",
+      "sha256": "b079efdf3a8ca5e536c8ac5c0a8662e05fd00bec450e0ed4cdfc2bf9df1b2f32"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5626-1928-12-31.md",
+      "sha256": "464061d7e3eabd9924599cf53095225b2f2eca48693cf394c396b0c246b56d0d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5628-1928-12-31.md",
+      "sha256": "6e0a2c9bcded72c125c2835326a8c1ff5c95f5bb161263e33d8896bceb3f8afb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5633-1929-01-03.md",
+      "sha256": "574adc22e6a329c30f8bcb19c8008d2907f330e02a0034a0abc088dca8428f85"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5656-1929-01-09.md",
+      "sha256": "dd58b28d0b72458a9c64cc4c739471ebfb1dfcd18c07bd5065394700f57a3d1f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5667-1929-01-12.md",
+      "sha256": "c941478219452f4931d6ed6079df0f3701e02c6d3ae53e07af997ff3a42d94c4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5737-1929-11-14.md",
+      "sha256": "3951cc1db722a539655b781788f5166f05be6de5a84f8aebdd91f01394f7c264"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5751-1929-12-27.md",
+      "sha256": "5f8c327449f8d7567fc1611620058598f9f54df349ee13a526906c01fd0842a7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1930/dpl-5786-1930-09-08.md",
+      "sha256": "3fb13bb9d62e0f4f4f23db4f5703ffde7653c34dba2bdcfdb3b6f262d5e9ae49"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/candidatos/federal/decretos-legislativos/1930/dpl-5812-1930-10-13.md",
+      "sha256": "132e93ea09df756fb34591804eca7cab9906502922c96b1805943aaa7da0b99b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/diagnosticar_dpl_tabelas114_html5-7898bb24c55483647c262b510edb087c4dbf4ba7f05bbcaa9b7546a4ddbfd0cc.py",
+      "sha256": "7898bb24c55483647c262b510edb087c4dbf4ba7f05bbcaa9b7546a4ddbfd0cc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/diagnostico-HTML5-114-final.json",
+      "sha256": "fcee97da0ef807ffe01dd5011494721cf0393058081f16d2df92a2534e1f1836"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/diagnostico4.json",
+      "sha256": "167059f8bbb4297c51e98f2db1248e3d4f57bfb20d61925f302cc4295ff4c4d0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/proposta-condicional109.json",
+      "sha256": "5bf3e1bec2058a8c0b3345b75cf168b01b5e47b11ab944aae6b73a20ff73a900"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/resumo.json",
+      "sha256": "ce0403b1dcbb7cef1b3e68fff2f871818e0bf52e1c5b75944596cb10bcf0bf8c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/revisao114.jsonl",
+      "sha256": "1337a7d64ab12099fa2de316ee88c5c1cd021d60be29e17f5f32f73971e4b18c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-revisao-final-20261016/revisar_dpl_tabelas114_final-be69de962dc0f54c7045a59b257c412eefa1c41f13e8296c5e0c062dab676e57.py",
+      "sha256": "be69de962dc0f54c7045a59b257c412eefa1c41f13e8296c5e0c062dab676e57"
+    }
+  ]
+}

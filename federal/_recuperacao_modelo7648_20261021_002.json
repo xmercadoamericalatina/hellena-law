@@ -1,0 +1,59 @@
+{
+  "escopo": "Reparo privado de modelo próprio; sem editar canônico, entregas ou overlays anteriores.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos/2011/dec-7648-2011-12-21.md",
+      "candidate": "federal/_candidatos_modelo7648_20261021_002/dec-7648-2011-12-21.md",
+      "sha256_preimagem": "8926e07707ac938fc5d4e583526f55cdcdc3eb010d42b14c90301451c429db6b",
+      "sha256_candidato": "5410c3ab1bb564b5e56fabf1d5e239db5b8c5c388ec9af3e758314119ed5e14a",
+      "sha256_fonte_pdf": "4360bba01bd99e7ce9d1b87e28c4338a9a1d2134eeea984ae125614b10cedce3",
+      "fonte_suplemento": "https://www2.camara.leg.br/legin/fed/decret/2011/decreto-7648-21-dezembro-2011-612057-anexo-pe.pdf",
+      "urn": "urn:lex:br:federal:decreto:2011-12-21;7648",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Rótulo vazio final substituído pelo modelo próprio; metadados adicionam fonte/hash/nota. Corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas": 22,
+        "celulas_fisicas": 76,
+        "campos_preenchimento_vazios": 48,
+        "cabecalho": "3 níveis; primeira célula rowspan 2 e célula vazia explícita no terceiro nível.",
+        "categoria_6": "A linha TODOS abrange cinco colunas, conforme fac-símile; não foram inventados quatro campos em branco nessa linha.",
+        "quebra_literal": "ADMINISTRA- / ÇÃO preservado com hífen e <br>."
+      },
+      "checks": {
+        "num_data_indice_epigrafe_fecho_catalogo": true,
+        "vinculo_pdf_oficial_catalogo": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "vinte_linhas_bbox_iguais": true,
+        "campos_fonte_vazios": true,
+        "estrutura_mesclagens_commonmark_preservada": true,
+        "dois_recortes_oficiais_inspecionados": true,
+        "sem_figuras_normativas_omitidas": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelo7648_20261021_002/anexo-camara-dou20111222-p6-p7.pdf",
+          "sha256": "4360bba01bd99e7ce9d1b87e28c4338a9a1d2134eeea984ae125614b10cedce3"
+        },
+        {
+          "path": "federal/_provas_modelo7648_20261021_002/anexo-cropbox-p1.png",
+          "sha256": "766fffdcd5b9bc5fe700153d0b5912e531d44ba64cf410ad61e5a9d666f41c5a"
+        },
+        {
+          "path": "federal/_provas_modelo7648_20261021_002/anexo-cropbox-p2.png",
+          "sha256": "693c1cd42d6f92afff52b4d309471c92d7ed8c2cdf547c3dfc169206f5211ae8"
+        },
+        {
+          "path": "federal/_provas_modelo7648_20261021_002/anexo-transcrito.html",
+          "sha256": "7dc59df0bd36b90aceeec8e7ce1f4fe2075a704442ac9626a34533be78a7a1bb"
+        }
+      ]
+    }
+  ],
+  "historico": {
+    "path": "federal/_historico_modelo7648_20261021_002.jsonl.gz",
+    "sha256": "db788318dfb04cfbf97fb9c2174920bf25cba34a1c962674d56dc85410ec49cd"
+  },
+  "integracao": "Confrontar preimagem com HEAD e destino; promover candidato, conferir SHA final e retirar este caminho da máscara apta somente depois. Preservar overlay histórico."
+}

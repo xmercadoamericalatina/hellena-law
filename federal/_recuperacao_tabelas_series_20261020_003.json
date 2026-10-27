@@ -1,0 +1,786 @@
+{
+  "escopo": "Recuperação offline de tabelas perdidas no conversor legado. Nenhum MD canônico alterado; cabeçalhos legados preservados, não certifica vigência atual. Retidos são pendências de revisão contextual, não prova automática de ausência normativa. Arquivos já modificados desde o snapshot não reescritos nem retidos novamente.",
+  "publicaveis": [
+    {
+      "path": "federal/emendas-constitucionais/1972/emc-2-1972-05-09.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1972-05-09;2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1972-05-09;2",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1972/emc-2-1972-05-09.html.gz",
+      "sha256_fonte": "17b641507df2d72c48ee0697835c31d581e32d871664b57bf504265192dbf436",
+      "sha256_md_publicado": "0eb04519ad7351cd30810e76903d9a0db694d39aaf728fc3b15f2afe90bd8475",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-2-1972-05-09.md",
+      "sha256_candidato": "acbe101e9428f11c1a5bf9f306955fc00890b81d42d633be1107b7066343ee4f",
+      "epigrafe": "emenda constitucional nº 2",
+      "fecho": "brasilia, em 9 de maio de 1972.",
+      "tabelas": 1,
+      "tags_estrutura": 46,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1972/emc-3-1972-06-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1972-06-15;3",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1972-06-15;3",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1972/emc-3-1972-06-15.html.gz",
+      "sha256_fonte": "3f2d0d3c627ab50a6961fb54729e3447756f9fcb68e7c39b20b5858262ec2abe",
+      "sha256_md_publicado": "8e4d720e5e43c846eb03f87ff6f86a528b1a8262188bae3e557a2818300e2220",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-3-1972-06-15.md",
+      "sha256_candidato": "9f68f5be45d9fa47b1283f9df3dd6b36c49d14d5448bba9cbe9f8ba28d28f144",
+      "epigrafe": "emenda constitucional nº 3",
+      "fecho": "brasilia, em 15 de junho de 1972.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1976/emc-6-1976-06-04.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1976-06-04;6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1976-06-04;6",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1976/emc-6-1976-06-04.html.gz",
+      "sha256_fonte": "8bb0885e51c7d5093720e92f0a7097d6edc2ee288c77d90a7494adf9c1fa1dc5",
+      "sha256_md_publicado": "31a8e60a9d22a47c5b42b6c2abcc0268343217227c1ca09e76de3e9a2cd9cff7",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-6-1976-06-04.md",
+      "sha256_candidato": "e852033582a7cbb725554012d49f5e3b0bfa8afd01970a40f02f29a2f5643d89",
+      "epigrafe": "emenda constitucional nº 6",
+      "fecho": "brasilia, 4 de junho de 1976.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1977/emc-10-1977-11-14.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1977-11-14;10",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1977-11-14;10",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1977/emc-10-1977-11-14.html.gz",
+      "sha256_fonte": "246cbc2a192acd9df862f10374500b65716acdea8d10bf0a634b234ce9321613",
+      "sha256_md_publicado": "5505e1b81dc08df84235f1832b6cbb6c64a1d1f73544eeba6a193e3d4fa5ea21",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-10-1977-11-14.md",
+      "sha256_candidato": "86d694244a50d4cf40cd4051e4f947058b54ec598404058a0b2fcec23a34104c",
+      "epigrafe": "emenda constitucional nº 10.",
+      "fecho": "brasilia, 14 de novembro de 1977.",
+      "tabelas": 1,
+      "tags_estrutura": 46,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1978/emc-12-1978-10-17.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1978-10-17;12",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1978-10-17;12",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1978/emc-12-1978-10-17.html.gz",
+      "sha256_fonte": "10ae7d181feb9b448032091c1a207aae2ea24186cb9e8a1d6495036964d48275",
+      "sha256_md_publicado": "8de4f39a5be15e2c7a901a20b6732de75030cd6e1ab8b9c023e1395bbee01b6b",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-12-1978-10-17.md",
+      "sha256_candidato": "8c249528c2ff9eb640f2e65bb980a6175a10856a847cb7180752f0cef09fa184",
+      "epigrafe": "emenda constitucional nº 12",
+      "fecho": "brasilia, em 17 de outubro de 1978.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1979/emc-13-1979-10-10.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1979-10-10;13",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1979-10-10;13",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1979/emc-13-1979-10-10.html.gz",
+      "sha256_fonte": "9b0109fa2edf13dbd000a5abc249566f101e3b81145684f57160dea7f2843302",
+      "sha256_md_publicado": "143ddb1d8848a83a291879a8ec1d8aa45fc43e20ed533461fd5733bd21d01efe",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-13-1979-10-10.md",
+      "sha256_candidato": "cdc7ec66ab23f0c952981bdc7164343949755c8e7d8be73e5f82ed85245714f3",
+      "epigrafe": "emenda constitucional nº 13",
+      "fecho": "brasilia, em 10 de outubro de 1979.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1980/emc-14-1980-09-09.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-09-09;14",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1980-09-09;14",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1980/emc-14-1980-09-09.html.gz",
+      "sha256_fonte": "2cc837df0d07e57b22ec60964d6c22dfb17e266f910403190ec4e56962db936a",
+      "sha256_md_publicado": "1be85ee7162b957db296b98aafb7499dff52e84b9e20a0aaad6e6d5e3b14cdf6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-14-1980-09-09.md",
+      "sha256_candidato": "4c6d7125a8567f84e076ec38a0847c9a6f312b18691c7587b28f9a4a926029fc",
+      "epigrafe": "emenda constitucional nº 14",
+      "fecho": "brasilia, em 09 de setembro de 1980",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1980/emc-16-1980-11-27.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-11-27;16",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1980-11-27;16",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1980/emc-16-1980-11-27.html.gz",
+      "sha256_fonte": "529bc8d594f173882648939bb079edb36c07bbbe3acae818480d78e3b655643a",
+      "sha256_md_publicado": "f1e5aef16c162b820dcbd6f0944462c0a1f5f5f10d9abb48de143a42e5430eb5",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-16-1980-11-27.md",
+      "sha256_candidato": "d0b18221df8146e135876cc16b1e341330c5883101ca287e1882fd3f1e1fdbf9",
+      "epigrafe": "emenda constitucional nº 16",
+      "fecho": "brasilia, em 27 de novembro de 1980",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1981/emc-20-1981-10-20.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1981-10-20;20",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1981-10-20;20",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1981/emc-20-1981-10-20.html.gz",
+      "sha256_fonte": "961716c44487c541de5cc1dc22c7d48bbeea95dbc223eeeb18da2149ba5bfa36",
+      "sha256_md_publicado": "ce6873edbefc9d107200e5857f3c0b3aeed88e2cfe54084ffdd0ce04a14be877",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-20-1981-10-20.md",
+      "sha256_candidato": "b997ff8a5eb0ef33fe6d324d81f06b1443fe050e50bac031649173de02eaf821",
+      "epigrafe": "emenda constitucional nº 20",
+      "fecho": "brasilia, em 20 de outubro de 1981",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1982/emc-22-1982-06-29.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1982-06-29;22",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1982-06-29;22",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1982/emc-22-1982-06-29.html.gz",
+      "sha256_fonte": "16a5979d8416b9e9e3d618bb3e57dd77262361e84cf9e9c46893f03d43458424",
+      "sha256_md_publicado": "7e9d7acdc4fca76256f2678a4902ecf91dcead71d1da45e3ee60acbe63850e4f",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-22-1982-06-29.md",
+      "sha256_candidato": "fda0ba16b76a6f750f467dba8b749bdb0847fcb6149ac4593f2bc7ba6316c4c2",
+      "epigrafe": "emenda constitucional nº 22",
+      "fecho": "brasilia, em 29 de junho de 1982",
+      "tabelas": 1,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1983/emc-24-1983-12-01.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1983-12-01;24",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1983-12-01;24",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1983/emc-24-1983-12-01.html.gz",
+      "sha256_fonte": "ecdaa4f74eecba90d76ebb01b0eed507280556e4ee6ed0fb8906fefc9224be59",
+      "sha256_md_publicado": "84720553ef9a0e98ded3c8390438245f045c8e6be73d30727d4d1833f612b1e2",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-24-1983-12-01.md",
+      "sha256_candidato": "7fc09485d194417a3c67d02c531093e0af7795fac792e75b2c485a543e2fee2c",
+      "epigrafe": "emenda constitucional nº 24",
+      "fecho": "brasilia, em 1º de dezembro de 1983",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1996/emc-12-1996-08-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-15;12",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1996-08-15;12",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1996/emc-12-1996-08-15.html.gz",
+      "sha256_fonte": "91af9b3693f04d2deae3195c20ca41d32fc1c66f902e0dd040b90ab20110f197",
+      "sha256_md_publicado": "fb81386dee884fd07f408eef9dffc7b45b5e4b5dadbf126181ad50530c61eec1",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-12-1996-08-15.md",
+      "sha256_candidato": "7c53e19a79139e57535dc60dc39a97b5fbff9c207a2e5c667ce5e7377189997e",
+      "epigrafe": "emenda constitucional n° 12",
+      "fecho": "brasilia, em 15 de agosto de 1996",
+      "tabelas": 1,
+      "tags_estrutura": 46,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/1996/emc-13-1996-08-21.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-21;13",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1996-08-21;13",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1996/emc-13-1996-08-21.html.gz",
+      "sha256_fonte": "81175a58446f3bb4e570fd9122ace36a131260f89863dd3f3fdddb0b6c188222",
+      "sha256_md_publicado": "4fd6bd367cfe5653c717804e4e0730b6d88ef02c8bf363d01c80672d69a04a0b",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-13-1996-08-21.md",
+      "sha256_candidato": "49c55d2fe9836aa270cfe6678f32579fa37a8ef1f3b049f8ffe806e4d16d9b60",
+      "epigrafe": "emenda constitucional n° 13",
+      "fecho": "brasilia, 21 de agosto de 1996",
+      "tabelas": 1,
+      "tags_estrutura": 46,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/2014/emc-77-2014-02-11.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2014-02-11;77",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2014-02-11;77",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2014/emc-77-2014-02-11.html.gz",
+      "sha256_fonte": "bdc5d50ed4ec5a52e1d0bcce9dc879849ab29220222a2e7f97b8fb803e0f06d9",
+      "sha256_md_publicado": "cea541b8bcb5b7f2e8fbb7c9308683b16996b13f824cbab5edbf4a4fa6f6e624",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-77-2014-02-11.md",
+      "sha256_candidato": "edd1b36ac7d0f3c45cd38b30f1b246c9ffad694e3c59e19ccd359a16dc6c7a36",
+      "epigrafe": "emenda constitucional nº 77",
+      "fecho": "brasilia, em 11 de fevereiro de 2014.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/emendas-constitucionais/2015/emc-90-2015-09-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2015-09-15;90",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2015-09-15;90",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2015/emc-90-2015-09-15.html.gz",
+      "sha256_fonte": "07950e14457bbcd0c8b4d368221e7d806e6a088b32f102aea6696f2b1e68b0de",
+      "sha256_md_publicado": "ee17cbe8149f7e803e31b388b9472cb8727bc645606ebca8952a7e2945b08161",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/emc-90-2015-09-15.md",
+      "sha256_candidato": "406c37f3cf2e772a9eccaeeacdf09c910aa1a6d0013f3691008251e749228871",
+      "epigrafe": "emenda constitucional nº 90",
+      "fecho": "brasilia, em 15 de setembro de 2015.",
+      "tabelas": 1,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2006/mpv-280-2006-02-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2006-02-15;280",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2006-02-15;280",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2006/mpv-280-2006-02-15.html.gz",
+      "sha256_fonte": "b6088295346fc23491000354fca584023e8c1e2dc062999308e69f013f54e194",
+      "sha256_md_publicado": "21b20921dd1084035bb75cb0bc4e48cbcd67650e40476638665621d83dbac36e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_003/mpv-280-2006-02-15.md",
+      "sha256_candidato": "a304dd0d960148cafe1fe3af83394813807bde02fd9f61e966a907a414e70c77",
+      "epigrafe": "medida provisoria nº 280, de 15 de fevereirio de 2006.",
+      "fecho": "brasilia, 15 de fevereiro de 2006; 185º da independencia e 118º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 17,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    }
+  ],
+  "retidos_revisao": [
+    {
+      "path": "federal/emendas-constitucionais/1981/emc-19-1981-08-06.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1981-08-06;19",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1981-08-06;19",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1981/emc-19-1981-08-06.html.gz",
+      "sha256_fonte": "02ffca3e56a7f9fbfa9d545dcd6849457c36ffcf5c223622c41d00045c6cc439",
+      "sha256_md_publicado": "4401a3a535af8276a39638d6d7a50322ba7ca888258e52575e4952a074cf5fb7",
+      "motivo_retencao": "AssertionError('brasilia, em 12 de agosto de 1981')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2010/emc-65-2010-07-13.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-07-13;65",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2010-07-13;65",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2010/emc-65-2010-07-13.html.gz",
+      "sha256_fonte": "f934d89b21ef2b8bd7601c6faa1e106fa7f1e4a250841ef65db43e25e0a899cb",
+      "sha256_md_publicado": "294facf9530e7c0eb808dc16c7855d61339b265dc52ad94d34fe919f99cf5aaa",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2015/emc-86-2015-03-17.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2015-03-17;86",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2015-03-17;86",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2015/emc-86-2015-03-17.html.gz",
+      "sha256_fonte": "06bd46c5e337b8d5b7b6536823a4f135f7c3b0c9160f46e1ddf2a1aa55f55bdc",
+      "sha256_md_publicado": "7e10081b12c8744c8f8001e0cab4fcb4244764f3c289cb81ce39c86ae63f42df",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2022/emc-120-2022-05-05.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2022/emc-120-2022-05-05.html.gz",
+      "sha256_fonte": "96342e4ef787316031125a191076b9b634782f9f01633a24e1e90b7d9ea739e2",
+      "sha256_md_publicado": "0f8e11695eaa0862b758a28427e1c503986bb387e3bb99f8d3d83bde8f94bdea",
+      "motivo_retencao": "AssertionError('brasilia, em 27 de abril de 2022.')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2022/emc-127-2022-12-22.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2022/emc-127-2022-12-22.html.gz",
+      "sha256_fonte": "f89856b9037b6524d3a5e753fdd77b29365d9571e3c8e7129fbbf16e40f6e66e",
+      "sha256_md_publicado": "f2b9c2deb7c466a2805f24ddd7aebc1067a52c848dc77e3fc9abccea62766098",
+      "motivo_retencao": "AssertionError('brasilia, em 14 de julho de 2022')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1498-22-1996-10-02.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-10-02;1498-22",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1498-22-2-outubro-1996-359929-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/75a8c7c1fb0ecb8d6fccc63c64a0b11b48a49dc737770549d094beb25303ae9a.html.gz",
+      "sha256_fonte": "019757121567453fd95098d9823190a3a132a98b939bf2bc8b2b7aa162beb1f6",
+      "sha256_md_publicado": "be37ee3d2cfb0d895668cf36437b174bf6c67454a5c008ddc1fc3ff831f18cfd",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1520-4-1997-01-17.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-01-17;1520-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1520-4-17-janeiro-1997-357659-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/807b5b56fed40887ab63358a1a53ca55e2cddce58003a42c00f6c9e45c00aed7.html.gz",
+      "sha256_fonte": "ac4e29215ba9d2d24bd90d250f39abf0cb2b83e386929406bd2954dd70df8be9",
+      "sha256_md_publicado": "5a4fbd5adfa546ab4bb96db20a2e3347e7bd8fa9d9fbdc85b00887cdc9fdcfb9",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1530-6-1997-05-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-05-15;1530-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1530-6-15-maio-1997-359519-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/57998ba578e7575ba542cde497bc4d832a2efb920d724d72cb351d521df24ba7.html.gz",
+      "sha256_fonte": "e10e0e5c03ec186592b868d60569fcf0f500d15fc9960916bf24386223f79bde",
+      "sha256_md_publicado": "3f15706f68b3d67f5b2403faab3c906fa3cae4fee6b92f85e8aa9960ba3be293",
+      "motivo_retencao": "AssertionError('brasilia, 12 de junho de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1535-6-1997-06-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-06-13;1535-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1535-6-13-junho-1997-359601-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3260d60a0237ed6e38bd06c88d44033a84ae120751359fdf89a50e97a18bae0e.html.gz",
+      "sha256_fonte": "b3d67f60083790639278b33e3788cb5b8a658c988436815e570be0bb47437201",
+      "sha256_md_publicado": "b48befff9ab221ca0c1e91feabb2d613a8898891a10511a9bc81d9122ff4b598",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1547-36-1997-10-30.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-10-30;1547-36",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1547-36-30-outubro-1997-373620-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/012a6864c719281ddfe25fec8573362669a3ad2c9410844117fa20119e0955f8.html.gz",
+      "sha256_fonte": "d82a2e8d0611cec687b975df744e7f9139bd52305c63d5af2d1bb959397023e3",
+      "sha256_md_publicado": "01e28b322a167ff13a42ecb33ad0a780ca5d93b079438d7109ceba5259899d3e",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1549-30-1997-05-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-05-15;1549-30",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1549-30-15-maio-1997-374257-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d5a421415c6f1bb2283784f7fd6f8476ed8e15138fdb7d3edf813be9827bd4b4.html.gz",
+      "sha256_fonte": "9c71410093fa6cdfeefee42297b3e66636523355638022fadff102f3f2de455b",
+      "sha256_md_publicado": "d29d0b3eeb99b560a62139588ca6cd2752b9d2d289656f37870e565fe214c4b5",
+      "motivo_retencao": "AssertionError('brasilia, 5 de maio de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1549-31-1997-06-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-06-13;1549-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1549-31-13-junho-1997-371847-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/9446ff33ac58c6dfdbd90027c8e8c0c50c6603f694bcf936ecbd7aaf469bd913.html.gz",
+      "sha256_fonte": "3eab9f4aa8ffd85dbf3381270baf28249397ee2edf3b871c7ef50c51084e66b1",
+      "sha256_md_publicado": "2f631dc83f12a99c9b2caeabee2f1773e7a35dd92ef3f2cbb9543b9fc34aafdd",
+      "motivo_retencao": "AssertionError('brasilia, 12 de junho de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1556-14-1997-09-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-09-04;1556-14",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1556-14-4-setembro-1997-373725-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d2686bb60f5f7b39f7bd3fd658dc51a4c05107d6d52fef82fcd715b58bd3c5d3.html.gz",
+      "sha256_fonte": "0fb7842f8d003c30d34db863e510d0c13a9525f83c414d198145f9eea4afd234",
+      "sha256_md_publicado": "773e69690e46ef887f00775200507bd102bf42873b0595dc78c85a341755dca9",
+      "motivo_retencao": "AssertionError('brasilia, 04 de setembro de1987;176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1556-9-1997-04-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-04-11;1556-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1556-9-11-abril-1997-373719-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/201d9da9364a5398fa1a73cdadaad64f54a90337a46b2db5cc7a419abd736e6f.html.gz",
+      "sha256_fonte": "825beea5ae5345ebf0d8911ee5ae9cfe7243f443d71ae77bb8281e86c04857c9",
+      "sha256_md_publicado": "e17d81dc9c2864a499e8769f158bcc879ff9a6b5ea5e21ac257365dbb6630e85",
+      "motivo_retencao": "AssertionError('brasilia, 16 de janeiro de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1591-2-1997-12-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-12-04;1591-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1591-2-4-dezembro-1997-376725-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c6e91290e9c53d930ef597ccc4be9c11eccb98e4d82035b16c0b97852113c0ca.html.gz",
+      "sha256_fonte": "3bb417d86a8a785d6a0875eee813891dad15892cfb1479226f17cb8a6212b857",
+      "sha256_md_publicado": "0d8c85cb46ca4aa055723f7d1630a04b17c2480f65d4bba4de176edf50eefda0",
+      "motivo_retencao": "AssertionError('brasilia, 6 de novembro de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1626-48-1998-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-01-13;1626-48",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1626-48-13-janeiro-1998-357445-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/01721a67047727d9a8ea69b11e8df0b9203e15305b94e46d4d231eec17872ab5.html.gz",
+      "sha256_fonte": "83f2721ff9a89f49bd30002cc9ab78c9ab4028ff1e6a09a79cee479beca81fd8",
+      "sha256_md_publicado": "05d6550e06e13a7d2daad782f518df40184643c749eb064ac550056aff3d6f6a",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1730-7-1998-12-07.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-12-07;1730-7",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1730-7-7-dezembro-1998-372168-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ee7d043be3aa9fac32959eabd4f35da18841e4877b26d048a407907aa0223270.html.gz",
+      "sha256_fonte": "a29ffd34084e2d37aac65a90207fa97db3df168ff8078eaf1c45840015bcc8f3",
+      "sha256_md_publicado": "e841074e3043a26775b468e5a578966c30c70899ceb129040f4c4384bbf469dc",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-39-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1741-39",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-39-11-marco-1999-370335-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c20189156beb64d77795088a04f6f35257bb851a832d82dc86650176ecbc4fec.html.gz",
+      "sha256_fonte": "84478f61a4789b72ba2c6c6833a74acf537aa873dcd3b270a644ca2663c41a50",
+      "sha256_md_publicado": "35713efe5786b24242dae99ba45aa6837c9ecebaefd01b0da94b1c4639f51ea8",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1798-3-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1798-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1798-3-8-abril-1999-371858-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/cdbec73e5831e2b4bf0fb6fef929ffd18de56d20f7a13eaeead780c91405eaaa.html.gz",
+      "sha256_fonte": "410ce09414233c205876ae961db63d2d410dd4008732dd577ec53f081e65ed09",
+      "sha256_md_publicado": "d91529abcd3a414907c37490a211b1c97b848938e00908a0135859cc2e24d3ee",
+      "motivo_retencao": "AssertionError('brasilia, 8 abril 1999; 178º da independencia e 111º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1799-1-1999-01-21.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-21;1799-1",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1799-1-21-janeiro-1999-372430-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/07930215310bec0ea7acad7635975266520005d1bcf0eda1b06cc29424bb3580.html.gz",
+      "sha256_fonte": "707d30d0aa072a64a4fc0a9fb884b9de5e823e95e088dcaf213024d8f2411f86",
+      "sha256_md_publicado": "d8398916bfe940685d189d3013ce1de05bdb628dd1d3e083ce06f4a7338786a9",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1799-2-1999-02-18.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-18;1799-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1799-2-18-fevereiro-1999-369313-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c2f3924e5604edc41e77eeb35c63a1936eb0825dd2ca8f3a15f1c6aebf1f3b17.html.gz",
+      "sha256_fonte": "8740247ea363a49a359235c33ae9b6c665ffed4ceced9466d3f5277b5d6b21cb",
+      "sha256_md_publicado": "c6c838dc2e4ad91c519eabfe2a86626795fe735ff7ee09dd5867e24f2218964e",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-7-1999-05-20.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-20;1806-7",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-7-20-maio-1999-377994-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d5fc4e71c4510aec8d8cb9930b614bf50b3fe8c0fd32e773223aa40555f15a38.html.gz",
+      "sha256_fonte": "e23ffbcd582824bb8f4c16a62ece5d6897966423013d4236cd980ce24bbfa62c",
+      "sha256_md_publicado": "6cf865e2942bed3be9432d94cbc7ee5d3513f748e8513cba29692f1ceffb5cce",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-2005-3-1999-12-14.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-12-14;2005-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-2005-3-14-dezembro-1999-370033-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/eef4126f5b0c196c848f7e8e163e06c8b39ef0853fa2dddcc75887edaac719ff.html.gz",
+      "sha256_fonte": "fcc15c2130d017030ec4743d81613bb4775fc32b8cc172cbfa1b81a5b20aba70",
+      "sha256_md_publicado": "6d782086815d1126282343e28010188b4b42d2d686b368021e6bc5fca26605e7",
+      "motivo_retencao": "AssertionError('brasilia, 1º de dezembro de 1999; 178º da independencia e 111º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-13-2000-04-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-04-28;1934-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-13-28-abril-2000-374267-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/189705b341c8afd2dc6d5cb17e1e6d5d39453ae3bb941fbcb3ded30538dec15d.html.gz",
+      "sha256_fonte": "7c9491a85f47c0299074703b6653a9d17bef9cb492ccd82d5fc4deaeb6132b19",
+      "sha256_md_publicado": "47cc0634c38170a94505b5eb37a8659b42d5d74442a0a1dfc4e3811a47583d71",
+      "motivo_retencao": "AssertionError('brasilia, 28 de maio de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-17-2000-08-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-08-25;1934-17",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-17-25-agosto-2000-359949-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/86cbbbdb6d59e2f286547dc1628ce963e674df6175265f7dac4ad2fb39db546f.html.gz",
+      "sha256_fonte": "bafc9d598524dd33ac43d4f03b368aaa7bca2785f9678d410effe4aea18f5b3d",
+      "sha256_md_publicado": "c2dff280155bfd4c4a4e4ef9711e45e1898acafb59e8dd0ea4e20fc332c1b0a0",
+      "motivo_retencao": "AssertionError('brasilia, 26 de agosto de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-20-2000-11-23.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-11-23;1934-20",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-20-23-novembro-2000-361826-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/22cb747525bc204f09795b225674026e15c5f1e2057e59cd8e15847687f64ce8.html.gz",
+      "sha256_fonte": "7e13d475303d971de4bf58ec87469a880ea3ec5188ccc0a65fd474aea1911e20",
+      "sha256_md_publicado": "2049e7e0b8b058ae0fb7e55f6cc9c237d4fc3f8465737f8cbcaee82cbcdfcece",
+      "motivo_retencao": "AssertionError('brasilia, 23 de outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1948-56-2000-06-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-26;1948-56",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1948-56-26-junho-2000-362864-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/e3c97e2a4d4e1f62f47a4339cd485e1936f473b66a9fc595cd3a756fabad3893.html.gz",
+      "sha256_fonte": "157ed6380dd216b68dfa76856f942fb6001b0449e68289eef727db2dbad76a48",
+      "sha256_md_publicado": "c650736f777ecbdbe7ae7a4c913326f7c3c8cf860ad3afed2f1fc8fbb7363d3f",
+      "motivo_retencao": "AssertionError('brasilia, 26 de maio de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1948-61-2000-11-16.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-11-16;1948-61",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1948-61-16-novembro-2000-367350-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7a18a7997a46e6bdb270e41ab016982e59e660c43d90943e776af18e2e8790cf.html.gz",
+      "sha256_fonte": "36c2de5a97032dd873e0e980e25142dbb672db5139984212046f31790d91fae1",
+      "sha256_md_publicado": "48a4e4528988e8c4fcb6af5914a7dcd49fc15a8685f26d1cc1083083e5c973ed",
+      "motivo_retencao": "AssertionError('brasilia, 16 de outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1971-13-2000-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-29;1971-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1971-13-29-junho-2000-362209-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/60c32cecfb6d7bdbd64f106dd0f28a24f2a2bf07fc7783522e3b1d523336d37a.html.gz",
+      "sha256_fonte": "6d36bfbf538328c1f00ec8fa8947269dd9e7a8cf890cfcc78d4478b74c415995",
+      "sha256_md_publicado": "1371350a10b333f041f033bd31b7763e39ba68e86e90ffd7f39b3798745dbf4c",
+      "motivo_retencao": "AssertionError('brasilia, 30 de junho de 2000; 179° da independencia e 112° da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1972-15-2000-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-29;1972-15",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1972-15-29-junho-2000-362210-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f8dd8c1d86c0ed08e4be9dc9a4aab5e2c644bdcf9817150c115bbb0d7e17ffcd.html.gz",
+      "sha256_fonte": "a1bc53fa60a6281aae7f063e559b0cdcb1993894356db8f36df6bc212475b9ff",
+      "sha256_md_publicado": "61613ea12c2051419638b4ac6898e0a4625d1bc5633a945a230a398d5afadce0",
+      "motivo_retencao": "AssertionError('brasilia, 30 de junho de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1973-67-2000-10-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-10-26;1973-67",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1973-67-26-outubro-2000-376505-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/11fedab0175f47b0480ee0d1e8ea07b97363b3fba8cf8374fea5f8131830b37a.html.gz",
+      "sha256_fonte": "a4cb2afd272ab7db6aa28cf11055feade4275fc86d09826db0ef63965621475f",
+      "sha256_md_publicado": "2be367b11d555b4f47b342ce2f60bf11900e4caf5283e74230b6a83e5d3ea649",
+      "motivo_retencao": "AssertionError('brasilia, 26 outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2016-4-2000-04-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-04-28;2016-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2016-4-28-abril-2000-374270-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/e7cf361942c9482273c1a0c079e692d95360e29a278b164e3fafb1f80e224475.html.gz",
+      "sha256_fonte": "69fc29ad1d1d2d8cbba79499f57dd2c0553abcbc60a5ba9e22a428f6d0c2f79e",
+      "sha256_md_publicado": "fc638a0e8d4667204996ee2cfb215ab8134ea1ce0fccf72c53f9fe9d8f605d8f",
+      "motivo_retencao": "AssertionError('brasilia, 28 de maio de 2000; 179º da independencia e 112 º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2033-37-2000-10-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-10-24;2033-37",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2033-37-24-outubro-2000-376124-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/b3122f2c3b29d0fa9f456ee9a31f4afbdb1b7d53abda522d0d67d30ddd69e028.html.gz",
+      "sha256_fonte": "82bdf593ab4ec113aec54bd534b9b141e7986781e05660d83babd20f4f755240",
+      "sha256_md_publicado": "c8d8c389af364aa6a3921120c646455d385d9c88accadf1fdc7ba32ff7b3ae23",
+      "motivo_retencao": "AssertionError('brasilia, 22 de setembro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2037-19-2000-06-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-28;2037-19",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2037-19-28-junho-2000-359974-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7b8130b9f6c42a352f0fe529c05ce4b5e1471526011700426929c6a31174e9a7.html.gz",
+      "sha256_fonte": "dbc52a12ada72c401a0261257a97c12b7b63ab33f1574024338ff5024a7d98ec",
+      "sha256_md_publicado": "88cbd4b656b93191190baf26ecfcb6769c112188bc924a368c8cba2b21abc9dd",
+      "motivo_retencao": "AssertionError('brasilia, 26 de setembro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2109-47-2000-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-27;2109-47",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2109-47-27-dezembro-2000-366415-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/94683971956433d496fe4cb9e885840b0c1ffe26b3e44a7427b2c6bc7b2d3d8d.html.gz",
+      "sha256_fonte": "c39457d462399c18f120d17684b45d782674a23543952117334379bcddce6a1e",
+      "sha256_md_publicado": "e242031a1501fabc4e654a9f15911a6a6460cfe5cf252227e3eaf3a29966b370",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-11-2001-11-21.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-11-21;11",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-11-21;11",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-11-2001-11-21.html.gz",
+      "sha256_fonte": "72c264ceb404fbd953da102ee5e3ea56092047d861c45dc471e9532b5056d781",
+      "sha256_md_publicado": "78769b5f367e952733fef231d83e815f4c15c2a5a892d8095f4ea6747a3e6ac6",
+      "motivo_retencao": "AssertionError('medida provisoria nº 111, de 21 de novembro de 2001.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-16-2001-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-27;16",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-27;16",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-16-2001-12-27.html.gz",
+      "sha256_fonte": "6108b41221d5661898356b4e37235b6c0c899454436acf1b587cc6bbe68f7ce3",
+      "sha256_md_publicado": "9a09cb3c52e6582295dc3f19fa2e0a87956385aee5a8b2f06d710ea0bc33df4a",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-18-2001-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-28;18",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-28;18",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-18-2001-12-28.html.gz",
+      "sha256_fonte": "c1491788ad5a6e1f8958bd5d52d8ac2b2b9d84bca96630015083d3950f78a519",
+      "sha256_md_publicado": "e4893d133b038503ef4c11d0dbf5934630915cd4ddde2a55edf1ed97a67da273",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-20-2001-12-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-31;20",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-31;20",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-20-2001-12-31.html.gz",
+      "sha256_fonte": "442d41df2761fed1cef20e6bd3b2b641f4c9a60d24c75b428aa65a6476065122",
+      "sha256_md_publicado": "58e61f349a437eef95636a5b5dc184b0ed5ded1a2abafde0c44c7ead317bd2e7",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2158-35-2001-08-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-24;2158-35",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2158-35-24-agosto-2001-390566-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/33a585aca0a86fea58d45227efaacaab4b79602a338da287371b06bcbe094caa.html.gz",
+      "sha256_fonte": "e5735eee973d6845ac05888bc95abb6e26bc4882d333566612c9bbc020008748",
+      "sha256_md_publicado": "18c9046ac3464f29c87475bb4df443c64ad2c577eb8ef68f9d10f8a01161605e",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2215-10-2001-08-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-31;2215-10",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2215-10-31-agosto-2001-392526-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/0b82f805820f81b6a870a40bd19f1f83be83ca13782d4fcb80b44f9f6be30816.html.gz",
+      "sha256_fonte": "ba04e48b6d92442ad90b124de591c8a0954e98a1068d5ffaa6ff8dffa3d56bb6",
+      "sha256_md_publicado": "5efe82856ad5a3bb12d68f055cc2dfb8eda5192d9597e0dd92744a75dea28a0c",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2228-1-2001-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2228-1-6-setembro-2001-404188-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/90c55a57e3d23a8a10969f09353fcdfea1381fdbb54068e0a182724b29f875d3.html.gz",
+      "sha256_fonte": "eda394aad953510442a01671be48abe8c3816fe39839586c180c199cd1e73a35",
+      "sha256_md_publicado": "a0f670b21d2d9765c8d947f86032adb26ba7f479acc2b1759481a429a974f050",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2229-43-2001-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-09-06;2229-43",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2229-43-6-setembro-2001-395384-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1ee15774fd56f70d7cc97778e747704b3b132469803e33de4858416c84f8f232.html.gz",
+      "sha256_fonte": "58e51490bc0b17638dcf3d2b16a4aad36b5169784bf4a8521eea807b07a3f0bd",
+      "sha256_md_publicado": "37705e9df84d054c851a0ca3a96abd29e360318c19046fda3c67845c91a8fb56",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2002/mpv-21-2002-01-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;21",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2002-01-08;21",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2002/mpv-21-2002-01-08.html.gz",
+      "sha256_fonte": "f7ae7e3a3e5b194d21dd2d35f78ea63a2ce1b8a96e4e6754322a86cdb24628e1",
+      "sha256_md_publicado": "6fc178fcb7feb78c38fa0bdd21ffda61b894b5544c00ed895386010793720b3b",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2002/mpv-22-2002-01-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;22",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2002-01-08;22",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2002/mpv-22-2002-01-08.html.gz",
+      "sha256_fonte": "bd23feadb0bb4a832ff8f0bd4e22d357c68dda1fc1c9fa79367913abb6a7a52f",
+      "sha256_md_publicado": "24a6547ca3e67bb5fd27d26d74b1e1bb87607a92965bfcebeb31eda7ea92f40d",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2010/mpv-501-2010-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2010-09-06;501",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2010-09-06;501",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2010/mpv-501-2010-09-06.html.gz",
+      "sha256_fonte": "04d811e595d40dac904efeabed483fd63207bce686f0c81a1b95bffe49a8aded",
+      "sha256_md_publicado": "cbdbc8ef6cfab47ffe940a262ab8510c1be3da73214406544e0efb584d8a1f73",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2011/mpv-546-2011-09-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;546",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2011-09-29;546",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2011/mpv-546-2011-09-29.html.gz",
+      "sha256_fonte": "442799334b8748f4886bf3ce3ccafc8d446b81cf74fb3ea63de0c951dd6c4b90",
+      "sha256_md_publicado": "b58e939b11ccaf0feaba6e125766669a1d501b122c85401870c504737348a963",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2012/mpv-601-2012-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2012-12-28;601",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2012-12-28;601",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2012/mpv-601-2012-12-28.html.gz",
+      "sha256_fonte": "55e4a8fa9db492d3c5523fcbbc076782a5358b08377191609071193687487eaf",
+      "sha256_md_publicado": "5118a41376a433c9792088eef81726adba35816d8cfc64c905e3b6f9a36cd1c5",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    }
+  ],
+  "snapshot_superado_por_recuperacao_anterior": [],
+  "resumo": {
+    "candidatos_snapshot": 64,
+    "substituicoes_publicaveis": 16,
+    "retidos_revisao": 48,
+    "snapshot_superado": 0
+  },
+  "historico_e_fontes": {
+    "path": "federal/_historico_recuperacao_tabelas_series_20261020_003.jsonl.gz",
+    "sha256": "4c9ce95c747ff4c9c5273fdf6d32288a38df3875f313a4efb8ef3e7945c775f9"
+  }
+}

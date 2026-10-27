@@ -1,0 +1,375 @@
+{
+  "head": {
+    "head": "dfd2cd20d8bf89ed6a4ea45a817232bc6f23f806",
+    "tree": "/tmp/federal-head-guard35-20261021.z",
+    "sha256_tree": "8c0ea59a6103591836d86f88384b32b8ab0a64cd7914ed78776ffd28fa519f0a",
+    "mascaras": "/tmp/pendencias-head-guard35-20261021.json",
+    "sha256_mascaras": "4186e68bf8b01f4831976978ea990d7368e9b62936a1f29610981e98fc6a902c"
+  },
+  "escopo": "Proposta individual somente dos blobs HEAD idênticos à preimagem auditada, descontadas as 2.145 máscaras do snapshot. Sem alteração de canônicos ou registro.",
+  "resumo": {
+    "estrato_forte_original": 5262,
+    "propostas": 5178,
+    "excluidos": {
+      "literal_nao_localizado_ou_citacao_visual_requer_revisao": 16,
+      "fora_do_HEAD_inedito": 58,
+      "divergencia_identidade_ou_hash_metadados": 1,
+      "metadados_identidade_ausentes_no_MD": 9
+    },
+    "soma": 5262
+  },
+  "predicado": "Executar 01 e 02 para o estrato original; 06 restringe por árvore HEAD, máscara, SHA de blob, literal HTML, ausência de visual/tabela/citação tipográfica e identidade API. Código arquivado em federal/_prova_predicado_guard35_head_20261021_008",
+  "propostas": {
+    "path": "federal/_proposta_fortes_HEAD_guard35_20261021_008.jsonl.gz",
+    "sha256": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc"
+  },
+  "preimagens_md_html_metadados": {
+    "path": "federal/_receipts_fortes_HEAD_guard35_20261021_008.jsonl.gz",
+    "sha256": "d61c8332f64120c97a027376904733e9ee187634347b7bd64cc9e42f4b9f9e87"
+  },
+  "exclusoes": [
+    {
+      "path": "federal/decretos/1975/dec-75740-1975-05-19.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1976/dec-77007-1976-01-09.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1976/dec-77069-1976-01-21.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1976/dec-77798-1976-06-09.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1976/dec-77799-1976-06-09.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1976/dec-77968-1976-07-06.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1977/dec-81137-1977-12-29.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1977/dec-81138-1977-12-29.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1978/dec-81523-1978-04-05.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82157-1978-08-23.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82302-1978-09-20.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82326-1978-09-27.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82333-1978-09-27.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82383-1978-10-05.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82396-1978-10-11.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82527-1978-10-30.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82528-1978-10-30.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82529-1978-10-30.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82685-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82689-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82690-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82691-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82692-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82693-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82694-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82695-1978-11-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82743-1978-11-29.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82803-1978-12-06.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82804-1978-12-06.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82835-1978-12-13.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82841-1978-12-13.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82842-1978-12-13.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82843-1978-12-13.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82845-1978-12-13.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82892-1978-12-19.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82894-1978-12-19.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82910-1978-12-20.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82911-1978-12-20.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1978/dec-82957-1978-12-28.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-83682-1979-07-04.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-83778-1979-07-25.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-83821-1979-08-07.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-84038-1979-10-01.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-84060-1979-10-08.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-84281-1979-12-10.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1979/dec-84356-1979-12-31.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1980/dec-84907-1980-07-15.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1980/dec-84989-1980-08-01.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1980/dec-85035-1980-08-12.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1980/dec-85253-1980-10-14.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1981/dec-86281-1981-08-10.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1981/dec-86509-1981-10-27.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1982/dec-87304-1982-06-21.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1985/dec-90990-1985-02-26.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1985/dec-91064-1985-03-07.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1985/dec-91700-1985-09-27.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1987/dec-94545-1987-07-01.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1987/dec-95430-1987-12-10.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-95610-1988-01-11.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96082-1988-05-20.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96271-1988-07-05.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96446-1988-07-29.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96554-1988-08-23.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96976-1988-10-14.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-96978-1988-10-14.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1988/dec-97105-1988-11-23.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1988/dec-97132-1988-11-23.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1989/dec-98466-1989-12-05.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1989/dec-98545-1989-12-14.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1990/dec-99237-1990-05-04.md",
+      "motivo": "fora_do_HEAD_inedito"
+    },
+    {
+      "path": "federal/decretos/1990/dec-99970-a-1990-12-28.md",
+      "motivo": "divergencia_identidade_ou_hash_metadados",
+      "numero_md": "99970-A",
+      "urn_md": "urn:lex:br:federal:decreto:1990-12-28;99970-a",
+      "data_md": "1990-12-28",
+      "api_urn": "urn:lex:br:federal:decreto:1990-12-28;99970-a",
+      "api_data": "1990-12-28",
+      "sha_json_confrontado": "a4697f2dca74adf6f3c349c7f0696e09f8d130e6f4fc4ec50cf34c2aafa8c896"
+    },
+    {
+      "path": "federal/decretos/1997/dec-2183-1997-03-21.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/1997/dec-2214-1997-04-25.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/2001/dec-3740-2001-01-31.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/2004/dec-4967-2004-01-30.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2004/dec-4999-2004-02-27.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2004/dec-5178-2004-08-13.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2004/dec-5248-2004-10-20.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2005/dec-5463-2005-06-13.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2005/dec-5610-2005-12-12.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2008/dec-6508-2008-07-15.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2009/dec-6847-2009-05-11.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    },
+    {
+      "path": "federal/decretos/2009/dec-6865-2009-05-29.md",
+      "motivo": "literal_nao_localizado_ou_citacao_visual_requer_revisao"
+    },
+    {
+      "path": "federal/decretos/2011/dec-7440-2011-02-16.md",
+      "motivo": "metadados_identidade_ausentes_no_MD"
+    }
+  ],
+  "limite": "Não aplicar máscara ampla sem conferência da regra, amostra e blobs pelo ROOT. Os demais estratos seguem em revisão."
+}

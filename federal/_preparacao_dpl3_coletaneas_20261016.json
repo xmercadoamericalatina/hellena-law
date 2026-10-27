@@ -1,0 +1,364 @@
+{
+  "estado": "candidatos3_coletanea_para_revisao_independente_sem_aplicar",
+  "atos": [
+    {
+      "numero": "5488",
+      "path_canonico": "federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256_MD": "b5f4beb642c175b2a1f43514646cf30271c51b41fc26b2947b82bd309cbb195b",
+      "sha256_corpo": "77ba1fde68de74f142af7e4d686992bccaa9341b3aa6087ab9fdc2621ef92de5",
+      "artigos_sequenciais": 3,
+      "diferencas": 1,
+      "paginas": 2,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    },
+    {
+      "numero": "5515",
+      "path_canonico": "federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256_MD": "b35a83610984d3f11b371c17aa1c4a6a0e383bcfa16b0f6f73d569813735a9e3",
+      "sha256_corpo": "896ee2d428debe04196bdbcb199a3779b591ba5d33d4f323bed013394bffef84",
+      "artigos_sequenciais": 45,
+      "diferencas": 28,
+      "paginas": 6,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    },
+    {
+      "numero": "4743",
+      "path_canonico": "federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "path_candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256_MD": "c16f00eb8aeb1192a667670e8ffb97e69b52f928ebbd2d2eedc76034940ec289",
+      "sha256_corpo": "d5a2aec25aae333cdd947360c3bcfd551b27fb9c7180239357015ba93ff08c9a",
+      "artigos_sequenciais": 37,
+      "diferencas": 32,
+      "paginas": 10,
+      "estado": "candidato_cotejado_requer_revisao_independente"
+    }
+  ],
+  "helper": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/preparar-coletaneas3-2011de2f516749751ac1efdb77b124de9ae87cf7a0c1721dc23858208618e364.py",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/backup-MD-original.md.gz",
+      "sha256": "44ae58f8c4d69e9bb8be6efaf5de0740e056eeb9c6445f90f0dc56f8b480f23c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/delta-integral-v2.diff",
+      "sha256": "e8f538bc6407697f4f3332bb41ff0ae2c36bafe60f5ccb0a3fb95ba76072cb62"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/delta-integral.diff",
+      "sha256": "a215698dd645167bfcee0080c4a83053b378987683815f44b53bc43758b6c6ed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-188.pdf",
+      "sha256": "a369f1b3919c3760670e8c41b2f03f32924ae955f76ac076b8657620e8fdad72"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-188.png",
+      "sha256": "54314ea26ac95818d2d1974db06699462a7af574adb9266883217153017c99d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-188.png.vision.txt",
+      "sha256": "d3bdb45a8bbc2675e25a8ce6b1c82233d9d9a776606262ab2ab8e7f96146f218"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-189.pdf",
+      "sha256": "f5d7844e488f9ce06873ed5c348e56a6b018079f8e67f07c9bb2badf7cc41f2b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-189.png",
+      "sha256": "d03ddf8764ba7a715addecc1346f17044f7a3016ceff63932bbb9d78d8d2fb43"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-189.png.vision.txt",
+      "sha256": "8c1e4b2fbf489c8909283ac1605b2f38aa23e177aab393c19af20f6aac42ba8c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-190.pdf",
+      "sha256": "9f153e42a5b5e144f08a34d00f48619d93dde0b0ecf1cb4e2d5d17c5d0f21353"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-190.png",
+      "sha256": "6760aa60e55a9ea74acbfe412bc0d2557388d0324de0b8f59e7b951b8c3b4c91"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-190.png.vision.txt",
+      "sha256": "8a362f8b3890f35d295bf067969eca1e07a3096735598e36f18d47db28e4bb53"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-191.pdf",
+      "sha256": "b8584c2f3ec164a00b09ac7bf2fa644580d40503739860215f8be0d6d498f053"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-191.png",
+      "sha256": "f22800d0be4eb71849b3bb577bdb82823c98ea87c263cb99761ad0bbc87a0303"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-191.png.vision.txt",
+      "sha256": "ad0438834f3a916c19fc0c15d43ff27eb711ec6274613cedd37f6b8fbcec6a9a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-192.pdf",
+      "sha256": "14aead5fdf1d8f128e39c67601d8fc69061a0f359dd0a965259b18b767ea7509"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-192.png",
+      "sha256": "5e805ab7f655a639bef6ee02eb5375d77980736c80db656deff6f66743b88b43"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-192.png.vision.txt",
+      "sha256": "7eb4f2ef5330dfd83c494244fbc296bd51068b69fb1f795938860255b5587b64"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-193.pdf",
+      "sha256": "b53ac3258a1d6b2723bd79458d09df81cda328a830769e9ce8b85fd82d869ae5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-193.png",
+      "sha256": "b60f24c659695ab6a5799cf89be46cdfcc48dc31b4addc6eb34e7b6c8bd5c924"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-193.png.vision.txt",
+      "sha256": "833f52c1cc60f8dffd08fab7fb1f1961f5b9db9dc640d11f058756ca9385b7b6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-194.pdf",
+      "sha256": "f5f68a3e3f6cf2f43dae7501cb0a4d48b645a5bf5a06407c934463909e612aeb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-194.png",
+      "sha256": "09893146c037504ae476ca5b0b9dac12848b2549f1001d92d8a09c97cf1edab4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-194.png.vision.txt",
+      "sha256": "23e99196e7f2dcd951746f7303cb26a9259f4a14a7906a1b4559595eced7aef5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-195.pdf",
+      "sha256": "444660a7dc3aafcec40e5ee4023672337a349ee953e5dc271b85bc2c374452ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-195.png",
+      "sha256": "3a2b849f1ac766f3622d4eb62721adc9601731188fb332c398d086b3c8c5d033"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-195.png.vision.txt",
+      "sha256": "7208819ca165f98a563fa3b1ed4e45ff8a14842c456c8cef377658fb51a0a7ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-196.pdf",
+      "sha256": "6f9710ad97b92b671f6c288b77ae3c2a15ba42335fc660aa08b39968ab5b8d59"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-196.png",
+      "sha256": "d8b4391957af9b3cd2bd9a2fa4485735ef034a2f341394b0f3124f13d29c3554"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-196.png.vision.txt",
+      "sha256": "7b7e04be5006b2b26c9fd002f518eae717c019c15d04c9e5c7aa2e8b755d3162"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-197.pdf",
+      "sha256": "7d91c2d8cfe896b3baab30126f6c52ee036cb4abedb996f535276f4d27b38899"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-197.png",
+      "sha256": "08c59e6f9729d480fa1a45bf4d7c7e1cca400604c3b8c5792334500d20fd1120"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/pagina-197.png.vision.txt",
+      "sha256": "2baddef43748e32a2bf2c56b37e98ff3df67d5245fe509a4df3f5d1276542d19"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/paginas-integra-ato.pdf",
+      "sha256": "a741e1ee041987e56845a878ee2c90f1a0679d5c19f321929050f22dddc0ea45"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/4743/paginas.json",
+      "sha256": "33fad6bcdbb93c4df7e3be7e66878686749d44fa1556ba1bef3531d600aa00c0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/backup-MD-original.md.gz",
+      "sha256": "d566a81dc8b4281dd5fdc205dd93b8ecb0165a812dfabee1c8635d4284874dfd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/delta-integral-v2.diff",
+      "sha256": "b5ee41320781066a95da69391611c9fd6c2f67e1ddac4d863fd8ab7a26d8d3cc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/delta-integral.diff",
+      "sha256": "9c8cfa7b5bacea15a0e75e381c7aa43466fdda1954587432233a2d734f16b2ea"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-155.pdf",
+      "sha256": "1425d9f2adb32bee8df5e0097e7bc649cd0dac1ae97991a127e8e335fabd5c5d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-155.png",
+      "sha256": "fc5247f20d676e4d44cece3db1846e3fbfbbdd8d4e85ecdafd5e35342e1c55db"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-155.png.vision.txt",
+      "sha256": "dc18caf3079e80d3d5ea024e070cf0795026bcf6be9079bf7006591badf9cf60"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-156.pdf",
+      "sha256": "77df1e74fa9460738bf965549f419ebe52b36f9ba7d862ee461719c422c46636"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-156.png",
+      "sha256": "3ea4a5509b9658c6b337a23bc1db8550bd925a67c3f6de86881a020568915446"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/pagina-156.png.vision.txt",
+      "sha256": "85215376242e5cdbd43fe3fc019dee8669f0c3620159220d209fddd54610d0fd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/paginas-integra-ato.pdf",
+      "sha256": "a9ed0020bbcab3085c150733cc15fbf0988e104d8c1588583fcfefa9ac622517"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5488/paginas.json",
+      "sha256": "eb45472aa1276ac777d69c44a9cf91ec6b43d45b24577b8869c39e37aa899fc6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/backup-MD-original.md.gz",
+      "sha256": "611c010f2c62c36b3a81d405aa5063d4c376acdc864a30925f82a01f697457a0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/delta-integral-v2.diff",
+      "sha256": "55b4966edc1a909f012f447ed29c14251fb18205e49f1b2bb4d34e58070166d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/delta-integral.diff",
+      "sha256": "fc40d2bbbc3c797339a5cc664d252e2461b8d982f8813330f4e19a1c91b6d30c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-175.pdf",
+      "sha256": "74eb3f3b399dba493f1de8affec8b7e0753aa0e6a0d5061f518958d8e345b3b2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-175.png",
+      "sha256": "0d9e3cd93adeebd01bc5d16c99ce6ff21298c0aeacd8ca04c03528810ca56906"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-175.png.vision.txt",
+      "sha256": "b40db5913ad50ea3b33ca526a24db6a00031f6b5bd0d9634312fa1eb0814917b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-176.pdf",
+      "sha256": "e9551163e04fd0980da7437d8d4539b04cc81b76ca3c8090c66d05e2766e53e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-176.png",
+      "sha256": "1805c1d068b26c17c798c2543a277f730b06b9afc41d7b796bf9e0078fef4a42"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-176.png.vision.txt",
+      "sha256": "7b3d920e55e2a71217decbe9d01e3dfa2f97ac20b4d1293bdda2b9b27a1642fb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-177.pdf",
+      "sha256": "4e43d57db87f244d87ff5df8b46535c454c8b295d4da1ff67cc84512f5aa6428"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-177.png",
+      "sha256": "e0e18399163da15647998a12db7dfe297222dda284b61fa454e407f7f2654747"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-177.png.vision.txt",
+      "sha256": "4ad8d726ab02c48088182eb1a1582e2b7fc91e7b882f86091543bf33ab5dc64a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-178.pdf",
+      "sha256": "6a0558bbab3ca94f3399e1fd2368c3646b342ed91417467ce3c30061e5dd55a5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-178.png",
+      "sha256": "5ae2c9976a34d58b13d2b8892e8d1ab88481b1932222a202bae918ecc1f65783"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-178.png.vision.txt",
+      "sha256": "c470eaabb37b47e60701ce9f331dc749d5b7a79ea1860213f2e9c7032dc56ab0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-179.pdf",
+      "sha256": "9e48831394a9e038cbcf4e0ec84eb9d7cc78f2997cf3f335a564b67594b03ba4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-179.png",
+      "sha256": "8072f9bf62aec5aa618cd08b49e70bfc3ba018ca06c3e446b08f60086d5c0212"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-179.png.vision.txt",
+      "sha256": "f9d45283a119af3bf86fce502efa06675350b1b3949a6362143d7a38370faff9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-180.pdf",
+      "sha256": "114998e47e175520101f1430509963c5320a5dc5a409886b425d11ea150c22a5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-180.png",
+      "sha256": "c72ae0fad35cabd77a4b85bacc7e733438f8cffa5129e035f3f6c314df0b4b03"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/pagina-180.png.vision.txt",
+      "sha256": "9c0b929501469af66be9ef68e3d4aff1a05bc0813162a604a713432981f7d6ff"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/paginas-integra-ato.pdf",
+      "sha256": "0ad5b0a248a270bed75f1e5092ded0bc4ca1e732ee8f3edc585c7f1ce82e414a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/5515/paginas.json",
+      "sha256": "e49e01d749a4eda6b48c7cb9de42fa058524d730958ef4e51f4a6381593bc71a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256": "78b24f0912b69e2b4c6a2449148c5a636c1b51e58ec7a6b90bdbdff7b09072d8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256": "b5f4beb642c175b2a1f43514646cf30271c51b41fc26b2947b82bd309cbb195b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256": "b35a83610984d3f11b371c17aa1c4a6a0e383bcfa16b0f6f73d569813735a9e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256": "c16f00eb8aeb1192a667670e8ffb97e69b52f928ebbd2d2eedc76034940ec289"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256": "b5f4beb642c175b2a1f43514646cf30271c51b41fc26b2947b82bd309cbb195b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256": "b35a83610984d3f11b371c17aa1c4a6a0e383bcfa16b0f6f73d569813735a9e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/checkpoints18-paginas.json",
+      "sha256": "89ac6ac8aaf3ecbfcd72ee969e38568aeb1242c16959e478a134166b5a4f4a8e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/ledger3-cotejo-v2.jsonl",
+      "sha256": "eae764989a137e72a1e6dd9ff93f8cb936a7d6cef6e09aa3cd7b86b746de8aa4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/ledger3-cotejo.jsonl",
+      "sha256": "4bbc7d4c6c2abb25c66dc5cdb5518d0f24da9359948906de9ecce2200a8c0582"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/preparar-coletaneas3-2011de2f516749751ac1efdb77b124de9ae87cf7a0c1721dc23858208618e364.py",
+      "sha256": "2011de2f516749751ac1efdb77b124de9ae87cf7a0c1721dc23858208618e364"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/validacao-final-v2.json",
+      "sha256": "f031074a59389bd275b3ad25cec7b32570aa8a155b6ca2bdf33be26a25f2d365"
+    }
+  ],
+  "nao_publicar_rascunhos_candidatos_v1": true,
+  "HTTP_preparacao": 0,
+  "Git_mutacoes": 0
+}

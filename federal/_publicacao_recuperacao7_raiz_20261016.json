@@ -1,0 +1,161 @@
+{
+  "quantidade": 7,
+  "aprovacao": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/revisao-raiz7/aprovacao-publicacao7-raiz.json",
+  "sha256_aprovacao": "0be9b64284732d1053beeb64150f3001018b8f140529f02fffd84ab1583c18e5",
+  "atos": [
+    {
+      "numero": "263",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/dpl-263-1894-12-20.md",
+      "sha256": "72b91b8159f088e2161aecbd12edea7e8d98e23cb83260e03fe81346d9eafe23",
+      "destino": "federal/decretos-legislativos/1894/dpl-263-1894-12-20.md",
+      "epigrafe_primaria": "DECRETO Nº 263, DE 20 DE DEZEMBRO DE 1894",
+      "data": "1894-12-20",
+      "fecho": "Capital Federal, 20 de dezembro de 1894",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/78aa7e1de3f95eda45c73ffb9ead9f752befe97d8797883c42025529190276fe-9e822ffc3252d7d1d35e72f7847bc08b086f9da52ea90300f0f605d277966e8f.html.gz",
+        "sha256": "78aa7e1de3f95eda45c73ffb9ead9f752befe97d8797883c42025529190276fe",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-263-20-dezembro-1894-540501-publicacaooriginal-40817-pl.html",
+        "sha256_HTML": "a8867de748e2c61a6132185482f515922eee5d79a5ff1f4e7b6c337026c62e19",
+        "sha256_fragmento": "b10cd2fea6407feb5042fc086b549d4bf2e0bfdb87f9176398d227344ec35a94"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/metadados.html",
+      "SHA_metadados": "8482450e4ea78dac4232b7599daec13aae105047d327f86fe7bfd5eb92dc861f",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "3029",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/dpl-3029-1915-11-22.md",
+      "sha256": "353c45081c3cc13c4702b43c8ecdc953a900af152419cd0321b9185f5f1937c0",
+      "destino": "federal/decretos-legislativos/1915/dpl-3029-1915-11-22.md",
+      "epigrafe_primaria": "DECRETO Nº 3.029, DE 22 DE NOVEMBRO DE 1915",
+      "data": "1915-11-22",
+      "fecho": "Rio de Janeiro, 22 de novembro de 1915",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/ae2054d7f1f0485300381e40a4cfadaba5ebceeee42532a7d977bdd987ee30c7-a602231462b5a20ac086c053ebe68b31d2ba21eb98f0eb46df00576fd5241169.html.gz",
+        "sha256": "ae2054d7f1f0485300381e40a4cfadaba5ebceeee42532a7d977bdd987ee30c7",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-3029-22-novembro-1915-575041-publicacaooriginal-98123-pl.html",
+        "sha256_HTML": "b78c486ae41eae4daca620d52a105f136d4992535d2a8814e1b67d74117cf957",
+        "sha256_fragmento": "060ec8071182ba67b00c09593b6b8efa27552cf5ba1c3b759ae6d2052aa47137"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/metadados.html",
+      "SHA_metadados": "5c7e7dd9289100212b3dc86567c3074b37bc322f91dfb0c27407204835594978",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "4970",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/dpl-4970-1925-10-28.md",
+      "sha256": "0822527d8811d6e3049aa909131cfd34c0feaaeb78d2e48ecb0fdd244d65dc18",
+      "destino": "federal/decretos-legislativos/1925/dpl-4970-1925-10-28.md",
+      "epigrafe_primaria": "DECRETO Nº 4.970, DE 28 DE OUTUBRO DE 1925",
+      "data": "1925-10-28",
+      "fecho": "Rio de Janeiro, 28 de outubro de 1925",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/e83a4d14e21e06f2722c23838ab0ca00b1448f89c17bc506e4b1f365ec92e665-eb6b08cbf4bc7e55f3bfbb8206f143d53ec242c24476f03d3b096db8e2db53a9.html.gz",
+        "sha256": "e83a4d14e21e06f2722c23838ab0ca00b1448f89c17bc506e4b1f365ec92e665",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4970-28-outubro-1925-565523-publicacaooriginal-89284-pl.html",
+        "sha256_HTML": "af75c7de6a0895d1498b4939187cbb8d34f516b5058d1814af52770220ded43b",
+        "sha256_fragmento": "bfe0d89c150acc4e4d904aef9f4ca0f03d147142366f8762a05f90a663fce2f5"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/metadados.html",
+      "SHA_metadados": "1f3621e0c619a886e5ccd1f5f42ca72768dea8b4e9186e2fd3fd2dbeccc09136",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "1107",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/dpl-1107-1903-11-24.md",
+      "sha256": "a1c65a847b6e63e139d2e2ba4990f91e7e2713344e072d3537e734f45233eb42",
+      "destino": "federal/decretos-legislativos/1903/dpl-1107-1903-11-24.md",
+      "epigrafe_primaria": "DECRETO Nº 1.107, DE 24 DE NOVEMBRO DE 1903",
+      "data": "1903-11-24",
+      "fecho": "Rio de Janeiro, 24 de novembro de 1903",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56-bf111c0c8c5fed6818e55b1a6ce4571441feea1af75aab6bacac228795a654a7.html.gz",
+        "sha256": "39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-1107-24-novembro-1903-584920-publicacaooriginal-107782-pl.html",
+        "sha256_HTML": "c37daec190264825feb25096922b56b094bc1c9be662efd9d58edc600771d86c",
+        "sha256_fragmento": "8f769fa96b942a41a03d74e4d5e979d4904726d5ca147f82f24214da6fc4907e"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/metadados.html",
+      "SHA_metadados": "fc264d39c8f7cc79749b279af64d78aae925c3e2839de86e66e11237c19f0524",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "2967",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/dpl-2967-1915-02-08.md",
+      "sha256": "e4fafae827dbf892029c785e434d5ed77d7712d5ba8cf8d0e67b8578ce9623e6",
+      "destino": "federal/decretos-legislativos/1915/dpl-2967-1915-02-08.md",
+      "epigrafe_primaria": "DECRETO Nº 2.967, DE 8 DE FEVEREIRO DE 1915",
+      "data": "1915-02-08",
+      "fecho": "Rio de Janeiro, 8 de fevereiro de 1915",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4-05ee860ee9317b86797ef2b67abef593895b1dce690b6ec91ef0e688b298a74a.html.gz",
+        "sha256": "7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2967-8-fevereiro-1915-574352-publicacaooriginal-97519-pl.html",
+        "sha256_HTML": "b0ce300836101162cd8145d8136f04be484e85d3647b403f8d53c349adedfa36",
+        "sha256_fragmento": "8e8caec202dfd4bd5ab9c2e9097ed7395d163a6bf74fb4a1f73fbede9b0ad35c"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/metadados.html",
+      "SHA_metadados": "7a2d738a34231985cc9ddbeee13fdd83408ffa7a775c8aac8e2c7c20f6179177",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "395",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/dpl-395-1896-10-13.md",
+      "sha256": "032d288d61c0af1aa783eb5151a6ac32fdb4a9050e364e4c5417e06d9a793342",
+      "destino": "federal/decretos-legislativos/1896/dpl-395-1896-10-13.md",
+      "epigrafe_primaria": "DECRETO Nº 395, DE 13 DE OUTUBRO DE 1896",
+      "data": "1896-10-13",
+      "fecho": "Capital Federal, 13 de outubro de 1896",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9-f666b12c0944dc85508a94fd337493c6e9bce6a254e1a2dbf0572587eb38ebf7.html.gz",
+        "sha256": "a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-395-13-outubro-1896-540208-publicacaooriginal-40168-pl.html",
+        "sha256_HTML": "b73f1e120198c17fcb0b5d7cabdedcf6371c2084a084edc138de555bcd812926",
+        "sha256_fragmento": "5df39ce747cef2e9f6793fa29c45529d0658ce6d49d4ee01c210d4e2f57d2cc7"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/metadados.html",
+      "SHA_metadados": "da196005737e33766ac02317f67078659f13661baec1c73fbd0f2c86e3361b0d",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    },
+    {
+      "numero": "4115",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dpl-4115-1920-08-27.md",
+      "sha256": "f9fb147e667976d59ec25270c21e632043f6ef575e39fdb1b51900b5cd4d17d0",
+      "destino": "federal/decretos-legislativos/1920/dpl-4115-1920-08-27.md",
+      "epigrafe_primaria": "DECRETO Nº 4.115, DE 27 DE AGOSTO DE 1920",
+      "data": "1920-08-27",
+      "fecho": "Rio de Janeiro, 27 de agosto de 1920",
+      "revogada": null,
+      "fonte_gzip": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe-8afdea728b0e01dc23d1d4291b32d3d7bbcc0901cfba03e5aaa8c25e5bedf29f.html.gz",
+        "sha256": "3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4115-27-agosto-1920-570370-publicacaooriginal-93503-pl.html",
+        "sha256_HTML": "a659af80c9077e55190b1967af470e47333eb96a48027afeba7109c77c7796a0",
+        "sha256_fragmento": "776c1089716e2d12931668abec67500644723545fa3f6da69dad3c0d0e64bb04"
+      },
+      "metadados": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/metadados.html",
+      "SHA_metadados": "85d521f5c577bc691b4192e02a1fcbf7c6d39015c3cb324db8bf61034f437c98",
+      "leitura_integral_raiz": true,
+      "texto_DOM_GFM_identico": true,
+      "sem_artigos_fabricados": true
+    }
+  ]
+}

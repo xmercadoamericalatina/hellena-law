@@ -1,0 +1,59 @@
+{
+  "urn": "urn:lex:br:federal:decreto:1959-03-13;45568",
+  "path": "federal/decretos/1959/dec-45568-1959-03-13.md",
+  "candidato": "federal/_candidatos_modelo45568_clbr_20261021_005/dec-45568-1959-03-13.md",
+  "sha256_preimagem": "9033b0b6a706bb1997ec4443c2c51765c10b71a63f6993c58305afc7b01d8d9b",
+  "sha256_candidato": "79ab79f11d95da2e2a0fdf46e31175a63e6aee2e95bbc482dc8bf44f79387fec",
+  "fonte_anterior": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1959-03-13;45568",
+  "fonte_edicao_recuperada": "https://bd.camara.leg.br/bd/bitstreams/f0ecd427-dd84-4089-8566-59016542e46a/download",
+  "sha256_pdf_integral": "c39696918315a9eb7a1343680dac828dfa06ab4c575dabf57f69e60eedb4e63f",
+  "paginas": {
+    "decreto": {
+      "pdf": 626,
+      "impressa": 578
+    },
+    "modelo": {
+      "pdf": 627,
+      "impressa": 579
+    }
+  },
+  "identidade": {
+    "numero": "45568",
+    "data": "1959-03-13",
+    "epigrafe": "DECRETO Nº 45.568 — DE 13 DE MARÇO DE 1959",
+    "fecho": "Rio de Janeiro, 13 de março de 1959; 138.º da Independência e 71.º da República.",
+    "api_sha256": "c010994e4cfbd44c08ec034e1e12cae0a49671ad52b590dbc8976515568dfd31",
+    "api_edicao": "Original",
+    "api_publicacao": "1959-03-17",
+    "api_notas_retificacao_alteracao_encontradas": false
+  },
+  "edicao": "CLBR integral, transcrição nova dos seis artigos, fecho e assinaturas; modelo como imagem nativa sem redesenho. Não é corpo Normas acrescido de figura CLBR.",
+  "divergencia_material_confirmada_visualmente": {
+    "artigo": "2º",
+    "clbr": "de dois milímetros sôbre fundo branco, de oito milímetros, de acôrdo com o modêlo anexo",
+    "normas": "de dois milímetros, de acôrdo com o modêlo anexo",
+    "causa": "não determinada"
+  },
+  "modelo": {
+    "path": "federal/anexos/decretos/1959/dec-45568-1959-03-13-modelo.png",
+    "sha256": "cff7cdbedee471299429d681e899105dbaefbd85f5f237728da706bcd64b727d",
+    "dimensoes_pixels": [
+      1193,
+      1660
+    ],
+    "extracao": "pdfimages -f 627 -l 627 -png; imagem principal 1-bit JBIG2, objeto 2377, decodificada sem redesenho, corte ou reamostragem; três máscaras 1x1 editoriais não integram o desenho. Página exclusiva deste modelo.",
+    "conteudo_conferido_visualmente": [
+      "barreta frontal",
+      "barreta posterior",
+      "medalha anverso",
+      "medalha reverso",
+      "títulos e inscrições do modelo"
+    ]
+  },
+  "conferencia": "Leitura visual da página 578 inteira para os seis artigos e identidade; comparação visual do PNG nativo com a página 579. Acentos, pontuação e variantes da edição CLBR preservados na transcrição; quebras de linha/hifenização tipográfica recompostas. Sem afirmar equivalência literal entre edições divergentes.",
+  "promocao": "Privado; ROOT deve conferir preimagem, edição e asset antes de substituir o canônico e retirar pendência.",
+  "historico": {
+    "path": "federal/_historico_modelo45568_clbr_20261021_005.jsonl.gz",
+    "sha256": "541312e65edd97c1053e065a104a393d6d1d0e2adab5118f53d251c14a1bced3"
+  }
+}

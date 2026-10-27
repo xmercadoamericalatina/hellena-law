@@ -1,0 +1,78 @@
+{
+  "urn": "urn:lex:br:federal:decreto:1966-11-28;59595",
+  "path": "federal/decretos/1966/dec-59595-1966-11-28.md",
+  "candidato": "federal/_candidatos_modelo59595_clbr_20261021_006/dec-59595-1966-11-28.md",
+  "sha256_preimagem": "58e6681fde250634380481da7c8a8b4abcf159fb7523f0e7d33a2b8bfa488e5f",
+  "sha256_candidato": "b1293d01717366e90ab9df6b7b27a339a8bd54c4b500c19300df94d27ae2aebe",
+  "fonte_anterior": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1966-11-28;59595",
+  "fonte_edicao_recuperada": "https://bd.camara.leg.br/bd/bitstreams/cbba9912-431c-475a-8eae-9f589772c32b/download",
+  "sha256_pdf_integral": "2f35197dac55ecfb27e61b8717f8b0bbe16cbf10d79e47ca7dad2e59cf85c505",
+  "paginas": {
+    "decreto": [
+      {
+        "pdf": 2512,
+        "impressa": 196
+      },
+      {
+        "pdf": 2513,
+        "impressa": 197
+      }
+    ],
+    "modelo": {
+      "pdf": 2513,
+      "impressa": 197
+    }
+  },
+  "identidade": {
+    "numero": "59595",
+    "data": "1966-11-28",
+    "epigrafe_literal": "DECRETO Nº 59.595 — DE 28 DE NOVEMBRO DE 1966",
+    "fecho_literal": "Brasília, 28 de novembro de 1966; 145º da Independência e 78º da República.",
+    "api_identificador": "urn:lex:br:federal:decreto:1966-11-28;59595",
+    "api_data": "1966-11-28",
+    "api_sha256": "6163d13e94519d17c44b4ab534c4128a9d666779c6ea12b08d0fa6083c42b59e"
+  },
+  "edicao": "CLBR integral, transcrição nova dos quatro artigos, considerandos, epígrafe, fecho e assinaturas; formulário integral capturado como fac-símile. Não é corpo Normas acrescido silenciosamente de modelo de outra edição.",
+  "divergencia_material_confirmada_visualmente": {
+    "local": "preâmbulo",
+    "clbr": "Artigo 87, item I da Constituição Federal",
+    "normas": "artigo 87, item III, da Constituição Federal",
+    "causa": "não determinada"
+  },
+  "modelo": {
+    "path": "federal/anexos/decretos/1966/dec-59595-1966-11-28-modelo.png",
+    "sha256": "2b997f793ac7dcadc5c17a2d3607447effc4fdee7c6fa45fa331cb16700a3ae7",
+    "pdf_cropbox": "federal/_provas_modelo59595_clbr_20261021_006/modelo-cropbox.pdf",
+    "cropbox_pontos": [
+      48,
+      112,
+      377,
+      399
+    ],
+    "mediabox_pontos": [
+      0,
+      0,
+      427.32,
+      595.8
+    ],
+    "extracao": "pypdf 6.10.0: página 2513 com CropBox; pdftoppm -cropbox -r 200 -png -singlefile. Conteúdo original do PDF preservado na prova; PNG é rasterização documental, sem redesenho ou edição de campos.",
+    "conteudo_conferido_visualmente": [
+      "medida 10 cm",
+      "títulos português e espanhol",
+      "campos 1 a 11",
+      "linhas em branco",
+      "indicação de uso oficial"
+    ],
+    "fora_do_recorte": "Fecho e assinaturas acima; decreto seguinte 59.596 abaixo. Não fazem parte do formulário."
+  },
+  "conferencia": "Leitura visual das duas páginas para os quatro artigos e identidade, sem usar OCR como prova literal; modelo/cropbox conferido visualmente contra a página completa. Recomposição de hifenização tipográfica nas linhas corridas.",
+  "qa_formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "promocao": "Privado. ROOT confere preimagem, fonte, edição e asset antes de promover e retirar pendência.",
+  "historico": {
+    "path": "federal/_historico_modelo59595_clbr_20261021_006.jsonl.gz",
+    "sha256": "e90697c1ed74ef9f25a4470641a997a6bd956142d7f3ae425d9d939d16ac7c7b"
+  }
+}

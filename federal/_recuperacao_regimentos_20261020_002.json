@@ -1,0 +1,4037 @@
+{
+  "escopo": "Candidato de recuperação, sem modificar o MD canônico. Texto extraído anterior mantido literalmente; todas páginas com quadros comparativos editoriais identificados incorporadas por reprodução integral de página, 150dpi, sem retoque. A imagem QR bibliográfica e os brasões vetoriais das capas são elementos editoriais, fora do corpo normativo. As imagens preservam visualmente a estrutura; não se apresentam como transcrição tabular estruturada. Não certifica vigência atual.",
+  "publicaveis": [
+    {
+      "path": "federal/regimentos/regimento-senado.md",
+      "sha256_md_publicado": "ad4cc8c427b3c9f4a8a535abfebae1d1530576af6d69d325ad121ee49ab44afa",
+      "candidate": "federal/_recuperacoes_regimentos_20261020_002/regimento-senado.md",
+      "sha256_candidato": "5e50e3ebf84257db84cb129d4bcc7c76380308afc26272b09ebd22d5552bf31b",
+      "fonte": "https://www25.senado.leg.br/documents/12427/45868/RISF+2018+Volume+1.pdf/cd5769c8-46c5-4c8a-9af7-99be436b89c4",
+      "sha256_fonte_pdf": "3fab72cdda6e5294e2b29a0a6e92da9c495d1ed8564cc29af59168c39ae8d2f0",
+      "edicao": "atualizada até julho de 2025",
+      "paginas_suplementos": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238
+      ],
+      "checks": {
+        "texto_anterior_preservado_literalmente": true,
+        "unica_imagem_pdf_qr_bibliografico_na_capa": true,
+        "reproducao_direta_pdf_sem_edicao": true,
+        "quadros_comparativos_editoriais_p174_238_reproduzidos": true
+      },
+      "assets": [
+        {
+          "pagina_pdf": 174,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-174.png",
+          "sha256": "0f893097965ad6c50a26c73b37f6594395c0588e6e3a37dc90d247b66eb65440",
+          "bytes": 147229,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 175,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-175.png",
+          "sha256": "49807da2a0e0750d2120e857afc7a6b6b9d0208519de05d373fd539661b46a68",
+          "bytes": 162858,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 176,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-176.png",
+          "sha256": "803d0eb40ee393c34b7a7f9740d12ec50da3df40d753558164a198789ef8bb85",
+          "bytes": 209509,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 177,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-177.png",
+          "sha256": "4620ad7807792c1a95598811f27b97f7b4d9fe7a5755edfc04e44b3da3294068",
+          "bytes": 158037,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 178,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-178.png",
+          "sha256": "4b832ae919043ff7ab41ecf7f831c94e7d1075623db0af81bc5ecd253a82f8cc",
+          "bytes": 168133,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 179,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-179.png",
+          "sha256": "9b6ee93164e67a64debbf334e28fff85902212ac80123897c7bfd6de36e420de",
+          "bytes": 123870,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 180,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-180.png",
+          "sha256": "6eaffc9a2385380056d10e9e970a373dd8bcc70afc784bcc55198107f95ab5e4",
+          "bytes": 185840,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 181,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-181.png",
+          "sha256": "5a4c919fe1b1bf2fa7da6040da691032aaadeb10a3c8af029f787ee911b55c98",
+          "bytes": 212682,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 182,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-182.png",
+          "sha256": "b836deca069f965cc35fa1b4d6dc1df15ec6924696fcaf9256762b12ea85ede0",
+          "bytes": 172014,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 183,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-183.png",
+          "sha256": "69f2b84e9ef10735f6fa8f02a5665216ea609bfe220c2723134b3a99a9b3c3b8",
+          "bytes": 160228,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 184,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-184.png",
+          "sha256": "df5479efc1d5e00dfbdd45f8c825513b4ceef7d6ac57bfd57589b415e9f6c716",
+          "bytes": 199686,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 185,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-185.png",
+          "sha256": "744000209099b8eb4eee6188ccdfecb870abc599046642b308d4b8553c1aab67",
+          "bytes": 126863,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 186,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-186.png",
+          "sha256": "44ad788e8b778d964b1101e1cc2c6dbcaa3fd52f3ce8eca6e0a5fc4bf9dc47fc",
+          "bytes": 221523,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 187,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-187.png",
+          "sha256": "2b157495f462bac8c6d3743246a11af977db12eb4062eeaf5b240dda0a308f71",
+          "bytes": 184011,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 188,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-188.png",
+          "sha256": "3d17ca2234bdf6ee3e7a7c3acb402723a522d891929a10af5ee7435102da56fe",
+          "bytes": 154269,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 189,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-189.png",
+          "sha256": "8765c07749071cf4cc07943e3bb34d7a65aaed160ae86b38360699f52ca0b06b",
+          "bytes": 201209,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 190,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-190.png",
+          "sha256": "7e5c2030b6da9e263370bdd4c2f4f5737efbfcce10a1316e9439e7939a06f403",
+          "bytes": 154166,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 191,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-191.png",
+          "sha256": "04219416855eb5a56edc86439c4d01ff2220ae150ccea6090d72ed253274d4c4",
+          "bytes": 166630,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 192,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-192.png",
+          "sha256": "acc6aa6e8e3e3681256317ad8e648f4e5e379152fb90e4dcc521504f7d06c85e",
+          "bytes": 199056,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 193,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-193.png",
+          "sha256": "adf02876a73b4ad5a7d53f23d4dfa15d272e2a45ce44736683fa57628449d1b5",
+          "bytes": 151436,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 194,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-194.png",
+          "sha256": "477a72dfbb593ecfd0189921a2b1ba8ef0c9f5f9bd51072a1437233bcb171eba",
+          "bytes": 181917,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 195,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-195.png",
+          "sha256": "8aa795da026ae83a299ee8f5c34f6e2543ee0eeadf48ea1afbc8f3f8dedd7d7f",
+          "bytes": 196540,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 196,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-196.png",
+          "sha256": "653a42c1bd0dda3584a29ffa06b20737b8e9765da8d79387243a0a9439ebdf98",
+          "bytes": 142016,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 197,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-197.png",
+          "sha256": "626c5a4dbe36dc2b1931b35df141cc8712aa2a7a931234ddcb3c1855eb1d8e85",
+          "bytes": 215438,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 198,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-198.png",
+          "sha256": "bdd5e29e389a3d3f8eddaac1e04e4fd0029d926ed85e3035895b8a3d70c04c24",
+          "bytes": 129478,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 199,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-199.png",
+          "sha256": "2fb33b8ad6597560bee7476bb78c84be351fca787d8ebe5faafde770172b845d",
+          "bytes": 163002,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 200,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-200.png",
+          "sha256": "d7a9eb490645588580ad4bab9843c12fdf5466f3c79d824173ab737465444a3d",
+          "bytes": 153937,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 201,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-201.png",
+          "sha256": "97eac55602a959f2dd3ef745ef61b665fe63eb0ac34685620fb8ed9c9405fdc2",
+          "bytes": 199971,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 202,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-202.png",
+          "sha256": "9db4ef5f4596c969b3e1d356ae1a7356ef4fa69e0294a5e9ae6b1e95065e35ca",
+          "bytes": 189114,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 203,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-203.png",
+          "sha256": "71e491e05e53cda1b27c43a271bbcde89c4b17ac705378d11eaa6cdffaa17aa8",
+          "bytes": 239908,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 204,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-204.png",
+          "sha256": "0b6f9fdd1c6b11959f4a134580111a7ef958db8f4cc76b12813b8305034d9bd8",
+          "bytes": 238726,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 205,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-205.png",
+          "sha256": "5085099c324cba501d250bc613f03f725fecf4e9118d2782f7db3b838a26c714",
+          "bytes": 285876,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 206,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-206.png",
+          "sha256": "486bca15285c96ea255cab910cf41f462843b57c8df1ac8af2969f75308b485f",
+          "bytes": 156579,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 207,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-207.png",
+          "sha256": "1f56b7ba0f1f7752978d1ce22e1b7489f5253b3602ad08f1e8f49384623208dd",
+          "bytes": 168614,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 208,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-208.png",
+          "sha256": "6acd74caf526ba03a88179ece55311dd2c68991755c8719bc19dc60f18a8a5a2",
+          "bytes": 184728,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 209,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-209.png",
+          "sha256": "d9cda4565e920387060fa1dd9aa3f61f4792c7d7aead07c4a9f87dba8cc7e708",
+          "bytes": 154404,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 210,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-210.png",
+          "sha256": "1b384b876ecb58236988b51a9777f88fb159ef421f7af377cb99ce649aed9e2b",
+          "bytes": 163823,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 211,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-211.png",
+          "sha256": "c0249317a68a6ae355ccb5d48e07361ab4d040948281c78d236bd0ddc257495c",
+          "bytes": 151985,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 212,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-212.png",
+          "sha256": "b3385ebe5da1d5e34a0dc0e49b8a31bf62dbbaaa781992df2022b8b9325b76d6",
+          "bytes": 169821,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 213,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-213.png",
+          "sha256": "311e8d605814ae8d00d91e00a99a1194c684bd8bbd401eb0caea829e702cfec7",
+          "bytes": 159314,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 214,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-214.png",
+          "sha256": "6382d8ac98cf8b552a38684e6425d26a2a0d23916479e46a0af78df0db602234",
+          "bytes": 214520,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 215,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-215.png",
+          "sha256": "65a33ce62fa360f5e4ddd745a2020636ab597586a906e9505b6842aaad68280b",
+          "bytes": 141875,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 216,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-216.png",
+          "sha256": "7125768453ed3d01eae82598881877d48aa6ce7257d346c21f5e4439bf9a31c2",
+          "bytes": 181349,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 217,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-217.png",
+          "sha256": "7648117432f0475c5195916d604d8d4b4d972570bda2d12af536350ffe59a27d",
+          "bytes": 188701,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 218,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-218.png",
+          "sha256": "1f64a25bbcc4945fd99f867bf5f462670615e09fcddb701bc7d863726fc5ec0d",
+          "bytes": 196043,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 219,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-219.png",
+          "sha256": "23c81f9a69487b2ee2028d7e6fdb3a7d35ed91e351014c01c6fe12c39ccd22f3",
+          "bytes": 220951,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 220,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-220.png",
+          "sha256": "ccd39b5ee62ecf941b8b3705670c4473a4b50fcba4acc4922ccd970440e65418",
+          "bytes": 188379,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 221,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-221.png",
+          "sha256": "055a530007ac778f55871f81af003c009405b0d82e27244b8f19541a479f3bb0",
+          "bytes": 170538,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 222,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-222.png",
+          "sha256": "0001c9eb5a12139dad6e635a5c371e6c1f68627801c2fa3776d4704b7f50bc96",
+          "bytes": 130872,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 223,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-223.png",
+          "sha256": "373e2ab4fedb68a5c5deacae0bfc3df76ed09c5159ab01019746c30ab8ea1ff7",
+          "bytes": 146101,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 224,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-224.png",
+          "sha256": "06fff30e33d3efe30f021bdfd7f27dae5f5aea5e9a8690abe6c5683cd0734ae4",
+          "bytes": 184249,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 225,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-225.png",
+          "sha256": "1f2503472d6fa34ed4bccdcb8b9c9a6bf56ee18dcddfb191a9d566d68d802090",
+          "bytes": 177891,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 226,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-226.png",
+          "sha256": "fb4274c406f7897b973bc19405f2700eaa300c3d79ec32213b1b5e5e2b8c9970",
+          "bytes": 161784,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 227,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-227.png",
+          "sha256": "4afa1254cf2d71648625fed6f5b1c982b2608c2824f378b9c2b96823fc9afdd2",
+          "bytes": 169101,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 228,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-228.png",
+          "sha256": "8f735737b11fe806cc1dfd175d5cebd16fda456877ca5c848592ba55e33554cb",
+          "bytes": 161253,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 229,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-229.png",
+          "sha256": "e840671f72ced82094c5e03fe7578a0c509338f68bd50257ca5cb04245fda462",
+          "bytes": 170411,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 230,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-230.png",
+          "sha256": "2e3a862cc0925d48484b4f213d5f42d17387130e3a84bcfaafdd04d4dc40826e",
+          "bytes": 39507,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 231,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-231.png",
+          "sha256": "ba8fda3ed86615b48302d06364f74332da0cc239f77f15425e16c6968a037137",
+          "bytes": 181701,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 232,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-232.png",
+          "sha256": "459120189018ffd49b7127d723d274dbedbf4d05c8b32cc905416681e6c46d1b",
+          "bytes": 150118,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 233,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-233.png",
+          "sha256": "90a48e387a09b9b22cb600bcde002cdbbe2130a6af2308352a5546f4c784810a",
+          "bytes": 191947,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 234,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-234.png",
+          "sha256": "55534195dad8b3a5faf42020977477501a44e845b207506b5e534baf7bbf3b4a",
+          "bytes": 226541,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 235,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-235.png",
+          "sha256": "9f666c59344275767ab61d94eb173e9b878b298c01434920cdf260d2395a2e69",
+          "bytes": 144122,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 236,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-236.png",
+          "sha256": "1bb48b34ffb6d40aac5de8f181489cdac185c9ae0f52304232369533d9966abc",
+          "bytes": 162555,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 237,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-237.png",
+          "sha256": "bdf48599907f05447af1b9231a82ed6b990005df49bbe915e509cbfa86be436a",
+          "bytes": 178069,
+          "tipo": "quadro_comparativo_editorial"
+        },
+        {
+          "pagina_pdf": 238,
+          "path": "federal/regimentos/anexos/regimento-senado-2025/pagina-238.png",
+          "sha256": "bd53ea2e5aa1889b68aeb76cc3a03c2a6a93e5b7eb07cb055877be240772d419",
+          "bytes": 114117,
+          "tipo": "quadro_comparativo_editorial"
+        }
+      ],
+      "identidade_edicao": {
+        "titulo_pdf": "Regimento Interno — Resolução93/1970",
+        "fonte_bibliografica_p3": "Texto consolidado ao final da56ªLegislatura conforme Ato daComissãoDiretora15/2022, atualizado até julho2025.",
+        "partes_pdf": "Articulado do regimento na ParteI; ParteII(p173) introduz quadros editoriais p174–238; ParteIII(p239) inicia índice remissivo.",
+        "indice_ato_base": {
+          "id": "563958",
+          "tipo": "RSF",
+          "descricao": "Resolução do Senado Federal",
+          "numero": "93",
+          "norma": "RSF-93-1970-11-27",
+          "normaNome": "Resolução do Senado Federal nº 93 de 27/11/1970",
+          "ementa": "REGIMENTO INTERNO DO SENADO FEDERAL.",
+          "dataassinatura": "27/11/1970",
+          "anoassinatura": "1970",
+          "apelido": "RSF-93-1970-11-27 , REGIMENTO INTERNO DO SENADO FEDERAL"
+        }
+      }
+    }
+  ],
+  "resumo": {
+    "substituicoes_candidatas": 1,
+    "paginas_reproduzidas": 65,
+    "bytes_png": 11297135
+  },
+  "historico": {
+    "path": "federal/_historico_recuperacao_regimentos_20261020_002.json.gz",
+    "sha256": "c20d055433b3ef6346ddddad70da1c5658cf6eb30d377ff17e7885451894a66a"
+  },
+  "levantamento_tabelas": [
+    {
+      "pagina": 174,
+      "tabelas": [
+        {
+          "bbox": [
+            79.2125,
+            112.89599999999996,
+            408.19,
+            479.09599999999995
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "Art. 72. As comissões perma-\nnentes,alémdaComissãoDire-\ntora,sãoasseguintes:\n..............................",
+              "Art.72................\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "IV – Comissão de Educação,\nCulturaeEsporte(CE);\n..............................",
+              "IV - Comissão de Educação e\nCultura(CE);\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "XI – Comissão de Ciência,\nTecnologia,Inovação,Comuni-\ncaçãoeInformática(CCT);",
+              "XI-ComissãodeCiência,Tec-\nnologia,InovaçãoeInformática\n(CCT);",
+              "RSFnº14/2023"
+            ],
+            [
+              "XII–ComissãoSenadodoFu-\nturo(CSF);\n..............................",
+              "XII - Comissão de Defesa da\nDemocracia(CDD);\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XV - Comissão de Comuni-\ncação e Direito Digital\n(CCDD);",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XVI - Comissão de Esporte\n(CEsp).",
+              "RSFnº14/2023"
+            ],
+            [
+              "Art. 77. A Comissão Diretora\né constituída dos titulares da\nMesa, tendo as demais co-\nmissõespermanentesoseguin-\ntenúmerodemembros:\n..............................",
+              "Art.77................\n..............................",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 175,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            481.2859999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "IV – Comissão de Educação,\nCulturaeEsporte,27;\n..............................",
+              "IV - Comissão de Educação e\nCultura,21;\n..............................\nRSF14/2023,art.3º:atéodia\n31 de janeiro de 2025, a Co-\nmissãodeEducaçãoeCultura\nterá27membros.",
+              "RSFnº14/2023"
+            ],
+            [
+              "XI – Comissão de Ciência,\nTecnologia,Inovação,Comuni-\ncaçãoeInformática,17;",
+              "XI-ComissãodeCiência,Tec-\nnologia,InovaçãoeInformáti-\nca,17;",
+              "RSFnº14/2023"
+            ],
+            [
+              "XII–ComissãoSenadodoFu-\nturo,11;\n..............................",
+              "XII - Comissão de Defesa da\nDemocracia,11;\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XV - Comissão de Comuni-\ncaçãoeDireitoDigital,17;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XVI-ComissãodeEsporte,11.\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "Art.102.ÀComissãodeEdu-\ncação,CulturaeEsportecom-\npeteopinarsobreproposições\nqueversemsobre:",
+              "Art.102.ÀComissãodeEdu-\ncaçãoeCulturacompeteopinar\nsobreproposiçõesqueversem\nsobre:",
+              "RSFnº14/2023"
+            ],
+            [
+              "I – normas gerais sobre edu-\ncação,cultura,ensinoedespor-\ntos, instituições educativas e\nculturais,diretrizesebasesda\neducação nacional e salário-\neducação;\n..............................",
+              "I - normas gerais sobre edu-\ncação, cultura e ensino, insti-\ntuições educativas e culturais,\ndiretrizesebasesdaeducação\nnacionalesalário-educação;\n..............................",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 176,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            564.756
+          ],
+          "cells": 27,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "Art. 104-C. À Comissão de\nCiência,Tecnologia,Inovação,\nComunicação e Informática\ncompete opinar sobre propo-\nsiçõespertinentesaosseguintes\ntemas:\n..............................",
+              "Art. 104-C. À Comissão de\nCiência,Tecnologia,Inovação\neInformáticacompeteopinar\nsobre proposições pertinentes\naosseguintestemas:\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "II–políticanacionaldeciência,\ntecnologia,inovação,comuni-\ncaçãoeinformática;\n..............................",
+              "II-políticanacionaldeciência,\ntecnologia,inovaçãoeinformá-\ntica;\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "VII–comunicação,imprensa,\nradiodifusão,televisão,outor-\ngaerenovaçãodeconcessão,\npermissãoeautorizaçãopara\nserviçosderadiodifusãosono-\nraedesonseimagens;",
+              "VII-(revogado);\n(CompetênciatransferidaàCo-\nmissãodeComunicaçãoeDirei-\ntoDigital–art.104-G,VI).",
+              "RSFnº14/2023"
+            ],
+            [
+              "VIII–regulamentação,contro-\nleequestõeséticasreferentesa\npesquisa e desenvolvimento\ncientífico e tecnológico, ino-\nvação tecnológica, comuni-\ncaçãoeinformática;\n..............................",
+              "VIII-regulamentação,controle\ne questões éticas referentes a\npesquisa e desenvolvimento\ncientífico e tecnológico, ino-\nvaçãotecnológicaeinformáti-\nca;\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "Art.104-D.ÀComissãoSena-\ndodoFuturocompetepromo-\nver discussões sobre grandes\ntemaseofuturodoPaís,bem\ncomoaprimoraraatuaçãodo\nSenadonessasquestões.",
+              "Art. 104-D. À Comissão de\nDefesadaDemocraciacompe-\nteopinarsobrequestõesrela-\ntivasa:",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "I-defesadasinstituiçõesdemo-\ncráticas;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "II - liberdade de expressão e\nmanifestação;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "III-liberdadedeimprensa;",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 177,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            552.076
+          ],
+          "cells": 48,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "",
+              "IV-liberdadepolítica;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "V-defesadolivreexercíciodo\ndireitodevoto;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VI - defesa do livre exercício\ndosPoderesconstitucionais;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VII-defesadaordemconstitu-\ncional;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VIII-garantiadaordempúbli-\nca;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "IX-terrorismo;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "X-direitodereunião;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XI - uso dos símbolos nacio-\nnais;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XII-atividadesdeinformação\necontrainformação;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "XIII-outrostemascorrelatos\naofortalecimentodademocra-\nciaedoEstadodeDireito.",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "Art. 104-G. À Comissão de\nComunicaçãoeDireitoDigital\ncompete opinar sobre propo-\nsiçõespertinentesaosseguintes\ntemas:",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "I-inovaçãoedesenvolvimento\ncientíficoetecnológicodasco-\nmunicações;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "II-políticanacionaldecomu-\nnicação;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "III-regimejurídicodascomu-\nnicações;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "IV-direitodigital;",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 178,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            568.966
+          ],
+          "cells": 39,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "",
+              "V-meiosdecomunicaçãoso-\ncialeredessociais;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VI-serviçospostaisedecomu-\nnicação, imprensa, radiodi-\nfusão,televisão,internet,outor-\nga e renovação de concessão,\npermissão e autorização para\nserviçosderadiodifusãosonora\nedesonseimagens;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VII-regulamentação,controle\ne questões éticas referentes a\ncomunicação;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VIII-outrosassuntoscorrela-\ntos.\"",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "Art.104-H.ÀComissãodeEs-\nporte compete opinar sobre\nproposiçõespertinentesaosse-\nguintestemas:",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "I-normasgeraissobreesporte\neparaesporte;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "II-sistemaesportivoeparaes-\nportivonacionalesuaorgani-\nzação;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "III - política e plano nacional\ndeeducaçãofísicaeesportiva;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "IV-políticaspúblicasdeincen-\ntivoedesenvolvimentodaprá-\nticaesportiva;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "V-justiçadesportiva;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "VI - outros assuntos correla-\ntos.\"",
+              "RSFnº14/2023"
+            ],
+            [
+              "Art. 107. As reuniões das co-\nmissõespermanentesrealizar-\nse-ão:",
+              "Art.107..............",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 179,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            424.296
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2023",
+              "Texto alterado durante\na 57ª Legislatura",
+              "Observações"
+            ],
+            [
+              "I–seordinárias,semanalmen-\nte,duranteasessãolegislativa\nordinária,nosseguintesdiase\nhorários:\n..............................",
+              "I-.........................\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "f)ComissãodeEducação,Cul-\nturaeEsporte:àsterças-feiras,\nonzehoras;\n..............................",
+              "f) Comissão de Educação e\nCultura: às terças-feiras, onze\nhoras;\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "k)ComissãodeCiência,Tecno-\nlogia,Inovação,Comunicação\neInformática:àsquartas-feiras,\ndezoitohoras;\n..............................",
+              "k)ComissãodeCiência,Tecno-\nlogia, Inovação e Informática:\nàsquartas-feiras,dezoitohoras;\n..............................",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "n)ComissãodeDefesadaDe-\nmocracia: às quintas-feiras,\nnovehorasetrintaminutos;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "o)ComissãodeComunicação\ne Direito Digital: às quartas-\nfeiras,novehoras;",
+              "RSFnº14/2023"
+            ],
+            [
+              "",
+              "p) Comissão de Esporte: às\nquartas-feiras, nove horas e\ntrintaminutos;\n..............................",
+              "RSFnº14/2023"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 180,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            114.096,
+            408.19,
+            494.21599999999995
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "Art.39.OSenadordeveráco-\nmunicaraoPresidentesempre\nque:\n..........................",
+              "Art.39................\n............................",
+              ""
+            ],
+            [
+              "II–assumircargodeMinistro\nde Estado, de Governador de\nTerritório, de Secretário de\nEstado,doDistritoFederal,de\nTerritório, de Prefeitura de\nCapitaloudechefedemissão\ndiplomática temporária\n(Const.,art.56,I).\n..........................",
+              "II–assumircargodechefede\nmissãodiplomáticatemporá-\nria,deMinistrodeEstado,de\nGovernador de Território ou\nde Secretário de Estado, do\nDistritoFederal,deTerritório\nou de Prefeitura de Capital\n(Const.,art.56,I).\n..............................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.43.Paraosefeitosdodis-\npostonoart.55,III,daConsti-\ntuição,oSenadorpoderá:\n..........................",
+              "Art.43..................\n..............................",
+              ""
+            ],
+            [
+              "§7ºSeráconcedidalicença-pa-\nternidadeoulicençaaoadotan-\nte de cinco dias ao Senador,\nrespectivamente,pelonascimen-\ntoouadoçãodefilho,noster-\nmosdosarts.7º,XIX,e39,§3º,\ne10,§1º,esteúltimoconstan-\nte do Ato das Disposições\nConstitucionaisTransitórias,\ntodosdaConstituiçãoFederal.",
+              "§7ºSeráconcedidalicença-pa-\nternidadeoulicençaaoadotan-\nte de cinco dias ao Senador,\nrespectivamente,pelonascimen-\ntoouadoçãodefilho,noster-\nmosdosarts.7º,XIX,e39,§3º,\ndaConstituiçãoFederal,edo\nart.10,§1º,doAtodasDispo-\nsições Constitucionais Tran-\nsitórias.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 181,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            566.7959999999999
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "Art.47.Aassunçãoacargode\nMinistrodeEstado,deGover-\nnadordeTerritórioedeSecretá-\nriodeEstado,doDistritoFede-\nral,deTerritório,dePrefeitura\nde Capital, ou de chefe de\nmissãodiplomáticatemporá-\nria,implicarenúnciaaocargo\nqueoSenadorexerçanaMesa.",
+              "Art.47.Aassunçãodecargode\nchefe de missão diplomática\ntemporária, de Ministro de\nEstado,deGovernadordeTer-\nritórioedeSecretáriodeEsta-\ndo,doDistritoFederal,deTer-\nritóriooudePrefeituradeCa-\npitalimplicarenúnciaaocargo\nqueoSenadorexerçanaMesa.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art. 57. Os Secretários, ao le-\nrem qualquer documento,\nconservar-se-ãodepéeperma-\nnecerão sentados ao procede-\nremàchamadadosSenadores.",
+              "Art.57.OsSecretáriosconser-\nvar-se-ãodepéaoleremqual-\nquer documento e permane-\ncerãosentadosaoprocederem\nàchamadadosSenadores.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.59.OsmembrosdaMesa\nserãoeleitosparamandatode\ndois anos, vedada a reeleição\nparaoperíodoimediatamente\nsubsequente (Const., art. 57,\n§4º).\n..........................",
+              "Art.59.................\n.............................",
+              ""
+            ],
+            [
+              "§2ºParaosfinsdocálculode\nproporcionalidade,asbancadas\npartidárias são consideradas\npelosseusquantitativosàdata\ndadiplomação.\n..........................",
+              "§2ºParaosfinsdocálculode\nproporcionalidade,asbancadas\npartidárias são consideradas\npelos seus quantitativos na\nprimeirareuniãopreparatória\nque antecede a primeira e a\nterceira sessões legislativas\nordináriasdecadalegislatura.\n..............................",
+              "RSFnº7/2022"
+            ],
+            [
+              "",
+              "Art. 66-B. As representações\npartidáriasouosblocosparla-\nmentaresdeoposiçãoaoGover-\nno Federal poderão constituir\nLiderançadaOposição,comas\nmesmasprerrogativasdaLide-\nrançadoGoverno.",
+              "RSFnº3/2021"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 182,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            564.4459999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "Parágrafo único. O líder da\nOposição será indicado pelo\nblocoparlamentaroupelare-\npresentação partidária com\nmaiornúmeroderepresentan-\ntes no Senado Federal e que\nfaçaoposiçãoaoGoverno.",
+              "RSFnº3/2021"
+            ],
+            [
+              "",
+              "Art.66-C.Abancadafeminina\nnoSenadoindicarálíderevice-\nlíder, havendo, a cada 6 (seis)\nmeses,revezamentodasindica-\ndasentresuasintegrantes.",
+              "RSFnº5/2021"
+            ],
+            [
+              "",
+              "§ 1º A vice-líder substituirá a\nlíderdabancadafemininanos\ncasos de impedimento ou\nausênciadatitular.",
+              "RSFnº5/2021"
+            ],
+            [
+              "",
+              "§2ºAlíderdabancadafemini-\nna exercerá as prerrogativas\nque este Regimento assegura\naoslíderesdepartidooubloco\nparlamentar, inclusive quanto\nàpreferênciaparaousodapa-\nlavraeodireitoavoto.",
+              "RSFnº5/2021"
+            ],
+            [
+              "",
+              "§3ºFicamressalvadasasvanta-\ngens de que trata o § 4º-A do\nart. 65 enquanto perdurarem\nosefeitosdapandemiadaco-\nvid-19.",
+              "RSFnº5/2021"
+            ],
+            [
+              "",
+              "§4ºAlíderdabancadafemini-\nnatemaprerrogativadeapre-\nsentaçãodedestaquesnatrami-\ntaçãodosprojetos.",
+              "RSFnº5/2021"
+            ],
+            [
+              "Art. 72. As comissões perma-\nnentes,alémdaComissãoDire-\ntora,sãoasseguintes:\n......................",
+              "Art.72................\n............................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 183,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            507.39599999999996
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "XIV–ComissãodeSegurança\nPública(CSP).",
+              "RSFnº6/2021"
+            ],
+            [
+              "Art. 77. A Comissão Diretora\né constituída dos titulares da\nMesa, tendo as demais co-\nmissõespermanentesoseguin-\ntenúmerodemembros:\n.............................",
+              "Art.77...................\n.............................",
+              ""
+            ],
+            [
+              "",
+              "XIV–ComissãodeSegurança\nPública,19.\n.............................",
+              "RSFnº6/2021"
+            ],
+            [
+              "Art. 78. Os membros das co-\nmissõesserãodesignadospelo\nPresidente,porindicaçãoescri-\ntadosrespectivoslíderes,asse-\ngurada,tantoquantopossível,\naparticipaçãoproporcionaldas\nrepresentações partidárias ou\ndosblocosparlamentarescom\natuação no Senado Federal\n(Const.,art.58,§1º).",
+              "Art.78.......................",
+              ""
+            ],
+            [
+              "Parágrafo único. Para fins de\nproporcionalidade,asrepresen-\ntações partidárias são fixadas\npelosseusquantitativosàdata\ndadiplomação,salvonoscasos\nde posterior criação, fusão ou\nincorporaçãodepartidos.",
+              "Parágrafo único. Para fins de\nproporcionalidade,asrepresen-\ntações partidárias são fixadas\npelos seus quantitativos na\nprimeirareuniãopreparatória\nque antecede a primeira e a\nterceira sessões legislativas\nordináriasdecadalegislatura,\nsalvo nos casos de posterior\ncriação,fusãoouincorporação\ndepartidos.",
+              "RSFnº7/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 184,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            572.736
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "Art.79.Noiníciodecadalegis-\nlatura,oslíderes,umavezindi-\ncados, reunir-se-ão para fixar\na representação numérica dos\npartidosedosblocosparlamen-\ntaresnascomissõespermanen-\ntes.",
+              "Art.79.Noiníciodaprimeira\nedaterceirasessõeslegislati-\nvasordináriasdecadalegisla-\ntura,oslíderes,umavezindica-\ndos, reunir-se-ão para fixar a\nrepresentação numérica dos\npartidosedosblocosparlamen-\ntaresnascomissõespermanen-\ntes.",
+              "RSFnº7/2022"
+            ],
+            [
+              "Art.80.Fixadaarepresentação\nprevista no art. 79, os líderes\nentregarão à Mesa, nos dois\ndiasúteissubsequentes,asindi-\ncações dos titulares das co-\nmissõese,emordemnumérica,\nasdosrespectivossuplentes.",
+              "Art.80................",
+              ""
+            ],
+            [
+              "Parágrafoúnico.Recebidasas\nindicações,oPresidentefaráa\ndesignaçãodascomissões.",
+              "§1º.....................",
+              "RSFnº7/2022"
+            ],
+            [
+              "",
+              "§2ºNahipótesede,atéadata\ndainstalaçãodecadacomissão,\nnãohaversidodesignadaSena-\ndoraparacompô-la,adotar-se-\násistemaderevezamentoentre\nospartidosoublocosparlamen-\ntaresquecontemcommembro\nda bancada feminina em seus\nquadros, de acordo com o se-\nguinteprocedimento:",
+              "RSFnº7/2022"
+            ],
+            [
+              "",
+              "I – na primeira ocorrência da\nhipótesedesteparágrafo,cum-\npriráaomaiorpartidooubloco\nparlamentar refazer a indi-\ncação,nostermosdoart.81,de\nmodoaassegurarapresençade\nao menos 1 (uma) Senadora,\ncomo titular ou suplente da\ncomissão;",
+              "RSFnº7/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 185,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            433.14599999999996
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "II – verificada a hipótese em\noutrascomissões,omesmode-\nverderefazimentodaindicação\nrecairá,sucessivamenteesegun-\ndootamanhodabancada,so-\nbreosdemaispartidosoublo-\ncos nelas representados e que\ncontemcomSenadoraemseus\nquadros;",
+              "RSFnº7/2022"
+            ],
+            [
+              "",
+              "III–orevezamentoseráreini-\nciadocasotodosospartidosou\nblocos já tenham refeito suas\nindicações em alguma co-\nmissão, para assegurar a pre-\nsença, no colegiado, de mem-\nbrodabancadafeminina.",
+              "RSFnº7/2022"
+            ],
+            [
+              "",
+              "§3ºOdispostono§2ºnãose\naplicaàComissãoDiretora.",
+              "RSFnº7/2022"
+            ],
+            [
+              "Art. 82. A designação dos\nmembros das comissões tem-\nporáriasseráfeita:\n........................",
+              "Art.82...................\n.............................",
+              ""
+            ],
+            [
+              "",
+              "Parágrafo único. Aplica-se à\ndesignação dos membros das\ncomissõestemporáriasodispos-\ntonos§§1ºe2ºdoart.80.",
+              "RSFnº7/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 186,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            566.486
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "Art.88.Noiníciodalegislatu-\nra,noscincodiasúteisquese\nseguiremàdesignaçãodeseus\nmembros,enaterceirasessão\nlegislativa,noscincodiasúteis\nque se seguirem à indicação\ndos líderes, cada comissão\nreunir-se-á para instalar seus\ntrabalhoseeleger,emescrutí-\nniosecreto,oseuPresidentee\noVice-Presidente.\n.................................",
+              "Art.88.Noiníciodaprimeira\nedaterceirasessõeslegislati-\nvasordináriasdecadalegisla-\ntura, nos cinco dias úteis que\nse seguirem à designação de\nseusmembros,cadacomissão\nreunir-se-á para instalar seus\ntrabalhoseeleger,emescrutí-\nnio secreto, seu Presidente e\nVice-Presidente.\n.................................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.96-B.Nodesempenhoda\ncompetênciaprevistanoinciso\nIXdoart.90,ascomissõesper-\nmanentesselecionarão,naárea\nde sua competência, políticas\npúblicasdesenvolvidasnoâm-\nbitodoPoderExecutivo,para\nseremavaliadas.\n........................",
+              "Art.96-B.................\n.................................",
+              ""
+            ],
+            [
+              "§2ºPararealizaraavaliaçãode\nquetrataocaput,queseesten-\nderáaosimpactosdaspolíticas\npúblicas e às atividades meio\ndesuporteparasuaexecução,\npoderão ser solicitadas infor-\nmaçõesedocumentosaórgãos\ndoPoderExecutivoeaoTribu-\nnal de Contas da União, bem\ncomoaentidadesdasociedade\ncivil,nostermosdoart.50da\nConstituiçãoFederal.\n........................",
+              "§ 2º Para realizar a avaliação\nreferidanocaput,queseesten-\nderáaosimpactosdaspolíticas\npúblicas e às atividades-meio\ndesuporteparasuaexecução,\npoderão ser solicitadas infor-\nmaçõesedocumentosaórgãos\ndo Poder Executivo, nos ter-\nmos do art. 50 da Consti-\ntuiçãoFederal,bemcomoao\nTribunaldeContasdaUniãoe\naentidadesdasociedadecivil.\n........................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art. 98. À Comissão Diretora\ncompete:\n................................",
+              "Art.98...................\n...............................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 187,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            548.976
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "V–elaborararedaçãofinaldas\nproposições de iniciativa do\nSenadoedasemendaseproje-\ntosdaCâmaradosDeputados\naprovadospeloPlenário,escoi-\nmando-osdosvíciosdelingua-\ngem, das impropriedades de\nexpressão, defeitos de técnica\nlegislativa,cláusulasdejustifi-\ncação e palavras desnecessá-\nrias;\n................................",
+              "V–elaborararedaçãofinaldas\nproposições de iniciativa do\nSenadoedasemendaseproje-\ntosdaCâmaradosDeputados\naprovadospeloPlenário,escoi-\nmando-osdevíciosdelingua-\ngem, impropriedades de ex-\npressão,defeitosdetécnicale-\ngislativa, cláusulas de justifi-\ncação e palavras desnecessá-\nrias.\n................................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.99.ÀComissãodeAssun-\ntos Econômicos compete opi-\nnarsobreproposiçõespertinen-\ntesaosseguintesassuntos:\n................................",
+              "Art.99...................\n................................",
+              ""
+            ],
+            [
+              "V – escolha dos Ministros do\nTribunal de Contas da União\n(Const.,arts.49,XIII,e52,III,\nb),edopresidenteediretores\ndoBancoCentral(Const.,art.\n52,III,d);\n................................",
+              "V – escolha dos Ministros do\nTribunal de Contas da União\n(Const.,arts.49,XIII,e52,III,\nb) e do presidente e diretores\ndo Banco Central do Brasil\n(Const.,art.52,III,d);\n................................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "§ 1º A Comissão promoverá\naudiências públicas regulares\ncom o Presidente do Banco\nCentraldoBrasilparadiscutir\nasdiretrizes,implementaçãoe\nperspectivasfuturasdapolítica\nmonetária",
+              "§ 1º A Comissão promoverá\naudiências públicas regulares\ncom o Presidente do Banco\nCentraldoBrasilparadiscutir\nasdiretrizes,aimplementação\ne as perspectivas da política\nmonetária.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.101.ÀComissãodeCons-\ntituição, Justiça e Cidadania\ncompete:\n................................",
+              "Art.101..................\n................................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 188,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            495.20599999999996
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "II – ressalvadas as atribuições\ndas demais comissões, emitir\nparecer,quantoaomérito,so-\nbreasmatériasdecompetência\ndaUnião,especialmenteasse-\nguintes:\n................................",
+              "II-..........................\n................................",
+              ""
+            ],
+            [
+              "c)segurançapública,corposde\nbombeiros militares, polícia,\ninclusive marítima, aérea de\nfronteiras,rodoviáriaeferroviá-\nria;\n................................",
+              "c)(Revogado)\n................................",
+              "RSFnº6/2021"
+            ],
+            [
+              "l) registros públicos, organi-\nzaçãoadministrativaejudiciá-\nriadoMinistérioPúblicoeDe-\nfensoriaPúblicadaUniãoedos\nTerritórios,organizaçãojudiciá-\nriadoMinistérioPúblicoeda\nDefensoriaPúblicadoDistrito\nFederal;\n.......................",
+              "l) registros públicos, organi-\nzação administrativa, judiciá-\nria,doMinistérioPúblicoeda\nDefensoriaPúblicadaUniãoe\ndos Territórios e organização\njudiciáriaedoMinistérioPúbli-\ncodoDistritoFederal;\n............................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art. 102-B. A fiscalização e o\ncontrole dos atos do Poder\nExecutivo,inclusiveosdaadmi-\nnistração indireta, pela Co-\nmissãodeTransparência,Go-\nvernança,FiscalizaçãoeContro-\nle e Defesa do Consumidor\nobedecerãoàsseguintesregras:\n............................",
+              "Art.102-B...............\n.................................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 189,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            557.886
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "III–aprovadoorelatóriopré-\nvio pela Comissão, o relator\npoderásolicitarosrecursoseo\nassessoramentonecessáriosao\nbomdesempenhodaComissão,\nincumbindoàMesaeàAdmi-\nnistraçãodaCasaoatendimen-\ntopreferencialdasprovidências\nrequeridas.Rejeitadoorelató-\nrio,amatériaseráencaminha-\ndaaoArquivo;",
+              "III–aprovadoorelatóriopré-\nvio pela Comissão, o relator\npoderásolicitarosrecursoseo\nassessoramentonecessáriosao\nbomdesempenhodaComissão,\nincumbindoàMesaeàAdmi-\nnistraçãodaCasaoatendimen-\ntopreferencialdasprovidências\nrequeridas;rejeitadoorelató-\nrio,amatériaseráencaminha-\ndaaoArquivo;",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "IV–orelatóriofinaldafiscali-\nzaçãoecontrole,emtermosde\ncomprovaçãodalegalidadedo\nato,avaliaçãopolítica,adminis-\ntrativa, social e econômica de\nsuaedição,equantoàeficácia\ndos resultados sobre a gestão\norçamentária,financeiraepatri-\nmonial, obedecerá, no que\nconcerneàtramitação,asnor-\nmasdoart.102-C.\n............................",
+              "IV–orelatóriofinaldefiscali-\nzação e controle, quanto à\ncomprovaçãodalegalidadedo\nato,àavaliaçãopolítica,admi-\nnistrativa, social e econômica\nde sua edição e à eficácia de\nseusresultadossobreagestão\norçamentária,financeiraepatri-\nmonial, obedecerá, no que\nconcerneàtramitação,àsnor-\nmasdoart.102-C.\n...............................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.102-E.ÀComissãodeDi-\nreitos Humanos e Legislação\nParticipativa compete opinar\nsobre:\n............................",
+              "Art.102-E.............\n...............................",
+              ""
+            ],
+            [
+              "VI–proteçãoeintegraçãoso-\ncialdaspessoasportadorasde\ndeficiências e de proteção à\ninfância,àjuventudeeaosido-\nsos;\n............................",
+              "VI–proteçãoeintegraçãoso-\ncialdaspessoascomdeficiên-\nciaeproteçãoàinfância,àju-\nventudeeaosidosos;\n............................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "",
+              "Art.104-F.ÀComissãodeSe-\ngurançaPúblicacompete:",
+              "RSFnº6/2021"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 190,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            533.9459999999999
+          ],
+          "cells": 45,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "I – opinar sobre proposições\npertinentes aos seguintes te-\nmas:",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "a)segurançapública;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "b)políciacivil,militar,federal,\nrodoviáriafederaleferroviária\nfederal;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "c)policiamentomarítimo,flu-\nvial, lacustre, aeroportuário e\ndefronteiras;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "d)corposdebombeirosmilita-\nres;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "e)guardasmunicipais;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "f)sistemapenitenciário;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "g)sistemasocioeducativo;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "h)áreadefronteiras;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "i) inteligência de segurança\npública;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "j)políticasdevalorização,capa-\ncitaçãoeproteçãodasforçasde\nsegurança;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "k) políticas públicas de pre-\nvenção à violência e de pro-\nmoçãodapazsocial;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "l)combateàcorrupção,aocri-\nmeorganizadoeàlavagemde\ndinheiro;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "m) prevenção, fiscalização e\ncombate ao tráfico ilícito de\ndrogas;",
+              "RSFnº6/2021"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 191,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            543.346
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "n) controle e comercialização\ndearmas,proteçãoatestemu-\nnhas e a vítimas de crime, e a\nsuasfamílias;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "o)cooperaçãotécnicainterna-\ncionalemmatériadesegurança\npública,compartilhamentode\ninformações processuais e\nadesãoaacordosinternacionais\nsobreessestemas,ressalvadaa\ncompetência da Comissão de\nRelações Exteriores e Defesa\nNacional;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "II–recebereavaliardenúncias\nrelativasaocrimeorganizado,\nnarcotráfico, violência rural e\nurbana e quaisquer situações\nconexasqueafetemasegurança\npública;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "III–realizarpesquisas,estudos\ne conferências sobre as maté-\nriasdesuacompetência;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "IV–colaborarcomentidades\nnãogovernamentaisqueatuem\nnasmatériasdesuacompetên-\ncia;",
+              "RSFnº6/2021"
+            ],
+            [
+              "",
+              "V–fiscalizareacompanharo\nPlano Nacional de Segurança\nPública e Defesa Social e de-\nmaisprogramasepolíticaspú-\nblicas de segurança pública,\nbem como o controle externo\ndas forças de segurança e o\ncontroledaalocaçãodosinves-\ntimentosedeseusresultados;",
+              "RSFnº6/2021"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 192,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            552.5659999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "VI–acompanharasavaliações\ndoSistemaNacionaldeAcom-\npanhamento e Avaliação das\nPolíticasdeSegurançaPública\neDefesaSocial.",
+              "RSFnº6/2021"
+            ],
+            [
+              "Art. 107. As reuniões das co-\nmissõespermanentesrealizar-\nse-ão:",
+              "Art.107................",
+              ""
+            ],
+            [
+              "I–seordinárias,semanalmen-\nte,duranteasessãolegislativa\nordinária,nosseguintesdiase\nhorários:\n............................",
+              "I–........................\n.............................",
+              ""
+            ],
+            [
+              "",
+              "m) Comissão de Segurança\nPública: às quintas-feiras, às\nnovehoras.",
+              "RSFnº6/2021"
+            ],
+            [
+              "II–seextraordinárias,median-\nteconvocaçãoespecialparadia,\nhorárioefimindicados,obser-\nvando-se,noqueforaplicável,\nodispostonesteRegimentoso-\nbre a convocação de sessões\nextraordináriasdoSenado;",
+              "II–seextraordinárias,median-\nteconvocaçãoespecialparadia,\nhorárioefimindicados,obser-\nvando-se,noqueforaplicável,\nodispostonesteRegimentoso-\nbre a convocação de sessões\nextraordináriasdoSenado.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "III–ascomissõesparlamenta-\nres de inquérito reunir-se-ão\nemhoráriodiversodoestabele-\ncidoparaofuncionamentodas\nComissõesPermanentes.",
+              "§1ºAscomissõesparlamenta-\nres de inquérito reunir-se-ão\nemhoráriodiversodoestabele-\ncidoparaofuncionamentodas\ncomissõespermanentes.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Parágrafoúnico.Emqualquer\nhipótese,areuniãodecomissão\npermanenteoutemporárianão\npoderácoincidircomotempo\nreservadoàOrdemdoDiadas\nsessõesdeliberativasordinárias\ndoSenado.",
+              "§ 2º Em qualquer hipótese, a\nreuniãodecomissãopermanen-\nte ou temporária não poderá\ncoincidircomotemporeserva-\ndoàOrdemdoDiadassessões\ndeliberativasordináriasdoSe-\nnado.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 193,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            528.8059999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "Art.115.Dasreuniõesdasco-\nmissões lavrar-se-ão atas em\nfolhas avulsas rubricadas pelo\nPresidente.",
+              "Art.115.................",
+              ""
+            ],
+            [
+              "§1ºQuando,pelaimportância\ndoassuntoemestudo,convier\noregistrotaquigráficodosde-\nbates,oPresidentesolicitaráao\nPrimeiro Secretário as pro-\nvidênciasnecessárias.",
+              "§1ºQuando,pelaimportância\ndoassuntoemestudo,convier\noregistrotaquigráficodosde-\nbates,oPresidentesolicitaráao\nPrimeiro-Secretário as pro-\nvidênciasnecessárias.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.133.Todoparecerdeveser\nconclusivoemrelaçãoàmaté-\nriaaquesereferir,podendoa\nconclusãoser:\n......................",
+              "Art.133................\n.............................",
+              ""
+            ],
+            [
+              "V-pelaapresentaçãode:\n......................",
+              "V-.........................\n..............................",
+              ""
+            ],
+            [
+              "",
+              "e)indicação,nostermosdoart.\n227-A,incisoII;\n...........................",
+              "RSFnº14/2019"
+            ],
+            [
+              "§2ºNashipótesesdoincisoV,\nalíneas a, b e c, o parecer é\nconsiderado justificação da\nproposiçãoapresentada.\n..........................",
+              "§2ºNashipótesesdoincisoV,\nalíneas\"a\",\"b\",\"c\"e\"e\",opare-\ncer é considerado justificação\ndaproposiçãoapresentada.\n..........................",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art. 156. A primeira parte da\nsessão, que terá a duração de\ncento e vinte minutos, será\ndestinadaàleituradoexpedien-\nte e aos oradores inscritos na\nformadodispostonoart.17.\n......................",
+              "Art.156.............\n...........................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 194,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            516.616
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "§2ºOexpedienteserálidopelo\nPrimeiroSecretário,naíntegra\nouemresumo,ajuízodoPresi-\ndente, ressalvado a qualquer\nSenador o direito de requerer\nsualeituraintegral.",
+              "§2ºOexpedienteserálidopelo\nPrimeiro-Secretário, na ínte-\ngra ou em resumo, a juízo do\nPresidente, ressalvado a qual-\nquerSenadorodireitodereque-\nrersualeituraintegral.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.162.AOrdemdoDiaterá\ninício, impreterivelmente, às\ndezesseis horas, salvo prorro-\ngação nos termos do art. 158,\n§6º.",
+              "Art.162.AOrdemdoDiaterá\ninício, impreterivelmente, às\ndezesseis horas, salvo prorro-\ngaçãodoPeríododoExpedien-\nte,nostermosdoart.158,§1º.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.197.Transformar-se-áem\nsecretaasessão:\n......................",
+              "Art.197................\n..............................",
+              ""
+            ],
+            [
+              "§ 1º Esgotado o tempo da\nsessãooucessadoomotivode\nsuatransformaçãoemsecreta,\nvoltaráamesmaaserpública,\nparaprosseguimentodostraba-\nlhosouparadesignaçãodaOr-\ndemdoDiadasessãoseguinte.",
+              "§ 1º Esgotado o tempo da\nsessãooucessadoomotivode\nsuatransformaçãoemsecreta,\nestavoltaráaserpública,para\nprosseguimentodostrabalhos\nouparadesignaçãodaOrdem\ndoDiadasessãoseguinte.",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.215.Sãoescritososreque-\nrimentosnãoreferidosnoart.\n214edependemdevotaçãopor\nmaioria simples, presente a\nmaioriadacomposiçãodoSe-\nnado,salvoosabaixoespecifica-\ndos:\n.......................",
+              "Art.215................\n.............................",
+              ""
+            ],
+            [
+              "II - dependentes de despacho\ndoPresidente:\n......................",
+              "II-......................\n...........................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 195,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            570.386
+          ],
+          "cells": 22,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "g)deconversãodeproposição\nem indicação, nos termos do\nart.227-A,incisoI;\n...........................",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art.216.Osrequerimentosde\ninformações estão sujeitos às\nseguintesnormas:\n...........................",
+              "Art.216.............\n...........................",
+              ""
+            ],
+            [
+              "IV–sedeferidos,serãosolicita-\ndas,àautoridadecompetente,\nas informações requeridas, fi-\ncando interrompida a trami-\ntaçãodamatériaquesepreten-\nde esclarecer. Se indeferidos,\nirãoaoArquivo,feitacomuni-\ncaçãoaoPlenário;\n...........................",
+              "IV–sedeferidos,serãosolicita-\ndas,àautoridadecompetente,\nas informações requeridas, fi-\ncando interrompida a trami-\ntaçãodamatériaquesepreten-\nde esclarecer; se indeferidos,\nirãoaoArquivo,feitacomuni-\ncaçãoaoPlenário;\n...........................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ],
+            [
+              "Art.224.Indicaçãocorrespon-\nde a sugestão de Senador ou\ncomissãoparaqueoassunto,\nnelafocalizado,sejaobjetode\nprovidência ou estudo pelo\nórgão competente da Casa,\ncomafinalidadedoseuescla-\nrecimento ou formulação de\nproposiçãolegislativa.",
+              "Art.224.Indicaçãoéapropo-\nsiçãopormeiodaqualoSena-\ndorouacomissão:",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "I - sugere a outro Poder a\nadoçãodeprovidência,areali-\nzação de ato administrativo\nou de gestão ou o envio de\nprojetosobrematériadesua\niniciativaexclusiva;",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "II-sugerequeoassuntofoca-\nlizadosejaobjetodeprovidên-\ncia ou estudo pelo órgão ou\npelacomissãocompetenteda\nCasa,comafinalidadedeseu\nesclarecimentooudeformu-\nlaçãodeproposiçãolegislati-\nva.",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art.225.Aindicaçãonãopo-\nderáconter:",
+              "Art.225.............",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 196,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            470.026
+          ],
+          "cells": 26,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "I - consulta a qualquer co-\nmissãosobre:\n........................",
+              "I-.......................\n............................",
+              ""
+            ],
+            [
+              "b)atodeoutroPoder;",
+              "b) ato de outro Poder ou de\nseusórgãoseautoridades;",
+              "RSFnº14/2019"
+            ],
+            [
+              "II - sugestão ou conselho a\nqualquerPoder.",
+              "II-conselhoaqualquerPoder.",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art. 226. Lida no Período do\nExpediente, a indicação será\nencaminhada à comissão\ncompetente.",
+              "Art. 226. Lida no Período do\nExpediente e publicada no\nDiário do Senado Federal, a\nindicaçãoserá:",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "I-nocasodoart.224,inciso\nI,encaminhadapeloPresiden-\nte à autoridade de outro Po-\nder;",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "II-nocasodoart.224,inciso\nII,encaminhadapeloPresiden-\nte:",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "a) ao órgão competente da\nCasa;",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "b)àcomissãoouàscomissões\ncompetentes.",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art.227.Aindicaçãonãoserá\ndiscutidanemvotadapeloSena-\ndo.Adeliberaçãotomarápor\nbase a conclusão do parecer\ndacomissão.",
+              "Art.227.Aindicaçãonãoserá\ndiscutidanemvotadapeloSena-\ndo.",
+              "RSFnº14/2019"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 197,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            549.596
+          ],
+          "cells": 22,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "§1ºNocasodoart.226,inciso\nII,alínea“a”,seoórgãocompe-\ntentedaCasasugeriraapresen-\ntaçãodeproposiçãolegislativa,\naindicaçãoseráencaminhada\naoseuautorpara,seforocaso,\napresentaraproposição,aqual\nseguiráostrâmitesregimentais\ndasproposiçõescongêneres.",
+              "RSFnº14/2019"
+            ],
+            [
+              "",
+              "§2ºNocasodoart.226,inciso\nII,alínea“b”:",
+              "RSFnº14/2019"
+            ],
+            [
+              "",
+              "I - se o parecer da comissão\ncompetenteconcluirpelaapre-\nsentaçãodeproposiçãolegisla-\ntiva, esta seguirá os trâmites\nregimentais das proposições\ncongêneres;",
+              "RSFnº14/2019"
+            ],
+            [
+              "Parágrafo único. Se a indi-\ncaçãoforencaminhadaamais\ndeumacomissãoeospareceres\nforem discordantes nas suas\nconclusões,serávotado,prefe-\nrencialmente, o da que tiver\nmais pertinência regimental\npara se manifestar sobre a\nmatéria.Emcasodecompetên-\ncia concorrente, votar-se-á,\npreferencialmente, o último,\nsalvo se o Plenário decidir o\ncontrário, a requerimento de\nqualquerSenadoroucomissão.",
+              "II-seaindicaçãoforencami-\nnhadaamaisdeumacomissão\neospareceresforemdiscordan-\ntesnassuasconclusões:",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "a)serávotado,preferencialmen-\nte,odacomissãoquetivermais\npertinênciaregimentalparase\nmanifestarsobreamatéria;",
+              "RSFnº14/2019"
+            ],
+            [
+              null,
+              "b) em caso de competência\nconcorrente,serávotado,prefe-\nrencialmente, o último, salvo\nseoPlenáriodecidirocontrá-\nrio,arequerimentodequalquer\nSenadoroucomissão.",
+              "RSFnº14/2019"
+            ],
+            [
+              "",
+              "Art. 227-A. A proposição na\nqualforverificadovícioinsaná-\nvel de iniciativa poderá ser\nconvertidaemindicação:",
+              "RSFnº14/2019"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 198,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            379.126
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2019",
+              "Texto consolidado em\njaneiro de 2023",
+              "Observações"
+            ],
+            [
+              "",
+              "I - por requerimento de seu\nautor;",
+              "RSFnº14/2019"
+            ],
+            [
+              "",
+              "II - por conclusão do parecer\nda comissão incumbida de\nanalisarsuaconstitucionalida-\nde.",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art.229.Sehouvermaisdeum\nparecer,deconclusõesdiscor-\ndantes,sobreamesmamatéria,\na ser submetida ao Plenário,\nproceder-se-á de acordo com\na norma estabelecida no art.\n227,parágrafoúnico.",
+              "Art.229.Sehouvermaisdeum\nparecer,deconclusõesdiscor-\ndantes,sobreamesmamatéria,\na ser submetida ao Plenário,\nproceder-se-á de acordo com\no disposto no art. 227, § 2º,\nincisoII.",
+              "RSFnº14/2019"
+            ],
+            [
+              "Art.279.Adiscussão,salvonos\nprojetosemregimedeurgência\neodispostonoart.349,poderá\nser adiada, mediante delibe-\nração do Plenário, a requeri-\nmentodequalquerSenadorou\ncomissão, para os seguintes\nfins:\n........................",
+              "Art.279.Adiscussão,salvonos\nprojetosemregimedeurgência\ne considerando-se o disposto\nnoart.349,poderáseradiada,\nmediante deliberação do\nPlenário, a requerimento de\nqualquerSenadoroucomissão,\nparaosseguintesfins:\n........................",
+              "Art. 402 (re-\ndação)–ATCnº\n15/2022"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 199,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            114.096,
+            408.19,
+            513.276
+          ],
+          "cells": 27,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "Art.58.OsSecretáriosnãopo-\nderãousardapalavra,aointegra-\nremaMesa,senãoparaachama-\ndadosSenadoresouparaaleitu-\nradedocumentos,ordenadape-\nloPresidente.",
+              "Art.58.AointegraremaMesa,\nosSecretáriosnãopoderãousar\ndapalavrasenãoparaachamada\ndosSenadoresouparaaleitura\nde documentos, ordenada pelo\nPresidente.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.72..............\n.........................",
+              "Art.72...............\n.........................",
+              ""
+            ],
+            [
+              "V-ComissãodeMeioAmbien-\nte,DefesadoConsumidoreFis-\ncalizaçãoeControle(CMA);\n.........................",
+              "V-ComissãodeTransparência,\nGovernança, Fiscalização e\nControleeDefesadoConsumi-\ndor(CTFC);\n.........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "",
+              "XIII - Comissão de Meio Am-\nbiente(CMA).",
+              "RSFnº3/2017"
+            ],
+            [
+              "Art.77..............\n.........................",
+              "Art.77.............\n.........................",
+              ""
+            ],
+            [
+              "V-ComissãodeMeioAmbien-\nte,DefesadoConsumidoreFis-\ncalizaçãoeControle,17;\n.........................",
+              "V-ComissãodeTransparência,\nGovernança, Fiscalização e\nControleeDefesadoConsumi-\ndor,17;\n.........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "",
+              "XIII - Comissão de Meio Am-\nbiente,17.",
+              "RSFnº3/2017"
+            ],
+            [
+              "Art.81..............\n.........................",
+              "Art.81.............\n.........................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 200,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            433.45599999999996
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "§ 2º A substituição de Senador\nqueexerçaapresidênciadeco-\nmissão,salvonahipótesedeseu\ndesligamento do partido que\nalirepresentar,deveráserprece-\ndidadeautorizaçãodamaioria\ndarespectivabancada.",
+              "§ 2º A substituição de Senador\nqueexerçaapresidênciadeco-\nmissãodeveráserprecedidade\nautorizaçãodamaioriadarespec-\ntivabancada,salvonahipótese\ndeseudesligamentodopartido\nquealirepresentar.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.84.............\n.........................",
+              "Art.84.............\n.........................",
+              ""
+            ],
+            [
+              "§4ºSerãodevolvidasaoPresi-\ndentedacomissão,paraserem\nredistribuídas, as proposições\nempoderdetitularousuplente\nque se afastar do exercício do\nmandatonoscasosdosarts.39,\n40e43.",
+              "§4ºAsproposiçõesempoderde\ntitularousuplentequeseafastar\ndo exercício do mandato, nos\ncasosdosarts.39,40e43,serão\ndevolvidas ao Presidente da\ncomissão para serem redistri-\nbuídas.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.96-B..............\n.........................",
+              "Art.96-B............\n.........................",
+              ""
+            ],
+            [
+              "",
+              "§5ºOInstitutodePesquisaDa-\ntaSenado produzirá análises e\nrelatóriosestatísticosparasubsi-\ndiar a avaliação de que trata o\ncaput.",
+              "RSFnº6/2016"
+            ],
+            [
+              "Art.99.............\n.........................",
+              "Art.99...............\n.........................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 201,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            536.786
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "",
+              "§ 3º A Comissão promoverá 2\n(duas) audiências públicas por\nano para a prestação de contas\ndoandamentodasaçõescoorde-\nnadaspeloPoderExecutivoque\nafetamaagendadaprodutivida-\ndeedamelhoriadoambientede\nnegócios, a ser realizada pelo\nMinistro de Estado Chefe da\nCasa Civil da Presidência da\nRepúblicaouporoutraautorida-\ndecomstatusministerialaquem\ntenha sido delegada expressa-\nmenteessacompetência.",
+              "RSF nº\n28/2017"
+            ],
+            [
+              "Art.102-A.ÀComissãodeMeio\nAmbiente,DefesadoConsumi-\ndor e Fiscalização e Controle,\nalémdaaplicação,noquecou-\nber,dodispostonoart.90esem\nprejuízodasatribuiçõesdasde-\nmaiscomissões,compete:\n.........................",
+              "Art. 102-A. À Comissão de\nTransparência, Governança,\nFiscalizaçãoeControleeDefesa\ndo Consumidor, além da apli-\ncação,noquecouber,dodispos-\ntonoart.90esemprejuízodas\natribuições das demais co-\nmissões,compete:\n.........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "Obs.:competênciastransferidas\nà Comissão de Meio Ambiente\n(verart.102-F)\nII - opinar sobre assuntos ati-\nnentesàdefesadomeioambien-\nte,especialmente:",
+              "II-opinarsobrematériasperti-\nnentesaosseguintestemas:",
+              "RSFnº3/2017"
+            ],
+            [
+              "a)proteçãodomeioambiente\necontroledapoluição,conser-\nvação da natureza, defesa do\nsolo e dos recursos naturais e\ngenéticos,florestas,caça,pesca,\nfauna,floraerecursoshídricos",
+              "a)prevençãoàcorrupção;",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 202,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            496.44599999999997
+          ],
+          "cells": 27,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "b) política e sistema nacional\ndemeioambiente;",
+              "b)acompanhamentoemoder-\nnizaçãodaspráticasgerenciais\nnaadministraçãopúblicafede-\nraldiretaeindireta;",
+              "RSFnº3/2017"
+            ],
+            [
+              "c) preservação, conservação,\nexploraçãoemanejodeflores-\ntasedabiodiversidade;",
+              "c) prestação eficaz, efetiva e\neficientedeserviçospúblicos;",
+              "RSFnº3/2017"
+            ],
+            [
+              "d)conservaçãoegerenciamen-\ntodousodosoloedosrecursos\nhídricos, no tocante ao meio\nambienteeaodesenvolvimento\nsustentável;",
+              "d)transparênciaeprestaçãode\ncontasedeinformaçõesàpopu-\nlação,comfoconaresponsabi-\nlidade da gestão fiscal e dos\ngastospúblicos,bemcomonas\nnecessidadesdoscidadãos;",
+              "RSFnº3/2017"
+            ],
+            [
+              "e)fiscalizaçãodosalimentose\ndosprodutoseinsumosagríco-\nlas e pecuários, no tocante ao\nmeioambienteeaodesenvolvi-\nmentosustentável;",
+              "e)difusãoeincentivo,naadmi-\nnistração pública, de novos\nmeios de prestação de infor-\nmaçõesàsociedade,taiscomo\nredes,sítioseportaiseletrôni-\ncos,eapoioaEstadoseMunicí-\npiosparaaimplantaçãodesses\nmeios;",
+              "RSFnº3/2017"
+            ],
+            [
+              "f)direitoambiental;",
+              "",
+              ""
+            ],
+            [
+              "g)agênciasreguladorasnaárea\nde meio ambiente, inclusive a\nAgência Nacional de Águas\n(ANA);",
+              "",
+              ""
+            ],
+            [
+              "h)outrosassuntoscorrelatos;",
+              "",
+              ""
+            ],
+            [
+              "III - opinar sobre assuntos ati-\nnentesàdefesadoconsumidor,\nespecialmente:",
+              "III-opinarsobreassuntosperti-\nnentesàdefesadoconsumidor,\nespecialmente:",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 203,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            560.856
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "a) estudar, elaborar e propor\nnormas e medidas voltadas à\nmelhoriacontínuadasrelações\ndemercado,emespecialasque\nenvolvemfornecedoreseconsu-\nmidores;",
+              "a) estudar, elaborar e propor\nnormas e medidas voltadas à\nmelhoriacontínuadasrelações\ndemercado,emespecialasque\nenvolvemfornecedoreseconsu-\nmidores;",
+              "RSFnº3/2017"
+            ],
+            [
+              "b) aperfeiçoar os instrumentos\nlegislativosreguladores,contra-\ntuaisepenais,referentesaosdi-\nreitosdosconsumidoreseforne-\ncedores,comespecialênfaseàs\ncondições,limiteseusodeinfor-\nmações, responsabilidade civil,\nrespeito à privacidade, direitos\nautorais,patentesesimilares;",
+              "b) aperfeiçoar os instrumentos\nlegislativosreguladores,contra-\ntuaisepenais,referentesaosdi-\nreitos dos consumidores e dos\nfornecedores, com ênfase em\ncondições,limiteseusodeinfor-\nmações, responsabilidade civil,\nrespeitoàprivacidade,aosdirei-\ntosautorais,àspatentesesimila-\nres;",
+              "RSFnº3/2017"
+            ],
+            [
+              "c) acompanhar as políticas e\naçõesdesenvolvidaspeloPoder\nPúblicorelativasàdefesadosdi-\nreitosdoconsumidor,defesada\nconcorrênciaerepressãodafor-\nmação e atuação ilícita de mo-\nnopólios;",
+              "c)acompanharaspolíticaseas\naçõesdesenvolvidaspeloPoder\nPúblicorelativasàdefesadosdi-\nreitos do consumidor, à defesa\ndaconcorrênciaeàrepressãoda\nformaçãoedaatuaçãoilícitade\nmonopólios;",
+              "RSFnº3/2017"
+            ],
+            [
+              "d)receberdenúnciasedenun-\nciarpráticasreferentesaoabuso\ndopodereconômico,qualidade\ndeprodutos,apresentação,técni-\ncasdepropagandaepublicidade\nnocivasouenganosas;",
+              "d) receber denúncias e denun-\nciar práticas referentes a abuso\ndopodereconômico,qualidade\neapresentaçãodeprodutos,téc-\nnicasdepropagandaepublicida-\ndenocivasouenganosas;",
+              "RSFnº3/2017"
+            ],
+            [
+              "e) avaliar as relações custo e\npreço de produtos, bens e ser-\nviços, com vistas a estabelecer\nnormasderepressãoàusura,aos\nlucros excessivos, ao aumento\nindiscriminado de preços e à\ncartelização de segmentos do\nmercado;",
+              "e)avaliarasrelaçõesentrecusto\nepreçodeprodutos,benseser-\nviços, com vistas a estabelecer\nnormasderepressãoàusura,aos\nlucros excessivos, ao aumento\nindiscriminado de preços e à\ncartelização de segmentos do\nmercado;",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 204,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            557.886
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "f)analisarascondiçõesdecon-\ncorrênciacomespecialenfoque\npara a defesa dos produtores e\nfornecedoresnacionais,conside-\nradososinteressesdosconsumi-\ndoresedasoberanianacional;",
+              "f)analisarascondiçõesdecon-\ncorrênciacomênfasenadefesa\ndosprodutoresedosfornecedo-\nres nacionais, considerados os\ninteressesdosconsumidoresea\nsoberanianacional;",
+              "RSFnº3/2017"
+            ],
+            [
+              "g)geraredisponibilizarestudos,\ndadosestatísticoseinformações,\nnoâmbitodesuascompetências.",
+              "g)geraredisponibilizarestudos,\ndadosestatísticoseinformações,\nnoâmbitodesuascompetências.",
+              "RSFnº3/2017"
+            ],
+            [
+              "Parágrafoúnico.Noexercícioda\ncompetência de fiscalização e\ncontrole prevista no inciso I\ndesteartigo,aComissãodeMeio\nAmbiente,DefesadoConsumi-\ndoreFiscalizaçãoeControle:\n.........................",
+              "Parágrafoúnico.Noexercícioda\ncompetência de fiscalização e\ncontroleprevistanoincisoIdo\ncaput, a Comissão de Trans-\nparência, Governança, Fiscali-\nzação e Controle e Defesa do\nConsumidor:\n.........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "Art. 102-B. A fiscalização e o\ncontroledosatosdoPoderExe-\ncutivo,incluídososdaadminis-\ntração indireta, pela Comissão\nde Meio Ambiente, Defesa do\nConsumidor e Fiscalização e\nControle,obedecerãoàsseguin-\ntesregras:\n.........................",
+              "Art. 102-B. A fiscalização e o\ncontroledosatosdoPoderExe-\ncutivo,inclusiveosdaadminis-\ntração indireta, pela Comissão\ndeTransparência,Governança,\nFiscalizaçãoeControleeDefesa\ndo Consumidor obedecerão às\nseguintesregras:\n.........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "Art. 102-D. Aplicam-se à Co-\nmissãodeMeioAmbiente,Defe-\nsadoConsumidoreFiscalização\neControleasnormasregimen-\ntais pertinentes às demais co-\nmissões permanentes, no que\nnãoconflitaremcomostermos\ndas disposições constantes dos\narts.102-Aa102-C.\n.........................",
+              "Art. 102-D. Aplicam-se à Co-\nmissãodeTransparência,Gover-\nnança,FiscalizaçãoeControlee\nDefesadoConsumidorasnor-\nmas regimentais pertinentes às\ndemaiscomissõespermanentes,\nnoquenãoconflitaremcomos\ntermosdasdisposiçõesconstan-\ntesdosarts.102-Aa102-C.\n.........................",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 205,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            573.0459999999999
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "§2ºAComissãodeMeioAm-\nbiente, Defesa do Consumidor\neFiscalizaçãoeControlepoderá,\nsehouvermotivosuficiente,co-\nmunicarfatosinvestigadosàco-\nmissãocorrespondentedaCâma-\nradosDeputados,paraqueesta\nadoteprovidênciaquelheafigu-\nrarcabível.",
+              "§2ºAComissãodeTransparên-\ncia, Governança, Fiscalização e\nControleeDefesadoConsumi-\ndor poderá, se houver motivo\nsuficiente,comunicarfatosinves-\ntigadosàcomissãocorresponden-\nte da Câmara dos Deputados,\nparaqueestaadoteaprovidên-\nciaqueconsiderarcabível.",
+              "RSFnº3/2017"
+            ],
+            [
+              "Art.102-A.ÀComissãodeMeio\nAmbiente,DefesadoConsumidor\ne Fiscalização e Controle, além\ndaaplicação,noquecouber,do\ndispostonoart.90esemprejuízo\ndas atribuições das demais co-\nmissões,compete:\n.........................\nII-opinarsobreassuntosatinen-\ntes à defesa do meio ambiente,\nespecialmente:",
+              "Obs.: as competências consta-\nvamanteriormentenoart.102-\nA,reproduzidoàesquerda.\nArt. 102-F. À Comissão de\nMeioAmbientecompeteopinar\nsobreassuntospertinentesàde-\nfesadomeioambiente,especial-\nmente:",
+              "RSFnº3/2017"
+            ],
+            [
+              "a)proteçãodomeioambientee\ncontroledapoluição,conservação\ndanatureza,defesadosoloedos\nrecursosnaturaisegenéticos,flo-\nrestas,caça,pesca,fauna,florae\nrecursoshídricos",
+              "I-proteçãodomeioambiente,\ncontrole da poluição, conser-\nvação da natureza e defesa do\nsolo, dos recursos naturais e\ngenéticos,dasflorestas,dacaça,\ndapesca,dafauna,dafloraedos\nrecursoshídricos;",
+              "RSFnº3/2017"
+            ],
+            [
+              "b)políticaesistemanacionalde\nmeioambiente;",
+              "II - política e sistema nacional\ndemeioambiente;",
+              "RSFnº3/2017"
+            ],
+            [
+              "c)preservação,conservação,ex-\nploraçãoemanejodeflorestase\ndabiodiversidade;",
+              "III - preservação, conservação,\nexploraçãoemanejodeflorestas\nedabiodiversidade;",
+              "RSFnº3/2017"
+            ],
+            [
+              "d)conservaçãoegerenciamento\ndousodosoloedosrecursoshí-\ndricos, no tocante ao meio am-\nbienteeaodesenvolvimentosus-\ntentável;",
+              "IV-conservaçãoegerenciamento\ndo uso do solo e dos recursos\nhídricos, no tocante ao meio\nambienteeaodesenvolvimento\nsustentável;",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 206,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            448.92599999999993
+          ],
+          "cells": 27,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "e) fiscalização dos alimentos e\ndosprodutoseinsumosagrícolas\nepecuários,notocanteaomeio\nambiente e ao desenvolvimento\nsustentável;",
+              "V-fiscalizaçãodosalimentose\ndosprodutoseinsumosagríco-\nlas e pecuários, no tocante ao\nmeioambienteeaodesenvolvi-\nmentosustentável;",
+              "RSFnº3/2017"
+            ],
+            [
+              "f)direitoambiental;",
+              "VI-direitoambiental;",
+              "RSFnº3/2017"
+            ],
+            [
+              "g)agênciasreguladorasnaárea\nde meio ambiente, inclusive a\nAgência Nacional de Águas\n(ANA);",
+              "VII - agências reguladoras na\náreademeioambiente,inclusive\na Agência Nacional de Águas\n(ANA);",
+              "RSFnº3/2017"
+            ],
+            [
+              "h)outrosassuntoscorrelatos;",
+              "VIII-outrosassuntoscorrelatos.",
+              "RSFnº3/2017"
+            ],
+            [
+              "",
+              "Art.104-E.(revogado)",
+              "RSFnº3/2017"
+            ],
+            [
+              "",
+              "Art.107............\nI-......................\n...........................",
+              ""
+            ],
+            [
+              "",
+              "g) Comissão de Transparência,\nGovernança, Fiscalização e\nControleeDefesadoConsumi-\ndor:àsterças-feiras,àsonzeho-\nrasetrintaminutos;\n...........................",
+              "RSFnº3/2017"
+            ],
+            [
+              "",
+              "l)ComissãodeMeioAmbiente:\nàsquartas-feiras,àsonzehoras\netrintaminutos.\n...........................",
+              "RSFnº3/2017"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 207,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            570.386
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "Art. 128. Vencido o relator, o\nPresidente da comissão desig-\nnará um dos membros, em\nmaioria,parasuceder-lhe,exceto\nseofatoocorrerapenasemre-\nlação a parte da proposição ou\nemenda,quandopermaneceráo\nmesmorelator,consignando-se\novencido,pormenorizadamen-\nte,noparecer.",
+              "Art. 128. Vencido o relator, o\nPresidente da comissão desig-\nnará um dos membros, em\nmaioria,parasuceder-lhe,exceto\nseofatoocorrerapenasemre-\nlação a parte da proposição ou\nemenda,quandopermaneceráo\nmesmorelator,consignando-se\nnoparecer,pormenorizadamen-\nte,oobjetododissensonadeli-\nberaçãodacomissão.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.155............\n.........................",
+              "Art.155.............\n.........................",
+              ""
+            ],
+            [
+              "§1ºAodeclararabertaasessão,\noPresidenteproferiráasseguin-\ntespalavras:“Sobaproteçãode\nDeus iniciamos nossos traba-\nlhos”.\n.........................",
+              "§1ºAodeclararabertaasessão,\noPresidenteproferiráasseguin-\ntespalavras:“Sobaproteçãode\nDeus, iniciamos nossos traba-\nlhos”.\n.........................",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.288...........\n.........................\nIII-..................\n.........................",
+              "Art.288..........\n.........................\nIII-..................\n.........................",
+              ""
+            ],
+            [
+              "j)aprovaçãodenomeindicado\nparaDefensorPúblicoGeral;\n.........................",
+              "j)aprovaçãodenomeindicado\npara Defensor Público-Geral\nFederal;\n.........................",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.312...........\n.........................",
+              "Art.312...........\n.........................",
+              ""
+            ],
+            [
+              "",
+              "Parágrafo único. Independerá\ndeaprovaçãodoPlenárioore-\nquerimentodedestaqueapresen-\ntado por bancada de partido,\nobservadaaseguinteproporcio-\nnalidade:",
+              "RSFnº8/2016"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 208,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            503.7859999999999
+          ],
+          "cells": 30,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "",
+              "I-de3(três)a8(oito)Senado-\nres:1(um)destaque;",
+              "RSFnº8/2016"
+            ],
+            [
+              "",
+              "II-de9(nove)a14(quatorze)\nSenadores:2(dois)destaques;",
+              "RSFnº8/2016"
+            ],
+            [
+              "",
+              "III-maisde14(quatorze)Sena-\ndores:3(três)destaques.",
+              "RSFnº8/2016"
+            ],
+            [
+              "“CAPÍTULOXIV\nDAREDAÇÃODOVENCI-\nDOEDAREDAÇÃOFINAL",
+              "“CAPÍTULOXIV\nDAREDAÇÃOPARAO\nTURNOSUPLEMENTARE\nDAREDAÇÃOFINAL",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.317.Terminadaavotação,\ncomaaprovaçãodesubstitutivo,\noprojetoiráàcomissãocompe-\ntenteafimderedigirovencido\nparaoturnosuplementar.",
+              "Art.317.Terminadaavotação,\ncomaaprovaçãodesubstitutivo,\noprojetoiráàcomissãocompe-\ntente a fim de elaborar a re-\ndaçãoparaoturnosuplementar.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Parágrafoúnico.Aredaçãofinal\ndos projetos de lei da Câmara,\ndestinadosàsanção,serádispen-\nsada, salvo se houver vício de\nlinguagem,defeitoouerromani-\nfestoacorrigir.",
+              "Observação: dispositivo movido\npara o parágrafo único do art.\n319.",
+              ""
+            ],
+            [
+              ".........................",
+              ".........................",
+              ""
+            ],
+            [
+              "Art.318.Éprivativodacomissão\nespecífica para o estudo da\nmatériaredigirovencidoeela-\nborar a redação final nos casos\nde:\n.........................",
+              "Art.318.Éprivativodacomissão\nespecífica para o estudo da\nmatériaelaborararedaçãopara\no turno suplementar e a re-\ndaçãofinalnoscasosde:\n.........................",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.319...............................",
+              "Art.319..............................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 209,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            477.44599999999997
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2015",
+              "Texto consolidado em\njaneiro de 2019",
+              "Observações"
+            ],
+            [
+              "Observação:originalmente,per-\ntenciaaoart.317.",
+              "Parágrafoúnico.Aredaçãofinal\ndos projetos de lei da Câmara\ndestinadosàsançãoserádispen-\nsada, salvo se houver vício de\nlinguagem,defeitoouerromani-\nfestoacorrigir.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art. 350. O turno suplementar\ndematériaemregimedeurgên-\nciaserárealizadoimediatamente\napósaaprovação,emturnoúni-\nco,dosubstitutivo,podendoser\nconcedido o prazo de vinte e\nquatrohorasparaaredaçãodo\nvencido,quandohouver.",
+              "Art. 350. O turno suplementar\ndematériaemregimedeurgên-\nciaserárealizadoimediatamente\napósaaprovação,emturnoúni-\nco,dosubstitutivo,podendoser\nconcedido o prazo de vinte e\nquatrohorasparaaelaboração\ndaredaçãoparaoturnosuple-\nmentar.",
+              "Art. 402 (re-\ndação)"
+            ],
+            [
+              "Art.383...........\n.........................\nII-...................\n.........................",
+              "Art.383...........\n.........................\nII-...................\n.........................",
+              ""
+            ],
+            [
+              "",
+              "f)parainquiriçãodecandidato,\ncada Senador interpelante dis-\nporáde10(dez)minutos,assegu-\nrado igual prazo para resposta,\nimediata,dointerpelado,faculta-\ndas réplica e tréplica, ambas\ntambémimediatas,por5(cinco)\nminutos;",
+              "RSFnº7/2015"
+            ],
+            [
+              "f)orelatórioserávotado;",
+              "g)orelatórioserávotado;\n.........................",
+              "RSFnº7/2015"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 210,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            114.096,
+            408.19,
+            543.286
+          ],
+          "cells": 30,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Art.32.....................\n.................................",
+              "Art.32.....................\n.................................",
+              ""
+            ],
+            [
+              "§2ºNoscasosdosincisosI,II\neVI,aperdadomandatoserá\ndecididapeloSenadoFederal,\nporvotosecretoemaioriaab-\nsoluta, mediante provocação\ndaMesaoudepartidopolítico\nrepresentado no Congresso\nNacional(Const.,art.55,§2º).",
+              "§2ºNoscasosdosincisosI,II\neVI,aperdadomandatoserá\ndecididapeloSenadoFederal,\npormaioriaabsoluta,mediante\nprovocação da Mesa ou de\npartido político representado\nno Congresso Nacional\n(Const.,art.55,§2o).",
+              "Art. 402 (re-\ndação) – adap-\ntaçãodecorrente\nda EC nº\n76/2013."
+            ],
+            [
+              "Art.72.....................\n................................",
+              "Art.72.....................\n................................",
+              ""
+            ],
+            [
+              "",
+              "XII-ComissãoSenadodoFu-\nturo.",
+              "RSFnº14/2013"
+            ],
+            [
+              "Art.77.....................\n...............................",
+              "Art.77.......................\n...............................",
+              ""
+            ],
+            [
+              "III – Comissão de Consti-\ntuição,JustiçaeCidadania,23;\n...............................",
+              "IIIComissãodeConstituição,\nJustiçaeCidadania,27;\n....................................",
+              "RSFnº11/2013"
+            ],
+            [
+              "",
+              "XII-ComissãoSenadodoFu-\nturo,11.",
+              "RSFnº14/2013"
+            ],
+            [
+              "Art.93......................\n...............................",
+              "Art.93....................\n...............................",
+              ""
+            ],
+            [
+              "",
+              "§3ºNodiapreviamentedesig-\nnado,acomissãopoderáreali-\nzar audiência pública com a\npresença de, no mínimo, 2\n(dois)deseusmembros.",
+              "RSFnº39/2014"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 211,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            459.566
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "Art.96-A.Osdirigentesmáxi-\nmos das agências reguladoras\ncomparecerãoaoSenadoFede-\nral, em periodicidade anual,\npara prestar contas sobre o\nexercíciodesuasatribuiçõese\nodesempenhodaagência,bem\ncomoparaapresentaravaliação\ndaspolíticaspúblicasnoâmbi-\ntodesuascompetências.",
+              "RSFnº4/2013"
+            ],
+            [
+              "",
+              "Parágrafoúnico.Ocompareci-\nmento de que trata o caput\nocorreráemreuniãoconjunta\ndacomissãotemáticapertinen-\nteedasComissõesdeAssuntos\nEconômicosedeConstituição,\nJustiçaeCidadania.",
+              "RSFnº4/2013"
+            ],
+            [
+              "",
+              "Art.96-B.Nodesempenhoda\ncompetênciaprevistanoinciso\nIX do art. 90, as comissões\npermanentes selecionarão, na\náreadesuacompetência,políti-\ncaspúblicasdesenvolvidasno\nâmbito do Poder Executivo,\nparaseremavaliadas.",
+              "RSFnº44/2013"
+            ],
+            [
+              "",
+              "§1ºCadacomissãopermanen-\nteselecionaráaspolíticaspúbli-\ncasatéoúltimodiaútildomês\ndemarçodecadaano.",
+              "RSFnº44/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 212,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            540.0659999999999
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "§2ºPararealizaraavaliaçãode\nquetrataocaput,queseesten-\nderáaosimpactosdaspolíticas\npúblicas e às atividades meio\ndesuporteparasuaexecução,\npoderão ser solicitadas infor-\nmaçõesedocumentosaórgãos\ndoPoderExecutivoeaoTribu-\nnal de Contas da União, bem\ncomoaentidadesdasociedade\ncivil,nostermosdoart.50da\nConstituiçãoFederal.",
+              "RSFnº44/2013"
+            ],
+            [
+              "",
+              "§3ºAofinaldasessãolegislati-\nva,acomissãoapresentaráre-\nlatório com as conclusões da\navaliaçãorealizada.",
+              "RSFnº44/2013"
+            ],
+            [
+              "",
+              "§4ºAConsultoriaLegislativa\ne a Consultoria de Orçamen-\ntos,FiscalizaçãoeControledo\nSenadoFederalelaborarãoestu-\ndos e relatórios técnicos que\nsubsidiarão os trabalhos da\navaliaçãodequetrataocaput.",
+              "RSFnº44/2013"
+            ],
+            [
+              "",
+              "Art.99-A.ÀComissãodeAs-\nsuntos Econômicos compete,\nainda, avaliar periodicamente\na funcionalidade do Sistema\nTributário Nacional, em sua\nestruturaeseuscomponentes,\neodesempenhodasadminis-\ntrações tributárias da União,\ndosEstados,doDistritoFede-\nraledosMunicípios.",
+              "RSFnº1/2013"
+            ],
+            [
+              "Art.101.......................\n....................................",
+              "Art.101................\n...............................",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 213,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            558.1959999999999
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "VII–opinarsobreosrequeri-\nmentos de voto de censura,\naplauso ou semelhante, salvo\nquandooassuntopossainteres-\nsar às relações exteriores do\nPaís.",
+              "VII–(revogado)",
+              "RSFnº38/2014"
+            ],
+            [
+              "",
+              "Art.101-A.OMinistrodeEsta-\ndo da Justiça comparecerá\nanualmente à Comissão de\nConstituição,JustiçaeCidada-\nnia do Senado Federal para\nprestarinformaçõeseesclareci-\nmentos a respeito da atuação\nde sua Pasta, bem como para\napresentaravaliaçãodaspolíti-\ncaspúblicasnoâmbitodesuas\ncompetências.",
+              "RSFnº4/2013"
+            ],
+            [
+              "Art.103..................\n...............................",
+              "Art.103...............\n.............................",
+              ""
+            ],
+            [
+              "IV – requerimentos de votos\ndecensura,deaplausoouseme-\nlhante, quando se refiram a\nacontecimentosouatospúbli-\ncosinternacionais;\n...............................",
+              "IV–(revogado)\n...............................",
+              "RSFnº38/2014"
+            ],
+            [
+              "Art.103......................\n................................\nParágrafoúnico..............",
+              "Art.103.........................\n.....................................\n§1º..............................",
+              "RSFnº4/2013"
+            ],
+            [
+              "",
+              "§ 2º A Comissão promoverá\naudiências públicas, no início\ndecadasessãolegislativa,com\nosMinistrosdasRelaçõesExte-\nrioresedaDefesaparapresta-\nreminformaçõesnoâmbitode\nsuascompetências.",
+              "RSFnº4/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 214,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            543.346
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "Art.104-D.ÀComissãoSena-\ndodoFuturocompetepromo-\nver discussões sobre grandes\ntemaseofuturodoPaís,bem\ncomoaprimoraraatuaçãodo\nSenadonessasquestões.",
+              "RSFnº14/2013"
+            ],
+            [
+              "Art.108.Ascomissõesreunir-\nse-ãocomapresença,nomíni-\nmo,damaioriadeseusmem-\nbros.",
+              "Art.108.Asreuniõesdasco-\nmissões serão iniciadas com\napresençade,nomínimo,um\nquinto de sua composição,\nsalvo o disposto no § 3º do\nart.93.",
+              "RSFnº39/2014"
+            ],
+            [
+              "Parágrafoúnico.Apautados\ntrabalhosdascomissões,salvo\nemcasodeurgência,serádis-\ntribuída, com antecedência\nmínimadedoisdiasúteis,aos\ntitularesesuplentesdarespec-\ntivacomissãomedianteproto-\ncolo.",
+              "§1ºApautadostrabalhosdas\ncomissões, salvo em caso de\nurgência,serádisponibilizada\nemmeioeletrôniconoportal\ndoSenadoFederal,comante-\ncedência mínima de 2 (dois)\ndiasúteis.",
+              "RSFnº39/2014"
+            ],
+            [
+              "",
+              "§2ºÉfacultadaautilizaçãode\nsistemabiométricodeidentifi-\ncaçãonoregistrodepresença\ndosmembrosdacomissão.",
+              "RSFnº39/2014"
+            ],
+            [
+              "",
+              "§3ºAsuspensãodereuniãode\ncomissãosomenteserápermi-\ntida quando sua continuação\nocorreremdataehoraprevia-\nmenteestabelecidas.",
+              "RSFnº39/2014"
+            ],
+            [
+              "Art.109.Asdeliberaçõestermi-\nnativas nas comissões serão\ntomadas pelo processo nomi-\nnalemaioriadevotos,presen-\nteamaioriadeseusmembros.",
+              "Art. 109. A comissão delibe-\nrará por maioria de votos,\npresente a maioria de seus\nmembros, sendo as delibe-\nrações terminativas tomadas\npeloprocessonominal.",
+              "RSFnº39/2014"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 215,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            445.026
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Art.132......................\n................................",
+              "Art.132.........................\n................................",
+              ""
+            ],
+            [
+              "§8ºOvotodoautordapropo-\nsição não será computado,\nconsignando-se sua presença\nparaefeitodequorum.",
+              "§8º(revogado)",
+              "RSFnº39/2014"
+            ],
+            [
+              "Art. 136. Uma vez assinados\npeloPresidente,pelorelatore\npelosdemaismembrosdaco-\nmissão que participaram da\ndeliberação,ospareceresserão\nenviados à Mesa, juntamente\ncomasemendasrelatadas,de-\nclaraçõesdevotosevotosem\nseparado.",
+              "Art. 136. Uma vez assinados\npelo Presidente e pelo relator\ne instruídos com a lista de\npresençadosmembrosdaco-\nmissão,ospareceresserãoen-\nviadosàMesa,juntamentecom\nas emendas relatadas, decla-\nraçõesdevotosevotosemse-\nparado.",
+              "RSFnº39/2014"
+            ],
+            [
+              "Art.154.........................\n................................",
+              "Art.154..............................\n......................................\nIV-dedebatestemáticos.\n..........................",
+              "RSFnº3/2013"
+            ],
+            [
+              "§5ºAsessãoespecialrealizar-\nse-áexclusivamenteparacome-\nmoraçãoouhomenagem.\n..............................",
+              "§5ºAsessãoespecialrealizar-\nse-áexclusivamenteparacome-\nmoração ou homenagem, em\nnúmero não superior a 2\n(duas) por mês, às segundas\nousextas-feiras.\n....................................",
+              "RSFnº16/2011"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 216,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            531.156
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "§ 7º As sessões deliberativas\npoderãosertransformadasem\nsessões de debates temáticos\nparadiscussõesedeliberações\ndeassuntosrelevantesdeinte-\nressenacionalpreviamentefi-\nxados,inclusivecompossibili-\ndade de realização de ordem\ndodiatemática,mediantepro-\nposta apresentada pelo Presi-\ndentedoSenado,porumterço\ndosSenadoresouporLíderes\nquerepresentemessenúmero,\naprovadapeloPlenário.",
+              "RSFnº3/2013"
+            ],
+            [
+              "",
+              "§ 8º As sessões de debates\ntemáticostêmomesmotempo\ndeduraçãodassessõesdelibe-\nrativasordinárias.",
+              "RSFnº3/2013"
+            ],
+            [
+              "Art.158......................\n....................................",
+              "Art.158......................\n....................................",
+              "RSFnº16/2011"
+            ],
+            [
+              "§4ºAsinscriçõesquenãopu-\nderemseratendidasemvirtude\ndo levantamento ou da não\nrealizaçãodasessão,comemo-\nraçãoespecial,ouemvirtude\ndodispostono§5º,transferir-\nse-ão para a sessão do dia se-\nguinteeasdestaparaasubse-\nquente.\n.............................",
+              "§4ºAsinscriçõesquenãopu-\nderemseratendidasemvirtude\ndo levantamento ou da não\nrealização da sessão, ou em\nvirtude do disposto no § 5º,\ntransferir-se-ão para a sessão\ndodiaseguinteeasdestapara\nasubsequente.\n..................................",
+              "RSFnº16/2011"
+            ],
+            [
+              "§6ºRessalvadoodispostono\n§1ºdesteartigoenoart.160,\nII,nãohaveráprorrogaçãodo\nPeríododoExpediente.",
+              "§6ºRessalvadoodispostono\n§ 1º deste artigo, não haverá\nprorrogação do Período do\nExpediente.",
+              "RSFnº16/2011"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 217,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            557.266
+          ],
+          "cells": 12,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Art. 160. O tempo destinado\naos oradores do Período do\nExpedientepoderáserdedica-\ndo a comemoração especial,\nem virtude de deliberação do\nSenado, obedecido, no que\ncouber,odispostonoart.199,\neobservadasasseguintesnor-\nmas:\n– haverá inscrições especiais\nparaacomemoração;\n–otempodoPeríododoExpe-\ndiente será automaticamente\nprorrogado, se ainda houver\noradoresparaacomemoração;\n–seotemponormaldoPerío-\ndodoExpedientenãoforcon-\nsumido pela comemoração,\nserãoatendidososinscritosna\nformadodispostonoart.17.",
+              "Art.160.(revogado)",
+              "RSFnº16/2011"
+            ],
+            [
+              "Art.199.OSenadopoderáin-\nterromper sessão ou realizar\nsessãoespecialparacomemo-\nraçãoourecepçãodealtasper-\nsonalidades, a juízo do Presi-\ndente ou por deliberação do\nPlenário,medianterequerimen-\ntodeseisSenadores.",
+              "Art.199.OSenadopoderáin-\nterromperasessãoourealizar\nsessãoespecialparacomemo-\nraçãoourecepçãodealtasper-\nsonalidades, a juízo do Presi-\ndente ou por deliberação do\nPlenário,medianterequerimen-\ntode6(seis)senadores.",
+              "RSFnº16/2011"
+            ],
+            [
+              "",
+              "§1ºSalvoocasoderecepçãoa\nChefedeEstadooudeGover-\nnoouautoridadeequivalente,\na sessão especial somente po-\nderáocorrer2(duas)vezespor\nmês,àssegundasousextas-fei-\nras,equandonãohouverOr-\ndemdoDiapreviamenteagen-\ndadaparaessesdias.",
+              "RSFnº16/2011"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 218,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            513.9559999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "§ 2º A homenagem à mesma\nefeméride ou personalidade\nsomente poderá ocorrer 1\n(uma)vezacada10(dez)anos.",
+              "RSFnº16/2011"
+            ],
+            [
+              "",
+              "§3ºAprimeiracomemoração\ndashomenagenssomentepo-\nderá ocorrer após 25 (vinte e\ncinco)anosdofato.",
+              "RSFnº16/2011"
+            ],
+            [
+              "",
+              "§ 4º A sessão especial terá a\nduração máxima de 2 (duas)\nhoras.",
+              "RSFnº16/2011"
+            ],
+            [
+              "§ 1º Em sessão especial, po-\nderão ser admitidos convida-\ndosàmesaenoplenário.",
+              "§ 5º Em sessão especial, po-\nderão ser admitidos convida-\ndosàMesaenoPlenário.",
+              "RSFnº16/2011"
+            ],
+            [
+              "§2ºOparlamentarestrangeiro\nsóserárecebidoemplenáriose\no Parlamento do seu país der\ntratamentoigualaosCongres-\nsistasbrasileirosqueovisitem.",
+              "§6ºOparlamentarestrangeiro\nsóserárecebidoemplenáriose\no Parlamento do seu país der\ntratamentoigualaoscongressis-\ntasbrasileirosqueovisitem.",
+              "RSFnº16/2011"
+            ],
+            [
+              "Art.200.Asessãoespecial,que\nindepende de número, será\nconvocada em sessão ou\natravés do Diário do Senado\nFederal,enelasomenteusarão\ndapalavraosoradoresprevia-\nmente designados pelo Presi-\ndente.",
+              "Art.200.Asessãoespecial,que\nindepende de número, será\nconvocada em sessão, através\ndo Diário do Senado Federal,\nouporoutromeiooficialde\ncomunicação,enelasomente\nusarãodapalavraossenadores\npreviamente designados pelo\nPresidente ou por líder de\npartidooublocoparlamentar.",
+              "RSFnº16/2011"
+            ],
+            [
+              "",
+              "Parágrafo único. Não serão\nconcedidosapartesnassessões\nespeciais.",
+              "RSFnº16/2011"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 219,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            537.096
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Art. 222. O requerimento de\nvotodeaplauso,regozijo,lou-\nvor, solidariedade, congratu-\nlações ou semelhantesó será\nadmitidoquandodigarespei-\ntoaatopúblicoouaconteci-\nmento de alta significação\nnacionalouinternacional.",
+              "Art. 222. O Senador poderá\napresentar requerimento de\nvoto de aplauso, congratu-\nlações, louvor, solidariedade\noucensura,queserá,apóslido\nno Período do Expediente,\nencaminhado em nome do\nautor.",
+              "RSFnº38/2014"
+            ],
+            [
+              "§1ºLidonoPeríododoExpe-\ndiente, o requerimento será\nremetido à Comissão de\nConstituição,JustiçaeCidada-\nniaouàdeRelaçõesExterio-\nreseDefesaNacional,confor-\nmeocaso.",
+              "§ 1º Se disser respeito a ato\npúblico ou a acontecimento\nde alta significação nacional\nou internacional, o voto de\naplauso,congratulações,lou-\nvor,solidariedadeoucensura\npoderá,medianterequerimen-\ntosubscritoporumterçoda\ncomposiçãodaCasa,serenca-\nminhadoemnomedoSenado\nFederal, após sua aprovação\npeloPlenário.",
+              "RSFnº38/2014"
+            ],
+            [
+              "§2ºOrequerimentoseráin-\ncluído na Ordem do Dia da\nsessão deliberativa imediata\nàquelaemqueforlidoores-\npectivoparecer.",
+              "§ 2º Aplica-se o disposto no\n§1ºseorequerimentoforde\niniciativadecomissãoperma-\nnente, observado o disposto\nnoart.245.",
+              "RSFnº38/2014"
+            ],
+            [
+              "§3ºAMesasóseassociaráa\nmanifestaçõesderegozijoou\npesar quando votadas pelo\nPlenário.",
+              "§3ºOsrequerimentosreferi-\ndosnos§§1ºe2ºnãoaprecia-\ndosduranteasessãolegislati-\nva em que foram apresenta-\ndosserãoarquivadosdefiniti-\nvamente.",
+              "RSFnº38/2014"
+            ],
+            [
+              "Art.223.Aorequerimentode\nvotodecensura,aplicam-se,no\nquecouber,asdisposiçõesdo\nart.222.",
+              "Art.223.(revogado)",
+              "RSFnº38/2014"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 220,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            570.076
+          ],
+          "cells": 20,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Art.245......................\nParágrafoúnico.Aproposição\ndecomissãodeveserassinada\npelo seu Presidente e mem-\nbros,totalizando,pelomenos,\namaioriadasuacomposição.",
+              "Art.245.....................\nParágrafoúnico.Aproposição\ndecomissãodeveserassinada\npeloseuPresidenteeinstruída\ncom a lista dos presentes à\nreunião em que ocorreu sua\napresentação,totalizandopelo\nmenos a maioria de seus\nmembros.",
+              "RSFnº39/2014"
+            ],
+            [
+              "Art.253.......................\nParágrafoúnico.............",
+              "Art.253....................\nParágrafoúnico..........",
+              ""
+            ],
+            [
+              "I – de voto de censura, de\naplauso ou semelhante (arts.\n222e223);",
+              "I-(revogado)",
+              "RSFnº38/2014"
+            ],
+            [
+              "Art.255...................\n.................................\nII–..........................\n.................................\nc)..............................\n.................................\n7–votodecensura,deaplauso\nou semelhante (arts. 222 e\n223);\n.................................",
+              "Art.255...................\n.................................\nII–...........................\n.................................\nc)..............................\n.................................\n7–votodeaplauso,congratu-\nlações, louvor, solidariedade\nou censura (art. 222, §§ 1º e\n2º);\n..........................",
+              "RSFnº38/2014"
+            ],
+            [
+              "Art.383.NaapreciaçãodoSe-\nnadosobreescolhadeautorida-\ndes,observar-se-ãoasseguintes\nnormas:",
+              "Art.383.NaapreciaçãodoSe-\nnado Federal sobre a escolha\ndeautoridades,observar-se-ão\nasseguintesnormas:",
+              "RSFnº41/2013"
+            ],
+            [
+              null,
+              "I–amensagem,queserálida\nemplenárioeencaminhadaà\ncomissãocompetente,deverá\nestaracompanhadadeamplos\nesclarecimentossobreocandi-\ndatoede:",
+              "RSFnº41/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 221,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            555.846
+          ],
+          "cells": 27,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "a) curriculum vitae, no qual\nconstem:",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "1. as atividades profissionais\nexercidaspeloindicado,coma\ndiscriminação dos referidos\nperíodos;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "2.arelaçãodaspublicaçõesde\nsuaautoria,comasreferências\nbibliográficas que permitam\nsuarecuperação;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "b) no caso dos indicados na\nforma do inciso III do art. 52\ndaConstituiçãoFederal,decla-\nraçãodoindicado:",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "1.quantoàexistênciadeparen-\ntesseusqueexercemouexerce-\nram atividades, públicas ou\nprivadas,vinculadasasuaativi-\ndadeprofissional,comadiscri-\nminação dos referidos perío-\ndos;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "2. quanto à sua participação,\nemqualquertempo,comosó-\ncio,proprietárioougerente,de\nempresasouentidadesnãogo-\nvernamentais,comadiscrimi-\nnaçãodosreferidosperíodos;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "3. de regularidade fiscal, nos\nâmbitos federal, estadual e\nmunicipal;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "4.quantoàexistênciadeações\njudiciaisnasquaisfigurecomo\nautor ou réu, com indicação\natualizadadatramitaçãoproces-\nsual;",
+              "RSFnº41/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 222,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            424.2437499999999
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "5. quanto à sua atuação, nos\núltimos5(cinco)anos,conta-\ndosretroativamenteaoanoem\nque se deu sua indicação, em\njuízos e tribunais, em conse-\nlhosdeadministraçãodeem-\npresasestataisouemcargosde\ndireçãodeagênciasregulado-\nras;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "c)argumentaçãoescrita,apre-\nsentada de forma sucinta, em\nqueoindicadodemonstreter\nexperiência profissional, for-\nmaçãotécnicaadequadaeafini-\ndade intelectual e moral para\noexercíciodaatividade;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "d) no caso dos indicados na\nformadoincisoIVdoart.52\ndaConstituiçãoFederal,relató-\nriosproduzidospeloMinisté-\nrio das Relações Exteriores\ncontendo:",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "1.informaçõessobreoEstado\nou organização internacional\nparaoqualocandidatofoiin-\ndicado;",
+              "RSFnº41/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 223,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            459.566
+          ],
+          "cells": 15,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "2.relaçãodostratadoseacor-\ndosassinadoscomorespectivo\nEstadoouorganizaçãointerna-\ncional,bemcomodoscontra-\ntosdeempréstimosefinancia-\nmentosoficiaisconcedidospe-\nloBrasil,incluindoosatosrefe-\nrentes a perdão ou renego-\nciaçãodedívidasearenúncia\nfiscal,diferenciandoentreatos\nemvigoreatosaindasujeitos\nàaprovaçãodoCongressoNa-\ncional, nos termos do art. 49,\nincisoI,daConstituiçãoFede-\nral;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "IIoexamedasindicaçõesfeitas\nnaformadoincisoIIIdoart.\n52daConstituiçãoFederalse-\nguiráasseguintesetapas:",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "a)orelatorapresentaráorelató-\nrioàcomissão,comrecomen-\ndações,seforocaso,paraque\nsejam apresentadas infor-\nmaçõesadicionais;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "b)seráconcedida,automatica-\nmente,vistacoletivaaosmem-\nbros da comissão e divulgado\norelatóriopormeiodoportal\ndoSenadoFederal;",
+              "RSFnº41/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 224,
+      "tabelas": [
+        {
+          "bbox": [
+            79.36999999999999,
+            64.596,
+            408.19,
+            505.16999999999996
+          ],
+          "cells": 18,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "c)oportaldoSenadoFederal\npossibilitaráàsociedadeenca-\nminhar informações sobre o\nindicadoouperguntasaeledi-\nrigidas, que serão submetidas\naoexamedorelatorcomvistas\naoseuaproveitamento,inclusi-\nve quanto à necessidade de\nrealizaçãodeaudiênciapública\nemfacedasinformaçõeseinda-\ngaçõesrecebidas;",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "d) o relator poderá discutir\ncomosmembrosdacomissão\no conteúdo das questões que\nserãoformuladasaoindicado;",
+              "RSFnº41/2013"
+            ],
+            [
+              "II – a comissão convocará o\ncandidatopara,emprazoesti-\npulado,nãoinferioratrêsdias,\nouvi-lo, em arguição pública,\nsobre assuntos pertinentes ao\ndesempenho do cargo a ser\nocupado(Const.,art.52,III);",
+              "e) a comissão convocará o\ncandidatopara,emprazoesti-\npulado,nãoinferiora5(cinco)\ndiasúteis,ouvi-lo,emarguição\npública, sobre assuntos perti-\nnentesaodesempenhodocar-\ngoaserocupado(Const.,art.\n52,III);",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "f)orelatórioserávotado;",
+              "RSFnº41/2013"
+            ],
+            [
+              "III–aarguiçãodecandidatoa\nchefedemissãodiplomáticade\ncaráter permanente será feita\nemreuniãosecreta(Const.,art.\n52,IV);\n.................................",
+              "III-aarguiçãodecandidatoa\nchefedemissãodiplomáticade\ncaráter permanente será feita\nemreuniãosecreta(Const.,art.\n52,IV),aplicando-seoproce-\ndimentodescritonoincisoII\ndesteartigo,noquecouber;\n.................................",
+              "RSFnº41/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 225,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            567.106
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "Parágrafo único. A manifes-\ntaçãodoSenadoFederaledas\ncomissões sobre a escolha de\nchefedemissãodiplomáticade\ncaráterpermanenteseráproce-\ndidaemsessãoereuniãosecre-\ntas(Const.,art.52,IV).",
+              "§1ºAmanifestaçãodoSenado\nFederaledascomissõessobre\na escolha de chefe de missão\ndiplomáticadecaráterperma-\nnenteseráprocedidaemsessão\nereuniãosecretas(Const.,art.\n52,IV).",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "§ 2º A resposta negativa às\nhipótesesprevistasnositens1,\n2,4e5daalínea“b”doinciso\nIdesteartigodeveráserdecla-\nradaporescrito.",
+              "RSFnº41/2013"
+            ],
+            [
+              "",
+              "§3ºAdeclaraçãodequetrata\noitem3daalínea“b”doinciso\nIdesteartigodeveráseracom-\npanhada de documentação\ncomprobatória emitida pelos\nórgãoscompetentes.",
+              "RSFnº41/2013"
+            ],
+            [
+              "Art.390.................\n.................................",
+              "Art.390...................\n.................................",
+              ""
+            ],
+            [
+              "",
+              "Parágrafo único. No caso de\nmensagens propondo perdão\ne reescalonamento de dívidas\nde que o Brasil seja credor, a\nmatériaseráencaminhadapara\nparecer da Comissão de Re-\nlaçõesExterioreseDefesaNa-\ncionalantesdeseuexamepela\nComissãodeAssuntosEconô-\nmicos.",
+              "RSFnº45/2013"
+            ],
+            [
+              "",
+              "CapítuloIV\nTítuloIII\nSeçãoII-A\nDaAtribuiçãoEstabelecidano\nart. 52, XV, da Constituição\nFederal",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 226,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            507.62999999999994
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "Art.393-A.Aavaliaçãodeque\ntrataoart.99-Aserárealizada\nanualmenteporgrupodeSena-\ndoresdaComissãodeAssuntos\nEconômicos designados pelo\nPresidentedaComissão.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Art. 393-B. Para atender aos\nobjetivosdaavaliaçãoprevista\nnoart.52,XV,daConstituição\nFederal,oSenadopoderásoli-\ncitarinformaçõesedocumen-\ntos à União, aos Estados, ao\nDistritoFederaleaosMunicí-\npios, compreendidos os três\nPodereseosórgãoseentidades\ndaadministraçãodiretaeindi-\nreta,alémdoConselhoNacio-\nnal de Política Fazendária\n(Confaz) e de outras insti-\ntuiçõesdasociedadeorganiza-\nda.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Art. 393-C. Serão observados\nosseguintesprazosnostraba-\nlhosdeavaliaçãoperiódicado\nSistemaTributárioNacional:",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "I-pararecebimentodedocu-\nmentos e informações, até 15\ndemarço;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "II-pararealizaçãodeaudiên-\nciaspúblicas,até30deabril;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "III-paraapresentaçãodore-\nlatóriofinal,até30dejunho.",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 227,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            557.086
+          ],
+          "cells": 39,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "Parágrafoúnico.Osprazoses-\ntabelecidosnocaputdestearti-\ngo poderão ser modificados\npor deliberação da Comissão\ndeAssuntosEconômicos.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Art. 393-D. A funcionalidade\ndoSistemaTributárioNacional\nseráavaliadaconsiderando-se,\nentreoutros,osseguintesaspec-\ntos:",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "I - complexidade e qualidade\ndalegislação;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "II-custosdeconformidadeà\nnormatizaçãotributária;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "III-qualidadedostributos,es-\npecialmentequanto:",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "a)àjustiçafiscal;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "b)aoatendimentoaosprincí-\npios constitucionais tributá-\nrios;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "c)aoatendimentoàsnecessida-\ndesorçamentárias;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "d) ao custo das obrigações\nacessórias;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "IV-cargatributária;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "V-equilíbriofederativo,espe-\ncialmentequanto:",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "a)àparticipaçãodaUnião,dos\nEstados,doDistritoFederale\ndosMunicípiosnototaldare-\nceitatributária,antesedepois\ndastransferênciasconstitucio-\nnaiselegais;",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 228,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19000000000005,
+            532.7059999999999
+          ],
+          "cells": 33,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "b)àparticipaçãodastransferên-\nciasconstitucionaiselegaisna\nreceitatributáriadosentesfede-\nrados;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VI-renúnciasfiscais;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VII-harmonizaçãonormativa;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VIII-gastoseresultadoscom\neducaçãofiscal;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "IX-compatibilidadecomale-\ngislação de outros países ou\nblocoseconômicos.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Parágrafoúnico.AsConsulto-\nriasdoSenadoFederalelabo-\nrarãoestudoseparecerestécni-\ncos que subsidiarão os traba-\nlhosdeavaliaçãoperiódicado\nSistemaTributárioNacional.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Art.393-E.Odesempenhodas\nadministrações tributárias da\nUnião,dosEstados,doDistrito\nFederaledosMunicípiosserá\navaliadoconsiderando-se,en-\ntreoutros,osseguintesaspec-\ntos:",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "I-relaçãoentreocustodaad-\nministraçãoeomontantearre-\ncadado;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "II-exercícioefetivodascom-\npetênciastributáriaspelosen-\ntesfederados;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "III - desempenho da fiscali-\nzação;",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 229,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            550.216
+          ],
+          "cells": 30,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "IV - relação entre pagamento\nespontâneo e coercitivo dos\ntributos;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "V - desempenho da cobrança\njudicialeextrajudicialdadívi-\ndaativatributária;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VI-efetividadedosprogramas\nderecuperaçãofiscal,especial-\nmentequantoaparcelamento,\nanistiaeremissão;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VII - grau de integração das\nadministraçõestributárias;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "VIII-gastoseresultadoscom\neducaçãofiscal;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "IX-qualidadedoatendimento\naocontribuinte;",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "X - grau de informalidade da\neconomia.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "Art.393-F.OgrupodeSenado-\nres de que trata o art. 393-A\nelaborarárelatórioconclusivo,\nque será submetido à delibe-\nraçãodoPlenáriodaComissão\nde Assuntos Econômicos, em\ncaráterterminativo.",
+              "RSFnº1/2013"
+            ],
+            [
+              "",
+              "§1ºCópiaintegraldorelatório\naprovadoseráenviadaaoPresi-\ndentedaRepública,àCâmara\ndosDeputados,aosGovernado-\nres dos Estados e do Distrito\nFederal,àsAssembleiasLegisla-\ntivasEstaduais,àCâmaraLegis-\nlativadoDistritoFederaleaos\nTribunaisdeContas.",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 230,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            131.68599999999998
+          ],
+          "cells": 6,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2011",
+              "Texto Consolidado em\njaneiro de 2015",
+              "Observações"
+            ],
+            [
+              "",
+              "§2ºResumoexecutivocomas\nprincipaisconclusõesseráen-\nviadoaosMunicípios.",
+              "RSFnº1/2013"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 231,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            114.096,
+            408.19,
+            533.4459999999999
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "Art.25.SealgumSenadorpra-\nticar,dentrodoedifíciodoSe-\nnado,atoincompatívelcomo\ndecoroparlamentaroucoma\ncompostura pessoal, a Mesa\ndeleconheceráeabriráinqué-\nrito, submetendo o caso ao\nPlenário, que deliberará em\nsessão secreta, no prazo im-\nprorrogáveldedezdiasúteis.",
+              "Art.25.SealgumSenadorpra-\nticar,dentrodoedifíciodoSe-\nnado,atoincompatívelcomo\ndecoroparlamentaroucoma\ncompostura pessoal, a Mesa\ndeleconheceráeabriráinqué-\nrito, submetendo o caso ao\nPlenário,quesobreeledelibe-\nrará, no prazo improrrogável\ndedezdiasúteis.",
+              "RSFnº18/2007"
+            ],
+            [
+              "Art. 72. As comissões perma-\nnentes,alémdaComissãoDire-\ntora,sãoasseguintes:\n..........................",
+              "Art.72................\n............................",
+              ""
+            ],
+            [
+              "IV–ComissãodeEducação–\nCE;\n....................................",
+              "IV – Comissão de Educação,\nCulturaeEsporte–CE;\n....................................",
+              "RSFnº31/2007"
+            ],
+            [
+              "",
+              "XI – Comissão de Ciência,\nTecnologia,Inovação,Comuni-\ncaçãoeInformática–CCT.",
+              "RSFnº1/2007"
+            ],
+            [
+              "Art. 77. A Comissão Diretora\né constituída dos titulares da\nMesa, tendo as demais co-\nmissõespermanentesoseguin-\ntenúmerodemembros:\n...............................",
+              "Art.77................\n............................",
+              ""
+            ],
+            [
+              "IV – Comissão de Educação,\n27;\n.........................",
+              "IV – Comissão de Educação,\nCulturaeEsporte,27;\n.....................................",
+              "RSFnº31/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 232,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            478.00600000000003
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "XI – Comissão de Ciência,\nTecnologia,Inovação,Comuni-\ncaçãoeInformática–CCT,17.",
+              "RSFnº1/2007"
+            ],
+            [
+              "§1ºOmembrodaComissão\nDiretora não poderá fazer\npartedeoutracomissãoper-\nmanente.",
+              "§1ºOsmembrosdaComissão\nDiretora,excetooPresidente\ndaCasa,poderãointegrarou-\ntrascomissõespermanentes.",
+              "RSFnº3/2007"
+            ],
+            [
+              "Art.91.Àscomissões,noâmbi-\nto de suas atribuições, cabe,\ndispensada a competência do\nPlenário,nostermosdoart.58,\n§2º,I,daConstituição,discutir\nevotar:\n.................................",
+              "Art.91.................\n.............................",
+              ""
+            ],
+            [
+              "",
+              "III–projetosdedecretolegisla-\ntivodequetratao§1ºdoart.\n223daConstituiçãoFederal.",
+              "RSFnº3/2009"
+            ],
+            [
+              "Art.99.ÀComissãodeAssun-\ntosEconômicoscompeteopi-\nnarsobreproposiçõespertinen-\ntesaosseguintesassuntos:\n.............................",
+              "Art.99.................\n.............................",
+              ""
+            ],
+            [
+              "",
+              "§ 1º A Comissão promoverá\naudiências públicas regulares\ncom o Presidente do Banco\nCentraldoBrasilparadiscutir\nasdiretrizes,implementaçãoe\nperspectivasfuturasdapolítica\nmonetária.",
+              "RSFnº32/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 233,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            546.3159999999999
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "§2ºAsaudiênciasdequetrata\no§1ºdesteartigoocorrerãona\nprimeiraquinzenadefevereiro,\nabril,julhoeoutubro,podendo\nhaveralteraçõesdedatasdecor-\nrentes de entendimento entre\naComissãoeaPresidênciado\nBancoCentraldoBrasil.",
+              "RSFnº32/2007"
+            ],
+            [
+              "Art.102.ÀComissãodeEdu-\ncação compete opinar sobre\nproposiçõesqueversemsobre:\n...................................",
+              "Art.102.ÀComissãodeEdu-\ncação, Cultura e Esporte\ncompete opinar sobre propo-\nsiçõesqueversemsobre:\n...................................",
+              "RSFnº31/2007"
+            ],
+            [
+              "IV – comunicação, imprensa,\nradiodifusão,televisão,outorga\nerenovaçãodeconcessão,per-\nmissãoeautorizaçãoparaser-\nviçosderadiodifusãosonorae\ndesonseimagens;",
+              "IV–(revogado)\nObservação: competência\ntransferidaàCCT(art.104-C).",
+              "RSFnº1/2007"
+            ],
+            [
+              "V – criações científicas e tec-\nnológicas,informática,ativida-\ndesnuclearesdequalquernatu-\nreza,transporteeutilizaçãode\nmateriais radioativos, apoio e\nestímulo à pesquisa e criação\ndetecnologia;",
+              "V–(revogado)\nObservação: competência\ntransferidaàCCT(art.104-C).",
+              "RSFnº1/2007"
+            ],
+            [
+              "",
+              "Art. 104-C. À Comissão de\nCiência,Tecnologia,Inovação,\nComunicação e Informática\ncompete opinar sobre propo-\nsiçõespertinentesaosseguintes\ntemas:",
+              "RSFnº1/2007"
+            ],
+            [
+              "",
+              "I–desenvolvimentocientífico,\ntecnológicoeinovaçãotecnoló-\ngica;",
+              "RSFnº1/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 234,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            567.4159999999999
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "II–políticanacionaldeciên-\ncia,tecnologia,inovação,comu-\nnicaçãoeinformática;",
+              "RSFnº1/2007"
+            ],
+            [
+              "",
+              "III–organizaçãoinstitucional\ndosetor;",
+              "RSFnº1/2007"
+            ],
+            [
+              "",
+              "IV–acordosdecooperaçãoe\ninovação com outros países e\norganismos internacionais na\nárea;",
+              "RSFnº1/2007"
+            ],
+            [
+              "",
+              "V–propriedadeintelectual;",
+              "RSFnº1/2007"
+            ],
+            [
+              "Observação:competênciaorigi-\nnalmente pertencente à Co-\nmissãodeEducação:\n(Art.102,V–criaçõescientífi-\ncasetecnológicas,informática,\natividades nucleares de qual-\nquernatureza,transporteeuti-\nlização de materiais radioati-\nvos,apoioeestímuloàpesquisa\necriaçãodetecnologia;)",
+              "VI–criaçõescientíficasetec-\nnológicas,informática,ativi-\ndades nucleares de qualquer\nnatureza, transporte e utili-\nzação de materiais radioati-\nvos,apoioeestímuloàpesqui-\nsaecriaçãodetecnologia;",
+              "RSFnº1/2007"
+            ],
+            [
+              "Observação:competênciaorigi-\nnalmente pertencente à Co-\nmissãodeEducação:\n(Art. 102, IV – comunicação,\nimprensa, radiodifusão, tele-\nvisão, outorga e renovação de\nconcessão,permissãoeautori-\nzaçãoparaserviçosderadiodi-\nfusão sonora e de sons e ima-\ngens;)",
+              "VII–comunicação,imprensa,\nradiodifusão,televisão,outor-\ngaerenovaçãodeconcessão,\npermissãoeautorizaçãopara\nserviçosderadiodifusãosono-\nraedesonseimagens;",
+              "RSFnº1/2007\nVide RSF nº\n3/2009"
+            ],
+            [
+              "",
+              "VIII–regulamentação,contro-\nle e questões éticas referentes\napesquisaedesenvolvimento\ncientífico e tecnológico, ino-\nvação tecnológica, comuni-\ncaçãoeinformática;",
+              "RSFnº1/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 235,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            550.836
+          ],
+          "cells": 36,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "IX–outrosassuntoscorrelatos.",
+              "RSFnº1/2007"
+            ],
+            [
+              "Art. 107. As reuniões das co-\nmissõespermanentesrealizar-\nse-ão:",
+              "Art.107...............",
+              ""
+            ],
+            [
+              "I–seordinárias,semanalmen-\nte,duranteasessãolegislativa\nordinária,nosseguintesdiase\nhorários:\n.............................",
+              "I-.........................\n.............................",
+              ""
+            ],
+            [
+              "f) Comissão de Educação: às\nquartas-feiras, onze horas e\ntrintaminutos;\n...................................",
+              "f) Comissão de Educação,\nCultura e Esporte: às terças-\nfeiras,onzehoras;\n...................................",
+              "RSFnº31/2007"
+            ],
+            [
+              "",
+              "l)ComissãodeCiência,Tecno-\nlogia,Inovação,Comunicação\neInformática:àsquartas-feiras,\ndezoitohoras.",
+              "RSFnº1/2007"
+            ],
+            [
+              "Art.197.Transformar-se-áem\nsecretaasessão:",
+              "Art.197................",
+              ""
+            ],
+            [
+              "I – obrigatoriamente, quando\noSenadotiverdesemanifestar\nsobre:\n..................................",
+              "I-..........................\n..............................",
+              ""
+            ],
+            [
+              "c) perda de mandato (Const.,\nart.55)oususpensãodeimuni-\ndadedeSenadorduranteoes-\ntado de sítio (Const., art. 53,\n§8º);",
+              "c)(revogado);",
+              "RSFnº18/2007"
+            ],
+            [
+              "TÍTULOVIII\nDASPROPOSIÇÕES",
+              "",
+              ""
+            ],
+            [
+              "CAPÍTULOIDASESPÉCIES",
+              "",
+              ""
+            ],
+            [
+              "...............................",
+              "",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 236,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37000000000002,
+            64.596,
+            408.19,
+            558.1959999999999
+          ],
+          "cells": 21,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "SeçãoII\nDosProjetos",
+              "",
+              ""
+            ],
+            [
+              "Art.213.Osprojetoscompre-\nendem:\n...........................",
+              "SubseçãoI\nDosProjetosemGeral\nArt.213.Osprojetoscompre-\nendem:\n........................",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "SubseçãoII\nDosProjetosdeLeideConsoli-\ndação",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "Art.213-A.Éfacultadoaqual-\nquerSenadoroucomissãoofe-\nrecerprojetodeleideconsoli-\ndação,atendidososprincípios\ndequetratamosarts.13,14e\n15daLeiComplementarno95,\nde26defevereirode1998,ve-\ndadaaalteraçãonoméritodas\nnormas que serviram de base\nparaaconsolidação.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "Art.213-B.Oprojetorecebido\nserálido,numerado,publicado\ne distribuído à comissão que\nguardar maior pertinência\nquantoàmatéria,quesepro-\nnunciarásobreoatendimento\naoprincípiodepreservaçãodo\nconteúdooriginaldasnormas\nconsolidadas.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "§1ºQualquerSenadorouco-\nmissão poderá, no prazo de\ntrinta dias após a publicação\ndo projeto de lei de consoli-\ndação,ofereceràcomissãoen-\ncarregadadeseuexame:",
+              "RSFnº23/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 237,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            561.476
+          ],
+          "cells": 24,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "I–sugestõesderedação,veda-\ndasalteraçõesqueenvolvamo\nméritodamatériaoriginal;",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "II–sugestõesdeincorporação\ndenormasquenãoforamobje-\ntodeconsolidação;",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "III – sugestões de retirada de\nnormas que foram objeto de\nconsolidação.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "§2ºAssugestõesqueenvolve-\nrem alteração no mérito da\nproposiçãoqueserviudebase\nàformulaçãodoprojetodelei\nde consolidação serão dadas\ncomorejeitadas.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "§3ºAsdisposiçõesreferentes\nàtramitaçãodosprojetosdelei\naplicam-se à tramitação e à\naprovaçãodoprojetodeleide\nconsolidação, nos termos do\nquepreceituaoRegimentoIn-\nternodoSenadoFederal,ressal-\nvadososprocedimentosexclu-\nsivos aplicáveis à subespécie,\nconstantesdesteRegimento.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "Art.213-C.Aprovadooprojeto\nde lei de consolidação na co-\nmissão,seráeleencaminhado\naoPlenário.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "§1ºPoderãoseroferecidas,em\nplenário, emendas destinadas\nà correção de redação que\nafronte o mérito da matéria,\nqueserãosubmetidasàdelibe-\nraçãodaComissãodeConsti-\ntuição,JustiçaeCidadania.",
+              "RSFnº23/2007"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 238,
+      "tabelas": [
+        {
+          "bbox": [
+            79.37,
+            64.596,
+            408.19,
+            358.026
+          ],
+          "cells": 12,
+          "conteudo": [
+            [
+              "Texto consolidado em\njaneiro de 2007",
+              "Texto consolidado em\njaneiro de 2011",
+              "Observações"
+            ],
+            [
+              "",
+              "§ 2º As emendas de correção\nde erro de redação julgadas\nimprocedentespelaComissão\ndeConstituição,JustiçaeCida-\ndaniaserãodadascomorejeita-\ndas.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "Art.213-D.Apósaentradaem\nvigor da lei de consolidação,\ndeverãofazer-lheexpressare-\nmissãotodososprojetosvincu-\nladosàmatéria.",
+              "RSFnº23/2007"
+            ],
+            [
+              "",
+              "Art. 213-E. Aplicam-se os\nmesmosprocedimentosprevis-\ntos nos arts. 213-B, 213-C e\n213-D aos projetos de lei de\nconsolidação originários da\nCâmaradosDeputadosemre-\nvisão no Senado Federal e às\nemendasdaCâmaradosDepu-\ntadosaprojetodeleideconso-\nlidaçãoorigináriodoSenado.",
+              "RSFnº23/2007"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

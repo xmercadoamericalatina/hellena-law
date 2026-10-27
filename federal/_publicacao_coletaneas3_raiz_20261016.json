@@ -1,0 +1,228 @@
+{
+  "estado": "aplicado_raiz_aguarda_commit_push",
+  "incremento_documentos": 3,
+  "prova": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/revisao-raiz/aprovacao-raiz3-final.json",
+  "sha256_prova": "e0555938b0da8b019d3fd8925453703836abb7ab7e9bdede07c0b3eba23cb002",
+  "documentos": [
+    {
+      "numero": "5488",
+      "canonico": "federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v2/federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256": "b5f4beb642c175b2a1f43514646cf30271c51b41fc26b2947b82bd309cbb195b",
+      "paginas": [
+        {
+          "pagina_PDF": 155,
+          "pagina_impressa": 121,
+          "PNG_sha256": "fc5247f20d676e4d44cece3db1846e3fbfbbdd8d4e85ecdafd5e35342e1c55db",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 156,
+          "pagina_impressa": 122,
+          "PNG_sha256": "3ea4a5509b9658c6b337a23bc1db8550bd925a67c3f6de86881a020568915446",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        }
+      ],
+      "correcoes_raiz": [],
+      "original_HTML_preservado": true,
+      "v2_preservado": true,
+      "status": "aprovado_raiz_aguarda_aplicacao_commit_push",
+      "normalizacoes_observadas": [
+        "ordinais tipograficos normalizados",
+        "hifenizacao final de linha unida",
+        "tracos longos impressos representados por hifen ASCII no Art1 de4743",
+        "titulos e Art/§ com negrito editorial; variacoes de tinta nao reproduzidas como peso de fonte"
+      ],
+      "limites": "Leitura visual integral dos trechos dos 3atos nas18paginas; nao certificacao juridica nem fac-simile do DOU. Fontes sao coletaneas oficiais.",
+      "sha256_antes": "486123139cf0d6755620fd84d218b1f0b590673fbd9ff89a236222cbdfff247e",
+      "formato_erros": [],
+      "formato_avisos": [],
+      "GFM_caracteres_pontuacao_iguais": true,
+      "identidade_indice_metadados_data_fecho_tipo": true,
+      "ausente_HEAD": "c292fcbf724454c72cfd73100745159b0b782c26"
+    },
+    {
+      "numero": "5515",
+      "canonico": "federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v3/federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256": "ab89bb1d742cdbd841a244da24d089517080256f5bd8feb6a73602dc6115f495",
+      "paginas": [
+        {
+          "pagina_PDF": 175,
+          "pagina_impressa": 141,
+          "PNG_sha256": "0d9e3cd93adeebd01bc5d16c99ce6ff21298c0aeacd8ca04c03528810ca56906",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 176,
+          "pagina_impressa": 142,
+          "PNG_sha256": "1805c1d068b26c17c798c2543a277f730b06b9afc41d7b796bf9e0078fef4a42",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 177,
+          "pagina_impressa": 143,
+          "PNG_sha256": "e0e18399163da15647998a12db7dfe297222dda284b61fa454e407f7f2654747",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 178,
+          "pagina_impressa": 144,
+          "PNG_sha256": "5ae2c9976a34d58b13d2b8892e8d1ab88481b1932222a202bae918ecc1f65783",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 179,
+          "pagina_impressa": 145,
+          "PNG_sha256": "8072f9bf62aec5aa618cd08b49e70bfc3ba018ca06c3e446b08f60086d5c0212",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 180,
+          "pagina_impressa": 146,
+          "PNG_sha256": "c72ae0fad35cabd77a4b85bacc7e733438f8cffa5129e035f3f6c314df0b4b03",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        }
+      ],
+      "correcoes_raiz": [
+        {
+          "antes_v2": "procedente o corpo de delicto, quando",
+          "depois_impresso": "procedente o corpo de delicto. quando",
+          "pagina_PDF": 176,
+          "pagina_impressa": 142,
+          "criterio": "leitura visual independente raiz; preservar impresso"
+        }
+      ],
+      "original_HTML_preservado": true,
+      "v2_preservado": true,
+      "status": "aprovado_raiz_aguarda_aplicacao_commit_push",
+      "normalizacoes_observadas": [
+        "ordinais tipograficos normalizados",
+        "hifenizacao final de linha unida",
+        "tracos longos impressos representados por hifen ASCII no Art1 de4743",
+        "titulos e Art/§ com negrito editorial; variacoes de tinta nao reproduzidas como peso de fonte"
+      ],
+      "limites": "Leitura visual integral dos trechos dos 3atos nas18paginas; nao certificacao juridica nem fac-simile do DOU. Fontes sao coletaneas oficiais.",
+      "sha256_antes": "c024a7c1517c152f42592cc7f20dd4be5d433e23114d57e1250635258211046a",
+      "formato_erros": [],
+      "formato_avisos": [],
+      "GFM_caracteres_pontuacao_iguais": true,
+      "identidade_indice_metadados_data_fecho_tipo": true,
+      "ausente_HEAD": "c292fcbf724454c72cfd73100745159b0b782c26"
+    },
+    {
+      "numero": "4743",
+      "canonico": "federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "candidato": "federal/_fonte/auditorias/dpl3-coletaneas-integra-20261016/candidatos-v3/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256": "7ec389bc3b30be1044f169bfb77f3419d34f559e8b40b70aec923c413e23d9e3",
+      "paginas": [
+        {
+          "pagina_PDF": 188,
+          "pagina_impressa": 167,
+          "PNG_sha256": "54314ea26ac95818d2d1974db06699462a7af574adb9266883217153017c99d1",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 189,
+          "pagina_impressa": 168,
+          "PNG_sha256": "d03ddf8764ba7a715addecc1346f17044f7a3016ceff63932bbb9d78d8d2fb43",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 190,
+          "pagina_impressa": 169,
+          "PNG_sha256": "6760aa60e55a9ea74acbfe412bc0d2557388d0324de0b8f59e7b951b8c3b4c91",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 191,
+          "pagina_impressa": 170,
+          "PNG_sha256": "f22800d0be4eb71849b3bb577bdb82823c98ea87c263cb99761ad0bbc87a0303",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 192,
+          "pagina_impressa": 171,
+          "PNG_sha256": "5e805ab7f655a639bef6ee02eb5375d77980736c80db656deff6f66743b88b43",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 193,
+          "pagina_impressa": 172,
+          "PNG_sha256": "b60f24c659695ab6a5799cf89be46cdfcc48dc31b4addc6eb34e7b6c8bd5c924",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 194,
+          "pagina_impressa": 173,
+          "PNG_sha256": "09893146c037504ae476ca5b0b9dac12848b2549f1001d92d8a09c97cf1edab4",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 195,
+          "pagina_impressa": 174,
+          "PNG_sha256": "3a2b849f1ac766f3622d4eb62721adc9601731188fb332c398d086b3c8c5d033",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 196,
+          "pagina_impressa": 175,
+          "PNG_sha256": "d8b4391957af9b3cd2bd9a2fa4485735ef034a2f341394b0f3124f13d29c3554",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        },
+        {
+          "pagina_PDF": 197,
+          "pagina_impressa": 176,
+          "PNG_sha256": "08c59e6f9729d480fa1a45bf4d7c7e1cca400604c3b8c5792334500d20fd1120",
+          "render_original_derivado_identico": true,
+          "leitura_visual_raiz_trecho_integral": true
+        }
+      ],
+      "correcoes_raiz": [
+        {
+          "antes_v2": "com o prazo dez dias",
+          "depois_impresso": "com o prazo de dez dias",
+          "pagina_PDF": 194,
+          "pagina_impressa": 173,
+          "criterio": "leitura visual independente raiz; preservar impresso"
+        }
+      ],
+      "original_HTML_preservado": true,
+      "v2_preservado": true,
+      "status": "aprovado_raiz_aguarda_aplicacao_commit_push",
+      "normalizacoes_observadas": [
+        "ordinais tipograficos normalizados",
+        "hifenizacao final de linha unida",
+        "tracos longos impressos representados por hifen ASCII no Art1 de4743",
+        "titulos e Art/§ com negrito editorial; variacoes de tinta nao reproduzidas como peso de fonte"
+      ],
+      "limites": "Leitura visual integral dos trechos dos 3atos nas18paginas; nao certificacao juridica nem fac-simile do DOU. Fontes sao coletaneas oficiais.",
+      "sha256_antes": "5fc9c048949492ee50f56ec99a95d8513f3b13c0bdf935b0e838726224e2baa8",
+      "formato_erros": [],
+      "formato_avisos": [],
+      "GFM_caracteres_pontuacao_iguais": true,
+      "identidade_indice_metadados_data_fecho_tipo": true,
+      "ausente_HEAD": "c292fcbf724454c72cfd73100745159b0b782c26"
+    }
+  ],
+  "v1_v2_preservados_nao_canonicos": true,
+  "fontes": "coletaneas oficiais Imprensa Nacional digitalizadas pela Camara; nao identificado como fac-simile DOU",
+  "originais_PDF_incluidos": true
+}

@@ -1,0 +1,2736 @@
+{
+  "escopo": "Recuperação offline de tabelas perdidas no conversor legado. Nenhum MD canônico alterado; cabeçalhos legados preservados, não certifica vigência atual. Retidos são pendências de revisão contextual, não prova automática de ausência normativa. Arquivos já modificados desde o snapshot não reescritos nem retidos novamente.",
+  "publicaveis": [
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1482-25-1996-07-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-07-04;1482-25",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1482-25-4-julho-1996-359770-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/b9bd30a7084477b548e96823a991f2f56a95312f6448703cd23076a0637a542b.html.gz",
+      "sha256_fonte": "2064e483c2a785a1cb9d169ac565ab4354096dde657a13ef3fbaacda8ee0c94f",
+      "sha256_md_publicado": "969926d89de99f6de76b6839e609a25624a61a02ceb3f27b60bc0f4a2b85ca65",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-25-1996-07-04.md",
+      "sha256_candidato": "d6b6d2da7ed0be077693dd7f1a62be476e12fb268475a9a8be8942c98ca87959",
+      "epigrafe": "medida provisoria nº 1.482-25, de 4 de julho de 1996",
+      "fecho": "brasilia, 4 de julho de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1482-27-1996-08-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-08-29;1482-27",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1482-27-29-agosto-1996-359772-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/81c38b589257829d8c67246966ab2d220545a1511e72764254e6198c6c1d9903.html.gz",
+      "sha256_fonte": "2cd84739878ad72d1f9c6c9f8facd1b749ad432f95535a45091ca9c93d8e7986",
+      "sha256_md_publicado": "d249d7c8de58388ce398898409503194fc0dcadc043bc6f8e8fe62e5a6a415fb",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-27-1996-08-29.md",
+      "sha256_candidato": "4762d3476fdbafb7ba179ebcae48186166822a15e8d87574e5f2561a7035d63b",
+      "epigrafe": "medida provisoria nº 1.482-27, de 29 de agosto de 1996",
+      "fecho": "brasilia, 29 de de agosto de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1482-28-1996-09-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-09-26;1482-28",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1482-28-26-setembro-1996-359773-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/4dab690e830eaf4b029b4f4677278fa67838f1485a68b881c6cfe85e29a0b866.html.gz",
+      "sha256_fonte": "7a4f7e5b1b645b2986d0192b5804bfa5996a3babe676db64000b924bfc385b62",
+      "sha256_md_publicado": "041aaae517001ba987a34d88ae29d8e87b8c8111480d96f1d54d12e441d04a2e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-28-1996-09-26.md",
+      "sha256_candidato": "5680bf0e7d1d10e6ce338171e18ae278a5227ef6fa424e272ea34e9f9a3a7d3a",
+      "epigrafe": "medida provisoria nº 1.482-28, de 26 de setembro de 1996",
+      "fecho": "brasilia, 26 de setembro de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1482-29-1996-10-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-10-24;1482-29",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1482-29-24-outubro-1996-359774-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ee6d0681720775cf93263196d28000518f6813d8fb64666fc94615e1ae97520f.html.gz",
+      "sha256_fonte": "4cfcb20a1c4f76a13d6c5bfd2e37469ac9e9aceef5e4a5d28ac800cc5340d9a9",
+      "sha256_md_publicado": "802e4a3d7d22b6bfd278e6318e2b870ca5034d1ed376ac663301a53407b75340",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-29-1996-10-24.md",
+      "sha256_candidato": "e37ec68d56bb8c61c038d68a552cf0beb0c7bb1e414cea7a2cba88b653f28767",
+      "epigrafe": "medida provisoria nº 1.482-29, de 24 de outubro de 1996",
+      "fecho": "brasilia, 24 de outubro de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1482-31-1996-12-19.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-12-19;1482-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1482-31-19-dezembro-1996-359776-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3454be26fe485c73b434f81a352b314fa869c2c5b8fdcd3a03fb90a5edca2a98.html.gz",
+      "sha256_fonte": "18e24d922bd0d0ae8eb77b1d8770f98b9a12fc474b2887ce603420449ba261a5",
+      "sha256_md_publicado": "de1994b88e0c6215287ed6746a695870678d99de10952b87fac5bc23b8b583a5",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-31-1996-12-19.md",
+      "sha256_candidato": "e99226b34f7655c2688d60c3b35cb936869c024538b20c53b66dad52f224f477",
+      "epigrafe": "medida provisoria nº 1.482-31, de 19 de dezembro de 1996",
+      "fecho": "brasilia, 19 de dezembro de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1488-17-1996-10-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-10-31;1488-17",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1488-17-31-outubro-1996-359839-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/872ba3711d7b6c88cfcbd2178c2514bfadb0859f73f0d0877683e7aaa08815f9.html.gz",
+      "sha256_fonte": "55231dd86721f07d7f39cc89fa7520dc4634fe70ba883cb32dd0770f82363daa",
+      "sha256_md_publicado": "a04de8ef463adc07231067c2caa3a351d3fa8f145cb70d0c7d9c21998db84528",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1488-17-1996-10-31.md",
+      "sha256_candidato": "1cbf6a4c9887e4f1742376a84ba162b3439202222f1c4d585fe1a3fd121b323f",
+      "epigrafe": "medida provisoria nº 1.488-17, de 31 de outubro de 1996",
+      "fecho": "brasilia, 31 de outubro de 1996; 175º da independencia e 108º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1482-41-1997-10-09.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-10-09;1482-41",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1482-41-9-outubro-1997-359785-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f77f5b20e456b2679c86b062f3cb22ce6b77cf0e56505830e36bea8ef01ae8a3.html.gz",
+      "sha256_fonte": "7edeee5bf2fa27322b22c32179372f7548f6521e770d082c7c01013067dc9f36",
+      "sha256_md_publicado": "2c3632ec2d8da39ac82c7974d7495d02d947e6ed4236f0cf93049c21f9f5bb3f",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1482-41-1997-10-09.md",
+      "sha256_candidato": "5b11df9d3cdb2773c3091862e10617a6666ee41d1f3f72937f51818dcc6f1535",
+      "epigrafe": "medida provisoria nº 1.482-41, de 9 de outubro de 1997",
+      "fecho": "brasilia, 9 de outubro de1997; 176º da independencia e 109º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 16,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1537-34-1997-01-16.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-01-16;1537-34",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1537-34-16-janeiro-1997-359619-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3b642ba7a04d075cacb9b92ed515ab2faf5c5f5257b602a79a42bac5efde0d99.html.gz",
+      "sha256_fonte": "3f8400afdccff50075d9eb4c5284561e422ea647c629e356cbc1351a779ea1d6",
+      "sha256_md_publicado": "12e76517af373fec5f362176336636566216785110a0f20f4538d698a2a7a681",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1537-34-1997-01-16.md",
+      "sha256_candidato": "39765c06bc7e97079158ab5890b96f0ad910ddfc8167abce7de3fce12835f907",
+      "epigrafe": "medida provisoria nº 1.537-34, de 16 de janeiro de 1997",
+      "fecho": "brasilia, 16 de janeiro de 1997; 176º da independencia e 109º da republica.",
+      "tabelas": 8,
+      "tags_estrutura": 40,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1560-8-1997-08-12.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-08-12;1560-8",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1560-8-12-agosto-1997-374948-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/09ad2e4cebfcbb94dba1dec3da394f7afd46b6ab2028e9936a07aa264f0adfca.html.gz",
+      "sha256_fonte": "5b87a9d2ca36a53710748046e5594cc4dd17975d54d4d2b241a614af48247b4b",
+      "sha256_md_publicado": "dbcd9679a5903f8f0fa2a743e893f141958f30a06b870750d297b31c727d04b7",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1560-8-1997-08-12.md",
+      "sha256_candidato": "e7521a648b643263496f25ba951f2d60e778598683628a58320da0446d624cd7",
+      "epigrafe": "medida provisoria nº 1.560-8, de 12 de agosto de 1997",
+      "fecho": "brasilia, 12 de agosto, de 1997; 176º da independencia e 109º da republica.",
+      "tabelas": 14,
+      "tags_estrutura": 70,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1607-15-1998-03-05.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-03-05;1607-15",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1607-15-5-marco-1998-367895-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/35ec7223500468a812cf893d7295e9b0f7f7b084c7f50e314fa1470d1f16a5e7.html.gz",
+      "sha256_fonte": "44d5f913fe6beff833ec9fadb7a0bcea2bd7b8d6e4775674439732dfae657527",
+      "sha256_md_publicado": "b04664547182947e2d1bf81904e8f894e6613b00083f973f5626bcbe5dcf18d9",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1607-15-1998-03-05.md",
+      "sha256_candidato": "91a3eac2469fc26c5425fd1e60fa4cd82612d48885f0901eaf7d798e41e56cda",
+      "epigrafe": "medida provisoria nº 1.607-15, de 5 de marco de 1998",
+      "fecho": "brasilia, 5 de marco de 1998; 177º da independencia e 110º da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1650-18-1998-05-05.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-05-05;1650-18",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1650-18-5-maio-1998-366557-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a748b4f5bd2366d5fe25f316fb84b5cf56dd6288a34137f79213f75974fe8e93.html.gz",
+      "sha256_fonte": "e4c67eaad30e6be0584ddc2db7acb56454d478f16928406bfd61def7692fbc9e",
+      "sha256_md_publicado": "0387ac872d6ac52a9652aa524c26f14cab11396f7b57bb3bfc7cf8241a79ed20",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1650-18-1998-05-05.md",
+      "sha256_candidato": "66c1a2fec2ce17a4fc1002fda622944cfe22d385968bbd723065dcd39bdadf93",
+      "epigrafe": "medida provisoria nº 1.650-18, de 5 de maio de 1998",
+      "fecho": "brasilia, 5 de maio de1998; 177º da lndependencia e 110º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1727-2-1999-01-07.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-07;1727-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1727-2-7-janeiro-1999-369307-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/72f00f79fd905546bcc2b3af44d79864092fdea2913629d5eac817fca0d4b1de.html.gz",
+      "sha256_fonte": "4d0e2dd4aeb1ede509a1702b47669538888561aecc4c49e56a6f1117b40a784a",
+      "sha256_md_publicado": "0f964c69878c2ab08de5c8dd3af18bc5ca7cc224c1252baca0d5cb95f43f015a",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1727-2-1999-01-07.md",
+      "sha256_candidato": "9dddfecae6969c7af304e8743c4d300f66cf217c69bdde89cc5b5a661472de1d",
+      "epigrafe": "medida provisoria nº 1.727-2, de 7 de janeiro de 1999",
+      "fecho": "brasilia, 7 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1733-59-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1733-59",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1733-59-11-marco-1999-370271-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a22c6ec0813c77cbae087191db1fa0da365a2138bf42cb1db4b370979b2e609e.html.gz",
+      "sha256_fonte": "551eac66344d050360436cf07cd8eb80780a39b7f300d14ac1130f0f44318d62",
+      "sha256_md_publicado": "764029805de7ec0a358ad04460f80e34c07b174da8c12e3471db045735122b2f",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1733-59-1999-03-11.md",
+      "sha256_candidato": "1993f0fff83543fdcf6ebbff812efab7e16e1ce80f650f550cd51c4a143f80e5",
+      "epigrafe": "medida provisoria nº 1.733-59, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1733-60-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1733-60",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1733-60-8-abril-1999-370268-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/9cc69a8c2cf433b6dcf7ea5cae46036f07f075f029c7b8a22864a0ad50139722.html.gz",
+      "sha256_fonte": "5cae11a92349630b94bd4fc2e1bd7877a9035f2285723fcc41bc1dfae685147a",
+      "sha256_md_publicado": "9eeb086a252cf459a9f709b125cf4cf422b868630494201212b972d414c6913b",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1733-60-1999-04-08.md",
+      "sha256_candidato": "f602ca057a3d6248f812309ee9138a11222db8dc762eb8623dcbac3642486376",
+      "epigrafe": "medida provisoria nº 1.733-60, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1733-61-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1733-61",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1733-61-6-maio-1999-372480-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d6d1499ac208b6667f33ae601b4815b0c80f7ab4ab0af57b871eeb76369acb0e.html.gz",
+      "sha256_fonte": "1ccecc7a89c01cc880d0534584d8a530d094e3c30b6d2b3dfe673a423c6b3c58",
+      "sha256_md_publicado": "3d17a9394abe3a30ef3cc9f601d3ebd627a61dd7965a453300d434741d7c510e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1733-61-1999-05-06.md",
+      "sha256_candidato": "3341e72cb1f56513f977d3e3bf5bfb6bb1c7ffec084600d4723d93e942b61caa",
+      "epigrafe": "medida provisoria nº 1.733-61, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-23-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1734-23",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-23-13-janeiro-1999-322263-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/46f7333ddbb942f805dd4e86dbebdf50b990549c492e5fb3fb83558e3470ca8e.html.gz",
+      "sha256_fonte": "5bb54743d6dcc715a8a0080bbf273b2c4ec0bdfc330332efa15b31885baa01b4",
+      "sha256_md_publicado": "b4f0605cb166d2fe659b49f7a1577daff01696511d87237683c4356dea6f05f2",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-23-1999-01-13.md",
+      "sha256_candidato": "23ae42f1118f3cc433cd21ae432a09fd4b19a437a0f71adeec12196111406dc4",
+      "epigrafe": "medida provisoria nº 1.734-23, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-24-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1734-24",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-24-11-fevereiro-1999-322262-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f94451d22dd7ed34bd86f811c0835b8c610bb170a7505e54b8fcf2f4d5da06b3.html.gz",
+      "sha256_fonte": "e77d46c6bf78c7ecedd0a1993f99e11a0af85203aee021048f0c358ad1ac979c",
+      "sha256_md_publicado": "70267545f4a484fcce292d20042be6a49b985b95ec413253d684d2bb52c9a33a",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-24-1999-02-11.md",
+      "sha256_candidato": "d4f3c7d117ca32e0bc8125448b12ca050ec86a7a372b563351a597542a57a442",
+      "epigrafe": "medida provisoria nº 1.734-24, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-25-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1734-25",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-25-11-marco-1999-370274-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5ea52fca52829ef9b85bcfe2c235e666e1b9fd516b734c2b4d62887bcb13a7a6.html.gz",
+      "sha256_fonte": "c8beb457a28bbb3d8a1f1249c05c0e1917df3270cf1439b5ac11436b9b52eeb1",
+      "sha256_md_publicado": "0de085afcd10bba6ee477b4d3e086e14caec59e986c02580c4f9928600455985",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-25-1999-03-11.md",
+      "sha256_candidato": "80835da4a2159b1a665e723db9494d7599e452559df822fd45bb9357103d2a29",
+      "epigrafe": "medida provisoria nº 1.734-25, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-26-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1734-26",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-26-8-abril-1999-370273-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/bb2284baaa4282fe9f1d396073288225f56f869d5d077e7a693e8bc89da5e233.html.gz",
+      "sha256_fonte": "c54e5c8d0cfd5fec6d3b706499ca79bd63d132d9887adf5476247347048a3eba",
+      "sha256_md_publicado": "f27f32871a27f55b96d9df6ff1de5b57a16c95f28c680d2aadc412ab3f0243da",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-26-1999-04-08.md",
+      "sha256_candidato": "c95ebcb542db160c97db5e5229dde3f543e900d849380e02c2c5491de477a3de",
+      "epigrafe": "medida provisoria nº 1.734-26, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-27-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1734-27",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-27-6-maio-1999-372481-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5a859a4ef07dc71a7e6c32749c52530df04ebb37cfd13bcb89f487404354af6c.html.gz",
+      "sha256_fonte": "dc4015d02a9b2a5709020f37bfffc6bf3bda0c082cc1f89bbba3ebc94ce74fa6",
+      "sha256_md_publicado": "cbaa2c98356ddeb6a6fb79fe5ee86c934312acb90945286eb90568ab8ce11878",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-27-1999-05-06.md",
+      "sha256_candidato": "1cfa215aa96281b4ea0b3445e0aa43ec2c17b46b9f8ddbca2d4fdedf493300ce",
+      "epigrafe": "medida provisoria nº 1.734-27, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1734-28-1999-06-02.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-06-02;1734-28",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1734-28-2-junho-1999-372667-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ecd5f9048652829e9ae1b21af8d427011929b57efd29fb5d7586cef751d2a7aa.html.gz",
+      "sha256_fonte": "26c52c3f0a2f35c3b9a8c9721e687b1f867ad5260bf07a8afe3ed0c8d2bfefc5",
+      "sha256_md_publicado": "19332f4328139be9dca9298bd6b771b79227b5011dae4e2c1bfc0209486ab1c6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1734-28-1999-06-02.md",
+      "sha256_candidato": "24446d3a454c1599a511b3344216bf77686f1e5d1b7175e579539debfae2e805",
+      "epigrafe": "medida provisoria nº 1.734-28, de 2 de junho de 1999",
+      "fecho": "brasilia, 2 de junho de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-27-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1740-27",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-27-13-janeiro-1999-344908-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d833b5c4aa257869abe3bc1794268937008eb51ac1bf4be0a29c4d4f67faca6a.html.gz",
+      "sha256_fonte": "9502c7eb98659f8033247ce488bc673ac87e29b99e503fdd930653b36538fa61",
+      "sha256_md_publicado": "44d9dc9dfc7f3f95d481d7f4ed4da764afa196e9bac3245a107bf100f3c3d138",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-27-1999-01-13.md",
+      "sha256_candidato": "d13b45fa23c57d890ed9a6bc339d6eb6d6512833271664743d186d051f66c265",
+      "epigrafe": "medida provisoria nº 1.740-27, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-28-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1740-28",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-28-11-fevereiro-1999-341248-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/cacb25e89fb2764c608314e9a68432a0658b7dc277717741cdbd1749f841ffab.html.gz",
+      "sha256_fonte": "7c3100985b09f5285f66d48e34560bdf4ce582fac3f8e0a416f8b20b6ee34f7e",
+      "sha256_md_publicado": "c770ee803437f792bcbb5f74eb52f691ca040803b5a6d6b6ba2c39231f83cb26",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-28-1999-02-11.md",
+      "sha256_candidato": "d83b7287a3f19a62c032d09b092a7fe7ddc8dcfc94b5e5295ef5661b9101acfb",
+      "epigrafe": "medida provisoria nº 1.740-28, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-29-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1740-29",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-29-11-marco-1999-370332-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1884f7bdd8193a6b2beeb14f1c8b7baf8c7870fd9c78b04bd6fbe3193383d420.html.gz",
+      "sha256_fonte": "393a73b0839bb1ea9be4b52532e8f01de7c49dda88156004ae7ac3f9768fcfc5",
+      "sha256_md_publicado": "207eb5f16810060dc192a69e6ca2a658a0b0e5489549a21ba305e63716468558",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-29-1999-03-11.md",
+      "sha256_candidato": "3406b10d7ff07bc8f8325c1ec968c28045c5640f84b023d432c87a043ab29580",
+      "epigrafe": "medida provisoria nº 1.740-29, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-30-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1740-30",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-30-8-abril-1999-370331-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/76df1643e7fcab26e5951c7c977b0358d38d088114a7a11e5b38f2b2d0d80c36.html.gz",
+      "sha256_fonte": "f869f8e8416db946dbaca16915cf74c82997c52c6f1a2e1018be3f2bf648aa78",
+      "sha256_md_publicado": "f75b859c1aff5a9d5a8fd5dce0f615195d9ba8860a37777ddc6a7f046907122c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-30-1999-04-08.md",
+      "sha256_candidato": "5183faba18a48c13ae0a77ac54565a1e5eda6bbd4f162839e2bfb41fff163d3c",
+      "epigrafe": "medida provisoria nº 1.740-30, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da lndependencia e 111º da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-31-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1740-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-31-6-maio-1999-372487-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/57e29481db31c9c83c8ceca69d8c0e3dd7a8adb978f4ac59940c0d7905006943.html.gz",
+      "sha256_fonte": "98c2c8acee2bf1a908736acaac5f2193e868662d06d709833bc3af8f2fa93bc7",
+      "sha256_md_publicado": "5a7a8b573cfccaca7383210e10c5f26f7e76e5ae8a8106b52495cda9aceabeaa",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-31-1999-05-06.md",
+      "sha256_candidato": "036f1b1eb75eec5fe83d6d4312b5da7263767c7df90ef114a5c5069c5b7ef6ea",
+      "epigrafe": "medida provisoria nº 1.740-31, de 6 de maio de 1999",
+      "fecho": "brasilia, 6 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1740-32-1999-06-02.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-06-02;1740-32",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1740-32-2-junho-1999-372673-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/0a34883d545a89b4630825f4392146bc7295fb778b389fe1ea082ea0e8c8bc2d.html.gz",
+      "sha256_fonte": "89b678a27aa59930391354aecc9e56f908344efe43ca7be35d32477b0034964b",
+      "sha256_md_publicado": "348670e10b3f7f4175c82bad5b58d56680d250776f0fb173fbaa86811a1e2cf6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1740-32-1999-06-02.md",
+      "sha256_candidato": "e0b1150d0bacfb9be9756795af453789cfb81c1bd5c968adec30b72c99d42ac4",
+      "epigrafe": "medida provisoria nº 1.740-32, de 2 de junho de 1999",
+      "fecho": "brasilia, 2 de junho de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-37-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1741-37",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-37-13-janeiro-1999-322276-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/928a209c0863a5d2ca636663f9fc8ecbc92edc2fdf66b8dde8f071317d658337.html.gz",
+      "sha256_fonte": "be1f7523843cef1779fd977c42bc3e72648b59df276a99fedf4b44a2199fea8a",
+      "sha256_md_publicado": "2d05c940ee663263c9759b29dc5a33d0ace01e86355e3874f38640cb8314c25e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1741-37-1999-01-13.md",
+      "sha256_candidato": "788f1f2925a0e54ec0bc986aaa1b0631b72f1f05102c7d3c0ad4b4a22c8859d8",
+      "epigrafe": "medida provisoria nº 1.741-37, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-38-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1741-38",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-38-11-fevereiro-1999-322275-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/4168198a38cd9f2b0ffc3e970c2105ccbd6d7ff96e9a0adc23c6675527f45d68.html.gz",
+      "sha256_fonte": "6e488cbf1e6109e1892c55c3255cf7879d0eb5ff1969937d3f4d6adc0787416d",
+      "sha256_md_publicado": "af6b7aa4a9d823e4f7c224ab51751b7844d2f686b61cc5887f6d7f182c419e38",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1741-38-1999-02-11.md",
+      "sha256_candidato": "6b36aabf5004ee4d8253ab9d7ed806416d3a61f9c4626df24ac2851454485d92",
+      "epigrafe": "medida provisoria nº 1.741-38, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-40-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1741-40",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-40-8-abril-1999-370334-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/9205164596b533f0cc5a8890b7db391f989cd94db5d29ecd2b78f4c8e3c6753d.html.gz",
+      "sha256_fonte": "eb6c8be5a44fb2594d12c9fb78976230825e8666733a45e9ea74890824cb41e3",
+      "sha256_md_publicado": "413272eb8e13b7f247eeed74a38ef2338d0fdb8db56c15fd92556dac9e110c8e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1741-40-1999-04-08.md",
+      "sha256_candidato": "7bee8f6e3c16da07a52f398d5977872e62f396a63260dc0b120f72da0d3e3fcd",
+      "epigrafe": "medida provisoria nº 1.741-40, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-41-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1741-41",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-41-6-maio-1999-372488-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/dfedcfc1dbb7d23670b95b17eb20a6f78f89723d5c22636c762e88acdd73ef92.html.gz",
+      "sha256_fonte": "b3f6a6f530ec3138c3f3a4830c76020221f7786e9354f76550794ebf08ffc336",
+      "sha256_md_publicado": "08d2bb5508afeeefdf5e11dfdc2b6fd2bde4c51bca60747d77fb51253278d079",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1741-41-1999-05-06.md",
+      "sha256_candidato": "b84f3d14fe84936aa84a9d1701aedbe0a2112c9c92f14eb6b5cb1bd1554f1102",
+      "epigrafe": "medida provisoria nº 1.741-41, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-42-1999-06-02.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-06-02;1741-42",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-42-2-junho-1999-372675-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/967814d6085bdc37693b9940e0602fe1bb76995dd4333b3cfb4c5e5162afb12c.html.gz",
+      "sha256_fonte": "ce1c25c4605486fc6585f3c653efb0c82d183ab9d2b4accda35cf8609173a7b3",
+      "sha256_md_publicado": "6bb2fbb42b0bdf752ea777393a9615f31670b00f0277d4b38aabab23b74ab3d4",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1741-42-1999-06-02.md",
+      "sha256_candidato": "aeeab8eb2825ba562373af31d34c2b1528f7f0e26274f872ecc280e0b45fc58d",
+      "epigrafe": "medida provisoria nº 1.741-42, de 2 de junho de 1999",
+      "fecho": "brasilia, 2 de junho de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1753-14-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1753-14",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1753-14-13-janeiro-1999-369383-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a23324a2bad47cabb5d5b863bdca8d1a39d226ca0a97bf886c41ef8321019c8b.html.gz",
+      "sha256_fonte": "5982533032315da001e1c28524cd2813065d8aa3c28a78a9ac8e6c983eb8356d",
+      "sha256_md_publicado": "406c10ab3681dd3638eab29afd364cca4e56bd252c4948e6a7ff5dbc8ef9cdec",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1753-14-1999-01-13.md",
+      "sha256_candidato": "532b86edfcb12d59e1ab3f6f05974caf7aca9e2215322a6184d1ca9fdabbf249",
+      "epigrafe": "medida provisoria nº 1.753-14, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1753-15-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1753-15",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1753-15-11-fevereiro-1999-369382-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/38aefbb14d1436b873bf015aeab80674958c64f50dd4d1fdea503455773fc40c.html.gz",
+      "sha256_fonte": "07401b5c4e96c87d92c0a05f869348c1041b5444155e4988c2ad2fc767ecbbe2",
+      "sha256_md_publicado": "254d3cb3879c7aea9ed2a9a1d3cff4c1c05f57127beb4d007e1f917366dd1f19",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1753-15-1999-02-11.md",
+      "sha256_candidato": "39b566c46ddd6c933d4ea783054ee8e66fc68d2dade96f4cb38ed67d3555c6fd",
+      "epigrafe": "medida provisoria nº 1.753-15, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1753-16-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1753-16",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1753-16-11-marco-1999-370372-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c62eb14a15ab011c25be2f6219281de7198384bbc83a4a1dc1696ec6ead11c96.html.gz",
+      "sha256_fonte": "4e9276fe2178d1f4845912021dac99c6893f342a573dfc252d21909cdd59a4ef",
+      "sha256_md_publicado": "f886f6f9a84c43442ef0b0e18c06b95558dad7d6c4647062b7f2a88cbad95341",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1753-16-1999-03-11.md",
+      "sha256_candidato": "9c66a71b5df6eeb141d3bab27e81407881f14ca7fd398c62b2caa93f7a05e663",
+      "epigrafe": "medida provisoria nº 1.753-16, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1753-17-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1753-17",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1753-17-8-abril-1999-370371-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7aa749fc62037adbd9e750d4dedf3eb3440b1da0b6387885eda820b0ce0e1424.html.gz",
+      "sha256_fonte": "fa20a1123706eeb8efe7f140a02acc7cabdbc75bc443f982d4801579b79d079d",
+      "sha256_md_publicado": "c32ac7736ced61edd9133626a67b4fbcf18e53bfe93ad1f579c8ece8b2edbdbc",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1753-17-1999-04-08.md",
+      "sha256_candidato": "992ef3975adc34b2147bcf060e04b47e069bb8ed5ac95c70992098ed0dde15da",
+      "epigrafe": "medida provisoria nº 1.753-17, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1753-18-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1753-18",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1753-18-6-maio-1999-372694-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/11c802ce10ade9376a4c7eb7ce0ff15353e95bd5d6ec4a7c8d8660ad97436d84.html.gz",
+      "sha256_fonte": "c2a794b05a1b0b828c8f09167ae40686a0e7576fc1505691218f7b23461ec2ef",
+      "sha256_md_publicado": "202da811ee4175317d54cc8f33981ad3b1485367a8362380f23f25f3a70cfd03",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1753-18-1999-05-06.md",
+      "sha256_candidato": "be265dd807342751f81004ab47736138170c9848cef4e981a0aeaf710293318c",
+      "epigrafe": "medida provisoria nº 1.753-18, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1755-10-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1755-10",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1755-10-13-janeiro-1999-369387-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ac7577477c4c460d19a52bf46fc2dc8a3b252579dd9fde4c32d331ff17a60dfb.html.gz",
+      "sha256_fonte": "772cf230583ba3f55b4afba352f5c4450ae11dc1ba4b268cc72bac4be3f68898",
+      "sha256_md_publicado": "7c9233773cb23fcabfd171892ef29cda620193b0d8cfddee3e5b237a54399cb0",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1755-10-1999-01-13.md",
+      "sha256_candidato": "4c08a9e28464bedc1c6cebd01ad5c5bf96bd8623249d950a2808b45d82d31e2f",
+      "epigrafe": "medida provisoria nº 1.755-10, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e l11º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1755-11-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1755-11",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1755-11-11-fevereiro-1999-341258-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c2cc94deb10e19667a0df76f10f65658d0c11e57436afd57d38b83465a9ef9e2.html.gz",
+      "sha256_fonte": "6acba32d2d7199179e8b015b61de70e79d24d63e24c78719ef34907048dd79e1",
+      "sha256_md_publicado": "b58a2f34d86237dd2b93f6949acb5b57838b9c1e22529080d09aa279aefe2a4d",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1755-11-1999-02-11.md",
+      "sha256_candidato": "02f6194261e2e58c946afa146163f461cc85aa93ba4508dcf35a3f39ae5ece61",
+      "epigrafe": "medida provisoria nº 1.755-11, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e l11º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1755-12-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1755-12",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1755-12-11-marco-1999-370379-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f54a5bebcc23bbc6587fa7c82acf0b7c9821cff6c896abd385ad63fee894b0a4.html.gz",
+      "sha256_fonte": "8af1f0264c061bc864795f7226384357db080ba9ba57a82814ab21549b0eacf0",
+      "sha256_md_publicado": "b71114931b24adf657b4b4a43117e8df392040911c061eef4288728b872c03c8",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1755-12-1999-03-11.md",
+      "sha256_candidato": "f2624b7919a4d97762d4f36eb5302b1a047f373a9fe8d06d1ef316f21ffb3efc",
+      "epigrafe": "medida provisoria nº 1.755-12, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1755-13-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1755-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1755-13-8-abril-1999-370378-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1ad65d28fbf63b2909a5e2ea78d58ebdad00d056148310050a2179dd28f54d2c.html.gz",
+      "sha256_fonte": "4d9ef35ef40e0afd508e88c64b30a440005e2b4de9f0cec851c218c43d0b3992",
+      "sha256_md_publicado": "9ac722d267b1fa5abd1c32d8090e078e9a6ca8d24fca778a9f535fd484f84745",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1755-13-1999-04-08.md",
+      "sha256_candidato": "76631ff6b33f1fc5980219e86be927ab928ca2d45225bbf69f7a743632384d58",
+      "epigrafe": "medida provisoria nº 1.755-13, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1755-14-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1755-14",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1755-14-6-maio-1999-372696-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/44e0ecb9d34d7ff4e33a993af0b3e6f2d260bc66dc27ffd2107d09cd3bbdc750.html.gz",
+      "sha256_fonte": "1d820b21ceb32f2c036c16da7960a2fec4e9a77dbf728ab6ebe337684195ac96",
+      "sha256_md_publicado": "df8f59340442a268c2456b6ede59c1a5bba7211c3176a9f748562371b3836488",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1755-14-1999-05-06.md",
+      "sha256_candidato": "c604a154e83f41524ac45c7d8480051205dacaa5063130e148d32c0b3a9ba34e",
+      "epigrafe": "medida provisoria nº 1.755-14, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1756-10-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1756-10",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1756-10-11-fevereiro-1999-369388-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/4258a5b2d66e6ed35a0818c16a2a8cca46a249c38184b2087af1b90015253d38.html.gz",
+      "sha256_fonte": "c61ca9acd31fbb970cc77c1eed814e79d015f6ab93d77bce090490d182c46f91",
+      "sha256_md_publicado": "d7b73bbdd98b7de917108347b1a2b74089069758ecf96c85f415daf098be983e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1756-10-1999-02-11.md",
+      "sha256_candidato": "a588fb804fe33515551ed4037c72b071b84a51328feee122a3b74b94d9f91fc6",
+      "epigrafe": "medida provisoria nº 1.756-10, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1756-11-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1756-11",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1756-11-11-marco-1999-370386-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5e33f16b45f81a8d00ab72d7992c048dc641790a20b74088e46c2e9331f0ae99.html.gz",
+      "sha256_fonte": "3485becedebad0e14623c775e5eaf070a544029136ca86a71d240759c7d33903",
+      "sha256_md_publicado": "334d9431cbdd869e6ae7c8c2d83c18e2125652f2e5375a7748c4150fcbdea838",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1756-11-1999-03-11.md",
+      "sha256_candidato": "99a9eb8c04f73d48ae0bdcb39ccf6c83c8b9101d20d634188b9feabbdd2d44eb",
+      "epigrafe": "medida provisoria nº 1.756-11, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1756-12-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1756-12",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1756-12-8-abril-1999-370385-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/bc1f2a06c8b3db0670f8ca61fa4f584a369158783da788cc2f582cd8eac6c5c2.html.gz",
+      "sha256_fonte": "ff425df7c684b4daa6a92320d28c60d25de93b81ab353e10f1d3b102e81c5b2f",
+      "sha256_md_publicado": "0b878445d1080446c5b7cc449dd4ecf2546325db0fa634aed85c3a99cdccff84",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1756-12-1999-04-08.md",
+      "sha256_candidato": "5df8d5d2a19b89ee43a8fc9309e7f9803221756ebed35ac79254fb83670fe350",
+      "epigrafe": "medida provisoria nº 1.756-12, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1756-13-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1756-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1756-13-6-maio-1999-372697-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/86e885a993f6a17370f21e9603b88996f654f937618605200d14998d203ad93a.html.gz",
+      "sha256_fonte": "a907d45acaeba4daad8cc8a5e228231d24e957005f89927edb5cbec810ff63d2",
+      "sha256_md_publicado": "bf667e491b604b0f07bffd1e467b7949571cc84db2b5286f7ddd8bd80add0044",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1756-13-1999-05-06.md",
+      "sha256_candidato": "824d0826332bd568dc569a03cbbb22a64dfae2e3aa8ec36262513699acb8a483",
+      "epigrafe": "medida provisoria nº 1.756-13, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1756-9-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1756-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1756-9-13-janeiro-1999-369389-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/786ca5dd13dc5942ad6d862fa147cb12f0e491d866912f2ddad9d9b107e23850.html.gz",
+      "sha256_fonte": "b5acf1453bb632bb7e1f74917c8496d2034c86682a930959aa2f88ac6aba30cd",
+      "sha256_md_publicado": "a94b22fc87ea260ec1e13517fe6b89c23403d96a3ffde383b2c4213bf1f3d6d5",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1756-9-1999-01-13.md",
+      "sha256_candidato": "b5d8bb61db6c7702fea0707d56254a3054615bc91d76ab5d42c1ca471c9a4bcc",
+      "epigrafe": "medida provisoria nº 1.756-9, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1759-10-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1759-10",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1759-10-11-marco-1999-370395-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/93003f5ba7347ebf3dd64fff04fce5d74c48ec628f0b9454e367164dde3f27c4.html.gz",
+      "sha256_fonte": "290271558cad29d92aa3bb3d10b73df160df2f9a3ddf7257b9225b4f7aac60d6",
+      "sha256_md_publicado": "ece26a38df1c8580bc5643d805c390830f4fd28ae2444f6f46554f577f3bffd4",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1759-10-1999-03-11.md",
+      "sha256_candidato": "92f9012dcce2ac03994ec31a3da84cf34c67ba574301e44d082433f2de6f9418",
+      "epigrafe": "medida provisoria nº 1.759-10, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1759-11-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1759-11",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1759-11-8-abril-1999-370394-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/2d6aa4fd1cca02caeb8bf1b337a15a95d6f2d781fa55c13daf94817b6aa0c8ef.html.gz",
+      "sha256_fonte": "58ede515e7495ed75b80937731a0895ea4c8747ff44c042414223ff331125d97",
+      "sha256_md_publicado": "1ec776609869c5b8c04ffdffc248186cea33fca5c3c534f4bbdc8551599662dc",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1759-11-1999-04-08.md",
+      "sha256_candidato": "a814fb04c2f53e85e6d0c80b86650205c6260ab7e9cd134c74aa9f81fac5189d",
+      "epigrafe": "medida provisoria nº 1.759-11, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1759-12-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1759-12",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1759-12-6-maio-1999-372700-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f98aad10129ec9aec290f0911f3793bb68c9f1c6e8e584a7ca346687da27a37d.html.gz",
+      "sha256_fonte": "37c2c880b2dfd06ad8012e602a45582636ae3793318c67a832bb57f0a722afdd",
+      "sha256_md_publicado": "2aad34590acf6c2e973951a8e5671d40f03965e9ff9e6ed3385f844af4d45d12",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1759-12-1999-05-06.md",
+      "sha256_candidato": "875280f3d7cead5d170e7e5bcd7ba683793097a415f0b8bb87039b0dca260ee2",
+      "epigrafe": "medida provisoria nº 1.759-12, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1759-8-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1759-8",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1759-8-13-janeiro-1999-369395-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/46d11cd109ba27ddb825a8a18d50eb5f92585463993b68d405a9003412521f2f.html.gz",
+      "sha256_fonte": "2c0c2b2cfa0f0ee43f2cfd1e0fa5d8ca2bff31ca6d832eab998f5010acf603c1",
+      "sha256_md_publicado": "888c97c8c9909118d454702699c55309e180141525a95571d8bd94d69a572a42",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1759-8-1999-01-13.md",
+      "sha256_candidato": "14d237c796a570a8a57289b1979be105333e16aa6fe371a1f79e7e9e3e89e08a",
+      "epigrafe": "medida provisoria nº 1.759-8, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1759-9-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1759-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1759-9-11-fevereiro-1999-369394-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/24d6e3ba011e805ff29aea8418c90d93b4aeefc1c4f6fa33b188bd0fe526b3c3.html.gz",
+      "sha256_fonte": "22bc1aa32c66af3ed2f3567f785c1894af02687565bbeda9df274b15e48ebeda",
+      "sha256_md_publicado": "d143bfd1516046c076f7efd8e7dfd2ecbfbe07ee83646bed890130917fa25e43",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1759-9-1999-02-11.md",
+      "sha256_candidato": "0f90a9294ca12545beaaf268e3d7f877d7f593cb8f6ca696bc76eb27bc2fe0d2",
+      "epigrafe": "medida provisoria nº 1.759-9, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1764-34-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1764-34",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1764-34-11-marco-1999-359707-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d564071b7cf856abc1bce5a29b6f050cc2d0d6c40aec8b836dc259ddc2ae7d3f.html.gz",
+      "sha256_fonte": "9f93b49b239f654929ca843b1fb16cab74321fdf815d431e2bb8fa2d1187af81",
+      "sha256_md_publicado": "7b1afbf7e1ce401d2fefae74d15d5f26e3bc0b017594dcedc2b352cf47d8d0b6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1764-34-1999-03-11.md",
+      "sha256_candidato": "b53def6bc9c9c3887189ba7ee3af377edc0d3d48e062d1a54080674c6f818e87",
+      "epigrafe": "medida provisoria nº 1.764-34, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1764-36-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1764-36",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1764-36-6-maio-1999-372706-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5e09881ec894ea7c45159e6f38b378eda873c598ef7f6e7b96ec99b46870b97d.html.gz",
+      "sha256_fonte": "d408573ae5b51ddad83385094057730a830e106494514665763ced849a9f7f2c",
+      "sha256_md_publicado": "77b6eab52267746bd950b6aa1a44b72a450d56230fa8b54be6b133b4fadb7997",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1764-36-1999-05-06.md",
+      "sha256_candidato": "cb45ee6ec37bb63d1f40e3d69f0ee15b7dc330f38eae168404889ee74b67aaec",
+      "epigrafe": "medida provisoria nº 1.764-36, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1768-30-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1768-30",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1768-30-13-janeiro-1999-369411-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/23f3c990eeb7c3ea1401008bdf32466aa1809e135f99ed097ed9c3c76ec2b0ec.html.gz",
+      "sha256_fonte": "cb8efc3b02adbcc0aeca905fb636ebb57755ccdf55be2f70f99d8985303c204d",
+      "sha256_md_publicado": "7340ffa12512e7f7330fb77ef22f089300620e9d3927a749e7d081f40fc6b979",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1768-30-1999-01-13.md",
+      "sha256_candidato": "1d7f27b98ad224a752ac7be53160e1648bcd6d343b5487fd2a50171c840ca736",
+      "epigrafe": "medida provisoria nº 1.768-30, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 8,
+      "tags_estrutura": 40,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1768-31-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1768-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1768-31-11-fevereiro-1999-369410-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/137e0d1db712c6dd724632653638de622564e4956aec5d51c8c46438a28ec297.html.gz",
+      "sha256_fonte": "5adb0e41cd71b61572a321b09acb35651d058a8ac2fb48d2744eb2c7d41a99af",
+      "sha256_md_publicado": "dbad034190006f66db686d05c676b14008264b6ea0a9475bc82f78af222f45b2",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1768-31-1999-02-11.md",
+      "sha256_candidato": "a30bb9c0e039994d886d356248bf44065198c667e0d424391fcbee0fdb59496c",
+      "epigrafe": "medida provisoria nº 1.768-31, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1768-32-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1768-32",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1768-32-11-marco-1999-370480-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/23f20655c57f9953423490170c00c1847f937356b74a7fa65a8e6b22633c1d84.html.gz",
+      "sha256_fonte": "497ad61be95d36c9ab72dbc524f19cff583feee5b92e655c372bbbd5e254c2f7",
+      "sha256_md_publicado": "27ff328e2d3b62bc63dc0a71591f1c0f63a41fb59018c6b59a8a14a6877594a4",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1768-32-1999-03-11.md",
+      "sha256_candidato": "3b5b28f4055583fe40f89c3803ef56de67fca513686cd1325d79a28e288bdb4e",
+      "epigrafe": "medida provisoria nº 1.768-32, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 12,
+      "tags_estrutura": 60,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1768-33-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1768-33",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1768-33-8-abril-1999-370472-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/e35623cb7d75e5147fe773a712463ebb73922eae8f388bf91130199a49e3601c.html.gz",
+      "sha256_fonte": "d765501a9e337386df5e943cb274d4214d35e81628423c226595f331fa388de4",
+      "sha256_md_publicado": "eb8e18df0c157e2131b4ec55ab1f3a76a2f115b625b7e726098903850a92f942",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1768-33-1999-04-08.md",
+      "sha256_candidato": "151872e595dee8c53caf7608bbdaebd9a98aaf256f28a0db877a1611b8fa8c35",
+      "epigrafe": "medida provisoria nº 1.768-33, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1768-34-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1768-34",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1768-34-6-maio-1999-372710-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5c872d547732c03a37ed433461a11beeb136cb8fb2a3295c615459676d321853.html.gz",
+      "sha256_fonte": "ac393a280ae1c09cdb456d82e9f75fd2e0237b2513c13b55a886365732ca1819",
+      "sha256_md_publicado": "4ae396494c97a19b98fb4870a30684bada882dba7e4a53d4632c70428026f733",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1768-34-1999-05-06.md",
+      "sha256_candidato": "670088b6c81c02f5aedae1c8f55f059d48e37548b6963ea54ee6464a43b1ee6d",
+      "epigrafe": "medida provisoria nº 1.768-34, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 35,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1769-53-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1769-53",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1769-53-13-janeiro-1999-369413-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/4e14fc4e69734c353713a0debbaaac62113a16115a54730604f2465b9142761a.html.gz",
+      "sha256_fonte": "287296608231f9670c960c59d34703aeebf598c19e4e0c443f040cae48ca52bb",
+      "sha256_md_publicado": "0149579922f35404e3201fe2c99e6c1cd3535a104538b3f571e535a020d68abf",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1769-53-1999-01-13.md",
+      "sha256_candidato": "80776e4f8d470efa1b12426919d54e25108a32986b081eb942c510fa0a15bc6b",
+      "epigrafe": "medida provisoria nº 1.769-53, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1769-54-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1769-54",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1769-54-11-fevereiro-1999-369412-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/76c77c0d1fcb284eb66a17372f5bf7b9a6c7daf0a3c7577e44badac54470cf8e.html.gz",
+      "sha256_fonte": "bf73f60cabc92f66444434b8d4c076deeb0b1e31fe5c992553d74f00a510dddb",
+      "sha256_md_publicado": "b2f24dd107d76fe865d436e7a16ed719a325ba23d3797cf066356d7b11b31b8c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1769-54-1999-02-11.md",
+      "sha256_candidato": "30204e83a5ad7e94e03c21c23a40c21c073b48be9319f94ec049fdc6c931a8d6",
+      "epigrafe": "medida provisoria nº 1.769-54, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1769-55-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1769-55",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1769-55-11-marco-1999-361936-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/6c8a823b3c2580773839a3e7aaab2ad92f5f92a38cb75b15934864e29356a626.html.gz",
+      "sha256_fonte": "18be4788f8af9e57dd1c89e02806e242d8f3f265e658aa0c7af6efaf980c2234",
+      "sha256_md_publicado": "a95ebc354c7382da68b6be9bb3c73ac65f2f58113fc540b4c2cfed7112b32104",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1769-55-1999-03-11.md",
+      "sha256_candidato": "e1689177352d38ee86c99da80749b05095f24d850b646efac6433ac5f857b3be",
+      "epigrafe": "medida provisoria nº 1.769-55, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1769-56-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1769-56",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1769-56-8-abril-1999-371806-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/beb00b71811aa47d13af9ccf30404dbbc3e08adb84f2103a671ea9dd9853f849.html.gz",
+      "sha256_fonte": "99fa03696aa95a4bcc27c4aef0e6c3d820933580127c507da5c26b6497cf9f14",
+      "sha256_md_publicado": "ca35e14d92cde140a7af690903f9982a2ceae3a735f81a43d2b5f8f461dfcfd4",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1769-56-1999-04-08.md",
+      "sha256_candidato": "fbaf86a5c0cad29a4de64724a040827e514d0c98997141e4b4fbbc7045d091b8",
+      "epigrafe": "medida provisoria nº 1.769-56, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1769-57-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1769-57",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1769-57-6-maio-1999-372711-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1c46e11475c31847fbdfa47354eeae5fc9c2e766303b48b59ad15543cd073495.html.gz",
+      "sha256_fonte": "d87e1b61323b5024c7107dc4caed0c9bf950515666279f64a82126e8f88ba978",
+      "sha256_md_publicado": "1acd4a387a8468f3d44fb0195faba7847f79cbfa7d055bf304312ec116ba6b17",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1769-57-1999-05-06.md",
+      "sha256_candidato": "e97b5e72c85f1d5ea2429fc83cf8c3542ef35bce1430fb966512fcb9c7fb43a3",
+      "epigrafe": "medida provisoria nº 1.769-57, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 4,
+      "tags_estrutura": 20,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1770-44-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1770-44",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1770-44-13-janeiro-1999-369415-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/8d914587d39886977e26390835b4c3aadf715af8d50e1a12dd157ad397db13f9.html.gz",
+      "sha256_fonte": "6e974a726f36d2a94d5a492e67e89c80ebe5768b9e6444f70e1031a63db37adf",
+      "sha256_md_publicado": "4969ac9ca2f1029a61fa6661027182071c8d65c783835bfed7efc7ed0bc7e1c5",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1770-44-1999-01-13.md",
+      "sha256_candidato": "e5f724be91af76c3fbbd24ef827dd194731e3772a5a06a76ba7a6a5b54275f3e",
+      "epigrafe": "medida provisoria nº 1.770-44, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1770-45-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1770-45",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1770-45-11-fevereiro-1999-369414-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c0dc51c513ff8c4459fbb26056f0fb200c53cf55bb9f8b73431de0c6f8f74c3f.html.gz",
+      "sha256_fonte": "12b4823e67ce5ec63e1ceefb51298534be67475fb25c7c25eebd062d55a10711",
+      "sha256_md_publicado": "9b714eb1cc73409325f1cc4409c4e69ee5ab3cbed755775743d8a5b22bb05ab8",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1770-45-1999-02-11.md",
+      "sha256_candidato": "92c2ab600fabe05dce6cc3407a30d94f1bc9e6ba95d5a1219d469821130b58e6",
+      "epigrafe": "medida provisoria nº 1.770-45, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1770-46-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1770-46",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1770-46-11-marco-1999-371807-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/0c8a96b826ac7ee41f9f647b5c41d169d9e1ef148c29e7ad032a139f5fe17b9c.html.gz",
+      "sha256_fonte": "e469fa3d56dd7feeebb1f2fa6db400b59926a9ea5ac88f6b76018a3d022a7ba8",
+      "sha256_md_publicado": "5e5fae4397bb0ecb680d2784b49a85fc96252e9ebe05a3b0281a3395280eb1bd",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1770-46-1999-03-11.md",
+      "sha256_candidato": "ed2910524a25585ddfa72d71cb006d97bad8eba5472e16a01ee1d481de046a1a",
+      "epigrafe": "medida provisoria nº 1.770-46, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1770-47-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1770-47",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1770-47-8-abril-1999-371809-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/bbf52527d8f4a4c89d6c4e7eed4178f16be4809f4b2c85e6dabd7a9fc0d6b5ae.html.gz",
+      "sha256_fonte": "d00fe52d52d07612f49b601db5a20b0f70446dd6c389411b8b2cb79ecebc616f",
+      "sha256_md_publicado": "c7e9ce49f24399008b56c01989a0e7dfa76b9549c1c2b6406bf7c641b171bcde",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1770-47-1999-04-08.md",
+      "sha256_candidato": "ce6da5e2e9ce4c2a5598bb28d06636a95834e2a2a6178dd4da5631a258f428cf",
+      "epigrafe": "medida provisoria nº 1.770-47, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1770-48-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1770-48",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1770-48-6-maio-1999-372712-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/469b997230ed38d48575aeeb60bbc21bddec28110d65be938764aa86523b16bc.html.gz",
+      "sha256_fonte": "d9ecea48bf46b77555a9b49b7136498b0a34a03657bd82ff1602bc8de2e9f915",
+      "sha256_md_publicado": "e5f2dce70a91ee3907f0b50ad5c0e473aba9817f0a470d089ed8b5c9e1a58f10",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1770-48-1999-05-06.md",
+      "sha256_candidato": "3a9da8e49ff7d90a781b652c3e5d905471cf220a5bbcfd6991d0d940044ab503",
+      "epigrafe": "medida provisoria nº 1.770-48, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1773-33-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1773-33",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1773-33-13-janeiro-1999-369421-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a95d40ac89c139c17f7188f7a0e8476acca67cc76296684dc83d6d878fc64844.html.gz",
+      "sha256_fonte": "a2f1c365ce9da3ba707456914a5047e1039d49098c54977f53e99a611de4b6bd",
+      "sha256_md_publicado": "a6e97cabe2ead414d70dfade9995776ce260435fd80b63e0d98e0f40f50ecd3f",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1773-33-1999-01-13.md",
+      "sha256_candidato": "52a83271d3d817eafe1b56b8b4c839e8106583255f485515196d1992ed42abcc",
+      "epigrafe": "medida provisoria nº 1.773-33, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1773-34-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1773-34",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1773-34-11-fevereiro-1999-369420-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/bc58852c40d81c015722548a4c31fbe1cdc24b8c2722469c622b22e9e6b168df.html.gz",
+      "sha256_fonte": "8e75a9dcf11888d49542f30db0f0140b06969d130c57b32f9611b46aacc2e2e5",
+      "sha256_md_publicado": "f8a57bb881c482d5aec98686fa885190ab3b6aa365dcc17b9542ec9354380172",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1773-34-1999-02-11.md",
+      "sha256_candidato": "2c319625e99c25324aff419f3d0de854409e0fe22d5a493e4f358fc815956c19",
+      "epigrafe": "medida provisoria nº 1.773-34, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1773-35-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1773-35",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1773-35-11-marco-1999-371831-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/22ce224e0473fb3fb657a7c2be09af91a014ac1b4283f6bc7896afc1869d45ba.html.gz",
+      "sha256_fonte": "b01db298920ab17026ad2a8efa138520429f8b691fa6705f9532dffa188554c0",
+      "sha256_md_publicado": "ad8312b7990d376df8e4321dc8c67942146b9590a20844fa1eeb317ebe48e3d8",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1773-35-1999-03-11.md",
+      "sha256_candidato": "f2cac484bcb0edadab775212c5dd618caf92e3f012363f355b376f153ad6938b",
+      "epigrafe": "medida provisoria nº 1.773-35, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1773-36-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1773-36",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1773-36-8-abril-1999-371613-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/9855c3c0ed0cf7c208223f83c3f0fec6a41f02e1ddf87d3adca117a0c26bf6c5.html.gz",
+      "sha256_fonte": "acf55c7481cb20c89cd996a8f6187c8001b7bdb72e5e5bd6fba9f92ade7d9f68",
+      "sha256_md_publicado": "4a18dc0c77fc37b792bfbd724ecea88c81f97a275d2c8a3ae12aa7a0d43086ce",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1773-36-1999-04-08.md",
+      "sha256_candidato": "7a3aa24537ae4ad8a552db29f90dd06976a0ed8c4d361fd12d545eab6134dc4b",
+      "epigrafe": "medida provisoria nº 1.773-36, de 8 de abril de 1999",
+      "fecho": "brasilia, 08 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1773-37-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1773-37",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1773-37-6-maio-1999-372715-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ac14d52494c6c85dc2c6587b4f71d4f30c9e56b2d0c2a1bd68810f97581475ff.html.gz",
+      "sha256_fonte": "dd505e71f46a47547fb8f3e72e6e08a2fb79051bc8a720c5a3b4d82a91833cc9",
+      "sha256_md_publicado": "7911a8900ccaf875e246c94892165d5194999a669e9637a5f1142fb43386cb18",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1773-37-1999-05-06.md",
+      "sha256_candidato": "218eaeecb1fdbba284b0acf9481baf8b7ae458ebcc9651fb5d2af32a37c5971b",
+      "epigrafe": "medida provisoria nº 1.773-37, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1781-5-1999-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-13;1781-5",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1781-5-13-janeiro-1999-369438-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/63a51be3863a0a05dd6aab2d49be26400541f37eebc2c3a2d9b5a0931f331b69.html.gz",
+      "sha256_fonte": "cd9816b7bb37ea8d62a6116cdd615cf9e332798a76c76e353019450e56f64a02",
+      "sha256_md_publicado": "ad4b7c26e9293f22a5957b84bee5318b211b418521e96afff37fb47b004670c8",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1781-5-1999-01-13.md",
+      "sha256_candidato": "fc62355b8bb48702c4627ef69596df043737a359a0adeb331f5cc742fcc97e35",
+      "epigrafe": "medida provisoria nº 1.781-5, de 13 de janeiro de 1999",
+      "fecho": "brasilia, 13 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 10,
+      "tags_estrutura": 50,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1781-6-1999-02-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-11;1781-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1781-6-11-fevereiro-1999-369437-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a649de22e95c2ee7bf1df742017ca85a1f71ebbd3a52c9c6d55a6a50cdfc5f49.html.gz",
+      "sha256_fonte": "105894e278e2e8ae5a83c25d163f411066934e19e7bf60bab24b9b484bac5a65",
+      "sha256_md_publicado": "3c661bde5245635ca6e147b383d62217a92effce713e7042f2fe7ea903120002",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1781-6-1999-02-11.md",
+      "sha256_candidato": "94a6c6d64c0738d628a117aafbee459de3db30455e2be1e02464783fcabcfb73",
+      "epigrafe": "medida provisoria nº 1.781-6, de 11 de fevereiro de 1999",
+      "fecho": "brasilia, 11 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 10,
+      "tags_estrutura": 50,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1781-7-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1781-7",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1781-7-11-marco-1999-371839-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/cb9738d31935f3bf1bb7cb34876a23b21c13874d11393c4ca37c8ad9fc75ddda.html.gz",
+      "sha256_fonte": "d87e1a430061beb430a6fcd67063ec7a54c3ff18faa10427c9b82e7e401f6620",
+      "sha256_md_publicado": "357fee32a4301ccb5625734b02907a1961750395c0acaae1914adee5977169ed",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1781-7-1999-03-11.md",
+      "sha256_candidato": "edbabe279836e1bc3b8235edae53a1c64a38de47f9a8537452f861ca80eb6df5",
+      "epigrafe": "medida provisoria nº 1.781-7, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 10,
+      "tags_estrutura": 50,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1781-8-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1781-8",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1781-8-8-abril-1999-371854-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3c384661bd8b167dc241def6c7175a3d534f5af71ec62643a74a15e3b21a5a7a.html.gz",
+      "sha256_fonte": "f6cc1f2c9f871c9eff2cf176b7a2bcf56c95557e35ba2ec25b70a080843b4c04",
+      "sha256_md_publicado": "e7bc0fa55779a75ee9b6cd1751b662976311f9edf736eb00aeed902af397f1d6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1781-8-1999-04-08.md",
+      "sha256_candidato": "f6d8d43f792bd28d2e5fc791a903b7331ce39e1f8017d85a1bb6d6e9c6250807",
+      "epigrafe": "medida provisoria nº 1.781-8, de 8 de abril de 1999",
+      "fecho": "brasilia, 8 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 10,
+      "tags_estrutura": 50,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1781-9-1999-05-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-06;1781-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1781-9-6-maio-1999-375727-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/fd91c304cab19e6ae329ca66029842e9b9477a57467616c14c5889507232677b.html.gz",
+      "sha256_fonte": "3ddfede3602b203eb48b4e09747bfcaef229b40f906a8e57916d16095bce1f06",
+      "sha256_md_publicado": "1ab6a62823a776bfb577d23929d825634333d4fed8b09b595bec2a79da10a912",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1781-9-1999-05-06.md",
+      "sha256_candidato": "d9008c739aedd0ebcc74132b3cc7d34319185babaa3a6b266548e06168c64848",
+      "epigrafe": "medida provisoria nº 1.781-9, de 6 de maio de 1999",
+      "fecho": "brasilia, 06 de maio de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 10,
+      "tags_estrutura": 50,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1798-2-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1798-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1798-2-11-marco-1999-371843-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1cbb77751e192410a8c1253690eb986822936040185c7df1737592d90ed7f831.html.gz",
+      "sha256_fonte": "305139fd9d4f3fb68546790c052b45ff7ff1d852ab2e5e3659dc66e5d6b9d74a",
+      "sha256_md_publicado": "eb38adbeb3f4622c25360ab5a1e8a962e9c1b3ceb17ac465fd11d12f8d200b8c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1798-2-1999-03-11.md",
+      "sha256_candidato": "879afccdde8f6a2be51c543294d265a90c3424467ebd421680e2be8aedb7b0cf",
+      "epigrafe": "medida provisoria nº 1.798-2, de 11 de marco de 1999",
+      "fecho": "brasilia, 11 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1799-4-1999-04-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-15;1799-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1799-4-15-abril-1999-371873-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/6d2284a215c1d5f58d76109c01158673565a14af0c5a719842ea7dfe30486a93.html.gz",
+      "sha256_fonte": "2ef30087f174122285a59713bdac106dfb03ed00ebb681ae9bde80b0b44e8484",
+      "sha256_md_publicado": "44972ee015188563b99be30f8bfc4567b6493b1d77e824a43e4a4c9c6eff459b",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1799-4-1999-04-15.md",
+      "sha256_candidato": "d81f834598ae927e04f4db8b7f7952f03a3d66ca42122265963ec8245fff8cdb",
+      "epigrafe": "medida provisoria nº 1.799-4, de 15 de abril de 1999",
+      "fecho": "brasilia, 15 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 3,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1801-12-1999-04-22.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-22;1801-12",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1801-12-22-abril-1999-373130-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/a18d9f5dad72d44d6bb574165b1766c7e3ed47b84bd1be0db32a4d916f73e33a.html.gz",
+      "sha256_fonte": "29fee26227723308ee5eca2b21ee1fea979e186dcfea0103019f6f9ddab723cc",
+      "sha256_md_publicado": "598deb811537073325362057f8bac5c935f1b78c74e1361b240a1101908ebcd6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1801-12-1999-04-22.md",
+      "sha256_candidato": "16489666d7c3cb648e204d1747d7f16d6b32e52e23d21dfe98c26ee083079f10",
+      "epigrafe": "medida provisoria nº 1.801-12, de 22 de abril de 1999",
+      "fecho": "brasilia, 22 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-3-1999-01-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-28;1806-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-3-28-janeiro-1999-369306-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c71e1ba112505144cabdc11a68a540bbd6ea0dda85310e63e5f72035fdad28c3.html.gz",
+      "sha256_fonte": "a055c928a604e57da939817ba856abc124a7efea178531c19ee7dfcd665c291f",
+      "sha256_md_publicado": "8e2f0f8c32059b137fdc4194befed60606362a5a1a11d0efd4cee28790321ab6",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1806-3-1999-01-28.md",
+      "sha256_candidato": "3d34caf75e2994a04478a7d5c16b8454f8c21b7bec61eaff061db606123b7488",
+      "epigrafe": "medida provisoria nº 1.806-3, de 28 de janeiro de 1999",
+      "fecho": "brasilia, 28 de janeiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-4-1999-02-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-25;1806-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-4-25-fevereiro-1999-341257-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/cb22d1bf526b7e806ebe36ddb7f4a1453c621001b090980006f6b135257756a5.html.gz",
+      "sha256_fonte": "a8d790931e08a88f9830b070f709a604ec9d89580bf28aef5a3ffade5127ee0e",
+      "sha256_md_publicado": "080056f084c1454a37e84b9e444d7575b9879dbca6ba47c39fedcb92cefc82ca",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1806-4-1999-02-25.md",
+      "sha256_candidato": "c5319c39a875420b3f97446e8b9f89830c2dda4c9dff03656fabacc243fd1d05",
+      "epigrafe": "medida provisoria nº 1.806-4, de 25 de fevereiro de 1999",
+      "fecho": "brasilia, 25 de fevereiro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-5-1999-03-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-25;1806-5",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-5-25-marco-1999-372312-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/af68d52d2e03751871e0b9d5377f01363b002ec452205112d8bf8a2760bf30ab.html.gz",
+      "sha256_fonte": "85db84e7353eed8535c5967311922174df739195b2979d47137eea82b0b4d7fa",
+      "sha256_md_publicado": "53d95a52f3bdfd62a73d013710c1029ad99fe819403e31b9bf337b6ac7bcdd11",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1806-5-1999-03-25.md",
+      "sha256_candidato": "1711d9e5d5173a90468d4277f1464cbfa2540272ce4d7f1f60cab67493e47d9a",
+      "epigrafe": "medida provisoria nº 1.806-5, de 25 de marco de 1999",
+      "fecho": "brasilia, 25 de marco de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-6-1999-04-22.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-22;1806-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-6-22-abril-1999-373138-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7dd342b717c027fb1d335d1637d192273d5fe162facd082d3792c39e40188706.html.gz",
+      "sha256_fonte": "257e4d7dc69b7522d2d63e14453df3bb04971181f60309a407b8e0bce9171110",
+      "sha256_md_publicado": "b5c4253304b2e7575b58e922e26941da8f73669209eebcca8464da24110fae3c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1806-6-1999-04-22.md",
+      "sha256_candidato": "52d3439941ec65fca231d71b9762ac13ad00d57348404f92a5caa72a68fc6c40",
+      "epigrafe": "medida provisoria nº 1.806-6, de 22 de abril de 1999",
+      "fecho": "brasilia, 22 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1807-3-1999-04-22.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-22;1807-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1807-3-22-abril-1999-372455-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/43e39ef733bceeb06a98e1fc9cf31353e9f9642e3e92fed2605f9602d0d68e63.html.gz",
+      "sha256_fonte": "305282746f2b9de4f358df8ff7b905ba14f5b98b6532ad242149f90e81b7299f",
+      "sha256_md_publicado": "5024602aa44924dccbe920b573f5b1706620653b5667967fcff2422fdeb6bf2b",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1807-3-1999-04-22.md",
+      "sha256_candidato": "2649c126428356a18babd077499d51196008441463e0611f043f78e6a3bd6f71",
+      "epigrafe": "medida provisoria nº 1.807-3, de 22 de abril de 1999",
+      "fecho": "brasilia, 22 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1819-1-1999-04-30.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-30;1819-1",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1819-1-30-abril-1999-349991-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/debc2083442a9dee73ef4bf5097c8357247510cf5bfb44131846263f81bf0d06.html.gz",
+      "sha256_fonte": "908f95081e9f38c94b5a96c6f2fb07323d3e7051ef2334487740d3110ef4862c",
+      "sha256_md_publicado": "cfb56306f6ba298be85670ddbb7af72e8cf9fca62052be127cce98812a9af5c3",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1819-1-1999-04-30.md",
+      "sha256_candidato": "336c0d650857e37fc4ea3a5a839484be7c2742dc0dd0ffc0b8db5c85922f8857",
+      "epigrafe": "medida provisoria nº 1.819-1, de 30 de abril de 1999",
+      "fecho": "brasilia, 30 de abril de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1868-17-1999-07-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-07-29;1868-17",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1868-17-29-julho-1999-374356-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/78426fa1b345789d6bf79f8970fa5ab3da28899d62ce757badc5f7ea23f35b36.html.gz",
+      "sha256_fonte": "be47ed46090a740457f3e38745090db38d9f93fb586d45ea63e161ea3d3e2fc8",
+      "sha256_md_publicado": "3836b6d2a4fc2733e904c7291b09ec5bcfe1a46bf0bc711362df05f2bd613feb",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1868-17-1999-07-29.md",
+      "sha256_candidato": "1d5b5c6f00d715746d6c9139d21f47d16b048c3e01efc1243a481b2a06a5ae68",
+      "epigrafe": "medida provisoria nº 1.868-17, de 29 de julho de 1999",
+      "fecho": "brasilia, 29 de julho de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1983-45-1999-12-10.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-12-10;1983-45",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1983-45-10-dezembro-1999-371729-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/8f200570ee29060ef3210cdb9c6bf0ceabf98f945d0187d456fb637401273dea.html.gz",
+      "sha256_fonte": "7c7d03e2bc734399b684ec0c4d3df54409bda7eea296b0f674738eb1007d0f1c",
+      "sha256_md_publicado": "0759151c5993418593b996cf79fa237d8be12b203e8486dde0c51aa03d023b5c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1983-45-1999-12-10.md",
+      "sha256_candidato": "d2ba144934d39802598ce3cd95840b50ed3c0841c6c5543e765fdadb1e2201fb",
+      "epigrafe": "medida provisoria nº 1.983-45, de 10 de dezembro de 1999",
+      "fecho": "brasilia, 10 de dezembro de 1999; 178º da independencia e 111º da republica.",
+      "tabelas": 7,
+      "tags_estrutura": 31,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1991-13-2000-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-01-13;1991-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1991-13-13-janeiro-2000-370281-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/b5dbf706621ce779a513034f1bd0e8ea9f0d1641c1a000d5926083b6b3094281.html.gz",
+      "sha256_fonte": "902f763552d2b2a284e1efa8e901ededbd7c79e9f175cfc1d22e11514e51a903",
+      "sha256_md_publicado": "85a89f53f62a44c0a2f90f704fe90356dc471b5bbe785dcd9dfedd497d4a5592",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-1991-13-2000-01-13.md",
+      "sha256_candidato": "10a992e8b017eaf9c58baadfc0f8baa6d989799ea0663c56fff70d0147827ad7",
+      "epigrafe": "medida provisoria nº 1.991-13, de 13 de janeiro de 2000",
+      "fecho": "brasilia, 13 de janeiro de 2000; 179º da independencia e 112º da republica.",
+      "tabelas": 13,
+      "tags_estrutura": 65,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2023-51-2000-05-23.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-05-23;2023-51",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2023-51-23-maio-2000-370456-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/63ca4b40c747a49d69b5a887b54f9b36292d9cd4754c36c296bbe620712781b9.html.gz",
+      "sha256_fonte": "781a43df2de44907c5265acbd7460dbfd098cd6835b7546ba0d81c3fe631068a",
+      "sha256_md_publicado": "78fd76955719531ea80eab4e4e240f1f857f4e92cc285c0ff9cc26a13f53aa5e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2023-51-2000-05-23.md",
+      "sha256_candidato": "53aa6e07d2f583026fd73b4da92a9fac28675896c4fe93186e831101ea1e506d",
+      "epigrafe": "medida provisoria nº 2.023-51, de 23 de maio de 2000",
+      "fecho": "brasilia, 23 de maio de 2000; 179º da independencia e 112º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 15,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2083-31-2001-01-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-01-25;2083-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2083-31-25-janeiro-2001-357158-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5cfc7d51ae8e0114d7f0619632c0347ab11ba3f9d38c358d980276c5474b8a0b.html.gz",
+      "sha256_fonte": "8c52a6134bee5f32497a54235b923674583f04e745a5182247447e07a3436898",
+      "sha256_md_publicado": "e1f365685193b5207f3858f3973732bc3820240af012cfcd207f026f0319e23c",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2083-31-2001-01-25.md",
+      "sha256_candidato": "66db8b15207e862fe7312e5e23e0005796d153851f468251884e689ab27c9be9",
+      "epigrafe": "medida provisoria nº 2.083-31, de 25 de janeiro de 2001",
+      "fecho": "brasilia, 25 de janeiro de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 3,
+      "tags_estrutura": 12,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2095-71-2001-01-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-01-25;2095-71",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2095-71-25-janeiro-2001-357172-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/89c83e39c2a862b31b0266d7f43616c5936a438e8038cc8343727c766bba0f7f.html.gz",
+      "sha256_fonte": "a0b850f0a052ad97f02f144106015e4ba2921c009429351c1cc20c8b387a64b6",
+      "sha256_md_publicado": "24c7a458f99ea01397062e209854ecfcf64f4d9d4f2fab67a4cbb696b73c7b97",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2095-71-2001-01-25.md",
+      "sha256_candidato": "35055fcd66a3344ffd9fa551baa1c0fcd60e3e171ff1f56ec7619002b5ac4a72",
+      "epigrafe": "medida provisoria nº 2.095-71, de 25 de janeiro de 2001",
+      "fecho": "brasilia, 25 de janeiro de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2095-74-2001-04-19.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-04-19;2095-74",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2095-74-19-abril-2001-355781-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/b4e892e4d26527ad36fa4ae42f33c2b4173dd6a786a7193f91da0d4f97917719.html.gz",
+      "sha256_fonte": "b619df950c86c0be32fd05b6b3dcc7f01363f05256c8e58d3f64ff9150420f27",
+      "sha256_md_publicado": "c537aa9e20529cadd2f69128ccafae2b8f6de403dd00c3c4bc83169d3f0a6e2e",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2095-74-2001-04-19.md",
+      "sha256_candidato": "6818c690998648bac1a6f9c8bec212c5af26ca50dde104a065d2cf85aa67693c",
+      "epigrafe": "medida provisoria nº 2.095-74, de 19 de abril de 2001",
+      "fecho": "brasilia, 19 de abril de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2150-39-2001-05-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-05-31;2150-39",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3be96d45569d05b52e495a30aaf807cc8b11f539c20c3971603f76e8d55e34e2.html.gz",
+      "sha256_fonte": "04095ec1bfa3f97fc5dbca1f3673f0caea65bdda0b357eaffac5ea5a9114b8f9",
+      "sha256_md_publicado": "10e8e7a081e991021dec3f64428a61b30c48fe92d97570920ac12f86bc88e2c5",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2150-39-2001-05-31.md",
+      "sha256_candidato": "cdd4d382f7c0e3ee2e1f99623ee39d305132bb801cf8da9e462218aecd5750d3",
+      "epigrafe": "medida provisoria nº 2.150-39, de 31 de maio de 2001",
+      "fecho": "brasilia, 31 de maio de 2001; 180° da independencia e 113° da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2150-41-2001-07-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-07-27;2150-41",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-41-27-julho-2001-381750-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/da04f1c4cf7b79a52655285c65be66525efe0fa5e24e965aa3698ef90782f42e.html.gz",
+      "sha256_fonte": "85fcfe82ed8e7f2de7bc7493c207354b0e3cbe360e9956c0090ebf8f27b7c8fe",
+      "sha256_md_publicado": "e4f474b4ac8d9b7006c3ec0b27fccb2c5ae59778a2759aefd326f72da0095ece",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2150-41-2001-07-27.md",
+      "sha256_candidato": "b23a6a32722204fb86b20e2abaaef970331fa1861efa11710743cb2b9d6003c7",
+      "epigrafe": "medida provisoria nº 2.150-41, de 27 de julho de 2001",
+      "fecho": "brasilia, 27 de julho de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2150-42-2001-08-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-24;2150-42",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-42-24-agosto-2001-390562-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/5ff4992bbd8b4b75f22f8f37f6f2ae71d970872ec0fbcdc24c730b3aa82b072e.html.gz",
+      "sha256_fonte": "a3983506e7c0a8245a3884c19fb8fb67fdf0d931f53d44b4f3f40ef4eb6c95c3",
+      "sha256_md_publicado": "ad6d20e159e11dde2bcf0da4e9086a0779390d1d7fa95706e493b7cbfa2e86af",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2150-42-2001-08-24.md",
+      "sha256_candidato": "98ea93d202b6f23c2e2999ac247d787c954dbabc0378f5b90d5b6ed9c162131a",
+      "epigrafe": "medida provisoria nº 2.150-42, de 24 de agosto de 2001",
+      "fecho": "brasilia, 24 de agosto de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 5,
+      "tags_estrutura": 25,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2152-2-2001-06-01.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-06-01;2152-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2152-2-1-junho-2001-338315-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7cd40ac165e015635ef37d6eb9382f7152a29782d8a31d044f767a04c7c11739.html.gz",
+      "sha256_fonte": "70c60530124513fe694247b8924c03f8f7ffc36d30a0018cd77ad0d9ddfb7da1",
+      "sha256_md_publicado": "f4e1582be6ab036cbf1708ac6e71c89f228bb0680f5b92cca2baed41675c4aa8",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2152-2-2001-06-01.md",
+      "sha256_candidato": "94a907a6d73e5392dc24f4a4adace212f9de02db2a2f336f71c7e7da5b2feee7",
+      "epigrafe": "medida provisoria nº 2.152-2, de 1º de junho de 2001",
+      "fecho": "brasilia, 1º de junho de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 20,
+      "tags_estrutura": 100,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2176-78-2001-07-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-07-26;2176-78",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2176-78-26-julho-2001-381636-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3df57234ffa3ab0edaf047161a28288000d88578cd293433d25a26af6c93552b.html.gz",
+      "sha256_fonte": "5b42ba2572e8281ee7f60af820456d499d41beb15854b8301c7b06d853527c09",
+      "sha256_md_publicado": "e2095783cc4860dcdb343b9996784e8d9598ffe8cb19e6e3a5e772786e07b941",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2176-78-2001-07-26.md",
+      "sha256_candidato": "47c5fca8412074542620eb997e8289a132e3c4c7b238c54116445a127b4095c6",
+      "epigrafe": "medida provisoria nº 2.176-78, de 26 de julho de 2001",
+      "fecho": "brasilia, 26 de julho de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 2,
+      "tags_estrutura": 10,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2188-9-2001-08-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-24;2188-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2188-9-24-agosto-2001-390950-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/422eca1224e69bac91bf2267a01fc37e806da69887180ec8a2872bd64d1802c5.html.gz",
+      "sha256_fonte": "7c0c4a241d241bb6707e219397aa3ce643054d6853051a5b1ef7d50ce5863b8c",
+      "sha256_md_publicado": "5b9df848f17371bd8cd7f0f802c77ab0f9173f15797556a7f0f133e34e0db881",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2188-9-2001-08-24.md",
+      "sha256_candidato": "27113d99c3e2bc5c94896188ffe9b30a65119c58ab7331374f1d3cfd98dcf488",
+      "epigrafe": "medida provisoria nº 2.188-9, de 24 de agosto de 2001",
+      "fecho": "brasilia, 24 de agosto de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 24,
+      "tags_estrutura": 120,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2201-2-2001-08-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-24;2201-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2201-2-24-agosto-2001-393696-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ccae9b38990cd6f2288c45f64ead35cd8faf5b09993e8dbbfa759789d3deac63.html.gz",
+      "sha256_fonte": "e8d7d8c6b7319a15299e0ac790b03a39141dcd1eca3ad214a2dafcf93708b56b",
+      "sha256_md_publicado": "566c44ffb0776d4b2be72aef7932152204cb82fc7f43db6d38e70317ce12bd5f",
+      "candidate": "federal/_recuperacoes_tabelas_series_20261020_002/mpv-2201-2-2001-08-24.md",
+      "sha256_candidato": "633457c84ff8429ae6b367b6362b1b03417d300171cacbd165fa89be5f742d1b",
+      "epigrafe": "medida provisoria nº 2.201-2, de 24 de agosto de 2001",
+      "fecho": "brasilia, 24 de agosto de 2001; 180º da independencia e 113º da republica.",
+      "tabelas": 1,
+      "tags_estrutura": 5,
+      "checks": [
+        "fonte e MD anterior SHA conferidos",
+        "mesma sequência textual integral",
+        "estrutura integral de tabelas/células igual à fonte",
+        "número tipo data próprios concordantes com índice",
+        "sem visuais ou objeto próprio pendente"
+      ]
+    }
+  ],
+  "retidos_revisao": [
+    {
+      "path": "federal/emendas-constitucionais/1972/emc-2-1972-05-09.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1972-05-09;2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1972-05-09;2",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1972/emc-2-1972-05-09.html.gz",
+      "sha256_fonte": "17b641507df2d72c48ee0697835c31d581e32d871664b57bf504265192dbf436",
+      "sha256_md_publicado": "0eb04519ad7351cd30810e76903d9a0db694d39aaf728fc3b15f2afe90bd8475",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1972/emc-3-1972-06-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1972-06-15;3",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1972-06-15;3",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1972/emc-3-1972-06-15.html.gz",
+      "sha256_fonte": "3f2d0d3c627ab50a6961fb54729e3447756f9fcb68e7c39b20b5858262ec2abe",
+      "sha256_md_publicado": "8e4d720e5e43c846eb03f87ff6f86a528b1a8262188bae3e557a2818300e2220",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1976/emc-6-1976-06-04.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1976-06-04;6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1976-06-04;6",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1976/emc-6-1976-06-04.html.gz",
+      "sha256_fonte": "8bb0885e51c7d5093720e92f0a7097d6edc2ee288c77d90a7494adf9c1fa1dc5",
+      "sha256_md_publicado": "31a8e60a9d22a47c5b42b6c2abcc0268343217227c1ca09e76de3e9a2cd9cff7",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1977/emc-10-1977-11-14.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1977-11-14;10",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1977-11-14;10",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1977/emc-10-1977-11-14.html.gz",
+      "sha256_fonte": "246cbc2a192acd9df862f10374500b65716acdea8d10bf0a634b234ce9321613",
+      "sha256_md_publicado": "5505e1b81dc08df84235f1832b6cbb6c64a1d1f73544eeba6a193e3d4fa5ea21",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1978/emc-12-1978-10-17.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1978-10-17;12",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1978-10-17;12",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1978/emc-12-1978-10-17.html.gz",
+      "sha256_fonte": "10ae7d181feb9b448032091c1a207aae2ea24186cb9e8a1d6495036964d48275",
+      "sha256_md_publicado": "8de4f39a5be15e2c7a901a20b6732de75030cd6e1ab8b9c023e1395bbee01b6b",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1979/emc-13-1979-10-10.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1979-10-10;13",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1979-10-10;13",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1979/emc-13-1979-10-10.html.gz",
+      "sha256_fonte": "9b0109fa2edf13dbd000a5abc249566f101e3b81145684f57160dea7f2843302",
+      "sha256_md_publicado": "143ddb1d8848a83a291879a8ec1d8aa45fc43e20ed533461fd5733bd21d01efe",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1980/emc-14-1980-09-09.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-09-09;14",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1980-09-09;14",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1980/emc-14-1980-09-09.html.gz",
+      "sha256_fonte": "2cc837df0d07e57b22ec60964d6c22dfb17e266f910403190ec4e56962db936a",
+      "sha256_md_publicado": "1be85ee7162b957db296b98aafb7499dff52e84b9e20a0aaad6e6d5e3b14cdf6",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1980/emc-16-1980-11-27.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1980-11-27;16",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1980-11-27;16",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1980/emc-16-1980-11-27.html.gz",
+      "sha256_fonte": "529bc8d594f173882648939bb079edb36c07bbbe3acae818480d78e3b655643a",
+      "sha256_md_publicado": "f1e5aef16c162b820dcbd6f0944462c0a1f5f5f10d9abb48de143a42e5430eb5",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1981/emc-19-1981-08-06.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1981-08-06;19",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1981-08-06;19",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1981/emc-19-1981-08-06.html.gz",
+      "sha256_fonte": "02ffca3e56a7f9fbfa9d545dcd6849457c36ffcf5c223622c41d00045c6cc439",
+      "sha256_md_publicado": "4401a3a535af8276a39638d6d7a50322ba7ca888258e52575e4952a074cf5fb7",
+      "motivo_retencao": "AssertionError('brasilia, em 12 de agosto de 1981')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1981/emc-20-1981-10-20.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1981-10-20;20",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1981-10-20;20",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1981/emc-20-1981-10-20.html.gz",
+      "sha256_fonte": "961716c44487c541de5cc1dc22c7d48bbeea95dbc223eeeb18da2149ba5bfa36",
+      "sha256_md_publicado": "ce6873edbefc9d107200e5857f3c0b3aeed88e2cfe54084ffdd0ce04a14be877",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1982/emc-22-1982-06-29.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1982-06-29;22",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1982-06-29;22",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1982/emc-22-1982-06-29.html.gz",
+      "sha256_fonte": "16a5979d8416b9e9e3d618bb3e57dd77262361e84cf9e9c46893f03d43458424",
+      "sha256_md_publicado": "7e9d7acdc4fca76256f2678a4902ecf91dcead71d1da45e3ee60acbe63850e4f",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1983/emc-24-1983-12-01.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1983-12-01;24",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1983-12-01;24",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1983/emc-24-1983-12-01.html.gz",
+      "sha256_fonte": "ecdaa4f74eecba90d76ebb01b0eed507280556e4ee6ed0fb8906fefc9224be59",
+      "sha256_md_publicado": "84720553ef9a0e98ded3c8390438245f045c8e6be73d30727d4d1833f612b1e2",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1996/emc-12-1996-08-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-15;12",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1996-08-15;12",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1996/emc-12-1996-08-15.html.gz",
+      "sha256_fonte": "91af9b3693f04d2deae3195c20ca41d32fc1c66f902e0dd040b90ab20110f197",
+      "sha256_md_publicado": "fb81386dee884fd07f408eef9dffc7b45b5e4b5dadbf126181ad50530c61eec1",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/1996/emc-13-1996-08-21.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:1996-08-21;13",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1996-08-21;13",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/1996/emc-13-1996-08-21.html.gz",
+      "sha256_fonte": "81175a58446f3bb4e570fd9122ace36a131260f89863dd3f3fdddb0b6c188222",
+      "sha256_md_publicado": "4fd6bd367cfe5653c717804e4e0730b6d88ef02c8bf363d01c80672d69a04a0b",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2010/emc-65-2010-07-13.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2010-07-13;65",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2010-07-13;65",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2010/emc-65-2010-07-13.html.gz",
+      "sha256_fonte": "f934d89b21ef2b8bd7601c6faa1e106fa7f1e4a250841ef65db43e25e0a899cb",
+      "sha256_md_publicado": "294facf9530e7c0eb808dc16c7855d61339b265dc52ad94d34fe919f99cf5aaa",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2014/emc-77-2014-02-11.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2014-02-11;77",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2014-02-11;77",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2014/emc-77-2014-02-11.html.gz",
+      "sha256_fonte": "bdc5d50ed4ec5a52e1d0bcce9dc879849ab29220222a2e7f97b8fb803e0f06d9",
+      "sha256_md_publicado": "cea541b8bcb5b7f2e8fbb7c9308683b16996b13f824cbab5edbf4a4fa6f6e624",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2015/emc-86-2015-03-17.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2015-03-17;86",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2015-03-17;86",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2015/emc-86-2015-03-17.html.gz",
+      "sha256_fonte": "06bd46c5e337b8d5b7b6536823a4f135f7c3b0c9160f46e1ddf2a1aa55f55bdc",
+      "sha256_md_publicado": "7e10081b12c8744c8f8001e0cab4fcb4244764f3c289cb81ce39c86ae63f42df",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2015/emc-90-2015-09-15.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2015-09-15;90",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2015-09-15;90",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2015/emc-90-2015-09-15.html.gz",
+      "sha256_fonte": "07950e14457bbcd0c8b4d368221e7d806e6a088b32f102aea6696f2b1e68b0de",
+      "sha256_md_publicado": "ee17cbe8149f7e803e31b388b9472cb8727bc645606ebca8952a7e2945b08161",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2022/emc-120-2022-05-05.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2022/emc-120-2022-05-05.html.gz",
+      "sha256_fonte": "96342e4ef787316031125a191076b9b634782f9f01633a24e1e90b7d9ea739e2",
+      "sha256_md_publicado": "0f8e11695eaa0862b758a28427e1c503986bb387e3bb99f8d3d83bde8f94bdea",
+      "motivo_retencao": "AssertionError('brasilia, em 27 de abril de 2022.')"
+    },
+    {
+      "path": "federal/emendas-constitucionais/2022/emc-127-2022-12-22.md",
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "fonte_cache": "federal/_fonte/emendas-constitucionais/2022/emc-127-2022-12-22.html.gz",
+      "sha256_fonte": "f89856b9037b6524d3a5e753fdd77b29365d9571e3c8e7129fbbf16e40f6e66e",
+      "sha256_md_publicado": "f2b9c2deb7c466a2805f24ddd7aebc1067a52c848dc77e3fc9abccea62766098",
+      "motivo_retencao": "AssertionError('brasilia, em 14 de julho de 2022')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1498-22-1996-10-02.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-10-02;1498-22",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1996/medidaprovisoria-1498-22-2-outubro-1996-359929-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/75a8c7c1fb0ecb8d6fccc63c64a0b11b48a49dc737770549d094beb25303ae9a.html.gz",
+      "sha256_fonte": "019757121567453fd95098d9823190a3a132a98b939bf2bc8b2b7aa162beb1f6",
+      "sha256_md_publicado": "be37ee3d2cfb0d895668cf36437b174bf6c67454a5c008ddc1fc3ff831f18cfd",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1520-4-1997-01-17.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-01-17;1520-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1520-4-17-janeiro-1997-357659-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/807b5b56fed40887ab63358a1a53ca55e2cddce58003a42c00f6c9e45c00aed7.html.gz",
+      "sha256_fonte": "ac4e29215ba9d2d24bd90d250f39abf0cb2b83e386929406bd2954dd70df8be9",
+      "sha256_md_publicado": "5a4fbd5adfa546ab4bb96db20a2e3347e7bd8fa9d9fbdc85b00887cdc9fdcfb9",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1530-6-1997-05-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-05-15;1530-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1530-6-15-maio-1997-359519-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/57998ba578e7575ba542cde497bc4d832a2efb920d724d72cb351d521df24ba7.html.gz",
+      "sha256_fonte": "e10e0e5c03ec186592b868d60569fcf0f500d15fc9960916bf24386223f79bde",
+      "sha256_md_publicado": "3f15706f68b3d67f5b2403faab3c906fa3cae4fee6b92f85e8aa9960ba3be293",
+      "motivo_retencao": "AssertionError('brasilia, 12 de junho de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1535-6-1997-06-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-06-13;1535-6",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1535-6-13-junho-1997-359601-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/3260d60a0237ed6e38bd06c88d44033a84ae120751359fdf89a50e97a18bae0e.html.gz",
+      "sha256_fonte": "b3d67f60083790639278b33e3788cb5b8a658c988436815e570be0bb47437201",
+      "sha256_md_publicado": "b48befff9ab221ca0c1e91feabb2d613a8898891a10511a9bc81d9122ff4b598",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1547-36-1997-10-30.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-10-30;1547-36",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1547-36-30-outubro-1997-373620-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/012a6864c719281ddfe25fec8573362669a3ad2c9410844117fa20119e0955f8.html.gz",
+      "sha256_fonte": "d82a2e8d0611cec687b975df744e7f9139bd52305c63d5af2d1bb959397023e3",
+      "sha256_md_publicado": "01e28b322a167ff13a42ecb33ad0a780ca5d93b079438d7109ceba5259899d3e",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1549-30-1997-05-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-05-15;1549-30",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1549-30-15-maio-1997-374257-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d5a421415c6f1bb2283784f7fd6f8476ed8e15138fdb7d3edf813be9827bd4b4.html.gz",
+      "sha256_fonte": "9c71410093fa6cdfeefee42297b3e66636523355638022fadff102f3f2de455b",
+      "sha256_md_publicado": "d29d0b3eeb99b560a62139588ca6cd2752b9d2d289656f37870e565fe214c4b5",
+      "motivo_retencao": "AssertionError('brasilia, 5 de maio de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1549-31-1997-06-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-06-13;1549-31",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1549-31-13-junho-1997-371847-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/9446ff33ac58c6dfdbd90027c8e8c0c50c6603f694bcf936ecbd7aaf469bd913.html.gz",
+      "sha256_fonte": "3eab9f4aa8ffd85dbf3381270baf28249397ee2edf3b871c7ef50c51084e66b1",
+      "sha256_md_publicado": "2f631dc83f12a99c9b2caeabee2f1773e7a35dd92ef3f2cbb9543b9fc34aafdd",
+      "motivo_retencao": "AssertionError('brasilia, 12 de junho de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1556-14-1997-09-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-09-04;1556-14",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1556-14-4-setembro-1997-373725-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d2686bb60f5f7b39f7bd3fd658dc51a4c05107d6d52fef82fcd715b58bd3c5d3.html.gz",
+      "sha256_fonte": "0fb7842f8d003c30d34db863e510d0c13a9525f83c414d198145f9eea4afd234",
+      "sha256_md_publicado": "773e69690e46ef887f00775200507bd102bf42873b0595dc78c85a341755dca9",
+      "motivo_retencao": "AssertionError('brasilia, 04 de setembro de1987;176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1556-9-1997-04-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-04-11;1556-9",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1556-9-11-abril-1997-373719-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/201d9da9364a5398fa1a73cdadaad64f54a90337a46b2db5cc7a419abd736e6f.html.gz",
+      "sha256_fonte": "825beea5ae5345ebf0d8911ee5ae9cfe7243f443d71ae77bb8281e86c04857c9",
+      "sha256_md_publicado": "e17d81dc9c2864a499e8769f158bcc879ff9a6b5ea5e21ac257365dbb6630e85",
+      "motivo_retencao": "AssertionError('brasilia, 16 de janeiro de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1591-2-1997-12-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-12-04;1591-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1997/medidaprovisoria-1591-2-4-dezembro-1997-376725-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c6e91290e9c53d930ef597ccc4be9c11eccb98e4d82035b16c0b97852113c0ca.html.gz",
+      "sha256_fonte": "3bb417d86a8a785d6a0875eee813891dad15892cfb1479226f17cb8a6212b857",
+      "sha256_md_publicado": "0d8c85cb46ca4aa055723f7d1630a04b17c2480f65d4bba4de176edf50eefda0",
+      "motivo_retencao": "AssertionError('brasilia, 6 de novembro de 1997; 176º da independencia e 109º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1626-48-1998-01-13.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-01-13;1626-48",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1626-48-13-janeiro-1998-357445-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/01721a67047727d9a8ea69b11e8df0b9203e15305b94e46d4d231eec17872ab5.html.gz",
+      "sha256_fonte": "83f2721ff9a89f49bd30002cc9ab78c9ab4028ff1e6a09a79cee479beca81fd8",
+      "sha256_md_publicado": "05d6550e06e13a7d2daad782f518df40184643c749eb064ac550056aff3d6f6a",
+      "motivo_retencao": "AssertionError('Sem articulado próprio')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1730-7-1998-12-07.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-12-07;1730-7",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1998/medidaprovisoria-1730-7-7-dezembro-1998-372168-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/ee7d043be3aa9fac32959eabd4f35da18841e4877b26d048a407907aa0223270.html.gz",
+      "sha256_fonte": "a29ffd34084e2d37aac65a90207fa97db3df168ff8078eaf1c45840015bcc8f3",
+      "sha256_md_publicado": "e841074e3043a26775b468e5a578966c30c70899ceb129040f4c4384bbf469dc",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1741-39-1999-03-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-03-11;1741-39",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1741-39-11-marco-1999-370335-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c20189156beb64d77795088a04f6f35257bb851a832d82dc86650176ecbc4fec.html.gz",
+      "sha256_fonte": "84478f61a4789b72ba2c6c6833a74acf537aa873dcd3b270a644ca2663c41a50",
+      "sha256_md_publicado": "35713efe5786b24242dae99ba45aa6837c9ecebaefd01b0da94b1c4639f51ea8",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1798-3-1999-04-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-04-08;1798-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1798-3-8-abril-1999-371858-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/cdbec73e5831e2b4bf0fb6fef929ffd18de56d20f7a13eaeead780c91405eaaa.html.gz",
+      "sha256_fonte": "410ce09414233c205876ae961db63d2d410dd4008732dd577ec53f081e65ed09",
+      "sha256_md_publicado": "d91529abcd3a414907c37490a211b1c97b848938e00908a0135859cc2e24d3ee",
+      "motivo_retencao": "AssertionError('brasilia, 8 abril 1999; 178º da independencia e 111º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1799-1-1999-01-21.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-01-21;1799-1",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1799-1-21-janeiro-1999-372430-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/07930215310bec0ea7acad7635975266520005d1bcf0eda1b06cc29424bb3580.html.gz",
+      "sha256_fonte": "707d30d0aa072a64a4fc0a9fb884b9de5e823e95e088dcaf213024d8f2411f86",
+      "sha256_md_publicado": "d8398916bfe940685d189d3013ce1de05bdb628dd1d3e083ce06f4a7338786a9",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1799-2-1999-02-18.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-02-18;1799-2",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1799-2-18-fevereiro-1999-369313-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/c2f3924e5604edc41e77eeb35c63a1936eb0825dd2ca8f3a15f1c6aebf1f3b17.html.gz",
+      "sha256_fonte": "8740247ea363a49a359235c33ae9b6c665ffed4ceced9466d3f5277b5d6b21cb",
+      "sha256_md_publicado": "c6c838dc2e4ad91c519eabfe2a86626795fe735ff7ee09dd5867e24f2218964e",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1806-7-1999-05-20.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-05-20;1806-7",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-1806-7-20-maio-1999-377994-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/d5fc4e71c4510aec8d8cb9930b614bf50b3fe8c0fd32e773223aa40555f15a38.html.gz",
+      "sha256_fonte": "e23ffbcd582824bb8f4c16a62ece5d6897966423013d4236cd980ce24bbfa62c",
+      "sha256_md_publicado": "6cf865e2942bed3be9432d94cbc7ee5d3513f748e8513cba29692f1ceffb5cce",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-2005-3-1999-12-14.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-12-14;2005-3",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/1999/medidaprovisoria-2005-3-14-dezembro-1999-370033-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/eef4126f5b0c196c848f7e8e163e06c8b39ef0853fa2dddcc75887edaac719ff.html.gz",
+      "sha256_fonte": "fcc15c2130d017030ec4743d81613bb4775fc32b8cc172cbfa1b81a5b20aba70",
+      "sha256_md_publicado": "6d782086815d1126282343e28010188b4b42d2d686b368021e6bc5fca26605e7",
+      "motivo_retencao": "AssertionError('brasilia, 1º de dezembro de 1999; 178º da independencia e 111º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-13-2000-04-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-04-28;1934-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-13-28-abril-2000-374267-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/189705b341c8afd2dc6d5cb17e1e6d5d39453ae3bb941fbcb3ded30538dec15d.html.gz",
+      "sha256_fonte": "7c9491a85f47c0299074703b6653a9d17bef9cb492ccd82d5fc4deaeb6132b19",
+      "sha256_md_publicado": "47cc0634c38170a94505b5eb37a8659b42d5d74442a0a1dfc4e3811a47583d71",
+      "motivo_retencao": "AssertionError('brasilia, 28 de maio de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-17-2000-08-25.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-08-25;1934-17",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-17-25-agosto-2000-359949-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/86cbbbdb6d59e2f286547dc1628ce963e674df6175265f7dac4ad2fb39db546f.html.gz",
+      "sha256_fonte": "bafc9d598524dd33ac43d4f03b368aaa7bca2785f9678d410effe4aea18f5b3d",
+      "sha256_md_publicado": "c2dff280155bfd4c4a4e4ef9711e45e1898acafb59e8dd0ea4e20fc332c1b0a0",
+      "motivo_retencao": "AssertionError('brasilia, 26 de agosto de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1934-20-2000-11-23.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-11-23;1934-20",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1934-20-23-novembro-2000-361826-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/22cb747525bc204f09795b225674026e15c5f1e2057e59cd8e15847687f64ce8.html.gz",
+      "sha256_fonte": "7e13d475303d971de4bf58ec87469a880ea3ec5188ccc0a65fd474aea1911e20",
+      "sha256_md_publicado": "2049e7e0b8b058ae0fb7e55f6cc9c237d4fc3f8465737f8cbcaee82cbcdfcece",
+      "motivo_retencao": "AssertionError('brasilia, 23 de outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1948-56-2000-06-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-26;1948-56",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1948-56-26-junho-2000-362864-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/e3c97e2a4d4e1f62f47a4339cd485e1936f473b66a9fc595cd3a756fabad3893.html.gz",
+      "sha256_fonte": "157ed6380dd216b68dfa76856f942fb6001b0449e68289eef727db2dbad76a48",
+      "sha256_md_publicado": "c650736f777ecbdbe7ae7a4c913326f7c3c8cf860ad3afed2f1fc8fbb7363d3f",
+      "motivo_retencao": "AssertionError('brasilia, 26 de maio de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1948-61-2000-11-16.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-11-16;1948-61",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1948-61-16-novembro-2000-367350-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7a18a7997a46e6bdb270e41ab016982e59e660c43d90943e776af18e2e8790cf.html.gz",
+      "sha256_fonte": "36c2de5a97032dd873e0e980e25142dbb672db5139984212046f31790d91fae1",
+      "sha256_md_publicado": "48a4e4528988e8c4fcb6af5914a7dcd49fc15a8685f26d1cc1083083e5c973ed",
+      "motivo_retencao": "AssertionError('brasilia, 16 de outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1971-13-2000-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-29;1971-13",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1971-13-29-junho-2000-362209-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/60c32cecfb6d7bdbd64f106dd0f28a24f2a2bf07fc7783522e3b1d523336d37a.html.gz",
+      "sha256_fonte": "6d36bfbf538328c1f00ec8fa8947269dd9e7a8cf890cfcc78d4478b74c415995",
+      "sha256_md_publicado": "1371350a10b333f041f033bd31b7763e39ba68e86e90ffd7f39b3798745dbf4c",
+      "motivo_retencao": "AssertionError('brasilia, 30 de junho de 2000; 179° da independencia e 112° da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1972-15-2000-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-29;1972-15",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1972-15-29-junho-2000-362210-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/f8dd8c1d86c0ed08e4be9dc9a4aab5e2c644bdcf9817150c115bbb0d7e17ffcd.html.gz",
+      "sha256_fonte": "a1bc53fa60a6281aae7f063e559b0cdcb1993894356db8f36df6bc212475b9ff",
+      "sha256_md_publicado": "61613ea12c2051419638b4ac6898e0a4625d1bc5633a945a230a398d5afadce0",
+      "motivo_retencao": "AssertionError('brasilia, 30 de junho de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-1973-67-2000-10-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-10-26;1973-67",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-1973-67-26-outubro-2000-376505-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/11fedab0175f47b0480ee0d1e8ea07b97363b3fba8cf8374fea5f8131830b37a.html.gz",
+      "sha256_fonte": "a4cb2afd272ab7db6aa28cf11055feade4275fc86d09826db0ef63965621475f",
+      "sha256_md_publicado": "2be367b11d555b4f47b342ce2f60bf11900e4caf5283e74230b6a83e5d3ea649",
+      "motivo_retencao": "AssertionError('brasilia, 26 outubro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2016-4-2000-04-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-04-28;2016-4",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2016-4-28-abril-2000-374270-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/e7cf361942c9482273c1a0c079e692d95360e29a278b164e3fafb1f80e224475.html.gz",
+      "sha256_fonte": "69fc29ad1d1d2d8cbba79499f57dd2c0553abcbc60a5ba9e22a428f6d0c2f79e",
+      "sha256_md_publicado": "fc638a0e8d4667204996ee2cfb215ab8134ea1ce0fccf72c53f9fe9d8f605d8f",
+      "motivo_retencao": "AssertionError('brasilia, 28 de maio de 2000; 179º da independencia e 112 º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2033-37-2000-10-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-10-24;2033-37",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2033-37-24-outubro-2000-376124-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/b3122f2c3b29d0fa9f456ee9a31f4afbdb1b7d53abda522d0d67d30ddd69e028.html.gz",
+      "sha256_fonte": "82bdf593ab4ec113aec54bd534b9b141e7986781e05660d83babd20f4f755240",
+      "sha256_md_publicado": "c8d8c389af364aa6a3921120c646455d385d9c88accadf1fdc7ba32ff7b3ae23",
+      "motivo_retencao": "AssertionError('brasilia, 22 de setembro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2037-19-2000-06-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-06-28;2037-19",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2037-19-28-junho-2000-359974-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/7b8130b9f6c42a352f0fe529c05ce4b5e1471526011700426929c6a31174e9a7.html.gz",
+      "sha256_fonte": "dbc52a12ada72c401a0261257a97c12b7b63ab33f1574024338ff5024a7d98ec",
+      "sha256_md_publicado": "88cbd4b656b93191190baf26ecfcb6769c112188bc924a368c8cba2b21abc9dd",
+      "motivo_retencao": "AssertionError('brasilia, 26 de setembro de 2000; 179º da independencia e 112º da republica.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2109-47-2000-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-27;2109-47",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2000/medidaprovisoria-2109-47-27-dezembro-2000-366415-publicacaooriginal-1-pe.html",
+      "fonte_cache": "federal/_fonte/camara/94683971956433d496fe4cb9e885840b0c1ffe26b3e44a7427b2c6bc7b2d3d8d.html.gz",
+      "sha256_fonte": "c39457d462399c18f120d17684b45d782674a23543952117334379bcddce6a1e",
+      "sha256_md_publicado": "e242031a1501fabc4e654a9f15911a6a6460cfe5cf252227e3eaf3a29966b370",
+      "motivo_retencao": "StopIteration()"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-11-2001-11-21.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-11-21;11",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-11-21;11",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-11-2001-11-21.html.gz",
+      "sha256_fonte": "72c264ceb404fbd953da102ee5e3ea56092047d861c45dc471e9532b5056d781",
+      "sha256_md_publicado": "78769b5f367e952733fef231d83e815f4c15c2a5a892d8095f4ea6747a3e6ac6",
+      "motivo_retencao": "AssertionError('medida provisoria nº 111, de 21 de novembro de 2001.')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-16-2001-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-27;16",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-27;16",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-16-2001-12-27.html.gz",
+      "sha256_fonte": "6108b41221d5661898356b4e37235b6c0c899454436acf1b587cc6bbe68f7ce3",
+      "sha256_md_publicado": "9a09cb3c52e6582295dc3f19fa2e0a87956385aee5a8b2f06d710ea0bc33df4a",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-18-2001-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-28;18",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-28;18",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-18-2001-12-28.html.gz",
+      "sha256_fonte": "c1491788ad5a6e1f8958bd5d52d8ac2b2b9d84bca96630015083d3950f78a519",
+      "sha256_md_publicado": "e4893d133b038503ef4c11d0dbf5934630915cd4ddde2a55edf1ed97a67da273",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-20-2001-12-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-12-31;20",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-12-31;20",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2001/mpv-20-2001-12-31.html.gz",
+      "sha256_fonte": "442d41df2761fed1cef20e6bd3b2b641f4c9a60d24c75b428aa65a6476065122",
+      "sha256_md_publicado": "58e61f349a437eef95636a5b5dc184b0ed5ded1a2abafde0c44c7ead317bd2e7",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2158-35-2001-08-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-24;2158-35",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2158-35-24-agosto-2001-390566-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/33a585aca0a86fea58d45227efaacaab4b79602a338da287371b06bcbe094caa.html.gz",
+      "sha256_fonte": "e5735eee973d6845ac05888bc95abb6e26bc4882d333566612c9bbc020008748",
+      "sha256_md_publicado": "18c9046ac3464f29c87475bb4df443c64ad2c577eb8ef68f9d10f8a01161605e",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2215-10-2001-08-31.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-08-31;2215-10",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2215-10-31-agosto-2001-392526-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/0b82f805820f81b6a870a40bd19f1f83be83ca13782d4fcb80b44f9f6be30816.html.gz",
+      "sha256_fonte": "ba04e48b6d92442ad90b124de591c8a0954e98a1068d5ffaa6ff8dffa3d56bb6",
+      "sha256_md_publicado": "5efe82856ad5a3bb12d68f055cc2dfb8eda5192d9597e0dd92744a75dea28a0c",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2228-1-2001-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-09-06;2228-1",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2228-1-6-setembro-2001-404188-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/90c55a57e3d23a8a10969f09353fcdfea1381fdbb54068e0a182724b29f875d3.html.gz",
+      "sha256_fonte": "eda394aad953510442a01671be48abe8c3816fe39839586c180c199cd1e73a35",
+      "sha256_md_publicado": "a0f670b21d2d9765c8d947f86032adb26ba7f479acc2b1759481a429a974f050",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2229-43-2001-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-09-06;2229-43",
+      "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2229-43-6-setembro-2001-395384-normaatualizada-pe.html",
+      "fonte_cache": "federal/_fonte/camara/1ee15774fd56f70d7cc97778e747704b3b132469803e33de4858416c84f8f232.html.gz",
+      "sha256_fonte": "58e51490bc0b17638dcf3d2b16a4aad36b5169784bf4a8521eea807b07a3f0bd",
+      "sha256_md_publicado": "37705e9df84d054c851a0ca3a96abd29e360318c19046fda3c67845c91a8fb56",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2002/mpv-21-2002-01-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;21",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2002-01-08;21",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2002/mpv-21-2002-01-08.html.gz",
+      "sha256_fonte": "f7ae7e3a3e5b194d21dd2d35f78ea63a2ce1b8a96e4e6754322a86cdb24628e1",
+      "sha256_md_publicado": "6fc178fcb7feb78c38fa0bdd21ffda61b894b5544c00ed895386010793720b3b",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2002/mpv-22-2002-01-08.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2002-01-08;22",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2002-01-08;22",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2002/mpv-22-2002-01-08.html.gz",
+      "sha256_fonte": "bd23feadb0bb4a832ff8f0bd4e22d357c68dda1fc1c9fa79367913abb6a7a52f",
+      "sha256_md_publicado": "24a6547ca3e67bb5fd27d26d74b1e1bb87607a92965bfcebeb31eda7ea92f40d",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2006/mpv-280-2006-02-15.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2006-02-15;280",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2006-02-15;280",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2006/mpv-280-2006-02-15.html.gz",
+      "sha256_fonte": "b6088295346fc23491000354fca584023e8c1e2dc062999308e69f013f54e194",
+      "sha256_md_publicado": "21b20921dd1084035bb75cb0bc4e48cbcd67650e40476638665621d83dbac36e",
+      "motivo_retencao": "KeyError('fevereirio')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2010/mpv-501-2010-09-06.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2010-09-06;501",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2010-09-06;501",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2010/mpv-501-2010-09-06.html.gz",
+      "sha256_fonte": "04d811e595d40dac904efeabed483fd63207bce686f0c81a1b95bffe49a8aded",
+      "sha256_md_publicado": "cbdbc8ef6cfab47ffe940a262ab8510c1be3da73214406544e0efb584d8a1f73",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2011/mpv-546-2011-09-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2011-09-29;546",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2011-09-29;546",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2011/mpv-546-2011-09-29.html.gz",
+      "sha256_fonte": "442799334b8748f4886bf3ce3ccafc8d446b81cf74fb3ea63de0c951dd6c4b90",
+      "sha256_md_publicado": "b58e939b11ccaf0feaba6e125766669a1d501b122c85401870c504737348a963",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    },
+    {
+      "path": "federal/medidas-provisorias/2012/mpv-601-2012-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2012-12-28;601",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2012-12-28;601",
+      "fonte_cache": "federal/_fonte/medidas-provisorias/2012/mpv-601-2012-12-28.html.gz",
+      "sha256_fonte": "55e4a8fa9db492d3c5523fcbbc076782a5358b08377191609071193687487eaf",
+      "sha256_md_publicado": "5118a41376a433c9792088eef81726adba35816d8cfc64c905e3b6f9a36cd1c5",
+      "motivo_retencao": "AssertionError('Sequência visível não coincide')"
+    }
+  ],
+  "snapshot_superado_por_recuperacao_anterior": [],
+  "resumo": {
+    "candidatos_snapshot": 166,
+    "substituicoes_publicaveis": 102,
+    "retidos_revisao": 64,
+    "snapshot_superado": 0
+  },
+  "historico_e_fontes": {
+    "path": "federal/_historico_recuperacao_tabelas_series_20261020_002.jsonl.gz",
+    "sha256": "2d390b29d49103c26e7bafb8ae470d2413f45732b81ef50b740650637e32c29b"
+  }
+}

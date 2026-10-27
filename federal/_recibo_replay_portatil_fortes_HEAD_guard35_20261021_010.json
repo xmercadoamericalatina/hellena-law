@@ -1,0 +1,22 @@
+{
+  "codigo": {
+    "path": "federal/_replay_portatil_fortes_HEAD_guard35_20261021_010.py",
+    "sha256": "9e8164d4ba4a47cc839d338ce04ce7cdb454aa71be27d17608b192e90764efb1"
+  },
+  "insumos": {
+    "path": "federal/_replay_portatil_fortes_HEAD_guard35_20261021_010_inputs.json",
+    "sha256": "0a6019c46ffe668ac84ffe40bd8ac724980d783e51e74673dcfcbf56198fd929"
+  },
+  "comando": "python3 -B federal/_replay_portatil_fortes_HEAD_guard35_20261021_010.py",
+  "resultado": {
+    "head": "dfd2cd20d8bf89ed6a4ea45a817232bc6f23f806",
+    "delta_recalculado": 6700,
+    "estrato_forte_recalculado": 5262,
+    "propostas_HEAD_reproduzidas_integralmente": 5178,
+    "metadados_API_arquivados": 5179,
+    "sha256_propostas": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc",
+    "mutacoes": 0
+  },
+  "mudancas_sobre_009": "Somente I/O: snapshots locais versionáveis em vez de /tmp; metadados JSON dos backups 5.178 mais o único caso de caixa excluído após ler API; dependências Python exatas arquivadas. Predicado, ordem de seleção, exclusões e linhas finais inalterados e confrontados integralmente.",
+  "restricoes": "Sem rede, Git, caches normativos ou escrita. Não altera registros, normas ou pacotes 008/009 congelados; apenas acrescenta arquivos de prova novos ao diretório 008 conforme solicitado."
+}

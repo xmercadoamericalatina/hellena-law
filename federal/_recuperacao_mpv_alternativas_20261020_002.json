@@ -1,0 +1,63 @@
+{
+  "escopo": "Reavalia apenas a MPV124, último caso das203capturas anteriores, com divergência de fecho explicitamente preservada. Nenhum MD canônico alterado. Planalto preserva anotações/retificações e tabelas; excluído apenas brasão/cabeçalho decorativo comprovado. Substituições exigem SHA anterior.",
+  "publicaveis": [
+    {
+      "path": "federal/medidas-provisorias/2003/mpv-124-2003-07-11.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2003-07-11;124",
+      "sha256_md_publicado": "5acb49d7bd4f841574a0dad0c1c6733b322416fec2d7c13858398f7f1fb28e30",
+      "candidate": "federal/_recuperacoes_mpv_alternativas_20261020_002/mpv-124-2003-07-11.md",
+      "sha256_candidato": "5dcde8265c2bcac458f79947b3f6781f6b03f0dc18e761435d829ac701fc5e20",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/mpv/antigas_2003/124.htm",
+      "sha256_fonte": "d7346b0cac135d0a6dbbd1979a878ceaaacaa34f0ede67d7f2070baa1af10588",
+      "sha256_area_normativa": "dbf068a3a227ed4b8401fb92e61594697e6d7e0e6cc6a283f7049aad2dc0abd6",
+      "epigrafe": "medida provisoria nº 124, de 11 de julho 2003.",
+      "fecho": "brasilia, 11 de junho de 2003; 182º da independencia e 115º da republica.",
+      "metodo_identidade": "epigrafe_indice_api_e_diario_oficial_camara_com_divergencia_fecho_declarada",
+      "tabelas": 3,
+      "checks": [
+        "texto integral visível idêntico",
+        "estrutura de tabelas idêntica",
+        "nenhum visual na área normativa",
+        "anexos próprios sem placeholder",
+        "URN/número/data índice-metadados/epígrafe próprios",
+        "histórico anterior preservado"
+      ],
+      "sha256_metadados": "d9de83680bcfad38516c73237419bb398592058164773c6cd05947ccd38c0902",
+      "nota_editorial": "Nota editorial de identificação: a epígrafe do Planalto e o índice/API do Senado informam 11 de julho de 2003. O [Diário da Câmara de 23 de julho de 2003](https://imagem.camara.leg.br/Imagem/d/pdf/DCD23JUL2003.pdf#page=18), página 34406 (página 18 do PDF), registra adoção em 11 de julho, publicação em 14 de julho e retificação em 15 de julho. O fecho abaixo informa literalmente “11 de junho de 2003”, como nas transcrições oficiais do Planalto e da Câmara. Essa divergência foi preservada; não se atribui à retificação uma correção de data que não foi examinada.",
+      "limite_identidade": "Data de identificação adotada da epígrafe, índice/API e registro parlamentar de publicação; fecho divergente mantido literalmente, sem certificar correção definitiva da fonte.",
+      "provas_identidade": {
+        "diario_camara": {
+          "url": "https://imagem.camara.leg.br/Imagem/d/pdf/DCD23JUL2003.pdf",
+          "sha256_pdf": "1e2411a04c8e7921c90ef818d55bcd666aef1892492570920392e1c3d883f475",
+          "pagina_pdf": 18,
+          "pagina_impressa": 34406,
+          "inspecao_visual": true
+        },
+        "tramitacao_congresso": {
+          "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/59509/pdf",
+          "observacao": "Registra retificação DOU15/7/2003 e re-retificação DOU16/7/2003; também contém menção contraditória a11dejunho em outro andamento. Não tratado como prova de correção literal de fecho."
+        },
+        "arquivos": [
+          {
+            "path": "federal/_provas_mpv124_20261020_001/diario-camara-20030723-p18.png",
+            "sha256": "7a8145cd1de5c9ee98106e5c4bf29f233c46af5e1ac8616eed35082330be4b5c"
+          },
+          {
+            "path": "federal/_provas_mpv124_20261020_001/congresso-mpv59509-tramitacao.pdf",
+            "sha256": "370a08c3e273ee09abdbc1a1027afb8f0fc0613b4011cacf2cfddb15a286bafa"
+          }
+        ]
+      }
+    }
+  ],
+  "retidos": [],
+  "resumo": {
+    "candidatos": 1,
+    "substituicoes_publicaveis": 1,
+    "retidos": 0
+  },
+  "historico_e_fontes": {
+    "path": "federal/_historico_recuperacao_mpv_alternativas_20261020_002.jsonl.gz",
+    "sha256": "4ab46e6fca423fcb0e898ca6f3e106ab304e7f2bd3e548436194079e20abad6b"
+  }
+}

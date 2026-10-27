@@ -1,0 +1,693 @@
+{
+  "escopo": "Somente plano de promoção; nenhum destino canônico alterado. Aplicar cada candidato após verificar preimagem.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1957/dec-40976-1957-02-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40976-1957-02-15.md",
+      "sha256_candidato": "cc3a85a6819a058fdc6fb22601c0697f9bbf3545ddf98a3d22ead4b6f1cbeae4",
+      "sha256_preimagem": "dc17d25a9a97579b4ccf49826365efa7778cce7a7f925a5f3c16b9531f7b3074",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40977-1957-02-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40977-1957-02-15.md",
+      "sha256_candidato": "82792b07f23e0031695681ce728408f89be8fc950800880d39a53691515d4a11",
+      "sha256_preimagem": "1528d0b757c4ee2b997ba7eb0529b70ded6b52e73e69c8932873e5b063cc4e4d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40948-1957-02-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40948-1957-02-14.md",
+      "sha256_candidato": "f3a2afc73a5a7660a3ad8b38939203d1839ef34a8015ba2b9712ef09bf54de40",
+      "sha256_preimagem": "22c880411fa33ddb8cfa8929d73473067363bd1ee5c10b30c7715fc7bb4ed13b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40872-1957-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40872-1957-02-07.md",
+      "sha256_candidato": "2b5cb06fe9feb9ac2845fed472bb3b87ed9d54e385124f4a6a856461fcb79bc9",
+      "sha256_preimagem": "07da0e20f4e847894f6a075f3b74167ae8029565e03bf00cda8ab7f5cbf5f140",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40844-1957-01-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40844-1957-01-28.md",
+      "sha256_candidato": "61c70ae58eba74575da3629c27c83640e5f92d4c4faf522136d545d60bf176cc",
+      "sha256_preimagem": "b8701452b4bf251a8ded594943ccc13085fb0cb64e965df7484e5db7f309bb4e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40823-1957-01-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40823-1957-01-23.md",
+      "sha256_candidato": "061f8b000ccdf4d6604670c48d08eb78ec7ef55e3c249f4eabf07cb86b95b7bf",
+      "sha256_preimagem": "fede741517a11dfef576dccbaa282bda2fe7773cc8293a02e5be689012df6677",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40827-1957-01-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40827-1957-01-23.md",
+      "sha256_candidato": "3188a6bfbef47d2e2282ec3d196960e9c8b6865ab356414a0ae7c8166fb401e3",
+      "sha256_preimagem": "3b209b1ed4913eb4a795afd039c9bb30fdd3d08c4175a18f0f7364d8435789ed",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40799-1957-01-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40799-1957-01-22.md",
+      "sha256_candidato": "17282fbf1d410519ba537055439ea64cda5c3266042cbd5c392cef0c283e97ef",
+      "sha256_preimagem": "5e1edd0f2365da6d80f7c4f696dc5e833d5d2cf7002db8ab7fa8dabadddfafd9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40765-1957-01-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40765-1957-01-16.md",
+      "sha256_candidato": "c8ede4c04a50a0332527d88e4d55f0ee2b447085bd33e2ba17f6716cecf422b9",
+      "sha256_preimagem": "21e2c200f22ac1bd440119080571ccd3d61dc32dd8088ea7ef054a2173f84fff",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40754-1957-01-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40754-1957-01-15.md",
+      "sha256_candidato": "1e30165e9dffa25169ef60e99a790ca3f5ad761b1457d9b7a0e0b671e1170f72",
+      "sha256_preimagem": "f4577afbb23b4e8ebe4cca41e9232605f21e8ff31516229e60d8db8f9a557b4c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1957/dec-40742-1957-01-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40742-1957-01-12.md",
+      "sha256_candidato": "ece730a91db506bdc3294195e0b5bc50a534fb8d899849cac0be063512d5fb6d",
+      "sha256_preimagem": "6027325326d0e899c044b31f80629838ea26cb625a147e2817dcc27f5a0ef4c0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40668-1956-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40668-1956-12-28.md",
+      "sha256_candidato": "8f57927fb0841322c597674180a732ab71649eff197be909f58cd50b36d81e62",
+      "sha256_preimagem": "e90d7c94cac7177991823dce70f16002a41a8a3986a663f9c65425e7de21c0e5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40684-1956-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40684-1956-12-28.md",
+      "sha256_candidato": "c2db977be03afc0aaa2bc71a69aab6c4fd8013118cf377d26afd4d54639a0ad7",
+      "sha256_preimagem": "048f684df3f219ef81c6686a48503f3710bb2706fe2ea3c03e45b7371dd7f1de",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40687-1956-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40687-1956-12-28.md",
+      "sha256_candidato": "99e69bd931492cd866570fb2448e70b2bb8c7a8051da16b4ee0a93581444e45c",
+      "sha256_preimagem": "93d226a331de90790cc244a6c05037968fe965760c9cfd3f2caa30dfef2797fc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40688-1956-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40688-1956-12-28.md",
+      "sha256_candidato": "462c85a73a8d0fd54b8466ebe036e8c1096c45d796cba6409ceb87f5a9396ab6",
+      "sha256_preimagem": "2bfefec876ae7bf5323d384106d3dad6a42acce676ec0dbafee03512099b1fa6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40591-1956-12-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40591-1956-12-26.md",
+      "sha256_candidato": "140723196d3a0905066d76dd8b9142d9db72ac21645558661b561b33e93c2900",
+      "sha256_preimagem": "aee20258076445cf254bcb96cbe781674fdd84d69934e3fd403d88f7954bf4f7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40654-1956-12-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40654-1956-12-25.md",
+      "sha256_candidato": "83edca1798b2ae76038034b9e40747069227c526872a78362783a6716ab0cb93",
+      "sha256_preimagem": "8b84b6b7375aad44e763bd22c21f1dd49e98fd35a0259f746ef29c18987c0f73",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40521-1956-12-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40521-1956-12-11.md",
+      "sha256_candidato": "06578b1fc0a45214a928b9dcd92abecefaf3714633949db0f73b93ff5aa365c1",
+      "sha256_preimagem": "95a08e630eb72122c6dd0c9322f2f22fdd587ea89ba572f211f7e6280cf37071",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40484-1956-12-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40484-1956-12-04.md",
+      "sha256_candidato": "0a457721415e1180b138f24faf738df31e38b03f28e3d47ea379bdde8f8285ee",
+      "sha256_preimagem": "de667abcb4596f609362fdbbbfee51b563266a6dbf5b3cad544952d3293e5eff",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40457-1956-12-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40457-1956-12-03.md",
+      "sha256_candidato": "cb4981ee32708c7690010fa95d68ffefa027b99002c09b7a362d7de91c4745b0",
+      "sha256_preimagem": "83e19f3fc24571dbc679e8673f43c8e3f7cde7fbbb626e3d4a3cfd04b7d422f9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40460-1956-12-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40460-1956-12-03.md",
+      "sha256_candidato": "08836cf302749ece1d32d98e895edb6bbc6afb5723fef032b174ebe1fa1ca0a8",
+      "sha256_preimagem": "c3afea8c7f9293b129c82019cad7dea3942ff8229d8be2704f23e20b705fedfb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40462-1956-12-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40462-1956-12-03.md",
+      "sha256_candidato": "d57e4305d0d1115ccfe661cf85cc2014b492d4addf41a1d9784ba3576f2069f9",
+      "sha256_preimagem": "fd290fdddc599e0bafe9079383b83a5d4b2647741f921b20e53d40895f0983d1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40408-1956-11-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40408-1956-11-26.md",
+      "sha256_candidato": "905eaec82383cc214cfcd5580cb1fae58c0a1778860abd8eb1548e277238c28d",
+      "sha256_preimagem": "176b24cd0cb619f93114b3c97466a88fbc9dccc65909ec968e41eff9dc6b70d3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40420-1956-11-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40420-1956-11-26.md",
+      "sha256_candidato": "e81a6ad6de7323f83289dbf44fb2341bed77a712598292fa39906aff861cd31e",
+      "sha256_preimagem": "19c04dc3bb847f58574e7b8f497922b468fe68430ef386f1775ba3bd3fce5647",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40358-1956-11-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40358-1956-11-16.md",
+      "sha256_candidato": "574adaac9515bdb76f896736a5022a10c6ec90dafab2826064457c6618a23551",
+      "sha256_preimagem": "f2bc98bf68b8eccd79aec0db054e0e3ebc1f153c4b493b705ac7da1014c5882e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40334-1956-11-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40334-1956-11-13.md",
+      "sha256_candidato": "7a48ea696d81ebe89e1a05201a7980adb76c2858f4f8f8998f35c60268cd7890",
+      "sha256_preimagem": "469a3ea7fadb32f05564d096f3295ede02c51959ef47abb54eaac10dd8bf9dfd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40236-1956-10-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40236-1956-10-31.md",
+      "sha256_candidato": "7b2d6e48e8b8a64b374cfd1565594049e844fb83d24be5676d43801e23105e4c",
+      "sha256_preimagem": "33b5313d6820493a18d37752b2a253a27f0cdcf6fdfc0bb3dbdc3879ad8e36bf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40254-1956-10-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40254-1956-10-31.md",
+      "sha256_candidato": "82cd0bab4f2ffd04415ef94a1f5b66e2c766bf3a3bff73d23262c3e3a9132f2c",
+      "sha256_preimagem": "d471e9a14030b79b62c5a7bd0bd0d8fc60e1de809451778c16a8701d0e82a9b1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40259-1956-10-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40259-1956-10-31.md",
+      "sha256_candidato": "d96819b46b8b1e466bf4833ba3384a48a1fb2da0e0df8d4c9555029a81c0893c",
+      "sha256_preimagem": "10c6ffb31c97abb3524a90b41a52e29e00f3f2871b3b004acd20629227dc7f6f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40208-1956-10-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40208-1956-10-30.md",
+      "sha256_candidato": "6a1f4cf65f505c7c0aea4a5382ac2958b5c12bfce8b6c66ff366cf557722da2d",
+      "sha256_preimagem": "f2b1a8250df96f9329ecdb744f9d0f37989e5ccfc3579fef7e1f00f4d51be00e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40178-1956-10-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40178-1956-10-27.md",
+      "sha256_candidato": "f0379180eb587da834af7d8196468f3a911f86d0dfa7094ba712ea4dca4329ff",
+      "sha256_preimagem": "6623b9b38075180669568c6346cec10bbbe8c3ffa19054b42622eb94d98ad645",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40156-1956-10-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40156-1956-10-16.md",
+      "sha256_candidato": "caeffbabe5354d82d1891641317103beec43765ae9edbe8f6a09dd3e0013394b",
+      "sha256_preimagem": "b4b18bb4bd46296196c318fbf616e7d7286564670f168a7b3ac2c6cf462ecbe5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40330-1956-10-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40330-1956-10-12.md",
+      "sha256_candidato": "a8652a0e65afb9ebb4cc8c729b9d7a5df695e99d1ace9e39910a6521a15dcae3",
+      "sha256_preimagem": "0ed44192b8c70c81f6d6dcd18696d665e96359dfb4f5a7e39b9e73193b0c9263",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40091-1956-10-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40091-1956-10-09.md",
+      "sha256_candidato": "1ad7c88484459fa671ec4e418ae4d46529138e6b71356d88e7d0c73b2d5f7326",
+      "sha256_preimagem": "57f9ba1f131bfcde00c0375f691a5d963561ab304bdf60b9b1b59c16f71a7098",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40057-1956-10-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40057-1956-10-01.md",
+      "sha256_candidato": "9ab11b6dd71bb0f623bbab65e73ea45fe5e341a95e4331f7e0964688add5e3ac",
+      "sha256_preimagem": "24d378e1a053737733ea04949b44ef3f04f0f3ae3adb49da356d444b99063357",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40029-1956-09-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40029-1956-09-25.md",
+      "sha256_candidato": "8d843cd832202d4c2e595d2ae64450b287b3d474555ed25e4a4959a964af0e61",
+      "sha256_preimagem": "75109d01f9218923258ba14d1d1d57ef1dcff46a339e971ff574ba989e58fb0d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-40031-1956-09-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-40031-1956-09-20.md",
+      "sha256_candidato": "adbc44a9ebac9d2e4da55703cb659839f7f6c8f298b0f72dcc064755200c7f7e",
+      "sha256_preimagem": "89d35860bdd7ff32643d27ef0639b02a6f97faca65d417f05f75fbe36a926d8e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39992-1956-09-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39992-1956-09-13.md",
+      "sha256_candidato": "08eebaa62b146f0a0a2dd5080a1effd2da8d869fe1650e952e6d803773d10558",
+      "sha256_preimagem": "3dc4f9c95ee288ef67a7d5b4661a2cfbf03f28b2e8912d8d1f5e0330866a92bf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39935-1956-09-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39935-1956-09-06.md",
+      "sha256_candidato": "65183685df858e9ab0f6c70c2bc1a2db65322d240170ce96b51a6d7a12e8c10b",
+      "sha256_preimagem": "21dd894822c4256f207cccd8c32667277224d2767c7257daf3c9a4272943ed52",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39955-1956-09-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39955-1956-09-06.md",
+      "sha256_candidato": "c4b72f041c0b4ab8c0030fc487d425a48d0a302edcda7289f3351800d7fe01dc",
+      "sha256_preimagem": "c825a0a3bd1741253e2fd58405ac25b84f7fe3d2779378640e07610d7c000431",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39960-1956-09-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39960-1956-09-06.md",
+      "sha256_candidato": "15fb6eea080d3516e30aab7c85fc9829ed71e6cda5f869613831c2030f5d145c",
+      "sha256_preimagem": "4dc61c2eb914d6d9d13f0a10a0e48269bfc30c09d2255137654be8b4a32a1f96",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39848-1956-08-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39848-1956-08-23.md",
+      "sha256_candidato": "36450e2ac2c7760c091c1e0a45af0d71b08813c1fecbaf7d874d00dd4bf2222a",
+      "sha256_preimagem": "c8f3624bb407ba1577e3707788afd429705316ce97d6647acb643731f39e4e5e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39720-1956-08-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39720-1956-08-08.md",
+      "sha256_candidato": "ced5ccc67fc162d611bd4f7b639ecd67ea4b7802636b12145bf4d52d7c9dbc59",
+      "sha256_preimagem": "2f38406668184e1780e643ce20020635bc4230d86589e0cb67a1c0e81c7b9b90",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39647-1956-07-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39647-1956-07-28.md",
+      "sha256_candidato": "a2b531db2c8bd67ac2a84be7e3d308a46df1f3f5ca60d007d588ad7956af06ba",
+      "sha256_preimagem": "b3e72eac297d5d2eae31d37c1959056eac54a4eb1c140f17de3150b1d611ab65",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39645-a-1956-07-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39645-a-1956-07-25.md",
+      "sha256_candidato": "7416eaab9eabecfc30a1c73a8a33a3a22f1867f4861c339022bec95442defe7d",
+      "sha256_preimagem": "38d2b2c7c6e8decda1ca9f3faa0348c00f1060fcfddded6765870a24ad532f4b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39628-1956-07-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39628-1956-07-19.md",
+      "sha256_candidato": "5ef722d62f506a728a88a29b9005fff9eabc81cc2c6bbb587cebba759f905695",
+      "sha256_preimagem": "7598cf11fb619d25e613ea3f3513e3d6ce4e8479f4f0c5881b5718c1ab24bba4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39612-1956-07-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39612-1956-07-18.md",
+      "sha256_candidato": "92f5e76f357a70181cb0a14fd1d75a8b6aa2db900b54d48cc286428ec9681adb",
+      "sha256_preimagem": "47068031b1d3cae772bb933cc9da91ce5a63373378db0fcc985dee84da03c04f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39532-1956-07-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39532-1956-07-06.md",
+      "sha256_candidato": "4cd9428f138fe6213a9f36bac5e238cc23e4305472007845ebe20aee2c10ec63",
+      "sha256_preimagem": "25c84411e2fd6a05e9f802ab7e179be7e730e7e9546137536435f0632be3a242",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39512-1956-07-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39512-1956-07-04.md",
+      "sha256_candidato": "bd8eb6eaa39e6f1e2e7958700914c1d4368ef64b18c0bf32cf6bef3056809f72",
+      "sha256_preimagem": "b1e0f13727bedb09507453a2226dfd7f96b1c680781919e0b44b45f59948d017",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39470-1956-06-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39470-1956-06-27.md",
+      "sha256_candidato": "6f8648c5d3b43707d1cbff4e2157e033f045525329914b7dea732c294f2bca1f",
+      "sha256_preimagem": "94ddfaa645b9a6c1b0220b68a4a15440bea1a6a28a3d89aa8139250c39b68389",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39415-1956-06-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39415-1956-06-19.md",
+      "sha256_candidato": "a0d124d283c67b4da36b0b3a863841c5c81f66cf2db9f5e40267becd6861ef0b",
+      "sha256_preimagem": "a12d541bf6a34d3b3dfd5e687c1b2286d7608166a91c1118cdd4974ceea5395b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39368-1956-06-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39368-1956-06-13.md",
+      "sha256_candidato": "4b14f2968d83b38ec87a02c4900c142b185df85d37f466a61a60967a5c16db0e",
+      "sha256_preimagem": "8c5a74438f54239c2763236426e4789444e80c705da10941e62dc4505004b2eb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39381-1956-06-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39381-1956-06-13.md",
+      "sha256_candidato": "41af1f5fd0340fcabc93878143d5fcc7fe45bb8f439205ef163f56ab4e45fe6d",
+      "sha256_preimagem": "8c06bbf37f987756061042bc96598411499b6a9ac8e01abdaef567662ee5660e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39405-1956-06-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39405-1956-06-13.md",
+      "sha256_candidato": "341e0ee950f5042b3b4b0b83df1500d78189ea0650a3d1f38217eafa3232ee19",
+      "sha256_preimagem": "1d8dbec8fc3b7f7c0bbfb2acdb1c6c81ef9b5d7dd2a1a35b323c7dd49fdaa14e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39354-a-1956-06-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39354-a-1956-06-12.md",
+      "sha256_candidato": "bd3c3680d1b325cb3224da0684ae1557d7791286303a8eea776bb9fe87d7d177",
+      "sha256_preimagem": "efbe7b872252b63dc21e58df52a59c6ffe467b7a648318897a06ca70e42029b0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39318-1956-06-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39318-1956-06-05.md",
+      "sha256_candidato": "9401f530f25569e42616bad07e05a21cccd9d0a5a8216deb1ea4e9e02f55290c",
+      "sha256_preimagem": "7a99aef62ceda556651fbfc43948386fc8e147b2d56d8d8716a53eed5bd09f13",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39308-1956-06-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39308-1956-06-04.md",
+      "sha256_candidato": "1cea89682ec5495203de5dedfd8bfea116074a71d3429fdee30ce0f748950d99",
+      "sha256_preimagem": "7fbc7f0ee82497a2417e9ebee1088ca6104fc9e3705325225a801936fdc2870a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39313-1956-06-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39313-1956-06-04.md",
+      "sha256_candidato": "70afb2412d693410c6c4b6aaf37630123710082751f9d167db01f9430980330e",
+      "sha256_preimagem": "4e96c6c5b86132be3c94f3b019d6cb3fe8025d0733c61c697e4f00c21ec6cdc8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39285-1956-06-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39285-1956-06-01.md",
+      "sha256_candidato": "aed1a2db23c1ace9cc8e078ffd6ec0311f51cc3c3b086870cd333ece3f75b3e2",
+      "sha256_preimagem": "82ab1a7f72096893847661d0f0ce54421126795efae3db8c3f4341788bf004b2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39276-1956-05-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39276-1956-05-30.md",
+      "sha256_candidato": "228feab9c47359fe84d8a98daade78a0eff00eb320fca8d1af791abefdc8809d",
+      "sha256_preimagem": "30eae9f8740b7eb8b5139d1ea522fdd83500ec55119d818068ee606ea07a632d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39257-1956-05-28.md",
+      "candidate": "federal/_candidatos_excecoes_commonmark_20261020_001/dec-39257-1956-05-28.md",
+      "sha256_candidato": "dcc79a7ffddb83bd25d16a49c0380d2dee0e42dba6e5a550795af78a76896b39",
+      "sha256_preimagem": "f9a6be1b52389d3a3164f2a6ed5bf42e7f1435da3e32bf5d7a16136e34915a91",
+      "mudanca": "Markup do rótulo Art. 33 corrigido para renderizar literalmente Art."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39222-1956-05-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39222-1956-05-23.md",
+      "sha256_candidato": "a6f927f8a18f3d61b22711a5ffc1333ac3fb7a60900a7b1cae4b9f2b410ce0c0",
+      "sha256_preimagem": "065b224bee54682e80ef13feaae7219d994e285a9a40fe8904bafd14c08abd50",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39209-1956-05-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39209-1956-05-22.md",
+      "sha256_candidato": "c546aea0bc31cdbdbb2ded23dd7d1f5dc6d2e59dac6f8e5355962165f43fcd10",
+      "sha256_preimagem": "2387d55017400b0463cacea48babdfc8727215b7f34367aaea51fce152134c49",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39182-1956-05-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39182-1956-05-15.md",
+      "sha256_candidato": "37e9aae737101995b1d18c448bddae40b04155ef94924987aac15c1b221a49c7",
+      "sha256_preimagem": "85d74feab90558c2d48f29ea74748f025494b74412403bc556676de43b4129a6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39155-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39155-1956-05-14.md",
+      "sha256_candidato": "249051ad445f229b6439fee02af16296ebdab563f36976e6e9773992b7d23f8f",
+      "sha256_preimagem": "65eb2fcdc73d1e66adc7af554ec9f17cdd761d741b2ca95fa07954d144051482",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39156-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39156-1956-05-14.md",
+      "sha256_candidato": "e8b3a7eb4911f5194de3b81408bc5734f52c0479c986660cc497bda98c84e29a",
+      "sha256_preimagem": "f401492dac09ed0248184a3302d56469ab5fc3ca2b81282ba7cae2d3e59d2639",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39157-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39157-1956-05-14.md",
+      "sha256_candidato": "8b2e8a53ac7fa46d6116ac9d50b6532e14fb81c0775a350f9089767b47f372ec",
+      "sha256_preimagem": "7d3c02f0cf29174f3a03eb0b536e03e72907eabc0b9b64017a8a9df862d1b35e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39159-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39159-1956-05-14.md",
+      "sha256_candidato": "4981416dde9fe7ffe5bf50dd8eb2d38a2e79e85e8b8264ae524d818f0019fafc",
+      "sha256_preimagem": "eee1bbe676049649a87d3e3136b2e90a2f2f1a16aa200c83a22a4faa68ff135d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39161-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39161-1956-05-14.md",
+      "sha256_candidato": "b11d179da0ab5f58d27605c61263c706943035a8ee0c55e4d5ca2f7fe71b9d11",
+      "sha256_preimagem": "f612e2da13486a63488888080451d451aa82131690b41d56895ac07718330f3f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39171-1956-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39171-1956-05-14.md",
+      "sha256_candidato": "e8c9c4776c8a08c381fea92393f764cd9738327b5b9b0927bf93e3114d5e1fdb",
+      "sha256_preimagem": "c43c15947375198adc590b7d84628bb9310bb9d8010f8bc62860fff2c03193c9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39082-1956-04-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39082-1956-04-30.md",
+      "sha256_candidato": "030010bd2dd4d6f47e3945ad01f4d0d5bd28a603917195b3f60de0efb1a11fc3",
+      "sha256_preimagem": "f26355fcf26b0354358d423f80cb41bd3481803e1c618637316fbb892ea41961",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39104-1956-04-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39104-1956-04-30.md",
+      "sha256_candidato": "3c28c4fa431b8ea1492a412598e7e8cee37ea3762be488794da3095b8b284370",
+      "sha256_preimagem": "13b885d9fd1529b5ed7b2f8d041d256740efc5399ca53084322ec0c2d3221336",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39074-1956-04-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39074-1956-04-24.md",
+      "sha256_candidato": "95d46091b0a7c2bc97612bfd3aa62c792b1d50416cc9bd7fb191433b271305ea",
+      "sha256_preimagem": "3b1a1cbd7b22ef25eb7486d4db862c7c51ef94fce1388187f880d3853dbce6cf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1956/dec-39038-1956-04-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261020_001/dec-39038-1956-04-18.md",
+      "sha256_candidato": "b0f8be7957bb6f40faeaad764f787b7b6beaa6e37eb4cc1901ccbbf755ccd300",
+      "sha256_preimagem": "5d4cc9d55d30c79997863ca25949fdb51561a1903e8b77dd575b5e34afd9fcd2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1957/dec-40995-1957-02-21.md",
+    "federal/decretos/1957/dec-40983-1957-02-18.md",
+    "federal/decretos/1957/dec-40971-1957-02-15.md",
+    "federal/decretos/1957/dec-40972-1957-02-15.md",
+    "federal/decretos/1957/dec-40981-1957-02-15.md",
+    "federal/decretos/1957/dec-40940-1957-02-14.md",
+    "federal/decretos/1957/dec-40924-1957-02-13.md",
+    "federal/decretos/1957/dec-40926-1957-02-13.md",
+    "federal/decretos/1957/dec-40925-1957-02-13.md",
+    "federal/decretos/1957/dec-40927-1957-02-13.md",
+    "federal/decretos/1957/dec-40928-1957-02-13.md",
+    "federal/decretos/1957/dec-40929-1957-02-13.md",
+    "federal/decretos/1957/dec-40930-1957-02-13.md",
+    "federal/decretos/1957/dec-40931-1957-02-13.md",
+    "federal/decretos/1957/dec-40891-1957-02-12.md",
+    "federal/decretos/1957/dec-40892-1957-02-12.md",
+    "federal/decretos/1957/dec-40893-1957-02-12.md",
+    "federal/decretos/1957/dec-40895-1957-02-12.md",
+    "federal/decretos/1957/dec-40876-1957-02-08.md",
+    "federal/decretos/1957/dec-40877-1957-02-08.md",
+    "federal/decretos/1957/dec-40859-1957-02-06.md",
+    "federal/decretos/1957/dec-40800-1957-01-22.md",
+    "federal/decretos/1957/dec-40710-1957-01-08.md",
+    "federal/decretos/1957/dec-40711-1957-01-08.md",
+    "federal/decretos/1957/dec-40708-1957-01-04.md",
+    "federal/decretos/1956/dec-40703-1956-12-31.md",
+    "federal/decretos/1956/dec-40704-1956-12-31.md",
+    "federal/decretos/1956/dec-40665-1956-12-28.md",
+    "federal/decretos/1956/dec-40595-1956-12-27.md",
+    "federal/decretos/1956/dec-40602-1956-12-27.md",
+    "federal/decretos/1956/dec-40603-1956-12-27.md",
+    "federal/decretos/1956/dec-40604-1956-12-27.md",
+    "federal/decretos/1956/dec-40605-1956-12-27.md",
+    "federal/decretos/1956/dec-40607-1956-12-27.md",
+    "federal/decretos/1956/dec-40610-1956-12-27.md",
+    "federal/decretos/1956/dec-40636-1956-12-27.md",
+    "federal/decretos/1956/dec-40642-1956-12-27.md",
+    "federal/decretos/1956/dec-40590-1956-12-26.md",
+    "federal/decretos/1956/dec-40532-1956-12-11.md",
+    "federal/decretos/1956/dec-40535-1956-12-11.md",
+    "federal/decretos/1956/dec-40493-1956-12-05.md",
+    "federal/decretos/1956/dec-40447-1956-12-01.md",
+    "federal/decretos/1956/dec-40428-1956-11-27.md",
+    "federal/decretos/1956/dec-40442-1956-11-29.md",
+    "federal/decretos/1956/dec-40434-1956-11-27.md",
+    "federal/decretos/1956/dec-40436-1956-11-27.md",
+    "federal/decretos/1956/dec-40409-1956-11-26.md",
+    "federal/decretos/1956/dec-40425-1956-11-26.md",
+    "federal/decretos/1956/dec-40398-1956-11-21.md",
+    "federal/decretos/1956/dec-40391-1956-11-20.md",
+    "federal/decretos/1956/dec-40367-1956-11-19.md",
+    "federal/decretos/1956/dec-40379-1956-11-19.md",
+    "federal/decretos/1956/dec-40360-1956-11-17.md",
+    "federal/decretos/1956/dec-40355-1956-11-16.md",
+    "federal/decretos/1956/dec-40356-1956-11-16.md",
+    "federal/decretos/1956/dec-40344-1956-11-13.md",
+    "federal/decretos/1956/dec-40321-1956-11-12.md",
+    "federal/decretos/1956/dec-40294-1956-11-06.md",
+    "federal/decretos/1956/dec-40295-1956-11-06.md",
+    "federal/decretos/1956/dec-40301-1956-11-06.md",
+    "federal/decretos/1956/dec-40265-1956-11-05.md",
+    "federal/decretos/1956/dec-40241-1956-10-31.md",
+    "federal/decretos/1956/dec-40247-1956-10-31.md",
+    "federal/decretos/1956/dec-40250-1956-10-31.md",
+    "federal/decretos/1956/dec-40251-1956-10-31.md",
+    "federal/decretos/1956/dec-40252-1956-10-31.md",
+    "federal/decretos/1956/dec-40255-1956-10-31.md",
+    "federal/decretos/1956/dec-40256-1956-10-31.md",
+    "federal/decretos/1956/dec-40257-1956-10-31.md",
+    "federal/decretos/1956/dec-40176-1956-10-25.md",
+    "federal/decretos/1956/dec-40154-1956-10-16.md",
+    "federal/decretos/1956/dec-40120-1956-10-15.md",
+    "federal/decretos/1956/dec-40126-1956-10-15.md",
+    "federal/decretos/1956/dec-40127-1956-10-15.md",
+    "federal/decretos/1956/dec-40111-1956-10-10.md",
+    "federal/decretos/1956/dec-40087-1956-10-09.md",
+    "federal/decretos/1956/dec-40088-1956-10-09.md",
+    "federal/decretos/1956/dec-40069-1956-10-08.md",
+    "federal/decretos/1956/dec-40076-1956-10-08.md",
+    "federal/decretos/1956/dec-40054-1956-10-01.md",
+    "federal/decretos/1956/dec-40049-1956-09-29.md",
+    "federal/decretos/1956/dec-40045-1956-09-27.md",
+    "federal/decretos/1956/dec-40017-1956-09-24.md",
+    "federal/decretos/1956/dec-40014-1956-09-21.md",
+    "federal/decretos/1956/dec-40015-1956-09-21.md",
+    "federal/decretos/1956/dec-40004-1956-09-20.md",
+    "federal/decretos/1956/dec-40009-1956-09-20.md",
+    "federal/decretos/1956/dec-40010-1956-09-20.md",
+    "federal/decretos/1956/dec-39998-1956-09-17.md",
+    "federal/decretos/1956/dec-39938-1956-09-06.md",
+    "federal/decretos/1956/dec-39953-1956-09-06.md",
+    "federal/decretos/1956/dec-39915-1956-09-05.md",
+    "federal/decretos/1956/dec-39916-1956-09-05.md",
+    "federal/decretos/1956/dec-39901-1956-09-04.md",
+    "federal/decretos/1956/dec-39885-1956-09-03.md",
+    "federal/decretos/1956/dec-39891-1956-09-03.md",
+    "federal/decretos/1956/dec-39870-1956-08-30.md",
+    "federal/decretos/1956/dec-39819-1956-08-21.md",
+    "federal/decretos/1956/dec-39836-1956-08-21.md",
+    "federal/decretos/1956/dec-39841-1956-08-21.md",
+    "federal/decretos/1956/dec-39814-1956-08-17.md",
+    "federal/decretos/1956/dec-39789-1956-08-16.md",
+    "federal/decretos/1956/dec-39791-1956-08-16.md",
+    "federal/decretos/1956/dec-39792-1956-08-16.md",
+    "federal/decretos/1956/dec-39786-1956-08-14.md",
+    "federal/decretos/1956/dec-39776-1956-08-13.md",
+    "federal/decretos/1956/dec-39779-1956-08-13.md",
+    "federal/decretos/1956/dec-39758-1956-08-09.md",
+    "federal/decretos/1956/dec-39767-1956-08-09.md",
+    "federal/decretos/1956/dec-39733-1956-08-08.md",
+    "federal/decretos/1956/dec-39735-1956-08-08.md",
+    "federal/decretos/1956/dec-39739-1956-08-08.md",
+    "federal/decretos/1956/dec-39691-1956-08-07.md",
+    "federal/decretos/1956/dec-39683-1956-08-04.md",
+    "federal/decretos/1956/dec-39660-1956-07-28.md",
+    "federal/decretos/1956/dec-39661-1956-07-28.md",
+    "federal/decretos/1956/dec-39643-1956-07-25.md",
+    "federal/decretos/1956/dec-39645-1956-07-25.md",
+    "federal/decretos/1956/dec-39629-1956-07-19.md",
+    "federal/decretos/1956/dec-39630-1956-07-19.md",
+    "federal/decretos/1956/dec-39624-1956-07-18.md",
+    "federal/decretos/1956/dec-39596-1956-07-14.md",
+    "federal/decretos/1956/dec-39576-1956-07-13.md",
+    "federal/decretos/1956/dec-39585-1956-07-13.md",
+    "federal/decretos/1956/dec-39490-1956-07-03.md",
+    "federal/decretos/1956/dec-39492-1956-07-03.md",
+    "federal/decretos/1956/dec-39496-1956-07-03.md",
+    "federal/decretos/1956/dec-39505-1956-07-03.md",
+    "federal/decretos/1956/dec-39478-1956-06-28.md",
+    "federal/decretos/1956/dec-39479-1956-06-28.md",
+    "federal/decretos/1956/dec-39480-1956-06-28.md",
+    "federal/decretos/1956/dec-39439-1956-06-20.md",
+    "federal/decretos/1956/dec-39442-1956-06-20.md",
+    "federal/decretos/1956/dec-39416-1956-06-19.md",
+    "federal/decretos/1956/dec-39421-1956-06-19.md",
+    "federal/decretos/1956/dec-39359-1956-06-13.md",
+    "federal/decretos/1956/dec-39373-1956-06-13.md",
+    "federal/decretos/1956/dec-39379-1956-06-13.md",
+    "federal/decretos/1956/dec-39382-1956-06-13.md",
+    "federal/decretos/1956/dec-39386-1956-06-13.md",
+    "federal/decretos/1956/dec-39404-1956-06-13.md",
+    "federal/decretos/1956/dec-39337-1956-06-11.md",
+    "federal/decretos/1956/dec-39339-1956-06-11.md",
+    "federal/decretos/1956/dec-39341-1956-06-11.md",
+    "federal/decretos/1956/dec-39342-1956-06-11.md",
+    "federal/decretos/1956/dec-39326-1956-06-07.md",
+    "federal/decretos/1956/dec-39317-1956-06-05.md",
+    "federal/decretos/1956/dec-39310-1956-06-04.md",
+    "federal/decretos/1956/dec-39314-1956-06-04.md",
+    "federal/decretos/1956/dec-39265-1956-05-30.md",
+    "federal/decretos/1956/dec-39275-1956-05-30.md",
+    "federal/decretos/1956/dec-39281-1956-05-30.md",
+    "federal/decretos/1956/dec-39258-1956-05-28.md",
+    "federal/decretos/1956/dec-39259-1956-05-28.md",
+    "federal/decretos/1956/dec-39261-1956-05-28.md",
+    "federal/decretos/1956/dec-39256-1956-05-25.md",
+    "federal/decretos/1956/dec-39245-1956-05-23.md",
+    "federal/decretos/1956/dec-39198-1956-05-15.md",
+    "federal/decretos/1956/dec-39170-1956-05-14.md",
+    "federal/decretos/1956/dec-39174-1956-05-14.md",
+    "federal/decretos/1956/dec-39125-1956-05-02.md",
+    "federal/decretos/1956/dec-39079-1956-04-30.md",
+    "federal/decretos/1956/dec-39076-1956-04-25.md",
+    "federal/decretos/1956/dec-39077-1956-04-25.md",
+    "federal/decretos/1956/dec-39064-1956-04-19.md",
+    "federal/decretos/1956/dec-39036-1956-04-18.md",
+    "federal/decretos/1956/dec-39025-1956-04-12.md",
+    "federal/decretos/1956/dec-39026-1956-04-12.md"
+  ]
+}

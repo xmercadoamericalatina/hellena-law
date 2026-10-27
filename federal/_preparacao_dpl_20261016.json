@@ -1,0 +1,169 @@
+{
+  "estado": "auditado_sem_aplicacao",
+  "head_baseline": "b87168ecd03e0812126992e041bf3387d62e6750",
+  "contagens": {
+    "acervo": 5409,
+    "URN_primario_exato": 5364,
+    "fora_primario_exato": 45,
+    "pendencias_primarias": 467,
+    "ultimo_terminal": 4876,
+    "ultimo_terminal_jaHEAD": 1486,
+    "ultimo_terminal_foraHEAD": 3390,
+    "sem_alteracao": 5,
+    "corpo_verificado_depende_triestado": 3270,
+    "retidos": 115,
+    "flags_sem_evidencia_jaHEAD_fora_coorte": 315
+  },
+  "proposta": "federal/_fonte/auditorias/dpl-auditoria-20261016/proposta-conservadora.json",
+  "inventario": "federal/_fonte/auditorias/dpl-auditoria-20261016/inventario5409-revisado.jsonl",
+  "pendencias": "federal/_fonte/auditorias/dpl-auditoria-20261016/pendencias467.jsonl",
+  "snapshots": {
+    "manifesto": "federal/_fonte/auditorias/dpl-auditoria-20261016/manifesto-snapshots.jsonl",
+    "quantidade": 10752,
+    "sha256_manifesto": "408770e23d1ccd032445b20f304afaec7ea2283758d1860b6b7ff5f82eb48d0f"
+  },
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/auditar-dpl-offline-2e7a9c0d6a8cb489466689e630131b93178b0a6d28f835eb457e7a4240ee1455.py",
+      "sha256": "2e7a9c0d6a8cb489466689e630131b93178b0a6d28f835eb457e7a4240ee1455",
+      "bytes": 9324
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/auditar_dpl_offline-2e7a9c0d6a8cb489466689e630131b93178b0a6d28f835eb457e7a4240ee1455.py",
+      "sha256": "2e7a9c0d6a8cb489466689e630131b93178b0a6d28f835eb457e7a4240ee1455",
+      "bytes": 9324
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/backup-md.jsonl.gz",
+      "sha256": "7ad825bed6a70afb6700ce6566db78e6529e9bde8adc29ce78d9458cd46fae95",
+      "bytes": 2154233
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/complementar_dpl_metadados_offline-3c674433dcce47c6b18acfcf25823747dc236d600fee59e7b2e851841436348f.py",
+      "sha256": "3c674433dcce47c6b18acfcf25823747dc236d600fee59e7b2e851841436348f",
+      "bytes": 3675
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/coorte-retido_revisao.json",
+      "sha256": "598262a80817af79b609bad538f217f27f2a576326d716d15294ab6242237601",
+      "bytes": 224597
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/coorte-verificada_corpo_pendente_triestado.json",
+      "sha256": "2e70e44111f24078bad65e0963703af52c022c6ebb0eeff5ff20369c5ae0ac0e",
+      "bytes": 6164890
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/coorte-verificada_sem_alteracao.json",
+      "sha256": "4386ddd4b25f950dc54e758dddc2a2073424251d2839f2df41d06ce3afcd0df2",
+      "bytes": 8992
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/fora-primario45.json",
+      "sha256": "c6087afa3822a01eb0915cf3309df5fa235b320e8c89db432fca26e35ba1698b",
+      "bytes": 18811
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/gates-adicionais-anexos-proposta.json",
+      "sha256": "75ac1df183cfb53e3aa873b6858af6ab633aca5528c31fe7af912e24e5320a81",
+      "bytes": 1511
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/inventario5409-com-gates.jsonl",
+      "sha256": "3d6adc651d1259c6fcca2edab42f822d7e790df6b12b5c95e7297fa81d946734",
+      "bytes": 25227719
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/inventario5409-revisado.jsonl",
+      "sha256": "a13b141e04b40db30c29b93bfad58e224b31ad3518e304220791612e131297d8",
+      "bytes": 25485675
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/inventario5409.jsonl",
+      "sha256": "30050f7ddc475ca2fb43a383d240284bd2adc4d82ecc23616051fdc24599d655",
+      "bytes": 21235097
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/manifesto-snapshots.jsonl",
+      "sha256": "408770e23d1ccd032445b20f304afaec7ea2283758d1860b6b7ff5f82eb48d0f",
+      "bytes": 3246535
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/pendencias467.jsonl",
+      "sha256": "5ff8dd8a079ef638dd60fcd15de1fd0c35a67a2c191a8bf32c09ce3903fcca84",
+      "bytes": 1605601
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/perfis-adicionais.json",
+      "sha256": "dbfe5144c817b8ea22a3cd954e871af7ae3fbb9ad4bed09a285e39a61031ef77",
+      "bytes": 577
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/primario5831.json",
+      "sha256": "113730f0e000dd2c946b5df7121860da9159faebde4f8e42816f51385f8b71b0",
+      "bytes": 2927222
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/proposta-conservadora.json",
+      "sha256": "41a3680ad8a895c564d8175d44bf78ace38084ee1af7c7755359c617a54a1aea",
+      "bytes": 1646
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/proposta-correcao-triestado.json",
+      "sha256": "52eeddf03a802ac401264e88ecf098e00813a30ba439e40b503a2932ce724f89",
+      "bytes": 5882038
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/proposta-verificada.json",
+      "sha256": "6e21081b7deba397e2c90b898d230e71ff97e5a4b2ab13effa296875446c5b8c",
+      "bytes": 8942
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/refinar_dpl_contexto_offline-6ba5b9d26930197604c9ed34243b54ce2a8c69e0b913e2c0648881f34925c38a.py",
+      "sha256": "6ba5b9d26930197604c9ed34243b54ce2a8c69e0b913e2c0648881f34925c38a",
+      "bytes": 4826
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/resumo-gates-metadados.json",
+      "sha256": "d798083cc70a7304ce61cc90f5eb08caf3f40d1ef7dc60cd9e6bdb71fccab190",
+      "bytes": 770
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/resumo.json",
+      "sha256": "258b2c07c08badc59e4f10c7a062059b93549130a998f3039a9cd642f91b237f",
+      "bytes": 4421
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/revisao-gates-adicionais-anexos.json",
+      "sha256": "c11ace1516a66aa04239467e7d236e67e2c3402a19cad959eed9a76395b3d18a",
+      "bytes": 2105
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/revisoes-contextuais.json",
+      "sha256": "6ce2012beeb6182ee0db713346ec7a7b7953b68821597f639080c872db980b9e",
+      "bytes": 57745
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/tipo132-diagnostico-limites.json",
+      "sha256": "251bd7b60e8eb5de0149066348668cc7c6d56425520fb1c59ab50b805a9b4f7a",
+      "bytes": 237635
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/validacao-final.json",
+      "sha256": "25379b1dfda43334f71410152335d2f8a47ff461fe7ce2fe81b1c28f10519fcb",
+      "bytes": 309
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/validacao-pendencias467.json",
+      "sha256": "4e1e1ed391ffdfcbd1e93aeeee3fbee6ace012bb4e84b22ca355274826c79b2b",
+      "bytes": 174
+    }
+  ],
+  "limites": [
+    "Nenhum MD,flag,conversão,scriptcoletor ou Git alterado;HTTP0.",
+    "3270somente após candidatos metadata-only serem revisados; não há autorização de aplicação canônica.",
+    "115retidos e467pendências permanecem;45fora catálogo exato separados.",
+    "315booleans sem situação explícita jáHEAD preservados para revisão separada.",
+    "Coortes dependem de revisão raiz/indexGit; não representam incremento publicado."
+  ]
+}

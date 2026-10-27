@@ -1,0 +1,56 @@
+{
+  "escopo": "Reparo privado do modelo próprio, sem alterar norma publicada, overlay ou entrega anterior.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos/2010/dec-7420-2010-12-31.md",
+      "candidate": "federal/_candidatos_modelo7420_20261021_001/dec-7420-2010-12-31.md",
+      "sha256_preimagem": "3025e519aefb9242abb120d405d82cb85cced58f489a027f25c9d0524d9a513f",
+      "sha256_candidato": "58e1a5ec25d7fdb98a898673a8d0159cf161f670075953b002a775082f95ef17",
+      "sha256_fonte_pdf": "8c868284a94880bcfbd31facf63cd66eaee1a467a53bc8f4009c82877108ece2",
+      "fonte_suplemento": "https://www2.camara.leg.br/legin/fed/decret/2010/decreto-7420-31-dezembro-2010-609917-anexo-pe.pdf",
+      "urn": "urn:lex:br:federal:decreto:2010-12-31;7420",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Placeholder final do anexo substituído pelo modelo; metadados acrescentam fonte/hash e observação. Texto principal byte a byte inalterado.",
+      "modelo": {
+        "linhas": 22,
+        "celulas_fisicas": 79,
+        "linhas_dados_e_total": 19,
+        "cabecalho": "3 níveis, primeira célula rowspan 3, grupo de 4 colunas com dois subgrupos de 2.",
+        "campos_preenchimento": "52 campos em branco nas 12 linhas de modalidades e no total, preservados como células vazias.",
+        "mesclagem_categorias": "Seis linhas de categorias abrangem 5 colunas cada."
+      },
+      "checks": {
+        "epigrafe_numero_data_indice": true,
+        "fonte_suplemento_vinculada_pelo_catalogo_oficial": true,
+        "sem_textos_das_normas_adjacentes": true,
+        "corpo_principal_pontuacao_numeros_contextos_commonmark": true,
+        "dezenove_rotulos_linhas_bbox_pdf_iguais": true,
+        "campos_numericos_pdf_em_branco": true,
+        "estrutura_nativa_html_preservada_commonmark": true,
+        "sem_figuras_normativas_omitidas": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "ressalva": "A fidelidade do modelo foi comprovada com fac-símile, posições de texto e inspeção visual; não se presume igualdade textual integral entre os corpos das diferentes fontes oficiais.",
+      "provas": [
+        {
+          "path": "federal/_provas_modelo7420_20261021_001/anexo-camara-dou20101231-p7.pdf",
+          "sha256": "8c868284a94880bcfbd31facf63cd66eaee1a467a53bc8f4009c82877108ece2"
+        },
+        {
+          "path": "federal/_provas_modelo7420_20261021_001/anexo-cropbox-conferido.png",
+          "sha256": "f7ba7caec8877dd4786690023d859b8a9b78c5afa019541ac870b0a152d40575"
+        },
+        {
+          "path": "federal/_provas_modelo7420_20261021_001/anexo-transcrito.html",
+          "sha256": "24e626d3219adee4df475800a60f291fb0713cfebc4c56a7c75849c6a9572ba2"
+        }
+      ]
+    }
+  ],
+  "historico": {
+    "path": "federal/_historico_modelo7420_20261021_001.jsonl.gz",
+    "sha256": "9660f07c540c081d19b85e01554e6804912020fed25fbe11e660181ee0f81354"
+  },
+  "integracao": "Confrontar preimagem com HEAD e destino; aplicar candidato, conferir SHA final e só então retirar este caminho da máscara de anexo ausente. Não alterar o overlay histórico."
+}

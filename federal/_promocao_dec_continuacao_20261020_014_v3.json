@@ -1,0 +1,668 @@
+{
+  "escopo": "Plano de promoção privada, sem alterar os destinos canônicos. Confrontar todas as preimagens e SHA dos candidatos antes de aplicar.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1949/dec-26884-1949-07-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26884-1949-07-13.md",
+      "sha256_candidato": "4e7d96d6bd61992b520e32c447944526e658663a4b56bf35ff2a6374d057a80f",
+      "sha256_preimagem": "65f235567ebf2588a1bcf688efb85ee6089dd13285c5a9c3c9e875d0e2b057f0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26864-1949-07-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26864-1949-07-11.md",
+      "sha256_candidato": "711ccbacde186105b14533a727d10290d10a2e558f9a7ad9386c437ef5f17bec",
+      "sha256_preimagem": "57d7fbc715d0c50dbdedfae2a38fe28e04096b3f5a079bee855b3d700eafd050",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26866-1949-07-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26866-1949-07-11.md",
+      "sha256_candidato": "a91ce2aa0ff51315d8ffae147ff7fd66c3cba4eefc7ca47d3ac815c355583160",
+      "sha256_preimagem": "7fac07212a30048896918cdac3d6bef7be8ee2c43b6d81b9ad7092470f989fe7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26871-1949-07-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26871-1949-07-11.md",
+      "sha256_candidato": "6d9fa1310c9702675e4da26373aa4c807090bb10d698ecb133d23a7d8c75fc04",
+      "sha256_preimagem": "ed854fb20a2f9bd69b352a06356f871cd5eded80bcb05be92d6df5cf13fe1a1b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26825-1949-06-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26825-1949-06-28.md",
+      "sha256_candidato": "378df393d74e14d7157a2a046d4af0df0831d2b5d67dc46c56d98763030506ff",
+      "sha256_preimagem": "b796606c6f214546bfa62b3231e67ffce895151e797797c1cd07d505b8408299",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26801-1949-06-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26801-1949-06-21.md",
+      "sha256_candidato": "35227bc59d8f7ea62b32d8837f4707406272434e52da29bc5754d63d5db87b06",
+      "sha256_preimagem": "6ee83298c3e418fe2d3d2ee5b7cfcc9200b9c18bf3993dae77faed81f48d2d04",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26754-1949-06-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26754-1949-06-07.md",
+      "sha256_candidato": "4b5e9724d4ccfe2fbc88b056a630139e21ecc0d6e70a8e4b6c5a786c532bdc5c",
+      "sha256_preimagem": "d4f1189aa753d3e5f2709d2eb7ab5cebc9bf5b3673671ea0ad0ff0aa9f1a72cc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26714-1949-05-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26714-1949-05-27.md",
+      "sha256_candidato": "dfcb47aa4d34873ca58509946fa3f67ce935ed6d248eebf5fb482af8125154c9",
+      "sha256_preimagem": "119240676ad881f6abbe10a75780c918406d6ada5a75ec191770825ed24142fd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26698-1949-05-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26698-1949-05-24.md",
+      "sha256_candidato": "dc74ae3f1e1ffb6c4c6c6102e06727cccbbdcf9f22de91d5dc631b36056b0481",
+      "sha256_preimagem": "43f790fdbebed3da64e2e8f275e3f2902fdc570c7d9c7c8c1c8118ce04193af3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26663-1949-05-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26663-1949-05-12.md",
+      "sha256_candidato": "4e7bd190c87bbc68cc87a74fdf0e488b0d5758464e4219b06101e0cfe3a55ad1",
+      "sha256_preimagem": "f262d4c157e4dc88e40c22f4b1307e3017ed9c3f8c86c23d1f0c2202fc65fb31",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26658-1949-05-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26658-1949-05-11.md",
+      "sha256_candidato": "8674ccddac9d39d6e9835c965a09f36cfa51ebe0e68d05d42bb4637e49e921f2",
+      "sha256_preimagem": "b1ad45e1c84a48f67e403d0dac3ff8de3c58e5ebf4b4dfc7149aa80f3da6b534",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26624-1949-05-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26624-1949-05-04.md",
+      "sha256_candidato": "21371606436c68c78406ab613dba144acda815f5cc111e08a52f6e4563ef2d52",
+      "sha256_preimagem": "f03858f2cbe9d18af6a479b2df53c185d763cf368363ccacf111d56db6428a50",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26621-1949-05-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26621-1949-05-03.md",
+      "sha256_candidato": "00120e8424bb87df5f7bb56473a25d64a2e52ba804881eb8a86a786de9f96f9f",
+      "sha256_preimagem": "0743a6513af2dc18416402a2c5803bcfec67b3d3a30c55c46307358357c6d697",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26582-1949-04-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26582-1949-04-12.md",
+      "sha256_candidato": "d45288e1c15b6230df52d6004441bb05b9c63ed106521783f4a4ef04a0435368",
+      "sha256_preimagem": "e5f9dd42171676f2b45a9743f97eb21bdc07f7525ceb582bf87197379dce9404",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26538-1949-03-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26538-1949-03-30.md",
+      "sha256_candidato": "93ea6affe5380000803fc8c9c51fdcb6c24f1a65745586771f30f489ada4aa85",
+      "sha256_preimagem": "64829ef89e124f4dfc8aa14d6b814683dec56ffcd3aee432c74293d044d0c356",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26515-1949-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26515-1949-03-28.md",
+      "sha256_candidato": "0c8759e04f26f92ccdb2c6f4fef63bf15b7714ada189864797c4f6889c84985a",
+      "sha256_preimagem": "ca41f13197f5e34a6c4cc0386eecf9463b75ea059e25b04015dcca4ea09d4c4d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26480-1949-03-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26480-1949-03-19.md",
+      "sha256_candidato": "3a862ee490126b7c4fcf199ea94bc2d905588ebfd3f639289e9753d9e4af2732",
+      "sha256_preimagem": "4b53576dd73ca20a36d79a718d12eb261263eba6b352b6a5844fd90691626d56",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26463-1949-03-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26463-1949-03-12.md",
+      "sha256_candidato": "7d9a9f753b2827f2929d118c0a9fb5f3120ab19c9f36a759cdc24ed86514238a",
+      "sha256_preimagem": "de0728269f99c18dcafff09011a38585c7cb9b7986e42096e0814137f398e050",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26460-1949-03-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26460-1949-03-11.md",
+      "sha256_candidato": "24c48979ecf67ff41fb1533ffe25bb2acc7ca657f1f4a0e39193eda671f5d1be",
+      "sha256_preimagem": "2cc1aa92d60151cbda3da17e1a40a1b5e197d79d7ea99b8381b223a82be5bc53",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26436-1949-03-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26436-1949-03-10.md",
+      "sha256_candidato": "4da5a6e45a1e30fd0e898e41baecbaddd6626a9fffb75cba17801e186496fc49",
+      "sha256_preimagem": "1a8337679c9908b151a873cf02ac9781134d4346f843ccdf9b54cf35c0efdcd5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26407-1949-03-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26407-1949-03-04.md",
+      "sha256_candidato": "43383e6c01246f8f4c5f8617305e7be4d5d683d1be62c6f68b6c56321f83ee27",
+      "sha256_preimagem": "2a1b0e4d658da3adfe83820ff4fde107dd479f78c53d3f420d1c62c2bb26ea8e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26356-1949-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26356-1949-02-17.md",
+      "sha256_candidato": "d67f6564be9323e812f07d9f04a1edecc534dda9b509edd25439b9f8e602c6a4",
+      "sha256_preimagem": "bd11d8f8e348fc666fa2cacdfada917788c1e3174ebad99a66734d98bbb3e74a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26364-1949-02-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26364-1949-02-14.md",
+      "sha256_candidato": "7bc99129eded3c90c489b7d7d99ffa3d3b878819285842c47ed909222123cf64",
+      "sha256_preimagem": "8f66473087c153170cfd284e464ede5232fe90e13e4826fa76f9b080559903ca",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26336-1949-02-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26336-1949-02-09.md",
+      "sha256_candidato": "cba8961b342af1f261253f83eedef1be38746e2de42712895ac0ad718701655c",
+      "sha256_preimagem": "fc3c637a9a3e11d6495a99a6878c28726457239748c0c7f9dfd9f4f1d1869ca7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26313-1949-02-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26313-1949-02-04.md",
+      "sha256_candidato": "8e36bd192af119b4bcb58c7fe1c0abb8cc65bd2171d23dcbe3333d7d7dd96ddc",
+      "sha256_preimagem": "8462e55850f2d9021e5d0a08ede0ed127f41c2f2900cc2a4c59f52f55b336872",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26264-1949-01-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26264-1949-01-28.md",
+      "sha256_candidato": "db43d5ae87a6670dd3f81dbf2aa222f4bba6ed046665853684574f7efdcb34c9",
+      "sha256_preimagem": "4382256b1d9d0198e28775a20f5d9a52978f9d1b9181b275c263bebed2239edc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26280-1949-01-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26280-1949-01-28.md",
+      "sha256_candidato": "793f94e2bfaa3b575926281839425df84269278a9feb41dddb3041282ef14339",
+      "sha256_preimagem": "629b30aea02e10ee42b3daad06c6c7e5e41742c077ca416ca6e15647e609e873",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26239-1949-01-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26239-1949-01-26.md",
+      "sha256_candidato": "a17d37ace0ba427bba382469dd6bcbe2c4581563530574e58517e077ac972d92",
+      "sha256_preimagem": "44b93efc2fd0b6822284a4f37d28eb651e51740767e7b00264e971b55064a9e5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26236-1949-01-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26236-1949-01-20.md",
+      "sha256_candidato": "44a22d640b805da692973ba70a0104c2ba2528c4944df9379e12ce78c333d661",
+      "sha256_preimagem": "bdc189cde9d4a95f2c19ef88ce361d3a98cff50481e7c079e100281a80c4da6c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26209-1949-01-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26209-1949-01-17.md",
+      "sha256_candidato": "f6a7d78d2fb599dc02dfc7068062b47a62b61e714dfcde5336bfcbc4e4aecb5e",
+      "sha256_preimagem": "57f95238397ccad27eaed122553f0826fe14dd1ddcd431154fd5adbab1e16ede",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26196-1949-01-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26196-1949-01-12.md",
+      "sha256_candidato": "846a1888ca1d9fabf5fa8c6bfbb5bbbcee6f951290c66a690cf2dd4a503a6376",
+      "sha256_preimagem": "d868e0998e7ce9e339a655f475bf0887dfa37634d55773a227c7c7a46c0470d0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26167-1949-01-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26167-1949-01-10.md",
+      "sha256_candidato": "e78b2b938764f5e71e9244c6874a919427baccff39c4e60f8b7d20e4789ee244",
+      "sha256_preimagem": "598163fa469de641d73655c21c37a5f58e7dcfc7f9151745d050bf2ab1f8b0c9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26158-1949-01-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26158-1949-01-07.md",
+      "sha256_candidato": "2b196b11d1624071c1c08aca94e7c1ac4991a43dd1fd2dff9d0510b4a56a842c",
+      "sha256_preimagem": "09cfa521ac83f0126103c29fb572ce4d8db18150333ed4023a866302036b6f98",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1949/dec-26145-1949-01-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26145-1949-01-04.md",
+      "sha256_candidato": "70958107c5af3c94b8dd46f3849bae0bede6a91c64a52c6f96f2ae73031a7ecc",
+      "sha256_preimagem": "249101268a9c3923d1f24247e70de9d37fb8815cf89106eb9aa96b00438caebc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26132-1948-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26132-1948-12-31.md",
+      "sha256_candidato": "22c9e6772aff1a7dfecf33d18a0251e7295e6250d16f76a8af8a5e7633e31435",
+      "sha256_preimagem": "7d3bbeded1c44a50075abbb3fe5f2fb6901c2a26b021111aaeeb66823bc0ae13",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26133-1948-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26133-1948-12-31.md",
+      "sha256_candidato": "79be830d342e1c0e20d55affc00f0048e525eadfd6d807d503c225ff7a262841",
+      "sha256_preimagem": "a7f4b20a9c33c30359814af93c48a807f7d935a090687e00086b7ecaadf4ce9f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26134-1948-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26134-1948-12-31.md",
+      "sha256_candidato": "3bfdcc95d5cfcba4676ede7d5d60f804c8e72ced67bf7f7c77199c394336f852",
+      "sha256_preimagem": "7c81199847fd9318a5dde00170a608d96681531adf1c4624d672a64eafe5ef3f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26136-1948-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26136-1948-12-31.md",
+      "sha256_candidato": "20600078978de4f01d0f89070524f6483dbffe18ec9e6204a523730a7241590b",
+      "sha256_preimagem": "bcb63309aba00ef938c0db6dc67b39370c3551826ee1194b9d4f3923337f4cab",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26140-1948-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-26140-1948-12-31.md",
+      "sha256_candidato": "be0196599ab0b7046e64a404450751c7d377d810130fa63205277a672b8da55a",
+      "sha256_preimagem": "6076da89adf269755a36bce44099063ec1e2c2ba752bb3132abb368ece8fa52d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-26042-1948-12-17.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-26042-1948-12-17.md",
+      "sha256_candidato": "67c48ed011c4901d95b19658cb55d54ec91ccb3ffca630490a689dbf92549ff9",
+      "sha256_preimagem": "9cd8f68b9b7d8739443e2856f8a57bebb35a105f6da5cbe959015d214a8db994",
+      "mudanca": "4 escapes de crases literais, sem outras mudanças no corpo."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25969-1948-12-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25969-1948-12-06.md",
+      "sha256_candidato": "c8cfe7f6935be24111a0325028eafa81424872ecc6a4ee59fc5ed5b8667248e9",
+      "sha256_preimagem": "bd78a689d8021f9ffe33a65279019696bcb4c198348ab80087bee74cbe12187a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25865-1948-11-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25865-1948-11-24.md",
+      "sha256_candidato": "fd5d779d2b4918667fe37894a7dd80acbe883d65ef43448fce0e2b17d91f0e7c",
+      "sha256_preimagem": "33c5d7175636071cfb5f808dbc00378477aeced5ca376aaaca011b5241f6c516",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25798-1948-11-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25798-1948-11-10.md",
+      "sha256_candidato": "42290d30c82beef9fe372a0a063bbe5940d0d29eb6014980586e6ad9d4437250",
+      "sha256_preimagem": "773b4b1f45ddd3023ead46e13ca269da93c0ed4766fa0300861270c2644cef5b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25808-1948-11-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25808-1948-11-10.md",
+      "sha256_candidato": "58e82ca2a89485ce6a4b09b539ae1469cea958b22b6e0ba7f07916a97e6111d0",
+      "sha256_preimagem": "4e2e385bfdf918c01adbd7769c18b7d4936e9b42ef8f29a02e1448c0b738daed",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25747-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25747-1948-11-04.md",
+      "sha256_candidato": "103410e29740da867f36ebc1e33710ff9b4d1e472833d10c7a8b37d7552809df",
+      "sha256_preimagem": "178ed9cc683cdd20a8baae2788b4b7e61e31e509af0a7b5e6d82c58350b2c67c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25748-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25748-1948-11-04.md",
+      "sha256_candidato": "0271d7ecc8440efa3311bacf49cb7c2989deba1454832b3869b19f8998be6764",
+      "sha256_preimagem": "034f88902771ac8805d4cd0e38d5a92ddb6938edf2297a740b9efd9d6a28646a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25749-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25749-1948-11-04.md",
+      "sha256_candidato": "ceaa393216775bf8f960be3c6e48c08d1e4f7e91f4cf333a7975829dc6940fb3",
+      "sha256_preimagem": "d4c46f1f3991bdfc8782a116477aecb64d23f6a4e6b7cc5b7651037916391876",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25750-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25750-1948-11-04.md",
+      "sha256_candidato": "4525ec78bfc48f93f3b07748593498b5ebd9634651f215b04f0c686572643684",
+      "sha256_preimagem": "c3e5eb7f462f71003ace1f8341374a62cb28e17d5e948c30d83b6920560fc223",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25751-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25751-1948-11-04.md",
+      "sha256_candidato": "dc41ce33dcd1e240c62fa4208ca62e109d49c596a5bcc8eeedd098e649440f23",
+      "sha256_preimagem": "9d20533d0ca303fc0924df98847ee3e5496ebdfb75fd15f4755489552d27d257",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25752-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25752-1948-11-04.md",
+      "sha256_candidato": "208e89a7f77260a5d36897a14cb1f55a547c49b7c0425a4ed9affd75024fa227",
+      "sha256_preimagem": "ddeac35db0f00d34bde05f4ddf61984cd76164d84ea54f85ff4524a22fea89c7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25753-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25753-1948-11-04.md",
+      "sha256_candidato": "955b8c7e7e98459997cfc86ca30c2f49c06989dfbef7b919bf7db3ef5fc8ae6c",
+      "sha256_preimagem": "d7e265db1f10c6b167bd711dfdd8fa437396b366fa3d8b85befb3fd4239b741b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25754-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25754-1948-11-04.md",
+      "sha256_candidato": "cdcfc273672c3e5f5d35556d440288cd49ab9d24879b1ff49544e6d18f58a9a5",
+      "sha256_preimagem": "da2685d3dab282fbf2d7137aa21ce926073e20fc27b641990737c1eefe9663fd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25755-1948-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25755-1948-11-04.md",
+      "sha256_candidato": "80163622bcc77a492cc303ab55c8479b35c42feae94d903bada7203e0e6c8b41",
+      "sha256_preimagem": "3c0105d89b4a98412d761109cb91340745eff1b9ef5e9198c8798fa11846805d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25730-1948-10-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25730-1948-10-27.md",
+      "sha256_candidato": "46dd33206a26bd3fae9b7138ee7851d4f00acf607815f7dd6b2896eaed1fedc9",
+      "sha256_preimagem": "dd7dd8d8554d2ac3fe66b113671217f9245bcf1a0cbfdc90b3a46c3e1b412c73",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25705-1948-10-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25705-1948-10-22.md",
+      "sha256_candidato": "5391dba19eb5db3a920fe5ceb9f24f7b36677b98509efa50c6ad1d8031442725",
+      "sha256_preimagem": "56611b43428d5e6c5b17014acc7421dfc2257b8648a313f257ead8da0ee5671f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25697-1948-10-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25697-1948-10-21.md",
+      "sha256_candidato": "f634edde47a82f57ffd978830f6912b602f1502882408bca67c87ff041ac95f0",
+      "sha256_preimagem": "a1d57204a15c398fad702a70824ed16a1f6105ad405fcd50e28a9dcc9b52f47a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25695-1948-10-19.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-25695-1948-10-19.md",
+      "sha256_candidato": "626cec82354e6f8b0dd1d2029af643b999da1be52f279f933eeb20e56b713293",
+      "sha256_preimagem": "952020a37b9ecede828ed8273b1145f7c03bd8b70fdc54c0c3c287e88336f0bf",
+      "mudanca": "5 escapes de crases literais, sem outras mudanças no corpo."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25637-1948-10-06.md",
+      "candidate": "federal/_candidatos_crases_014_20261021_001/dec-25637-1948-10-06.md",
+      "sha256_candidato": "7b20500b644666c3abcc5e44858a4b6112a8eae24c65d12a6d3675d4409d4952",
+      "sha256_preimagem": "62e7cccd3dbf6c4e999de6df13e4298c132cab0fea2325a966a8fce13bd051db",
+      "mudanca": "5 escapes de crases literais, sem outras mudanças no corpo."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25404-1948-08-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25404-1948-08-30.md",
+      "sha256_candidato": "1ec2d8cf4fdb34f021a09203fb8eebf82db21f3716c004022ec84e5fca1fdd13",
+      "sha256_preimagem": "a2fb57738dcbfc01a35fd6400c28ba3b23ea063c573c7c0c2c48aa7b52f96e07",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25406-1948-08-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25406-1948-08-30.md",
+      "sha256_candidato": "6fe1a06f440a5750af131f17a99c494de256258361e9a6655ef064df0dab5b21",
+      "sha256_preimagem": "c6d870d2916f0dc0a66033ce9bbd038b3217d00512911ae96482120404a5d7a7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25383-1948-08-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25383-1948-08-19.md",
+      "sha256_candidato": "be02839356e4e820a131bdc4961e1d412cb414fc85cd10ff56aceb0ab74ae938",
+      "sha256_preimagem": "51158f6d85f88f48ee01c78611283cef3356ca85ec15cc12b60f82af3181025e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25301-1948-08-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25301-1948-08-02.md",
+      "sha256_candidato": "cf4818354c0a83b33b0bd85ca439f8873e787039992ab6fddf0b19acc5bdf1ff",
+      "sha256_preimagem": "544e85b50f435c007db761fa5d22058df7f59b4c7ff12fe7c39a83a398190073",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25192-1948-07-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25192-1948-07-08.md",
+      "sha256_candidato": "de709bdfb9f18be281127fa2f9d4d5bed1904e3564cf54ec297ce164789f9c31",
+      "sha256_preimagem": "59540e7b982bb0da178362d7c4a59927fb46a9f9beb9c946f25d614f5d39a644",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25174-a-1948-07-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25174-a-1948-07-03.md",
+      "sha256_candidato": "cc924f7459834b1da948836990c8f447a245abf2b25c560dc8744312eedf9c87",
+      "sha256_preimagem": "b5773103edeea03c2845a17db748fae71fec66e112bc8c61654d8816cc77d403",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25175-1948-07-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25175-1948-07-03.md",
+      "sha256_candidato": "f2ff8dec8669805cfbbf98f38aa4f2d7e9a2af3baf1c0e37ad53df076205485e",
+      "sha256_preimagem": "4a1591e318ae9a5778ffcc2b4f96deb717dd2df93a7a8b6dd1af9ac2b7ed4c07",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-25175-a-1948-07-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-25175-a-1948-07-03.md",
+      "sha256_candidato": "12088117656c353998e3f01183cb071b184ca853f483d50f000dc6a8d7fd5e01",
+      "sha256_preimagem": "d48c49e0e28972527ac3ee359e9814ef22ae92160dbad0916a82b0a60b87f419",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-24979-1948-05-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-24979-1948-05-20.md",
+      "sha256_candidato": "fdb36fc61aaf1b2fb4cc7b2bb5e36bc2393219a7ebbc3118ebe8f7fcf9d0cdcd",
+      "sha256_preimagem": "27d5fd106fe7f2fd449b7f73208f357b8779394dea8ce3581bb7c660c33883fa",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-24982-1948-05-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-24982-1948-05-20.md",
+      "sha256_candidato": "ba7160ef860a7359b4c0934144df7f7b0d1b662eb11698a8496c293d8c8d426a",
+      "sha256_preimagem": "3af1ff400354b158c385f13357f5581319e21bed290765717fe1a693602a07e4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1948/dec-24924-1948-05-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_008/dec-24924-1948-05-07.md",
+      "sha256_candidato": "77ec927b4645ab3768d7c66f3f2f00e0cc4765720daf8947656ac3dab7ae8078",
+      "sha256_preimagem": "f2d78106427efb9052d3dd7c9cc5c1adeee6c68cc1658c7b110644b403e138f8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1949/dec-26914-1949-07-20.md",
+    "federal/decretos/1949/dec-26909-1949-07-18.md",
+    "federal/decretos/1949/dec-26880-1949-07-13.md",
+    "federal/decretos/1949/dec-26881-1949-07-13.md",
+    "federal/decretos/1949/dec-26895-1949-07-13.md",
+    "federal/decretos/1949/dec-26900-1949-07-13.md",
+    "federal/decretos/1949/dec-26874-1949-07-12.md",
+    "federal/decretos/1949/dec-26879-1949-07-12.md",
+    "federal/decretos/1949/dec-26863-1949-07-08.md",
+    "federal/decretos/1949/dec-26860-1949-07-07.md",
+    "federal/decretos/1949/dec-26853-1949-07-06.md",
+    "federal/decretos/1949/dec-26851-1949-07-04.md",
+    "federal/decretos/1949/dec-26779-1949-06-14.md",
+    "federal/decretos/1949/dec-26752-1949-06-06.md",
+    "federal/decretos/1949/dec-26747-1949-06-03.md",
+    "federal/decretos/1949/dec-26731-1949-06-01.md",
+    "federal/decretos/1949/dec-26708-1949-05-27.md",
+    "federal/decretos/1949/dec-26693-1949-05-24.md",
+    "federal/decretos/1949/dec-26673-1949-05-18.md",
+    "federal/decretos/1949/dec-26674-1949-05-18.md",
+    "federal/decretos/1949/dec-26675-1949-05-18.md",
+    "federal/decretos/1949/dec-26671-1949-05-12.md",
+    "federal/decretos/1949/dec-26654-1949-05-11.md",
+    "federal/decretos/1949/dec-26640-1949-05-10.md",
+    "federal/decretos/1949/dec-26641-1949-05-10.md",
+    "federal/decretos/1949/dec-26634-1949-05-09.md",
+    "federal/decretos/1949/dec-26625-1949-05-04.md",
+    "federal/decretos/1949/dec-26607-1949-04-27.md",
+    "federal/decretos/1949/dec-26597-1949-04-19.md",
+    "federal/decretos/1949/dec-26578-1949-04-12.md",
+    "federal/decretos/1949/dec-26571-1949-04-08.md",
+    "federal/decretos/1949/dec-26563-1949-04-06.md",
+    "federal/decretos/1949/dec-26555-1949-04-05.md",
+    "federal/decretos/1949/dec-26554-1949-04-05.md",
+    "federal/decretos/1949/dec-26512-1949-03-28.md",
+    "federal/decretos/1949/dec-26517-1949-03-28.md",
+    "federal/decretos/1949/dec-26503-1949-03-23.md",
+    "federal/decretos/1949/dec-26504-1949-03-23.md",
+    "federal/decretos/1949/dec-26505-1949-03-23.md",
+    "federal/decretos/1949/dec-26496-1949-03-22.md",
+    "federal/decretos/1949/dec-26497-1949-03-22.md",
+    "federal/decretos/1949/dec-26500-1949-03-22.md",
+    "federal/decretos/1949/dec-26490-1949-03-19.md",
+    "federal/decretos/1949/dec-26493-1949-03-19.md",
+    "federal/decretos/1949/dec-26467-1949-03-15.md",
+    "federal/decretos/1949/dec-26428-1949-03-09.md",
+    "federal/decretos/1949/dec-26429-1949-03-09.md",
+    "federal/decretos/1949/dec-26430-1949-03-09.md",
+    "federal/decretos/1949/dec-26431-1949-03-09.md",
+    "federal/decretos/1949/dec-26422-1949-03-05.md",
+    "federal/decretos/1949/dec-26423-1949-03-05.md",
+    "federal/decretos/1949/dec-26418-1949-03-04.md",
+    "federal/decretos/1949/dec-26394-1949-02-23.md",
+    "federal/decretos/1949/dec-26398-1949-02-23.md",
+    "federal/decretos/1949/dec-26400-1949-02-23.md",
+    "federal/decretos/1949/dec-26360-1949-02-14.md",
+    "federal/decretos/1949/dec-26361-1949-02-14.md",
+    "federal/decretos/1949/dec-26362-1949-02-14.md",
+    "federal/decretos/1949/dec-26363-1949-02-14.md",
+    "federal/decretos/1949/dec-26344-1949-02-10.md",
+    "federal/decretos/1949/dec-26345-1949-02-10.md",
+    "federal/decretos/1949/dec-26325-1949-02-09.md",
+    "federal/decretos/1949/dec-26333-1949-02-09.md",
+    "federal/decretos/1949/dec-26337-1949-02-09.md",
+    "federal/decretos/1949/dec-26292-1949-01-29.md",
+    "federal/decretos/1949/dec-26293-1949-01-29.md",
+    "federal/decretos/1949/dec-26257-1949-01-27.md",
+    "federal/decretos/1949/dec-26240-1949-01-26.md",
+    "federal/decretos/1949/dec-26241-1949-01-26.md",
+    "federal/decretos/1949/dec-26242-1949-01-26.md",
+    "federal/decretos/1949/dec-26232-1949-01-20.md",
+    "federal/decretos/1949/dec-26235-1949-01-20.md",
+    "federal/decretos/1949/dec-26233-1949-01-20.md",
+    "federal/decretos/1949/dec-26217-1949-01-17.md",
+    "federal/decretos/1949/dec-26201-1949-01-15.md",
+    "federal/decretos/1949/dec-26191-1949-01-12.md",
+    "federal/decretos/1949/dec-26197-1949-01-12.md",
+    "federal/decretos/1949/dec-26166-1949-01-10.md",
+    "federal/decretos/1949/dec-26168-1949-01-10.md",
+    "federal/decretos/1949/dec-26182-1949-01-10.md",
+    "federal/decretos/1949/dec-26160-1949-01-08.md",
+    "federal/decretos/1949/dec-26161-1949-01-08.md",
+    "federal/decretos/1949/dec-26157-1949-01-06.md",
+    "federal/decretos/1949/dec-26148-1949-01-05.md",
+    "federal/decretos/1949/dec-26143-1949-01-04.md",
+    "federal/decretos/1948/dec-26130-1948-12-31.md",
+    "federal/decretos/1948/dec-26117-1948-12-30.md",
+    "federal/decretos/1948/dec-26085-1948-12-28.md",
+    "federal/decretos/1948/dec-26086-1948-12-28.md",
+    "federal/decretos/1948/dec-26078-1948-12-23.md",
+    "federal/decretos/1948/dec-26079-1948-12-23.md",
+    "federal/decretos/1948/dec-26065-1948-12-22.md",
+    "federal/decretos/1948/dec-26069-1948-12-22.md",
+    "federal/decretos/1948/dec-26071-1948-12-22.md",
+    "federal/decretos/1948/dec-26072-1948-12-22.md",
+    "federal/decretos/1948/dec-26074-1948-12-22.md",
+    "federal/decretos/1948/dec-26077-a-1948-12-22.md",
+    "federal/decretos/1948/dec-26047-1948-12-21.md",
+    "federal/decretos/1948/dec-26075-1948-12-22.md",
+    "federal/decretos/1948/dec-26014-1948-12-14.md",
+    "federal/decretos/1948/dec-26013-1948-12-13.md",
+    "federal/decretos/1948/dec-25997-1948-12-10.md",
+    "federal/decretos/1948/dec-26000-1948-12-10.md",
+    "federal/decretos/1948/dec-25990-1948-12-09.md",
+    "federal/decretos/1948/dec-25977-1948-12-07.md",
+    "federal/decretos/1948/dec-25976-1948-12-06.md",
+    "federal/decretos/1948/dec-25947-1948-12-04.md",
+    "federal/decretos/1948/dec-25952-1948-12-04.md",
+    "federal/decretos/1948/dec-25934-1948-12-03.md",
+    "federal/decretos/1948/dec-25909-1948-12-02.md",
+    "federal/decretos/1948/dec-25890-1948-12-01.md",
+    "federal/decretos/1948/dec-25866-1948-11-27.md",
+    "federal/decretos/1948/dec-25869-1948-11-27.md",
+    "federal/decretos/1948/dec-25876-1948-11-27.md",
+    "federal/decretos/1948/dec-25852-1948-11-18.md",
+    "federal/decretos/1948/dec-25853-1948-11-18.md",
+    "federal/decretos/1948/dec-25837-1948-11-16.md",
+    "federal/decretos/1948/dec-25795-1948-11-10.md",
+    "federal/decretos/1948/dec-25796-1948-11-10.md",
+    "federal/decretos/1948/dec-25812-1948-11-10.md",
+    "federal/decretos/1948/dec-25815-1948-11-10.md",
+    "federal/decretos/1948/dec-25794-1948-11-09.md",
+    "federal/decretos/1948/dec-25745-1948-11-04.md",
+    "federal/decretos/1948/dec-25746-1948-11-04.md",
+    "federal/decretos/1948/dec-25716-1948-10-27.md",
+    "federal/decretos/1948/dec-25719-1948-10-27.md",
+    "federal/decretos/1948/dec-25706-1948-10-23.md",
+    "federal/decretos/1948/dec-25707-1948-10-23.md",
+    "federal/decretos/1948/dec-25690-1948-10-19.md",
+    "federal/decretos/1948/dec-25692-1948-10-19.md",
+    "federal/decretos/1948/dec-25617-1948-10-05.md",
+    "federal/decretos/1948/dec-25618-1948-10-05.md",
+    "federal/decretos/1948/dec-25619-1948-10-05.md",
+    "federal/decretos/1948/dec-25593-1948-09-28.md",
+    "federal/decretos/1948/dec-25602-1948-09-28.md",
+    "federal/decretos/1948/dec-25608-1948-09-28.md",
+    "federal/decretos/1948/dec-25566-1948-09-24.md",
+    "federal/decretos/1948/dec-25578-1948-09-24.md",
+    "federal/decretos/1948/dec-25556-1948-09-23.md",
+    "federal/decretos/1948/dec-25561-1948-09-23.md",
+    "federal/decretos/1948/dec-25532-1948-09-21.md",
+    "federal/decretos/1948/dec-25529-1948-09-17.md",
+    "federal/decretos/1948/dec-25499-1948-09-14.md",
+    "federal/decretos/1948/dec-25500-1948-09-14.md",
+    "federal/decretos/1948/dec-25466-1948-09-06.md",
+    "federal/decretos/1948/dec-25422-1948-09-01.md",
+    "federal/decretos/1948/dec-25399-1948-08-27.md",
+    "federal/decretos/1948/dec-25400-1948-08-27.md",
+    "federal/decretos/1948/dec-25391-1948-08-20.md",
+    "federal/decretos/1948/dec-25386-1948-08-19.md",
+    "federal/decretos/1948/dec-25379-1948-08-17.md",
+    "federal/decretos/1948/dec-25369-1948-08-13.md",
+    "federal/decretos/1948/dec-25354-1948-08-11.md",
+    "federal/decretos/1948/dec-25265-1948-07-27.md",
+    "federal/decretos/1948/dec-25253-1948-07-22.md",
+    "federal/decretos/1948/dec-25243-1948-07-20.md",
+    "federal/decretos/1948/dec-25216-1948-07-13.md",
+    "federal/decretos/1948/dec-25198-1948-07-12.md",
+    "federal/decretos/1948/dec-25200-1948-07-12.md",
+    "federal/decretos/1948/dec-25193-1948-07-09.md",
+    "federal/decretos/1948/dec-25197-1948-07-09.md",
+    "federal/decretos/1948/dec-25184-1948-07-07.md",
+    "federal/decretos/1948/dec-25127-1948-06-24.md",
+    "federal/decretos/1948/dec-25125-1948-06-22.md",
+    "federal/decretos/1948/dec-25093-1948-06-14.md",
+    "federal/decretos/1948/dec-25088-1948-06-11.md",
+    "federal/decretos/1948/dec-25078-1948-06-09.md",
+    "federal/decretos/1948/dec-25070-1948-06-08.md",
+    "federal/decretos/1948/dec-25037-1948-06-02.md",
+    "federal/decretos/1948/dec-25168-1948-06-01.md",
+    "federal/decretos/1948/dec-24989-1948-05-25.md",
+    "federal/decretos/1948/dec-24972-1948-05-17.md",
+    "federal/decretos/1948/dec-24946-1948-05-12.md",
+    "federal/decretos/1948/dec-24914-1948-05-07.md",
+    "federal/decretos/1948/dec-24925-1948-05-07.md",
+    "federal/decretos/1948/dec-24909-1948-05-01.md",
+    "federal/decretos/1949/dec-26660-1949-05-11.md",
+    "federal/decretos/1948/dec-25641-1948-10-06.md"
+  ]
+}

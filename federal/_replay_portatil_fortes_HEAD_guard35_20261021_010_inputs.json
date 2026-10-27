@@ -1,0 +1,65 @@
+{
+  "escopo": "Insumos exatos do replay port\u00e1til. Predicado e sele\u00e7\u00e3o inalterados; somente I/O usa snapshots e metadados arquivados.",
+  "arquivos": [
+    {
+      "path": "federal/_proposta_fortes_HEAD_guard35_20261021_008.json",
+      "sha256": "97837fbdba94d56f0ba9028543ad347c58c6ddc0b71ac0acb9ca1f70eab448a8"
+    },
+    {
+      "path": "federal/_proposta_fortes_HEAD_guard35_20261021_008.jsonl.gz",
+      "sha256": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/01-estratificar.py.txt",
+      "sha256": "a305bd590f8f75d042c6a1b6582ab0672bbe8c68cd6f8c2c9fe2fa261436c401"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/02-predicado-forte.py.txt",
+      "sha256": "a47706d2429cf1927305679c72373d4da9bb506478ccf4435ed9323d434e103d"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/03-guard35.py.txt",
+      "sha256": "ea697557b8f04a2ae8e89bffce962fe1ab2ea38c775d2fbaa1143dc1bb512e5e"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/04-fields.py.txt",
+      "sha256": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/05-contagens.py.txt",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/06-selecao-HEAD.py.txt",
+      "sha256": "6daa91872602dc0014b9b039ffd25fcff6a6ec50038f8c03ccea88cf7843f03f"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/head-decretos.z",
+      "sha256": "8c0ea59a6103591836d86f88384b32b8ab0a64cd7914ed78776ffd28fa519f0a"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/mascaras-HEAD.json",
+      "sha256": "4186e68bf8b01f4831976978ea990d7368e9b62936a1f29610981e98fc6a902c"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/metadados-caso-excluido-99970-A.json.gz",
+      "sha256": "b351bd24da0666b701181b8eac244c072010dc8029732e9d2d69c60846cb0bae"
+    },
+    {
+      "path": "federal/_prova_predicado_guard35_head_20261021_008/snapshot-HEAD.json",
+      "sha256": "b129e862d380339023222ac27d996e57d93b4b2f06a747107e3786d2820b4cf1"
+    },
+    {
+      "path": "federal/_receipts_estratos_delta_guard35_20261021_007.jsonl.gz",
+      "sha256": "deddb308683961cbb55ccefd34a26f2390dc525c4c48d352106d3da6def2ea3f"
+    },
+    {
+      "path": "federal/_receipts_fortes_HEAD_guard35_20261021_008.jsonl.gz",
+      "sha256": "d61c8332f64120c97a027376904733e9ee187634347b7bd64cc9e42f4b9f9e87"
+    },
+    {
+      "path": "federal/_receipts_relacao_nominal_ausente_20261021_003.jsonl.gz",
+      "sha256": "03c42d7aececcdd3d17b44e9a5ec9667550f0efab626f9a60b8f8d8cc015e7ce"
+    }
+  ]
+}

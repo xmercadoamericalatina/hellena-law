@@ -1,0 +1,933 @@
+{
+  "estado": "propostas_estruturais_retidas_sem_aplicar",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/089437a056e44ab0c32fb6badce2df63555faaa3df7a04f7fe6af0ab94d624d7.md.gz",
+      "sha256": "a45baf973ac4e2f5cfab3711be2855b8a3e31bb7ade92bb8b9624126d78652a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/0a44369d5d67a07a7003317627013520469889f2268aa418da181f68333e40f9.md.gz",
+      "sha256": "ef3bfc65edcb91304f13559fd1dabe15242a78700c362be043fe562f1e8b7dad"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/0baf7d5a4c7bebeab9759c2cdb125d9f99d048547bd565ba84abd231d8559bfc.md.gz",
+      "sha256": "70d8929c1ad4bd8d2357fdda2f7b17bfe81d59cd53c113e8f0b1b594fe781170"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/0cee348aa3e03c7ba1818171aac3dc7b208963c2a063b28d49880f0eef4503a3.md.gz",
+      "sha256": "197d24061888fc3705fa3e9ec70b20fec867ded28bf1e59b6dcff62f02961b6f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/141a5f364968a4fcb0826d0593a40e728fd18a3e648265c3443a2a00374e13e0.md.gz",
+      "sha256": "99208941c2750b2f7d7fcedef4cae9cd40dd3290da1d0275e079ad932e9c18ab"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/15dcf1a96a7aad66f25b0df5ed1d9f4cad4f206323604b6597948ab93c3fd231.md.gz",
+      "sha256": "b36bf29c5fb8fa7a63a534f1209be82b6b55c81e92509ed1ec7a80386f3bb78f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/1882ff6a535d89f5ceb65d9b6780ffadd2fc92e112fc7025d04954544360e8a7.md.gz",
+      "sha256": "a0c45f883efcd2e0a6eddbf75b21dfd9a1a4855fac88099d9913437fe186da86"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/189536ebf75786f262780d160ecb5510150d15de4fec86abf8903c0c90196493.md.gz",
+      "sha256": "1112480d1337c2479423ec7d0724a1227624af2abe445c6a35ca970944f79396"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/1f2fa5b45b4ddead1f0dd3dbe4d5914be4d6cc642476b9e833b8db4ff81a2656.md.gz",
+      "sha256": "009e48d790e50679b91159317ba141c8da7d39abc9d4ec5686ca1495319ad78e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/261f7a0665727cfefabb396f35f096540867d6897c1b1e08e8d4b62197416b1c.md.gz",
+      "sha256": "bf27226ddb6372a7057d0ccc4df6a0325870387d72027752326a7fb1d3d0a214"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/2b341a7c4e2061f797a365567444868833dbd303bf9c1a027ac37573287355c4.md.gz",
+      "sha256": "eb3a0ffde11c581aa4e7e3c9c73254cef9c5e7a76a45201fd262d5e6a24b394e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/2d4501d585b0cf0d9aa7f77fb6db509ca7ad3932989a5c212df4e0e9fb02ecee.md.gz",
+      "sha256": "caadb8797ad46b2424db444f2f43ab693e14cabd299cbad964e76494a1d663b3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/2dfac394eae5ba496722101319c525ad0001437509efb083382eab13f4c1582c.md.gz",
+      "sha256": "a6f72f97b7770a136f19aa0249cc8a69138585faf7541eb7e582132d326b23ae"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/301108b96bd3a70b8edb9a0e9c5c323ff6a38521ed2c012993c8b1df5f1c4908.md.gz",
+      "sha256": "5d9b3bf19ca13189779b07cd7f215963a06111ef4739989652b0b6d1635ae469"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/309f20948a63ce8c9cd131deb85b9f0c5ff8db15d0f5fa83e464fb21024b877f.md.gz",
+      "sha256": "19a633377f830b7ee507369f6b9b80a56a87f295c8ae9c6db5a2eae6b0aab1ac"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/37076d345102bdb3c4fc518d74db97dc0e9e9e3963e0f97a9bf3cda54868d6b7.md.gz",
+      "sha256": "f18fab46b723f259ca7c640598dd555562c8d9ccd46b49f1a93474aea0adcefd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/377ae2fe2c5799538872d560e895cf6c00caeb8bb14050cb616c36a9f7f14609.md.gz",
+      "sha256": "4262ef1251eee4157ad98e2954ee15ee04ce2034aa8ac035dbb13431c15121aa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/387281280ba0698937a612e33a86aeaf7a1a3e5ad9b32a0cdb19ad59fa5c18a7.md.gz",
+      "sha256": "0858be0f68e1943f9efbd0c6b07ac4cdca7f26567fa699d4a5fa32d9c1227db2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/38d6b062b33ce9a5b17c5e6b8f0f26fad0933705f510b8e55fda312f41e1a59e.md.gz",
+      "sha256": "557330c871ad00f6ca739c1eadd987f7ff3431f7fed6fece761b5cb0012b28e4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/3bc9dc0bd6dd7b2f356de69534bf37d50b4ece231bda2a15d7c25d8d0d30b644.md.gz",
+      "sha256": "5531fa5718b70be18f04e90781bc26fcfc75de926e7a55769218d2344dbb5d5e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/3cbd97dd1224044e0de08b0b2d0e7411c22d876faccebd5c24e058d5589b9e41.md.gz",
+      "sha256": "cc3d6a7c5cd0ef5c078bc24d48b6c6c11ea7a426cbdb302a8d1ca47809cbbd0d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/3effc345a64e7ed50fb454eb42454078cabaefbe9222d85699d47fdad76fdbea.md.gz",
+      "sha256": "e9c3b0465fd1bd48320063c9236bb081cab2f204a8c3c9ccbdcf6e904fdb23d0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/3f88660441b51edf889f31300d0f619f8e25f216f2607bd10f556f5c7b74bd18.md.gz",
+      "sha256": "18ce7e51672e31dda47cb1b9614a13776fc21c13f880b50b84f0ed502c0ce4e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/4374822852dfa65e43c4d2be2322c271ecfccbe49d2580c971fa2e4e9babdac6.md.gz",
+      "sha256": "4ca4c1fc6cac82ffdb832b0b4b0e744e8592a3f8d448ea44bea76d444241450d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/4c9747646b992be02c28903b6d353e618cf9da190f781ff68a3172641ab11250.md.gz",
+      "sha256": "37c051a739f40b6a7753e1f76b44e0550c25ea87f589e69f63787aed3b2a67b7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/4e9f4becc2cbc409173d26eb06c60a121d82b32552def92a68b2c437e1fb9920.md.gz",
+      "sha256": "ad34580b1c075610639f74b2035ac5e1050cd1cf2f27bf5c65c5beed4726b896"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/4eeba3f0d22f8f5a0585050044ca154843cddf96d91e00c6d6ce760d9e4230c7.md.gz",
+      "sha256": "89f3f86947de4d729148f6ad7de088b5540a932b5f7acff80279c1ebdac2741c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/52d56eaafe14e7c3ff4c1c6f481dfc2418c40d3847ef88ac6790b71d7bd7ec3a.md.gz",
+      "sha256": "1f24fd2f57a84f655af4e855d3bad6f7169d68519e9f1c93d79a0549485e5a46"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5451f53f974c99a0f50f7ab2e7c855820b3d74352a9d30f6895cf04c4a7100a4.md.gz",
+      "sha256": "1365c8c5535eda62aa87f811b9bdb95605f2e5ff6b92a21b69697cf76f060662"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/55a6b3200b302053509e9245485e6d4b5a76ee0c1ce6f03a11fe940e41bcbc71.md.gz",
+      "sha256": "4089b8a6cec23c44740a20b66a00c700a9dbabd3b7d2019723311653970ecc95"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/59ac42918abdcb0d196bbda3bd9e3bf9f93fb8cc94f7f5ef5cad66da7a1c2cb5.md.gz",
+      "sha256": "615c95e1040a883546b31c0a410d042e3cb2a671d082a4e87b38615ea5ecda47"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5af1d01b8c0123772a74c6040f53e51a91fbc42503157c6372d689876b2aff9b.md.gz",
+      "sha256": "ddc2256b9a6cd015c824044b99e2d7da7082a498b4427ec864f77e3def9ba933"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5b279bbd8141058c5ed77cce41e67b103afdedaed6dd48beeae39a6c65f7c425.md.gz",
+      "sha256": "fd2253d8581eacdcc617751e5a0f09d56b2f053e1632574ca116f72944aaefb1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5f3652e40d293bbed9bb59a85c6fd12e45c8ed2dcfd1f8e9888a310a0b7ebffb.md.gz",
+      "sha256": "ca618241d42dec2145ced4fa34599c2046a7481e02b84d51774b3bd486224ed5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5fc9c048949492ee50f56ec99a95d8513f3b13c0bdf935b0e838726224e2baa8.md.gz",
+      "sha256": "44ae58f8c4d69e9bb8be6efaf5de0740e056eeb9c6445f90f0dc56f8b480f23c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/5fe8791f62a96aa639f15d687f767ebba848c61b25bb97337a7460e92c78a475.md.gz",
+      "sha256": "398927895437f3c3fd8ad42cd7126e8ee3d819487d0279b4ee4e7f4bc6648c5a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/603a3b449a2b0bad2191517c5645ac62e29164ce6808f6661d4b689fd2425c64.md.gz",
+      "sha256": "8308709a3257a1483851334778958aada8314899dc3e7d3103e4cdbb5573e73d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/63dd0f2c698ca7ce6a566ed0a4eafbb1a19be649111db02fd6b3f1bd7909254c.md.gz",
+      "sha256": "e4a65f2128984c76d7df2431df654e3c79d3f043531f8d066b9827c7c979c53e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6698e6dfa5a7421f0d1a8bef9e93e5a74934af84d1ff0c044727b3e64dd7703f.md.gz",
+      "sha256": "2119651f53cc567d615a52957109bc3e0485d8a690fca958ed1bc8cb3dae299c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/68e23e0394e86e617086e2961ba2e6980e123934cf66e81891765137cfbbbb90.md.gz",
+      "sha256": "c336ec7a8d4630711dcef6f2f7abe373166813a6714a4c2cdcadc7bbedd955aa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/698f9d08383759d76b3b76b4610aae0439804ddc12060aafce62809b095b990f.md.gz",
+      "sha256": "8f929682fd01c7fcdfce0999c94d9467b8fbc08a611ca6687a468742c6867123"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6a39c0c3827ae79355a4f01288b3f39f3d8b3ecf39bfc4ce901a24cdd7faa8f0.md.gz",
+      "sha256": "ea20219d5625b4ab2f5fa7ea1da47904f36f70d5d5d8db8cc2b280718f7bbf2e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6aa565deeeef19defdec52f0ed8f7be324a763a4781462233a5afc7c9848fdee.md.gz",
+      "sha256": "c4ca0bb83697fab7a72896f3953a02e87041f2b10f65fdd7e7a14df5ba8d5f1e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6ad0f2078d56844a5b59ec3b1f46f48953a9b0337190f319e1b0b11953f16339.md.gz",
+      "sha256": "299c74f56c91eaa5b85790c385b6905aea9e353340ef1ee3e05b087e2f2daacc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6b3b5a2347da861edddccb36e475de392738b321c03038855a242e63ec915289.md.gz",
+      "sha256": "7c8f991c1a0fbe73ce118639a7e72f15026c9b6424d68d26e68aee0b2c40d16b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6b74655a0cec69852d66fcdb3d8a42b4c68632b257844d604ad7520c5abf1c4c.md.gz",
+      "sha256": "f182569b6717a8862ca01fc8e80bc17568675b31cfe732eb0f678bb775eb17da"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/6e86894ffcacfced0f95dfe8fd524cdb4b9f76a33ddcf17fdf9d590f00809353.md.gz",
+      "sha256": "aa6e62ba7de81923c88d6f4580e11b5db3e9f8e360064e1443bbf75543c0ae8e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/701da9a89bbf82f568c1279f035a3427c09180c878e8fe84997005110f718e88.md.gz",
+      "sha256": "ff361825cdb36bf70c612708a06514134c49c7a9a7cf8603fe0e32cf3f48774c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/71084cebef059ef3c1cf50d3d59c3c7102b3bb842cf3ca87d81be5454f88b4a0.md.gz",
+      "sha256": "82d6a0bbf267bf3c4ff539d14f5fcff256e10b5b529cc2197618076134ff8ec5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/71ace1e4c7a0274881a7275e818f4fe49ae7062d1dccef238084e49c2938c0a4.md.gz",
+      "sha256": "42de14babc2da56392dbf8f38270a0ee3e3aaaae4495960308a0f1ddf3fa0eb1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/72f15ef8b0a1ba702028ff1de0f60e4cc9ded894ab5ffbc095691c4bad7249b3.md.gz",
+      "sha256": "50bd2244b12d136541ee64c78a6e422adff94ac5b82fa40bd8b362acd8232af6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7399f4d82803794385f68b601bf02c46e9fec8587cca65877d1cf8931edaf3e2.md.gz",
+      "sha256": "6680847991d0c51c1d4fc263ce0e0b921f60938ad5f7cf442e5d755f29bfb698"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7ab467938c05e29376ae1340c5521838d8f5c545df689d721da51c4d0b1cd73e.md.gz",
+      "sha256": "056cbda4c14d847b9ea1ca65e552651e4729aeb04ecd8781c55028060c93b979"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7d3c6d2a0614d978d74499d2cb57957dee53ece2cff7f474f66c05f5fb26510e.md.gz",
+      "sha256": "eee0f4d01a28b8443d8f35b6a87cf04b65c0d26da2ebeab1309a4691499d0403"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7d813b760c7745308e2997fd482fb7882a48176875b0c386bc1e99844f85a380.md.gz",
+      "sha256": "db610d72bd033390b23d98787d4d8df554c30de658697789a494e5faecd4cb69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7f5c7a365556edb412890ad6f667aa5bcd5cf21434b602acf1b46757eb06156c.md.gz",
+      "sha256": "91321a848c17ebd00f3c8a6c7e195184fd5eee6cbb963bd90bcdeee2bfc5fe12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/7ff8d387494a114fe260a33b1a2d1ad7890feaf4025827de92055cf290ead5eb.md.gz",
+      "sha256": "e48a375958e3b97727f142d44e2b08c990c0be5a73adfe90d951953a21e557b1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/8a3886a6ac6374f1d991ab125055cebdde939b0972ff3ffa38bad91c54daa4f8.md.gz",
+      "sha256": "fb841441b635d6348bc50df8f320d57db11c5ae97ccac0488eaf0f182079a379"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/8e2c3441ed5c24e9c2cfd4a5e5cd472f68404881792911fdc85c6c9e16c7e880.md.gz",
+      "sha256": "819f7f03b7357fe40e97a852773a146ddad8d2bccf67100ce49999e6143cb203"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/8edde375e3bbf4724b1bcc3b96cb6125e762058a92bd45b603efce155804a60a.md.gz",
+      "sha256": "55ea9ef28c86b23ff3f77340dfd01c0e47adf13a06a4ad8cc06adcdd4e85ed00"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/8fbc37736e77799a7ba974a251656cff14075bf1085a6844d0bf10b33c95b7d3.md.gz",
+      "sha256": "c170a3c1a8805944fb609d29f61276edd402d096532a12f66a98e7c092ede55b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/8fff0532519b2d32b942e22e1d7fc675404a2270186e76debc731c62253ec970.md.gz",
+      "sha256": "638ee5f61cb7b620f357c3c2ae0456a5844fa99fe8ed75f12310f2b4235eed89"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/917a0d324c275e365dadf4ee200268b2a84bbca6b93db386c5980a40f494a8fc.md.gz",
+      "sha256": "d1992cb8019d5f244616bb85ad61db364c37d404e0debd82c464f64682e126a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/9188c96d254e16dbfc30b35c8de75756cfde1a349ba49212add37aaaafa00b58.md.gz",
+      "sha256": "5337e8518e11fcffa20004a1dbd901371069a43f5674eb547204086174365879"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/9332daaff3c75228ad3530302e9c9df852dfde5ddd2af93928321814286c87c5.md.gz",
+      "sha256": "75872b1180ca459f6adb4efbe2629b5d6fa97654efd9f5cb3bbef03f5d5c580b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/96e8f3e5f0c4c2633b94620a9f537a402f20bd10f07039c52b8ed10d285e7fbb.md.gz",
+      "sha256": "92669787d36d2d5444a077181db6614a5611569845b5789e10cd5870c7dcb61a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/970c37b1a48fbae7c99658f32e9acf61b4b4887ddfcaaaef914bf1da76552406.md.gz",
+      "sha256": "553773c288b043005b1e9c37ba6d2e66e27a546069ebc066a293bc9016d07279"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/9e4da231995f5a5b6e97bf785828e744f3c73088d177f099a2b8530d57025325.md.gz",
+      "sha256": "dd1f248c6d92f5bcc48878de1012dc6f4b27da8f06c85dc635c98577fda101bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/9f0a4a11612ea6e41fa068719dc0bcea5be9dea1fdd87e039831de41690bd04f.md.gz",
+      "sha256": "66884c98f5c82fb00381263496b1ac2e66ae1fbdd86a8b201ac5a27f42d6fe9e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/9f2422ddd70765920e0b84c33cd4765cc6476d2be07d9accb7ad0f38cae90bee.md.gz",
+      "sha256": "c2543ece6134b7e097c424775dc2854e17e901c775570477d48a4d81f1b65c8e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/a1ce90b408923ada5055c015a6ba6e078d93a1fc5ef40c794988f35d5a4ccf71.md.gz",
+      "sha256": "926c45ce9971b0345681ade6f0591c00df479da8e56dbb4bb915d79242ff21ed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/a2932d2b0816f054c5b070bb3afdbc5809b8ddfb68b94f62c6260e9fe66f7d17.md.gz",
+      "sha256": "428ebd9db26539710d5188a1c9a8fab6e2e78a03026813cc518d55d8adb9e434"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/a8a5aca1e1aa4181f53f698059e747051d7305a7a3e19977f63791831787f073.md.gz",
+      "sha256": "6f835be6723fe4a62231f778e789fd9e462c1b8a40eacc848e3452c908517170"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/a94b60c664f60e83994fb7b0ddc01e0a28c7043ac57d9b261b99cfc38344104a.md.gz",
+      "sha256": "c4aa866baf682dd91d0016b369ce3b968a676770556af7930bb35b87bf1e6e74"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/ab5d8c5bef7ed53e9228474772ad02e2cc037c5ed6826fca55ca8f34041cbb15.md.gz",
+      "sha256": "c8ed62ee528069d0f4f429b00421e9a59bf683099b8baaf36e22767db773b21e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/ad826bd56d734d7d93a25c41125c530a05124343453eba31a42d3a77da020e6f.md.gz",
+      "sha256": "8b6ee626cd39c632b720ad90e9d2d279da54f27a0e9dce445aee5c907d8e37f7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/aeca315889d6c6782da45c93c3f75858087474439f49b868bb239973044175cb.md.gz",
+      "sha256": "a8a33e407c97487a82eac608ad3770342b74afbad567c5916297653a0ef5cf9a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/af576831371525ba28308dbdbc8dbd6e3da7053cc3b2d567a7dc90069f185419.md.gz",
+      "sha256": "b34899e0deb1cd9eeabd0b415bf6639886d15747c4aabb596c14e18f4de4d6d8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/b009ea365991a1b890d01e9126b1c924a1d495597b7d8e186b160a8a612c733b.md.gz",
+      "sha256": "f97eedf4b4f08056af8b0bb577dcf7df7b0d2c7fd5423ed54d5866670e0d1800"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/b39d0aa3d4569b77e3a20f01ebd18cc45aa87067ebc99a0a36e80eab0ad1fb0c.md.gz",
+      "sha256": "c5d90df036ce72fc4e66844c060688e9c03ddd47b701ceb8e1f444199fc20655"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/b98bc456995f8cc9394fa2b246764c0aaa85df32de477ec47d6c1f743c22fe6c.md.gz",
+      "sha256": "2986d8bd550d816fda96fd0dac7c8b4a44209d677eb22fe02d43ea9871a0fc92"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/bab9683f8ee9d8cbbf2a6cb39fe65386621286f74f6446378178f3fa884565f5.md.gz",
+      "sha256": "a9f661132de1b02b867223389d69bfb9082f103e378e3faf00dbfe9ae75718ec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/bc995d16d17e29bb9585417d2e47a8cfb71748d4762556bf9f9c8d732b3b9eff.md.gz",
+      "sha256": "3c5509f19e9ce817c879ecd9cb127fc2f64233ffe1e123fedeb7c0b0dcd74789"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/c1a670c1b04f501a7a2d42073116c8d739ffe3bc63164facf0f5c73cb2e2d18e.md.gz",
+      "sha256": "b6f60cde054885847c8b21a467cb44c56557b631f402ca1034741e2516f36762"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/c1edb2c9c116a4af2fba67cb8bcb48949f8e05fd3cfcafcf8a4f183bc7b04a2e.md.gz",
+      "sha256": "968c88ac7cdfdd1c9fb5ed8d3172d863e79ddf366b5697b3d644feafc4bb0953"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/c3ac4b33e67acc51ba555cc4ab079e826a07ffe4d7fff7affc000b68990a4515.md.gz",
+      "sha256": "fb6d4377bcb41e461ff62780ce7c7540f689ae3425741d76123bbd4f0b173122"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/c529e20a628d3e8342fb021a8a5692f3695505a3196b80e14896b50c01d57719.md.gz",
+      "sha256": "ff2d0f33c8243d9e9f12db30871ec0d0fc789ec26f7799b39eab8d1dde53e0e9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/c698e65278aa58a61eaebca3275f4801e8ac25bb79f62af075939291f2c55d8f.md.gz",
+      "sha256": "4648c3e5a0085e54f10a3a7a56770eb2d9b6c6a019c1ce27a8cc6860896114fa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/cca3aade1e3ee28c81aee429610eb55bca387416fb11b4e05718f94634f9d1f2.md.gz",
+      "sha256": "1c8e892cf48d1aeeaee6cacc35f4335ad1691afe6c71a0f4c4108daaff42b1d8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/ccfb9dde528d55bdd6255fda3a31d3453a6cdfef29951bb763ba74d9207e0c29.md.gz",
+      "sha256": "f4b79de48b0a70be3ffddac6ae5e7bef79ef46ef19d92759a78925519c551a23"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/ce7f24dc97583ed8ccea636d9fd618edc6fd006eda899312b819db0fb2e85aab.md.gz",
+      "sha256": "b0284272a11482e1ea2d9ac8bb3f4781ba200b16f5dc77ba7725e5fe10e35bcf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d0b0a5914edceae5adcc1a6b4096fec91dc5726a7a216673c6bccc515f35c08c.md.gz",
+      "sha256": "0a94289f23e264245b13d21d2f827cb615f9976f61ba41f7f2ef1ccb5211b80d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d311f69970cdbdbe4df1a02012a23b35890791e41c75867365c173436af8a8e7.md.gz",
+      "sha256": "3a7d516f26c662ffb13d40c536dfd659f04b08fbfedb5a7cbe4cf8dc87499153"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d56636bb66818b0d2504e482bbebb3efd9c60671ed076daa44a2530b7397f528.md.gz",
+      "sha256": "c24ee9bb16a964b8ac9ca4a0a2c7d90c7a5135e39e7aba8b5e7884a3411a7481"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d5b3f9f17891c0855e92ec8cf66854c232e995d281eae80bd7227f01d77d488b.md.gz",
+      "sha256": "ce09fe17e853e52e43922051b61d9eaf84f2409c723e0b4ad3a754cfebad98c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d617898e61af7984bb297a7954a7fbbbab41bdbeecf223729f9578f93f6e6b98.md.gz",
+      "sha256": "fa1bc123629d4fdadc20d6adbfae42da6935393eea878dc2f88c44c9cfa041e7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d6312a929a8310f952b30a72d2a2cf902b5fd3136e385e7571aacd0852bd6f67.md.gz",
+      "sha256": "9b790f75d4ea098c78f7ca53ef7cd5c0c56db597f00a94204ae3fb6da09652d9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/d9735a8aaa8e3040dc38d9d13638ce4c1abd9fc09436b0f15c92e62bb04646cc.md.gz",
+      "sha256": "1e01d53bd17190cf821a1e62a36352e86068440e875a144aafcc4e7e9c203574"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/dd10b099b8521a489678612710ec5d8345739217c251117df540f6111c80cebc.md.gz",
+      "sha256": "1311750f9dd5053059a893c6460657da681919a1348c82ce88c631e6fafdec0b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/df0248b76238372aee03a4d49bb35761af79a624fde6adddfc679ef6bdcf797a.md.gz",
+      "sha256": "8656b193857051214a3fb29128f2d975483d3977e73b8f2bd6264e3b0a78d3f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/dfa78aecb3d7d4e48f2330b4a73e5c3a716447d46cc115a6636b6d38d3776b7e.md.gz",
+      "sha256": "6f9e583cc9cc3f3f96fe2267746c17db8ea090e897ee52293a8941be4df442ec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/e3f684778fab4a4695b842fb13744f82e8c981dd09ea71256a5ba42230101693.md.gz",
+      "sha256": "567b4be90341ebbae5a76d04578321dba99676c12fd7cf57b14fad9efb178914"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/e95d47340ad8473dc7ac351993acf3340f49c032e1cc6d030a08f12ccc82aab0.md.gz",
+      "sha256": "70eb373009c75a9507859052b0b7ae01d3f8fe81834388bd5c8fb3fb07c63ee2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/e9f1186717dc060413fed215000bdeaf4030edf58139ee376d0b1b90cfbfa363.md.gz",
+      "sha256": "e214f74748bc7cbf830c8c5df5c15c034832babb4e4c128528f7f24834c2cea4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/efe359480b9000826fcd9c5fbde20b444d2ef058828ccb9380f2d0d83113d2f5.md.gz",
+      "sha256": "bdc61e1a87ad1d01550a4c2cb4507ca1fdd20f63f80f68daf39893c371d96d5e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f0222b7af67d97235f57066f0f0621695b4a18f59dfe69d31a2104466dd0f732.md.gz",
+      "sha256": "0360181c62b70bf7ba7b34fb2a4bee7bce14028106eb41e24101baf32a68551b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f06afb9a336a617c8963b0a38592d0eca73980a54895f047bba2946fb59af42c.md.gz",
+      "sha256": "d088bbbddf670594e72e2bb02d5ddf303fe26654cdcfbf65fadbe6b5e89e33dd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f37f4419dcc3d39cec89f5f15c971cd5c5dd6b576bd921fc4c74bbca094a5b20.md.gz",
+      "sha256": "15e384a8972f7ce0f5746974b4b69d0fb1b701bde654e8b32bb8a856d8e70b9f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f425e06f15c6c2aaa8661ffc1f2aeb4651430198ca22352594a5192473a524b2.md.gz",
+      "sha256": "7f4ac43608b0041b75733d8403cf85786d54caa05357210df47d6ded8818c1bd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f47a65374923c6c05f6773ad91ed64670d488ca32c9c7c67ee5829d795926d94.md.gz",
+      "sha256": "9b0649c295d6d42cc18be40178202c6ba682abfc2ad172eb59d92c3cc06f7739"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f61fd7ded240153c233af6eded66545e4bb1c7d6984e521d3ba30f5bb6ae8c8c.md.gz",
+      "sha256": "20acf7d98ee7086c46b8090243eb335453d1e10d00ba0833296bf2981e9236de"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f64a3a6f26d66c6c2ed0aa7196ed873b4972703f3d446ffe2fc18c570b67d03a.md.gz",
+      "sha256": "43423ff5f4a56ead1c4c011926e3eaf2a0490c566c31282328c854c5188b884c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/f66d3a972c3e37032f88e324a565dd02a2e94a8f0a8aab1926838f5baddb0d3e.md.gz",
+      "sha256": "671265722f7a2b89b6c9fc2e7fdde9a5aa525fdef93945d0fd6f8a39092c5549"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/backups/fee377647d33b44746c92a0053b83c917aa706dee25ec822f4f7ffa5c119abf5.md.gz",
+      "sha256": "696e132ec5fec818f3785293968c96c4fe825bf972c24e9648c8866741ff0f5a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1909/dpl-2168-1909-12-06.md",
+      "sha256": "45422c992ebc6bd35b9fccba12c810b90af39ff6dfdf7c427b3c06ff49d6b5b4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1910/dpl-2355-1910-12-31.md",
+      "sha256": "d618f26f3e6a341ce614cb1243c8b4fe2b98d03fce644497b69ca156f079f62b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1911/dpl-2406-1911-01-11.md",
+      "sha256": "6e4b48767048c14527c11e5f2a6c1c693ecc319392eda06ee89b4da83df2ecf2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1911/dpl-2528-1911-12-31.md",
+      "sha256": "1d17ecd3755366dddca0a9afe4de78d1d6254f12d8ad7b25a7956c26134f2cb1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1912/dpl-2543-a-1912-01-05.md",
+      "sha256": "a0bf909f6f5b0bc26f3dac8ff0e50ca30575be0a2205f60eb9d14f384c0c8b29"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1913/dpl-2756-1913-01-10.md",
+      "sha256": "e225c57558a1ccc5151850f03d82f6d9611894f463eaa559317f33f5aa89cf6d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1914/dpl-2862-1914-08-15.md",
+      "sha256": "972785f0d5b2cf6192fc97142fa0ee4473dc5e0df115944ba735cf0a15aea8ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1915/dpl-2939-1915-01-06.md",
+      "sha256": "5a4f1319eed00baacdf61cf34c5e79e2cbe8651af89f27f66f7f3fc07742037a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1915/dpl-3068-1915-12-30.md",
+      "sha256": "c3e28f1e1b6ad393e666651ef465e9e550358bb576f83dbb63b29522997beaef"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1916/dpl-3091-1916-01-12.md",
+      "sha256": "8ce3d8f1f2f7098454e73b637ffa1ec7ea9cc21c561115a3c0a138161a3bb9c7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3221-1917-01-03.md",
+      "sha256": "f5b95092a65f17419261561db6be86959b2feef8efaaa113dfa8fb2d2f75fe25"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3234-1917-01-05.md",
+      "sha256": "f250aba06762aebede5345f5312c1b508326ba86f369d44869f23ca9cdfbad99"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3240-1917-01-10.md",
+      "sha256": "4ad7bec6bacec0e33327706f619f89e67bcb104c0371286bb1d90eed196ac9ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3351-1917-10-03.md",
+      "sha256": "1f1e35281af11ea1f4f97e52253d45d70ea8a5014c3648a74805c98bb084c5bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3416-1917-12-12.md",
+      "sha256": "eec040304ffed1cd83de8711101490675d08f839ff46a95bfe05f88b977a88fa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3427-1917-12-27.md",
+      "sha256": "c97752ec0c6247026210f189c6133942270103e9f2be75b296b7dd73cbb0ffb1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1917/dpl-3438-1917-12-27.md",
+      "sha256": "9b3c0413812e88275e8b797f0cd59542657fb7b42fd9bb91b4514d24fa4f4da6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3458-1918-01-07.md",
+      "sha256": "5b8f191be712099d54d6ffc037cf523ab6ceb3098ce6e804c9fe8883182ea694"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3462-1918-01-09.md",
+      "sha256": "0c47128ac2fda2ae850c3d0513cba7677f286641ef7fef2d4d4599b65d9e25cf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3466-1918-01-09.md",
+      "sha256": "490fc0ccea048131209b459212dbda7e15351ef28194ac75efead760c86f5e3a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3494-1918-01-19.md",
+      "sha256": "47afed8f027933211e022257232db82129fb00b340fb20a4c3c1f19d8d89cf4a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3497-1918-01-24.md",
+      "sha256": "0b4af35b8c8a0d3d9418c66825af905b01ff2dc377d3e3c7c1340f72d5b5a1d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3543-1918-09-25.md",
+      "sha256": "d01c75fd311e8b702bda4eab233f8b2dfaa344f16c955a1427776aff497f421f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3545-1918-10-02.md",
+      "sha256": "61b327cea6b5855d1cf401fe8138f845e63aa7ba37e957d9c642526a2c88a436"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3550-1918-10-16.md",
+      "sha256": "b5028201cb521db0afab12d65c3c7be95238dba9735f9674b870a51dc81ba156"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3565-1918-11-13.md",
+      "sha256": "9e638da2237aa1844103c4044758059d867af47d95fed770fcab702d8cf7f769"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1918/dpl-3641-1918-12-31.md",
+      "sha256": "6e58568a6f5409304e2ad05c0d8a863254793a111f9cd2c494b0b36a4c9f189e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3676-1919-01-08.md",
+      "sha256": "667cdeffb42a7af3477b3c65203ac8b90ee1242c72dd7d8692fea483431cbffd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3681-1919-01-08.md",
+      "sha256": "2526bdfed2b4f817b99db03ed720f8722e5857c2c724d1c6cc5b94c2a023c73a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3724-1919-01-15.md",
+      "sha256": "b4322a63b52b56430a5497fb47adb8d50f466674272c5c8c1a60d2f260441ba9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3752-1919-08-20.md",
+      "sha256": "1a6983b51d5be7b75cba9718691772e1215189ba83e59ec7bb0e60ff419989fc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3788-1919-10-03.md",
+      "sha256": "7293a720707ce7a16b7a18f1aafe8702deded627b16e813e89162c9e358de275"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3830-1919-10-29.md",
+      "sha256": "02653459ea4f82ee6c3557dfcf0689ba4dbc77ae36d12f008d5f97a585ff4dba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1919/dpl-3837-a-1919-10-29.md",
+      "sha256": "7a4d847208c410ebe4b525899c1cd0aadb86b6765a0885eae31a48f8e1b7385d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-3987-1920-01-02.md",
+      "sha256": "9f2d5f6c1802a4be29ca55c56bb655490b1ed774d88a9513d9bed3d1ceb6f06e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4003-1920-01-07.md",
+      "sha256": "44d9f65d6fa3b35f75afc09ebb72cb752aa53fa748d220c1632e4acd432e9b81"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4018-1920-01-09.md",
+      "sha256": "9524f988525b1ed4daeb089a4fde0d5521b12dd33c91cf95bb57f5d843a6d86f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4034-1920-01-12.md",
+      "sha256": "29cf35896d857e9ca7c9c4612e7fcef25c6719d65d30746f2f4d68c15e37cf77"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4051-1920-01-14.md",
+      "sha256": "4a52e37f78492e75c26ddcd5289187b47d3e8e8cd6d3ce1e458c5176fbdce3ec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4061-1920-01-16.md",
+      "sha256": "9b127056a56a3d7b7b546c4fe9b7dd76f3d9fd994ab6329c7e136420ed726ce8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4206-1920-12-09.md",
+      "sha256": "4b6510af0bbddb477d9354b6c7128b6b74f929e6eee57e39d9047a96a1e790f7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4209-1920-12-11.md",
+      "sha256": "77e6cf84a36d82f2dfc87dc4d9cd3180122e779fd40b8fb372764b6d8764b443"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4213-1920-12-18.md",
+      "sha256": "c8bd5e6dc89843ab7be56b9588d7993ef6d74c8a48834605cf7e7eb1a99c20d9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1920/dpl-4226-1920-12-30.md",
+      "sha256": "19559ed4d378ebdd5bb0c2da6079e05b404874926a92da4f8adc32c6967c4acd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4241-1921-01-05.md",
+      "sha256": "d42cd23edfd16ab10ae07217995d4e76297e31acbf5c6fb31d477fd10d57546c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4247-1921-01-06.md",
+      "sha256": "f4a0b06c1fb3005f37c275a128aa50b287eced83dda4751732214a05ad3bbd70"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4255-1921-01-11.md",
+      "sha256": "b493ef4eb5035fdab27e3e2468ded3ad3b0fc9ff31fc4204b692100156a345b9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4265-1921-01-15.md",
+      "sha256": "2718fe2e748c9aa135fc07b573877722cd58a3eea0d5b556b97c4e309fa629fe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4269-1921-01-17.md",
+      "sha256": "c4d0992aaed7496da3d0b2774303615652d615679c890b872792f4c46df01e61"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4293-1921-07-05.md",
+      "sha256": "a6f920c1eadcec8d516afbf77b2ace0f9eaab56ac87b1a3880d301279b49f4ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4294-1921-07-06.md",
+      "sha256": "8059b5daf3ec8bdd19211cd339b429f0dba09bde1385c6c19764f03568ff8dd6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4381-1921-12-05.md",
+      "sha256": "e12177c8bc908bc59e3a83a8416bdb4c280d9c79e6fb6a24a7a8b1a42fe7d8e1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4384-1921-12-08.md",
+      "sha256": "95af0173b36596b5d0944f6774b6b4bc7c353d23e67a4a7562cc3ee1e285e076"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1921/dpl-4421-1921-12-28.md",
+      "sha256": "c8717b306d2a22decf09f3df53cad6ada2e38544fb2438362777d54e40da64b5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4456-1922-01-07.md",
+      "sha256": "67bc996b5880387a96722fcfca4cf9b205b7ed2a565527548279ec5b7d302f0e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4525-1922-01-26.md",
+      "sha256": "5df1afa7fd11d6093d9c1bf30cfb5aee885d82f2481b56b07df6f9376d13508c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4540-1922-02-06.md",
+      "sha256": "6ac21e6b37837756e372d408fb9b45ebc8f5d4769cb1f123c3b18a782d7314f2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4547-1922-05-22.md",
+      "sha256": "0c38271ca26d75778da62ccba1d1cf5468e162c0632557c21d3b5f83603708dd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4548-1922-06-19.md",
+      "sha256": "84c43b2b1f570b34fdc7acd4cc9f1aea4b68718ac8c0af12e167c9a6fdc64d7c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md",
+      "sha256": "f3ade085a41d81b227e462f2dd402ed433a72ba0974aae33b0db8e49fd84ce15"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1922/dpl-4561-1922-08-21.md",
+      "sha256": "637dcb2ccf0ec5dba566942f4af403881f79a2b8eb3df72e5cac7e6f1116e536"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4626-1923-01-03.md",
+      "sha256": "3161707ac655bd1f7c69c9d5ba470a6958d743c5ddf483f4f919076b1395a310"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4627-1923-01-03.md",
+      "sha256": "41c08214fd8354d1f8f5423d8d095115a5724764087547264eb47fbe04763049"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4629-1923-01-03.md",
+      "sha256": "4eaf40eba628f6d48576a92d2607cc105cc0bb8ca4c7119f6235b249684f5346"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4631-1923-01-04.md",
+      "sha256": "f2acec9bc4a175397db1ec5d6dca7538c71740244e90efb6294e21f35f784729"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4635-a-1923-01-08.md",
+      "sha256": "34d6b9b404e852bbf9c32afa68b3c444567fd8d5fa217242c0abec24b7750215"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4648-1923-01-17.md",
+      "sha256": "6b7eb49ca66c8589996eaf7ea5ab8aa23529fd372b277143ddfc1577325aca09"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4679-1923-01-24.md",
+      "sha256": "803a60031e51c5347cbe5dbcac9e43e65a5e8b457125cbb08de74b379c196eb0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1923/dpl-4743-1923-10-31.md",
+      "sha256": "d5dd23695a11473832e36201e1434512a944657bd6b70b583e53963fc3f7c0b7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4789-1924-01-02.md",
+      "sha256": "edd1960c7b45e7c14ba0a77df8b7619e771da91b94ef1c7dc1aeeecc4795a5c2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4837-1924-07-10.md",
+      "sha256": "628764b60573799388a9093f5fbc17ee30c3e42c68e56e83ba39639c26b763cc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4892-1924-11-26.md",
+      "sha256": "9161ca71bee6ca029f95978a4c8849514514ab178d0cc57bb074c2bcb1708347"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1924/dpl-4895-1924-12-03.md",
+      "sha256": "2ae54400f9655c31e652fabb4feb8ffe1aa22d48adc7cf65782dc44e708ec346"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1925/dpl-4910-1925-01-10.md",
+      "sha256": "5573bf64c0ddacc7277fee33978c06abb68c9c57744499ce46e1fb55776a3c5f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1925/dpl-4977-1925-12-16.md",
+      "sha256": "04242536d1cf01fe123134b645ed841e7b48ba6af5d24ea28055db34a950e45a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-4995-1926-06-05.md",
+      "sha256": "cc1a04e6d17926abed16bf85f98aacad25213e068ddb61a10dc0d61216f30b7d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5018-1926-08-25.md",
+      "sha256": "4f4796366e4fc7827a255ef1f8ee679e0023c8373a2be6da73fa6a020730b18c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5029-1926-10-08.md",
+      "sha256": "4f9a15531a6f3d300d22ad58504a6398d4b40ce4a9245606fe97c7815edb3ffa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5047-1926-11-03.md",
+      "sha256": "060993901fa2abf284ffc49e7a19fd4650dbf36b19233fc652712cef79856ece"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5053-1926-11-06.md",
+      "sha256": "4c0810b602322e94803ecd26200d3bf4f090bb6ec6b28cacc162416d6c336207"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5058-1926-11-09.md",
+      "sha256": "3b2c57ec7056522ea6ee735dc4340f8981f915886c5f18dbd6b1923d4dfbe96a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5100-1926-12-11.md",
+      "sha256": "658aba11327db2544be2bd4dd52f222bdec745bcc30ea408f2c85e7d17a916bb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1926/dpl-5122-1926-12-30.md",
+      "sha256": "c61035e80c94d033a4f0fe01be688ff29bba2c911ea64bd8fbaa928a1b1cb000"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5143-1927-01-06.md",
+      "sha256": "c6859692dee7479e777d0b0b52ea8627c7fee2306d19dacc5b3673ae37238b7a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5161-1927-01-12.md",
+      "sha256": "0b8b48bfe1c51bac05223554f78ad381be161b0c9f0e490f6a63eb731ab982f1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5180-1927-01-23.md",
+      "sha256": "8ee39bc53474cb633330235021d1f94df3ce18d0c30cfe8d9fb40548aafc6374"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5180-a-1927-01-23.md",
+      "sha256": "bacd970290fa1e5454fce373af1fca065930d0f2a104b4709106d158ffec50d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5190-a-1927-06-23.md",
+      "sha256": "b78da5de0d7571925c90755e087918563b3e03c171ba23684d5e47be84960420"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5252-a-1927-09-09.md",
+      "sha256": "a38dade90b0a10622bdff41e6f04bc28230d17a4d7b42f13c6b2ac98f4478b1f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5343-1927-11-19.md",
+      "sha256": "7aca40506ab876d19d25ab4e1fb1ea208ab1e532f025c3bd58f1bea0bc59054b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1927/dpl-5407-1927-12-30.md",
+      "sha256": "28d7d366835591650b98673ff5448375574c8a4fcfd903e164442966548a423d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5426-1928-01-07.md",
+      "sha256": "cba8f74a5485d32ac8ba0ae74e3632a8d567c6b68c9270088c08560da2b980eb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5429-1928-01-09.md",
+      "sha256": "c5802a87ddd253159340d78ec32b3b1d49754f98e208c251392d34667c9cc47e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5450-1928-01-16.md",
+      "sha256": "138a2e196ed6f180ae72f32fdf44dbea9c6a637fd76798ed518ab79c65be8995"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5455-1928-01-17.md",
+      "sha256": "87f9c740bb44774cf6d9d2bee787a3bf28f2ebfd340c4205c14d4b3262744acc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5456-1928-01-17.md",
+      "sha256": "86a397af182894a55861e8ba36cc8c8236e964e59b87f3d7a7116ac8045455d8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5468-1928-02-09.md",
+      "sha256": "ae67d54d0b511dbcd8aefca0aaa7404e9504fe0a5101f6f2b4243510b1c7f417"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5485-1928-06-30.md",
+      "sha256": "a66be7476a9fbb3a1fb3a2509b783c187fa6ffc0ae8b177376d4423fe41b58f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5542-1928-10-01.md",
+      "sha256": "e7f02cd3c6ab8cfff79bb00928e01bcd94f2ac00f217bb052de6262fada10bd9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5548-a-1928-10-16.md",
+      "sha256": "963f9755d2ef5bf782d8644e6ddee9eaaa1e788e4347569773de72e10dec6f13"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5561-1928-11-01.md",
+      "sha256": "54d9d76a950e8fa590d9f1b9a741a349de9162d95f2818e762bda52b3b98051e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5574-1928-11-14.md",
+      "sha256": "c23b9e575f8f03bda2e4c81b8422bd98e355534ceda19803b0a95fd013e7e2b4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5583-1928-11-29.md",
+      "sha256": "90523cc3a945739aee35e06d6cb2bd58217300c4fe8ed42a3a95cb20b3109458"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5584-1928-11-30.md",
+      "sha256": "f89d8e1fa156cbb27b4d0585558b6db1aff0c451f9b41a7f0c58ecd2ccf17649"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5597-1928-12-11.md",
+      "sha256": "8eace89a8e16b831697af220ba9d088e6be1893811126499fb094ea912cef662"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5626-1928-12-31.md",
+      "sha256": "1d5ebdf20df94e216122cf8001124b091a59be7208f9c86781ba5dc57e4170bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1928/dpl-5628-1928-12-31.md",
+      "sha256": "e624059f6a740c70be2dfec7fa79cfbd914960c63dbdccfa85b99a6167f0b81a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5633-1929-01-03.md",
+      "sha256": "28021bfe50f80366273d53f3367debe85a501b5ef38238ba904a2b0d2189e5ef"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5656-1929-01-09.md",
+      "sha256": "622bef7e60487cc0c64908f83159cee1e8349ef76a3449752a75b7865eacc439"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5667-1929-01-12.md",
+      "sha256": "1fac628bc5bb791febd6a3bf357a9a1cbcd448740788378981ddffe5ac06ed4c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5737-1929-11-14.md",
+      "sha256": "f15fe041391a50eea2de0ab524c728ccd4118e39ad02917df188a2e8a4506430"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1929/dpl-5751-1929-12-27.md",
+      "sha256": "beaa0470e60a866917421d5021286b1f4723996d41f5ec7cd129e226b12aa482"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1930/dpl-5786-1930-09-08.md",
+      "sha256": "22b8a0781152a33d3ea4b307a094e7f01abc07ff3435f8036ddd782b21522948"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/candidatos/federal/decretos-legislativos/1930/dpl-5812-1930-10-13.md",
+      "sha256": "67342b4896064cf94d0a26d718e1c225a187678e03ad39a69c15ff22c0ba4eca"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/ledger114.jsonl",
+      "sha256": "5ff8d742b89559a1cd746d45e39f08143d7ecf9cf66d1265077c5018b1bc6399"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/preparar-tabelas-cc86b22767a6b950ed5b862266dde14adab5b7857ffc8b6b255c162f0c839b2e.py",
+      "sha256": "cc86b22767a6b950ed5b862266dde14adab5b7857ffc8b6b255c162f0c839b2e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/resumo.json",
+      "sha256": "43f4cc683a065bfbd25b2a367e9f6ddef2452012b8e1fcc413ba2cb1c9e11c6b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-tabelas114-20261016/validacao.json",
+      "sha256": "7455d84ee0b6207e6722312a4d99594dfec8811368ac4e2fda172893e7a71876"
+    }
+  ]
+}

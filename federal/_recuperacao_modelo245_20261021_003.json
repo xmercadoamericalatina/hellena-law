@@ -1,0 +1,62 @@
+{
+  "escopo": "Reparo privado de modelo próprio; sem editar canônico, entregas ou overlays anteriores.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos/1991/dec-245-1991-10-28.md",
+      "candidate": "federal/_candidatos_modelo245_20261021_003/dec-245-1991-10-28.md",
+      "urn": "urn:lex:br:federal:decreto:1991-10-28;245",
+      "sha256_preimagem": "f667f6c69909c6c1f2dbe447e9a0436b0b623d32de87e84e69d99ede0717f038",
+      "sha256_candidato": "3cef7180243382985e7895764079f2a27c5112797803822ae1d67c5c3b5d9cf8",
+      "sha256_fonte_pdf_completo": "ad171f5e2011488a2a2301f53c538c021812847da3302085f1820064ddf087bd",
+      "fonte_suplemento": "https://bd.camara.leg.br/bd/bitstreams/d829002a-0f40-4bda-9d7d-d49643e4e089/download",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Dois rótulos vazios finais substituídos pelo modelo próprio; metadados adicionam fonte/hash/nota. Corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas": 25,
+        "celulas_html": 165,
+        "posicoes_preenchimento_vazias": 132,
+        "cabecalho": "3 níveis; primeira célula rowspan 3, três artigos com duas subcolunas Mas/Fem cada.",
+        "estrutura_fonte": "O corpo do modelo tem apenas linhas horizontais. As seis posições por linha são derivadas dos seis rótulos do cabeçalho, sem acrescentar valores nem alegar divisórias verticais ausentes no fac-símile."
+      },
+      "checks": {
+        "numero_data_indice_metadados_epigrafe_fecho_coletanea": true,
+        "principal_byte_a_byte_inalterado": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "vinte_duas_linhas_bbox_conferidas_com_um_erro_ocr_documentado": true,
+        "campos_vazios_no_facsimile": true,
+        "estrutura_commonmark_preservada": true,
+        "facsimile_anexo_inspecionado": true,
+        "sem_figuras_normativas_omitidas": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelo245_20261021_003/clbr1991-p2423-identidade.pdf",
+          "sha256": "32f2428209a0f3258f7d349af423e365fed15a0146337c64183fcfb7b58c84db"
+        },
+        {
+          "path": "federal/_provas_modelo245_20261021_003/clbr1991-p2427-remissao-fecho.pdf",
+          "sha256": "0e72d16244d069ce05e186d12f2091463ea54f262dd51d78732621356b3c3edc"
+        },
+        {
+          "path": "federal/_provas_modelo245_20261021_003/clbr1991-p2428-modelo.pdf",
+          "sha256": "5488f5ec69d0259f080251fdc0ceea3a3b0f2988732089ad94f5d38c934fbd2b"
+        },
+        {
+          "path": "federal/_provas_modelo245_20261021_003/clbr1991-p2428-modelo.png",
+          "sha256": "3b8cf7098d965eecc6b3d47fabdb36b0aaf25bc50838d121a85267b25bbf7a75"
+        },
+        {
+          "path": "federal/_provas_modelo245_20261021_003/modelo-transcrito.html",
+          "sha256": "3ce41e010c334c0ff9ff6d878b8e79814097b935930a58953b3f705f7209788f"
+        }
+      ]
+    }
+  ],
+  "historico": {
+    "path": "federal/_historico_modelo245_20261021_003.jsonl.gz",
+    "sha256": "4ed379f49ec95b088bb82b5034153a6a62b1ce2661e3f761a087d725759d3b80"
+  },
+  "integracao": "Confrontar preimagem com HEAD e destino; promover candidato, conferir SHA final e retirar este caminho da máscara apta somente depois. Preservar overlay histórico."
+}

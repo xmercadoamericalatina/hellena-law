@@ -1,0 +1,14 @@
+{
+  "path": "federal/_replay_fortes_HEAD_guard35_20261021_009.py",
+  "sha256": "d9831d4bd9eb85bb639344e7a412b4f70ad8f09baa30a802223c250e47c69825",
+  "comando_replay": "python3 -B federal/_replay_fortes_HEAD_guard35_20261021_009.py",
+  "resultado": {
+    "head": "dfd2cd20d8bf89ed6a4ea45a817232bc6f23f806",
+    "delta_recalculado": 6700,
+    "estrato_forte_recalculado": 5262,
+    "propostas_HEAD_reproduzidas_integralmente": 5178,
+    "mutacoes": 0,
+    "sha256_propostas": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc"
+  },
+  "limite": "Compara cada campo individual da proposta com replay das fontes arquivadas; somente leitura. Depende do snapshot HEAD/máscaras /tmp e das preimagens congeladas indicadas no pacote 008. Não constitui revisão humana universal."
+}

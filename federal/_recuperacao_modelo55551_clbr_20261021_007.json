@@ -1,0 +1,97 @@
+{
+  "urn": "urn:lex:br:federal:decreto:1965-01-12;55551",
+  "path": "federal/decretos/1965/dec-55551-1965-01-12.md",
+  "candidato": "federal/_candidatos_modelo55551_clbr_20261021_007/dec-55551-1965-01-12.md",
+  "sha256_preimagem": "6d5c25518a8cb5d55e9c53c561c52b9393c408880101d39e88e34fbef56a08d5",
+  "sha256_candidato": "9fc96c142fd734ed3c8ce76aaa67c3c4f27448457eec4f33b2f8752225bf5c5e",
+  "fonte_anterior": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1965-01-12;55551",
+  "fonte_edicao_recuperada": "https://bd.camara.leg.br/bd/bitstreams/1dcf0947-2cf9-4480-a68a-dd9aaa0a6469/download",
+  "sha256_pdf_integral": "93c88b29271e3424de64100ff45f3e7aa9dc90ccc696a464ebf3dcc31ce5ac4b",
+  "captura_clbr_em": "2026-10-21",
+  "edicao": "CLBR completa, 28 artigos, epígrafe, fecho, assinaturas e três modelos. Transcrição principal conferida visualmente nas cinco páginas do decreto; modelos preservados como fac-símile do mesmo volume. Não é acréscimo de imagens a um corpo Normas silenciosamente misturado.",
+  "identidade": {
+    "numero": "55551",
+    "data": "1965-01-12",
+    "epigrafe_literal": "DECRETO Nº 55.551 — DE 12 DE JANEIRO DE 1965",
+    "fecho_literal": "Brasília, em 12 de janeiro de 1965; 144º da Independência e 77º da República.",
+    "api_identificador": "urn:lex:br:federal:decreto:1965-01-12;55551",
+    "api_data": "1965-01-12",
+    "api_sha256": "3e90b4c6959d562094c99b26b70b5f4e6a3ace6f6845f04a57bf84441746fda5"
+  },
+  "variantes_destacadas": [
+    {
+      "local": "Art. 9º",
+      "clbr": "Conselho Estadual de Educação",
+      "normas": "Departamento Estadual de Educação"
+    },
+    {
+      "local": "Art. 8º § 1º b",
+      "clbr": "custeadas pelas emprêsas em escolas",
+      "normas": "custeadas em escolas"
+    },
+    {
+      "local": "Art. 22 parágrafo único",
+      "clbr": "será fixada pelo Conselho",
+      "normas": "será fixado pelo Conselho"
+    }
+  ],
+  "outras_variantes": "federal/_provas_modelo55551_clbr_20261021_007/variantes-edicao.json",
+  "causa_das_divergencias": "não determinada",
+  "modelos": [
+    {
+      "nome": "I",
+      "pagina_pdf": 144,
+      "pagina_impressa": 80,
+      "cropbox_pontos": [
+        60,
+        10,
+        385,
+        350
+      ],
+      "pdf_cropbox": "federal/_provas_modelo55551_clbr_20261021_007/modelo-I-cropbox.pdf",
+      "path": "federal/anexos/decretos/1965/dec-55551-1965-01-12-modelo-I.png",
+      "sha256": "f3ca3e4df3148f457a1f0b3df68ee84d3a18c084985d6e67d7d4971df74476cc",
+      "conferencia_visual": "Conteúdo integral do modelo, sem linhas cortadas, sem mistura com outro decreto. I e II incluem anverso e verso; III inclui certificado e assinaturas. Caracteres/linhas enfraquecidos do original permanecem como na imagem, sem preenchimento inventado."
+    },
+    {
+      "nome": "II",
+      "pagina_pdf": 145,
+      "pagina_impressa": 81,
+      "cropbox_pontos": [
+        45,
+        10,
+        382,
+        540
+      ],
+      "pdf_cropbox": "federal/_provas_modelo55551_clbr_20261021_007/modelo-II-cropbox.pdf",
+      "path": "federal/anexos/decretos/1965/dec-55551-1965-01-12-modelo-II.png",
+      "sha256": "d44b9df2ec78f2b44436ee896c94b9988c4ed2dc855097a3120bdb9a821d81f5",
+      "conferencia_visual": "Conteúdo integral do modelo, sem linhas cortadas, sem mistura com outro decreto. I e II incluem anverso e verso; III inclui certificado e assinaturas. Caracteres/linhas enfraquecidos do original permanecem como na imagem, sem preenchimento inventado."
+    },
+    {
+      "nome": "III",
+      "pagina_pdf": 146,
+      "pagina_impressa": 82,
+      "cropbox_pontos": [
+        48,
+        306,
+        380,
+        538
+      ],
+      "pdf_cropbox": "federal/_provas_modelo55551_clbr_20261021_007/modelo-III-cropbox.pdf",
+      "path": "federal/anexos/decretos/1965/dec-55551-1965-01-12-modelo-III.png",
+      "sha256": "68bfdb0d6738b27a3bca1c9d98c387071f7af4f8baaa6c24827328438a77dea8",
+      "conferencia_visual": "Conteúdo integral do modelo, sem linhas cortadas, sem mistura com outro decreto. I e II incluem anverso e verso; III inclui certificado e assinaturas. Caracteres/linhas enfraquecidos do original permanecem como na imagem, sem preenchimento inventado."
+    }
+  ],
+  "extracao": "pypdf 6.10.0 CropBox, preservando o conteúdo original da página; pdftoppm -cropbox -r 200 -png -singlefile. Recortes documentais sem redesenho. Páginas originais e caixas incluídas para inspeção independente.",
+  "qa_formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "limite": "A conferência da nova transcrição principal é visual e individual deste ato, não replay automático literal do OCR. Há trechos enfraquecidos nos formulários do próprio fac-símile; suas imagens são preservadas sem inventar leitura. ROOT confere os candidatos antes da promoção.",
+  "historico": {
+    "path": "federal/_historico_modelo55551_clbr_20261021_007.jsonl.gz",
+    "sha256": "4528dc6b3d862a6bf73f379b711e212de3029bad27c7a5c79c475853697999c0"
+  }
+}

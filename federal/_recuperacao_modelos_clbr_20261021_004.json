@@ -1,0 +1,248 @@
+{
+  "escopo": "Quatro reparos privados de modelos próprios por fac-símiles oficiais CLBR; sem editar canônicos ou entregas anteriores.",
+  "resumo": {
+    "candidatos_recuperados": 4,
+    "quadros_indulto": 3,
+    "carta_reconhecimento": 1,
+    "qa_formato_erros": 0,
+    "qa_formato_avisos": 0
+  },
+  "publicaveis": [
+    {
+      "path": "federal/decretos/1986/dec-92701-1986-05-21.md",
+      "candidate": "federal/_candidatos_modelos_clbr_20261021_004/dec-92701-1986-05-21.md",
+      "urn": "urn:lex:br:federal:decreto:1986-05-21;92701",
+      "numero": "92701",
+      "data": "1986-05-21",
+      "sha256_preimagem": "9b425217c20a5a805636fc9dc5c0da902a532509b3a7a4ea76afbf506e77a4ed",
+      "sha256_candidato": "0557be2bda25c6a85f9201166d9677eb3d6b8d7f2bc3ff9e802e66d84ed0d28e",
+      "sha256_fonte_pdf_completo": "c0ef9cd54cdde48069358204fd10eddc77f63c364c0a5b3551eb397897e4368f",
+      "fonte_suplemento": "https://bd.camara.leg.br/bd/bitstreams/39ae163d-e577-42d4-895c-2f158f5adbce/download",
+      "pagina_pdf_anexo": 1240,
+      "pagina_impressa_anexo": "625",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Rótulos vazios finais substituídos pelo modelo próprio e metadados de recuperação; corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas_html": 2,
+        "celulas_html": 4,
+        "posicoes_vazias": 1,
+        "estrutura_fonte": "A carta conserva os espaços de designação e os rótulos de preenchimento. Duas linhas de tabela HTML alinham o campo vazio e sua legenda ao restante da frase, conforme o fac-símile; a fonte não contém uma tabela estatística.",
+        "cabecalho_artigos": null
+      },
+      "checks": {
+        "numero_data_indice_api_epigrafe_fecho_coletanea": true,
+        "principal_byte_a_byte_inalterado": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "rotulos_modelo_conferidos_visualmente_no_facsimile": true,
+        "estrutura_commonmark_preservada": true,
+        "campos_vazios_preservados_sem_dados_inventados": true,
+        "sem_figuras_normativas_omitidas_no_modelo": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/92701-clbr-pdf-p1237.pdf",
+          "sha256": "d68228977d7ac1932ac5f652e639bfd6b154283736da84007da4fb43e34f82a4"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/92701-clbr-pdf-p1240.pdf",
+          "sha256": "5624c2ac9bd9f0aa7d5608644bb0174b737a9d43aa643b1a32d7e151a07b9a97"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/92701-modelo-facsimile.png",
+          "sha256": "39e46b73485c7f1724eb89b41f0c4c3caf34c3d258399365c7598dd52a6aa51a"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/92701-modelo-transcrito.html",
+          "sha256": "4a6eee6282aeae8716ac95aa3e5acc2d7cc9dda37bd81f750fccd6ad255de35e"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1988/dec-97164-1988-12-07.md",
+      "candidate": "federal/_candidatos_modelos_clbr_20261021_004/dec-97164-1988-12-07.md",
+      "urn": "urn:lex:br:federal:decreto:1988-12-07;97164",
+      "numero": "97164",
+      "data": "1988-12-07",
+      "sha256_preimagem": "b5369ca26216810792650b6f7d489b0d42bd7aa14f169116cd2df3a9b1ca05a4",
+      "sha256_candidato": "9e6cbd6609b44e7f1ae6c245850444ba13c3a6644567f1926c4c6d694d6a4ebf",
+      "sha256_fonte_pdf_completo": "23efe57302dbe76748675a5c76cf50b5a757a92fbfd14eae7ecb28a49df8d9a7",
+      "fonte_suplemento": "https://bd.camara.leg.br/bd/bitstreams/85d49ab4-b10b-4a76-be27-14df8c1d3777/download",
+      "pagina_pdf_anexo": 2175,
+      "pagina_impressa_anexo": "443",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Rótulos vazios finais substituídos pelo modelo próprio e metadados de recuperação; corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas_html": 21,
+        "celulas_html": 176,
+        "posicoes_vazias": 144,
+        "estrutura_fonte": "A fonte apresenta somente linhas horizontais no corpo; as oito posições vazias por linha são derivadas das oito subcolunas do cabeçalho. Não foram inventados valores ou divisórias verticais.",
+        "cabecalho_artigos": [
+          "1.º I",
+          "1.º II",
+          "2.º",
+          "4.º"
+        ]
+      },
+      "checks": {
+        "numero_data_indice_api_epigrafe_fecho_coletanea": true,
+        "principal_byte_a_byte_inalterado": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "rotulos_modelo_conferidos_visualmente_no_facsimile": true,
+        "estrutura_commonmark_preservada": true,
+        "campos_vazios_preservados_sem_dados_inventados": true,
+        "sem_figuras_normativas_omitidas_no_modelo": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97164-clbr-pdf-p2171.pdf",
+          "sha256": "0588db6341c0dcc64e84809f6d5371f65286140e5c9fbeb1ca8e87f443f2b733"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97164-clbr-pdf-p2174.pdf",
+          "sha256": "a4b59a571033e5f7502aedf151978360cc8547d2709683d59606e5d30cc51df4"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97164-clbr-pdf-p2175.pdf",
+          "sha256": "98b9af0b1527a4766c61734ce9f78b99f7fe93f2ed8c294262a0bf790da8fcd3"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97164-modelo-facsimile.png",
+          "sha256": "a9e4c78c7c1b3e43502f1d2f09fa09341ad38ff99becc73bd10f897e1017dd3d"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97164-modelo-transcrito.html",
+          "sha256": "29c52b431af1b8edade02a22dac10ca729b1f275c444f427a300525542a2d97b"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1989/dec-97576-1989-03-15.md",
+      "candidate": "federal/_candidatos_modelos_clbr_20261021_004/dec-97576-1989-03-15.md",
+      "urn": "urn:lex:br:federal:decreto:1989-03-15;97576",
+      "numero": "97576",
+      "data": "1989-03-15",
+      "sha256_preimagem": "c8439f4ef247ce8900057f06bccbf0e29557fb966d805d27fa2066a5f12a7e52",
+      "sha256_candidato": "08f768662b44289ed197aee6a36a469152ff5e93f83fc7d192c75abb8dc4a7d1",
+      "sha256_fonte_pdf_completo": "29b0515973cc6e14d88a987a3d451f349d72addac2b99eaf43a7f22946cd51fc",
+      "fonte_suplemento": "https://bd.camara.leg.br/bd/bitstreams/8de24fa8-483b-4119-bbf2-104d1b6365f0/download",
+      "pagina_pdf_anexo": 168,
+      "pagina_impressa_anexo": "576",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Rótulos vazios finais substituídos pelo modelo próprio e metadados de recuperação; corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas_html": 21,
+        "celulas_html": 176,
+        "posicoes_vazias": 144,
+        "estrutura_fonte": "A fonte apresenta somente linhas horizontais no corpo; as oito posições vazias por linha são derivadas das oito subcolunas do cabeçalho. Não foram inventados valores ou divisórias verticais.",
+        "cabecalho_artigos": [
+          "1.º, I",
+          "1.º, II",
+          "2.º",
+          "4.º"
+        ]
+      },
+      "checks": {
+        "numero_data_indice_api_epigrafe_fecho_coletanea": true,
+        "principal_byte_a_byte_inalterado": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "rotulos_modelo_conferidos_visualmente_no_facsimile": true,
+        "estrutura_commonmark_preservada": true,
+        "campos_vazios_preservados_sem_dados_inventados": true,
+        "sem_figuras_normativas_omitidas_no_modelo": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97576-clbr-pdf-p164.pdf",
+          "sha256": "a8524f20ced81130d2ae922d46be89fc61283125c7dadce72ca9f59ee56cb118"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97576-clbr-pdf-p167.pdf",
+          "sha256": "d1bc0544ee65361c1c454de2afabefefaea7fc00e58f2cdd4366552c26adbce6"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97576-clbr-pdf-p168.pdf",
+          "sha256": "b50078c4e5ab2348ce4b3658c12de934c786a15a6b767381d6a4cc9e2e8d9d46"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97576-modelo-facsimile.png",
+          "sha256": "98abe4008763fd8b46f771cf553ec081834190a400b01c1aecfbef7dc279fcca"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/97576-modelo-transcrito.html",
+          "sha256": "73ff4eba2d87477febcc45e79cdc0da72cf7f9b7292f5c65ea59bb8ce6229740"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1989/dec-98389-1989-11-13.md",
+      "candidate": "federal/_candidatos_modelos_clbr_20261021_004/dec-98389-1989-11-13.md",
+      "urn": "urn:lex:br:federal:decreto:1989-11-13;98389",
+      "numero": "98389",
+      "data": "1989-11-13",
+      "sha256_preimagem": "12e2369a5ffa2e976a731331aea51099503cb31e89bb6f33df279824072e5930",
+      "sha256_candidato": "52b55c83ad1006e86d8cb35f148e0a614118dda28fc8fff7cdab25f0ce8f35b5",
+      "sha256_fonte_pdf_completo": "29b0515973cc6e14d88a987a3d451f349d72addac2b99eaf43a7f22946cd51fc",
+      "fonte_suplemento": "https://bd.camara.leg.br/bd/bitstreams/8de24fa8-483b-4119-bbf2-104d1b6365f0/download",
+      "pagina_pdf_anexo": 3078,
+      "pagina_impressa_anexo": "3449",
+      "status": "candidato_privado_para_promocao_apos_preimagem",
+      "altera_somente": "Rótulos vazios finais substituídos pelo modelo próprio e metadados de recuperação; corpo principal byte a byte inalterado.",
+      "modelo": {
+        "linhas_html": 26,
+        "celulas_html": 221,
+        "posicoes_vazias": 184,
+        "estrutura_fonte": "Grade física de nove colunas, inclusive todas as células vazias e mesclagens do cabeçalho.",
+        "cabecalho_artigos": [
+          "1.º",
+          "2.º",
+          "3.º",
+          "4.º"
+        ]
+      },
+      "checks": {
+        "numero_data_indice_api_epigrafe_fecho_coletanea": true,
+        "principal_byte_a_byte_inalterado": true,
+        "visivel_principal_commonmark_pontuacao_numeros_contextos": true,
+        "rotulos_modelo_conferidos_visualmente_no_facsimile": true,
+        "estrutura_commonmark_preservada": true,
+        "campos_vazios_preservados_sem_dados_inventados": true,
+        "sem_figuras_normativas_omitidas_no_modelo": true,
+        "qa_formato_erros": 0,
+        "qa_formato_avisos": 0
+      },
+      "provas": [
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/98389-clbr-pdf-p3074.pdf",
+          "sha256": "ce86e9914ee136c88057b78f8a104ce8ea7ead3bce4149c9b1379b8d0a091df0"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/98389-clbr-pdf-p3077.pdf",
+          "sha256": "281d6eeea6f198270feef51e4cd19b9ad102b1dc2da192b270350c2cbe69c2e9"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/98389-clbr-pdf-p3078.pdf",
+          "sha256": "3ddbc79c9c23eefc544ee1a9bbe798ff87b9da54455d00e878f81b9cde60662c"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/98389-modelo-facsimile.png",
+          "sha256": "09bdb10f2ac9be4ef2cb2ea80cf80a0359937b4666c51c95bd67d4c3694a7070"
+        },
+        {
+          "path": "federal/_provas_modelos_clbr_20261021_004/98389-modelo-transcrito.html",
+          "sha256": "bd4560159d4bff0ed8282ea016d48d3ad5a7a64c240cb71dff8fb04e4de4af2d"
+        }
+      ]
+    }
+  ],
+  "historico": {
+    "path": "federal/_historico_modelos_clbr_20261021_004.jsonl.gz",
+    "sha256": "bbdadd2fdb5e28cd8ffba372304c0407c51ae14c15541392105d8aa166243146"
+  },
+  "integracao": "Confrontar preimagens com HEAD e destinos; promover candidatos, conferir hashes finais e remover da máscara de pendências somente após integração. Preservar overlays históricos."
+}

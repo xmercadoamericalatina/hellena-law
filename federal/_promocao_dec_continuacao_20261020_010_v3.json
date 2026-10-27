@@ -1,0 +1,821 @@
+{
+  "escopo": "Plano de promoção privada, sem alterar os destinos canônicos. Confrontar todas as preimagens e SHA dos candidatos antes de aplicar.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1954/dec-34972-1954-01-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34972-1954-01-21.md",
+      "sha256_candidato": "c52d19e7764571e2a7afc64978eaea0bb9bcff7c18849c86dd02f80c4466a294",
+      "sha256_preimagem": "54132931c448a758c3277d94663c14135f7d9367efedf4497c919fa45550249d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34958-1954-01-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34958-1954-01-19.md",
+      "sha256_candidato": "faf383165bab569381a8f6078198f9b63711d08edb53cf0431c6495eed66577d",
+      "sha256_preimagem": "7725968b0acc1d69f6bb196f40fc9595362d60187c510b96b14704b27c311738",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34949-1954-01-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34949-1954-01-18.md",
+      "sha256_candidato": "96078525de0debace4856f10ee16db31633c493ae003c57bfba70e13d3e55fd3",
+      "sha256_preimagem": "39d5c5b5aff215aa54e30b12b5c95434dcee3b00a59677fc15d1203da1583e18",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34943-1954-01-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34943-1954-01-15.md",
+      "sha256_candidato": "5f1f4736f266aabfdf08285c7e13f7f9ad6fc270cf264fa27f4947ea7df13902",
+      "sha256_preimagem": "396008d86bbd380772b516243ae855be76bb06e295f99fe04807932bd4bda735",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34941-1954-01-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34941-1954-01-14.md",
+      "sha256_candidato": "475518e7ad24f06d5b314422101d99cafb80a03b80cd34a6a27a9c9bdeafe291",
+      "sha256_preimagem": "254e7a96b133e1bdbebdbaa9aeddfecd2d6ecf41fa710be3c7e0e3cb0b23e4cf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34920-1954-01-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34920-1954-01-11.md",
+      "sha256_candidato": "e645434c65dd2ab950c580f46cf12af2efd6b3292d48b64a39f972ad125639dc",
+      "sha256_preimagem": "8d967678571ef4bff9518046e8f65d9f5acf29b5295f3e5e68d0c13d455b59d8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34907-1954-01-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34907-1954-01-08.md",
+      "sha256_candidato": "e6a822d3e87b16577f6fea2eafc94e4e587eb1d36eb244c72968856aa2af8b22",
+      "sha256_preimagem": "a8dbe16e0c94400f575c345235bfb2f7be6ee5271898e237acb8f77854d3348b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1954/dec-34899-1954-01-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34899-1954-01-06.md",
+      "sha256_candidato": "2a10a7a9d3b1572030d22f48db423eaf111a0c832f8364fdddcf3504c1708e4b",
+      "sha256_preimagem": "4288fee7ecaa5fa1b38fa88ab5a38cdbe2bbb1264ee8f1d6afb557dd27a57c17",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34873-1953-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34873-1953-12-31.md",
+      "sha256_candidato": "98d8dd72513ef2d4e38d93f6640cd1acb0b832f160d1879e912fdbc6430b28bf",
+      "sha256_preimagem": "5737d862c244acd90aa50402d7f64216f368c46739d997e7aded1addcff9993d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34868-1953-12-31.md",
+      "candidate": "federal/_candidatos_excecoes_010_20261021_001/dec-34868-1953-12-31.md",
+      "sha256_candidato": "60aa915b8a605ff6a8dadffeb16fa0f6a954ff7e5c55c11ff75306de4622e78d",
+      "sha256_preimagem": "9bffa096d3cb8d93d0536fb01a67355a0768f7d303dc62d4ccc52a41ce7a153e",
+      "mudanca": "Três trechos de itálico gerados dentro de números passam a HTML em inline, preservando a marcação da fonte e impedindo a exibição indevida de seis asteriscos. Nenhum caractere normativo foi emendado.",
+      "trechos": [
+        {
+          "antes": "7*.2 -* Cinza de brim",
+          "depois": "7<em>.2 - </em>Cinza de brim",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">7</span><span style=\"font-family:Arial; font-style:italic\">.2 - </span><span style=\"font-family:Arial\">Cinza de brim</span></p>"
+        },
+        {
+          "antes": "7*.2 - G*andola mescIa",
+          "depois": "7<em>.2 - G</em>andola mescIa",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">7</span><span style=\"font-family:Arial; font-style:italic\">.2 - G</span><span style=\"font-family:Arial\">andola mescIa</span></p>"
+        },
+        {
+          "antes": "1*.2 - G*arance de parada",
+          "depois": "1<em>.2 - G</em>arance de parada",
+          "html_fonte": "<p style=\"margin-top:6pt; margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt\"><span style=\"font-family:Arial\">1</span><span style=\"font-family:Arial; font-style:italic\">.2 - G</span><span style=\"font-family:Arial\">arance de parada</span></p>"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1953/dec-34884-1953-12-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34884-1953-12-31.md",
+      "sha256_candidato": "84b26b57cafd7721f05ff4bfd66d6b30587d7f6712d6255b4813697fa5f5212d",
+      "sha256_preimagem": "9f9da33eba3e2f27535740208199e102060f769527a0bf925d4209d2da9d28d1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34834-1953-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34834-1953-12-28.md",
+      "sha256_candidato": "fb874c1397cdd02dcd8f9396931caec004525870386ca3dc460d6b407d0a595f",
+      "sha256_preimagem": "fcd8a629dca65ae17372ebeeef3a3195fbf016bf5504861721da42ad565c2bb4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34802-1953-12-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34802-1953-12-16.md",
+      "sha256_candidato": "0190931fabbbaa57870e6cf93095a3f3ed5b5e1fa3faeecb4c0e0f7132c91ed7",
+      "sha256_preimagem": "ade6f5830c2849f3ed0e8f0f44f21eea5efeb34e38ff2838df3c00df319fc451",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34699-1953-11-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34699-1953-11-25.md",
+      "sha256_candidato": "a594a369c8f17dbbed89d9e26bb746d916f47b2b5b3223b122f72143e57e32f6",
+      "sha256_preimagem": "07c44ee6bc75c138a52faa34cf3c295bd21d58d29d99b07b38c7a3c8f61352cd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34663-1953-11-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34663-1953-11-19.md",
+      "sha256_candidato": "82c43a803126db2df37d050d1b0f7d01c0830cf1ed41c57634b281b87f39fe66",
+      "sha256_preimagem": "a1ad3f76b7a4e0c4d7a4d4dc1f0eea3484c3dd40da56e4a507b5dddc39da299c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34645-1953-11-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34645-1953-11-17.md",
+      "sha256_candidato": "b8255f5ac6f4fafbc78d071e99d81d31e2c5855058067779e237c4dad61d02ce",
+      "sha256_preimagem": "0ca33d0b20afcde5b920a1a7d9b72d800b7f70700a653dea1c79a3605d194342",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34579-1953-11-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34579-1953-11-12.md",
+      "sha256_candidato": "615ff2f4a0c228a9c5718ec6fba55f9ca74c8fa1e6817777c789bf952e835e9e",
+      "sha256_preimagem": "a23ab20801fd46446485668a2b0d3fc1e0b9fc2c22d47e985267db0cb8033735",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34540-1953-11-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34540-1953-11-10.md",
+      "sha256_candidato": "0b8c07615ddf391152e7971c6b330b648cdad55208bd3389438aa21613dfca40",
+      "sha256_preimagem": "0b6e9bc97613c2103ad549bf33680f6769aaf2ccf997ad4ae8883a7f8c58392f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34509-1953-11-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34509-1953-11-09.md",
+      "sha256_candidato": "1f1c4811fb51e40c55a7e57a44e8fa5f4eee3af0776cb02e17e553dbdad0b1b2",
+      "sha256_preimagem": "b67c33260c23df94d43bfd450a3f49b5d9fc965f273808842a477760294f08a6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34518-1953-11-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34518-1953-11-09.md",
+      "sha256_candidato": "2b56d779ccfdd5e0bb7ec1267a6559c1c7d1e978c911c8ea726b259f519c1a27",
+      "sha256_preimagem": "93593343b53f7a795d15896a4c467d60822b0d47b692f09831582cafb2458919",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34451-1953-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34451-1953-11-04.md",
+      "sha256_candidato": "ca565283179726c4ba14f19bc6dc469ba66f52c39456f77d9de6b9a67f18fdca",
+      "sha256_preimagem": "49a4ef433071ec4b1de90ad3b95ad0607164e1e5da0a38de1004943eb5afc183",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34415-1953-10-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34415-1953-10-29.md",
+      "sha256_candidato": "75c82cac3bffc771e86dae99d158e5bb909a8dd8ee5bb6579db41eb8ac5f13d8",
+      "sha256_preimagem": "b260f86b3d37568675fb60f2315280bb023b108a6cc5b8438a4965cff2576030",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34360-1953-10-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34360-1953-10-26.md",
+      "sha256_candidato": "49c03d1cb99c25b29f38f4d202290341fb938996fa980f59534ecd4f481db901",
+      "sha256_preimagem": "56066e3c688a44aabc43d906158903d45e35c6c6469eaf89aa103be9c266d394",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34339-1953-10-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34339-1953-10-23.md",
+      "sha256_candidato": "0d42d19dc3d487803743dce2b79241733b208b0a520eee329d4ad00f7ca4920d",
+      "sha256_preimagem": "adcd494970e8333b4b1479e9cf139a8d91d28b157fd04786390fa1ae507a62e5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34235-1953-10-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34235-1953-10-15.md",
+      "sha256_candidato": "2020f269279c37f3c496c25199985d072d86a23b86a9a089479c1ccb915cacf0",
+      "sha256_preimagem": "4aa4212db9927d49260d090370ef5584981dfb7aa001b86bb186e154fc4fa17d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34153-1953-10-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34153-1953-10-12.md",
+      "sha256_candidato": "6aeb68de2619bc4c984f262bba761ce4956dbeb0ac2a7a7b65ad2b0cb0c261cd",
+      "sha256_preimagem": "8f0a9941ac65ff59c7a456d3c85d68d0ddd254fd7c5c3b4d26ad55f3e916b942",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34129-1953-10-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34129-1953-10-08.md",
+      "sha256_candidato": "e2aefc68934f40e1c4d8de1f696e0f57b2e761892701929ab491cb2bb0588cfa",
+      "sha256_preimagem": "7a6e3e7489d2939e5a28378685572be5e1f6c6d6fbb4af29294962cea2833160",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34069-1953-10-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34069-1953-10-06.md",
+      "sha256_candidato": "dc5daef5410948e1669e03d9781caed8ba5a04822193e70dad6b63840d2f00f9",
+      "sha256_preimagem": "0f0f310e7de75f1d282680649fcf01e4c7782ca54af760018c1a0789e883839d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34089-1953-10-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34089-1953-10-06.md",
+      "sha256_candidato": "5fa65ed6ab71449b56a13edc9b2e3f82163d59102135cc7bf4361f13cff98301",
+      "sha256_preimagem": "9ec333c7da4157c9a17cef3af63350108e9875587c061ef580e209a8fb15f877",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34059-1953-10-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34059-1953-10-05.md",
+      "sha256_candidato": "5be0b7e574e2a14e6b4f69c6699dbb6ff29e0ae37baba4b88d93cf382d32869a",
+      "sha256_preimagem": "bf0e631e16ccaed87b8115f199f4d76e62c4cdb4fedc2b77b6760c76b38a3ce9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34032-1953-10-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34032-1953-10-02.md",
+      "sha256_candidato": "58869b9c05538713abf3df5349157dcd042e8af6f3d806290fa9988172f39e33",
+      "sha256_preimagem": "b4e42fec315b8ff0e59c693ee9a2af25b23482d65063450f12d4b7adf9abf162",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34039-1953-10-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34039-1953-10-02.md",
+      "sha256_candidato": "6725569470eff8f8f53b1353a059e947a89258066602148aa7cd9ce3e473b9ec",
+      "sha256_preimagem": "1b649997dbd98383ef3e20a49e2cb677d692e376076397e95673ac53103077e3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34043-1953-10-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34043-1953-10-02.md",
+      "sha256_candidato": "184f13af6544692fd5d24a0ed311ca3ba022c017aa48726979874175f30523af",
+      "sha256_preimagem": "0ecd24a259bc01e03f9663733d1c1ce456eeb0f02707009d615f4840a5a0dac8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34022-1953-10-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34022-1953-10-01.md",
+      "sha256_candidato": "6c3ee9bb3789fc8975fe8d6c14d7aee07b05a55ef4486b690991d18bb35f2d4d",
+      "sha256_preimagem": "e5b27d2087e478e62855fcb55ace467d571dc927101038a060a6f748321ed603",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33955-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33955-1953-09-30.md",
+      "sha256_candidato": "388479bdeb39f6206e77eefd080874666945302aa43fa79b59d0847de7d8f06f",
+      "sha256_preimagem": "802aaedc2379b148d5c8244fb69210d67606b1fab1ae025066fd7473718159ee",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33957-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33957-1953-09-30.md",
+      "sha256_candidato": "ef461e9819456904c5bc0803b01847780a2b3673d209e4c0e822a8e92963dd48",
+      "sha256_preimagem": "e0ba9104813a7c561df18e03ae859335a2c121cec8a3956a7fe1c1a3266b0ef7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33959-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33959-1953-09-30.md",
+      "sha256_candidato": "80d87b7d9bc38636571f6ba5c3f2463c576365055638de9c3c2e30cd0509b77c",
+      "sha256_preimagem": "37d36829f76201f6b20281e25598d5a26e7921b12cf1ad925747e4b78417c3eb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33998-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33998-1953-09-30.md",
+      "sha256_candidato": "e7757a1d8ee4df372bd106a61deb920396a46bf7f002547c134c5fa6897f07c8",
+      "sha256_preimagem": "e40957924a7e68f4b3b7f1dd096a38a74ad4132c1da985a771f017d5ccb943ea",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34005-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34005-1953-09-30.md",
+      "sha256_candidato": "0edf9fd37c49a7b217a7ecc886c67aabba222de994900ab3e40b8c8b1ba31916",
+      "sha256_preimagem": "6dfa21a8dcd76305cdfb2979dcae720ffcb2312f32693b7532194fd12a517dc9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-34011-1953-09-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-34011-1953-09-30.md",
+      "sha256_candidato": "3c250a32848af3bfdabc35a26116cc9e509db1187362ffcd18cface281c223ed",
+      "sha256_preimagem": "bb3aa2f09f19507193dac1deea169ccdafd53dc86c660fef8d8ad371801a8976",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33932-1953-09-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33932-1953-09-28.md",
+      "sha256_candidato": "9185eb30953156ed59ae8f39a3b28140e35c3abf777460b479f4851ec71c5883",
+      "sha256_preimagem": "97263a179de9dbe08dacb580a5ade39cc9c98e3ca184d98a02888cce102265ae",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33940-1953-09-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33940-1953-09-28.md",
+      "sha256_candidato": "53a47fa60bdd7f5bc47a3f1039d6bdd3e946330baa06b2659e10dcfd3a9de96e",
+      "sha256_preimagem": "9256c7d81163851077a61426897b9cbfa0b14277ba0ffa071adcfc818ef8e6e8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33895-1953-09-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33895-1953-09-25.md",
+      "sha256_candidato": "a824d8921d4c99e12a35caa83cb7b59589ea8a2527e790767f4c1755e42dc4d3",
+      "sha256_preimagem": "9eb789f32fe227d8c0edefb28e25919238ba08ba3208a90df9d0eda135660e53",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33848-1953-09-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33848-1953-09-21.md",
+      "sha256_candidato": "33a572375a2555524429271e0df12e054b84c9c2731d5b530d985c0850b6a89c",
+      "sha256_preimagem": "6be7303e9af3daf00c0d7253cbb0f3ceb9eafc71d165cd6b907efd5ffb0acf13",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33824-1953-09-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33824-1953-09-11.md",
+      "sha256_candidato": "373b05c257918d9a360126f15b547b7a7a84f13eae659f5268030097263b138b",
+      "sha256_preimagem": "690f6d8d926afc56f65c7540086e771e1fa213b6330a819d7fcb449c286150f1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33795-1953-09-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33795-1953-09-09.md",
+      "sha256_candidato": "7325ee3dd5dac2b527ba5e0242f41d278d5b660bdeedd7a65bb9e3f3b60a5254",
+      "sha256_preimagem": "e5875705a6597dbc26d07052c7e6450e945a9d17848be605cbe10d577e2e6bfa",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33763-1953-09-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33763-1953-09-05.md",
+      "sha256_candidato": "fb5e7f50d97c0c013afcc801cad555d38d8f5a09ba2a6a70f26165df9d64f016",
+      "sha256_preimagem": "6a957bf9e27ed0675758d60b3587c1bb2df4fba6c0d7d9a1785346cda99756cb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33725-1953-09-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33725-1953-09-03.md",
+      "sha256_candidato": "682f34aaf5c33f6fbeec1d10a993e514869d359d1ef060424c514649db2bb763",
+      "sha256_preimagem": "3f3bb49438e12b59904d489d92ca2c740ce37b2725b4a9ad867167f4d773ae10",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33716-1953-09-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33716-1953-09-02.md",
+      "sha256_candidato": "06496c4e49ff95c77fcd3b2c176d338d8f4d516b7d81f5cfc69c0c5597b0b634",
+      "sha256_preimagem": "69fad62ebbc90e214b0fbd64ef26e0cdaf182a24b469215429a46c6c9fff0344",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33689-1953-08-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33689-1953-08-28.md",
+      "sha256_candidato": "705ea6354567e4fd470e1ed365b747a813b1030796006609a2306f01aeae3eb4",
+      "sha256_preimagem": "7b797429eb8318a889b6aec3096a4a62548bc21f78bfd70d55bab08accb35dbd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33653-1953-08-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33653-1953-08-26.md",
+      "sha256_candidato": "7b03e831e774a76461c45b56c56fcb7ea627588fa5ede4b6f2fbba416f225262",
+      "sha256_preimagem": "78be3136f211cec122531c7a806ba301865faddc8ba89755048d3d3513314be4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33656-1953-08-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33656-1953-08-26.md",
+      "sha256_candidato": "1eaabcf102bd6fd920734bb7dae8a3cc73eebd4823fec690b2586253807643bc",
+      "sha256_preimagem": "20562b2de4cc3c76b9625849e275e1dcafb8cc50433fd08cc2bdee33c2171aa5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33659-1953-08-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33659-1953-08-26.md",
+      "sha256_candidato": "967dc4579b33a41c5a6b8337a745598963597b55cc0a0e4505f9ae1c5d949106",
+      "sha256_preimagem": "ebda9ebd9a5406b642dcae3107c66113939af3922dcb2dbb8c63a49a28d4b9a6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33621-1953-08-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33621-1953-08-20.md",
+      "sha256_candidato": "cc2f67e714a70986df691dbeda5f00c7a3430a6e50f6af01e005fb09358f4904",
+      "sha256_preimagem": "083db027180be1780ef5506f661396eeed988bd8f5d6a200177c420b40e78a0f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33603-1953-08-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33603-1953-08-19.md",
+      "sha256_candidato": "82afd2e090afaa801e9fde0e90bcd0b5a7b6e98b91c9817d09b25d5fc7df5d9e",
+      "sha256_preimagem": "b246e143e9ff53e4d215efc43372ec5058fd0738262afb8b2bb9b3215d6fd066",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33527-1953-08-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33527-1953-08-18.md",
+      "sha256_candidato": "9ef66932eda1dd9909cc8f1fe541ea7d7b21283dd422097ac0f54c45e6becff5",
+      "sha256_preimagem": "00e37c2dd112c094a57f2e9ecd1cba05904a7a774541198df294635baba1db03",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33572-1953-08-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33572-1953-08-17.md",
+      "sha256_candidato": "67ff7a6cd4a823a8de681b5cd06cb8daf2e40ce3472b0d71205a5623dfd46c71",
+      "sha256_preimagem": "d2e1a35841643ced300419ad8696ed25cc2c7a36f5726da11cf2a63e8e6c8a89",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33577-1953-08-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33577-1953-08-17.md",
+      "sha256_candidato": "03c738035f707ed5e915b27f312cf4d9ba0914b899e57eaa7d0a33f9f51a423e",
+      "sha256_preimagem": "856bd47f7e6db4c6c464dbf9f1ab3a8dd0ae844e0a166eaba57012edf4d4440c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33521-1953-08-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33521-1953-08-13.md",
+      "sha256_candidato": "9a40051100e07b3645743a5abbd40a96ef924593f0a71e9cae1654a0f901e67f",
+      "sha256_preimagem": "3d21b17cfab8283d18b958d88b02a6ed6ee927fb1fc2cc3677fb601341a25427",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33523-1953-08-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33523-1953-08-13.md",
+      "sha256_candidato": "5425252c365f44cafdc9e6fe3c3efb249c51c5a17eb21ad5646f3ef88e1f5d41",
+      "sha256_preimagem": "ab1519b076a804413d252ee3e8e061dd5f33408b7503fa9c82c663056658f153",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33535-1953-08-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33535-1953-08-13.md",
+      "sha256_candidato": "6c4a7086c36331b5aa6d46895295d1278a27ae9f7a26f80f495a3aaf826f820f",
+      "sha256_preimagem": "83b6deb4e7c3cbd8db135341fd99f7242dbf4a8e48d56bc08778e359fb4f1cfc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33518-1953-08-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33518-1953-08-11.md",
+      "sha256_candidato": "9c716c0c561a40e128be946e5fbabc53fc824b059055653764cbcd62b2177e8c",
+      "sha256_preimagem": "4b5f27aec9e2a2c729a260f45c85865457307e33623b4548f414dad28f505d92",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33484-1953-08-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33484-1953-08-05.md",
+      "sha256_candidato": "ac38f13a576cb8354e37ae2f90f1010b0557d94823bf9644eb361e7fe97c3a4c",
+      "sha256_preimagem": "a97c5b373d54c2b5c5be06bb1bbc9f29b4ecb1057cd2f8fd3ef55721dd480f7b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33485-1953-08-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33485-1953-08-05.md",
+      "sha256_candidato": "6b1836a4dbf8b9fc3428a1ce76b927e49665328454ddf217ab09cf607cafac4d",
+      "sha256_preimagem": "dc77736bafb4e02f2f515c288c8162267eabab4ef7b0ee9272846f27a65909e7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33486-1953-08-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33486-1953-08-05.md",
+      "sha256_candidato": "503eafdbeb7e2139ea093d4d34ffeddc181ade4fb92327718447c01908434dbd",
+      "sha256_preimagem": "ad7664192dfcca8d9f299a1a2e83396afb66df5482f83df4a997b68f543e371e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33487-1953-08-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33487-1953-08-05.md",
+      "sha256_candidato": "fac38ffd62e99d7ab87a22be1bf0527923a097114927749ef10535d1c2e1878b",
+      "sha256_preimagem": "be918be7a593bf707021ea1ebeaa90659481273c7d21b53001a965f394261e2b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33432-1953-07-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33432-1953-07-31.md",
+      "sha256_candidato": "2377bf44d2bfce3c25f1e88f353383041768a85fe0899015e5ccea4c19ae3765",
+      "sha256_preimagem": "2bcfcf2633eee21792c84e908f68561324a3060c21c2f63cac2de78d90bd7b9b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33412-1953-07-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33412-1953-07-29.md",
+      "sha256_candidato": "a7b690b9b7b817e3b818fb5464b08cb1b54702ba35621c76f8790a545685f9b6",
+      "sha256_preimagem": "af2a7d7130b795b65db8a396b2108375c7b2295ff8788ad198234517e446e9b7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33416-1953-07-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33416-1953-07-29.md",
+      "sha256_candidato": "123ac42469e1e41716b474f3380197d75fb353578dff4537f4b5a225676111bf",
+      "sha256_preimagem": "f9b29e42e8b17ad0c3939028a7b34d606bb61a7c8ad1b10430ed4091834a527f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33395-1953-07-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33395-1953-07-27.md",
+      "sha256_candidato": "79cbfe020aa9e6162646cf96a64ee14940d93e548edc6d0ba0c83dfa21193466",
+      "sha256_preimagem": "2ad546dc4895df468529dd126ec0f8b561cd6df2a66dc734845c5011d7817d14",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33396-1953-07-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33396-1953-07-27.md",
+      "sha256_candidato": "ce76d33072b9e66569295ece7f3070b4aa25da2b61b14f27d53fc02293e04f9d",
+      "sha256_preimagem": "4a08138716a4a7d449a6b072d07bc94606b71cd3d0d83fd7b29c5a1cc3c24930",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33397-1953-07-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33397-1953-07-27.md",
+      "sha256_candidato": "6a86c8dea3f9d05f92c7e12b53561ded573500b0c593a23a28da47c5a003b6f9",
+      "sha256_preimagem": "490ad1b692228a34aec92b708488eed7fbc49e623b5ccaa50dc3449a6dfa5cc1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33371-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33371-1953-07-24.md",
+      "sha256_candidato": "8f1ce19c0cc2dcdc3029ab6d31057473c024375fbc691758fd6f09acb4e3ddda",
+      "sha256_preimagem": "1dbfe4115d0ca8aa96d5122d9a86c47bb44593e2ebee88cc029725b8696ef3c7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33374-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33374-1953-07-24.md",
+      "sha256_candidato": "d482b66aba5cab02976697eb2cc4d3f8a63b20d29cc7d3fc27f8e1d542abba8d",
+      "sha256_preimagem": "6f790e32466c556b2b8f70b0b43d798302dfd1b693944efb09f04d15dfbe24db",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33375-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33375-1953-07-24.md",
+      "sha256_candidato": "ca2ff08534ad8e960e675e948328a6b62114287028ae2555a0d8f941651c4fcc",
+      "sha256_preimagem": "1021a157eb8589f62bc3ddb65c0b193515e4826eab3962bd04805c96e97b0406",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33376-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33376-1953-07-24.md",
+      "sha256_candidato": "3633782a3ed2f7694b0e96a8398ef17d59253f8744fdc1093313eeefeb570b4f",
+      "sha256_preimagem": "a5ef023f1aec2286e63dad8e29249be8ddc0f8ae42b6b5f96dca7220b07e0363",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33377-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33377-1953-07-24.md",
+      "sha256_candidato": "5cc30d41da1391af208fa94387988260dbfd446a3118d493f61cd58bf1774322",
+      "sha256_preimagem": "9b75ddcb3be0323169e29dbb96fee0624521b6dd33b04a3df967d8238237ef72",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33378-1953-07-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33378-1953-07-24.md",
+      "sha256_candidato": "0a548bb7a10c0e31619a2a3ee1177b7144bf8de4bfcbec0213098ef4eb12b1e1",
+      "sha256_preimagem": "3283787ac94464dcd2418be42e0b62c997607f47a8c8a4fa40565d177acfeecb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33340-1953-07-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33340-1953-07-22.md",
+      "sha256_candidato": "0014b917105d47f522ddec248261c42bcfcb6d312acdde92f62bbee02209eebd",
+      "sha256_preimagem": "1a215e828481fa52baeabcccef71c9f605ce7871fe3afa807b48448c4de263ca",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33356-1953-07-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33356-1953-07-22.md",
+      "sha256_candidato": "d03ce2650efc417e725da01a3056c55d460c0bca399d8e4527109e43adb8383c",
+      "sha256_preimagem": "ed2f7db02e3ef14f73f870d26255d9707befaa58224480715b36e0b341af43ce",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33266-1953-07-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33266-1953-07-09.md",
+      "sha256_candidato": "ad97fb647415266f322b0f7811ad11935d84ff935c8ec98366a6ebf6246090d1",
+      "sha256_preimagem": "151a69188fe91774812e22740ba8dcc68e18d8a03b484ad415f3435e8cc958cb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33268-1953-07-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33268-1953-07-09.md",
+      "sha256_candidato": "0775b6f30ba2500db2569ebfde419b35becc08e82b484731fc49ccbc9c2811c6",
+      "sha256_preimagem": "04d63d031a1d6d91c1fb860dfac7db54dbb2e65912eb5fe2a84106d8f4c69c94",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33246-1953-07-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33246-1953-07-08.md",
+      "sha256_candidato": "bfa8c481fb19353c57b9f09ab7d363c4ed21ca44afed7f886706ba78068bff34",
+      "sha256_preimagem": "0c5ba810e4ed01856d8e838eb02fc358be4766fac57ae9354e6f792aae2fb4a0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33253-1953-07-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33253-1953-07-08.md",
+      "sha256_candidato": "12eecd9bba32f54c86971fbf46055bcd8d53e241cd484fd7cda01d9c8fe2ae94",
+      "sha256_preimagem": "51e994552120fd88251abb26056c506ddfd6c04afa6fa6f37886b7ee83b08ed7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33232-1953-07-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33232-1953-07-03.md",
+      "sha256_candidato": "d4277f6b44200318da8f41995c5af6b7f6bbfadf2b3e635dbe10ca7aae6f12c7",
+      "sha256_preimagem": "63c99a03a55379389ce786e2cad951c11cde96c8887f5cf6c067e4131599c98f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33191-1953-06-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33191-1953-06-29.md",
+      "sha256_candidato": "440c04ad74beecf29976e6303ac52ed008c9aaf26b4a752e46f28251ea037509",
+      "sha256_preimagem": "abd8012dc26b0d685f2134bab88e3b38e773bad5fa723cfced65dc9375baac01",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33179-1953-06-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33179-1953-06-26.md",
+      "sha256_candidato": "71447f208eb83a6a85aa9811f79cb58865a441040bb5d7e24a4e2d7d9bdb05f5",
+      "sha256_preimagem": "8821569f589de160133ed8d3e2c198f0a1874af346684123e2cbb35740377b8a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33151-1953-06-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33151-1953-06-25.md",
+      "sha256_candidato": "baf83ea9d1330125bd46f2c622696dcb3b988ecf58874d2ff307d735f6fb528f",
+      "sha256_preimagem": "c540a3ae3dcdd6222d8b7a26a32538df6ce4c0b691650cf1b7332520e4307caf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33164-1953-06-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33164-1953-06-25.md",
+      "sha256_candidato": "6671d89abe32b980c79d5071590ddd7c0092faf73c7feece5fd0101d2d49f830",
+      "sha256_preimagem": "900480441dd836e99727e8421d7607a3b75fcc9ec44909c2c851e146062d37d1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33132-1953-06-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33132-1953-06-24.md",
+      "sha256_candidato": "8570e97a7fa8657e239c4dc084ef4c07c388c198c969a71dc4c57f4fd4665086",
+      "sha256_preimagem": "c23c36240e34c85d497992c9cce3d149dfeb58189fbd01e69fd0646898ed8b24",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33104-1953-06-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33104-1953-06-22.md",
+      "sha256_candidato": "764c57fc78b9b2ed6207c32d113ee0f214952993d9aef9d75321b2dabfceff2b",
+      "sha256_preimagem": "cfae3767024da164ba3f7cff1c29dfb4fa3f0d3c91332d990a2fceb9600bdd58",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33089-1953-06-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33089-1953-06-19.md",
+      "sha256_candidato": "3a00be7b38a76e1e668f8a451beb6d5f4a3510a3f136d1790404f99f239b1a4c",
+      "sha256_preimagem": "4d8d4506ed55e5b2f4c734c26d8087c90b04526008655b45a0601623f51f5a7f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33073-1953-06-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33073-1953-06-17.md",
+      "sha256_candidato": "6d65a2dfd6a87aa32c7eded386ec13bc6036a81b7daa0df24908236f70bbbce1",
+      "sha256_preimagem": "d5c00feae56f24f25e59429eaf33f2f2ec3203351196bd85045622cbd336f335",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33080-1953-06-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33080-1953-06-17.md",
+      "sha256_candidato": "8c55ac856109741835c57ec157a7a86a7f4268dc23357ae15f354c43019be71b",
+      "sha256_preimagem": "c5f4d2978b8bec6d0e741187890fac4db5308aa668ca4738e8df9e48e12a83db",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33055-1953-06-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33055-1953-06-16.md",
+      "sha256_candidato": "317aacfdd7c51a0a08e33253a3fe6cd8421876a8b28cb676ec5912e67c6c97ee",
+      "sha256_preimagem": "7bb182c0b3eb0ffbab3f62a190b1915c5c1285a6459f3e5a278da469b4fb72ca",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33067-1953-06-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33067-1953-06-16.md",
+      "sha256_candidato": "accc102e3a5627fa4c0570f2ff464fdacf4c6f21fe86388d430ec4039d27e2ae",
+      "sha256_preimagem": "f0d14c28a7314fab0bfcbe5349976dd0c07cdd09e205af008509325699880d25",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33031-1953-06-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33031-1953-06-12.md",
+      "sha256_candidato": "ff1a68d558d60d3d83cf21c3d3a6ff27fe45a056c1fb2e3532752f232fc4d2fe",
+      "sha256_preimagem": "fd261ba1f1f3a3339637b139c2bab2d1c752e997219bbd7362de0dbea5399147",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-33032-1953-06-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-33032-1953-06-12.md",
+      "sha256_candidato": "1aaadf4adb0123c119eaeca905104eebe9cb501c52ab95f355e66822429375d7",
+      "sha256_preimagem": "23065811518592b4c4d875268fafed6d5abf078224d08d8fb0f0c2cdf294fab1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1953/dec-32977-1953-06-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_004/dec-32977-1953-06-08.md",
+      "sha256_candidato": "1427d665239248170e2e324923de279743858885825b1e0b04ef8576daa9305c",
+      "sha256_preimagem": "89fe81b68d75e03807b0f851cbf7d6a490c53fa01f6e6a0eec0549eeb5a0328e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1954/dec-34953-1954-01-18.md",
+    "federal/decretos/1954/dec-34954-1954-01-18.md",
+    "federal/decretos/1954/dec-34946-1954-01-15.md",
+    "federal/decretos/1954/dec-34913-1954-01-09.md",
+    "federal/decretos/1954/dec-34916-1954-01-09.md",
+    "federal/decretos/1954/dec-34906-1954-01-08.md",
+    "federal/decretos/1954/dec-34909-1954-01-08.md",
+    "federal/decretos/1954/dec-34911-1954-01-08.md",
+    "federal/decretos/1954/dec-34901-1954-01-06.md",
+    "federal/decretos/1954/dec-34891-1954-01-04.md",
+    "federal/decretos/1953/dec-34838-1953-12-28.md",
+    "federal/decretos/1953/dec-34815-1953-12-17.md",
+    "federal/decretos/1953/dec-34825-1953-12-17.md",
+    "federal/decretos/1953/dec-34826-1953-12-17.md",
+    "federal/decretos/1953/dec-34789-1953-12-16.md",
+    "federal/decretos/1953/dec-34777-1953-12-12.md",
+    "federal/decretos/1953/dec-34772-1953-12-11.md",
+    "federal/decretos/1953/dec-34769-1953-12-09.md",
+    "federal/decretos/1953/dec-34760-1953-12-08.md",
+    "federal/decretos/1953/dec-34756-1953-12-07.md",
+    "federal/decretos/1953/dec-34755-1953-12-04.md",
+    "federal/decretos/1953/dec-34745-1953-12-03.md",
+    "federal/decretos/1953/dec-34726-1953-11-30.md",
+    "federal/decretos/1953/dec-34681-1953-11-25.md",
+    "federal/decretos/1953/dec-34695-1953-11-25.md",
+    "federal/decretos/1953/dec-34657-1953-11-19.md",
+    "federal/decretos/1953/dec-34660-1953-11-19.md",
+    "federal/decretos/1953/dec-34647-1953-11-18.md",
+    "federal/decretos/1953/dec-34619-1953-11-16.md",
+    "federal/decretos/1953/dec-34586-a-1953-11-13.md",
+    "federal/decretos/1953/dec-34532-1953-11-10.md",
+    "federal/decretos/1953/dec-34490-1953-11-06.md",
+    "federal/decretos/1953/dec-34436-1953-11-03.md",
+    "federal/decretos/1953/dec-34442-1953-11-03.md",
+    "federal/decretos/1953/dec-34433-1953-10-31.md",
+    "federal/decretos/1953/dec-34395-a-1953-10-29.md",
+    "federal/decretos/1953/dec-34402-1953-10-29.md",
+    "federal/decretos/1953/dec-34405-1953-10-29.md",
+    "federal/decretos/1953/dec-34361-1953-10-26.md",
+    "federal/decretos/1953/dec-34373-1953-10-26.md",
+    "federal/decretos/1953/dec-34346-1953-10-23.md",
+    "federal/decretos/1953/dec-34238-1953-10-15.md",
+    "federal/decretos/1953/dec-34240-1953-10-15.md",
+    "federal/decretos/1953/dec-34222-1953-10-14.md",
+    "federal/decretos/1953/dec-34195-1953-10-13.md",
+    "federal/decretos/1953/dec-34207-1953-10-13.md",
+    "federal/decretos/1953/dec-34149-1953-10-09.md",
+    "federal/decretos/1953/dec-34130-1953-10-08.md",
+    "federal/decretos/1953/dec-34067-1953-10-06.md",
+    "federal/decretos/1953/dec-34055-1953-10-05.md",
+    "federal/decretos/1953/dec-33958-1953-09-30.md",
+    "federal/decretos/1953/dec-33983-1953-09-30.md",
+    "federal/decretos/1953/dec-34008-1953-09-30.md",
+    "federal/decretos/1953/dec-33939-1953-09-28.md",
+    "federal/decretos/1953/dec-33862-1953-09-21.md",
+    "federal/decretos/1953/dec-33772-1953-09-08.md",
+    "federal/decretos/1953/dec-33722-1953-09-03.md",
+    "federal/decretos/1953/dec-33709-1953-09-01.md",
+    "federal/decretos/1953/dec-33690-1953-08-28.md",
+    "federal/decretos/1953/dec-33679-1953-08-26.md",
+    "federal/decretos/1953/dec-33648-1953-08-25.md",
+    "federal/decretos/1953/dec-33652-1953-08-25.md",
+    "federal/decretos/1953/dec-33634-1953-08-21.md",
+    "federal/decretos/1953/dec-33606-1953-08-19.md",
+    "federal/decretos/1953/dec-33606-a-1953-08-19.md",
+    "federal/decretos/1953/dec-33578-1953-08-18.md",
+    "federal/decretos/1953/dec-33589-1953-08-18.md",
+    "federal/decretos/1953/dec-33564-1953-08-17.md",
+    "federal/decretos/1953/dec-33565-1953-08-17.md",
+    "federal/decretos/1953/dec-33517-1953-08-11.md",
+    "federal/decretos/1953/dec-33488-1953-08-05.md",
+    "federal/decretos/1953/dec-33490-1953-08-05.md",
+    "federal/decretos/1953/dec-33452-1953-08-03.md",
+    "federal/decretos/1953/dec-33406-1953-07-29.md",
+    "federal/decretos/1953/dec-33403-1953-07-28.md",
+    "federal/decretos/1953/dec-33373-1953-07-24.md",
+    "federal/decretos/1953/dec-33368-1953-07-23.md",
+    "federal/decretos/1953/dec-33355-1953-07-22.md",
+    "federal/decretos/1953/dec-33284-1953-07-14.md",
+    "federal/decretos/1953/dec-33285-1953-07-14.md",
+    "federal/decretos/1953/dec-33277-1953-07-13.md",
+    "federal/decretos/1953/dec-33283-1953-07-13.md",
+    "federal/decretos/1953/dec-33234-1953-07-06.md",
+    "federal/decretos/1953/dec-33236-1953-07-06.md",
+    "federal/decretos/1953/dec-33217-1953-07-01.md",
+    "federal/decretos/1953/dec-33196-1953-06-29.md",
+    "federal/decretos/1953/dec-33170-1953-06-26.md",
+    "federal/decretos/1953/dec-33171-1953-06-26.md",
+    "federal/decretos/1953/dec-33175-1953-06-26.md",
+    "federal/decretos/1953/dec-33160-1953-06-25.md",
+    "federal/decretos/1953/dec-33165-1953-06-25.md",
+    "federal/decretos/1953/dec-33168-1953-06-25.md",
+    "federal/decretos/1953/dec-33133-1953-06-24.md",
+    "federal/decretos/1953/dec-33140-1953-06-24.md",
+    "federal/decretos/1953/dec-33141-1953-06-24.md",
+    "federal/decretos/1953/dec-33142-1953-06-24.md",
+    "federal/decretos/1953/dec-33126-1953-06-23.md",
+    "federal/decretos/1953/dec-33102-1953-06-22.md",
+    "federal/decretos/1953/dec-33112-1953-06-22.md",
+    "federal/decretos/1953/dec-33092-1953-06-19.md",
+    "federal/decretos/1953/dec-33054-1953-06-16.md",
+    "federal/decretos/1953/dec-33069-1953-06-16.md",
+    "federal/decretos/1953/dec-33044-1953-06-15.md",
+    "federal/decretos/1953/dec-34126-1953-10-08.md"
+  ]
+}
