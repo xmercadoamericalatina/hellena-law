@@ -1,0 +1,10 @@
+{
+  "HEAD": "207390262912b4e7e8c1cbbf6c700ce9a2f13ca3",
+  "inventario": "/tmp/pe225-head-identidades-root-20261021.json",
+  "sha256_inventario": "cf4d244f8c6ebd2fa96d1ce969c52e6f2546516aa86df24c1ce641edd1aed481",
+  "documentos": 50162,
+  "mapa_destinos": "/tmp/pe225-head-destinos-root-20261021.json",
+  "sha256_mapa": "31fb1427e3a901bbeb066ffe6109784f7548d5eddb8837c1178206c2a0c04f6a",
+  "destinos_presentes": 0,
+  "criterio": "Todos os cabecalhos PE inteiros e SHA de MD lidos por OID de HEAD, sem worktree mutavel ou truncamento."
+}
