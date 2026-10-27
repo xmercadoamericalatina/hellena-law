@@ -2,7 +2,9 @@ name: Transferir acervo Hellena-Law
 on:
   workflow_dispatch:
   push:
-    paths: ['.github/workflows/transferir-acervo.yml']
+    branches: [main]
+    paths:
+      - '.github/workflows/transferir-acervo.yml'
 permissions:
   contents: write
 concurrency:
@@ -13,59 +15,15 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 180
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - name: Obter destino
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           fetch-depth: 1
-      - name: Obter snapshot público
+      - name: Obter snapshot público sem executar código da origem
         run: git clone --depth 1 https://github.com/xmercadoamericalatina/leis.git "$RUNNER_TEMP/acervo-origem"
-      - name: Transferir arquivos em lotes com histórico independente
-        shell: python
-        run: |
-          import os, pathlib, shutil, subprocess
-          src = pathlib.Path(os.environ['RUNNER_TEMP']) / 'acervo-origem'
-          dest = pathlib.Path.cwd()
-          def git(*args, cwd=dest):
-              return subprocess.check_output(['git', *args], cwd=cwd)
-          git('config', 'user.name', 'XMERCADO HELLENAI')
-          git('config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
-          # Incorporar edições de apresentação feitas durante o download da origem.
-          git('pull', '--rebase', 'origin', 'main')
-          sha = git('rev-parse', 'HEAD', cwd=src).decode().strip()
-          paths = git('ls-files', '-z', cwd=src).decode().split('\0')
-          batch, size, number = [], 0, 0
-          def save():
-              global batch, size, number
-              if not batch:
-                  return
-              for i in range(0, len(batch), 150):
-                  git('add', '--', *batch[i:i+150])
-              if subprocess.run(['git','diff','--cached','--quiet']).returncode:
-                  number += 1
-                  git('commit', '-m', 'Transfere acervo para Hellena-Law — lote ' + str(number))
-                  git('pull', '--rebase', 'origin', 'main')
-                  git('push', 'origin', 'HEAD:main')
-              batch, size = [], 0
-          for name in paths:
-              if not name or name in ('README.md','USO_E_CREDITOS.md','AGENTS.md'):
-                  continue
-              if name.startswith('.github/'):
-                  if name != '.github/workflows/lei-seca.yml':
-                      continue
-              source = src / name
-              if source.is_symlink():
-                  raise RuntimeError('Link simbólico requer revisão: ' + name)
-              if not source.is_file():
-                  continue
-              target_name = 'LICENSE-TERCEIROS' if name == 'LICENSE' else name
-              target = dest / target_name
-              target.parent.mkdir(parents=True, exist_ok=True)
-              shutil.copy2(source, target)
-              batch.append(target_name)
-              size += source.stat().st_size
-              if size >= 100 * 1024 * 1024 or len(batch) >= 2000:
-                  save()
-          save()
-          proof = dest / 'TRANSFERENCIA.md'
-          proof.write_text('# Transferência do acervo\n\nSnapshot transferido: ' + sha + '\n\nHistórico de destino independente. Licenças preexistentes preservadas em LICENSE-TERCEIROS. Materiais próprios conforme USO_E_CREDITOS.md.\n', encoding='utf-8')
-          batch.append('TRANSFERENCIA.md')
-          save()
+      - name: Transferir dados e comparar modo e SHA dos arquivos
+        run: python3 -I scripts/transferir_acervo.py "$RUNNER_TEMP/acervo-origem"
+      - name: Testar atualizador transferido
+        run: python3 -I -m unittest discover -s scripts/lei_seca -p 'test_*.py' -v
+      - name: Auditar coleção transferida
+        run: python3 -I scripts/lei_seca/auditar.py lei-seca
