@@ -28,6 +28,8 @@ jobs:
               return subprocess.check_output(['git', *args], cwd=cwd)
           git('config', 'user.name', 'XMERCADO HELLENAI')
           git('config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
+          # Incorporar edições de apresentação feitas durante o download da origem.
+          git('pull', '--rebase', 'origin', 'main')
           sha = git('rev-parse', 'HEAD', cwd=src).decode().strip()
           paths = git('ls-files', '-z', cwd=src).decode().split('\0')
           batch, size, number = [], 0, 0
@@ -40,10 +42,11 @@ jobs:
               if subprocess.run(['git','diff','--cached','--quiet']).returncode:
                   number += 1
                   git('commit', '-m', 'Transfere acervo para Hellena-Law — lote ' + str(number))
+                  git('pull', '--rebase', 'origin', 'main')
                   git('push', 'origin', 'HEAD:main')
               batch, size = [], 0
           for name in paths:
-              if not name or name in ('README.md','USO_E_CREDITOS.md'):
+              if not name or name in ('README.md','USO_E_CREDITOS.md','AGENTS.md'):
                   continue
               if name.startswith('.github/'):
                   if name != '.github/workflows/lei-seca.yml':
