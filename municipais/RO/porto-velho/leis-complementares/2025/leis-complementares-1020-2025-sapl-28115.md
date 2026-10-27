@@ -1,0 +1,162 @@
+---
+titulo: "Lei Complementar nº 1.020, de 26 de junho de 2025"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "1020"
+data: "2025-06-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/28115"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7120/text"
+sha256_fonte: "1cf61ccac79aadcde4fa9dced390eccc7e2e40505d17820893d35b2a265d6b89"
+sha256_texto: "3800d94d28675c991d6059341597f0d7ebbb97d474a4d67ab99a07dfc9f3111d"
+capturado_em_fonte: "2026-10-20T23:47:24.267636"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Complementar nº 1.020, de 26 de junho de 2025
+
+Institui o Programa Municipal de Jovem Aprendiz Atípico no âmbito da Administração Pública Direta e Indireta do Município de Porto Velho e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+Faço saber que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica instituído, no âmbito da Administração Pública Direta e Indireta do Município de Porto Velho, o Programa Municipal de Jovem Aprendiz Atípico, com o objetivo de promover a inclusão, formação profissional e empregabilidade de adolescentes e jovens com deficiência e/ou neurodivergência.
+
+
+Art. 2º.
+
+O Programa tem por finalidade:
+
+
+I –
+
+ampliar oportunidades de ingresso no mundo do trabalho para adolescentes e jovens atípicos, com suporte adequado às suas especificidades;
+
+
+II –
+
+garantir formação profissional de qualidade com base em princípios de equidade, acessibilidade e dignidade;
+
+
+III –
+
+implementar, para cada aprendiz, um Plano de Adaptação Funcional (PAF), instrumento que orientará as adaptações razoáveis necessárias no ambiente de trabalho; e
+
+
+IV –
+
+sensibilizar e capacitar os servidores públicos, bem como articular parcerias com a iniciativa privada, para o acolhimento e acompanhamento técnico dos aprendizes atípicos.
+
+
+Art. 3º.
+
+São condições para ingresso no Programa:
+
+
+I –
+
+ter idade mínima de 14 (quatorze) anos, não se aplicando o limite máximo de 24 (vinte e quatro) anos às pessoas com deficiência, priorizando-se, preferencialmente, o público em idade escolar ou em processo de formação profissional inicial;
+
+
+II –
+
+estar regularmente matriculado em instituição de ensino fundamental, médio, superior ou em programas de Educação de Jovens e Adultos (EJA);
+
+
+III –
+
+estar inscrito em curso de aprendizagem profissional ofertado por entidade formadora habilitada; e
+
+
+IV –
+
+participar de avaliação biopsicossocial para elaboração do Plano de Adaptação Funcional (PAF), com a participação de profissionais das secretarias competentes.
+
+
+Art. 4º.
+
+A jornada de trabalho será de até 6 (seis) horas diárias, respeitando-se as condições de saúde, necessidades terapêuticas e carga horária escolar ou universitária do aprendiz.
+
+
+Parágrafo único
+
+O trabalho não poderá ser realizado em locais prejudiciais à sua formação, ao seu desenvolvimento físico, psíquico, moral e social em horários e locais que não permitam a frequência à escola.
+
+
+Art. 5º.
+
+O Poder Executivo deverá assegurar:
+
+
+I –
+
+acessibilidade arquitetônica, comunicacional, atitudinal, metodológica e programática nos espaços de formação e trabalho, além da eliminação progressiva das barreiras urbanísticas, tecnológicas, institucionais, sociais e culturais, conforme previsto no art. 3º, IV, da Lei Federal nº 13.146, de 6 de julho de 2015 – Lei Brasileira de Inclusão;
+
+
+II –
+
+capacitação continuada dos servidores públicos envolvidos e incentivo à formação de gestores e colaboradores da iniciativa privada sobre inclusão produtiva de pessoas com deficiência e neurodivergência;
+
+
+III –
+
+apoio individualizado aos aprendizes, por meio de tutores, mediadores ou profissionais de referência, conforme avaliação técnica do Plano de Adaptação Funcional; e
+
+
+IV –
+
+monitoramento e avaliação sistemática do Programa, com indicadores de desempenho, permanência, progressão funcional, clima organizacional e satisfação dos aprendizes e das equipes.
+
+
+Art. 6º.
+
+O Contrato de aprendizagem e o contrato de trabalho especial, ajustado por escrito e com prazo determinado, não inferior a 1 (um) ano, pode ser renovado por mais 1 (um) ano.
+
+
+Art. 7º.
+
+É garantido ao Jovem Aprendiz Atípico, pelo ente público contratante, um valor de pagamento por hora, cuja definição se dará por Decreto do Executivo Municipal.
+
+
+Art. 8º.
+
+A execução do Programa será coordenada pela Secretaria Municipal de Inclusão e Assistência Social, em articulação com as Secretarias Municipais de Administração, Educação, Saúde, Desenvolvimento Econômico, entidades formadoras e organizações da sociedade civil.
+
+
+Art. 9º.
+
+O Programa poderá ser implementado inicialmente em caráter piloto, em setores previamente mapeados, com vistas à avaliação de impacto e expansão progressiva.
+
+
+Art. 10.
+
+Ato do Poder Executivo Municipal regulamentará no prazo de até 90 (noventa) dias as disposições pertinentes a esta Lei Complementar.
+
+
+Art. 11.
+
+As despesas decorrentes da aplicação desta Lei Complementar correrão à conta das dotações orçamentárias próprias do Município de Porto Velho, sendo o Poder Executivo autorizado a realizar adequações e remanejamentos, desde que observados os limites da Lei de Responsabilidade Fiscal.
+
+
+Art. 12.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES**
+
+**Prefeito**
+

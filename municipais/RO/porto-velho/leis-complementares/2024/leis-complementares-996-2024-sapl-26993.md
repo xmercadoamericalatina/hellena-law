@@ -1,0 +1,211 @@
+---
+titulo: "Lei Complementar nº 996, de 20 de agosto de 2024"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "996"
+data: "2024-08-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26993"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4525/text"
+sha256_fonte: "574439ac57719dd3f0f5cb96bd0c6f9ec8af44b304b4e0bf809fdaf793c93cf1"
+sha256_texto: "ba9fa685d0d54f74766a06193863a986bb899b7e067b96ed1ea5190b31554257"
+capturado_em_fonte: "2026-10-21T04:05:16.056956-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 996, de 20 de agosto de 2024
+
+Institui a Política de Prevenção à Evasão e Abandono
+
+Escolar no Município de Porto Velho/RO.
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador **MÁRCIO PACELE**, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica instituída a Política de Prevenção à Evasão e Abandono Escolar no Município de Porto Velho, que define princípios e diretrizes para a formulação e implementação de políticas públicas, com a Base Nacional Comum Curricular prevista na Lei de Diretrizes e Bases da Educação Nacional – LDB (Lei nº 9.394, de 20 de dezembro de 1996).
+
+
+§ 1º
+
+A implementação das diretrizes e ações da Política de Prevenção à Evasão e Abandono Escolar será executada de forma Inter setorial e integrada, e coordenadas, principalmente, pela Secretaria Municipal de Educação.
+
+
+§ 2º
+
+As políticas relacionadas nesta Lei poderão ser complementadas e desenvolvidas, na medida do necessário, por outras Secretarias ou órgãos municipais.
+
+
+§ 3º
+
+Para o dinamismo da política aqui instituída, serão empreendidos esforços para atuação conjunta entre diferentes órgãos municipais, estaduais e federais, bem como entidades nãogovernamentais, da sociedade civil e da iniciativa.
+
+
+Art. 2º.
+
+Para fins desta Lei, considera-se:
+
+
+I –
+
+abandono escolar: a situação que ocorre quando o aluno deixa de frequentar as aulas durante o ano letivo, mas retorna ao ano seguinte;
+
+
+II –
+
+evasão escolar: a situação do aluno que abandonou a escola ou reprovou em determinado ano letivo, e que no ano seguinte não efetuou a matrícula para dar continuidade aos estudos, isto é, ele sai da escola e não volta mais para o sistema;
+
+
+III –
+
+projeto de vida: atividades e/ou disciplinas desenvolvidas nas escolas que discutem quais são as aspirações dos alunos para o futuro e quais são as principais possibilidades acadêmicas e profissionais disponíveis para após a conclusão do ensino básico;
+
+
+IV –
+
+incentivo para escolhas certas: estímulos de comportamentos adotados pelo Estado através de políticas públicas que podem conduzir a uma forma mais eficaz de prevenção e combate ao abandono e evasão escolar.
+
+
+Art. 3º.
+
+São princípios da Política de Prevenção à Evasão e Abandono Escolar, o reconhecimento:
+
+
+I –
+
+da educação como principal fator gerador de crescimento econômico, redução das desigualdades e diminuição da violência;
+
+
+II –
+
+da escola como ambiente de desenvolvimento social, cultural, ético e crítico, necessário à formação e bem-estar dos alunos;
+
+
+III –
+
+do acesso à informação como recurso necessário para melhoria da qualidade de vida, geração de autonomia, liberdade e pleno desenvolvimento cidadão do estudante;
+
+
+IV –
+
+do aprendizado contínuo desde a infância como fator valioso na melhoria da saúde, aumento da renda e na satisfação pessoal das pessoas.
+
+
+Art. 4º.
+
+A Política de Prevenção à Evasão e Abandono Escolar de que trata esta Lei consiste nas seguintes diretrizes:
+
+
+I –
+
+desenvolvimento de programas, ações e conexões entre órgãos públicos, sociedade civil e organizações sem fins lucrativos, que visem ao desenvolvimento de competência sócios emocionais do aluno durante todo o ano letivo;
+
+
+II –
+
+desenvolvimento de programas, ações e articulação entre órgãos públicos e sociedade civil sem fins lucrativos, que visem ao desenvolvimento cognitivo do aluno durante todo o ano letivo;
+
+
+III –
+
+aproximar a família do aluno de suas atividades escolares, de suas ambições pessoais, de seus planos futuros e de seu ambiente estudantil;
+
+
+IV –
+
+promover atividades que aproximem os alunos e estreitem seus vínculos;
+
+
+V –
+
+construir currículos complementares voltados para integração educacional e tecnológica e as necessidades pedagógicas dos tempos modernos;
+
+
+VI –
+
+promover disciplinas de projeto de vida em que o educador discuta com os alunos as possibilidades que os estudantes têm para depois da conclusão do ensino básico;
+
+
+VII –
+
+estruturar um currículo complementar centrado no aluno, com aulas interativas e que exijam interação constante entre corpo docente e discente;
+
+
+VIII –
+
+estruturar um currículo complementar com oportunidade de escolha de disciplinas eletivas;
+
+
+IX –
+
+estruturar avaliações diagnósticas e convocar aulas de reforço aos alunos que necessitarem;
+
+
+X –
+
+promover atividades de autoconhecimento;
+
+
+XI –
+
+promover ações que estimulem a participação dos alunos nas decisões de suas turmas e séries
+
+
+XII –
+
+estimular a integração entre alunos e a construção do ambiente escolar democrático, inclusive com a formação de grêmios, grupos esportivos e de estudos, conferindo o máximo de autonomia possível aos alunos para a condução de seus trabalhos;
+
+
+XIII –
+
+promover visitas aos alunos evadidos, se possível com a presença dos demais alunos de sala, como forma de incentivo ao seu retorno escolar;
+
+
+XIV –
+
+fazer uso de mecanismos de incentivo para escolhas certas, para prevenir o abandono escolar e evasão escolar;
+
+
+XV –
+
+promover palestras e rodas de conversas de conscientização e combate ao bullying;
+
+
+XVI –
+
+promover palestras e rodas de conversas de conscientização e combate à gravidez precoce
+
+
+XVII –
+
+procurar identificar os alunos e famílias que precisam de apoio financeiro para despesas básicas e acionar Secretarias responsáveis.
+
+
+Art. 5º.
+
+Fica criado o Cadastro de Permanência de Aluno, com a finalidade de acompanhamento estatístico de alunos que se enquadram nas situações definidas nos incisos I e II do art. 2º desta Lei, divididos por bairros e por escola, para formulação de futuras políticas públicas relacionadas
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 20 de agosto de 2024.
+
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei Complementar nº 1.321/2024  
+Autoria: Enf. Roneudo Soares
+

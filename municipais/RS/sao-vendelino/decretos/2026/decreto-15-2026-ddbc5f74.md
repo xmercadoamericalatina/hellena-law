@@ -1,0 +1,380 @@
+---
+titulo: "DECRETO Nº 15, DE 2 DE MARÇO DE 2026."
+uf: "RS"
+municipio: "SÃO VENDELINO"
+tipo: "Decreto"
+numero: "15"
+data: 2026-03-02
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 02/04/2026"
+data_publicacao: 2026-04-02
+codigo_identificador: "DDBC5F74"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117814_2026-04-01_faf1c1810f0a735624ff8605f66a3cec.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 15, DE 2 DE MARÇO DE 2026.
+
+DECRETO Nº 15, DE 2 DE MARÇO DE 2026.
+DECRETO Nº 15, DE 2 de março de 2026.
+Abre créditos suplementares no valor de R$ 415.430,00 (quatrocentos e quinze mil, quatrocentos e trinta reais).
+RÉGIS PAULO FRITZEN, Prefeito Municipal de São Vendelino, no uso de suas atribuições legais e em conformidade com a Lei Municipal nº
+1.607, de 28 de novembro de 2024,
+DECRETA:
+Art. 1º. São abertos créditos suplementares no montante de R$ 415.430,00 (quatrocentos e quinze mil, quatrocentos e trinta reais) assim
+especificados:
+CRÉDITO SUPLEMENTAR
+1 - SUPERÁVIT FINANCEIRO
+04
+001
+23.691.0103
+23.691.0103.2087
+701
+1018
+004043 - 3.3.90.39.00.00.00.00
+08
+001
+10.301.0106
+10.301.0106.2100
+600
+4504
+008566 - 3.3.90.40.00.00.00.00
+08
+001
+600
+4504
+008567 - 3.3.90.39.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+103 - São Vendelino em Frente: Emprego, Renda e Produção
+INCENTIVOS AOS DESENVOLVIMENTO ECONÔMICO
+Outras Transferências de Convênios ou Instrumentos Congêneres dos Estados
+PROGRAMA RECOMEÇAR - QUALIF. PROFISSIONAL
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+47.500,00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENÇÃO DA ATENÇÃO BÁSICA
+Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e
+Serviços Públicos de Saúde
+GESTAO DO SUS
+SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PJ
+6.000,00
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Bloco de Manutenção das Ações e
+Serviços Públicos de Saúde
+GESTAO DO SUS
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+1.000,00
+
+2 - EXCESSO DE ARRECADAÇÃO
+02
+001
+06.182.0101
+06.182.0101.2115
+749
+1114
+002081 - 4.4.90.51.00.00.00.00
+
+1- GABINETE DO PREFEITO MUNICIPAL
+MANUT DO GABINETE DO PREFEITO
+101- São Vendelino em Ação!
+FUMDEC - FUNDO MUNIC. DE DEFESA CIVIL - ENFRENTAMENTO DE DESASTRES E SITUAÇÕES DE
+EMERGÊNCIA
+Outras vinculações de transferências
+Defesa Civil Federal - Portaria 3.070/2024 - 2 pontes
+OBRAS E INSTALAÇÕES
+141.000,00
+
+5 - REDUÇÕES NA MESMA ENTIDADE
+04
+001
+04.122.0004
+04.122.0004.2006
+500
+0001
+004012 - 3.3.90.39.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+8- Manutenção Secretaria de Planejamento e Desenvolvimento Econômico
+MANUTENCAO SEC MUN PLANEJAMENTO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+17.000,00
+
+04
+001
+23.691.0103
+23.691.0103.2087
+500
+0001
+004020 - 3.3.90.39.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+103 - São Vendelino em Frente: Emprego, Renda e Produção
+INCENTIVOS AOS DESENVOLVIMENTO ECONÔMICO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+2.500,00
+
+04
+001
+04.122.0004
+04.122.0004.2006
+500
+0001
+004034 - 3.3.90.40.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+8- Manutenção Secretaria de Planejamento e Desenvolvimento Econômico
+MANUTENCAO SEC MUN PLANEJAMENTO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PJ
+
+1.000,00
+
+06
+001
+12.361.0108
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+EDUCAÇÃO
+108- Educação Acolhedora e Inclusiva!
+
+www.diariomunicipal.com.br/famurs
+
+246
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+12.361.0108.2027
+500
+0020
+006551 - 3.3.93.39.00.00.00.00
+
+MANUTENCAO ENSINO FUNDAMENTAL
+Recursos não Vinculados de Impostos
+MDE
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+
+10.000,00
+
+06
+002
+13.392.0110
+13.392.0110.2012
+500
+0001
+006190 - 3.3.90.32.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+FUNDO MUNICIPAL DA CULTURA
+110 - São Vendelino: Tradição, Movimento e Lazer
+REALIZACAO DE EVENTOS
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA
+
+2.200,00
+
+06
+003
+27.812.0110
+27.812.0110.2097
+500
+0001
+006096 - 3.3.90.39.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+DESPORTO E TURISMO
+110 - São Vendelino: Tradição, Movimento e Lazer
+MANUTENCAO ATIVIDADES DE LAZER E DESPORTO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+16.730,00
+
+08
+001
+10.122.0013
+10.122.0013.2014
+500
+0040
+008002 - 4.4.90.52.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+11- Manutencao Secretaria Saúde
+MANUTENCAO SEC MUN SAUDE
+Recursos não Vinculados de Impostos
+ASPS
+EQUIPAMENTOS E MATERIAL PERMANENTE
+
+2.500,00
+
+08
+001
+10.301.0106
+10.301.0106.2100
+500
+0040
+008183 - 3.3.93.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENÇÃO DA ATENÇÃO BÁSICA
+Recursos não Vinculados de Impostos
+ASPS
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+
+100.000,00
+
+08
+001
+10.301.0013
+10.301.0013.2014
+500
+0040
+008329 - 3.3.90.40.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+11- Manutencao Secretaria Saúde
+MANUTENCAO SEC MUN SAUDE
+Recursos não Vinculados de Impostos
+ASPS
+SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PJ
+
+16.000,00
+
+08
+001
+10.301.0106
+10.301.0106.2100
+500
+0040
+008394 - 3.3.90.32.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENÇÃO DA ATENÇÃO BÁSICA
+Recursos não Vinculados de Impostos
+ASPS
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA
+
+2.000,00
+
+09
+003
+17.512.0105
+17.512.0105.1009
+500
+0001
+009306 - 4.4.90.51.00.00.00.00
+
+7- SECRETARIA MUNIC.DE OBRAS,TRÂNSITO E AGRICULTURA
+SANEAMENTO
+105- Cidade Limpa, cidade Viva!
+CONSTRUCAO DE REDES AGUA
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OBRAS E INSTALAÇÕES
+TOTAL DE CRÉDITO SUPLEMENTAR
+
+50.000,00
+415.430,00
+
+Art. 2º. Os créditos de que trata o artigo anterior serão cobertos por:
+I: a seguinte redução orçamentária:
+REDUÇÃO DE CRÉDITO
+5 - REDUÇÕES NA MESMA ENTIDADE
+04
+001
+04.122.0004
+04.122.0004.2006
+500
+0001
+004010 - 3.3.90.30.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+8- Manutenção Secretaria de Planejamento e Desenvolvimento Econômico
+MANUTENCAO SEC MUN PLANEJAMENTO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+MATERIAL DE CONSUMO
+
+2.500,00
+
+08
+001
+10.301.0106
+10.301.0106.2129
+500
+0040
+008428 - 3.3.90.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENCAO DOS SERVICOS DE URGÊNCIA, EMERGÊNCIA E ATENDIMENTO PRE HOSPITALAR
+Recursos não Vinculados de Impostos
+ASPS
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+110.000,00
+
+09
+001
+04.122.0016
+04.122.0016.2016
+
+7- SECRETARIA MUNIC.DE OBRAS,TRÂNSITO E AGRICULTURA
+MANUT DA SEC DE OBRAS/TRANSITO
+9 - Manutenção Secretaria de Obras e Trânsito
+MANUT SEC MUN OBRAS E TRANSITO
+
+www.diariomunicipal.com.br/famurs
+
+247
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+500
+0001
+009016 - 3.3.90.39.00.00.00.00
+
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+TOTAL DE REDUÇÃO DE CRÉDITO
+
+107.430,00
+219.930,00
+
+II: Superávit financeiro apurado no exercício anterior no valor de 54.500,00 (quatrocentos e quinze mil, quatrocentos e trinta reais).
+III: Excesso de arrecadação no valor de 141.000,00 (cento e quarenta e um mil reais).
+Art.3º. Revogadas as disposições em contrário, este Decreto entrará em vigor na data da sua publicação.
+GABINETE DO PREFEITO MUNICIPAL DE SÃO VENDELINO, 2 de março de 2026.
+RÉGIS PAULO FRITZEN
+Prefeito Municipal
+Registre-se e Publique-se
+CAREN ISABEL SCHNEIDER DALCIN
+Secretária Municipal Geral de Governo
+Publicado por:
+Priscila Weschenfelder do Monte

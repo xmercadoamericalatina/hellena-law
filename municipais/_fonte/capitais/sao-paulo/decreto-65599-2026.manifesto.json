@@ -1,0 +1,29 @@
+{
+  "path": "municipais/SP/sao-paulo/decretos/2026/decreto-65599-2026.md",
+  "sha256": "7808f6169dd90ce01a23586a40af5e90b426d6d808459e5e0c9754b3060c89fb",
+  "fontes": [
+    {
+      "url": "https://legislacao.prefeitura.sp.gov.br/decreto-65599-de-1-de-outubro-de-2026",
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.html",
+      "sha256": "8852ce138cc53872f6feb96bec2748940a3d751d26c3dcfbb37d95188d765791"
+    },
+    {
+      "url": "https://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?yp0RssRPEhuQX9Zm0VXkmOY2YIle8J4wdUSEHAaKQ2SeBW702XzUU9v8S64bWJFyMwnK_-pqrKXHm3mgMT4Au2xrRygfdarHJtT8db7aspfgqZW0v7QQKX7jG8uPjW3b",
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026-anexo.pdf",
+      "sha256": "c6b2b6ad4b5f320e499789cc5fea41f2594a624e642d25e7f2d920b2e2f39895"
+    }
+  ],
+  "sha256_corpo_decreto": "0bbc38b3b3cf5bc9e5344433704296862890d7bfbcb361c92e6c3dd20e888931",
+  "sha256_corpo_anexo": "63d52bbbfbffe8dd3bfd24f5a11a995871fa5baa8f522c2060885a1de0989ff1",
+  "transcricao_tabelas": {
+    "path": "scripts/dados/sp-tributaria-65599-tabelas.json",
+    "sha256": "153fe486cfffff6d125f9560c7c2d7b2f4e547f7c8b6df484aeded08c27c9b2b",
+    "linhas": 56,
+    "paginas": [
+      142,
+      226
+    ]
+  },
+  "criterio": "Documento individual: decreto formal e seu anexo integrante; não contado como lei tributária original ou edição diária.",
+  "obtido_em": "2026-10-20T20:26:22.526650"
+}

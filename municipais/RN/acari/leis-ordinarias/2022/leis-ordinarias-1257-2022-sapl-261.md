@@ -1,0 +1,102 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.257, de 14 de junho de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1257"
+data: "2022-06-14"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/261"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/401/text"
+sha256_fonte: "156c498da048a60f8d291b51705ba08c5572974b418e93699b8a079c341a3773"
+sha256_texto: "ab2c769248d63267764cc2c9e3be35a5880307c5955b79146d589a243a7370cd"
+capturado_em_fonte: "2026-10-21T05:10:30.861099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.257, de 14 de junho de 2022
+
+Autoriza o Poder Executivo Municipal a doar imóvel (terreno) à Câmara de Dirigentes Lojistas de Acari e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais,
+
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal, por meio da Prefeitura Municipal de Acari, autorizada a proceder à doação de um imóvel (terreno), sem benfeitorias, localizado na zona urbana do Município de Acari/RN, com a área total de 180,00 m², e cujas descrições são as seguintes: Inicia-se a descrição deste perímetro no vértice 01 de coordenadas N 9.286,533,86 m e E 761.528,42 m.: deste segue com azimute 236°18’0’’ e distância de 15,00 m confrontando nesse trecho sul com o Terreno da Prefeitura de Acari, até o vértice 02 de coordenadas N 9.286.525,47m e E 761.515,67 m, deste segue com azimute 325°18’0’’ e distância 12,00m, confrontando nesse trecho oeste com o Terreno da Prefeitura de Acari, até o vértice 03 de coordenadas N 9.286.535,38 m e E 761.509,57 m deste segue com azimute 326°18’0’’ e distância de 15,00 m, confrontando neste trecho norte com a Rua: Projetada, até o vértice 04 de coordenadas N 9.286.543,91 m e E 761.521,93 m, deste segue com azimute 94°40’39’’ e distância 12,00m, confrontando neste trecho leste com a Rua: da Craibeira, até o vértice 01 de coordenadas N 9.286,533,86 m e E 761.528,42 m.: deste segue com azimute 236°18’0’’. ponto inicial da descrição deste perímetro, pertencente ao patrimônio do Município de Acari à Câmara de Dirigentes Lojistas de Acari – CDL de Acari, inscrita no CNPJ sob o nº 03.111.249/0001-62, com endereço à Rua da Matriz, nº 210, Centro, Acari/RN.
+
+
+Parágrafo único
+
+Todas as coordenadas descritas no caput do artigo 1º estão geo-referenciadas ao Sistema Geodésico Brasileiro, e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 39º WGr/EGr, tendo como Datum SIRGAS 2000. Todos os azimutes e distâncias, áreas e perímetros foram calculados no plano de projeção UTM.
+
+
+Art. 2º.
+
+O imóvel descrito no artigo 1º, destinar-se-á a construção de uma sede para a Câmara de Dirigentes Lojistas de Acari – CDL de Acari, sob a responsabilidade financeira e gerencial da donatária.
+
+
+Art. 3º.
+
+O imóvel objeto da presente Lei deverá ser transferido no Cartório de Imóveis de Acari/RN, com cláusula de reversão de patrimônio, no prazo máximo de até 12 (doze) meses a contar da data da promulgação da presente Lei.
+
+
+§ 1º
+
+As despesas decorrentes do registro público no Ofício de Notas de Acari correrão por conta do beneficiário.
+
+
+§ 2º
+
+Fica a Secretaria Municipal de Tributação e Administração autorizada a transferir, nos sistemas de tributação municipais, a titularidade do cadastro imobiliário para o nome da beneficiária tão logo seja promulgada a presente lei;
+
+
+§ 3º
+
+O Setor de Tributação da Prefeitura de Acari deverá enviar comunicado oficial a Companhia de Águas e Esgotos do Rio Grande do Norte – CAERN e a Companhia Energética do Rio Grande do Norte – COSERN, sobre a atualização cadastral para que as despesas decorrentes do consumo de água e energia elétrica recaiam sobre o beneficiário do respectivo imóvel.
+
+
+§ 4º
+
+O imóvel objeto da doação descrito no artigo 1º, deverá  
+ser desmembrado da área pertencente ao patrimônio  
+imobiliário do Município de Acari.
+
+
+§ 5º
+
+A doação autorizada exige a ocupação do imóvel, com  
+edificações e funcionamento da empresa no local, em até 02  
+(dois) anos, ficando consignado que a desatenção à tal  
+obrigação reverterá automaticamente a área doada para o  
+patrimônio do Município de Acari-RN.
+
+
+Art. 4º.
+
+O não cumprimento das condições estabelecidas no artigo 3º da presente Lei, implicará na retrocessão do imóvel ao patrimônio do Município.
+
+
+Art. 5º.
+
+O beneficiário discriminado no artigo 1º, não poderá transferir a titularidade do imóvel pelo prazo de 05 (cinco) anos.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Acari/RN, 14 de junho de 2022.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

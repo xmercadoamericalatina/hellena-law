@@ -1,0 +1,243 @@
+---
+titulo: "DECRETO N° 91, DE DE 31 DE MARÇO DE 2026"
+uf: "RS"
+municipio: "SANTO ÂNGELO"
+tipo: "Decreto"
+numero: "91"
+data: 2026-03-31
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 01/04/2026"
+data_publicacao: 2026-04-01
+codigo_identificador: "FDB6178B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117813_2026-03-31_e7bd144c5cb0071f3d835cff4ffa65cc.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 91, DE DE 31 DE MARÇO DE 2026
+
+DECRETO N° 91, DE DE 31 DE MARÇO DE 2026
+Abre Crédito Especial por Superávit Financeiro, no
+Orçamento Municipal, altera as Leis Municipais nº
+10.622/2025, que dispõe sobre o Plano Plurianual do
+Município para 2026 a 2029, Lei Municipal nº
+10.737/2025 que dispõe sobre a Lei de Diretrizes
+
+www.diariomunicipal.com.br/famurs
+
+165
+
+Rio Grande do Sul , 01 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4300
+Orçamentárias para o exercício de 2026 e Lei
+Municipal n° 10.811/2025 que dispõe sobre a Lei
+Orçamentária Anual e suas alterações.
+O PREFEITO MUNICIPAL de Santo Antônio da Patrulha, no uso das
+atribuições que lhe confere o art. 53, inciso IV, da Lei Orgânica do
+Município,
+DECRETA:
+Art. 1° Fica aberto Crédito Especial por Superávit Financeiro, no
+valor de R$ 470.198,68, na forma da Lei n° 10.976/2026, conforme
+descrição:
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+122-ADMINISTRAÇÃO GERAL
+0002-Gestão do Poder Executivo
+2019- Gestão do SUAS
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2660, dest. 0000379 –
+R$ 5,98
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+128-FORMAÇÃO DE RECURSOS HUMANOS
+0002-Gestão do Poder Executivo
+2021- Capacita SUAS - SAP
+3.3.90.14-DIARIAS - PESSOAL CIVIL, rec. 2660, dest. 0000000 –
+R$ 10.000,00
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2660, dest. 0000000 – R$ 20.000,00
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2660, dest. 0000404 – R$ 20.000,00
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+244-ASSISTÊNCIA COMUNITÁRIA
+0002-Gestão do Poder Executivo
+2029- Gestão do Bolsa Família
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2660, dest. 0000000 –
+R$ 18.181,18
+3.1.90.11-VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL, rec. 2660, dest. 0000380 – R$ 40.115,41
+3.1.91.13-OBRIGAÇÕES PATRONAIS, rec. 2660, dest. 0000380 –
+R$ 10.000,00
+3.3.90.08-OUTROS BENEFICIOS ASSISTENCIAIS, rec. 2660, dest.
+0000380 – R$ 10.000,00
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+244-ASSISTÊNCIA COMUNITÁRIA
+0002-Gestão do Poder Executivo
+2028- Manutenção do CRAS - Centro de Referência de Assistência
+Social
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2660, dest. 0000335 –
+R$ 4.894,91
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2660, dest. 0000335– R$ 10.000,00
+3.1.90.11-VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL, rec. 2660, dest. 0000376– R$ 57.961,93
+4.4.90.52-EQUIPAMENTOS E MATERIAL PERMANENTE, rec.
+2660, dest. 3101376 – R$ 1.760,03
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+243- ASSISTÊNCIA À CRIANÇA E AO ADOLESCENTE
+0006-Promoção e Defesa dos Direitos da Criança e do Adolescente
+2045- Desenvolvimento Integral de Crianças
+
+3.1.90.04-CONTRATACAO POR TEMPO DETERMINADO, rec.
+2660, dest. 0000398 – R$ 10.000,00
+3.1.90.13-OBRIGAÇÕES PATRONAIS, rec. 2660, dest. 0000398 –
+R$ 10.000,00
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2660, dest. 0000398 –
+R$ 5.543,05
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2660, dest. 0000398 – R$ 5.000,00
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+242- ASSISTÊNCIA AO PORTADOR DE DEFICIÊNCIA
+0007-Vínculos Seguros
+2036- Serviço de Proteção Social Especial para Pessoas com
+Deficiência, Idosas e Suas Famílias
+3.3.50.43-SUBVENCOES SOCIAIS, rec. 2660, dest. 0000404 – R$
+30.000,00
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+244- ASSISTÊNCIA COMUNITÁRIA
+0002-Gestão do Poder Executivo
+2030- Manutenção do CREAS - Centro de Referência Especializado
+de Assistência Social
+3.1.90.11-VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL, rec. 2660, dest. 0000404 – R$ 44.449,08
+3.1.90.11-VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL, rec. 2660, dest. 3101404 – R$ 95.773,01
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2660, dest. 3101404 –
+R$ 3.971,49
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2660, dest. 3101404 – R$ 22.000,00
+3.3.90.30-MATERIAL DE CONSUMO, rec. 2669, dest. 0000000 –
+R$ 7.058,64
+4.4.90.52-EQUIPAMENTOS E MATERIAL PERMANENTE, rec.
+2669, dest. 0000000 – R$ 10.000,00
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+241- ASSISTÊNCIA AO IDOSO
+0004-Vivência Protegida
+2042- Acolhimento em ILPI - Instituição de Longa Permanência para
+Idosos
+3.3.20.93-INDENIZACOES E RESTITUICOES, rec. 2660, dest.
+3110406 – R$ 1.987,49
+3.3.20.93-INDENIZACOES E RESTITUICOES, rec. 2660, dest.
+3110456 – R$ 5.577,22
+04-SECRETARIA MUNICIPAL DO TRABALHO E DO DESENV.
+SOCIAL
+01-FMAS-FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08-ASSISTÊNCIA SOCIAL
+244- ASSISTÊNCIA COMUNITÁRIA
+0003-Apoio Temporário
+2037- Gestão dos Benefícios Eventuais
+3.3.90.39-OUTROS
+SERVICOS
+DE
+TERCEIROS-PESSOA
+JURIDICA, rec. 2661, dest. 0000366 – R$ 15.257,90
+3.3.90.32-MATERIAL,
+BEM
+OU
+SERVIÇO
+PARA
+DISTRIBUICAO GRATUITA, rec. 2661, dest. 0000475 – R$ 661,36
+TOTAL – R$ 470.198,68
+Art. 2° Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Superávit Financeiro do exercício de
+2025, Recurso:
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000379 - 1379-Bloco da Gestão do SUAS, no valor
+de R$ 5,98.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000000 - Livre, no valor de R$ 48.181,18.
+
+www.diariomunicipal.com.br/famurs
+
+166
+
+Rio Grande do Sul , 01 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4300
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000335 - 1335-ACESSUAS-Progr Prom do Acesso
+ao Mundo do Trabalho, no valor de R$ 14.894,91.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000376 - 1376-Bloco da Proteção Social Básica PSB, no valor de R$ 57.961,93.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000380 - 1380-Bloco da Gestão do Progr Bolsa
+Família e Cad Unico, no valor de R$ 60.115,41.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000398 - 1398-Programa Criança Feliz, no valor de
+R$ 30.543,05.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 0000404 - 1404-Bloco de Financiamento da Proteção
+Social Especial, no valor de R$ 94.449,08.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 3101376 - 660-Repasse Emergencial Calamidade
+PSB-MP 1218/2024, no valor de R$ 1.760,03.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 3110406 - 1406-Emendas SGTV Estruturação da
+Rede de Proteção Especial, no valor de R$ 1.987,49.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 3110456 - 1456-Emenda 36660002- Benef Lar Oscar
+Vargas-Pompeo de Matos, no valor de R$ 5.577,22.
+2660 - Transferência de Recursos do Fundo Nacional de Assistência
+Social - FNAS - 3101404 - 660-Repasse Emergencial Calam Públic.
+para PSE MP 1218/2024, no valor de R$ 121.744,50.
+2661 - Transf. Recursos dos Fundos Estaduais de Assistência Social 0000366
+1366-Piso
+de
+Proteção
+Básica-CoFinanciamento(PNAS2004), no valor de R$ 15.257,90.
+2661 - Transf. Recursos dos Fundos Estaduais de Assistência Social 0000475 - 1475- FEAS-Benefícios Eventuais, no valor de R$ 661,36.
+2669- Outros Recursos Vinculados à Assistência Social - 0000000 Livre, no valor de R$ 17.058,64.
+
+Os interessados no prazo citado poderão requerer às suas expensas e
+mediante petição dirigida à Comissão Permanente de Avaliação
+Documental, a retirada ou cópias de documentos, avulsos ou
+processos, bem como desentranhamento ou cópias de folhas de um
+processo.
+Santo Antônio da Patrulha, 30 de março de 2026.
+ALESSANDRA NAZÁRIO MÜLLER
+Presidente da Comissão de Avaliação Documental
+Publicado por:
+Graciela Silva da Silveira

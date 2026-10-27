@@ -1,0 +1,186 @@
+---
+titulo: "Lei Ordinária Municipal Legislativa nº 177, de 09 de setembro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal Legislativa"
+numero: "177"
+data: "1997-09-09"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5383"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/397/text"
+sha256_fonte: "3159ede3110c235da2e337ada20a3ddde6900280a3540de3a54ccd3518b2b5d8"
+sha256_texto: "7065fc1d3c0ad4b86cc6344c6a894578d5250ce3aac7b1c2f7675d8041a94198"
+capturado_em_fonte: "2026-10-21T03:59:32.658583-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal Legislativa nº 177, de 09 de setembro de 1997
+
+DISPÕE SOBRE O SERVIÇO FUNERÁRIO NO ÂMBITO DO MUNICÍPIO DE ERECHIM
+
+
+SILVERIO FORTUNATO, Presidente de Câmara Municipal de Vereadores de Erechim, Estado do Rio Grande do Sul; FAÇO SABER, na forma do Parágrafo Único do Artigo 50 da Lei Orgânica do Município, que a Câmara Municipal, APROVOU, e EU, promulgo a seguinte
+
+
+LEI
+
+
+Art. 1º.
+
+Os serviços funerários, no âmbito do Município de Erechim, são considerados de caráter essencial, podendo ser delegados à iniciativa privada e reger-se-ão por esta Lei.
+
+
+Art. 2º.
+
+A permissão para a exploração do serviço funerário, dependerá da prévia licitação, , ressalvados os direitos adquiridos nos termos do parágrafo segundo, e será permitido pelo período máximo de 10 anos, podendo ser renovado por igual período.
+
+
+§ 1º
+
+É vedado o monopólio por empresas na exploração do serviço funerário .
+
+
+§ 2º
+
+As empresas que já estejam explorando o serviço funerário por Alvará deverão adaptar-se a esta Lei dentro do prazo de 90 dias, período durante o qual deverá ser assinado contrato de permissão.
+
+
+§ 3º
+
+O número de alvarás de licença para a localização e o funcionamento de estabelecimento prestador de serviços funerários não excederá, ressalvados os direitos adquiridos de 01 (um) para cada 25.000 (vinte e cinco mil) habitantes do Municlpio, obedecendo o Plano Diretor de Desenvolvimento Urbano.
+
+
+Art. 3º.
+
+Fica vedada a manutenção de plantão das empresas funerárias, em Hospitais, Casas de Saúde ou similiares.
+
+
+Parágrafo único
+
+É expressamente proibido às empresas permissionadas efetuar, acobertar ou remunerar o agenciamento de serviços funerários sob pena da perda da permissão.
+
+
+Art. 4º.
+
+As Casas Funerárias, prestadoras deste serviço não poderão se estabelecer nas proximidades de Hospitais, Casas de Saúde ou similiares, guardando-se uma distância mínima de 500 metros.
+
+
+§ 1º
+
+Aos atuais estabelecimentos é dado o prazo de 6 (seis) meses para adaptarem-se ao presente Artigo.
+
+
+§ 2º
+
+É vedado exibir urnas e artigos funerários em local visível ao público que passe em frente ao estabelecimento.
+
+
+§ 3º
+
+Sem prejuízo ao Plano Diretor será permitida a mudança de localização do estabelecimento licenciado observado o Caput deste Artigo.
+
+
+Art. 5º.
+
+Os serviços não serão permitidos à empresa que tenha como sócios parentes de 1° Grau ou cônjuge, como sócios de empresa já permissionária.
+
+
+Art. 6º.
+
+Em todos os óbitos cuja "Causa Mortis" apontarem doenças infecto-contagiosas, com riscos à saúde pública, os sepultamentos deverão se dar obrigatóriamente em urnas do tipo zincado ou invólucro em material impermeável. e lacrado, conforme determinação do Médico Legista.
+
+
+Art. 7º.
+
+Todo óbito ocorrido com pessoas residentes no Município, será atendido pelo serviço funerário prestado pelas empresas permissionárias, na forma do Decreto que regulamentará a presente Lei.
+
+
+Parágrafo único
+
+Não haverá perímetro determinado para a ação de cada empresa permissionária.
+
+
+Art. 8º.
+
+As empresas permissionárias fornecerão gratuitamente aos indigentes e pessoas carentes, mediante requisição da secretarta de Saúde e Meio Ambientes urnas rnortuártas, do tipo asslstencial, serviços de translado do "de cujus"ao IML Municipal, bem como o transporte do féretro até qualquer um dos Cemitérios localizados no perímetro urbano do município de Erechim sem ônus para os cofres públicos atendidos critérios de rodízio entre as empresas.
+
+
+Parágrafo único
+
+Para efeitos da presente Lei, classificam-se como indigente e pessoa carente, aqueles que comprovadamente a renda familiar não atingir a 02 (dois) salários mínimos.
+
+
+Art. 9º.
+
+Os preços dos serviços, urnas e artefatos serão flxados pelo Município e somente serão reajustados mediante prévia e minunciosa análise de custos.
+
+
+Parágrafo único
+
+Os preços das urnas, bem como os modelos a serem fiscalizados pelo órgão competente, serão em número de 03 (três), as quais serão catalogados como: comum, média e boa.
+
+
+Art. 10.
+
+Os serviços funerários terão tipos e padrões aprovados pelo Município sendo igual a todas as prestadoras de serviço.
+
+
+§ 1º
+
+Os preços dos serviços, referidos no "Caput" deste Artigo, bem como das urnas conforme padrões, serão fixados pela Municipalidade conforme tabela a ser elaborada, a qual deverá ser afixada nos estabelecimentos em local interno e visível.
+
+
+§ 2º
+
+Os preços dos serviços e padrões populares serão fiscalizados pelo órgão competente da Municipalidade e pelo contratante dos serviços.
+
+
+Art. 11.
+
+Comprovada a prática de preços maiores ao autorizado, a empresa será advertida e obrigada a reembolsar a diferença.
+
+
+Parágrafo único
+
+Havendo reincidência, será aplicada multa no valor de R$ 500,00 (Quinhentos reais) os quais serão acrescidos em 100% a cada reincidência.
+
+
+Art. 12.
+
+O Poder Executivo Municipal regulamentará a presente Lei no prazo de 90 dias a contar da data de publicação, inclusive com elaboração da tabela de preços e catálogo com os modelos das urnas.
+
+
+Art. 13.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 14.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL, 09 DE SETEMBRO DE 1.997.
+
+
+Ver. SILVERIO FORTUNATO
+
+Presidente da Câmara de Vereadores
+
+
+REGISTRE-SE E CUMPRE-SE  
+Data Supra  
+  
+  
+Ver. LUIZ ALBERTO BARELLA  
+1º Secretário  
+  
+  
+Ver. MARCOS ANTONIO LANDO  
+2º Secretário
+

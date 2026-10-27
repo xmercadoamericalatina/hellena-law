@@ -1,0 +1,120 @@
+---
+titulo: "Lei Ordinária Municipal Legislativa nº 230, de 30 de julho de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal Legislativa"
+numero: "230"
+data: "2020-07-30"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/18727"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/689/text"
+sha256_fonte: "d0dd37c34f769acf5b8b73dc401088a8b0d96d8afa10e273e9e4ad9b2be709fb"
+sha256_texto: "53bcc05c07ab3264541182943e1c66c8f531bc61e1cff82d69c0ee4f7c14c95d"
+capturado_em_fonte: "2026-10-21T03:33:34.555988-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal Legislativa nº 230, de 30 de julho de 2020
+
+Dispõe sobre a possibilidade de pagamentos a empresas que mantêm contratos para prestação de serviços continuados com a Administração Pública do Município de Erechim, durante a vigência de decreto municipal e/ou estadual que declare estado de calamidade pública em Erechim, em decorrência do Covid-19, e dá outras providências.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE ERECHIM**,no uso de suas atribuições Legais, e com fundamento no Parágrafo Único do Art. 50 da Lei Orgânica do Município de Erechim, Faço saber que a Câmara de Vereadores aprovou, e eu promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+A Administração Pública Municipal, durante a vigência de decreto municipal e/ou estadual que declare estado de calamidade pública em Erechim, em decorrência do Covid-19, poderá manter a integralidade dos contratos administrativos, inclusive quanto à periodicidade de pagamentos às empresas, cujos serviços tenham sido afetados com a diminuição ou paralisação das atividades contratadas, por força de medida pública de combate à doença e de seus impactos no sistema público de saúde, como medida que objetiva a estabilidade do equilíbrio econômico-financeiro inicial do contrato, bem como a preservação dos direitos sociais do trabalho.
+
+
+Parágrafo único
+
+A disposição prevista nesta Lei é aplicável também ao Poder Legislativo, que poderão decidir pela continuidade do pagamento aos contratados.
+
+
+Art. 2º.
+
+Deverão ser subtraídos do valor a ser pago à empresa contratada, proporcional ou integralmente, as despesas diretas e indiretas que efetivamente deixem de incorrer, bem como os insumos, equipamentos e demais recursos que não serão utilizados durante o período de que trata esta Lei.
+
+
+Art. 3º.
+
+Para as atividades realizadas necessariamente de forma presencial, sob a avaliação e determinação da autoridade superior dos Órgãos e Entidades da Administração Pública Municipal, mediante ato administrativo próprio, poder ser estabelecido regime de escalas e rodízios, a fim de reduzir a exposição das pessoas a eventuais fatores de risco.
+
+
+Art. 4º.
+
+As contratadas implementarão regime de escalas e rodízios, conforme a necessidade da Administração Pública, devendo, entretanto, conceder teletrabalho aos empregados:
+
+
+I –
+
+acima de sessenta anos;
+
+
+II –
+
+com doenças crônicas;
+
+
+III –
+
+com problemas respiratórios e
+
+
+IV –
+
+gestantes e lactantes.
+
+
+§ 1º
+
+Na impossibilidade técnica e operacional de conceder teletrabalho aos empregados relacionados neste artigo, deverão ser afastados de suas atividades sem prejuízo da remuneração.
+
+
+§ 2º
+
+Fica garantido o vinculo trabalhista, aos empregados contratados, ainda que haja redução dos serviços prestados à Administração Pública, em razão da diminuição ou paralisação das atividades contratadas junto aos órgãos municipais.
+
+
+Art. 5º.
+
+As alterações contratuais necessárias à manutenção do equilíbrio econômico-financeiro dos contratos deverão ser formalizadas mediante termo aditivo.
+
+
+Art. 6º.
+
+Os aditivos a serem firmados entres os Órgãos e Entidades elencadas no art. 1º desta lei não dispensam análise jurídica, a qual poderá ser feita mediante parecer referencial da Procuradoria Geral do Município.
+
+
+Art. 7º.
+
+Para que sejam mantidos os pagamentos a que se refere esta Lei, a contratada fica obrigada a comprovar, mensalmente, a manutenção do vínculo de trabalho do pessoal que realiza os serviços contratados pela Administração Pública e, até quinze dias após a liquidação de cada fatura, demonstrar à Administração que efetuou os pagamentos salariais de seus empregados, sob pena de suspensão dos pagamentos futuros e obrigação de devolução dos valores recebimento relativo ao mês que não cumpriu com suas obrigações.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, perdurando seus efeitos na vigência dos decretos que declaram estado de calamidade pública no município de Erechim, para fins de prevenção e de enfrentamento à epidemia causada pelo COVID-19,ou qualquer outra norma que venha a substituí-Io.
+
+
+Câmara Municipal de Erechim, 30 de julho de 2020.  
+  
+  
+  
+MARIO ROGERIO ROSSI  
+Presidente do Poder Legislativo
+
+
+Registre-se e Publique-se  
+Data Supra  
+  
+  
+  
+ALESSANDRO DAL ZOTTO  
+Primeiro Secretário
+

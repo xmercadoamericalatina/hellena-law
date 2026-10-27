@@ -1,0 +1,585 @@
+---
+titulo: "Lei Ordinária-MUN nº 860, de 17 de abril de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "860"
+data: "2007-04-17"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/284"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/18/text"
+sha256_fonte: "882f5db9bb3ff31cd3482843893f43693a1d603236d1a310dd8919e105f9a560"
+sha256_texto: "b1c76eaa0aaac8eaf358ab44bd6f5da162526c9db7e7f60f1610857cccf9b13b"
+capturado_em_fonte: "2026-10-21T05:19:26.711009-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 860, de 17 de abril de 2007
+
+Dispõe sobre Regulamentação de Concurso Público, Vagas para Para Deficiêntes Físicos e dá outras providências.
+
+
+O Prefeito Municipal de Acari, Estado do Rio Grande do Norte, no uso de suas atribuições legais e o disposto nos incisos II e VIII dos artigos 62 e 77, respectivamente, da lei Orgânica Municipal,
+
+
+Faz saber que a **Câmara Municipal de Vereadores aprovou** e **EU** sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica regulamentado a realização de Concurso Público através do disposto na presente Lei.
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 2º.
+
+Os concursos para provimento de cargos, empregos e funções no serviço público municipal, serão autorizados por ato do Prefeito Municipal, à vista da existência de vagas do Quadro de Pessoal face às necessidades da administração.
+
+
+Art. 3º.
+
+Os concursos poderão ser de provas escritas, de prova escritas e títulos, de provas praticas e provas de verificação de qualidades e aptidões (através de entrevistas), conforme o caso.
+
+
+Parágrafo único
+
+Nos concursos para provimento de cargos, empregos e funções de nível médio e superior, haverá, também, prova de títulos, podendo ser extensivo a cargos inferiores.
+
+
+Art. 4º.
+
+O prazo de validade do concurso é de até dois anos, a contar da publicação da homologação, prorrogável uma única vez, por igual período, conforme disposto na Lei Orgânica Municipal, mediante ato administrativo do Executivo Municipal, com publicação em Diário Oficial.
+
+
+Parágrafo único
+
+Enquanto houver candidato aprovado e classificado e não convocado para investidura em determinado cargo, emprego ou função, não se publicará edital de concurso para provimento do mesmo cargo, emprego ou função, salvo quando esgotado o prazo de validade do Concurso que habilitou o candidato.
+
+
+Art. 5º.
+
+A aprovação em concurso não gera direito a nomeação, mas esta quando se der, respeitará a ordem de classificação dos candidatos.
+
+
+Art. 6º.
+
+O Poder Executivo, elaborará para cada concurso regulamento especial, baixado por edital, no qual constará:
+
+
+I –
+
+os cargos, empregos ou funções a prover, com a respectiva quantidade;
+
+
+II –
+
+os documentos que o interessado deverá apresentar no ato da inscrição, o local e o prazo;
+
+
+III –
+
+condições especiais exigidas para o exercício do cargo, emprego ou função, referentes ao grau de instrução, diploma ou experiência de trabalho, capacidade física e limite de idade;
+
+
+IV –
+
+natureza, conteúdo e forma das provas, condições e época de sua realização, que não deverá ocorrer antes de vinte (20) dias da publicação do edital, podendo essa notificação ser efetuada através de programas e normas impressas para tal fim, entregues ao candidato no ato da inscrição;
+
+
+V –
+
+para as provas de conhecimento, as matérias sobre as quais versarão e o respectivo programa ou, quando não comportarem programa, o nível de conhecimento exigido;
+
+
+VI –
+
+valor relativo de cada uma das provas e critério para terminação da media das provas;
+
+
+VII –
+
+o valor e a natureza dos títulos a serem considerados;
+
+
+VIII –
+
+critérios especiais de desempate, quando for necessário, mencionar além dos critérios gerais estabelecidos nas instruções gerais;
+
+
+IX –
+
+outros informes julgados necessários;
+
+
+X –
+
+valor dos emolumentos.
+
+
+Art. 7º.
+
+Os prazos fixados no Regulamento Especial, poderão ser prorrogados a juízo do Prefeito Municipal, através de publicidade prévia e ampla.
+
+
+#### CAPÍTULO II — Dos Requisitos
+
+
+Art. 8º.
+
+Poderão candidatar-se aos cargos, empregos e funções públicas do Quadro de Servidores da Prefeitura, todos os cidadãos que preencham os requisitos:
+
+
+I –
+
+ser brasileiro;
+
+
+II –
+
+ter completado 18 (dezoito) anos de idade ate a homologação do concurso, exceto outros limites fixados em Lei;
+
+
+III –
+
+estar no gozo dos direitos políticos;
+
+
+IV –
+
+estar quite, se do sexo masculino, com as obrigações militares;
+
+
+V –
+
+haver votado nas últimas eleições realizadas antes da inscrição ou ter justificado a ausência;
+
+
+Parágrafo único
+
+as condições de que trata as alíneas deste artigo, serão aplicadas no ato nomeatório, sendo exigido para a inscrição qualquer documento civil.
+
+
+Art. 9º.
+
+Os requisitos exigidos para cada cargo em particular, serão estabelecidas em função da natureza dos mesmos e das disposições legais e regulamentares que disciplinarem o assunto.
+
+
+#### CAPÍTULO III — Das Inscrições
+
+
+Art. 10.
+
+A abertura de concurso far-se-á por edital que mencione o prazo de inscrições, nunca inferiores a 10 (dez) e maior que 20 (vinte) dias.
+
+
+Parágrafo único
+
+Por necessidade as inscrições poderão ser prorrogadas, mediante publicação de retificação do edital.
+
+
+Art. 11.
+
+As inscrições a que se refere esta Lei poderão ser feitas a pedido verbal do eventual candidato.
+
+
+Art. 12.
+
+As inscrições serão requeridas pelo próprio candidato, ou procurador legalmente habilitado com poderes especiais, mediante o preenchimento de uma ficha de inscrição, fornecida pelo Departamento de Pessoal ou empresa responsável.
+
+
+§ 1º
+
+A ficha de inscrição não será aceita sem que esteja corretamente preenchida, apresente qualquer rasura ou emenda e esteja devidamente assinada.
+
+
+§ 2º
+
+As inscrições feitas por procuração, mesmo que particular, só serão aceitas se as assinaturas estiverem com as firmas reconhecidas, anexando-se as mesmas, ou cópias, a inscrição.
+
+
+Art. 13.
+
+Fica reservado um percentual de ate 5% (cinco por cento) para pessoas portadoras de deficiência física e sensorial, no provimento de cargos e empregos públicos, nos órgãos e entidades da Administração Pública Municipal Direta, Indireta e Fundacional, obedecido o princípio do concurso público de provas e de provas de títulos, conforme disposto no inciso VIII, do Art. 77 da Lei Orgânica Municipal.
+
+
+§ 1º
+
+As frações decorrentes do cálculo do percentual de que trata este artigo só serão arredondadas para o número inteiro subsequente quando maiores ou iguais a 5 (cinco),
+
+
+§ 2º
+
+As vagas eventualmente oferecidas com número de 01 (uma), caso haja candidatos deficientes inscritos e eventualmente aprova e classificado, de conformidade com o estabelecido em edital, será emitido relatório, com a compensação da vaga então ocupada através da dedução de outros cargos com vagas suficientes para se proceder a consignação.
+
+
+Art. 14.
+
+As pessoas portadoras de deficiência, a partir de 18 anos, poderão ocupar cargos e empregos públicos, desde que a intensidade e a extensão da deficiência sejam compatíveis com o exercício das respectivas funções.
+
+
+Art. 15.
+
+O preenchimento das vagas a que se refere o artigo anterior dar-se-á mediante concurso público, consoante os termos do artigo 37, inciso 11 da Constituição Federal
+
+
+Art. 16.
+
+A Administração Pública Municipal poderá solicitar assessoria à entidade governamentais ou filantrópicas, ligadas à pessoa portadora de deficiência, para a realização de concurso público.
+
+
+Art. 17.
+
+O tipo de deficiência deverá ser identificado através de laudo médico no ato da inscrição, a fim de que sejam garantidas as condições especiais para a realização das provas.
+
+
+§ 1º
+
+O laudo medico têm apenas a finalidade de descrever a deficiência do candidato.
+
+
+§ 2º
+
+A omissão do laudo a que se refere este artigo, terá por base exame médico específico, que poderá ser realizado por médico particular ou por especialistas na área da saúde de órgãos da Administração Pública Municipal e Estadual ou entidades filantrópicas ligadas a pessoa portadora de deficiência.
+
+
+Art. 18.
+
+Os portadores de deficiência participarão dos concursos públicos em igualdade de condições com os demais candidatos, no que respeita ao conteúdo e a avaliação das provas.
+
+
+§ 1º
+
+Após o julgamento das provas serão elaboradas duas listas preliminares, uma geral, com a relação de todos os candidatos aprovados, e uma especial, com a relação dos portadores de deficiência aprovados.
+
+
+§ 2º
+
+As vagas reservadas nos termos do artigo 1º desta Lei ficarão liberadas se não tiver ocorrido inscrição ou aprovação, de candidatos portadores de deficiência no referido concurso.
+
+
+§ 3º
+
+Na hipótese prevista no parágrafo anterior, será elaborada somente uma lista de classificação geral e definitiva, prosseguindo o concurso nos seus ulteriores termos.
+
+
+Art. 19.
+
+O órgão ou empresa especializada responsável pela realização do concurso público garantirá aos portadores de deficiência as condições especiais necessárias a sua participação nas provas.
+
+
+Parágrafo único
+
+Os candidatos portadores de deficiência devem notificar no ato da inscrição sua deficiência afim de que seja providenciado eventuais adaptações de sala, prova, etc.
+
+
+Art. 20.
+
+Após a aprovação em concurso público, no prazo de cinco (05) dias contados da publicação das listas, os candidatos aprovados deverão submeter-se à perícia médica, para verificação da compatibilidade de sua deficiência com o exercício das atribuições do cargo ou emprego.
+
+
+§ 1º
+
+A pericia será realizada no órgão médico designado no edital de abertura do concurso, preferencialmente, por especialista na área de deficiência de cada candidato, devendo o laudo ser proferido no prazo de cinco (05) dias contados do respectivo exame.
+
+
+§ 2º
+
+Se a perícia concluir pela inaptidão do candidato, constituir-se-á no prazo de cinco (05) dias, junta médica para nova inspeção, da qual poderá participar profissional ou profissionais indicados ou indicados pelo interessado.
+
+
+§ 3º
+
+A indicação do profissional ou profissionais pelo interessado deverá ser feita no prazo de cinco (05) dias contados da ciência do laudo referido no § 1º.
+
+
+§ 4º
+
+A junta médica deverá apresentar conclusão no prazo de cinco (05) dias contados da realização do exame.
+
+
+§ 5º
+
+O candidato, cuja deficiência não for configurada, ou quando esta for considerada incompatível com a função a ser desempenhada, será desclassificado, não cabendo qualquer recurso da decisão proferida pela junta médica.
+
+
+Art. 21.
+
+A deficiência existente jamais poderá ser arguida para justificar readaptação funcional ou concessão de aposentadoria, salvo se dela advier complicações que venham a produzir incapacidade ocupacional total.
+
+
+Art. 22.
+
+Após o ingresso dos portadores de deficiência no serviço público, ser-lhes-ão asseguradas condições para o exercício dos cargos ou empregos para os quais foram aprovados.
+
+
+Art. 23.
+
+Qualquer cidadão poderá comunicar a autoridade competente violação a direitos ou garantias asseguradas nesta Lei, sem prejuízo de representação junto ao Ministério Público.
+
+
+Art. 24.
+
+Os editais de abertura de concursos a serem publicados a partir da vigência desta Lei conterão os elementos necessários ao conhecimento do que nela se contém, sob pena de nulidade.
+
+
+Art. 25.
+
+Após a inscrição, o candidato recebera um cartão de identificação, sem a apresentação do qual não lhe será permitido ter acesso ao local nem fazer as provas.
+
+
+Art. 26.
+
+Os documentos de identificação, apresentados quando do ato da inscrição, serão devolvidos aos candidatos ap6s as anotag6es na ficha de cadastro correspondente.
+
+
+Art. 27.
+
+Não será permitida sob qualquer pretexto, a inscrição condicional, devendo todos os documentos serem apresentados por ocasião do preenchimento da ficha de inscrição.
+
+
+Art. 28.
+
+A declaração falsa ou inexata de dados constantes da ficha de inscrição, bem como a apresentação de documentos falsos ou graciosos, determinação o cancelamento da inscrição e a anulação de todos os atos decorrentes, bem como, indiciamento civil, de conformidade com a disposição legal.
+
+
+Art. 29.
+
+Os pedidos de inscrição significarão a aceitação tácita, por parte do candidato, de todas as disposições da presente Lei e Editais que forem baixados para cada concurso.
+
+
+Art. 30.
+
+Os pedidos de inscrição serão recebidos pelo Departamento Pessoal ou empresa responsável, cabendo ao Diretor do Departamento de Administração e Pessoal ou por empresa contratada para organização do referido concurso, decidir de seu deferimento.
+
+
+Art. 31.
+
+Encerrado o prazo das inscrições será publicada a relação dos candidatos inscritos com indicações dos respectivos números de inscrição no site da Prefeitura Municipal e/ou empresa responsável.
+
+
+#### CAPÍTULO IV — Da Comissão Especial Fiscalizadora
+
+
+Art. 32.
+
+O Prefeito Municipal nomeará para cada concurso, uma Comissão Especial de Acompanhamento e Fiscalização, composta de 03 (três) membros, de servidores públicos de considerada e inquestionável conduta moral e profissional.
+
+
+Art. 33.
+
+A Comissão Especial de Acompanhamento e Fiscalização acompanhará todo o processo do concurso e terá como atribuições principais:
+
+
+I –
+
+a primeira instância de apresentação de recursos;
+
+
+II –
+
+a responsabilidade de atos administrativos, dentre outros, edital de julgamento de recursos, comunicação com candidatos;
+
+
+III –
+
+emissão de parecer final sobre a homologação do certame pelo Prefeito Municipal;
+
+
+Parágrafo único
+
+A Comissão Especial de Acompanhamento e Fiscalização será orientada pelas disposições da presente Lei e Edital do Concurso ou outra legislação municipal pertinente.
+
+
+Art. 34.
+
+A fim de manter a necessária unidade de orientação, a Prefeitura Municipal contratará uma firma de notória idoneidade, para coordenar e executar o concurso, ao qual incube fiscalizar a multiplicação das provas tomando as medidas necessárias a manutenção do sigilo.
+
+
+Parágrafo único
+
+A juízo do Prefeito Municipal, os concursos serão realizados por empresa especializada, sendo que, para a contratação da referida empresa seja respeitada, os trâmites legais como publicação da licitação no Diário Oficial do Estado e em Jornais de grande circulação na cidade e região, sendo respeitado, portanto as Leis da Livre Concorrência.
+
+
+#### CAPÍTULO V — Das Provas e dos Títulos
+
+
+Art. 35.
+
+As provas deverão conter questões objetivas e/ou de aplicação prática no desempenho do cargo emprego ou função a que se refere o concurso.
+
+
+Art. 36.
+
+As provas de caráter eliminatório serão determinadas para cada concurso.
+
+
+Art. 37.
+
+Somente será admitido a prestação de prova, o candidato que exibir, no ato, o cartão de identidade.
+
+
+Art. 38.
+
+Não haverá segunda chamada para nenhuma das provas, importando a ausência do candidato, por qualquer motivo, inclusive moléstia ou atraso, na sua eliminação do concurso
+
+
+Art. 39.
+
+Durante a realização da prova, não será permitido ao candidato, sob pena de ser excluído do concurso:
+
+
+I –
+
+comunicar-se com os demais candidatos, ou pessoas estranhas ao concurso bem como consultar livros ou apontamentos, salvo as fontes informativas que foram declaradas no regulamento especial de cada concurso;
+
+
+II –
+
+ausentar-se do recinto, a não ser momentaneamente, em casos especiais e na companhia do fiscal.
+
+
+Art. 40.
+
+As salas de provas serão fiscalizadas por elemento ou elementos especialmente designado e treinado, por ato de Comissão Organizadora ou da empresa que tenha vencido a concorrência pública municipal, vedada o ingresso de pessoas estranhas ao local de realização das provas, sendo obrigatória à assinatura do candidato na folha de respostas (gabarito).
+
+
+Parágrafo único
+
+A data de publicação do Gabarito oficial será regulamentada em Edital.
+
+
+Art. 41.
+
+Nos concursos poderão ser considerados como títulos:
+
+
+I –
+
+conclusão de cursos extra curriculares;
+
+
+II –
+
+experiência de trabalho;
+
+
+III –
+
+trabalhos publicados;
+
+
+IV –
+
+outras atividades reveladoras da capacidade do Candidato.
+
+
+Parágrafo único
+
+Os títulos serão devidamente comprovados e deverão guardar direta relação com as atribuições dos cargos em concurso, sendo regulamentados em Edital.
+
+
+#### CAPÍTULO VI — Do Julgamento
+
+
+Art. 42.
+
+As provas escritas, e não escritas, avaliadas na escala de 0 (zero) e 100 (cem), em nota que será lançada na pró pria folha de prova, ou relagao emitida por processamento de dados.
+
+
+Art. 43.
+
+Serão estabelecidos para cada concurso o critério de julgamento de valorização qualitativa e quantitativa dos títulos apresentados.
+
+
+§ 1º
+
+Os pontos atribuídos aos títulos serão considerados para efeito de aprovação e classificação, sendo a somatória dos mesmos adicionados a nota obtida na prova, daí resultando a pontuação final.
+
+
+§ 2º
+
+A determinação da relação de pontos por títulos será estabelecido em edital ou por ato do Poder Executivo Municipal antecedente ao Edital do Concurso.
+
+
+§ 3º
+
+Não serão corrigidos os títulos que não dispuserem em seu texto, a carga horária correspondente, originalmente.
+
+
+§ 4º
+
+Não serão corrigidos os títulos que não guardarem direta relação com as atribuições dos cargos em concurso.
+
+
+Art. 44.
+
+As notas das provas e dos títulos, bem como a média das provas e a nota final, serão arredondadas para 1 (um) décimo as frações iguais ou superior a 5 (cinco) centésimos ou desprezadas as inferiores, salvo, se obedecido critérios estabelecidos por empresa especializada, contratada para organização e realização de Concurso Público.
+
+
+#### CAPÍTULO VII — Das Disposições Gerais
+
+
+Art. 45.
+
+Terminada a avaliação das provas e dos títulos, serão as notas publicadas no órgão oficial da Prefeitura, ou afixadas em local próprio de costume.
+
+
+Art. 46.
+
+Quando, na realização do concurso, ocorrer irregularidades insanáveis ou preterição de formalidades substancial, que possa afetar o seu resultado, terá, qualquer candidato, o direito de recorrer ao Prefeito Municipal, o qual, mediante decisão fundamentada, proferida no prazo de 3 (três) dias, anulara o concurso parcial ou totalmente, promovendo a apuração da responsabilidade dos culpados, após ouvir a Comissão Especial Fiscalizadora.
+
+
+Art. 47.
+
+Dos recursos e pedidos de revisão deverão constar a justificativa pormenorizada, sendo liminarmente indeferidos os que não contenham fatos novos ou que se baseiem em razões subjetivas.
+
+
+Art. 48.
+
+Compete ao Prefeito Municipal, a homologação do resultado do concurso, a vista do relatório apresentado pela Comissão Especial Fiscalizadora, dentro de 10 (dez) dias, contados da publicação do resultado final.
+
+
+Art. 49.
+
+Homologado o concurso, mesmo que queira, o candidato habilitado não receberá da Prefeitura ou empresa responsável certificado ou qualquer documento probatório de sua classificação, com a nota final obtida.
+
+
+Art. 50.
+
+A nomeação obedecerá à ordem rigorosa da classificação.
+
+
+Parágrafo único
+
+Em caso de empate na classificação as condições de desempate serão as estabelecidas em Edital.
+
+
+#### CAPÍTULO VIII — Das Disposições Finais
+
+
+Art. 51.
+
+Os casos omissos na presente Lei serão resolvidos pelo órgão encarregado do concurso ou empresa responsável, "ad referendum" do Prefeito Municipal.
+
+
+Art. 52.
+
+Nos casos dos serviços essenciais, será exigido dos eventuais candidatos aprovados e nomeados, o clever de residência na sede do Município ou Comunidade.
+
+
+Art. 53.
+
+Esta Lei entrara em vigor na data de sua publicação.
+
+
+Art. 54.
+
+Revogam-se as disposições em contrário.
+

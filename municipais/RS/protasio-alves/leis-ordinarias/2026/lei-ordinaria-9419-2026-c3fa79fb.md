@@ -1,0 +1,35 @@
+---
+titulo: "LEI Nº 9.419 DE 02 DE ABRIL DE 2026"
+uf: "RS"
+municipio: "PROTÁSIO ALVES"
+tipo: "Lei Ordinária"
+numero: "9419"
+data: 2026-04-02
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 06/04/2026"
+data_publicacao: 2026-04-06
+codigo_identificador: "C3FA79FB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117815_2026-04-02_5d472f27c942ab3876c7563f39e3fcdf.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 9.419 DE 02 DE ABRIL DE 2026
+
+LEI Nº 9.419 DE 02 DE ABRIL DE 2026
+Acresce ELEMENTO DE DESPESA NO ANEXO DE Metas e
+Prioridades da Lei 9.297, de 05 de JUNHO DE 2025, que dispõe sobre
+o Plano Plurianual do Município do Rio Grande para o quadriênio
+2026/2029 e no Anexo de Metas da Lei 9.330 de 1º de SETEMBRO
+de 2025, que dispõe sobre as Diretrizes Orçamentárias do Município
+do Rio Grande para o exercício de 2026, e na Lei Orçamentária
+Anual, Lei 9.374 de 15 de DEZEMBRO de 2025, E AUTORIZA O
+EXECUTIVO MUNICIPAL A ABRIR CRÉDITO ADICIONAL
+ESPECIAL, NA SECRETARIA DE MUNICÍPIO DA SAÚDE, aNO
+VALOR DE R$ 760.000,00.
+A Lei acima está afixada na íntegra no saguão do prédio da Prefeitura
+Municipal.
+DARLENE TORRADA PEREIRA
+Prefeita Municipal
+Publicado por:
+Maria Cristina Matos Amorim

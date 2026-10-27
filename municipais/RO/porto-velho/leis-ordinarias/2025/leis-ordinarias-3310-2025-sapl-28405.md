@@ -1,0 +1,154 @@
+---
+titulo: "Lei Promulgada-DL nº 3.310, de 25 de setembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Promulgada"
+numero: "3310"
+data: "2025-09-25"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/28405"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7395/text"
+sha256_fonte: "5b8c6527e1d8797e2dabdf664622387f1fccf369537bf9610091f009f4ee0073"
+sha256_texto: "d0298510e59fc3aabe443205be73828e621ebe1d854ce9403feeb80c4526e37c"
+capturado_em_fonte: "2026-10-20T23:29:46.203764"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Promulgada-DL nº 3.310, de 25 de setembro de 2025
+
+“Autoriza o Poder Executivo criar o Banco de Ração Solidário no âmbito municipal e dá  
+outras providências.”.
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador **FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS**, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica instituído, no Município de Porto Velho, o Banco de Ração Solidário, com o objetivo de coletar e distribuir ração para cães e gatos pertencentes a famílias de baixa renda, protetores independentes e ONGs cadastradas.
+
+
+Art. 2º.
+
+Os alimentos arrecadados serão provenientes de:
+
+
+I –
+
+estabelecimentos comerciais;
+
+
+II –
+
+fabricantes ligados à produção e comercialização, no atacado ou varejo, de gêneros alimentícios destinados a animais;
+
+
+III –
+
+doação de pessoas físicas ou jurídicas de direito privado;
+
+
+IV –
+
+campanhas sociais promovidas pelo Poder Público para incentivar a doação de ração.
+
+
+V –
+
+parcerias com supermercados, pet shops e empresas do ramo alimentício;
+
+
+Art. 3º.
+
+O recebimento, armazenamento e distribuição dos gêneros alimentícios e dos utensílios coletados contará com pontos fixos e móveis de coleta, que poderão ser instalados em:
+
+
+I –
+
+Supermercados e estabelecimentos comerciais parceiros;
+
+
+II –
+
+Unidades de saúde veterinária públicas ou conveniadas;
+
+
+III –
+
+Órgãos municipais e outros locais de fácil acesso à população.
+
+
+Art. 4º.
+
+A distribuição da ração será feita mediante cadastro e análise socioeconômica dos beneficiários, priorizando:
+
+
+I –
+
+Famílias cadastradas pelo CadÚnico que comprovem baixa renda, nenhuma renda ou condição de vulnerabilidade social;
+
+
+II –
+
+Protetores independentes que resgatem e cuidem de animais abandonados;
+
+
+III –
+
+ONGs (Organizações Não Governamentais) ligadas à causa animal, devidamente constituídas e cadastradas;
+
+
+**§ 1º:** entidades, ONGs e/ou protetores independentes designados para esses fins, deverão manter registro detalhado das doações e distribuições realizadas e promover prestação de contas, na forma regulamentada pelo Poder Executivo Municipal.
+
+
+Art. 5º.
+
+A Prefeitura de Porto Velho, poderá firmar convênios com empresas privadas e instituições para garantir a logística e a manutenção do Banco de Ração Solidário.
+
+
+Parágrafo único
+
+A arrecadação dos gêneros alimentícios far-se á sem ônus para o Executivo Municipal.
+
+
+Art. 6º.
+
+Das equipes de recebimento e distribuição, bem como das de plantão destinadas às finalidades desta Lei, participará sempre que possível, pelo menos um profissional legalmente habilitado a aferir e atestar que os produtos e gêneros alimentícios se encontram em condições apropriadas para o consumo.
+
+
+Art. 7º.
+
+Fica terminantemente proibida a comercialização, ou obtenção de qualquer proveito econômico, ou vantagem pessoal com a distribuição das rações voltadas para o uso ou consumo de animais domésticos, doados e coletados pelo Banco de Ração Solidário.
+
+
+Parágrafo único
+
+Caso seja apurado que as doações foram comercializadas pelos seus beneficiários, estes serão punidos com o pagamento equivalente a 1 (um) salário mínimo vigente em favor da Administração Pública e os agentes serão excluídos definitivamente do programa em tela
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará esta lei no prazo de 90 (noventa) dias, definindo os critérios específicos para arrecadação, distribuição e fiscalização.
+
+
+Art. 9º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 25 de setembro de 2025.
+
+
+**FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS Presidente da Câmara Municipal de Porto Velho**
+
+
+Projeto de Lei nº 4.758/2025  
+Autoria: Vereador Edimilson Dourado
+

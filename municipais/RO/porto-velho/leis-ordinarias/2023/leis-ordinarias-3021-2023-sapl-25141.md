@@ -1,0 +1,352 @@
+---
+titulo: "Lei nº 3.021, de 04 de abril de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3021"
+data: "2023-04-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25141"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2617/text"
+sha256_fonte: "6db46c4ae2b0732104991b348c342dc6713ae616cdebd95e236addab08ddc369"
+sha256_texto: "407f2dfa2b8b55265d38b36467bc605d175917023649fb08f6fb93b76af11f10"
+capturado_em_fonte: "2026-10-21T05:44:27.919194-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.021, de 04 de abril de 2023
+
+“Dispõe sobre o exercício da atividade de Guia de Turismo e a obrigatoriedade de seu acompanhamento nos passeios turísticos no Município de Porto Velho”.
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador **MÁRCIO PACELE**, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+**L E I :**
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a atividade do Guia de Turismo no Município de Porto Velho.
+
+
+Parágrafo único
+
+Os termos desta Lei não se aplicam aos professores, comprovadamente contratados, estando em exercício da sua profissão, cujas as atividades de campo, ainda que em atrações turísticas e/ou históricas, serão consideradas para todos os fins de direito como atividade pedagógica.
+
+
+#### CAPÍTULO II — DO GUIA DE TURISMO
+
+
+Art. 2º.
+
+Para os efeitos desta Lei é considerado Guia de Turismo o profissional qualificado em curso de Guia de Turismo, com todos os requisitos exigidos pelo Ministério do Turismo, esteja devidamente cadastrado no CADASTUR (cadastro de prestadores de serviços turísticos).
+
+
+Art. 3º.
+
+As atividades de Guia de Turismo, objeto desta Lei, podem ser prestadas pelos profissionais de maneira autônoma ou por meio de Agência de Turismo, sendo esta considerada responsável solidariamente por atividades ou ações durante a prestação de serviços realizados pelo Guia de Turismo.
+
+
+§ 1º
+
+A atividade de Guia de Turismo compreende a recepção, o translado, o acompanhamento, a orientação, a prestação de informação e a assistência em geral a pessoas ou grupos de turistas, em translado visitas, excursões urbanas, municipais, estaduais, interestaduais, internacionais ou especializadas, no território Nacional.
+
+
+§ 2º
+
+Por excursões de turismo entende-se todas aquelas pelas agências de turismo e outros promotores de eventos devidamente cadastrados no Ministério do Turismo.
+
+
+§ 3º
+
+A Contratação do Guia de Turismo pela agência de viagem poderá ser através de registro em Carteira de Trabalho e Previdência Social – CTPS, ou na qualidade de autônomo sem registro na CTPS, e sem vínculo empregatício, conforme legislação trabalhista vigente.
+
+
+#### CAPÍTULO III — DAS ATRIBUIÇÕES
+
+
+Art. 3º.
+
+São atribuições do Guia de Turismo aquelas constante do Decreto Federal nº 946, de 1º de outubro de 1993:
+
+
+I –
+
+Acompanhar, orientar e transmitir informações a pessoas ou grupos em visitas, excursões urbanas municipais, estaduais, interestaduais ou especializadas dentro de território nacional.
+
+
+II –
+
+Acompanhar ao exterior pessoas ou grupos organizados no Brasil;
+
+
+III –
+
+Ter acesso gratuito a museus, galerias de arte, exposições, feiras, bibliotecas e pontos de interesse turístico, quando estiver conduzindo pessoas ou grupos, ou não, observadas as normas de cada estabelecimento, desde que devidamente credenciado como Guia de Turismo.
+
+
+VI –
+
+portar, privativamente, o crachá de Guia de Turismo emitido pelo Ministério do Turismo.
+
+
+Parágrafo único
+
+A forma e horário dos acessos a que se refere o inciso III, deste artigo, serão objeto de prévio acordo entre o Guia de Turismo e os responsáveis dos estabelecimentos a serem visitados.
+
+
+Art. 4º.
+
+No exercício da profissão, o Guia de Turismo deverá conduzir-se com responsabilidade, dedicação e decoro, zelando pelo bom nome da empresa à qual presta serviços e pelo conceito do destino turístico, devendo ainda respeitar e cumprir as leis e regulamentos que disciplinam a atividade turística.
+
+
+§ 1º
+
+O Guia de Turismo, por desempenho irregular de suas funções, será punido pelo órgão responsável.
+
+
+§ 2º
+
+No caso de contratação direta, as reclamações deverão ser averiguadas pelo sindicato responsável pela categoria.
+
+
+#### CAPÍTULO IV — DAS RESPONSABILIDADES
+
+
+Art. 5º.
+
+São responsabilidades dos Guias de Turismo:
+
+
+I –
+
+Manter boa apresentação e postura profissional;
+
+
+II –
+
+Promover o turismo divulgando opções turísticas, sugerindo outros roteiros e passeios adicionais em Porto Velho.
+
+
+III –
+
+Ser ético ao recomendar a utilização de serviços turísticos locais, pontos de compras ou passeios adicionais.
+
+
+IV –
+
+Promover a integração do turista/consumidor com o meio ambiente.
+
+
+V –
+
+Promover a educação ambiental, patrimonial e cultural através de técnicas de interpretação do ambiente visitado.
+
+
+VI –
+
+Orientar o turista visando ao seu bem-estar.
+
+
+VII –
+
+Orientar o turista sobre riscos visando a garantir a segurança do mesmo;
+
+
+VIII –
+
+Apoiar idosos, crianças e portadores de necessidades especiais, estabelecendo paradas especiais.
+
+
+IX –
+
+Respeitar os limites de relacionamento pessoal, usar linguagem e tratamento apropriados;
+
+
+X –
+
+Atuar em situações de emergência, identificando e providenciando alternativas;
+
+
+XI –
+
+Ter conhecimento sobre a flora, fauna, ecologia, geografia física, história e cultural de Porto Velho.
+
+
+Art. 6º.
+
+Respeitadas às diferenças operacionais e de interesse dos turistas, onde as informações básicas a serem fornecidas aos turistas devem incluir:
+
+
+I –
+
+Dados gerais sobre os atrativos e atividades a ser realizada em Porto Velho – Rondônia.
+
+
+II –
+
+Dados sobre os aspectos ambientais, patrimoniais e culturais do local visitado em Porto Velho.
+
+
+III –
+
+Duração e extensão do percurso.
+
+
+IV –
+
+Tipo de vestuário necessário.
+
+
+V –
+
+Serviços incluídos no pacote.
+
+
+VI –
+
+Dados socioeconômicos da cidade de Porto Velho.
+
+
+VII –
+
+Compromisso ambiental sustentável.
+
+
+Art. 7º.
+
+O Guia de Turismo deve observar os seguintes itens de conduta.
+
+
+I –
+
+Respeitar o plano de monitoramento do impacto da visitação e a capacidade de carga estabelecida para as atividades nos atrativos turísticos.
+
+
+II –
+
+Orientar que não seja jogado lixo nos locais turísticos, propiciando atitudes ambientalmente corretas;
+
+
+III –
+
+Respeitar as normas ambientais e patrimoniais.
+
+
+IV –
+
+Denunciar, quando possível, qualquer ação de depredação ambiental ou patrimonial.
+
+
+V –
+
+Divulgar e proteger o patrimônio histórico e cultural do Município.
+
+
+Art. 8º.
+
+As denúncias quanto às transgressões ao previsto nos arts. 5º e 7º, serão verificadas pelo órgão fiscalizador, devendo o mesmo encaminhá-las aos demais órgãos competentes, principalmente ao Sindicato dos Guias de Turismo de Rondônia e ao Ministério do Turismo, por intermédio do seu órgão no Estado.
+
+
+Art. 9º.
+
+O Guia de Turismo deverá permanecer com o turista ou grupo pelo qual está responsável até o encerramento do serviço para o qual foi contratado.
+
+
+#### CAPÍTULO V — DOS GRUPOS OU EXCURSÕES DE TURISTAS
+
+
+Art. 10º.
+
+O turista, em viagem organizada por empresa de turismo deverá, em visita aos pontos ou atrativos turísticos, estar acompanhado por Guia de Turismo, habilitado no Estado de Rondônia, independente da existência de Guia de Turismo de excursão nacional ou internacional.
+
+
+§ 1º
+
+O profissional Guia de Turismo Regional considerar-seàpreposto das Agências de Turismo na prestação de serviços consistentes em recepção, transferência e assistência especializada ao turista ou viajante.
+
+
+§ 2º
+
+Quando as atividades compreenderem a recepção, o traslado, o acompanhamento, a prestação de informações e a assistência aos turistas em itinerário ou roteiros locais, para visita a seus atrativos turísticos, torna-se obrigatório a presença do Guia de Turismo, habilitado no Estado de Rondônia.
+
+
+Art. 11.
+
+Quando se tratar de turista do exterior, o Guia de Turismo deverá estar habilitado ao idioma solicitado.
+
+
+#### CAPÍTULO VI — DOS PONTOS E ATRATIVOS TURÍSTICOS
+
+
+Art. 12.
+
+Os administradores dos pontos e atrativos turísticos, somente permitirão o acesso ao turista que estiver utilizando os serviços de uma Agência de Turismo, transportadoras de turismos, cursos, escolas, faculdades, e demais empresas que explorem as atividades turísticas com finalidade lucrativa, quando acompanhado pelo profissional Guia de Turismo de Rondônia.
+
+
+#### CAPÍTULO VII — DA FISCALIZAÇÃO
+
+
+Art. 13.
+
+O Poder Público Municipal poderá definir o órgão competente para efetuar a fiscalização e a aplicação das penalidades previstas no Capítulo VIII – Das infrações e penalidades desta Lei, objetivando o fiel cumprimento da norma.
+
+
+#### CAPÍTULO VIII — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 14.
+
+As infrações dos preceitos desta Lei irão sujeitar o infrator às seguintes penalidades:
+
+
+I –
+
+Multa;
+
+
+II –
+
+Cassação da inscrição do Cadastro Municipal de Contribuinte – C.M.C ou do alvará de licença, para as empresas que tem domicílio na cidade de Porto Velho.
+
+
+Art. 15.
+
+Cometidas duas ou mais infrações de natureza diversa, aplica-se a penalidade correspondente a cada uma delas.
+
+
+Art. 16.
+
+A atuação não desobriga o infrator de corrigir a falta que deu origem.
+
+
+Art. 17.
+
+No caso de ocorrência de hipóteses não previstas nesta Lei, as mesmas serão levadas a apreciação do Conselho Municipal de Turismo, onde a Secretaria Municipal de Turismo tomará as devidas providências.
+
+
+Art. 18.
+
+O Poder Executivo Municipal poderá regulamentar esta Lei no prazo de 90 dias, se houver interesse.
+
+
+Art. 19.
+
+Está lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 04 de abril de 2023.
+
+**Vereador Márcio Pacele Vieira da Silva Presidente**
+
+Projeto de Lei nº 4.384/2022  
+Vereador: Márcio Oliveira
+

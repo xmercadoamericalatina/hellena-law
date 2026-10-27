@@ -1,0 +1,174 @@
+---
+titulo: "LEI MUNICIPAL Nº 4.075 DE 09 DE ABRIL DE 2026."
+uf: "RS"
+municipio: "SÃO PEDRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "4075"
+data: 2026-04-09
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/04/2026"
+data_publicacao: 2026-04-10
+codigo_identificador: "A4413DBA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117820_2026-04-09_f59d3de95e4c68725cf508910df03bbf.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 4.075 DE 09 DE ABRIL DE 2026.
+
+LEI MUNICIPAL Nº 4.075 DE 09 DE ABRIL DE 2026.
+AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL NO VALOR DE R$ 1.914.664,32 (UM MILHÃO,
+NOVECENTOS E QUATORZE MIL, SEISCENTOS E SESSENTA E QUATRO REAIS E TRINTA E DOIS CENTAVOS) NA
+LEI ORÇAMENTÁRIA ANUAL E DÁ PROVIDÊNCIAS.
+Eu, FERNANDO PILAR CÉZAR, Prefeito Municipal de São Pedro do Sul, Estado do Rio Grande do Sul.
+FAÇO SABER que a Câmara de Vereadores aprovou e eu, em cumprimento ao que dispõe a Lei Orgânica do Município, sanciono e promulgo a
+seguinte:
+LEI
+
+www.diariomunicipal.com.br/famurs
+
+464
+
+Rio Grande do Sul , 10 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVIII | Nº 4306
+
+Art. 1º Autoriza a abertura de crédito adicional especial no valor de R$ 1.914.664,32 (um milhão, novecentos e quatorze mil, seiscentos e sessenta e
+quatro reais e trinta e dois centavos) no orçamento do Município para o Exercício de 2026, que passa a integrar a Lei Municipal n° 4.028, de 03 de
+dezembro de 2025, conforme segue:
+5
+501
+1511
+449051
+1512
+449051
+1513
+449051
+7
+703
+1785
+339039
+339039
+8
+801
+1812
+449052
+449052
+449052
+1825
+339032
+9
+902
+1923
+449052
+98
+9801
+0.001
+333093
+333093
+Total
+
+ÓRGÃO: SECRETARIA MUNICIPAL DE OBRAS E TRÂNSITO
+UNIDADE: SECRETARIA MUNICIPAL DE OBRAS E TRÂNSITO
+PROJT/ATIV EMENDA PARLAMENTAR ESPECIAL N° 202640400003 - ÁREAS DE LAZER
+OBRAS E INSTALAÇÕES
+PROJT/ATIV EMENDA PARL. ESPECIAL N° 202641680006 - PAVIM. RUA HELMA WAGNER WON MULLER E RUA OLAVIO ZIEGLER
+OBRAS E INSTALAÇÕES
+PROJT/ATIV EMENDA PARL. ESPECIAL N° 202619860001 - PAVIM. RUA WALTER VALENTIM DOELER
+OBRAS E INSTALAÇÕES
+ÓRGÃO: SECRETARIA MUNICIPAL DA SAÚDE
+UNIDADE: ESTRATÉGIA DA SAÚDE DA FAMÍLIA
+PROJT/ATIV EMENDA PARLAMENTAR N° 36660001202500 - CONSÓRCIO
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+ÓRGÃO: SEC. MUNIC. DE AGRICULTURA E MEIO AMBIENTE
+UNIDADE: DEPARTAMENTO DE AGRICULTURA E MEIO AMBIENTE
+PROJT/ATIV CONVENIO N° 940779/2023 - MAPA - SEMEADORA
+EQUIPAMENTOS E MATERIAL PERMANENTE
+EQUIPAMENTOS E MATERIAL PERMANENTE
+EQUIPAMENTOS E MATERIAL PERMANENTE
+PROJT/ATIV EMENDA PARLAMENTAR ESPECIAL N° 202642710013 - CALCÁRIO
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUIT
+ÓRGÃO: SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL
+UNIDADE: FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+PROJET/ATIV PISO GAÚCHO REGULAR 2025 - RESOLUÇÃO N° 003/11/2025
+EQUIPAMENTOS E MATERIAL PERMANENTE
+ÓRGÃO: ENCARGOS GERAIS DO MUNICÍPIO
+UNIDADE: ENCARGOS GERAIS DO MUNICÍPIO
+ENCARGOS GERAIS DO MUNICÍPIO
+INDENIZAÇÕES E RESTITUIÇÕES
+INDENIZAÇÕES E RESTITUIÇÕES
+
+R$ 497.500,00
+R$ 398.000,00
+R$ 398.000,00
+
+R$ 1,00
+R$ 100.000,00
+
+R$ 35.513,17
+R$ 75.057,20
+R$ 2.373,95
+R$ 199.000,00
+
+R$ 199.000,00
+
+R$ 219,00
+R$ 10.000,00
+R$ 1.914.664,32
+
+Art. 2º O crédito especial será coberto pela redução de dotação e pelo superávit do exercício anterior das fontes 600 - Transferência Fundo a Fundo
+de Recursos do SUS do Governo Federal - Bloco de Manutenção das Ações e Serviços Público, 700 - Outras Transferências de Convênios ou
+Instrumentos Congêneres da União, e tendência de excesso de arrecadação das seguintes fontes: 706 - Transferência Especial da União; 600 Transferência Fundo a Fundo de Recursos do SUS do Governo Federal - Bloco de Manutenção das Ações e Serviços Público; 700 - Outras
+Transferências de Convênios ou Instrumentos Congêneres da União; e 759 - Recursos Vinculados a Fundos, como segue:
+8
+801
+1821
+339032
+98
+9803
+0.002
+999999
+
+ÓRGÃO: SEC. MUNIC. DE AGRICULTURA E MEIO AMBIENTE
+UNIDADE: DEPARTAMENTO DE AGRICULTURA E MEIO AMBIENTE
+PROJET/ATIV DEFESA CIVIL - ESTADUAL - PORTARIA N° 007/SPDC/2025
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUIT
+ÓRGÃO: ENCARGOS GERAIS DO MUNICÍPIO
+UNIDADE: RESERVA DE CONTINGÊNCIAS
+RESERVA DE CONTINGÊNCIA
+RESERVA DE CONTINGÊNCIA
+SUPERÁVIT DO EXERCÍCIO ANTERIOR - REC. (600)
+SUPERÁVIT DO EXERCÍCIO ANTERIOR - REC. (700)
+TENDÊNCIA DE EXCESSO DE ARRECADAÇÃO (706)
+TENDÊNCIA DE EXCESSO DE ARRECADAÇÃO (600)
+TENDÊNCIA DE EXCESSO DE ARRECADAÇÃO (700)
+TENDÊNCIA DE EXCESSO DE ARRECADAÇÃO (759)
+
+Total
+
+R$ 10.000,00
+
+R$ 35.513,17
+R$ 100.000,00
+R$ 2.373,95
+R$ 1.691.500,00
+R$ 1,00
+R$ 75.057,20
+R$ 219,00
+R$ 1.914.664,32
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+FERNANDO PILAR CÉZAR
+Prefeito Municipal
+ALEXSANDRO BICCA ESCOBAR
+Secretário Municipal da Fazenda
+MARIANE BRAIBANTE PEREIRA
+Procuradora Municipal
+FREDERICO REZER BAYER
+Secretário Municipal de Administração
+REGISTRE-SE,
+PUBLIQUE-SE
+E CUMPRA-SE.
+Publicado por:
+Sara Crisana Simon

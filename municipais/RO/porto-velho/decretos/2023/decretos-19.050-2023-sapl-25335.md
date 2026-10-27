@@ -1,0 +1,123 @@
+---
+titulo: "Decreto nº 19.050, de 06 de junho de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.050"
+data: "2023-06-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25335"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7954/text"
+sha256_fonte: "e46c9f22291109b8f255aac138aeb9c0cfe036cb8ce815701f29550cebe8822c"
+sha256_texto: "25493f76fecfae20fe8bbd4d506234c71490df3891698098595dec5ce4f49cb2"
+capturado_em_fonte: "2026-10-21T05:35:07.081750-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.050, de 06 de junho de 2023
+
+Instaura o Processo Administrativo de Apuração de Responsabilidade de Pessoa Jurídica, nos termos da Lei Federal nº 12.846, de 1º de agosto de 2013 e Decreto nº 15.354, de 02 de agosto de 2018.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Ofício nº 26/2023/GAB/CGM/2023, de 30 de maio de 2023 (FFBCE9C9-e).
+
+**CONSIDERANDO** os Relatórios das Comissões de Investigação Preliminar, fls. 136 a 160 do Processo Administrativo de Sindicância nº 03.00001–000/2019; e, fls. 98 a 122, do Processo Administrativo de Sindicância nº 03.00053–000/2021, que apontaram indícios da prática de atos lesivos à Administração Pública Municipal;
+
+**CONSIDERANDO** os Pareceres da PGM nº 001/Comissão de Sindicância Decreto nº 17.395/2021/PGM/2022, fls. 165 a 167, do Processo Administrativo de Sindicância nº 03.00001–000/2019; e 001/Comissão de Sindicância Decreto nº 17.396/2021/PGM/2022, fls. 127 a 129, do Processo Administrativo de Sindicância nº 03.00053–000/2021, que em conclusão, informam que foram observados os requisitos legais e os procedimentais da instituição das comissões de investigação, acolhendo as decisões dos relatórios e opinando pela instauração de PAR, tento em vista a existência de indícios de cometimento de crimes previstos na Lei nº 12.846/2013;
+
+**CONSIDERANDO** os Despachos Fundamentados nº 001/2022/GAB ADJUNTO/CGM – Juízo de Admissibilidade, fls. 169 a 171 do Processo Administrativo de Sindicância nº 03.00001–000/2019; e 002/2022/GAB ADJUNTO/CGM – Juízo de Admissibilidade, fls. 131 a 133 do Processo Administrativo de Sindicância nº 03.00053–000/2021, que decidiram pela instauração e julgamento de Processo Administrativo de Responsabilidade de Pessoas Jurídicas – PAR;
+
+**CONSIDERANDO** a necessidade de apurar fatos e responsabilizar pessoas jurídicas pela prática de atos lesivos à Administração Pública Municipal, conforme estabelece a Lei Federal nº 12.846/2013 e o Decreto Municipal nº 15.354/2018;
+
+**CONSIDERANDO** o grande volume e a complexidade das informações a serem analisadas pela Comissão ora constituída, no qual o Presidente, por meio do Ofício interno nº 7/2023/DIAR/DRF/CGM, de 26/05/2023, solicitou a prorrogação dos prazos para continuidade dos procedimentos processuais.
+
+**RESOLVEM:**
+
+
+Art. 1º.
+
+Instaurar Processo Administrativo de Apuração de Responsabilidade De Pessoa Jurídica – PAR), visando apurar a responsabilidade das pessoas jurídicas das Empresas Via Norte Transportes, Comércio e Serviços LTDA, CNPJ nº 00.224.783/0001–97; Flecha Transportes e Turismo LTDA – EPP, CNPJ nº 07.476.684/0001–41; Rondonorte Transportes e Turismo LTDA - EPP, CNPJ nº 01.100.467/0001–76, pela prática de atos lesivos à Administração Pública Municipal, nos termos da Lei Federal nº 12.846/2013, conforme fatos narrados nos autos dos Processos de Sindicância nº 03.00001–000/2019 e 03.00053–000/2021, e ainda a descritiva dos atos praticados decorrentes dos Contratos nº 032/PGM/2018 e 033/PGM/2018, Processo nº 09.00157/2018, na prestação de serviços de transporte escolar para os alunos regularmente matriculados no Ensino Básico na Rede Municipal de Porto Velho.
+
+
+Parágrafo único
+
+As pessoas jurídicas que eventualmente venham substituir ou assumir direitos e obrigações contratuais deverão ser notificadas de todos os atos praticados para comporem o rol de empresas processadas e exercerem o direito de ampla defesa e contraditório.
+
+
+Art. 2º.
+
+A Comissão Processante será composta pelos Servidores relacionados abaixo:
+
+
+I –
+
+Presidente: Nilson Morais de Lima, Técnico de Controle Interno, Cad. 224410;
+
+
+II –
+
+Membro: Eudes Fonseca da Silva, Auditor, Cad. 206434;
+
+
+III –
+
+Membro: Olívio Costa Neto, Assistente Administrativo, Cad. 138330.
+
+
+Parágrafo único
+
+O Servidor André Henrique Torres Soares de Melo, Técnico Jurídico, Cad. 54700, exercerá todos os atos de competência da Procuradoria Geral do Município no âmbito da Comissão Processante.
+
+
+Art. 3º.
+
+Fica estabelecido o prazo de 180 (cento e oitenta) dias para entrega do Relatório Final contendo as conclusões sobre os fatos apurados.
+
+
+Art. 4º.
+
+Para fins deste Decreto as atividades da Comissão e do Servidor da Procuradoria se dará conforme abaixo:
+
+
+I –
+
+deverão ocorrer preferencialmente no horário extra expediente;
+
+
+II –
+
+não integram o conjunto de atribuições do cargo de origem dos servidores;
+
+
+III –
+
+são consideradas de caráter cumulativo;
+
+
+IV –
+
+deverão ser enquadradas nos termos do Art. 76 da Lei Complementar nº 385, de 1º de julho de 2010, regulamentado pelo art. 41, do Decreto nº 11.824, de 18 de outubro de 2010.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data de sua publicação, com efeitos retroativos a contar de 29 de maio de 2023.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***JEOVAL BATISTA DA SILVA***
+
+Controlador Geral do Município
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município
+

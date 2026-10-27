@@ -1,0 +1,261 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.241, de 02 de julho de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2241"
+data: "1990-07-02"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/2203"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/772/text"
+sha256_fonte: "675748df780caa9dab1ad94b5038bec4c52cb7ce30b92989c562b9ec65626327"
+sha256_texto: "ba593d84665e7d135d7784aded6087b1471becca629ac59c412cfb48fe325544"
+capturado_em_fonte: "2026-10-21T04:14:21.044356-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.241, de 02 de julho de 1990
+
+DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR E DO ESCRITÓRIO MUNICIPAL DE DEFESA DO CONSUMIDOR.
+
+
+NARCISO PALUDO, Vice-Prefeito no Exercício do Cargo de Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, FAÇO SABER, em cumprimento ao disposto no Artigo 64, Inciso V da Lei Orgânica do Município, que o Poder Legislativo Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+São criados o Conselho Municipal de Defesa do Consumidor e o Escritório Municipal de Defesa do Consumidor, visando assegurar, fundamentalmente, os direitos e os interesses do consumidor.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Defesa do Consumidor, compete:
+
+
+a)
+
+Exercer o poder normativo e a direção superior do próprio Conselho e do Escritório, orientando, supervisionando e coordenando os seus trabalhos, e promovendo as medidas necessárias ao fiel cumprimento de suas finalidades;
+
+
+b)
+
+Formular, coordenar programas e atividades relacionadas com a defesa do consumidor em nível local;
+
+
+c)
+
+Zelar pela qualidade, preço, apresentação e distribuição dos produtos e serviços;
+
+
+d)
+
+Constituir Secções especiais, de caráter temporário, compostas por seus membros ou pessoas por estes indicados para a realização de tarefas, estudos, ou pareceres específicos sobre produtos consumidos no Município;
+
+
+e)
+
+Celebrar convênios com órgãos e entidades públicas, nacionais, ou estrangeiros, objetivando a defesa do consumidor;
+
+
+f)
+
+Requerer a colaboração e recomendar a qualquer órgão público a observância das normas que, direta ou indiretamente, promovam a defesa do consumidor;
+
+
+g)
+
+Solicitar, por tempo determinado, servidores de órgãos e de entidades da Administração Direta ou Indireta sem perda de remuneração e de mais direitos e vantagens;
+
+
+h)
+
+Propor prevenções e soluções, melhorias e medidas legislativas de defesa do consumidor;
+
+
+i)
+
+Orientar e educar os consumidores, através de cartilhas, manuais, folhetos ilustrativos, cartazes, e de todos os meios de comunicação de massa;
+
+
+j)
+
+Incentivar a organização comunitária e estimular as entidades existentes.
+
+
+Art. 3º.
+
+O Conselho Municipal de Defesa do Consumidor será integrado pelos seguintes membros:
+
+
+I –
+
+um Promotor de Justiça, estadual;
+
+
+II –
+
+o Delegado de Polícia lotado no Município;
+
+
+III –
+
+um Representante da Prefeitura Municipal;
+
+
+IV –
+
+um Representante do Poder Legislativo;
+
+
+V –
+
+o Coordenador Regional do ICM Erechim (Superintendência da Administração Financeira RS);
+
+
+VI –
+
+o Chefe da Secretaria da Saúde e Meio Ambiente do RS, regional Erechim.
+
+
+§ 1º
+
+O Conselho definirá a forma de participação das Entidades Civis de Defesa do Consumidor, dos Sindicatos dos Trabalhadores e das Associações dos Moradores;
+
+
+§ 2º
+
+O Regimento Interno do Conselho, será discutido e aprovado por aqueles que a compõem.
+
+
+§ 3º
+
+Incumbe ao Coordenador do Conselho promover a primeira reunião, com os seguinte objetivos:
+
+
+I –
+
+Instalar os trabalhos;
+
+
+II –
+
+Escolher o dirigente do Escritório Municipal de Defesa do Consumidor;
+
+
+III –
+
+Convocar as associações e as entidades mencionadas no § 1º supra;
+
+
+IV –
+
+Estabelecer as linhas de ação.
+
+
+§ 4º
+
+As reuniões do Conselho serão públicas, salvo quado, a critério da mesma, houver motivo que determine sejam reservadas.
+
+
+§ 5º
+
+As deliberações do Conselho serão tomadas sob forma de resoluções, e as decisões, por maioria de votos dos mesmos presentes, cabendo ao Coordenador, além do próprio, o voto de desempate.
+
+
+Art. 4º.
+
+O Conselho terá um Escritório Municipal de Defesa do Consumidor, que constituirá o órgão operacional da mesma, e será dirigido por um Secretário Executivo, com as seguintes atribuições:
+
+
+a)
+
+Receber, informar e apurar as reclamações de consumidores encaminhando-as, acompanhando-as, ou diligenciar diretamente procurando resolver o problema apresentado;
+
+
+b)
+
+Por delegação de competência, autuar os infratores, aplicando sanções de ordem administrativa e pecuniária, inclusive, exercendo o poder de polícia municipal; e, encaminhando, quando for o caso, ao representante do Ministério Público Federal face e lesões aos direitos do consumidor;
+
+
+c)
+
+Solicitar às polícias estadual e federal a instauração de inquérito policial para a apuração de delito contra o consumidor;
+
+
+d)
+
+Determinar a instauração de Procedimento Administrativo quanto a delitos praticados, contra o consumidor, por órgãos públicos municipais, da administração direta ou indireta, ou por empresas concessionárias e permissionárias de serviços públicos municipais;
+
+
+e)
+
+Estabelecer rotinas que visem a melhoria do desempenho das atribuições do Conselho, e do próprio Escritório, quanto à prevenção e controle das relações de consumo;
+
+
+f)
+
+Sugerir e incentivar a adoção de mecanismos de encaminhamento, aos Juizados de Pequenas Causas, dos litígios de reduzido valor econômico às relações de consumo;
+
+
+g)
+
+Manter intercâmbio e desenvolver ações conjuntas com os municípios, associações comunitárias e demais entidades ligadas à proteção do consumidor;
+
+
+h)
+
+Promover a articulação dos órgãos municipais e federais de defesa do consumidor;
+
+
+i)
+
+Denunciar publicamente, através da imprensa às empresas infratoras;
+
+
+j)
+
+Exercer outras atribuições que forem determinadas e ou delegadas pelo Conselho.
+
+
+Parágrafo único
+
+O Escritório funcionará junto ao Conselho, desenvolvendo atividades através de equipes, secções ou de grupos de trabalho.
+
+
+Art. 5º.
+
+O Prefeito Municipal tomará providências, inclusive assinará convênios ou acordos de cooperação, necessárias à execução desta Lei e à execução dos objetivos nesta previstos, bem como oferecer à complementares que se fizerem imprescindíveis.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 7º.
+
+Revogam-se as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE ERECHIM, RS., 02 DE JULHO DE 1990.  
+  
+  
+  
+Bel. NARCISO PALUDO  
+Vice-Prefeito no Exercício do  
+Cargo de Prefeito Municipal
+
+
+Registre-se e Publique-se  
+Dara supra  
+  
+  
+  
+ADEMAR DE GERONI  
+Secretário de Administração
+

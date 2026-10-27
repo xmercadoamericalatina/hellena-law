@@ -1,0 +1,9 @@
+{
+  "sha256_fonte": "c6b2b6ad4b5f320e499789cc5fea41f2594a624e642d25e7f2d920b2e2f39895",
+  "pdfimages": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n 125     0 image      10     2  rgb     3   8  image  no       249  0   193   206   12B  20%\n 142     1 image     399   758  rgb     3   8  jpeg   yes      284  0   135   143 60.0K 6.8%\n 226     2 image     313   424  rgb     3   8  image  no       453  0    99    99 15.9K 4.1%\n 226     3 image     313   424  rgb     3   8  image  no       454  0    96    96 15.3K 3.9%\n",
+  "revisao_visual": {
+    "125": "imagem10x2 é traço/artefato visual sem tabela; texto integral preservado",
+    "142": "tabelaCOSIP25linhas transcrita e conferida visualmente",
+    "226": "TabelaVI31linhas emduasimagens transcritas e conferidas visualmente"
+  }
+}

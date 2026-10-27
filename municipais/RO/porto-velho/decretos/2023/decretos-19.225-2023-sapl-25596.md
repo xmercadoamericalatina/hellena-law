@@ -1,0 +1,165 @@
+---
+titulo: "Decreto nº 19.225, de 07 de agosto de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.225"
+data: "2023-08-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25596"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8154/text"
+sha256_fonte: "ac02f580640faa7b71336c1e5aada5221d3cb8738829c02fd6a8b6e5328ff06e"
+sha256_texto: "a87d9821f144dce8934ba05d27fb8359be266b0b0c43cf9c45aba3af3435c70a"
+capturado_em_fonte: "2026-10-21T05:21:07.602444-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.225, de 07 de agosto de 2023
+
+Dispõe sobre a concessão de complemento, na forma que especifica, par cumprimento do estabelecido na Lei Federal nº 11.738, de 16 de julho de 2008
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** o disposto no Art. 212-A, *caput* e inciso IV, da Constituição Federal de 1988, que determina a observância do Piso Salarial Profissional Nacional do Magistério Público da Educação Básica;
+
+**CONSIDERANDO** a Lei Federal nº 11.738, de 16 de julho de 2008, que “*Regulamenta a alínea ‘e’ do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias, para instituir o piso salarial profissional nacional para os profissionais do magistério público da educação básica”*, bem como a Portaria nº 17, de 16 de janeiro de 2023, que “*Homologa o Parecer nº 1/2023/CGVAL/DIFOR/SEB/SEB, da Secretaria de Educação Básica – SEB”,* que dispõe sobre a fixação do Piso Salarial Nacional dos Profissionais do Magistério da Educação Básica Pública, para o exercício de 2023;
+
+**CONSIDERANDO** as decisões proferidas pelo Egrégio Supremo Tribunal Federal (STF) nas ADI’s n..os 4.167 e 4.848, que conferiram constitucionalidade à legislação federal que fixou o Piso Salarial Nacional dos Profissionais do Magistério da Educação Básica Pública, cujos critérios de operacionalização foram esclarecidos pela Nota Técnica nº 01/2023/SGCE/TCE-RO, emitida pela Secretaria-Geral de Controle Externo – SGCE do Tribunal de Contas do Estado de Rondônia – TCE/RO, que tratou do impacto financeiro da implementação da Lei Federal n.º 11.738/2008, indicando orientações e suas repercussões em relação à Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal – LRF);
+
+**CONSIDERANDO** o impacto consequente da implementação do Piso Salarial Nacional dos Profissionais do Magistério da Educação Básica Pública no Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho (IPAM) e,
+
+**CONSIDERANDO** que os professores e especialistas em educação, pertencentes ao quadro efetivo dos servidores públicos da Secretaria Municipal de Educação (SEMED) integram o conjunto de servidores públicos municipais aos quais foi conferida a revisão geral anual prevista na Lei Complementar nº 942, de 12 de julho de 2023, no percentual de 5,79% (cinco inteiros e setenta e nove centésimos por cento).
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Será concedido complemento aos professores e especialistas em educação, pertencentes ao quadro efetivo dos servidores públicos da Secretaria Municipal de Educação (SEMED) a que se refere o Anexo IV da Lei Complementar nº 360, de 04 de setembro de 2009 (Art. 42, inciso IV), quando o valor do nível e referência em que estiver enquadrado for inferior ao valor do piso salarial profissional nacional do magistério público da educação básica, e corresponderá à sua diferença, obedecida a jornada de trabalho do servidor.
+
+
+Art. 2º.
+
+O valor pago a título de complemento para os professores e especialistas em educação com carga horária de 40 (quarenta) horas semanais será correspondente à diferença entre o valor atual do piso nacional, R$ 4.420,55 (quatro mil quatrocentos e vinte reais e cinquenta e cinco centavos), e o valor pago pelo enquadramento do servidor nos seus respectivos faixa e nível funcionais.
+
+
+§ 1º
+
+Para os professores e especialistas em educação que cumprem carga horária inferior a 40 (quarenta) horas semanais, o valor do piso da categoria será proporcional à jornada de trabalho, nos termos do Art. 2º, § 3º, da Lei Federal nº 11.738, de 16 de julho de 2008.
+
+
+§ 2º
+
+Para os casos previstos neste artigo, o complemento corresponderá à diferença entre o valor proporcionalmente reduzido do piso nacional e o valor pago pelo enquadramento do servidor nos seus respectivos nível e referência funcionais.
+
+
+Art. 3º.
+
+O disposto neste decreto aplica-se:
+
+
+I –
+
+aos contratados, na correspondência das cargas horárias que efetivamente venham a cumprir;
+
+
+II –
+
+aos inativos e pensionistas com reajustes fixados pela paridade de remuneração.
+
+
+Art. 4º.
+
+O complemento de que trata este Decreto será apurado considerando a remuneração percebida efetivamente pelo servidor.
+
+
+Art. 5º.
+
+O disposto no Art. 1º deste Decreto será aplicado aos professores e especialistas em educação para que o somatório do valor do nível e referência funcionais e do complemento do piso, proporcionalmente, à jornada de trabalho, atinja os valores a seguir discriminados:
+
+
+I –
+
+R$ 4.420,55 (quatro mil, quatrocentos e vinte reais, e cinquenta e cinco centavos), quando em jornada de trabalho equivalente à 40 (quarenta) horas semanais;
+
+
+II –
+
+R$ 3.315,41 (três mil, trezentos e quinze reais, e quarenta um centavos), quando em jornada de trabalho equivalente à 30 (trinta) horas semanais;
+
+
+III –
+
+R$ 2.762,84 (dois mil, setecentos e sessenta e dois reais e oitenta e quatro centavos), quando em jornada de trabalho equivalente à 25 (vinte e cinco) horas semanais; e,
+
+
+IV –
+
+R$ 2.210,27 (dois mil, duzentos e dez reais e vinte e sete centavos), quando em jornada de trabalho equivalente à 20 (vinte) horas semanais.
+
+
+§ 1º
+
+O valor do complemento a que se refere o Art. 1° deste Decreto não será considerado para efeito do cálculo de qualquer vantagem pecuniária, exceto no cômputo do décimo terceiro salário e no cálculo de férias.
+
+
+§ 2º
+
+Sobre o valor do complemento incidirão os descontos previdenciários, de assistência médica e compulsórios.
+
+
+Art. 6º.
+
+As despesas decorrentes da aplicação do presente Decreto serão suportadas por dotações orçamentárias próprias da Secretaria Municipal de Educação (SEMED), consignadas no Orçamento em vigor, suplementadas se necessário.
+
+
+Art. 7º.
+
+Os efeitos financeiros da implementação do piso a que se refere o presente Decreto obedecerá aos seguintes critérios:
+
+
+I –
+
+para o período compreendido entre 1º de janeiro de 2023 e 1º de julho de 2023, o complemento será calculado considerando-se a proporcionalidade entre o piso salarial efetivamente pago e os valores contidos no Art. 5º deste Decreto;
+
+
+II –
+
+para o período posterior à data de 1º de julho de 2023, o cálculo do complemento considerará a incidência do disposto na Lei Complementar nº 942, de 12 de julho de 2023.
+
+
+Art. 8º.
+
+Este Decreto entra em vigor na data de sua publicação
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***LUIZ DUARTE FREITAS JÚNIOR***
+
+Procurador Geral do Município (PGM)
+
+***GLAÚCIA LOPES NEGREIROS***
+
+Secretária Municipal de Educação (SEMED)
+
+***ALEXEY DA CUNHA OLIVEIRA***
+
+Secretário Municipal de Administração (SEMAD)
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda (SEMFAZ)
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão (SEMPOG)
+

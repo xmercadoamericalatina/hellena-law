@@ -1,0 +1,127 @@
+---
+titulo: "Lei Ordinária nº 397, de 25 de junho de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "397"
+data: "1996-06-25"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/1366"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/476/text"
+sha256_fonte: "5b7a572d105100719ee9a0b1a5af6ac7b069e22ea04585931e92c3c8d8144444"
+sha256_texto: "bdc4b4200002d72917358af1443f17ebfa729e3e599e680d8e7e3c290f6a144c"
+capturado_em_fonte: "2026-10-20T23:48:08.961483"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 397, de 25 de junho de 1996
+
+DISPÕE SOBRE: ESTABELECIMENTOS COMERCIAIS E NORMAS DE COMERCIALIZAÇÃO DO PRODUTO DENOMINADO “COLA DE SAPATEIRO” E SIMILARES, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VISTA - RR,** faço saber que a Câmara Municipal de Boa Vista aprovou e nos termos do § 7° do art. 66 da Constituição Federal combinado com o § 3° do art. 50 da Lei Orgânica Municipal, promulgo a seguinte
+
+**L E I :**
+
+
+Art. 1º.
+
+Fica proibido, no âmbito do Município de Boa Vista – RR, o livre comércio por parte de casas de material para construção ou similares, da “Cola de Sapateiro” para pessoas até 18 anos de idade e para pessoas entre 18 e 21 anos, salvo se estas últimas estiverem devidamente assistidas por pessoas maiores de 21 anos.
+
+
+§ 1º
+
+Entende-se por “Cola de Sapateiro” e Similares toda cola cuja composição química contenha solvente hidrocarbonetos aromáticos (tolueno ou toluol, benzeno, hexano, xileno e xilol).
+
+
+§ 2º
+
+A venda do produto será facultada a pessoa jurídica cadastrada previamente na Secretaria Municipal de Saúde.
+
+
+Art. 2º.
+
+Fica instituído o cadastro comercial, sob a responsabilidade da Secretaria Municipal de Saúde, de estabelecimentos que comercializem o produto “Cola de Sapateiro”.
+
+
+Art. 3º.
+
+Fica instituído o receituário comercial através de impresso padronizado pela Secretaria Municipal de Saúde, que terá por finalidade a identificação do consumido.
+
+
+Parágrafo único
+
+O receituário comercial será preenchido pelo vendedor no ato da expedição da Nota Fiscal e ficará como documento integrante da venda para efeitos de fiscalização..
+
+
+Art. 4º.
+
+O Executivo Municipal será o responsável pelo cumprimento desta Lei, cabendo a fiscalização e aplicação de penalidades previstas no art. 7°, a Secretaria Municipal de Saúde.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Saúde deverá oficiar imediatamente ao Ministério Público Estadual, verificada a ocorrência de infração penal.
+
+
+Art. 5º.
+
+Os estabelecimentos conhecidos como “sapateiros” também serão fiscalizados pela Secretaria Municipal de Saúde que orientará seus proprietários no sentido de não colocar em lixeiras expostas as latas contendo restos de “cola”.
+
+
+Art. 6º.
+
+Fica proibida a exportação do produto em qualquer ponto do estabelecimento comercial, desde que visível ao consumidor.
+
+
+Art. 7º.
+
+O comerciante que descumprir o disposto nesta Lei sofrerá:
+
+
+§ 1º
+
+Multas estabelecidas em 30 (trinta) URFMs – Unidade Fiscal de Referência do Município, a cada autuação;
+
+
+§ 2º
+
+As multas serão cumulativas quando resultarem do não cumprimento das obrigações, até a terceira reincidência;
+
+
+§ 3º
+
+No caso de terceira reincidência, além da aplicação da multa, não será permitida a renovação do Alvará de Licença do funcionamento.
+
+
+Art. 8º.
+
+Os recursos oriundos das multas previstas no artigo anterior serão assim distribuídos: 50% (cinqüenta por cento) para a Secretaria Municipal de Saúde e 50% (cinqüenta por cento) para o Conselho Municipal de Defesa da Criança e do Adolescente, para aplicação em programas voltados para o setor.
+
+
+Art. 9º.
+
+O Executivo regulamentará esta Lei no prazo de 30 (trinta) dias, contados da data de sua publicação.
+
+
+Art. 10.
+
+As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, ou suplementares se necessário.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Presidente da Câmara Municipal de Boa Vista, em 25 de junho de 1996.
+
+**NATANAEL NASCIMENTO**
+
+**Presidente**
+

@@ -1,0 +1,145 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.280, de 15 de fevereiro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1280"
+data: "2023-02-15"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/721"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/146/text"
+sha256_fonte: "0d427a5d3c69dd8401fd14ab413d8596b1e95195b4eac513b5e1f4b6fde6434d"
+sha256_texto: "02c2a310a567953268adeb023a87299cb1978cd824d320c0c79a67f88afdabd4"
+capturado_em_fonte: "2026-10-21T05:09:19.227169-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.280, de 15 de fevereiro de 2023
+
+Regulamenta as regras e diretrizes para a atuação do Agente de Contratação, da Equipe de Apoio, da Comissão de Contratação nas áreas de que trata a Lei nº 14.133, de 1º de abril de 2021, no âmbito do Município de Acari/RN e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE ACARI/RN**, no uso de suas atribuições legais estabelecidas pela Lei Orgânica,  
+**FAÇO SABER** que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+A presente Lei tem o objetivo de estabelecer as competências e as regras acerca das atividades desenvolvidas pelo agente de contratação, da equipe de apoio, da comissão de contratação, em atendimento às previsões contidas na Lei Federal nº 14.133/2021, no âmbito do Município de Acari/RN.
+
+
+Art. 2º.
+
+O Agente de Contratação é o responsável pela condução da Licitação, com poderes para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório, podendo conduzir a negociação da proposta e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
+
+
+Art. 3º.
+
+O agente de contratação será designado pelo Chefe do Executivo Municipal, do quadro permanente da Administração Pública, para:
+
+
+I –
+
+tomar decisões acerca do procedimento licitatório;
+
+
+II –
+
+acompanhar o trâmite da licitação, zelando pelo seu fluxo satisfatório, durante a fase externa;
+
+
+III –
+
+dar impulso ao procedimento licitatório, em ambas as suas fases e em observância ao princípio da celeridade; e
+
+
+IV –
+
+executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
+
+
+Parágrafo único
+
+O Agente de Contratação designado como Pregoeiro é o responsável pela condução da Licitação na modalidade Pregão, com poderes para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame.
+
+
+Art. 4º.
+
+A equipe de apoio deve ser composta, preferencialmente, por servidores ocupantes de cargo efetivo, para auxiliar o agente de contratação ou a comissão de contratação no desempenho e na condução de todas as etapas do processo licitatório, o que inclui conhecimentos sobre aspectos técnicos e de uso do objeto, licitações e contratos, dentre outros.
+
+
+Parágrafo único
+
+A Equipe de Apoio, a ser designada por ato do Executivo Municipal, poderá ser constituída por, no máximo 02 (dois) membros.
+
+
+Art. 5º.
+
+Os membros da comissão de contratação ou de licitação serão indicados pelo chefe do Poder Executivo, entre um conjunto de agentes públicos, em caráter permanente ou especial, com a função de receber, examinar e julgar documentos relativos às licitações e aos procedimentos auxiliares, que envolvam bens ou serviços especiais e, poderão ser constituídas por, no máximo 02 (dois) servidores.
+
+
+Parágrafo único
+
+Os membros da comissão de contratação ou de licitação de que trata o caput responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
+
+
+Art. 6º.
+
+O aumento quantitativo de Agente de Contratação, Comissão de contratação ou de licitação e Equipe de Apoio a que se refere esta Lei deverá ser fundamentado e justificado pelo Chefe do Executivo Municipal.
+
+
+Art. 7º.
+
+Os Agentes Públicos designados pelo Chefe do Executivo Municipal para o exercício das atividades constantes nesta Lei, serão nomeados mediante Portaria, e farão jus a verba indenizatória pelos serviços prestados, nos seguintes valores:
+
+
+I –
+
+Agente de Contratação: R$ 800,00 (oitocentos reais);
+
+
+II –
+
+Membros de equipe de apoio e membros de comissão de contratação: R$ 500,00 (quinhentos reais).
+
+
+§ 1º
+
+As verbas indenizatórias relativas a esta Lei poderão sofrer alterações, mediante Decreto do Executivo Municipal.
+
+
+§ 2º
+
+Os membros suplentes, da equipe de apoio e membros de comissão de contratação, somente farão jus ao recebimento da verba indenizatória desde que a substituição, no respectivo mês, seja por um período superior a 10 (dez) dias.
+
+
+Art. 8º.
+
+Por se tratar de regulamentação a Lei Federal nº 14.133, todos os atos observarão as disposições expressas no corpo da Lei Federal nº 14.133, de 01 de abril de 2021, ora recepcionada integralmente.
+
+
+Art. 9º.
+
+Deverá o Município de Acari/RN promover a capacitação de seus agentes públicos, para atender as necessidades da presente Lei e da Lei Federal nº 14.133/2021.
+
+
+Art. 10.
+
+A presente Lei será regulamentada por Decreto Municipal no que couber.
+
+
+Art. 11.
+
+Esta Lei entra em vigor da data da sua publicação, revogando-se as disposições contrárias.
+
+
+Acari/RN, 15 de fevereiro de 2023.
+
+**FERNANDO ANTONIO BEZERRA**  
+Prefeito Municipal
+

@@ -1,0 +1,193 @@
+---
+titulo: "Lei Ordinária Municipal nº 3.539, de 26 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "3539"
+data: "2002-12-26"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/3498"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/571/text"
+sha256_fonte: "f1315f909ca5cd8ce3ba913be5f27f9fbd1e6472fc150770c5a4982b7a7c8695"
+sha256_texto: "835e751d5bbd74a6903745afb74167a521c2eaec9b129f31e2b9152b5e405afb"
+capturado_em_fonte: "2026-10-21T03:55:32.967254-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 3.539, de 26 de dezembro de 2002
+
+INSTITUI NO MUNICÍPIO DE ERECHIM, A CONTRIBUIÇÃO PARA CUSTEIO DA ILUMINAÇÃO PÚBLICA PREVISTA NO ARTIGO 149-A DA CONSTITUIÇÃO FEDERAL.
+
+
+**ELOI JOÃO ZANELLA**, Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+**FAÇO SABER** que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída no Município de **ERECHIM** a Contribuição para Custeio do Serviço de Iluminação Pública - CIP, prevista no artigo 149-A da Constituição Federal.
+
+
+Parágrafo único
+
+O serviço previsto no caput deste artigo compreende o consumo de energia destinada à iluminação de vias, logradouros e demais bens públicos, e a instalação, manutenção, melhoramento e expansão da rede de iluminação pública.
+
+
+Art. 2º.
+
+É fato gerador da CIP o consumo de energia elétrica por pessoa natural ou jurídica, mediante ligação regular de energia elétrica no território do Município.
+
+
+Art. 3º.
+
+Sujeito passivo da CIP é o consumidor de energia elétrica residente ou estabelecido no território do Município e que esteja cadastrado junto à concessionária distribuidora de energia elétrica titular da concessão no território do Município
+
+
+Art. 4º.
+
+A base de cálculo da CIP é o valor mensal do consumo total de energia elétrica constante na fatura emitida pela empresa concessionária distribuidora.
+
+
+Art. 5º.
+
+A alíquota de contribuição será de 5% (cinco por cento) de consumo mensal.
+
+
+§ 1º
+
+Estão isentos da contribuição os consumidores da classe residencial com consumo de até 50 kW/h e da classe rural.
+
+
+§ 2º
+
+Estão excluídos da base de cálculo da CIP os valores de consumo que superarem os seguintes limites:
+
+
+a)
+
+classe industrial: 50.000 Kw/h/mês;
+
+
+b)
+
+classe comercial: 10.000 Kw/h/mês;
+
+
+c)
+
+classe residencial: 3.000 Kw /h/mês.
+
+
+d)
+
+classe serviço público: 100.000 Kw/h/mês;
+
+
+e)
+
+classe poder público: 10.000 Kw/h/mês;
+
+
+f)
+
+classe consumo próprio: 7.000 Kw/h/mês.
+
+
+§ 3º
+
+A determinação da classe/ categoria de consumidor observará as normas da Agência Nacional de Energia Elétrica - ANEEL - ou órgão regulador que vier a substituí-Ia.
+
+
+Art. 6º.
+
+A CIP será lançada para pagamento juntamente com a fatura mensal de energia elétrica.
+
+
+§ 1º
+
+O Município conveniará ou contratará com a Concessionária de Energia Elétrica a forma de cobrança e repasse dos recursos relativos à contribuição.
+
+
+§ 2º
+
+O convênio ou contrato a que se refere o caput deste artigo deverá, obrigatoriamente, prever repasse imediato do valor arrecadado pela concessionária ao Município, retendo os valores necessários ao pagamento da energia fornecida para a iluminação pública e os valores fixados para remuneração dos custos de arrecadação e de débitos que, eventualmente, o Município tenha ou venha a ter com a concessionária, relativos aos serviços supra citados.
+
+
+§ 3º
+
+O montante devido e não pago da CIP a que se refere o "caput" deste artigo será inscrito em dívida ativa, 60 dias após à verificação da inadimplência.
+
+
+§ 4º
+
+Servirá como título hábil para a inscrição:
+
+
+I –
+
+a comunicação do não pagamento efetuada pela concessionária que contenha os elementos previstos no art. 202 e incisos do Código Tributário Nacional;
+
+
+II –
+
+a duplicata da fatura de energia elétrica não paga;
+
+
+III –
+
+outro documento que contenha os elementos previstos no art. 202 e incisos do Código Tributário Nacional.
+
+
+§ 5º
+
+Os valores da CIP não pagos no vencimento serão acrescidos de juros de mora, multa e correção monetária, nos termos da legislação tributária municipal.
+
+
+Art. 7º.
+
+Fica criado o Fundo Municipal de Iluminação Pública, de natureza contábil e administrado pela Secretaria da Fazenda Municipal.
+
+
+Parágrafo único
+
+Para o Fundo deverão ser destinados todos os recursos arrecadados com a CIP para custear os serviços de iluminação pública previstos nesta Lei.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará a aplicação desta Lei no prazo de 60 (sessenta) dias a contar da sua publicação.
+
+
+Art. 9º.
+
+Fica o Poder Executivo autorizado a firmar com a RGE Rio Grande Energia (Concessionária de Energia Elétrica) o convênio ou contrato a que se refere o art. 6°.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data da sua publicação revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE ERECHIM/RS, 26 DE DEZEMBRO DE 2002.  
+  
+  
+  
+ELOI JOÃO ZANELLA  
+Prefeito Municipal
+
+
+Registre-se e publique-se  
+Data supra  
+  
+  
+  
+ADEMAR DE GERONI  
+Sec. Mun. de Administração
+

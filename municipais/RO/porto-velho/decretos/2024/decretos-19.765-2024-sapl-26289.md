@@ -1,0 +1,172 @@
+---
+titulo: "Decreto nº 19.765, de 26 de fevereiro de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.765"
+data: "2024-02-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26289"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5813/text"
+sha256_fonte: "988744b58da36f0d989f2e74b1673415409466d4d7a528234e64b207339dacba"
+sha256_texto: "019f9ab46a077c63ea52b34e832b26c0007cdf967deae67e3682aa2f62d78676"
+capturado_em_fonte: "2026-10-21T04:44:35.194572-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.765, de 26 de fevereiro de 2024
+
+Institui Comissão Técnica Municipal para gestão e fiscalização do Contrato nº 077/PGM/2023, celebrado entre a Secretaria Municipal de Saneamento e Serviços Básicos – SEMUSB e a Fundação Escola de Sociologia e Política de São Paulo – FESPSP.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no Art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Oficio nº 021/DESAB/SEMUSB/2024.
+
+**CONSIDERANDO** a celebração do Contrato nº 077/PGM/2023 entre a Secretaria Municipal de Saneamento e Serviços Básicos – SEMUSB e a Fundação Escola de Sociologia e Política de São Paulo – FESPSP, advindo do Processo Administrativo nº 00600-00034577/2023-41, cujo objeto foi a Contratação de Instituição de Ensino e Pesquisa para a elaboração de diagnóstico, avaliação, revisão e ajustes no PMI 001/2018, no âmbito do Conselho Gestor do Programa de Parceria Público-Privada de Porto Velho, CGP/PVH, da Prefeitura do Município de Porto Velho, bem como as demais questões objetivando a estruturação e validação do processo licitatório;
+
+**CONSIDERANDO** que o Art. 67 da Lei Federal nº 8.666/93 determina que a execução do contrato deve ser acompanhada e fiscalizada por representantes da Administração Pública especialmente designados;
+
+**CONSIDERANDO** que a cláusula 9.1 do Contrato nº 077/PGM/2023 determina a criação de Comissão Técnica Municipal para acompanhamento e fiscalização dos trabalhos decorrentes da execução contratual;
+
+**CONSIDERANDO** que a cláusula 7.1 do Contrato nº 077/PGM/2023 determina ser obrigação da Contratante a fiscalização da execução de seu objeto.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituída a Comissão Técnica Municipal para a gestão e fiscalização do Contrato nº 077/PGM/2023, celebrado entre a Secretaria Municipal de Saneamento e Serviços Básicos – SEMUSB e a Fundação Escola de Sociologia e Política de São Paulo - FESPSP, que tem por objeto a Contratação de Instituição de Ensino e Pesquisa para a elaboração de diagnóstico, avaliação, revisão e ajustes no PMI 001/2018, no âmbito do Conselho Gestor do Programa de Parceria Público-Privada de Porto Velho, CGP/PVH, da Prefeitura do Município de Porto Velho e demais questões objetivando a estruturação e validação de procedimento licitatório.
+
+
+Parágrafo único
+
+Por gestão e fiscalização entende-se a verificação da conformidade da execução dos serviços com as regras e diretrizes previstas no instrumento contratual e da alocação adequada dos recursos necessários para tanto, podendo, ainda, realizar a supervisão das atividades desenvolvidas pela Contratada desde que relacionadas à execução do específico contrato retromencionado.
+
+
+Art. 2º.
+
+A Comissão Técnica Municipal para a gestão e fiscalização do Contrato nº 077/PGM/2023 ora instituída será composta pelos seguintes membros, sob a presidência e coordenação do primeiro:
+
+
+I –
+
+Representantes da Secretaria Municipal de Saneamento e Serviços Básicos – SEMUSB:
+
+
+a)
+
+Presidente: Marcelo Melo Barroso – Matrícula 1003789;
+
+
+b)
+
+Membro: João Henrique Costa de Sá – Matrícula 1006266;
+
+
+c)
+
+Membro: Valdinei Rocha dos Santos – Matrícula 77025;
+
+
+d)
+
+Membro: Paulo Henrique Cavalcante Taveira – Matrícula 1005071.
+
+
+II –
+
+Secretaria Municipal da Fazenda – SEMFAZ:
+
+
+a)
+
+Membro: João Fernando Erpen - Matrícula 320234.
+
+
+Art. 3º.
+
+Os trabalhos da comissão especial deverão se pautar pelos princípios da supremacia do interesse público e da eficiência, bem como desempenhando suas atribuições.
+
+
+Art. 4º.
+
+Compete à Comissão Técnica Municipal:
+
+
+I –
+
+analisar os produtos entregues em decorrência da execução do Contrato nº 077/PGM/2023, podendo solicitar a realização de ajustes e/ou substituição dos mesmos;
+
+
+II –
+
+provocar a instauração de processo administrativo com o objetivo de apurar eventual responsabilidade ou prejuízo resultante de erro/vício na execução do contrato;
+
+
+III –
+
+identificar a necessidade de modificar ou adequar a forma de execução do objeto contratado;
+
+
+IV –
+
+atestar a plena execução do objeto contratado.
+
+
+Art. 5º.
+
+As deliberações que porventura sejam tomadas pela Comissão Técnica Municipal somente terão validade se submetidas à aprovação da maioria simples de seus respectivos pares, cabendo ao Presidente da Comissão decidir em caso de empate.
+
+
+Art. 6º.
+
+Para cada Fase relacionada à execução do objeto do Contrato nº 077/ PGM/2023 será observado, pela Comissão Técnica Municipal e Contratada, os seguintes prazos e procedimentos:
+
+
+I –
+
+Após a entrega pela Contratada dos produtos preliminares ao Presidente da Comissão, este realizará análise prévia dos requisitos básicos do documento, como seu formato e adequação do tema à fase a qual se relaciona, em até 03 (três) dias;
+
+
+II –
+
+Caso o produto esteja com os requisitos básicos adequados, o Presidente da Comissão o reencaminhará aos demais membros da Comissão Técnica Municipal, que deverão realizar análise conjunta e pormenorizada de seu conteúdo, frente ao que determina o Contrato nº 077/PGM/2023, em até 05 (cinco) dias;
+
+
+III –
+
+Caso o documento não esteja com os requisitos básicos ou com o conteúdo adequados, o Presidente da Comissão o remeterá à Contratada para realizar os devidos ajustes e/ou substituições, em prazo razoável para a adequação solicitada;
+
+
+IV –
+
+Após a análise de adequação da Comissão Técnica Municipal e/ou dos ajustes feitos, o produto deverá ser aceito e será entregue Relatório de Medição à Contratada, referente à etapa/produto entregue, para emissão de Nota Fiscal/Fatura da etapa superada.
+
+
+Art. 7º.
+
+Todos os atos finais da Comissão Técnica Municipal deverão ser submetidos a apreciação e validação do Secretário Municipal de Saneamento e Serviços Básicos e, es se tratando de produtos finais, caso aprovados, ao Conselho Gestor do Programa de Parceria Público-Privada de Porto Velho, CGP/PVH da Prefeitura Municipal de Porto Velho.
+
+
+Art. 8º.
+
+Aos membros de Comissão Técnica Municipal, aplica-se o disposto no Art. 41 do Decreto n° 11.824, de 18 de outubro de 2010, que regulamenta o Art. 76 da Lei Complementar n° 385, de 1° de julho de 2010.
+
+
+Art. 9º.
+
+O prazo para vigência das atividades da Comissão será de 180 (cento e oitenta) dias para a conclusão dos trabalhos.
+
+
+Art. 10.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito
+

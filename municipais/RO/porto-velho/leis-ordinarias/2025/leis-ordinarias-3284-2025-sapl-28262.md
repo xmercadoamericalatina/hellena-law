@@ -1,0 +1,223 @@
+---
+titulo: "Lei nº 3.284, de 18 de agosto de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3284"
+data: "2025-08-18"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/28262"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7258/text"
+sha256_fonte: "62e439562e74641f47cee164725a713f7f1fd6766556a775ea58b45b6feea930"
+sha256_texto: "aede7d0fac9e9ab3f469f9e7889734b14ca5fc748d46b6537c4887d33c6732ae"
+capturado_em_fonte: "2026-10-20T23:38:05.247080"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei nº 3.284, de 18 de agosto de 2025
+
+Dispõe sobre a obrigatoriedade do uso da focinheira e estabelece regras de segurança para a condução responsável de cães de grande porte e/ou de raças consideradas perigosas no Município de Porto Velho e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+Faço saber que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Os cães de raças notoriamente violentas e perigosas só podem ser levados aos parques, praças ou vias públicas, onde ocorra a presença de crianças ou pessoas indefesas, com a utilização de coleira, guia curta de condução, enforcador e focinheira.
+
+
+§ 1º
+
+A circulação de animais ferozes nos locais referidos neste artigo será permitida desde que conduzidos por maiores de 18 (dezoito) anos através de guias com enforcador e focinheira apropriados para a tipologia racial de cada animal.
+
+
+§ 2º
+
+Entende-se por cães de raças notoriamente violentas e perigosas aquelas cujos antecedentes registram ataques com danos ou riscos às pessoas, os cães de guarda treinados para ataque, ou aqueles que pelo grande porte e comportamento possam colocar em risco a segurança das pessoas, tais como:
+
+
+I –
+
+Mastin-Napolitano;
+
+
+II –
+
+Bull Terrier;
+
+
+III –
+
+American Stafforshire;
+
+
+IV –
+
+Pastor Alemão;
+
+
+V –
+
+Rottweiler;
+
+
+VI –
+
+Fila;
+
+
+VII –
+
+Doberman;
+
+
+VIII –
+
+Pitbull;
+
+
+IX –
+
+Bull dog; e
+
+
+X –
+
+Boxer.
+
+
+§ 3º
+
+Os cães das raças não citadas, mas que se enquadrem em uma ou mais características do parágrafo anterior devem fazer uso dos dispositivos de segurança dispostos nesta lei, inclusive aqueles que pesem acima de 25 kg (vinte e cinco quilos) e os conduzidos por pessoas que não tenham condições físicas para o adequado domínio do animal.
+
+
+§ 4º
+
+Define-se por guia curta de condução as correias ou correntes não extensíveis e de comprimento máximo de 2 (dois) metros.
+
+
+Art. 2º.
+
+Aos condutores de animais que estiverem transitando com os cães sem os dispositivos de segurança dispostos na presente lei, visando o bem da segurança pública, fica autorizado o serviço de guarda, ou policiamento, nos parques ou vias públicas, a intervir com:
+
+
+I –
+
+advertência verbal;
+
+
+II –
+
+notificação por escrito ao condutor;
+
+
+III –
+
+**VETADO.**
+
+
+IV –
+
+multa de 05 (cinco) a 5.000 (cinco mil) UPF’s, que deverá ser aplicada em dobro e progressivamente, nos casos de reincidência à infração;
+
+
+V –
+
+**VETADO.**
+
+
+VI –
+
+**VETADO.**
+
+
+§ 1º
+
+A aplicação da multa prevista no inciso IV deste artigo independe da aplicação do disposto nos seus incisos V e VI.
+
+
+§ 2º
+
+No caso de aplicação do inciso V, poderá o dono ser considerado fiel depositário, estando sujeito às multas, reparações, indenizações e restrições determinadas.
+
+
+Art. 3º.
+
+**VETADO.**
+
+
+Parágrafo único
+
+**VETADO**.
+
+
+Art. 4º.
+
+**VETADO.**
+
+
+Art. 5º.
+
+A fiscalização e a aplicação de multas serão de responsabilidade de órgãos de segurança pública municipal, estando a Secretaria Municipal de Ordem Pública encarregada de fiscalizar o cumprimento das disposições desta Lei diretamente ou por delegação.
+
+
+Art. 6º.
+
+**VETADO.**
+
+
+§ 1º
+
+**VETADO.**
+
+
+§ 2º
+
+**VETADO.**
+
+
+§ 3º
+
+**VETADO.**
+
+
+Art. 7º.
+
+Todos os cães objeto desta Lei que participarem de eventos cinófilos oficiais poderão transitar livremente com o condutor ou proprietário, dentro do local do evento, sem a focinheira.
+
+
+Art. 8º.
+
+Ficam liberados do cumprimento desta lei os cães utilizados pela Polícia Civil, Militar ou Federal e Guarda Civil Municipal, no exercício de sua profissão, e os cães-guias usados por deficientes visuais.
+
+
+Art. 9º.
+
+O Poder Executivo regulamentará esta Lei, no que for necessário a sua aplicação, no prazo de 60 dias a partir da data de sua publicação.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Ficam revogadas as disposições em contrário.
+
+
+**LEONARDO BARRETO DE MORAES Prefeito**
+
+Projeto de Lei nº 4785/2025.  
+Autoria: Vereador Breno Mendes.
+

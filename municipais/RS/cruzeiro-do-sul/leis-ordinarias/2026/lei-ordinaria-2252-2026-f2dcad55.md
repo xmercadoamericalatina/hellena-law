@@ -1,0 +1,47 @@
+---
+titulo: "LEI N° 2252-02/2026"
+uf: "RS"
+municipio: "CRUZEIRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "2252"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/03/2026"
+data_publicacao: 2026-03-18
+codigo_identificador: "F2DCAD55"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117803_2026-03-17_1ec75296de510cdc1f4f44d1627d96eb.pdf"
+baixado_em: 2026-10-15
+---
+# LEI N° 2252-02/2026
+
+LEI N° 2252-02/2026
+LEI N° 2252-02/2026
+PROJETO DE LEI Nº 03/2026
+LEGISLATIVO
+Revisa os valores dos Subsídios do Prefeito e VicePrefeito Municipal.
+CESAR LEANDRO MARMITT, Prefeito Municipal de Cruzeiro do
+Sul/RS, no uso das atribuições previstas por Lei Orgânica e
+Regimento Interno vigentes, faz saber que a Câmara de Vereadores
+aprovou, de acordo com o Autógrafo nº 16/2026 e sanciona a seguinte
+LEI:
+Art. 1º Ficam revisados os valores dos subsídios do Prefeito e VicePrefeito Municipal, no percentual de 4,26% (Quatro vírgula vinte e
+seis por cento).
+Art. 2º As despesas decorrentes da aplicação da presente Lei serão
+cobertas pelas dotações orçamentárias próprias do Poder Executivo.
+
+CESAR LEANDRO MARMITT
+Prefeito Municipal
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação, retroagindo
+seus efeitos a partir do dia 1º de março de 2026.
+
+Registre-se e Publique-se.
+Art. 4º Revogam-se as disposições em contrário.
+CELSO KAPLAN
+Sec. Saúde e Saneamento
+
+GABINETE DO PREFEITO, 04 de março de 2026.
+Publicado por:
+Michele Olbermann

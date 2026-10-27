@@ -1,0 +1,158 @@
+---
+titulo: "Lei nº 3.100, de 28 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3100"
+data: "2023-09-28"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25812"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5160/text"
+sha256_fonte: "8827b33d682ad8e239b14262e08ce4c80a618673ed1aebb641fe410945b0618d"
+sha256_texto: "573f8471afe93fc4781bf6aa62662a7226111e0a4de07fa8a59fc8e4f5cf66a1"
+capturado_em_fonte: "2026-10-21T05:04:58.009055-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.100, de 28 de setembro de 2023
+
+Cria Auxílio a ser pago a crianças e adolescentes em situação de orfandade decorrente de feminicídio e dá outras providências.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador MÁRCIO PACELE, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+LEI :
+
+
+Art. 1º.
+
+Fica autorizada a criação, no âmbito do Município de Porto Velho, do Auxílio a ser pago a crianças e adolescentes que tenham ficado órfãos em decorrência de feminicídio, nos termos da Lei Federal nº 13.104, de 09 de março de 2015.
+
+
+Parágrafo único
+
+A criança ou adolescente já considerada órfã, que venha a perder sua tutora ou responsável legal por falecimento em decorrência de feminicídio fará jus ao recebimento do auxílio.
+
+
+Art. 2º.
+
+São requisitos necessários para o recebimento do Auxílio:
+
+
+I –
+
+idade inferior a 18 (dezoito) anos de idade;
+
+
+II –
+
+residência e domicílio no Município de Porto Velho;
+
+
+III –
+
+inscrição no CADÚNICO;
+
+
+IV –
+
+matrícula em instituição de ensino na Cidade de Porto Velho;
+
+
+V –
+
+guarda oficializada, responsabilidade legal da criança ou adolescente por família acolhedora ou tutela provisória;
+
+
+VI –
+
+renda familiar mensal per capita igual ou inferior a 1/4 (um quarto) do salário-mínimo nacional vigente.
+
+
+Art. 3º.
+
+São requisitos necessários para a manutenção do Auxílio:
+
+
+I –
+
+atendimento aos requisitos previstos no art. 2º desta Lei;
+
+
+II –
+
+cumprimento do calendário nacional de vacinação e acompanhamento do estado nutricional, nos termos do regulamento;
+
+
+III –
+
+frequência escolar mínima de 75% (setenta e cinco por cento);
+
+
+IV –
+
+acompanhamento da criança ou adolescente pela Secretaria Municipal de Assistência Social e da Família e Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+V –
+
+ausência de prática de ato infracional, crime ou contravenção penal.
+
+
+Art. 4º.
+
+O Auxílio é direito da criança e do adolescente órfão em decorrência de feminicídio, devendo ser administrado pelo seu responsável legal, exceto de autor, coator ou partícipe do crime.
+
+
+§ 1º
+
+O Auxílio será pago até que o beneficiário complete 18 (dezoito) anos de idade.
+
+
+§ 2º
+
+O pagamento do Auxílio poderá ser estendido até que o beneficiário complete 24 (vinte e quatro) anos de idade, mediante parecer social favorável, desde que beneficiário em situação de vulnerabilidade social esteja regularmente matriculado em curso de graduação reconhecido pelo Ministério da Educação.
+
+
+Art. 5º.
+
+O valor do auxílio não poderá ultrapassar o valor de 1 (um) salário mínimo nacional por criança ou adolescente, de acordo com a disponibilidade orçamentária e financeira.
+
+
+Parágrafo único
+
+O auxílio deverá ser depositado em conta corrente aberta em nome da criança ou do adolescente.
+
+
+Art. 6º.
+
+O auxílio a que se refere esta Lei não poderá ser acumulado com quaisquer benefícios relacionados à previdência social e à assistência social no âmbito municipal, estadual ou federal, assegurado ao beneficiário o direito de opção pelo benefício que considerar mais vantajoso.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará a presente Lei.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 28 de setembro de 2023.
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei nº 4.450/2023  
+Vereador Dr. Júnior Queiroz
+

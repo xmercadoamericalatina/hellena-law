@@ -1,0 +1,181 @@
+---
+titulo: "LEI MUNICIPAL Nº 4.049 DE 19 DE FEVEREIRO DE 2026"
+uf: "RS"
+municipio: "SÃO PEDRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "4049"
+data: 2026-02-19
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 23/02/2026"
+data_publicacao: 2026-02-23
+codigo_identificador: "9D3BCC1C"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117786_2026-02-20_5d196095fa6e13253013b556247a557f.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 4.049 DE 19 DE FEVEREIRO DE 2026
+
+LEI MUNICIPAL Nº 4.049 DE 19 DE FEVEREIRO DE 2026
+
+www.diariomunicipal.com.br/famurs
+
+308
+
+Rio Grande do Sul , 23 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVIII | Nº 4273
+
+AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL NO VALOR DE R$ 1.744.353,44 (UM MILHÃO
+SETECENTOS E QUARENTA E QUATRO MIL TREZENTOS E CINQUENTA E TRÊS REAIS COM QUARENTA E
+QUATRO CENTAVOS) NA LEI ORÇAMENTÁRIA ANUAL E DÁ PROVIDÊNCIAS.
+Eu, FERNANDO PILAR CÉZAR, Prefeito Municipal de São Pedro do Sul, Estado do Rio Grande do Sul.
+FAÇO SABER que a Câmara de Vereadores aprovou e eu, em cumprimento ao que dispõe a Lei Orgânica do Município, sanciono e promulgo a
+seguinte:
+LEI
+Art. 1º Autoriza a abertura de crédito adicional especial no valor de R$ 1.744.353,44 (um milhão setecentos e quarenta e quatro mil trezentos e
+cinquenta e três reais com quarenta e quatro centavos) no Orçamento do Município para o Exercício de 2025, que passa a integrar a Lei Municipal n°
+4.028, de 03 de Novembro de 2025, conforme segue:
+6
+602
+2601
+319011
+7
+703
+1764
+339039
+1770
+339039
+449052
+339030
+1771
+449051
+1775
+449052
+339039
+339030
+1780
+339039
+1781
+449052
+339030
+1782
+449051
+1783
+339030
+1777
+339039
+98
+9801
+0.001
+332093
+332093
+332093
+332093
+332093
+332093
+332093
+Total
+
+ÓRGÃO: SECRETARIA MUNICIPAL DE EDUCAÇÃO
+UNIDADE: ENSINO INFANTIL
+PROJ/ATIV. MANUTENÇÃO DAS ESCOLAS MUNICIPAIS DE ENSINO INFANTIL (E.M.E.I.)
+VENCIMENTOS E VANTAGENS FIXAS PESSOAL CIVIL
+ÓRGÃO: SECRETARIA MUNICIPAL DA SAÚDE
+UNIDADE: ESTRATÉGIA DA SAÚDE DA FAMÍLIA
+Projet/Ativ FISIOTERAPIA - EMENDA PARLAMENTAR - CUSTEIO 36000586884202400
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+Projet/Ativ BEM CUIDAR - EQUIPAMENTOS PARA A REDE MATERNO-PATERNO-INFANTIL
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+EQUIPAMENTOS E MATERIAL PERMANENTE
+MATERIAL DE CONSUMO
+Projet/Ativ Portaria GM/MS n° 3.894/2024 (UBS 05) PROPOSTA 12409.0540001/24-008
+OBRAS E INSTALAÇÕES
+Projet/Ativ Consórcio - Portaria 847/2024 Vigilância Epidemiológica
+EQUIPAMENTOS E MATERIAL PERMANENTE
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+MATERIAL DE CONSUMO
+Projet/Ativ Incremento temporário APS - Proposta 3600070515802500 - emenda 50410001
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+Projet/Ativ ESF 1 - Saldos Portarias 849, 1486, 3073, 2467, 3391, 2180, 3499, 2018, 2019
+EQUIPAMENTOS E MATERIAL PERMANENTE
+MATERIAL DE CONSUMO
+Projet/Ativ Emenda 24070003 - proposta 36000647811202500 Incremento custeio PAP
+OBRAS E INSTALAÇÕES
+Projet/Ativ Emenda individual 44550020 Custeio dos serviços de AP em saúde 360006792482025
+MATERIAL DE CONSUMO
+Projet/Ativ Consórcio - PORTARIA GM/MS Nº 7.053, DE 3 DE JUNHO DE 2025
+OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA
+ÓRGÃO: ENCARGOS GERAIS DO MUNICÍPIO
+UNIDADE: ENCARGOS GERAIS DO MUNICÍPIO
+ENCARGOS GERAIS DO MUNICÍPIO
+INDENIZAÇÕES E RESTITUIÇÕES (1004)
+INDENIZAÇÕES E RESTITUIÇÕES (1005)
+INDENIZAÇÕES E RESTITUIÇÕES (1007)
+INDENIZAÇÕES E RESTITUIÇÕES (1002)
+INDENIZAÇÕES E RESTITUIÇÕES (1003)
+INDENIZAÇÕES E RESTITUIÇÕES (1006)
+INDENIZAÇÕES E RESTITUIÇÕES (1008)
+
+R$ 102.000,00
+
+R$ 122.000,00
+R$ 1.200,00
+R$ 1.500,00
+R$ 6.736,05
+R$ 627.109,00
+R$ 825,89
+R$ 1,00
+R$ 2.664,00
+R$ 461.188,73
+R$ 350,61
+R$ 18.747,87
+R$ 90.000,00
+R$ 200.000,00
+R$ 110.030,22
+
+R$ 0,01
+R$ 0,01
+R$ 0,01
+R$ 0,01
+R$ 0,01
+R$ 0,01
+R$ 0,01
+R$ 1.744.353,44
+
+Art. 2º O crédito especial será coberto pela tendência de excesso da fonte de recurso 600 Transf. Fundo a Fundo de Rec. do SUS do Gov. Fed. Bloco de Manutenção das Ações e Serviços Público, 622 Transferências Fundo a Fundo de Recursos do SUS provenientes dos Governos Municipais
+e superávit do exercício anterior das fontes 600 Transf. Fundo a Fundo de Rec. do SUS do Gov. Fed. - Bloco de Manutenção das Ações e Serviços
+Público, 622 Transferências Fundo a Fundo de Recursos do SUS provenientes dos Governos Municipais, 621 Transferências Fundo a Fundo de
+Recursos do SUS provenientes do Governo Estadual e 540 Transferências do FUNDEB - Impostos e Transferências de Impostos, como segue:
+EXCESSO DE ARRECADAÇÃO REC.
+SUPERÁVIT DO EXERCÍCIO ANTERIOR - REC.
+
+R$ 0,03
+R$ 1.744.353,41
+R$ 1.744.353,44
+
+Total
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+FERNANDO PILAR CÉZAR
+Prefeito Municipal
+CLÉDER TATSCH
+Secretário Municipal da Fazenda
+MARIANE BRAIBANTE PEREIRA
+Procuradora Municipal
+FREDERICO REZER BAYER
+Secretário Municipal de Administração
+REGISTRE-SE,
+
+www.diariomunicipal.com.br/famurs
+
+309
+
+Rio Grande do Sul , 23 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVIII | Nº 4273
+
+PUBLIQUE-SE
+E CUMPRA-SE.
+Publicado por:
+Sara Crisana Simon

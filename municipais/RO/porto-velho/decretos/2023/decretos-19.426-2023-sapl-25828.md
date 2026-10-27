@@ -1,0 +1,190 @@
+---
+titulo: "Decreto nº 19.426, de 28 de setembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.426"
+data: "2023-09-28"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25828"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8416/text"
+sha256_fonte: "292960734a25cb5d7278aabd99e80b942d0e95f11e30eb6e5a42577dc195c723"
+sha256_texto: "0fbb820df63a2cbd3c53ca6198d65d8390d907cb3d6abe9ed647c8ac58502545"
+capturado_em_fonte: "2026-10-21T05:05:19.039316-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.426, de 28 de setembro de 2023
+
+Convoca, em caráter extraordinário, a Conferência Municipal de Educação – CONAE, edição 2024, em preparação para a Conferência Nacional Extraordinária de Educação – CONAEE 2024.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho, c/c Art. 8º da Lei nº 2.228, de 25 de junho de 2015 e tendo em vista o que consta no Proc. 0600-00038360/2023-19-e.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica convocada, em caráter extraordinário, a Etapa Municipal da Conferência Nacional de Educação – CONAEE, edição 2024, a ser realizada no município de Porto Velho, no período de 28 de setembro de 2023 a 17 de novembro de 2023, com o tema “Plano Nacional de Educação 2024-2034 - política de estado para a garantia da educação como direito humano, com justiça social e desenvolvimento socioambiental sustentável”, com a participação da comunidade educacional e da sociedade civil organizada.
+
+
+§ 1º
+
+Etapa Municipal da Conferência Nacional de Educação – CONAEE de que trata o caput deste artigo, será realizada em formato híbrido: online e presencial, com transmissão pelo Canal da DIFOR/DPE/SEMED/PVH no Youtube.
+
+
+§ 2º
+
+A realização da CONAEE 2024 tem como finalidade o desenvolvimento da educação nacional, com gestão democrática, inclusão, equidade, diversidade e qualidade social, a partir da defesa do Estado Democrático de Direito, da Constituição e da educação como um direito de todas as pessoas.
+
+
+§ 3º
+
+A conferência de que trata o § 2º deste artigo será articulada e coordenada pelo Fórum Permanente de Educação do Município de Porto Velho, com o apoio logístico e articulação, junto à comunidade escolar, da Secretaria Municipal de Educação – SEMED; com a disponibilização de pessoal técnico e administrativo do quadro da SEMED, para a composição da Comissão de Mobilização; Organização; Divulgação e a Comissão de Monitoramento; Sistematização e Relatoria, visando o êxito dos trabalhos da Conferência Municipal de Educação do município de Porto Velho.
+
+
+§ 4º
+
+As despesas para a realização da CONAEE 2024 – Etapa Municipal, correrão por conta da dotação orçamentária da Secretaria Municipal de Educação – SEMED.
+
+
+Art. 2º.
+
+A CONAEE 2024, será realizada com o objetivo de viabilizar a participação representativa dos segmentos educacionais e setores da sociedade civil na elaboração o PNE, decênio 2024-2034, que incluirá o diagnóstico, as diretrizes, as metas e as estratégias para o próximo decênio, conforme o disposto no Art. 12 da Lei nº 13.005, de 25 de junho de 2014.
+
+
+Art. 3º.
+
+São objetivos específicos da CONAEE 2024, etapa municipal:
+
+
+I –
+
+avaliar a execução do PME vigente;
+
+
+II –
+
+subsidiar a elaboração do PME, decênio 2024-2034;
+
+
+III –
+
+contribuir com a identificação dos problemas e das necessidades educacionais; e
+
+
+IV –
+
+produzir referências para orientar a formulação e a implementação dos Planos de Educação estaduais, distrital e municipais, articulados ao Plano Nacional de Educação, decênio 2024-2034, com vistas ao fortalecimento da cooperação federativa em educação e do regime de colaboração entre os sistemas.
+
+
+Art. 4º.
+
+O tema da CONAEE 2024, será abordado nos seguintes eixos temáticos:
+
+
+I –
+
+Eixo 1 – O PNE como articulador do Sistema Nacional de Educação, sua vinculação aos planos decenais estaduais, distrital e municipais de educação, em prol das ações integradas e intersetoriais, em regime de colaboração interfederativa;
+
+
+II –
+
+Eixo 2 – A garantia do direito de todas as pessoas à educação de qualidade, com acesso, permanência e conclusão, em todos os níveis, etapas e modalidades, nos diferentes contextos e territórios;
+
+
+III –
+
+Eixo 3 – Educação, Direitos Humanos, Inclusão e Diversidade - equidade e justiça social na garantia do direito à educação para todas as pessoas e o combate às diferentes e novas formas de desigualdade, de discriminação e de violência;
+
+
+IV –
+
+Eixo 4 – Gestão democrática e educação de qualidade - regulamentação, monitoramento, avaliação, órgãos e mecanismos de controle e participação social nos processos e espaços de decisão;
+
+
+V –
+
+Eixo 5 – Valorização de profissionais da educação - garantia do direito à formação inicial e continuada de qualidade, ao piso salarial e carreira e às condições para o exercício da profissão de forma segura e saudável;
+
+
+VI –
+
+Eixo 6 – Financiamento público da educação pública, com controle social e garantia das condições adequadas para a qualidade social da educação, com vistas à democratização do acesso e da permanência; e
+
+
+VII –
+
+Eixo 7 – Educação comprometida com a justiça social, a proteção da biodiversidade, o desenvolvimento socioambiental sustentável para a garantia de uma vida com qualidade e o enfrentamento das desigualdades e da pobreza.
+
+
+Parágrafo único
+
+Os eixos temáticos debaterão os problemas, as causas, os objetivos, as diretrizes, as metas e as estratégias para a construção do PNE, decênio 2024-2034, a serem consolidados no Documento Referência de que trata o inciso VI do *caput* do Art. 5º do Decreto.
+
+
+Art. 5º.
+
+Compete ao Fórum Municipal de Educação na organização da CONAEE 2024 – Etapa municipal:
+
+
+I –
+
+coordenar, supervisionar e promover a realização da CONAEE 2024 – Etapa Municipal, observados os aspectos técnicos, políticos e administrativos;
+
+
+II –
+
+elaborar o regimento geral da CONAEE 2024 – Etapa Municipal, que disporá sobre a organização, a composição e o funcionamento da Conferência e suas etapas;
+
+
+III –
+
+elaborar a programação e a metodologia para a operacionalização da CONAEE 2024 – Etapa Municipal;
+
+
+IV –
+
+mobilizar e articular a participação dos segmentos da educação e dos setores sociais na conferência municipal; e
+
+
+V –
+
+elaborar propostas de divulgação e de estratégia de comunicação da conferência;
+
+
+Art. 6º.
+
+Compete à Secretaria Municipal de Educação – SEMED:
+
+
+I –
+
+fornecer o apoio administrativo ao Fórum Permanente Municipal de Educação no exercício das competências estabelecidas no Art. 5º deste Decreto;
+
+
+II –
+
+adotar as medidas administrativas necessárias ao cumprimento dos objetivos da CONAEE 2024 – Etapa Municipal; e
+
+
+III –
+
+viabilizar a infraestrutura necessária para a realização da CONAEE 2024 – Etapa Municipal, com o suporte técnico e financeiro.
+
+
+Art. 7º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

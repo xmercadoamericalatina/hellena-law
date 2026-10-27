@@ -1,0 +1,99 @@
+---
+titulo: "Lei Ordinária Municipal nº 6.686, de 19 de fevereiro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "6686"
+data: "2020-02-19"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/18509"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/549/text"
+sha256_fonte: "c1bb1e07e9054735cef14ad99564b21826f4afb25103c764c14919780aac6440"
+sha256_texto: "5811c59293e71ab13293b08d915fc90a553fa79c50f89dac5f7a08a5d7fc0b69"
+capturado_em_fonte: "2026-10-21T03:35:54.984489-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 6.686, de 19 de fevereiro de 2020
+
+Autoriza o poder legislativo municipal de Erechim a contratar, em caráter temporário e de excepcional interesse público de 1 (um) intérprete de libras com carga horária semanal de 20 horas.
+
+
+O Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+Faço saber que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Legislativo Municipal de Erechim, nos termos do art. 37, IX, da Constituição Federal, autorizado a contratar, em caráter temporário, 1 (um) Interprete de Libras, com carga horária semanal de 20 horas.
+
+
+Parágrafo único
+
+A contratação objeto desta Lei será pelo período de até 180 (cento e oitenta) dias, podendo ser prorrogado por igual período ou rescindido antecipadamente caso ocorra homologação de concurso público ou extinta a necessidade da manutenção do contrato.
+
+
+Art. 2º.
+
+As condições de provimento e as atribuições do cargo de Intérprete de Libras, requisitos para provimento do cargo e remuneração são as constantes da Lei Municipal n.° 4.784 de 09 de setembro de 2010, que dispõe sobre o Quadro de Cargos de Provimento Efetivo e em Comissão e Estabelece o Plano de Carreira dos Servidores do Poder Legislativo e dá outras providências.
+
+
+Art. 3º.
+
+A contratação em caráter temporário, prevista no art. 1.º será efetuada através da ordem de classificação dos aprovados em processo seletivo simplificado a ser realizado, considerando:
+
+
+I –
+
+o período de inscrições de 3 (três) dias, sendo exigidas para inscrição as condições de provimento previstas para o cargo efetivo;
+
+
+II –
+
+a ordem de classificação obedecerá a pontuação obtida pela nota a ser obtida em duas etapas prova prática e avaliação curricular sendo:
+
+
+a)
+
+Prova prática que consistirá de atividades de tradução e interpretação de vídeo de Libras/Português; Português/Libras em que será avaliado, através de banca examinadora, a competência e habilidade do candidato no domínio e fluência de LIBRAS, sendo atribuído até 50 pontos para fluência em Português/Libras; até 25 pontos para interpretação Libras/Português, sendo desclassificado o candidato que não tiver obtido 50 pontos;
+
+
+b)
+
+Avaliação curricular apresentação os seguintes títulos:
+
+
+<table><tbody><tr><td>Item</td><td> </td><td>Pontuação</td><td>Máximo</td></tr><tr><td>I</td><td>Doutorado</td><td>15</td><td>18</td></tr><tr><td>II</td><td>Mestrado</td><td>12</td><td>15</td></tr><tr><td>III</td><td>Especialização</td><td>10</td><td>12</td></tr><tr><td>IV</td><td>Intérprete educacional<br>Outro Tipo de experiência como intérprete de libras</td><td>3 pontos por semestre<br>1 ponto por ano</td><td>20</td></tr><tr><td rowspan="7">V</td><td>Cursos de Educação Profissional de tradução e intérprete de Libras/Português; Português/Libras reconhecido pelo sistema que os credenciou. </td><td>05 </td><td rowspan="7">35</td></tr><tr><td>Curso de Formação Continuada para Tradutor e Intérprete de Língua Brasileira de Sinais e Língua Portuguesa, promovidos por instituições de ensino superior e instituições credenciadas por Secretarias de Educação. </td><td>05</td></tr><tr><td>Cursos de Formação promovidos por organização da sociedade civil representativas da comunidade surda, desde que o certificado seja convalidado por instituições de ensino superior e instituições credenciadas por Secretarias de Educação</td><td>05</td></tr><tr><td>Certificado de Proficiência em Tradução e Intérprete de Língua Portuguesa (Prolibras). </td><td>05</td></tr><tr><td>Curso de Libras com carga horária de 120 horas</td><td>10</td></tr><tr><td rowspan="2">Cursos da área de surdez</td><td>1 ponto para cada 120 horas </td></tr><tr><td>1 ponto para cada 120 horas </td></tr><tr><td> </td><td>Total</td><td> </td><td>100</td></tr></tbody></table>
+
+
+Art. 4º.
+
+As despesas decorrentes da presente Lei serão atendidas através de dotação especifica constante na lei de meios.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Erechim/RS, 19 de Fevereiro de 2020.  
+  
+  
+LUIZ FRANCISCO SCHMIDT  
+Prefeito Municipal
+
+
+Registre-se e Publique-se  
+Data supra  
+  
+  
+VALDIR FARINA  
+Secretário Municipal de Administração
+

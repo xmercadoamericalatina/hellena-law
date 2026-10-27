@@ -1,0 +1,276 @@
+---
+titulo: "Lei Ordinária-MUN nº 851, de 20 de novembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "851"
+data: "2006-11-20"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/286"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/20/text"
+sha256_fonte: "f118b5439ee5d32231ba15b2caebe2c5f23446f5f199df9ae675553407706f9a"
+sha256_texto: "75a357b68e3af8716100fe5a67dbca4b11b3a3535c68ce79427a9034b162eefe"
+capturado_em_fonte: "2026-10-21T05:19:36.476199-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 851, de 20 de novembro de 2006
+
+Dispõe sobre a criação do Conselho Municipal de Desenvolvimento Ambiental e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais,
+
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado no âmbito da Secretaria Municipal de Agricultura, Meio Ambiente e Abastecimento, o Conselho Municipal de Desenvolvimento Ambiental-CODEMA.
+
+
+Parágrafo único
+
+O CODEMA é órgão colegiado, consultivo de assessoramento ao Poder Executivo Municipal e deliberativo no âmbito de sua competência, sobre as questões ambientais propostas nesta e demais leis correlatas do Município.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Desenvolvimento Ambiental-CODEMA compete:
+
+
+I –
+
+propor diretrizes para a Política Municipal de Meio Ambiente;
+
+
+II –
+
+propor normas técnicas e legais, procedimentos e ações, visando a defesa, conservação, recuperação e melhoria da qualidade ambiental do município, observada a legislação federal, estadual e municipal pertinente;
+
+
+III –
+
+exercer a ação fiscalizadora de observância as normas contidas na lei Orgânica Municipal e na legislação a que se refere o item anterior;
+
+
+IV –
+
+obter e repassar informações e subsídios técnicos relativos ao desenvolvimento ambiental aos órgãos públicos, entidades públicas e privadas e a comunidade em geral;
+
+
+V –
+
+atuar no sentido da conscientização pública para o desenvolvimento ambiental promovendo a educação ambiental formal e informal, com ênfase nos problemas do município;
+
+
+VI –
+
+subsidiar o Ministério Público nos procedimentos que dizem respeito ambiente previstos na Constituição Federal de 1988;
+
+
+VII –
+
+solicitar aos órgãos competentes o suporte técnico complementar as ações executivas do município na área ambiental;
+
+
+VIII –
+
+propor a celebração de convênios, contratos e acordos com entidades públicas e privadas de pesquisas e de atividades ligadas ao desenvolvimento ambiental;
+
+
+IX –
+
+opinar previamente sobre planos e programas anuais e plurianuais de trabalho do órgão executivo municipal, de meio ambiente, no que diz respeito a sua competência exclusiva;
+
+
+X –
+
+apresentar anualmente proposta orçamentária ao Executivo Municipal, inerente ao seu funcionamento;
+
+
+XI –
+
+identificar e informar a comunidade e aos órgãos públicos competentes, federal, estadual e municipal, sobre a existência de áreas degradadas ou ameaçadas de degradação;
+
+
+XII –
+
+opinar sobre a realização de estudo alternativo sobre as possíveis consequências ambientais de projetos públicos ou privados, requisitando das entidades envolvidas as informações necessárias ao exame da matéria, visando a compatibilização do desenvolvimento econômico com a proteção ambiental;
+
+
+XIII –
+
+acompanhar o controle permanente das atividades degradadoras e poluidoras ou potencialmente degradadoras e poluidoras, de modo a compatibiliza-las com as normas e padrões ambientais vigentes. denunciando qualquer alteração que promova impacto ambiental ou desequilíbrio ecológico;
+
+
+XIV –
+
+receber. denúncias feitas pela população diligenciando no sentido de sua apuração junto aos órgãos federais, estaduais e municipais responsáveis e sugerindo ao Prefeito Municipal as providencias cabíveis;
+
+
+XV –
+
+acionar os órgãos competentes para localizar, reconhecer, mapear e cadastrar os recursos naturais existentes no Município, para o controle das ações capazes de afetar ou destruir o meio ambiente;
+
+
+XVI –
+
+opinar nos estudos sobre o uso ocupação e parcelamento do solo urbano, posturas municipais, visando a adequação das exigências do meio ambiente ao desenvolvimento do município;
+
+
+XVII –
+
+examinar e deliberar juntamente com o órgão ambiental competente sobre a emissão de alvarás de localização e funcionamento no âmbito municipal das atividades potencialmente poluidoras bem como sobre as solicitações de certidões para licenciamento;
+
+
+XVIII –
+
+realizar e coordenar as Audiências Públicas, quando for o caso, visando participação da comunidade nos processos de instalação de atividades potencialmente poluidoras;
+
+
+XIX –
+
+propor ao Executivo Municipal a instituição de unidades de conservação visando a proteção de sítios de beleza excepcional, mananciais, patrimônio histórico, artístico arqueológico, paleontológico. espeleológico e áreas representativas de ecossistemas destinados a realização de pesquisas básicas e aplicadas de ecologia;
+
+
+XX –
+
+Responder a consulta sobre matéria de sua competência;
+
+
+XXI –
+
+decidir, juntamente com o órgão executivo de meio ambiente, sobre a aplicação dos recursos provenientes do Fundo Municipal de Meio ambiente;
+
+
+Art. 3º.
+
+O suporte financeiro, técnico e administrativo indispensável à instalação e ao funcionamento do CODEMA será prestado diretamente pela Prefeitura através do órgão executivo municipal de meio ambiente.
+
+
+Art. 4º.
+
+O CODEMA será composto, de forma paritária, por representantes do poder público e da sociedade civil, a saber:
+
+
+I –
+
+um presidente, que é o titular do órgão executivo municipal de meio ambiente;
+
+
+II –
+
+um representante do Poder Legislativo Municipal designado pelos vereadores;
+
+
+III –
+
+o titular de cada órgão do executivo municipal abaixo mencionado:
+
+
+a)
+
+Secretaria Municipal de Saúde;
+
+
+b)
+
+Secretaria Municipal de Educação;
+
+
+c)
+
+Secretaria Municipal de Transportes. Obras e Serviços Urbanos:
+
+
+d)
+
+Secretaria Municipal de Desenvolvimento Econômico;
+
+
+e)
+
+Secretaria Municipal de planejamento;
+
+
+IV –
+
+dois representantes de órgãos da administração pública estadual e federal que tenham em suas atribuições a proteção ambiental e o saneamento e que possuam representação no município, tais como: EMATER, IBAMA, Policia Florestal, Delegacia Regional de Ensino;
+
+
+V –
+
+dois representantes de setores organizados da sociedade, tais como: Associação do Comercio, da Indústria, Sindicatos e pessoas comprometidas com a questão ambiental;
+
+
+VI –
+
+um representante de entidade civil criada com o objetivo de defesa interesses dos moradores, com atuação no município;
+
+
+VII –
+
+dois representantes de entidades civis criadas com finalidade de defesa da qualidade do meio ambiente, com atuação no âmbito do município, se houver;
+
+
+Art. 5º.
+
+Cada membro do Conselho terá um suplente que o substituirá em caso de impedimento, ou qualquer ausência.
+
+
+Art. 6º.
+
+A função dos membros do CODEMA é considerada serviço de relevante valor social.
+
+
+Art. 7º.
+
+As sessões do CODEMA serão públicas e os atos deverão ser amplamente divulgados.
+
+
+Art. 8º.
+
+O mandato dos membros do CODEMA e de dois altos, permitida uma recondução, a exceção dos representantes do Executivo Municipal.
+
+
+Art. 9º.
+
+Os órgãos ou entidades mencionados no art. 4o. poderão substituir o membro efetivo indicado ou seu suplente, mediante comunicação por escrito dirigida ao Presidente do CODEMA.
+
+
+Art. 10.
+
+O não comparecimento a 03 (três) reuniões consecutivas ou a 05 (cinco) alternadas durante 12(doze) meses, implica na exclusão do CODEMA.
+
+
+Art. 11.
+
+O CODEMA poderá instituir, se necessário, câmaras técnicas em diversas áreas de interesse e ainda recorrer a técnicos e entidades de notória especialização em assuntos de interesse ambiental.
+
+
+Art. 12.
+
+No prazo máximo de sessenta dias após a sua instalação, o CODEMA elaborará o seu Regimento Interno, que deverá ser aprovado por decreto do Prefeito Municipal.
+
+
+Art. 13.
+
+A instalação do CODEMA e a composição dos seus membros ocorrerá no prazo máximo de 60 (sessenta) dias, contados a partir da data de publicação desta lei.
+
+
+Art. 14.
+
+As despesas com a execução da presente Lei correrão pelas verbas próprias a serem consignadas no orçamento para o próximo ano.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação revogadas as disposições em contrário.
+

@@ -1,0 +1,145 @@
+---
+titulo: "Lei Complementar nº 1.001, de 13 de janeiro de 2025"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "1.001"
+data: "2025-01-13"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27489"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4752/text"
+sha256_fonte: "5ffa8ea1f07d20085d1424ef68ec3673371fa8e7fb54bf81deb5821ab5d80f30"
+sha256_texto: "9ab21d8f22436e8bfe9f23bc47b7e91b257e6429a8d24437b8159a3a8ae3ad24"
+capturado_em_fonte: "2026-10-21T03:36:31.385334-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 1.001, de 13 de janeiro de 2025
+
+Institui no âmbito do Município de Porto Velho o Programa de Desempenho da Saúde Bucal na Atenção Primária à Saúde – APS, nos termos da portaria GM/MS nº 960, de 17 de julho de 2023, do Ministério da Saúde e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou eu sanciono a seguinte:
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Porto Velho, o Programa de Pagamento por Desempenho da Saúde Bucal na Atenção Primária à Saúde – APS nos termos da Portaria GM/MS nº 960, de 17 de julho de 2023, do Ministério da Saúde.
+
+
+Art. 2º.
+
+O pagamento por Desempenho será aplicado às equipes de Saúde Bucal – eSB modalidade I e II, vinculadas às equipes de Estratégia Saúde da Família – ESF também condicionado aos indicadores estabelecidos pela Portaria GM/MS nº 960 e pela nova metodologia de cofinanciamento federal do Piso de Atenção Primária à Saúde – APS conforme Portaria 3493GM/MS, de 10 de abril de 2024, do Ministério da Saúde ou outra Portaria que vier a ser substituída.
+
+
+I –
+
+O valor do pagamento por desempenho levará em consideração os resultados dos indicadores estratégicos e ampliados alcançados pelas equipes.
+
+
+II –
+
+A apuração dos indicadores será realizada quadrimestralmente (janeiro a abril; maio a agosto; setembro a dezembro), e os resultados serão disponibilizados no quadrimestre subsequente.
+
+
+III –
+
+Farão jus ao pagamento por desempenho os servidores efetivos do Município de Porto Velho e os contratados emergenciais e Estatutários que são vinculados às Equipes de Saúde Bucal desde que atingidos os critérios estabelecidos pela Portaria GM/MS Nº 3493/2024.
+
+
+Parágrafo único
+
+O pagamento será efetuado uma vez ao ano, parcela única, aos profissionais participantes das Equipes de Saúde Bucal credenciadas e recebendo repasse junto ao Ministério da Saúde, através de folha de pagamento, de acordo com os repasses financeiros previstos pela Portaria GM/MS N. 960/2023.
+
+
+Art. 3º.
+
+O recurso do Pagamento por Desempenho será repassado pelo Ministério da Saúde ao Município de Porto Velho – RO de acordo com as metas e resultados previstos nas suas pertinentes Portarias e concedido aos profissionais da Saúde Bucal.
+
+
+Parágrafo único
+
+O Município fica desobrigado de fazer pagamentos aos profissionais, se porventura o Ministério da Saúde deixar de repassar os recursos a este ente Federado.
+
+
+Art. 4º.
+
+O servidor perderá o direito ao Pagamento por Desempenho das Equipes de Saúde Bucal na Atenção Primária à Saúde – APS em caso de desistência, exoneração, rescisão ou afastamento do serviço antes da data do pagamento do incentivo aos profissionais e perderão também o direito ao recebimento do incentivo os servidores que estiverem enquadrados nos seguintes casos:
+
+
+I –
+
+ausentar-se das atividades da equipe por período superior a 15 (quinze) dias, ressalvo o direito ao gozo de férias;
+
+
+II –
+
+tiver 3 (três) faltas sem justificativa ao mês;
+
+
+III –
+
+atestados para todos os casos superiores a 15 (quinze) dias/mês;
+
+
+IV –
+
+afastamento com ou sem ônus, para outro órgão ou entidade da administração direta, autarquias e fundações a nível municipal, estadual ou federal;
+
+
+V –
+
+profissionais que estejam em readaptação e redução de carga horária, acarretando o descredenciamento da Equipe;
+
+
+VI –
+
+profissional que integre outro programa de incentivo diretamente vinculado ao Ministério da Saúde;
+
+
+VII –
+
+ausência nas capacitações e reuniões inerentes às atividades das Equipes de Saúde Bucal, salvo quando justificadas e aceitas pela coordenação.
+
+
+Art. 5º.
+
+Do valor global da parcela única adicional do recurso repassado pelo Ministério da Saúde ao Município de Porto Velho, serão destinados às equipes da eSB 100% do valor, sendo 70% (setenta por cento) repassado aos Auxiliares ou Técnicos em Saúde Bucal e 30% (trinta por cento) repassado aos Cirurgiões Dentista.
+
+
+§ 1º
+
+O valor do incentivo financeiro pago aos profissionais referido nesta Lei, será repassado na folha de pagamento do mês subsequente ao do repasse do incentivo do desempenho da saúde bucal pelo Fundo Nacional de Saúde ao Fundo Municipal de Saúde.
+
+
+§ 2º
+
+O valor adicional previsto no Art. 15-D da Portaria GM/MS Nº 960 que deverá ser repassado ao Município, será integralmente destinado aos profissionais das equipes de saúde Bucal.
+
+
+§ 3º
+
+Fará jus também os servidores que estiverem lotados na Divisão de Saúde Bucal com incentivo de desempenho mensal correspondente à média alcançada pelas equipes de saúde bucal do município, uma vez que é um recurso humano primordial para os monitoramentos dos 12 (doze) indicadores de desempenho.
+
+
+Art. 6º.
+
+A gratificação de incentivo aos indicadores de Desempenho da Saúde Bucal de que trata esta lei não serão computadas para efeito de cálculo de outros adicionais ou vantagens e nem se incorporarão aos vencimentos para fixação dos proventos de aposentadoria ou pensão.
+
+
+Art. 7º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES Prefeito**
+

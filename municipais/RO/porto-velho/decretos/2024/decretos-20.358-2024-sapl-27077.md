@@ -1,0 +1,96 @@
+---
+titulo: "Decreto nº 20.358, de 30 de agosto de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.358"
+data: "2024-08-30"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27077"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6337/text"
+sha256_fonte: "fe7d63c195ed4f909ff15f39cfa5b9dd8e6e9d6254a24628dcfbf9f67bb7e629"
+sha256_texto: "869dbe6fc97402739d9da53d235c2a48b0e2bb148f527427fb18be6e96b7f9f0"
+capturado_em_fonte: "2026-10-21T04:02:57.036682-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.358, de 30 de agosto de 2024
+
+Dispõe sobre a substituição e nomeação de membros para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV), e adequações ao Decreto nº 19.391, de 21 de setembro de 2023 e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. 00600-00038973/2023-48-e.
+
+**CONSIDERANDO** que a estrutura organizacional da Agência Reguladora dos Serviços Públicos do Município de Porto Velho compreende o Conselho Regulatório (CR);
+
+**CONSIDERANDO** que o Conselho Regulatório, órgão colegiado e consultivo, exercerá o controle social dos serviços públicos delegados, com a finalidade de propor políticas e acompanhar ações voltadas para os referidos serviços prestados no Município de Porto Velho,
+
+**CONSIDERANDO** a composição do Conselho Regulatório definida pelo Art. 25 da Lei Complementar nº 985, de 04 de abril de 2024.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+O "Conselho Consultivo de Gestão e Regulação" de que trata o Decreto nº 19.391, de 21 de setembro de 2023, passa a denominar-se "**Conselho Regulatório (CR)**" da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV), conforme alterações promovidas pela Lei Complementar nº 985, de 04 de abril de 2024, que reestrutura a Agência Reguladora dos Serviços Públicos (ARPV) do Município de Porto Velho e revoga a Lei Complementar nº 905, de 07 de julho de 2022, e suas alterações.
+
+
+Art. 2º.
+
+Destituir, a partir de 23 de agosto de 2023, **JONATHAN PACHECO** - Presidente do Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV), nomeado por meio do Decreto nº 19.391, de 2023.
+
+
+Art. 3º.
+
+Nomear, a partir de 16/11/2023 até 22/08/2024, **SILVANA DE LIMA CHAVES** - Vice-Presidente, para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV), em substituição a Fabricio Grisi Médici Jurado, nomeado por meio do Decreto nº 19.391, de 2023.
+
+
+Art. 4º.
+
+Nomear, a partir de 02 de setembro de 2024, **FABRICIO GRISI MEDICI JURADO** - Presidente e **BARBARA MENDONÇA SANTANA DE OLIVEIRA** - Vice-Presidente, para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV).
+
+
+Art. 5º.
+
+Destituir, a partir de 16 de novembro de 2023, **YAN GABRIEL HELMANN SOUZA SAMPAIO** - Titular e **CALEBE MELOCRA DE OLIVEIRA** - Suplente, representantes da Procuradoria de Proteção e Defesa do Consumidor – PROCON/Porto Velho, do Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV).
+
+
+Art. 6º.
+
+Nomear, a partir de 05 de agosto de 2024, **WENDER VOLLMERHAUSEN DA SILVA**- Titular e **PABLO PICASSO RODRIGUES BENTES** - Suplente, representantes do Poder Legislativo Municipal,para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV), em substituição a Márcio Pacele Vieira da Silva e Gilber Rocha Mercês, respectivamente, nomeados por meio do Decreto nº 19.391, de 2023.
+
+
+Art. 7º.
+
+Nomear, a partir de 05 de agosto de 2024, **JOÃO FERNANDO ERPEN** - Titular e **ALINE MAGALHÃES DE CARVALHO**- Suplente, representantes da Secretaria Municipal de Fazenda - SEMFAZpara compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV).
+
+
+Art. 8º.
+
+Nomear, a partir de 05 de agosto de 2024, **CLEBERSON PAULO PACHECO** - Titular e **MARCELO MELO BARROSO**- Suplente, representantes da Secretaria Municipal de Saneamento e Serviços Básicos - SEMUSB,para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV).
+
+
+Art. 9º.
+
+Nomear, a partir de 02 de setembro de 2024, **JONATHAN PACHECO** - Titular e **JÚLIA ROBERTA MELGAR PEREIRA** - Suplente, representantes da Secretaria Geral de Governo - SGG, para compor o Conselho Regulatório da Agência Reguladora dos Serviços Públicos de Porto Velho (ARPV).
+
+
+Art. 10.
+
+Em caso de exoneração, final de vínculo jurídico administrativo, extinção de mandato parlamentar, de qualquer dos membros de que tratam os incisos III, IV, V, VI, VII, VIII e IX do Art. 25 da Lei Complementar nº 985, de 04 de abril de 2024, os órgãos indicarão substitutos.
+
+
+Art. 11.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

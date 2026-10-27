@@ -1,0 +1,138 @@
+---
+titulo: "LEI Nº 5.542 DE 17 DE SETEMBRO DE 2025"
+uf: "RS"
+municipio: "BOM RETIRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "5542"
+data: 2025-09-17
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 28/04/2026"
+data_publicacao: 2026-04-28
+codigo_identificador: "D1B559B5"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117831_2026-04-27_6f455d25aeff2597ba48ca6cc48065b3.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 5.542 DE 17 DE SETEMBRO DE 2025
+
+LEI Nº 5.542 DE 17 DE SETEMBRO DE 2025
+CELSO PAZUCH, Prefeito Municipal de Bom Retiro do Sul, Estado
+do Rio Grande do Sul, em cumprimento ao disposto no art. 58 da Lei
+Orgânica do Município:
+FAÇO SABER que o Poder Legislativo aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1º Para efeitos desta Lei, entende-se por:
+I - Programa, o instrumento de organização da atuação governamental,
+que articula um conjunto de ações que concorrem para um objetivo
+comum pré-estabelecido, mensurado por indicadores, visando à
+solução de um problema ou ao atendimento de uma necessidade ou
+demanda da sociedade;
+II - Programa Finalístico: aquele que resulta em bens ou serviços
+ofertados diretamente à sociedade;
+III – Programa de Gestão e Manutenção de Serviços: é único para
+todos os órgãos e entidades da administração municipal reunindo as
+ações de planejamento, formulação, gestão, coordenação, avaliação ou
+controle das políticas públicas, incluindo atividades de natureza
+tipicamente administrativa, que colaboram para a consecução dos
+objetivos dos programas finalísticos;
+IV – Encargos Especiais do Município: programa de natureza apenas
+orçamentária, que engloba ações não associáveis aos programas
+finalísticos ou ao programa de gestão e manutenção de serviço, não
+figurando na programação do PPA 2026-2029;
+IV - Ação, o conjunto de operações cujos produtos contribuem para os
+objetivos do programa;
+
+www.diariomunicipal.com.br/famurs
+
+53
+
+Rio Grande do Sul , 28 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4317
+V - Produto, bem ou serviço que resulta da ação, destinado ao
+público-alvo;
+VI - Meta, quantidade de produto que se deseja obter em determinado
+horizonte temporal, expressa na unidade de medida adotada.
+Art. 3º Os valores constantes nos anexos e nas tabelas desta Lei são
+referenciais e não constituem limite para a programação da despesa na
+Lei Orçamentária Anual, seus créditos adicionais e respectiva
+execução, que deverá obedecer aos parâmetros fixados pela Lei de
+Diretrizes Orçamentárias e as receitas efetivamente previstas em cada
+ano, consoante a legislação em vigor à época.
+Art. 4º As metas físicas das ações estabelecidas para o período de
+vigência desta lei se constituem referências a serem observadas pelas
+leis de diretrizes orçamentárias e pelas leis orçamentárias e suas
+respectivas alterações.
+Art. 5º A inclusão, exclusão ou alteração de programas constantes
+desta lei, serão propostos pelo Poder Executivo, através de Projeto de
+Lei de Revisão do Plano ou Projeto de lei específico.
+Art.6º A inclusão, exclusão ou alteração de ações, produtos e metas no
+Plano Plurianual poderão ocorrer por intermédio da Lei de Diretrizes
+Orçamentárias, da Lei Orçamentária Anual ou de seus créditos
+adicionais, apropriando-se ao respectivo programa, as modificações
+consequentes.
+Art. 7º Fica o Poder Executivo autorizado a atualizar, republicar e
+divulgar as alterações ocorridas nos anexos I, II e II desta lei para:
+I - conciliá-los com as alterações ocorridas em função dos arts. 5º e 6º;
+II - readequar adequar vinculações entre ações orçamentárias e
+programas;
+III - incluir, excluir ou alterar o órgão ou unidade responsável pelo
+programa e/ou ação;
+IV - incluir, excluir ou alterar os indicadores de desempenho dos
+programas.
+Parágrafo único. As atualizações de que trata este artigo serão
+informadas à Câmara de Vereadores e divulgadas em sítio eletrônico
+oficial.
+Art.8º O acompanhamento da execução dos programas do PPA será
+feito com base no desempenho dos indicadores, ou, na falta destes,
+com base na realização das metas físicas e financeiras, cujas
+informações serão apuradas periodicamente e terão a finalidade de
+medir os resultados alcançados.
+Parágrafo único. O acompanhamento da execução dos programas será
+feito sob a coordenação da Secretaria da Administração e
+Planejamento, a quem compete:
+I – definir as metodologias a serem utilizadas na elaboração, no
+acompanhamento e na revisão do PPA a ser observado por todos os
+órgãos da Administração Municipal;
+II - definir a agenda de elaboração, de acompanhamento e, quando for
+o caso, de revisão do PPA;
+III - auxiliar os demais órgãos e setores da Administração Municipal
+nos processos de elaboração, de acompanhamento e de revisão do
+PPA; e
+IV – elaborar anualmente relatório de avaliação dos resultados deste
+Plano que será encaminhado ao Poder Legislativo, juntamente o
+Projeto de Lei de Diretrizes Orçamentárias.
+Art. 9º Acompanham o Plano Plurianual, as seguintes tabelas, de
+caráter meramente informativo:
+I – Tabela 01 – Memória de Cálculo das Estimativas de Receitas para
+o período de 2026 a 2029;
+II – Tabela 02 – Estimativas da Receita Corrente Líquida;
+III – Tabela 03 – Estimativa de Limites de Gastos com Pessoal do
+Poder Executivo e Legislativo para o período de 2026 a 2029;
+IV – Tabela 04 – Estimativa de Valores Máximos Disponíveis para as
+Diretrizes, Objetivos e Metas do Poder Legislativo;
+V – Tabela 05 – Estimativa de Valores Disponíveis para as Diretrizes,
+Objetivos e Metas a serem Financiados com Recursos vinculados à
+Educação;
+VI – Tabela 06 – Estimativa de Valores Disponíveis para as
+Diretrizes, Objetivos e Metas a serem Financiados com Recursos
+vinculados à Saúde;
+VII – Tabela 07 – Estimativa de Valores Disponíveis para as
+Diretrizes, Objetivos e Metas a serem Financiados com Recursos
+vinculados à Assistência Social;
+VIII – Tabela 08 - Estimativa de Valores Disponíveis para as
+Diretrizes, Objetivos e Metas a serem Financiados com Recursos do
+RPPS;
+
+IX – Tabela 09 Avaliação Global / Consolidação de Valores
+Disponíveis para as Diretrizes, Objetivos e Metas do PPA
+Art. 10 Esta Lei entra em vigor na data de sua publicação.
+Gabinete do Prefeito de Bom Retiro do Sul, 17 de setembro de 2025.
+CELSO PAZUCH
+Prefeito Municipal
+Registre-se e Publique-se
+Sec. Administração e Planejamento
+MARCELE KERBER
+CPF 018.846.600-29
+Matrícula 5454
+Publicado por:
+Bárbara Aline Ferrari

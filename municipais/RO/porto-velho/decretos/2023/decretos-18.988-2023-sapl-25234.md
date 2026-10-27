@@ -1,0 +1,448 @@
+---
+titulo: "Decreto nº 18.988, de 17 de maio de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.988"
+data: "2023-05-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25234"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7885/text"
+sha256_fonte: "14854d62c0fafadf63238d462e26358fb2af65a2fe559ea83e552cb7a3349256"
+sha256_texto: "f1cd7f5727d0c4bd8587efded02f728cdadda0f5a4485c466ce39d07cf0f810b"
+capturado_em_fonte: "2026-10-21T05:38:47.892578-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 18.988, de 17 de maio de 2023
+
+Nomeia membros efetivos e suplentes do Fórum Permanente de Educação do Município de Porto Velho – FPEM, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. 00600-00013916/2023-56-e.
+
+
+**CONSIDERANDO** o disposto na Lei Complementar nº 273, 27 de dezembro de 2006 que  
+“Institui o Fórum Permanente de Educação no âmbito do Município de Porto Velho.
+
+
+**CONSIDERANDO** o disposto no Regimento Interno do Fórum Permanente de Educação do Município de Porto Velho – FPEM, republicado no Diário Oficial nº 5.358, de 23 de dezembro de 2016.
+
+
+**CONSIDERANDO** a necessidade de dar regularidade e eficácia aos atos, documentos e decisões do Fórum a partir da expiração dos mandatos concedidos pelo Decreto nº 14.570 de 29 de junho de 2017.
+
+**RESOLVE:**
+
+
+Art. 1º.
+
+O Fórum Permanente de Educação do Município de Porto Velho – FPEM, instituído pela Lei Complementar de nº 273, de 27 de dezembro de 2006, será integrado por membros representantes e seus suplentes dos segmentos tratados no art. 4º, do seu Regimento Interno, para o mandato de 04 anos, conforme disposto no art. 26 do mesmo diploma legal, a contar da publicação deste Decreto:
+
+
+I –
+
+Representante do Poder Legislativo Municipal:
+
+
+a)
+
+Edivaldo Neves – Titular;
+
+
+b)
+
+Vanderlei Silva – Suplente
+
+
+II –
+
+Representante do Poder Executivo Municipal:
+
+
+a)
+
+Devonildo de Jesus Santana – Titular;
+
+
+b)
+
+Fabricio Grisi Médice Jurado – Suplente.
+
+
+III –
+
+Representante do Poder Judiciário Estadual – TJ:
+
+
+a)
+
+Ilma Ferreira Brito – Titular;
+
+
+b)
+
+Marciane Rossi – Suplente.
+
+
+IV –
+
+Representante de Conselhos Profissionais e de Controle Social atuantes na área educacional:
+
+
+a)
+
+Conselho Estadual de Educação – CEE/RO:
+
+
+1
+
+Edvane Casara dos Reis – Titular;
+
+
+2
+
+Maria Inês Coelho – Suplente.
+
+
+b)
+
+Conselho Municipal de Educação de Porto Velho – CME:
+
+
+1
+
+Dalva Alves dos Santos – Titular;
+
+
+2
+
+Marcelo Willian Rodrigo de Souza – Suplente.
+
+
+c)
+
+1º Conselho Tutelar da Infância e Adolescência de Porto Velho/RO:
+
+
+1
+
+Ana Cassia da Cruz Lima Brito – Titular;
+
+
+2
+
+Lígia Maria Souza – Suplente.
+
+
+d)
+
+Conselho de Acompanhamento de Controle Social e Fiscalização dos Recursos do Fundo de Manutenção e Desenvolvimento de Educação Básica e Valorização dos profissionais de Educação -CACS/FUNDEB:
+
+
+1
+
+João Duarte Pereira – Titular;
+
+
+2
+
+Domingos do Rosário Izel Prestes do Espirito Santo – Suplente.
+
+
+e)
+
+Fórum de Educação Infantil – FEI:
+
+
+1
+
+Francisca Luzia Serrão – Titular;
+
+
+2
+
+Shauane de Jesus Ferreira Rodrigues – Suplente.
+
+
+f)
+
+Fórum de Educação de Jovens e Adultos – FREJA/SEDUC:
+
+
+1
+
+Inácia Damasceno Lima – Titular;
+
+
+2
+
+Luciane Lina Ferreira de Souza – Suplente.
+
+
+V –
+
+Representantes de Conselhos Escolares:
+
+
+a)
+
+Maria Nazaré de Souza Mendes – Titular;
+
+
+b)
+
+Valéria Patrícia Souza Castro – Suplente.
+
+
+VI –
+
+Representantes de Instituições de Ensino Superior:
+
+
+a)
+
+Universidade Federal de Rondônia – UNIR:
+
+
+1
+
+Walterlina Brasil – Titular;
+
+
+2
+
+Jose Flavio Paz – Suplente.
+
+
+b)
+
+Instituto Federal de Educação Ciência e Tecnologia de Rondônia – IFRO:
+
+
+1
+
+Edslei Rodrigues de Almeida – Titular;
+
+
+2
+
+Elizangélica Fernandes da Silva – Suplente.
+
+
+VII –
+
+Representantes de Instituições de Educação Básica:
+
+
+a)
+
+Secretaria Municipal de Educação – SEMED;
+
+
+1
+
+Lucicleia Lima de Souza – Titular;
+
+
+2
+
+Idelucia Marinho Silva Leal – Suplente.
+
+
+b)
+
+União dos Dirigentes Municipais de Educação - UNDIME:
+
+
+1
+
+Cesiane Camargo Maia – Titular;
+
+
+2
+
+Terezinha Ferreira de Oliveira Lima – Suplente.
+
+
+c)
+
+Coordenadoria Regional de Educação Porto Velho – CRE/PVH/SEDUC:
+
+
+1
+
+Adriana Oliveira da Silva– Titular;
+
+
+2
+
+Suziene Andrade de Carvalho – Suplente.
+
+
+VIII –
+
+Representante de Instituição de Educação Profissional:
+
+
+a)
+
+Serviço Nacional de Aprendizagem Comercial – SENAC/RO;
+
+
+1
+
+Hellen Virgínia Alves – Titular;
+
+
+2
+
+Nina Cátia Alexandre Cavalcante – Suplente.
+
+
+b)
+
+FIERO – Federação das Indústrias do Estado de Rondônia:
+
+
+1
+
+Jair Santiago Coelho – Titular;
+
+
+2
+
+Wilmen França Rodrigues Gonsalves – Suplente.
+
+
+c)
+
+Serviço Nacional de Aprendizagem Rural de Rondônia - SENAR:
+
+
+1
+
+Francisca Zonete Noranha Paiva – Titular;
+
+
+2
+
+Ademarcia dos Santos Matos – Suplente.
+
+
+d)
+
+Instituto Estadual de Desenvolvimento da Educação Profissional de Rondônia-IDEP/RO:
+
+
+1
+
+Jovelina Gonçalves Reis da Silva – Titular;
+
+
+2
+
+Vanessa Francisca Silva Cordeiro– Suplente.
+
+
+IX –
+
+Representante de organizações não governamentais e de movimentos sociais com atuação na educação:
+
+
+a)
+
+Pastoral de Educação da Cúria Católica:
+
+
+1
+
+Odete Alice Marao de Carvalho – Titular;
+
+
+2
+
+José Dettoni – Suplente.
+
+
+X –
+
+Representantes de centrais sindicais e sindicatos filiados:
+
+
+a)
+
+Confederação Nacional dos Trabalhadores em Educação - CNTE e Sindicatos Filiados:
+
+
+1
+
+Claudi Mata Magalhães de Sales – Titular.;
+
+
+2
+
+Manoel Rodrigues da Silva – Suplente.
+
+
+b)
+
+Sindicato dos Trabalhadores da Educação do Estado de Rondônia- SINTERO:
+
+
+1
+
+Cleusa Ferreira Mendes – Titular;
+
+
+2
+
+Judith dos Santos Campos – Suplente.
+
+
+c)
+
+Sindicato de Estabelecimentos Particulares de Ensino – SINEPE/RO:
+
+
+1
+
+Camila Fernanda Carvalho Caetano – Titular;
+
+
+2
+
+Suzana Nogueira Brandão – Suplente.
+
+
+§ 1º
+
+O membro titular do FPEM, em caso de vacância, será substituído pelo respectivo suplente, para completar o seu mandato, devendo a instituição ou o segmento representado indicar outro suplente, observando os critérios estabelecidos no Regimento Interno do Fórum;
+
+
+§ 2º
+
+A participação no Fórum permanente de Educação do Município de Porto Velho será considerada de relevante interesse público e não será remunerado.
+
+
+Art. 2º.
+
+A nomeação e composição da Comissão Executiva, da Coordenação Geral e das Câmaras Temáticas do FPEM será efetivada por ato próprio da Coordenação Geral do Fórum, observadas as indicações feitas.
+
+
+Art. 3º.
+
+Ficam validados todos os atos, documentos e decisões do FPEM no período compreendido entre 28 de junho de 2020 até a data da publicação deste Decreto.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES Prefeito**
+

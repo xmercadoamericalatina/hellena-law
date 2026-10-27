@@ -1,0 +1,30 @@
+---
+titulo: "DECRETO Nº 56 DE 25 DE MARÇO DE 2026."
+uf: "RS"
+municipio: "SANTANA DA BOA VISTA"
+tipo: "Decreto"
+numero: "56"
+data: 2026-03-25
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/04/2026"
+data_publicacao: 2026-04-07
+codigo_identificador: "B92FEBD4"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117817_2026-04-06_69421dc3e6301cb88be42ad554dedbd5.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 56 DE 25 DE MARÇO DE 2026.
+
+DECRETO Nº 56 DE 25 DE MARÇO DE 2026.
+
+Registre-se e
+Publique-se
+
+Exclui por
+Municipal.
+
+GUILHERME ALVES DA SILVA
+Secretário Municipal de Administração e Desporto
+Publicado por:
+Claiton Oliveira da Silva

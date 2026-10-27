@@ -1,0 +1,120 @@
+---
+titulo: "Decreto nº 19.176, de 24 de julho de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.176"
+data: "2023-07-24"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25519"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8100/text"
+sha256_fonte: "4d1bd3d3598c5ad5ecbfd94c484082a969558ec169a9f19c795f7c479d7f560f"
+sha256_texto: "d341883a3dc57369dbdc652f14fd1edeefc091cf873ea9c0cf63faf61d984212"
+capturado_em_fonte: "2026-10-21T05:24:37.335282-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.176, de 24 de julho de 2023
+
+Institui comissão para elaboração do Plano de Contingência Municipal para possível rompimento de barragem a jusante das Usinas Hidrelétricas de Jirau, Santo Antônio e Usina Hidrelétrica de Samuel.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** a Lei nº. 12.334/2010, que trata da Política Nacional de Segurança de Barragens;
+
+**CONSIDERANDO** que a Lei nº. 12.608/2012 alterou o artigo 3º da Lei nº. 12.304/2010, incluindo responsabilidade aos municípios a elaboração de Plano de Contingência de Barragens (PLANCON);
+
+**CONSIDERANDO** que por força da Lei Federal nº 12.608/2012, cabe ao município elaborar Plano de Contingência para favorecer a ação e de proteção e defesa civil para toda e qualquer ameaça ao qual o município possa ser submetido;
+
+**CONSIDERANDO** a solicitação de Plano de Contingência em caso de rompimento de barragem feita pelo Ministério Público Estadual, através do Ofício nº 077/2019/25ºPJ;
+
+**CONSIDERANDO** que ficará recomendada à UHE JIRAU pela ANEEL – AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA, para que se estabeleça um plano de trabalho entre ESBR junto a Defesa Civil Municipal – COMPEDEC para normatização da implantação do PAE – PLANO DE AÇÃO DE EMERGÊNCIA/UHE-JIRAU.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído o Plano de Contingência visando responder de forma rápida e estruturada os eventos adversos que possam comprometer a segurança das comunidades/pessoas, descrevendo as ações de resposta em ordem de prioridades (acionamento de alerta/alarme, instalação de postos de comando, socorro à população em risco, estabelecimento de locais para abrigo, entre outros).
+
+
+Parágrafo único
+
+Todas as consequências indicadas no cenário elaborado devem possuir uma ação de resposta contida no plano.
+
+
+Art. 2º.
+
+Ficam designados para compor a comissão os seguintes servidores relacionados sob a coordenação do primeiro, e na ausência de forma sucessiva, conforme abaixo:
+
+
+I –
+
+Representantes da COMPEDEC:
+
+
+a)
+
+Elias Ribeiro de Barros - Presidente, Matricula 1005466;
+
+
+b)
+
+Anderson Luiz Pinheiro Chaves - Membro, Matricula 1001989;
+
+
+c)
+
+Membro: Pedro Luiz Castilho - Membro, Matricula 186892;
+
+
+d)
+
+Cristovão Otero de Aguiar Araújo - Membro, Matricula 1005490;
+
+
+e)
+
+Tyron López da Silva, - Membro, Matricula 1005504;
+
+
+f)
+
+Francisco Alves Araújo- Membro, Matricula 9920;
+
+
+Art. 3º.
+
+A Comissão deverá elaborar Plano de Execução de Contingência Municipal, para que em possível caso de rompimento de barragem no âmbito da Administração do Poder Executivo Municipal, possa elaborar Planos de Trabalhos de acordo a integração do PAE - Plano de Ação de Emergência das UHE - Jirau, Santo Antônio e Samuel.
+
+
+Art. 4º.
+
+Competirá à Comissão ora instituída, o acompanhamento e elaboração de Execução do Plano de Contingência Municipal em possível caso de rompimento de barragem a jusante da Usina de Jirau, Santo Antônio e Samuel, no âmbito do Município de Porto Velho/RO.
+
+
+Art. 5º.
+
+Caberá ao Presidente da Comissão, através de reuniões e contato direto com as chefias municipais e demais autoridades envolvidas, viabilizar expedição dos atos necessários para garantir a efetividade do trabalho da comissão de elaboração de execução do Plano de Contingência Municipal em possível caso de rompimento de barragem.
+
+
+Art. 6º.
+
+A Comissão instituída por este Decreto terá o prazo de 365 (trezentos e sessenta e cinco) dias para a conclusão de seus trabalhos, sendo considerada serviço público relevante, não ensejando qualquer remuneração aos servidores integrantes.
+
+
+Art. 7º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

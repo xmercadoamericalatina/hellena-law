@@ -1,0 +1,127 @@
+---
+titulo: "Lei Ordinária-MUN nº 964, de 04 de julho de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "964"
+data: "2012-07-04"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/639"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/285/text"
+sha256_fonte: "79b825944b557c1620d50cca0f60785b61f835b36829a47cb4aae0302ef85f4a"
+sha256_texto: "76fa364db7f00759c47e0bad5f93e2b56cda0435f4b5509a55407d76a14f92c4"
+capturado_em_fonte: "2026-10-21T05:18:32.401857-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 964, de 04 de julho de 2012
+
+Disciplina a nomeação para cargos em comissão no âmbito dos órgãos do poder executivo e legislativo e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI – RN, faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica vedada a nomeação para cargos em comissão no âmbito dos órgãos do Poder Executivo e Legislativo do Município de Acari, pessoas que estão inseridas nas seguintes hipóteses:
+
+
+I –
+
+os que tenham, contra sua pessoa, representação julgada procedente pela justiça Eleitoral em decisão transitada em julgamento ou proferida por órgão colegiado, em processo de apuração de abuso do poder econômico ou político, desde a decisão até o transcurso do prazo de 8 (oito) anos;
+
+
+II –
+
+os que forem condenados, em decisão transitada em julgado ou proferida por órgão judicial colegiado, desde a condenação até o transcurso do prazo de 8 (oito) anos após o cumprimento da pena pelos crimes: Contra a economia popular, a fé pública, a administração pública e o patrimônio público; Contra o patrimônio privado, o sistema financeiro, o mercado de capitais e os previstos em lei que regula a falência; Contra o meio ambiente e a saúde pública; Eleitorais, para os quais a lei comine pena privativa de liberdade; De abuso de autoridade, nos casos e m que houver condenação à perda do cargo ou à inabilitação para o exercício de função pública; De lavagem ou ocultação de bens, direitos e valores; De tráfico de entorpecentes e drogas afim, racismo, tortura, terrorismo e hediondos; De redução à condição análoga a escravo; Contra a vida e a dignidade sexual; Praticados por organização criminosa, quadrilha ou bando.
+
+
+III –
+
+os que forem declarados indignos do oficialato, com ele incompatíveis, pelo prazo de 8 (oito) anos;
+
+
+IV –
+
+os que tiverem suas contas relativas ao exercício de cargos ou funções públicas rejeitadas por irregularidade insanável que configure ato doloso de improbidade administrativa, em decisão irrecorrível do órgão competente, salvo se esta houver sido suspensa ou anulada pelo Poder Judiciário, desde a decisão até o transcurso do prazo de 8 (oito) anos.
+
+
+V –
+
+os detentores de cargo na administração pública direta, indireta ou fundacional, que beneficiarem a si ou a terceiros, pelo abuso do poder econômico ou político, que forem condenados em decisão transitada em julgado, desde a decisão até o transcurso do prazo de 8 (oito) anos;
+
+
+VI –
+
+os que forem condenados, em decisão transitada em julgado ou proferida por órgão colegiado da Justiça Eleitoral, por corrupção eleitoral, por captação ilícita de sufrágio, por doação, captação ou gastos ilícitos de recursos de campanha ou por conduta vedada aos agentes públicos em campanhas eleitorais que impliquem cassação do registro ou do diploma, desde a decisão até o transcurso do prazo de 8 (oito) anos;
+
+
+VII –
+
+os que forem condenados à suspensão dos direitos políticos, em decisão transitada em julgado ou proferida por órgão judicial colegiado, por ato doloso de improbidade administrativa que importe lesão ao patrimônio público e enriquecimento ilícito, desde a condenação ou transito em julgado até o transcurso do prazo de 8 (oito) anos após o cumprimento da pena;
+
+
+VIII –
+
+os que forem excluídos do exercício da profissão, por decisão sancionatória do órgão profissional competente, em decorrência de infração ético-profissional, pelo prazo de 8 (oito) anos, salvo se o ato houver sido anulado ou suspenso pelo Poder Judiciário;
+
+
+IX –
+
+os que forem demitidos do serviço público em decorrência de processo administrativo ou judicial, pelo prazo de 8 (oito) anos, contados da decisão, salvo se o ato houver sido suspenso ou anulado pelo Poder Judiciário;
+
+
+X –
+
+os servidores do Poder Executivo e Legislativo, que forem aposentados compulsoriamente por decisão sancionatória, e que tenham perdido o cargo por sentença ou que tenham pedido exoneração ou aposentadoria voluntária na pendência de processo administrativo disciplinar, pelo prazo de 8 (oito) anos.
+
+
+Parágrafo único
+
+A vedação prevista no inciso II do artigo 1º não se aplica aos crimes culposos e aqueles definidos em lei como de menor potencial ofensivo, nem aos crimes de ação penal privada.
+
+
+Art. 2º.
+
+Todos os atos efetuados em desobediência às vedações previstas nesta Lei serão considerados nulos a partir da sanção desta legislação.
+
+
+Art. 3º.
+
+Caberá ao Poder Executivo Municipal e ao Poder Legislativo, de forma individualizada, a fiscalização de seus atos em obediência a presente lei, com a possibilidade de requerer aos órgãos competentes informações e documentos que entender necessários para o cumprimento das exigências legais.
+
+
+Art. 4º.
+
+O nomeado ou designado, obrigatoriamente antes da posse, terá ciência das restrições e declarará por escrito não se encontrar inserido nas vedações do art. 1º, sem prejuízo da apresentação de certidões negativas expedidas pelos cartórios de distribuição dos ofícios da Justiça Estadual, Federal e Eleitoral.
+
+
+Art. 5º.
+
+O Prefeito Municipal e o Presidente da Câmara de Vereadores de Acari, dentro do prazo de 90 (noventa) dias,, contados da publicação da lei, promoverão a exoneração dos atuais ocupantes de cargos de provimento em comissão, nas situações previstas no art. 1º.
+
+
+Art. 6º.
+
+As denúncias de descumprimento da lei deverão ser encaminhadas ao Ministério Público que ordenará as providências cabíveis na espécie.:
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Gabinete do Prefeito, em Acari – RN, 04 de julho de 2012.
+
+
+ANTONIO CARLOS FERNANDES DE MEDEIROS
+
+
+Prefeito Municipal
+

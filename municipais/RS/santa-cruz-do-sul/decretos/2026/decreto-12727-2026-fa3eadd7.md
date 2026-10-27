@@ -1,0 +1,166 @@
+---
+titulo: "DECRETO Nº 12.727, DE 24 DE FEVEREIRO DE 2026."
+uf: "RS"
+municipio: "SANTA CRUZ DO SUL"
+tipo: "Decreto"
+numero: "12727"
+data: 2026-02-24
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/02/2026"
+data_publicacao: 2026-02-26
+codigo_identificador: "FA3EADD7"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117789_2026-02-25_f4e5fc15a2f6fc96f1e6f8a4c20a66d7.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 12.727, DE 24 DE FEVEREIRO DE 2026.
+
+DECRETO Nº 12.727, DE 24 DE FEVEREIRO DE 2026.
+ABRE CRÉDITO SUPLEMENTAR E DÁ OUTRAS
+PROVIDÊNCIAS
+
+08.01.26.782.0003.1739
+OBRAS EM VIAS URBANAS E RURAIS
+4.4.90.51.00.00.00.00.2704
+OBRAS E INSTALACOES R$ 314.707,92
+0000323 2801-FUNDO ESPECIAL - LEI 7525/86
+
+O Prefeito Municipal de Santa Cruz do Sul, usando das atribuições
+que lhe são conferidas pelas leis em vigor e em conformidade com o
+artigo 5º, da Lei nº 10.230, de 19 de dezembro de 2025,
+
+4.4.90.51.00.00.00.00.2720
+OBRAS E INSTALACOES R$ 439.781,92
+0000323 2801-FUNDO ESPECIAL - LEI 7525/86
+
+Art. 1º É aberto um Crédito Adicional Suplementar no valor de R$
+58.850,00 (cinquenta e oito mil e oitocentos e cinquenta reais), com o
+objetivo de atender as despesas do orçamento em execução, conforme
+as dotações a seguir especificadas:
+
+DECRETA:
+
+15.02.18.541.0030.2664
+MANUTENÇÃO DA GESTÃO AMBIENTAL
+3.3.93.39.00.00.00.00.1759
+OUTROS SERVIÇOS DE TERCEIROS-PESSOA JURIDICA R$
+50.000,00
+0000317 2501-FUNDO MUNICIPAL DO MEIO AMBIENTE
+15.03.17.511.0028.2677
+MANUTENÇÃO DAS REDES HÍDRICAS
+3.3.90.39.00.00.00.00.2759
+OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA R$
+54.963,69
+0000438 FUNDO MUNICIPAL DE SANEAMENTO BÁSICO FMSB
+TOTAL R$ 859.453,53
+Art. 2º Servirá de recurso para o crédito aberto no Art.1º deste
+decreto:
+a) a redução da dotação orçamentária:
+15.02.18.541.0030.2664
+MANUTENÇÃO DA GESTÃO AMBIENTAL
+3.3.90.39.00.00.00.00.1759
+OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA R$
+50.000,00
+0000317 2501-FUNDO MUNICIPAL DO MEIO AMBIENTE
+
+05.01.04.121.0002.2007
+MANUTENÇÃO
+DA
+SECRETARIA
+MUNICIPAL
+PLANEJAMENTO E
+MOBILIDADE URBANA
+3.1.90.94.00.00.00.00.1500
+INDENIZACOES E RESTITUIÇÕES TRABALHISTAS
+49.000,00
+0000001 0001-RECURSO LIVRE
+
+DE
+
+R$
+
+12.01.10.301.0022.2427
+MANUTENÇÃO DO PROGRAMA SAÚDE NA ESCOLA
+3.3.90.30.00.00.00.00.2600
+MATERIAL DE CONSUMO R$ 1.000,00
+0000534 4500-CUSTEIO - Atenção Básica
+13.01.14.422.0009.2647
+GESTÃO ADMINISTRATIVA DOS CONSELHOS MUNICIPAIS
+3.3.90.49.00.00.00.00.1501
+AUXILIO-TRANSPORTE R$ 1.000,00
+0000001 0001-RECURSO LIVRE
+14.01.20.608.0031.2608
+PROMOÇÃO DA PRODUÇÃO AGROPECUÁRIA
+3.3.90.39.00.00.00.00.1500
+OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA R$
+7.850,00
+0000001 0001-RECURSO LIVRE
+
+SUBTOTAL……......R$ 50.000,00
+b) o superávit financeiro existente em 31 de dezembro de 2025,
+conforme demonstrativos em anexo, fontes de recurso e montantes:
+
+TOTAL R$ 58.850,00
+Art. 2º Servirá de recurso para o crédito aberto no Art. 1º deste
+decreto, a redução das dotações orçamentárias:
+
+www.diariomunicipal.com.br/famurs
+
+23
+
+Rio Grande do Sul , 26 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+05.01.04.121.0002.2007
+MANUTENÇÃO
+DA
+SECRETARIA
+MUNICIPAL
+DE
+PLANEJAMENTO E
+MOBILIDADE URBANA
+3.1.90.11.00.00.00.00.1500
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL R$
+49.000,00
+0000001 0001-RECURSO LIVRE
+12.01.10.301.0022.2427
+MANUTENÇÃO DO PROGRAMA SAÚDE NA ESCOLA
+3.3.90.33.00.00.00.00.2600
+PASSAGENS E DESPESAS COM LOCOMOCAO R$ 1.000,00
+0000534 4500-CUSTEIO - Atenção Básica
+13.01.14.422.0009.2647
+GESTÃO ADMINISTRATIVA DOS CONSELHOS MUNICIPAIS
+3.3.90.33.00.00.00.00.1501
+PASSAGENS E DESPESAS COM LOCOMOCAO R$ 1.000,00
+0000001 0001-RECURSO LIVRE
+14.01.20.122.0002.2149
+MANUTENÇÃO
+DA
+SECRETARIA
+AGRICULTURA
+3.3.90.30.00.00.00.00.1500
+MATERIAL DE CONSUMO R$ 7.850,00
+0000001 0001-RECURSO LIVRE
+
+MUNICIPAL
+
+ANO XVIII | Nº 4276
+
+SETOR DE LICITAÇÕES
+TC 002/2026
+ESTADO DO RIO GRANDE DO SUL
+PREFEITURA MUNICIPAL DE SÃO DOMINGOS DO SUL
+Contratante: Município de São Domingos do Sul
+N° do Credenciamento: 001/2025
+CNPJ do contratante: 92.406.453/0001-30
+Modalidade de licitação: Chamamento/credenciamento
+Número: 001/2025
+Objeto: contratação de ajudante de serviços de jardinagem
+Contratado: EZEQUIEL CASTELANI
+CNPJ/CPF do contratado: 21.602.336/0001-02
+Data de assinatura do aditivo: 02/02/2026
+Data de publicação do contrato: 02/02/2026
+Prazo/Validade: 12 MESES
+Valor: conforme tabela no edital
+São Domingos do Sul, 02 de fevereiro de 2026.
+Publicado por:
+Eunice Kovaleski Canal

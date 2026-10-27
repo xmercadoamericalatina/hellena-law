@@ -1,0 +1,182 @@
+---
+titulo: "Decreto nº 20.005, de 17 de maio de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.005"
+data: "2024-05-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26623"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5835/text"
+sha256_fonte: "4c7fed675410f46902bdce67871d7ddb4426429b29ff1546bb3154a944b83b70"
+sha256_texto: "c23575c837f4e6b578f01655e2401e9fd31de13daa9a7815b7bde28d31360290"
+capturado_em_fonte: "2026-10-21T04:27:31.418607-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.005, de 17 de maio de 2024
+
+Dispõe sobre a nomeação de membros para compor o Conselho do Fundo Municipal de Trânsito/FMT, do Município de Porto Velho, para o biênio 2024/2025.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando da atribuição que lhe é  
+conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista  
+o que consta no Ofício nº 14/2024/GAB/SEMTRAN (AC4EE677-e).
+
+CONSIDERANDO o Art. 3º da Lei Complementar n.º 410, de 27 de dezembro de 2010, que  
+versa sobre a composição do Conselho do Fundo Municipal de Trânsito/FMT, vinculado  
+diretamente a Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN, e  
+nomeados pelo Chefe do Poder Executivo.
+
+CONSIDERANDO o § 4 do Art. 3º da Lei Complementar n.º 410, de 27 de dezembro de  
+2010 que versa sobre a composição do Conselho do Fundo Municipal de Trânsito/FMT,  
+vinculado diretamente a Secretaria Municipal de Trânsito, Mobilidade e Transportes –  
+SEMTRAN e pelo mandato de 2 (dois) anos, permitida uma recondução/renomeação por  
+igual período.
+
+CONSIDERANDO o Decreto nº 17.810, de 03 de dezembro de 2021, que versa sobre a  
+nomeação de membros do Conselho do Fundo Municipal de Trânsito/FMT, vinculado  
+diretamente a Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN,  
+para o biênio de 2022/2023.
+
+DECRETA:
+
+
+Art. 1º.
+
+Nomear e Reconduzir, a partir de 02 de dezembro de 2023, para compor o Conselho do Fundo Municipal de Trânsito/FMT para o biênio 2024/2025, os seguintes membros representantes:
+
+
+I –
+
+Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN:
+
+
+a)
+
+Renomear, ANDERSON DA SILVA PEREIRA, cadastro n.º 1004966, Secretário Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN, como Presidente;
+
+
+b)
+
+Nomear, ARAGONEIS SOARES LIMA, cadastro n.º 1005422, como Presidente Suplente do Conselho;
+
+
+c)
+
+Renomear, MARINALDO BARBOSA LIMA JUNIOR, cadastro n.º 107583, como TITULAR;
+
+
+d)
+
+Renomear, NATHIELE MARTINS SILVA , cadastro n.º 108101, como SUPLENTE;
+
+
+e)
+
+Renomear, DÉCIO HENRIQUE DE SOUZA SOUTO, cadastro n.º 1000973, como TITULAR;
+
+
+f)
+
+Renomear, VINICIUS DO SANTOS FEITOSA, cadastro n.º 1000452, como TITULAR;
+
+
+g)
+
+Renomear, CAROLINA RAMOS COSTA, cadastro n.º 181058, como SUPLENTE;
+
+
+II –
+
+SECRETARIA MUNICIPAL DE FAZENDA – SEMFAZ:
+
+
+a)
+
+Renomear, MARIA SANDRA BANDEIRA, cadastro n.º 1004499, como TITULAR;
+
+
+b)
+
+Nomear, HUÉLITON MENDES RODRIGUES, cadastro n.º 52283, como SUPLENTE;
+
+
+III –
+
+POLÍCIA MILITAR DO ESTADO DE RONDÔNIA – PM/RO:
+
+
+a)
+
+Renomear, DEIVSSON SOUZA BISPO, Tenente-Coronel PM, cadastro n.º 1005330, como TITULAR;
+
+
+b)
+
+Nomear, a partir de 02 de dezembro de 2023, LUIZ GILSON SILVA, Maj. PM, como SUPLENTE;
+
+
+IV –
+
+CORPO DE BOMBEIROS MILITAR DO ESTADO DE RONDÔNIA – CBM/RO:
+
+
+a)
+
+Renomear, ANDREY VINÍCIUS RIBEIRO, CEL. BM, cadastro n.º 1002023, como TITULAR;
+
+
+b)
+
+nomear, JOSÉ APARECIDO DOS SANTOS, BM, cadastro n.º 20000750-3, como SUPLENTE;
+
+
+V –
+
+CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE RONDÔNIA – CREA/RO:
+
+
+a)
+
+Renomear, WALLAS NOGUEIRA CARVALHO, Eng. Civil, cadastro n.º 1002689, como TITULAR;
+
+
+b)
+
+Renomear, GINA SILVA DE OLIVEIRA MOTA, Eng. Civil, cadastro n.º XX, como SUPLENTE;
+
+
+VI –
+
+CONSELHO DE ARQUITETURA E URBANISMO DE RONDÔNIA – CAU/RO:
+
+
+a)
+
+Nomear, HEVERTON LUIZ NASCIMENTO DO CARMO, Arquiteto, cadastro n.º 1006604, como TITULAR;
+
+
+b)
+
+Nomear, CARLA TAMES ALVAREZ, Arquiteta, cadastro n.º 1003226, como SUPLENTE.
+
+
+Art. 2º.
+
+O presente Decreto entrará em vigor na data de sua publicação, com efeito retroativo para os pagamentos de jetons e demais despesas que constam em plenários do Fundo Municipal de Transito, posteriores à data de 2 de dezembro de 2023.
+
+
+Art. 3º.
+
+Revogam-se o Decreto n.º 19.870, de 10 de abril de 2024.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito
+

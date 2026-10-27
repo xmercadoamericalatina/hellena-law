@@ -1,0 +1,640 @@
+---
+titulo: "Decreto nº 18.310, de 01 de agosto de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.310"
+data: "2022-08-01"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/20081"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10567/text"
+sha256_fonte: "b2312df9d2ef3b05e26854d57cd47012966669bda8cfd11d05ac3e7b80c0028e"
+sha256_texto: "45e186c07d3a87b8507839ab64228db368b8c2e157e036f7f33cb87709f6e89d"
+capturado_em_fonte: "2026-10-21T06:22:25.378333-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 18.310, de 01 de agosto de 2022
+
+*Dispõe sobre a adoção de medidas para aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais – LGPD, e institui o Comitê Gestor de Privacidade e Proteção de Dados Pessoais no âmbito da Administração Pública Municipal direta, autárquica e fundacional do Poder Executivo do Município de Porto Velho.*
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do Art. 87, da Lei Orgânica do Município de Porto Velho e a Lei Federal nº 13.709, de 14 de agosto de 2018.
+
+**RESOLVE:**
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este Decreto dispõe sobre a adoção de medidas destinadas à aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 – Lei Geral de Proteção de Dados Pessoais – LGPD, no âmbito do Poder Executivo Municipal, instituindo competências, procedimentos e providências correlatas a serem observados pelos órgãos da Administração Direta, pelas Autarquias, Fundações Públicas, Empresas Públicas, Sociedades de Economia Mista e demais entidades controladas diretamente ou indiretamente pelo Município visando garantir o cumprimento de suas determinações legais.
+
+
+Parágrafo único
+
+As empresas públicas e as sociedades de economia mista que atuam em regime de concorrência, sujeitas ao disposto no Art. 173 da Constituição Federal, estabelecerão suas políticas de proteção de dados pessoais por ato próprio, observado o disposto no Art. 24 da Lei Federal nº 13.709, de 2018.
+
+
+Art. 2º.
+
+No âmbito do Poder Executivo Municipal, consoante às definições dispostas no Art. 5º da Lei Federal nº 13.709, de 2018, considera-se:
+
+
+I –
+
+dado pessoal: informação relacionada a pessoa natural identificada ou identificável;
+
+
+II –
+
+titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;
+
+
+III –
+
+controlador: a pessoa jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;
+
+
+IV –
+
+operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+
+
+V –
+
+encarregado: os agentes públicos, formalmente designados, para o desempenho da comunicação entre o Controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados – ANPD, bem como das demais funções previstas no Art. 41 da Lei Federal nº 13.709, de 2018;
+
+
+VI –
+
+agentes de tratamento: o controlador e o operador;
+
+
+VII –
+
+tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;
+
+
+VIII –
+
+relatório de impacto à proteção de dados pessoais: documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco; e
+
+
+IX –
+
+Autoridade Nacional de Proteção de Dados – ANPD, órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento da LGPD em todo o território nacional.
+
+
+X –
+
+Plano de adequação à LGPD ou Programa de Governança em Privacidade: conjunto das regras de boas práticas e de governança de dados pessoais que estabelecem as condições de organização, o regime de funcionamento, os procedimentos, as normas de segurança, os padrões técnicos, as observações especificadas para os diversos agentes envolvidos no tratamento, as ações educativas, os mecanismos internos de supervisão e de mitigação de riscos, o plano de respostas a incidentes de segurança e outros aspectos relacionados ao tratamento de dados pessoais.
+
+
+§ 1º
+
+O Município de Porto Velho, no âmbito da Administração Pública Municipal Direta, será o controlador por direito, sendo que seus órgãos e entidades desempenharão funções típicas de controlador por força da desconcentração administrativa.
+
+
+§ 2º
+
+Os integrantes da pessoa jurídica tais como empregados, administradores, sócios, servidores públicos, funcionários e equipes de trabalho não serão caracterizados como controladores ou operadores, tendo em vista sua subordinação e atuação sob o poder diretivo dos agentes de tratamento.
+
+
+§ 3º
+
+Os integrantes da pessoa jurídica de que trata o parágrafo anterior que, em virtude de vínculo de qualquer natureza com o poder público, obtiver acesso a informação e dados pessoais e deixar de observar as diretrizes e políticas de privacidade e proteção de dados, estarão sujeitos ao disposto nos artigos 32 a 34 da Lei Federal nº 12.527 de 2011, Lei de acesso a informação – LAI, e na Lei Complementar nº 385 de 2010, Lei nº 13.853 de 2019 e Lei nº 12.965 de 2014.
+
+
+Art. 3º.
+
+O tratamento de dados pessoais pelo órgão ou entidade da administração pública municipal direta, autárquica e fundacional deverá ser realizado para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de executar as competências legais ou cumprir as atribuições legais do serviço público, desde que:
+
+
+I –
+
+sejam informadas as hipóteses em que, no exercício de suas competências, realizam o tratamento de dados pessoais, fornecendo informações claras e atualizadas sobre a previsão legal, a finalidade, os procedimentos e as práticas utilizadas para a execução dessas atividades, em veículos de fácil acesso, preferencialmente em seus sítios eletrônicos; e
+
+
+II –
+
+seja indicado um encarregado quando realizarem operações de tratamento de dados pessoais.
+
+
+Art. 4º.
+
+A autoridade máxima do órgão ou da entidade da administração pública municipal direta, autárquica e fundacional deverá indicar encarregado pelo tratamento dos dados pessoais, nos termos do disposto no inciso III do Art. 23 e no Art. 41 da Lei nº 13.709, de 2018, no prazo máximo de 30 (trinta) dias da vigência deste Decreto, mediante publicação no Diário Oficial dos Municípios de Rondônia – DOMER.
+
+
+§ 1º
+
+A nomeação do encarregado deverá atender às seguintes prerrogativas e qualificações necessárias ao exercício da função:
+
+
+I –
+
+possuir conhecimentos multidisciplinares essenciais à sua atribuição, preferencialmente, os relativos aos temas de: privacidade e proteção de dados pessoais, análise jurídica, gestão de riscos, governança de dados, tecnologia da informação e acesso à informação no setor público;
+
+
+II –
+
+ser reconhecido como uma liderança em seu órgão ou entidade Municipal;
+
+
+III –
+
+o encarregado deverá ser exclusivamente servidor estatutário pertencente aos quadros da Prefeitura Municipal de Porto Velho.
+
+
+§ 2º
+
+A identidade e as informações de contato dos encarregados devem ser divulgadas publicamente, de forma clara e objetiva, no Portal da Transparência do Município e na página Institucional da LGPD.
+
+
+§ 3º
+
+Para fins de atendimento do requisito de que trata o inciso I do § 1º deste artigo, o encarregado pelo Tratamento dos Dados Pessoais deverá participar de ações de capacitação disponibilizadas pelo Poder Executivo, conforme indicações do Comitê Gestor de Privacidade e Proteção de Dados Pessoais de que trata o Capítulo III.
+
+
+Art. 5º.
+
+A autoridade máxima do órgão ou da entidade deverá assegurar ao Encarregado pelo Tratamento dos Dados Pessoais:
+
+
+I –
+
+amplo acesso à estrutura do órgão ou entidade municipal;
+
+
+II –
+
+pronto apoio das unidades administrativas no atendimento das solicitações de informações; e
+
+
+III –
+
+contínuo aperfeiçoamento relacionado aos temas de privacidade e proteção de dados pessoais, de acordo com os conhecimentos elencados no inciso I do § 1º do Art. 4º deste Decreto e observada a disponibilidade orçamentária e financeira do órgão ou entidade.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS
+
+
+Art. 6º.
+
+Compete à autoridade máxima dos órgãos e entidades municipais implementar plano de adequação à LGPD ou programa de governança em privacidade, atendendo-se os requisitos mínimos do inciso I do § 2º do Art. 50 da Lei Federal nº 13.709, de 2018, sempre que, na sua avaliação, a estrutura, a escala e o volume das operações de tratamento de dados pessoais na sua repartição recomendarem.
+
+
+§ 1º
+
+Na avaliação de que trata o *caput* deste artigo, o controlador deverá levar em consideração a sensibilidade dos dados tratados e a probabilidade e a gravidade dos danos para os titulares dos dados.
+
+
+§ 2º
+
+As Unidades executoras do Sistema de Controle Interno de cada órgão ou entidade municipal, regulamentadas no Art. 10 da Lei Complementar nº 767, de 14 de junho de 2019, deverão monitorar a adequação à LGPD do respectivo órgão ou entidade vinculado, pertencente do Poder Executivo Municipal, e notificar a autoridade máxima e encarregado sobre eventuais falhas ou lacunas no tratamento de dados pessoais, quando tiver conhecimento, indicando a devida adequação.
+
+
+Art. 7º.
+
+A Procuradoria Geral do Município – PGM prestará consultoria jurídica ao Comitê Gestor de Privacidade e Proteção de Dados Pessoais, aos subcomitês ou Grupos de Trabalho de que trata o Art. 14 deste Decreto e aos órgãos e entidades da Administração Pública Municipal Direta e Indireta, mediante a emissão de pareceres ou outras manifestações oficiais para dirimir dúvidas e fixar a interpretação da LGPD, bem como para a elaboração dos Atos Normativos, modelos de Contratos, Convênios e de Acordos de Cooperação internacional aderentes à LGPD, nos termos da Lei Complementar n° 99, de 28 de abril de 2000 e alterações.
+
+
+Art. 8º.
+
+
+I –
+
+prestar apoio e orientações ao Comitê Gestor de Privacidade e Proteção de Dados Pessoais na elaboração da Política de Privacidade e Proteção de Dados Pessoais e demais regulamentações relacionadas ao tema em conformidade com as Leis Federais nº 12.527, de 18 de novembro de 2011, nº 13.709, de 2018, e Lei Estadual nº 3.166 de 27 de agosto de 2013;
+
+
+II –
+
+desenvolver ações que contribuam para a consolidação de uma cultura de ética, probidade e transparência no tratamento de dados pessoais; e
+
+
+III –
+
+promover auditorias objetivando agregar valor e aperfeiçoar a eficácia dos processos de governança, de gestão de riscos e de controle no alcance pela Administração Pública dos objetivos inerentes à LGPD.
+
+
+Art. 9º.
+
+Compete à Ouvidoria Geral do Município:
+
+
+I –
+
+orientar os encarregados dos órgãos e entidades quanto ao atendimento aos titulares dos dados;
+
+
+II –
+
+disponibilizar canal de atendimento ao titular de dados, considerando as atribuições de ouvidoria;
+
+
+III –
+
+disponibilizar canal de denúncias, inclusive anônimas, que visem receber informações sobre incidentes de segurança da informação envolvendo dados pessoais ou irregularidades no seu tratamento no âmbito da Administração Pública Municipal, notificando o órgão e o encarregado correspondente;
+
+
+IV –
+
+monitorar o atendimento das solicitações dos titulares dos dados; e
+
+
+V –
+
+elaborar relatórios estatísticos das manifestações dos titulares de dados.
+
+
+Art. 10.
+
+Compete à Superintendência Municipal de Tecnologia da Informação e Pesquisa – SMTI:
+
+
+I –
+
+sugerir aos órgãos da Administração Direta, autarquias e fundações do Poder Executivo Municipal a aplicação de soluções de Tecnologia da Informação e Comunicação – TIC, relacionadas à proteção de dados pessoais;
+
+
+II –
+
+propor padrões de desenvolvimento de novas soluções de TIC, considerando a proteção de dados pessoais, desde a fase de concepção do produto e serviço até a sua execução;
+
+
+III –
+
+adequar os sistemas por ela desenvolvidos às exigências da LGPD;
+
+
+IV –
+
+estabelecer diretrizes gerais de Política de Segurança da Informação; e
+
+
+V –
+
+propor medidas de segurança em tecnologia da informação apropriadas para garantir o atendimento às premissas da LGPD.
+
+
+Parágrafo único
+
+As unidades do Poder Executivo Municipal com estrutura de TIC própria poderão estabelecer, no âmbito de suas competências e especificidades, regras para operacionalização e implementação das diretrizes de que trata o inciso IV deste artigo.
+
+
+Art. 11.
+
+Compete ao controlador, inclusive àquele que desempenha função típica de controlador:
+
+
+I –
+
+dar cumprimento, no âmbito do respectivo órgão ou entidade, ao disposto na LGPD e às orientações e recomendações do Comitê Gestor de Privacidade e Proteção de Dados Pessoais;
+
+
+II –
+
+atender às manifestações do titular de dados encaminhadas pela Ouvidoria Geral, ou recebidos em sua unidade, buscando cessar eventuais violações à Lei Federal nº 13.709, de 2018 ou apresentar justificativa pertinente;
+
+
+III –
+
+encaminhar ao encarregado informações que venham a ser solicitadas pela ANPD;
+
+
+IV –
+
+elaborar relatório de impacto à proteção de dados pessoais ou fornecer informações necessárias para a elaboração deste, em conformidade com o Art. 32 da Lei Federal nº 13.709, de 2018;
+
+
+V –
+
+instruir o operador quanto ao adequado tratamento de dados pessoais sob sua responsabilidade;
+
+
+VI –
+
+facilitar a promoção cultural de privacidade e proteção de dados pessoais; e
+
+
+VII –
+
+comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares.
+
+
+Art. 12.
+
+Compete ao operador realizar o tratamento segundo as instruções fornecidas pelo controlador, que verificará a observância das próprias instruções e das normas sobre a matéria.
+
+
+Art. 13.
+
+Compete ao encarregado pelo tratamento de dados pessoais:
+
+
+I –
+
+auxiliar o órgão ou entidade a adaptar seus processos de acordo com a LGPD, incluindo a responsabilidade quanto à orientação e aplicação de boas práticas e governança;
+
+
+II –
+
+trabalhar de forma integrada com os respectivos agentes de tratamento, considerando a necessidade de monitoramento regular e sistemático das atividades destes;
+
+
+III –
+
+receber reclamações e comunicações dos titulares, prestar esclarecimentos, alertar o controlador, sugerir e monitorar a implementação de medidas pertinentes;
+
+
+IV –
+
+receber comunicações da Autoridade Nacional de Proteção de Dados Pessoais – ANPD, alertar o controlador, bem como sugerir e monitorar a implementação de medidas pertinentes;
+
+
+V –
+
+orientar os funcionários, servidores e contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais e às normas internas estabelecidas, se houver;
+
+
+VI –
+
+recomendar as salvaguardas para mitigar quaisquer riscos aos direitos dos titulares de dados pessoais tratados pelo órgão, inclusive salvaguardas técnicas e medidas organizacionais;
+
+
+VII –
+
+assessorar os responsáveis pelo tratamento de dados pessoais na realização de inventários de dados pessoais e emissão de relatórios de impacto à proteção de dados pessoais; e
+
+
+VIII –
+
+executar outras atribuições determinadas pelo controlador ou estabelecidas em normas complementares.
+
+
+Parágrafo único
+
+A autoridade nacional poderá estabelecer normas complementares sobre a definição e as atribuições do encarregado, inclusive hipótese de dospensa da necessidade de sua indicação, conforme natureza e o porte da entidade ou o volume de operações e tratamento de dados.
+
+
+#### CAPÍTULO III — DO COMITÊ GESTOR DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS
+
+
+Art. 14.
+
+Fica instituído Comitê gestor de Privacidade e Proteção de Dados Pessoais – CGPD com o objetivo de estabelecer o conjunto de regras de boas práticas e de governança, diretrizes, políticas, projetos, ações e metas estratégicas, a serem observados pelos órgãos da Administração Direta, autarquias e fundações públicas, visando o cumprimento e adequação do Poder Executivo às disposições da Lei Federal nº 13.709, de 2018.
+
+
+§ 1º
+
+Compete ao Comitê Gestor de Privacidade e Proteção de Dados Pessoais:
+
+
+I –
+
+formular princípios e diretrizes para a gestão de dados pessoais;
+
+
+II –
+
+propor projetos, ações, diretrizes, metas e cronogramas visando a gradual adequação do tratamento de dados pessoais realizados pela Administração Pública Municipal ao previsto na LGPD e nos regulamentos da ANPD, bem como monitorar sua efetiva implementação, em atuação conjunta com os encarregados de cada órgão ou entidade;
+
+
+III –
+
+elaborar e manter atualizada a Política de Privacidade e Proteção de Dados Pessoais, observando as disposições da Lei Federal nº 12.527, de 18 de novembro de 2011, da Lei Estadual nº 3.166, de 27 de agosto de 2013 e da Lei Federal nº 13.709, de 2018, quando aplicáveis;
+
+
+IV –
+
+elaborar e manter atualizado o modelo de termo de uso, política de privacidade e política de cookies para sistemas de informação e sítios eletrônicos da Administração Pública Municipal;
+
+
+V –
+
+definir e indicar treinamentos e cursos de capacitação visando o aperfeiçoamento dos encarregados pelo tratamento de dados pessoais, indicados pelos órgãos e entidades do Poder Executivo Municipal;
+
+
+VI –
+
+orientar a rede de encarregados pelo tratamento de dados pessoais indicados no âmbito do Poder Executivo Municipal;
+
+
+VII –
+
+promover ações que visem a promoção cultural de privacidade e proteção de dados pessoais, bem como cumprir a disciplina de proteção de dados com base nos fundamentos previstos no Art. 2º e dos princípios elencados no Art. 6º, da Lei Federal nº 13.709, de 2018;
+
+
+VIII –
+
+avaliar processos e procedimentos que envolvam o tratamento e proteção de dados pessoais; e
+
+
+IX –
+
+acompanhar as investigações e avaliações de incidentes de segurança da informação que envolvam dados pessoais.
+
+
+§ 2º
+
+O Comitê Gestor de que trata o *caput* deste artigo poderá instituir subcomitês técnicos ou grupos de trabalhos, permanentes ou temporários, para assessorá-lo em suas atividades.
+
+
+§ 3º
+
+A Política de Privacidade e Proteção de Dados Pessoais, bem como os projetos, ações e cronogramas visando a adequação do Poder Executivo ao previsto na LGPD de que tratam os incisos I e II do § 1º deste artigo, deverão ser apresentadas no prazo de 180 (cento e oitenta) dias da data da publicação deste decreto, admitida prorrogação por igual período desde que motivada.
+
+
+Art. 15.
+
+O Comitê Gestor de Privacidade e Proteção de Dados Pessoais do Município de Porto Velho será composto por membros titulares e suplentes representantes dos seguintes órgãos e entidades:
+
+
+I –
+
+Secretaria Geral de Governo – SGG – Coordenador;
+
+
+II –
+
+Superintendência Municipal de Tecnologia da Informação e Pesquisa – SMTI;
+
+
+III –
+
+Ouvidoria Geral do Município;
+
+
+IV –
+
+Procuradoria Geral do Município – PGM;
+
+
+V –
+
+Controladoria Geral do Município – CGM;
+
+
+VI –
+
+Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG;
+
+
+VII –
+
+Secretaria Municipal da Fazenda – SEMFAZ;
+
+
+VIII –
+
+Secretaria Municipal de Saúde – SEMUSA;
+
+
+IX –
+
+Secretaria Municipal de Educação – SEMED;
+
+
+X –
+
+Secretaria Municipal de Assistência Social e Família – SEMASF;
+
+
+XI –
+
+Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN.
+
+
+XII –
+
+Secretaria Municipal de Administração – SEMAD
+
+
+§ 1º
+
+Os membros do Comitê serão indicados pela autoridade máxima de cada órgão ou entidade municipal acima representada e designados pelo Prefeito Municipal.
+
+
+§ 2º
+
+O Comitê se reunirá em caráter ordinário, bimestralmente, e extraordinário, por convocação de seu Coordenador, podendo ocorrer presencialmente ou por videoconferência.
+
+
+§ 3º
+
+Os membros do Comitê serão representados por seus suplentes quando de seus afastamentos e impedimentos legais ou regulamentares, devendo ser comunicada tal substituição de forma antecedente às reuniões.
+
+
+§ 4º
+
+As reuniões do Comitê ocorrerão, em primeira convocação, com a presença da maioria simples de seus membros ou, quinze minutos após a hora estabelecida, em segunda convocação, com apresentação de, no mínimo, um terço de seus membros.
+
+
+§ 5º
+
+As deliberações do Comitê serão aprovadas pela maioria simples dos membros presentes e o Coordenador que, além do voto regular também terá o voto de desempate.
+
+
+§ 6º
+
+O Comitê poderá convidar representantes de outros órgãos ou entidades, para participarem das reuniões, sem direito a voto, com propósito de contribuir para com o entendimento das diretrizes da LGPD e soluções que visem seu cumprimento.
+
+
+§ 7º
+
+Das reuniões será lavrada ata em que constará a pauta, inclusive suas deliberações.
+
+
+§ 8º
+
+O apoio administrativo do Comitê poderá ser prestado por membro eleito ou por servidor designado pelo Coordenador.
+
+
+§ 9º
+
+As funções de membro do Comitê não serão remuneradas, mas consideradas como serviço público relevante.
+
+
+#### CAPÍTULO IV — DA POLÍTICA MUNICIPAL DE PROTEÇÃO DE DADOS
+
+
+Art. 16.
+
+São diretrizes da Política Municipal de Proteção de Dados:
+
+
+I –
+
+a definição de objetivos e metas para as estratégias de adequação à LGPD e para os programas de governança em privacidade e o monitoramento dos resultados;
+
+
+II –
+
+o desenvolvimento contínuo do nível de maturidade dos tratamentos dos dados;
+
+
+III –
+
+o alinhamento com as políticas de segurança da informação e privacidade do Município de Porto Velho;
+
+
+IV –
+
+o alinhamento com as boas práticas de transparência e as regras definidas na Lei Federal nº 12.527, de 2011 (Lei de Acesso a Informação – LAI), e seus substitutos normativos;
+
+
+V –
+
+a implementação de processos de gestão de risco pelos órgãos e entidades abrangidos por este Decreto para balizar a adoção de boas práticas e regras de governança associadas ao plano de adequação à LGPD ou programa de governança em privacidade;
+
+
+VI –
+
+a manutenção da segurança jurídica dos instrumentos firmados;
+
+
+VII –
+
+a proporcionalidade das medidas acerca de proteção de dados, privacidade e segurança da informação;
+
+
+VIII –
+
+o atendimento tempestivo, simplificado e, preferencialmente, eletrônico às demandas do titular de dados pessoais;
+
+
+IX –
+
+divulgação permanente e sensibilização dos gestores e servidores sobre a relevância da conformidade do tratamento de dados pessoais; e
+
+
+X –
+
+outras diretrizes estabelecidas pelo Comitê Gestor de Privacidade e Proteção de Dados Pessoais – CGPDP.
+
+
+Art. 17.
+
+Este Decreto poderá ser alterado em decorrência de orientações, recomendações e opiniões técnicas que vierem a ser expedidas pela Autoridade Nacional de Proteção de Dados – ANPD.
+
+
+Art. 18.
+
+Os órgãos da Administração Pública Direta e Indireta do Município deverão atentar-se às normas de adequação expedidas pela ANPD.
+
+
+Art. 19.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.397, de 10 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1397"
+data: "2025-12-10"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/1173"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/437/text"
+sha256_fonte: "abcddaf96184c71eecb0e9436dc0a74e6cd3c0f1ecb63d6e5fc93d1527e87288"
+sha256_texto: "0051d40b62471a21913c1229bd1a7dc71875056648acbb19281c3c455d4603ec"
+capturado_em_fonte: "2026-10-21T05:01:30.395458-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.397, de 10 de dezembro de 2025
+
+Dispõe sobre a instituição da disciplina de "Noções de Empreendedorismo e Gestão de Negócios" para os alunos do Ensino Fundamental da Escola Municipal Major Hortêncio Pereira de Brito, estabelece diretrizes para o programa, e autoriza a criação de um programa geral de noções de empreendedorismo nas escolas municipais.
+
+
+O PREFEITO MUNICIPAL DE ACARI, Estado do Rio Grande do Norte, no uso de suas atribuições legais estabelecidas pela Lei Orgânica Municipal,
+
+Faço saber que a CÂMARA MUNICIPAL DE ACARI/RN aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituída, como disciplina inserida na grade de conteúdos a serem ministrados, o ensino de "Noções de Empreendedorismo e Gestão de Negócios" para os alunos do 9º ano do Ensino Fundamental da Escola Municipal Major Hortêncio Pereira de Brito.
+
+
+Art. 2º.
+
+A disciplina de "Noções de Empreendedorismo e Gestão de Negócios" terá caráter não obrigatório e não eliminatório, sendo oferecida como complemento educacional ao currículo oficial.
+
+
+Parágrafo único
+
+As avaliações realizadas no âmbito da disciplina terão o objetivo de acompanhar o desenvolvimento dos alunos, não implicando em reprovação ou impacto direto no desempenho acadêmico geral.
+
+
+Art. 3º.
+
+A disciplina será destinada exclusivamente aos alunos regularmente matriculados no 9º ano do Ensino Fundamental da Escola Municipal Major Hortêncio Pereira de Brito.
+
+
+Art. 4º.
+
+O conteúdo programático da disciplina deverá abranger, no mínimo, os seguintes temas:
+
+
+I –
+
+Introdução ao Empreendedorismo: conceitos básicos, características de um empreendedor e importância no contexto social e econômico.
+
+
+II –
+
+Gestão de Empresas: noções de planejamento, organização, controle financeiro, marketing e vendas.
+
+
+III –
+
+Educação Financeira: princípios de poupança, investimento e orçamento pessoal.
+
+
+IV –
+
+Ética e Sustentabilidade nos Negócios: responsabilidade social e ambiental no empreendedorismo.
+
+
+V –
+
+Simulação Prática: elaboração de um plano de negócios simplificado.
+
+
+Parágrafo único
+
+O conteúdo programático e carga horária serão ajustados pela Secretaria Municipal de Educação a partir dos princípios estabelecidos na presente lei, inclusive, atendendo a circunstâncias ou especificidades locais e as diretrizes pedagógicas.
+
+
+Art. 5º.
+
+A disciplina poderá ser ministrada por através de seminários, palestras, aulas convencionais e práticas por professores efetivos com carga horária disponível, pessoas voluntárias, professores contratados ou cooperados que tenham, preferencialmente, formação em áreas correlatas ao tema do “empreendedorismo e gestão de negócios”.
+
+
+I –
+
+A metodologia deverá priorizar atividades práticas, dinâmicas de grupo, estudos de caso e projetos colaborativos.
+
+
+II –
+
+As avaliações deverão ser realizadas por meio de provas, relatórios, apresentações e participação em atividades práticas, sem caráter classificatório ou eliminatório.
+
+
+Art. 6º.
+
+Fica o Poder Executivo também autorizado a instituir um Programa Geral de Noções de Empreendedorismo, como atividade complementar e transversal, para os alunos da Rede Municipal de Ensino da Rede, com os seguintes objetivos:
+
+
+I –
+
+Introduzir conceitos básicos de empreendedorismo e educação financeira de forma lúdica e adaptada à faixa etária.
+
+
+II –
+
+Promover a cultura empreendedora desde os primeiros anos do Ensino Fundamental I.
+
+
+III –
+
+Desenvolver habilidades como criatividade, trabalho em equipe, resolução de problemas e pensamento crítico.
+
+
+Parágrafo único
+
+O programa geral – que deve buscar parcerias institucionais - deverá ser implementado de forma gradual e integrada às atividades pedagógicas já existentes, respeitando a carga horária regular dos alunos.
+
+
+Art. 7º.
+
+O Poder Executivo regulamentará esta Lei no prazo de até 90 (noventa) dias a contar da data de sua publicação.
+
+
+Art. 8º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Acari/RN, 10 de dezembro de 2025.
+
+***FERNANDO ANTONIO BEZERRA***
+
+Prefeito Municipal
+

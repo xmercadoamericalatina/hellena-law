@@ -1,0 +1,139 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 8.849/2026"
+uf: "RS"
+municipio: "GLORINHA"
+tipo: "Decreto"
+numero: "8849"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 02/04/2026"
+data_publicacao: 2026-04-02
+codigo_identificador: "B25CC8BE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117814_2026-04-01_faf1c1810f0a735624ff8605f66a3cec.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 8.849/2026
+
+DECRETO MUNICIPAL Nº 8.849/2026
+Abre crédito suplementar no valor de R$ 30.450,00 ( trinta mil quatrocentos e cinquenta reais) por Recursos de Anulação de
+Dotação.
+Carlos Leonardo Vargas Carvalho, Prefeito Municipal de Glorinha, Estado do Rio Grande do Sul, no uso das atribuições que lhe são conferidas
+pelo Artigo 6º, Inciso II da Lei Orgânica Municipal e nos termos do Artigo 7º, Inciso I, alínea A da Lei Nº 2.451 de 05 de Dezembro de 2025.
+DECRETA:
+Art. 1º Fica aberto um crédito suplementar no montante de R$ 30.450,00 (trinta mil quatrocentos e cinquenta reais), no orçamento vigente, nas
+seguintes classificações:
+Programa de Trabalho
+
+Categoria Econômica
+
+05.03.12.361.0022.2.051
+
+4.4.90.52.00.00.00
+
+08.01.04.122.0004.2.006
+08.04.18.542.0055.2.177
+12.01.15.451.0026.2.085
+
+Descrição Categoria
+EQUIPAMENTOS
+PERMANENTE
+OUTROS SERVIÇOS
+PESSOA JURÍDICA
+OUTROS SERVIÇOS
+PESSOA JURÍDICA
+OUTROS SERVIÇOS
+PESSOA JURÍDICA
+
+3.3.90.39.00.00.00
+3.3.90.39.00.00.00
+3.3.90.39.00.00.00
+
+Valor
+E
+
+MATERIAL
+
+DE
+
+TERCEIROS
+
+-
+
+DE
+
+TERCEIROS
+
+-
+
+DE
+
+TERCEIROS
+
+-
+
+R$ 30.000,00
+R$ 100,00
+R$ 200,00
+R$ 150,00
+
+Art. 2º Servirá de recurso para cobertura do Crédito Suplementar solicitado a redução das seguintes dotações:
+Programa de Trabalho
+
+Categoria Econômica
+
+05.03.12.365.0022.2.053
+
+4.4.90.52.00.00.00
+
+08.01.04.122.0004.2.006
+
+3.3.90.30.00.00.00
+
+08.04.04.122.0055.2.006
+
+3.3.90.39.00.00.00
+
+12.01.15.451.0026.2.085
+
+3.3.90.30.00.00.00
+
+Descrição Categoria
+EQUIPAMENTOS
+E
+PERMANENTE
+MATERIAL DE CONSUMO
+OUTROS SERVIÇOS DE
+PESSOA JURÍDICA
+MATERIAL DE CONSUMO
+
+Valor
+MATERIAL
+
+R$ 30.000,00
+R$ 100,00
+
+TERCEIROS
+
+-
+
+R$ 200,00
+R$ 150,00
+
+Art. 3º Este decreto entra em vigor na data de sua publicação.
+Art. 4º Revogam-se as disposições em contrário.
+PREFEITURA MUNICIPAL DE GLORINHA, 31 de Março de 2026.
+CARLOS LEONARDO VARGAS CARVALHO
+Prefeito Municipal
+REGISTRE-SE E PUBLIQUE-SE.
+ROBINSON BARTH LIMA
+Secretário Municipal de Administração
+
+www.diariomunicipal.com.br/famurs
+
+282
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+Publicado por:
+Caroline Soares Collares

@@ -1,0 +1,180 @@
+---
+titulo: "LEI Nº 5.556 DE 08 DE OUTUBRO DE 2025"
+uf: "RS"
+municipio: "BOM RETIRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "5556"
+data: 2025-10-08
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 05/05/2026"
+data_publicacao: 2026-05-05
+codigo_identificador: "90A1EE1B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117835_2026-05-04_3995df76416b3c24f58a059f3087e3b5.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 5.556 DE 08 DE OUTUBRO DE 2025
+
+LEI Nº 5.556 DE 08 DE OUTUBRO DE 2025
+GABINETE DO PREFEITO
+LEI Nº 5.556 DE 08 DE OUTUBRO DE 2025
+“Autoriza o Poder Executivo Municipal a abrir Crédito Adicional Suplementar no Orçamento Municipal e dá outras providências.”
+CELSO PAZUCH, Prefeito Municipal de Bom Retiro do Sul, Estado do Rio Grande do Sul, em cumprimento ao disposto no art. 58 da Lei Orgânica
+do Município.
+FAÇO SABER que o Poder Legislativo aprovou e eu sanciono e promulgo a seguinte Lei:
+Art. 1º Fica o Poder Executivo Municipal autorizado abrir Crédito Adicional Suplementar no valor de R$ 1.199.535,47 (um milhão, cento e noventa
+e nove mil, quinhentos e trinta e cinco reais e quarenta e sete centavos) no Orçamento Municipal, exercício de 2025, classificado sob a seguinte
+dotação orçamentária:
+Org.
+
+Unid.
+
+Função
+
+Sub Função
+
+Programa
+
+Proj/ Ativ
+
+Categoria
+
+FR
+
+07
+
+01
+
+10
+
+302
+
+0022
+
+2045
+
+3.3.3.90.36
+
+500
+
+07
+
+01
+
+10
+
+302
+
+0022
+
+2045
+
+3.3.3.90.36
+
+500
+
+07
+07
+
+01
+01
+
+10
+10
+
+301
+302
+
+0004
+0004
+
+2013
+2013
+
+3.3.3.90.30
+3.3.3.90.30
+
+500
+500
+
+09
+
+01
+
+15
+
+451
+
+0050
+
+2076
+
+3.3.1.90.11
+
+500
+
+Descrição
+Valor
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+60.000,00
+FÍSICA
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+890.000,00
+JURÍDICA
+MATERIAL DE CONSUMO
+10.000,00
+MATERIAL DE CONSUMO
+10.000,00
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+229.535,47
+CIVIL
+
+Parágrafo único. Para cobertura do Crédito Adicional Suplementar, autorizado no artigo 1º, servirá de fonte os recursos a redução abaixo:
+Org.
+04
+
+Unid.
+02
+
+Função
+28
+
+Sub Função
+843
+
+Programa
+0000
+
+Proj/ Ativ
+0005
+
+Categoria
+3.3.3.90.91
+
+FR
+500
+
+Descrição
+SENTENÇAS JUDICIAIS
+
+Valor
+1.199.535,4 7
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Gabinete do Prefeito de Bom Retiro do Sul, 08 de outubro de 2025.
+
+www.diariomunicipal.com.br/famurs
+
+240
+
+Rio Grande do Sul , 05 de Maio de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4321
+CELSO PAZUCH
+Prefeito Municipal
+Registre-se e Publique-se
+Sec. Administração e Planejamento
+MARCELE KERBER
+CPF 018.846.600-29
+Matrícula 5454
+Publicado por:
+Weslen Cardoso

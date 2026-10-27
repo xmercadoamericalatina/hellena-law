@@ -1,0 +1,106 @@
+---
+titulo: "Decreto nº 20.187, de 08 de julho de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.187"
+data: "2024-07-08"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26809"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6572/text"
+sha256_fonte: "8a2f1ec093e486506441c02e2a4328fe7e2f2c7caa316c76b035fbb0eb88b8c4"
+sha256_texto: "4a3513b4cfacda0a9869d175c8a50fd7c9fd6ff2753c73effabb1938e3219c3a"
+capturado_em_fonte: "2026-10-21T04:15:16.255755-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.187, de 08 de julho de 2024
+
+Dispõe sobre a situação de emergência ambiental decorrente do cenário de extrema seca vivenciado e da iminente possibilidade de desastre decorrente da incidência de impacto potencial aos usos múltiplos do Rio Madeira, notadamente àqueles dependentes de seus níveis, como navegação e acesso à água, alimentos e medicamentos na região do Alto, Médio e Baixo Madeira no município de Porto Velho – RO, conforme Relatório Técnico da Coordenadoria Municipal de Proteção e Defesa Civil, assim como o Decreto Estadual n° 29.252, de 04 de julho de 2024 que declara situação de emergência estadual em virtude de estiagem.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no Art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Ofício externo nº 90/COMPDEC/SMD/2024, de 05 de julho de 2024 (B53A31F0-e).
+
+**CONSIDERANDO** que o município de Porto Velho atravessa situação crítica de estiagem, desde o primeiro semestre de 2023 em decorrência da significativa redução das precipitações pluviométricas, registrando novas mínimas históricas nos níveis do Rio Madeira;
+
+**CONSIDERANDO** que o regime de chuvas no Município de Porto Velho no primeiro semestre de 2023 foi inferior à média, causando reflexos significativos ao presente ano de 2024;
+
+**CONSIDERANDO** as previsões meteorológicas que preveem que os baixos níveis pluviométricos se prolongarão por extenso período em virtude do fenômeno El Niño e que, mesmo com probabilidade grande da instalação do fenômeno La Niña, não haverá mudança em nossa região por já se tratar de uma época seca e sem chuvas;
+
+**CONSIDERANDO** que, no Município de Porto Velho, o período compreendido entre os meses de julho a novembro normalmente apresenta características de baixos índices de precipitação, temperaturas elevadas, baixo percentual de umidade relativa do ar e ventos fortes;
+
+**CONSIDERANDO** que a diminuição das chuvas acarreta o aumento da temperatura e a queda do percentual de Umidade Relativa do Ar - URA, dentre outras variáveis ambientais que potencializam a ocorrência de queimadas descontroladas e incêndios florestais em todo o território do Município de Porto Velho que podem acarretar agravos à saúde da população, principalmente nos grupos etários mais vulneráveis;
+
+**CONSIDERANDO** que a estiagem resulta no exaurimento da água nos mananciais, culminando no desabastecimento de água às populações localizadas em áreas urbanas e rurais e, consequentemente, diminuição da disponibilidade de água para consumo humano e animal;
+
+**CONSIDERANDO** os prejuízos econômicos e sociais à população afetada e a imperiosidade de se resguardar a dignidade da pessoa humana com o atendimento de suas necessidades básicas;
+
+**CONSIDERANDO** a gravidade da situação que tem acarretado impactos nas atividades agrícolas, na pecuária, na navegabilidade do Rio Madeira e em outras atividades econômicas essenciais à população;
+
+**CONSIDERANDO** o risco de prejuízo pedagógico e de insegurança alimentar e nutricional aos alunos da rede Pública Municipal de ensino das comunidades mais afetadas pela seca, ocasionado por eventual suspensão das atividades escolares, ante a impossibilidade ou dificuldade de acesso aos estabelecimentos de ensino na região do baixo madeira;
+
+**CONSIDERANDO** que a intensidade dos desastres demandará uma resposta não prevista em seus planejamentos anuais e plurianuais e poderão impactar substancialmente nos orçamentos das secretarias municipais, comprometendo as ações de resposta aos desastres previstos para esse período;
+
+**CONSIDERANDO** a necessidade de implementação de medidas emergenciais para mitigar os efeitos adversos da estiagem e garantir o bem-estar da população afetada;
+
+**CONSIDERANDO** que a situação de anormalidade foi amparada pelo Parecer Técnico da Coordenadoria Municipal de Proteção e Defesa Civil, assim como Decreto n° 29.252, de 4 de julho de 2024, que Declara situação de emergência estadual em virtude de estiagem, que por sua vez foi amparado pelo Parecer Técnico da Coordenadoria Estadual de Proteção e Defesa Civil;
+
+**CONSIDERANDO**, por fim, a necessidade de se adotar medidas de prevenção e remediação para hipótese de ocorrência de desastres na modalidade de estiagem severa e seca.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica declarada a existência de situação anormal caracterizada como situação de emergência em decorrência do cenário de extrema seca vivenciado e da iminente possibilidade de desastre decorrente da incidência de impacto potencial aos usos múltiplos, notadamente àqueles dependentes de seus níveis, como navegação e acesso à água, alimentos e medicamentos na região do Alto, Médio e Baixo Madeira no município de Porto Velho, fenômeno classificado e codificado como desastre natural - climatológico – estiagem- COBRADE 1.4.1.1.0, conforme Portaria MDR n° 260, de 2 de fevereiro de 2022, alterada pela Portaria MDR n° 3.646, de 20 de dezembro de 2022, ambas do Ministério da Integração e do Desenvolvimento Regional, pelo período de 180 (cento e oitenta) dias.
+
+
+Parágrafo único
+
+A declaração disposta no *caput* deste artigo decorre do desastre que assola o Município devido ao desabastecimento de água às populações localizadas em áreas urbanas e rurais e, consequentemente, diminuição da disponibilidade de água para consumo humano e animal, acarretando graves impactos nas atividades agrícolas, na pecuária, na navegabilidade dos rios e em outras atividades econômicas essenciais à população.
+
+
+Art. 2º.
+
+Fica determinada a mobilização intensiva da Coordenadoria Municipal de Proteção e Defesa Civil – COMPDEC/SMD, com vista a atuar junto às demais Secretarias Municipais de Porto Velho na execução de atividades e ações de socorro, bem como assistência às comunidades atingidas pelos efeitos da seca.
+
+
+Art. 3º.
+
+Para os fins deste Decreto, ficam autorizadas:
+
+
+I –
+
+a celebração de instrumentos com outros órgãos e entidades públicas, em todos os níveis da federação;
+
+
+II –
+
+a realização de campanhas de difusão do tema na mídia, com o objetivo de informar e sensibilizar a população sobre os riscos da atual situação ambiental;
+
+
+III –
+
+a realização de despesas necessárias para a manutenção ou restabelecimento da capacidade de resposta do poder público para o enfrentamento da emergência de que trata este Decreto.
+
+
+Parágrafo único
+
+Aplica-se, no que couber, o disposto no Art. 75, inciso VIII, da Lei Federal nº 14.133, de 1º de abril de 2021.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação, podendo ser prorrogado caso se justifique.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

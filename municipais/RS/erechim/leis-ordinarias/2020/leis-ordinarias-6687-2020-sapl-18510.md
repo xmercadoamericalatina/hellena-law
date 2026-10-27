@@ -1,0 +1,141 @@
+---
+titulo: "Lei Ordinária Municipal nº 6.687, de 19 de fevereiro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "6687"
+data: "2020-02-19"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/18510"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/550/text"
+sha256_fonte: "febb5e509aee65a13a03c5626004ceee47f388c07985c49f6652e94c170b3ad1"
+sha256_texto: "c0c26d19c6b6c6d58cbd0194aa531a8b80a7c744217eafaf71a2b08972d70baf"
+capturado_em_fonte: "2026-10-21T03:35:51.393975-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 6.687, de 19 de fevereiro de 2020
+
+Ratifica a assinatura do termo de convênio celebrado com a Cooperativa de Crédito e Investimento União de Estados Rio Grande do Sul, Santa Catarina e Minas Gerais — SICREDI UNIESTADOS, objetivando operacionalizar programa de crédito pessoal aos Servidores Públicos da Câmara de Vereadores de Erechim — RS.
+
+
+O Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+Faço saber que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica ratificada a assinatura do Termo de Convênio celebrado com a Cooperativa de Crédito, Poupança e Investimento União de Estados Rio Grande do Sul, Santa Catarina e Minas Gerais (SICREDI UNIESTADOS), para operacionalizar programa de crédito pessoal aos Servidores Públicos da Câmara Municipal de Vereadores de Erechim.
+
+
+Parágrafo único
+
+O Termo de Convênio, citado no caput deste artigo, é parte integrante da presente Lei.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos a contar da data da assinatura do Termo de Convênio.
+
+
+Erechim/RS, 19 de Fevereiro de 2020.  
+  
+  
+LUIZ FRANCISCO SCHMIDT  
+Prefeito Municipal
+
+
+Registre-se e Publique-se  
+Data supra  
+  
+  
+VALDIR FARINA  
+Secretário Municipal de Administração
+
+
+Sicredi Sicredi UniEstados  
+Rua Euclides da Cunha, 71 - Centro  
+99700-228 - Erechim/RS  
+sicredi.com.br
+
+
+CRÉDITO, na mesma data do credito da folha aos servidores mediante crédito na conta corrente nº 77777-3 - Ag. 0217, de titularidade desta.
+
+
+**Parágrafo Quarto:** As parcalas senão atualizadas conforme contatado com o respectivo servidor público e a COOPERATIVA DE CRÉDITO informará à CONVENIADA o valor das parcelas, com a variação de encargos, quando for o caso.
+
+
+**Parágrafo Quinto**: Os empréstimos serão negociados com prazo mláximo de 96 (noventa e seis) para servidores efetivos e para servidores com cargo em comissão e eletivos somente pelo prazo do mandato, parcelas fixas (método Price). Os vencimentos mensais fixos no dia 10 (dez) de cada mês.
+
+
+**Parágrafo Sexto**: Os empréstimos somente serão efetuados apóes a entrega a COOPERATIVA DE CRÉDITO da respectiva autorização (Notificação do Empregador) pela CONVENIADA.
+
+
+**Parágrafo Sétimo:** A conveniada será responsável por solicitar a autorização formal de empréstimo do seu servidor público referente a cada operação e mantê-la sob sua guarda, assumindo os encargos de depositário dos mesmos, nos exatos termos dos artigos 627 e seguintes do Código Civil, com as responsabilidades que lhe incumbem as leis civil e penal.
+
+
+**CLÁUSULA SEGUNDA**: Mensalmente, a CONVENIADA repassará à COOPERATIVA DE CRÉDITO at´le o dia 25 (vinte e cinco) do mês anterior ao vencimento dos empréstimos, relação contendo os nomes dos servidores, bem como informar qualquer alteração nos seus dados cadastrais.
+
+
+**Parágrafo Primeiro.** A CONVENIADA compromete-se a informar a COOPERATIVA DE CRÉDITO, em tempo hábil, eventual exoneração ou pedido de exoneração do servidor público beneficiário do (s) empréstimo (s).
+
+
+**Parágrafo segundo:** No caso de exoneração ou pedido de exoneração pelo servidor público, a CONVENIADA responsabiliza-se pela retenção de até 30% (trinta por cento) da verba rescisória, limitada ao saldo devedor de empréstimo, comunicando a COOPERATIVA DE CRÉDITO sobre a rescisão bem como repassando o valor da retenção para abatimento do saldo devedor do servidor exonerado.
+
+
+**Parágrafo terceiro**:A retenção de até 30% (trinta por cento) descrita no parágrafo anterior, incidente na verba rescisória, tem a ciência e o "de acordo" do servidor público conforme documentos necessários e assinados quando da formalização do crédito, quais sejam, autorização para desconto e declaração de compromisso e repasse de valores, que fazem parte integrante do dossiê da operação de crédito.
+
+
+**CLÁUSULA TERCEIRA**: A COOPERATIVA DE CRÉDITO poderá recindir o presente convênio, a qualquer tempo, desde auq comunique a CONVENIADA, no mínimo, com 30 (trinta) dias de antecedência, sendo que a rescisão não exime as partes de cumprirem com suas obrigações em relação aos empréstimos já firmados.
+
+
+**CLÁUSULA QUARTA**: É facultativo á CONVENIADA descontar da folha de pagamento do servidor tomador do crédito os custos operacionais decorrentes da realização da averbação na folha de pagamento.
+
+
+**Parágrafo primeiro:** Cabe á CONVENIADA, mediante comunicado interno ou mediante solicitação do servidor público dar publicidade dos custos operacionais mencionados nesta cláusula, os quais serão mantidos inalterados durante todo o prazo de amortização da operação.
+
+
+**Parágrafo segundo**: A COOPERATIVA DE CRÉDITO nã arcará com nenhum dos custos operacionais citados nesta Cláusula.
+
+
+**CLÁUSULA QUINTA**: Fica facultado à COOPERATIVA DE CRÉDITO, a qualquer tempo e a seu exclusivo critério, suspender a concessão dos empréstimos aqui tratados, de forma temporária ou definitiva, seja por motivo de ordem interna da COOPERATIVA DE CRÉDITO ou em decorrência de normas emanadas pelas autoridades fiscais e/ou monetárias, devendo comunicar a CONVENIADA por escrito e honrar os empréstimos autoriados e em andamento.
+
+
+CLÁUSULA SÉTIMA: A CONVENIADA informa que o seu contato focal plara tratar deste convênio sempre que necessário, é o uq segue, comprometendo-se a informar à COOPERATIVA DE CRÉDITO, sempre que ocorrer alteração.  
+  
+**Nome:** Leandro Zamboni **Função:** Auxiliar Administrativo  
+  
+**Telefone:** (54) 2107-7133 **E-mail:**  
+leandro.zamboni@erechim.rs.leg.br
+
+
+**CLÁUSULA OITAVA:** A CONVENIADA expressamente declara, autorizada e nomeia como seus representantes o servidor, LEANDRO ZAMBONI, AUXILIAR ADMINISTRATIVO, outorgando a esta pessoa os poderes necessários para assinar em nome da CONVENIADA os documentos necessários que transitam durante o fluxo (CONVENIADA X COOPERATIVA) refeentes a formalização da operação, objeto deste convênio.
+
+
+**CLÁUSULA NONA:** As PARTES formalizam o presente convênio sem critério de exclusividade, podend a CONVENIADA formalizar o mesmo tipo de convênio com outra instituição financeira.
+
+
+**CLÁUSULA DÉCIMA:** As partes elegem o Foro da Comarca de Erechim, com ren´luncia de qualquer outro, por mais privilegiado que seja, para dirimir quaisquer litigios oriundos do presente contrato.
+
+
+E por estarem assim justos e contratados, firmam o presente contrato em 03 (três) vias de igual teor, na presença das testemunhas abaixo.  
+  
+  
+Erechim/RS, 27/12/2019
+
+
+**COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNI~LAO DE ESTADOS RIO GRNDE DO SUL, SANTA CATARINA E MINAS GERAIS - SICREDI UNIESTADOS Alderi Oldra Presidente da Câmara de Vereadores de Erechim**
+
+
+**Testemunhas: Janete Pescador Vicentini Ernesto José Alano Amaral CPF:842.251.510-34 CPF: 004.822.460-06 Esta folha de assinaturas pertence ao Convênio para Empréstimos firmados entre Sicredi UniEstados e Câmara Municipal de Vereadores de Erechim em 27/12/2019.**
+
+
+Classificação Uso Interno
+

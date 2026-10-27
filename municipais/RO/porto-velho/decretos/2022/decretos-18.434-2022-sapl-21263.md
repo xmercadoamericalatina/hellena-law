@@ -1,0 +1,105 @@
+---
+titulo: "Decreto nº 18.434, de 09 de setembro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.434"
+data: "2022-09-09"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/21263"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10144/text"
+sha256_fonte: "b45f0eb5966414f35c69a0f5343066bd450d2840436c7026a46dd6978ee6bca2"
+sha256_texto: "e6373f34592c07e2dd38e7df95289e9db518695054ebad5aa33b872771dadd96"
+capturado_em_fonte: "2026-10-21T06:14:19.400613-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 18.434, de 09 de setembro de 2022
+
+Dispõe sobre a inclusão da Superintendência Municipal de Tecnologia da Informação e Pesquisa – SMTI na estrutura orçamentária e financeira da Prefeitura de Porto Velho, em razão da Lei Complementar nº 903, de 7 de julho de 2022, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO,** no uso das atribuições que lhe são conferidas nos incisos IV e VI, do art. 87, da Lei Orgânica do Município de Porto Velho,
+
+**CONSIDERANDO** as adequações na estrutura organizacional da Prefeitura de Porto Velho, promovidas pela Lei Complementar nº 903, de 7 de julho de 2022;
+
+**CONSIDERANDO** que as alterações na estrutura organizacional da Prefeitura de Porto Velho geram a necessidade de adequação das normas orçamentárias, sobretudo em relação às Leis Municipais nº 2.901, de 20 de dezembro de 2021 (Plano Plurianual – PPA 2022/2025); Lei nº 2.902, de 20 de junho de 2021 (Lei de Diretrizes Orçamentárias – LDO/2022) e Lei nº 2.903, de 20 de dezembro de 2021 (Lei Orçamentária Anual – LOA/2022), e;
+
+**CONSIDERANDO** a necessidade de adequação da estrutura orçamentária atualmente utilizada, de forma a atribuir plena autonomia para o desempenho das funções legais atribuídas às unidades da Prefeitura do Município de Porto Velho.
+
+**RESOLVE:**
+
+
+Art. 1º.
+
+Fica classificado como Unidade Orçamentária nos sistemas informatizados de administração (execução) orçamentária e financeira da Prefeitura do Município de Porto Velho, a Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), conforme codificação a seguir:
+
+**Órgão – 02.00 – SECRETARIA GERAL DE GOVERNO**
+
+**Unidade Orçamentária – 02.81 – Superintendência Municipal de Tecnologia da Informação e Pesquisa – SMTI**
+
+
+Art. 2º.
+
+A classificação da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) como Unidade Orçamentária visa conferir gestão dos recursos, sejam de natureza vinculada ou próprios, destinados a promover, gerenciar, ordenar e coordenar as atividades referentes ao planejamento, desenvolvimento e expansão dos projetos de informática, que serão estabelecidas de acordo com os princípios que definem as áreas e serviços prioritários para atendimento e critérios para assegurar avanços crescentes na melhoria da produtividade dos serviços de tecnologia da informação da Prefeitura de Porto Velho, nos termos do Art. 1º da Lei Complementar nº 903, de 7 de julho de 2022.
+
+
+Art. 3º.
+
+O titular da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) será o responsável pela gestão e ordenação dos recursos orçamentários e financeiros a ela destinados anualmente pela Lei Orçamentária Anual – LOA.
+
+
+Art. 4º.
+
+Os recursos públicos destinados à manutenção e desenvolvimento da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), sejam eles próprios ou vinculados oriundos de convênios/repasses, serão liberados de acordo com os decretos que estabelecem a programação financeira e o cronograma de desembolso mensal para o respectivo exercício, conforme previsto no art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).
+
+
+Parágrafo único
+
+Os recursos financeiros referentes às cotas mensais serão repassados de acordo com a previsão orçamentária, em conformidade com a disponibilidade financeira.
+
+
+Art. 5º.
+
+A execução orçamentária e financeira da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), deverá ser processada em estrito cumprimento ao Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA), bem como os demais instrumentos legais que regulamentam a matéria.
+
+
+Art. 6º.
+
+Para fins de execução, os créditos orçamentários serão alocados na Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), na respectiva unidade orçamentária, sob a vinculação/acompanhamento da Secretaria Geral de Governo (SGG), observado o art. 37, inciso II da Lei Complementar nº 882, de 25 de fevereiro de 2022.
+
+
+Art. 7º.
+
+A Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) deve se subsidiar das orientações e recomendações da Controladoria Geral do Município – CGM e da Secretaria Municipal de Fazenda – SEMFAZ.
+
+
+Art. 8º.
+
+O art. 6º do Decreto nº 17.132, de 14 de janeiro de 2021 passa a vigorar com a seguinte redação:
+
+
+Art. 9º.
+
+Este decreto entra em vigor na data da sua publicação.
+
+
+***FABRICIO GRISI MÉDICI JURADO***
+
+Secretário Geral de Governo
+
+Dec. 18.420/2022
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+

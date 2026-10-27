@@ -1,0 +1,396 @@
+---
+titulo: "DECRETO Nº 14, DE 26 DE FEVEREIRO DE 2026."
+uf: "RS"
+municipio: "SÃO VENDELINO"
+tipo: "Decreto"
+numero: "14"
+data: 2026-02-26
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 02/04/2026"
+data_publicacao: 2026-04-02
+codigo_identificador: "EFA25CDC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117814_2026-04-01_faf1c1810f0a735624ff8605f66a3cec.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 14, DE 26 DE FEVEREIRO DE 2026.
+
+DECRETO Nº 14, DE 26 DE FEVEREIRO DE 2026.
+DECRETO Nº 14, DE 26 de fevereiro de 2026.
+Abre créditos suplementares no valor de R$ 338.400,00 (trezentos e trinta e oito mil, quatrocentos reais).
+RÉGIS PAULO FRITZEN, Prefeito Municipal de São Vendelino, no uso de suas atribuições legais e em conformidade com a Lei Municipal nº
+1.607, de 28 de novembro de 2024,
+DECRETA:
+Art. 1º. São abertos créditos suplementares no montante de R$ 338.400,00 (trezentos e trinta e oito mil, quatrocentos reais) assim especificados:
+CRÉDITO SUPLEMENTAR
+
+www.diariomunicipal.com.br/famurs
+
+243
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+1 - SUPERÁVIT FINANCEIRO
+08
+003
+08.244.0107
+08.244.0107.2015
+665
+1010
+008482 - 3.3.90.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUN ASSIST SOCIAL
+107 - Fortalecimento e Novas Oportunidades!
+MANUT. REDE DE PROTEÇÃO SOCIAL
+Transferências de Convênios e Instrumentos Congêneres vinculados à Assistência Social
+CONSULTA POPULAR 2024 - ENVELHEC. ATIVO E SAUDAVEL
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+14.400,00
+
+02
+001
+04.122.0002
+04.122.0002.2002
+500
+0001
+002008 - 3.1.90.16.00.00.00.00
+
+1- GABINETE DO PREFEITO MUNICIPAL
+MANUT DO GABINETE DO PREFEITO
+2 - Manutenção Gabinete Prefeito
+MANUTENCAO GABINETE DO PREFEITO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL
+
+5.000,00
+
+02
+001
+500
+0001
+002012 - 3.3.50.43.00.00.00.00
+
+1- GABINETE DO PREFEITO MUNICIPAL
+MANUT DO GABINETE DO PREFEITO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+SUBVENÇÕES SOCIAIS
+
+10.800,00
+
+04
+001
+04.122.0004
+04.122.0004.2006
+500
+0001
+004008 - 3.1.91.13.00.00.00.00
+
+6- SECRETARIA MUNICIPAL DE PLANEJAMENTO E DESENVOLVIMENTO ECONÔMICO
+MANUT DA SECRETARIA DO PLANEJAMENTO E DESENV. ECONÔMICO
+8- Manutenção Secretaria de Planejamento e Desenvolvimento Econômico
+MANUTENCAO SEC MUN PLANEJAMENTO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+CONTRIBUIÇÕES PATRONAIS
+
+43.200,00
+
+06
+001
+12.361.0108
+12.361.0108.2027
+500
+0020
+006020 - 3.1.91.13.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+EDUCAÇÃO
+108- Educação Acolhedora e Inclusiva!
+MANUTENCAO ENSINO FUNDAMENTAL
+Recursos não Vinculados de Impostos
+MDE
+CONTRIBUIÇÕES PATRONAIS
+
+50.000,00
+
+06
+001
+12.365.0108
+12.365.0108.2094
+540
+0031
+006173 - 3.1.91.13.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+EDUCAÇÃO
+108- Educação Acolhedora e Inclusiva!
+MANUTENCAO ESCOLA EDUC.INFANTIL.FUNDEB
+Transferências do FUNDEB - Impostos e Transferências de Impostos
+FUNDEB
+CONTRIBUIÇÕES PATRONAIS
+
+120.000,00
+
+08
+001
+10.301.0013
+10.301.0013.2014
+500
+0040
+008015 - 3.3.90.30.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+11- Manutencao Secretaria Saúde
+MANUTENCAO SEC MUN SAUDE
+Recursos não Vinculados de Impostos
+ASPS
+MATERIAL DE CONSUMO
+
+20.000,00
+
+08
+001
+10.301.0106
+10.301.0106.2100
+500
+0040
+008299 - 3.3.90.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENÇÃO DA ATENÇÃO BÁSICA
+Recursos não Vinculados de Impostos
+ASPS
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+20.000,00
+
+08
+003
+08.244.0107
+08.244.0107.2015
+500
+0001
+008069 - 3.1.90.13.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUN ASSIST SOCIAL
+107 - Fortalecimento e Novas Oportunidades!
+MANUT. REDE DE PROTEÇÃO SOCIAL
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OBRIGAÇÕES PATRONAIS
+
+5.000,00
+
+09
+001
+26.782.0104
+26.782.0104.2101
+500
+0001
+009037 - 3.3.90.30.00.00.00.00
+
+7- SECRETARIA MUNIC.DE OBRAS,TRÂNSITO E AGRICULTURA
+MANUT DA SEC DE OBRAS/TRANSITO
+104- Soluções em Infraestrutura e Mobilidade
+MANUTENCAO E CONSERVACAO DE ESTRADAS E PONTES
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+MATERIAL DE CONSUMO
+TOTAL DE CRÉDITO SUPLEMENTAR
+
+50.000,00
+338.400,00
+
+5 - REDUÇÕES NA MESMA ENTIDADE
+
+Art. 2º. Os créditos de que trata o artigo anterior serão cobertos por:
+I: a seguinte redução orçamentária:
+REDUÇÃO DE CRÉDITO
+5 - REDUÇÕES NA MESMA ENTIDADE
+
+www.diariomunicipal.com.br/famurs
+
+244
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+02
+001
+04.122.0002
+04.122.0002.2002
+500
+0001
+002003 - 3.1.90.11.00.00.00.00
+
+1- GABINETE DO PREFEITO MUNICIPAL
+MANUT DO GABINETE DO PREFEITO
+2 - Manutenção Gabinete Prefeito
+MANUTENCAO GABINETE DO PREFEITO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+
+5.000,00
+
+02
+001
+06.181.0101
+06.181.0101.2083
+500
+0001
+002060 - 3.3.90.30.00.00.00.00
+
+1- GABINETE DO PREFEITO MUNICIPAL
+MANUT DO GABINETE DO PREFEITO
+101- São Vendelino em Ação!
+MANUTENÇÃO DA SEGURANÇA PÚBLICA
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+MATERIAL DE CONSUMO
+
+10.800,00
+
+06
+001
+12.122.0022
+12.122.0022.2011
+500
+0020
+006006 - 3.1.90.13.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+EDUCAÇÃO
+12- Manutenção Secretaria da Educação
+MANUTENÇÃO DA SECRETARIA DE EDUCAÇÃO
+Recursos não Vinculados de Impostos
+MDE
+OBRIGAÇÕES PATRONAIS
+
+50.000,00
+
+06
+001
+12.361.0108
+12.361.0108.2057
+540
+0031
+006146 - 3.1.91.13.00.00.00.00
+
+9- SECRETARIA MUNICIPAL DE EDUCAÇÃO, CULTURA, DESPORTO E TURISMO
+EDUCAÇÃO
+108- Educação Acolhedora e Inclusiva!
+MANUT. DO ENSINO FUNDAMENTAL - FUNDEB
+Transferências do FUNDEB - Impostos e Transferências de Impostos
+FUNDEB
+CONTRIBUIÇÕES PATRONAIS
+
+120.000,00
+
+08
+001
+10.301.0013
+10.301.0013.2014
+500
+0040
+008007 - 3.1.90.13.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+11- Manutencao Secretaria Saúde
+MANUTENCAO SEC MUN SAUDE
+Recursos não Vinculados de Impostos
+ASPS
+OBRIGAÇÕES PATRONAIS
+
+5.000,00
+
+08
+001
+10.301.0106
+10.301.0106.2036
+500
+0040
+008319 - 3.3.90.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+106- Foco na Vida e no Bem-estar!
+MANUTENCAO DO ESF- ESTRATEGIA SAUDE FAMILIA
+Recursos não Vinculados de Impostos
+ASPS
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+
+11.000,00
+
+08
+001
+500
+0040
+008455 - 3.3.93.39.00.00.00.00
+
+8- SECRETARIA MUNICIPAL DE SAÚDE E ASSISTÊNCIA SOCIAL
+FUNDO MUNICIPAL DA SAUDE
+Recursos não Vinculados de Impostos
+ASPS
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+
+29.000,00
+
+09
+001
+04.122.0016
+04.122.0016.2016
+500
+0001
+009012 - 3.1.91.13.00.00.00.00
+
+7- SECRETARIA MUNIC.DE OBRAS,TRÂNSITO E AGRICULTURA
+MANUT DA SEC DE OBRAS/TRANSITO
+9 - Manutenção Secretaria de Obras e Trânsito
+MANUT SEC MUN OBRAS E TRANSITO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+CONTRIBUIÇÕES PATRONAIS
+
+43.200,00
+
+09
+001
+500
+0001
+009016 - 3.3.90.39.00.00.00.00
+
+7- SECRETARIA MUNIC.DE OBRAS,TRÂNSITO E AGRICULTURA
+MANUT DA SEC DE OBRAS/TRANSITO
+Recursos não Vinculados de Impostos
+RECURSO LIVRE
+OUTROS SERV. TERCEIROS - P. JURÍDICA
+TOTAL DE REDUÇÃO DE CRÉDITO
+
+50.000,00
+324.000,00
+
+II: Superávit financeiro apurado no exercício anterior no valor de 14.400,00 (trezentos e trinta e oito mil, quatrocentos reais).
+III: Excesso de arrecadação no valor de 0,00 ().
+Art.3º. Revogadas as disposições em contrário, este Decreto entrará em vigor na data da sua publicação.
+GABINETE DO PREFEITO MUNICIPAL DE SÃO VENDELINO, 26 de fevereiro de 2026.
+RÉGIS PAULO FRITZEN
+Prefeito Municipal
+Registre-se e Publique-se
+CAREN ISABEL SCHNEIDER DALCIN
+Secretária Municipal Geral de Governo
+
+www.diariomunicipal.com.br/famurs
+
+245
+
+Rio Grande do Sul , 02 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4301
+Publicado por:
+Priscila Weschenfelder do Monte

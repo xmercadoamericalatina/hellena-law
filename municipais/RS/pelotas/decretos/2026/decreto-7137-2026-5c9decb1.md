@@ -1,0 +1,462 @@
+---
+titulo: "DECRETO N.º 7.137, DE 26 DE JANEIRO DE 2026."
+uf: "RS"
+municipio: "PELOTAS"
+tipo: "Decreto"
+numero: "7137"
+data: 2026-01-26
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 29/01/2026"
+data_publicacao: 2026-01-29
+codigo_identificador: "5C9DECB1"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117769_2026-01-28_b8b12d64aa1805c74a8a90dbe331a3dc.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 7.137, DE 26 DE JANEIRO DE 2026.
+
+DECRETO N.º 7.137, DE 26 DE JANEIRO DE 2026.
+Abre Crédito Suplementar no Orçamento do Município, e dá outras providências.
+A Prefeita em exercício de Pelotas, Estado do Rio Grande do Sul, no uso de atribuições que lhe são conferidas pela Lei Orgânica Municipal e, tendo
+em vista as disposições do artigo 4º, incisos I, III e IV da Lei Municipal n.º 7.502, de 15 de Dezembro de 2025;
+D E C R E T A:
+Art. 1ºFica aberto um crédito adicional suplementar no Orçamento do Município, conforme os seguintes programas de trabalho e respectivas
+categorias econômicas:
+200 - PODER EXECUTIVO
+201 - SECRETARIA MUNICIPAL DE GOVERNO
+04.122.0002.2013 - Gestão, Manutenção e Serviços do Governo
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+10.182,00
+10.182,00
+
+204 - SECRETARIA MUNICIPAL DA FAZENDA
+04.122.0002.2016 - Gestão, Manutenção e Serviços da Fazenda
+3390140000
+DIARIAS - PESSOAL CIVIL - 1500
+3390300000
+MATERIAL DE CONSUMO - 1500
+3390310000
+PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTIFICAS, DESPORTIVAS E OUTRAS - 1500
+3390330000
+PASSAGENS E DESPESAS COM LOCOMOÇÃO - 1500
+3390350000
+SERVIÇOS DE CONSULTORIA - 1500
+3390360000
+OUTROS SERVIÇOS DE TERCEIROS - P. FÍSICA - 1500
+3390410000
+CONTRIBUIÇÕES - 1500
+3390470000
+OBRIGAÇÕES TRIBUTARIAS E CONTRIBUTIVAS - 1500
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+3390910000
+SENTENÇAS JUDICIAIS - 1500
+3390930000
+INDENIZAÇÕES E RESTITUIÇÕES - 1500
+
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+R$
+
+428.834,59
+10.000,00
+110.000,00
+23.000,00
+9.266,59
+30.000,00
+30.000,00
+25.000,00
+20.000,00
+119.568,00
+2.000,00
+50.000,00
+
+206 - SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS E INFRAESTRUTURA
+15.122.0002.2019 - Gestão, Manutenção e Serviços de Serviços Urbanos e Infraestrutura
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+109.075,51
+109.075,51
+
+15.452.0120.2311 - Limpeza Urbana
+3390340000
+OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERCEIRIZAÇÃO - 1500
+
+R$
+R$
+
+11.000.000,00
+11.000.000,00
+
+17.512.0120.1051 - Gestão dos Resíduos Sólidos de Construção Civil
+3390390000
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA - 1500
+
+R$
+R$
+
+580.787,24
+580.787,24
+
+209 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO RURAL
+20.122.0002.2020 - Gestão, Manutenção e Serviços de Desenvolvimento Rural
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+63.000,00
+63.000,00
+
+214 - SECRETARIA MUNICIPAL DE CULTURA
+13.392.0107.2210 - Atividades Culturais e de Valorização da Diversidade
+3390390000
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA - 1501
+
+R$
+R$
+
+25.000,00
+25.000,00
+
+228 - SECRETARIA MUNICIPAL DE HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
+16.122.0002.2025 - Gestão, Manutenção e Serviços da Habitação e Regularização Fundiária
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+17.640,00
+17.640,00
+
+247 - SECRETARIA MUNICIPAL DE ESPORTE, LAZER E JUVENTUDE
+04.122.0002.2033 - Gestão, Manutenção e Serviços da Igualdade Racial
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+5.040,00
+5.040,00
+
+14.244.0103.2140 - Povos e Comunidades Tradicionais
+3390390000
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA - 1501
+
+R$
+R$
+
+65.000,00
+65.000,00
+
+250 - SECRETARIA MUNICIPAL DE COMUNICAÇÃO
+04.131.0002.2036 - Gestão, Manutenção e Serviços da Comunicação
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+15.120,00
+15.120,00
+
+251 - SECRETARIA MUNICIPAL DE TURISMO
+23.131.0002.2037 - Gestão, Manutenção e Serviços do Turismo
+
+R$
+
+2.520,00
+
+www.diariomunicipal.com.br/famurs
+
+219
+
+Rio Grande do Sul , 29 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+3390490000
+
+AUXÍLIO TRANSPORTE - 1500
+
+ANO XVII | Nº 4257
+R$
+
+2.520,00
+
+241 - CHEFIA DE GABINETE
+241.1 - GABINETE DO PREFEITO
+04.122.0002.2008 - Gestão, Manutenção e Serviços do Gabinete do Prefeito
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+
+32.760,00
+32.760,00
+
+241.2 - PROCURADORIA GERAL DO MUNICÍPIO
+04.062.0002.2010 - Gestão, Manutenção e Serviços da Procuradoria Geral do Município
+3390400000
+SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO - PJ - 1500
+3390410000
+CONTRIBUIÇÕES - 1799-1005
+3390490000
+AUXÍLIO TRANSPORTE - 1500
+
+R$
+R$
+R$
+R$
+
+902.695,81
+10.000,00
+799.455,81
+93.240,00
+
+R$
+
+13.257.655,15
+
+TOTAL
+
+Art. 2º São reduzidos os valores abaixo indicados nos seguintes programas de trabalho e categorias econômicas:
+200 - PODER EXECUTIVO
+201 - SECRETARIA MUNICIPAL DE GOVERNO
+04.122.0002.2013 - Gestão, Manutenção e Serviços do Governo
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+10.182,00
+10.182,00
+
+204 - SECRETARIA MUNICIPAL DA FAZENDA
+04.122.0002.2016 - Gestão, Manutenção e Serviços da Fazenda
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+4490300000
+MATERIAL DE CONSUMO - 1500
+
+R$
+R$
+R$
+
+428.834,59
+119.568,00
+309.266,59
+
+99.999.9999.9999 - Reserva de Contingência
+9999990000
+RESERVA DE CONTINGENCIA E RESERVA DO RPPS - 1501
+
+R$
+R$
+
+90.000,00
+90.000,00
+
+206 - SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS E INFRAESTRUTURA
+15.122.0002.2019 - Gestão, Manutenção e Serviços de Serviços Urbanos e Infraestrutura
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+109.075,51
+109.075,51
+
+15.451.0120.2320 - Manutenção das Vias não Pavimentadas e Canais de Microdrenagem
+3390300000
+MATERIAL DE CONSUMO - 1500
+
+R$
+R$
+
+580.787,24
+580.787,24
+
+15.452.0120.2311 - Limpeza Urbana
+3390390000
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA - 1500
+
+R$
+R$
+
+11.000.000,00
+11.000.000,00
+
+209 - SECRETARIA MUNICIPAL DE DESENVOLVIMENTO RURAL
+20.122.0002.2020 - Gestão, Manutenção e Serviços de Desenvolvimento Rural
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+63.000,00
+63.000,00
+
+228 - SECRETARIA MUNICIPAL DE HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
+16.122.0002.2025 - Gestão, Manutenção e Serviços da Habitação e Regularização Fundiária
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+17.640,00
+17.640,00
+
+247 - SECRETARIA MUNICIPAL DE ESPORTE, LAZER E JUVENTUDE
+04.122.0002.2033 - Gestão, Manutenção e Serviços da Igualdade Racial
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+5.040,00
+5.040,00
+
+250 - SECRETARIA MUNICIPAL DE COMUNICAÇÃO
+04.131.0002.2036 - Gestão, Manutenção e Serviços da Comunicação
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+15.120,00
+15.120,00
+
+251 - SECRETARIA MUNICIPAL DE TURISMO
+23.131.0002.2037 - Gestão, Manutenção e Serviços do Turismo
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+2.520,00
+2.520,00
+
+241 - CHEFIA DE GABINETE
+241.1 - GABINETE DO PREFEITO
+04.122.0002.2008 - Gestão, Manutenção e Serviços do Gabinete do Prefeito
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+
+R$
+R$
+
+32.760,00
+32.760,00
+
+241.2 - PROCURADORIA GERAL DO MUNICÍPIO
+04.062.0002.2010 - Gestão, Manutenção e Serviços da Procuradoria Geral do Município
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1500
+3190110000
+VENCIMENTOS E VANTAGENS FIXAS P/ CIVIL - 1799-1005
+3390300000
+MATERIAL DE CONSUMO - 1799-1005
+3390390000
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA - 1500
+4490510000
+OBRAS E INSTALAÇÕES - 1799-1005
+
+R$
+R$
+R$
+R$
+R$
+R$
+
+902.695,81
+93.240,00
+500.000,00
+99.455,81
+10.000,00
+200.000,00
+
+R$
+
+13.257.655,15
+
+TOTAL
+
+Art. 3º Servirá de recurso para a cobertura de que trata o art. 1º, a redução constante no art. 2º.
+Art. 4º No art. 1º, foram inseridos os recursos referentes às Emendas Impositivas elencadas na tabela abaixo, sendo que a redução dos valores
+ocorreram na Reserva de Contingência, Projeto/Atividade 99.999.9999.9999, classificação 9.9.99.99:
+NÚMERO
+099/2025
+187/2025
+172/2025
+319/2025
+
+UNIDADE
+GESTORA
+
+PROJETO/
+ATIVIDADE
+
+214
+
+13.392.0107.2210
+
+247
+
+CLASSIFICAÇÃO
+DE DESPESA
+
+VALOR
+
+3.3.90.39
+
+R$ 5.000,00
+R$ 20.000,00
+R$ 10.000,00
+R$ 55.000,00
+
+12.244.0103.2140
+
+www.diariomunicipal.com.br/famurs
+
+220
+
+Rio Grande do Sul , 29 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVII | Nº 4257
+
+Gabinete do Prefeito de Pelotas, em 26 de janeiro de 2026.
+DANIELA BRIZOLARA
+Prefeita em exercício
+Registre-se. Publique-se.
+MIRIAM PAZ GARCEZ MARRONI
+Secretária de Governo
+Publicado por:
+Lúcia Badia Maciel

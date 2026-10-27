@@ -1,0 +1,73 @@
+---
+titulo: "Decreto nº 19.226, de 07 de agosto de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.226"
+data: "2023-08-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25597"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8155/text"
+sha256_fonte: "955d71d06d32a67f80aba8a387e8477a6b66953e0c7f493c890f010a9db2b516"
+sha256_texto: "ba4b1276ade6c3c6e52d2cda5f1feb2063020b22d3e25655bdd5225aabc205d7"
+capturado_em_fonte: "2026-10-21T05:21:03.398818-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.226, de 07 de agosto de 2023
+
+Dispõe sobre a determinação à Secretaria Municipal de Administração (SEMAD) para proceder a implementação do piso salarial do Agente de Combate às Endemias (ACE) e Agente Comunitário de Saúde (ACS) no âmbito do Município de Porto Velho e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** que a LRF, em referência ao Art. 195, § 5º da CF/88, estabelece que nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio total, observadas as regras para o aumento de despesas obrigatórias de caráter continuado;
+
+**CONSIDERANDO** o disposto na Emenda Constitucional nº 120, de 5 de maio de 2022, que "*acrescenta §§ 7º, 8º, 9º, 10 e 11 ao Art. 198 da Constituição Federal, para dispor sobre a responsabilidade financeira da União, corresponsável pelo Sistema Único de Saúde (SUS), na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário de saúde e de agente de combate às endemias*";
+
+**CONSIDERANDO** a regulamentação estabelecida pelo Ministério da Saúde por meio da Portaria GM/MS nº 1971, de 30 de junho de 2022 e Portaria GM/MS nº 2109, de 30 de junho de 2022, para os repasses de valores para o pagamento da remuneração dos profissionais agente comunitário de saúde e agente de combate às endemias com vínculos direto e indireto;
+
+**CONSIDERANDO** que os Agente de Combate às Endemias (ACE) e Agente Comunitário de Saúde (ACS), pertencentes ao quadro efetivo dos servidores públicos da Secretaria Municipal de Saúde (SEMUSA) integram o conjunto de servidores públicos municipais aos quais foi conferida a revisão geral anual prevista na Lei Complementar nº 942, de 12 de julho de 2023, no percentual de 5,79% (cinco inteiros e setenta e nove centésimos por cento).
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica determinada à Secretaria Municipal de Administração (SEMAD) que proceda a implementação do piso salarial do Agente de Combate às Endemias (ACE) e Agente Comunitário de Saúde (ACS), obedecendo-se às determinações legais e os comandos contidos na Emenda Constitucional nº 120, de 5 de maio de 2022.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+
+***LUIZ DUARTE FREITAS JÚNIOR***
+
+Procurador Geral do Município (PGM)
+
+***ELIANA PASINI***
+
+Secretária Municipal de Saúde (SEMUSA)
+
+***ALEXEY DA CUNHA OLIVEIRA***
+
+Secretário Municipal de Administração (SEMAD)
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda (SEMFAZ)
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão (SEMPOG)
+

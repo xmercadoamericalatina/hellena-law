@@ -1,0 +1,100 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 8.742/2026"
+uf: "RS"
+municipio: "GLORINHA"
+tipo: "Decreto"
+numero: "8742"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 25/02/2026"
+data_publicacao: 2026-02-25
+codigo_identificador: "FCDEF6B6"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117788_2026-02-24_c5cb718dad2738e0a1a9a9433e7cd495.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 8.742/2026
+
+DECRETO MUNICIPAL Nº 8.742/2026
+Abre crédito suplementar no valor de R$ 6.205,00 (
+seis mil duzentos e cinco reais) por Recursos de
+Anulação de Dotação.
+Carlos Leonardo Vargas Carvalho, Prefeito Municipal de Glorinha,
+Estado do Rio Grande do Sul, no uso das atribuições que lhe são
+conferidas pelo Artigo 6º, Inciso II da Lei Orgânica Municipal e nos
+termos do Artigo 7º, Inciso I, alínea A da Lei Nº 2.451 de 05 de
+Dezembro de 2025.
+DECRETA:
+Art. 1º Fica aberto um crédito suplementar no montante de R$
+6.205,00 (seis mil duzentos e cinco reais ), no orçamento vigente, nas
+seguintes classificações:
+Programa de Trabalho
+
+Categoria Econômica
+
+08.04.18.542.0055.2.177
+
+3.3.90.39.00.00.00
+
+Descrição Categoria Valor
+OUTROS
+SERVIÇOS
+DE
+R$ 6.205,00
+TERCEIROS
+PESSOA JURÍDICA
+
+Art. 2º Servirá de recurso para cobertura do Crédito Suplementar
+solicitado a redução das seguintes dotações:
+Programa de Trabalho
+
+Categoria Econômica
+
+08.04.04.122.0055.2.006
+
+3.3.90.39.00.00.00
+
+Descrição Categoria Valor
+OUTROS
+SERVIÇOS
+DE
+R$ 6.205,00
+TERCEIROS
+PESSOA JURÍDICA
+
+Art. 3º Este decreto entra em vigor na
+publicação........................
+Art. 4º Revogam-se as disposições em contrário.
+
+data
+
+de
+
+ANO XVIII | Nº 4275
+
+Descrição
+Valor
+Categoria
+MATERIAL DE
+R$ 511,64
+CONSUMO
+
+Fonte de
+Recurso
+2660
+
+Art. 2º Servirá de recurso para cobertura do Crédito Suplementar
+solicitado, superávit financeiro verificado no recurso:
+Fonte de Recurso:
+Art. 3º Este decreto entra em vigor na data de sua publicação.
+Art. 4º Revogam-se as disposições em contrário.
+PREFEITURA MUNICIPAL DE GLORINHA, 20 de Fevereiro de
+2026.
+CARLOS LEONARDO VARGAS CARVALHO
+Prefeito Municipal
+REGISTRE-SE E PUBLIQUE-SE.
+ROBINSON BARTH LIMA
+Secretário Municipal de Administração
+Publicado por:
+Caroline Soares Collares

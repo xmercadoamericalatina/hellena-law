@@ -1,0 +1,145 @@
+---
+titulo: "Lei Ordinária nº 12, de 29 de outubro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "12"
+data: "1973-10-29"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/408"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/144/text"
+sha256_fonte: "03e4bf97cf2ec9cbf1e556b06c071871acc5d9df1f295063c1bdb900224cbad1"
+sha256_texto: "d8115b8ac5ab07bd0be12bee2e075d38095e8945b1592c661d65f6a2130c9898"
+capturado_em_fonte: "2026-10-20T23:55:34.855310"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 12, de 29 de outubro de 1973
+
+DISPÕE SOBRE A CONTRATAÇÃO DE EMPREGADOS PÚBLICOS PELO REGIME DA LEIS TRABALHISTAS.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VISTAFaço saber que a Câmara Municipal aprovou e eu promulgo nos termos do parágrafo 1° do artigo 59 do Decreto Lei n° 411, de 8 de janeiro de 1969 ,a seguinte
+
+Lei:
+
+
+Art. 1º.
+
+Serão contratados no regime da Consolidação das Leis do Trabalho, nos termos do artigo 106 da Constituição do Brasil, obedecendo disposto nesta Lei:
+
+
+I –
+
+O pessoal temporário para as obras do Município ou suas autarquias.
+
+
+II –
+
+O pessoal técnico ou especializado para prestar serviços de sua especialidade ao Município e suas autarquias.
+
+
+III –
+
+O pessoal necessário a prestar outros serviços de qualquer natureza à Administração Municipal, cuja admissão não se enquadre nos Estatutos dos Funcionários Públicos do Município.
+
+
+§ 1º
+
+Considera-se pessoal temporário os trabalhadores braçais e os operários especializados ou não, contratados para a prestação de serviços nas obras públicas, de responsabilidade da Administração Municipal.
+
+
+§ 2º
+
+Considera-se pessoal técnico ou especializado aquele cuja profissão exija formação escolar apropriada ao exercício de suas atividades.
+
+
+Art. 2º.
+
+O contratos dos empregados de que trata o artigo anterior serão escritos, por tempo determinado ou indeterminado, conforme conveniência do serviço e serão obrigatoriamente registrados na Carteira do Ministério do Trabalho, sendo vedado contratar a quem não a possuir.
+
+
+Parágrafo único
+
+Os contratados por tempo determinados nuca serão superiores a um ano, contados num só exercício, podendo serem renovados por igual período no exercício subsequente.
+
+
+Art. 3º.
+
+A contratação de que trata esta Lei será precedida de prova de seleção ou de títulos, para o pessoal definido no § 2° do artigo 1°.
+
+
+Art. 4º.
+
+Nenhuma autoridade, dos quadros da Prefeitura Municipal, a nível de diretoria, poderá contratar empregados na regime da Consolidação das Leis do Trabalho, sem prévia autorização do Prefeito.
+
+
+§ 1º
+
+A autorização de que trata este artigo deverá constar do processo, no qual se juntem todos os documentos e papeis referentes ao contratado.
+
+
+§ 2º
+
+O disposto neste artigo não se aplica às autarquias municipais.
+
+
+Art. 5º.
+
+Os contratos regidos pela Consolidação das Leis do Trabalho, celebrados com o Município e suas autarquias é obrigatória a existência da cláusula pela qual o contratado opte pelo Fundo de Garantia por Tempo de Serviço, sob pena de responsabilidade da autoridade municipal ou autarquia que firmar o contrato.
+
+
+Art. 6º.
+
+Nos contratos de que trata esta Lei, constarão ainda cláusulas em que se definam:
+
+
+I –
+
+Os direitos especiais e os deveres do contratado.
+
+
+II –
+
+A classificação orçamentária dos recursos destinados a satisfação de todas as despesas decorrentes do contrato.
+
+
+III –
+
+A anuência do contratado ao horário de trabalho da repartição em que servir, bem como a de que fica obrigado a prestar serviço em qualquer órgão ou repartição municipal, dentro do Território ou do Município.
+
+
+IV –
+
+A declaração de que o contratado não terá qualquer direito ou vantagem prevista para os funcionários municipais.
+
+
+Art. 7º.
+
+É vedado contratar empregado em regime da Consolidação das Leis do Trabalho, sem que haja previsão orçamentária de recursos específicos, para ocorrer ao pagamento dos salários, bem como os demais encargos trabalhistas e previdenciários previstas em lei, sob pena de responsabilidade do Prefeito ou do Diretor da autarquia municipal contratante.
+
+
+Art. 8º.
+
+Para os efeitos desta Lei considera-se autarquia o atual Departamento Rodoviário Municipal.
+
+
+Art. 9º.
+
+O Prefeito baixará regulamento a esta Lei no prazo de 60 (sessenta) dias.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+SALA DAS SESSÕES, em Boa Vista, em 29 de outubro de 1973.
+
+**PREFEITO MUNICIPAL**
+

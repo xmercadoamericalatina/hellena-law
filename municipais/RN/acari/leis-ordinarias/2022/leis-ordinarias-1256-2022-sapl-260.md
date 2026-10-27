@@ -1,0 +1,81 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.256, de 14 de junho de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1256"
+data: "2022-06-14"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/260"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/399/text"
+sha256_fonte: "3baa7722d59995630d144520ae189a241247362249749da6cafbe0738bcefc35"
+sha256_texto: "87e98d885123e84573a458f918eb2ff658c96a8ce80c3c0f2daf7cbd0b836f4f"
+capturado_em_fonte: "2026-10-21T05:10:35.059892-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.256, de 14 de junho de 2022
+
+Autoriza o Poder Executivo Municipal a executar um programa de construção, conservação, reforma ou ampliação de cisternas nas zonas rurais deste município, além de efetivar obras que resultem na construção, conservação ou reforma em “mata-burros” e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais,
+
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura de Acari autorizada a executar, com recursos financeiros próprios ou em parcerias com instituições públicas ou privadas, um programa de construção, conservação, reforma ou ampliação em cisternas na zona rural deste município.
+
+
+Art. 2º.
+
+O programa autorizado no caput do artigo anterior atenderá residências na zona rural do Município de Acari que sejam habitadas por famílias, ou, eventualmente, por uma única pessoa, mesmo que somente em um ou dois turnos durante o dia, desde que, em qualquer caso, tenham algum documento que comprove atividade econômica agrícola ou pecuária.
+
+
+Art. 3º.
+
+A Prefeitura de Acari priorizará o atendimento às famílias que tenham registro no Cadastro Único da Assistência Social e, em seguida, residências onde sejam moradores pessoas acima de 60 anos ou com deficiências.
+
+
+Art. 4º.
+
+A cada início de semestre, havendo disponibilidade financeira, a Prefeitura Municipal de Acari, por meio de Decreto, estabelecerá metas em relação ao programa autorizado pela presente lei, definindo parâmetros de apoio aos beneficiados seja por meio de execução direta, disponibilidade apenas de material de construção ou por empresa regularmente escolhida por meio de certame público.
+
+
+Parágrafo único
+
+Na hipótese de doação de material de construção, a família ou pessoa beneficiada ficará responsável pelas despesas gerais de contratação de pessoal ou de comprometimento de uso próprio de mão-de-obra.
+
+
+Art. 5º.
+
+Fica também a Prefeitura de Acari autorizada, em estradas rurais vicinais ou de maior fluxo de veículos, a efetivar obras que resultem na construção, conservação ou reforma em pontilhões de traves, denominados “mata-burros”.
+
+
+Parágrafo único
+
+A Prefeitura de Acari poderá contar com a colaboração de proprietários rurais, empresas ou outros interessados que disponibilizem apoio para a consolidação da iniciativa, seja por meio de parceiros, mutirões ou ajudas específicas, tendo também a possibilidade da disponibilidade, a depender do caso específico, somente do material de construção ou, alternativamente, dos custos com pessoal para a execução do projeto.
+
+
+Art. 6º.
+
+As despesas e investimentos realizados no programa de Construção, Conservação, Reforma ou Ampliação em cisternas na zona rural deste Município serão realizadas no Projeto/Atividade 1048 (Construção de Cisternas Comunitárias), Classificação Programática 02.12.20.605.0026.1048, e às realizadas em pontilhões de traves, denominados “mata-burros” serão realizadas no Projeto/Atividade 1097 (Construção e Reforma de MataBurros), Classificação Programática 02.12.20.606.0027.1097, conforme a disponibilidade de recursos aprovados na Lei Orçamentária Anual e Plano Plurianual vigente bem como em Créditos Adicionais Suplementares.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Acari/RN, 14 de junho de 2022.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

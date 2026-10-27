@@ -1,0 +1,93 @@
+---
+titulo: "Lei Promulgada nº 3.229, de 19 de novembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Promulgada"
+numero: "3.229"
+data: "2024-11-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27339"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4604/text"
+sha256_fonte: "fb075637620174c93b05a74eda2f9657fa07d888a437e1ec5cc660f71726be4a"
+sha256_texto: "32c95846ede01850f405fc99562befe6b09c53c867d9529ae2a48032e387d420"
+capturado_em_fonte: "2026-10-21T03:45:11.150540-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Promulgada nº 3.229, de 19 de novembro de 2024
+
+Institui o Serviço Especial Gratuito de Transporte para tratamento de saúde
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador **MÁRCIO PACELE** , Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+**L E I :**
+
+
+Art. 1º.
+
+Fica instituído o Serviço Especial Gratuito de Transporte para tratamento de saúde, na modalidade porta a porta, no município de Porto Velho aos portadores de doenças crônicas ou consideradas graves para realização de tratamento médico, que necessitem de transporte para a continuidade de seus tratamentos.
+
+
+Parágrafo único
+
+Para efeitos desta Lei, são consideradas doenças graves e/ou crônicas, as constantes no inciso XIV do artigo 6º da Lei Federal 7713/1988, no artigo 151 da Lei 8213/1991 e na Portaria do Ministério da Saúde nº 349/1991.
+
+
+Art. 2º.
+
+O paciente, ou seu responsável, deverá requerer o transporte junto ao setor competente, por meio da utilização de aplicativo próprio disponibilizado para o agendamento do transporte.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Saúde disponibilizará um setor responsável pelo agendamento presencial ou digital, assim como telefones de conto para dúvidas e agendamentos.
+
+
+Art. 3º.
+
+Os veículos utilizados deverão ser providos de:
+
+
+I –
+
+Segurança cada veículo deverá ser mantido em bom estado de conservação e condi-ções de operação, com especial atenção ao estado dos pneus e manutenção mecânica, com Certifi-cado de Vistoria do Veículo;
+
+
+II –
+
+Limpeza : o interior do veículo, inclusive todas as áreas usadas para acomodação dos equipamentos e pacientes, deverá ser mantido limpo e submetido ao processo de desinfecção, acon-selhando se o uso de material descartável. De acordo com a Portaria MS nº 930/92 é obrigatória a desinfecção do veículo antes de sua próxima utilização, após o transporte de paciente, que compro-vadamente seja portador de doença infectocontagiosa ou vít ima de traumas com ferimentos abertos;
+
+
+III –
+
+Todo veículo, em trânsito, deve contar com estepe, instalado em local que não inter- fira na acomodação do paciente.
+
+
+Parágrafo único
+
+O veículo adequado para o transporte do paciente será determinado pela Secretaria Municipal de Saúde de acordo com as necessidades de cada paciente, em concordância com critérios médicos.
+
+
+Art. 4º.
+
+As despesas para implementação desta Lei serão suportadas pelo orçamento do Sistema Único de Saúde do município, caso necessário serão suplementadas.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 19 de novembro de 2024.
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei nº 4.634/2024.  
+Autoria: Vereador Enf. Roneudo.
+

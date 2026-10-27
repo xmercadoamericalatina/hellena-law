@@ -1,0 +1,136 @@
+---
+titulo: "Lei Ordinária nº 535, de 03 de novembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "535"
+data: "2000-11-03"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/1571"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/525/text"
+sha256_fonte: "eeaf548b076d156ea3231f231f5e86a98cecf362a6dedd316cd003a930327849"
+sha256_texto: "5420616678c202dd64627b90d09a73083c6253ecfb11bd381262737b94be6c8f"
+capturado_em_fonte: "2026-10-20T23:42:24.912987"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 535, de 03 de novembro de 2000
+
+DISPÕE SOBRE: LIXO HOSPITALAR E LIXO DE PRODUTOS RADIOATIVOS, NO MUNICÍPIO DE BOA VISTA E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O PREFEITO MUNICIPAL DE BOA VISTA – RR,** faz saber que a Câmara Municipal aprovou e eu sancione a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Nos termos do art. 225 da Constituição Federal, art. 166 da Constituição Estadual e 178 da Lei Orgânica Municipal, fica instituído o programa municipal de controle do lixo hospitalar daquele que contenha possíveis produtos radioativos.
+
+
+Art. 2º.
+
+O programa constante do presente instrumento normativo tem por objetivos:
+
+
+I –
+
+Coletar os produtos que contenham possíveis materiais radioativos em sua composição, para armazenamento em local adequado;
+
+
+II –
+
+Evitar exposição desses produtos e o lixo hospitalar em depósito comum, poluindo o meio ambiente;
+
+
+III –
+
+Conscientizar a população em geral sobre os riscos para a saúde, que tais produtos podem causar, se não armazenados adequadamente, quando transformados em lixo;
+
+
+IV –
+
+Criar condições para que a coleta do lixo hospitalar e daquele que contenha produtos com possíveis elementos radioativos, de forma seletiva em relação ao lixo comum.
+
+
+Art. 3º.
+
+Para o cumprimento dos normativos desta lei o Poder Executivo Municipal destinará o local específico, na lixeira pública, devidamente separada para recebimento, depósito, e possível tratamento do lixo para esse fim classificado.
+
+
+Art. 4º.
+
+Para os fins do disposto na presente lei consideram-se como poluidores e perigosos para a saúde pública e o meio ambiente em geral:
+
+
+I –
+
+As baterias de aparelhos telefônicos celulares, pilhas para lanternas, lâmpadas fluorescentes e baterias para veículos automotores;
+
+
+II –
+
+Capsulas de aparelhos de raio - X e instrumentos hospitalares não esterilizáveis;
+
+
+III –
+
+O lixo hospitalar em geral.
+
+
+Parágrafo único
+
+O lixo hospitalar em geral é considerado produto contaminado, portanto, perigoso para a saúde pública.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal, através da Secretaria de Serviços Urbanos, fixará placas educativas para coleta de lixo, mencionando a presente lei e informando sobre o perigo.
+
+
+Parágrafo único
+
+Os estabelecimentos comerciais vendedores de baterias para aparelho telefônico celular, serão responsáveis pela coleta das baterias usadas, quando fornecidas baterias novas a seus clientes, colocando aquelas em locais adequados.
+
+
+Art. 6º.
+
+Os estabelecimentos hospitalares, posto médicos, clínicas médicas, unidades de saúde em geral, consultórios odontológicos ou entidades congêneres, acondicionarão o lixo de suas atividades, para fins de armazenamento e possível tratamento, de forma diferenciada em relação ao lixo comum.
+
+
+Art. 7º.
+
+O Poder Executivo poderá incluir na publicidade oficial menagem educativa, orientando a população sobre os riscos para a saúde e o meio ambiente, proveniente do lixo dos produtos mencionados na presente lei.
+
+
+Art. 8º.
+
+Esta lei será regulamentada, até 60 dias após sua publicação.
+
+
+Art. 9º.
+
+Quando da regulamentação da presente lei o Prefeito Municipal poderá relacionar outros produtos, cujo lixo seja considerado poluidor e perigoso para a saúde pública.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Boa Vista- RR, 03 de novembro de 2000
+
+**Ottomar de Sousa Pinto**  
+Prefeito
+

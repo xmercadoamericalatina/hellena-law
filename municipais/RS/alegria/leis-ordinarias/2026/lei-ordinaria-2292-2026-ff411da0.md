@@ -1,0 +1,24 @@
+---
+titulo: "LEI MUNICIPAL Nº 2.292/2026 DE 06 DE MAIO DE 2026."
+uf: "RS"
+municipio: "ALEGRIA"
+tipo: "Lei Ordinária"
+numero: "2292"
+data: 2026-05-06
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/05/2026"
+data_publicacao: 2026-05-07
+codigo_identificador: "FF411DA0"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117837_2026-05-06_bb13c0638eb93dd907e4cc45c9ff00d0.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 2.292/2026 DE 06 DE MAIO DE 2026.
+
+LEI MUNICIPAL Nº 2.292/2026 DE 06 DE MAIO DE 2026.
+
+DÉBORA DA VEIGA FREDERICHESKI
+Secretária Municipal de Administração
+Publicado por:
+Débora da Veiga Fredericheski

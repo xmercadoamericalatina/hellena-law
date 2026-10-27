@@ -1,0 +1,231 @@
+---
+titulo: "Lei Complementar-MUN nº 11, de 26 de março de 2021"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "11"
+data: "2021-03-26"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/681"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/83/text"
+sha256_fonte: "04f85415a129ce13be17b925bfe926d01d8bcd316a1e5e10797a1e5f0c200516"
+sha256_texto: "ccf4944d3f1fd87ed52bfc0e051b0e6d45bb7043a3f7cf7e3e9e2f5006e521d2"
+capturado_em_fonte: "2026-10-21T05:12:54.540541-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar-MUN nº 11, de 26 de março de 2021
+
+***Dispõe sobre a concessão de benefício para pagamento de débitos fiscais em atraso, estabelece normas para sua cobrança extrajudicial e dá outras providências.***
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais,
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Os créditos de natureza tributária, inscritos ou não em dívida ativa, constituídos até 31 de dezembro de 2019 existentes em nome do Contribuinte ou responsável na forma da Lei, constituídos ou não, inscritos ou não em Dívida Ativa, ajuizados ou não, com exigibilidade suspensa ou não, bem como os acréscimos moratórios determinados nos termos da legislação pertinente e ainda aqueles objeto de parcelamentos em curso, poderão ser pagos de acordo com os seguintes critérios e benefícios:
+
+
+I –
+
+Para pagamentos em até 30 (trinta) dias a partir da data da publicação desta lei será concedido desconto de 90% (noventa por cento) na multa e 90% (noventa por cento) nos juros devidos;
+
+
+II –
+
+Para pagamentos parcelado em até 6 (seis) prestações mensais e sucessivas, será concedido desconto de 60% (sessenta por cento) na multa e de 60% (sessenta por cento) nos juros devidos;
+
+
+III –
+
+Para pagamentos parcelados em até 8 (oito) prestações mensais e sucessivas: com desconto de 40% (quarenta por cento) na multa e de 40% (quarenta por cento) nos juros devidos.
+
+
+§ 1º
+
+Acima de 8 (oito) parcelas até o limite de 36 (trinta e seis) meses, será concedido desconto de 10% (dez por cento) na multa e 10% (dez por cento) nos juros devidos.
+
+
+§ 2º
+
+O valor da parcela não poderá ser inferior a R$ 100,00 (cem reais).
+
+
+Art. 2º.
+
+Para fins de pagamento dos débitos fiscais na forma do artigo primeiro desta lei fica o Poder Executivo, por intermédio da Secretaria Municipal de Tributação e Administração, autorizado a emitir boletos de cobrança bancária em nome dos contribuintes em débito.
+
+
+Art. 3º.
+
+O contribuinte deverá requerer o parcelamento previsto no artigo anterior, impreterivelmente, em até 30 (trinta) dias contados da data de sua publicação.
+
+
+§ 1º
+
+Os requerimentos de parcelamento administrativo dos débitos fiscais, abrangendo aqueles reclamados em qualquer fase de tramitação administrativa ou judicial, deverão ser protocolados junto a Secretaria Municipal de Tributação e Administração, no prazo referido no caput, com a indicação do número de parcelas desejadas.
+
+
+§ 2º
+
+A apresentação do requerimento de parcelamento importa na confissão da dívida e não implica do seu deferimento.
+
+
+§ 3º
+
+O chefe do poder executivo poderá delegar competência ao Secretário Municipal de Tributação e Administração e ao Procurador Judicial e Administrativo, cada um em sua área de atuação, para deferir o requerimento de parcelamento apresentado pelo contribuinte.
+
+
+§ 4º
+
+O deferimento do pedido de parcelamento, que corresponderá a formalização do acordo com o contribuinte, deverá estar devidamente fundamentado pela autoridade que o deferiu.
+
+
+Art. 4º.
+
+Os débitos fiscais parcelados, quando não pagos na data dos respectivos vencimentos, serão acrescidos de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e Custodia (SELIC), acumulada mensalmente, de multa diária de 0,15% (zero, vírgula quinze por cento), limitada a 12% (doze por cento).
+
+
+Art. 5º.
+
+O atraso superior a 30 (trinta) dias no pagamento do boleto de cobrança bancária, emitido na forma do artigo terceiro ou como representativo das prestações objeto dos parcelamentos formalizados, ensejará protesto extrajudicial do débito fiscal e subsequentes medidas judiciais cabíveis.
+
+
+Parágrafo único
+
+Decorridos 60 (sessenta) dias do protesto, perdurando o inadimplemento, o contribuinte perderá os benefícios concedidos por esta lei, hipótese em que se exigirá o recolhimento imediato do saldo remanescente, de uma só vez, acrescido dos valores que haviam sido dispensados, devidamente atualizados e com a aplicação dos acréscimos moratórios previstos na legislação.
+
+
+Art. 6º.
+
+A fruição dos benefícios contemplados por esta lei não confere direito à restituição ou compensação de importância já paga, a qualquer título.
+
+
+Art. 7º.
+
+A opção pelo parcelamento implica:
+
+
+I –
+
+confissão irrevogável e irretratável de dívida;
+
+
+II –
+
+renúncia a quaisquer defesas ou recursos administrativos ou judiciais, bem como da desistência dos já interpostos;
+
+
+III –
+
+aceitação irretratável de todas as condições estabelecidas pela Secretaria Municipal de Tributação e Administração e pela Procuradoria Judicial e Administrativa do Município.
+
+
+§ 1º
+
+Relativamente ao inciso II deste artigo, o Contribuinte terá que comprovar a protocolização do pedido de desistência da ação, na esfera judicial, e o pagamento das despesas judiciais respectivas, se for o caso.
+
+
+§ 2º
+
+São requisitos indispensáveis à formalização do pedido:
+
+
+I –
+
+requerimento simplificado assinado pelo devedor ou seu representante, com poderes especiais, nos termos da Lei, juntando-se o respectivo instrumento;
+
+
+II –
+
+documento que permita identificar os responsáveis pela representação da empresa, nas dívidas relativas à pessoa jurídica;
+
+
+III –
+
+cópia de documento de identificação, nos casos de dívidas relativas à pessoa física.
+
+
+Art. 8º.
+
+Para realização da cobrança bancária e do encaminhamento do débito fiscal para protesto extrajudicial, fica o Poder Executivo autorizado a contratar os serviços dos bancos públicos Banco do Brasil S.A. ou Caixa Econômica Federal.
+
+
+Art. 9º.
+
+O parcelamento será automaticamente cancelado:
+
+
+I –
+
+pela inobservância de quaisquer das exigências estabelecidas nesta Lei;
+
+
+II –
+
+em caso de inadimplência:
+
+
+a)
+
+por 3 (três) meses consecutivos ou 6 (seis) meses alternados, o que primeiro ocorrer, relativo às parcelas do REFIS;
+
+
+b)
+
+referente aos tributos municipais com vencimento após 31 de dezembro de 2019.
+
+
+§ 1º
+
+A rescisão do acordo celebrado nos termos do REFIS implicará na imediata exigibilidade da totalidade do crédito confessado e ainda não pago, além dos acréscimos legais na forma da legislação aplicável à época da ocorrência dos fatos geradores, acrescido dos valores das parcelas relativas às dispensas e reduções admitidas no art. 1º, devendo o processo, se for o caso, ser remetido, no prazo máximo de 30 (trinta) dias, para inscrição na Dívida Ativa do Município e início da respectiva execução fiscal.
+
+
+§ 2º
+
+A rescisão a que se refere o parágrafo anterior produzirá seus efeitos depois de cientificado o contribuinte.
+
+
+§ 3º
+
+Da decisão que excluir o optante pelo REFIS, caberá recurso, com efeito suspensivo, ao Secretário Municipal de Tributação e Administração, no prazo de 10 (dez) dias, que se pronunciará em 5 (cinco) dias.
+
+
+§ 4º
+
+Para fins do disposto no inciso II do caput deste artigo, não serão considerados os atrasos nos pagamentos inferiores a 30 (trinta) dias.
+
+
+Art. 10.
+
+A critério do Poder Executivo Municipal, mediante edição de Decreto, o prazo inicial de 30 (trinta) dias para apresentação de requerimentos de parcelamentos ou quitação de débito, pode ser prorrogado duas vezes por igual período.
+
+
+Art. 11.
+
+Os benefícios previstos na presente lei não se aplicam aos créditos constituídos em razão da prática de crime contra a ordem tributária, bem como aqueles decorrentes de substituição tributária ou optantes do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - SIMPLES NACIONAL e do Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (SIMEI).
+
+
+Art. 12.
+
+O Poder Executivo Municipal, a critério da conveniência administrativa, poderá editar atos regulamentares que se fizerem necessários à implementação desta Lei.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Acari/RN, 26 de março de 2021.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

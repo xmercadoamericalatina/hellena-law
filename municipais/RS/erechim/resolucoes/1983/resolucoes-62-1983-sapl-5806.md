@@ -1,0 +1,69 @@
+---
+titulo: "Resolução nº 62, de 01 de dezembro de 1983"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "62"
+data: "1983-12-01"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5806"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/941/text"
+sha256_fonte: "4a4daabdd9f4d45c08c65a94058ab8c333f175de83c6cd548931ce0cfa115eae"
+sha256_texto: "c3efb450fe189fee0c2f7391c26f96978b2ebc2f66fa32a8a7802ecd587f6006"
+capturado_em_fonte: "2026-10-21T04:24:45.318070-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Resolução nº 62, de 01 de dezembro de 1983
+
+" AUMENTA O "QUANTUM" DA REMUNERAÇÃO DOS VEREADORES DO LEGISLATIVO ERE CHINENSE".
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE VEREADORES DE ERECHIM, RS, NO USO DE SUAS ATRIBUIÇÕES E COM BASE NO OFÍCIO-CIRCULAR DA PREFEITURA MUNICIPAL, E PELA LEI COMPLEMENTAR Nº 45/83 de 30 de NOVEMBRO DE 1983, SANCIONADA PELO EXMO SENHOR PRESIDENTE DA REPUBLICA, PROMULGA A SEGUINTE
+
+
+RESOLUÇÃO
+
+
+Art. 1º.
+
+A REMUNERAÇÃO MENSAL DOS VEREADORES DA CÂMARA MUNICIPAL DE ERECHIM - RS, ATENDIDOS OS REQUISITOS DA LEI COMPLEMENTAR Nº 25 -02.07.1975, DA LEI Nº 38 e 45/83, É FIXADA EM CR$ 272.690,00 (DUZENTOS E SETENTA E DOIS MIL SEISCENTOS E NOVENTA CRUZEIROS, A PARTIR DE lº DE JANEIRO DE 1984.
+
+
+Art. 2º.
+
+O VALOR CORRESPONDENTE A REMUNERAÇÃO DOS VEREADORES, SERÁ DIVIDIDA EM 60% PARTE FIXA e 40 % EM PARTE VARIÁVEL. SENDO QUE EM CASO DE LICENÇA O VEREADOR SUPLENTE RECEBERÁ O PROPORCIONAL A PARTE VARIÁVEL.
+
+
+Art. 3º.
+
+AS DESPESAS DECORRENTES DA PRESENTE RESOLUÇÃO CORRERÃO POR CONTA DA VERBA ORÇAMENTÁRIA DO EXERCÍCIO FINANCEIRO DE 1984 DA CÂMARA MUNICIPAL DE VEREADORES RUBRICA 3.1.1.1.1-SUBSÍDIOS,REPRESENTAÇÕES E DIÁRIAS.
+
+
+Art. 4º.
+
+REVOGAM-SE AS DISPOSIÇÕES EM CONTRÁRIO.
+
+
+Art. 6º
+
+ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NESTA DATA.
+
+
+CÂMARA MUNICIPAL DE VEREADORES, 1º DE JANEIRO DE 1984  
+  
+VEREADOR LUIZ FRIZZO  
+PRESIDENTE  
+  
+REGISTRE-SE E CUMPRE-SE  
+  
+PREDIO SENADOR ALBERTO PASQUALINI, 1º DE DEZEMBRO DE 1984.  
+  
+VEREADOR LUIZ A TIRELLO VEREADOR GUERINO JACOB TORMEN  
+1º SECRETÁRIO 2º SECRETÁRIO
+

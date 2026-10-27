@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.995, de 04 de dezembro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2995"
+data: "1997-12-04"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/2957"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/770/text"
+sha256_fonte: "afa0e28296cf1fcd9735ba6adea105a26f471eb1ac5769a2f41ad7e3afceb591"
+sha256_texto: "56843e70954c8ccadadefe5cd38917c308914e00a3a2d6850e7c739b463c5363"
+capturado_em_fonte: "2026-10-21T03:59:05.446207-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.995, de 04 de dezembro de 1997
+
+REESTRUTURA O QUADRO DE CARREIRA INSTITUÍDO PELA LEI MUNICIPAL Nº 2.197/89, COM POSTERIORES ALTERAÇÕES CRIANDO EMPREGOS DE PROVIMENTO POR CONCURSO PÚBLICO.
+
+
+LUIZ FRANCISCO SCHMIDT, Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pela Lei Orgânica do Município:
+
+
+FAÇO SABER, que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+São criados no quadro permanente da Secretaria Municipal de Saúde e Meio Ambiente, instituído pela Lei Municipal nº 2.197/89, com posteriores alterações, empregos abaixo especificados:
+
+
+a)
+
+Técnico de Enfermagem, Nível 7:  
+\- empregos existentes: 10 (dez);  
+\- criados pela presente Lei: 5 (cinco)
+
+
+b)
+
+Guarda Sanitário de Meio Ambiente (Fiscal Sanitário), Nível 9:  
+\- empregos existentes: 5 (cinco);  
+\- criados pela presente Lei: 5 (cinco)
+
+
+Art. 2º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+ERECHIM-RS, 04 DE DEZEMBRO DE 1997.  
+  
+  
+LUIZ FRANCISCO SCHMIDT  
+Prefeito Municipal
+
+
+Registre-se e publique-se  
+Data supra.  
+  
+  
+DOUGLAS LUIS SANTIN  
+Sec. Mun. de Administração
+

@@ -1,0 +1,68 @@
+---
+titulo: "Resolução nº 71, de 18 de janeiro de 1985"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "71"
+data: "1985-01-18"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5731"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/950/text"
+sha256_fonte: "9c71e63e7cdea7970776f3cf2f1a4754783fb7f51e611067be85a80f7d3c5ae0"
+sha256_texto: "16f03a9ca7c26556d0ce4e55459fe9f5ff916304d3d6d058866ef1d87e8d84ea"
+capturado_em_fonte: "2026-10-21T04:23:44.124728-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Resolução nº 71, de 18 de janeiro de 1985
+
+"AUMENTA O "QUANTUM" DA REMUNERAÇÃO DOS VEREADORES DO LEGISLATIVO ERECHINENSE".
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE VEREADORES DE ERECHIM; RS, NO USO DE SUAS ATRIBUIÇÔES E COM BASE NO OFÍCIO-CIRCULAR Nº 02/85, DA PREFEITURA MUNICIPAL, E PELA LEI COMPLEMENTAR Nº 45/83 DE 30 DE NOVEMBRO DE 1983, SANCIONADA PELO EXMO. SENHOR PRESIDENTE DA REPÚBLICA, PROMULGA A SEGUINTE
+
+
+RESOLUÇÃO
+
+
+Art. 1º.
+
+A REMUNERAÇÃO MENSAL DOS VEREADORES DA CÂMARA MUNICIPAL DE ERECHIM-RS, ATENDIDOS OS REQUISITOS DA LEI COMPLEMENTAR Nº 25 - 02.07.1975, DA LEI Nº 38 e 45/- 83, É FIXADA EM Cr$ 914.510, - (NOVECENTOS E CATORZE MIL, QUINHENTOS E DEZ CRUZEIROS, A PARTIR DE Iº DE JANEIRO DE 1985.
+
+
+Art. 2º.
+
+O VALOR CORRESPONDENTE A REMUNERAÇÃO DOS VEREADORES, SERÁ DIVIDIDA EM 60% PARTE FIXA E 40% EM PARTE VARIÁVEL, SENDO QUE EM CASO DE LICENÇA O VEREADOR SUPLENTE RECEBERÁ O PROPORCIONAL A PARTE VARIÁVEL.
+
+
+Art. 3º.
+
+AS DESPESAS DECORRENTES DA PRESENTE RESOLUÇÃO CORRERÃO POR CONTA DA VERBA ORÇAMENTÁRIA DO EXERCÍCIO FINANCEIRO DE 1985 DA CÂMARA MUNICIPAL DE VEREADORES - RUBRICA 3. I. I. I. I - SUBSÍDIOS, REPRESENTAÇÔES E DIÁRIAS.
+
+
+Art. 4º.
+
+REVOGAM-SE AS DISPOSIÇÔES EM CONTRÁRIO.
+
+
+Art. 5º.
+
+ESTA RESOLUÇÃO ENTRARÁ EM VIGOR NESTA DATA, SENDO A PARTIR DE Iº DE JANEIRO DE 1.985.
+
+
+CÂMARA MUNICIPAL DE VEREADORES, 18 DE JANEIRO DE 1.985.  
+  
+VEREADOR LUIZ FRIZZO  
+PRESIDENTE  
+  
+REGISTRE-SE E CUMPRE-SE  
+PRÉDIO SENADOR ALBERTO PASQUALINI, 18 DE JANEIRO DE 1985.  
+  
+VEREADOR LUIZ A. TIRELLO VEREADOR GUERINO JACOB TORMEN  
+1º SECRETARIO 2º SECRETÁRIO
+

@@ -1,0 +1,176 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.289, de 05 de abril de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1289"
+data: "2023-04-05"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/727"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/137/text"
+sha256_fonte: "77df0bf3ec8a766c2a8064363997a6276ed2f22be25fa6e4ca25a613dbfca9cc"
+sha256_texto: "23d6aaea01d14a418b05e6833bd59924aa0dc5a2db12d841cc39c1107041856e"
+capturado_em_fonte: "2026-10-21T05:08:31.809587-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.289, de 05 de abril de 2023
+
+***Institui a Semana Municipal de Conscientização do Autismo, a Carteira de Identificação da Pessoa com Deficiência (CIPCD) e o uso do colar de girassol como instrumento auxiliar de orientação para a identificação das pessoas com TEA, no âmbito do Município de Acari/RN.***
+
+
+O PREFEITO MUNICIPAL DE ACARI-RN, no uso de suas atribuições legais estabelecidas pela Lei Orgânica Municipal,
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituída a Semana Municipal de Conscientização do Autismo no Município de Acari/RN, a ser realizada anualmente, durante o mês de abril.
+
+
+Art. 2º.
+
+A Semana Municipal de Conscientização do Autismo servirá de estímulo à realização de ações voltadas à reflexão sobre o Transtorno do Espectro Autista (TEA) e o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) no município, tendo como objetivos, dentre outros:
+
+
+I –
+
+promover estudos e medidas de inclusão social e participação comunitária dos autistas;
+
+
+II –
+
+oportunizar discussões permanentes sobre o autismo, ampliando e estimulando o conhecimento, especialmente com a realização de palestras com a presença dos pais, dos profissionais das instituições de ensino, dos profissionais da saúde, educação e assistência social;
+
+
+III –
+
+desenvolver atividades nas áreas da educação, saúde e assistência social;
+
+
+IV –
+
+oferta de serviços objetivando a inclusão das pessoas com TEA (Transtorno do Espectro Autista) e TDAH (Transtorno do Déficit de Atenção com Hiperatividade).
+
+
+Art. 3º.
+
+As Secretarias de Trabalho, Habitação e Assistência Social, Educação, Cultura e Esportes e a Secretaria de Saúde Pública, em parceria, serão as incentivadoras da realização destes eventos e das divulgações para os alunos e comunidade em geral.
+
+
+Art. 4º.
+
+Fica sugerido que durante a Semana Municipal de Conscientização do Autismo, os prédios públicos poderão ser iluminados pela cor azul, em alusão ao Dia Mundial de Conscientização do Autismo.
+
+
+Art. 5º.
+
+Fica instituído no Município de Acari/RN, a “Carteira de Identificação da Pessoa com Deficiência (CIPCD)”, com vistas à atenção integral, pronto atendimento e prioridade no atendimento e no acesso aos serviços públicos e privados das pessoas com deficiência, inclusive das pessoas portadoras do TEA.
+
+
+Art. 6º.
+
+A Carteira de Identificação da Pessoa com Deficiência (CIPCD) será expedida pela Secretaria Municipal de Trabalho, Habitação e Assistência Social, sem qualquer custo, por meio de requerimento devidamente preenchido e assinado pelo interessado ou por seu representante legal, acompanhado de relatório médico, com indicação do código da Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID), e deverá conter, no mínimo, as seguintes informações:
+
+
+I –
+
+nome completo, filiação, local e data de nascimento, número da carteira de identidade civil, número de inscrição no Cadastro de Pessoas Físicas (CPF), tipo sanguíneo, endereço residencial completo e número de telefone do identificado;
+
+
+II –
+
+fotografia no formato 3 (três) centímetros (cm) x 4 (quatro) centímetros (cm) e assinatura ou impressão digital do identificado;
+
+
+III –
+
+nome completo, documento de identificação, endereço residencial, telefone e e-mail do responsável legal ou do cuidador;
+
+
+IV –
+
+identificação do órgão expedidor e assinatura do dirigente responsável.
+
+
+Parágrafo único
+
+A Carteira de Identificação da Pessoa com Deficiência (CIPCD) terá validade por tempo indeterminado.
+
+
+Art. 7º.
+
+Em toda sinalização de atendimento prioritário para pessoa com deficiência incluir-se-á o símbolo mundial da conscientização do Transtorno do Espectro Autista – TEA.
+
+
+Art. 8º.
+
+O descumprimento das disposições relacionadas ao atendimento e acesso prioritário das pessoas com a “Carteira de Identificação da Pessoa com Deficiência (CIPCD)” implica:
+
+
+I –
+
+notificação para regularização em até 10 (dez) dias;
+
+
+II –
+
+sanções administrativas.
+
+
+Art. 9º.
+
+Fica instituído, no âmbito do Município de Acari, o uso do colar de girassol como instrumento auxiliar de orientação para a identificação de pessoas com deficiência oculta.
+
+
+Art. 10.
+
+Para os fins do disposto nesta Lei, considera-se:
+
+
+I –
+
+pessoa com deficiência oculta aquela com deficiência não aparente e não identificável de maneira imediata; e
+
+
+II –
+
+colar de girassol uma faixa estreita de tecido ou material equivalente, na cor verde, estampada com figuras de girassóis.
+
+
+Art. 11.
+
+O Poder Executivo Municipal poderá dar publicidade, por meio de seus órgãos competentes e de instrumentos e mecanismos adequados, ao uso do colar de girassol por pessoas com deficiência oculta ou por seus familiares.
+
+
+Art. 12.
+
+Ficam os estabelecimentos públicos e privados responsáveis por orientar seus colaboradores e funcionários quanto ao disposto nesta Lei e à possibilidade de uso do colar de girassol como meio de identificação de pessoas com deficiência oculta ou de seus familiares.
+
+
+Art. 13.
+
+Cabe ao Poder Executivo, através de regulamentação, definir e editar normas complementares necessárias à execução da presente Lei.
+
+
+Art. 14.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações do orçamento vigente.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Acari/RN, 05 de abril de 2023.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

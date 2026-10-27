@@ -1,0 +1,173 @@
+---
+titulo: "Decreto nº 20.720, de 20 de dezembro de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.720"
+data: "2024-12-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27390"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4789/text"
+sha256_fonte: "fb125dd11d80e5dac6704c34449db3950e667f166de54eb3140506ed84e4cb37"
+sha256_texto: "b82795de8a03c5f2964f6c303646ce50b67eb03bd29004a3d78292e5cd8db012"
+capturado_em_fonte: "2026-10-21T03:38:36.373025-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.720, de 20 de dezembro de 2024
+
+Dispõe sobre a implementação de operação semafórica intermitente em cruzamentos específicos no município de Porto Velho, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vistao que consta no Ofício nº 308/2024/ASTEC/SEMTRAN, de 20 de dezembro de 2024 (B45C35A3-e).
+
+**CONSIDERANDO** as competências da Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, estabelecido nos incisos XV e XIX do Art. 72 da Lei Complementar nº 882, de 25 de fevereiro de 2022, que dispõe sobre a reorganização da estrutura da administração direta do Município de Porto Velho;
+
+**CONSIDERANDO** a Resolução nº 268, de 15 de fevereiro de 2008 do CONTRAN, que regula a sinalização semafórica e permite a operação intermitente em condições de menor fluxo de veículos, desde que fundamentada em estudos técnicos;
+
+**CONSIDERANDO** o compromisso da gestão municipal com a promoção da qualidade de vida, segurança viária e fluidez do trânsito urbano; Considerando o Art. 281 do Código de Trânsito Brasileiro (CTB), que estabelece que a autoridade de trânsito deve julgar a consistência dos atos administrativos relacionados ao trânsito, garantindo a legalidade e a eficácia das decisões adotadas;
+
+**CONSIDERANDO** a viabilidade técnica da implementação de operação semafórica  
+intermitente em cruzamentos estratégicos para aumentar a segurança e a atenção dos condutores.
+
+**CONSIDERANDO** o disposto no Art. 89 do Código de Trânsito Brasileiro, que estabelece que o semáforo com sinalização amarela intermitente indica "atenção" e orienta os condutores e pedestres a adotarem cautela;
+
+**CONSIDERANDO** o Art. 80 do Código de Trânsito Brasileiro, que exige que a implantação de qualquer sinalização seja precedida de estudos técnicos e observância aos padrões normativos do Conselho Nacional de Trânsito (CONTRAN);
+
+**CONSIDERANDO** a Resolução nº 160, de 22 de abril de 2004 do CONTRAN, que prevê ouso de semáforo intermitente em situações de baixo fluxo ou emergências, bem como a Resolução nº 798, de 2 de setembro de 2020 do CONTRAN, que detalha as condições de instalação e operação de semáforos.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica autorizada a implementação de operação semafórica intermitente nos  
+cruzamentos abaixo relacionados, nos horários de menor fluxo de veículos:
+
+
+I –
+
+Avenida Prefeito Chiquilito Erse com Avenida José Vieira Caúla;
+
+
+II –
+
+Avenida Prefeito Chiquilito Erse com Avenida Imigrante;
+
+
+III –
+
+Avenida Prefeito Chiquilito Erse com Avenida Calama;
+
+
+IV –
+
+Avenida Prefeito Chiquilito Erse com Avenida Rio de Janeiro;
+
+
+V –
+
+Avenida Pinheiro Machado com Avenida Presidente Dutra;
+
+
+VI –
+
+Avenida Mamoré com Avenida Rio de Janeiro;
+
+
+VII –
+
+Avenida Guaporé com Avenida Amazonas;
+
+
+VIII –
+
+Avenida Campos Sales com Avenida Jatuarana;
+
+
+IX –
+
+Avenida Amazonas com Avenida Mamoré;
+
+
+X –
+
+Avenida Raimundo Cantuária com Rua Buenos Aires;
+
+
+XI –
+
+Avenida Governador Jorge Teixeira com Avenida Raimundo Cantuária;
+
+
+XII –
+
+Avenida Governador Jorge Teixeira com Avenida Amazonas;
+
+
+XIII –
+
+Av. Duque de Caxias com Av. Marechal Deodoro;
+
+
+XIV –
+
+Av. Abunã com Av. Brasília;
+
+
+XV –
+
+Avenida Sete de Setembro com Rua Rafael Vaz e Silva.
+
+
+Art. 2º.
+
+A operação semafórica intermitente será configurada para funcionar das 23h às 5h,  
+com o restabelecimento da operação normal nos demais períodos.
+
+
+Art. 3º.
+
+Os semáforos em operação intermitente deverão seguir as diretrizes do Código de Trânsito Brasileiro (CTB), conforme o disposto no Art. 89, com sinalização visual amarela piscante indicando atenção para os condutores e pedestres.
+
+
+Art. 4º.
+
+O uso do sinal amarelo intermitente destina-se exclusivamente à passagem segura  
+pelo cruzamento, com o intuito de contribuir para a continuidade da circulação e evitar parada desnecessária nos horários de menos fluxos aqui estabelecidos.
+
+
+Art. 5º.
+
+A condução em velocidade superior à permitida durante a passagem pelo  
+cruzamento, mesmo com o uso do sinal amarelo intermitente, continuará a implicar em infração de trânsito e sujeitará o condutor às penalidades previstas no CTB.
+
+
+Art. 6º.
+
+As alterações serão acompanhadas de campanhas educativas para conscientização  
+da população quanto ao funcionamento da operação intermitente e à segurança no trânsito
+
+
+Art. 7º.
+
+As equipes da SEMTRAN realizarão monitoramento contínuo para avaliar o impacto  
+das medidas implementadas, com possibilidade de revisão, redução, ampliação e ajustes da operação intermitente, conforme resultados obtidos.
+
+
+Art. 8º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito
+
+ANDERSON DA SILVA PEREIRA  
+Secretário Municipal de Trânsito, Mobilidade e Transportes (SEMTRAN)
+

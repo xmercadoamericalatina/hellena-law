@@ -1,0 +1,305 @@
+---
+titulo: "Lei Ordinária nº 124, de 26 de junho de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "124"
+data: "1985-06-26"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/948"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/204/text"
+sha256_fonte: "ccb4811023322d0a62ca3d0fc9025ce24036bf4e683f5be4bdd86b2a4e5c5839"
+sha256_texto: "546fe16e879f5206bddd0d064be92c1ffac25da79ee4eaba6a271cb6755dae7f"
+capturado_em_fonte: "2026-10-20T23:54:58.705149"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 124, de 26 de junho de 1985
+
+DEFINE MICROEMPRESA E ESTABELECE O TRATAMENTO ADMINISTRATIVO - TRIBUTÁRIO ADEQUADO AO ESTATUTO DA MICROEMPRESA NO MUNICÍPIO DE BOA VISTA.
+
+
+**O PREFEITO MUNICIPAL DE BOA VISTA,** Território Federal de Roraima, no uso de suas atribuições legais, faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+#### CAPÍTULO I
+
+
+Art. 1º.
+
+Consideram-se Microempresas para efeito de adequação ao estatuto da Microempresa aos tributos de competência do Município de Boa Vista, as pessoas jurídicas e as firmas individuais, que tiverem receita bruta anual igual ou inferior ao valor nominal de 850 (oitocentos e cinqüenta) Obrigações Reajustáveis do tesouro Nacional – ORTN, tomado como referência o valor da ORTN do mês de janeiro do ano-base.
+
+
+§ 1º
+
+Para apuração da Receita Bruta, considera-se o total das Receitas Operacionais e Não Operacionais de todos os estabelecimentos da empresa, inclusive dos situados fora do Município, compreendidas no período de 1° de janeiro a 31 de dezembro do ano-base, sem quaisquer deduções aplicáveis ao faturamento para fins de cálculo dos tributos devidos.
+
+
+§ 2º
+
+Considera-se ano-base o imediatamente anterior àquele em que estiverem em curso os benefícios desta Lei.
+
+
+§ 3º
+
+No cálculo das Receitas Não Operacionais, exclui-se o produto da venda de bens do ativo permanente.
+
+
+§ 4º
+
+Tratando-se de pessoas jurídicas ou firmas individuais cujas atividades se tenham iniciado no ano-base, o limite da receita bruta será calculado proporcionalmente ao número de meses decorridos entre o mês da Constituição da empresa e 31 de dezembro do mesmo ano.
+
+
+Art. 2º.
+
+Excluem-se do tratamento previsto nesta Lei as empresas:
+
+
+I –
+
+constituídas sob a forma de sociedade por ações;
+
+
+II –
+
+cujo titular ou qualquer sócio seja domiciliado no exterior;
+
+
+III –
+
+que tenha como sócio pessoa jurídica;
+
+
+IV –
+
+cujo titular ou qualquer sócio, inclusive os cônjuges destes, participem do capital de outra empresa, salvo quando: 1 – a participação seja no máximo 5% (cinco por cento) 2 – a participação decorra de investimentos vinculados a incentivos fiscais;
+
+
+V –
+
+que prestem serviços relativos a importação de produtos estrangeiros;
+
+
+VI –
+
+cujas atividades envolvam compra e venda, locação, administração e incorporação e imóveis, inclusive loteamentos;
+
+
+VII –
+
+que realizem operações ou prestem serviços relativos a câmbio, seguros e distribuição de títulos e valores imobiliários;
+
+
+VIII –
+
+de armazenamento e depósito de produtos de terceiros;
+
+
+IX –
+
+de serviços de vigilância, limpeza de conservação de móveis;
+
+
+X –
+
+de publicidade e propaganda;
+
+
+XI –
+
+de motéis e hotéis;
+
+
+XII –
+
+de prestação de serviços médicos, odontológicos, veterinários, advocatícios, laboratoriais, de economia, de contabilidade, de engenharia, de arquitetura, de despachante e de outras assemelhadas, prestados por profissionais titulados.
+
+
+#### CAPÍTULO II — DA INSCRIÇÃO ESPECIAL
+
+
+Art. 3º.
+
+A inscrição municipal das Microempresas processar-se-á mediante comunicação dirigida à Secretaria de Finanças, da qual constarão:
+
+
+I –
+
+o nome e a identificação da empresa individual, ou da pessoa jurídica e de seus sócios;
+
+
+II –
+
+número do registro da firma individual, ou do arquivamento dos atos constitutivos da sociedade;
+
+
+III –
+
+determinação das atividades da empresa;
+
+
+IV –
+
+a declaração de titular ou de todos os sócios de que o volume da Receita Bruta Anual da empresa não excedeu no ano anterior, o limite fixado no Art. 1° e de que a empresa não se enquadra nas hipóteses da exclusão relacionadas no Art. 2° desta Lei;
+
+
+Art. 4º.
+
+Efetuada a inscrição especial, a Secretaria de Finanças cientificará a empresa, obrigando-se esta a adotar, seguidamente, à sua denominação ou firma, a expressão Microempresa ou a abreviatura ME.
+
+
+#### CAPÍTULO III — REGIME FISCAL
+
+
+Art. 5º.
+
+O Regime Tributário e Fiscal aplicável à Microempresa obedecerá às seguintes normas:
+
+
+I –
+
+Isenção
+
+
+a)
+
+da apresentação da escrituração fiscal à Secretaria de Finanças, mas sujeita a manter arquivada a documentação relativa a negócios que praticar ou intervier.
+
+
+II –
+
+Obrigatoriedade
+
+
+a)
+
+de emissão da Nota Fiscal de Serviços, com opção pela nota fiscal simplificada regulamentada, cuja Segunda via ficará arquivada no estabelecimento;
+
+
+b)
+
+de condição de responsável pela retenção na fonte do Imposto Sobre Serviços, que lhe forem prestados por terceiros;
+
+
+c)
+
+de sujeição ao exame dos respectivos documentos pelo órgão fiscalizador da Fazenda Municipal;
+
+
+d)
+
+de remessa à Secretaria Municipal de Finanças, até o dia 109 de cada mês, de demonstrativo da Receita Bruta, apurado no mês anterior.
+
+
+#### CAPÍTULO IV — PERDA DA CONDIÇÃO DE MICROEMPRESA
+
+
+Art. 6º.
+
+Perderão a condição de Microempresa, para efeito de adequação ao estatuto da microempresa aos tributos de competência do Município de Boa Vista, as pessoas jurídicas ou firmas individuais que, a qualquer tempo:
+
+
+I –
+
+tenha apurado Renda Bruta anual, em dois (2) exercícios consecutivos ou três (3) alternados, superior ao limite estabelecido no Art. 1° desta Lei, sendo mantida a obrigatoriedade de pagar impostos sobre o referido excesso de receita;
+
+
+II –
+
+desenvolva qualquer atividade ou incorra em qualquer das situações tipificadas no Art. 2°, exceto os itens 1 e 2 do inciso IV.
+
+
+Art. 7º.
+
+A perda da condição de Microempresa deverá ser comunicada à Secretaria Municipal de Finanças até o fim do mês imediatamente seguinte à ocorrência.
+
+
+#### CAPÍTULO V — DAS PENALIDADES
+
+
+Art. 8º.
+
+A pessoa jurídica ou firma individual que, sem a observância dos requisitos desta Lei, se mantiver enquadrada como Microempresa, estará sujeita às seguintes consequências e penalidades:
+
+
+I –
+
+cancelamento de ofício do seu registro como Microempresa;
+
+
+II –
+
+pagamento de todos os tributos, como se isenção alguma houvesse existido, acrescido de juros, multas e correção monetária, contados da data em que tais tributos deveriam ter sido recolhidos até a data de seu efetivo pagamento;
+
+
+III –
+
+impedimento de que seu titular ou qualquer sócio constitua nove empresa ou participe de outra já existente, com os favores desta Lei;
+
+
+IV –
+
+multa equivalente a 200% (duzentos por cento) do valor atualizado do tributo devido, em caso de dolo, fraude ou simulação e especialmente nos casos de falsificação das declarações ou informações irreais;
+
+
+V –
+
+multa equivalente a 50% (cinquenta por cento) do valor atualizado dos tributos, nos demais casos.
+
+
+#### CAPÍTULO VI — DISPOSIÇÕES GERAIS
+
+
+Art. 9º.
+
+O Poder Executivo manterá registro e sistema de análise e fiscalização das declarações das Microempresas, visando a permanente observação do limite da perda da receita tributária do Município e a prevenir fraude e a sonegação fiscal.
+
+
+Art. 10.
+
+Enquanto não for deferida a inscrição especial, a empresa continuará sujeita ao regime normal de Tributação.
+
+
+Art. 11.
+
+A pessoa jurídica ou firma individual que vier a habilitar-se como Microempresa, na forma e condições desta Lei, Terá seus débitos ou não na Dívida Ativa, dispensados parcialmente nas seguintes condições:
+
+
+I –
+
+pagamento do principal à vista;
+
+
+II –
+
+pagamento do principal corrigido monetariamente, parcelado em até 06 (seis) vezes.
+
+
+Art. 12.
+
+Não se exigirá das Microempresas o cumprimento burocrático que não se achar expressamente determinado nesta Lei, ressalvadas as obrigações inerentes dos exercícios do Poder de Polícia do Município.
+
+
+Art. 13.
+
+O Executivo Municipal , visando a aperfeiçoada aplicação desta Lei, poderá, a qualquer tempo, regulamentá-la total ou parcialmente.
+
+
+Art. 14.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito, em Boa Vista, em 26 de junho de 1985.
+
+**LUIZ RENATO MACIEL DE MELO**
+
+Prefeito Municipal
+

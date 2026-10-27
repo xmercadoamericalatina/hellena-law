@@ -1,0 +1,87 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.401, de 10 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1401"
+data: "2025-12-10"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/1179"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/443/text"
+sha256_fonte: "13fbcbbf9b7ef85140451c5365bb2155dbd731bedf6f4f28cbee1f8e063c14ef"
+sha256_texto: "3d317bb7622c984069e5bdaa52b874bc77e06ec4d962af37027634754537c649"
+capturado_em_fonte: "2026-10-21T05:01:14.990697-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.401, de 10 de dezembro de 2025
+
+Dispõe sobre a reserva de vagas em atendimento odontológico para pacientes oncológicos no Município de Acari/RN, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais estabelecidas pela Lei Orgânica Municipal,
+
+Faço saber que a Câmara Municipal aprovou e Eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica garantido aos pacientes oncológicos a reserva de 10% (dez por cento) das vagas ofertadas por dia de atendimento odontológico nas Unidades Básicas de Saúde da rede de Saúde Municipal.
+
+
+Parágrafo único
+
+Tal reserva de vagas não configura direito exclusivo, de modo que o não comparecimento de pacientes oncológicos para suprir as vagas reservadas permite a disponibilização para os demais usuários do Sistema Único de Saúde.
+
+
+Art. 2º.
+
+Para fins de aplicação desta Lei, deverá se fazer a comprovação da condição de saúde e tratamento oncológico, podendo para tanto se utilizar de:
+
+
+I –
+
+Laudo Diagnóstico com CID da doença;
+
+
+II –
+
+Carteirinha ou outro meio de comprovação do tratamento;
+
+
+III –
+
+Exames e demais meios de comprovação médica.
+
+
+Art. 3º.
+
+A marcação das consultas e utilização das vagas de atendimento reservadas poderá ser realizada pelo próprio paciente, procurador ou ainda pelo Agente Comunitário de Saúde responsável pela área do paciente.
+
+
+Art. 4º.
+
+A vaga de atendimento será de uso exclusivo do paciente oncológico, não podendo ser utilizado o nome do paciente para atendimento de acompanhante ou outras pessoas.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal será responsável por adotar as providências necessárias para o cumprimento desta Lei, inclusive quanto à apuração de eventuais omissões ou descumprimentos, aplicando, quando for o caso, as sanções administrativas cabíveis, conforme os normativos internos da administração pública.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Acari-RN, 10 de dezembro de 2025.
+
+***FERNANDO ANTONIO BEZERRA***
+
+Prefeito Municipal
+

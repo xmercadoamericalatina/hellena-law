@@ -1,0 +1,181 @@
+---
+titulo: "Lei nº 3.147, de 14 de março de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3147"
+data: "2024-03-14"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26434"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5027/text"
+sha256_fonte: "a5624bf532c4fb95767922de2a97c530d1d48fc55097bafef122dfea430d2abf"
+sha256_texto: "f5e4070239899152a169bebccbf74c2443f6ccc666c22df1f7ef7bd46d6673a9"
+capturado_em_fonte: "2026-10-21T04:42:10.398210-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.147, de 14 de março de 2024
+
+Autoriza o Município de Porto Velho a estabelecer o Programa de Valorização das Atividades de Cuidadores de Animais Domésticos de Pequeno Porte e dá outras providências.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador MÁRCIO PACELE, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte: LEI :
+
+
+Art. 1º.
+
+Fica autorizado a instituição do Programa de Valorização das Atividades de Cuidadores de Animais Domésticos de pequeno porte no Município e Porto Velho.
+
+
+Art. 2º.
+
+Constituem objetivos do Programa de que trata esta Lei:
+
+
+I –
+
+A promoção e valorização das atividades de cuidadores de animais domésticos (cães e gatos), soltos ou abandonados;
+
+
+II –
+
+A facilitação do atendimento e tratamento de animais domésticos (cães e gatos), soltos ou abandonados;
+
+
+III –
+
+A concessão de colaboração financeira para manutenção das atividades dos cuidadores dos animais domésticos de pequeno porte soltos ou abandonados.
+
+
+Art. 3º.
+
+Para efeitos desta Lei entende-se como:
+
+
+I –
+
+Animais domésticos de pequeno porte: cães e gatos;
+
+
+II –
+
+Animais soltos: animais domésticos de pequeno porte encontrados perdidos ou foragidos em vias públicas ou locais de acesso público;
+
+
+III –
+
+Animais abandonados: animais domésticos de pequeno porte não mais desejados por seus tutores ou proprietários, que restarem destituídos de cuidados, guarda ou vigilância;
+
+
+IV –
+
+Cuidador: toda pessoa física ou jurídica sem fins lucrativos que se dedique ao recolhimento de cães e gatos soltos ou abandonados, mantendo-os sob seus cuidados.
+
+
+Art. 4º.
+
+O cuidador de animais de que trata esta Lei gozará das seguintes prerrogativas:
+
+
+I –
+
+Atendimento preferencial emergencial para fins de primeiros socorros, avaliação clínica dos animais recolhidos e tutelados, vacinação, alimentação (ração) e esterilização gratuita, oferecidos pelos profissionais dos órgãos da Administração Pública Municipal;
+
+
+II –
+
+Outras prerrogativas e incentivos que venham a ser criados pelo Poder Público.
+
+
+Art. 5º.
+
+São deveres dos cuidadores de animais:
+
+
+I –
+
+Assegurar adequadas condições de bem-estar, saúde e higiene individual do animal, inclusive em controle de parasitoses, circulação de ar, acesso ao sol e área coberta, garantindo-lhes comodidade e segurança;
+
+
+II –
+
+Oferecer alimentação de boa qualidade e administrada em quantidade compatível com a necessidade de espécie e faixa etária de cada animal;
+
+
+III –
+
+Fornecer água fresca, limpa e em quantidade suficiente ao bem-estar do animal;
+
+
+IV –
+
+Manter o animal vacinado contra doenças que possam acometê-lo e revaciná-lo dentro dos prazos, de acordo com as recomendações:
+
+
+V –
+
+Providenciar assistência médica-veterinária sempre que necessário.
+
+
+Parágrafo único
+
+Fica vedada ao cuidador a venda de animal por ele atendido, podendo ser objeto de ação de adoção responsável, que deverá ser informada ao Poder Público, neste caso, a SEMA, através de relatório.
+
+
+Art. 6º.
+
+A Administração Pública Municipal realizará chamamento público para fins de selecionar pessoas física ou jurídicas sem fins lucrativos para prestarem serviços de cuidadores de animais, publicando edital regulamentador, que deverá prever, dentre outros, os seguintes critérios:
+
+
+I –
+
+Quantitativo mínimo de 10 (dez) e o máximo de 30 (trinta) animais para o exercício de atividade de cuidador;
+
+
+II –
+
+Área mínima para permanência salutar dos animais, com espaço coberto e seguro, no imóvel em que se prestará a atividade;
+
+
+III –
+
+De segurança ambiental e vizinhança.
+
+
+Art. 7º.
+
+Fica o Poder Executivo Municipal autorizado a conceder aos cuidadores selecionados através de chamamento público colaboração financeira para manutenção das atividades de que trata esta Lei, no valor de R$ 250,00 (duzentos e cinquenta reais) mensais por animal cuidado.
+
+
+Parágrafo único
+
+Fica o Poder Executivo autorizado a alterar por decreto o valor da colaboração financeira de que trata o caput.
+
+
+Art. 8º.
+
+O Poder Executivo através da Secretaria de Meio Ambiente e Recursos Renováveis – SEMA, responsável pela política de Bem-Estar Animal, selecionará o quantitativo de cuidadores conforme a demanda dos serviços e a possibilidade orçamentária vigente.
+
+
+Art. 9º.
+
+As despesas decorrentes da aplicação da presente Lei serão atendidas pelas dotações consignadas na Lei Orçamentária vigente.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 14 de março de 2024.
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei nº 4.531/2023  
+Autoria: Vereadora Márcia Socorristas Animais
+

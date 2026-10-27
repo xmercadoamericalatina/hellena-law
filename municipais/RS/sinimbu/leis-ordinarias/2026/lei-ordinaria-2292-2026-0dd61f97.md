@@ -1,0 +1,25 @@
+---
+titulo: "LEI Nº 2.292, DE 29 DE JANEIRO DE 2026."
+uf: "RS"
+municipio: "SINIMBU"
+tipo: "Lei Ordinária"
+numero: "2292"
+data: 2026-01-29
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 30/01/2026"
+data_publicacao: 2026-01-30
+codigo_identificador: "0DD61F97"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117770_2026-01-29_89a6790c710e439434f7441c80dfce81.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2.292, DE 29 DE JANEIRO DE 2026.
+
+LEI Nº 2.292, DE 29 DE JANEIRO DE 2026.
+
+São Vendelino, 27 de janeiro de 2026.
+FERNANDO LUIS ANGST,
+Vice- Prefeito Municipal no Exercício do Cargo de Prefeito.
+Publicado por:
+Thaíse Mayara Consorte

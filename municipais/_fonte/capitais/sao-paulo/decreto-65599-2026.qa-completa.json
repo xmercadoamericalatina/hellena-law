@@ -1,0 +1,21 @@
+{
+  "sha256_md": "7808f6169dd90ce01a23586a40af5e90b426d6d808459e5e0c9754b3060c89fb",
+  "camada_textual": {
+    "tokens_integrais": 146958,
+    "em_ordem_identicos": true,
+    "folios_removidos": 232
+  },
+  "imagens_normativas": {
+    "total": 3,
+    "paginas": [
+      142,
+      226
+    ],
+    "linhas_de_tabela": 56,
+    "celulas_de_dados": 230,
+    "conferencia": "Transcrição manual e conferência visual de todasas56linhas; inclui valores/fontes/associação de colunas. CampoVALOR-R$ repetido nos cabeçalhos para preservar cabeçalhomultinível."
+  },
+  "tabelas_path": "scripts/dados/sp-tributaria-65599-tabelas.json",
+  "tabelas_sha256": "153fe486cfffff6d125f9560c7c2d7b2f4e547f7c8b6df484aeded08c27c9b2b",
+  "limite": "camada textual conferida automaticamente; células das tabelas conferidas visualmente, semOCR; artefato gráfico10x2 da página125 sem conteúdo normativo identificado."
+}

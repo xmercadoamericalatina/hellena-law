@@ -1,0 +1,971 @@
+---
+titulo: "DECRETO Nº 41/2026"
+uf: "RS"
+municipio: "GUAÍBA"
+tipo: "Decreto"
+numero: "41"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/02/2026"
+data_publicacao: 2026-02-20
+codigo_identificador: "A4E87FF8"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117785_2026-02-19_ed04be3360dd4470b9a93bffca6396a2.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 41/2026
+
+DECRETO Nº 41/2026
+DECRETO Nº 41/2026
+
+www.diariomunicipal.com.br/famurs
+
+227
+
+Rio Grande do Sul , 20 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVIII | Nº 4272
+
+Abre Crédito Adicional Suplementar no valor de R$ 182.000,00 (CENTO E OITENTA E DOIS MIL REAIS), para reforço de
+dotações consignadas no orçamento vigente, e dá outras providências.
+O Prefeito Municipal de GUAÍBA, RIO GRANDE DO SUL, no uso de suas atribuições legais e de acordo com a Lei nº 4869, art. 3º, inciso III,
+alínea ―a‖, de 26 de dezembro de 2025,
+DECRETA:
+Art. 1º - Fica aberto no orçamento vigente o crédito adicional de caráter suplementar no valor global de R$ 81.000,00 (OITENTA E UM MIL
+REAIS), para reforço de dotações orçamentárias, sob a seguinte classificação econômica e programática:
+CLASSIFICAÇÃO INSTITUCIONAL
+
+CLASSIFICAÇÃO FUNCIONAL PROGRAMÁTICA
+
+Órgão
+
+Código
+
+Unidade
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0211.2094
+DA SEMAUS
+SUSTENTABILID
+TOTAL DOS CRÉDITOS SUPLEMENTARES
+
+Projeto/Atividade
+
+ECO 100
+Ambiental
+
+-
+
+Educação
+
+Elemento de Despesa
+
+Fonte
+Recurso
+
+de Código
+Reduzido
+
+33393390000000000000
+
+15000001
+
+1657
+
+Valor Suplementado
+
+81.000,00
+R$ 81.000,00
+
+Art. 2º - O crédito aberto de acordo com o art 1º, será compensado através do produto da redução orçamentária, sob a seguinte classificação
+econômica e programática:
+CLASSIFICAÇÃO INSTITUCIONAL
+
+CLASSIFICAÇÃO FUNCIONAL PROGRAMÁTICA
+
+Órgão
+
+Código
+
+Unidade
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0222.2105
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0222.2105
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0221.2104
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0221.2104
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0209.2092
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0207.2090
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0209.2092
+DA SEMAUS
+SUSTENTABILID
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0207.2090
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0451.0206.2089
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0451.0206.2089
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0541.0210.2093
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0541.0210.2093
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0541.0210.2093
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0208.2091
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0221.2104
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0222.2105
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0018.0542.0207.2090
+DA SEMAUS
+SUSTENTABILID
+
+Fonte
+Recurso
+
+de Código
+Reduzido
+
+15000001
+
+1591
+
+5.000,00
+
+15000001
+
+1589
+
+5.000,00
+
+33390390000000000000
+
+15000001
+
+1586
+
+5.000,00
+
+34490520000000000000
+
+15000001
+
+1588
+
+5.000,00
+
+ECO 100 - Área
+Degradada
+
+34490520000000000000
+
+15000001
+
+1653
+
+5.000,00
+
+ECO 100 - Coleta Seletiva
+
+33393390000000000000
+
+15000001
+
+2436
+
+5.000,00
+
+ECO 100 - Área
+Degradada
+
+33390360000000000000
+
+15000001
+
+1650
+
+5.000,00
+
+ECO 100 - Coleta Seletiva
+
+33390360000000000000
+
+15000001
+
+2434
+
+5.000,00
+
+ECO 100 - Jardim Botânico
+34490520000000000000
+Municipal
+
+15000001
+
+1638
+
+5.000,00
+
+ECO 100 - Jardim Botânico
+33390300000000000000
+Municipal
+
+15000001
+
+1634
+
+5.000,00
+
+Planos e Legislações
+
+34490520000000000000
+
+15000001
+
+1633
+
+5.000,00
+
+Planos e Legislações
+
+33390360000000000000
+
+15000001
+
+1630
+
+5.000,00
+
+Planos e Legislações
+
+33390300000000000000
+
+15000001
+
+1629
+
+5.000,00
+
+ECO 100 - Arroio Passo
+33390390000000000000
+Fundo
+
+15000001
+
+1646
+
+1.000,00
+
+15000001
+
+1587
+
+5.000,00
+
+15000001
+
+1593
+
+5.000,00
+
+15000001
+
+2433
+
+5.000,00
+
+Elemento de Despesa
+
+Projeto/Atividade
+
+Fiscalização Territorial e
+Posturas
+- Fiscalização de Obras 33390390000000000000
+Privadas
+Fiscalização Territorial e
+Posturas
+- Fiscalização de Obras 33390300000000000000
+Privadas
+Fiscalização Territorial
+Posturas
+- Fiscalização Urbana
+
+e
+
+Fiscalização Territorial
+Posturas
+- Fiscalização Urbana
+
+e
+
+Fiscalização Territorial e
+Posturas
+33393390000000000000
+- Fiscalização Urbana
+Fiscalização Territorial e
+Posturas
+- Fiscalização de Obras 34490520000000000000
+Privadas
+
+ECO 100 - Coleta Seletiva
+
+33390300000000000000
+
+Valor Suplementado
+
+R$ 81.000,00
+
+TOTAL DOS CRÉDITOS
+
+www.diariomunicipal.com.br/famurs
+
+228
+
+Rio Grande do Sul , 20 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+
+ANO XVIII | Nº 4272
+
+Art. 3º - Fica aberto no orçamento vigente o crédito adicional de caráter suplementar no valor global de R$ 101.000,00 (CENTO E UM MIL
+REAIS), para reforço de dotações orçamentárias, sob a seguinte classificação econômica e programática:
+CLASSIFICAÇÃO INSTITUCIONAL
+
+CLASSIFICAÇÃO FUNCIONAL PROGRAMÁTICA
+
+Órgão
+
+Código
+
+Unidade
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0451.0218.2101
+DA SEMAUS
+SUSTENTABILID
+
+Projeto/Atividade
+
+Elemento de Despesa
+
+Fonte
+Recurso
+
+de Código
+Reduzido
+
+Projeto Engenharia
+
+33393390000000000000
+
+15000001
+
+1622
+
+Valor Suplementado
+
+101.000,00
+R$ 101.000,00
+
+TOTAL DOS CRÉDITOS SUPLEMENTARES
+
+Art. 4º - O crédito aberto de acordo com o art 3º, será compensado através do produto da redução orçamentária, sob a seguinte classificação
+econômica e programática:
+CLASSIFICAÇÃO INSTITUCIONAL
+
+CLASSIFICAÇÃO FUNCIONAL PROGRAMÁTICA
+
+Órgão
+
+Código
+
+Unidade
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0451.0212.2095
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0127.0214.2097
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0127.0213.2096
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0127.0213.2096
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0108.2087
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0108.2087
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0451.0220.2103
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0222.2105
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0219.2102
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0224.2107
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0224.2107
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0108.2085
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0224.2107
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0122.0224.2107
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0451.0212.2095
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0015.0451.0212.2095
+DA SEMAUS
+SUSTENTABILID
+
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0223.2106
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0219.2102
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0223.2106
+DA SEMAUS
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE, 001 - FUNCIONAMENT
+0004.0122.0108.2087
+URBANISMO
+E DA SEMAUS
+
+Projeto/Atividade
+
+Elemento de Despesa
+
+Fonte
+Recurso
+
+de Código
+Reduzido
+
+Guaíba + Resiliente
+
+33390300000000000000
+
+15000001
+
+1614
+
+5.000,00
+
+34490520000000000000
+
+15000001
+
+1608
+
+5.000,00
+
+Urbanismo Legal
+
+34490520000000000000
+
+15000001
+
+1603
+
+5.000,00
+
+Urbanismo Legal
+
+33390300000000000000
+
+15000001
+
+1599
+
+5.000,00
+
+15000001
+
+1573
+
+5.000,00
+
+15000001
+
+1572
+
+5.000,00
+
+15000001
+
+1627
+
+5.000,00
+
+15000001
+
+1592
+
+5.000,00
+
+15000001
+
+1583
+
+5.000,00
+
+15000001
+
+1578
+
+5.000,00
+
+15000001
+
+1577
+
+5.000,00
+
+15000001
+
+1555
+
+1.000,00
+
+15000001
+
+1576
+
+5.000,00
+
+15000001
+
+1574
+
+5.000,00
+
+ECO 100 - Criação
+Espaços
+Paisagísticos
+Parque das Oliveiras
+
+de
+e
+
+Fiscalização Territorial e de
+Posturas - Manutenção e
+34490520000000000000
+Gestão da Secretária
+Fiscalização Territorial e de
+Posturas - Manutenção e
+33393390000000000000
+Gestão da Secretária
+
+Projeto Engenharia - Laudos
+33393390000000000000
+de Vistoria
+Fiscalização Territorial e
+Posturas
+- Fiscalização de Obras 33393390000000000000
+Privadas
+Projeto
+Engenharia
+Fiscalização
+de
+Obras 34490520000000000000
+Públicas
+Fiscalização Territorial e
+Posturas
+Modernização
+da 34490520000000000000
+Fiscalização
+Fiscalização Territorial e
+Posturas
+Modernização
+da 33393390000000000000
+Fiscalização
+
+Modernização Administrativa 33393390000000000000
+Fiscalização Territorial e
+Posturas
+Modernização
+da 33390390000000000000
+Fiscalização
+Fiscalização Territorial e
+Posturas
+Modernização
+da 33390300000000000000
+Fiscalização
+
+Valor Suplementado
+
+Guaíba + Resiliente
+
+33390360000000000000
+
+15000001
+
+1615
+
+5.000,00
+
+Guaíba + Resiliente
+
+34490520000000000000
+
+15000001
+
+1618
+
+5.000,00
+
+33390390000000000000
+
+15000001
+
+1595
+
+5.000,00
+
+Projeto
+Engenharia
+Fiscalização
+de
+Obras 33393390000000000000
+Públicas
+
+15000001
+
+1582
+
+5.000,00
+
+15000001
+
+1596
+
+5.000,00
+
+15000001
+
+1571
+
+5.000,00
+
+Fiscalização Territorial
+Posturas
+- Atendimento ao Público
+
+Fiscalização Territorial
+Posturas
+- Atendimento ao Público
+
+e
+
+e
+33393390000000000000
+
+Fiscalização Territorial e de
+Posturas - Manutenção e
+33390390000000000000
+Gestão da Secretária
+
+www.diariomunicipal.com.br/famurs
+
+229
+
+Rio Grande do Sul , 20 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul •
+SUSTENTABILID
+11 - SEC MUNIC DE
+MEIO
+AMBIENTE,
+001 - FUNCIONAMENT
+URBANISMO
+E
+0004.0125.0223.2106
+DA SEMAUS
+SUSTENTABILID
+TOTAL DOS CRÉDITOS
+
+Fiscalização Territorial
+Posturas
+- Atendimento ao Público
+
+ANO XVIII | Nº 4272
+
+e
+34490520000000000000
+
+15000001
+
+1598
+
+5.000,00
+R$ 101.000,00
+
+Art. 5º - Este Decreto entra em vigor na data de sua publicação.
+Gabinete do Prefeito Municipal de Guaíba, 19 de Fevereiro de 2026.
+MARCELO MARANATA SOARES REINALDO
+Prefeito Municipal
+RAFAEL DE AVILA TEIXEIRA
+Secretário de Administração
+CPF: 018.065.400-45
+Publicado por:
+Lauren Oliveira Bastos

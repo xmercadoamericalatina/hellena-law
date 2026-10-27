@@ -1,0 +1,239 @@
+---
+titulo: "Decreto nº 19.629, de 07 de dezembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.629"
+data: "2023-12-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26102"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8677/text"
+sha256_fonte: "75c651cba58f60f59e2c0538fcaf69c0c0359a483ef32dc953fe9f94422aa9bd"
+sha256_texto: "fa6bc026bb4dffe3138d49c7d61e1c394737294ad3d08a18707895ea9b3f6839"
+capturado_em_fonte: "2026-10-21T04:51:32.844927-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.629, de 07 de dezembro de 2023
+
+Institui a Comissão Técnica para a realização da Avaliação Preliminar objetivando identificar os indícios e as potenciais fontes de contaminação para dar suporte a elaboração do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa, nos termos do disposto na Portaria 109/2023-SEMUSB, em atendimento a Nota Técnica Nº 01/2023/SEDAM-ERGASJPA.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Ofício nº 59/DESAB/SEMUSB/2023, de 06 de dezembro de 2023 (04C89047-e).
+
+
+**CONSIDERANDO** a Competência do Município para definir e organizar a prestação dos serviços públicos de interesse local;
+
+
+**CONSIDERANDO** a responsabilidade do Poder Público Municipal em formular a Política Pública de Saneamento e o respectivo Plano Municipal de Saneamento Básico, nos termos da Lei Federal nº 11.445 de 5 de janeiro de 2007, e do Decreto Federal nº 7.217, de 21 de junho de 2010;
+
+
+**CONSIDERANDO** a Lei Federal nº 12.305, de 2 de agosto de 2010, que Institui a Política Nacional de Resíduos Sólidos, altera a Lei Federal nº 9.605, de 12 de fevereiro de 1998, e dá outras providências.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído a Comissão Técnica - CT para a realização da Avaliação Preliminar que irá compor o processo de planejamento para a criação do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa, cuja respectiva composição e atribuições são definidas deste Decreto.
+
+
+Art. 2º.
+
+A Comissão Técnica – CT será responsável pela operacionalização, coordenação e acompanhamento da Avaliação Preliminar para elaboração do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa e composta pelos seguintes membros representantes:
+
+
+I –
+
+Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável – SEMA:
+
+
+a)
+
+Emanuel Fernando Correia Sanches Schott, matrícula nº 316027.
+
+
+II –
+
+Secretaria Municipal de Assistência Social e da Família– SEMASF:
+
+
+a)
+
+Giovany dos Santos Lima, matrícula nº 259904.
+
+
+III –
+
+Secretaria Municipal Regularização Fundiária, Habitação e Urbanismo – SEMUR:
+
+
+a)
+
+Waldemir Andrade Calil Junior, matrícula nº 1005470.
+
+
+IV –
+
+Secretaria Municipal de Saneamento e Serviços Básicos – SEMUSB:
+
+
+a)
+
+Camila Afonso dos Santos Rosa, matrícula nº 83684;
+
+
+b)
+
+Gilma Aparecida Ávila da Silva Balbé, matrícula nº 1005639;
+
+
+c)
+
+Marcelo Melo Barroso, matrícula nº 1003789;
+
+
+d)
+
+Valdinei Rocha dos Santos, matrícula nº 77025.
+
+
+V –
+
+Sociedade Civil: Instituto Abraço, que compõe o Conselho Municipal de Saneamento Básico – COMSAB:
+
+
+a)
+
+Wesllen Lunguinho Bezerra.
+
+
+§ 1º
+
+Fica designado o servidor Marcelo Melo Barroso – Engenheiro Civil, matrícula nº 1003789, a exercer a função de Presidente da Comissão Técnica– CT.
+
+
+§ 2º
+
+As deliberações que porventura sejam tomadas pela Comissão Técnica – CT somente terão validade se submetidas à aprovação da maioria simples de seus respectivos pares, cabendo ao Presidente decidir em caso de empate.
+
+
+§ 3º
+
+A Comissão de Técnica deverá reunir-se quinzenalmente para acompanhar o processo de Avaliação Preliminar para posterior elaboração do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa, podendo reunir-se extraordinariamente sempre que houver necessidade de deliberações.
+
+
+Art. 3º.
+
+Compete a Comissão Técnica – CT:
+
+
+I –
+
+elaborar e executar o Plano de Trabalho para a Avaliação Preliminar, cuja conclusão será a elaboração de um Relatório Final;
+
+
+II –
+
+participar de todas as etapas de desenvolvimento da Avaliação Preliminar apresentando sugestões e críticas;
+
+
+III –
+
+apoiar e executar as ações previstas no Plano de Trabalho elaborado pela Comissão Técnica – CT;
+
+
+IV –
+
+conduzir diretamente as reuniões e visitas técnicas na Lixeira Sanitária Municipal Vila Princesa;
+
+
+V –
+
+providenciar levantamentos, avaliações, investigações e demais estudos, os quais darão suporte técnico para auxiliar a tomada de decisão para as etapas seguintes (Projeto Técnico de Encerramento, Termo de compromisso/Autorização de encerramento, Execução das Medidas de Encerramento), no que concerne à remediação dos lixões;
+
+
+VI –
+
+disponibilizar e/ou facilitar o acesso às informações técnicas necessárias para a elaboração do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa;
+
+
+VII –
+
+contribuir na identificação de soluções para a melhoria dos trabalhos desenvolvidos;
+
+
+VIII –
+
+aprovar os produtos/documentos/laudos que serão elaborados ou solicitados ao longo dos trabalhos e validados pela Comissão Técnica – CT;
+
+
+IX –
+
+concluída a Avaliação Preliminar a Comissão Técnica deverá elaborar Relatório Final que dará o suporte necessário para a elaboração do Projeto Técnico de Encerramento da Lixeira Sanitária Municipal Vila Princesa, que será submetido à análise e aprovação do Órgão Público competente, responsável pela Autorização Ambiental para o Encerramento da Lixeira Sanitária Municipal Vila Princesa.
+
+
+Art. 4º.
+
+O Processo de Elaboração do Relatório Final, deverá contemplar as seguintes Fases:
+
+
+I –
+
+FASE I – Planejamento da Avaliação Preliminar, tendo como Produto: Plano de Trabalho a ser executado pela Comissão Técnica;
+
+
+II –
+
+FASE II – Execução do Plano de Trabalho para Avaliação preliminar, tendo como Produto: Relatório Final, com as seguintes metas:
+
+
+a)
+
+Realizar avaliação inicial com base nas informações históricas e interpretação dos resultados de inspeções e entrevistas;
+
+
+b)
+
+Identificar as fontes de contaminação potenciais existentes ou que possam ter existido na área;
+
+
+c)
+
+Levantar indícios de contaminação nos compartimentos do meio ambiente; e
+
+
+d)
+
+Analisar e tabular os dados obtidos e aptos a serem incorporados no Relatório Final.
+
+
+Parágrafo único
+
+Os trabalhos deverão ser elaborados conforme as diretrizes dispostas na Nota Técnica nº 01/2023/SEDAM-ERGASJPA.
+
+
+Art. 5º.
+
+A Comissão Técnica CT deverá, no prazo de até 90 (noventa) dias, podendo ser prorrogável dependendo da necessidade, preparar e submeter à apreciação do Órgão Público Ambiental competente, o Relatório Final.
+
+
+Art. 6º.
+
+Aos membros de Comissão Técnica – CT, aplica-se o disposto no Art. 41 do Decreto n° 11.824, de 18 de outubro de 2010, que regulamenta o Art. 76 da Lei Complementar n° 385, de 1° de julho de 2010.
+
+
+Art. 7º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

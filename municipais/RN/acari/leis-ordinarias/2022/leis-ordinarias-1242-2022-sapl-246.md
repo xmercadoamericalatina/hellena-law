@@ -1,0 +1,66 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.242, de 30 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1242"
+data: "2022-03-30"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/246"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/398/text"
+sha256_fonte: "e3c4afa5ec436081c89b413c067cc3d48bbacd4daa57d419a4c1682137573f48"
+sha256_texto: "c3c0422e0dc5a056bd821e6aa60f1c6d6493fd0d48bc5f518af4e8baca526a30"
+capturado_em_fonte: "2026-10-21T05:11:05.863078-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.242, de 30 de março de 2022
+
+Autoriza o Poder Executivo a efetuar parcelamento de débitos das contribuições previdenciárias devidas do Município de Acari ao INSS junto à fazenda nacional, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI/RN, no uso de suas atribuições legais estabelecidas pela Lei Orgânica Municipal,
+
+Faço saber que a CÂMARA MUNICIPAL DE ACARI/RN, aprovou e Eu sanciono a presente lei:
+
+
+Art. 1º.
+
+Fica autorizado o Município de Acari, por meio do Chefe do Poder Executivo, a firmar termo, ou documento assemelhado, de adesão ao parcelamento de débito das contribuições previdenciárias vencidas e não pagas, da Administração Direta do Município de Acari/RN, nos termos da Emenda Constitucional nº 113/2021, perante a Procuradoria Geral da Fazenda Nacional e Secretaria da Receita Federal do Brasil.
+
+
+Parágrafo único
+
+O Município de Acari, mesmo já tendo firmado parcelamentos anteriores, poderá repactuar os ajustes feitos, considerando as condições mais vantajosas inseridas na legislação nacional a partir da Emenda Constitucional nº 113/2021.
+
+
+Art. 2º.
+
+O valor limite da dívida previdenciária consolidada poderá abranger um único ou mais termos de parcelamento.
+
+
+Art. 3º.
+
+O parcelamento obedecerá às normas de refinanciamento ou repactuação de débitos e contribuições previdenciárias, principal e acessórios, estabelecidos pela Emenda Constitucional nº 113/2021, pela Secretaria da Receita Federal do Brasil e pela Procuradoria Geral da Fazenda Nacional.
+
+
+Art. 4º.
+
+Fica autorizada a aceitação, pelo Município de Acari, da cláusula de retenção do Fundo de Participação dos Municípios – FPM para o pagamento das prestações, considerando o valor principal e seus acessórios, bem como nas outras receitas municipais e estaduais depositadas em quaisquer instituições financeiras, na hipótese em que os recursos de referido Fundo sejam insuficientes para quitação destas obrigações.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Acari/RN, 30 de março de 2022.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

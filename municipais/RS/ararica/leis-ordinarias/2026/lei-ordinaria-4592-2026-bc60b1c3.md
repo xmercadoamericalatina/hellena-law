@@ -1,0 +1,32 @@
+---
+titulo: "LEI Nº4.592 DE 25 DE MARÇO DE 2026."
+uf: "RS"
+municipio: "ARARICÁ"
+tipo: "Lei Ordinária"
+numero: "4592"
+data: 2026-03-25
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 31/03/2026"
+data_publicacao: 2026-03-31
+codigo_identificador: "BC60B1C3"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117812_2026-03-30_11a3142fd058be306b87cfff8ffd0666.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº4.592 DE 25 DE MARÇO DE 2026.
+
+LEI Nº4.592 DE 25 DE MARÇO DE 2026.
+REVOGA A LEI MUNCIPAL Nº4.324 DE 16 DE
+MARÇO
+DE
+2023
+E
+DÁ
+OUTRAS
+PROVIDÊNCIAS.
+
+MÁRIO LUIZ DE LIMA
+Secretário Municipal de Administração
+Publicado por:
+Nathalia Dos Santos Vales

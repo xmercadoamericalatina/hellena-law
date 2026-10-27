@@ -1,0 +1,93 @@
+---
+titulo: "LEI Nº 5.573 DE 03 DE DEZEMBRO DE 2025"
+uf: "RS"
+municipio: "BOM RETIRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "5573"
+data: 2025-12-03
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 29/04/2026"
+data_publicacao: 2026-04-29
+codigo_identificador: "EA1492E1"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117832_2026-04-28_52573336f45e1bb041eef42f233de866.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 5.573 DE 03 DE DEZEMBRO DE 2025
+
+LEI Nº 5.573 DE 03 DE DEZEMBRO DE 2025
+CELSO PAZUCH, Prefeito Municipal de Bom Retiro do Sul, Estado
+do Rio Grande do Sul, em cumprimento ao disposto no art. 58 da Lei
+Orgânica do Município:
+FAÇO SABER que o Poder Legislativo aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1º Fica instituído, no âmbito do Município de Bom Retiro do Sul,
+o Programa Municipal “Um Natal Iluminado”, destinado à promoção,
+organização e execução de decoração e iluminação natalina em
+espaços públicos.
+Parágrafo único. O Programa terá vigência anual, compreendendo o
+período de 1º de dezembro a 10 de janeiro do ano.
+Art. 2º Fica autorizada a participação de empresas privadas, pessoas
+físicas ou jurídicas, na execução, manutenção e posterior retirada da
+ornamentação natalina em praças, avenidas, rotatórias, prédios
+públicos e demais áreas públicas do Município.
+
+www.diariomunicipal.com.br/famurs
+
+86
+
+Rio Grande do Sul , 29 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4318
+Art. 3º A participação mencionada no artigo anterior ocorrerá
+mediante:
+I — parceria, patrocínio ou adoção de espaços públicos;
+II — termo de autorização, permissão ou concessão de uso específico,
+conforme regulamento.
+Art. 4º A Administração Municipal relacionará, anualmente, as áreas
+públicas integrantes do Programa e realizará a seleção dos parceiros
+ou patrocinadores.
+§ 1º Ao patrocinador será outorgado o direito de divulgação de sua
+marca no espaço ornamentado, como contrapartida previamente
+definida em edital, termo ou contrato.
+§ 2º A publicidade deverá ser discreta, proporcional e harmônica com
+o conjunto decorativo, devendo sua forma e dimensões serem
+previamente aprovadas pelo Poder Executivo.
+§ 3º É vedada a veiculação de propaganda política, partidária,
+religiosa, discriminatória ou que contrarie normas municipais ou
+federais.
+§ 4º As propostas poderão ser apresentadas individualmente ou em
+consórcio.
+Art. 5º A empresa parceira ou patrocinadora deverá:
+I — apresentar projeto de ornamentação contendo layout, materiais,
+cronograma de execução e estimativa de custos;
+II — observar normas de segurança, acessibilidade, proteção ao
+patrimônio público e regulamentações técnicas pertinentes;
+III — realizar a instalação, manutenção e retirada da ornamentação,
+restituindo o espaço às condições originais ao término do período
+previsto.
+Art. 6º As despesas decorrentes da execução dos projetos serão
+integralmente custeadas pelos parceiros ou patrocinadores, sem
+qualquer ônus ao Município.
+Art. 7º As benfeitorias permanentes eventualmente incorporadas ao
+local após o período natalino passarão a integrar o patrimônio público
+municipal, sem direito a indenização.
+Art. 8º O Poder Executivo regulamentará esta Lei no prazo de até 60
+(sessenta) dias, estabelecendo:
+I — critérios de seleção, habilitação e escolha dos patrocinadores;
+II — modelo padronizado de instrumento jurídico aplicável
+(autorização, permissão, concessão ou termo de parceria);
+III — padrões técnicos, estéticos e de publicidade permitida.
+Art. 9º As despesas administrativas eventualmente decorrentes da
+execução desta Lei correrão por conta das dotações orçamentárias
+próprias.
+Art. 10. Esta Lei entra em vigor na data de sua publicação.
+Gabinete do Prefeito de Bom Retiro do Sul, 03 de dezembro de 2025.
+CELSO PAZUCH
+Prefeito Municipal
+Registre-se e Publique-se
+Sec. Administração e Planejamento
+MARCELE KERBER
+CPF 018.846.600-29
+Matrícula 5454
+Publicado por:
+Bárbara Aline Ferrari

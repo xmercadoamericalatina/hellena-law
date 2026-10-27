@@ -1,0 +1,25 @@
+---
+titulo: "LEI MUNICIPAL Nº 1.877/2025, DE 31 DE DEZEMBRO DE"
+uf: "RS"
+municipio: "PROTÁSIO ALVES"
+tipo: "Lei Ordinária"
+numero: "1877"
+data: 
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/01/2026"
+data_publicacao: 2026-01-07
+codigo_identificador: "9CEE1626"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117753_2026-01-06_370f34a359871901789d4337f35fb35d.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 1.877/2025, DE 31 DE DEZEMBRO DE
+
+LEI MUNICIPAL Nº 1.877/2025, DE 31 DE DEZEMBRO DE
+2025.
+
+BRUNA TURANI DALLACORT
+Secretaria de Administração.
+Publicado por:
+Fabiane Costa

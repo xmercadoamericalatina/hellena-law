@@ -1,0 +1,75 @@
+---
+titulo: "Lei nº 3.241, de 07 de janeiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3.241"
+data: "2025-01-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27448"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4667/text"
+sha256_fonte: "5659153f095cd083fb250ef1afce081a65b61406e578d93542ba984adc72a283"
+sha256_texto: "e8435a35ec7f6ba8b9615666eccb103565ef002cffe7ce2f13ffb9d5913d4157"
+capturado_em_fonte: "2026-10-21T03:36:45.367848-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.241, de 07 de janeiro de 2025
+
+Autoriza o Poder Executivo a contratar operação de crédito com Instituição Financeira, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou eu sanciono a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contratar operação de crédito junto a Instituição Financeira, no valor de até R$ 300.000.000,00 (trezentos milhões de reais) para despesa de capital de investimento em infraestrutura urbana, saneamento urbano, construção e/ou reformas de unidades educacionais, inclusive creches e de saúde, observada a legislação vigente, em especial as disposições da Lei Complementar Federal nº 101, de 04 de maio de 2000 – Lei de Responsabilidade Fiscal.
+
+
+Parágrafo único
+
+Os recursos provenientes da operação de crédito autorizada serão obrigatoriamente aplicados na execução dos empreendimentos previstos no caput deste artigo, sendo vedada a aplicação de tais recursos em despesas correntes, em consonância com o § 1º do Art. 35 da Lei Complementar Federal nº 101, de 04 de maio de 2000.
+
+
+Art. 2º.
+
+Fica o Poder Executivo autorizado a vincular, como contragarantia à garantia da União, à operação de crédito de que trata esta lei, em caráter irrevogável e irretratável, a modo “pro solvendo”, as receitas discriminadas no § 4º do Art. 167 da Constituição Federal, no que couber, bem como outras garantias admitidas em direito.
+
+
+Art. 3º.
+
+Os recursos provenientes da operação de crédito a que se refere esta Lei deverão ser consignados como receita no Orçamento ou em créditos adicionais, nos termos do inciso II, § 1°, Art. 32, da Lei Complementar Federal nº 101, de 2000.
+
+
+Art. 4º.
+
+Os orçamentos ou os créditos adicionais deverão consignar as dotações necessárias às amortizações e aos pagamentos dos encargos anuais, relativos aos contratos de financiamento a que se refere o Art. 1º desta Lei.
+
+
+Art. 5º.
+
+Fica o Chefe do Poder Executivo autorizado a abrir créditos adicionais destinados a fazer face aos pagamentos de obrigações decorrentes da operação de crédito ora autorizada.
+
+
+Art. 6º.
+
+Para pagamento do principal, juros, tarifas bancárias e demais encargos financeiros e despesas da operação de crédito, fica a Instituição Financeira autorizada a debitar a conta-corrente de titularidade do município, a ser indicada no contrato, em que são efetuados os créditos dos recursos do município, ou qualquer(isquer) outra(s) conta(s), salvo a(s) de destinação específica, mantida em sua agência, os montantes necessários às amortizações e pagamento final da dívida, nos prazos contratualmente estipulados.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES Prefeito**
+

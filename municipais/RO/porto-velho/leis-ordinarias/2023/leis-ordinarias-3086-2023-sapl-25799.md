@@ -1,0 +1,103 @@
+---
+titulo: "Lei nº 3.086, de 05 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3086"
+data: "2023-09-05"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25799"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5231/text"
+sha256_fonte: "0b28eb5c03dcaa9879add1c2130638d0e32cb85504271b415e3fc468d3a790d5"
+sha256_texto: "e54adca8182d758c55f87a1a42bb5419d5f5279b6c3d2434bda23d4bde6e620e"
+capturado_em_fonte: "2026-10-21T05:11:51.393710-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.086, de 05 de setembro de 2023
+
+Dispõe sobre a criação de treinamento de segurança antiterrorista e controle de pânico para professores e funcionários de estabelecimentos de ensino públicos no Município de Porto Velho e dá outras providências.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador MÁRCIO PACELE, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+LEI :
+
+
+Art. 1º.
+
+Fica estabelecida, no Município de Porto Velho, a criação do treinamento de segurança antiterrorista e controle de pânico, que visa a oferecer a todos os servidores públicos lotados em escolas do Município o preparo necessário para contenção de agressores, terroristas ou homicidas bem como noções de primeiros socorros.
+
+
+Art. 2º.
+
+Os servidores citados no art. 1º desta Lei deverão, ao menos uma vez por ano, participar do treinamento de segurança organizado pela Secretaria Municipal competente designada pelo Poder Executivo.
+
+
+Art. 3º.
+
+O Poder Executivo poderá firmar convênios e parcerias com a Polícia Militar, Forças Armadas, Forças de Segurança Pública, empresas de segurança privada, universidades e empresas especializadas em segurança escolar para a aplicação deste treinamento.
+
+
+Art. 4º.
+
+O conteúdo programático conterá, no mínimo, os seguintes tópicos:
+
+
+I –
+
+prevenção e contenção em situações antiterroristas;
+
+
+II –
+
+noções de controle do pânico;
+
+
+III –
+
+noções de segurança com relação ao espaço físico do local de trabalho;
+
+
+IV –
+
+noções de segurança para atendimento emergencial a crianças, adolescentes, jovens e adultos atendidos pela unidade escolar;
+
+
+V –
+
+rotas de fuga.
+
+
+Art. 5º.
+
+As datas, os horários, a logística, o controle e a convocação dos servidores serão de responsabilidade da Secretaria Municipal competente.
+
+
+Art. 6º.
+
+O treinamento será ministrado dentro da própria unidade escolar.
+
+
+Art. 7º.
+
+As despesas geradas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 8º.
+
+O Poder Executivo Municipal regulamentará esta Lei no que couber.
+
+
+Câmara Municipal de Porto Velho, 05 de setembro de 2023.
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei nº 4.489/2023  
+Vereador Enfermeiro Roneudo
+

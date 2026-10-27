@@ -1,0 +1,288 @@
+---
+titulo: "Lei Complementar-MUN nº 37, de 27 de maio de 2026"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "37"
+data: "2026-05-27"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/1206"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/465/text"
+sha256_fonte: "af576febdafe8000fa693a77c5d861c4269b1c87ed036fc48f26cfee9186cdc7"
+sha256_texto: "d8aa560d339511caa87884791cea9b5b14394c19b1b496a4fc9164380b173647"
+capturado_em_fonte: "2026-10-21T04:59:58.490534-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar-MUN nº 37, de 27 de maio de 2026
+
+Reestrutura o Sistema de Controle Interno do Município de Acari, disciplina sua organização, funcionamento, autonomia, princípios, competências e carreira própria, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE ACARI–RN, no uso de suas atribuições legais estabelecidas na Lei Orgânica,
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei Complementar estabelece a organização, estrutura, princípios, competências e funcionamento do Sistema de Controle Interno do Município de Acari, em observância aos arts. 31, 70 e 74 da Constituição Federal, aos arts. 22 e 55 da Constituição Estadual, à Resolução nº 18/2022 do Tribunal de Contas do Estado do Rio Grande do Norte, e às demais normas de transparência, integridade, auditoria, fiscalização e governança pública.
+
+
+Art. 2º.
+
+O Sistema de Controle Interno compreende o conjunto de políticas, processos, unidades administrativas e servidores destinados a promover auditoria, fiscalização, integridade, correição, transparência, gestão de riscos e melhoria contínua da administração municipal.
+
+
+Art. 3º.
+
+A Controladoria Interna Municipal constitui a unidade central do Sistema de Controle Interno, responsável pela coordenação, supervisão e execução das funções de auditoria, fiscalização, correição, integridade e transparência do Poder Executivo Municipal.
+
+
+#### CAPÍTULO II — DA ESTRUTURA E AUTONOMIA DA CONTROLADORIA INTERNA
+
+
+Art. 4º.
+
+A Controladoria Interna integra a estrutura administrativa da Prefeitura de Acari, devendo constar em posição de destaque no organograma municipal, assegurando-se autonomia funcional compatível com a complexidade de suas atribuições.
+
+
+Art. 5º.
+
+A Controladoria Interna disporá de regimento interno, aprovado por decreto, definindo fluxos de trabalho, áreas temáticas, competências específicas, rotinas procedimentais e formas de comunicação institucional.
+
+
+Art. 6º.
+
+É vedada qualquer forma de ingerência, interferência, conflito de interesses ou restrição indevida ao exercício de funções dos servidores da Controladoria Interna.
+
+
+#### CAPÍTULO III — DO QUADRO DE PESSOAL E DA CARREIRA DE CONTROLE INTERNO
+
+
+Art. 7º.
+
+O quadro de pessoal efetivo da Controladoria Interna será composto por servidores selecionados mediante concurso público, com formação superior e qualificação técnica compatível.
+
+
+Art. 8º.
+
+O cargo de Auditor de Controle Interno permanece vigente e estruturado conforme a Lei Complementar Municipal nº 32, de 21 de outubro de 2025, sendo parte integrante da carreira específica de controle interno.
+
+
+Art. 9º.
+
+Até a conclusão de concurso público específico, poderão ser designados servidores efetivos que possuam formação e competências técnicas necessárias ao desempenho das funções de auditoria, fiscalização e integridade.
+
+
+Art. 10.
+
+Permanecem os cargos de provimento em comissão, previstos no art. 37, V, da Constituição Federal, de nomeação livre e exoneração ad nutum, para as funções de direção, chefia e assessoramento, já em vigência, criados através da Lei Complementar Municipal nº 10, de 26 de março de 2021.
+
+
+Art. 11.
+
+Para os cargos de provimento em comissão já tratados na Lei nº xxx as nomeações devem atender aos seguintes requisitos:
+
+
+I –
+
+idoneidade moral;
+
+
+II –
+
+reputação ilibada;
+
+
+III –
+
+formação superior;
+
+
+IV –
+
+experiência comprovada em Administração Pública.
+
+
+#### CAPÍTULO IV — DAS GARANTIAS FUNCIONAIS E DA SEGREGAÇÃO DE FUNÇÕES
+
+
+Art. 12.
+
+Os servidores da Controladoria Interna terão garantias funcionais necessárias ao desempenho imparcial e independente de suas funções, sendo-lhes assegurado:
+
+
+I –
+
+acesso irrestrito a documentos, sistemas e informações;
+
+
+II –
+
+proteção contra retaliações;
+
+
+III –
+
+vedação expressa à negativa de informações por qualquer órgão ou entidade do Executivo Municipal.
+
+
+Art. 13.
+
+É vedado ao servidor da Controladoria Interna exercer, simultaneamente, atividades de:
+
+
+I –
+
+contabilidade;
+
+
+II –
+
+execução orçamentária;
+
+
+III –
+
+administração financeira;
+
+
+IV –
+
+gestão de convênios;
+
+
+V –
+
+assinatura de ordens de pagamento.
+
+
+#### CAPÍTULO V — DA TECNOLOGIA, SISTEMAS E INTEGRIDADE
+
+
+Art. 14.
+
+O Município adotará sistemas digitais integrados que assegurem à Controladoria Interna acesso em tempo real às bases de dados de:
+
+
+I –
+
+contabilidade;
+
+
+II –
+
+licitações e contratos;
+
+
+III –
+
+folha de pagamento;
+
+
+IV –
+
+patrimônio;
+
+
+V –
+
+almoxarifado;
+
+
+VI –
+
+obras e serviços.
+
+
+Art. 15.
+
+Serão implementados painéis de controle (dashboards) para monitoramento de riscos, indicadores e resultados.
+
+
+Art. 16.
+
+Fica instituída a obrigação de capacitação periódica dos servidores da Controladoria Interna, preferencialmente mediante parcerias com:
+
+
+I –
+
+Tribunal de Contas;
+
+
+II –
+
+órgãos de controle interno e externo;
+
+
+III –
+
+instituições de ensino e capacitação pública.
+
+
+Art. 17.
+
+Poderão ser contratados serviços especializados ou consultorias técnicas, desde que não substituam as funções típicas de fiscalização e auditoria, devendo atuar sob supervisão direta da Controladoria Interna.
+
+
+#### CAPÍTULO VI — DO CÓDIGO DE ÉTICA
+
+
+Art. 18.
+
+Fica instituído o Código de Ética e Conduta da Controladoria Interna, que será aprovado por decreto e conterá:
+
+
+I –
+
+obrigações específicas;
+
+
+II –
+
+vedações e regras de conflito de interesses;
+
+
+III –
+
+padrões mínimos de conduta profissional.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 19.
+
+As atividades da Controladoria Interna são indelegáveis, sendo vedada sua transferência a terceiros.
+
+
+Art. 20.
+
+O Poder Executivo regulamentará esta Lei Complementar no prazo de 180 (cento e oitenta) dias.
+
+
+Art. 21.
+
+Permanecem em vigor as Leis Complementares Municipais nº 10/2021 e 32/2025, que complementam o Sistema de Controle Interno do Município de Acari.
+
+
+Art. 22.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Acari/RN, 27 de maio de 2026.
+
+***FERNANDO ANTONIO BEZERRA***
+
+Prefeito Municipal
+

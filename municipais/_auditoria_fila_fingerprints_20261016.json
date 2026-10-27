@@ -1,0 +1,20 @@
+{
+  "sha256_fila": "93e99c9f423446c2bb382bc11a432521f530e933f41875836721c55bfc1d2c52",
+  "isolamento": "REPO temporário3scripts;subprocessfake;nenhum arquivo/processo da fila viva alterado;nenhumHTTP",
+  "casos": [
+    {
+      "caso": "antes_do_filho",
+      "resultado": "rejeitado",
+      "filhos_fake_executados": 0,
+      "estado_preparado_retornado": false,
+      "erro": "pipeline mudou durante a fila; candidato não aprovado, retomar com novos SHAs"
+    },
+    {
+      "caso": "depois_do_filho",
+      "resultado": "rejeitado",
+      "filhos_fake_executados": 1,
+      "estado_preparado_retornado": false,
+      "erro": "pipeline mudou durante a fila; candidato não aprovado, retomar com novos SHAs"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+---
+titulo: "Decreto-SEMPOG nº 21.650, de 15 de dezembro de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "21.650"
+data: "2025-12-15"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/28725"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8279/text"
+sha256_fonte: "97da77c4a9f2954b289066b9f69ba90eab821ed3c597d9bcda8a7da799e83cb4"
+sha256_texto: "b9f274592cd1e39199cb2f3c99456e13dfa5f61779b247afbcc81cbe2bc902be"
+capturado_em_fonte: "2026-10-20T23:15:08.105354"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 21.650, de 15 de dezembro de 2025
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 3.240 de 27 de dezembro de 2024 - Lei Orçamentária Anual - LOA 2025;
+
+Considerando o Ofício n.º 098/5340/2025/DCF/CGAF/GAB/SEMUSA, de 11 de dezembro de 2025, pelo qual a Secretaria Municipal de Saúde - SEMUSA solicita abertura de crédito adicional por anulação de recursos pra cobertura de despesas com folha de pagamento,
+
+**DECRETA:**
+
+**Art. 1º** - Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$3.570.360,00(três milhões, quinhentos e setenta mil, trezentos e sessenta reais).
+
+**Art. 2º** - Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação da dotação orçamentária, observando os preceitos do Inciso III, parágrafo 1° do Art. 43, da Lei n.° 4.320, de 17 de março de 1964, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>08.00 - SECRETARIA MUNICIPAL DE SAÚDE - SEMUSA</strong></p></td></tr><tr><td colspan="7"><p><strong>08.31 - FUNDO MUNICIPAL DE SAÚDE - FMS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>ANULA R$</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td rowspan="8"><p>08.31.10.122.336.2.217</p></td><td rowspan="8"><p>Remuneração de Pessoal Ativo e Encargos Sociais</p></td><td rowspan="8"><p>SEG</p></td><td><p>3.1.90.04</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>1.500.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.16</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>200.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.91</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>70.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.92</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>600.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.94</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>1.100.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.91.92</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>100.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.11</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>-</p></td><td><p>1.607.903,47</p></td></tr><tr><td><p>3.1.91.13</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>-</p></td><td><p>1.962.096,53</p></td></tr><tr><td><p>08.31.10.302.329.2.280</p></td><td><p>Manutenção dos Serviços de Atendimento Móvel as Urgências - SAMU (RAU - SAMU) 192</p></td><td><p>SEG</p></td><td><p>3.3.90.19</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>360,00</p></td><td><p>-</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>3.1.90.11</p></td><td><p>1.500.0015.1002.0000</p></td><td><p>-</p></td><td><p>360,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>3.570.360,00</strong></p></td><td><p><strong>3.570.360,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>3.570.360,00</strong></p></td><td><p><strong>3.570.360,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 20.737, de 27 de dezembro de 2024 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 20.738, de 27 de dezembro de 2024.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município
+

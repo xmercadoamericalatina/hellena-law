@@ -1,0 +1,205 @@
+---
+titulo: "Decreto nº 19.929, de 26 de abril de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.929"
+data: "2024-04-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26525"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6776/text"
+sha256_fonte: "215f3fbea90d074c3aeeea85326dc428442bf16733c2ea30cccccbfbe596366a"
+sha256_texto: "61079ad5963e2a6f7e3679b47f2082ff9987f736cff85f660ad9c6575eeba992"
+capturado_em_fonte: "2026-10-21T04:32:28.381600-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.929, de 26 de abril de 2024
+
+Designa servidores de Unidades Técnicas Setoriais para compor o Grupo de Trabalho de depuração, higienização, apuração, evidenciação contábil e definição da parametrização e fluxo das informações entre o Sistema Tributário e Sistema de Contabilidade relacionados a dívida ativa do Município de Porto Velho - RO.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Ofício nº 16/2024/GAB/SEMFAZ, de 24 de abril de 2024 (F17809E1-e).
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído o Grupo de Trabalho em caráter transitório, para realizar a depuração, higienização, apuração e evidenciação contábil do estoque da dívida ativa do Município de Porto Velho.
+
+
+Art. 2º.
+
+Compõem o Grupo de Trabalho, em conformidade com suas respectivas funções:
+
+
+I –
+
+Coordenadora: Maria Sandra Bandeira – Cadastro 1004499 - SEMFAZ;
+
+
+II –
+
+Sidnei Ferreira Junior – Cadastro 276106 - SEMFAZ;
+
+
+III –
+
+Marluce Reis de Oliveira – Cadastro 33051 - SEMFAZ;
+
+
+IV –
+
+Maria Luiza Dias dos Santos – Cadastro 111146 - SEMFAZ;
+
+
+V –
+
+Sandra Rafaelle Nascimento Lima – Cadastro 1002959 - PGM;
+
+
+VI –
+
+Eudes Fonseca da Silva – Cadastro 206360 – CGM;
+
+
+VII –
+
+Cármen Riveiro Moriobo – Cadastro 298241 - CGM;
+
+
+VIII –
+
+Luiz Henrique Gonçalves – Cadastro 204066 - Contador/SEMFAZ;
+
+
+IX –
+
+Rita Ferreira Lima – Cadastro 32227 - Contadora/SEMFAZ.
+
+
+Parágrafo único
+
+Os servidores integrantes do Grupo de Trabalho em caráter transitório poderão executar suas atribuições, individualmente ou em conjunto, por meio de subgrupo em conformidade com as temáticas a serem certificadas.
+
+
+Art. 3º.
+
+Os servidores nomeados por este Decreto desempenharão, conforme definido no Art. 1º deste Decreto, as suas funções por meio da:
+
+
+I –
+
+conferência de informações;
+
+
+II –
+
+análise dos créditos inscritos em Dívida Ativa do Município passíveis de baixa por prescrição;
+
+
+III –
+
+identificação dos imóveis de propriedade dos entes públicos para emissão de parecer e gravação do benefício da Imunidade na respectiva inscrição e consequente baixa dos valores inscritos indevidamente em Dívida Ativa;
+
+
+IV –
+
+identificação dos imóveis de propriedade dos demais entes imunes para emissão de parecer e gravação do benefício na respectiva inscrição;
+
+
+V –
+
+levantamento das ações judiciais suspensas para análise de continuidade ou não pela Procuradoria Geral do Município;
+
+
+VI –
+
+avaliação e definição da parametrização e fluxo das informações entre o Sistema Tributário e o Sistema de Contabilidade, considerando a necessidade de integração e equivalência entre o saldo tributário e contábil;
+
+
+VII –
+
+emissão de Relatório de todos os créditos baixados pela Comissão a serem contabilizados no Sistema de Contabilidade.
+
+
+Art. 4º.
+
+Com a finalidade de subsidiar o trabalho a ser realizado, poderão ser convocados para participar, como assistentes técnicos setoriais servidores que, por sua área de atuação, tenham conhecimentos necessários em relação ao tema.
+
+
+Parágrafo único
+
+Fica autorizada a convocação para participação de assistentes técnicos setoriais, que será realizada por ato da coordenadora, quando for o caso.
+
+
+Art. 5º.
+
+Fica a cargo do Grupo de Trabalho estabelecer as metas, com ação direta de distribuição dos trabalhos em subcomissões internas do Grupo para debate e deliberação dos demais membros.
+
+
+Parágrafo único
+
+Compete à Coordenadora do Grupo de Trabalho, dentre outras atribuições próprias da função, as seguintes:
+
+
+I –
+
+coordenar os trabalhos do Grupo de Trabalho;
+
+
+II –
+
+estabelecer o cronograma e atividades para a execução dos trabalhos de forma a assegurar a conclusão no prazo estabelecido;
+
+
+III –
+
+coordenar as deliberações realizadas em reunião, registrando-as em ata própria;
+
+
+IV –
+
+consolidação das informações produzidas pelos membros do Grupo de Trabalho, a fim de subsidiar as tomadas de decisões.
+
+
+Art. 6º.
+
+O Grupo de Trabalho reunir-se-á em datas e horários previamente estabelecidos, consignando-se em ata, no final de cada reunião, as discussões e deliberações realizadas, bem como o agendamento das próximas reuniões e a designação da respectiva pauta.
+
+
+Parágrafo único
+
+O Grupo de Trabalho apresentará, a cada final de mês, relatório com todas as ações desenvolvidas, conforme disposto no cronograma e na consignação das ações contidas nas atas de reunião.
+
+
+Art. 7º.
+
+Os servidores designados para integrar a Grupo de Trabalho em caráter transitório, para execução de tarefas específicas, farão jus à gratificação por encargos no percentual de 10% (dez por cento) sobre a remuneração, conforme o Art. 76 da Lei Complementar nº 385, de 1º de julho de 2010, regulamentado pelo Art. 41 do Decreto nº 11.824, de 18 de outubro de 2010.
+
+
+Parágrafo único
+
+A gratificação contida no caput deste artigo será devida mensalmente aos componentes cuja participação seja regularmente ativa nas atividades desenvolvidas pelo Grupo de Trabalho.
+
+
+Art. 8º.
+
+O prazo de vigência das atividades do Grupo de Trabalho será de 90 (noventa) dias para a conclusão dos trabalhos, a contar da publicação deste Decreto e disponibilização das informações, relatórios e acesso ao sistema pela contratada.
+
+
+Art. 9º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

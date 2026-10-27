@@ -1,0 +1,1123 @@
+---
+titulo: "Lei Complementar nº 939, de 30 de maio de 2023"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "939"
+data: "2023-05-30"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25281"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2778/text"
+sha256_fonte: "912b73a6ecd0026bcea234ebc5c817336a730d0b987e45df0171fee355d23fc1"
+sha256_texto: "41e05c6d08d069eb7c488e2f3fb54e88b24ef46d91226a1972d0b288461c4167"
+capturado_em_fonte: "2026-10-21T05:36:22.366204-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 939, de 30 de maio de 2023
+
+Estabelece as infrações e penalidades aos operadores do serviço do Sistema de Transporte Coletivo Urbano de Passageiros na cidade de Porto Velho e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, IV, da Lei Orgânica do município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+As infrações e penalidades do serviço de transporte coletivo urbano de passageiros reger-se-ão pela presente Lei Complementar.
+
+
+Art. 2º.
+
+Pelo não cumprimento das disposições contantes desta lei complementar e das normas legais aplicáveis, serão aplicadas aos operadores do Sistema de Transporte Coletivo Urbano de Passageiros na cidade de Porto Velho, as seguintes sanções:
+
+
+I –
+
+advertência escrita;
+
+
+II –
+
+multa;
+
+
+III –
+
+suspensão temporária da exploração dos serviços;
+
+
+IV –
+
+apreensão do veículo;
+
+
+V –
+
+cassação.
+
+
+Art. 3º.
+
+Cometidas, simultaneamente, duas ou mais infrações de natureza diversa, serão aplicadas, cumulativamente, as respectivas penalidades.
+
+
+Art. 4º.
+
+As penalidades por infrações previstas nesta Lei Complementar variam de acordo com a gravidade ou reincidência e serão de responsabilidade das operadoras do serviço.
+
+
+Art. 5º.
+
+As multas serão aplicadas em dobro quando houver reincidência no período de 12 (doze) meses, entendida esta, como prática da mesma infração.
+
+
+Parágrafo único
+
+A partir da quarta reincidência o valor da multa será multiplicado pelo número de infrações iguais cometidas no período de doze meses.
+
+
+Art. 6º.
+
+As multas previstas nesta Lei Complementar serão aplicadas pelo órgão gestor.
+
+
+Art. 7º.
+
+A suspensão temporária, no todo ou em parte, na exploração dos serviços, será determinada a critério do titular do órgão gestor e se dará quando ocorrer infração de natureza gravíssima, mediante proposta deste, precedida de apuração e julgamento conclusivo, assegurando as operadoras o direito de defesa.
+
+
+Art. 8º.
+
+A apreensão do veículo será determinada pelo órgão gestor, sem prejuízo da multa correspondente e ocorrerão nos seguintes casos:
+
+
+I –
+
+operar com veículos não registrados na SEMTRAN;
+
+
+II –
+
+operar com veículos de idade superior ao limite estabelecido, salvo autorização expressa da SEMTRAN;
+
+
+III –
+
+operar com veículo sem os equipamentos obrigatórios definidos em legislação específica.
+
+
+Parágrafo único
+
+A apreensão do veículo será efetivada nos terminais, não podendo ser interrompida a viagem que está sendo realizada.
+
+
+Art. 9º.
+
+A penalidade de cassação ocorrerá por ato do Prefeito do Município de Porto Velho, precedido de processo devidamente instruído pelo órgão gestor, assegurando à empresa o direito de defesa, e só ocorrerá nos seguintes casos:
+
+
+I –
+
+suspensão total dos serviços, em uma ou mais linhas, durante 48 h (quarenta e oito horas) consecutivas, salvo motivo de força maior devidamente comprovado;
+
+
+II –
+
+na execução de 80% (oitenta por cento), no mínimo, do número de horário ordinário em cada linha, autorizada ou permitida, em 30 (trinta) dias, salvo motivo de força maior;
+
+
+III –
+
+suspensão temporária de exploração dos serviços, em uma ou mais linhas, durante 24 h (vinte e quatro horas), por três vezes, dentro do período de 12 (doze) meses consecutivos, salvo motivo de força maior, devidamente comprovado em cada oportunidade;
+
+
+IV –
+
+alienação, cessão ou transferência dos direitos decorrentes da Concessão;
+
+
+V –
+
+ter decretada sua falência;
+
+
+VI –
+
+Lock-Out;
+
+
+VII –
+
+dissolução legal da pessoa jurídica titular da concessão;
+
+
+VIII –
+
+superveniência de incapacidade técnico-operacional ou econômico-financeiro, devidamente comprovada;
+
+
+IX –
+
+conduta negativa, reiterada e sistemática no cumprimento dos deveres regulamentares;
+
+
+X –
+
+redução da frota, abaixo do mínimo exigido, sem a devida correção, no prazo de 90 (noventa) dias;
+
+
+XI –
+
+embaraço à fiscalização, recusa de acesso aos escritórios, obras, instalações e dependência da empresa ou, ainda, negativa de exibição de documentos ou livros vinculados à operação do serviço.
+
+
+Art. 10.
+
+A aplicação de pena de cassação implicará à empresa, durante o prazo de 5 (cinco) anos, de se habilitar a novo certame licitatório junto à administração pública municipal.
+
+
+#### CAPÍTULO I — DAS INFRAÇÕES
+
+
+Art. 11.
+
+São consideradas infrações de natureza Leve, tendo como penalidade na 1ª Ocorrência: Advertência e na 2ª Ocorrência: Multa de 05 (cinco) UPF’s:
+
+
+I –
+
+utilizar, na limpeza interna, substância que prejudique o conforto/segurança dos usuários;
+
+
+II –
+
+descer vias em declive sem marcha reduzida a velocidade compatível
+
+
+III –
+
+retardar propositadamente a marcha do veículo, ou trafegar em velocidade acima da permitida para a via;
+
+
+IV –
+
+embarcar ou desembarcar passageiro fora dos pontos de paradas, exceto para os casos definidos em Lei ou norma complementar;
+
+
+V –
+
+parar o veículo longe da guia da calçada/baia para o embarque/desembarque dos usuários sem motivo justificado;
+
+
+VI –
+
+recusar o embarque de usuários estando o veículo com a sua lotação;
+
+
+VII –
+
+desatender a solicitação de desembarque feita por usuários no interior do veículo;
+
+
+VIII –
+
+operar com as luzes internas e demais iluminações do veículo apagadas entre 18:00 horas e 06:00 horas;
+
+
+IX –
+
+falta ou defeito da iluminação ou visibilidade do letreiro indicativo;
+
+
+X –
+
+falta ou defeito dos indicadores luminosos de direção;
+
+
+XI –
+
+permitir o transporte de animais, combustíveis, outros materiais nocivos à saúde, aparelhos sonoros ligados em volume alto e objetos de tamanho e forma que causem transtorno aos demais usuários, exceto o cão-guia;
+
+
+XII –
+
+permitir o comércio ambulante e a mendicância dentro do veículo;
+
+
+XIII –
+
+manter o relógio de despachos em desacordo com a Hora Oficial do município;
+
+
+XIV –
+
+utilizar aparelho sonoro, durante a viagem, fora dos equipamentos especificados pela SEMTRAN;
+
+
+XV –
+
+tripulação indevidamente uniformizada;
+
+
+XVI –
+
+deixar de exibir crachá de identificação;
+
+
+XVII –
+
+tratar sem educação ou polidez os usuários, o público em geral e os funcionários da SEMTRAN;
+
+
+XVIII –
+
+fumar no interior do veículo, mesmo que esteja parado no Ponto de Controle ou Terminal;
+
+
+XIX –
+
+permitir que passageiros fumem no interior do veículo;
+
+
+XX –
+
+não operar com os faróis acesos em luz baixa, em qualquer horário de operação;
+
+
+XXI –
+
+cobrador, quando presente, deixar de auxiliar o motorista nas operações de embarque/desembarque de Usuários com mobilidade reduzida;
+
+
+XXII –
+
+falta ou defeito de campainha ou dos cordões internos para sinal de desembarque com no mínimo 02 (dois) metros de comprimento;
+
+
+XXIII –
+
+veículo trafegando sem informação institucional obrigatória;
+
+
+XXIV –
+
+não manter os dados cadastrais da Concessionária, dos seus prepostos e dos veículos atualizados junto à SEMTRAN;
+
+
+XXV –
+
+permitir a passagem pelo instrumento contador de passageiros de mais de um usuário, simultaneamente, com a cobrança de uma só tarifa ou de um usuário sem o devido giro da roleta;
+
+
+XXVI –
+
+lavar os veículos em via pública;
+
+
+XXVII –
+
+deixar de portar a documentação exigida pela SEMTRAN, de forma visível e/ou de fácil acesso;
+
+
+XXVIII –
+
+falta ou mau funcionamento da internet via wi-fi no veículo;
+
+
+XXIX –
+
+não possuir a identificação dos assentos reservados as pessoas idosas e pessoas com deficiência;
+
+
+XXX –
+
+não possuir na parte interna do veículo o número do telefone de fiscalização do órgão gestor.
+
+
+Parágrafo único
+
+São consideradas, ainda, infrações de natureza Leve, tendo como penalidade na 1ª Ocorrência: Multa de 05 (cinco) UPF’s e na 2ª Ocorrência: Multa de 10 (dez) UPF’s:
+
+
+I –
+
+deixar de informar previamente à SEMTRAN a realização de alterações de localização de sede, garagem, oficina e demais instalações;
+
+
+II –
+
+sistema de circulação de ar inoperante/defeituoso;
+
+
+III –
+
+exibir o letreiro com informações da linha quando o veículo estiver em deslocamento para garagem ou terminais;
+
+
+IV –
+
+deixar de realizar a integração quando o usuário estiver portando o cartão eletrônico, dentro do intervalo previsto e nos percursos autorizados;
+
+
+V –
+
+deixar de conduzir o veículo em velocidade contínua, provocando partidas e freadas bruscas ou prejudicando a condição de conforto/segurança dos usuários;
+
+
+VI –
+
+preencher com inexatidão ou incorreção quaisquer documentos exigidos pela SEMTRAN para acompanhamento da operação;
+
+
+VII –
+
+operar com veículos sujos interna ou externamente, ou molhados internamente;
+
+
+VIII –
+
+não providenciar meios de transporte para os usuários, em qualquer caso de interrupção de viagem, no prazo máximo de 30 (trinta) minutos;
+
+
+IX –
+
+deixar de realizar prontamente a retirada do veículo avariado da via pública após o registro da ocorrência;
+
+
+X –
+
+abastecer ou efetuar a manutenção do veículo com usuários a bordo;
+
+
+XI –
+
+realizar ou fazer manutenção nos veículos em via pública, exceto em casos de manutenções simples e emergenciais;
+
+
+XII –
+
+recusar o transporte de beneficiário de gratuidade, ou efetuar a cobrança da passagem, tendo o mesmo apresentado a devida identificação;
+
+
+XIII –
+
+deixar de fornecer o troco corretamente ou negá-lo ao usuário, nos casos em que não seja ultrapassado o troco máximo estabelecido na legislação;
+
+
+XIV –
+
+deixar de informar previamente à SEMTRAN a realização de alterações de localização de sede, garagem, oficina e demais instalações.
+
+
+Art. 12.
+
+São consideradas infrações de natureza Média, tendo como penalidade na 1ª Ocorrência: Advertência e na 2ª Ocorrência: Multa de 15 (quinze) UPF’s:
+
+
+I –
+
+movimentar o veículo sem que as portas estejam totalmente fechadas;
+
+
+II –
+
+trafegar com as portas abertas;
+
+
+III –
+
+abrir as portas para desembarque com o veículo em movimento;
+
+
+IV –
+
+não aguardar o embarque e desembarque dos usuários;
+
+
+V –
+
+utilizar veículos em desacordo com a padronização exigida;
+
+
+VI –
+
+utilizar veículos não dispondo do modelo de identificação estabelecido pela SEMTRAN;
+
+
+VII –
+
+permitir o transporte de usuários sem o pagamento de tarifa, ressalvadas as exceções previstas em legislação;
+
+
+VIII –
+
+deixar de manter os veículos em adequado estado de funcionamento, conservação e limpeza, quando em operação;
+
+
+IX –
+
+não proporcionar condições dignas e seguras de trabalho aos funcionários;
+
+
+X –
+
+ausência de equipamentos obrigatórios no veículo, ou equipamentos em más condições;
+
+
+XI –
+
+falta ou má conservação dos corrimões internos;
+
+
+XII –
+
+falta ou má conservação dos balaústres para embarque e desembarque de passageiros;
+
+
+XIII –
+
+falta ou má conservação dos assentos ou encostos dos bancos;
+
+
+XIV –
+
+falta ou má conservação dos forros internos do teto e laterais;
+
+
+XV –
+
+falta ou má conservação da iluminação interna;
+
+
+XVI –
+
+veículo com o piso furado ou revestimento estragado;
+
+
+XVII –
+
+não se manter com decoro moral e ético com relação ao público em geral, especialmente com funcionários credenciados pela SEMTRAN;
+
+
+XVIII –
+
+defeito, má conservação ou uso da catraca fora das condições previstas.
+
+
+Parágrafo único
+
+São consideradas, ainda, infrações de natureza Média, tendo como penalidade na 1ª Ocorrência: Multa de 15 (quinze) UPF’s e na 2ª Ocorrência: Multa de 30 (trinta) UPF’s:
+
+
+I –
+
+deixar de apresentar o veículo à vistoria na data e horário estabelecidos;
+
+
+II –
+
+deixar de cumprir os terminais e pontos de paradas determinados pelo órgão gestor;
+
+
+III –
+
+realizar, com atraso, operações especiais, quando determinadas pela SEMTRAN;
+
+
+IV –
+
+atrasar ou adiantar o horário da viagem do veículo constante no Quadro de Horário, sem motivo justificado durante a operação do serviço;
+
+
+V –
+
+não propiciar condições para que o veículo opere nos horários previstos e autorizados;
+
+
+VI –
+
+desviar ou interromper itinerários antes do seu ponto final;
+
+
+VII –
+
+não prestar informações solicitadas ou fazê-lo de forma incorreta aos usuários e fiscais da SEMTRAN;
+
+
+VIII –
+
+veículo indisponível na garagem para afixação de avisos e de outros elementos de comunicação, de interesse do usuário ou do público geral, quando determinado pela SEMTRAN;
+
+
+IX –
+
+defeito na saída de emergência;
+
+
+X –
+
+defeito ou mau funcionamento das portas de embarque e desembarque;
+
+
+XI –
+
+defeito do elevador de acessibilidade (PCD) ou este inutilizado ou retirado;
+
+
+XII –
+
+deixar de comunicar, no prazo máximo de 01 (um) dia útil, ocorrência de acidentes com os veículos, havendo ou não vítimas;
+
+
+XIII –
+
+deixar de provisionar o suprimento de troco nos veículos destinado aos usuários;
+
+
+XIV –
+
+cobrar tarifa superior à autorizada com a finalidade de sonegar troco;
+
+
+XV –
+
+omitir informações sobre irregularidades do serviço de que tenham conhecimento;
+
+
+XVI –
+
+recusar-se a fornecer as informações ou apresentar os documentos necessários;
+
+
+XVII –
+
+deixar de cumprir a regularização da Notificação no prazo estabelecido;
+
+
+XVIII –
+
+deixar de cumprir as determinações especificadas nas Ordens de Serviços;
+
+
+XIX –
+
+fazer ponto de embarque/desembarque, terminal ou Ponto de Controle em local não autorizado;
+
+
+XX –
+
+interromper a viagem, durante a operação, sem motivo justo;
+
+
+XXI –
+
+deixar de apresentar ou retardar deliberadamente a entrega à SEMTRAN, nas condições e prazos fixados, informações, relatórios, demonstrativos e documentos da Concessionária, relativos ao serviço;
+
+
+XXII –
+
+recusar-se ou fornecer fora dos prazos a apresentação de documentos ou prestar informações à fiscalização;
+
+
+XXIII –
+
+falta ou defeito do odômetro ou tacógrafo ou tacômetro;
+
+
+XXIV –
+
+manter veículo em operação com emissão excessiva de fumaça;
+
+
+XXV –
+
+transitar com falta da tampa do reservatório de combustível ou tampa defeituosa, derramando combustível na via pública;
+
+
+XXVI –
+
+realizar serviços eventuais fora dos critérios estabelecidos pela SEMTRAN;
+
+
+XXVII –
+
+fornecer dados relativos ao efetivo controle operacional do serviço fora das condições e prazos estabelecidos;
+
+
+XXVIII –
+
+não deixar representante da manutenção disponível na garagem, na data e horário determinados pela SEMTRAN, para acompanhamento da conferência de Notificações;
+
+
+XXIX –
+
+impedir ou dificultar o embarque de usuários que já efetuaram o pagamento da passagem em outro veículo, o qual teve sua viagem interrompida, sem o pagamento de outra passagem;
+
+
+XXX –
+
+deixar de colaborar com as autoridades encarregadas da segurança pública;
+
+
+XXXI –
+
+permitir a operação de veículo que apresente más condições de operação, comprometendo a segurança dos usuários;
+
+
+XXXII –
+
+veículo circulando com vidros quebrados;
+
+
+XXXIII –
+
+veículo circulando com excesso de lotação;
+
+
+XXXIV –
+
+divulgar nos veículos mensagens, publicações e/ou publicidades sem prévia autorização da SEMTRAN, ou fazê-lo em desacordo com as normas ou especificações da administração;
+
+
+XXXV –
+
+não apresentar à vistoria veículo a ser substituído;
+
+
+XXXVI –
+
+não possuir facilidade para embarque e desembarque dos usuários idosos ou pessoas com deficiência;
+
+
+XXXVII –
+
+Ausência do fiscal despachante no local de trabalho, enquanto do funcionamento dos veículos dentro do Terminal respectivo.
+
+
+XXXVIII –
+
+deixar de dar publicidade a Ordem de Serviço (OS) em vigor com antecedência mínima de 72 h (setenta e duas horas);
+
+
+XXXIX –
+
+deixar de manter frota reserva em condições de operação;
+
+
+XL –
+
+não cumprir o quadro de horário determinado pelo órgão gestor;
+
+
+XLI –
+
+desobedecer a frequência preestabelecida entre os veículos sucessivos no quadro de horário;
+
+
+XLII –
+
+deixar de colocar em operação a frota estabelecida.
+
+
+Art. 13.
+
+São consideradas infrações de natureza Grave, tendo como penalidade na 1ª Ocorrência: Multa de 50 (cinquenta) UPF’s e na 2ª Ocorrência: Multa de 100 (cem) UPF’s:
+
+
+I –
+
+não permitir, dificultar ou deixar de auxiliar o pessoal da SEMTRAN, na realização de estudos ou fiscalização;
+
+
+II –
+
+determinar a partida do veículo para itinerário diverso do definido;
+
+
+III –
+
+alterar itinerário, pontos de parada ou terminais sem o prévio consentimento da SEMTRAN, exceto em casos de força maior em que deverá comunicar imediatamente à SEMTRAN, detalhando os problemas;
+
+
+IV –
+
+deixar de socorrer o usuário em caso de acidente;
+
+
+V –
+
+não permitir ou dificultar o serviço da fiscalização;
+
+
+VI –
+
+obstar a realização de estudos ou de auditoria por pessoal credenciado pela SEMTRAN, quando devidamente comunicada com antecedência mínima de 48 h (quarenta e oito horas);
+
+
+VII –
+
+não acatar as determinações do órgão gestor;
+
+
+VIII –
+
+recusar-se a receber ou impedir que outro receba documentos emitidos pelo órgão gestor;
+
+
+IX –
+
+descumprir os prazos estipulados pela SEMTRAN para fase de testes, implantação e adequação do sistema de controle operacional;
+
+
+X –
+
+deixar de transmitir à SEMTRAN, na forma especificada por ela, ou transmitir com adulteração, os dados coletados pelo sistema de controle operacional, uma vez concluída a fase de testes do sistema;
+
+
+XI –
+
+descumprir regulamentação estabelecida para os tacógrafos;
+
+
+XII –
+
+não realizar operações especiais, sempre que determinadas pela SEMTRAN;
+
+
+XIII –
+
+abandonar o veículo, durante a operação, sem motivo justo;
+
+
+XIV –
+
+deixar de tratar com o devido respeito os usuários com mobilidade reduzida;
+
+
+XV –
+
+descumprir o Regulamento, Portarias, Determinações, Normas, Instruções Complementares, Ordens de Serviço, Notificações e Intimações emanadas pela SEMTRAN;
+
+
+XVI –
+
+criar novas linhas ou promover modificações nas linhas existentes sem autorização da SEMTRAN;
+
+
+XVII –
+
+deixar de veicular publicações, mensagens e/ou publicidades nos veículos, quando determinadas pela SEMTRAN;
+
+
+XVIII –
+
+deixar de informar à população e aos usuários modificações nas linhas ou na forma de prestação do serviço com antecedência mínima de 10 (dez) dias;
+
+
+XIX –
+
+permitir que o veículo circule sem alvará ou com o mesmo vencido;
+
+
+XX –
+
+desacatar e/ou desrespeitar a fiscalização da SEMTRAN;
+
+
+XXI –
+
+desrespeitar o preço das passagens em vigor, com exceção de casos autorizados pela SEMTRAN.
+
+
+XXII –
+
+comercializar qualquer tipo de passagem sem autorização da SEMTRAN;
+
+
+XXIII –
+
+utilizar veículos exibindo o modelo de identificação estabelecido pela SEMTRAN em serviços estranhos ao Serviço de Transporte Coletivo por Ônibus do Município de Porto Velho;
+
+
+XXIV –
+
+manter em operação o veículo com o instrumento contador de passageiros avariado;
+
+
+XXV –
+
+veículo com defeito ou sem o GPS, câmera ou telemetria.
+
+
+Art. 14.
+
+São consideradas infrações de natureza Gravíssima, tendo como penalidade na 1ª Ocorrência: Multa de 100 (cem) UPF’s e na 2ª Ocorrência: Multa de 200 (duzentas) UPF’s:
+
+
+I –
+
+impossibilitar ou dificultar a ação fiscalizadora, mediante coação física ou moral;
+
+
+II –
+
+operar em linha ou itinerários alheios, exceto nos casos previstos no Edital, no Contrato e nas ordens de serviços emitidas pelo órgão gestor;
+
+
+III –
+
+descumprir determinação da SEMTRAN para aumento de viagens em segmentos horários;
+
+
+IV –
+
+agredir ou tentar agredir moral ou fisicamente qualquer agente da fiscalização, passageiros ou colegas de trabalho;
+
+
+V –
+
+deixar de realizar a quantidade mínima de viagens estabelecida para um segmento horário;
+
+
+VI –
+
+operar com veículos não registrados na SEMTRAN;
+
+
+VII –
+
+não submeter à vistoria veículo que tenha sofrido acidente que comprometa a segurança;
+
+
+VIII –
+
+operar serviço de transporte público coletivo urbano em Porto Velho não autorizado pela SEMTRAN;
+
+
+IX –
+
+operar com veículos de idade superior ao limite estabelecido, salvo autorização expressa da SEMTRAN;
+
+
+X –
+
+deixar de comunicar à SEMTRAN a retirada do veículo de operação ou o seu retorno;
+
+
+XI –
+
+preencher os documentos exigidos pela SEMTRAN para acompanhamento da operação com adulteração dos dados;
+
+
+XII –
+
+manter em operação veículos cuja retirada de operação tenha sido determinada;
+
+
+XIII –
+
+apresentar documento falsificado ou adulterado;
+
+
+XIV –
+
+portar ou manter no veículo ou na cabine do despachante arma de qualquer espécie;
+
+
+XV –
+
+violar os instrumentos contadores de passageiros, tacógrafos e lacres;
+
+
+XVI –
+
+permitir que seu preposto exerça a função em estado de embriaguez ou sob efeito de substâncias tóxicas de qualquer natureza;
+
+
+XVII –
+
+fraudar o sistema de registro de passageiros de forma a alterar a quantidade de passageiros contabilizados;
+
+
+XVIII –
+
+fornecer informações contábeis fraudulentas ou manipuladas;
+
+
+XIX –
+
+deixar de comunicar ao órgão gerencial alterações contratuais e mudanças de membros da diretoria.
+
+
+#### CAPÍTULO II — DAS AUTUAÇÕES E DOS RECURSOS
+
+
+Art. 15.
+
+O auto de infração será lavrado no momento em que for constatada a falta e conterá:
+
+
+I –
+
+nome da empresa;
+
+
+II –
+
+número de ordem ou placa do veículo, quando indispensável para caracterizar a infração;
+
+
+III –
+
+local, data e hora da infração;
+
+
+IV –
+
+dispositivo legal que tipifica a infração;
+
+
+V –
+
+prazo para defesa;
+
+
+VI –
+
+assinatura do atuante;
+
+
+VII –
+
+se possível, a ciência do infrator ou na recusa a assinatura de duas testemunhas.
+
+
+§ 1º
+
+Constará de três vias o auto de infração, destinando-se, a 1ª via ao infrator, 2ª via ao gestor e a 3ª via ficará no talonário a ser arquivado.
+
+
+§ 2º
+
+Ao lavrar o auto de infração, o fiscal autuador deverá descrever, em relatório complementar, a situação observada que originou à aplicação da penalidade.
+
+
+Art. 16.
+
+Lavrado o auto de infração, este não poderá ser inutilizado, nem sustado o recurso de processo correspondente.
+
+
+Art. 17.
+
+A autuação não desobriga a empresa de corrigir imediatamente a falha apontada, podendo ser novamente autuada.
+
+
+Art. 18.
+
+A falta de um dos requisitos de preenchimento do auto de infração previstos no Art. 15 deste Decreto, não o torna nulo.
+
+
+Art. 19.
+
+Das penalidades aplicadas pela SEMTRAN caberá recurso no prazo de 30 (trinta) dias consecutivos contados da data do recebimento da notificação, sendo ela por meio pessoal, postal, eletrônico ou publicada no Diário Oficial do Município – DOM.
+
+
+Parágrafo único
+
+O recurso apresentado tempestivamente supre omissão ou qualquer defeito da intimação e terá efeito suspensivo até o trânsito em julgado da decisão administrativa.
+
+
+Art. 20.
+
+Não incidirá cobrança moratória enquanto não for encerrada a instância administrativa de julgamento de infrações e penalidades.
+
+
+Art. 21.
+
+O sujeito passivo que não impugnar no prazo estabelecido as exigências formalizadas por meio do Auto de Infração e não realizar o pagamento será considerado revel.
+
+
+§ 1º
+
+A revelia será declarada de ofício pelo setor responsável e remetida para cobrança administrativa.
+
+
+§ 2º
+
+Na decretação da revelia serão analisados os aspectos formais do instrumento constitutivo do crédito e da cientificação correspondente, cuja decretação legitima os atos praticados pela Administração, em conformidade com o definido em Regulamento.
+
+
+Art. 22.
+
+No recurso, o intimado alegará, por escrito, de uma só vez a matéria que entender útil, indicando ou requerendo as provas que pretender produzir, juntando, desde logo, as que possuir.
+
+
+Art. 23.
+
+É vedado reunir, em uma só petição, impugnação ou defesa referentes a mais de uma infração, ainda que versando sobre o mesmo assunto e alcançando o mesmo contribuinte.
+
+
+Art. 24.
+
+Após a apresentação do recurso, os autos serão encaminhados à Comissão de Apuração de Auto de Infração – CAAI.
+
+
+Art. 25.
+
+O recurso apresentado intempestivamente será arquivado, sem conhecimento de seus termos, dando-se ciência do fato ao interessado, mediante o Termo de Intempestividade.
+
+
+Art. 26.
+
+Será facultado ao sujeito passivo ou seu representante legal, vistas ao processo, no recinto da repartição, extraindo-se cópia física ou digital, quando requerido, arcando este com o respectivo custo.
+
+
+Art. 27.
+
+O recurso poderá ser interposto pelo responsável legal da empresa, seu preposto ou por procurador munido do respectivo instrumento de mandato com poderes específicos para sua interposição.
+
+
+Art. 28.
+
+Salvo exigência legal, a interposição do recurso independe de caução.
+
+
+Art. 29.
+
+Das decisões da CAAI não cabe recurso ou pedido de reconsideração.
+
+
+Art. 30.
+
+Decorrido o prazo sem a interposição de recursos, ou do indeferimento do recurso proposto, o valor da multa deverá ser pago dentro do prazo de 30 (trinta) dias, sob pena de sua inscrição em dívida ativa.
+
+
+Parágrafo único
+
+A restituição de valores oriundos de recursos providos, cancelamento de Auto de Infração, pagamento em duplicidade ou lançamento incorreto, será feita ao contribuinte que comprovar o pagamento ou à sua ordem nos termos da legislação vigente da Secretaria de Fazenda do Município de Porto Velho e de acordo com o previsto no Código Tributário Municipal.
+
+
+Art. 31.
+
+Ato do Poder Executivo regulamentará no que couber as disposições da aplicação desta Lei Complementar.
+
+
+Art. 32.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+

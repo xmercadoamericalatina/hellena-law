@@ -1,0 +1,86 @@
+---
+titulo: "Lei Ordinária Municipal Legislativa nº 108, de 16 de junho de 1986"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal Legislativa"
+numero: "108"
+data: "1986-06-16"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5314"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/308/text"
+sha256_fonte: "3339565478d87a3e6f0ca792b5ef95465efa2a6afcaa33e46f8568f87c603444"
+sha256_texto: "2a2e6ef6b7939ec884b2150b35586bde9d22890ec415d1d74bf593f9e388619b"
+capturado_em_fonte: "2026-10-21T04:21:50.939826-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal Legislativa nº 108, de 16 de junho de 1986
+
+OBRIGA A PREFEITURA MUNICIPAL DE ERECHIM A ARBORIZAR, PARA O FUTURO, TODOS OS LOGRADOUROS PÚBLICOS MUNICIPAIS COM ESSÊNCIAS FLORESTAIS NATIVAS DA REGIÃO.
+
+
+WILSON JOSÉ TONIN, Presidente da Câmara Municipal de Erechim, Estado do Rio Grande do Sul, FAÇO SABER, que na forma do previsto nos artigo 94, 95, e 97 inciso 2º da Lei Orgânica do Município, promulgo a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Poder Público Municipal de Erechim obrigado a arborizar, a partir da publicação desta Lei, todos - os logradouros Públicos Municipais com essências florestais nativas da região.
+
+
+Parágrafo único
+
+Nessa arborização dar-se-a preferência às árvores frutíferas silvestres da região.
+
+
+Art. 2º.
+
+A Prefeitura Muncipal de Erechim, por ocasião de aberturas de novas ruas, novas praças ou na implantação de asfalto ou calçamento em logradouros públicos já existentes, deverá, paralelamente, realizar um estudo paisagístico para uma arborização com essências florestais nativas, adequadas a cada lugar, rua, avenida ou praça.
+
+
+Art. 3º.
+
+Em pontos estratégicos da cidade ou devidamente selecionados para isso de domínio público e que não impeçam a visibilidade para o trânsito, a Prefeitura deverá plantar pés de ERVA MATE.
+
+
+Parágrafo único
+
+Esses pés de Erva Mate deverão ser conduzidos para que se tornem árvores bem copadas, e esporadicamente sua erva colhida, sob a supervisão de um técnico no assunto, eis que a ERVA-MATE é o símbolo do Rio Grande.
+
+
+Art. 4º.
+
+As árvores existentes nos Logradouros Públicos Municipais, à medida que fenecerem, serão substituídas paulatinamente, de acordo com o artigo primeiro e seu parágrafo único da presente Lei.
+
+
+Art. 5º.
+
+Revogam-se às disposições em contrário.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua Publicação.
+
+
+CÂMARA MUNICIPAL DE VEREADORES, EM 16 DE JUNHO, DE 1.986  
+  
+  
+WILSON JOSÉ TONIN  
+Presidente
+
+
+REGISTRE-SE E PUBLIQUE-SE  
+Data Supra  
+  
+  
+ALDÉRICO ALBINO MIOLA NERY GASPARIN  
+1º Secrerário 2º Secretário
+

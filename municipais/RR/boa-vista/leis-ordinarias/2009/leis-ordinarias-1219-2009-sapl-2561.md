@@ -1,0 +1,187 @@
+---
+titulo: "Lei Ordinária nº 1.219, de 28 de dezembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1219"
+data: "2009-12-28"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/2561"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/61/text"
+sha256_fonte: "67886d5a6d1dd7ec45a4e5cdd45982cb5be2c6208dd60ad4fcc08dd78e0164d3"
+sha256_texto: "18ef3f0fc0dceaa83708acfa5b50749db4768e1eb6fb226473fbd6321e7315bb"
+capturado_em_fonte: "2026-10-20T23:34:28.904645"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 1.219, de 28 de dezembro de 2009
+
+AUTORIZA O PODER EXECUTIVO DO MUNICÍPIO DE BOA VISTA A CONCEDER ESTÁGIO REMUNERADO A ESTUDANTES NOS TERMOS DA LEI FEDERAL N.º 11.788, DE 25 DE SETEMBRO DE 2008, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO MUNICIPAL DE BOA VISTA, no uso de suas atribuições legais e, conformidade com o disposto no art. 62, inciso IV, da Lei Orgânica do Município, faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte,
+
+LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo do Municipal autorizado a conceder estágio remunerado a estudantes que estejam freqüentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos, nos termos da Lei Federal n.º 11.788, de 25 de setembro de 2008.
+
+
+Parágrafo único
+
+Para fazer jus à concessão do estágio, o estudante deverá atender aos critérios estabelecidos na Legislação Federal que dispõe sobre o estágio de estudantes, bem como, aos critérios e normas do Município estipulados nesta Lei.
+
+
+Art. 2º.
+
+O número de estagiários em atividades nos órgãos da administração direta e indireta do Município, não poderá exceder em quantidade, a vinte por cento (20%) do total de servidores do quadro efetivo.
+
+
+Parágrafo único
+
+Fica assegurado às pessoas portadoras de deficiência o percentual de cinco por cento (5%) das vagas oferecidas pelo Município.
+
+
+Art. 3º.
+
+O estágio previsto nesta Lei, não cria vínculo empregatício de qualquer natureza, e deve atender os seguintes requisitos:
+
+
+I –
+
+matrícula e freqüência regular do educando em curso superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos e atestados pela instituição;
+
+
+II –
+
+celebração de termo de compromisso entre o estudante, o Município como parte concedente e a instituição de ensino;
+
+
+III –
+
+compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
+
+
+Parágrafo único
+
+O estagiário deverá, além de submeter-se ao controle de efetividade, apresentar bimestralmente atestado de freqüência emitido pela instituição de ensino.
+
+
+Art. 4º.
+
+O Município se responsabilizará pela contratação de seguro contra acidentes pessoais em favor do estagiário, cuja apólice seja compatível com valor de mercado, conforme estabelecido no termo de compromisso.
+
+
+Art. 5º.
+
+A jornada de atividade em estágio deve contar do termo de compromisso, ser compatível com as atividades escolares e não ultrapassar:
+
+
+I –
+
+4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos.
+
+
+II –
+
+6 (seis) horas diárias e 30 (trinta horas) semanais, no caso de estudante do ensino superior, da educação profissional de nível médio e do ensino médio regular.
+
+
+Art. 6º.
+
+A duração do estágio, no Município, não poderá exceder 2 (dois) anos, exceto quando se tratar de estagiário portador de deficiência.
+
+
+Art. 7º.
+
+O estagiário receberá bolsa auxílio e auxílio transporte, exceto na hipótese de estar cumprindo estágio curricular obrigatório.
+
+
+Art. 8º.
+
+A bolsa auxílio concedida aos estagiários pelo Município de Boa Vista, terá os seguintes valores mensais:
+
+
+I –
+
+estudantes dos anos finais do ensino fundamental, do ensino médio e da educação especial:
+
+
+a)
+
+jornada de atividade de 20 (vinte) horas semanais: R$ 250,00 (duzentos e cinqüenta reais);
+
+
+b)
+
+jornada de atividade de 30 (trinta) horas semanais: R$ 350,00 (trezentos e cinqüenta reais);
+
+
+II –
+
+estudantes do ensino técnico-profissional:estudantes do ensino técnico-profissional:
+
+
+a)
+
+jornada de atividade de 20 (vinte) horas semanais: R$ 300,00 (trezentos reais);
+
+
+b)
+
+jornada de atividade de 30(trinta) horas semanais: R$ 420,00 ( quatrocentos e vinte reais);
+
+
+III –
+
+estudantes de ensino superior:
+
+
+a)
+
+jornada de atividade de 20 (vinte) horas semanais: R$ 400,00 (quatrocentos reais);
+
+
+b)
+
+jornada de atividade de 30 (trinta) horas semanais: R$ 600,00 (seiscentos reais);
+
+
+Art. 9º.
+
+É assegurado ao estagiário, sempre que o estágio tenha duração igual ou superior a 1 (um) ano, período de recesso de 30 (trinta) dias, a ser gozado preferencialmente durante suas férias escolares.
+
+
+§ 1º
+
+O recesso de que trata este artigo deverá ser remunerado quando o estagiário receber bolsa ou outra forma de contraprestação.
+
+
+§ 2º
+
+Os dias de recesso previstos neste artigo serão concedidos de maneira proporcional, nos casos de o estágio ter duração inferior a 1 (um) ano.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Revogam-se as disposições em contrário, especialmente o art. 85, parágrafo único, da Lei Municipal n.º 1043, de 21 de maio de 2008.
+
+
+Gabinete do Prefeito de Boa Vista, em 28 de dezembro de 2009.
+
+*IRADILSON SAMPAIO DE SOUZA*
+
+Prefeito de Boa Vista
+

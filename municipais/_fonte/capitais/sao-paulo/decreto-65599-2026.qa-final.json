@@ -1,0 +1,11 @@
+{
+  "paginas": 232,
+  "tokens_fonte": 146958,
+  "tokens_md": 146958,
+  "tokens_em_ordem_identicos": true,
+  "numeros_removidos": 232,
+  "criterio_remocao": "Somente primeira linha não vazia igual ao fólio sequencial de cada página. Valores numéricos internos preservados, incluindo26 na tabela da página232 e0 na página229.",
+  "formato": "anexo em bloco preformatado, conserva colunas e tabelas; texto não recebeu OCR",
+  "qa_anterior_rejeitada": "decreto-65599-2026.qa-rejeitada.json excluía indevidamente7valores internos via conversor comum; MD rejeitado SHA5a2c5c2d6374461da2eb17e49d088bbaebdb2763cc7212996149f1f384e9e6e3",
+  "sha256_md": "01bc9730d8c6071390d3565c304da61fabd36c901908f772c915082b6db97649"
+}

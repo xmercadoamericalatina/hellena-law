@@ -1,0 +1,246 @@
+---
+titulo: "Decreto nº 19.145, de 14 de julho de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.145"
+data: "2023-07-14"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25467"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8061/text"
+sha256_fonte: "f74447d022d758328293618a2a92890ef3d137416dcebad6cbbea7cb406008e2"
+sha256_texto: "76f878ad0ffac82ffcdffbe6f16cffa4e26a990d4a23179f64452bea2e4453fd"
+capturado_em_fonte: "2026-10-21T05:27:18.782753-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.145, de 14 de julho de 2023
+
+Institui o Comitê Gestor de Privacidade e Proteção de Dados Pessoais no âmbito da Administração Pública Municipal direta, autárquica e fundacional do Poder Executivo do Município de Porto Velho.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é  
+conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+
+**CONSIDERANDO** os efeitos cogentes na Lei Federal n.º 13.709, de 14 de agosto de 2018 – Lei Geral de Proteção de Dados Pessoais – LGPD;
+
+
+**CONSIDERANDO** o disposto no Decreto nº 18.310, de 1º de agosto de 2022, que dispõe sobre a adoção de medidas para aplicação da Lei Geral de Proteção de Dados Pessoais;
+
+
+**CONSIDERANDO** a competência suplementar dos Municípios à legislação federal e a estadual no que couber, prevista no Art. 30, inciso II, da Constituição Federal de 1988.
+
+**DECRETA**:
+
+
+Art. 1º.
+
+Fica instituído o Comitê Gestor de Privacidade e Proteção de Dados Pessoais no âmbito da Administração Pública Municipal direta, autárquica e fundacional do Poder Executivo do Município de Porto Velho.
+
+
+Art. 2º.
+
+O Comitê ora instituído será integrado pelos servidores abaixo relacionados, sob a Coordenação da Secretaria-Geral de Governo, nos termos do art. 15 e incisos do Decreto n.º 18.310/2022:
+
+
+I –
+
+Representantes da Secretaria Geral de Governo – SGG, Coordenador:
+
+
+a)
+
+Titular: Moacyr Rodrigues Pontes Netto;
+
+
+b)
+
+Suplente: Alan Almeida do Amaral.
+
+
+II –
+
+Representantes da Superintendência Municipal de Tecnologia da Informação e Pesquisa –  
+SMTI:
+
+
+a)
+
+Titular: Eric Zanovello;
+
+
+b)
+
+Suplente: Clóvis Pereira Aguiar Júnior.
+
+
+III –
+
+Representantes da Ouvidoria Geral do Município:
+
+
+a)
+
+Titular: Luciane Szymczak;
+
+
+b)
+
+Suplente: Maria do Socorro Perpétuo Neves.
+
+
+IV –
+
+Representantes da Procuradoria Geral do Município – PGM:
+
+
+a)
+
+Titular: Luciano Vales do Nascimento;
+
+
+b)
+
+Suplente: André Henrique Torres Soares de Melo.
+
+
+V –
+
+Representantes da Controladoria Geral do Município – CGM:
+
+
+a)
+
+Titular: Louise Fernanda Oliveira Araújo Gomes;
+
+
+b)
+
+Suplente: Manoel Jesus do Nascimento.
+
+
+VI –
+
+Representantes da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG:
+
+
+a)
+
+Titular: Raísa Tavares Thomaz;
+
+
+b)
+
+Suplente: Letícia Agnes Gonçalves Barros.
+
+
+VII –
+
+Representantes da Secretaria Municipal da Fazenda – SEMFAZ:
+
+
+a)
+
+Titular: Richardson Peixoto Ribeiro;
+
+
+b)
+
+Suplente: Huéliton Mendes Rodrigues.
+
+
+VIII –
+
+Representantes da Secretaria Municipal de Saúde – SEMUSA:
+
+
+a)
+
+Titular: Vinicius Rocha de Almeida;
+
+
+b)
+
+Suplente: Naiane Lima Santos Kemp.
+
+
+IX –
+
+Representantes da Secretaria Municipal de Educação – SEMED:
+
+
+a)
+
+Titular: Rosalina Trajano Diniz;
+
+
+b)
+
+Suplente: Sandra Regina Bezerra Correia.
+
+
+X –
+
+Representantes da Secretaria Municipal de Assistência Social e Família – SEMASF:
+
+
+a)
+
+Titular: Jucimar Moraes Rodrigues Queiroz;
+
+
+b)
+
+Suplente: Reinaldo Melo do Lago Júnior.
+
+
+X - Representantes da Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN:
+
+a) Titular: Débora Cândida de Paula;
+
+b) Suplente: Luiz Carlos Gaudeda Junior.
+
+
+XI –
+
+Representantes da Secretaria Municipal de Administração – SEMAD:
+
+
+a)
+
+Titular: Magda Fontoura Do Nascimento Rabelo;
+
+
+b)
+
+Suplente: Sheila Lucia Marques Da Silva Farias Braga.
+
+
+Parágrafo único
+
+A CGM, PGM e SMTI, quando solicitadas, empreenderão todo o apoio técnico necessário ao pleno desempenho do objeto deste Decreto.
+
+
+Art. 3º.
+
+Os trabalhos do Comitê Gestor de Privacidade e Proteção de Dados Pessoais deverão se pautar pelos princípios da supremacia do interesse público e da eficiência, bem como desempenhando suas atribuições.
+
+
+Art. 4º.
+
+Os membros designados para integrar o Comitê Gestor de Privacidade e Proteção de Dados Pessoais, não farão jus à gratificação por encargos, sendo os trabalhos considerados de interesse público relevante.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES Prefeito**
+

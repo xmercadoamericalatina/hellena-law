@@ -1,0 +1,98 @@
+---
+titulo: "Lei nº 3.082, de 01 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3082"
+data: "2023-09-01"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25706"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5245/text"
+sha256_fonte: "91fa2fff32abf687daea98d721a7b5e26e543a5c40d2d12dc4594591087cdf09"
+sha256_texto: "86be924ab5052e939eee45f0623cbbbed46595505992f349ba877b7a95392377"
+capturado_em_fonte: "2026-10-21T05:12:55.466249-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 3.082, de 01 de setembro de 2023
+
+Cria o Índice de Segurança das Escolas Municipais de Porto Velho e dá outras providências.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou, e eu, Vereador MÁRCIO PACELE, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+LEI :
+
+
+Art. 1º.
+
+Fica criado o Índice de Segurança das Escolas Municipais no âmbito do Município de Porto Velho.
+
+
+Art. 2º.
+
+Cada unidade escolar, por meio de seu gestor, informará à Secretaria Municipal de Educação o nível de segurança e violência dentro da unidade e no entorno dela, visando à construção do índice supracitado.
+
+
+Parágrafo único
+
+A informação citada no caput deste artigo dar-se-á de forma em que o responsável pela unidade escolar atribuirá, anualmente, uma nota de zero a dez para o nível de segurança percebido no interior e no entorno da escola, correspondendo às seguintes notas:
+
+
+I –
+
+de zero a três: nenhuma segurança/muita violência;
+
+
+II –
+
+de quatro a seis: relativa segurança/violência em situações excepcionais;
+
+
+III –
+
+de sete a dez: total segurança/nenhuma violência.
+
+
+Art. 3º.
+
+O índice citado no art. 1º desta Lei será construído pela Secretaria Municipal de Educação a partir das informações fornecidas pela unidade escolar municipal e terá seus resultados publicados no Site Oficial do Município na Internet.
+
+
+§ 1º
+
+Os resultados publicados deverão conter a nota atribuída em cada unidade escolar e a média geral.
+
+
+§ 2º
+
+A partir da segunda publicação dos resultados, esta deverá conter as médias de cada unidade escolar e a média geral das últimas publicações, permitindo o comparativo e o atingimento dos objetivos da existência do índice, identificando pontos de melhora e de piora, regiões críticas e áreas com iniciativas bem-sucedidas a serem reproduzidas.
+
+
+Art. 4º.
+
+A publicação do Índice de Segurança das Escolas Municipais ficará a critério da Secretaria de Educação, devendo escolher o mês e a data para divulgação do índice, a partir do ano posterior ao da publicação desta Lei.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal regulamentará a presente Lei no que couber.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 01 de setembro de 2023.
+
+**Vereador Márcio Pacele Vieira da Silva Vereador/Presidente**
+
+Projeto de Lei nº 4.477/2023  
+Vereador Edwilson Negreiros.
+

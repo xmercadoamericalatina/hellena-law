@@ -1,0 +1,66 @@
+---
+titulo: "Decreto nº 18.316, de 02 de agosto de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.316"
+data: "2022-08-02"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/20210"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10007/text"
+sha256_fonte: "6089617af0fc6213f6c0b9b3a945ee9f5099a843e93332954694386f9359e15e"
+sha256_texto: "976a3afdf6cf794d054143b8c5a1fa2323ca6af0dfca1e0e58416d5dccf3cbb1"
+capturado_em_fonte: "2026-10-21T06:22:05.378154-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 18.316, de 02 de agosto de 2022
+
+Acrescenta dispositivos ao Regimento Interno da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG, aprovado pelo Decreto nº 15.429, de 03 de setembro de 2018, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe confere no inciso IV do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** o disposto no § 1º do Art. 7º da Lei Complementar nº 882, de 25 de fevereiro de 2022, que faculta aos Secretários Municipais delegar competências aos servidores de sua Pasta, aos Dirigentes de Órgãos por eles supervisionados, coordenados, orientados e controlados, para a prática de atos administrativos, inclusive a ordenação de despesa, conforme disposto em regulamento.
+
+**RESOLVE:**
+
+
+Art. 1º.
+
+Acrescenta as Subseções I, II e III, e os Arts. 6º-A, 6º-B e 6º-C à Seção I, do Capítulo II, do Título III, do Anexo I, do Decreto nº 15.429, de 03 de setembro de 2018, que passam a vigorar com a seguinte redação:
+
+“Subseção I
+
+Do Subsecretário de Gestão Institucional
+
+**Art. 6º-A** Compete ao Subsecretário de Gestão Institucional a substituição ao Secretario Municipal de Planejamento, Orçamento e Gestão em seus afastamentos, impedimentos legais, dentre outras missões requeridas pelo Prefeito e pelo Secretário Geral de Governo, além das atribuições previstas na legislação vigente.
+
+###### Subseção II — Do Subsecretário de Orçamento
+
+**Art. 6º-B** Compete ao Subsecretário(a) de Orçamento a substituição ao Secretário Municipal de Planejamento, Orçamento e Gestão em seus afastamentos, impedimentos legais, dentre outras missões requeridas determinadas pelo Secretário Municipal de Planejamento, Orçamento e Gestão, além das suas atribuições previstas na legislação vigente, quando o Subsecretario(a) de Gestão Institucional estiver impedido ou ausente.
+
+###### Subseção III — Do Subsecretário de Gestão Planejamento
+
+**Art. 6º-C** Compete ao Subsecretário(a) de Planejamento a substituição ao Secretário Municipal de Planejamento, Orçamento e Gestão em seus afastamentos, impedimentos legais, dentre outras missões requeridas ou determinadas pelo Secretário Municipal de Planejamento, Orçamento e Gestão, além das suas atribuições previstas na legislação vigente, quando o Subsecretario(a) de Orçamento estiver impedido ou ausente.”
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação, com efeitos retroativos à 22 de julho de 2022..
+
+
+Art. 3º.
+
+Revoga-se o Art. 7º do Decreto nº 15.429, de 03 de setembro de 2018.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

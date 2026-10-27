@@ -1,0 +1,248 @@
+---
+titulo: "Decreto nº 20.838, de 10 de março de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.838"
+data: "2025-03-10"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27550"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5673/text"
+sha256_fonte: "a1341aaa83c349267fb12f5e8d09178d538c58fb50c4c5c048ccdb0f8373cd24"
+sha256_texto: "bedef909d5f8951f6e1878ab1214f454e6e2f637ce0122278ced3950cbaded81"
+capturado_em_fonte: "2026-10-21T03:30:53.343489-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.838, de 10 de março de 2025
+
+Dispõe sobre a nomeação de membros do Conselho Municipal dos Direitos da Criança e do Adolescente para o biênio 2025/2026.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. 00600-00007116/2025-68-e.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Nomear, os servidores relacionados abaixo, à função de membro do Conselho Municipal dos Direitos da Criança e do Adolescente:
+
+
+I –
+
+Representantes da Secretaria Municipal de Assistência Social e da Família – SEMASF:
+
+
+a)
+
+SEFRA MARIA BARROS SILVA – Titular;
+
+
+b)
+
+JEFFERSON RYAN FERREIRA DA SILVA DE SENA – Suplente.
+
+
+II –
+
+Representantes da Secretaria Municipal de Educação – SEMED:
+
+
+a)
+
+EDELCILENE LIMA SOUZA COELHO – Titular;
+
+
+b)
+
+EDELCILENE LIMA SOUZA COELHO – Titular;
+
+
+III –
+
+Representantes da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG:
+
+
+a)
+
+LIBERALINA RIBEIRO MONTEIRO – Titular;
+
+
+b)
+
+LEILA NASCIMENTO IZEL – Suplente.
+
+
+IV –
+
+Representante da Secretaria Municipal de Saúde – SEMUSA:
+
+
+a)
+
+KELLY RAQUEL PRZYBSZ – Titular.
+
+
+V –
+
+Representante da Secretaria Municipal da Fazenda – SEMFAZ:
+
+
+a)
+
+SIDNEI FERREIRA JÚNIOR – Titular;
+
+
+b)
+
+CARME GONÇALVES FERNANDES – Suplente.
+
+
+VI –
+
+Representante da Secretaria Municipal de Esporte e Lazer – SEMES:
+
+
+a)
+
+MAURÍCIO REIS ROCHA – Titular;
+
+
+b)
+
+VANDERLEI ROSA TRINDADE – Suplente.
+
+
+VII –
+
+Representante da Secretaria Municipal de Indústria, Comércio, Trabalho e Turismo – SEMDESTUR:
+
+
+a)
+
+JUNAIA FREITA SILVA – Titular;
+
+
+b)
+
+CARLENE SILVA OLIVEIRA – Suplente.
+
+
+VIII –
+
+Representantes do Núcleo de Apoio a Criança com Câncer – NAAC:
+
+
+a)
+
+GILMARA BRITO PEREIRA – Titular;
+
+
+b)
+
+DINÁ CIRIOLI BRANDÃO ALENCAR – Suplente.
+
+
+IX –
+
+Representantes do Conselho Regional do Serviço Social – CRESS:
+
+
+a)
+
+SOLANGE DOS SANTOS FERREIRA ALVES – Titular;
+
+
+b)
+
+SUELY PASSOS DE SOUZA – Suplente.
+
+
+X –
+
+Representantes da Associação de Pais e Amigos dos EXCEPCIONAIS – APAE:
+
+
+a)
+
+ILANA QUÉLEN MARINHO FARIAS Titular;
+
+
+b)
+
+MARIA JOSÉ DA SILVA FALCÃO – Suplente.
+
+
+XI –
+
+Representantes da Associação de Pais e Amigos do Autista de Rondônia – AMA:
+
+
+a)
+
+Representantes da Associação de Pais e Amigos do Autista de Rondônia – AMA:
+
+
+b)
+
+RENATA CAPOTE VIEIRA – Suplente.
+
+
+XII –
+
+Representantes da Caritas Arquidiocezana de Porto Velho – CARITAS:
+
+
+a)
+
+NILDA GIGLIOLA LARA N. D. A DA SILVA PINTO – Titular;
+
+
+b)
+
+ALEXANDRE GARCIA DUARTE – Suplente.
+
+
+XIII –
+
+Representantes do Centro Salesiano Madre Mazzarelo – CESMAZZA:
+
+
+a)
+
+MARIA GORETE MENDES DOS SANTOS – Titular;
+
+
+b)
+
+MARIA JOSÉ DE ANDRADE FREIRE RODRIGUES – Suplente;
+
+
+XIV –
+
+Representantes do Clube SHOTOKAN ESPORTIVO – CHOTOKAN:
+
+
+a)
+
+ERIVELTO DE ALMEIDA DUARTE – Titular;
+
+
+b)
+
+PAULO SÉRGIO MENDES – Suplente.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES Prefeito**
+

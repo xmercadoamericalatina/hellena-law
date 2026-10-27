@@ -1,0 +1,167 @@
+---
+titulo: "Decreto Legislativo nº 222, de 28 de maio de 2002"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "222"
+data: "2002-05-28"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5628"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/743/text"
+sha256_fonte: "879ac879556bb000c7a3658f0bb6f256d472645a5d16777f3eaeb20e7fea5fcb"
+sha256_texto: "5810617b5571f4acb3e087d06887e44100ffda62ac38098e33e443b27cc7c7b4"
+capturado_em_fonte: "2026-10-21T03:55:52.740128-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto Legislativo nº 222, de 28 de maio de 2002
+
+REGULAMENTA A CONCESSÃO E A PRESTAÇÃO DE CONTAS DAS DESPESAS DE GABINETE DE VEREADOR.
+
+
+JOÃO ROSALINO BRISOTTO, Presidente da Câmara Municipal de Erechim, Estado do Rio Grande do Sul,
+
+
+FAZ SABER, que no uso de suas atribuições, e ainda em conformidade com a Legislação vigente, que a Câmara municipal, APROVOU e EU promulgo o seguinte
+
+
+DECRETO LEGISLATIVO
+
+
+Art. 1º.
+
+As despesas com combustível somente serão aceitas dos veículos cadastrados previamente em nome do vereador(a) e/ou do assessor(a) , mediante apresentação do certificado de propriedade ou termo de uso do veículo.
+
+
+§ 1º
+
+O uso do veículo deverá ser exclusivamente nas atividades de gabinete.
+
+
+§ 2º
+
+O valor gasto com combustível por gabinete não poderá ultrapassar 75% do valor da dotação de Material de Consumo, equivalendo a R$ 382,50 (Trezentos e oitenta e dois reais e cinqüenta centavos).
+
+
+§ 3º
+
+Nos comprovantes de despesa de combustível deverá constar a identificação do veículo, a placa e a Quilometragem.
+
+
+§ 4º
+
+A Quilometragem final do mês deverá ser ratificada pelo responsável pela prestação de contas.
+
+
+§ 5º
+
+Em nenhuma hipótese será ultrapassado o teto da dotação orçamentária.
+
+
+Art. 2º.
+
+As despesas com telefone celular do vereador(a) e/ou assessor(a) somente serão aceitas dos telefones que estiverem cadastrados previamente em nome do vereador(a) e/ou do assessor(a) ou com contrato de locação. Para a telefonia fixa, somente serão aceitos os telefones que estiverem instalados no gabinete do vereador.
+
+
+§ 1º
+
+O uso do telefone deverá ser exclusivamente nas atividades de gabinete.
+
+
+§ 2º
+
+Não serão aceitos os telefones que operam por sistema de cartão.
+
+
+§ 3º
+
+considera-se, para fins de comprovação de gasto com telefone, a data de vencimento da conta telefonica.
+
+
+Art. 3º.
+
+Os comprovantes de despesa deverão estar em nome do Gabinete do vereador.
+
+
+Art. 4º.
+
+Os valores a serem empenhados por gabinete obedecerão os seguintes percentuais e valores por dotação:
+
+
+01.01.01.031.001.1.010.3390.30.00.00 - Material de Consumo - 60% = R$ 510,00 (Quinhentos e dez reais) por gabinete.
+
+
+01.01.01.031.001.1. 010.3390.39.00.00 - Outros serviços de Terceiros - Pessoa Jurídica - 40% = R$ 340,00 (Trezentos e quarenta reais) por gabinete, sub-divididos nas seguintes dotações:
+
+
+01.01.01.031.001.1.010.3390.39.10.00 SERVIÇOS DE TELECOMUNICAÇÃO
+
+
+01.01.01.031.001.1.010.3390.39.13.00 SERVIÇOS DE PUBLICIDADE, PROPAGANDA E PROMOÇÃO INSTITUCIONAL.
+
+
+01.01.01.031.001.1.010.3390.39.99.00 - DEMAIS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA.
+
+
+§ 1º
+
+O vereador(a) informará até o último dia útil do mês em curso, através de ofício, o valor a ser empenhado nas rubricas de serviços de Telecomunicação, serviços de publicidade, propaganda e promoção institucional e Demais serviços de Terceiros - pessoa Jurídica para o mês seguinte, observado o limite de R$ 340,00 (Trezentos e quarenta reais).
+
+
+§ 2º
+
+Após informados e empenhados os valores não poderão mais ser alterados.
+
+
+Art. 5º.
+
+O relatório de despesas deverá ser apresentado até o primeiro dia útil do mês subseqüente ao mês da realização das despesas e o pagamento será efetuado após a análise e a aprovação do mesmo.
+
+
+Art. 6º.
+
+O valor não gasto no mês não poderá ser compensado no mês seguinte , assim como os valores que ultrapassarem o valor das despesas previstas não serão restituídos e nem  
+compensados no próximo mês.
+
+
+§ único
+
+Não será permitida a compensação de rubricas no mês, caso haja um valor de despesa maior do que o informado e empenhado, o valor máximo a ser ressarcido é o valor empenhado na rubrica, informado pelo Gabinete, de acordo com o § 1° do artigo 4°.
+
+
+Art. 7º.
+
+As despesas correspondentes às cotas previstas neste Decreto Legislativo ficam sujeitas a todas as regras relativas à despesa pública, à disponibilidade orçamentária e ao processo licitatório, ressalvados os casos de dispensa ou inexigibilidade.
+
+
+Art. 8º.
+
+Os casos não previstos neste Decreto Legislativo serão decididos pela Presldência da Câmara de Vereadores.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 10.
+
+Este Decreto Legislativo entra em vigor a partir de 01 de junho de 2002.
+
+
+CÂMARA MUNICIPAL, 28 de maio de 2002.
+
+Ver. JOÃO ROSALINO BRISOTTO  
+Presidente da Câmara de Vereadores  
+  
+REGISTRE-SE E PUBLIQUE-SE  
+Erechim,RS,28 de maio de 2002.  
+  
+Ver. ALDERICO ALBINO MIOLA  
+1º Secretário
+

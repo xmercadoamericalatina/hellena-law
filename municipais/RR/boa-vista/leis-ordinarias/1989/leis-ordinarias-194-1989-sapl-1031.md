@@ -1,0 +1,273 @@
+---
+titulo: "Lei Ordinária nº 194, de 04 de julho de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "194"
+data: "1989-07-04"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/1031"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/250/text"
+sha256_fonte: "73413c1dc4c3826b58876a585d0eb9e3eefe33dc4c56d353054d34ef34447b04"
+sha256_texto: "54fe414a5fc1bdebe0ee3bc987efa2d6dcca88e0914a3b7b429981d690729c97"
+capturado_em_fonte: "2026-10-20T23:53:47.319310"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 194, de 04 de julho de 1989
+
+CRIA E ESTRUTURA O CENTRO DE CONTROLE DE ZOONOSES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O PREFEITO MUNICIPAL DE BOA VISTA**, no uso de suas atribuições que lhe são conferidas pelo artigo 30 da Constituição Federal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica criado o Centro de Controle de Zoonoses, órgão vinculado à Fica criado o Centro de Controle de Zoonoses, órgão vinculado à Secretaria de Saúde.de Saúde.
+
+
+#### CAPÍTULO I — DA ESTRUTURA E DAS ATRIBUIÇÕES
+
+##### SEÇÃO I — DA ESTRUTURA
+
+
+Art. 2º.
+
+O Centro de Controle de Zoonoses tem a seguinte estrutura:
+
+
+I –
+
+Departamento de Zoonoses;
+
+
+II –
+
+Divisão Técnica de profilaxia da raiva e outras zoonoses;
+
+
+III –
+
+Divisão Técnica de Controle de roedores e vetores.
+
+
+#### CAPÍTULO II — DAS ATRIBUIÇÕES
+
+##### SEÇÃO I — DO DIRETOR DO CENTRO DE CONTROLE DE ZOONOSES
+
+
+Art. 3º.
+
+
+I –
+
+Implementar a participação da Prefeitura no combate, controle e erradicação de zoonoses;
+
+
+II –
+
+Dar assistência às autoridades da Secretaria Municipal de Saúde, nos assuntos relacionados ao controle e erradicação de zoonoses;
+
+
+III –
+
+Planejar e executar as diretrizes e normas relativas ao Centro de Zoonoses no Município de Boa Vista;
+
+
+IV –
+
+Coordenar, prestar orientação técnica e controlar as atividades que digam respeito à execução de programa específicos de sua área de atuação;
+
+
+V –
+
+Opinar conclusivamente sobre assuntos que envolvam o controle de zoonoses;
+
+
+VI –
+
+Zelar pela estrita observância das diretrizes e normas municipais pertinentes ao assunto;
+
+
+VII –
+
+Exercer rigoroso controle sobre os animais, visando a profilaxia das zoonoses de que possam ser reservatórios;
+
+
+VIII –
+
+Elaborar relatórios sobre os trabalhos, avaliar os resultados e propor medidas adequadas ao seu melhoramento;
+
+
+IX –
+
+Promover estudos, pesquisas e propor convênios com entidades públicas e privadas, visando angariar os recursos necessários para controle rápido e eficaz de zoonoses, em sua área de atuação;
+
+
+X –
+
+Informar e encaminhar a quem de direito os processos em tramitação em sua área e executar outras atribuições afins.
+
+
+##### SEÇÃO II — DO CHEFE DA DIVISÃO TÉCNICA DE PROFILAXIA
+
+**DA RAIVA E OUTRAS ZOONOSES**
+
+
+Art. 4º.
+
+Compete ao Chefe da Divisão Técnica de Profilaxia da Raiva e outras Zoonoses:
+
+
+I –
+
+Dirigir e supervisionar as atividades de profilaxia da raiva e outras zoonoses;
+
+
+II –
+
+Determinar a realização de investigações epidemiológica nos casos de zoonoses em canis, clínicas veterinárias, laboratórios e outros locais onde haja a presença de animais;
+
+
+III –
+
+Formar equipes de apreensão de animais, e instruí-los sobre o procedimento a ser adotado;
+
+
+IV –
+
+Capturar animais de pequeno e grande porte, encontrados em vias e logradouros públicos;
+
+
+V –
+
+Elaborar roteiros para apreensão de animais, intensificando a busca, quando surgirem áreas de risco;
+
+
+VI –
+
+Organizar o serviço de alojamento de animais, prevendo os casos de isolamento e sacrifício;
+
+
+VII –
+
+Determinar a coleta de material de animais suspeitos de portarem zoonoses e o enviar para exame laboratorial;
+
+
+VIII –
+
+Propor a vacinação de animais, intensificando sua ocorrência quando da existência de focos;
+
+
+IX –
+
+Organizar o registro de animais resgatados e vacinados;
+
+
+X –
+
+Fazer a observação clínica de animais agressores, quando dispensado de internamento e fornecer diagnóstico médico-veterinário sobre o estado de saúde do animal;
+
+
+XI –
+
+Elaborar relatório diário, mensal e anual das atividades desenvolvidas;
+
+
+XII –
+
+Desenvolver as atividades educacionais, e de orientação sanitária junto a população e executar outras atribuições afins.
+
+
+##### SEÇÃO III — DO CHEFE DA DIVISÃO TÉCNICA DE CONTROLE
+
+**DE ROEDORES E VETORES**
+
+
+Art. 5º.
+
+Compete ao Chefe da Divisão Técnica de Controle de Roedores e Vetores:
+
+
+I –
+
+Determinar a investigação da existência de focos de roedores e vetores;
+
+
+II –
+
+Programar, supervisionar, controlar e executar as atividades relativas às zoonoses transmissíveis por roedores e vetores
+
+
+III –
+
+Treinar os elementos que irão desenvolver as atividades de ente-ratização e desratização;
+
+
+IV –
+
+Treinar operadores para as atividades de combate à culicídios;
+
+
+V –
+
+Pesquisar e aprimorar técnicas de controle e combate de roedores e vetores;
+
+
+VI –
+
+Capturar roedores para vigilância do potencial zoonócico da população murina;
+
+
+VII –
+
+Capturar culicídios, flebotomídeos e outros insetos, com a finalidade de vigilância;
+
+
+VIII –
+
+Elaborar relatório diário, mensal e anual das atividades desenvolvidas;
+
+
+IX –
+
+Desenvolver atividades educativas e de orientação sanitária junto à população e executar outras atribuições afins.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS
+
+**DISPOSIÇÕES GERAIS**
+
+
+Art. 6º.
+
+
+Art. 7º.
+
+O Decreto que regulamentar esta Lei, definirá, as atividades do pessoal que comporá o Centro de Controle de Zoonoses, bem como os tipos e características dos animais portadores das doenças referidas.
+
+
+Art. 8º.
+
+Todos os pontos omissos na presente Lei, serão esclarecidos no regulamento.
+
+
+Art. 9º.
+
+A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições que lhe forem contrárias.
+
+
+Gabinete do Prefeito Municipal de Boa Vista-RR, em 04 de julho de 1989.
+
+**BARAC DA SILVA BENTO**
+
+Prefeito Municipal
+

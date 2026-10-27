@@ -1,0 +1,486 @@
+---
+titulo: "DECRETO Nº 5253/2026, DE 17 DE MARÇO DE 2026"
+uf: "RS"
+municipio: "NOVO CABRAIS"
+tipo: "Decreto"
+numero: "5253"
+data: 2026-03-17
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/03/2026"
+data_publicacao: 2026-03-18
+codigo_identificador: "1A7ACDAF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117803_2026-03-17_1ec75296de510cdc1f4f44d1627d96eb.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 5253/2026, DE 17 DE MARÇO DE 2026
+
+DECRETO Nº 5253/2026, DE 17 DE MARÇO DE 2026
+Abre Crédito Suplementar por Superávit Financeiro, por Redução e crédito especial por redução autorizado pela Lei Municipal nº
+2868/2026, de 17 de março de 2026 e dá outras providências.
+LEODEGAR RODRIGUES, Prefeito Municipal de Novo Cabrais, no uso das atribuições legais e de conformidade com a Lei Municipal nº
+2868/2026, de 17 de março de 2026,
+D E C R E T A:
+Art. 1º - Fica aberto CRÉDITO SUPLEMENTAR por SUPERÁVIT FINANCEIRO no valor de R$ 1.787.976,33 (um milhão setecentos e oitenta e
+sete mil, novecentos e setenta e seis reais e trinta e três centavos) na Lei Orçamentária Anual Exercício de 2026 nas seguintes classificações
+orçamentárias:
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.306.0220.2.09100 Manutenção do Programa de Merenda Escolar no Ensino Fundamental
+Fonte....: 2552 – Transferência de Recursos do FNDE
+Detalhamento: 1016 – PNAE – FNDE – Merenda Escolar Ensino Fundamental
+Cód. da despesa: 1904
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 8.469,40
+
+www.diariomunicipal.com.br/famurs
+
+258
+
+Rio Grande do Sul , 18 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4290
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.306.0220.2.09300 Manutenção da Merenda Escolar Educação Infantil
+Fonte....: 2552 – Transferência de Recursos do FNDE
+Detalhamento: 1122 – PNAE – FNDE – Merenda Escolar Pré-Escola
+Cód. da despesa: 1905
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 7.083,19
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.306.0220.2.09200 Manutenção do Programa de Merenda Escolar do Ensino Infantil
+Fonte....: 2552 – Transferência de Recursos do FNDE
+Detalhamento: 1146 – PNAE – Creche Merenda Escolar
+Cód. da despesa: 1906
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 6.069,22
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.367.0220.2.09500 Manutenção da Merenda Escolar Educação Especial
+Fonte....: 2552 – Transferência de Recursos do FNDE
+Detalhamento: 1223 – PNAE – AEE Educação Especial Merenda Escolar
+Cód. da despesa: 1907
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 4.746,09
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 01 – SMEC – MANUTENÇÃO DA EDUCAÇÃO BÁSICA
+Classif: 12.782.0220.2.10100 Manutenção do Transporte Escolar Ensino Infantil
+Fonte....: 2553 – Transferência de Recursos do FNDE
+Detalhamento: 1124 – Transporte Escolar – PNATE – Ensino Infantil
+Cód. da despesa: 1908
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA.........................R$ 197,33
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 01 – SMEC – MANUTENÇÃO DA EDUCAÇÃO BÁSICA
+Classif: 12.361.0210.2.0800 Manutenção das Atividades do Ensino Fundamental
+Fonte....: 2540 – Transferência do FUNDEB – Impostos e Transferências de Impostos
+Detalhamento: 0000 – sem detalhamento
+Cód. da despesa: 1915
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.........................................................................R$ 100.847,82
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 01 – SMEC – MANUTENÇÃO DA EDUCAÇÃO BÁSICA
+Classif: 12.361.0210.2.0800 Manutenção das atividades do Ensino Fundamental
+Fonte....: 2543 – Transferência do FUNDEB – Complementação da União - VAAR
+Detalhamento: 0000 – sem detalhamento
+Cód. da despesa: 1916
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO....................................................................................R$ 0,34
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 01 – SMEC – MANUTENÇÃO DA EDUCAÇÃO BÁSICA
+Classif: 12.361.0210.2.0800 Manutenção das atividades do Ensino Fundamental
+Fonte....: 2546 – Transferência do FUNDEB – Complementação da União - ETI
+Detalhamento: 0000 – sem detalhamento
+Cód. da despesa: 1918
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 22.257,25
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.117 – Despesas com Pessoal e Encargos Socias da ESF
+Fonte: 2605 – Assistência Financeira da União
+Detalhamento da Fonte: 4511 – Custeio outros programas financiados fundo a fundo
+Conta: 1909
+Elem. Desp: 3.1.90.16.00.00.00 OUTRAS DESPESAS VARIÁVEIS – PESSOAL CIVIL...................................R$ 4.765,38
+Órgão: 05 – SECRETARIA MUNICIPAL DE OBRAS, TRANS. E SERV. PÚBLICOS
+Unidade Orçamentária: 05.01 – SECRET. DE OBRAS, TRÂNSITO E SERV. PÚB.
+Classif: 15.452.0120.2.047000 Manutenção, Conservação, Ampliação do Sistema de Iluminação Pública
+Fonte: 2751 – Recursos da Contribuição para o Custeio do Serviço de Iluminação Pública
+Detalhamento da Fonte: 0000 – sem detalhamento
+Conta: 1913
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.........................................................................R$ 100.000,00
+Órgão: 05 – SECRETARIA MUNICIPAL DE OBRAS, TRANS. E SERV. PÚBLICOS
+Unidade Orçamentária: 05.01 – SECRET. DE OBRAS, TRÂNSITO E SERV. PÚB.
+Classif: 15.452.0120.2.047000 Manutenção, Conservação, Ampliação do Sistema de Iluminação Pública
+Fonte: 2751 – Recursos da Contribuição para o Custeio do Serviço de Iluminação Pública
+Detalhamento da Fonte: 0000 – sem detalhamento
+Conta: 1914
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA..................R$ 180.000,00
+Órgão: 04 - SECRETARIA MUNICIPAL DE FINANÇAS E PLANEJAMENTO
+Unidade Orçamentária: 02 – ENCARGOS GERAIS, DESPESAS N INTEGRANTES PPA
+Classif: 28.845.0000.0.019000 Devoluções de Saldos Recebidas de Outros Entes da Federação
+Fonte: 2706 – Transferência Especial da União
+
+www.diariomunicipal.com.br/famurs
+
+259
+
+Rio Grande do Sul , 18 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4290
+Detalhamento da Fonte: 1273 – Patrulha Agrícola – Emenda Parlamentar
+Conta: 1928
+Elem. Desp: 4.4.20.93.00.00.00 INDENIZACOES E RESTITUICOES............................................................R$ 11.832,33
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.113 – Manutenção do Programa Estadual de Assist. Social – FEAS - RPSB
+Fonte: 2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+Desdobramento: 1136 - FEAS
+Conta: 1930
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇO DE TERCEIROS - PESSOA JURÍDICA.........................R$ 9.666,27
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.03 – FUNDO MUNICIPAL CRIANÇA E DO ADOLESCENTE
+Classif: 08.243.0370.2.111 – Manutenção de Programas e Projetos de Assistência a Criança e ao Adolescente
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1225 – BPC na Escola
+Conta: 1931
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO................................................................................R$ 676,63
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistenciais Básicas
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1212 – Piso Variável Básico
+Conta: 1932
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 6.202,78
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.125.0360.2.108 – Manutenção dos Conselhos da Assistência Social
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1182 – IGD - SUAS
+Conta: 1938
+Elem. Desp: 3.3.90.14.00.00.00 DIÁRIAS - CIVIL..............................................................................................R$ 3.873,51
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.244.0390.1.061 – Reaparelhamento dos Serviços PBF e CadÚnico
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1087 – IGD - PBF
+Conta: 1939
+Elem. Desp: 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE..........................................R$ 93.639,70
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistenciais Básicas
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1236 – Apoio Financ.
+Conta: 1933
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO..................................................................................R$ 83,57
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.03 – FUNDO MUNICIPAL CRIANÇA E DO ADOLESCENTE
+Classif: 08.243.0370.2.111 – Manutenção de Programas e Projetos de Assistência a Criança e ao Adolescente
+Fonte: 2662 – Transferência de Recursos dos Fundos Municipais de Assistência Social
+Desdobramento: 1030 – FMDCA – Fundo Municipal dos Direitos da Criança e dos Adolescentes
+Conta: 1940
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURIDICA..................R$ 120.755,04
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistênciais Básica
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1250 – Incremento Temporário ao Bloco Proteção
+Conta: 1934
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO................................................................................R$ 143,23
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistênciais Básica
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1270 – PSB – Pgto. Extraordinário aos municípios em calamidade pública
+Conta: 1935
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 2.252,98
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistênciais Básica
+Fonte: 2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+Desdobramento: 1274 – FEAS/ Programa Avançar
+Conta: 1936
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO.............................................................................R$ 8.997,70
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+
+www.diariomunicipal.com.br/famurs
+
+260
+
+Rio Grande do Sul , 18 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4290
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistênciais Básica
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1279 – Procad - Suas
+Conta: 1937
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 15.431,00
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistênciais Básica
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1295 – Incremento temporário para Proteção Social Basica MP 1218/2024
+Conta: 1941
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 28.752,80
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.113 – Manutenção do Programa Estadual de Assist. Social – FEAS - RPSB
+Fonte: 2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+Desdobramento: 1310 – Piso Gaúcho Regular
+Conta: 1942
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURIDICA....................R$ 40.550,73
+Órgão: 09 - SECRETARIA MUNICIPAL DO TRABALHO E ASSISTÊNCIA SOCIAL
+Unidade Orçamentária: 09.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+Classif: 08.245.0360.2.109 – Manutenção das Ações Sociassistencias Básicas
+Fonte: 2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+Desdobramento: 1128 – PAIF
+Conta: 1943
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 20.589,68
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.119 – Despesas com Pessoal e Encargos Socias da Saúde Bucal - ESB
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1951
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL..........................R$ 7.875,61
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.117 – Despesas com Pessoal e Encargos Socias da ESF
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1952
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL........................R$ 84.536,16
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.120 – Despesas com Pessoal e Encargos Socias da Atenção Básica
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1948
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL......................R$ 418.029,88
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.118 – Despesas com Pessoal e Encargos Socias do PACS
+Fonte: 2604 – Transferência provenientes do Governo Federal destinadas ao vencimento dos ACS e dos ACE
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1949
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL........................R$ 23.944,49
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.121 – Manutenção do NAAB
+Fonte: 2621 – Transferência Fundo a Fundo de Recursos do SUS
+Detalhamento da Fonte: 0000 – sem detalhamento
+Conta: 1950
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL......................R$ 226.959,13
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.117 – Despesas com Pessoal e Encargos Socias da ESF
+Fonte: 2621 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual
+Detalhamento da Fonte: 0000 – sem detalhamento
+Conta: 1953
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL........................R$ 17.173,96
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.146 – Manutenção do Programa Rede Bem Cuidar RS
+Fonte: 2621 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual
+Detalhamento da Fonte: 0000 – sem detalhamento
+
+www.diariomunicipal.com.br/famurs
+
+261
+
+Rio Grande do Sul , 18 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4290
+Conta: 1954
+Elem. Desp: 3.1.90.16.00.00.00 OUTRAS DESPESAS VARIÁVEIS – PESSOAL CIVIL.................................R$ 43.836,30
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.130 – Manutenção de Veículos da Atenção Primária a Saúde
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1944
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 80.000,00
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.126 – Manutenção das Atividades da Atenção Primária a Saúde
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1945
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 10.000,00
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.122.0110.2.033 – Manutenção das Atividades da Secretaria de Saúde
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1946
+Elem. Desp: 3.3.90.30.00.00.00 MATERIAL DE CONSUMO...........................................................................R$ 30.000,00
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.130 – Manutenção de Veículos da Atenção Primária a Saúde
+Fonte: 2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Detalhamento da Fonte: 4500 – Custeio – Atenção Básica
+Conta: 1947
+Elem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURIDICA....................R$ 47.736,83
+Art. 2º - Servirá de suporte para abertura do crédito do artigo anterior o superávit financeiro verificado no exercício findo de 2025 nas seguintes
+Fontes de Recursos:
+Fonte
+Detalhamento da fonte de recursos
+Valor:
+2552 – Transferência de Recursos do FNDE
+1016 – PNAE – FNDE – Merenda Escolar Ensino Fundamental
+R$ 8.469,40
+2552 – Transferência de Recursos do FNDE
+1122 – PNAE – FNDE – Merenda Escolar Pré-Escola
+R$ 7.083,19
+2552 – Transferência de Recursos do FNDE
+1146 – PNAE – Creche Merenda Escolar
+R$ 6.069,22
+2552 – Transferência de Recursos do FNDE
+1223 – PNAE – AEE Educação Especial Merenda Escolar
+R$ 4.746,09
+2553 – Transferência de Recursos do FNDE
+1123 – PNAE – AEE Educação Especial Merenda Escolar
+R$ 197,33
+2540 – Transferência do FUNDEB – Impostos e Transferências de Impostos
+0000 – sem detalhamento
+R$ 100.847,82
+2543 – Transferência do FUNDEB – Complementação da União - VAAR
+0000 – sem detalhamento
+R$ 0,34
+2546 – Transferência do FUNDEB – Complementação da União - ETI
+0000 – sem detalhamento
+R$ 22.257,25
+2605 – Assistência Financeira da União
+4511 – Custeio outros programas financiados fundo a fundo
+R$ 4.765,38
+2751 – Recursos da Contribuição para o Custeio do Serviço de Iluminação Pública
+0000 – sem detalhamento
+R$ 280.000,00
+2706 – Transferência Especial da União
+1273 – Patrulha Agrícola – Emenda Parlamentar
+R$ 11.832,33
+2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+1136 - FEAS
+R$ 9.666,27
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1225 – BPC na Escola
+R$ 676,63
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1212 – Piso Variável Básico
+R$ 6.202,78
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1182 – IGD - SUAS
+R$ 3.873,51
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1087 – IGD - PBF
+R$ 93.639,70
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1236 – Apoio Financ.
+R$ 83,57
+2662 – Transferência de Recursos dos Fundos Municipais de Assistência Social
+1030 – FMDCA – Fundo Municipal dos Direitos da Criança e dos Adolescentes R$ 120.755,04
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1250 – Incentivo Temporário ao Bloco Proteção
+R$ 143,23
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1270 – PSB – Pgto. Extraordinário aos municípios em calamidade pública
+R$ 2.252,98
+2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+1274 – FEAS/ Programa Avançar
+R$ 8.997,70
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1279 – Procad - Suas
+R$ 15.431,00
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1718 – Reconstrução Ponte de Concreto Armado
+R$ 28.752,80
+2661 – Transferência de Recursos dos Fundos Estaduais de Assistência Social
+1310 – Piso Gaúcho Regular
+R$ 40.550,73
+2660 – Transferência de Recursos do Fundo Nacional de Assistência Social
+1128 – PAIF
+R$ 20.589,68
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+4500 – Custeio – Atenção Básica
+R$ 7.875,61
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+4500 – Custeio – Atenção Básica
+R$ 84.536,16
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+4500 – Custeio – Atenção Básica
+R$ 418.029,88
+2604 – Transferência provenientes do Governo Federal destinadas ao vencimento dos ACS e
+4500 – Custeio – Atenção Básica
+R$ 23.944,49
+dos ACE
+2621 – Transferência Fundo a Fundo de Recursos do SUS
+0000 – sem detalhamento
+R$ 226.959,13
+2621 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual
+0000 – sem detalhamento
+R$ 17.173,96
+2621 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual
+0000 – sem detalhamento
+R$ 43.836,30
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+4500 – Custeio – Atenção Básica
+R$ 80.000,00
+4500 – Custeio – Atenção Básica
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+R$ 10.000,00
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+2600 – Transferência Fundo a Fundo de Recursos do SUS provenientes do Governo Federal
+Total
+
+4500 – Custeio – Atenção Básica
+4500 – Custeio – Atenção Básica
+
+R$ 30.000,00
+R$ 47.736,83
+R$ 1.787.976,33
+
+Art. 3º - Fica aberto crédito suplementar por redução no valor de R$ 15.000,00 (quinze mil reais) na Lei Orçamentária Anual Exercício de 2026, nas
+seguintes classificações orçamentárias:
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.122.0110.2.033 – Manutenção das atividades da Secretaria de Saúde
+Fonte: 1500 – Recursos não vinculados de impostos
+Detalhamento da Fonte: 0040 – ASPS
+Conta: 522
+lem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇO DE TERCEIROS - PESSOA JURÍDICA...........................R$ 9.000,00
+
+www.diariomunicipal.com.br/famurs
+
+262
+
+Rio Grande do Sul , 18 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio Grande do Sul • ANO XVIII | Nº 4290
+Órgão: 07 - SECRETARIA MUNICIPAL DA SAUDE
+Unidade Orçamentária: 01 – SMS – FUNDO MUNICIPAL DA SAUDE - ASPS
+Classif: 10.301.0280.2.126 – Manutenção das atividades da Atenção Primária á Saúde
+Fonte: 1500 – Recursos não vinculados de impostos
+Detalhamento da Fonte: 0040 – ASPS
+Conta: 584
+lem. Desp: 3.3.90.39.00.00.00 OUTROS SERVIÇO DE TERCEIROS - PESSOA JURÍDICA...........................R$ 6.000,00
+Art. 4º - Servirá de suporte para abertura do crédito suplementar do Artigo anterior, a redução em igual montante da seguinte classificação
+orçamentária:
+Órgão: 04 - SECRETARIA MUNICIPAL DE FINANÇAS E PLANEJAMENTO
+Unidade Orçamentária: 02 – ENCARGOS GERAIS, DESPESAS N INTEGRANTES PPA
+Classif: 99.999.0099.9.999 Reserva de Contingencia
+Fonte: 1500 – Recursos não vinculados de impostos
+Detalhamento da Fonte: 0040 - ASPS
+Conta: 185
+Elem. Desp: 9.9.99.99.99.03.00 Reserva de Contingencia para Emendas Individuais – Rec. ASPS.............R$ 15.000,00
+Art. 5º - Fica aberto crédito especial por redução no valor de R$ 23.000,00 (vinte e três mil reais) na Lei Orçamentária Anual Exercício de 2026, na
+seguinte classificação orçamentária:
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.782.0220.2.10300 Manutenção do Transporte Escolar Ensino Médio
+Fonte....: 1500 – Recursos não vinculados de Impostos
+Detalhamento: 0000 – sem detalhamento
+Cód. da despesa: 1911
+Elem. Desp: 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO DETERMINADO.........................................R$ 23.000,00
+Art. 6º - Servirá de suporte para abertura do crédito suplementar do Artigo anterior, a redução em igual montante da seguinte classificação
+orçamentária:
+Órgão: 06 – SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Unidade Orçament.: 02 – GASTOS NÃO COMPUTADOS NO ENSINO
+Classif: 12.782.0220.2.10300 Manutenção do Transporte Escolar Ensino Médio
+Fonte....: 1500 – Recursos não vinculados de impostos
+Detalhamento: 0000 – sem detalhamento
+Cód. da despesa: 500
+Elem. Desp: 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL........................R$ 23.000,00
+Art. 7º - Este Decreto entrará em vigor na data de sua publicação.
+Novo Cabrais, 17 de março de 2026.
+LEODEGAR RODRIGUES
+Prefeito Municipal
+Registre-se e Publique-se
+EDSON JOEL LAWALL
+Secretário de Administração
+Publicado por:
+Jarbas Ivanês Deicke

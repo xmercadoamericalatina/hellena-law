@@ -1,0 +1,50 @@
+---
+titulo: "LEI Nº 5.554 DE 01 DE OUTUBRO DE 2025"
+uf: "RS"
+municipio: "BOM RETIRO DO SUL"
+tipo: "Lei Ordinária"
+numero: "5554"
+data: 2025-10-01
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 28/04/2026"
+data_publicacao: 2026-04-28
+codigo_identificador: "D2E2ACB0"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117831_2026-04-27_6f455d25aeff2597ba48ca6cc48065b3.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 5.554 DE 01 DE OUTUBRO DE 2025
+
+LEI Nº 5.554 DE 01 DE OUTUBRO DE 2025
+CELSO PAZUCH, Prefeito Municipal de Bom Retiro do Sul, Estado
+do Rio Grande do Sul, em cumprimento ao disposto no art. 58 da Lei
+Orgânica do Município. FAÇO SABER que o Poder Legislativo
+aprovou e eu sanciono e promulgo a seguinte Lei: Art. 1º §1º do art. 1º
+da Lei Municipal nº 5.041/2022 passa a vigorar com a seguinte
+redação: municipal: ... ―§ 1º Ficam reservadas às pessoas com
+deficiência, no âmbito da administração pública I – A cada 10 (dez)
+vagas abertas em concursos públicos, processos seletivos ou
+programas de estágio, 1 (uma) será destinada a pessoa com
+deficiência; II – Quando o número de vagas for inferior a 10 (dez),
+será assegurado o percentual de 20% (vinte por cento) para candidatos
+com deficiência.‖ ... Art. 2° Esta Lei entra em vigor na data de sua
+publicação.
+Gabinete do Prefeito de Bom Retiro do Sul, 01 de outubro de 2025.
+CELSO PAZUCH
+Prefeito Municipal
+Registre-se e Publique-se
+
+Registre-se e Publique-se
+
+Sec. Administração e Planejamento
+MARCELE KERBER
+CPF 018.846.600-29
+Matrícula 5454
+
+Sec. Administração e Planejamento
+MARCELE KERBER
+CPF 018.846.600-29Matrícula 5454
+
+Publicado por:
+Bárbara Aline Ferrari

@@ -1,0 +1,185 @@
+---
+titulo: "Decreto nº 19.331, de 01 de setembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.331"
+data: "2023-09-01"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25688"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8276/text"
+sha256_fonte: "d1cc890758b6b4cfbb3c9ab34ce214e6cc617c40519c6082c6a762102c7c2f19"
+sha256_texto: "14505d4346c4ebb2cee4e8b4a207857d19062baa2657fa64352875ead02faaac"
+capturado_em_fonte: "2026-10-21T05:13:43.284462-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.331, de 01 de setembro de 2023
+
+Designa servidores de Unidades Técnicas Setoriais para compor o Grupo de Trabalho de Validação da Migração de Dados e de Funcionalidades do software do Sistema Financeiro.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. 00600-00034489/2023-40-e.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído o Grupo de Trabalho em caráter transitório, para Validação da Migração de Dados e de Funcionalidades do software do Sistema Financeiro, referente aos módulos Planejamento, Orçamento, Patrimônio e Contabilidade, fornecido pela Contratada E&L Produções de Software LTDA, cujas funções visam a certificar a confiabilidade dos dados migrados e a aderência das funcionalidades, em cumprimento ao disposto nos itens 4.4.3.6 e 4.4.4.4 do Projeto Básico constante no Processo 00600-00020598/2023-05-e.
+
+
+Art. 2º.
+
+Compõem o Grupo de Trabalho, em conformidade com suas respectivas funções:
+
+
+I –
+
+Coordenadora: Letícia Agnes G. Barros;
+
+
+II –
+
+Flávio Silva Lima;
+
+
+III –
+
+Lucas Fernando Balbinot;
+
+
+IV –
+
+Rosane da Silva Cruz;
+
+
+V –
+
+Luiz Henrique Gonçalves;
+
+
+VI –
+
+Adwillame Geórgeton Fernandes de Lima;
+
+
+VII –
+
+Morys Albert de Oliveira Santos;
+
+
+VIII –
+
+Rita Ferreira Lima.
+
+
+Parágrafo único
+
+Os servidores integrantes do Grupo de Trabalho em caráter transitório poderão executar suas atribuições, individualmente ou em conjunto, por meio de subgrupo em conformidade com as temáticas a serem certificadas.
+
+
+Art. 3º.
+
+Os servidores nomeados por este Decreto desempenharão, conforme definido no Art. 1º deste Decreto, as suas funções por meio da:
+
+
+I –
+
+conferência de informações;
+
+
+II –
+
+validação da confiabilidade dos dados migrados, com a realização de método comparativo entre bases de dados, por meio da análise do Relatório de que trata o item 4.4.3.6 do Projeto Básico, visando atestar a integralidade das informações transpostas;
+
+
+III –
+
+homologação das funcionalidades disponibilizadas em ambiente específico, em conformidade com o item 4.4.4.4 e Anexo II do Projeto Básico;
+
+
+IV –
+
+emissão de Relatório de Validação direcionado à Comissão Especial responsável pela Fiscalização da respectiva contratação, para fins de aprovação e respectivo recebimento dos produtos da fase de implantação, conforme Cronograma de Serviço contido no Projeto Básico.
+
+
+Art. 4º.
+
+Com a finalidade de subsidiar a validação da migração de dados e de funcionalidades do software do Sistema Financeiro, poderão ser convocados para participar, como assistentes técnicos setoriais do respectivo processo avaliativo, servidores que, por sua área de atuação, tenham conhecimentos necessários à verificação do software em implantação.
+
+
+Parágrafo único
+
+Fica autorizada a convocação para participação de assistentes técnicos setoriais, que será realizada por ato da coordenadora, quando for o caso.
+
+
+Art. 5º.
+
+Fica a cargo do Grupo de Trabalho estabelecer as metas, com ação direta de distribuição dos trabalhos em subcomissões internas do Grupo para debate e deliberação dos demais membros.
+
+
+Parágrafo único
+
+Compete à Coordenadora do Grupo de Trabalho, dentre outras atribuições próprias da função, as seguintes:
+
+
+I –
+
+coordenar os trabalhos do Grupo de Trabalho;
+
+
+II –
+
+estabelecer o cronograma e atividades para a execução dos trabalhos de forma a assegurar a conclusão das respectivas certificações no prazo estabelecido, conforme Plano de Gerenciamento de Projeto aprovado;
+
+
+III –
+
+coordenar as deliberações realizadas em reunião, registrando-as em ata própria;
+
+
+IV –
+
+consolidação das informações produzidas pelos membros do Grupo de Trabalho, a fim de subsidiar Comissão Especial responsável pela Fiscalização da respectiva contratação.
+
+
+Art. 6º.
+
+O Grupo de Trabalho reunir-se-á em datas e horários previamente estabelecidos, consignando-se em ata, no final de cada reunião, as discussões e deliberações realizadas, bem como o agendamento das próximas reuniões e a designação da respectiva pauta.
+
+
+Parágrafo único
+
+O Grupo de Trabalho apresentará, a cada final de mês, relatório com todas as ações desenvolvidas, conforme disposto no cronograma e na consignação das ações contidas nas atas de reunião.
+
+
+Art. 7º.
+
+Os servidores designados para integrar a Grupo de Trabalho em caráter transitório, para execução de tarefas específicas, farão jus à gratificação por encargos no percentual de 10% (dez por cento) sobre a remuneração, conforme o Art.76 da Lei Complementar nº 385, de 1º de julho de 2010, regulamentado pelo Art. 41 do Decreto nº 11.824, de 18 de outubro de 2010.
+
+
+Parágrafo único
+
+A gratificação contida no caput deste artigo será devida mensalmente aos componentes cuja participação seja regularmente ativa nas atividades desenvolvidas pelo Grupo de Trabalho.
+
+
+Art. 8º.
+
+O prazo de vigência das atividades do Grupo de Trabalho será de 90 (noventa) dias para a conclusão dos trabalhos, a contar da publicação deste Decreto e disponibilização das informações, relatórios e acesso ao sistema pela contratada.
+
+
+Art. 9º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
