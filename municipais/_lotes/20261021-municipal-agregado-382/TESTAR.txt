@@ -1,0 +1,15 @@
+1. Antes da promoção (nunca modifica destinos):
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_ta_promocoes.py --manifesto municipais/_lotes/20261021-municipal-agregado-382/manifesto.json --replay --saida /tmp/municipal382-replay-root-antes.json
+Esperado: 382 replays aprovados, 6 promoções pendentes, 0 problemas, preparacao_aprovada true e apto_para_publicacao false.
+
+2. Conferir cada preimagem e aplicar a promoção expressa com promocoes-6.json. Sem promoção, não usar os destinos antigos para publicação.
+
+3. Depois da promoção explícita:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_ta_promocoes.py --manifesto municipais/_lotes/20261021-municipal-agregado-382/manifesto.json --replay --exigir-promocao --saida /tmp/municipal382-replay-root-depois.json
+Esperado: 382 replays aprovados, 6 promovidos, 0 pendentes/problemas e apto_para_publicacao true.
+
+4. Rodar cada script das listas independentes testes-gate-v3.paths.txt (8 testes), testes-fila.paths.txt (5), testes-reparos.paths.txt (3) e testes-promocoes.paths.txt (3), com bundled Python -I. Hashes individuais e das listas em testes.json.
+
+5. Auditoria municipal após promoção:
+python3 -I scripts/auditar_municipal.py --lista municipais/_lotes/20261021-municipal-agregado-382/normas-apos-promocao.paths.txt --saida /tmp/municipal382-auditoria-root.json
+Esperado: 382 normas, 0 problemas. Normas diretas 376 são disjuntas dos 6 destinos privados. Nenhum destino antigo dos 6 integra os artefatos normativos deste pacote.

@@ -1,0 +1,4 @@
+Replay independente (use diretório de saída novo):
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/auditar_commonmark_ta_v2.py --lista municipais/_lotes/20261021-recuperacao-identidade-ta-final299-0001/normas.paths.txt --materializados municipais/_lotes/20261021-recuperacao-identidade-ta-materializados-0001 --saida /tmp/ta299-replay-root
+Esperado: 299 aprovados, 0 retidos.
+Verifique também todos os SHA/bytes de manifesto.json antes do staging. Não incorporar normas de listas intermediárias.

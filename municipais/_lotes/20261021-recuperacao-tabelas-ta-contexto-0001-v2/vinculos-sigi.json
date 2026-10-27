@@ -1,0 +1,165 @@
+{
+  "sha256_catalogo": "031d4077e34408932d4884b5e083da434184838d9844be3d0719bb62422ef5be",
+  "hosts": [
+    {
+      "host": "sapl.acari.rn.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Acari",
+          "uf": "RN",
+          "url": "https://sapl.acari.rn.leg.br/",
+          "codigo_ibge": "2400109",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "2400109",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.json",
+        "sha256": "a9185e9ff32b691d3a3dcd3cdf8d52f5bcba32d252c5514120265f297cc3ff91",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.meta.json",
+        "sha256_metadata": "ca015eecb6f61d5191c36716d528f5ca6d345966b7dbef3e27067f96c432b81a",
+        "url": "https://sapl.acari.rn.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.alpinopolis.mg.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Alpinópolis",
+          "uf": "MG",
+          "url": "https://sapl.alpinopolis.mg.leg.br/",
+          "codigo_ibge": "3101904",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "3101904",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/8053ae7366c94d16e8d8025d4aa4ba0dc0dd27bb9f7d65528c2d1e82559ad08c.json",
+        "sha256": "732d76d57a5146c5724bb9faaf8f216adfeb72506aedd0e3be32a70fbb6c3de4",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/8053ae7366c94d16e8d8025d4aa4ba0dc0dd27bb9f7d65528c2d1e82559ad08c.meta.json",
+        "sha256_metadata": "5a55eff1f202af7b4fc2c87d5e5492b546238d0677d5d46b57c5304379fd7b63",
+        "url": "https://sapl.alpinopolis.mg.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.altogarcas.mt.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Alto Garças",
+          "uf": "MT",
+          "url": "https://sapl.altogarcas.mt.leg.br/",
+          "codigo_ibge": "5100409",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "5100409",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/76edd7285a24e3037c5e9b9454b84a3b34c9623a7dbb708b83e601da20456abd.json",
+        "sha256": "fb58fe6302acc2f0d4cc499e1520ec4d0fbdca9fef1194c489954bfe12c498f6",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/76edd7285a24e3037c5e9b9454b84a3b34c9623a7dbb708b83e601da20456abd.meta.json",
+        "sha256_metadata": "539457645e06e159031dad08de65691c01846b803bf0ed870957125521e944f7",
+        "url": "https://sapl.altogarcas.mt.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.amontada.ce.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Amontada",
+          "uf": "CE",
+          "url": "https://sapl.amontada.ce.leg.br/",
+          "codigo_ibge": "2300754",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "2300754",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.json",
+        "sha256": "8a3f64d469446b1706dcd79b8db26db84a350830c9ce40f52104cea6a6e0e3ae",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.meta.json",
+        "sha256_metadata": "02293076c2e22f5c09420736345accd0624fbacfde7eb6fa2844b6137db93527",
+        "url": "https://sapl.amontada.ce.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Erechim",
+          "uf": "RS",
+          "url": "https://sapl.erechim.rs.leg.br/",
+          "codigo_ibge": "4307005",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "4307005",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.json",
+        "sha256": "3112453d62ccc5786d8b58efaef9e6169054c13b789b9e8532147bd377cb364f",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.meta.json",
+        "sha256_metadata": "98141e2bf774e168fbed6c22a0e8f88d573cd36cb6baa2bc4c1c4ca24d73fb5b",
+        "url": "https://sapl.erechim.rs.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Fortaleza",
+          "uf": "CE",
+          "url": "https://sapl.fortaleza.ce.leg.br/",
+          "codigo_ibge": "2304400",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "2304400",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e530277424a39f9dc92f4143423e1f27c714bf1bfb60fbc141f79fe8335485fb.json",
+        "sha256": "9f72543dd9af1a5b292012ab2aff0ee51ffd95c13d239b47c0abcfeca66777b9",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e530277424a39f9dc92f4143423e1f27c714bf1bfb60fbc141f79fe8335485fb.meta.json",
+        "sha256_metadata": "afa82bc2be79f31d984632574c625eb078d586f5d34e49eaec144421d984a5d8",
+        "url": "https://sapl.fortaleza.ce.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Porto Velho",
+          "uf": "RO",
+          "url": "https://sapl.portovelho.ro.leg.br/",
+          "codigo_ibge": "1100205",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1100205",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.json",
+        "sha256": "5eecb245a6ae3f33fc7ecbcc569bbdeb8d3bb2391aa5f5c8a99045b0178b3298",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.meta.json",
+        "sha256_metadata": "4134febee01e7c4d1f84807ac8092ab90266f625b036f787153e8ca1b4a9869f",
+        "url": "https://sapl.portovelho.ro.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Rio Branco",
+          "uf": "AC",
+          "url": "https://sapl.riobranco.ac.leg.br/",
+          "codigo_ibge": "1200401",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1200401",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d77c0e17478d2499ec77a1e10ce2315d44589e557cff327755d17e6319635290.json",
+        "sha256": "670379dbd69439ea7d0806c439ac341d861ba6d8d4ffcc169fd4cd892c283c0c",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d77c0e17478d2499ec77a1e10ce2315d44589e557cff327755d17e6319635290.meta.json",
+        "sha256_metadata": "2c4dc7c51c0973a706c6043c95171a35b0876ec44e72b8b424324d8524442646",
+        "url": "https://sapl.riobranco.ac.leg.br/api/base/casalegislativa/"
+      }
+    }
+  ]
+}

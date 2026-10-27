@@ -1,0 +1,7 @@
+{
+  "motor": "markdown-it-py 4.0.0 CommonMark + table + strikethrough",
+  "caracteres_nao_brancos_iguais": true,
+  "sha256_visivel_fonte": "a4dd1fa5570727f0146574a9d2f3e25bb65221c0d48b7a260d5a5673cce584b0",
+  "sha256_visivel_renderizado": "a4dd1fa5570727f0146574a9d2f3e25bb65221c0d48b7a260d5a5673cce584b0",
+  "criterio": "Somente rótulos editoriais explícitos são removidos da comparação, conservando todos os caracteres oficiais, pontuação, sinais, alíneas e fólios. O corpo integral está em bloco preformatado, sem interpretação de itálicos, crases ou listas implícitas."
+}

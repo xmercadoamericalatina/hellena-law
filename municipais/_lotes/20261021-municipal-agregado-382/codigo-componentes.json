@@ -1,0 +1,78 @@
+[
+  {
+    "grupo": "gate-v3",
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/codigo-gate-v3.paths.txt",
+    "sha256_lista": "b2c2b3473efee769316f8cfc20079e0394719d7efaba86eae58f44d5ed171676",
+    "arquivos": [
+      {
+        "arquivo": "scripts/epigrafe_tipo_literal_ta.py",
+        "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c"
+      },
+      {
+        "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+        "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe"
+      },
+      {
+        "arquivo": "scripts/auditar_textos_articulados_sapl_v3.py",
+        "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d"
+      },
+      {
+        "arquivo": "scripts/test_rotulo_literal_ta.py",
+        "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3"
+      },
+      {
+        "arquivo": "scripts/materializar_textos_articulados_sapl_v3.py",
+        "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713"
+      }
+    ]
+  },
+  {
+    "grupo": "fila",
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/codigo-fila.paths.txt",
+    "sha256_lista": "4b731e839af7f17b6ae9d82cdc486ad15e890337ae9660ba6c8fdc8f2b2e9948",
+    "arquivos": [
+      {
+        "arquivo": "scripts/fila_textos_articulados_sapl.py",
+        "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd"
+      },
+      {
+        "arquivo": "scripts/test_fila_ta_sapl.py",
+        "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c"
+      },
+      {
+        "arquivo": "scripts/selecionar_lote_ta_v2.py",
+        "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520"
+      }
+    ]
+  },
+  {
+    "grupo": "reparos",
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/codigo-reparos.paths.txt",
+    "sha256_lista": "9603a7b981ba196319e3c582375e94a8abfbe01ec3e21fee39c588062a140e83",
+    "arquivos": [
+      {
+        "arquivo": "scripts/preparar_reparos_commonmark_ta6.py",
+        "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9"
+      },
+      {
+        "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+        "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c"
+      }
+    ]
+  },
+  {
+    "grupo": "verificador",
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/codigo-verificador.paths.txt",
+    "sha256_lista": "c6e6b2f3a181f4e5c802cd969c7cfa07e921714a26bce1c6128b69e2ac27daae",
+    "arquivos": [
+      {
+        "arquivo": "scripts/verificar_entrega_ta_promocoes.py",
+        "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885"
+      },
+      {
+        "arquivo": "scripts/test_verificar_promocoes_ta.py",
+        "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597"
+      }
+    ]
+  }
+]

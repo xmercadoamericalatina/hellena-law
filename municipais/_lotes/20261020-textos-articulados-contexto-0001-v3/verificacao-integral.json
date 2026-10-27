@@ -1,0 +1,864 @@
+{
+  "arquivos": 107,
+  "aprovados": 107,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22540-2026-sapl-29881.md",
+      "sha256": "8b8c6dbb94b13c41537ff0b0bd9c50903b7af9baab1495eed35db2116971e68e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "0c7840ae03c1b8548395d66f70e299bb25f5b4c67181c96bd15eb2ebbe90fd9b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2026/leis-ordinarias-11672-2026-sapl-14454.md",
+      "sha256": "b43087c48ca28173289c75644fa4d7bb125a84cf271315cfc7eb75537d4f656d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8db58c93b2a500ee55cb72400b46c95c691a2c61e9e63c5cf51e9f560e086e96"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1084-2026-sapl-29882.md",
+      "sha256": "547c3372b6aa49a7bc5f9168b89581155db1ee4c3b430442ee5185f1922211cc",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "d0821022056b8ceb7e7146aa7edbacd135f1ea617310a5e263daef8f9b0187b7"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2026/leis-complementares-458-2026-sapl-14357.md",
+      "sha256": "bf712514eb8791e21186a6f763157b7080c5f40850b228c368a111732fc11d58",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "a6259e10939ae4d102dc5d25cc5af3a7c3af2c83fa3654cbff2606bb0c190dde"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22515-2026-sapl-29847.md",
+      "sha256": "ffb9a5b84d57e21ba9fa47ab05bf6bc056e698b78d5902a23a78752f6122e34c",
+      "aprovado": true,
+      "dispositivos_ativos": 65,
+      "historicos": 0,
+      "sha256_fonte": "891a8f7293d74edab3cd845ed31215b8701525d72ff0c4d0e385d8da13952792"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2025/leis-complementares-435-2025-sapl-14231.md",
+      "sha256": "27c7043841b0d938ec16568578c982bc44ad2a0d8822dd57a4a8c31050e3e927",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "3d4bfbcda7446b4fbaa072703b33028aa651c02f3e0cfa9e9b64152512605ea2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22479-2026-sapl-29805.md",
+      "sha256": "d9d933d7143685d71b8a7354f2a38d11dee7c936f0ad082b13da91a7d39d200f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b3670e940118d26079f3d5269e61f5e615df464989a4f401d7947515468fc4b2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/decretos-legislativos/2024/decretos-legislativos-1195-2024-sapl-13898.md",
+      "sha256": "4c9b2c2ec8caa2293726790352c4f2bd2a4bbffb546ac068d761d7090df888c5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dda7f2b5cd5036a99a1937dd180ea55cc3a1607c3809881341ce89189da4092e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22478-2026-sapl-29804.md",
+      "sha256": "d411b15540a2fe777ccccc39f9f4e644a5d6ecb717ea02f1c3b5ccce48fb3c2b",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "cced5902ef1eaee5da452253a1377eb44f91536851ac0757ecdc439053fb1e83"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1083-2026-sapl-29801.md",
+      "sha256": "57bbba7736370b0d99c438c4201fc334c2a9759c6455fa6b024ff3b7704067e7",
+      "aprovado": true,
+      "dispositivos_ativos": 400,
+      "historicos": 0,
+      "sha256_fonte": "0e18a9a108691bd6f980378a65048754278be1dd440939d3fdd97550a07fc41a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/decretos-legislativos/2023/decretos-legislativos-1144-2023-sapl-13746.md",
+      "sha256": "e3bc0b8d0d17022d481c53b34a5c36030a0262143599f739d3c28bdabe536d52",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6fd0029b61a6f174cc7a19fbd162cac055805b42ce4b2b6e606d7e8a2b487f09"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11285-2022-sapl-13498.md",
+      "sha256": "817a60f54a52411fe2a3228a1bf8a993c9099965594a9a8140e1ada686e6be67",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1c37c926f0df63808e99049394f76424053a4a0fd3a44ca68812da2373ced8a9"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11284-2022-sapl-13497.md",
+      "sha256": "d24b84e5ab56690293843346c2a6f706bd0c9c7d8011643b9957b7cf12fd384c",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "7c14e4039e2f2cfeaaedf4ea1d2eabb5025b5d6e846ec3e0e0bc83c436448562"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11283-2022-sapl-13496.md",
+      "sha256": "3362daa926df58ae44dc5797d208a670d3c0b5881172f4d2ad115a1570289227",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "43f8a508eb1adb5af661d272dcd87bae1bf13d9c4d08b262a89fa488524dad32"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11282-2022-sapl-13495.md",
+      "sha256": "ed0bba570277a6607cba09df93cd35c207c40a392d1faf71263b256fd864a70c",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "d241d4205ff87780a0ac94680701391ea2ac282968ac71819e7371c27d3d5795"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11281-2022-sapl-13494.md",
+      "sha256": "5a20cfc6451ba346d7d4253b3a7ed01eeab1241444d206a19ebf3c8622f59b5f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e744e6ed38af9bc6a73204326bd5369f4d9dfd97499c769070f978ee0b2e71a5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11280-2022-sapl-13493.md",
+      "sha256": "da7a8c47af632e054512331b54d1b26d331c398099d9442001c4e04a5fe79b5f",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "ab5e767938b9d81b538379e3dd9386b5b50947e0c8162fc4adb8f2ba3d089846"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11278-2022-sapl-13489.md",
+      "sha256": "1a81d0713d44abcbde17dfd1833d1bdb2bac057ece1c1a551c4abe67ac57d910",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d2ac55a25c808e1b554fd5fc3e2478cceb93b731a7e53b47310f7abd4b06f1e2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11277-2022-sapl-13488.md",
+      "sha256": "a8ae4d62c88540286e0a941018c3832b76838f6cbe2092a7819111c7eba76528",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "5c8c04786f4d283d5330744c4ff34ab41b7ff163be0cfad2596fcf34e170a792"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11276-2022-sapl-13487.md",
+      "sha256": "91a26d4f8e373052e8865f2a2e8bc1cd6096850007a6ce0822121671895dd794",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "45bc9ec33bb3791c82eef0346dc080f3b8c517d71e12745c4d0363428c52c34c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11273-2022-sapl-13485.md",
+      "sha256": "eece29c96d49b56f955fc90ecccaa3d795ba47aab66c5ffce5ac82841cbaa49f",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "2b7c7634f85691174cc4b3365fb9ee8c673c702464436c5820e72d56c2c8a394"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11272-2022-sapl-13470.md",
+      "sha256": "185cefe421441724ab01b4e584bc0a5ba2d11d4f9d9e465a8071f937aa082ff7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "826d7890e0cd3ce96b165c068cd5f2d408225775d35d9cda0fa87e7748588281"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11267-2022-sapl-13451.md",
+      "sha256": "bf185c8aa96b73855815943263d97edbbc79a5c34897645a0047dd1a6bcccaac",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ae7e26213ba03dbedc74a7489b885ba0c2e35d8f287a6fc714447525f97f82e8"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11266-2022-sapl-13450.md",
+      "sha256": "f153f486c5e52d3d0ec888abed4467a6f19b4609001734173d06668d519ef195",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "0dd8d8e5a5f453f4f8213947b184bc7db361477cfb6c5cdbe540e642673ae69b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11265-2022-sapl-13449.md",
+      "sha256": "f8a794bf1394c281b43d2d0d3384ff260c6e12ba29fa04eaa1a28bf2cfd04d19",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "bf1b21be6acc392d144807c5af2795d229d0a254f52da39e79675d56ad0728a5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11264-2022-sapl-13448.md",
+      "sha256": "a11c175e6abb8c7c19b2c2656f172ef7a51e72488416c58497f6bca9da27d765",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eb535896fd13f1e475b57e91a565f6d46e5dd723aa507224d423cb282a2d9dff"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11263-2022-sapl-13447.md",
+      "sha256": "6e0bb78886bf0323ea5d3c535a26121753da8aaacad75f78950683aed80f7214",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d654ef817792a063e362eae1e0a040824fc61f812a9af23255340c23dba125b1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11261-2022-sapl-13445.md",
+      "sha256": "adcb60a4b4d1f78dc6db3a2a3eeeaeff8e7b5df2bfedef11da8e5519d42151c8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "0b1ed90a4389284a3982ccdee2e98c2b19e29f60a31360c695db14150f3f2129"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11259-2022-sapl-13442.md",
+      "sha256": "c2716487ad71f4a12e2d1f34714461cfe72478e7570a78fa685d8a135dfd4026",
+      "aprovado": true,
+      "dispositivos_ativos": 68,
+      "historicos": 0,
+      "sha256_fonte": "212ef6aa3bb43315dfc3f675678197970f88277f97741ab383b7fe5c2ffd7fa9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22422-2026-sapl-29702.md",
+      "sha256": "fe00ec30c3b106aed5e24e06f6c24b754cb847da1fad1871167c37036c2ed86c",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "8ed34613bd681abe17448722c09291edef332d1901d1ef67981c76298f7c8868"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11250-2022-sapl-13421.md",
+      "sha256": "43362484928db32e1c44cc6987156bed9d21a72bac576394fb8fee2894401d1a",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "123e30a9a85e65b882cb9130bf656db2b291a6ca6c959079989d4129ca43b31c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11249-2022-sapl-13420.md",
+      "sha256": "ee88c36c773177992602a735f980c27f8cfc56029ed9a506cab41a31da873142",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "253c77d9cac00f291b67fad863dbaac01c9c282c1ec7e41e4d0aa501050c88f2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11247-2022-sapl-13409.md",
+      "sha256": "a3abe13e933d7dabcba7ba56e1e3b3f7bee9e57de9611709bf76f02550d607f9",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "e7b3842c0da31d93dd282a1244e6820a2af6ed782a48c298b45a886f6541cce2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11243-2022-sapl-13401.md",
+      "sha256": "5b48ba5544afef41560d4fd5de87b3d45efed67da8908f8b0fa9f61915af91ce",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "49012cce3fba30fdfd9bc4d2f27038451e0e45e432144b69e7186e24ff88f510"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11241-2022-sapl-13399.md",
+      "sha256": "36fcefccac4afab805e8b311d53839f395b422c65aa2ea2dc57a1c8d4277b03b",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "7ba2d5882de06b05189cba906910ee9852dd5aa197474529f881da19ff5bd461"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11239-2022-sapl-13397.md",
+      "sha256": "e50cea7b9241670bac4e7b3300aae83c5d6d39d84bb41207f00646751d302645",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3d9336008062845ee1f3e0ffc48112953aa57b15531a051f7cd42735afa4427a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11237-2022-sapl-13393.md",
+      "sha256": "21ff9ac914e26f19012119686ad43fada5db2a563c824cf7696ffe8477b904ef",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "eb5991242ced59ef45a1c49fd4a4fd827c542a234dd49bf634c5b5504d464643"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11236-2022-sapl-13390.md",
+      "sha256": "aaebffbf8b2a63e80ccd9a0c57b4ceec806a2638bf05f4a10e036cac9e850e28",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d84e2887a4448dadee9748e9dee8e9f230f6cc01f7e544d9bf48c8f9b472909e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11235-2022-sapl-13389.md",
+      "sha256": "c895ef650296baad398a2e48289f8a5c552f4ff16ef249bd1475d3b86564084e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "029ebc85c28e0276d5819c7def03b5843349101adabbe9d453662a15c840f947"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11232-2022-sapl-13376.md",
+      "sha256": "da7b7ee3200211f75414eac96d4b3feb7f836ec386fffb482e31b3da43bb4c68",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "d3935b2f9f8b1f0a32ce17ed461af07ab84582e1e6e93b03e67aba28e79b47f8"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2022/leis-ordinarias-11226-2022-sapl-13359.md",
+      "sha256": "4f3a7799704a10b711bd7025ef7d27f28d2738e90f3ac8e19012d906d96c3b41",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4ba180cd5a77a98d4b6588da946e3312223669a1b1a904a6ba88f91cb11962e4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2021/leis-complementares-319-2021-sapl-13353.md",
+      "sha256": "d58e419f2ff0059918ff17ab91ead2b62242b393d5291232bb32c87513c09ff0",
+      "aprovado": true,
+      "dispositivos_ativos": 34,
+      "historicos": 0,
+      "sha256_fonte": "368bbec5bb86e9a53b053592debc1b28449c4aaa0fe44e2c43e78bcf066e51ea"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22387-2026-sapl-29688.md",
+      "sha256": "9a16a52aa51bdacef96de006db0dc3a382a47f26d4cc6cb15de71eeee6e7d7cb",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c30e06f35d1a833d0f691998eb528ec76d8256db40042cd418448c979953ef6c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11219-2021-sapl-13352.md",
+      "sha256": "bb63b4e1563a15ccd4d2f21e73e735a5cfb2f99fc6de94ec6246def1a4698d3b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a6b2dd851e139cbfab4f8f82f782fe583c39bae4b1a9d7b7d4b9c431c606f919"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11217-2021-sapl-13351.md",
+      "sha256": "a52d9256ab55fe8ed991b8277beae96387cf9ea9a1a7b4cc13c278109661c546",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "83017e53cb068462efef71c9935c2925d149ad779a59d123f41e781681f9adba"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11215-2021-sapl-13370.md",
+      "sha256": "de562869860686d6465c789a9a076a812d1084ee9547b922d8af6915e55f20b1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ad9f96cf36accb03eeb6a4060b2b6e5eefb781d1206582151c72d7fe8851e4dc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11214-2021-sapl-13366.md",
+      "sha256": "5a41efa4ce9d42b3bf0fea8e0cbc0d6f06824bad27d70e9a5bad51bb206a71e1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c18e06570ae96a153aed62527bb1e769a4c36570d4b79f0d6102483e5ca9063e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11213-2021-sapl-13347.md",
+      "sha256": "254675a6c3ed29ead4f04e5f4da6a4c116173bad4f1c06f01e306630a5b5f9c5",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "2f4941a7ba04271761aef4cb31e45f3d3dca0bd3d001cc0121b8f02ae979cd38"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11211-2021-sapl-13369.md",
+      "sha256": "95dc2e5f28084c869c2b8eaf0c87bd421060625b4874509e415bc63dff604af1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ece7042ddf662025302c4f34589c8a7e66ca2ba8c3515945f820ba7870573348"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11210-2021-sapl-13348.md",
+      "sha256": "125b9e7449673d7d880f2eee9ff540b0d6cc894742b6dc25bd83aafae51a82ed",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "72e189815db5fef5c9d0828c77202d4909b6aaf13d25e1e6adbfaeaca721fadd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11209-2021-sapl-13364.md",
+      "sha256": "bb21f0cc485fa14ed730c8de6705b46ada4f994a8c7eb9bfc5812b77e6be6dca",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d4484665fe443e54867c0af5a35d068e2ffb5a0ed3abc62c32a526aa25093b67"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11208-2021-sapl-13367.md",
+      "sha256": "8a25471920e31cf6b85787e10c28dc8f18778f821671a2da10fd963377640508",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "a0a516fc336278616207b49cec50b4dd4ce42916b257bf73a4477f74c5014f70"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11207-2021-sapl-13337.md",
+      "sha256": "36e6842ce2cc559f3776db10578e7b51959c9d428f0ab0ea1d869e98b2ab6152",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "d75faca56526a613259e22a6ff19adf684cfb6d503824505c0628b92710b2958"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11206-2021-sapl-13331.md",
+      "sha256": "8f4ddc8486d0fea7548613d99e43eccb4a88bc6c1283f14832c360a1c31bdebd",
+      "aprovado": true,
+      "dispositivos_ativos": 37,
+      "historicos": 0,
+      "sha256_fonte": "6eb7ca6b100e8ab597bdaae2d55b556e6918aa3627a8fa33f337a3a604f3d5a8"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2021/leis-complementares-310-2021-sapl-13319.md",
+      "sha256": "f6670f0942d588572f8525f871804eba78dc8778efe486c847eaf2f2a2299ec8",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "fa685025e841342658fdabcea0411226b70ffe1fad02b20dc49a6d0de0889a27"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2021/leis-complementares-309-2021-sapl-13318.md",
+      "sha256": "37f7f0a3fd3d17d5555ca52dca5cd4d86d500d1b5079ebb42e840ce80dc65bce",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "70c627812642c3bde4f196e50ac9749561ec448d39773fefabf1365bed4318c4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11204-2021-sapl-13315.md",
+      "sha256": "ce490830d3adef8ac32b9ccafd774513a4e425573c94bc78c37c8e901be37f28",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "023c9b3f167241d840254cb140177a311674fc39a583b047593326339d00ddfb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11202-2021-sapl-13313.md",
+      "sha256": "98217b93f86640e5d60cc7062d4d593a64827f902c372461b74f69137e1dfbe3",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "cfee2c859902e5eeef05aae085686ce48866ce44df9bfea9515258a0eb9cdfe6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11201-2021-sapl-13312.md",
+      "sha256": "c3bcaea8096c649d91de92289836026b8ecfcd945102250b85a2f9e1a77a4965",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "ebf77ac6e5ae8222281da0ff9822445749daed5b70adecceb5da994701e3f643"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11199-2021-sapl-13310.md",
+      "sha256": "3810313ee735d854de17775d4e98f2ceea2701b6ccb6d4605de38041071b8d18",
+      "aprovado": true,
+      "dispositivos_ativos": 44,
+      "historicos": 0,
+      "sha256_fonte": "5e7e6f585b70668402de886d78b2361ef20b35da0639e1ca147bc0ee869e805b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11198-2021-sapl-13309.md",
+      "sha256": "f5757afd8fdeb9cb06cc18fe33c1e8302db280fba88c0ca005f43cc031b823aa",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "32e0ab505b725504e44fd275473e8e7f33122c8b879d0437e6c5dc56bd4fb585"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11196-2021-sapl-13298.md",
+      "sha256": "4cbbafb46d1fc86d4f331a4d03f0a6531534be63db9cf09aed20a7b13fa982ae",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "06d9d4024040691d8dffe0b374722bdd62616040487c8c0bd66927e957df9416"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11195-2021-sapl-13296.md",
+      "sha256": "1fb522f7bb97b996b94e2c92d0feb9ccf9060ebfa06eb3979f98313e9707c495",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a8d4b8aeb8667f31bd61a721d2ddc48620e09660fcc5a1908e6dc6300aa96bba"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11194-2021-sapl-13297.md",
+      "sha256": "fab17dbf92dcf67a3899b09d284b4f545a617dc6f80c8cae9059527606dd54a6",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "de2864ddd61c845f333c36b75914b99a2d4a3b0644e47d4b243b92f49a5360df"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11193-2021-sapl-13280.md",
+      "sha256": "74f6e329b30f06549a15c06b484ba920220b1ce8f88f1a6687a2b325a2d1155a",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "7616ee144143d6372ffe1430d1f12058cf61ba421b43a7f66e8d1498664a6507"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11192-2021-sapl-13279.md",
+      "sha256": "e2e22cc484c6b2feea43f7af357a57d13436dfb6e7f2183867b82ff201ac1c04",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "97c1dbf10a074946ee47f48922d784c72539e305558ca9492a0cd11f6811ecff"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11190-2021-sapl-13274.md",
+      "sha256": "95e32f43fa185584970d64143dc2ecf7d0df10fb9a042d2ea9aa95b0789f6d7a",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ae28bd022b80c8544bce05f96c6bef6aadaf41eb5370f3e62bac55874fda126e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11187-2021-sapl-13270.md",
+      "sha256": "975a9c617da583ed0d76fdc7fff43df11e0fed1ea0bf87494d7ce164aafa8c9a",
+      "aprovado": true,
+      "dispositivos_ativos": 62,
+      "historicos": 0,
+      "sha256_fonte": "bfd310e2ca5f463957ff53eb786a672643dfcacbc2951a1f82b94422fb93b8aa"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11185-2021-sapl-13267.md",
+      "sha256": "75448c38902e241098cea8785bbb74406f6321a3c94c653c2ad8a0beaca9a060",
+      "aprovado": true,
+      "dispositivos_ativos": 76,
+      "historicos": 0,
+      "sha256_fonte": "2a038cf8a430e75d4a2df9e2f697d813f2ba6f20a755d8eab32e699b7e652812"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11183-2021-sapl-13268.md",
+      "sha256": "f039971bbb68ab209c953444ff4306bc012abcb39fef211b84c17a3006b002a8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9a33a3675864520514a97841bc830f230cbba30b576a5d4049e55ce1a45cbfaa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22335-2026-sapl-29615.md",
+      "sha256": "4db109ca35869f2f2f406e27a36d2e67f246d7b2f38e673f449865e5b7a34223",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f41f098fcdaa3b031b9d2c1c520a6b4cb4e281c36bfa8ce6bb850d2c045b3f3d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11179-2021-sapl-13263.md",
+      "sha256": "5fe5a89f87ee849b08831ce660f53a1fc3071ab86491bc6a24cc4fc614fa4c4c",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "738830593f1f9fca08591cffba9240b60189793b68c4661c61b3908b0cc0fb03"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11178-2021-sapl-13262.md",
+      "sha256": "bdca096fc0120c2895cc3e93d4f8a4220b8a5548441be17522c0ad7f025d4b56",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "da37987cb38248e104714fcd2bd755b9878a7664ad90100a58caef87c2c970ad"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11177-2021-sapl-13261.md",
+      "sha256": "ccfba39a375bdb50283090a097c661edb8c39a1c92a344b6a87afd6b69cf22b0",
+      "aprovado": true,
+      "dispositivos_ativos": 75,
+      "historicos": 0,
+      "sha256_fonte": "ac9f0f423ff3f676e1f1ddb814ecb689a933d5a89518e78ebc4f6edcdc9f2880"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11172-2021-sapl-13250.md",
+      "sha256": "a5ab7f77e789667e28b4af4a32514540184867d8255ca6a1be00a0c02ab50367",
+      "aprovado": true,
+      "dispositivos_ativos": 41,
+      "historicos": 0,
+      "sha256_fonte": "4ae1c0e270e5296ae904563a268a4ebbd358a334cec715d66ed6ef684f31fbfb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11171-2021-sapl-13248.md",
+      "sha256": "b588ba05de5cbaf93e742689691955f5a3910681b033b780a1da88dd442e973c",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "87b554d837dfad05853802a9b35c120b2d2df6f12638b9d375ff7f9f0e0d0838"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11170-2021-sapl-13246.md",
+      "sha256": "f29c31423f393505e2bb1a50f24e92bb7bbe3ce34d635a58b24fab8448f8e0e9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "52ea4ba4145e7600d28c7057b994aafae0f671b4c3302fc5722ffe9e933ff922"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11169-2021-sapl-13245.md",
+      "sha256": "cd5d3832af5b0004795bd7c392a7d7fd24015aa73f93c25780ce41a9ae099e7c",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b4be0c01dca0e677aec790953c0f01e516c3b2987dc7df7615d85689ec4d0a85"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11168-2021-sapl-13243.md",
+      "sha256": "4160bf17da4d01515d68605da9c3d43d29e648fdd9fd4fe7fb8eee0e3c67feb8",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "33403078fa74c4d5517c7f32181660dcc0aac639f66c6ff187f68608fff6227c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11167-2021-sapl-13242.md",
+      "sha256": "90f66741ea3c43b28c51fec873fa89fb6c418bd3e0c488e9e0d84985a5d96e0b",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "ebcca46c635f6e7626a35dfa1dc114008c6905631e31aa914f529d93457936b5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11166-2021-sapl-13241.md",
+      "sha256": "08c035e6830e3fcd93e7a0cc133b15ae3db2285d627066980e9a29a976de05d5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "45fa01548d5348ca9ed378b04ba3ad908799b0cc4f1359824ace557b2ba92d64"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11160-2021-sapl-13234.md",
+      "sha256": "811081977215fdfe9bc22e02ec5c2cbe3a434c6f7539b6bf73acd58744f0ceb8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "cc0b7a660a0c7ac3b1ee9d012e78b63802e47207b819dbd79f3da2299c45345a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11158-2021-sapl-13233.md",
+      "sha256": "f213d15a5e9b6278806ef8b55edb82c4642eccbb5dab017d57b1c35cd38a6438",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "c4426bc6134ca37885243545a5e54c1228dfc2342cac04bd051ffa5fd7093a0e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11157-2021-sapl-13232.md",
+      "sha256": "e111e07eac5016d914cf5483db15328cf72cd58de62ca0c6ed6efc820d16385f",
+      "aprovado": true,
+      "dispositivos_ativos": 34,
+      "historicos": 0,
+      "sha256_fonte": "d16b9a592c2c9572fda579bf212c68e96a9583299e203c02ff8bb4e8e28d6583"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11155-2021-sapl-13229.md",
+      "sha256": "bb0db8f9e124f75efcc6ad0c3c76feb44e8763f41cda7c259761f121fa779571",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "366261aee604da2779e8a587c85406f68f312e332168262ac5863cbc1d54f96f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11154-2021-sapl-13231.md",
+      "sha256": "690c43552a9e9bb9fc29a49f0496a45e9a3eaca7817ec16d39c765b037939b7b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "961b715dbf1fdd30e8f23a00b7b1b01ec9c0df15ca467c78d919fc56f8aff3b8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22308-2026-sapl-29588.md",
+      "sha256": "edb8fbd88b15fa7d1a83fada6c7a986b40c5b732fba9e3609c95139597ed86d5",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "5749870cbc29a9b169910dc53b1cf0c8ec1398b11b587e170f8c501ab4065b53"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11153-2021-sapl-13224.md",
+      "sha256": "5649ab35794137e275d317d45523242adc9902cdd09e374fc7217d4b6d99cf10",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7adc6b889a03e44f0a2a9dc1c377ca87defcb1ba1c3e76b9b3f93cb5c6be998a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11151-2021-sapl-13223.md",
+      "sha256": "b2a00f52a619c3eaac9c00f9aad1b8bc653202e4128d44ecef8a9e6317c2e03a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ceb58d9e0e17e99bc15fae1b6ead187b259db6e2d6f0655e4def848aeb10ab25"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11150-2021-sapl-13222.md",
+      "sha256": "5437dbf81e5859c5bef6fccabc4ce632b91f46a1d153cdd65516c92d4aa8db54",
+      "aprovado": true,
+      "dispositivos_ativos": 33,
+      "historicos": 0,
+      "sha256_fonte": "5f5e3e75f57c160afd555923425025cda9318681109ae0f7e1857e6ae68924fc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11149-2021-sapl-13221.md",
+      "sha256": "77dcf9c871399ff19290b2d06fc5fb4d30de66c1cb5906f12d07b897d17518b8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "75e76f9cee65e425bd8476b12ad8bb66e3f8c55337a28586e1b54c6324a26b91"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11148-2021-sapl-13220.md",
+      "sha256": "bae090a5d623ecc3d9f9c20d1e951f6f189b9998b071efcc59a5c62a642b9a64",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b99038193ad73f93102cbf17bf3e78a37453ac461d0592843dc4e048754fc955"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11147-2021-sapl-13226.md",
+      "sha256": "8f6f934a6e7cfbe70f468bd01083d87b530f5b7d9ea37b9330fadc555de10afd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fb8f0ec72a90bb4d0d8b1aaa9aeea7a6fb999e8ebe6c5b4c4612ed297b736869"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2021/leis-complementares-303-2021-sapl-13214.md",
+      "sha256": "2182e6f541f0d113aff080043d83897e050a8304e4808016cfc34a6a381c6a2c",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4fea44ed7eb43da4eb22e0bad1a98710f72cec5c4a642d5682e07ace6b60ec2d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11146-2021-sapl-13215.md",
+      "sha256": "7fa4c0d8799717fbb7697f0cfb70c7b45a76976cce2734773a239637af731319",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "e0a87b8f7ae7fc026d6e4feaf6d4e586a9da4cbc7de6197cfa67354c70b919f2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11144-2021-sapl-13200.md",
+      "sha256": "52449fa0455bc7d2c9e7f7ba33f6bb00aec2e48a9bc40062207a0bdd6eced984",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d564b39c92d970985a5a59ef0db014f3c86ef65cef61ca0681823cbac69c8dd3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11143-2021-sapl-13199.md",
+      "sha256": "c6061db4ca6dc3c8d7b5688e4396e58c77402accaa9a5fd21548500b228a65ec",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ae302efe74130d572be1ccb1bacb8fafbbc077d1d5aa7ca6592e0760f742a123"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22300-2026-sapl-29571.md",
+      "sha256": "5683cd946272086c8497bf311433f0db127bd84950ee1bb43226a630ba810307",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "eff9df71211ccd20e4d3e07e81fea84ba33aacfc637894b13fc9301942d7180a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11138-2021-sapl-13163.md",
+      "sha256": "25f5bd5a9f08694c814f7ca77c8be2b4c777e3503072ff33cf4241eb025e9dee",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "85db4502940c4c529ed01eebfc86fd643de14147ed72b4da74911a231536e175"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11137-2021-sapl-13162.md",
+      "sha256": "652b08d00382f1e2016f1f6114034feac802524b3c73d298dac6d9b30803c28b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "052cbca6d99ac6fd7f0d7acbe4bcb365a7408096ef35d098230aa982134e07d6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11136-2021-sapl-13161.md",
+      "sha256": "073cab317774977db5ce75d8347927d57e615f8afbd903141f6eb6d68e644be6",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "198dc91defea53bb80df126a58e0ab52e0a03743477f9fbef320a28abb96d408"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11135-2021-sapl-13160.md",
+      "sha256": "e5f9d097332b899e83233b0590f9f828d6eef881b1b2a98d979c0cfaba360db3",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "ff2f9633589af2c27d06c49c3fbf7b881c454d05caf888d4458799c126a2ae24"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11134-2021-sapl-13159.md",
+      "sha256": "a8b49e0b862c752e06ea4f4176bea0fffd721c3167b2470792bfd6b2e2c8e099",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "708281460db1b1918f8625f5f26d56df9d8bbea34b9a516242872ffb6b9fdd1f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11133-2021-sapl-13158.md",
+      "sha256": "140d9ed10affb9a7190e7236483f66b4c6776120efc10f2652b97d3d18b1a007",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "da69b9c23d7c3badd2113fc8c7ce767ddce08f92651c4efd76a7c245e4ebe0d6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11132-2021-sapl-13157.md",
+      "sha256": "fee8c234436d65b74c2c2e093f8edd176a15087e2af2dfd54ee72e6dc7c29caf",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b6591bef50e8a875d49b1fbacf989532c0f86a47f42f12ab375326fc9c711ade"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11131-2021-sapl-13156.md",
+      "sha256": "33cd2062206e6b88b7eabef02e5283aafd83db60116fef855c8d123d7eb342dd",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "43fbfa28d2825d728c301a03476f21cf95c257a2dcf05bf4c463b5c192bd2a25"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2021/leis-ordinarias-11129-2021-sapl-13132.md",
+      "sha256": "1afffe50ece1f0a32fe9bfabb82af1b8b582a8e7ada820375eb59a54f30e9b50",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "5a20f449337333f278b0d124948ffb31ae738174eaf620e2d71dc288e4d38c72"
+    }
+  ]
+}

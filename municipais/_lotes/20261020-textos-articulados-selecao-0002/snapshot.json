@@ -1,0 +1,2526 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 500,
+  "disponiveis_apos_exclusoes": 1052,
+  "exclusoes": [
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-captura/sapl.fortaleza.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "18bc92861ad10d21b1e9fdb68f467651f66d8f581a7193fc2894cd3c5a70a181",
+      "bytes_prefixo": 3558008
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "04423f9751424d6459a6932f6463743381d06560f0bb6cc43a664800dd1d1255",
+      "bytes_prefixo": 3759823
+    }
+  ],
+  "script_sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+  "identidades": [
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3949,
+      "norma_id": 13124
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9667,
+      "norma_id": 29565
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3761,
+      "norma_id": 13122
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9625,
+      "norma_id": 29523
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3950,
+      "norma_id": 13123
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9694,
+      "norma_id": 29593
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3951,
+      "norma_id": 13121
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9664,
+      "norma_id": 29562
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3952,
+      "norma_id": 13120
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9835,
+      "norma_id": 29628
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3953,
+      "norma_id": 13155
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9663,
+      "norma_id": 29561
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3954,
+      "norma_id": 13117
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9662,
+      "norma_id": 29560
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3955,
+      "norma_id": 13116
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9661,
+      "norma_id": 29559
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3772,
+      "norma_id": 13115
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9660,
+      "norma_id": 29558
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3956,
+      "norma_id": 13111
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9659,
+      "norma_id": 29557
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3957,
+      "norma_id": 13114
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9657,
+      "norma_id": 29555
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3958,
+      "norma_id": 13113
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9652,
+      "norma_id": 29550
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3959,
+      "norma_id": 13110
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9643,
+      "norma_id": 29541
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3960,
+      "norma_id": 13109
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9637,
+      "norma_id": 29535
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3961,
+      "norma_id": 13108
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9457,
+      "norma_id": 29386
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3962,
+      "norma_id": 13119
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9452,
+      "norma_id": 29385
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3963,
+      "norma_id": 13118
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9677,
+      "norma_id": 29575
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3968,
+      "norma_id": 13107
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9676,
+      "norma_id": 29574
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3970,
+      "norma_id": 13105
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9636,
+      "norma_id": 29534
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3971,
+      "norma_id": 13104
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9635,
+      "norma_id": 29533
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3972,
+      "norma_id": 13103
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9675,
+      "norma_id": 29573
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3973,
+      "norma_id": 13100
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9674,
+      "norma_id": 29572
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3974,
+      "norma_id": 13102
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9609,
+      "norma_id": 29507
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3975,
+      "norma_id": 13097
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9634,
+      "norma_id": 29532
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3976,
+      "norma_id": 13096
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9656,
+      "norma_id": 29554
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3977,
+      "norma_id": 13094
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9655,
+      "norma_id": 29553
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3741,
+      "norma_id": 13098
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9654,
+      "norma_id": 29552
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3978,
+      "norma_id": 13082
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9653,
+      "norma_id": 29551
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3981,
+      "norma_id": 13095
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9633,
+      "norma_id": 29531
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3982,
+      "norma_id": 13084
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9632,
+      "norma_id": 29530
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3983,
+      "norma_id": 13085
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9631,
+      "norma_id": 29529
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3737,
+      "norma_id": 13087
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9630,
+      "norma_id": 29528
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3984,
+      "norma_id": 13086
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9628,
+      "norma_id": 29526
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3944,
+      "norma_id": 13083
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9627,
+      "norma_id": 29525
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3731,
+      "norma_id": 13069
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9626,
+      "norma_id": 29524
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3989,
+      "norma_id": 13080
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9651,
+      "norma_id": 29549
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3990,
+      "norma_id": 13075
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9650,
+      "norma_id": 29548
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4017,
+      "norma_id": 13071
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9649,
+      "norma_id": 29547
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4018,
+      "norma_id": 13081
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9648,
+      "norma_id": 29546
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3980,
+      "norma_id": 13070
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9624,
+      "norma_id": 29522
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4019,
+      "norma_id": 13068
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9623,
+      "norma_id": 29521
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4020,
+      "norma_id": 13078
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9622,
+      "norma_id": 29520
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4021,
+      "norma_id": 13073
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9621,
+      "norma_id": 29519
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4022,
+      "norma_id": 13066
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9620,
+      "norma_id": 29518
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4023,
+      "norma_id": 13076
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9619,
+      "norma_id": 29517
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4024,
+      "norma_id": 13072
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9618,
+      "norma_id": 29516
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3969,
+      "norma_id": 13067
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9617,
+      "norma_id": 29515
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3773,
+      "norma_id": 13074
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9616,
+      "norma_id": 29514
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3966,
+      "norma_id": 13077
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9615,
+      "norma_id": 29513
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3717,
+      "norma_id": 13064
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9614,
+      "norma_id": 29512
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3715,
+      "norma_id": 13063
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9613,
+      "norma_id": 29511
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3710,
+      "norma_id": 13059
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9612,
+      "norma_id": 29510
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3947,
+      "norma_id": 13052
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9611,
+      "norma_id": 29509
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3946,
+      "norma_id": 13054
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9610,
+      "norma_id": 29508
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3945,
+      "norma_id": 13053
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9608,
+      "norma_id": 29506
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3812,
+      "norma_id": 13091
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9607,
+      "norma_id": 29505
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4032,
+      "norma_id": 13050
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9703,
+      "norma_id": 29595
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3734,
+      "norma_id": 13048
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9647,
+      "norma_id": 29545
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4033,
+      "norma_id": 13047
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9646,
+      "norma_id": 29544
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3707,
+      "norma_id": 13024
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9645,
+      "norma_id": 29543
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3720,
+      "norma_id": 13023
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9644,
+      "norma_id": 29542
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3686,
+      "norma_id": 13017
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9604,
+      "norma_id": 29502
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3713,
+      "norma_id": 13018
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9602,
+      "norma_id": 29500
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4440,
+      "norma_id": 13019
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9600,
+      "norma_id": 29498
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3683,
+      "norma_id": 13015
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9591,
+      "norma_id": 29489
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3682,
+      "norma_id": 13014
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9606,
+      "norma_id": 29504
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3678,
+      "norma_id": 13004
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9642,
+      "norma_id": 29540
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3681,
+      "norma_id": 13005
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9641,
+      "norma_id": 29539
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3502,
+      "norma_id": 12990
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9640,
+      "norma_id": 29538
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3517,
+      "norma_id": 12979
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9587,
+      "norma_id": 29486
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3519,
+      "norma_id": 12974
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9639,
+      "norma_id": 29537
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3482,
+      "norma_id": 12953
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9586,
+      "norma_id": 29485
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3494,
+      "norma_id": 12977
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9585,
+      "norma_id": 29484
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3705,
+      "norma_id": 12948
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9584,
+      "norma_id": 29483
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3704,
+      "norma_id": 12920
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9576,
+      "norma_id": 29475
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3721,
+      "norma_id": 12954
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9575,
+      "norma_id": 29474
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3521,
+      "norma_id": 12956
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9563,
+      "norma_id": 29463
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3481,
+      "norma_id": 12957
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9583,
+      "norma_id": 29482
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3503,
+      "norma_id": 12931
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9582,
+      "norma_id": 29481
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3504,
+      "norma_id": 12932
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9581,
+      "norma_id": 29480
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3709,
+      "norma_id": 12916
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9580,
+      "norma_id": 29479
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3722,
+      "norma_id": 12955
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9564,
+      "norma_id": 29464
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3522,
+      "norma_id": 12907
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9565,
+      "norma_id": 29465
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3523,
+      "norma_id": 12906
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9566,
+      "norma_id": 29466
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3524,
+      "norma_id": 12905
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9589,
+      "norma_id": 29488
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3500,
+      "norma_id": 12899
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9573,
+      "norma_id": 29473
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3512,
+      "norma_id": 12895
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9577,
+      "norma_id": 29476
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3723,
+      "norma_id": 12894
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9572,
+      "norma_id": 29472
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3639,
+      "norma_id": 12871
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9571,
+      "norma_id": 29471
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3640,
+      "norma_id": 12867
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9570,
+      "norma_id": 29470
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3727,
+      "norma_id": 12862
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9569,
+      "norma_id": 29469
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3515,
+      "norma_id": 12876
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9568,
+      "norma_id": 29468
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3520,
+      "norma_id": 12873
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9567,
+      "norma_id": 29467
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3490,
+      "norma_id": 12868
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9562,
+      "norma_id": 29462
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3489,
+      "norma_id": 12869
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9561,
+      "norma_id": 29461
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3527,
+      "norma_id": 12887
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9560,
+      "norma_id": 29460
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3525,
+      "norma_id": 12877
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9579,
+      "norma_id": 29478
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3677,
+      "norma_id": 12854
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9578,
+      "norma_id": 29477
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3488,
+      "norma_id": 12847
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9678,
+      "norma_id": 29576
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3487,
+      "norma_id": 12846
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9558,
+      "norma_id": 29458
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3675,
+      "norma_id": 12849
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9544,
+      "norma_id": 29444
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3674,
+      "norma_id": 12835
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9780,
+      "norma_id": 29614
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3673,
+      "norma_id": 12834
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9552,
+      "norma_id": 29452
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3672,
+      "norma_id": 12833
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9553,
+      "norma_id": 29453
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3669,
+      "norma_id": 12836
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9554,
+      "norma_id": 29454
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3486,
+      "norma_id": 12819
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9555,
+      "norma_id": 29455
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3668,
+      "norma_id": 12822
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9557,
+      "norma_id": 29457
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3667,
+      "norma_id": 12821
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9519,
+      "norma_id": 29442
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3666,
+      "norma_id": 12820
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9551,
+      "norma_id": 29451
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3665,
+      "norma_id": 12823
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9556,
+      "norma_id": 29456
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3664,
+      "norma_id": 12818
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9550,
+      "norma_id": 29450
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3663,
+      "norma_id": 12810
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9549,
+      "norma_id": 29449
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3662,
+      "norma_id": 12809
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9547,
+      "norma_id": 29448
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3661,
+      "norma_id": 12807
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9548,
+      "norma_id": 29447
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3659,
+      "norma_id": 12805
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9546,
+      "norma_id": 29446
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3658,
+      "norma_id": 12803
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9545,
+      "norma_id": 29445
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3657,
+      "norma_id": 12802
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9518,
+      "norma_id": 29441
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3656,
+      "norma_id": 12800
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9517,
+      "norma_id": 29440
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3655,
+      "norma_id": 12799
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9502,
+      "norma_id": 29425
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3654,
+      "norma_id": 12797
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9516,
+      "norma_id": 29439
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3653,
+      "norma_id": 12811
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9515,
+      "norma_id": 29438
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3652,
+      "norma_id": 12808
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9514,
+      "norma_id": 29437
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3651,
+      "norma_id": 12796
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9495,
+      "norma_id": 29419
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3528,
+      "norma_id": 12806
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9489,
+      "norma_id": 29412
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3529,
+      "norma_id": 12804
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9488,
+      "norma_id": 29411
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3532,
+      "norma_id": 12798
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9481,
+      "norma_id": 29404
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3533,
+      "norma_id": 12812
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9480,
+      "norma_id": 29403
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3535,
+      "norma_id": 12813
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9513,
+      "norma_id": 29436
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3536,
+      "norma_id": 12801
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9509,
+      "norma_id": 29432
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3537,
+      "norma_id": 12787
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9508,
+      "norma_id": 29431
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3548,
+      "norma_id": 12784
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9507,
+      "norma_id": 29430
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3581,
+      "norma_id": 12783
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9506,
+      "norma_id": 29429
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3636,
+      "norma_id": 12786
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9505,
+      "norma_id": 29428
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3637,
+      "norma_id": 12785
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9503,
+      "norma_id": 29426
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3638,
+      "norma_id": 12789
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9501,
+      "norma_id": 29424
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3641,
+      "norma_id": 12788
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9499,
+      "norma_id": 29422
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3642,
+      "norma_id": 12790
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9498,
+      "norma_id": 29421
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3650,
+      "norma_id": 12779
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9497,
+      "norma_id": 29420
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3439,
+      "norma_id": 12775
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9496,
+      "norma_id": 29418
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3649,
+      "norma_id": 12777
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9493,
+      "norma_id": 29416
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3648,
+      "norma_id": 12776
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9492,
+      "norma_id": 29415
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3444,
+      "norma_id": 12774
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9491,
+      "norma_id": 29414
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3417,
+      "norma_id": 12771
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9490,
+      "norma_id": 29413
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3418,
+      "norma_id": 12767
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9487,
+      "norma_id": 29410
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3422,
+      "norma_id": 12770
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9486,
+      "norma_id": 29409
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3421,
+      "norma_id": 12769
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9485,
+      "norma_id": 29408
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3420,
+      "norma_id": 12772
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9484,
+      "norma_id": 29407
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3419,
+      "norma_id": 12768
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9483,
+      "norma_id": 29406
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3410,
+      "norma_id": 12766
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9482,
+      "norma_id": 29405
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3411,
+      "norma_id": 12765
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9476,
+      "norma_id": 29399
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3393,
+      "norma_id": 12530
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9475,
+      "norma_id": 29397
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3375,
+      "norma_id": 12545
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9474,
+      "norma_id": 29393
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3408,
+      "norma_id": 12294
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9512,
+      "norma_id": 29435
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3427,
+      "norma_id": 12068
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9479,
+      "norma_id": 29402
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3426,
+      "norma_id": 12067
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9450,
+      "norma_id": 29384
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3354,
+      "norma_id": 12305
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9588,
+      "norma_id": 29487
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3398,
+      "norma_id": 12543
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9478,
+      "norma_id": 29401
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3397,
+      "norma_id": 12541
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9477,
+      "norma_id": 29400
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3392,
+      "norma_id": 12386
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9511,
+      "norma_id": 29434
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3368,
+      "norma_id": 12298
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9469,
+      "norma_id": 29392
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3390,
+      "norma_id": 12300
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9467,
+      "norma_id": 29391
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3374,
+      "norma_id": 12299
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9466,
+      "norma_id": 29390
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3372,
+      "norma_id": 12297
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9465,
+      "norma_id": 29389
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3373,
+      "norma_id": 12295
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9464,
+      "norma_id": 29388
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3394,
+      "norma_id": 12296
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9463,
+      "norma_id": 29387
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3389,
+      "norma_id": 12301
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9446,
+      "norma_id": 29380
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3388,
+      "norma_id": 12293
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9510,
+      "norma_id": 29433
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3387,
+      "norma_id": 12303
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9449,
+      "norma_id": 29383
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3371,
+      "norma_id": 12302
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9439,
+      "norma_id": 29373
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3386,
+      "norma_id": 12304
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9448,
+      "norma_id": 29382
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3405,
+      "norma_id": 12306
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9444,
+      "norma_id": 29378
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3385,
+      "norma_id": 10813
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9443,
+      "norma_id": 29377
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3367,
+      "norma_id": 10514
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9442,
+      "norma_id": 29376
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3364,
+      "norma_id": 10513
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9440,
+      "norma_id": 29374
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3384,
+      "norma_id": 10518
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9445,
+      "norma_id": 29379
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3361,
+      "norma_id": 10512
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9438,
+      "norma_id": 29372
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3383,
+      "norma_id": 10517
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9421,
+      "norma_id": 29355
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3362,
+      "norma_id": 10516
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9418,
+      "norma_id": 29353
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3391,
+      "norma_id": 10519
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9415,
+      "norma_id": 29350
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3363,
+      "norma_id": 10511
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9437,
+      "norma_id": 29371
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3428,
+      "norma_id": 9459
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9435,
+      "norma_id": 29369
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3415,
+      "norma_id": 10151
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9434,
+      "norma_id": 29368
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3396,
+      "norma_id": 10476
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9436,
+      "norma_id": 29370
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3414,
+      "norma_id": 9317
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9433,
+      "norma_id": 29367
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3355,
+      "norma_id": 9314
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9432,
+      "norma_id": 29366
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3412,
+      "norma_id": 9321
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9431,
+      "norma_id": 29365
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3366,
+      "norma_id": 8401
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9430,
+      "norma_id": 29364
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3404,
+      "norma_id": 8086
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9429,
+      "norma_id": 29363
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3358,
+      "norma_id": 8088
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9428,
+      "norma_id": 29362
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3382,
+      "norma_id": 7593
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9427,
+      "norma_id": 29361
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3359,
+      "norma_id": 7592
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9426,
+      "norma_id": 29360
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3403,
+      "norma_id": 7590
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9416,
+      "norma_id": 29351
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3360,
+      "norma_id": 6573
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9425,
+      "norma_id": 29359
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3370,
+      "norma_id": 6586
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9424,
+      "norma_id": 29358
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3380,
+      "norma_id": 6576
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9423,
+      "norma_id": 29357
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3381,
+      "norma_id": 6587
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9422,
+      "norma_id": 29356
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3379,
+      "norma_id": 6590
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9420,
+      "norma_id": 29354
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3406,
+      "norma_id": 6585
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9376,
+      "norma_id": 29325
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3401,
+      "norma_id": 6588
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9378,
+      "norma_id": 29327
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3356,
+      "norma_id": 6529
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9379,
+      "norma_id": 29328
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3400,
+      "norma_id": 6299
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9380,
+      "norma_id": 29329
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3395,
+      "norma_id": 6298
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9382,
+      "norma_id": 29331
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3399,
+      "norma_id": 6303
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9383,
+      "norma_id": 29332
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3369,
+      "norma_id": 6297
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9389,
+      "norma_id": 29337
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 4122,
+      "norma_id": 6574
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9390,
+      "norma_id": 29339
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3378,
+      "norma_id": 5936
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9411,
+      "norma_id": 29346
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3357,
+      "norma_id": 5935
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9410,
+      "norma_id": 29345
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3377,
+      "norma_id": 5934
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9409,
+      "norma_id": 29344
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3376,
+      "norma_id": 5933
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9417,
+      "norma_id": 29352
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3147,
+      "norma_id": 5859
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9374,
+      "norma_id": 29323
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3209,
+      "norma_id": 5860
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9385,
+      "norma_id": 29334
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3037,
+      "norma_id": 5632
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9384,
+      "norma_id": 29333
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3043,
+      "norma_id": 5629
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9372,
+      "norma_id": 29321
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3038,
+      "norma_id": 5631
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9381,
+      "norma_id": 29330
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2774,
+      "norma_id": 5616
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9377,
+      "norma_id": 29326
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2702,
+      "norma_id": 5617
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9338,
+      "norma_id": 29309
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2701,
+      "norma_id": 5618
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9371,
+      "norma_id": 29320
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2700,
+      "norma_id": 5607
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9327,
+      "norma_id": 29308
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3041,
+      "norma_id": 5610
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9325,
+      "norma_id": 29306
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2699,
+      "norma_id": 5609
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9370,
+      "norma_id": 29319
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2427,
+      "norma_id": 5606
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9369,
+      "norma_id": 29318
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2424,
+      "norma_id": 5605
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9368,
+      "norma_id": 29317
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2422,
+      "norma_id": 5604
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9326,
+      "norma_id": 29307
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2420,
+      "norma_id": 5603
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9347,
+      "norma_id": 29311
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2417,
+      "norma_id": 5601
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9323,
+      "norma_id": 29304
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2413,
+      "norma_id": 5600
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9367,
+      "norma_id": 29316
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2410,
+      "norma_id": 5599
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9366,
+      "norma_id": 29315
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2408,
+      "norma_id": 5598
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9322,
+      "norma_id": 29303
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2406,
+      "norma_id": 5597
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9363,
+      "norma_id": 29314
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2281,
+      "norma_id": 5570
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10188,
+      "norma_id": 29726
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2263,
+      "norma_id": 5530
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9321,
+      "norma_id": 29302
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2280,
+      "norma_id": 5569
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9344,
+      "norma_id": 29310
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2279,
+      "norma_id": 5568
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9351,
+      "norma_id": 29312
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2278,
+      "norma_id": 5567
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9352,
+      "norma_id": 29313
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2277,
+      "norma_id": 5565
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9295,
+      "norma_id": 29293
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2255,
+      "norma_id": 5491
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9320,
+      "norma_id": 29301
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2403,
+      "norma_id": 5596
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9319,
+      "norma_id": 29300
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2402,
+      "norma_id": 5595
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9318,
+      "norma_id": 29299
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2398,
+      "norma_id": 5594
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9317,
+      "norma_id": 29298
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2248,
+      "norma_id": 5484
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9316,
+      "norma_id": 29297
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2192,
+      "norma_id": 5437
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9315,
+      "norma_id": 29296
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2190,
+      "norma_id": 5436
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9276,
+      "norma_id": 29282
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2254,
+      "norma_id": 5490
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9271,
+      "norma_id": 29277
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2189,
+      "norma_id": 5435
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9269,
+      "norma_id": 29275
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2188,
+      "norma_id": 5434
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9286,
+      "norma_id": 29288
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2186,
+      "norma_id": 5433
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9270,
+      "norma_id": 29276
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2185,
+      "norma_id": 5432
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9275,
+      "norma_id": 29281
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2182,
+      "norma_id": 5431
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9268,
+      "norma_id": 29274
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2253,
+      "norma_id": 5489
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9285,
+      "norma_id": 29287
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2252,
+      "norma_id": 5488
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9314,
+      "norma_id": 29295
+    }
+  ]
+}

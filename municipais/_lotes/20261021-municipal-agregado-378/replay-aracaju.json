@@ -1,0 +1,16 @@
+{
+  "aprovado": true,
+  "documento": "municipais/SE/aracaju/lei-organica/1990/lei-organica-aracaju-1990.md",
+  "sha256_md": "939312dfd931d546218d0895a1eaa2e234ca9a672f0402794f5a13972e1d2a49",
+  "fonte": "municipais/_fonte/capitais/aracaju/lei-organica-atualizada.pdf",
+  "sha256_pdf": "5126f91b91aa3d4d680d8282b2d4f51ebaf6a6abe11dfac79c9b3ba80e0dbc1e",
+  "motor": "markdown-it-py 4.0.0 CommonMark + table + strikethrough",
+  "extracao_nativa_fresca_igual_congelada": true,
+  "replay_caracteres_nao_brancos": true,
+  "pontuacao_sinais_alineas_folios_preservados": true,
+  "passagens_tachadas_identificadas": 73,
+  "sha256_visivel_fonte": "a4dd1fa5570727f0146574a9d2f3e25bb65221c0d48b7a260d5a5673cce584b0",
+  "sha256_visivel_renderizado": "a4dd1fa5570727f0146574a9d2f3e25bb65221c0d48b7a260d5a5673cce584b0",
+  "sha256_html_renderizado": "1182d891ea1bebd7e7f9c09bb2038e950aebc326d6760295cbbc8c39f998dfa2",
+  "limite": "Notas editoriais fora do bloco são identificadas como tais; nenhum texto oficial é removido da comparação, somente os rótulos acrescentados."
+}

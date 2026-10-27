@@ -1,0 +1,29 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-retomada-controles-volume/controle.json",
+      "sha256": "59e2ad6b21481efdd7ce3196728f28f99c0cf1040eb97b331cf34801f52985f1",
+      "bytes": 592
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-retomada-controles-volume/preflight.json",
+      "sha256": "602c34771abffeec628c38f53c92ca2bde45a9e62d2c53ad1a3ec6bcc6d1fd97",
+      "bytes": 1175
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-retomada-fila-ta-apos-volume/fila.preimagem.json",
+      "sha256": "0a78c64fdd6662b54a2fb4b3b798399645423b0b09c62be37c61e22b27fe395b",
+      "bytes": 49409
+    },
+    {
+      "arquivo": "scripts/retomar_fila_ta_sigi.py",
+      "sha256": "142a57efd29a0fdce667eb03da6895295e38efa1596698d899d2bd8a4a05a393",
+      "bytes": 2872
+    },
+    {
+      "arquivo": "scripts/test_retomar_fila_ta_sigi.py",
+      "sha256": "41ffe4cf362941113f6877801ea612f13ad3246e1d60f5ada29554b24edbc4ce",
+      "bytes": 961
+    }
+  ]
+}

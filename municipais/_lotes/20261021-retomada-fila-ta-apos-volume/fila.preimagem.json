@@ -1,0 +1,901 @@
+{
+  "legislativo.mutunopolis.go.leg.br": {
+    "host": "legislativo.mutunopolis.go.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Mutunópolis",
+      "uf": "GO",
+      "url": "https://legislativo.mutunopolis.go.leg.br/",
+      "codigo_ibge": "5214101",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "legislativo.mutunopolis.go.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:49.295497-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T04:58:50.255993-03:00"
+  },
+  "parlamentomirim.maraba.pa.leg.br": {
+    "host": "parlamentomirim.maraba.pa.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Marabá",
+      "uf": "PA",
+      "url": "https://parlamentomirim.maraba.pa.leg.br/",
+      "codigo_ibge": "1504208",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "parlamentomirim.maraba.pa.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:49.296237-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/parlamentomirim.maraba.pa.leg.br/5ca135cccbda4c262d9579195e90a6da6a04a319cea0fa612c08aa5ae705bae7.json",
+      "sha256": "410f93e8cb63e34b87b87576c0a31eff34a662c76e9541c76f913d3c610b1755",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/parlamentomirim.maraba.pa.leg.br/5ca135cccbda4c262d9579195e90a6da6a04a319cea0fa612c08aa5ae705bae7.meta.json",
+      "sha256_metadata": "ab839c0a7e1e5424b323a84b57c7e8c8721122ccb1ef7a9dd802cb9e5b7dc2ed"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/parlamentomirim.maraba.pa.leg.br/manifesto.json",
+    "sha256_manifesto": "1270c183c454d67fcaf5a192f5dc74572eba1e0c98f9da18a55912fa7b044b74",
+    "fim": "2026-10-21T04:58:53.655071-03:00"
+  },
+  "sapl.abrecampo.mg.leg.br": {
+    "host": "sapl.abrecampo.mg.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Abre Campo",
+      "uf": "MG",
+      "url": "https://sapl.abrecampo.mg.leg.br/",
+      "codigo_ibge": "3100302",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.abrecampo.mg.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:50.256816-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T04:58:51.826570-03:00"
+  },
+  "sapl.abreulandia.to.leg.br": {
+    "host": "sapl.abreulandia.to.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Abreulândia",
+      "uf": "TO",
+      "url": "https://sapl.abreulandia.to.leg.br/",
+      "codigo_ibge": "1700251",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.abreulandia.to.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:51.830986-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa não corresponde ao município/UF do vínculo SIGI",
+    "fim": "2026-10-21T04:58:53.059841-03:00"
+  },
+  "sapl.acari.rn.leg.br": {
+    "host": "sapl.acari.rn.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Acari",
+      "uf": "RN",
+      "url": "https://sapl.acari.rn.leg.br/",
+      "codigo_ibge": "2400109",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.acari.rn.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:53.060657-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.json",
+      "sha256": "a9185e9ff32b691d3a3dcd3cdf8d52f5bcba32d252c5514120265f297cc3ff91",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.meta.json",
+      "sha256_metadata": "ca015eecb6f61d5191c36716d528f5ca6d345966b7dbef3e27067f96c432b81a"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.acari.rn.leg.br/manifesto.json",
+    "sha256_manifesto": "ed79710d19f29283d476c92574bb488a416103d8ad76c283047dc83f55280a65",
+    "fim": "2026-10-21T05:22:19.498098-03:00"
+  },
+  "sapl.acaua.pi.leg.br": {
+    "host": "sapl.acaua.pi.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Acauã",
+      "uf": "PI",
+      "url": "https://sapl.acaua.pi.leg.br/",
+      "codigo_ibge": "2200053",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.acaua.pi.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:53.685631-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acaua.pi.leg.br/92382a1561f3914d53ef890cb85417f456b15c93505c5554746c24de36738f23.json",
+      "sha256": "57da6f82b336d2c60b10781d273cf0303231f545a18cf6305f4167072a783fdc",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acaua.pi.leg.br/92382a1561f3914d53ef890cb85417f456b15c93505c5554746c24de36738f23.meta.json",
+      "sha256_metadata": "a423928d91e2ccb6859ac6715764150ad67e29a515579cb74f693050fdba5660"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.acaua.pi.leg.br/manifesto.json",
+    "sha256_manifesto": "75d97b719ced23997895d10a03ba93d1b765859d470a9f467eda8b580c3be642",
+    "fim": "2026-10-21T04:58:59.259654-03:00"
+  },
+  "sapl.acegua.rs.leg.br": {
+    "host": "sapl.acegua.rs.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Aceguá",
+      "uf": "RS",
+      "url": "https://sapl.acegua.rs.leg.br/",
+      "codigo_ibge": "4300034",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.acegua.rs.leg.br"
+    },
+    "inicio": "2026-10-21T04:58:59.260904-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acegua.rs.leg.br/2d9cc19596d3ef7c1b27f2dbb8be55d17a19b0b08ccc7694a7935da360a788ae.json",
+      "sha256": "8eba1589c2dfb71e369385cfa303cc303a40a0dc5ed8419080390da196896530",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acegua.rs.leg.br/2d9cc19596d3ef7c1b27f2dbb8be55d17a19b0b08ccc7694a7935da360a788ae.meta.json",
+      "sha256_metadata": "36c2001743ebba4e152a0db42a4e4b305812b412833e576a53a2c973a626d6dc"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.acegua.rs.leg.br/manifesto.json",
+    "sha256_manifesto": "b0d9ac9ac76a6ea5674abf40477874a4dc7b4f45a139f4a1a4d5f277a793b2c5",
+    "fim": "2026-10-21T04:59:13.640473-03:00"
+  },
+  "sapl.acrelandia.ac.leg.br": {
+    "host": "sapl.acrelandia.ac.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Acrelândia",
+      "uf": "AC",
+      "url": "https://sapl.acrelandia.ac.leg.br/",
+      "codigo_ibge": "1200013",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.acrelandia.ac.leg.br"
+    },
+    "inicio": "2026-10-21T04:59:13.645468-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acrelandia.ac.leg.br/933fcdae81246b5a8ce9bc7ac0171beeceb87d44346caac781614c1502c562af.json",
+      "sha256": "ee242e44fbe28b35fc372dab13b24dff54cd7edc32c146a98e1fd0286e7abd29",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acrelandia.ac.leg.br/933fcdae81246b5a8ce9bc7ac0171beeceb87d44346caac781614c1502c562af.meta.json",
+      "sha256_metadata": "72917d195edaddb63ffe688e852d0de52c784d5e1b2271850aec5e48e4a4dac2"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.acrelandia.ac.leg.br/manifesto.json",
+    "sha256_manifesto": "cc4577b3853e23a2be22ba69a70c48575591d15758070bf5b97f71b6a745d2d3",
+    "fim": "2026-10-21T04:59:19.055376-03:00"
+  },
+  "sapl.adamantina.sp.leg.br": {
+    "host": "sapl.adamantina.sp.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Adamantina",
+      "uf": "SP",
+      "url": "https://sapl.adamantina.sp.leg.br/",
+      "codigo_ibge": "3500105",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.adamantina.sp.leg.br"
+    },
+    "inicio": "2026-10-21T04:59:19.057147-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/458d3aba36f247db9ab096756d9728aa87201c6ad0ba22a140fa788f03da49e8.json",
+      "sha256": "b67e0372249ef763ad1c315dd0c41210794b09d193300e040923f2d39e50555a",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/458d3aba36f247db9ab096756d9728aa87201c6ad0ba22a140fa788f03da49e8.meta.json",
+      "sha256_metadata": "f9b4e4ad86ee6e27269eba82455a7c26b3a7e7a5524d0251184d1f046e8c567f"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.adamantina.sp.leg.br/manifesto.json",
+    "sha256_manifesto": "8f251875a7c4bc9b5d24d662cfe7e9d2c196e34235b922cb3a3eef16ca031964",
+    "fim": "2026-10-21T04:59:34.678467-03:00"
+  },
+  "sapl.afonsocunha.ma.leg.br": {
+    "host": "sapl.afonsocunha.ma.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Afonso Cunha",
+      "uf": "MA",
+      "url": "https://sapl.afonsocunha.ma.leg.br/",
+      "codigo_ibge": "2100105",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.afonsocunha.ma.leg.br"
+    },
+    "inicio": "2026-10-21T04:59:34.688032-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/dd8b522a8f3a8f935d8a0eee1ea1b2c3a1a20838e10a3a0cf004c11a8bc19639.json",
+      "sha256": "dfc50c60b84a738e2697b0adc79f46fe63f7539839e808c929fd57fe5ca56333",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/dd8b522a8f3a8f935d8a0eee1ea1b2c3a1a20838e10a3a0cf004c11a8bc19639.meta.json",
+      "sha256_metadata": "d3b34a8f48771314b4c36a81c637a989dc288cffa2688f1918366bb34e72aec2"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.afonsocunha.ma.leg.br/manifesto.json",
+    "sha256_manifesto": "c06a1082af60c0664742f69a9d9ddd696a92965663973ad0501b1d7aefdd5388",
+    "fim": "2026-10-21T04:59:40.314054-03:00"
+  },
+  "sapl.agrestina.pe.leg.br": {
+    "host": "sapl.agrestina.pe.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Agrestina",
+      "uf": "PE",
+      "url": "https://sapl.agrestina.pe.leg.br/",
+      "codigo_ibge": "2600302",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.agrestina.pe.leg.br"
+    },
+    "inicio": "2026-10-21T04:59:40.327560-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.agrestina.pe.leg.br/76e1a25ef096eb6d0a997182788a8cf7f35e69278ba4b920cbb3c53c5c004e00.json",
+      "sha256": "9d8bba76597c6f732e33817a2914d52cbbffecdbe49ce2fb2effb36e89ff2abd",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.agrestina.pe.leg.br/76e1a25ef096eb6d0a997182788a8cf7f35e69278ba4b920cbb3c53c5c004e00.meta.json",
+      "sha256_metadata": "ab4e6ad4dc42d28b5331f3d899e63b90ffb321c55658e639727528828fd955a9"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.agrestina.pe.leg.br/manifesto.json",
+    "sha256_manifesto": "6893e671b1f04af9eff80293349f8cf3af1110fd9f678b0ece0abb2ec624d9d9",
+    "fim": "2026-10-21T04:59:47.089268-03:00"
+  },
+  "sapl.aguaboa.mt.leg.br": {
+    "host": "sapl.aguaboa.mt.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Água Boa",
+      "uf": "MT",
+      "url": "https://sapl.aguaboa.mt.leg.br/",
+      "codigo_ibge": "5100201",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.aguaboa.mt.leg.br"
+    },
+    "inicio": "2026-10-21T04:59:47.090283-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/ded6ea0de5b8ed0fa4e66073577fd3edc0020ee3c7a0e3da8feb0d7c23c4006c.json",
+      "sha256": "80de02fad5e0f11a84332755233edea26ca09657d679e801536c9676e352345f",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/ded6ea0de5b8ed0fa4e66073577fd3edc0020ee3c7a0e3da8feb0d7c23c4006c.meta.json",
+      "sha256_metadata": "964f388fb81bb1db226d400c61ac270f5a3516f2f54e6107c83d85f992669079"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.aguaboa.mt.leg.br/manifesto.json",
+    "sha256_manifesto": "89fa408ef757bafca276b6978a00266cf470a72ba57322dfb711b8cef6398312",
+    "fim": "2026-10-21T05:00:03.231560-03:00"
+  },
+  "sapl.aguaclara.ms.leg.br": {
+    "host": "sapl.aguaclara.ms.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Água Clara",
+      "uf": "MS",
+      "url": "https://sapl.aguaclara.ms.leg.br/",
+      "codigo_ibge": "5000203",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.aguaclara.ms.leg.br"
+    },
+    "inicio": "2026-10-21T05:00:03.236705-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaclara.ms.leg.br/14c44a2534108327906c7aec8b04a4147bb5866677e1401092f0f4008fb6568a.json",
+      "sha256": "8a72cae2e572f04d49404abc1199b7aeef90930bef0b51399b9741baf8c1304b",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.aguaclara.ms.leg.br/14c44a2534108327906c7aec8b04a4147bb5866677e1401092f0f4008fb6568a.meta.json",
+      "sha256_metadata": "da1430a035b9b429faf4858a77b45ce80f957436036be49deccf10305cbf90af"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.aguaclara.ms.leg.br/manifesto.json",
+    "sha256_manifesto": "ccdadcdd7d0a710191c87771995c4e70cb19fbe9c404797691cee28267b128bf",
+    "fim": "2026-10-21T05:00:08.669084-03:00"
+  },
+  "sapl.aguasdaprata.sp.leg.br": {
+    "host": "sapl.aguasdaprata.sp.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Águas da Prata",
+      "uf": "SP",
+      "url": "https://sapl.aguasdaprata.sp.leg.br/",
+      "codigo_ibge": "3500402",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.aguasdaprata.sp.leg.br"
+    },
+    "inicio": "2026-10-21T05:00:08.677739-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T05:00:09.857436-03:00"
+  },
+  "sapl.aguasformosas.mg.leg.br": {
+    "host": "sapl.aguasformosas.mg.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Águas Formosas",
+      "uf": "MG",
+      "url": "https://sapl.aguasformosas.mg.leg.br/",
+      "codigo_ibge": "3100906",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.aguasformosas.mg.leg.br"
+    },
+    "inicio": "2026-10-21T05:00:09.858429-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/57d3ba20691643a1bc28af61df8a4551964b4f90ca6db64a696b67cb65cac678.json",
+      "sha256": "99dba8e7547ad7298a22dfc2c29d38b83e21c130dc15ac134b2db005f9c2e23f",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/57d3ba20691643a1bc28af61df8a4551964b4f90ca6db64a696b67cb65cac678.meta.json",
+      "sha256_metadata": "bc12bdfab22dd7b0461603a1cb13ed2087ce8020f6bb8525b2cd5fd57b6fb4c9"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.aguasformosas.mg.leg.br/manifesto.json",
+    "sha256_manifesto": "e547045cebe4ac80616959745861cd72f0e0ce19acdb8fdc24cfa3dd4d187689",
+    "fim": "2026-10-21T05:00:24.461635-03:00"
+  },
+  "sapl.agudo.rs.leg.br": {
+    "estado": "iniciado; não repetir automaticamente",
+    "inicio": "2026-10-21T05:00:24.462270-03:00",
+    "vinculo_sigi": {
+      "municipio": "Agudo",
+      "uf": "RS",
+      "url": "https://sapl.agudo.rs.leg.br/",
+      "codigo_ibge": "4300109",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.agudo.rs.leg.br"
+    }
+  },
+  "sapl.agudos.sp.leg.br": {
+    "host": "sapl.agudos.sp.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Agudos",
+      "uf": "SP",
+      "url": "https://sapl.agudos.sp.leg.br/",
+      "codigo_ibge": "3500709",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.agudos.sp.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:19.500500-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.agudos.sp.leg.br/443dcfdcca132f4a485d873182db49ae5725ae27293ff07170215c81dd369fd2.json",
+      "sha256": "45b376d482f1c48b3fb1b62ed414f11445eeca06b0608a04fb2b24b530d0b97b",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.agudos.sp.leg.br/443dcfdcca132f4a485d873182db49ae5725ae27293ff07170215c81dd369fd2.meta.json",
+      "sha256_metadata": "c24dc48ae29851be7fa67b31eed31ce2f8a7a4463ca7509d4975bcde2a8842e4"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.agudos.sp.leg.br/manifesto.json",
+    "sha256_manifesto": "728eef3cfb31feedc92b6b3f6535c03eac77f6d244f0b2cd3b62d35bf56e6539",
+    "fim": "2026-10-21T05:22:24.345256-03:00"
+  },
+  "sapl.alagoinhas.ba.leg.br": {
+    "host": "sapl.alagoinhas.ba.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alagoinhas",
+      "uf": "BA",
+      "url": "https://sapl.alagoinhas.ba.leg.br/",
+      "codigo_ibge": "2900702",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alagoinhas.ba.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:24.347310-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T05:22:25.736468-03:00"
+  },
+  "sapl.alcobaca.ba.leg.br": {
+    "host": "sapl.alcobaca.ba.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alcobaça",
+      "uf": "BA",
+      "url": "https://sapl.alcobaca.ba.leg.br/",
+      "codigo_ibge": "2900801",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alcobaca.ba.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:25.739969-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T05:22:26.732170-03:00"
+  },
+  "sapl.alegre.es.leg.br": {
+    "host": "sapl.alegre.es.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alegre",
+      "uf": "ES",
+      "url": "https://sapl.alegre.es.leg.br/",
+      "codigo_ibge": "3200201",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alegre.es.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:26.733487-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alegre.es.leg.br/1fbbbd21eb68992269d7d9614131d8bb17acc12341f172804800740042bceb90.json",
+      "sha256": "ddbb18bfdb41c27f8937da0b955c14639e49a0f440a442d47d39a10b77bd8325",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alegre.es.leg.br/1fbbbd21eb68992269d7d9614131d8bb17acc12341f172804800740042bceb90.meta.json",
+      "sha256_metadata": "e04c3205b356e297a890e1cd6ace0a9a525c174a42e2d7ec0dd0f52062f46981"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alegre.es.leg.br/manifesto.json",
+    "sha256_manifesto": "8e747a32881a1ecac2c431329e1b287d6c87fb21fa43cc9698cf4b11dea91d1a",
+    "fim": "2026-10-21T05:22:30.626027-03:00"
+  },
+  "sapl.alexandria.rn.leg.br": {
+    "host": "sapl.alexandria.rn.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alexandria",
+      "uf": "RN",
+      "url": "https://sapl.alexandria.rn.leg.br/",
+      "codigo_ibge": "2400505",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alexandria.rn.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:30.627446-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alexandria.rn.leg.br/0d434f6c7e31afe0d2acfcf79af3c77ed29417707e3e729fdc4aa20ec1d1f7f0.json",
+      "sha256": "fe8e6e2628fd69b685a283132cd09c1187a76f34847d644a4ba8edf00b071af9",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alexandria.rn.leg.br/0d434f6c7e31afe0d2acfcf79af3c77ed29417707e3e729fdc4aa20ec1d1f7f0.meta.json",
+      "sha256_metadata": "303c7e95abf6f9b960ea83712604c977c8cf2f1dbe605c900a6624ff294ec7cb"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alexandria.rn.leg.br/manifesto.json",
+    "sha256_manifesto": "8b0b8f087c9b62965730bea2099d4816ea0af7037683dedc6235323f58ffbd12",
+    "fim": "2026-10-21T05:22:47.322088-03:00"
+  },
+  "sapl.alfenas.mg.leg.br": {
+    "host": "sapl.alfenas.mg.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alfenas",
+      "uf": "MG",
+      "url": "https://sapl.alfenas.mg.leg.br/",
+      "codigo_ibge": "3101607",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alfenas.mg.leg.br"
+    },
+    "inicio": "2026-10-21T05:22:47.323583-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/6ef0cde83ebfb9887f4f2d3fc40030ed88802804df1682a4c9f6488d5f0cb9cb.json",
+      "sha256": "290967e4207d7cb52ec30bfce975ee674c3057d1a34db8909a4d57ffc00af85c",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/6ef0cde83ebfb9887f4f2d3fc40030ed88802804df1682a4c9f6488d5f0cb9cb.meta.json",
+      "sha256_metadata": "8a4c7a24d6f156a144661b6f8e8ed5be6aff36008736308c0bbb7bed6d3a1f2a"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alfenas.mg.leg.br/manifesto.json",
+    "sha256_manifesto": "68b2eb68bdd7659f45d474ee307ad023e579cd56adaefe2697401bdaa76f47fc",
+    "fim": "2026-10-21T05:24:05.817905-03:00"
+  },
+  "sapl.aliancadotocantins.to.leg.br": {
+    "host": "sapl.aliancadotocantins.to.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Aliança do Tocantins",
+      "uf": "TO",
+      "url": "https://sapl.aliancadotocantins.to.leg.br/",
+      "codigo_ibge": "1700350",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.aliancadotocantins.to.leg.br"
+    },
+    "inicio": "2026-10-21T05:24:05.819050-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aliancadotocantins.to.leg.br/a83df6f4f0e4a55faf28acc6a1cc39adb1cedb342c23d68487efe00d309f0d0a.json",
+      "sha256": "aa597bd61b05269df222390f4ade8308c237413d76c15f5d3319a7499dd22ac3",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.aliancadotocantins.to.leg.br/a83df6f4f0e4a55faf28acc6a1cc39adb1cedb342c23d68487efe00d309f0d0a.meta.json",
+      "sha256_metadata": "032653c5f79c5ada77b002bd6df2d8c941f3b4ecdd20205a6b016d356236532d"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.aliancadotocantins.to.leg.br/manifesto.json",
+    "sha256_manifesto": "e994006d8ad53a12f0e0fd42fafe0fd3691fe3e8937f04b0960540106585da1c",
+    "fim": "2026-10-21T05:24:10.938784-03:00"
+  },
+  "sapl.almirantetamandare.pr.leg.br": {
+    "host": "sapl.almirantetamandare.pr.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Almirante Tamandaré",
+      "uf": "PR",
+      "url": "https://sapl.almirantetamandare.pr.leg.br/",
+      "codigo_ibge": "4100400",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.almirantetamandare.pr.leg.br"
+    },
+    "inicio": "2026-10-21T05:24:10.939959-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.almirantetamandare.pr.leg.br/d9ddef664b96e50cb9f0b5ffb1f40a423b0658d1ad4490bddc59552ab9378a7d.json",
+      "sha256": "3aeef1c67a02246c78a7de4f2f827723d74f7277fdfbcff20d6561d83e77ed66",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.almirantetamandare.pr.leg.br/d9ddef664b96e50cb9f0b5ffb1f40a423b0658d1ad4490bddc59552ab9378a7d.meta.json",
+      "sha256_metadata": "878d68a8f475bdf701e98b1b072a88290f3f803b3c300676a5bc4a206f6caf10"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.almirantetamandare.pr.leg.br/manifesto.json",
+    "sha256_manifesto": "79af357a4537d4e5ec4bfb9187ae575d6d125943294c353c90097941c5774616",
+    "fim": "2026-10-21T05:24:16.777893-03:00"
+  },
+  "sapl.alpinopolis.mg.leg.br": {
+    "host": "sapl.alpinopolis.mg.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alpinópolis",
+      "uf": "MG",
+      "url": "https://sapl.alpinopolis.mg.leg.br/",
+      "codigo_ibge": "3101904",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alpinopolis.mg.leg.br"
+    },
+    "inicio": "2026-10-21T05:24:16.779441-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/8053ae7366c94d16e8d8025d4aa4ba0dc0dd27bb9f7d65528c2d1e82559ad08c.json",
+      "sha256": "732d76d57a5146c5724bb9faaf8f216adfeb72506aedd0e3be32a70fbb6c3de4",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/8053ae7366c94d16e8d8025d4aa4ba0dc0dd27bb9f7d65528c2d1e82559ad08c.meta.json",
+      "sha256_metadata": "5a55eff1f202af7b4fc2c87d5e5492b546238d0677d5d46b57c5304379fd7b63"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alpinopolis.mg.leg.br/manifesto.json",
+    "sha256_manifesto": "347ed9663088592a1472f5c686069dc8231c3d029a1d7d8ef77d737451cb87b4",
+    "fim": "2026-10-21T05:27:07.732496-03:00"
+  },
+  "sapl.altafloresta.mt.leg.br": {
+    "host": "sapl.altafloresta.mt.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alta Floresta",
+      "uf": "MT",
+      "url": "https://sapl.altafloresta.mt.leg.br/",
+      "codigo_ibge": "5100250",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altafloresta.mt.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:07.735752-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altafloresta.mt.leg.br/5ed47d70237bec84cc704138e648ef815ffbffa603abb24eafb5d1861d299701.json",
+      "sha256": "5a1bb0bdba4c095e9c4d67db080af8268b6875c3976289be6e63c82506276c01",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altafloresta.mt.leg.br/5ed47d70237bec84cc704138e648ef815ffbffa603abb24eafb5d1861d299701.meta.json",
+      "sha256_metadata": "804e4d16c98dbe3ecd90be3914e540d046626a283d5b2769616d646f316e2e99"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altafloresta.mt.leg.br/manifesto.json",
+    "sha256_manifesto": "8a84340e8b17a2b396866ad1a5cc2516bcc6d56f9a57668441d2d6f14c04e6a9",
+    "fim": "2026-10-21T05:27:13.944060-03:00"
+  },
+  "sapl.altaflorestadoeste.ro.leg.br": {
+    "host": "sapl.altaflorestadoeste.ro.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alta Floresta D'Oeste",
+      "uf": "RO",
+      "url": "https://sapl.altaflorestadoeste.ro.leg.br/",
+      "codigo_ibge": "1100015",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altaflorestadoeste.ro.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:13.945159-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altaflorestadoeste.ro.leg.br/3faeccdb2faeba40b0a5f5fef01a3f9776c14d9dae579254eb61f30ce54c0a00.json",
+      "sha256": "47a9dd2c123a54618e1f2453f96a2bee14db72b51991f284fac80197c945b6a2",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altaflorestadoeste.ro.leg.br/3faeccdb2faeba40b0a5f5fef01a3f9776c14d9dae579254eb61f30ce54c0a00.meta.json",
+      "sha256_metadata": "7415872d04c7fecad8fd093e8cad5a709cc9a7afc458cf7dea913f84059de84f"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altaflorestadoeste.ro.leg.br/manifesto.json",
+    "sha256_manifesto": "72c7970a4e30206368f425e5f03343ebf4614a3fe7bc4bb39279f8f3a0b03a52",
+    "fim": "2026-10-21T05:27:19.581446-03:00"
+  },
+  "sapl.altamira.pa.leg.br": {
+    "host": "sapl.altamira.pa.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Altamira",
+      "uf": "PA",
+      "url": "https://sapl.altamira.pa.leg.br/",
+      "codigo_ibge": "1500602",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altamira.pa.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:19.582946-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/9f0fc0db4210cfcc38b6816cf5e0eb2d1dd68d919fa3eeef34f3a5e3cf42c7b4.json",
+      "sha256": "1a920c3635a6ec11d8e956d2e5e49ed9676f62dc2dddbdc1918232094731ed4d",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/9f0fc0db4210cfcc38b6816cf5e0eb2d1dd68d919fa3eeef34f3a5e3cf42c7b4.meta.json",
+      "sha256_metadata": "c7ea50b1285d17534b6062fa8ddcdb18859d2952e1d1ac7ff10316fdfad682e5"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altamira.pa.leg.br/manifesto.json",
+    "sha256_manifesto": "4068d2e82b2a64e2de8a2e44bb725ef8b4dab9bec66e45acd6e681d41ec67d27",
+    "fim": "2026-10-21T05:27:25.602080-03:00"
+  },
+  "sapl.altoalegredoparecis.ro.leg.br": {
+    "host": "sapl.altoalegredoparecis.ro.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto Alegre dos Parecis",
+      "uf": "RO",
+      "url": "https://sapl.altoalegredoparecis.ro.leg.br/",
+      "codigo_ibge": "1100379",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altoalegredoparecis.ro.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:25.603253-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/56f50b653148cc09c7540ceddd3a6ae41ac51f612c3993b1ace5da0f4a21699b.json",
+      "sha256": "4ba05f9bbb8ca55274e1c96cbaa144d3c380331d4c97ca9321163f05fe6a5967",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/56f50b653148cc09c7540ceddd3a6ae41ac51f612c3993b1ace5da0f4a21699b.meta.json",
+      "sha256_metadata": "065100f07d2ce47b8dfc7b288923242679e4741e044066b23f762fbb397058ac"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altoalegredoparecis.ro.leg.br/manifesto.json",
+    "sha256_manifesto": "2c00c262130cb4712efaffd78171ac579a2052892e2a9fe970bfefadeadc20c8",
+    "fim": "2026-10-21T05:27:31.100796-03:00"
+  },
+  "sapl.altoaraguaia.mt.leg.br": {
+    "host": "sapl.altoaraguaia.mt.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto Araguaia",
+      "uf": "MT",
+      "url": "https://sapl.altoaraguaia.mt.leg.br/",
+      "codigo_ibge": "5100300",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altoaraguaia.mt.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:31.103821-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/c67ed02eca65dfe674b17040c7f56a3f373d1c9cc7ab9eceb60910b5b1452665.json",
+      "sha256": "5575f7e33a5259ecdc947f97b98e7ec192b512488ec0e877316cda3640e76fdc",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/c67ed02eca65dfe674b17040c7f56a3f373d1c9cc7ab9eceb60910b5b1452665.meta.json",
+      "sha256_metadata": "591ccce67560ec8ace14fb75cbd420c222e8390ef6db1db48569e83bcf62fa80"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altoaraguaia.mt.leg.br/manifesto.json",
+    "sha256_manifesto": "956b2bdcaef83b8821ce9e2556ef6e03a98c587a83f846205f4ae6eadfd3231a",
+    "fim": "2026-10-21T05:27:40.914608-03:00"
+  },
+  "sapl.altodorodrigues.rn.leg.br": {
+    "host": "sapl.altodorodrigues.rn.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto do Rodrigues",
+      "uf": "RN",
+      "url": "https://sapl.altodorodrigues.rn.leg.br/",
+      "codigo_ibge": "2400703",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altodorodrigues.rn.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:40.915834-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altodorodrigues.rn.leg.br/7e1bf14a500f2083ac5907dcbf86e0b58d50af90124a5ae1361fb1173190af2b.json",
+      "sha256": "89052dcfbea4e89fe2bf81f28d8781a0acf840225ca9e32f65a9f520101e7de8",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altodorodrigues.rn.leg.br/7e1bf14a500f2083ac5907dcbf86e0b58d50af90124a5ae1361fb1173190af2b.meta.json",
+      "sha256_metadata": "f8d40a87cd10b0e5e6075870b285219e683642597e0469b13b9ff3a382738745"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altodorodrigues.rn.leg.br/manifesto.json",
+    "sha256_manifesto": "cdff7ecfbf3730745a6fc33a1ade3ac656336c4dbf990112e60e19ee00c645ba",
+    "fim": "2026-10-21T05:27:45.949441-03:00"
+  },
+  "sapl.altogarcas.mt.leg.br": {
+    "host": "sapl.altogarcas.mt.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto Garças",
+      "uf": "MT",
+      "url": "https://sapl.altogarcas.mt.leg.br/",
+      "codigo_ibge": "5100409",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altogarcas.mt.leg.br"
+    },
+    "inicio": "2026-10-21T05:27:45.950583-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/76edd7285a24e3037c5e9b9454b84a3b34c9623a7dbb708b83e601da20456abd.json",
+      "sha256": "fb58fe6302acc2f0d4cc499e1520ec4d0fbdca9fef1194c489954bfe12c498f6",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/76edd7285a24e3037c5e9b9454b84a3b34c9623a7dbb708b83e601da20456abd.meta.json",
+      "sha256_metadata": "539457645e06e159031dad08de65691c01846b803bf0ed870957125521e944f7"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altogarcas.mt.leg.br/manifesto.json",
+    "sha256_manifesto": "88430a868aa43c765b1127e970a69683eda1937fa0008d0ed4f314c7cdb16a5d",
+    "fim": "2026-10-21T05:34:06.838631-03:00"
+  },
+  "sapl.altoparaiso.pr.leg.br": {
+    "host": "sapl.altoparaiso.pr.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto Paraíso",
+      "uf": "PR",
+      "url": "https://sapl.altoparaiso.pr.leg.br/",
+      "codigo_ibge": "4128625",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altoparaiso.pr.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:06.842684-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoparaiso.pr.leg.br/e8be8ef881dde16e5d4e9facef7202796d9e42078399585371f4d3cdaca4e51b.json",
+      "sha256": "3364b4c3ec1f69bfb007534f480b1cd85c7cc9d2dc2e48cb7bb730dda40653db",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altoparaiso.pr.leg.br/e8be8ef881dde16e5d4e9facef7202796d9e42078399585371f4d3cdaca4e51b.meta.json",
+      "sha256_metadata": "052a4cfeef38ebd0a6c89eb2519144983ee8d48f37df7e5ae46a0eb7180ce308"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altoparaiso.pr.leg.br/manifesto.json",
+    "sha256_manifesto": "ac7a1ee78811c97b11c72e1e97e10ad3653088c47c940fb6d3d5c5f0ddeaeaef",
+    "fim": "2026-10-21T05:34:11.364035-03:00"
+  },
+  "sapl.altoriodoce.mg.leg.br": {
+    "host": "sapl.altoriodoce.mg.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alto Rio Doce",
+      "uf": "MG",
+      "url": "https://sapl.altoriodoce.mg.leg.br/",
+      "codigo_ibge": "3102100",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.altoriodoce.mg.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:11.366013-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoriodoce.mg.leg.br/e36883b1a76186fe6f1b91fb0c30f5077c1e472f88d10d205e68e6dd2aba46b2.json",
+      "sha256": "59283b0c978e6684e7f273ad20e7cb0669c7b86cfb7d30b4ceae8a38d92f1bad",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.altoriodoce.mg.leg.br/e36883b1a76186fe6f1b91fb0c30f5077c1e472f88d10d205e68e6dd2aba46b2.meta.json",
+      "sha256_metadata": "67a883726109987dc133d2ff8e181fc9920296a0f8aa90e1c58a27f65831dad1"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.altoriodoce.mg.leg.br/manifesto.json",
+    "sha256_manifesto": "1ec714f83df4e362f39180c543272d24e86bed96153e1e10fc064c93bdf5493c",
+    "fim": "2026-10-21T05:34:16.122616-03:00"
+  },
+  "sapl.alvaraes.am.leg.br": {
+    "host": "sapl.alvaraes.am.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alvarães",
+      "uf": "AM",
+      "url": "https://sapl.alvaraes.am.leg.br/",
+      "codigo_ibge": "1300029",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alvaraes.am.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:16.124349-03:00",
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: Casa oficial ausente ou ambígua",
+    "fim": "2026-10-21T05:34:17.317183-03:00"
+  },
+  "sapl.alvaresmachado.sp.leg.br": {
+    "host": "sapl.alvaresmachado.sp.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Álvares Machado",
+      "uf": "SP",
+      "url": "https://sapl.alvaresmachado.sp.leg.br/",
+      "codigo_ibge": "3501301",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alvaresmachado.sp.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:17.322512-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/fa689e46e1a293ebdd570a2803f203ebe41ac0c68d4ea4de8b87162eb3241e67.json",
+      "sha256": "cc3cb7933c30bd2242c8164136c65c8c441ca948b8c80b7c4a5dbfcc7cb616bb",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/fa689e46e1a293ebdd570a2803f203ebe41ac0c68d4ea4de8b87162eb3241e67.meta.json",
+      "sha256_metadata": "007a5cb76033d914b2de9b171a454293f49c933e6fdbe845de34a4c555582041"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alvaresmachado.sp.leg.br/manifesto.json",
+    "sha256_manifesto": "aa83257e919fb9bea6bde19620ee9e23b12b8fb7bdc964c612eeb3cf4ec09772",
+    "fim": "2026-10-21T05:34:43.473835-03:00"
+  },
+  "sapl.alvorada.to.leg.br": {
+    "host": "sapl.alvorada.to.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alvorada",
+      "uf": "TO",
+      "url": "https://sapl.alvorada.to.leg.br/",
+      "codigo_ibge": "1700707",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alvorada.to.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:43.475282-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvorada.to.leg.br/770c8649314888c04df3a573aa4369b0a05e8779033ac8f0d33c03244c59fe61.json",
+      "sha256": "a26d4cda3518460c433f23642061a9b6f3ee9d28815bd92a1f3448dc1e1370d7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alvorada.to.leg.br/770c8649314888c04df3a573aa4369b0a05e8779033ac8f0d33c03244c59fe61.meta.json",
+      "sha256_metadata": "adbf5a7e3b5de626da6393313bcf462285a85cf2f4f4ea74f467431c27b3028a"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alvorada.to.leg.br/manifesto.json",
+    "sha256_manifesto": "9c79cf9f55381a126c5c9505c9e8a2d261ef183ed033c0cc0773b81071e48386",
+    "fim": "2026-10-21T05:34:47.544725-03:00"
+  },
+  "sapl.alvoradadonorte.go.leg.br": {
+    "host": "sapl.alvoradadonorte.go.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Alvorada do Norte",
+      "uf": "GO",
+      "url": "https://sapl.alvoradadonorte.go.leg.br/",
+      "codigo_ibge": "5200803",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.alvoradadonorte.go.leg.br"
+    },
+    "inicio": "2026-10-21T05:34:47.546216-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvoradadonorte.go.leg.br/76901069b669ba89c34c5b5c1c97ff396c03620a9b40a76fa31ee7fbcd7f11bc.json",
+      "sha256": "4f890e118e6803d8273b352fb6b0485ba51f0ea77b99f7e5cb594491915cce76",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.alvoradadonorte.go.leg.br/76901069b669ba89c34c5b5c1c97ff396c03620a9b40a76fa31ee7fbcd7f11bc.meta.json",
+      "sha256_metadata": "f958f6dcd040e6b18642e8383cd0dc053549cc414ebf3441e0d51ca1ca71a19c"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alvoradadonorte.go.leg.br/manifesto.json",
+    "sha256_manifesto": "d71c1935f3445706a9336eca18a5fc3216a0e16ed9a5047ec620a62b2ccb1b69",
+    "fim": "2026-10-21T05:37:47.188822-03:00"
+  },
+  "sapl.amambai.ms.leg.br": {
+    "host": "sapl.amambai.ms.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Amambai",
+      "uf": "MS",
+      "url": "https://sapl.amambai.ms.leg.br/",
+      "codigo_ibge": "5000609",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amambai.ms.leg.br"
+    },
+    "inicio": "2026-10-21T05:37:47.195357-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amambai.ms.leg.br/e67dd6c101d37046037ff1bb746f79ecd807ca48c430a49abfac4c1fa9dc92c8.json",
+      "sha256": "7b224de78ac6b752951f186660aa45a10ab946c5f07c88e51743e3b639e025aa",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amambai.ms.leg.br/e67dd6c101d37046037ff1bb746f79ecd807ca48c430a49abfac4c1fa9dc92c8.meta.json",
+      "sha256_metadata": "33ab197661ff180d47635a0c83f8befe3324017d8c589f4b998498f0ddd8feb2"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amambai.ms.leg.br/manifesto.json",
+    "sha256_manifesto": "9ca04bc68d961adc861cd38e4af312bd5ba66ff606d509ea95a5930a2da150e6",
+    "fim": "2026-10-21T05:37:52.063134-03:00"
+  },
+  "sapl.amapa.ap.leg.br": {
+    "host": "sapl.amapa.ap.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Amapá",
+      "uf": "AP",
+      "url": "https://sapl.amapa.ap.leg.br/",
+      "codigo_ibge": "1600105",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amapa.ap.leg.br"
+    },
+    "inicio": "2026-10-21T05:37:52.075096-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amapa.ap.leg.br/45fdaea3c9f428e4ca273c1899cbb399ddaeac39a8723577db6f2b27a1ed9588.json",
+      "sha256": "84d8bee41fb1935de1c3e35d9bdad8f772f61b74fb9428e3d29c2f1bf57e6dc8",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amapa.ap.leg.br/45fdaea3c9f428e4ca273c1899cbb399ddaeac39a8723577db6f2b27a1ed9588.meta.json",
+      "sha256_metadata": "70ffc2a8bca7ef0e6ee2b54a74d6b014230b6c0e433b402566eadcb6c9484de1"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amapa.ap.leg.br/manifesto.json",
+    "sha256_manifesto": "d5a616dc13da9935f2d7c8af784154ca124e35a3dbfda11a59732307b00c447a",
+    "fim": "2026-10-21T05:37:56.956033-03:00"
+  },
+  "sapl.amaraji.pe.leg.br": {
+    "host": "sapl.amaraji.pe.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Amaraji",
+      "uf": "PE",
+      "url": "https://sapl.amaraji.pe.leg.br/",
+      "codigo_ibge": "2600906",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amaraji.pe.leg.br"
+    },
+    "inicio": "2026-10-21T05:37:56.970989-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amaraji.pe.leg.br/fd72f940b5b1c9b178cb4c35ed2d0b0efd1a10fa342f0d9b91be1ff5adf1592a.json",
+      "sha256": "84a24e91a439ab54246fbf2b9a71c63105906128000a1175b1e3374e5e487836",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amaraji.pe.leg.br/fd72f940b5b1c9b178cb4c35ed2d0b0efd1a10fa342f0d9b91be1ff5adf1592a.meta.json",
+      "sha256_metadata": "1753416059971a019394a8e8b4ee988be14c465f134718bfd8247c8f91c5c658"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amaraji.pe.leg.br/manifesto.json",
+    "sha256_manifesto": "434af83cd63a8961ad909bf65b7a2bd566b0a374720922d1fb590651c4c39b39",
+    "fim": "2026-10-21T05:38:01.158997-03:00"
+  },
+  "sapl.amargosa.ba.leg.br": {
+    "host": "sapl.amargosa.ba.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Amargosa",
+      "uf": "BA",
+      "url": "https://sapl.amargosa.ba.leg.br/",
+      "codigo_ibge": "2901007",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amargosa.ba.leg.br"
+    },
+    "inicio": "2026-10-21T05:38:01.172514-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amargosa.ba.leg.br/4c5e2fd1afdd9007d8f6071218d53b511fa3b82d24cea6a0fbcfa060e9459df2.json",
+      "sha256": "24996592fb4584e09f55f91ac29dab3515689df8fd1a27508ebf6788ccfa613c",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amargosa.ba.leg.br/4c5e2fd1afdd9007d8f6071218d53b511fa3b82d24cea6a0fbcfa060e9459df2.meta.json",
+      "sha256_metadata": "bbaa80949a96aad96cc2c5aec7f26c87af6f108e0d75d8d35a073360eb5c6b0e"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amargosa.ba.leg.br/manifesto.json",
+    "sha256_manifesto": "b36e071dda8eac90844e15c2e2d993e4dccfce0a6638e5f7fa5dac455c1446c5",
+    "fim": "2026-10-21T05:38:06.086223-03:00"
+  },
+  "sapl.americobrasiliense.sp.leg.br": {
+    "host": "sapl.americobrasiliense.sp.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Américo Brasiliense",
+      "uf": "SP",
+      "url": "https://sapl.americobrasiliense.sp.leg.br/",
+      "codigo_ibge": "3501707",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.americobrasiliense.sp.leg.br"
+    },
+    "inicio": "2026-10-21T05:38:06.097675-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.americobrasiliense.sp.leg.br/560e90ee64d2dd098ef62cc56d868072257ddefa9faf574bad3dcb534fd9c3f1.json",
+      "sha256": "df2f7743f1785c82107274d5ab8c6da3fca395f5f3ef3a4a1f2d1a34baded436",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.americobrasiliense.sp.leg.br/560e90ee64d2dd098ef62cc56d868072257ddefa9faf574bad3dcb534fd9c3f1.meta.json",
+      "sha256_metadata": "dcbb38998ef52566cf92d4464a8e82b3ecd8fa3d80fa3c96ee4c884864821497"
+    },
+    "estado": "captura concluída; candidatos ainda exigem todos os gates",
+    "manifesto": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.americobrasiliense.sp.leg.br/manifesto.json",
+    "sha256_manifesto": "79e497bf9d6c5e0ceac9e210a87b09dde23db7acccedcb2f8c6f9ddd535d5f38",
+    "fim": "2026-10-21T05:38:10.345834-03:00"
+  },
+  "sapl.amontada.ce.leg.br": {
+    "estado": "iniciado; não repetir automaticamente",
+    "inicio": "2026-10-21T05:38:10.352307-03:00",
+    "vinculo_sigi": {
+      "municipio": "Amontada",
+      "uf": "CE",
+      "url": "https://sapl.amontada.ce.leg.br/",
+      "codigo_ibge": "2300754",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amontada.ce.leg.br"
+    }
+  }
+}

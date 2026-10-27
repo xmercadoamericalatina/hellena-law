@@ -1,0 +1,21 @@
+{
+  "imagens_revisadas": [
+    {
+      "pagina": 1,
+      "objeto": 9,
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/imagem-capa-000.png",
+      "sha256": "71823197e27c414efd4dbe95613ddee202610a280560f18934dc3c32f3ea051d",
+      "conteudo": "Brasão de Aracaju na capa, sem tabela ou anexo normativo."
+    },
+    {
+      "pagina": 1,
+      "objeto": 17,
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/imagem-capa-001.png",
+      "sha256": "5799a7c5c122b2091a6d80391c934a56c21248dfd9e9a5a3192039f7344dd618",
+      "conteudo": "Bandeira de Aracaju ilustrando a capa; os dispositivos textuais e as notas são nativos, sem imagem de texto ou anexo."
+    }
+  ],
+  "prova_contexto": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-001.png",
+  "sha256_contexto": "0d222c6ba5a13de68be30f0e3d1d2f316782e74e2d4d7cfa0d9fd3a2ac41d27b",
+  "criterio": "As duas imagens listadas por pdfimages foram vistas como objetos e na página completa da capa. Não há outras imagens no PDF; fonte original integral preserva os símbolos."
+}

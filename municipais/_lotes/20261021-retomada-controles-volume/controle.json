@@ -1,0 +1,15 @@
+{
+  "coletores": {
+    "portovelho": 71145,
+    "agudo_amontada": 71146,
+    "fila_pdf": 71147
+  },
+  "sessoes": {
+    "portovelho": 44973,
+    "agudo_amontada": 86036,
+    "fila_pdf": 47290
+  },
+  "recibo_fila_preimagem": "municipais/_lotes/20261021-retomada-fila-ta-apos-volume/fila.preimagem.json",
+  "criterio": "Preflight integral dos três caches TA, SHA de cada par bruto/metadata e prefixos completos dos journals. Nenhum cache órfão/divergente. Retomada sobre checkpoints, mesmas travas e 1 rps por host, sem nova execução dos portais já concluídos.",
+  "testes_retomada": 2
+}

@@ -1,0 +1,31 @@
+{
+  "documento": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+  "sha256_anterior": "7a49a93c53c2f24bb747d90a687854bf78f796863eb240c42d01aee686873e1b",
+  "sha256_novo": "9d1ac18eb21a275c17da3a0906602d2bdf0dd66b8cd497d3666f2fae1373e25c",
+  "pdf": "municipais/_fonte/organicas-sapl/sapl.joaopessoa.pb.leg.br/14101.bin",
+  "sha256_fonte": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825",
+  "paginas_fisicas": 102,
+  "paginas_vazias": [
+    2,
+    4
+  ],
+  "tokens_preservados": 33526,
+  "confronto": "Todos os tokens em ordem por página: layout versus bbox, incluindo páginas vazias. Exceção restrita à capa: bbox separa título em letras; sequência integral de caracteres idêntica, título confirmado visualmente.",
+  "api_anexos": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/overlay.json",
+  "alerta_revisado": "Extrato do contrato no incisoXXX do art70 é disposição própria; p41 conferida visualmente, não publicação de contrato alheio.",
+  "script_sha256": "85d54c6f4af44131a55cbe6a3c221fc72b7516b22f2e0a77a99fefc67eb746ce",
+  "artefatos": [
+    {
+      "arquivo": "municipais/_lotes/20261020-joao-pessoa-integral/fonte-layout.txt",
+      "sha256": "6a3191f5c3f37ce07489e621e74e15aba459b3e31693027ceb8061a2508a7e8b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-joao-pessoa-integral/documento-anterior.md",
+      "sha256": "7a49a93c53c2f24bb747d90a687854bf78f796863eb240c42d01aee686873e1b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-joao-pessoa-integral/fonte-bbox.xhtml",
+      "sha256": "aaa496a708e2f2ad0b4d197a8d0b5a0914400fa2c6dc18a3dad24b0a21314641"
+    }
+  ]
+}

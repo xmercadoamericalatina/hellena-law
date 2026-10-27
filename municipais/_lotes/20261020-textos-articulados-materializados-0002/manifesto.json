@@ -1,0 +1,10 @@
+{
+  "criterio": "Materializa apenas TAs aprovados com prova API original e sem norma existente.\n\nMantém HTML integral e histórico na fonte; não substitui versões no acervo.\nTodo caminho criado e sua dependência ficam enumerados no recibo do lote.\n",
+  "candidatos": 253,
+  "normas": 197,
+  "retidos": 56,
+  "script_sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "gates_sha256": "626c0e0c9be43f274d771b1b83e6f20ea88a6ceb82d4c308f0c5b6f2ec5e0363",
+  "colisoes": "Compara URL oficial, IBGE/tipo/número/ano com sufixos e corpo textual contra todos os documentos locais dos dois municípios e contra os candidatos anteriores deste lote. Qualquer versão existente exige conciliação, sem substituição automática."
+}

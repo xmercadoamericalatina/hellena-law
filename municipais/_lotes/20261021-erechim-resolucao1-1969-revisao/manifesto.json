@@ -1,0 +1,309 @@
+{
+  "normas": 1,
+  "arquivos": [
+    {
+      "arquivo": "municipais/RS/erechim/resolucoes/1969/resolucoes-1-1969-sapl-5701.md",
+      "sha256": "0763033627ccbffefbf667ad64897f615b37df96b685b3b11738b13d84a1b7e4",
+      "bytes": 6375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/1a37ffaa6bbcf81035d4f1ef33955da3cd3dd19ba41f6f285de7537aa0a461d9.html",
+      "sha256": "06ce844bc7f92d61cc65a3638033c7630685401bb5aefe6163113ac90aeed6f1",
+      "bytes": 41475
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/1a37ffaa6bbcf81035d4f1ef33955da3cd3dd19ba41f6f285de7537aa0a461d9.meta.json",
+      "sha256": "aec259affbe45e795443de39c5d578a4e3079d12779b6ce620fe6f13c452a5c2",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/2b34ee1312c266cb9aba2254d65781e083fd8b73aee0c62e2003e9de6c53a249.json",
+      "sha256": "a2073d6458d5ba211e944a27f3960490407c02c9c6a977f3b84e3165d00b0706",
+      "bytes": 748
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/2b34ee1312c266cb9aba2254d65781e083fd8b73aee0c62e2003e9de6c53a249.meta.json",
+      "sha256": "efdd945f75220b425ab6a5fede28dbb9235d3d82a9f02dc105de07eabf480ffc",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/79efae3347d0eb085e0c5b92c35c43d913173313d17d81ba82b58e2001f6020e.json",
+      "sha256": "9d86eace1a1bcf8179b5da6bb292fb890817527d53307b3853863b7a5265147c",
+      "bytes": 54979
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/79efae3347d0eb085e0c5b92c35c43d913173313d17d81ba82b58e2001f6020e.meta.json",
+      "sha256": "d19bd25533b531c316463854fb90d9024d2b6309a16186849b53d544c22c8df7",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.json",
+      "sha256": "3112453d62ccc5786d8b58efaef9e6169054c13b789b9e8532147bd377cb364f",
+      "bytes": 732
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.meta.json",
+      "sha256": "98141e2bf774e168fbed6c22a0e8f88d573cd36cb6baa2bc4c1c4ca24d73fb5b",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/aprovacao-individual.json",
+      "sha256": "e23dbd60509ae433c0f123bddf49d082d63a3b5f66fa7a1a2f6e88fe43bc332d",
+      "bytes": 7765
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/artefatos.paths.txt",
+      "sha256": "0b3ac499ed41fa0078c06f5cfca602b346b837e0d358365dafc4299a6583d4f7",
+      "bytes": 3752
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/auditoria-municipal.json",
+      "sha256": "6cdadf30f98a8cd5cb373b5c557c9bfecf837cea56b7d0a8f9b9a1cf59ed393c",
+      "bytes": 704
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/colisoes-globais.json",
+      "sha256": "415a63a73aff21d3494b5bc5df90b94aae7025d97f120d90269776acf253ddc1",
+      "bytes": 2682
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/normas.paths.txt",
+      "sha256": "17d43270a1a27e0d43d779549ee2be33a9e3a7fd312ecbcac656b4e6f95b846e",
+      "bytes": 69
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/replay/aprovados.paths.txt",
+      "sha256": "17d43270a1a27e0d43d779549ee2be33a9e3a7fd312ecbcac656b4e6f95b846e",
+      "bytes": 69
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/replay/controle.json",
+      "sha256": "36bcb3fd30232f30b9efcdb2c28b17411a0a293f605ef88214922850d1a21feb",
+      "bytes": 3320
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/replay/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/revisao-contextual.json",
+      "sha256": "97d196358f468a19c9cfbf8ca805f5cbc3f986e78fc8b6bfc4d6199eb6f2f1a9",
+      "bytes": 7544
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-commonmark-0010/controle.json",
+      "sha256": "92a3f5c53c2fc238fdab6770a118a4a0055ce74f32203044c0c780439d2f755f",
+      "bytes": 337203
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-contexto-0010/controle.json",
+      "sha256": "ee71d6ec97e71abbfbb0891619175e60b94effb78a6fcaf532ae88073f987683",
+      "bytes": 350585
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-contexto-0010/formato.json",
+      "sha256": "e1eba54528691fcd488647955c1e5a084a5f2c753f6cffe99f037074942bcf0a",
+      "bytes": 40
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-contexto-0010/verificacao-integral.json",
+      "sha256": "1ed63d18bd00c25f186d48ed91cfc843d0019a5d82222e1cca382ebc1d18b9ee",
+      "bytes": 66935
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-expansao/sapl.erechim.rs.leg.br/candidatos/5701-856.txt",
+      "sha256": "605b7d0363d5a5a621d9db97d54957252ba70438307118cc8b30738d3720581f",
+      "bytes": 5315
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d",
+      "bytes": 1957520
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0010/sapl.erechim.rs.leg.br.anexos.json",
+      "sha256": "20f50de24f24030b12ab268ef5fc24f9887eba212a8746d4dcf2636bfa4becd9",
+      "bytes": 218595
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0010/sapl.erechim.rs.leg.br.tipos.json",
+      "sha256": "54baddcc16776318bee730a3df6816bdc839a504211f37d2080b78a6e7f27fbf",
+      "bytes": 2998
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-jurisdicao-0010/controle.json",
+      "sha256": "3f3c781a6c2d774b386cb29243553305de084a06e1373aec3db42db3232cb262",
+      "bytes": 48118
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158
+    },
+    {
+      "arquivo": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689
+    },
+    {
+      "arquivo": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176
+    },
+    {
+      "arquivo": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094
+    },
+    {
+      "arquivo": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690
+    },
+    {
+      "arquivo": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871
+    },
+    {
+      "arquivo": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790
+    }
+  ],
+  "bytes": 5803759,
+  "lista_normas": "municipais/_lotes/20261021-erechim-resolucao1-1969-revisao/normas.paths.txt",
+  "criterio": "Exceção contextual individual: nomes de outras Casas como objetos de arquivamento nos arts. 12/14/15/17 de uma única resolução municipal, não como epígrafes ou textos de outros atos. Não modifica detector, norma, fonte ou seleção 183.",
+  "validacao": "Replay independente 1/1, auditoria municipal 1/0, colisões 1/0 contra 16.621 anteriores. Demais gates aprovados originalmente, exceto quatro alertas de nomes resolvidos na prova contextual literal."
+}

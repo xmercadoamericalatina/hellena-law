@@ -1,0 +1,5440 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 36,
+  "retidos": 30,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10432-2015-sapl-4637.md",
+      "sha256": "acb8e5e6bf59d24660acc241dcfaae33505921f5f4479ae670b90082fffad146",
+      "sha256_fonte": "8f6b2bdac12d08ce6d458515221871cfc4da4fa2ab2d5b0a32589a5587dba706",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/123a9616f7b83a2eed698f18904e617dcffb42660632c65930ac0c621365711e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "14 de Maio de 2021",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 11.103, de 14 de maio de 2021",
+          "posicao": [
+            442,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2015/leis-complementares-207-2015-sapl-4394.md",
+      "sha256": "2674b9c6a8d1f86903914376da0194a3e25f976cfb1acba72f0af8af56fa47e4",
+      "sha256_fonte": "ceed930bdff67fd1adee85ad0a428a627417332d93e3d63cc83682dfb3f5a144",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/dc95675f0b7cb9d63e430d8c77edacb6cc53ac7cdfd9c9fca394f66151bdea76.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "VII - Outras receitas admitidas em lei.",
+          "posicao": [
+            527,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            586,
+            129
+          ]
+        },
+        {
+          "texto": "A contabilidade do Fundo tem por objetivo evidenciar as situações financeiras, patrimoniais e orçamentárias dos projetos relacionados ao desenvolvimento econômico do Município desenvolvidos no Fundo, observados os padrões e normas estabelecidas na legislação pertinente.",
+          "posicao": [
+            586,
+            141
+          ]
+        },
+        {
+          "texto": "Art. 9º.",
+          "posicao": [
+            603,
+            129
+          ]
+        },
+        {
+          "texto": "As funções de Coordenador, remuneração equivalente à simbologia DNS-1; de Contador, remuneração equivalente à simbologia DAS-1; e de Tesoureiro, remuneração equivalente à simbologia DAS-3, criadas pela Lei Municipal n° 8.068, de 08 de outubro de 1997, ficam transformadas nos cargos de provimento em comissão de Coordenador, simbologia DNS-1; Contador, simbologia DAS-1; Tesoureiro, simbologia DAS-3.",
+          "posicao": [
+            603,
+            141
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10375-2015-sapl-4378.md",
+      "sha256": "faeb8008da4627be43d01d2cc6d9753711bc98c22079d4655b3fdefa99aa0f61",
+      "sha256_fonte": "7a4cb2eaa6a339210982520bc193d588e958c7a11589a6787c13a7fb2f1ca70a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/ba33e19c75da25c1d78ecc06ba06596f50992c6041f158e0b98d1b278461a1fa.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2018",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.668, de 02 de janeiro de 2018",
+          "posicao": [
+            442,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10368-2015-sapl-4360.md",
+      "sha256": "dc5144951a7876dd9c4777f5e240d0c2c2bf4665f524357864170798ff7f3346",
+      "sha256_fonte": "ebc15bc09b49b161a2db3ce8763479bed46714e428c4267a9eb5820672336781",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/7d23a6ae5af7645d3b844be1a4a74e2b2b3490427fdf856ec04d459fb82d6c40.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2018",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.668, de 02 de janeiro de 2018",
+          "posicao": [
+            442,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10353-2015-sapl-4345.md",
+      "sha256": "a94dd65ad8e3001cd03770a7bdfad7aa45777f0d763a89b61cb7efe875330956",
+      "sha256_fonte": "1bdd78edc9b320d9dab3857e8de73410b2ec0d7a9ae2a3bf8563df78ea99f0d4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/6f02deb599ca971df7061ca8a0b919dc95a0569b8dc8749d8e79b5181a77b5a8.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": "6 de Junho de 2018",
+          "posicao": [
+            438,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            438,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            444,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.747, de 06 de junho de 2018",
+          "posicao": [
+            444,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10345-2015-sapl-4321.md",
+      "sha256": "7fca1c0ad88fe474e57eb5ecd7d78911675739ea3e881ee55bde01ff57bba91f",
+      "sha256_fonte": "58ed27d6dc829d473d3d255729765614ac87f4c86c6f98fd5078ad05272498d9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/1aa89dfb358307f06c3c9c17ec49b3ef8633f5b7231661bdc05fc4d3b424ea8d.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            441,
+            40
+          ]
+        },
+        {
+          "texto": "6 de Maio de 2024",
+          "posicao": [
+            445,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            445,
+            61
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            451,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 398, de 06 de maio de 2024",
+          "posicao": [
+            451,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10335-2015-sapl-4292.md",
+      "sha256": "33308279939c175f196c19ce9a0e866002bbdbe242bf7cdcae27e0f4103856d3",
+      "sha256_fonte": "19d5a55cd20ef6462d22faaadd923e2fe674d6677e59959df2bafec8f0043ff6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/0883836dc77fcd727de546b7813aaecd849291067b220fc97fed649f119fc59c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "22 de Dezembro de 2015",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.431, de 22 de dezembro de 2015",
+          "posicao": [
+            442,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2015/leis-ordinarias-10322-2015-sapl-4240.md",
+      "sha256": "1b78ca6d80a7bce41eb217d164ca79b4fa80c40ce2df1b81bc3cd7bd3c588115",
+      "sha256_fonte": "5e64244897463bdf779547de557e02ff4b51802b0842a8848821e320547b4d39",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/25d1f258ae92c161e51f73e38052be00f3216fdd3aa6af1778689f7885bb9e02.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2018",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.668, de 02 de janeiro de 2018",
+          "posicao": [
+            442,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-197-2014-sapl-4267.md",
+      "sha256": "48c4c42d37ae0e26ea8824f140dc6364ba9a0363cc2a9ab605033dd2e54b87b6",
+      "sha256_fonte": "2d52aefdf14da1d64fd051e163e1a738fbde85162f9475e1972509e96de13aaf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/bbfba289b6ea995f28ccefb08cf9144caa3a6139155c14a9ff935aa0ca706f1d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-196-2014-sapl-4266.md",
+      "sha256": "931016e0db7aa0baa51242952049a29e40bf6a527110684615ef9f27d64719ad",
+      "sha256_fonte": "a5e41870c6cf0d8b915ad266e0d18ca2e6c83a6e1e1527b29569d25e21c8b961",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/a13dc54f0e834f910ff8f2b2be402ea6cc17fde4452934b44dc33a5bf9121726.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-192-2014-sapl-4190.md",
+      "sha256": "71246677418b5094f71262945173ac899e3ca039f69a859f3a854931757dc3ce",
+      "sha256_fonte": "0481088343c5243de0ce88834bab21326136f08cda1a791535cab159659385d9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e5745810393c157f5ea69e3fea2241eae89cf30000643af5257ce1e5bc356458.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-191-2014-sapl-4260.md",
+      "sha256": "babb48d6b0076a54141ee654608794ecec3efac1f628ba62b6893694ab938df1",
+      "sha256_fonte": "68a6d732a14f27eeea94afda6033819e73b677915f30f4b5a72b5ee38fb0f083",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/15d241d2d6d9845bb28d4e279eb3aa861ba0940bf4e470204ae623e16a10bdc1.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            439,
+            40
+          ]
+        },
+        {
+          "texto": "28 de Junho de 2019",
+          "posicao": [
+            443,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            443,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            449,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 268, de 28 de junho de 2019",
+          "posicao": [
+            449,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2014/leis-ordinarias-10294-2014-sapl-4212.md",
+      "sha256": "f83d5271e0e5bb47bef15f7cc80cd2eac3a30ebdb0750a6bf065aaf4b629314c",
+      "sha256_fonte": "26dfb0d053465a8b429251b8b91b720bde840355bf2deeaea3bf2c8aed9e8f19",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/767672807bd13a37f7fe2b312e4b467a985b94ff0311e2d9d18aceef71d7f918.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": "26 de Junho de 2017",
+          "posicao": [
+            438,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            438,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            444,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 10.591, de 26 de junho de 2017",
+          "posicao": [
+            444,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-183-2014-sapl-4249.md",
+      "sha256": "6b86e7cf72f8ddb90c3f2e86f545d1061e1ceae909076d92f017cb6ed7ac9f17",
+      "sha256_fonte": "57888ac89423cb5ae18eb78a7bf4197ed683f5f3bd7bc610ece925533bf8a1e0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/fb44576d34f3a2b1441f917f080efab1ae73699aa87464bf94ae89a2ed3926e4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-181-2014-sapl-4247.md",
+      "sha256": "b9e641a60adcadb75c0c66c99e0aca1f525eb83e7ffa69b5907b3a032c9a4fdb",
+      "sha256_fonte": "0f3e8c24220448330d30294230253abac427ea9a36048fcc406e6dfae22f10a8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/aa38fd3f15af5d7846ae76a2d5b1285551527d916ae2b29718ec53d74752b47a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21667-2025-sapl-29825.md",
+      "sha256": "044d57313b0e07e107be4750289baf6a0c1eff7a8fc2b6e517831ab53c31e324",
+      "sha256_fonte": "3aee55261cb04aced40a6648b077f297b4f593c25b91277ad23b586aedf1d693",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bce5e8155dc3b471d7eb58e8b2f542046b97ad9d905147f089dd4e8ab946618d.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            131
+          ]
+        },
+        {
+          "texto": "O procedimento para formalização de convênio com o Estado de Rondônia para realização de Atividade Delegada Municipal, a fixação dos valores e as condições para pagamento da Ajuda de Custo para Atividade Delegada Municipal – ACADM, instituída pela Lei Complementar nº 1.003, de 07 de março de 2025, e alterada pela Lei Complementar nº 1.042, de 08 de dezembro de 2025 devem observar as regras fixadas neste Decreto.",
+          "posicao": [
+            530,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            532,
+            131
+          ]
+        },
+        {
+          "texto": "A ACADM tem por finalidade indenizar os Policiais Militares, Bombeiros Militares, Policiais Penais e Policiais Civis do Estado de Rondônia que, voluntariamente, desempenharem atividades de competência municipal, nos termos da Lei Complementar nº 1.003/2025 e de convênio celebrado entre o Estado e o Município de Porto Velho.",
+          "posicao": [
+            539,
+            46
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            541,
+            142
+          ]
+        },
+        {
+          "texto": "A Atividade Delegada Municipal será desenvolvida exclusivamente fora do horárioregular de expediente e das escalas normais de serviço dos Policiais Militares, Bombeiros Militares, Policiais Penais e Policiais Civis, nos dias de folga, feriados e finais de semana.",
+          "posicao": [
+            543,
+            46
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            545,
+            142
+          ]
+        },
+        {
+          "texto": "Somente Policiais Militares, Bombeiros Militares, Policiais Penais e Policiais Civis que estejam em pleno exercício de suas funções poderão exercer Atividade Delegada Municipal.",
+          "posicao": [
+            547,
+            46
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            549,
+            142
+          ]
+        },
+        {
+          "texto": "As atividades exercidas pelos Policiais Militares, Bombeiros Militares, Policiais Penais e Policiais Civis no âmbito da Atividade Delegada Municipal deverão estar estritamente compatíveis com suas funções constitucionais, legais e regulamentares.",
+          "posicao": [
+            551,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            553,
+            131
+          ]
+        },
+        {
+          "texto": "Os policiais e bombeiros voluntários poderão exercer até 12h (doze horas) ininterruptas, para cada atuação em ações de Atividade Delegada Municipal, com limite máximo de 150h (cento e cinquenta horas) de participações mensais.",
+          "posicao": [
+            560,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            562,
+            131
+          ]
+        },
+        {
+          "texto": "O pagamento da ACADM será realizado diretamente pelo Município de Porto Velho, de forma individualizada, mediante crédito bancário na conta do beneficiário, observada a frequência e conformidade das atividades executadas.",
+          "posicao": [
+            569,
+            46
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            571,
+            142
+          ]
+        },
+        {
+          "texto": "O ciclo de apuração das atividades compreenderá o período de 16 (dezesseis) do mês anterior a 15 (quinze) do mês subsequente, sendo a apuração e consolidação das informações conduzidas pela Sala de Situação Municipal.",
+          "posicao": [
+            573,
+            46
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            575,
+            142
+          ]
+        },
+        {
+          "texto": "Até o dia 25 (vinte e cinco) de cada mês, o Coordenador da Sala de Situação Municipal deverá concluir a consolidação das escalas, relatórios de frequência e comprovação de execução das atividades referentes ao ciclo imediatamente anterior, instruindo o processo administrativo de pagamento e encaminhando-o ao setor competente para conferência e liquidação.",
+          "posicao": [
+            577,
+            46
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            579,
+            142
+          ]
+        },
+        {
+          "texto": "O setor responsável pelo processamento financeiro e contábil deverá promover a análise, a liquidação e a emissão das ordens de pagamento em até 10 (dez) dias úteis contados do recebimento do processo devidamente instruído, observando o limite máximo de pagamento até o 10º (décimo) dia útil do mês subsequente ao término do ciclo.",
+          "posicao": [
+            581,
+            46
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            583,
+            142
+          ]
+        },
+        {
+          "texto": "Os pagamentos serão efetuados por transferência bancária direta na conta individual do beneficiário, mediante comprovação da execução e atesto formal do Coordenador Municipal das Atividades, observada a natureza indenizatória da verba e as normas de execução orçamentária e financeira do Município.",
+          "posicao": [
+            585,
+            46
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            587,
+            142
+          ]
+        },
+        {
+          "texto": "Compete a Secretária Municipal de Segurança, Trânsito e Mobilidade (SEMTRAN) supervisionar o cumprimento dos prazos estabelecidos neste artigo, consolidar os relatórios gerais de execução e manter controle dos pagamentos efetuados.",
+          "posicao": [
+            589,
+            46
+          ]
+        },
+        {
+          "texto": "§ 6º",
+          "posicao": [
+            591,
+            142
+          ]
+        },
+        {
+          "texto": "O repasse financeiro referente ao convênio do exercício anterior deverá ocorrer, impreterivelmente, até o mês de abril do exercício subsequente, de modo a garantir a continuidade administrativa e a regularidade orçamentária do programa.",
+          "posicao": [
+            593,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            595,
+            131
+          ]
+        },
+        {
+          "texto": "Considera-se Atividade Delegada Municipal, para os fins deste Decreto, além do policiamento ostensivo e comunitário, ações de assistência e prevenção em Proteção e Defesa Civil, a assistência aos demais órgãos municipais no exercício do poder de polícia administrativa, visando o cumprimento da legislação municipal de posturas, saúde pública, meio ambiente, trânsito e transportes, e o ordenamento e uso adequado dos espaços urbanos.",
+          "posicao": [
+            602,
+            46
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            604,
+            142
+          ]
+        },
+        {
+          "texto": "Incluem-se também como Atividade Delegada Municipal:",
+          "posicao": [
+            606,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            608,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            608,
+            144
+          ]
+        },
+        {
+          "texto": "atividade de inteligência, abrangendo a análise estratégica de dados e a produção de informações para subsidiar ações operacionais;",
+          "posicao": [
+            610,
+            46
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            612,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            612,
+            145
+          ]
+        },
+        {
+          "texto": "atividade de ensino, cívica e cultural, além de programas de orientações educativas ou similares que promovam resultados positivos para a segurança pública;",
+          "posicao": [
+            614,
+            46
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            616,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            616,
+            146
+          ]
+        },
+        {
+          "texto": "atividade de vistorias técnicas de edificações e eventos;",
+          "posicao": [
+            618,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            620,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            620,
+            145
+          ]
+        },
+        {
+          "texto": "atividade de apoio à Defesa Civil;",
+          "posicao": [
+            622,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            624,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            624,
+            144
+          ]
+        },
+        {
+          "texto": "atividade de ações de fiscalização ambiental, combate a queimadas e incêndios urbanos; e",
+          "posicao": [
+            626,
+            46
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            628,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            628,
+            145
+          ]
+        },
+        {
+          "texto": "participação em comitês interinstitucionais de segurança e emergência”.",
+          "posicao": [
+            630,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            632,
+            131
+          ]
+        },
+        {
+          "texto": "O valor da hora da Atividade Delegada Municipal é fixado em:",
+          "posicao": [
+            639,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            641,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            641,
+            144
+          ]
+        },
+        {
+          "texto": "R$ 59,00 (cinquenta e nove reais) para o Coordenador Municipal;",
+          "posicao": [
+            643,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            645,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            645,
+            145
+          ]
+        },
+        {
+          "texto": "R$ 49,00 (quarenta e nove reias) para o Coordenador da Sala de Situação;",
+          "posicao": [
+            647,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            649,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            649,
+            146
+          ]
+        },
+        {
+          "texto": "R$ 40,00 (quarenta reais) para o Auxiliar da Sala de Situação",
+          "posicao": [
+            651,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            653,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            653,
+            145
+          ]
+        },
+        {
+          "texto": "R$ 49,00 (quarenta e nove reais) para os Supervisores; e",
+          "posicao": [
+            655,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            657,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            657,
+            144
+          ]
+        },
+        {
+          "texto": "R$ 40,00 (quarenta reais) para os demais Membros.",
+          "posicao": [
+            659,
+            17
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            661,
+            142
+          ]
+        },
+        {
+          "texto": "Para efeitos deste Decreto, considera-se:",
+          "posicao": [
+            663,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            665,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            665,
+            144
+          ]
+        },
+        {
+          "texto": "supervisor: Função voluntária exercida por Policial Militar, Bombeiro Militar, Policial Penal ou Policial Civil, mais antigo da equipe, sendo o responsável por liderar, fiscalizar, coordenar e supervisionar as atividades dos demais membros, inclusive realizar avaliação de desempenho e criar relatórios das atividades executadas; e",
+          "posicao": [
+            667,
+            46
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            669,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            669,
+            145
+          ]
+        },
+        {
+          "texto": "membro: Função voluntária exercida por Policial Militar, Bombeiro Militar, Policial Penal ou Policial Civil, sendo o responsável pelo apoio e execução da Atividade Delegada Municipal.",
+          "posicao": [
+            671,
+            46
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            673,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            673,
+            146
+          ]
+        },
+        {
+          "texto": "Coordenador Municipal das Atividades: Função voluntária exercida por Oficial Superior da Polícia Militar, Delegado 3ª Classe ou Especial da Polícia Civil ou Oficial Superior do Corpo de Bombeiros Militar designado para:",
+          "posicao": [
+            675,
+            46
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            677,
+            139
+          ]
+        },
+        {
+          "texto": "coordenar o planejamento e execução das operações vinculadas à Atividade Delegada Municipal, garantindo o alinhamento entre o Município e os órgãos de segurança pública;",
+          "posicao": [
+            679,
+            46
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            681,
+            139
+          ]
+        },
+        {
+          "texto": "articular com as secretarias municipais a definição de áreas prioritárias, horários e demandas específicas de policiamento, fiscalização e defesa civil;",
+          "posicao": [
+            683,
+            46
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            685,
+            139
+          ]
+        },
+        {
+          "texto": "supervisionar o cumprimento das escalas, dos relatórios de frequência e dos resultados operacionais das equipes;",
+          "posicao": [
+            687,
+            46
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            689,
+            139
+          ]
+        },
+        {
+          "texto": "consolidar as informações encaminhadas pela Sala de Situação e supervisionar a elaboração dos relatórios técnicos e estatísticos;",
+          "posicao": [
+            691,
+            46
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            693,
+            139
+          ]
+        },
+        {
+          "texto": "acompanhar o fluxo de processos administrativos relativos à execução e pagamento da ACADM;",
+          "posicao": [
+            695,
+            46
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            697,
+            139
+          ]
+        },
+        {
+          "texto": "zelar pelo cumprimento das normas legais, operacionais e éticas do programa; e",
+          "posicao": [
+            699,
+            17
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            701,
+            139
+          ]
+        },
+        {
+          "texto": "emitir relatórios mensais de desempenho e propor ajustes e aprimoramentos de gestão.",
+          "posicao": [
+            703,
+            46
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            705,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            705,
+            145
+          ]
+        },
+        {
+          "texto": "Coordenador da Sala de Situação: Função voluntária exercita por Policial Militar, Bombeiro Militar, Policial Penal ou Policial Civil, designado pelo Coordenador Municipal das Atividades, sendo o responsável pelo monitoramento em tempo real das atividades da Atividade Delegada Municipal, garantindo a conferência, controle e comunicação entre as equipes de campo e a administração municipal, designado para:",
+          "posicao": [
+            707,
+            46
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            709,
+            139
+          ]
+        },
+        {
+          "texto": "consolidar as escalas de serviço operacional e manter o controle atualizado das equipes designadas;",
+          "posicao": [
+            711,
+            46
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            713,
+            139
+          ]
+        },
+        {
+          "texto": "realizar a conferência da execução do serviço operacional, verificando presença, horários e cumprimento das rotinas previstas;",
+          "posicao": [
+            715,
+            46
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            717,
+            139
+          ]
+        },
+        {
+          "texto": "supervisionar os Auxiliares da Sala de Situação e garantir a precisão dos registros e relatórios de campo;",
+          "posicao": [
+            719,
+            46
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            721,
+            139
+          ]
+        },
+        {
+          "texto": "elaborar o Relatório Operacional de Execução, consolidando dados de frequência, ocorrências e desempenho;",
+          "posicao": [
+            723,
+            46
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            725,
+            139
+          ]
+        },
+        {
+          "texto": "organizar e instruir o processo administrativo inicial de pagamento, contendo as escalas, relatórios de execução e documentos comprobatórios, para encaminhamento ao setor responsável pela liquidação da despesa;",
+          "posicao": [
+            727,
+            46
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            729,
+            139
+          ]
+        },
+        {
+          "texto": "monitorar, em tempo real, as equipes em serviço, mantendo comunicação com os Supervisores de Equipe e o Coordenador Municipal;",
+          "posicao": [
+            731,
+            46
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            733,
+            139
+          ]
+        },
+        {
+          "texto": "registrar todas as intercorrências, ausências ou desvios de serviço, informando imediatamente à Coordenação Municipal;",
+          "posicao": [
+            735,
+            46
+          ]
+        },
+        {
+          "texto": "h)",
+          "posicao": [
+            737,
+            139
+          ]
+        },
+        {
+          "texto": "apoiar a análise de produtividade, indicadores e demandas de atuação, em articulação com o Gabinete Militar;",
+          "posicao": [
+            739,
+            46
+          ]
+        },
+        {
+          "texto": "i)",
+          "posicao": [
+            741,
+            139
+          ]
+        },
+        {
+          "texto": "zelar pelo cumprimento dos prazos administrativos e pela integridade das informações geradas;",
+          "posicao": [
+            743,
+            17
+          ]
+        },
+        {
+          "texto": "j)",
+          "posicao": [
+            745,
+            139
+          ]
+        },
+        {
+          "texto": "assegurar a integridade dos dados e registros da ACADM para auditorias e controle interno.",
+          "posicao": [
+            747,
+            46
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            749,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            749,
+            144
+          ]
+        },
+        {
+          "texto": "Auxiliar da Sala de Situação Municipal: Função voluntária exercita por Policial Militar, Bombeiro Militar, Policial Penal ou Policial Civil, designado pelo Coordenador Municipal das Atividades, sendo o responsável pelo apoio técnico e administrativo à execução das atividades de monitoramento, controle de escalas e consolidação documental da ACADM, designado para",
+          "posicao": [
+            751,
+            46
+          ]
+        },
+        {
+          "texto": ":",
+          "posicao": [
+            751,
+            418
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            753,
+            139
+          ]
+        },
+        {
+          "texto": "auxiliar na consolidação e digitação das escalas operacionais e relatórios de serviço;",
+          "posicao": [
+            755,
+            17
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            757,
+            139
+          ]
+        },
+        {
+          "texto": "organizar os documentos comprobatórios da execução das atividades e preparar os anexos dos processos de pagamento;",
+          "posicao": [
+            759,
+            46
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            761,
+            139
+          ]
+        },
+        {
+          "texto": "realizar o controle de presença e frequência das equipes, conforme registros de campo;",
+          "posicao": [
+            763,
+            17
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            765,
+            139
+          ]
+        },
+        {
+          "texto": "apoiar a comunicação entre as equipes externas e a Sala de Situação;",
+          "posicao": [
+            767,
+            17
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            769,
+            139
+          ]
+        },
+        {
+          "texto": "manter atualizado o banco de dados e planilhas de controle do programa;",
+          "posicao": [
+            771,
+            17
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            773,
+            139
+          ]
+        },
+        {
+          "texto": "prestar suporte ao Coordenador da Sala de Situação na elaboração dos relatórios de execução e consolidação dos resultados;",
+          "posicao": [
+            775,
+            17
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            777,
+            139
+          ]
+        },
+        {
+          "texto": "auxiliar na verificação e arquivamento dos processos de pagamento, mantendo a rastreabilidade das informações;",
+          "posicao": [
+            779,
+            46
+          ]
+        },
+        {
+          "texto": "h)",
+          "posicao": [
+            781,
+            139
+          ]
+        },
+        {
+          "texto": "exercer outras atividades correlatas determinadas pela Coordenação Municipal”.",
+          "posicao": [
+            783,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            785,
+            131
+          ]
+        },
+        {
+          "texto": "Os órgãos de segurança do Estado de Rondônia promoverão a seleção de Policiais Militares, Bombeiros Militares, Policiais Penais e Policiais Civis para formação de cadastro reserva de voluntários para a Atividade Delegada Municipal.",
+          "posicao": [
+            792,
+            46
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            794,
+            142
+          ]
+        },
+        {
+          "texto": "A participação do voluntário nas ações de Atividade Delegada Municipal, de que trata a Lei Complementar nº 1.003, de 07 de março de 2025, e alterada pelaLei Complementar nº 1.042, de 08 de dezembro de 2025, dependerá da conveniência e da necessidade da Administração Municipal",
+          "posicao": [
+            796,
+            46
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            796,
+            330
+          ]
+        },
+        {
+          "texto": "Art. 7º-A.",
+          "posicao": [
+            798,
+            131
+          ]
+        },
+        {
+          "texto": "A execução da Atividade Delegada Municipal – ACADM observará, obrigatoriamente, o seguinte fluxo operacional:",
+          "posicao": [
+            805,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            807,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            807,
+            144
+          ]
+        },
+        {
+          "texto": "solicitação e autorização da operação;",
+          "posicao": [
+            809,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            811,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            811,
+            145
+          ]
+        },
+        {
+          "texto": "elaboração e publicação da escala;",
+          "posicao": [
+            813,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            815,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            815,
+            146
+          ]
+        },
+        {
+          "texto": "execução do serviço;",
+          "posicao": [
+            817,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            819,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            819,
+            146
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            828,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            828,
+            145
+          ]
+        },
+        {
+          "texto": "elaboração de relatório operacional;",
+          "posicao": [
+            830,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            832,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            832,
+            144
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            841,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            841,
+            145
+          ]
+        },
+        {
+          "texto": "instrução do processo de pagamento;",
+          "posicao": [
+            843,
+            17
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            845,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            845,
+            146
+          ]
+        },
+        {
+          "texto": "liquidação e pagamento; e",
+          "posicao": [
+            847,
+            17
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            849,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            849,
+            147
+          ]
+        },
+        {
+          "texto": "prestação de contas e arquivamento",
+          "posicao": [
+            851,
+            17
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            851,
+            59
+          ]
+        },
+        {
+          "texto": "Art. 7º-B.",
+          "posicao": [
+            853,
+            131
+          ]
+        },
+        {
+          "texto": "Toda operação de Atividade Delegada Municipal deverá iniciar-se mediante Solicitação de Autorização de Serviço, formalizada via Sistema Eletrônico de Informações – SEI, contendo, no mínimo:",
+          "posicao": [
+            860,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            862,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            862,
+            144
+          ]
+        },
+        {
+          "texto": "justificativa da operação;",
+          "posicao": [
+            864,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            866,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            866,
+            145
+          ]
+        },
+        {
+          "texto": "área de atuação e localidade;",
+          "posicao": [
+            868,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            870,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            870,
+            146
+          ]
+        },
+        {
+          "texto": "período e turnos de execução;",
+          "posicao": [
+            872,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            874,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            874,
+            145
+          ]
+        },
+        {
+          "texto": "quantitativo estimado de voluntários por função;",
+          "posicao": [
+            876,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            878,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            878,
+            144
+          ]
+        },
+        {
+          "texto": "necessidade de viaturas e equipamentos, quando houver;",
+          "posicao": [
+            880,
+            17
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            882,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            882,
+            145
+          ]
+        },
+        {
+          "texto": "previsão de custo; e",
+          "posicao": [
+            884,
+            17
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            886,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            886,
+            146
+          ]
+        },
+        {
+          "texto": "identificação do órgão demandante.",
+          "posicao": [
+            888,
+            17
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            890,
+            142
+          ]
+        },
+        {
+          "texto": "Podem solicitar a operação a Secretaria Municipal de Segurança, Trânsito e Mobilidade – SEMTRAN, o Gabinete Militar – GAMIL, a Secretaria-Geral de Governo – SGOV e as Secretarias municipais demandantes.",
+          "posicao": [
+            892,
+            46
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            894,
+            142
+          ]
+        },
+        {
+          "texto": "A autorização da operação caberá ao Coordenador Municipal das Atividades ou ao Secretário Municipal de Segurança, Trânsito e Mobilidade.",
+          "posicao": [
+            896,
+            46
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            898,
+            142
+          ]
+        },
+        {
+          "texto": "A Solicitação de Autorização de Serviço seguirá modelo próprio definido em ato da SEMTRAN”.",
+          "posicao": [
+            900,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 7º-C.",
+          "posicao": [
+            902,
+            131
+          ]
+        },
+        {
+          "texto": "Autorizada a operação, a Sala de Situação Municipal elaborará a Escala Operacional, contendo:",
+          "posicao": [
+            909,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            911,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            911,
+            144
+          ]
+        },
+        {
+          "texto": "número da autorização;",
+          "posicao": [
+            913,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            915,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            915,
+            145
+          ]
+        },
+        {
+          "texto": "identificação da operação;",
+          "posicao": [
+            917,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            919,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            919,
+            146
+          ]
+        },
+        {
+          "texto": "local de execução;",
+          "posicao": [
+            921,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            923,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            923,
+            145
+          ]
+        },
+        {
+          "texto": "datas e horários de início e término dos turnos;",
+          "posicao": [
+            925,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            927,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            927,
+            144
+          ]
+        },
+        {
+          "texto": "quantitativo de voluntários escalados por função;",
+          "posicao": [
+            929,
+            17
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            931,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            931,
+            145
+          ]
+        },
+        {
+          "texto": "identificação do Supervisor de cada equipe;",
+          "posicao": [
+            933,
+            17
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            935,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            935,
+            146
+          ]
+        },
+        {
+          "texto": "viaturas e equipamentos empregados, quando houver; e",
+          "posicao": [
+            937,
+            17
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            939,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            939,
+            147
+          ]
+        },
+        {
+          "texto": "observações operacionais.",
+          "posicao": [
+            941,
+            17
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            943,
+            142
+          ]
+        },
+        {
+          "texto": "A Escala Operacional será registrada no SEI e disponibilizada previamente aos órgãos de segurança participantes”.",
+          "posicao": [
+            945,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 7º-D.",
+          "posicao": [
+            947,
+            131
+          ]
+        },
+        {
+          "texto": "A execução da operação será acompanhada em tempo real pela Sala de Situação Municipal, cabendo ao Supervisor:",
+          "posicao": [
+            954,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            956,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            956,
+            144
+          ]
+        },
+        {
+          "texto": "verificar a presença do efetivo e o cumprimento das atividades determinadas;",
+          "posicao": [
+            958,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            960,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            960,
+            145
+          ]
+        },
+        {
+          "texto": "registrar as intercorrências e ocorrências relevantes;",
+          "posicao": [
+            962,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            964,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            964,
+            146
+          ]
+        },
+        {
+          "texto": "orientar a equipe quanto às diretrizes operacionais estabelecidas; e",
+          "posicao": [
+            966,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            968,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            968,
+            145
+          ]
+        },
+        {
+          "texto": "zelar pela observância dos horários de início e término dos turnos.",
+          "posicao": [
+            970,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º-E.",
+          "posicao": [
+            972,
+            131
+          ]
+        },
+        {
+          "texto": "Ao final de cada turno de serviço, o Supervisor elaborará Relatório Operacional, contendo:",
+          "posicao": [
+            979,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            981,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            981,
+            144
+          ]
+        },
+        {
+          "texto": "identificação da operação, local e data;",
+          "posicao": [
+            983,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            985,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            985,
+            145
+          ]
+        },
+        {
+          "texto": "horário de início e término;",
+          "posicao": [
+            987,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            989,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            989,
+            146
+          ]
+        },
+        {
+          "texto": "efetivo empregado;",
+          "posicao": [
+            991,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            993,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            993,
+            145
+          ]
+        },
+        {
+          "texto": "descrição sintética das atividades executadas;",
+          "posicao": [
+            995,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            997,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            997,
+            144
+          ]
+        },
+        {
+          "texto": "resultados obtidos; e",
+          "posicao": [
+            999,
+            17
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            1001,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1001,
+            145
+          ]
+        },
+        {
+          "texto": "intercorrências relevantes.",
+          "posicao": [
+            1003,
+            17
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            1005,
+            142
+          ]
+        },
+        {
+          "texto": "O Relatório Operacional seguirá modelo padronizado definido em ato da SEMTRAN e será encaminhado à Sala de Situação Municipal para consolidação”.",
+          "posicao": [
+            1007,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 7º-F.",
+          "posicao": [
+            1009,
+            131
+          ]
+        },
+        {
+          "texto": "A Sala de Situação Municipal deverá, até o dia 25 (vinte e cinco) de cada mês:",
+          "posicao": [
+            1016,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            1018,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1018,
+            144
+          ]
+        },
+        {
+          "texto": "consolidar as frequências, escalas e relatórios relativos ao ciclo de apuração;",
+          "posicao": [
+            1020,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            1022,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1022,
+            145
+          ]
+        },
+        {
+          "texto": "identificar ausências, falhas e glosas aplicáveis;",
+          "posicao": [
+            1024,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            1026,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1026,
+            146
+          ]
+        },
+        {
+          "texto": "instruir o processo administrativo com os documentos comprobatórios da execução; e",
+          "posicao": [
+            1028,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            1030,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1030,
+            145
+          ]
+        },
+        {
+          "texto": "encaminhar o processo ao Coordenador Municipal das Atividades para validação.",
+          "posicao": [
+            1032,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º-G.",
+          "posicao": [
+            1034,
+            131
+          ]
+        },
+        {
+          "texto": "Compete ao Coordenador Municipal das Atividades:",
+          "posicao": [
+            1041,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            1043,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1043,
+            144
+          ]
+        },
+        {
+          "texto": "realizar a conferência e validação da execução das operações;",
+          "posicao": [
+            1045,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            1047,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1047,
+            145
+          ]
+        },
+        {
+          "texto": "analisar eventuais glosas e ajustes;",
+          "posicao": [
+            1049,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            1051,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1051,
+            146
+          ]
+        },
+        {
+          "texto": "atestar formalmente a execução das atividades; e",
+          "posicao": [
+            1053,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            1055,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1055,
+            145
+          ]
+        },
+        {
+          "texto": "encaminhar o processo ao setor financeiro competente para liquidação e pagamento”.",
+          "posicao": [
+            1057,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º-H.",
+          "posicao": [
+            1059,
+            131
+          ]
+        },
+        {
+          "texto": "Recebido o processo devidamente instruído e atestado, o setor financeiro competente deverá:",
+          "posicao": [
+            1066,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            1068,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1068,
+            144
+          ]
+        },
+        {
+          "texto": "analisar a conformidade dos documentos apresentados;",
+          "posicao": [
+            1070,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            1072,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1072,
+            145
+          ]
+        },
+        {
+          "texto": "proceder à liquidação da despesa; e",
+          "posicao": [
+            1074,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            1076,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1076,
+            146
+          ]
+        },
+        {
+          "texto": "emitir a ordem de pagamento, de modo a assegurar o crédito em conta do beneficiário até o 10º (décimo) dia útil do mês subsequente ao término do ciclo de apuração.",
+          "posicao": [
+            1078,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 7º-I.",
+          "posicao": [
+            1080,
+            131
+          ]
+        },
+        {
+          "texto": "A Secretaria Municipal de Segurança, Trânsito e Mobilidade – SEMTRAN consolidará mensalmente:",
+          "posicao": [
+            1087,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            1089,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1089,
+            144
+          ]
+        },
+        {
+          "texto": "os dados operacionais e de pagamento da ACADM;",
+          "posicao": [
+            1091,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            1093,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1093,
+            145
+          ]
+        },
+        {
+          "texto": "os relatórios estatísticos de execução; e",
+          "posicao": [
+            1095,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            1097,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1097,
+            146
+          ]
+        },
+        {
+          "texto": "o banco de dados histórico das operações, para fins de planejamento, controle interno e atendimento a órgãos de fiscalização”.",
+          "posicao": [
+            1099,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º-J.",
+          "posicao": [
+            1101,
+            131
+          ]
+        },
+        {
+          "texto": "Os modelos de Solicitação de Autorização de Serviço, Escala Operacional, Relatório Operacional e demais formulários necessários à execução da ACADM serão definidos em ato próprio da SEMTRAN, observados os parâmetros deste Decreto.",
+          "posicao": [
+            1108,
+            46
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-178-2014-sapl-4188.md",
+      "sha256": "6e68ab57e1c2a7799999dafdeb5249c13a6dcfec026a15b0633531ed420be245",
+      "sha256_fonte": "d8e5f7d4a89259e8f66a259852487758980566a86c55d812b6cb6e10baf578d4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/610487dca5b719321dad2746f5ce164e1f8b3b6b82b1236bfc4999c4c0033aec.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            443,
+            40
+          ]
+        },
+        {
+          "texto": "12 de Julho de 2023",
+          "posicao": [
+            447,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            447,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            453,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 364, de 12 de julho de 2023",
+          "posicao": [
+            453,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21665-2025-sapl-28704.md",
+      "sha256": "878e908da6ea9adec9a681221374b24ac3d54c60413cccf8c22f8d0ca5444531",
+      "sha256_fonte": "1b8e349d986b7001e5c34d7be1104b050da6a9534d63d98b0c88ea367b69a6bd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/01802436f787293ff18e0221cbaeb5a3a2f7cd5315491fd4019be7cbf07739cb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-175-2014-sapl-4146.md",
+      "sha256": "83c25f422401db4770657d07d39dab051bc685a02006e98e2d2dbadaa812f1aa",
+      "sha256_fonte": "8e4060449ccfd28e3cc2976fa86ea7c7a4a81aa627a408946defb55acc0d1292",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/43e0bc5c5fdc0dfe76d78d1f5825a5c34fa1a56911e0058108413ad1f1888279.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-174-2014-sapl-4137.md",
+      "sha256": "eca6b46e292002e3c7e9b56c91481dc5d37c7f750212f54f7c9f004c7417d775",
+      "sha256_fonte": "bb3de85202989168e9a14401543249a1bd36cc3966b2386fe26a44d1c7255b45",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/f19140e8a92b7edf948482826455bccfe14c011faf6032952be96fa9224f1131.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "IV",
+          "posicao": [
+            525,
+            139
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            525,
+            145
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            534,
+            139
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            534,
+            144
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            543,
+            139
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            543,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 4º-A.",
+          "posicao": [
+            603,
+            131
+          ]
+        },
+        {
+          "texto": "Os equipamentos públicos de cultura listados a seguir ficam sob a responsabilidade e gestão da Secretaria Municipal de Cultura de Fortaleza (SECULTFOR):",
+          "posicao": [
+            603,
+            145
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            620,
+            139
+          ]
+        },
+        {
+          "texto": "– Vila das Artes;",
+          "posicao": [
+            620,
+            144
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            629,
+            139
+          ]
+        },
+        {
+          "texto": "– Galeria Antônio Bandeira;",
+          "posicao": [
+            629,
+            145
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            639,
+            139
+          ]
+        },
+        {
+          "texto": "– Mercado dos Pinhões;",
+          "posicao": [
+            639,
+            146
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            648,
+            139
+          ]
+        },
+        {
+          "texto": "– Teatro Antonieta Noronha;",
+          "posicao": [
+            648,
+            145
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            658,
+            139
+          ]
+        },
+        {
+          "texto": "– Estoril;",
+          "posicao": [
+            658,
+            144
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            667,
+            139
+          ]
+        },
+        {
+          "texto": "– Teatro São José;",
+          "posicao": [
+            667,
+            145
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            676,
+            139
+          ]
+        },
+        {
+          "texto": "– Quiosque da Praça dos Mártires (Passeio Público);",
+          "posicao": [
+            676,
+            146
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            685,
+            139
+          ]
+        },
+        {
+          "texto": "– Biblioteca Municipal Dolor Barreira.",
+          "posicao": [
+            685,
+            147
+          ]
+        },
+        {
+          "texto": "Parágrafo único.",
+          "posicao": [
+            694,
+            142
+          ]
+        },
+        {
+          "texto": "Poderá a Secretaria Municipal de Cultura de Fortaleza autorizar o uso eventual dos equipamentos, a título precário, por meio de termo de autorização de uso, nos termos do art. 109, § 3º, da Lei Orgânica do Município de Fortaleza.",
+          "posicao": [
+            694,
+            162
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-165-2014-sapl-4024.md",
+      "sha256": "0a38a330e36faceb5e4d8ba7e045d76d2920f8679c8cd27b989deaf5b4965bce",
+      "sha256_fonte": "ebdd341531d5a867c99434af3833f9d8e79f6852ed1a82b591df79ef629043f8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e73493a2d300a6b9b4a1121cd88b386ace70173e7463b3f8aea8fde8ede023c7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2014/leis-complementares-164-2014-sapl-3988.md",
+      "sha256": "5ed122a736b94b11018d0f9b85671e8539ceb73f9dc33b28da89f6d007d1c816",
+      "sha256_fonte": "c1c3a8c4e7fe12de5d150b72edded963f128f75619dec31fab9e229b69ff663e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/57ec86db33dad96c959fc14f061a9da1cfdeb84e1767a4accdd04ed7fc6bd518.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            549,
+            142
+          ]
+        },
+        {
+          "texto": "Aos servidores beneficiados pelo caput deste artigo fica garantida, para fins de aposentadoria e pensão, caso esta regra lhe seja mais favorável, e observadas as regras de aposentadoria a que o servidor se submete, a incorporação da GEFAT na seguinte proporção:",
+          "posicao": [
+            549,
+            150
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            562,
+            139
+          ]
+        },
+        {
+          "texto": "– 90% (noventa por cento) do valor máximo da GEFAT do cargo no momento da concessão do benefício, desde que o período de efetiva contribuição sobre a gratificação seja igual ou superior a 108 (cento e oito) meses ininterruptos ou 132 (cento e trinta e dois) meses intercalados;",
+          "posicao": [
+            562,
+            144
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            571,
+            139
+          ]
+        },
+        {
+          "texto": "– 100% (cem por cento) do valor máximo da GEFAT do cargo no momento da concessão do benefício, desde que o período de efetiva contribuição sobre a gratificação seja igual ou superior a 120 (cento e vinte) meses ininterruptos ou 144 (cento e quarenta e quatro) meses intercalados.",
+          "posicao": [
+            571,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/resolucoes/2014/resolucoes-1630-2014-sapl-3716.md",
+      "sha256": "c7dd6a4c8c25211400d61368834d0975a2990c508376e7ded8b2cf5d6d84f79b",
+      "sha256_fonte": "b8f4d048b21ac18f5717feb0e8e2f0c57f8a6b42c689d7b4ed62c8045b4905ca",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/cb82067bc67f5006d197e454c237b4dbfae3cfba7d472fa5f2c5cf5376a91d29.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": "31 de Agosto de 2023",
+          "posicao": [
+            438,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            438,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            444,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 1.679, de 31 de agosto de 2023",
+          "posicao": [
+            444,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/resolucoes/2014/resolucoes-1628-2014-sapl-3711.md",
+      "sha256": "9249c959d1e97521e5d1b4df36c1e5cc795c708ee669989d2fecd3aa3dc69b0a",
+      "sha256_fonte": "46ee5bf6e703f2e06bc35a9a08233f880123c6b7cf5cb5134056219f2ac15f36",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/c25aa257b1a0d695a33ac7695707c99731d79cc35512321d3db79208227834d3.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": "31 de Agosto de 2023",
+          "posicao": [
+            438,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            438,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            444,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 1.679, de 31 de agosto de 2023",
+          "posicao": [
+            444,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2014/leis-ordinarias-10161-2014-sapl-3726.md",
+      "sha256": "2687281319f8d7df82d46db15a09a8d913aca1b2e08a50b395b2fd9680853efc",
+      "sha256_fonte": "bfad44822174390a1f433602758c8d8e95fa8f4723d6906b0cdb126c6786eaf7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/9545c066c099a1bc4415303864374657b9f1e1f0ca934fc76117057d786a3547.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2014/leis-ordinarias-10160-2014-sapl-3725.md",
+      "sha256": "1b971b27229e51f8fa0ef29d9609834e9bd1f3fa17d38e2066b70fed8a01146a",
+      "sha256_fonte": "19f706f7f6dcd74c427513b221be5ddb6d44e1a9d51349d243917ff0ed9c86a6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e37eda339fc3a29223bb54df97a4f12ea9c732ae21b1765a7f4b900e9b0dec76.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2013/leis-complementares-156-2013-sapl-3681.md",
+      "sha256": "fb78b2b6e41624eade125884816a0ae58f38774fee678e5b73f9af92a8cfac10",
+      "sha256_fonte": "8533e3caf57e5deee4d904db4cc496a7f0f46f7c1c4a78159ebf774068e28c87",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/76b2fb56785819f039c29c851ca970741a74fbb567c308ff1f937de67204b3c4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21637-2025-sapl-28681.md",
+      "sha256": "05cad59adc68d22321d336ce9563fc05bc3f81017fbf11e1ef8d5df010613e25",
+      "sha256_fonte": "9972b16b56d8d45d0ea82885f2d4a0e4f215b372f21e5f2a44f4cba9da6f5a7f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/da6f727cfe91206119f5fc742e2e90e676b10f1919b2c1615bfeb1c44a0207d6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21602-2025-sapl-28621.md",
+      "sha256": "b7212f7fa7c76b491f158a7fafbf818d43319eb56b55e0296a9a07679655ba74",
+      "sha256_fonte": "cb94153aa219ce603bb54a0720171b2aa145bd8e189f907797f2d185685a81ab",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bed37128722466bbfacf2771deae595f5441ad85052d72dabdfa7a0dd0f51dd9.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            131
+          ]
+        },
+        {
+          "texto": "Prorrogar por mais 60 (sessenta) dias, o prazo estabelecido no Decreto nº 21.100, de 26 de junho de 2025.",
+          "posicao": [
+            530,
+            17
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21601-2025-sapl-28625.md",
+      "sha256": "76011cdcf5cbaddc4a84b2a3fdc123f10895035b9c8ca803d1902bf77bebd46b",
+      "sha256_fonte": "e496d9845709d4798c8b7ccf945a8f66a29c9c9585f02286157d8b9da06eeb0b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2ad1059d47008c77fd76032ea7cdd240974054f28b75d8b8953895a7ac5a1bed.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21586-2025-sapl-28608.md",
+      "sha256": "eb7c120765d8c48b69587182a4e5b162674dcac3bde1d6f9bc96e115f31ffa88",
+      "sha256_fonte": "c9d2705c76d5ed5545a6d87be92c82d167ad7c23da3899460c0d569b157911da",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1ff9691fff452910074b54fc0337fd958f48b500f4b95f42b9453e65e11f7f84.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21572-2025-sapl-28592.md",
+      "sha256": "9946efa4999c0028105178e4bb4ec8296df943cf9f264eb54c40b42e4b987d54",
+      "sha256_fonte": "f72ee48c65bc63e667e6e0287ea15a7cb171ae4375c41f7f07cf3076315d51e5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4c4e00239606c9c22dc6df433eeb9a0f77798ccc74daa98b02d0d6bb3ba499e4.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            537,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            542,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            547,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            547,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            561,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            561,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            575,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            575,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            589,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            589,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            603,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            603,
+            143
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            617,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21557-2025-sapl-28562.md",
+      "sha256": "d273065b835de029ef01454e842984dbc9ac4d3a36e2faedc58f9495299c4f6c",
+      "sha256_fonte": "89ac2705ae326ad3bf6182886ed5be22d6d07da3606c5ea4ae2b9b3f43d5df95",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1a279a0a87abdf8feedb1782d1f9635b631063a1fa8da2c7a2a9ab4c87bc8d09.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21542-2025-sapl-28559.md",
+      "sha256": "63bffff2c3526435a1bc5e2197afd6946b250cb7eb84df58b30cd6ebd47956e5",
+      "sha256_fonte": "a1da80071bfc4e008d93ccb468a24c6311963781134339381de1302fa5d193f7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5af6cb942eb7d5ade1a6c6abccf25971acfbb06bb86fd875fdce346788f3ef92.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21525-2025-sapl-28540.md",
+      "sha256": "2f9ca8367b69f929c2fca2f88b4da823f2b7e6a100ba1ab113f8cf1f024d262c",
+      "sha256_fonte": "1186a9e435c2a64aca97a7f6db786b2be3d672254052e130b2cbb450a752b332",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/764f15d0cfa927cfc6fed82d3011e9819e0e2ae600f91af5f04d264c46d09ad1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21524-2025-sapl-28539.md",
+      "sha256": "f1acfd44b6ef8b9a8b67f4d12bb6d685d2ce7bf2cbc860bb2a1c25fc956e63ee",
+      "sha256_fonte": "a5666842abb139ebc19571a1256a6a11bd3235a4fdfd94d8cf89d43570c6d6f6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/378394e0563f6b379f9b0b6ff835ad0a2c33bc744a21d1df777fee6295b448bd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21505-2025-sapl-28505.md",
+      "sha256": "f6e4aa4fd9be14c683d64c076a1a31e6560d2e6d7dbf8f77f6049a9c56bbbefc",
+      "sha256_fonte": "63e5cfe58947e8596ffc615f7f3b1a28448b87ffd8b6bdd3cadfcd32ffbdd13e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/58babc57a40505edcb51cd3bde5131882a3f4476b1b15ab1a9ab16da63795b48.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            549,
+            131
+          ]
+        },
+        {
+          "texto": "O Grupo de Trabalho terá vigência de 02 (dois) meses, contados da data de publicação deste Decreto, sendo admitida a sua prorrogação.",
+          "posicao": [
+            549,
+            143
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21499-2025-sapl-28486.md",
+      "sha256": "9bef0cd1f9acafab91ad43c871b49ce2d59b8f24e5f4b445e078912e0753e857",
+      "sha256_fonte": "e01c9a368328d6b2eec4e370a8076f1f01955f5b96b22b78b494f700708a6284",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2e94f44a0f6e1387ce490e40f3952802fea9236530fd0ed602fbca4b8de09baa.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            542,
+            132
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            551,
+            131
+          ]
+        },
+        {
+          "texto": "Fica convocada a 2ª Conferência Municipal de Acompanhamento do Plano Diretor Participativo do Município de Porto Velho - PDPM, a ser realizada, nos dias 10 e 11 de dezembro de 2025 na cidade de Porto Velho - Rondônia. (",
+          "posicao": [
+            558,
+            46
+          ]
+        },
+        {
+          "texto": "NR",
+          "posicao": [
+            558,
+            273
+          ]
+        },
+        {
+          "texto": ")",
+          "posicao": [
+            558,
+            284
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            580,
+            132
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            589,
+            131
+          ]
+        },
+        {
+          "texto": "A 2ª Conferência Municipal de Acompanhamento do Plano Diretor Participativo do Município de Porto Velho - PDPM será presidida e coordenada pela Secretaria Municipal de Economia - SEMEC, sendo o monitoramento e controle social realizado pelo Conselho Municipal da Cidade - CONCIDADE. (",
+          "posicao": [
+            596,
+            46
+          ]
+        },
+        {
+          "texto": "NR",
+          "posicao": [
+            596,
+            338
+          ]
+        },
+        {
+          "texto": ")",
+          "posicao": [
+            596,
+            349
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            618,
+            132
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            627,
+            131
+          ]
+        },
+        {
+          "texto": "O Edital de Convocação da 2ª Conferência Municipal de Acompanhamento do PDPM, conforme § 3º do Art. 39. da Lei Complementar nº 838/2021, será elaborado pela Secretaria Municipal de Economia - SEMEC e, posteriormente, publicado em Diário Oficial com antecedência mínima de 15 (quinze) dias. (",
+          "posicao": [
+            634,
+            46
+          ]
+        },
+        {
+          "texto": "NR",
+          "posicao": [
+            634,
+            345
+          ]
+        },
+        {
+          "texto": ")",
+          "posicao": [
+            634,
+            356
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            636,
+            132
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            645,
+            131
+          ]
+        },
+        {
+          "texto": "O Regimento Interno que disporá sobre a organização e o funcionamento da 2ª Conferência Municipal de Acompanhamento do Plano Diretor Participativo do Município de Porto Velho - PDPM, será elaborado e publicado por meio de portaria, pela SEMEC. (",
+          "posicao": [
+            652,
+            46
+          ]
+        },
+        {
+          "texto": "NR",
+          "posicao": [
+            652,
+            299
+          ]
+        },
+        {
+          "texto": ")",
+          "posicao": [
+            652,
+            310
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            654,
+            132
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            663,
+            131
+          ]
+        },
+        {
+          "texto": "As despesas com a realização da 2ª Conferência de Acompanhamento do PDPM serão custeadas pelos recursos orçamentários próprios da Prefeitura Municipal de Porto Velho, por meio da SEMEC, podendo também ocorrer mediante parcerias e patrocínios. (",
+          "posicao": [
+            670,
+            46
+          ]
+        },
+        {
+          "texto": "NR",
+          "posicao": [
+            670,
+            298
+          ]
+        },
+        {
+          "texto": ")",
+          "posicao": [
+            670,
+            309
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21484-2025-sapl-28489.md",
+      "sha256": "cff40fa7f990acac7c9f908608289a9b7001e030c479af28a23487701e01305e",
+      "sha256_fonte": "7edf881a52239e394934178aa9fdb8fd935af8636d87965ee87d79fbedd7a194",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/ab0a70a93caf6af525de35e1029d60a586fa2d61544059335e58dd3d15f7831e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21456-2025-sapl-28441.md",
+      "sha256": "4042fe2bad73447a39731a282665519abeb90a3c8b31b25aea64e5d3aa76d698",
+      "sha256_fonte": "c89aeb1817b8d515a3878d6d93a1f25bb60349b7c216d4cf749f0ac67054974b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3f08dd128ab3e7fbc4219d6d0137b8184724bc86f18c2f3bebc8fd6f1771f150.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21448-2025-sapl-28422.md",
+      "sha256": "a548ff4b64a139f60ff3060327addd7b23564045876663104fa649030e49abe5",
+      "sha256_fonte": "b8ceea93816c98f7d7a914c0206a26ec59ce38aaf6ff1045cb56c13c477525e0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7324da7b0b97eab040c07ef697f1e823d8dfc13fb22a7d565aac2de5b5eecd9e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21438-2025-sapl-28398.md",
+      "sha256": "954f7f8bd029616d2dffd2a85fd23bf97962faf5ed57af9294d9d64bc7282bb0",
+      "sha256_fonte": "90014f32a0639bff8ff5479750069b852907b158fa5065fdbbba249244493bdf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/489331deed2a3931ce5d360a0201292bd5b7b41e111c0014f2a5dd0b196ee2be.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "1 de Dezembro de 2025",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 21.602, de 01 de dezembro de 2025",
+          "posicao": [
+            456,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21437-2025-sapl-28360.md",
+      "sha256": "6acb7290893d65ff53f0bcecacc1531261932cec137f2cd4634ff59584ea09d9",
+      "sha256_fonte": "4f0e79b54b3a7d269990f65252a00a947ac532b07c4222f131710cf59442ee5e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/527638a082be06ecd2b9e5306c2dffc48951a23f1fabbad36e277f1076fd4eb9.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            523,
+            142
+          ]
+        },
+        {
+          "texto": "A exceção prevista neste artigo não dispensa a observância do dever de pontualidade e assiduidade.",
+          "posicao": [
+            525,
+            46
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21378-2025-sapl-28320.md",
+      "sha256": "d1326550e7e3a23cb7810626883b78c9d74b49f20ae0e459ec28378cd1e56b12",
+      "sha256_fonte": "88b488272d2f4c8f2aeb99bbc02666b028616736b5f1a448469906f708e486c5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/6f0547bef9dc53de16c6e2a0266e4f6940351ad6f48d731b13e9b56f5b93be95.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            453,
+            40
+          ]
+        },
+        {
+          "texto": "23 de Outubro de 2025",
+          "posicao": [
+            457,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            457,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            463,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 21.460, de 23 de outubro de 2025",
+          "posicao": [
+            463,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21376-2025-sapl-28322.md",
+      "sha256": "2889ffc147f236ba35dc16f52fe0d056b89e4c841f53fa451c9148e02f440de7",
+      "sha256_fonte": "c957301ac648f1a2c3767b2ede2a05d5de84ff19e5a9b27e58786771bad61509",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/ebf55d2689fe98460ad33e72e391324168040822e12c04c22f9617d2ed75f05c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21373-2025-sapl-28323.md",
+      "sha256": "56c5113689ba3e06805d000b439e8255eb53116d4cd9ae4d78bd99610a9c568d",
+      "sha256_fonte": "0bf47ff6a2bd2d653d99db4c83615295fc1a1ec69fa707911adc400c3d0d9089",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/05d5d01e2872edee623bd03c98dd94e89bfe8b500026751e82790aa6f7c84dd8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21371-2025-sapl-28331.md",
+      "sha256": "7e074b537ef055a8accaf1875efdaab5261dcf0e9cd1a53a066ec080fe895d8c",
+      "sha256_fonte": "57bd5e60e4091574a3984c4ac6b158753b9143fd1237e08c24c4ad6da1786946",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7c9294331b8581b27879d859fb4a79180c0fa940ea144d445001cd4c49800f19.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21346-2025-sapl-28286.md",
+      "sha256": "7d3abe283aa8d6555374ffe9bd265d2130f25b8e6100684390ddd71adc23e274",
+      "sha256_fonte": "2ed8275efd2d2979ae372dff479d02ef87ec9927c79890e5fef8004e5dbf23d3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b1bfc6d1d34015d897613b8c3756be858fd3c3a28f46b67659df004ec88a3e0e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            542,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21345-2025-sapl-28287.md",
+      "sha256": "57e4f2af315a84fc440a0d6343ffd84a1bc5c61201fccbfa1078cbfcf91575da",
+      "sha256_fonte": "c420c0b4464e58e55b4d51fc24efb49c2fa40ad03177d0926a2951e01fdb965d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5810b03e8b7ed0ebe1095149868ac72db781956abc15784a4366f4adead0d4ab.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21343-2025-sapl-28283.md",
+      "sha256": "9fcc6ad77b1622eceb92721288ec82ddefe04289c311b9639e5fe660e684b843",
+      "sha256_fonte": "227f0b1ab9c271de4e2dc9ff1a898256615378b637496ac0475bac3b89524875",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e11e97b568cd2cdeb7f287fb2cd8249cbcb03c6fa74a854ed843b78287186d1b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21339-2025-sapl-28276.md",
+      "sha256": "45bfe8b4e48305a9b859d5bfc7704337209ea5b390b36c329d6592564a28f7e0",
+      "sha256_fonte": "aac677ea80a17710c3fe62f5f1aee53e45741900d3f08bd9391544fb4f418ba9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b687289b7e161b5f37370ba6059eae89163cd5d277c54fe81fa00b18b8b886a1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21328-2025-sapl-28269.md",
+      "sha256": "27db1fcd0c66a082fb1d1a8efe2ffcecd2a1210f8f5b5dbe26016ff66886e4bb",
+      "sha256_fonte": "7aa6c9024d964f4a4055242e754aac6c296b0452683dcc3cbb8a8b1fd9c47e77",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/24924afbba6e790db7682578b84bb3a467b0202d62cbfa2a2cc6741da7eb78e5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3302-2025-sapl-28242.md",
+      "sha256": "b529408b84cb295b360675fd0f17345f94e74e0f9fb1fc54b7fae4ec0cb700a7",
+      "sha256_fonte": "39a46e55f8fc3de5946666500268b68f6b7bddba41ffda0f9ff76f87e64648ff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0f9c96b16832c2cd9e56c04a9ab6f332ed2c1d575a7a449a9dbbed1904ba50b0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21321-2025-sapl-28259.md",
+      "sha256": "1b218c0d5e163085025bb1826cef0314dcb074c4b20d007cdf730e3c4a716f66",
+      "sha256_fonte": "9244052ff0d754a21542b11d76164a57f1ab1889cf406b69d894e6d8ca95f1c5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8348a75509a022e61194376a26b84c0c7f1b2355614c18a43bc44b3e94789caa.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "m)",
+          "posicao": [
+            523,
+            139
+          ]
+        },
+        {
+          "texto": "Quiosques das calçadas do entorno do Complexo da Estrada de Ferro Madeira-Mamoré.",
+          "posicao": [
+            525,
+            46
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            531,
+            139
+          ]
+        },
+        {
+          "texto": "Praça CÉU; e",
+          "posicao": [
+            533,
+            46
+          ]
+        },
+        {
+          "texto": "h)",
+          "posicao": [
+            535,
+            139
+          ]
+        },
+        {
+          "texto": "Shopping Popular Rio Madeira.",
+          "posicao": [
+            537,
+            17
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            539,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            539,
+            147
+          ]
+        },
+        {
+          "texto": "Secretaria Municipal de Infraestrutura – SEINFRA e Empresa de Desenvolvimento Urbano – EMDUR, sob regime de competência compartilhada:",
+          "posicao": [
+            541,
+            46
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            543,
+            139
+          ]
+        },
+        {
+          "texto": "Praça Heliponto Nova Mutum;",
+          "posicao": [
+            545,
+            17
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            547,
+            139
+          ]
+        },
+        {
+          "texto": "Praça das Camélias;",
+          "posicao": [
+            549,
+            17
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            551,
+            139
+          ]
+        },
+        {
+          "texto": "Praça dos Seringueiros;",
+          "posicao": [
+            553,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 10.",
+          "posicao": [
+            555,
+            131
+          ]
+        },
+        {
+          "texto": "A gestão do Parque Circuito “Dr. José Adelino” do Município de Porto Velho, no que diz respeito à Administração, Manutenção, Conservação e Recuperação é de competência e responsabilidade compartilhada entre a Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável – SEMA e a Empresa de Desenvolvimento Urbano – EMDUR.",
+          "posicao": [
+            562,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 15.",
+          "posicao": [
+            564,
+            131
+          ]
+        },
+        {
+          "texto": "A gestão administrativa do Skate Parque no que diz respeito à manutenção, recuperação e desenvolvimento é de competência e responsabilidade compartilhada entre a Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável – SEMA e a Empresa de Desenvolvimento Urbano – EMDUR.",
+          "posicao": [
+            571,
+            46
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            655,
+            139
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            655,
+            145
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            664,
+            139
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            664,
+            145
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            673,
+            139
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            673,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21319-2025-sapl-28267.md",
+      "sha256": "661262ce7245f32952eca65c709a4821f53da241ce0ba933d9ff15437fa6c04f",
+      "sha256_fonte": "be3a014fcc1b3509f1540f3876bd9026bc89ec37b7e844e6a4e0cd72993d5bce",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aa380773ecb2f6142de85b9b9eb2a5f7401ddaf7bd22329b231b49217b381c0b.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "30 de Janeiro de 2026",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 21.746, de 30 de janeiro de 2026",
+          "posicao": [
+            456,
+            58
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            927,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            932,
+            145
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            937,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            950,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            950,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            959,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            959,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            973,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            973,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            982,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            982,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            996,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            996,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            1005,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1005,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            1019,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1019,
+            144
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21318-2025-sapl-28240.md",
+      "sha256": "c019835e3f728f5e39ac2d88f06d4a8f1f0c6c08c655d18dc508eaf1221e9abd",
+      "sha256_fonte": "b365f400d92b6add91ddfcf8af6f58f3db0ae445bb1d704ff5d21398fcb32084",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b2f47618eb915fb0bb23fc74c509f6a86d11bbf6831573ad7aef144572fc258b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3300-2025-sapl-28244.md",
+      "sha256": "c8b009c9d7f2162dac3f1aff202f3432ff035b41d5c97b567244d400566bd1a6",
+      "sha256_fonte": "1da4cb729f32f34cff67b9d32618cb5437e7193f03da44adfefd9f5391c335e5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0f951e5e6d1180e337cdb61ecb3ee0145bec8be49206829d46177a4482e0be9b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3299-2025-sapl-28245.md",
+      "sha256": "fbf1b6056c84ca067bd29df4eba5240a4c9fcc423b046491239571c5d904434f",
+      "sha256_fonte": "e8e0676d8da6a074d25dd8b45bfb79a10836fb958dffbdb3e22b9873c411cae7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1ed6c7b140e3ef57aa2aad064f01e2f30fffb7667079a206cb7ffaf328ab7218.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21310-2025-sapl-28232.md",
+      "sha256": "fd08b25005a58f04ad469116e5bbbe2ae24276463220581b9c49f1bba24abeba",
+      "sha256_fonte": "6c7c0391f29b8c5878a0fda0b88a9c663759c93ad1078c81e6efebad00cdb1f4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cd8fbaf25de88960938579cf6038a865967cf1bd2cbb6a422829308da535132c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21307-2025-sapl-28230.md",
+      "sha256": "7c928c6f607156aad6291fbbd941dd2ba4a1807a020facec12493c63531a8e2e",
+      "sha256_fonte": "2f4d1b4e1e8a77e31f64aab8c8c39430260f4a3ba8f00a45372ec511d8937062",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/6e63d2a829413816a3e30b76d5016802861d8650a14045f48c12a6a2d184e611.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            479,
+            40
+          ]
+        },
+        {
+          "texto": "6 de Novembro de 2025",
+          "posicao": [
+            483,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            483,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            489,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 21.505, de 06 de novembro de 2025",
+          "posicao": [
+            489,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21301-2025-sapl-28218.md",
+      "sha256": "d1eb9bc940c78e718684eedf0bb5779861501e0038a751014505feef22bb05fc",
+      "sha256_fonte": "855208737b19aa2141e920eac4af73063e043dda8ebbcf5fddd4517f8253fa45",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/6cfb7d4ba6e4fad898dab96f9930f969d119ac636d514cefbbc145a81c2ed649.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3295-2025-sapl-28314.md",
+      "sha256": "80bb194d708dad7880c2e1bf46f85fa681e4058948077e56b7d2613d24aee42d",
+      "sha256_fonte": "bf3738f520b2cd0106ba13fc91f5fb1641882cdd165ffb51fa9c31b11c2452f9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d5f7f81c2810f09ddd7a775e65be812934500292c4968dabac3902d0c1bc22d0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1029-2025-sapl-28221.md",
+      "sha256": "f30aa61cdf36a39ea10488f81aa915ad0e5cb74411a02e2e3eddb0bc666a6baf",
+      "sha256_fonte": "29043c055f4a6bb62cafb9e4205f28e476650d9e147f46d452b10c66ff5cac02",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/895a4cd075054bae4db2a23f5f7644ff04fbd866a9f632f74ee8f90468706742.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            530,
+            131
+          ]
+        },
+        {
+          "texto": "As contratações de que trata esta Lei Complementar poderão ser realizadas pelo prazo máximo de até 04 (quatro) anos.",
+          "posicao": [
+            537,
+            46
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            539,
+            142
+          ]
+        },
+        {
+          "texto": "Nos casos de extrema relevância e urgência, e desde que feita exposição da motivação, aprovada pelo Chefe do Poder Executivo e publicada no Diário Oficial do Município, os contratos poderão ser prorrogados, devendo ser observado o prazo máximo estabelecido no caput deste artigo.",
+          "posicao": [
+            541,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            543,
+            131
+          ]
+        },
+        {
+          "texto": "Aos servidores contratados sob o regime jurídico de que trata esta Lei, havendo equivalência de função, aplica-se a carga horária e as atribuições previstas na Lei Complementar nº 391, de 06 de julho de 2010.",
+          "posicao": [
+            550,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            552,
+            131
+          ]
+        },
+        {
+          "texto": "Aplica-se ao contratado no regime jurídico previsto nesta Lei Complementar, além da remuneração referente à contratação, os seguintes direitos previstos na Lei Complementar nº 385, de 1º de julho de 2010:",
+          "posicao": [
+            559,
+            46
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            561,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            561,
+            147
+          ]
+        },
+        {
+          "texto": "Plantão Extra;",
+          "posicao": [
+            563,
+            46
+          ]
+        },
+        {
+          "texto": "IX",
+          "posicao": [
+            565,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            565,
+            145
+          ]
+        },
+        {
+          "texto": "Hora extra.",
+          "posicao": [
+            567,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 10º.",
+          "posicao": [
+            569,
+            131
+          ]
+        },
+        {
+          "texto": "O pessoal contratado na forma desta Lei terá regime jurídico administrativo especial, sendo regido exclusivamente pelas normas constantes nesta Lei.",
+          "posicao": [
+            576,
+            46
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            578,
+            142
+          ]
+        },
+        {
+          "texto": "O servidor contratado nos termos desta Lei, fica vinculado ao Regime Geral da Previdência Social.",
+          "posicao": [
+            580,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 11.",
+          "posicao": [
+            582,
+            131
+          ]
+        },
+        {
+          "texto": "Por interesse e excepcional necessidade da Administração Municipal, devidamente justificado pelo Secretário da pasta, a duração normal do trabalho, com jornada diária de até 08 (oito) horas, poderá ser acrescida de horas suplementares, desde que não ultrapasse o limite máximo de 02 (duas) horas diárias.",
+          "posicao": [
+            589,
+            46
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            591,
+            142
+          ]
+        },
+        {
+          "texto": "O Chefe do Poder Executivo, em caráter excepcional, mediante prévia justificativa da Unidade Administrativa interessada e comprovação da disponibilidade orçamentário-financeira, poderá fixar o número de horas extras de que trata o caput deste artigo até o limite máximo de 04 (quatro) horas por jornada; devendo na justificativa constar o período do serviço extraordinário, número de servidores e atividade a ser executada.",
+          "posicao": [
+            593,
+            46
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            595,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            595,
+            145
+          ]
+        },
+        {
+          "texto": "por iniciativa do contratado, desde que comunique à Administração Pública com antecedência mínima de 30 (trinta) dias, implicando em indenização ao Município no valor da remuneração correspondente ao período não trabalhado, no caso de descumprimento do aviso prévio.",
+          "posicao": [
+            597,
+            46
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            650,
+            139
+          ]
+        },
+        {
+          "texto": "O Chefe do Poder Executivo, em caráter excepcional, mediante prévia justificativa da Unidade Administrativa interessada e comprovação da disponibilidade orçamentário-financeira, poderá fixar o número de horas extras de que trata o caput deste artigo até o limite máximo de 04 (quatro) horas por jornada; devendo na justificativa constar o período do serviço extraordinário, número de servidores e atividade a ser executada.",
+          "posicao": [
+            652,
+            46
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1028-2025-sapl-28216.md",
+      "sha256": "6661419053b5a1331faa7ac2216274cccbdf47b686516decda543906327fd6c5",
+      "sha256_fonte": "bc6847705cbf7579f1179cc42464dd6345cdebfdfc2f32b1d6c0c6ad6072b5a6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f0e99fb19f52b42f2cfd8fd6c3d877de87011b454d61689654670fb90271faad.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "III",
+          "posicao": [
+            537,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            537,
+            146
+          ]
+        },
+        {
+          "texto": "A atuação nas atividades concernentes a iluminação pública, inclusive a iluminação cênica para monumentos, espaços públicos e eventos oficiais;",
+          "posicao": [
+            539,
+            56
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            592,
+            128
+          ]
+        },
+        {
+          "texto": "Fica instituída no município de Porto Velho, na forma o art. 149-A, da Constituição Federal/1988, a Contribuição para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos – COSIP.",
+          "posicao": [
+            599,
+            56
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            601,
+            141
+          ]
+        },
+        {
+          "texto": "Considera-se serviço de iluminação pública aquele destinado a iluminar, em caráter universal, vias, logradouros e outros locais públicos de uso comum, bem como executar atividades acessórias de instalação, manutenção, expansão da respectiva rede de iluminação cênica para monumentos e espaços públicos.",
+          "posicao": [
+            603,
+            56
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            605,
+            128
+          ]
+        },
+        {
+          "texto": "A COSIP tem como fato gerador a utilização, efetiva ou potencial, dos serviços públicos de:",
+          "posicao": [
+            612,
+            56
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            614,
+            138
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            614,
+            143
+          ]
+        },
+        {
+          "texto": "iluminação pública – compreendendo a instalação, melhoramento, administração, manutenção, expansão, inclusive a rede de iluminação cênica para monumentos e espaços públicos e fiscalização de todo o sistema;",
+          "posicao": [
+            616,
+            56
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            618,
+            138
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            618,
+            144
+          ]
+        },
+        {
+          "texto": "sistema de monitoramento – abrangendo a segurança e a preservação dos logradouros públicos, com a utilização de tecnologias e estruturas que visem aprimorar a vigilância, proteção e manutenção de espaços públicos, de modo a garantir a segurança dos cidadãos e preservação desses locais.",
+          "posicao": [
+            620,
+            56
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            622,
+            128
+          ]
+        },
+        {
+          "texto": "A base de cálculo da COSIP corresponderá ao gasto dos serviços de iluminação pública e monitoramento a ser objeto de rateio entre os contribuintes.",
+          "posicao": [
+            629,
+            56
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            631,
+            141
+          ]
+        },
+        {
+          "texto": "VETADO",
+          "posicao": [
+            633,
+            35
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            633,
+            50
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            635,
+            138
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            635,
+            144
+          ]
+        },
+        {
+          "texto": "executar atividades acessórias de instalação, manutenção, expansão da respectiva rede de iluminação cênica para monumentos e espaços públicos; e",
+          "posicao": [
+            637,
+            56
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            639,
+            138
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            639,
+            145
+          ]
+        },
+        {
+          "texto": "o custeio, a expansão e a melhoria dos sistemas de monitoramento para segurança e preservação de logradouros públicos.",
+          "posicao": [
+            641,
+            56
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            643,
+            141
+          ]
+        },
+        {
+          "texto": "O produto da arrecadação da COSIP é vinculado exclusivamente ao custeio dos serviços de iluminação pública e monitoramento, nos termos desta Lei Complementar.",
+          "posicao": [
+            645,
+            56
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            647,
+            128
+          ]
+        },
+        {
+          "texto": "Fica instituído o Fundo Municipal de Iluminação Pública (FUMIP), de natureza contábil, orçamentária e administrativa, vinculado à Secretaria Municipal de Economia (SEMEC), para fins de administração e gestão da aplicação dos respectivos recursos.",
+          "posicao": [
+            654,
+            56
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            656,
+            141
+          ]
+        },
+        {
+          "texto": "Compete ao Conselho de Recursos Fiscais, órgão colegiado de deliberação superior vinculado à Secretaria Municipal de Economia, o julgamento de impugnações e recursos administrativos pertinentes ao lançamento da COSIP.",
+          "posicao": [
+            658,
+            56
+          ]
+        },
+        {
+          "texto": "Art. 30.",
+          "posicao": [
+            711,
+            131
+          ]
+        },
+        {
+          "texto": "A Empresa de Desenvolvimento Urbano - EMDUR, com autonomia administrativa e financeira, tem como finalidade atuar no desenvolvimento urbano do Município de Porto Velho e executar programas e políticas públicas, competindo-lhe:",
+          "posicao": [
+            718,
+            56
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            720,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            720,
+            144
+          ]
+        },
+        {
+          "texto": "a execução de programas de obras e desenvolvimento de áreas urbanas;",
+          "posicao": [
+            722,
+            27
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            724,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            724,
+            145
+          ]
+        },
+        {
+          "texto": "a atuação em serviços públicos de iluminação, incluindo:",
+          "posicao": [
+            726,
+            27
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            728,
+            139
+          ]
+        },
+        {
+          "texto": "Iluminação pública; e",
+          "posicao": [
+            730,
+            27
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            732,
+            139
+          ]
+        },
+        {
+          "texto": "iluminação cênica para monumentos, espaços públicos e eventos oficiais.",
+          "posicao": [
+            734,
+            27
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            736,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            736,
+            146
+          ]
+        },
+        {
+          "texto": "a fabricação de artefatos de cimento;",
+          "posicao": [
+            738,
+            27
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            740,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            740,
+            145
+          ]
+        },
+        {
+          "texto": "a elaboração e construção de habitação de interesse social;",
+          "posicao": [
+            742,
+            27
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            744,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            744,
+            144
+          ]
+        },
+        {
+          "texto": "a atuação em serviços complementares municipais, com a gestão e fiscalização de:",
+          "posicao": [
+            746,
+            27
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            748,
+            139
+          ]
+        },
+        {
+          "texto": "feiras;",
+          "posicao": [
+            750,
+            56
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            752,
+            139
+          ]
+        },
+        {
+          "texto": "mercados públicos; e",
+          "posicao": [
+            754,
+            27
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            756,
+            139
+          ]
+        },
+        {
+          "texto": "eventos oficiais sob sua tutela.",
+          "posicao": [
+            758,
+            27
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            760,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            760,
+            145
+          ]
+        },
+        {
+          "texto": "a conservação e estética da cidade;",
+          "posicao": [
+            762,
+            27
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            764,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            764,
+            146
+          ]
+        },
+        {
+          "texto": "a atuação nos serviços públicos de limpeza urbana, incluindo:",
+          "posicao": [
+            766,
+            27
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            768,
+            139
+          ]
+        },
+        {
+          "texto": "coleta de resíduos sólidos;",
+          "posicao": [
+            770,
+            27
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            772,
+            139
+          ]
+        },
+        {
+          "texto": "tratamento e destinação final de resíduos; e",
+          "posicao": [
+            774,
+            27
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            776,
+            139
+          ]
+        },
+        {
+          "texto": "ações correlatas.",
+          "posicao": [
+            778,
+            27
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            780,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            780,
+            147
+          ]
+        },
+        {
+          "texto": "a operação e manutenção da infraestrutura do Município de Porto Velho;",
+          "posicao": [
+            782,
+            27
+          ]
+        },
+        {
+          "texto": "IX",
+          "posicao": [
+            784,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            784,
+            145
+          ]
+        },
+        {
+          "texto": "o apoio ao Município de Porto Velho na execução de sua política de desenvolvimento, por meio de:",
+          "posicao": [
+            786,
+            17
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            788,
+            139
+          ]
+        },
+        {
+          "texto": "estabelecimento de Parcerias Público-Privadas (PPPs); e",
+          "posicao": [
+            790,
+            27
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            792,
+            139
+          ]
+        },
+        {
+          "texto": "parcerias com entidades do terceiro setor.",
+          "posicao": [
+            794,
+            27
+          ]
+        },
+        {
+          "texto": "X",
+          "posicao": [
+            796,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            796,
+            144
+          ]
+        },
+        {
+          "texto": "o auxílio aos órgãos municipais no desenvolvimento e execução de políticas públicas; e",
+          "posicao": [
+            798,
+            27
+          ]
+        },
+        {
+          "texto": "XI",
+          "posicao": [
+            800,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            800,
+            145
+          ]
+        },
+        {
+          "texto": "o ordenamento de despesas, por meio de seu Presidente.",
+          "posicao": [
+            802,
+            27
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21261-2025-sapl-28164.md",
+      "sha256": "3a8c216505b48ac093fb236d30f9a74516c1436fc7f8a46398edd28880a6cafe",
+      "sha256_fonte": "da56c3eba2284fcf249ead578135cf6a468c6b11b7b8188691877b5c544b77ff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9f4de09355e2053ee2424518613ad25fa067bd34ea0782f257f5c91df07a2be8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21254-2025-sapl-28158.md",
+      "sha256": "37b106d64b714f5421d04b9c236e16f6113538718fd33f28fea8f6f5d52be09d",
+      "sha256_fonte": "3d450f2d084b7aa724715967b3e7b1187803c105b2a54bdfbe45bd919da400f7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/28bd965d5fefa63045476f52733668f8ae28315ba0110ec2b26e2d22a2f48071.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            549,
+            131
+          ]
+        },
+        {
+          "texto": "São membros permanentes na composição da Comissão Técnica de Equilíbrio Financeiro e Fiscal criada pelo presente Decreto os titulares das seguintes unidades setoriais da Prefeitura de Porto Velho:",
+          "posicao": [
+            556,
+            46
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            558,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            558,
+            144
+          ]
+        },
+        {
+          "texto": "Secretaria de Governo (SGOV);",
+          "posicao": [
+            560,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            562,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            562,
+            145
+          ]
+        },
+        {
+          "texto": "Secretaria Municipal de Economia (SEMEC);",
+          "posicao": [
+            564,
+            17
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            566,
+            142
+          ]
+        },
+        {
+          "texto": "Compete à Comissão Técnica de Equilíbrio Financeiro e Fiscal definir seu calendário de reuniões, podendo, a qualquer tempo, ser convocada por ofício da Secretaria de Governo (SGOV) para discussão de assunto de interesse do Prefeito.",
+          "posicao": [
+            568,
+            46
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            570,
+            142
+          ]
+        },
+        {
+          "texto": "A Comissão Técnica de Equilíbrio Financeiro e Fiscal será coordenada de forma integrada pelas unidades que o compõe, cabendo à Secretaria Municipal de Economia (SEMEC) a coordenação dos trabalhos e efetivar a convocação para comparecimento às reuniões estabelecidas em calendário aprovado por seus integrantes na forma do § 3º deste artigo, assim como promover os atos necessários à preservação e ao arquivamento do acervo documental relativo às atividades da Comissão.",
+          "posicao": [
+            572,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            574,
+            131
+          ]
+        },
+        {
+          "texto": "Para promover a preservação do equilíbrio fiscal do Ente Público Municipal, fica autorizada a atuação direta da Comissão Técnica de Equilíbrio Financeiro e Fiscal na gestão de pessoas, dispêndios com pessoal, despesas de custeio e investimentos das unidades setoriais da Prefeitura de Porto Velho, inclusive em relação à Secretaria Municipal de Educação (SEMED), à Secretaria Municipal de Saúde (SEMUSA) e à Secretaria Municipal de Inclusão e Assistência Social (SEMIAS), atuando de forma preventiva, de forma a orientar e indicar ações a serem implementadas pelas unidades da Prefeitura de Porto Velho, respeitadas as prerrogativas inerentes a gestão plena dessas áreas.",
+          "posicao": [
+            581,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            583,
+            131
+          ]
+        },
+        {
+          "texto": "A Secretaria Municipal Economia (SEMEC) empreenderá condutas para promover rígido controle e verificação das receitas tributárias e das transferências constitucionais, assim como das despesas da Prefeitura de Porto Velho, podendo propor medidas adicionais para mitigar o impacto econômico–financeiro derivado das instabilidades verificadas no cenário mundial e nacional.",
+          "posicao": [
+            590,
+            46
+          ]
+        },
+        {
+          "texto": "Art. 9º.",
+          "posicao": [
+            592,
+            131
+          ]
+        },
+        {
+          "texto": "O prazo de vigência de atividade da Comissão Técnica de Equilíbrio Financeiro e Fiscal será de 12 (doze) meses a partir de sua publicação, podendo ser prorrogado por igual período, devendo, ao final, ser apresentado relatório consolidado das atividades, sem prejuízo dos relatórios mensais a serem apresentados acerca do efetivo atendimento do objeto desde Decreto.\"",
+          "posicao": [
+            599,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            683,
+            139
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            683,
+            146
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

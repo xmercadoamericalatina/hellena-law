@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 500,
+  "aprovados_nestes_gates": 197,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.fortaleza.ce.leg.br.prefixo.jsonl",
+      "sha256": "db6658acfc9be6590608a08a0cfe3b3a7e7ac672c04aaf354fd21042be27dd3e",
+      "bytes": 2342836
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.fortaleza.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cc738081c5fd74d82ed6686ffa44e0e160436b11c6323dbcd36a28572346971b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.fortaleza.ce.leg.br.anexos.json",
+      "sha256": "a404a71cb9e4081b89f11098f51838393d94c7f4d858994fd33a58b33d60ef7f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "1d8697828752bdf7ee09770ae55f66410f5f08967ccbe6779eaa99127bdb1b15",
+      "bytes": 2379924
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,30 @@
+{
+  "documento": "municipais/SP/sao-paulo/decretos/2026/decreto-65599-2026.md",
+  "sha256_anterior": "7808f6169dd90ce01a23586a40af5e90b426d6d808459e5e0c9754b3060c89fb",
+  "sha256_novo": "0a1fced66ace2c1dd7573107c2222b940ab1289a6f2f4f20e97a6d2cf8145751",
+  "backup": "municipais/_lotes/20261020-sp-tributaria-tachados/documento-anterior.md",
+  "sha256_corpo_novo": "38f644ad09b2e82ec508b100b8d3422a6729bf0760aa386accf44c1df053a2cc",
+  "paginas": [
+    70,
+    203
+  ],
+  "provas": [
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/sp-tributaria-70.png",
+      "sha256": "8c9f6373a32629026b8f34831bd35bb791dd8bc5de9a08901d32236e1a5d42f1",
+      "bytes": 355315
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/sp-tributaria-203.png",
+      "sha256": "cbfee0e987be94808c21c2f6ea649ead0bc169a7b19de73aaef00f444f2ff4c7",
+      "bytes": 420915
+    },
+    {
+      "arquivo": "scripts/marcar_tachados_tributaria_sp.py",
+      "sha256": "2d1227848efc729864e553964ac395e134b9264cb78ffcae7d28194d2c98f531",
+      "bytes": 4272
+    }
+  ],
+  "verificacao": "Corpo anterior recuperado exatamente ao retirar somente os rótulos e a nota. Três tabelas e notas condicionais literais inalteradas.",
+  "limite": "Marca visual confirmada, sem inferir o cumprimento da condição do ato de SF."
+}

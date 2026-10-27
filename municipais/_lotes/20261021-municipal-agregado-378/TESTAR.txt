@@ -1,0 +1,9 @@
+Executar na raiz do repositório. Nenhuma operação de Git ou HTTP é usada pelo verificador.
+Python bundled: /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3
+Dependência: markdown-it-py==4.0.0, já disponível em /tmp/constituicao-markdown-qa-20261020.
+Gate completo: Python bundled -I scripts/verificar_entrega_municipal_378.py --manifesto municipais/_lotes/20261021-municipal-agregado-378/manifesto.json --replay --saida /tmp/municipal378-replay-root.json
+Esperado: 377 replays TA aprovados, replay Aracaju aprovado, 0 problemas.
+Aracaju isolado: Python bundled -I scripts/verificar_replay_organica_aracaju.py --saida /tmp/aracaju-replay-root.json
+377 isolados: Python bundled -I scripts/auditar_commonmark_ta_v2.py --lista municipais/_lotes/20261021-textos-articulados-final377/normas.paths.txt --materializados municipais/_lotes/20261021-textos-articulados-materializados-0007 --saida /tmp/ta377-replay-root
+Testes específicos PDF: python3 -I scripts/test_organica_aracaju.py (4 testes). Os mesmos 29 testes TA já repetidos em ROOT continuam aplicáveis, sem alteração de códigos.
+Usar somente normas.paths.txt deste agregado (378), dependencias.paths.txt e o manifesto principal. Os dois pacotes originais permanecem intactos. Todas as saídas de verificação precisam ter caminhos novos.

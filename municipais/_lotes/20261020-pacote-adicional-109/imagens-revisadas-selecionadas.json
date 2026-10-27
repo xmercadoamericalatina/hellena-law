@@ -1,0 +1,2829 @@
+{
+  "origem": {
+    "path": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/lote-0001.json",
+    "sha256": "5f098c38c796c75aa00edc173232f39a5b58e7c8d88c4f8464ecf303f370e476",
+    "bytes": 1247142
+  },
+  "registros": [
+    {
+      "path": "municipais/RS/agudo/lei-organica/1990/lei-organica-1-1990-sapl-2541.md",
+      "sha256": "668a2348567a7910fa89da507231cd24dab745797f359407990ea646cc09211b",
+      "sha256_fonte": "e3477e6745e9853b5d951a92ccbc1d658ccbbf1df8871a436a305482a8f37cdc",
+      "fonte": "https://sapl.agudo.rs.leg.br/norma/2541",
+      "codigo_ibge": "4300109",
+      "imagens_revisadas": [
+        {
+          "sha256": "d5858deecafad025651f023e05570a98d2d263c649c6a194447d45359a1a23f9",
+          "object_id": [
+            "94",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e3477e6745e9853b5d951a92ccbc1d658ccbbf1df8871a436a305482a8f37cdc/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2008/emendas-lei-organica-15-2008-sapl-1613.md",
+      "sha256": "1e5192306f45863498316c5b6b7e0eca9f661ae452d35c4674b33de3830d4327",
+      "sha256_fonte": "09bfeb96030b5d11ddc364c80d4c35f3c655d698e29e3df4f048b16eea4b9b74",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/1613",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "a641d8642cb2f3ad001283a5f84bb70471be07efce6a27a8a8bcef7652def4a7",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/09bfeb96030b5d11ddc364c80d4c35f3c655d698e29e3df4f048b16eea4b9b74/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2008/emendas-lei-organica-17-2008-sapl-2230.md",
+      "sha256": "8b196a438e94012d6a75eb89ac9ae08eba77c18d0c8c4f4a2b97f58d4ab20b27",
+      "sha256_fonte": "332934f011ccc0e3fa2d1dbe5c9209e337d900c53bbb558efdc71c4b38a72cd1",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/2230",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "a641d8642cb2f3ad001283a5f84bb70471be07efce6a27a8a8bcef7652def4a7",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/332934f011ccc0e3fa2d1dbe5c9209e337d900c53bbb558efdc71c4b38a72cd1/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2010/emendas-lei-organica-19-2010-sapl-2318.md",
+      "sha256": "8b331b6b925542bf63b5e2862397788c7eef7a5a6109423c9b19093b7def9c45",
+      "sha256_fonte": "e3350c455605b30456a69dd42c9936480601e03e72336b5acb932528ba0c2ffd",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/2318",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "a641d8642cb2f3ad001283a5f84bb70471be07efce6a27a8a8bcef7652def4a7",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e3350c455605b30456a69dd42c9936480601e03e72336b5acb932528ba0c2ffd/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-22-2013-sapl-3308.md",
+      "sha256": "923beb7e52b19ed0479085c285640243273d6e2d9c53a6a62b29c056f03d4bd4",
+      "sha256_fonte": "a327ac3d64993eadaa6df705822b834e02ef043912c1a1507be94572ce3b61be",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3308",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "89940dd6408adb6035c8c18e9925fe297b55201eac3d84eb45ddfde5943cecd8",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a327ac3d64993eadaa6df705822b834e02ef043912c1a1507be94572ce3b61be/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-23-2013-sapl-3309.md",
+      "sha256": "95b14dda9a0e93986479cfc09722e50c5d9822d17cff6bedc23b180f32d12385",
+      "sha256_fonte": "df4bfabe7c9201ca51d2e494d3144f2f5e9cc3495bd6c462af850992e56a967d",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3309",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "bff49e056037c7c836cdeae5b454b8e18e7ccd6078666cebfc05ef1e9d8e80ba",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/df4bfabe7c9201ca51d2e494d3144f2f5e9cc3495bd6c462af850992e56a967d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-24-2013-sapl-3307.md",
+      "sha256": "3989e5ca6c5ac63e2a0b2adcc54aaea1ee79ddd85c0c790c4b1157fa42e2b61f",
+      "sha256_fonte": "96e47594725974ac4cf7a3dcbde30c3fb93639fc603bbdb7b22387a20e073d0a",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3307",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "bff49e056037c7c836cdeae5b454b8e18e7ccd6078666cebfc05ef1e9d8e80ba",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/96e47594725974ac4cf7a3dcbde30c3fb93639fc603bbdb7b22387a20e073d0a/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-25-2014-sapl-3392.md",
+      "sha256": "b7dce9707cacbbd5c58488e7f0e9f5c904c911da85916e729cdc2969f578fc71",
+      "sha256_fonte": "4e5ade1e140b08977450b58bba77289eb1ccc7a7a815fdb58d19dac63d6dd2ec",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3392",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "89940dd6408adb6035c8c18e9925fe297b55201eac3d84eb45ddfde5943cecd8",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4e5ade1e140b08977450b58bba77289eb1ccc7a7a815fdb58d19dac63d6dd2ec/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-26-2014-sapl-3393.md",
+      "sha256": "6f96f0912ed3bd203fb569a0f2e9440ca567c16f2dc0f3c9ab934bee951991a4",
+      "sha256_fonte": "c9242ae47f946571f8b1a7f5d74cd9189a76dba84d7b7f3c2ece85802316a9ae",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3393",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "89940dd6408adb6035c8c18e9925fe297b55201eac3d84eb45ddfde5943cecd8",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c9242ae47f946571f8b1a7f5d74cd9189a76dba84d7b7f3c2ece85802316a9ae/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-27-2014-sapl-3988.md",
+      "sha256": "8857d56d8ba9328d47656231eda5086560149ccce46b45401e1e0c9ee2e29ad8",
+      "sha256_fonte": "5e69613b14cfd97b437220209896265e2e32a55cc2dc578c49e0f4a13dfbf8bc",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3988",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "89940dd6408adb6035c8c18e9925fe297b55201eac3d84eb45ddfde5943cecd8",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5e69613b14cfd97b437220209896265e2e32a55cc2dc578c49e0f4a13dfbf8bc/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2015/emendas-lei-organica-28-2015-sapl-3985.md",
+      "sha256": "c29284bd27ce3ab96e8e66862d93775a4e33f5d7eb28724c48971fec7b94a140",
+      "sha256_fonte": "8d8c6ba22cf2ee284a49165b1acb47ee88ad8b946fcd71bbb89341d8d163733e",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3985",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "4cfeb58afc8e592f99b5d65e99d0c7447d03137be960e1de11d888efa0a7510f",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8d8c6ba22cf2ee284a49165b1acb47ee88ad8b946fcd71bbb89341d8d163733e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2015/emendas-lei-organica-29-2015-sapl-3987.md",
+      "sha256": "fe255e32a0c58e5fc3931cd7e0752d1d9cf9c6ddd29f71639e726422702b9e29",
+      "sha256_fonte": "e6311a234d2499067c561801168d1f88ce544900632989b8ec0496ba55a6ce8e",
+      "fonte": "https://sapl.domingosmartins.es.leg.br/norma/3987",
+      "codigo_ibge": "3201902",
+      "imagens_revisadas": [
+        {
+          "sha256": "4cfeb58afc8e592f99b5d65e99d0c7447d03137be960e1de11d888efa0a7510f",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e6311a234d2499067c561801168d1f88ce544900632989b8ec0496ba55a6ce8e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/delfim-moreira/emendas-lei-organica/2022/emendas-lei-organica-7-2022-sapl-1692.md",
+      "sha256": "ccd32da75974db8d5f5cdd6ee65bec386ff32a59280bc36b21ed4d51cfe310e2",
+      "sha256_fonte": "161bc6ae3fa4d131afda193f72d676076db550f0ba879952193d9fef9948be52",
+      "fonte": "https://sapl.delfimmoreira.mg.leg.br/norma/1692",
+      "codigo_ibge": "3121100",
+      "imagens_revisadas": [
+        {
+          "sha256": "96d12608210cb9e87bec81c515cfcfba2cc5e7beab7681769689b6b1c53421fe",
+          "object_id": [
+            "44",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/161bc6ae3fa4d131afda193f72d676076db550f0ba879952193d9fef9948be52/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/delfim-moreira/emendas-lei-organica/2022/emendas-lei-organica-8-2022-sapl-1694.md",
+      "sha256": "c197480e686580c5c6f96b4632c8e740401e6ec2114668cd1372d021dab3c7a1",
+      "sha256_fonte": "9ac8c5adf2eb0e2cbee3dbfb2d90755ba9f7bac86d0a57be783db59b4851b22d",
+      "fonte": "https://sapl.delfimmoreira.mg.leg.br/norma/1694",
+      "codigo_ibge": "3121100",
+      "imagens_revisadas": [
+        {
+          "sha256": "96d12608210cb9e87bec81c515cfcfba2cc5e7beab7681769689b6b1c53421fe",
+          "object_id": [
+            "44",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9ac8c5adf2eb0e2cbee3dbfb2d90755ba9f7bac86d0a57be783db59b4851b22d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2013/emendas-lei-organica-20-2013-sapl-4599.md",
+      "sha256": "2a1a153224e2d52f425a3745e75eb50f3480fef7789520ff920f3a4e427e18d9",
+      "sha256_fonte": "d6dcd4485860e503d8eee67cae079930c727edc829db9559889d0340469b4076",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4599",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "7465b044e0cf0746d7ad849fb5f55a3983b941615fd78345872e43d59a1e11ee",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d6dcd4485860e503d8eee67cae079930c727edc829db9559889d0340469b4076/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-32-2018-sapl-4611.md",
+      "sha256": "fc221c40bcf670b1b38f87462746509dfc1358059f7703f3d657e0d517ce16be",
+      "sha256_fonte": "cee2737d450a7ddcb7e64dbe52da8f0a9be8cd7d76ab29f6a5de63e2cd43bfc4",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4611",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "7465b044e0cf0746d7ad849fb5f55a3983b941615fd78345872e43d59a1e11ee",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/cee2737d450a7ddcb7e64dbe52da8f0a9be8cd7d76ab29f6a5de63e2cd43bfc4/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-33-2018-sapl-4612.md",
+      "sha256": "25d619565d2f234937d5691c5c9a04075c771d4287a7a63f5ce0b16665ce32e7",
+      "sha256_fonte": "bf4b4f79c9f76e322efa5ea1e96e02b56ffbb3e079381569529853ab5576d261",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4612",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "7465b044e0cf0746d7ad849fb5f55a3983b941615fd78345872e43d59a1e11ee",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/bf4b4f79c9f76e322efa5ea1e96e02b56ffbb3e079381569529853ab5576d261/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-34-2018-sapl-4613.md",
+      "sha256": "ec1ba59de74832971725bd31b68f0e312591ce87bd3975dc079e448eb0687ab6",
+      "sha256_fonte": "fc8ef7a85e0659d3d3a2e39bc072168f65daa41d99848ce38d6aa4ac49d18ca7",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4613",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "7465b044e0cf0746d7ad849fb5f55a3983b941615fd78345872e43d59a1e11ee",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/fc8ef7a85e0659d3d3a2e39bc072168f65daa41d99848ce38d6aa4ac49d18ca7/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2019/emendas-lei-organica-35-2019-sapl-4769.md",
+      "sha256": "5a15e4adcf9f59b2565906e7615045fbcdbbe40bb79f0ac7a20063a9a4aad1d8",
+      "sha256_fonte": "c69a9bd5e278d00e8e74bc02441f12fda43736f8046d1d2827e3fca381f25888",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4769",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "5ea5a1014edfacf9345c4de1dc6601faba49f25ee86a5cfaa3caae3b2473f400",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c69a9bd5e278d00e8e74bc02441f12fda43736f8046d1d2827e3fca381f25888/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2020/emendas-lei-organica-36-2020-sapl-4770.md",
+      "sha256": "c5cae36c2df01cb26c3a50e6a550f2466acecdf31aa7ade9ef843e71bf0950c2",
+      "sha256_fonte": "35cd14a61cdba054d59462a3cd309e70a96651a4d0fe5835fa15d2913ba62cbf",
+      "fonte": "https://sapl.lagoadaprata.mg.leg.br/norma/4770",
+      "codigo_ibge": "3137205",
+      "imagens_revisadas": [
+        {
+          "sha256": "5ea5a1014edfacf9345c4de1dc6601faba49f25ee86a5cfaa3caae3b2473f400",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/35cd14a61cdba054d59462a3cd309e70a96651a4d0fe5835fa15d2913ba62cbf/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/manhumirim/emendas-lei-organica/2015/emendas-lei-organica-9-2015-sapl-224.md",
+      "sha256": "0de064f07a4720596e22dd444f9459c6cf65b1f562e224eadc7858cbf26e7be9",
+      "sha256_fonte": "caf80e40778e9cb675c04e6504213a61d0203856afcb563468f4ad9f2a022ad0",
+      "fonte": "https://sapl.manhumirim.mg.leg.br/norma/224",
+      "codigo_ibge": "3139508",
+      "imagens_revisadas": [
+        {
+          "sha256": "a96639710decd5b72670764b9408ebceb9a16f54f78b875186d064b9ec09a5f7",
+          "object_id": [
+            "18",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/caf80e40778e9cb675c04e6504213a61d0203856afcb563468f4ad9f2a022ad0/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/manhumirim/emendas-lei-organica/2016/emendas-lei-organica-10-2016-sapl-225.md",
+      "sha256": "0697e52400fe84002c46d08919ef939f3a90b5f74fd340ce059d39b44fbbe206",
+      "sha256_fonte": "bfed516e29a508c9132213e22beb65b8d682a338c1f579b822de5be515ffaa16",
+      "fonte": "https://sapl.manhumirim.mg.leg.br/norma/225",
+      "codigo_ibge": "3139508",
+      "imagens_revisadas": [
+        {
+          "sha256": "a96639710decd5b72670764b9408ebceb9a16f54f78b875186d064b9ec09a5f7",
+          "object_id": [
+            "18",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/bfed516e29a508c9132213e22beb65b8d682a338c1f579b822de5be515ffaa16/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/ponte-nova/emendas-lei-organica/2025/emendas-lei-organica-33-2025-sapl-8624.md",
+      "sha256": "bb3bea4d94516e5502100f297fd07018d9f97e89dd1c4aafe791f46042bca248",
+      "sha256_fonte": "0b61f8840f46def16289cf58b3f41cff2bca440a138368623e939c3b76673788",
+      "fonte": "https://sapl.pontenova.mg.leg.br/norma/8624",
+      "codigo_ibge": "3152105",
+      "imagens_revisadas": [
+        {
+          "sha256": "ae66ab5cbb607d60468c1e9e5bc1886125d3e5277ed9e92905cdc18f0877a0f9",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0b61f8840f46def16289cf58b3f41cff2bca440a138368623e939c3b76673788/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/ponte-nova/emendas-lei-organica/2025/emendas-lei-organica-34-2025-sapl-8767.md",
+      "sha256": "b43bdc0fa1cc22406755b001a7ebbd6549f0ef62ffd0634e9ef6dd7b8a6fbb00",
+      "sha256_fonte": "9a56cc30941d8c94d0628c177a41845db5c327629f0bbce13fbe32b1cfd63c32",
+      "fonte": "https://sapl.pontenova.mg.leg.br/norma/8767",
+      "codigo_ibge": "3152105",
+      "imagens_revisadas": [
+        {
+          "sha256": "ae66ab5cbb607d60468c1e9e5bc1886125d3e5277ed9e92905cdc18f0877a0f9",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9a56cc30941d8c94d0628c177a41845db5c327629f0bbce13fbe32b1cfd63c32/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "ae66ab5cbb607d60468c1e9e5bc1886125d3e5277ed9e92905cdc18f0877a0f9",
+          "object_id": [
+            "26",
+            "0"
+          ],
+          "pagina": 2,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9a56cc30941d8c94d0628c177a41845db5c327629f0bbce13fbe32b1cfd63c32/2/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1992/emendas-lei-organica-1-1992-sapl-3.md",
+      "sha256": "62b7ce05c7ad5dd4d1dc9c6069b71f71ee29d0b8f926c9265a4d8328f667d5d9",
+      "sha256_fonte": "eccccc7d4e3fa0d4ee5a40e2c6a136a87cff64119c19270c066ef5f8d10b76ec",
+      "fonte": "https://sapl.uba.mg.leg.br/norma/3",
+      "codigo_ibge": "3169901",
+      "imagens_revisadas": [
+        {
+          "sha256": "a0f4779f1c913d55ed1ae280772c7bc9d47ca7d7530693c1a2b40bf7189fccad",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eccccc7d4e3fa0d4ee5a40e2c6a136a87cff64119c19270c066ef5f8d10b76ec/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9963b4f71f19fbba96aed7a91be67367384b9d61e611113ba983df68e97f500b",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eccccc7d4e3fa0d4ee5a40e2c6a136a87cff64119c19270c066ef5f8d10b76ec/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "cb71029033907c5e642c5b0f3ff4f845f37e0f7b72cfaca3e8b044040389ec04",
+          "object_id": [
+            "12",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eccccc7d4e3fa0d4ee5a40e2c6a136a87cff64119c19270c066ef5f8d10b76ec/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1992/emendas-lei-organica-2-1992-sapl-4.md",
+      "sha256": "b370499300d2c8f84b09d6aaeda77004041b1f15eb923450f8426acded5e9722",
+      "sha256_fonte": "24840924c11be738af53c04c741ce04bde8070e412247aeb5e2e1c8d92605dad",
+      "fonte": "https://sapl.uba.mg.leg.br/norma/4",
+      "codigo_ibge": "3169901",
+      "imagens_revisadas": [
+        {
+          "sha256": "a0f4779f1c913d55ed1ae280772c7bc9d47ca7d7530693c1a2b40bf7189fccad",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/24840924c11be738af53c04c741ce04bde8070e412247aeb5e2e1c8d92605dad/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9963b4f71f19fbba96aed7a91be67367384b9d61e611113ba983df68e97f500b",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/24840924c11be738af53c04c741ce04bde8070e412247aeb5e2e1c8d92605dad/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "cb71029033907c5e642c5b0f3ff4f845f37e0f7b72cfaca3e8b044040389ec04",
+          "object_id": [
+            "12",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/24840924c11be738af53c04c741ce04bde8070e412247aeb5e2e1c8d92605dad/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1996/emendas-lei-organica-4-1996-sapl-6.md",
+      "sha256": "f4d3b3612be5f903b5be591cb12620463560805869582a9b82be321092d04f84",
+      "sha256_fonte": "c0062ef958f7adedef9bb022b7074d00112ddbfbd540c57c51b4e016532ea677",
+      "fonte": "https://sapl.uba.mg.leg.br/norma/6",
+      "codigo_ibge": "3169901",
+      "imagens_revisadas": [
+        {
+          "sha256": "a0f4779f1c913d55ed1ae280772c7bc9d47ca7d7530693c1a2b40bf7189fccad",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c0062ef958f7adedef9bb022b7074d00112ddbfbd540c57c51b4e016532ea677/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9963b4f71f19fbba96aed7a91be67367384b9d61e611113ba983df68e97f500b",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c0062ef958f7adedef9bb022b7074d00112ddbfbd540c57c51b4e016532ea677/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "cb71029033907c5e642c5b0f3ff4f845f37e0f7b72cfaca3e8b044040389ec04",
+          "object_id": [
+            "12",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c0062ef958f7adedef9bb022b7074d00112ddbfbd540c57c51b4e016532ea677/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MS/ribas-do-rio-pardo/emendas-lei-organica/2023/emendas-lei-organica-1-2023-sapl-1757.md",
+      "sha256": "7cac6f4a470b1f0df986acfd4590029aa322838acc1c79f805122f668a26bd31",
+      "sha256_fonte": "dd060e8dcead28595274b0e66890491fe44ba01e678269441aa7a875e189bb66",
+      "fonte": "https://sapl.ribasdoriopardo.ms.leg.br/norma/1757",
+      "codigo_ibge": "5007109",
+      "imagens_revisadas": [
+        {
+          "sha256": "6b34826480d8bd16f3e636dc15817e3c76c95db9c9d153a190487e2451d4ca6d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dd060e8dcead28595274b0e66890491fe44ba01e678269441aa7a875e189bb66/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "c69d97d2f6a2f4b1705e06dcd3619f4ba727ad4d23bcb20ac7d87a3455f9e35f",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dd060e8dcead28595274b0e66890491fe44ba01e678269441aa7a875e189bb66/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MS/ribas-do-rio-pardo/emendas-lei-organica/2024/emendas-lei-organica-1-2024-sapl-2027.md",
+      "sha256": "00b547dd4465d322840b7d616a2f9b066b2aeb844de44b002ae323afc4a2cdd1",
+      "sha256_fonte": "62cf207df60248ab7511fd4bced824ad1855d6a9387c03c4d9b94fecabef8acc",
+      "fonte": "https://sapl.ribasdoriopardo.ms.leg.br/norma/2027",
+      "codigo_ibge": "5007109",
+      "imagens_revisadas": [
+        {
+          "sha256": "6b34826480d8bd16f3e636dc15817e3c76c95db9c9d153a190487e2451d4ca6d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/62cf207df60248ab7511fd4bced824ad1855d6a9387c03c4d9b94fecabef8acc/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "c69d97d2f6a2f4b1705e06dcd3619f4ba727ad4d23bcb20ac7d87a3455f9e35f",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/62cf207df60248ab7511fd4bced824ad1855d6a9387c03c4d9b94fecabef8acc/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/joao-pessoa/emendas-lei-organica/1995/emendas-lei-organica-4-1995-sapl-12944.md",
+      "sha256": "0909f9de8a57a5e748ab4602d4a95500c409a32b8ed16f0480341f6cd58eb063",
+      "sha256_fonte": "0407bc6fa057fe6a9d9c2902766f0a4a5da38f378f4104a1219721a57b5a0eb0",
+      "fonte": "https://sapl.joaopessoa.pb.leg.br/norma/12944",
+      "codigo_ibge": "2507507",
+      "imagens_revisadas": [
+        {
+          "sha256": "ebac00a110a50ce808dd968f3e2163a3963388e0e27760db62f1043b78100a20",
+          "object_id": [
+            "31",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0407bc6fa057fe6a9d9c2902766f0a4a5da38f378f4104a1219721a57b5a0eb0/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2014/emendas-lei-organica-3-2014-sapl-135.md",
+      "sha256": "51a57bbbe96690aa52e3f0d2dbf96a4e7e94864063e1b9f040750412e28d3abe",
+      "sha256_fonte": "26fc7fd27fe53789f38b1b94c5de1bc0155d4f1c52261b32fa533274bf378106",
+      "fonte": "https://sapl.california.pr.leg.br/norma/135",
+      "codigo_ibge": "4103503",
+      "imagens_revisadas": [
+        {
+          "sha256": "0dd35c63ac2d664fb88a1bebaf8f57762af740efca966d03caf79cb0008d6574",
+          "object_id": [
+            "8",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/26fc7fd27fe53789f38b1b94c5de1bc0155d4f1c52261b32fa533274bf378106/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2017/emendas-lei-organica-4-2017-sapl-262.md",
+      "sha256": "41c493973478931f9a86cea745632419833c86bafcf723d59268ae715f338ccc",
+      "sha256_fonte": "7373f756ee33ef19ca90f6db0450f1c954c2d854c92804ddabfe81c0e97d9a3c",
+      "fonte": "https://sapl.california.pr.leg.br/norma/262",
+      "codigo_ibge": "4103503",
+      "imagens_revisadas": [
+        {
+          "sha256": "0dd35c63ac2d664fb88a1bebaf8f57762af740efca966d03caf79cb0008d6574",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7373f756ee33ef19ca90f6db0450f1c954c2d854c92804ddabfe81c0e97d9a3c/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2020/emendas-lei-organica-5-2020-sapl-418.md",
+      "sha256": "1109db66f6cc2cd0fc3a10fff1f0dc58c04b6dc8fd70fcda3d804ae4020222e8",
+      "sha256_fonte": "48597fbe1ca5fbc91822a7068352a71621fc2d1b660e1e12f82d9e51f5078526",
+      "fonte": "https://sapl.california.pr.leg.br/norma/418",
+      "codigo_ibge": "4103503",
+      "imagens_revisadas": [
+        {
+          "sha256": "0dd35c63ac2d664fb88a1bebaf8f57762af740efca966d03caf79cb0008d6574",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/48597fbe1ca5fbc91822a7068352a71621fc2d1b660e1e12f82d9e51f5078526/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/cambira/emendas-lei-organica/2011/emendas-lei-organica-1-2011-sapl-46.md",
+      "sha256": "94a1682f2086a525d466e1ad6776f1cd3633b06c07f0d1c20a359ea0da2b8c7c",
+      "sha256_fonte": "0f2e3d7bef5f3c49babbc1512d59a14ada177676c5a7ce4216020c8392e2dec4",
+      "fonte": "https://sapl.cambira.pr.leg.br/norma/46",
+      "codigo_ibge": "4103800",
+      "imagens_revisadas": [
+        {
+          "sha256": "e1ba42a1d516114cdc1e438bf15dd10324cb1e116c9ff8c1e44b3af55504fdda",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0f2e3d7bef5f3c49babbc1512d59a14ada177676c5a7ce4216020c8392e2dec4/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/cambira/emendas-lei-organica/2013/emendas-lei-organica-1-2013-sapl-47.md",
+      "sha256": "19ec315eac647b4e8672dfa57e9776363c0a2a493d441ad570e6937d8cab64b5",
+      "sha256_fonte": "58469ce4f81ebe48952e3b96b0ff53890855e1493c1503a44f9dbe9ac39e6de8",
+      "fonte": "https://sapl.cambira.pr.leg.br/norma/47",
+      "codigo_ibge": "4103800",
+      "imagens_revisadas": [
+        {
+          "sha256": "e1ba42a1d516114cdc1e438bf15dd10324cb1e116c9ff8c1e44b3af55504fdda",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/58469ce4f81ebe48952e3b96b0ff53890855e1493c1503a44f9dbe9ac39e6de8/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/1994/emendas-lei-organica-3-1994-sapl-414.md",
+      "sha256": "b83f87739b57d6b9d95a43e3b4c1a1526371860f9cf3f5d29611ea6026d48fbf",
+      "sha256_fonte": "67a3775af6afa7cd6a6fc0c410f13551186b0c2b10ce30ad6bc054c96fbd560e",
+      "fonte": "https://sapl.corbelia.pr.leg.br/norma/414",
+      "codigo_ibge": "4106308",
+      "imagens_revisadas": [
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/67a3775af6afa7cd6a6fc0c410f13551186b0c2b10ce30ad6bc054c96fbd560e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/1998/emendas-lei-organica-4-1998-sapl-415.md",
+      "sha256": "be6f0f2d651bca8e24cb2e0061703c73c5ab0910bb991cc8c2fd81288f058922",
+      "sha256_fonte": "308e9faaf65931c0dce553d65459a638e93b86f2e3af39dd4d2b59385ee5c68e",
+      "fonte": "https://sapl.corbelia.pr.leg.br/norma/415",
+      "codigo_ibge": "4106308",
+      "imagens_revisadas": [
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/308e9faaf65931c0dce553d65459a638e93b86f2e3af39dd4d2b59385ee5c68e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/2000/emendas-lei-organica-5-2000-sapl-420.md",
+      "sha256": "3492567c7bc72191e7b9398f6d69544fd6cffae3e638bd6d725bd684c151eb40",
+      "sha256_fonte": "eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465",
+      "fonte": "https://sapl.corbelia.pr.leg.br/norma/420",
+      "codigo_ibge": "4106308",
+      "imagens_revisadas": [
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "21",
+            "0"
+          ],
+          "pagina": 2,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/2/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 3,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/3/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "27",
+            "0"
+          ],
+          "pagina": 4,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/4/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 5,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/5/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 6,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/6/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "36",
+            "0"
+          ],
+          "pagina": 7,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/7/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "39",
+            "0"
+          ],
+          "pagina": 8,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/8/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "42",
+            "0"
+          ],
+          "pagina": 9,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/9/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "45",
+            "0"
+          ],
+          "pagina": 10,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/10/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "48",
+            "0"
+          ],
+          "pagina": 11,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/11/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "51",
+            "0"
+          ],
+          "pagina": 12,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/12/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "54",
+            "0"
+          ],
+          "pagina": 13,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/13/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "57",
+            "0"
+          ],
+          "pagina": 14,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/14/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "60",
+            "0"
+          ],
+          "pagina": 15,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/15/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "63",
+            "0"
+          ],
+          "pagina": 16,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/16/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "66",
+            "0"
+          ],
+          "pagina": 17,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/17/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "69",
+            "0"
+          ],
+          "pagina": 18,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/18/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "72",
+            "0"
+          ],
+          "pagina": 19,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/19/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "75",
+            "0"
+          ],
+          "pagina": 20,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/20/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "78",
+            "0"
+          ],
+          "pagina": 21,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/21/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "81",
+            "0"
+          ],
+          "pagina": 22,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/22/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "84",
+            "0"
+          ],
+          "pagina": 23,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/23/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "87",
+            "0"
+          ],
+          "pagina": 24,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/24/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "90",
+            "0"
+          ],
+          "pagina": 25,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/25/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "93",
+            "0"
+          ],
+          "pagina": 26,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/26/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "96",
+            "0"
+          ],
+          "pagina": 27,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/27/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "99",
+            "0"
+          ],
+          "pagina": 28,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/28/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "102",
+            "0"
+          ],
+          "pagina": 29,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/29/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "105",
+            "0"
+          ],
+          "pagina": 30,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/30/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "108",
+            "0"
+          ],
+          "pagina": 31,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/31/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "111",
+            "0"
+          ],
+          "pagina": 32,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/32/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "114",
+            "0"
+          ],
+          "pagina": 33,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/33/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "117",
+            "0"
+          ],
+          "pagina": 34,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/34/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "120",
+            "0"
+          ],
+          "pagina": 35,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/35/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "123",
+            "0"
+          ],
+          "pagina": 36,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/36/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "126",
+            "0"
+          ],
+          "pagina": 37,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/37/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "129",
+            "0"
+          ],
+          "pagina": 38,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/38/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "132",
+            "0"
+          ],
+          "pagina": 39,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/39/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "135",
+            "0"
+          ],
+          "pagina": 40,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/40/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "138",
+            "0"
+          ],
+          "pagina": 41,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/41/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "141",
+            "0"
+          ],
+          "pagina": 42,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/42/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "144",
+            "0"
+          ],
+          "pagina": 43,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/43/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "147",
+            "0"
+          ],
+          "pagina": 44,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465/44/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/2018/emendas-lei-organica-11-2018-sapl-180.md",
+      "sha256": "21fcdf436671593b0abdac258a1b31c785272fcfb3b829aaafe0931cb993a451",
+      "sha256_fonte": "3d1592c5ea995b51eb7bf817e9001fd1e582fabe8856efe9de9d44e358cb9754",
+      "fonte": "https://sapl.corbelia.pr.leg.br/norma/180",
+      "codigo_ibge": "4106308",
+      "imagens_revisadas": [
+        {
+          "sha256": "d3765f542f2335f706d22fcc0f111ca55a7a029bca4b1348e21d89830473de57",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3d1592c5ea995b51eb7bf817e9001fd1e582fabe8856efe9de9d44e358cb9754/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2009/emendas-lei-organica-1-2009-sapl-187.md",
+      "sha256": "de7e5a6b64401f79c4cddd8c50de68f530ac38094587e501c7084e0611b213e8",
+      "sha256_fonte": "ef1301433c48cb16875f958800ca71d470e72dfbed9219cf287c4e1bc8265e1e",
+      "fonte": "https://sapl.jataizinho.pr.leg.br/norma/187",
+      "codigo_ibge": "4112702",
+      "imagens_revisadas": [
+        {
+          "sha256": "1f70b2de1fd03a5e55195179bc4d18bd23db24c084c431d0c490e2181cb0ff28",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ef1301433c48cb16875f958800ca71d470e72dfbed9219cf287c4e1bc8265e1e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2009/emendas-lei-organica-2-2009-sapl-189.md",
+      "sha256": "287428829489a5c5028c5181720932e73f074c3a820f2bab3e6233a80d6e8c50",
+      "sha256_fonte": "db17f1033f84f33357ec44e7e1ccebe19a18d34c6b2a9c43a08e001bcf5708f4",
+      "fonte": "https://sapl.jataizinho.pr.leg.br/norma/189",
+      "codigo_ibge": "4112702",
+      "imagens_revisadas": [
+        {
+          "sha256": "1f70b2de1fd03a5e55195179bc4d18bd23db24c084c431d0c490e2181cb0ff28",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/db17f1033f84f33357ec44e7e1ccebe19a18d34c6b2a9c43a08e001bcf5708f4/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2011/emendas-lei-organica-1-2011-sapl-190.md",
+      "sha256": "a32188eddf435e94a11d3dd9e6cacd214aa3e56db1b05212305ea4dfc570c5f1",
+      "sha256_fonte": "2f28cdf650cf0ea9a249d3837e29dfc552bc95aedf6dab4d52543ed9f00b2792",
+      "fonte": "https://sapl.jataizinho.pr.leg.br/norma/190",
+      "codigo_ibge": "4112702",
+      "imagens_revisadas": [
+        {
+          "sha256": "1f70b2de1fd03a5e55195179bc4d18bd23db24c084c431d0c490e2181cb0ff28",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/2f28cdf650cf0ea9a249d3837e29dfc552bc95aedf6dab4d52543ed9f00b2792/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2011/emendas-lei-organica-2-2011-sapl-191.md",
+      "sha256": "983b303bc25087fa5a701e27cadcbebf2133277204782f78e777b19355a3e564",
+      "sha256_fonte": "783efaf3f4f6418f3cdd27d12f4ff6a3d43322b5f9a5115c142c6dc4d0e4c924",
+      "fonte": "https://sapl.jataizinho.pr.leg.br/norma/191",
+      "codigo_ibge": "4112702",
+      "imagens_revisadas": [
+        {
+          "sha256": "1f70b2de1fd03a5e55195179bc4d18bd23db24c084c431d0c490e2181cb0ff28",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/783efaf3f4f6418f3cdd27d12f4ff6a3d43322b5f9a5115c142c6dc4d0e4c924/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RS/agudo/emendas-lei-organica/2008/emendas-lei-organica-10-2008-sapl-2232.md",
+      "sha256": "3434f6b2403d40c91e0939e518118e51b6f11e7ea8056a18f971891818593660",
+      "sha256_fonte": "324578b1e15ace8c1935231a25543daa675417e349a1185d5fadb70988ce2593",
+      "fonte": "https://sapl.agudo.rs.leg.br/norma/2232",
+      "codigo_ibge": "4300109",
+      "imagens_revisadas": [
+        {
+          "sha256": "d5858deecafad025651f023e05570a98d2d263c649c6a194447d45359a1a23f9",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/324578b1e15ace8c1935231a25543daa675417e349a1185d5fadb70988ce2593/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RS/agudo/emendas-lei-organica/2008/emendas-lei-organica-9-2008-sapl-2213.md",
+      "sha256": "e2906155f18745c64c39fe214a228d3ef38e87a5dcfe9ab40ae3f6a4620052de",
+      "sha256_fonte": "abffc91e99e88946d96f4d5d3b5f2fcc22d570429895955055e62ef779217b3c",
+      "fonte": "https://sapl.agudo.rs.leg.br/norma/2213",
+      "codigo_ibge": "4300109",
+      "imagens_revisadas": [
+        {
+          "sha256": "d5858deecafad025651f023e05570a98d2d263c649c6a194447d45359a1a23f9",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/abffc91e99e88946d96f4d5d3b5f2fcc22d570429895955055e62ef779217b3c/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2017/emendas-lei-organica-1-2017-sapl-135.md",
+      "sha256": "9b60a8a2c51e4ba93db0b024108f4d861668d438b58d39bf81d4bdb7a74249c2",
+      "sha256_fonte": "f3abb984b4d6d462d0839ca46477bb500785e518f1092dcbacc009d15561cd85",
+      "fonte": "https://sapl.iguape.sp.leg.br/norma/135",
+      "codigo_ibge": "3520301",
+      "imagens_revisadas": [
+        {
+          "sha256": "99cf142505f1c8e57d054c6ec4ba85e6e044dad4681f7fa7bf3feb847227fe8d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/f3abb984b4d6d462d0839ca46477bb500785e518f1092dcbacc009d15561cd85/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2021/emendas-lei-organica-3-2021-sapl-137.md",
+      "sha256": "20454500d31a799b6ba20cb77b91ca7e2be56f157d48c5de0d0369416667279e",
+      "sha256_fonte": "cc77f036a320fd25359d7842c2570e991ff93c4f918465cc33e4721d24ab17cf",
+      "fonte": "https://sapl.iguape.sp.leg.br/norma/137",
+      "codigo_ibge": "3520301",
+      "imagens_revisadas": [
+        {
+          "sha256": "99cf142505f1c8e57d054c6ec4ba85e6e044dad4681f7fa7bf3feb847227fe8d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/cc77f036a320fd25359d7842c2570e991ff93c4f918465cc33e4721d24ab17cf/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2021/emendas-lei-organica-4-2021-sapl-138.md",
+      "sha256": "7e0f68e6e533ff93c78ad6014c849ad3261c8177d26b2f256f59e1e51313bd75",
+      "sha256_fonte": "47bce0f9d16b2c795d35280632036af586e906ae188e21bf34a385b428c33f1f",
+      "fonte": "https://sapl.iguape.sp.leg.br/norma/138",
+      "codigo_ibge": "3520301",
+      "imagens_revisadas": [
+        {
+          "sha256": "99cf142505f1c8e57d054c6ec4ba85e6e044dad4681f7fa7bf3feb847227fe8d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/47bce0f9d16b2c795d35280632036af586e906ae188e21bf34a385b428c33f1f/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2022/emendas-lei-organica-5-2022-sapl-139.md",
+      "sha256": "79d017b95a10f472ccca956022b6a453c21b6a8b4941c997fc2e5710dfd8ab97",
+      "sha256_fonte": "fb768eab5a4ae2fd99c45e7dfc461f6c95fe185272a29a02553856f687646114",
+      "fonte": "https://sapl.iguape.sp.leg.br/norma/139",
+      "codigo_ibge": "3520301",
+      "imagens_revisadas": [
+        {
+          "sha256": "99cf142505f1c8e57d054c6ec4ba85e6e044dad4681f7fa7bf3feb847227fe8d",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/fb768eab5a4ae2fd99c45e7dfc461f6c95fe185272a29a02553856f687646114/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2024/emendas-lei-organica-8-2024-sapl-3640.md",
+      "sha256": "113eb407ff20ccd1caa7bfd150a6af8cb63b846303547cdf84247cd097a667c7",
+      "sha256_fonte": "3c02944da308a44a439549644fe4ed2a53483b85123a9addb8ce5461a7fcd539",
+      "fonte": "https://sapl.ilhacomprida.sp.leg.br/norma/3640",
+      "codigo_ibge": "3520426",
+      "imagens_revisadas": [
+        {
+          "sha256": "7f406e7acb12df743cea501f6ad052fa57d6c168c4f0f8f674a387c3cadefa2e",
+          "object_id": [
+            "50",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3c02944da308a44a439549644fe4ed2a53483b85123a9addb8ce5461a7fcd539/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "58f489430e4035a9accb6fe6a0026d61ab84dd262cacda34efc72b8bada6f39a",
+          "object_id": [
+            "51",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3c02944da308a44a439549644fe4ed2a53483b85123a9addb8ce5461a7fcd539/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2026/emendas-lei-organica-10-2026-sapl-3961.md",
+      "sha256": "996124ffdd73b6dd0bbd2749eceb10e8eb08399b82f7d35372fa6d66d13f9dae",
+      "sha256_fonte": "52cc1c16ef6e25566338f2248d29e4c7832362cb8cc1f694d3810aeaf15cf801",
+      "fonte": "https://sapl.ilhacomprida.sp.leg.br/norma/3961",
+      "codigo_ibge": "3520426",
+      "imagens_revisadas": [
+        {
+          "sha256": "7f406e7acb12df743cea501f6ad052fa57d6c168c4f0f8f674a387c3cadefa2e",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/52cc1c16ef6e25566338f2248d29e4c7832362cb8cc1f694d3810aeaf15cf801/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "58f489430e4035a9accb6fe6a0026d61ab84dd262cacda34efc72b8bada6f39a",
+          "object_id": [
+            "18",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/52cc1c16ef6e25566338f2248d29e4c7832362cb8cc1f694d3810aeaf15cf801/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2026/emendas-lei-organica-11-2026-sapl-4063.md",
+      "sha256": "6e596b9101a77d0bf10685666d3c7a8b07fe7557f46044770e5676d5d1cbdfb8",
+      "sha256_fonte": "8351622bcb4d09947361dd53bcaf10f365d551497fe34a6595a6544cccf19f77",
+      "fonte": "https://sapl.ilhacomprida.sp.leg.br/norma/4063",
+      "codigo_ibge": "3520426",
+      "imagens_revisadas": [
+        {
+          "sha256": "7f406e7acb12df743cea501f6ad052fa57d6c168c4f0f8f674a387c3cadefa2e",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8351622bcb4d09947361dd53bcaf10f365d551497fe34a6595a6544cccf19f77/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "58f489430e4035a9accb6fe6a0026d61ab84dd262cacda34efc72b8bada6f39a",
+          "object_id": [
+            "18",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8351622bcb4d09947361dd53bcaf10f365d551497fe34a6595a6544cccf19f77/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-3-2021-sapl-4117.md",
+      "sha256": "bd5ae6df777d1a359a1d795359d721abf0ac5be8d50b1150950b4c475a05f3e4",
+      "sha256_fonte": "0f65c419ab86f079b4ae8cc1b48afc676b74acc1c24edd95b72d5314bfb578af",
+      "fonte": "https://sapl.laranjalpaulista.sp.leg.br/norma/4117",
+      "codigo_ibge": "3526407",
+      "imagens_revisadas": [
+        {
+          "sha256": "8ceaa74ae97941adadda1f6f55d0b7363d6c7aa382d81b2e5465072747804f8f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0f65c419ab86f079b4ae8cc1b48afc676b74acc1c24edd95b72d5314bfb578af/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9cf14afe2ebc1367a24c97c24ebe6c5a81c015bb4494ba93b0ac04c2b92d8a0f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0f65c419ab86f079b4ae8cc1b48afc676b74acc1c24edd95b72d5314bfb578af/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-4-2021-sapl-4135.md",
+      "sha256": "92fda1499923d058ae8adba515bf173850704909947f71a3d8cbff8b461b3497",
+      "sha256_fonte": "4adfe22aaf6d6309d2cbfbc24c9e01c16776817e1d7eba7d23ed3bf90114f36d",
+      "fonte": "https://sapl.laranjalpaulista.sp.leg.br/norma/4135",
+      "codigo_ibge": "3526407",
+      "imagens_revisadas": [
+        {
+          "sha256": "8ceaa74ae97941adadda1f6f55d0b7363d6c7aa382d81b2e5465072747804f8f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4adfe22aaf6d6309d2cbfbc24c9e01c16776817e1d7eba7d23ed3bf90114f36d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9cf14afe2ebc1367a24c97c24ebe6c5a81c015bb4494ba93b0ac04c2b92d8a0f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4adfe22aaf6d6309d2cbfbc24c9e01c16776817e1d7eba7d23ed3bf90114f36d/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-5-2021-sapl-4136.md",
+      "sha256": "05aa19dc3ef8f0b702a89a4b843cec1e7af3ebbc97fa7d39b6052dfeb057e83c",
+      "sha256_fonte": "e01ef97e88336de63b00ecb580a98f10f35094ec2fecd62f187e22253e32552d",
+      "fonte": "https://sapl.laranjalpaulista.sp.leg.br/norma/4136",
+      "codigo_ibge": "3526407",
+      "imagens_revisadas": [
+        {
+          "sha256": "8ceaa74ae97941adadda1f6f55d0b7363d6c7aa382d81b2e5465072747804f8f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e01ef97e88336de63b00ecb580a98f10f35094ec2fecd62f187e22253e32552d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9cf14afe2ebc1367a24c97c24ebe6c5a81c015bb4494ba93b0ac04c2b92d8a0f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e01ef97e88336de63b00ecb580a98f10f35094ec2fecd62f187e22253e32552d/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-6-2021-sapl-4137.md",
+      "sha256": "e623828a6df7cf7b2835de287edec7fdb7c94c5ac3e38655e766e5851f5ac9ca",
+      "sha256_fonte": "e5dfa4249fd4f62382e0b999458655f6489dfa4065979d24002f0e5a4350b0ab",
+      "fonte": "https://sapl.laranjalpaulista.sp.leg.br/norma/4137",
+      "codigo_ibge": "3526407",
+      "imagens_revisadas": [
+        {
+          "sha256": "8ceaa74ae97941adadda1f6f55d0b7363d6c7aa382d81b2e5465072747804f8f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e5dfa4249fd4f62382e0b999458655f6489dfa4065979d24002f0e5a4350b0ab/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "9cf14afe2ebc1367a24c97c24ebe6c5a81c015bb4494ba93b0ac04c2b92d8a0f",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e5dfa4249fd4f62382e0b999458655f6489dfa4065979d24002f0e5a4350b0ab/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2024/leis-ordinarias-2946-2024-sapl-186.md",
+      "sha256": "08915c781f8cde8bf7b2c0743786e3670442648997971878c00801e203760693",
+      "sha256_fonte": "d0e5f99eb0222d50ba30a50c228e18028d3ef2a23a8d9242f2f77def9fdc1a14",
+      "fonte": "https://sapl.canapolis.mg.leg.br/norma/186",
+      "codigo_ibge": "3111804",
+      "imagens_revisadas": [
+        {
+          "sha256": "c003b79c90f9fc3d8f5626c18c333df6cab259811924472288baa1d49dcb6399",
+          "object_id": [
+            "63",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d0e5f99eb0222d50ba30a50c228e18028d3ef2a23a8d9242f2f77def9fdc1a14/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3051-2025-sapl-63.md",
+      "sha256": "0bbf44909eea736bd9a4b8e1587e107cf4cd99872cc92b68e138dd291c1e4592",
+      "sha256_fonte": "91b5a7b4ee2775380655470a4ad493d87f89e3cb65d193daf3308af2b9efb82f",
+      "fonte": "https://sapl.canapolis.mg.leg.br/norma/63",
+      "codigo_ibge": "3111804",
+      "imagens_revisadas": [
+        {
+          "sha256": "c003b79c90f9fc3d8f5626c18c333df6cab259811924472288baa1d49dcb6399",
+          "object_id": [
+            "56",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/91b5a7b4ee2775380655470a4ad493d87f89e3cb65d193daf3308af2b9efb82f/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3060-2025-sapl-52.md",
+      "sha256": "915fc48733caf449a6d058fb964a0038e0d5cca802fe00a96fe78f343ef9adb3",
+      "sha256_fonte": "6d8e7b9d40386218112ecad403c8b1ea9bb3ef7a4f9598002ec86c686fec874e",
+      "fonte": "https://sapl.canapolis.mg.leg.br/norma/52",
+      "codigo_ibge": "3111804",
+      "imagens_revisadas": [
+        {
+          "sha256": "c003b79c90f9fc3d8f5626c18c333df6cab259811924472288baa1d49dcb6399",
+          "object_id": [
+            "59",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6d8e7b9d40386218112ecad403c8b1ea9bb3ef7a4f9598002ec86c686fec874e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3074-2025-sapl-31.md",
+      "sha256": "ba607416a411cbd63e7e666f84f2b34bf2bc938bd99e1df942d74b25219496a0",
+      "sha256_fonte": "affe143b9fcb630f4f2929827f613e7fc96f40c7013c7cdc534a60d1659a0dc8",
+      "fonte": "https://sapl.canapolis.mg.leg.br/norma/31",
+      "codigo_ibge": "3111804",
+      "imagens_revisadas": [
+        {
+          "sha256": "c003b79c90f9fc3d8f5626c18c333df6cab259811924472288baa1d49dcb6399",
+          "object_id": [
+            "64",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/affe143b9fcb630f4f2929827f613e7fc96f40c7013c7cdc534a60d1659a0dc8/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-2-2026-sapl-271.md",
+      "sha256": "ff7391cf7dff9d4c07fa28e4c8e77174170bfbd219523735bc3192757914445f",
+      "sha256_fonte": "12db25480e9cc1b71e5aa9f16008463e26869bfd0872740e16fa7c6660189e8a",
+      "fonte": "https://sapl.cataguases.mg.leg.br/norma/271",
+      "codigo_ibge": "3115300",
+      "imagens_revisadas": [
+        {
+          "sha256": "0467da69c7aead5d0886d2087e2e49ac8f3fc6ef43e2d6646687058abd5503db",
+          "object_id": [
+            "37",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/12db25480e9cc1b71e5aa9f16008463e26869bfd0872740e16fa7c6660189e8a/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-3-2026-sapl-191.md",
+      "sha256": "feb5a1318a8db6aa5bfa161fdbe2c72d289dc36467079dbc40bf299a16b75944",
+      "sha256_fonte": "f572ae601c2b64bbe2a2577ccd81737040644f53d4797cba928eb3aecc0dc8f0",
+      "fonte": "https://sapl.cataguases.mg.leg.br/norma/191",
+      "codigo_ibge": "3115300",
+      "imagens_revisadas": [
+        {
+          "sha256": "0467da69c7aead5d0886d2087e2e49ac8f3fc6ef43e2d6646687058abd5503db",
+          "object_id": [
+            "37",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/f572ae601c2b64bbe2a2577ccd81737040644f53d4797cba928eb3aecc0dc8f0/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-4-2026-sapl-273.md",
+      "sha256": "557bb302a4a27b5bcc68ea1b2fa8323983607fb62cf7e0d0a541fb457fbbf1ba",
+      "sha256_fonte": "1e1f424c47c4028ec976128bc4eccc22c1875960f7fc715393abb8b63f14b670",
+      "fonte": "https://sapl.cataguases.mg.leg.br/norma/273",
+      "codigo_ibge": "3115300",
+      "imagens_revisadas": [
+        {
+          "sha256": "0467da69c7aead5d0886d2087e2e49ac8f3fc6ef43e2d6646687058abd5503db",
+          "object_id": [
+            "37",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1e1f424c47c4028ec976128bc4eccc22c1875960f7fc715393abb8b63f14b670/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2022/leis-ordinarias-2858-2022-sapl-287.md",
+      "sha256": "3df2acf29b219f5bc3876bd743ac52b1f92049f078227292699c3531f451731f",
+      "sha256_fonte": "f87828ae7bb256928251f56ff4af46071952e7bb20e857a43e7daf87772c43e5",
+      "fonte": "https://sapl.luz.mg.leg.br/norma/287",
+      "codigo_ibge": "3138807",
+      "imagens_revisadas": [
+        {
+          "sha256": "0472ddd43917239d8ebd7880433b4461e6230f4e12f2dd5aa662392e193e4c3e",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/f87828ae7bb256928251f56ff4af46071952e7bb20e857a43e7daf87772c43e5/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "0472ddd43917239d8ebd7880433b4461e6230f4e12f2dd5aa662392e193e4c3e",
+          "object_id": [
+            "23",
+            "0"
+          ],
+          "pagina": 2,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/f87828ae7bb256928251f56ff4af46071952e7bb20e857a43e7daf87772c43e5/2/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-10-2024-sapl-246.md",
+      "sha256": "df68ffdd1cf2c3d222c0fd0f51d36e8da6140857a9535416c2e0dc6e51bb6dc8",
+      "sha256_fonte": "5ab93335f69171d8127266922df3864ef035c42712733978da7c71301b9dc925",
+      "fonte": "https://sapl.flores.pe.leg.br/norma/246",
+      "codigo_ibge": "2605608",
+      "imagens_revisadas": [
+        {
+          "sha256": "23bf1e935a9f01dcdabb87df2c5b7d68378681b60206689568fdfa5705129597",
+          "object_id": [
+            "62",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5ab93335f69171d8127266922df3864ef035c42712733978da7c71301b9dc925/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-14-2024-sapl-250.md",
+      "sha256": "f1ab04c9cebe505f887637f5a31ffc70b3984ab870cbc3094c22cce89215ec63",
+      "sha256_fonte": "570033ee2c51d0f5c80a21638e618b5379901733b7d06899481c335f9cb85b2e",
+      "fonte": "https://sapl.flores.pe.leg.br/norma/250",
+      "codigo_ibge": "2605608",
+      "imagens_revisadas": [
+        {
+          "sha256": "23bf1e935a9f01dcdabb87df2c5b7d68378681b60206689568fdfa5705129597",
+          "object_id": [
+            "55",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/570033ee2c51d0f5c80a21638e618b5379901733b7d06899481c335f9cb85b2e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-51-2024-sapl-287.md",
+      "sha256": "4f962a26882560045f446f57450f74b782644ad6e7d537968e7cb5f5baad5b5f",
+      "sha256_fonte": "468113923224035b2bc2d95e6b4b5dab445aba6317eaf6143b0f07fba1c5b548",
+      "fonte": "https://sapl.flores.pe.leg.br/norma/287",
+      "codigo_ibge": "2605608",
+      "imagens_revisadas": [
+        {
+          "sha256": "23bf1e935a9f01dcdabb87df2c5b7d68378681b60206689568fdfa5705129597",
+          "object_id": [
+            "56",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/468113923224035b2bc2d95e6b4b5dab445aba6317eaf6143b0f07fba1c5b548/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2022/leis-ordinarias-1754-2022-sapl-389.md",
+      "sha256": "1eb3d37e9226f2f3cd17e48a92b736e7e1c77a5997efc6cb970dd9a2f1c758eb",
+      "sha256_fonte": "45f7d46a752a4c1d34ce8afebe8f946114cda86ab3b443862d53ad00cd3bf18d",
+      "fonte": "https://sapl.sertania.pe.leg.br/norma/389",
+      "codigo_ibge": "2614105",
+      "imagens_revisadas": [
+        {
+          "sha256": "12be1f16709ba24cddf37a534db89d07ddaa4f8cec02ab501548d140e06bdd20",
+          "object_id": [
+            "16",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/45f7d46a752a4c1d34ce8afebe8f946114cda86ab3b443862d53ad00cd3bf18d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "12be1f16709ba24cddf37a534db89d07ddaa4f8cec02ab501548d140e06bdd20",
+          "object_id": [
+            "19",
+            "0"
+          ],
+          "pagina": 2,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/45f7d46a752a4c1d34ce8afebe8f946114cda86ab3b443862d53ad00cd3bf18d/2/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2022/leis-ordinarias-1755-2022-sapl-388.md",
+      "sha256": "d4f898528c50dacd39ebf94b0c4aa5bba95909722a065a2cd3113da7d99f981f",
+      "sha256_fonte": "ad4fd3cf3723e349c8df8db73ec4b52e6367c95123ec94ef034febfa41ce3688",
+      "fonte": "https://sapl.sertania.pe.leg.br/norma/388",
+      "codigo_ibge": "2614105",
+      "imagens_revisadas": [
+        {
+          "sha256": "12be1f16709ba24cddf37a534db89d07ddaa4f8cec02ab501548d140e06bdd20",
+          "object_id": [
+            "16",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ad4fd3cf3723e349c8df8db73ec4b52e6367c95123ec94ef034febfa41ce3688/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "12be1f16709ba24cddf37a534db89d07ddaa4f8cec02ab501548d140e06bdd20",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 2,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ad4fd3cf3723e349c8df8db73ec4b52e6367c95123ec94ef034febfa41ce3688/2/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-13-2026-sapl-13.md",
+      "sha256": "c781ac8201cac67c59ef5e7d1fc4f8c0d56d4b0bd13f493815c6094882e0edd5",
+      "sha256_fonte": "101e84ef6e667ef760f2182341cc4d5a5ff6b9a12ff2bf3586faf73b2cbc184c",
+      "fonte": "https://sapl.florida.pr.leg.br/norma/13",
+      "codigo_ibge": "4108106",
+      "imagens_revisadas": [
+        {
+          "sha256": "3cd5a5f47d393920a0fec79a89193bc4bdcceab5da2624b7b2225e36a6770592",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/101e84ef6e667ef760f2182341cc4d5a5ff6b9a12ff2bf3586faf73b2cbc184c/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-19-2026-sapl-19.md",
+      "sha256": "5fd5ac5d2e3eef389e46d10334c64935d35d16f2a05e3ffb449ea78654f6e223",
+      "sha256_fonte": "a05dd6ccb794ae76d08ae2229fa231270fd87d4371314c664e52d25df664fdca",
+      "fonte": "https://sapl.florida.pr.leg.br/norma/19",
+      "codigo_ibge": "4108106",
+      "imagens_revisadas": [
+        {
+          "sha256": "3cd5a5f47d393920a0fec79a89193bc4bdcceab5da2624b7b2225e36a6770592",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a05dd6ccb794ae76d08ae2229fa231270fd87d4371314c664e52d25df664fdca/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-20-2026-sapl-20.md",
+      "sha256": "dde0444dbb80266a0220c49f5df2f0b6d1617cf515b5e7e6796714e18d1248ab",
+      "sha256_fonte": "3474c6faf403368bdc3ed0c9fd6ddcdfac7fe9438bdad302dce7d7a81562c29a",
+      "fonte": "https://sapl.florida.pr.leg.br/norma/20",
+      "codigo_ibge": "4108106",
+      "imagens_revisadas": [
+        {
+          "sha256": "3cd5a5f47d393920a0fec79a89193bc4bdcceab5da2624b7b2225e36a6770592",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3474c6faf403368bdc3ed0c9fd6ddcdfac7fe9438bdad302dce7d7a81562c29a/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-6-2026-sapl-6.md",
+      "sha256": "a75b8b3b1d08910365cb6a635a11fd325987b70d62d32cb959625c75689fb0d9",
+      "sha256_fonte": "f359ead71aad43251cbc9bdfce73b7a68b6be74ca82097bd8df05c9f418ba2c1",
+      "fonte": "https://sapl.florida.pr.leg.br/norma/6",
+      "codigo_ibge": "4108106",
+      "imagens_revisadas": [
+        {
+          "sha256": "3cd5a5f47d393920a0fec79a89193bc4bdcceab5da2624b7b2225e36a6770592",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/f359ead71aad43251cbc9bdfce73b7a68b6be74ca82097bd8df05c9f418ba2c1/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-9-2026-sapl-9.md",
+      "sha256": "94aac4b7ae36c66aa39ededf68dad2e002c073d2ebf26357395605b2d507a0ca",
+      "sha256_fonte": "3eeede17f4df5591765b35e3be098d2a676f0b1b6243fc32dfa190c276913be1",
+      "fonte": "https://sapl.florida.pr.leg.br/norma/9",
+      "codigo_ibge": "4108106",
+      "imagens_revisadas": [
+        {
+          "sha256": "3cd5a5f47d393920a0fec79a89193bc4bdcceab5da2624b7b2225e36a6770592",
+          "object_id": [
+            "4",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3eeede17f4df5591765b35e3be098d2a676f0b1b6243fc32dfa190c276913be1/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1048-2026-sapl-10.md",
+      "sha256": "6207262b377b2ca8c4e4d05e5da1147c771a7d713040735b99b84c821a4c16a9",
+      "sha256_fonte": "325dc645f823f67d491ec2fbe09b59975ea6243d1f8bc20c8ab626f0f2332ea5",
+      "fonte": "https://sapl.mauadaserra.pr.leg.br/norma/10",
+      "codigo_ibge": "4115754",
+      "imagens_revisadas": [
+        {
+          "sha256": "d59a0f677d04392472698859a5af37e18d13301f374b0c854e47c2066c2cbaab",
+          "object_id": [
+            "43",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/325dc645f823f67d491ec2fbe09b59975ea6243d1f8bc20c8ab626f0f2332ea5/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1051-2026-sapl-13.md",
+      "sha256": "a559ba4fb6c2844eb8885f6ac41269bfa82811f4c641d4bd2d3a35499e8f6a5e",
+      "sha256_fonte": "1108fddfef508c92d2249fc414084009dffad8b2d7e6476aead52423dee56f18",
+      "fonte": "https://sapl.mauadaserra.pr.leg.br/norma/13",
+      "codigo_ibge": "4115754",
+      "imagens_revisadas": [
+        {
+          "sha256": "d59a0f677d04392472698859a5af37e18d13301f374b0c854e47c2066c2cbaab",
+          "object_id": [
+            "37",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1108fddfef508c92d2249fc414084009dffad8b2d7e6476aead52423dee56f18/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1082-2026-sapl-6.md",
+      "sha256": "374dbd7a10171a248d23c49876425eb476d3ced4d144f576cb227bb46b439339",
+      "sha256_fonte": "cb2f9d0838fd61d7d79a2aa014bb99f127836cc019a14f4fd5f25846158e5ef6",
+      "fonte": "https://sapl.mauadaserra.pr.leg.br/norma/6",
+      "codigo_ibge": "4115754",
+      "imagens_revisadas": [
+        {
+          "sha256": "d59a0f677d04392472698859a5af37e18d13301f374b0c854e47c2066c2cbaab",
+          "object_id": [
+            "38",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/cb2f9d0838fd61d7d79a2aa014bb99f127836cc019a14f4fd5f25846158e5ef6/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-1313.md",
+      "sha256": "77ca7c0e38e806ef81018f0222ad7ab6deba0d5a33d0099dcf73213771be037a",
+      "sha256_fonte": "738877f159eec7fee15fed78c61017308eaeeac848d3725e42687090671817f9",
+      "fonte": "https://sapl.mercedes.pr.leg.br/norma/1313",
+      "codigo_ibge": "4115853",
+      "imagens_revisadas": [
+        {
+          "sha256": "ce722b8ae3fe5a252ef556f3c4b52aaabb64ef69966e426328da24f2e3818868",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/738877f159eec7fee15fed78c61017308eaeeac848d3725e42687090671817f9/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-3-2025-sapl-1314.md",
+      "sha256": "f42371ba4a07defac6f8e28e6b782c0a0ec7ecc674faa7cb2565759b74383303",
+      "sha256_fonte": "138328d3739484943a3a9e2a2efaaa0e855d232f2b3709fe22fff144f37d9eee",
+      "fonte": "https://sapl.mercedes.pr.leg.br/norma/1314",
+      "codigo_ibge": "4115853",
+      "imagens_revisadas": [
+        {
+          "sha256": "ce722b8ae3fe5a252ef556f3c4b52aaabb64ef69966e426328da24f2e3818868",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/138328d3739484943a3a9e2a2efaaa0e855d232f2b3709fe22fff144f37d9eee/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-4-2025-sapl-1315.md",
+      "sha256": "db98ad9bb3f8d8feb4fa9ce7b194a94851ebb1bce9677681b85ad54926ca2a3d",
+      "sha256_fonte": "6402592a9ddf8277900cf8462d5ddbf3ef81a765565cf6b1f350e6ce36aed873",
+      "fonte": "https://sapl.mercedes.pr.leg.br/norma/1315",
+      "codigo_ibge": "4115853",
+      "imagens_revisadas": [
+        {
+          "sha256": "ce722b8ae3fe5a252ef556f3c4b52aaabb64ef69966e426328da24f2e3818868",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6402592a9ddf8277900cf8462d5ddbf3ef81a765565cf6b1f350e6ce36aed873/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-1477.md",
+      "sha256": "98b2910975b293aafd85df03791a62bf45daab3526ebf44b4eb57e86ee6bbbe9",
+      "sha256_fonte": "1661a7d1ee26ab941f35e711972971a5eb605ddcced0585c83fa2e0694cd6100",
+      "fonte": "https://sapl.mercedes.pr.leg.br/norma/1477",
+      "codigo_ibge": "4115853",
+      "imagens_revisadas": [
+        {
+          "sha256": "ce722b8ae3fe5a252ef556f3c4b52aaabb64ef69966e426328da24f2e3818868",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1661a7d1ee26ab941f35e711972971a5eb605ddcced0585c83fa2e0694cd6100/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-1478.md",
+      "sha256": "3dcde0018e685a637c023e2d184545cd9c9505f143603919020f2e2a5b9b6131",
+      "sha256_fonte": "ce43f55c78186d3565874459368dcf79536e7ad3e29e45c6bb8cfbb225f02bc2",
+      "fonte": "https://sapl.mercedes.pr.leg.br/norma/1478",
+      "codigo_ibge": "4115853",
+      "imagens_revisadas": [
+        {
+          "sha256": "ce722b8ae3fe5a252ef556f3c4b52aaabb64ef69966e426328da24f2e3818868",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ce43f55c78186d3565874459368dcf79536e7ad3e29e45c6bb8cfbb225f02bc2/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/serranopolis-do-iguacu/leis-ordinarias/2025/leis-ordinarias-2340-2025-sapl-2.md",
+      "sha256": "c0a7c2230f5cfcc431f3c798c51c6c14228a4bf13af4e3b5eab972358420d95f",
+      "sha256_fonte": "041b1b1ad45eee888d7dc650df3f44416155bbc7814ed6d28d85a294d306df5d",
+      "fonte": "https://sapl.serranopolisdoiguacu.pr.leg.br/norma/2",
+      "codigo_ibge": "4126355",
+      "imagens_revisadas": [
+        {
+          "sha256": "2d22a80dc65c9ebf06589efac1c1c5db0908b4efb01f35814dd37492950e058f",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/041b1b1ad45eee888d7dc650df3f44416155bbc7814ed6d28d85a294d306df5d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/serranopolis-do-iguacu/leis-ordinarias/2025/leis-ordinarias-2345-2025-sapl-3.md",
+      "sha256": "41a8599fff242529dcc3e61a45b9534f2f4e86929ff7ebe881a136b2c9a838f5",
+      "sha256_fonte": "19e50cc53c2cf9be24567ebb0dd5a5148d27974d0dbfc023ed1ba4d2652a507b",
+      "fonte": "https://sapl.serranopolisdoiguacu.pr.leg.br/norma/3",
+      "codigo_ibge": "4126355",
+      "imagens_revisadas": [
+        {
+          "sha256": "2d22a80dc65c9ebf06589efac1c1c5db0908b4efb01f35814dd37492950e058f",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/19e50cc53c2cf9be24567ebb0dd5a5148d27974d0dbfc023ed1ba4d2652a507b/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2017/leis-ordinarias-424-2017-sapl-550.md",
+      "sha256": "d22246880ba8f8d805e1ad6d29c18c337c9f14e5fe105ad76b812175fbded1fe",
+      "sha256_fonte": "52ba5f0c891db43753e24486b2956d2704e183d1c97775560568c3cb082341bb",
+      "fonte": "https://sapl.tomazina.pr.leg.br/norma/550",
+      "codigo_ibge": "4127809",
+      "imagens_revisadas": [
+        {
+          "sha256": "3f740d0f8431723d998f8d0b3bd14c5296f2dadaa715b6b1b65da426c77d7bc1",
+          "object_id": [
+            "19",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/52ba5f0c891db43753e24486b2956d2704e183d1c97775560568c3cb082341bb/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2018/leis-ordinarias-439-2018-sapl-562.md",
+      "sha256": "d4a5cc5860701ec49fe0e7c3b710bd90a5f92b17deadf5d8e2a88761ee1fa1b4",
+      "sha256_fonte": "bb9b05cb6fbfdd473b57d3f0ac1b6fa30e076829f012bd28b4fd42e39cac4361",
+      "fonte": "https://sapl.tomazina.pr.leg.br/norma/562",
+      "codigo_ibge": "4127809",
+      "imagens_revisadas": [
+        {
+          "sha256": "3f740d0f8431723d998f8d0b3bd14c5296f2dadaa715b6b1b65da426c77d7bc1",
+          "object_id": [
+            "10",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/bb9b05cb6fbfdd473b57d3f0ac1b6fa30e076829f012bd28b4fd42e39cac4361/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2023/resolucoes-2-2023-sapl-258.md",
+      "sha256": "60448c5369f96a7910f6015cbcdff765868854efd9380454e2bd5360f9ae9fd0",
+      "sha256_fonte": "30903f14a6535da989bb272d65bcaca4d954924318fae4919c0ee284163e08b5",
+      "fonte": "https://sapl.tomazina.pr.leg.br/norma/258",
+      "codigo_ibge": "4127809",
+      "imagens_revisadas": [
+        {
+          "sha256": "ac6fde6f935f8a4259cabee287e91d06e0b055ae6b69046f4fdf2c0f28168092",
+          "object_id": [
+            "5",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/30903f14a6535da989bb272d65bcaca4d954924318fae4919c0ee284163e08b5/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2024/resolucoes-1-2024-sapl-261.md",
+      "sha256": "2349734eb00f56226eb4b1dd66ea6945839e5f698d872e1a7822f10c2c7038c8",
+      "sha256_fonte": "86a6d01a9ae57003df44787467d3e3717a30288d76f547e9af0b696e3caa861a",
+      "fonte": "https://sapl.tomazina.pr.leg.br/norma/261",
+      "codigo_ibge": "4127809",
+      "imagens_revisadas": [
+        {
+          "sha256": "ac6fde6f935f8a4259cabee287e91d06e0b055ae6b69046f4fdf2c0f28168092",
+          "object_id": [
+            "5",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/86a6d01a9ae57003df44787467d3e3717a30288d76f547e9af0b696e3caa861a/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2026/resolucoes-1-2026-sapl-266.md",
+      "sha256": "72406418c656470635620d6809849f3ba2fcf2052fd860d6529cfbfdf1be5813",
+      "sha256_fonte": "8347af77f587726b18ef51e9c0c36afc7c56ccd113995432c4c5dec8d27bb19d",
+      "fonte": "https://sapl.tomazina.pr.leg.br/norma/266",
+      "codigo_ibge": "4127809",
+      "imagens_revisadas": [
+        {
+          "sha256": "ac6fde6f935f8a4259cabee287e91d06e0b055ae6b69046f4fdf2c0f28168092",
+          "object_id": [
+            "5",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8347af77f587726b18ef51e9c0c36afc7c56ccd113995432c4c5dec8d27bb19d/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 808-2026-sapl-132.md",
+      "sha256": "fd1cc8362829a9d9258d3a9b42907f786bc614084e46a670d043009a436cd842",
+      "sha256_fonte": "3de9dcc0c9273c0bccbec137e4cba943a4d9933690d9589d62a2321e0aea97c9",
+      "fonte": "https://sapl.bomjardim.rj.leg.br/norma/132",
+      "codigo_ibge": "3300506",
+      "imagens_revisadas": [
+        {
+          "sha256": "7a5d929ce015e8d971bf06281b89fe400ec08334fd44e6f76d8f85974c9117eb",
+          "object_id": [
+            "43",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3de9dcc0c9273c0bccbec137e4cba943a4d9933690d9589d62a2321e0aea97c9/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "551c446cebbbeec71a072679c72667f09f6b9a225b110a24aea5a5b463a536d8",
+          "object_id": [
+            "40",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3de9dcc0c9273c0bccbec137e4cba943a4d9933690d9589d62a2321e0aea97c9/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        },
+        {
+          "sha256": "5d5ada58b1fb1a7138ab4caed6f046fb4b7a978e60b64a9f576c3e57b4877452",
+          "object_id": [
+            "40",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3de9dcc0c9273c0bccbec137e4cba943a4d9933690d9589d62a2321e0aea97c9/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 816-2026-sapl-238.md",
+      "sha256": "1ab0444d8e54e2966e74e6d58b9b9a460dd2e1a2c3e16cfb1ed5ea794d0a1bba",
+      "sha256_fonte": "160acd359facecec1ef560fcba0c8cbb4cefbb27e1f55f41d8f0f341008c3e4b",
+      "fonte": "https://sapl.bomjardim.rj.leg.br/norma/238",
+      "codigo_ibge": "3300506",
+      "imagens_revisadas": [
+        {
+          "sha256": "7a5d929ce015e8d971bf06281b89fe400ec08334fd44e6f76d8f85974c9117eb",
+          "object_id": [
+            "27",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/160acd359facecec1ef560fcba0c8cbb4cefbb27e1f55f41d8f0f341008c3e4b/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "551c446cebbbeec71a072679c72667f09f6b9a225b110a24aea5a5b463a536d8",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/160acd359facecec1ef560fcba0c8cbb4cefbb27e1f55f41d8f0f341008c3e4b/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        },
+        {
+          "sha256": "5d5ada58b1fb1a7138ab4caed6f046fb4b7a978e60b64a9f576c3e57b4877452",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/160acd359facecec1ef560fcba0c8cbb4cefbb27e1f55f41d8f0f341008c3e4b/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 817-2026-sapl-239.md",
+      "sha256": "8aeee629ae10b32285ec4750fb1a3309dff65dd95e7e0008c35ce95951a8bbfd",
+      "sha256_fonte": "d69722684f6d1f2b947d018515dec96949f930a2a7509eaccc51f3a3943e160f",
+      "fonte": "https://sapl.bomjardim.rj.leg.br/norma/239",
+      "codigo_ibge": "3300506",
+      "imagens_revisadas": [
+        {
+          "sha256": "7a5d929ce015e8d971bf06281b89fe400ec08334fd44e6f76d8f85974c9117eb",
+          "object_id": [
+            "27",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d69722684f6d1f2b947d018515dec96949f930a2a7509eaccc51f3a3943e160f/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "551c446cebbbeec71a072679c72667f09f6b9a225b110a24aea5a5b463a536d8",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d69722684f6d1f2b947d018515dec96949f930a2a7509eaccc51f3a3943e160f/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        },
+        {
+          "sha256": "5d5ada58b1fb1a7138ab4caed6f046fb4b7a978e60b64a9f576c3e57b4877452",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d69722684f6d1f2b947d018515dec96949f930a2a7509eaccc51f3a3943e160f/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 818-2026-sapl-240.md",
+      "sha256": "4485b42010e53bc0f964501a71e46a3188c37109064392b71a5b8d585b14f2e2",
+      "sha256_fonte": "7153bd0c0a2fd2587c66a429fa4a406e8b9d249e05878337564730e01600d2ba",
+      "fonte": "https://sapl.bomjardim.rj.leg.br/norma/240",
+      "codigo_ibge": "3300506",
+      "imagens_revisadas": [
+        {
+          "sha256": "7a5d929ce015e8d971bf06281b89fe400ec08334fd44e6f76d8f85974c9117eb",
+          "object_id": [
+            "27",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7153bd0c0a2fd2587c66a429fa4a406e8b9d249e05878337564730e01600d2ba/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        },
+        {
+          "sha256": "551c446cebbbeec71a072679c72667f09f6b9a225b110a24aea5a5b463a536d8",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7153bd0c0a2fd2587c66a429fa4a406e8b9d249e05878337564730e01600d2ba/1/imagem-001.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        },
+        {
+          "sha256": "5d5ada58b1fb1a7138ab4caed6f046fb4b7a978e60b64a9f576c3e57b4877452",
+          "object_id": [
+            "24",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7153bd0c0a2fd2587c66a429fa4a406e8b9d249e05878337564730e01600d2ba/1/imagem-002.png",
+          "classificacao": "brasão, máscara de brasão, logomarca institucional ou ICP-Brasil sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2021/leis-ordinarias-209-2021-sapl-117.md",
+      "sha256": "17979b79cfce558dffa7ebc8f14ceb6a653ae9157f361424a41be4beca1cb7d9",
+      "sha256_fonte": "53e33ebfea3ed8f3d1db4fa16711939c6903b768522e495ff122b7d8b96137e7",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/117",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "217d3eaf6fe6be06e223f455099581fcbeeb6e3b3fc136f621bb039adf9160c4",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/53e33ebfea3ed8f3d1db4fa16711939c6903b768522e495ff122b7d8b96137e7/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2021/leis-ordinarias-211-2021-sapl-121.md",
+      "sha256": "43414e7c99b2683f2f97e3f64b9e3611e793a60a2387d6a7ebc97a4bb5efb459",
+      "sha256_fonte": "70ece62834e00ad3cc5cbc19ee5b7d55d07492a30f20c889ca87d41d61a4f6ae",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/121",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "217d3eaf6fe6be06e223f455099581fcbeeb6e3b3fc136f621bb039adf9160c4",
+          "object_id": [
+            "6",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/70ece62834e00ad3cc5cbc19ee5b7d55d07492a30f20c889ca87d41d61a4f6ae/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2024/leis-ordinarias-317-2024-sapl-169.md",
+      "sha256": "e9a77694dd3483ffa07f80b522644f5d6174c431dddf9e35f142eea8436e5108",
+      "sha256_fonte": "29da2635f879f46615a599a4bb6511d1e664aedfa7b242543ce7cf8ab58bae0f",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/169",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "1278fb0bb4d3cdfe214288ffccee5d4c7a400f85f8fa6ea81a59261f0688bf3a",
+          "object_id": [
+            "128",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/29da2635f879f46615a599a4bb6511d1e664aedfa7b242543ce7cf8ab58bae0f/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2024/leis-ordinarias-318-2024-sapl-171.md",
+      "sha256": "eedd37d5fe719a9b643b62b68b4bb9121c83ab5d3172079c5b305bb7b66ba631",
+      "sha256_fonte": "1b9f9d0daa2954945babd61800f2e97d63f79469ffde4ddef4ec68877fdbe607",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/171",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "1278fb0bb4d3cdfe214288ffccee5d4c7a400f85f8fa6ea81a59261f0688bf3a",
+          "object_id": [
+            "128",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1b9f9d0daa2954945babd61800f2e97d63f79469ffde4ddef4ec68877fdbe607/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-80-2014-sapl-267.md",
+      "sha256": "57efdbe2d3097f5025118c6c1d18ae1eef81bd74ad3fee99facd4418940d2b6b",
+      "sha256_fonte": "7180b22171c977ff50cdc29a1bd40e4c18afd60d36e839b1a29466a343b8cb63",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/267",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "e9cb406fa92bfad206cc10e728920034b9f887b8a5a2506cf1fc1763cda8b6f9",
+          "object_id": [
+            "5",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7180b22171c977ff50cdc29a1bd40e4c18afd60d36e839b1a29466a343b8cb63/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-85-2014-sapl-276.md",
+      "sha256": "b2ea9ffd69166aa91270054a6564e12cf59d88e45931ccfd586cc0ad72f959c9",
+      "sha256_fonte": "7b3109afb3b68af82d4fac52a992e785babc09ca32cd7d6eb32a5f3b3868ae71",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/276",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "cb4cd9e222f2f3ec9934c4ab897b70d5275cb13c5a3375825038e028e6f2d5f7",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7b3109afb3b68af82d4fac52a992e785babc09ca32cd7d6eb32a5f3b3868ae71/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-86-2014-sapl-278.md",
+      "sha256": "6837baed17f1ced09524653594bf98e18138f5d71e9278e32fea64c566d6ea56",
+      "sha256_fonte": "2b9ffeadac614ee190a4fac88eca6fc5c84d8b645761cff7423075b3d22a9509",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/278",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "cb4cd9e222f2f3ec9934c4ab897b70d5275cb13c5a3375825038e028e6f2d5f7",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/2b9ffeadac614ee190a4fac88eca6fc5c84d8b645761cff7423075b3d22a9509/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-88-2014-sapl-280.md",
+      "sha256": "a63235a5fb57405a902c1d753c4403771a139c5c3962a67e32e1db85acb2b327",
+      "sha256_fonte": "a7ddecf01f50c3bba5235ae664032aade1a04e6df433c16d0481a9e28db066af",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/280",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "e9cb406fa92bfad206cc10e728920034b9f887b8a5a2506cf1fc1763cda8b6f9",
+          "object_id": [
+            "15",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a7ddecf01f50c3bba5235ae664032aade1a04e6df433c16d0481a9e28db066af/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-89-2014-sapl-282.md",
+      "sha256": "78b8436c504723f326f257114ecebb161570f21c0f797526461b6edb472c954f",
+      "sha256_fonte": "5b0755df9d7c83df05e98a0b903b1483b230af064c550ae7b5cdcb6582b3e0ba",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/282",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "e9cb406fa92bfad206cc10e728920034b9f887b8a5a2506cf1fc1763cda8b6f9",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5b0755df9d7c83df05e98a0b903b1483b230af064c550ae7b5cdcb6582b3e0ba/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2017/leis-ordinarias-131-2017-sapl-208.md",
+      "sha256": "6f6317e74501b02bb17458b529ba5af13c57a13d44358181e8da35cb1b92438a",
+      "sha256_fonte": "ab97add9da05830725ca2375cc098aebc937468764242359b5cea5c41eff3d8e",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/208",
+      "codigo_ibge": "2501708",
+      "imagens_revisadas": [
+        {
+          "sha256": "cb4cd9e222f2f3ec9934c4ab897b70d5275cb13c5a3375825038e028e6f2d5f7",
+          "object_id": [
+            "5",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ab97add9da05830725ca2375cc098aebc937468764242359b5cea5c41eff3d8e/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1612-2022-sapl-422.md",
+      "sha256": "8b4df223db65779b74ee1f95cd650df991c4a25c005037c487b3bc593e1342d3",
+      "sha256_fonte": "d62465885f369b2b110e904d339c887381b02efe6ab85047f057ec27410cda44",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/422",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "8099c725cd38abe5df7b26b14c0ede9de0c4742fc8a82a1d9aa87c5458d42a72",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d62465885f369b2b110e904d339c887381b02efe6ab85047f057ec27410cda44/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1614-2022-sapl-424.md",
+      "sha256": "70eb6ca1f522c193f705e439af3315bcea841faff8010b5ed6170af5e0cbc1ba",
+      "sha256_fonte": "612eafeb60b6b37c643e77b1a0a699f4b9df92a48edd64d8907bf53825a18bd3",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/424",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "8099c725cd38abe5df7b26b14c0ede9de0c4742fc8a82a1d9aa87c5458d42a72",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/612eafeb60b6b37c643e77b1a0a699f4b9df92a48edd64d8907bf53825a18bd3/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1622-2022-sapl-432.md",
+      "sha256": "d0a07b52a325ec3e63f15014e39549d12cac869af2ea7edde5abc57dc1abbbdb",
+      "sha256_fonte": "0f3d9208d8c3c79b3428318d88a7f6edda1bad74c765d5bf1f49f30c15a995ef",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/432",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "8099c725cd38abe5df7b26b14c0ede9de0c4742fc8a82a1d9aa87c5458d42a72",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0f3d9208d8c3c79b3428318d88a7f6edda1bad74c765d5bf1f49f30c15a995ef/1/imagem-000.png",
+          "classificacao": "brasão, máscara de brasão ou marca institucional sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    }
+  ]
+}

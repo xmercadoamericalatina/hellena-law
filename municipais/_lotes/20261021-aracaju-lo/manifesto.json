@@ -1,0 +1,18 @@
+{
+  "documento": "municipais/SE/aracaju/lei-organica/1990/lei-organica-aracaju-1990.md",
+  "sha256": "939312dfd931d546218d0895a1eaa2e234ca9a672f0402794f5a13972e1d2a49",
+  "fonte": "municipais/_fonte/capitais/aracaju/lei-organica-atualizada.pdf",
+  "sha256_fonte": "5126f91b91aa3d4d680d8282b2d4f51ebaf6a6abe11dfac79c9b3ba80e0dbc1e",
+  "paginas": 107,
+  "sequencia_nativa_igual_em": 105,
+  "fluxos_visuais": [
+    70,
+    107
+  ],
+  "grupos_tachados_preservados": 73,
+  "reversao": "Remover apenas os rótulos inseridos recompõe cada página nativa byte a byte. Nenhuma linha numérica, margem, nota, pontuação, alínea ou palavra é removida.",
+  "plano": "municipais/_lotes/20261021-aracaju-inspecao-tachados/plano-contextual.json",
+  "sha256_plano": "c7fb92f6177dfda2241524115543fe1aa3145b7457b448e604ffda274bf1d65b",
+  "codigo_sha256": "02bd34297af4a4c3424d3f2ee92d2c6813e9b42d5399d49898e2be4c88756f9f",
+  "limite": "Distinção gráfica atribuída ao PDF oficial, sem inferir efeito jurídico; data de captura original preservada. Exige gates finais de renderização, fonte e identidade antes de entrega."
+}

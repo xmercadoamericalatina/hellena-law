@@ -1,0 +1,2091 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 46,
+  "retidos": 7,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3310-2025-sapl-28405.md",
+      "sha256": "d086bd98f9f437bd62d3ecbf61baafbe1581ba4efe499f7199a1b64c44d881a0",
+      "sha256_fonte": "5b8c6527e1d8797e2dabdf664622387f1fccf369537bf9610091f009f4ee0073",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8d7ba6de70982cbfdc19a14272449c5dff94cd4414d1ce145a7e87b3204b96c3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3309-2025-sapl-28404.md",
+      "sha256": "040d24450ea16ed750819d3bca7bcc6732eb158c74449fa6487c66e38c474ba6",
+      "sha256_fonte": "9412f1617f4e7a28327bac07396510f9a6f741150799ef65afa1a9eecb4e2e42",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/250bc1b88da3788d6a5eab280eec44864b45e7a8d5e3f4b2f16789747dd8b5b8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3308-2025-sapl-28403.md",
+      "sha256": "18d073f44ab3c958802b127248d0be6ac590060446487429df88677dd7a0b617",
+      "sha256_fonte": "5bf0de145043d4c55a9978a4c31a75ced55d8f4fa4edc2206ac96fd2a68b2151",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/a3ec181a094e267b918d12b5374b4ec25ea74ac9ac30e81c79669a26cb2e1750.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3306-2025-sapl-28277.md",
+      "sha256": "9aa170d35951f3cd0d76736554dbf235d264432e251bb2683f08e5bfd30f8049",
+      "sha256_fonte": "e5ecc14a7d637df0a0d3da7fd3f9008877056f9a87daf4938eb13758a288136e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f59f7ae1ad551f54a9e7bfb0fe0e5260ce2a3af02092bf946782b25c30fa0c05.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3305-2025-sapl-28278.md",
+      "sha256": "04d362aa95fbb3adaa7c9768ea99fb433548e8bca1aa712f0903bfda8dea2683",
+      "sha256_fonte": "31185be57454b9e2d3e8340591abb5d2a190a4feea2f71228b49488a2778241b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1e5d4f6b27bd2965091383ab378cd3c5d15a8afc43bbb9b37ea551671a4dc7a8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3304-2025-sapl-28279.md",
+      "sha256": "1e7ab07d4d0cfd34722a00e15e0bd528f0e94961135bdf9891122e5680ba31db",
+      "sha256_fonte": "dbf6262418ee2e8a5741eeef13174d58240bdbde45f9f372766161b324441f73",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/10c76926119b7609cac315421a6258c879217d385665f72813c9efe8312b7866.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3303-2025-sapl-28280.md",
+      "sha256": "8bb9a84b925059d2720d4046021ee05a79c453b59489449f1036b9e2b4286464",
+      "sha256_fonte": "ed09f70473db48513701e0e3563abfa623d4d7166acb9faa7e6a698ad00774e7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4aa96e42d940ad18cbff426039580f58b6f7bfc8421a0345b4fc45ce91f70791.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21329-2025-sapl-28347.md",
+      "sha256": "442882b00c2795a70e97dc2a08fcf7b1c9a7f64bfa8fbc979ac2b5ea67f909e3",
+      "sha256_fonte": "feb88d917d85f14d12decfa5793591891f7b9b146a2b6ff5848fc9c41fc2796c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/29db9c975447ec19c05ad5ba4021281395a655dd36c8e0d9fb916017988e6088.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            448,
+            40
+          ]
+        },
+        {
+          "texto": "24 de Novembro de 2025",
+          "posicao": [
+            452,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            452,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            458,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 21.572, de 24 de novembro de 2025",
+          "posicao": [
+            458,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3298-2025-sapl-28246.md",
+      "sha256": "8252f9ee5411f70266854119f2cb730ef8d9b8350b9c5235d117e435698e0f86",
+      "sha256_fonte": "3123cbdc53eb6da320d1c584be53ac24c310cd3f849b9d555aab952643be9482",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/96c80453cb17c6cdc07190b2063b1b723e83944ecf35c9272a54ae0a7dee6e17.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3296-2025-sapl-28343.md",
+      "sha256": "fe3e715ce589fb2dcf66e53dde07944fd4f5261be936e4c87745366fe94d2ce1",
+      "sha256_fonte": "dc4058d7d120e9e877b39a03dc632c5268dd923dfa13012a7d85e6229a911c46",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/42ebcc3cf53f8da183eb4139d03cf8763a476c8dbd76d1e83e593dbca8a3f70b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3293-2025-sapl-28281.md",
+      "sha256": "89ebefad0b9010d3007005bc53b1b917819ebfa78a715f388ccaaa1c7228e481",
+      "sha256_fonte": "9f3c8a5693aed134d63242b4abf65ac0792e10da0173660f5974ce47cb1e9044",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f4bfbf08c9b5e9cf84c0f13789cdfe71f252b39804414cedf697daeb8280f62f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3292-2025-sapl-28282.md",
+      "sha256": "30c2e4baef94fd7329885db985ac6105423f7e3b981bc214ea3c18b3d4e82222",
+      "sha256_fonte": "0f8453be339531422d0f3876e1cb1bf607690aa49919074a52924d3df1fb5a01",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1173ac08ad8dedc21f5c33b6ed6c77f427aab78b391b6d335d9bd20cc2afc612.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3291-2025-sapl-28297.md",
+      "sha256": "5b3dae64b6d164545470fac7326aea10a50ac36f02d65502ae1d99861e7a7dcf",
+      "sha256_fonte": "7a6ad1f14a1e7dd173d5e5dc50e6c5102baf51677a7418c8c536cabab72f5e25",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5188bb4f8ea87991edcd4b71a03572421d35240338df68c95992b5bd07adac64.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3290-2025-sapl-28296.md",
+      "sha256": "98adc6d667831481780e4126728402bab0e43ce100410fad663040866a1b7470",
+      "sha256_fonte": "e5132a30a5cc5c7eef6d07c8b5a267496e1761d5498177b8560197a9c55d650c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4b95ff429b4a34d9454efe5fee2ec39b07465d5ff6ce759020701416270484b0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3289-2025-sapl-28341.md",
+      "sha256": "10ca820eb414280d2c463bca5e41eeed21bc2609528ebb75a59167a0ff067f89",
+      "sha256_fonte": "98e1330b2446307a4c25e7bf90d71a812509d59ef9185213cde490bc2a418b9d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/772ff2645a94778f0561ffef51197fee763921a691a69733b25072f7418fa2f4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3288-2025-sapl-28340.md",
+      "sha256": "221f2a59ecb17c3350417619a2999b1cd2ea142062ef14e60c3878ec7cc3a593",
+      "sha256_fonte": "48a953454b18e6bc2cea03f6caea52d84c0c914526895e5e15dbaa5926e00dc8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e115a89117f79e5582b87cd4c67e28305d30e88b73604ed79167b773d2bbfbf5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3287-2025-sapl-28293.md",
+      "sha256": "ef51f35ab5144e21c818e87fe55754b57b6ff78be9e583f3ff847be42e84b15f",
+      "sha256_fonte": "142d6ee7df1f777ebbdd31194d325a2c5688b0039780bbdcbc1d8e9737200273",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8b51318392511c307ed55c086450fd749dba7ddaa2852ba53322c4d1bd9218ba.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21262-2025-sapl-28171.md",
+      "sha256": "e8c3cfd28965df13fec45998e71431a7de7af46262a989af92f5c898eacb61ee",
+      "sha256_fonte": "76a0c44f8e92d8a3dcf6874bfc22e50e5cdea9f6894578033de338e9f35fb2e9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/35745b88530626f706e2c094af040091302d463e9cdd33a5911da39790b81461.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21.187-2025-sapl-28080.md",
+      "sha256": "15c8af40304afbcf5369d2fb58644c8238a2f343829a25a643bf9ccb84d4081d",
+      "sha256_fonte": "f4097d3403b5f3554e7ad22faf061a84be2f9e91eb294d599f9e631f75d496a2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d0ae97bfb2ac71315a11c6a73daf4f700182c1afd909471393b03957fd43df32.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            525,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            530,
+            145
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            535,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            548,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            548,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            557,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            557,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            571,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            571,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            580,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            580,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            594,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            594,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            603,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            603,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            617,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            617,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            626,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            626,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            640,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            640,
+            144
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            649,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            649,
+            143
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            663,
+            136
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            676,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3271-2025-sapl-28248.md",
+      "sha256": "8203897500a5054a239c6a5bd190b465812eb7d23e48eb1f1bd192b9493aa1d1",
+      "sha256_fonte": "5519d05833df0d5c7991a3a96c50bb0a94a2b7594fb3fa16016d4682c824f1f5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1c0fd5e10e7d3719ce19275da708291fbaf373416835afca04c16aaf6de7831f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21096-2025-sapl-27964.md",
+      "sha256": "907bb99c4865b0e364d82a36647de26ea6fa25010a7fe153421499e5c15a30b3",
+      "sha256_fonte": "c8e5f2667f49d37ccdf046bd03ebdcc8656e3cbcf5442bbd2deed7b6a64afca8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/74753cd8800ea6f06e0ba754baae2c26a0c1d340d15c048598998c57965f9d1c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-20973-2025-sapl-27797.md",
+      "sha256": "3abfddf28d84f00df809a62559b9bbff2196418dd622046fc661e67223c52971",
+      "sha256_fonte": "861b644172b87253edbb9968356211d9f9bfc85f851de11ab87ee07e262b5f25",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/22da0fee074e6c522db8526b81ee9e158e69c0c342bad8fe3d17679b0253b775.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3254-2025-sapl-27815.md",
+      "sha256": "a007ec7fc7a6236b46163c8f44b5aa971931f0ac88b590683ab50fa38749581a",
+      "sha256_fonte": "600d5d4c3da554eda46d65619984a362f549fc3ca9531f881e78e454fe89b605",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8241d227c4fee4c9807f954aa9acc54ba82f5c993c14a86b0e065c499d1ae9af.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3253-2025-sapl-27814.md",
+      "sha256": "ec5bdf03c4087bbf104d26148d7a2e70d072a3324b64b5879fd9695c4739999a",
+      "sha256_fonte": "e3edea49f4c9850a98d77cdce65950498d6dc514315815f4c0b0aa1360484cea",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cb53e443f6da582b9d1a024120c52edf5ce149e4aea3052aaeab29056a1bc012.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3252-2025-sapl-27813.md",
+      "sha256": "af49014919be770d0ee86cbf0b8078f87dd247b5190d687bfaf913ca1aace076",
+      "sha256_fonte": "2bd25384d96ddf64d0c071e24c56b2181167b53662c7a77df739325659e36416",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bf0acb223aace4592eeb2cd77d98a8ed93af033c5aac7bdbd68b477810c6c451.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3.251-2025-sapl-27808.md",
+      "sha256": "067685655d720882f33fc89aeac63f1237071e8c33c91bdc769da81a6d2c853d",
+      "sha256_fonte": "8b873d3bc7da255ede16263719e7dbb8fd47106723425792ca289ff7bfbd9356",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fbd9b88ae3d2cdd1ec78321458aa9c264bb9e68f5bd199f579f057df83cd04e3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20736-2024-sapl-27709.md",
+      "sha256": "a5a054ee69cc1613a9c80b6596f944fb24f037874a0f594a0482658a755f4d66",
+      "sha256_fonte": "a1f94430e3cd3a42ef23beefd3f4749266346158968d94111eb581702d611cba",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/238ed7e60277ec95fd321a84396769c3859f779963e9a847b471ab2935efb390.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3235-2024-sapl-28395.md",
+      "sha256": "6c193cc2f2daa69b93caa588abdea8ae388c3abf3898df81a016a10871087aa2",
+      "sha256_fonte": "06fe10288ae92be86cf3dc66d221dfe5c8e811718ff519e5803bbcb5b2ff024a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/83c69e11fb11d87af3ec9a93c1e90c65e329f2a153330fc23249aa32f65c9658.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.673-2024-sapl-27426.md",
+      "sha256": "cd7c3a93b7743ce3fdc49f46a0479fc8febc7a63d906dab2b6d675285ea08d98",
+      "sha256_fonte": "65b12f987317fa4e7ab1d1dc2b7b7a70129017705ff59af95b715ef91b7524ef",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f27817c2478c6b4918bee39e9350acae7355dbac5dc67fbf43516acfa813ab24.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            502,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            507,
+            145
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            512,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            525,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            525,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            539,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            539,
+            143
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            553,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            558,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            558,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            572,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            572,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            586,
+            131
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            586,
+            143
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            600,
+            136
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            613,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.643-2024-sapl-27456.md",
+      "sha256": "6990a0af68dbcf30a21d4854ea217e519d9f9f2371716a0870a0a7124222df6e",
+      "sha256_fonte": "c229472a06f0cabc67576d1f2253d0580201e6131b2f44696e2f75b87cf6e669",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c2ed679a0c9c939cb5bce638192577996ab54a6a819c11c9566bd884bb92962e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            435,
+            40
+          ]
+        },
+        {
+          "texto": "9 de Dezembro de 2024",
+          "posicao": [
+            439,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            439,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            445,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto-SEMPOG nº 20.673, de 09 de dezembro de 2024",
+          "posicao": [
+            445,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.230-2024-sapl-27340.md",
+      "sha256": "e83a5693a19b291751cb100a42d987479704bdf62b0d4dd211a32a03fcad670d",
+      "sha256_fonte": "e6da330f451b664d2e203d51684f6a4d86296e70857fa3c1dbbb0534962a3ca4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/233ddd8e29023808bf9db8958312b0aa0323881ef5339ce128f35d1e35c4e000.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.229-2024-sapl-27339.md",
+      "sha256": "8371230ad5ec662cff2118a798b6e4d93449fffe78b12714349160759de076a4",
+      "sha256_fonte": "fb075637620174c93b05a74eda2f9657fa07d888a437e1ec5cc660f71726be4a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/235562a80b3044301bf855bc80fed7e329ba796d261f1bd439f9f3a447bf242b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.228-2024-sapl-27338.md",
+      "sha256": "0f33c3ecb9dfe23603428c353bf4cd0768c493b42d1772f4b56d57f017f26ea9",
+      "sha256_fonte": "d14954196df19c8654906f1fad0b184402ca38e2a4074ef3c7ddc8603b041dc0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/80f575bae311ffa37ad3adb25d009a8f6a975b8dfef3dc5d543cdcd17b409d6f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.227-2024-sapl-27337.md",
+      "sha256": "ae5f0f581a39f249ce7f13ea82287e9d36eed89baba8f861b2b716bc5a461899",
+      "sha256_fonte": "8449b3f86576039923a3971212d381c75adf8d402b5804edfc602470b3c04c47",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0928c0f6e991690ad09ab00225cf38fb9d796b76682862daffaa3674b20086d4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.226-2024-sapl-27336.md",
+      "sha256": "505e061d5fb20a5b8d204da475176b092df6d129a05b3f72ef5a05e33838e61b",
+      "sha256_fonte": "e09aa49e107319ea925b3f5cf3c752692a0bcc78dad3fc816948f5a04263d641",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/550f10e1d752ce7388407490c20bc5a4e7735c36ec3dec0a5af6232ab9f0b0d7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.224-2024-sapl-27501.md",
+      "sha256": "79cbcf286348560519247baf7db539f829a7ec09b661e50c8995aa68470bef69",
+      "sha256_fonte": "a4e39de78330ff8ddc5e646f93242ae8b22856c25c8b8163dc305025347edad2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3271c78e225d97977629333d6e2f7f4c8a03eb9526322ea4c6b9ea8fe30af15b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.223-2024-sapl-27502.md",
+      "sha256": "81531439706b0b64ba00dfead37d27024b81fc259a50741ae8e0a9787c34098e",
+      "sha256_fonte": "a56405d15b08610b64934fc105b4f5fc654c318837315b5283e5a4cb37449069",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4463dd1eaa6f7cdd89be330f355b02a77abe2f47169f5128cf2aa2352ed8b9af.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.569-2024-sapl-27280.md",
+      "sha256": "c0c0bf6845341b081b09de260f5066b2973a96d4619404c67372c809094b9b34",
+      "sha256_fonte": "e48a42cdd3fffed47f0e2d2b30a0159633025782fb81b4f287709eea852ecf30",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4a7be4e8d6ea98326a2ea79e6374a46479922896232b91fb4ef5ba916c9bcece.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "13 de Novembro de 2024",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 20.589, de 13 de novembro de 2024",
+          "posicao": [
+            456,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.221-2024-sapl-27334.md",
+      "sha256": "01c18c0b6d6f7288b1f800075227a660db56221e22029e33e3e4e18440e4058a",
+      "sha256_fonte": "c320a4bd7fc60a1dc0aed5ed6920bb03ed318e1c079339ff773643fc6e61d479",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5ec48ee976e165e1dfeecf62f3a9c7b345dd068edc672e97744c21a58a5d389c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            516,
+            131
+          ]
+        },
+        {
+          "texto": "Fica instituído o Conselho Municipal da Pessoa Idosa – COMPI, observado o disposto no artigo 6º, Capítulo III, da Lei Federal nº 8.842, de 4 de janeiro de 1994, órgão permanente, paritário e deliberativo, composto por igual número de representantes dos órgãos e entidades públicas e de organizações representativas da sociedade civil ligadas à área. AC",
+          "posicao": [
+            523,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            525,
+            131
+          ]
+        },
+        {
+          "texto": "Fica o Conselho Municipal da Pessoa Idosa vinculado à Secretaria Municipal de Assistência Social e Família – SEMASF. AC",
+          "posicao": [
+            532,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            534,
+            131
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal da Pessoa Idosa – COMPI é composto por 12 (doze) membros e respectivos suplentes, cujos nomes são indicados ao órgão da Administração Pública Municipal responsável pela coordenação e execução da Política Municipal do Idoso e nomeados pelo Prefeito do Município de Porto Velho, de acordo com a paridade que segue: AC",
+          "posicao": [
+            541,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            543,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            543,
+            144
+          ]
+        },
+        {
+          "texto": "1 (um) representante da Secretaria Municipal de Ação Comunitária e Trabalho;",
+          "posicao": [
+            545,
+            17
+          ]
+        },
+        {
+          "texto": "Coordenação; AC",
+          "posicao": [
+            545,
+            97
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            547,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            547,
+            145
+          ]
+        },
+        {
+          "texto": "(um) representante da Secretaria Municipal de Saúde; AC",
+          "posicao": [
+            549,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            551,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            551,
+            146
+          ]
+        },
+        {
+          "texto": "1 (um) representante da Secretaria Municipal de Educação; AC",
+          "posicao": [
+            553,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            555,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            555,
+            145
+          ]
+        },
+        {
+          "texto": "1 (um) representante da Secretaria Municipal de Cultura e Esporte; AC",
+          "posicao": [
+            557,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            559,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            559,
+            144
+          ]
+        },
+        {
+          "texto": "1 (um) representante da Secretaria Municipal de Fazenda; AC",
+          "posicao": [
+            561,
+            17
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            563,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            563,
+            145
+          ]
+        },
+        {
+          "texto": "1 (um) representante da Secretaria Municipal de Planejamento e Coordenação; AC",
+          "posicao": [
+            565,
+            17
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            567,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            567,
+            146
+          ]
+        },
+        {
+          "texto": "6 (seis) representantes da Sociedade civil, sendo: AC",
+          "posicao": [
+            569,
+            17
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            571,
+            139
+          ]
+        },
+        {
+          "texto": "Dois representantes do grupo de convivência do próprio idoso; AC",
+          "posicao": [
+            573,
+            17
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            575,
+            139
+          ]
+        },
+        {
+          "texto": "Dois representantes das entidades e organizações de assistência ao Idoso; AC",
+          "posicao": [
+            577,
+            17
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            579,
+            139
+          ]
+        },
+        {
+          "texto": "Um representante dos trabalhadores do Setor de Assistência ao Idoso; AC",
+          "posicao": [
+            581,
+            17
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            583,
+            139
+          ]
+        },
+        {
+          "texto": "Um representante do Conselho de Ministros Evangélicos de Porto Velho, escolhido em foro próprio sob fiscalização do Ministério Público do Estado de Rondônia. AC",
+          "posicao": [
+            585,
+            17
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            587,
+            142
+          ]
+        },
+        {
+          "texto": "Compete ao Prefeito Municipal nomear e empossar os Membros do Conselho Municipal da Pessoa Idosa - COMPI. AC",
+          "posicao": [
+            589,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            591,
+            131
+          ]
+        },
+        {
+          "texto": "O mandato dos membros do Conselho Municipal da Pessoa Idosa – COMPI é de 2 (dois) anos, permitida uma única recondução por igual período. AC",
+          "posicao": [
+            598,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 9º.",
+          "posicao": [
+            600,
+            131
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal da Pessoa Idosa – COMPI é presidido por um de seus integrantes, eleito dentre seus membros para o mandato de 01 (um) ano, permitida uma única recondução por igual período. AC",
+          "posicao": [
+            607,
+            17
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            609,
+            142
+          ]
+        },
+        {
+          "texto": "A função de Conselheiro será considerada serviço público relevante, sendo seu exercício prioritário e justificadas as ausências a quaisquer outros serviços, quando determinadas pelo seu comparecimento às sessões do Conselho ou pela",
+          "posicao": [
+            611,
+            17
+          ]
+        },
+        {
+          "texto": "participação em diligencias autorizadas por este. AC",
+          "posicao": [
+            611,
+            262
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            613,
+            142
+          ]
+        },
+        {
+          "texto": "Os membros do Conselho Municipal da Pessoa Idosa – COMPI, exercerão seus mandatos gratuitamente. AC",
+          "posicao": [
+            615,
+            17
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            617,
+            142
+          ]
+        },
+        {
+          "texto": "O Presidente do Conselho Municipal da Pessoa Idosa – COMPI, solicitará aos órgãos competentes, no prazo de 30 (trinta) dias antes do término do mandato, a indicação de novos membros, observado o disposto no artigo 7º desta Lei. AC",
+          "posicao": [
+            619,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 10.",
+          "posicao": [
+            621,
+            131
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal da Pessoa Idosa – COMPI, administrará o Fundo Municipal do Idoso, instituído por esta Lei, o qual é destinado ao atendimento das pessoas idosas. AC",
+          "posicao": [
+            628,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 11.",
+          "posicao": [
+            630,
+            131
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal da Pessoa Idosa – COMPI, terá a seguinte estrutura. AC",
+          "posicao": [
+            637,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            639,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            639,
+            144
+          ]
+        },
+        {
+          "texto": "Secretaria Executiva; AC",
+          "posicao": [
+            641,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            643,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            643,
+            145
+          ]
+        },
+        {
+          "texto": "Mesa Diretora, composta por Presidente, Vice-Presidente e Primeiro e Segundo Secretário; AC",
+          "posicao": [
+            645,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            647,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            647,
+            146
+          ]
+        },
+        {
+          "texto": "Comissões; AC",
+          "posicao": [
+            649,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            651,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            651,
+            145
+          ]
+        },
+        {
+          "texto": "Plenário. AC",
+          "posicao": [
+            653,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 12.",
+          "posicao": [
+            655,
+            131
+          ]
+        },
+        {
+          "texto": "A administração Municipal cederá o espaço físico, as instalações e os recursos humanos eventualmente necessários à manutenção do funcionamento regular do Conselho. AC",
+          "posicao": [
+            662,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 13.",
+          "posicao": [
+            664,
+            131
+          ]
+        },
+        {
+          "texto": "O primeiro Conselho Municipal da Pessoa Idosa – COMPI, a partir da data da posse de seus membros, terá o prazo máximo de 30 (trinta) dias, para elaborar o seu Regimento Interno que disporá sobre o seu funcionamento e atribuições de sua estrutura. AC",
+          "posicao": [
+            671,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 14.",
+          "posicao": [
+            673,
+            131
+          ]
+        },
+        {
+          "texto": "A Secretaria Municipal de Ação Comunitária e Trabalho, responsável pela execução das ações de assistência ao idoso, em conjunto com os órgãos afins da administração pública Municipal e com as demais entidades prestadoras de serviços de assistência ao idoso, formulará o Plano Municipal de Assistência ao Idoso e o submeterá à aprovação do Conselho Municipal da Pessoa Idosa, o qual terá o prazo máximo de 10 (dez) dias para emitir o seu parecer. AC",
+          "posicao": [
+            680,
+            17
+          ]
+        },
+        {
+          "texto": "Art. 15.",
+          "posicao": [
+            682,
+            131
+          ]
+        },
+        {
+          "texto": "Compete ao Conselho Municipal da Pessoa Idosa – COMPI: AC",
+          "posicao": [
+            689,
+            17
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            691,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            691,
+            144
+          ]
+        },
+        {
+          "texto": "aprovar a Política Municipal do Idoso em consonância com as diretrizes dos Conselhos Nacional e Estadual do Idoso; AC",
+          "posicao": [
+            693,
+            17
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            695,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            695,
+            145
+          ]
+        },
+        {
+          "texto": "Mesa Diretora, composta por Presidente, Vice-Presidente e Primeiro e Segundo Secretário; AC",
+          "posicao": [
+            697,
+            17
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            699,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            699,
+            146
+          ]
+        },
+        {
+          "texto": "normatizar complementarmente as ações e a regularização de prestações de serviços de natureza pública e privada no campo de atendimento ao idoso; AC",
+          "posicao": [
+            701,
+            17
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            703,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            703,
+            145
+          ]
+        },
+        {
+          "texto": "estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuais do Fundo Municipal do Idoso, e definir critérios de repasse de recursos destinados às entidades não governamentais; AC",
+          "posicao": [
+            705,
+            17
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            707,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            707,
+            144
+          ]
+        },
+        {
+          "texto": "apreciar e aprovar, no prazo de 5 (cinco) dias úteis, a proposta orçamentária de atendimento ao idoso para compor o orçamento municipal; AC",
+          "posicao": [
+            709,
+            17
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            711,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            711,
+            145
+          ]
+        },
+        {
+          "texto": "inscrever e fiscalizar as entidades e organizações de assistência ao idoso; AC",
+          "posicao": [
+            713,
+            17
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            715,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            715,
+            146
+          ]
+        },
+        {
+          "texto": "zelar pela efetivação do sistema descentralizado e participativo de assistência ao idoso; AC",
+          "posicao": [
+            717,
+            17
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            719,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            719,
+            147
+          ]
+        },
+        {
+          "texto": "convocar, anualmente, ou extraordinariamente por maioria absoluta de seus membros, a Conferência Municipal do Idoso, que terá atribuições de avaliar a situação de assistência ao idoso e aprovar diretrizes para o aperfeiçoamento do sistema; AC",
+          "posicao": [
+            721,
+            17
+          ]
+        },
+        {
+          "texto": "IX",
+          "posicao": [
+            723,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            723,
+            145
+          ]
+        },
+        {
+          "texto": "fiscalizar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados; AC",
+          "posicao": [
+            725,
+            17
+          ]
+        },
+        {
+          "texto": "X",
+          "posicao": [
+            727,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            727,
+            144
+          ]
+        },
+        {
+          "texto": "propor a formulação de estudos e pesquisas com vistas a identificar situações relevantes e a qualidade de serviços de assistência ao idoso; AC",
+          "posicao": [
+            729,
+            17
+          ]
+        },
+        {
+          "texto": "XI",
+          "posicao": [
+            731,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            731,
+            145
+          ]
+        },
+        {
+          "texto": "divulgar, no Diário Oficial do Município, todas suas resoluções, bem como as contas do Fundo Municipal do Idoso aprovadas; AC",
+          "posicao": [
+            733,
+            17
+          ]
+        },
+        {
+          "texto": "XII",
+          "posicao": [
+            735,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            735,
+            146
+          ]
+        },
+        {
+          "texto": "propor aos Conselhos Nacional e Estadual do Idoso e demais órgãos de outras esferas de governo e organizações não governamentais, programas, serviços e financiamentos de projetos; AC",
+          "posicao": [
+            737,
+            17
+          ]
+        },
+        {
+          "texto": "XIII",
+          "posicao": [
+            739,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            739,
+            147
+          ]
+        },
+        {
+          "texto": "acompanhar as condições de acesso dos idosos nos serviços assistenciais, indicando as medidas pertinentes, à correção de exclusões constatadas; AC",
+          "posicao": [
+            741,
+            17
+          ]
+        },
+        {
+          "texto": "XIV",
+          "posicao": [
+            743,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            743,
+            146
+          ]
+        },
+        {
+          "texto": "propor modificações nas estruturas do sistema municipal que visem a promoção, proteção e defesa dos idosos; AC",
+          "posicao": [
+            745,
+            17
+          ]
+        },
+        {
+          "texto": "XV",
+          "posicao": [
+            747,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            747,
+            145
+          ]
+        },
+        {
+          "texto": "estabelecer e divulgar o horário e o local de atendimento aos idosos; AC",
+          "posicao": [
+            749,
+            17
+          ]
+        },
+        {
+          "texto": "XVI",
+          "posicao": [
+            751,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            751,
+            146
+          ]
+        },
+        {
+          "texto": "orientar e conduzir o idoso junto aos órgãos de segurança pública, sempre que o mesmo necessitar de proteção policial. AC",
+          "posicao": [
+            753,
+            17
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.220-2024-sapl-27333.md",
+      "sha256": "f2645c6e06aeb7091f3a1a30f5d70f6c9ec235e8b782ec7eff772408dff6bebf",
+      "sha256_fonte": "0ddef40222550f7b48b176371d8e28da8dccaf9a2a1e8a72c8ed647321006b26",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/509740b17a67d9d05e46e1bca315d1b080e54731300a5bfabfac071d0316b43e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.219-2024-sapl-27332.md",
+      "sha256": "b65751eac5909c7b0248d7a97620a7bb589646bfdb91adc5831b76e5919ac083",
+      "sha256_fonte": "33564255f36439e8184e532061c470acf8f887a111bda3783cba7ac72716adda",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aac53bebac70a01873ced4cf99c1e5dcdc540d9f3e7ff8ba55e1769aca98e7a5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.218-2024-sapl-27331.md",
+      "sha256": "3373f2dcd9cfddca8906816d8a6557956f99fcbb796b83b8582323612b3cf151",
+      "sha256_fonte": "0af8da9bfc68420647e71e10c6f50d41b63f16c78dd9711d9f5556f25f6c59b2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8f42aa32031f08eb8e195e3388cd8c20d758aad7bd46ee4b54cf92ba2061942a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.217-2024-sapl-27330.md",
+      "sha256": "c54cad2fcbc78c02e598e6c2cfb96ab30a695ab4f940998ed6931f05a9a14e53",
+      "sha256_fonte": "761ec48cd118780fec3fef0839160ddbdb91282aaabb3275d5f1f1f440221386",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fad369a0a33af99ba4546543131899dcf671ad80d1a17b13f25bb7f162a09317.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.216-2024-sapl-27329.md",
+      "sha256": "6e3bff9480a89bb546681c6d80bcafc3d7e2f83172e4e0eb9e7774ebfb767cd5",
+      "sha256_fonte": "20dfe49d52af9ba5300aa1a50818bf83f32b0b12d26fe6410773c5a8fcb781ff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e7b01635177ef81c2580d1ff389a86cc7af18987b0fe3508d27c9eeb1e74e4ef.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.215-2024-sapl-27328.md",
+      "sha256": "c317b9032a608e7d51ce48f8f08ad66ad0a626818a4419957c5518eb82a54dc8",
+      "sha256_fonte": "0d583df7b288543c3e68fa85907184497b83aa5ce5f727934c81d189cf8ba706",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/93499e3693bfcb53197810f5dfb391cce8b1d26fe73f1c9b0296a904f6c9a9fa.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.518-2024-sapl-27171.md",
+      "sha256": "e072842c5c4d5e6e7820267ac95cbf3e70d4005643b119c895c61e49a5b579a9",
+      "sha256_fonte": "9efdfcaca7a41e1f2dede3bac2e74e69083a7951532d7cb58bf3ea71331a9123",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/56d182862755248490f9edcf3826081517f1c69e747e489724c1ce2d414ed23e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.211-2024-sapl-27326.md",
+      "sha256": "607cba35ee1506705a8a63aca35294b133d5971fe1841ec2c6402360a0ff6505",
+      "sha256_fonte": "333d5ce979578c96a2da6ab69d373bc784924b1103e0205c322853266fe6e4da",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9d84da66d36ddd67e143f7ce6b0bfb667e3e1c1fa9862095af9e0dd0ab6dd1cf.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.208-2024-sapl-27298.md",
+      "sha256": "de249903145ef0fe3e7346b232ff7e3dec43c393be586b0ccd1a7e9fdd8dde4e",
+      "sha256_fonte": "1fccd264f41df01aab25d7e4df327c342bbd3866aca9050c1ea51c87f442f74b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fdfa79c5a05cc997c87f62a2b99b6d1e7be0c11420db547d61a64116b6f7bc16.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.205-2024-sapl-27335.md",
+      "sha256": "19ee4b622083df5168da1fe30075a73a0fb1de4a78e6d3223502fdc3d315078a",
+      "sha256_fonte": "b4230429793c26cc5d049a113df07258628857557a8e394a252fb90733ecb841",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f08ea066f70e9d7cfdff9a2ca676246b73902103520686abe51f74d45d4002d8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2024/leis-complementares-994-2024-sapl-27258.md",
+      "sha256": "cd7d35fd246507ddb3d37ce12cf64a14db3e3c69a2d67202897fbd6d2a4ccbea",
+      "sha256_fonte": "cd0a7651342c1c7bcad2003147b546b3f1c72831965e73a8e0f530899b631e18",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8d1dad42019be73ffb5f8b35a1a757d3a25870262760f981e2287af0a9b79dcc.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "VIII",
+          "posicao": [
+            1535,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1535,
+            147
+          ]
+        },
+        {
+          "texto": "Bairro Lagoa Azul;",
+          "posicao": [
+            1537,
+            49
+          ]
+        },
+        {
+          "texto": "IX",
+          "posicao": [
+            1539,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1539,
+            145
+          ]
+        },
+        {
+          "texto": "Bairro Teixeirão;",
+          "posicao": [
+            1541,
+            49
+          ]
+        },
+        {
+          "texto": "X",
+          "posicao": [
+            1543,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1543,
+            144
+          ]
+        },
+        {
+          "texto": "Vila São João;",
+          "posicao": [
+            1545,
+            49
+          ]
+        },
+        {
+          "texto": "XI",
+          "posicao": [
+            1547,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1547,
+            145
+          ]
+        },
+        {
+          "texto": "Maravilha;",
+          "posicao": [
+            1549,
+            49
+          ]
+        },
+        {
+          "texto": "XII",
+          "posicao": [
+            1551,
+            139
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            1551,
+            146
+          ]
+        },
+        {
+          "texto": "Industrial – no quadrilátero compreendido entre as ruas: Aparício Moraes, Alto Madeira, Benedito de Souza Brito e Avenida Prefeito Chiquilito Erse.",
+          "posicao": [
+            1553,
+            49
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            1673,
+            142
+          ]
+        },
+        {
+          "texto": "A composição e funcionamento do Comitê serão estabelecidos em ato do Poder Executivo Municipal, contendo no Comitê uma entidade do terceiro setor que atue na área de habitação e/ou regularização fundiária indicada pela Câmara Municipal de Porto Velho, prezando pelos princípios da imparcialidade do mediador, isonomia entre as partes, oralidade, informalidade, autonomia da vontade das partes, busca do consenso, confidencialidade e boa-fé, subsidiado pela Lei Federal n.º 13.140, de 26 de junho de 2015.",
+          "posicao": [
+            1675,
+            49
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            2019,
+            142
+          ]
+        },
+        {
+          "texto": "É permitida a contratação da Caixa Econômica Federal ou de empresas públicas, órgãos ou entidades da administração pública direta ou indireta da União, do Estado ou do Município de Porto Velho, entidade sem fins lucrativos do terceiro setor cuja atividade fim seja o desenvolvimento urbano ou imobiliário, com dispensa de licitação.",
+          "posicao": [
+            2021,
+            49
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            2465,
+            142
+          ]
+        },
+        {
+          "texto": "Reconhece a Vila São João e Maravilha como zonas especiais de interesse social – ZEIS.",
+          "posicao": [
+            2467,
+            49
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.212-2024-sapl-27327.md",
+      "sha256": "7eb59bf54fb511b0d94e07b5e35a25b73a47e07c11c18dbb84b56d9d9a72c5e6",
+      "sha256_fonte": "7eeab8d8c71f50dab0ba44687deb8c23cb8d519c59f9d6db215189ae9a75af67",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c2b71b308767c1263a3edfe781cd8b27a84079f110ecbcd38e35913971d4120e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.233-2024-sapl-27001.md",
+      "sha256": "191a141956df38cf80dc6d79322f747294ff58e03ef4702fd8cbbc46d394f524",
+      "sha256_fonte": "72140bb9e85d0b6e9ddb982c88ae19a7ac69de122e0ab9d85f3c7e3c14467f4d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9034141871df376706518a1cfe798038151cf87f0e21d171eb51974d37d9d429.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.196-2024-sapl-27261.md",
+      "sha256": "b80f00f04e6f9c7470934671a3f1373f6e4cf23fa2e7d0e3bb3b9ad0caa00f29",
+      "sha256_fonte": "b2bbc422d7b5c5d08ccc07c6eddcdd068acd9ce009533e0a0b04e0753b3c74f2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3bf23b6fcff406270a6bbcfb3e3c2e7cfcfc74a5d99f565e3cf655b4c3e98f0b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

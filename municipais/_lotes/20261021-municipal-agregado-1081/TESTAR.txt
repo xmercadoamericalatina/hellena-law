@@ -1,0 +1,4 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_ta_sem_promocoes.py --manifesto municipais/_lotes/20261021-municipal-agregado-1081/manifesto.json --replay --saida /tmp/municipal1081-root-replay.json
+Esperado: 1081 replays aprovados, 0 problemas, apto_para_publicacao=true. Use saída nova.
+Teste do verificador: mesmo Python -I scripts/test_verificar_entrega_ta_sem_promocoes.py (2 testes).
+As quatro listas e recibos originais permanecem imutáveis. Não inclui novos lotes posteriores nem propostas SIJUT. Sem promoções ou substituições de canônicos neste agregado.

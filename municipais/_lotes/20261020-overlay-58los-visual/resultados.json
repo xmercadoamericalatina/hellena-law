@@ -1,0 +1,490 @@
+[
+  {
+    "documento": "municipais/BA/igrapiuna/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+    "sha256": "b58e09378e04d8f7d4813b3b1da47d095c060d81798d39ddbf978da5cb7ef8ae",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.igrapiuna.ba.leg.br/1.bin",
+    "sha256_fonte": "565e02ae427548f982ac8a8eec0003a97c873a01028d2cc8f34559a31d7130e6",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/BA/juazeiro/lei-organica/2017/lei-organica-1-2017-sapl-2174.md",
+    "sha256": "e060c2914aaf6c9e8834d7ff9508247821cb7856e5e47b446e8c197c548b72ae",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.juazeiro.ba.leg.br/2174.bin",
+    "sha256_fonte": "f71a2e7a363aa9ecaaee8b2a38e46d03a40d8494c7b84373d42cfd5ba106d269",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/CE/eusebio/lei-organica/2008/lei-organica-1-2008-sapl-2089.md",
+    "sha256": "2028eddbf6b902ca5f2f48df23752f55a4b2846d686f7f872f561e2549397f18",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.eusebio.ce.leg.br/2089.bin",
+    "sha256_fonte": "b87a019ccbd179db2796723c1944fead97c986a11f1f9afd8f02ae5aac5a19aa",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/eusebio-9.png",
+    "sha256_visual": "ae2318648f013a4e32404cadc357e6f007af4bdac6c7e6708c80e1d39591e862",
+    "observacao": "art10, duas redações anteriores riscadas, sucessora15vereadores"
+  },
+  {
+    "documento": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+    "sha256": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+    "fonte_pdf": null,
+    "sha256_fonte": null,
+    "estado": "controle_especifico_externo",
+    "observacao": "Capitais revisadas separadamente:Fortaleza/Goiânia HTML com histórico excluído; Recife/SPLOM PDFs sem candidatos e texto preto."
+  },
+  {
+    "documento": "municipais/CE/icapui/lei-organica/1990/lei-organica-1-1990-sapl-1373.md",
+    "sha256": "dc24f27caaf1d8b2fad0be37b661835ffc995e0a2322190112c6d7a7044f0e09",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.icapui.ce.leg.br/1373.bin",
+    "sha256_fonte": "07de6ea6598eb3edfcda353a98a5a2603b13b1fb6792a9bd06cdf31d06d56585",
+    "estado": "candidato_geometrico_falso_no_exemplo_revisado",
+    "observacao": "Icapuí:posição em coluna editorial sem risco visível. Ipueiras:todos14candidatos limitados aos7títulos sublinhados; exemplo p5 visto."
+  },
+  {
+    "documento": "municipais/CE/ipueiras/lei-organica/1990/lei-organica-1-1990-sapl-2.md",
+    "sha256": "766a45a61f52b1371c59e5361466ef7d6e5e121fe9be3349b9650e6db4b7f686",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.ipueiras.ce.leg.br/2.bin",
+    "sha256_fonte": "30d22e601d8f0589ce58d87a1da6446a27f267a3cabed3963fc9b1ba0523aa72",
+    "estado": "candidato_geometrico_falso_no_exemplo_revisado",
+    "observacao": "Icapuí:posição em coluna editorial sem risco visível. Ipueiras:todos14candidatos limitados aos7títulos sublinhados; exemplo p5 visto."
+  },
+  {
+    "documento": "municipais/GO/goiania/lei-organica/1990/lei-organica-goiania-1990.md",
+    "sha256": "8eb4e264cc9cbdddc14b09b551dc6ff00bcd444306b0d2793a5c4865f1cba762",
+    "fonte_pdf": null,
+    "sha256_fonte": null,
+    "estado": "controle_especifico_externo",
+    "observacao": "Capitais revisadas separadamente:Fortaleza/Goiânia HTML com histórico excluído; Recife/SPLOM PDFs sem candidatos e texto preto."
+  },
+  {
+    "documento": "municipais/GO/sao-miguel-do-passa-quatro/lei-organica/1990/lei-organica-1-1990-sapl-17.md",
+    "sha256": "702c7874287a448b64c1ede93da3b28c03c3395c89327523a51c0c228a6e4d9e",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.saomigueldopassaquatro.go.leg.br/17.bin",
+    "sha256_fonte": "ac71ec7a095377a778f8de9fd150bb4d8095548fd72923fcf7ffca77bfce6382",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MA/olinda-nova-do-maranhao/lei-organica/1997/lei-organica-1-1997-sapl-1.md",
+    "sha256": "62f340c082855f539b16aeb5d1595502e666c439f6878d288895e2fc3c807c17",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.olindanovadomaranhao.ma.leg.br/1.bin",
+    "sha256_fonte": "0542b473108e697e016a83ca34dda5724239ca84f0323ff4672ef666f30ee2b7",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MA/vitoria-do-mearim/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+    "sha256": "94c9456b7848a0078f9786ebe808b7640687772b7f7ca7dc45d826d91efef4c5",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.vitoriadomearim.ma.leg.br/1.bin",
+    "sha256_fonte": "aa06f3f61b7fe9f556e7397b6fcfe19b1818b62e9d8eec51f7b45425a7c5573a",
+    "estado": "cor_sem_significado_juridico_esclarecido",
+    "observacao": "Disposição em vermelho sem nota suficiente para inferir seu status; manter cor/rótulo e edição ou obter esclarecimento oficial."
+  },
+  {
+    "documento": "municipais/MG/bonfinopolis-de-minas/lei-organica/2000/lei-organica-1-2000-sapl-1245.md",
+    "sha256": "e9db268de2ebae9a1a14c89b68971d7f3bdbecf3bf6bb20f0c3e65b255fbcf04",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.bonfinopolisdeminas.mg.leg.br/1245.bin",
+    "sha256_fonte": "e34277221ef69230d9cc714cc14c7493f674a1a9bab7931536074c394ca9e3d7",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/cabeceira-grande/lei-organica/1997/lei-organica-1-1997-sapl-146.md",
+    "sha256": "f95a9617a3b27613e8166628e17726f2eea2288c5a4db36e18d8e483179132af",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.cabeceiragrande.mg.leg.br/146.bin",
+    "sha256_fonte": "3c6b96a6f9fdacef64a255740f056884e743d8afa2c2d17cfd0e844fffca1e2f",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/campina-verde/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+    "sha256": "e28a89bc016cf8f48ed50f411c8b8046f19ea3c527abf26009dc5ae2669feb38",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.campinaverde.mg.leg.br/1.bin",
+    "sha256_fonte": "c418b3405c1f6adec83a3e77876a3d44addbd483bb4e0bb60a05cdc73ecec1a3",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/campina-verde-23.png",
+    "sha256_visual": "9350cf3de60bf8e4e19bafa680106a3f046b25981fd30ea530d13414a0eddf52",
+    "observacao": "§1º art29, anterior13vereadores riscado e sucessor11"
+  },
+  {
+    "documento": "municipais/MG/dom-bosco/lei-organica/1997/lei-organica-1-1997-sapl-411.md",
+    "sha256": "f9e0e7850f63e2bd51ee54dc6c2540c532a20442beace9eac1e42f7aa0f13036",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.dombosco.mg.leg.br/411.bin",
+    "sha256_fonte": "de0254427fd71fe97c66b448675ee71e94642f1dc848b5e49fb87acf8b843155",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/espera-feliz/lei-organica/2000/lei-organica-1-2000-sapl-1340.md",
+    "sha256": "b44f7a7921bd717a87608b259f837fb81c8d1bf3538613f5eace76fb59a1da47",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.esperafeliz.mg.leg.br/1340.bin",
+    "sha256_fonte": "610f8390a20fa9b8a4bcd452cffa92f5eea1086b4999d0092e14cde63098e482",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/formoso/lei-organica/2006/lei-organica-1-2006-sapl-417.md",
+    "sha256": "27e2627e53570f064d8216fc6141f5cd6364a8fd3a484e62e9c1fde5ab3669d3",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.formoso.mg.leg.br/417.bin",
+    "sha256_fonte": "7c8005ca9a6abba3c965a2e475ba6aa3a8ebc5cd061c2a4a903cf0ab88e756a8",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/frutal/lei-organica/1990/lei-organica-1-1990-sapl-6006.md",
+    "sha256": "ae8406d56714704bf3b07eb1e27f7011728cf50087e51a43d6cadc8b9fa043db",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.frutal.mg.leg.br/6006.bin",
+    "sha256_fonte": "45489e241ba499501bb7ffddef054bba93a9066bb6949cc00153acbb80aa7398",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/monte-santo-de-minas/lei-organica/1990/lei-organica-1-1990-sapl-1049.md",
+    "sha256": "417d82b6c3367943bb355d28a03fc0d3a5705c67a4f875aeb2d692d36a7a4b30",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.montesantodeminas.mg.leg.br/1049.bin",
+    "sha256_fonte": "82cf202e9d34289e785dcff6283a11ea436f5b3423f53cf99956ba0de6ca8929",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/muriae/lei-organica/1990/lei-organica-1-1990-sapl-2.md",
+    "sha256": "68cf1176d01b09039ee6a52757922a3f8683a56d47e240b2a9ed70cf6576b55c",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.muriae.mg.leg.br/2.bin",
+    "sha256_fonte": "4ea1d1a9b7efec54199f7ac694562cbc124b8f3555e7d8904f888c83e0e6155f",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/muriae-3.png",
+    "sha256_visual": "68ffc6f450b05e660a5d2782ec9af3e87668c56bcf433f4cb07cbe1c0cae5ef4",
+    "observacao": "incisoX art6 riscado"
+  },
+  {
+    "documento": "municipais/MG/natercia/lei-organica/1990/lei-organica-1-1990-sapl-711.md",
+    "sha256": "b285923aa8fc781649ca3381b1a2751481309b41b3cea9afb5bcbb5077022bf2",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.natercia.mg.leg.br/711.bin",
+    "sha256_fonte": "be6d1df19a6080581f4d1b98338bc6f9052dcf2ce6efe55219044e5e51a47bd2",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/patrocinio/lei-organica/2026/lei-organica-15-2026-sapl-3059.md",
+    "sha256": "4a926406e9515733ca973181bad2fe4c49f3d383688965afef31741bd9a02760",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.patrocinio.mg.leg.br/3059.bin",
+    "sha256_fonte": "b126aec69760010047130fbbeae71dca8f1ef85339205d9147f20b64d058f00a",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/rio-pomba/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+    "sha256": "4f46829a6f3cd21c18faf4992d5b07bacc2a7258dab599ec4ff8ef66247eb685",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.riopomba.mg.leg.br/1.bin",
+    "sha256_fonte": "426916b4bb8132ce16f7cd96aab989412074a73bd54bb033a58ce8235b747341",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/rio-pomba-7.png",
+    "sha256_visual": "3bc0e18aeb044f6a4a523f1f0e41cfa326485ea995c9201eff7c584fdcf993f9",
+    "observacao": "art16 e incisoI anteriores riscados, sucessor e marcador REVOGADO preservados"
+  },
+  {
+    "documento": "municipais/MG/senador-jose-bento/lei-organica/1990/lei-organica-1-1990-sapl-131.md",
+    "sha256": "0dfd990a89f322746f3d97c94de721d72fac4f9e0ea3186ee6a3097c2080e57a",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.senadorjosebento.mg.leg.br/131.bin",
+    "sha256_fonte": "3a81b05b832b40df8f9533b6b7671d362e8bb47db5175b3d0860f937263f99a6",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/sete-lagoas/lei-organica/1990/lei-organica-0-1990-sapl-6062.md",
+    "sha256": "6fe1225032eb17c2cf19fb09e66526c51f7b22bd045dec6196bfbf6d3ad58aa2",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.setelagoas.mg.leg.br/6062.bin",
+    "sha256_fonte": "519e71277a3856819dd50c86c6ca0fd7c1aeb5fa8a3ef178c2afa2eaa6e4147d",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MG/uruana-de-minas/lei-organica/1997/lei-organica-1-1997-sapl-628.md",
+    "sha256": "756dc8c6086a09294540fc4f9bed92e752cc4566ada360bff8e9e078494166aa",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.uruanademinas.mg.leg.br/628.bin",
+    "sha256_fonte": "d7caee0843398e378cd016c18095ecc04094ade8a5988f743b0bcb76b83bbead",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/uruana-minas-13.png",
+    "sha256_visual": "2ace42e1506adf36058056db4ddd37e85f884977ce92b8671e0e1f64732bad5e",
+    "observacao": "§1º art19 e incisos anteriores riscados, sucessor9vereadores"
+  },
+  {
+    "documento": "municipais/MG/visconde-do-rio-branco/lei-organica/1990/lei-organica-1-1990-sapl-608.md",
+    "sha256": "b11dceb8138639a949071a01074066f4f4170e89bb6fbe023d20eab76b944b37",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.viscondedoriobranco.mg.leg.br/608.bin",
+    "sha256_fonte": "1454694091e3593af40468cb39780599bd00bfc227531dd77012addb6721138d",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/MT/campo-verde/lei-organica/2024/lei-organica-1-2024-sapl-4855.md",
+    "sha256": "30d8452d4b2ea3728ca62a612575bda033b690f4b7d86d0dbd07ef022a07d3b7",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.campoverde.mt.leg.br/4855.bin",
+    "sha256_fonte": "701eb89760d1e4bc086560dbf3657aa90a81ae9fbd0d7976828e4486d682baeb",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PA/parauapebas/lei-organica/1990/lei-organica-1-1990-sapl-2887.md",
+    "sha256": "6c49d3cd0f226b8f2a4658f4d6357520d46342a6778aa27463abfcd1ae5813ca",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.parauapebas.pa.leg.br/2887.bin",
+    "sha256_fonte": "8f31c788c7413bc8bd75440c87950cfa520148ea2d302e9eb3e6f3b160e63980",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PE/recife/lei-organica/1990/lei-organica-recife-1990.md",
+    "sha256": "0de130930f10a559b1f2b8a9f418c3f3c69c1e870eb09c7b799358d53ea418c7",
+    "fonte_pdf": null,
+    "sha256_fonte": null,
+    "estado": "controle_especifico_externo",
+    "observacao": "Capitais revisadas separadamente:Fortaleza/Goiânia HTML com histórico excluído; Recife/SPLOM PDFs sem candidatos e texto preto."
+  },
+  {
+    "documento": "municipais/PE/surubim/lei-organica/1990/lei-organica-1-1990-sapl-208.md",
+    "sha256": "38623f093c9f11fd74e2f7aa954568e7643aac5d116a950c02e3f44e748a0b21",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.surubim.pe.leg.br/208.bin",
+    "sha256_fonte": "018406aa3d520d00aba4317c6afed6ea533d28c62a0a890575e65491dcc2b68e",
+    "estado": "cor_sem_significado_juridico_esclarecido",
+    "observacao": "Disposição em vermelho sem nota suficiente para inferir seu status; manter cor/rótulo e edição ou obter esclarecimento oficial."
+  },
+  {
+    "documento": "municipais/PI/brasileira/lei-organica/1993/lei-organica-1-1993-sapl-78.md",
+    "sha256": "f7eb1450d478f786b9c6232bb45083fed653eba124215ca7b27b4f518319ab78",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.brasileira.pi.leg.br/78.bin",
+    "sha256_fonte": "cc99f5c3bd742d7e9e3139e670dfd66e2b77ef950961438ff9c2db0e7042381c",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PI/palmeirais/lei-organica/1990/lei-organica-1-1990-sapl-213.md",
+    "sha256": "d1dad728477983f0a9550a2599d5390ac2d349edbb4eed90a1fcc55632ba9b3f",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.palmeirais.pi.leg.br/213.bin",
+    "sha256_fonte": "9fbc83ae0f1bc1d8452d4d26ea52e06ceeac8e4fc91952a79efabd1b0e984a6b",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PR/arapongas/lei-organica/2014/lei-organica-1-2014-sapl-4839.md",
+    "sha256": "7effe37a29a5a7c7fedd7c9bd6f3eeed87644a68aa4c076ff36033d12095aff6",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.arapongas.pr.leg.br/4839.bin",
+    "sha256_fonte": "29549c48d2e36c0c42b6f93579767c52dea3177c78e8f98e55c13da3cd4d6dca",
+    "estado": "tipo_divergente_confirmado",
+    "observacao": "Epígrafe é Emenda à Lei Orgânica, não Lei Orgânica completa; tipo/rota exigem correção com controle de duplicatas.",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4842-1.png",
+    "sha256_visual": "5732f5220ae33ccd43a2fbd30fa8315590c2a6dd3a430edfb388372f2b4c8410"
+  },
+  {
+    "documento": "municipais/PR/arapongas/lei-organica/2015/lei-organica-1-2015-sapl-4841.md",
+    "sha256": "d4a63149bbfc112473aea969273ada6235a55094cd9d08b5ce06f02b125b5c4b",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.arapongas.pr.leg.br/4841.bin",
+    "sha256_fonte": "c725a6c1e0c8c3caef1b2cfc1dbc82dc4f77c9dcce0d834a3f31b41c925243ae",
+    "estado": "tipo_divergente_confirmado",
+    "observacao": "Epígrafe é Emenda à Lei Orgânica, não Lei Orgânica completa; tipo/rota exigem correção com controle de duplicatas.",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4841-1.png",
+    "sha256_visual": "b7b4da330558b9c3f8e1d294162a485588853bd29e1fa71fa3a2220a4d962574"
+  },
+  {
+    "documento": "municipais/PR/arapongas/lei-organica/2016/lei-organica-2-2016-sapl-4842.md",
+    "sha256": "04a6c6c67d5f5fb8289f704dde728147359c9cef50724fba21ec77eeaa4a7b5e",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.arapongas.pr.leg.br/4842.bin",
+    "sha256_fonte": "39c536f6f192b09f0bde3c3a476b26c2552c746b50fe1585e5104d2fcb62c789",
+    "estado": "tipo_divergente_confirmado",
+    "observacao": "Epígrafe é Emenda à Lei Orgânica, não Lei Orgânica completa; tipo/rota exigem correção com controle de duplicatas.",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4842-1.png",
+    "sha256_visual": "5732f5220ae33ccd43a2fbd30fa8315590c2a6dd3a430edfb388372f2b4c8410"
+  },
+  {
+    "documento": "municipais/PR/campo-magro/lei-organica/1997/lei-organica-1-1997-sapl-219.md",
+    "sha256": "66e2963106c584dde7abb044894f1e4ad7ce82971733dc0c3a40a5d70db99ad3",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.campomagro.pr.leg.br/219.bin",
+    "sha256_fonte": "5755eb368d200a54a9d193056ba5a6c0b38954f30ca9f5198cb23e0fdc10a10a",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PR/clevelandia/lei-organica/2023/lei-organica-1-2023-sapl-5.md",
+    "sha256": "91ac60c176472054434b424d56497c79165461f1ecae1263e77007286fa12274",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.clevelandia.pr.leg.br/5.bin",
+    "sha256_fonte": "ecd69b0de5099a776c348a953d594042ff7f7cfdda624ef26fa441c501291777",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/clevelandia-11.png",
+    "sha256_visual": "67640999649346ba93cc2723c382ea1e499339170e3e8b4d07e57d86f52c225a",
+    "observacao": "incisoXV anterior em cinza+riscado, sucessor votoaberto"
+  },
+  {
+    "documento": "municipais/PR/cruzmaltina/lei-organica/2000/lei-organica-1-2000-sapl-54.md",
+    "sha256": "dbc387fab1ed86e137857fef8ad79b35e0aec65a8223d901d5ac82bc99fcb960",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.cruzmaltina.pr.leg.br/54.bin",
+    "sha256_fonte": "e3ddc68260a36b45159fea8c1e0bbd4ebb4dca9d9ffc347c6b74b136d06e7faf",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/PR/jaguapita/lei-organica/1990/lei-organica-1-1990-sapl-2.md",
+    "sha256": "3124b6b244276109b78a0360343171a3a8c9dfd270819c5980d20d652221974b",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.jaguapita.pr.leg.br/2.bin",
+    "sha256_fonte": "207056f1375abbae63ae49d2670008ee842bf95649ad63f0061f828a43503cf4",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RJ/engenheiro-paulo-de-frontin/lei-organica/1990/lei-organica-1-1990-sapl-5.md",
+    "sha256": "4b5cd6f9d32b58cac466a01a9cbd0d93da9d515bd9f9964d409a69e41c147634",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5.bin",
+    "sha256_fonte": "52a14a9ce34d11f082fc313eb533fb47598d471a46a8c5b9ba73bfa6c0e7e2a6",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RJ/engenheiro-paulo-de-frontin/lei-organica/2023/lei-organica-1-2023-sapl-1444.md",
+    "sha256": "df93e1b9f10cc648473963cdc066784b9f17cd3632cecb7d4eae84b6bca813b8",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/1444.bin",
+    "sha256_fonte": "3a5ec1ad95c036329a982ace0d9cff8bf833964ea1bbe993d33301f8a0e870a8",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RN/acari/lei-organica/2010/lei-organica-3-2010-sapl-1142.md",
+    "sha256": "aac2c8dfa4811e2a5c2de6f907bc03ec0c511409d08f519d91b43f0c403fbf2b",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.acari.rn.leg.br/1142.bin",
+    "sha256_fonte": "1c6d35c021554e8185740cc0afa627b71dd24a88073d2d16af4573053d6d185a",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RO/guajara-mirim/lei-organica/2020/lei-organica-1-2020-sapl-1560.md",
+    "sha256": "08c20f9581c21a2539bedf06cd86ebe951e6a1011d3dded52520b8d946b35c2e",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.guajaramirim.ro.leg.br/1560.bin",
+    "sha256_fonte": "6f213612e236b95205ddcd17e5c700d8cefbf5000cb7601b16a6712a33c99a9a",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RO/guajara-mirim/lei-organica/2020/lei-organica-2240-2020-sapl-2636.md",
+    "sha256": "e9298ddeb3a5a666b29fae5276d17bba33832c4f7997ea97d91cb396dacad3ce",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.guajaramirim.ro.leg.br/2636.bin",
+    "sha256_fonte": "2ee42f56608b8a78c2f34353b52e611ec47953604f9500c7c08c1432546ad272",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RO/guajara-mirim/lei-organica/2021/lei-organica-2369-2021-sapl-2149.md",
+    "sha256": "1b8c7980b9bd9041e67e59806599c80bc27f9ab29da3f1d4aec7e3f4db51a392",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.guajaramirim.ro.leg.br/2149.bin",
+    "sha256_fonte": "2afee6e1bb20a0e9af9ca0d7b9e930daecffdadd3f6cc96895e3055473a66419",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RO/itapua-do-oeste/lei-organica/1993/lei-organica-1-1993-sapl-1.md",
+    "sha256": "4336e8f2f9fa9359395ecf979157cf8b13e4cc58382ad555ca3cc916d33ba12a",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.itapuadooeste.ro.leg.br/1.bin",
+    "sha256_fonte": "8d056360cef7845ea6d734c93235dc57e0c17bbbeee44f372fa9f69733254a68",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RO/sao-francisco-do-guapore/lei-organica/2008/lei-organica-1-2008-sapl-8.md",
+    "sha256": "599275f4710e272f7579c88f8bc750aa8d21a40b3e0bfc265eb7ffcd68a2ab51",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.saofranciscodoguapore.ro.leg.br/8.bin",
+    "sha256_fonte": "e3bb3d7d7ad03c9f7ab6e499112e9e4b64fd1438f2e436a66070715a9c27ea28",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/sao-francisco-guapore-8.png",
+    "sha256_visual": "28000f3caf70803773cab162ea724191ed20451686651998619d80cc631b6f70",
+    "observacao": "art21 anterior riscado"
+  },
+  {
+    "documento": "municipais/RO/sao-miguel-do-guapore/lei-organica/1990/lei-organica-1-1990-sapl-9.md",
+    "sha256": "494117040861446b161d454e2028b344670eb0c76c49ce130aa8367591033550",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.saomigueldoguapore.ro.leg.br/9.bin",
+    "sha256_fonte": "9a89e5218df164c23c3f3119f3c7e3b72bdee8842ffee38a77d9c1926dc254d2",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/sao-miguel-guapore-47.png",
+    "sha256_visual": "6ce8a01691b03b650236ed71ff645831b9cc8b894247e95a4dfae7614465eea9",
+    "observacao": "art132 riscado, nota literal Artigo suprimido Emenda1/2024"
+  },
+  {
+    "documento": "municipais/RO/urupa/lei-organica/1993/lei-organica-1-1993-sapl-41.md",
+    "sha256": "2c50f342fa45bc348883986ed21feb7b67a92c89c268c045a4c266b7e96d227d",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.urupa.ro.leg.br/41.bin",
+    "sha256_fonte": "8eefc4b3799464420001fd98e4710f301484050f54b2f3b7bc1d22fa3139a87f",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RS/marcelino-ramos/lei-organica/1999/lei-organica-1-1999-sapl-1.md",
+    "sha256": "dd21962f72fe134a75f14dbeb4f14964b424bdc4c7f50b9156a6374a1ad1afa1",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.marcelinoramos.rs.leg.br/1.bin",
+    "sha256_fonte": "eb49dff0be86f2fe5567bf45a80986fa08d45cdbdb32fbcf304d3e949261c625",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/SP/bertioga/lei-organica/1993/lei-organica-1-1993-sapl-263.md",
+    "sha256": "12d3e84d3ac5b86ab750ae0a9baf61f4a534239d1a7d77b9fdbe1eb7743e3378",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.bertioga.sp.leg.br/263.bin",
+    "sha256_fonte": "8af1fdadde9e3c9832925b59a2fc0aebeb8fa4d0b37a8b25f4beb77ccbcdadf4",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/SP/leme/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+    "sha256": "e55430f04885323e2f9698e4d6bcea26d06c9c46b5622a76f6b84769c8851592",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.leme.sp.leg.br/1.bin",
+    "sha256_fonte": "56600e840a11e6a00314b37a9205f2385f2688380eb25bbeb65ecb85041a0727",
+    "estado": "distincao_de_tachado_perdida_confirmada",
+    "exemplo_visual": "municipais/_referencias/auditorias/tachados-58los-20261020/leme-2.png",
+    "sha256_visual": "313ff88d24f3e2728d0bd4d9d6dfa69f9541cee00fd2980282c1c9a1af48a83f",
+    "observacao": "incisosXVIII/XXII anteriores riscados e sucessores"
+  },
+  {
+    "documento": "municipais/SP/monte-mor/lei-organica/1990/lei-organica-1-1990-sapl-2324.md",
+    "sha256": "dac2f011176865a6e7a4dd793f6f6c60de40da4fc8ce164a3d3196f42488ea4d",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.montemor.sp.leg.br/2324.bin",
+    "sha256_fonte": "f08e95df4921b6e41c140794c1f60a7c0d5e29a9b4b5445da61afcc135f2d3b5",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/SP/sao-jose-do-barreiro/lei-organica/1990/lei-organica-1-1990-sapl-989.md",
+    "sha256": "de6e3199a2c2d10b467e0ddd8de3ffce5d1b150bc478c454fa2f6b59f1c600e2",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.saojosedobarreiro.sp.leg.br/989.bin",
+    "sha256_fonte": "75ee1ce6979227169ff2b25471913079270dd5c6a1f6b604f53dda5ad571fd32",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/SP/sao-paulo/lei-organica/1990/lei-organica-sao-paulo-1990.md",
+    "sha256": "56ac0e0556af587e4dd5fd0827380048d9d4f3c315bd83629a46b68ca340da3d",
+    "fonte_pdf": null,
+    "sha256_fonte": null,
+    "estado": "controle_especifico_externo",
+    "observacao": "Capitais revisadas separadamente:Fortaleza/Goiânia HTML com histórico excluído; Recife/SPLOM PDFs sem candidatos e texto preto."
+  },
+  {
+    "documento": "municipais/TO/formoso-do-araguaia/lei-organica/1990/lei-organica-1-1990-sapl-493.md",
+    "sha256": "8a11487a143aaabdc1de02c1c591bcf7e413859f65d8b97069b652164783a258",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.formosodoaraguaia.to.leg.br/493.bin",
+    "sha256_fonte": "823935fe51877a8042fcb6c4ec5acf0e73e39bd918dd7d6c51b9fbfbb41882e5",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/TO/porto-nacional/lei-organica/2021/lei-organica-1-2021-sapl-2004.md",
+    "sha256": "b3510b454653dfe00eda8d307ce52e5a29ccd5aee3d88d864302bd2b2954addd",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.portonacional.to.leg.br/2004.bin",
+    "sha256_fonte": "6bb30d927c61e1e18a75f3a1480a2e37e51ec3cab9a20bc7f713cebdb62f8f38",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  },
+  {
+    "documento": "municipais/RS/agudo/lei-organica/1990/lei-organica-1-1990-sapl-2541.md",
+    "sha256": "668a2348567a7910fa89da507231cd24dab745797f359407990ea646cc09211b",
+    "fonte_pdf": "municipais/_fonte/organicas-sapl/sapl.agudo.rs.leg.br/2541.bin",
+    "sha256_fonte": "e3477e6745e9853b5d951a92ccbc1d658ccbbf1df8871a436a305482a8f37cdc",
+    "estado": "sem_candidato_de_tachado_detectado",
+    "observacao": "Somente triagem, não certifica vigência integral. Cores podem ser notas/títulos ou identidade, não decidem revogação."
+  }
+]

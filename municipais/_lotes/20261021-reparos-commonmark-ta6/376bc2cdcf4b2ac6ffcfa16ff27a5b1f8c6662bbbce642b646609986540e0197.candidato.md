@@ -1,0 +1,162 @@
+---
+titulo: "Lei Ordinária nº 20, de 28 de agosto de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "20"
+data: "1974-08-28"
+municipio: "Boa Vista"
+uf: "RR"
+codigo_ibge: "1400100"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.boavista.rr.leg.br/norma/807"
+fonte_texto: "https://sapl.boavista.rr.leg.br/ta/150/text"
+sha256_fonte: "684f1a2fd4b718a0c1d6f19152ea5a5542580cf946c7e51a53d926717ea8a633"
+sha256_texto: "703f3ee9d24df9e259de5d0e5474e17697c3542a4eb049571cc7cc49a0815bdf"
+capturado_em_fonte: "2026-10-20T23:55:26.128930"
+fuso_dia_captura: "não informado no timestamp original; dia literal preservado"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 20, de 28 de agosto de 1974
+
+CRIA AS SUBPREFEITURAS DE CONCEIÇÃO DO MAÚ E DEPÓSITO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+***O SR. JÚLIO AUGUSTO MAGALHÃES MARTINS , Prefeito Municipal de Boa Vista, Território Federal de Roraima, no uso de suas atribuições legais, Faço saber que a CÂMARA MUNICIPAL DE BOA VISTA aprovou e eu sanciono e promulgo a seguinte***
+
+***L E I:***
+
+
+Art. 1º.
+
+Ficam criadas as Subprefeituras de Conceição do Maú e Depósito nos respectivos Distritos.
+
+
+Art. 2º.
+
+A Subprefeitura de Conceição do Maú terá por sede a vila de Normandia.
+
+
+Art. 3º.
+
+A Subprefeitura de Depósito terá por sede a vila de Surumú.
+
+
+Art. 4º.
+
+À Subprefeitura compete:
+
+
+I –
+
+representar a Administração Municipal, no Distrito, executando ou fazendo executar as leis, posturas e atos de acordo com as instruções recebidas do Prefeito;
+
+
+II –
+
+arrecadar os tributos e rendas municipais, dentro dos limites de sua jurisdição;
+
+
+III –
+
+superintender a construção e conservação de obras públicas, estradas e caminhos municipais, sob a orientação técnica, controle e fiscalização dos órgãos centralizados da Prefeitura;
+
+
+IV –
+
+executar os serviços públicos distritais;
+
+
+V –
+
+coordenar as atividades locais, executadas pelos diferente órgãos da Prefeitura.
+
+
+Art. 5º.
+
+Fica criado, passando a constar do anexo III da Lei n° 5, de 09 de novembro de 1970, modificado pelo Decreto n° 35, de 08 de novembro de 1973, cargos em comissão, símbolo de Subprefeito.
+
+
+Art. 6º.
+
+Ao Subprefeito compete:
+
+
+I –
+
+executar e fazer executar, na parte que lhe couber, as leis, resoluções e demais atos emanados dos poderes municipais;
+
+
+II –
+
+promover a fiscalização dos serviços executados no Distrito de sua jurisdição;
+
+
+III –
+
+propor ao Prefeito a admissão e a dispensa do pessoal de obras para os serviços da Subprefeitura;
+
+
+IV –
+
+prestar contas ao Prefeito, na periodicidade estabelecida, da aplicação das rendas à disposição do Distrito;
+
+
+V –
+
+prestar as informações que lhes forem solicitadas pelo Prefeito ou pela Câmara Municipal;
+
+
+VI –
+
+indicar ao Prefeito as providências necessárias de interesse do Distrito;
+
+
+VII –
+
+apresentar ao Prefeito, na época própria, a proposta orçamentária da Subprefeitura;
+
+
+VIII –
+
+apresentar, anualmente, ao Prefeito, relatório circunstanciado de suas atividades durante o ano anterior e dos serviços de obras realizados no Distrito, mencionando a sua extensão e seu estado atual;
+
+
+IX –
+
+apresentar ao Prefeito relatório das necessidades do Distritos e dos planos que pretende executar;
+
+
+X –
+
+superintender os serviços de obras locais, de acordo com os projetos e planos elaborados pelos órgãos da Administração central;
+
+
+XI –
+
+arrecadar os tributos e rendas municipais, dentro dos limites de sua jurisdição, segundo orientação da Divisão de Finanças, recolhendo à Tesouraria da Prefeitura, na periodicidade determinada, as importâncias recebidas, procedendo à sua escrituração e efetuando, dentro dos prazos estabelecidos, a prestação de contas das importâncias arrecadadas;
+
+
+XII –
+
+promover a execução de serviços administrativos necessários aos trabalhos da Subprefeitura;
+
+
+XIII –
+
+exercer, além dessas, atribuições que lhe forem cometidas pelo Prefeito ou pela Lei.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Boa Vista, em 28 de agosto de 1974.
+
+**JÚLIO AUGUSTO MAGALHÃES MARTINS**
+
+Prefeito Municipal
+

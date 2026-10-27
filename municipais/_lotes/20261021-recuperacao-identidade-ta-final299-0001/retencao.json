@@ -1,0 +1,23 @@
+{
+  "candidatos": 1000,
+  "aprovados": 299,
+  "retidos": 701,
+  "jurisdicao": [
+    {
+      "path": "municipais/RS/erechim/leis-ordinarias/2018/leis-ordinarias-206-2018-sapl-16492.md",
+      "sha256": "2a348b1aa568ceafff54a943cbec7b805c4777a55ac096565b3bd1244afe81e6",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/RS/erechim/leis-ordinarias/1997/leis-ordinarias-175-1997-sapl-5381.md",
+    "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3314-2025-sapl-28409.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

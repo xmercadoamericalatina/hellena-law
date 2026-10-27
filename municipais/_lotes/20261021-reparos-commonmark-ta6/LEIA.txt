@@ -1,0 +1,7 @@
+Seis candidatos privados, sem mudança de canônicos. Não publicar os destinos atuais antigos.
+O mapa promocoes.json relaciona destino, SHA anterior, candidato privado, SHA novo e backup integral. Promover somente depois de confrontar a preimagem e conferir o SHA novo; os seis reparos alteram apenas delimitadores Markdown e sha256_texto.
+Replay integral independente comparou cada candidato com o HTML oficial ativo, inclusive pontuação, sinais, numeração e notas. APIs de norma, Casa, IBGE e contexto conferidas. Nenhuma decisão jurídica de vigência.
+Reprodução antes ou depois da promoção: /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_reparos_commonmark_ta6.py
+3 testes, incluindo os seis casos reais e arquivos de preimagem congelados; os testes não modificam destinos.
+Depois da promoção, auditar_municipal pode ser repetido com destinos-apos-promocao.paths.txt. Antes dela o teste de formato dos candidatos usa seus bytes privados com a rota proposta.
+Não modifica controles/listas congelados anteriores.

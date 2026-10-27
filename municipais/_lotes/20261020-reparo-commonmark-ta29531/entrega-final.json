@@ -1,0 +1,98 @@
+{
+  "candidato_privado": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+  "sha256_preimagem": "af15d78bb335acb0d119e2e81d037e7296dc20f02d232907e9d4487557155d09",
+  "sha256_candidato": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.json",
+      "sha256": "5eecb245a6ae3f33fc7ecbcc569bbdeb8d3bb2391aa5f5c8a99045b0178b3298",
+      "bytes": 733
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.meta.json",
+      "sha256": "4134febee01e7c4d1f84807ac8092ab90266f625b036f787153e8ca1b4a9869f",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4c787cc528f7c78023cb370221a31acb3a5bc8a83cfa575a3df4d818767471d4.html",
+      "sha256": "66d78e2842a417d749b1093b225193735d3d3900e9db26b821db9c2f5b3453e9",
+      "bytes": 31196
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4c787cc528f7c78023cb370221a31acb3a5bc8a83cfa575a3df4d818767471d4.meta.json",
+      "sha256": "becdb2af5589a9bfeb63e00ffc7af33bfc1e94b31d92036ccafeee085dc4c615",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/6a3a1203dbde6f3df283a8de194ecac819562652fb728e945feda58f120d9c9c.json",
+      "sha256": "fb31a54a5813fbeffcb4111ff44b712932927fa6ad5ce88b1e55dbd7f7e3cf52",
+      "bytes": 912
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/6a3a1203dbde6f3df283a8de194ecac819562652fb728e945feda58f120d9c9c.meta.json",
+      "sha256": "d63cde768c542148afcb5631036a7768b5b6b2cd5c329ce95fc279543c8b1cf7",
+      "bytes": 361
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f671c72ba9f11fa68b3ba1c7c0d549534e1967d6c8a6d01a8ea8f763d08b0cd6.json",
+      "sha256": "12d43f4bc3e60675ce92efca8c1fb9823773101e9fa14a51440e90e98017fd8b",
+      "bytes": 63653
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f671c72ba9f11fa68b3ba1c7c0d549534e1967d6c8a6d01a8ea8f763d08b0cd6.meta.json",
+      "sha256": "5d2d02d33d3f789d26545cf3086e184585427a90e0ffb9fd0726cc13c150ad59",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/artefatos.paths.txt",
+      "sha256": "783ac06ae7ca2b8e933819702ea38bad1d7f1b4303a075159bf4695dcd70db86",
+      "bytes": 1630
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/candidato.md",
+      "sha256": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca",
+      "bytes": 6642
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/formato.json",
+      "sha256": "5b61b2acb07a3f29bd32089ff067d46f50e61fb3f7d864a2fc04cc984a26cb2d",
+      "bytes": 34
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/manifesto.json",
+      "sha256": "8292fd78ad405fbe7bb3a7ece7c96b636ae50d50d31707f5e3c1ad587e174755",
+      "bytes": 1602
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/preimagem.md",
+      "sha256": "af15d78bb335acb0d119e2e81d037e7296dc20f02d232907e9d4487557155d09",
+      "bytes": 6642
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/renderizacao.html",
+      "sha256": "a75844ee2c0bec1ce76e5165484a0f9f2365c0908f7405e8f513502d760aa966",
+      "bytes": 6142
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/replay.json",
+      "sha256": "25f1fa5f33c310431a2e080e2ce3f8d8a8a92ea8d61f6c4b6d420ae88eaa2b1c",
+      "bytes": 1125
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/preparar_reparo_commonmark_ta29531.py",
+      "sha256": "6bc99bca2d816a4a37d4cc9984671a784735d481cddf3e3b38898a31abcfab44",
+      "bytes": 3603
+    }
+  ],
+  "validacao": "Replay independente integral aprovado; formato sem erros. Nenhuma palavra, número, sinal, pontuação ou espaço foi alterado: somente dois asteriscos mudaram de posição, além do hash de corpo. Pacotes anteriores e destino continuam intactos."
+}

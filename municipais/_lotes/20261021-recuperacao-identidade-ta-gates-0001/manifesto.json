@@ -1,0 +1,149 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 3: também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1000,
+  "aprovados_nestes_gates": 537,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acari.rn.leg.br.prefixo.jsonl",
+      "sha256": "a8b6884936515b3baa90871088d9398636d4d1996142eb9d0e17704ae3bf805a",
+      "bytes": 525541
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acari.rn.leg.br.tipos.json",
+      "url": "https://sapl.acari.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4f88396d20e68fb7c5044a1f5d63c0caa43fc6bf2314f48672db2fd3924c5bb2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acari.rn.leg.br.anexos.json",
+      "sha256": "4662f5e4915f65729807fce4dd9b97ab0ed3d1be5a4b61d65d5470e0f38c1f47"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acegua.rs.leg.br.prefixo.jsonl",
+      "sha256": "81d30234930091440bc1f2368ce8f484c57ce88661c03d5c37433e27cb5b05a2",
+      "bytes": 6081
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acegua.rs.leg.br.tipos.json",
+      "url": "https://sapl.acegua.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "ee5c1082c326533e3ed90eb253ee9e231a412a2aaaf0b810006f5889a5ec4c36"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.acegua.rs.leg.br.anexos.json",
+      "sha256": "ebe507b56ae34eca278f23e606417985b4844c441806127214aee712a03f55d2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.aguaboa.mt.leg.br.prefixo.jsonl",
+      "sha256": "60abdc3bfa730085c33c0d0d8d99f87317a4f8dd2f2463382a0143037579d05e",
+      "bytes": 3173
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.aguaboa.mt.leg.br.tipos.json",
+      "url": "https://sapl.aguaboa.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8af6f54c45ec21e47c835f9b66bbb9b64f3c7c0004319621e1dce1b47ec6fe9b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.aguaboa.mt.leg.br.anexos.json",
+      "sha256": "4b2f99db0d98ac70206d636e5c5184e58485793e84fb08858f9f74946f05901c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.boavista.rr.leg.br.prefixo.jsonl",
+      "sha256": "5b727ae51f8883c52a31f816f59e00e19d1b0105c863d6d041ff872bee696588",
+      "bytes": 81305
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.boavista.rr.leg.br.tipos.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0c320af5e9ee32450223096d99ab63c27e761a50a1a3f6deaa94d492a011553b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.boavista.rr.leg.br.anexos.json",
+      "sha256": "9266d89b4a6994e8f7c6b62357456f9f111b639de9dca5491c63170a72f871c8"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.erechim.rs.leg.br.prefixo.jsonl",
+      "sha256": "43f0f6f73f9f94671256260497d3aa921057f00a29f6e9a365388e4bdf407159",
+      "bytes": 652190
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.erechim.rs.leg.br.tipos.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "54baddcc16776318bee730a3df6816bdc839a504211f37d2080b78a6e7f27fbf"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.erechim.rs.leg.br.anexos.json",
+      "sha256": "20f50de24f24030b12ab268ef5fc24f9887eba212a8746d4dcf2636bfa4becd9"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.fortaleza.ce.leg.br.prefixo.jsonl",
+      "sha256": "28b6e308d8995a2cd209cffef61b157211f828533483b2575af240ae6f561a87",
+      "bytes": 61875
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.fortaleza.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cc738081c5fd74d82ed6686ffa44e0e160436b11c6323dbcd36a28572346971b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.fortaleza.ce.leg.br.anexos.json",
+      "sha256": "a404a71cb9e4081b89f11098f51838393d94c7f4d858994fd33a58b33d60ef7f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.patobranco.pr.leg.br.prefixo.jsonl",
+      "sha256": "7bb91f53c9fa09eaae11cee5efcf9343b8181f9f470f3d915e872d7bc7cec411",
+      "bytes": 11554
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.patobranco.pr.leg.br.tipos.json",
+      "url": "https://sapl.patobranco.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "263c55707e1c6b4b5b95a8aab7ed0db470049f0a85a3c1f93a0af418eed8ea27"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.patobranco.pr.leg.br.anexos.json",
+      "sha256": "93598bdf6f87126490291543d683f2118689c272750bfe0e7c72747a09ca74b4"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "bde61a948c77d47a7750ecd640390f439a4bf10e4ca3c79cecc4213f1226e3c2",
+      "bytes": 1774369
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.riobranco.ac.leg.br.prefixo.jsonl",
+      "sha256": "647dcd29d380e090a5e6b115b0645a40a968e8853f96170eee53b45ae77d4a8b",
+      "bytes": 35073
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.riobranco.ac.leg.br.tipos.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d88103444ba7b6fabeb2820cdb47f6d84fd27bbbe7387809c6679e0c79f030d4"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.riobranco.ac.leg.br.anexos.json",
+      "sha256": "811dbc9f2a1456cb674e4f4873263f5544aea621139491f88d6cef96c55fcc7a"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.santarem.pa.leg.br.prefixo.jsonl",
+      "sha256": "282bb714d8418a4f87ed95d1a124c4da64f5988016ab38f639bb272a0fc9e256",
+      "bytes": 129703
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.santarem.pa.leg.br.tipos.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5152aa4acf6d603340ef2bd834b112c332d7824b079c1b39f65d7670f03a3b37"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/sapl.santarem.pa.leg.br.anexos.json",
+      "sha256": "8d592bf21838e5ca92ded42ba536ea4786f58e0fcceb8651ba7b45366929d57d"
+    }
+  ],
+  "script_sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

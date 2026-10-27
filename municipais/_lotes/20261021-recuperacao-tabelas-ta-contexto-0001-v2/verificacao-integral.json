@@ -1,0 +1,2160 @@
+{
+  "arquivos": 269,
+  "aprovados": 269,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22538-2026-sapl-29880.md",
+      "sha256": "ea7e93ea3112ae180c8314d4be50a218a97452fbfda1d6a421462ec50ed714a3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "175a40f479d837da2acba778a284f33549c92b22cc89c15935749631db762b99"
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.403-2023-sapl-4.md",
+      "sha256": "a9efae768ed27458a70f16650a871eb26e60434fbf7820d5903c2ab94dfd2528",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "c2a43236e266c9d72eba31948aa86e1a1c636ed1a38ae934fadc5be249a3fef4"
+    },
+    {
+      "path": "municipais/RS/erechim/leis-ordinarias/2020/leis-ordinarias-6689-2020-sapl-18530.md",
+      "sha256": "10d5e9f2fbfc7ac65ddacde78b8e3adf1ebcfe85949924d2b3ceb47b1e209d54",
+      "aprovado": true,
+      "dispositivos_ativos": 56,
+      "historicos": 0,
+      "sha256_fonte": "35f2adcfde7d070ea0e22f2d48e9525a6268d060a8dad783e4755217cee620c8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22536-2026-sapl-29879.md",
+      "sha256": "ed6cd2ae06fef830e4c6fb7274ef448473793d04c51c7ac089f1ca44c27b9977",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "7d9c4a52cd6b1a9b98dbdb49efa63f8d7ec6e5537a0ef2341836cf48ca96a166"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-23-2021-sapl-1088.md",
+      "sha256": "a5a360ed579b21d38a1340843b8514ca39184e01c602513fc7619aa46d6b6f05",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "1e428a8b16278476643ad673720919a5d01a72d21c2f00362d506e9482e501e0"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1565-2026-sapl-98.md",
+      "sha256": "1916727e775df97419a67f9fa4fcbd75e2f2c5ffc574be9711856cb34a550e5c",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "be0565bed16e52a97e59894da96814d95a648a022de9cc2d4e41057d1a4e58b0"
+    },
+    {
+      "path": "municipais/RS/erechim/leis-ordinarias/2020/leis-ordinarias-6686-2020-sapl-18509.md",
+      "sha256": "91ba5cf848ffb7d8aed06afcca63b36ca178a8bdce51fe3bbf3b198a21e1eac3",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "c1bb1e07e9054735cef14ad99564b21826f4afb25103c764c14919780aac6440"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-22-2021-sapl-1087.md",
+      "sha256": "4ef4dc269081256b1e50ef281e69f9dd5a4b8ffab958931bdc3ebe032db4ed62",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4877d747b77c05dbfd773b284b34e2504409a777af357a0bf71868441545ff68"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2026/leis-ordinarias-1411-2026-sapl-1205.md",
+      "sha256": "99588f038afcc0f70aa584cbb804b34cebdae97bd230aef681bb930a7e958522",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "50bdf949547b9eb651f11118257338e28f299430003b52188378374c4ee655ac"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-21-2021-sapl-1086.md",
+      "sha256": "569cc849e7a7756752966d0c884811e06121ba771a0a1c63e48eeca482a83b88",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "6960be1642f2777886a783f2e8b77910da4e3cefa4e6eb75dc3a19aefabe1e16"
+    },
+    {
+      "path": "municipais/RN/acari/decretos/2026/decretos-3-2026-sapl-1201.md",
+      "sha256": "85ab134199b8adbcbbc4919e2617b4e93e8ee1077c1f27dcd01af2761f6fcbc5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e6756a09812a30ad3ad8d4c4bd634e487af20bbfd1cdbb5d2535623642005714"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2022/leis-complementares-325-2022-sapl-13395.md",
+      "sha256": "d2a03e86f5f2f408dc67bc26179bd24e29dcba2fe4e87090c003ee1778c5501c",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "38516d60fc7635d72fe78b943c7873acbeb6f9dd7733de79f7c51d6839bbc99a"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-20-2021-sapl-1085.md",
+      "sha256": "563dee27d720e3ba501e2431b3bffc88b06b1b91ac505dc507b60299fd02dd44",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "9d5a997fcadff1b40c69316a0cb9f1c752bad89653b555233d37e072a51197c2"
+    },
+    {
+      "path": "municipais/RN/acari/decretos/2026/decretos-2-2026-sapl-1199.md",
+      "sha256": "48bca7e87de163288965deb7d9fcf0ece0d4daad338e50a7dbf35032aad82d22",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0f8fd72a47039c40315ee04b9509869a0835ca2e08d1cae20d2c5de54cc44a72"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1716-2025-sapl-3407.md",
+      "sha256": "610f8310036c30693c577fc6bf182674244bcb1b706845b8759ecae61b99ee05",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "38ba5d04be78f620eab7deb8ad9a22bcd5fff8bbb6e733caf9c7f15aa86c8052"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-19-2021-sapl-1084.md",
+      "sha256": "a9f6899409318adb685c69c6d09be3d5151e29b9babfb4e8c9052dc6f0b29cb8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "1e335c8fc6e7ccaf932e850134fc6247f3ff2da57f617dba40869d2dd8dcaae6"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1541-2026-sapl-18.md",
+      "sha256": "2f7c1e204995279c2f05c3fe83d9fc9733082316cf7d5838d0b9cb387db40b78",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "63ebe885cc6c3ea6849692b6991fe07cc7101b39bea90a2234c3a4b711add0c0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1679-2025-sapl-3262.md",
+      "sha256": "2c2714ff52ab85cf1060a51e712ebccf3e7d26fef8d949c6c01014438ba19ccc",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "360e6a0523c7b2b46137fa114265c8db638d87f33f0c9e51bc88e668f7006631"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-18-2021-sapl-1083.md",
+      "sha256": "980fd06d21cf609d2d7b294e3104c3871e1d15270304344f13e8ec471bdb5944",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "2593762d25342b5bf7ef0e85f6eca8f87421bbb01854b9f0206b46ed79218f9f"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-17-2021-sapl-1082.md",
+      "sha256": "778b46597d627a374da0cf0c3c3b9ec42b9e8013f393214d542223ca17be47d0",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4cb6087572c36d14859da3a0d198c81e48c5b91bdc20ef1fdc36d9fd28c62b06"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1543-2023-sapl-2279.md",
+      "sha256": "63ae496c3977f7c0a2a008a09fce9f354ec7b233b568043c4f3c9a961ec28a93",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a1c30a09620ffbdf97aff6357e32180acd13293c105034f6c26d090ca01e2789"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22524-2026-sapl-29869.md",
+      "sha256": "bab0b83cf1e65dc79934f674ac0e799ff178750aaad3df2335e49bfc7c3c9a86",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "62372593996d5327f57f4d9b8c5d00b47f3986faaecddb7e01f0efc58f327fbc"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-16-2021-sapl-1081.md",
+      "sha256": "fda320cd7f202b3ae39d03fd918711d1e09b86a71fda6182b494168208690a75",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "491a5c35e66c1ee77f2a63d178ac385e9b7c31a7e621cdd9e4c1f5d04feceabd"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2025/leis-ordinarias-1403-2025-sapl-1181.md",
+      "sha256": "246ad25a96309b8835f635b43ef298cad64cca11434cf746a9d81cb685c53145",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "ffed954dbd7af29ae647a1d0e1f640955b4b41e26c032897e6ea0291accaaa2a"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1537-2026-sapl-13.md",
+      "sha256": "be9d106b669c3ee2cfddf011f2aed3471f817ca3a24a293dd38918ffd961be6f",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "ac31a703239f71bb4950d5c8e150cb56aab8d7f8a968c62f24868003e25873c0"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-15-2021-sapl-1080.md",
+      "sha256": "9a35aa1f5105aae2c88db77f339d1c1f67eab701ba4bb4df849908604a3f34d3",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "aeaf1eaa40e045a11fc0beac03f0163aed82371e5d2d8ddaa64e0394b77d4937"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1393-2022-sapl-1710.md",
+      "sha256": "a289169ec440201cc119b808be79007392e290ab7b26ad81b28f70973baacf50",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "dd497085dd37487a53d25a0bb1d5c378643cfccbf2bff929f5deb546a808c1fd"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-14-2021-sapl-1079.md",
+      "sha256": "78a6a5c6efeac34c2727651809f0b904d8ce1637c2e5e40ae833060cf96b5ee7",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "105cf11bbdca757dd8daf0366206882b6801c77fe4003924bb4eefb99d20af48"
+    },
+    {
+      "path": "municipais/RN/acari/decretos/2025/decretos-5-2025-sapl-1059.md",
+      "sha256": "a3910467b4183880f0058f7bfb1a539b18a0b2d14f46e120a1014c06f5164c53",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a8699c4ab1e01df3a65405bd677635b92b2ab8b24eda49b242a85de226d8d9db"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1378-2022-sapl-1586.md",
+      "sha256": "53f2270b7443f22375db24d0047e3c6a7989e1bf6e958ab80374aeaa52e39d5c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "6a4e03b5bcd81db22c8425f9c28cb8b2887a175ceb102379f538dc0e3fa1d5b5"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-13-2021-sapl-1078.md",
+      "sha256": "5cf327ec1dce660d9e30b1ab9ac61bede91737a83758fa1f224d752d755cfd08",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "e49791494e7850ccfe5d6beeac6a788cbba93462f0367a7bffc254fb70e5e703"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-12-2021-sapl-1077.md",
+      "sha256": "1577ca92363b2ce2433ede8c4ff6bc00c3e839cedfdeb3607f01238cb6bff9b5",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "9014abbbf5f5d30e7408af32e2a33f5eaa234249c567508c30551e2cd1bb3eaf"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2024/leis-ordinarias-1407-2024-sapl-49.md",
+      "sha256": "656a10abb7f21437ab56b61f13d35d216c98d5190e2a21a9b87b90a3756b55be",
+      "aprovado": true,
+      "dispositivos_ativos": 60,
+      "historicos": 0,
+      "sha256_fonte": "44d7fe662ceffc07b0d74e6df4ad24309dc9b483e91fa460c48ff29fad86fe34"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-11-2021-sapl-1076.md",
+      "sha256": "742e76fe9cd54cdc8292a71f9a439d3ec4090380b948fa180d9f9e5efa32273a",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "008d45a112e40d54b7697b65d5e9b415f919a3e08a9010b0a40ce8518d6c68d1"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-10-2021-sapl-1075.md",
+      "sha256": "415ba5557594d62a6e3e1641dd94a6876073f9d111d30808c4caf354bd0548a6",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "e2b7e2a9802f457e7ea56c0d0005ef08d2067a34a3360bd1d6e84f43aeadff46"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2022/leis-ordinarias-1342-2022-sapl-45.md",
+      "sha256": "b43e6a27e2051fea1a6b5f768d6100d0f55c22481f2e71ea49f6a4e57efe325a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "678af56787b9fa2babf37115066114f656385bfb96f6ed4440066bf2906c3ce0"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-8-2021-sapl-1074.md",
+      "sha256": "21e641cd1a725bcdaa85e9bcbdbf2488bbfa06d1e53e8fde3455ee22fc2f8d44",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "bc410ab7c7604eaf007557018f40482353b7fc703a918ad86e40003dbcf80087"
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2024/leis-complementares-22-2024-sapl-879.md",
+      "sha256": "9e8d9dac8e76443522f399461d9895c7b166a4c0f8716d1106928019de218ea2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e544c891e63c10c60a149cfce6f0af102b73a2ee9dbffb1027eae8b6374697dd"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2022/leis-ordinarias-1331-2022-sapl-44.md",
+      "sha256": "f84bb64656f583b390eba5fa725e9250cb4c4c0f5dab92618c91e00da6dcfac9",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "762b1cc946e4bcabe604b658a258fc39ef92e10efe26ed1e3fdf6a71b4ad2645"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-7-2021-sapl-1073.md",
+      "sha256": "a4e69c03f7ea83d8ffced1774e832839ed9b6480f4fa62b4a19940a99f4aae08",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "f71a76737e84ea7f312c86e977158e252d43ef109a25cbf5aa33ad7ee8e111d4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22507-2026-sapl-29837.md",
+      "sha256": "1ed39a4c6d8e22db42596b804eeee5ca5ce7f41f44ce8df30fda1ab2bc90638f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "f99159310733cf8e03a0ec7ca3706dda17bff7a52a16ede2d847001e3b4e9ca3"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-6-2021-sapl-1072.md",
+      "sha256": "bc00edfb81a95291e104b2d7bfb321fdbcc86eac3792052ca32dde1e1fcef92c",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "fecf8ab76fda00317beb730721f3938de058b71f9d1cde75c88bc2385c8fe882"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22506-2026-sapl-29836.md",
+      "sha256": "1e007997f6aa92a6660b487a74394356b2f28f26461cf90e27d41d833845f152",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "b4693c79cd347207ea9fc548ee3e62f7cf7dd495c655e70ac6262ed57f2a2e0e"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-5-2021-sapl-1071.md",
+      "sha256": "6a86ee12df674d064243b124293d8a8f22e38226f9088beb2b1119dd0441593f",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "35b68c26bce8c20ebf19818ef3156197f544867af85b4e269bcad15d22f2da77"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1306-2023-sapl-778.md",
+      "sha256": "113f6e25ba847fe708ec9c2066fd48b4586da37f26d0d949a2d418eb14e23c49",
+      "aprovado": true,
+      "dispositivos_ativos": 44,
+      "historicos": 0,
+      "sha256_fonte": "df362fd3e85d210d75ab1de5e95ed4269be49f27fccf185fafcb4de932d9b4f0"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2017/leis-ordinarias-1096-2017-sapl-39.md",
+      "sha256": "a57c8f1ed73ad66a632364ab3c6f0790878a48b9f943058a6a327adc4e0a7ab1",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1629a6e7f40d294f212c6cbc6fa8b24e388d985bfc1ee697f32369a3230b7267"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22505-2026-sapl-29835.md",
+      "sha256": "7839d838bffd9fd95a69e6c873060b43b2da1fe95dbb80c4d542110e9c662b3f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "37eba800d34a667b39014cc90ca908c35ac8c6a43bd5a227372e7a50590d3326"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22504-2026-sapl-29834.md",
+      "sha256": "05fdc6cbedc324fcb601c127f39a162bbf4e85593d6d6c571bedb584bbb55871",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "03f556b79e13aa2b4bb77a44fd6bfcea054154107d9b98e8119e24186a127132"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2021/resolucoes-2-2021-sapl-1069.md",
+      "sha256": "b1d1684a23bd508e84ba7e8a18351cc4bcbe0b0370402ebdb44ee2eb490639f6",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "5c8c2b21111d349fb2087ae65e4b84951d24d6ef8adb42ad18243d48b1f9c88b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22503-2026-sapl-29833.md",
+      "sha256": "3dd282e648d0e465fc82a4d82cf99888b8812435ba356691d27bb7d21b612c8b",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "ced1b6568db3f4a3174aa0fbe491cdf127e7e8ab25c8660395633daf7cc9f4a3"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1300-2023-sapl-771.md",
+      "sha256": "362ca5281f0fe5fe9af724107280b2f6d81a4afcda163be4bade73fb20a1cff8",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3ca2a329b44bdb2884db5d0588d8d48b9cc6c7f11a443b7752a89f94fc2c591a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22502-2026-sapl-29832.md",
+      "sha256": "4ae582c824f621c369866a3bd73f511a92aac3a675f1cea0812172f590afae98",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "b8f54ce13cc8d173e26f97235a2a581405f28164843d82149609acb1426c2145"
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2013/leis-ordinarias-924-2013-sapl-31.md",
+      "sha256": "bc76d43a87578ed5763d41c888ab61de926ba683a1a3613974e422c25d62be69",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "d729d91a65533fa75892546dfd5f26a7574c66c6a38c8b0dab4f36c61e1b5ea2"
+    },
+    {
+      "path": "municipais/AC/rio-branco/leis-ordinarias/2018/leis-ordinarias-2294-2018-sapl-98.md",
+      "sha256": "a2217fa0f40fd64bb6ff06167dfd8cac1f37218b4c4d3528e0f5fa0dfa09a524",
+      "aprovado": true,
+      "dispositivos_ativos": 172,
+      "historicos": 0,
+      "sha256_fonte": "0d89cf2f549f4bd405d894a2743b0409f7a2d7c98bc089d3a0f221141558eccc"
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2022/leis-complementares-13-2022-sapl-743.md",
+      "sha256": "9ec4e1aa5f81a2a27e6b508c27c95294e394516eb235f62d301e729e83f181c8",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "02850b1f8f21e94e0a91dfcf25917e9a568c3c3a5338f98a4d874a84eeb12d9c"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1161-2020-sapl-55.md",
+      "sha256": "5ef34570a7d4808a586341f23ead2acc5d97c4ad9d1bc35f2c381edd7111b7ea",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "2fc5578f2ce7601c5574bdce85afc902718eb56d228039ad9e60e6bf3c75e3fc"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1160-2020-sapl-53.md",
+      "sha256": "4196a0fba0742a3915ac1ae6fc58692f1a30fcef9f4cbd18862493f83543fd78",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "865c4617a338fbea24c5283766f779ede6bc07dfa9595c413e9d779d7a778fa2"
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1153-2020-sapl-30.md",
+      "sha256": "45ce29fb847d23ee9377a8b9e1f618d61e137769ba38637526deea9d19671226",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "594c3d76f61e9dab6707b45eadefd0e624525caa46528cf8ac3a9f5fa3ed5565"
+    },
+    {
+      "path": "municipais/AC/rio-branco/leis-ordinarias/2017/leis-ordinarias-2231-2017-sapl-538.md",
+      "sha256": "1471e4155d929ed12c5dd9d7c89db96287973f55ac0bba2a278ad5ed202f6a90",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "c54decd081f323fc64d40d81b1336b1393e0dbb6c17234e6dca32e612b5d2da4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2015/leis-ordinarias-1071-2015-sapl-1071.md",
+      "sha256": "9ed0c0cc8dec4c0da9ca1c6bc6a55c82460cf086df1b96db75bb470363a1fbaa",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "0dc046eacc91daaefc4938b22e9637795132c52e1134fd139b605a723bff2ace"
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2007/leis-complementares-3-2007-sapl-285.md",
+      "sha256": "c3817ab1f943c3c198d30a01777a4eff50bf09af2ee48ce722d06a8d9408fe13",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "b52d70fd1b338c43eac3405add3963fd2f2d7266532003081711d89113f97b5a"
+    },
+    {
+      "path": "municipais/AC/rio-branco/leis-ordinarias/2016/leis-ordinarias-2199-2016-sapl-870.md",
+      "sha256": "04a383170df3f6bab5fc113080fbc0ff10a672a00578b03295319b172a1f4288",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a8cff7f93bd662954a3230b8541d7c2ecd329a9887954d4bdb36b844c73286c6"
+    },
+    {
+      "path": "municipais/AC/rio-branco/leis-ordinarias/2016/leis-ordinarias-2174-2016-sapl-845.md",
+      "sha256": "42c543eee4c2511230d129857294aa0ffb450ab4518b45c9a0fed9c0383e4cb8",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3d18e6d2a62719b94d48aba5424a34454650d5695f6eb2b63aeab1777e4e3cce"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2016/resolucoes-1-2016-sapl-1038.md",
+      "sha256": "fe7f58b2b28b8b6139613987733af044cf76172aef24410e3c9992882e8c0b2a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f34dcff2b5f5bd0a16bc4d1549cc9dc871e76274529a5ef23103e816b1cfb914"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22471-2026-sapl-29793.md",
+      "sha256": "b41ee2b9055fb309d656aafed335af064228132c2ad388613a7bccae3719a619",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "a791918940387c6be1c71e47bfa365ef143325556ca9ae4297040ce76ed462f2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22466-2026-sapl-29788.md",
+      "sha256": "0bc9b12bb7472f50ee43e0cdb0efb65beea294661918eb389493c62bdf35541f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "5e539974e6b081edf10676d705b2149904134aedec541caf4c231d4871bc79a2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2010/leis-ordinarias-871-2010-sapl-871.md",
+      "sha256": "489cabd1267a5fb7cc547e561f868ff22a760ba446df745ebdad2171d2838b26",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b5a438e69075d654f8cd8fa49722eef6766d359f5e5b038e4fd06a20cb719be1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2011/leis-complementares-100-2011-sapl-62.md",
+      "sha256": "3c0e7aee9f1264777abe4d4feddf8e4faacf25f706e83407cef2ead59b24f398",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "1694d76c29dc3d07b3e7166a26c3f5d126c94f4ca375c8df6ed70735c9e32a81"
+    },
+    {
+      "path": "municipais/AC/rio-branco/resolucoes/2009/resolucoes-2466-2009-sapl-1033.md",
+      "sha256": "97871e62a6c9c07ccfb26b725d5c1f5ecc7fd3057c7895f96ecc1b8c7ff9ccbf",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "10d6f4baf6e5da28a96959ce3a5320e9621e01f26f4f5e57bd9f7991fd4cc5e6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8841-2004-sapl-5388.md",
+      "sha256": "1ff45406aa059e860a749115a627f031340e4011fc36f5dd97cdc3674cee8259",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "6f161f59397f428db61d4596182cddc81bf6c58ff80d76c641b06dee14b5ea45"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22428-2026-sapl-29756.md",
+      "sha256": "ab2e2c339499df08a26febe5c383fbd512f6e993d68d361cc2328845c2e311a5",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "81bec75e3851a5fac749a66fd64d03dbc1ac018fb8c54f6b1d97a40ca213512b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22406-2026-sapl-29739.md",
+      "sha256": "c1977b1b3a259da592001afc72dbcd5abcebfd068f21a811f04d377654126b57",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "541c1ae7e6ffa2ed9656e9cd1740e9eb10e24fb208c6009566b8c0e694e5574c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22405-2026-sapl-29737.md",
+      "sha256": "6b6fead91af5d7a240395665fdd2b6be00fe29e2eded7abd51755c1b7117b221",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "24493341b8533449bae224b7e79c8b1ad2094823b25998356b015256bef013b2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22404-2026-sapl-29736.md",
+      "sha256": "a6f891948e7af34bfa5a6aa44231339248ff8196b0c175442ac42c91304c909a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c6cb0d0d2cc4521f78e8caf176945115bf1f17a6a463c579906f794dd46c8d5e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22403-2026-sapl-29735.md",
+      "sha256": "49986081b55d77eacf29977c41e5751d130284b908d5bfec527722185abc6bc7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "fe6e896a9c4572a783704d0959eae205ff1728803dfa6dadbd652d20d1440b9c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22400-2026-sapl-29707.md",
+      "sha256": "051eb128451c8f74c92ad4c51f53af5b60312b74790d18cf695317c022fefcc8",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "0e6b939b1ff942f87669062c243fa72fe4e2b3f486186057e3734e75ccb13702"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22398-2026-sapl-29731.md",
+      "sha256": "845283a714653a59c18414edc04e0002f7b202cf988108e0f03c2fe86e822f77",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "e59532922626080d8046626f8fdb77e63593e3fc83da33a122be549a4c862f55"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22376-2026-sapl-29677.md",
+      "sha256": "6527cff058aa4aa5814c1f699d595b137afca384319943bfb6fc05936e94492f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "12d80d38057626cdfb4d517c008caaaca4d1e4b2c94976522169b02600801d50"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22361-2026-sapl-29653.md",
+      "sha256": "5643bd2e940f2439ed6873dbc493e1be1d1e1239f7567dea07ed5d524ce41ede",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "b55cf53b6377fe5564bca431ae75f0b21dea0b7c41ba6771cb90f54db36d34c0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22.359-2026-sapl-29660.md",
+      "sha256": "d80bdccf32e1f374cbda88f95eb63585c587c0abcee70100246036a6b90c945c",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "a5960d0221e20d8daaf5e3d39ae102bd7f87ec1b9e8158ac8568bfda76c7b320"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22358-2026-sapl-29654.md",
+      "sha256": "eacde80641d6ee8dda2d3a68656e8bdabd1c6d0d153be2c441f54cfa75b0fe56",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "c0dfad6f211b5d8b2773db7bc8100f2d3b2e102a4bb4852d3f1177f681a4dfd5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22317-2026-sapl-29606.md",
+      "sha256": "84592965b83f7cc3d27707ec6f3f95687fd60fe00dd888ab60af544e13552be7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "984a3d9a7b663bfacbf6f9634d3942fa2f060428b963d11b811386e81c82e4b9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22301-2026-sapl-29580.md",
+      "sha256": "14ab9d5317600e41b313a7f54e1fc37092b8843f2645e4868ed3b0f7bf317e7e",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "2321833084c8b08300d0880d8089135c87a3153160ac5b8282d681a80d1f3b66"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-2295-2026-sapl-29578.md",
+      "sha256": "7a9cbe069231515fb9cb2ccc39934c167a740443c0833c09fcf442d2e4e86eee",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "3a82204de449700d94a27729c3d9c59db18b17cdca8cf05cc5fa81a46b87bf33"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22286-2026-sapl-29569.md",
+      "sha256": "8b7a2c5d12c463e865935f1f691a5121d8bbdccbf8aa7acfc2d6e36f51d43544",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "16407767e4b7f1565c3dc81bd633908d2d3a8cd21c71b59dec3902f8d999fc90"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22277-2026-sapl-29560.md",
+      "sha256": "ee4c4e1df3658ebb3c18ef7e3d47b0f8eb16eeb11666bf1ee2da1cee3a76007e",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "4f4110f2972be30bdedc35a445b42572897e0b9895e026ac274fb6326a2d4426"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22276-2026-sapl-29559.md",
+      "sha256": "a66e6f04323bb19081e50a5dbaabb9636a6dc9603fb1006954375932b8b6bf4e",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "5f47cce05fb665277ec3fe88b12de25b38fe9c7e223f154603f2c26128bd69bb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22274-2026-sapl-29558.md",
+      "sha256": "7d4310cbfd3f834ce67dc02c81855bd2b498b0a60e5ebd804b6b40a20d629d80",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "782e2e1237c48d2a3b934a679a040d19519af40a87aab20e8d55a9cd9f49e191"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22146-2026-sapl-29385.md",
+      "sha256": "5d0e7a0ae87b757deda13615e293d179a672fd2ea92456394bdf3de0515ba4ab",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "88866fe3971778d242bc5df502da5a024f7cedfd9f67406fd841d0724c2c7fdb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22266-2026-sapl-29574.md",
+      "sha256": "514b998eed9736356df4f3ccdd820edce6a0ab632c190840cd42aeed4fbc010b",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "5cc8f5d1d94bd5f709a47e76d263e6cce197d0f25e3a4b300eb1663c5dbbcb0e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22263-2026-sapl-29572.md",
+      "sha256": "7e91bebcb4c182db9ece2e7e2ee802d5585f5ee7d689460c0d74358aaffa45d1",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8a6e7ebcfbec4f725f5d4b11d59d88d70f6fbdf594f676eb57b76b31cc37633d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22259-2026-sapl-29553.md",
+      "sha256": "8bcd71ee00bbc27fb9a6d3251161b4a37ffe74f855f94f287ac707d9c63adab4",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "597b5b926c1a95ecc5429084c97fbf94c5223803d84af0e81e7c9ff7926bde22"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22219-2026-sapl-29540.md",
+      "sha256": "44f2a726d96134915396a99f140631f80e2e2eef3cedb18fff856ba522ae9a21",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "5c887fe6dca772c0ce4a339b2b6f1bfe91b91aff87266d4c476fde323fb08034"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22218-2026-sapl-29539.md",
+      "sha256": "ea0f19e1479695b14b303b221eb465684d58d211f0973a8ac1c89fecdfa1350a",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "f9c6ade10dfbdbd615f5cb494e2366a3f02704d82c93529233f93ab47cd9c374"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22217-2026-sapl-29538.md",
+      "sha256": "583ceb6880dce9b579125a484be8fbde704461dda15efde1257ffbb41ab485d2",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "a0557087012ca7a23413313c598b8bcfcad43a578b50a414933cf102c13f913c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22215-2026-sapl-29537.md",
+      "sha256": "76c0a7d892573497b5b8609dcdccc7a2e3a747492f52822ca09f514c9539e1bf",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "a794a1152c602f39fa29e554bcd6b35b115f72fe3d2fddc251e328a025006640"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22194-2026-sapl-29576.md",
+      "sha256": "4d10747030a7936fa2ed1ab9289ab9de8656742f87188970037ebc923bf4df5a",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "6b267592b4ad963b02b63d4ab4964d3e3393ad3566550eb286448bfddda503ab"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22190-2026-sapl-29452.md",
+      "sha256": "67a11773db8b2edc5c9aaa22d7a5284c5db20dc8c52ca6ccf98f0bdc20dc83f4",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "30c4779996873326d9847696ac12fe7a329293e6c9194f4aeede46c1ec31b3ec"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22189-2026-sapl-29453.md",
+      "sha256": "5472be02d349afacced47822c6b7f87eb59769e8df9829752fc852a5047654eb",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "95c2923cab8fbbfde8b70fc0d9c66bc15f4ee72155441b7a5eba9b1fa2c9b271"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22188-2026-sapl-29454.md",
+      "sha256": "e7206df52410ec2d4838520a77d08aeecb11825ee85e231c3859f87986c61614",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "e031eea3d99947eaf0ef996fe30ecdfb1a726ba9c50939a8a2f962aebdefe7f2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22187-2026-sapl-29455.md",
+      "sha256": "7ea9928bd561900b2be2e55715dfe8b92cc8da574aa11a6db0e5456343b791c3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "314cb9bcfece39da1eefb57d727153d5d6f3f5d3a815f84338be600d5e0e279e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22186-2026-sapl-29457.md",
+      "sha256": "90d94c374aac476f899f8211ba2d910f43c8e38ee1a5da6a38c23e68c5b85213",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "afc36c95a3dfd4bee327cd5bdd048f5a919353c79806f4049c518770cc0c32b5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22184-2026-sapl-29451.md",
+      "sha256": "bc0035bdc103e02b7762923f15aab2abb6c43eabcdb46c0e7cb520464aa3b244",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "c2c83f5c35bc0f68bb3afb28e24d6f91ba11c5849aba2bac1aaead578d516066"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22183-2026-sapl-29456.md",
+      "sha256": "41530ab4ac596135fb26d49107625c403c4ea1c06e7587396213c9c7fe0223f9",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ac66efc19e0b8f5889c9069ab0e447d419233ed5fb716e2931ab98ef206f003b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22182-2026-sapl-29450.md",
+      "sha256": "2c57d89b3541d5faecaecfca073186c9c7a723d3c60657f710d62ffcad2ed5bd",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "e454d21a4af4a64ab18860cf86868868e171015634804338acbb72846c70cdd6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22181-2026-sapl-29449.md",
+      "sha256": "96fe3b3e286490291d85fee86d94c553b51ca8674430cc5b1531b376f08a7228",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "542b7285a3de65a658e5aa4611ec2e1b552ba81cb84d55f0d8331616c9d53a2a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22180-2026-sapl-29448.md",
+      "sha256": "b2e384dc966e5481f471c9781a3f674bec1dd82698519aef47b83f35623f52db",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "eef0eaa32aff8a5b7989b8b9bebbf2446ede8ed0b93c2c4a7321bab47e1be4f7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22178-2026-sapl-29446.md",
+      "sha256": "7df922d661dff940d342891ebc839dee12ce2024b8bd4af642ad48c4ed3e5bb3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "9fef94986c0961ab8ea8df7caf5f9b707afa98a36c324b71969944a5389da0bc"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22177-2026-sapl-29445.md",
+      "sha256": "ca3e04bd2a0a76a00c64ef94da755074d5d50f03488a84ab507915a9c9b01f1d",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "c3170802e32083eda664e8e252a306d4de7b64162405a0e5be6447866ea72998"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22162-2026-sapl-29435.md",
+      "sha256": "3951eb074ed3d67b7a6af3ccc5b0f26ca80d1b45ec047a176326404c8ee74e2b",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "d0328eaf1639ac5af8e6aab8ec1be2658b0313e9f4c9f6bc1167ddbcb012feb9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22147-2026-sapl-29433.md",
+      "sha256": "2522d16d56298638fcda19120374d65dcef50292ae24be35e7c2c242fad0acb8",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "3be05d940bf0d29505f0959cc3cd288a627a2321c8120354a494f7a2092bfde1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22143-2026-sapl-29382.md",
+      "sha256": "60df9f8341c528413d1b5a1f8e5a2c3ade002b2928e94e10808b3d2d1a74b6f3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "4e388176b97609fdf5ffb28ec8f6c406a742b4220822f68bdf1ed56db9431af8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22136-2026-sapl-29379.md",
+      "sha256": "bfc3db8d93d71140161cfa7166908fec8ae8a7cfe8e6d5b1abe08bb34a2b11a1",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "0293cd7768b0be80f9845b9f5531a22f0e12eddc016fa0b401c2641024d8c288"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22128-2026-sapl-29371.md",
+      "sha256": "229fb2994345440dbd0268a65f6aa6e2aff733efb7fff052ee50e430dc20ec58",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "48aa831b114e61e452eed91fe59de4f28498c8fa9db6433e89dd610641b86e11"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22127-2026-sapl-29369.md",
+      "sha256": "5dedfb9a8dee3ec2a911c5d8c33e1d497da84a73d156bdffcd1c964054cf2e32",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "9fc42faf5ed0ccd674d6198e87c4e518296a7fc027b3b810bcd1072a1ccd2af5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22126-2026-sapl-29368.md",
+      "sha256": "0652646bf44cef37e27c1bc887d13b3e7eaa758841442c85938338b66f5a12a9",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "184c5caf65a4f95cf6bd1d47658ab883151152c1b825e4694732614e27f79241"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22125-2026-sapl-29370.md",
+      "sha256": "9c8f5cce6b076b30eef7134ded1926c280878c9a6e5d3ea3bd3c283ab2ee5367",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "de6bfc1389e1c71edcba88811eb82004281694c01656ad1e520828c566716709"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22.124-2026-sapl-29367.md",
+      "sha256": "e0b30f307988732cc3cbf4f27204fa4bc7b174c9847c49fad9415cdd8cb17ca3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "b12c6c9fcebf260692d3914c011954d92c79dbdc7716310b165a7bdb22307a3f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22086-2026-sapl-29311.md",
+      "sha256": "f5b339b68c54eabf63d13ddc47e967be7591795f2002756782d7de9f45754260",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8d2d07343ac2cc7ab14dee8158bfeb15a3394e4ffd02980b82ab643dc4fb7918"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22071-2026-sapl-29726.md",
+      "sha256": "464eb8492dbea82c9d57a39cffa000f1f276babef972d68206ccf2596b4c790f",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7c1344707c5461e7de8343c70c38d4427c50e035f34698159995263a91002c57"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22055-2026-sapl-29288.md",
+      "sha256": "c1e219eb1d7865c681c19885fe1dc1ed408664b29d5ed7885d6578a26be9a5d4",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "c4f68ef0d7d2979c090b363570460ed97e8e7ac10763f379d6d90ff6d8ef740f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22049-2026-sapl-29295.md",
+      "sha256": "f509dad6360acac7a5e4680d146fe50f5141a243a276319b0d58a4033b77e4b3",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8f57984fe61cfadf8fe6ab6b7927c36a466499ea88ef5c8c6026f50bae25b3c5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22046-2026-sapl-29279.md",
+      "sha256": "062c995563662d0b128a8759c3c0ea11a9194f10cef08fec5a97803a584254ce",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "13b8e3b4a7c2ac9da00bb69112092cf8f3bddf3ab33bfc427f6479afb1b9d44a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22035-2026-sapl-29289.md",
+      "sha256": "f357a92a46f3d850b70bed66fa8b9d7700b65709da2f41d9bfeaf11b80746cb2",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "4d8bd1b4258e53b9b30165963b8bf1472c74989775e88d5c80ada675990d1c7f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22004-2026-sapl-29226.md",
+      "sha256": "b4295eec3862959b1a4a0343bb8e3f90156b5d39f3903171c727e9ac255ebf91",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "0239a9f684f33ae443318a95609b0dea34ee2a4976416145c0788764acf3adbf"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22001-2026-sapl-29218.md",
+      "sha256": "8f66710857bf65bef5e2e91951cc26a1e0ec62168ec0311dc860b10ae3116f71",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "d12e9f87fe58e1667a895ff405328f367dcf0107a1c22020f95cacc1aa6ef688"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21985-2026-sapl-29189.md",
+      "sha256": "941bae8d506136b033ce67c96d1b36073242546de519d4b4f44984e9f86af0bc",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "6aec2c2ab3ee501f084783ddc5a73ee04891e41489a083bd4ae82c8f89ca0c27"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21984-2026-sapl-29188.md",
+      "sha256": "15f9a5b693dbc1955deae8ac7a00df2c2d37d7f69daf5be5b313e9a51cf02f2b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "30e686f17427824436154f076d1595eb14930c652dc5e8be4b194f177c77f911"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21979-2026-sapl-29183.md",
+      "sha256": "a9fe25dfc90c59c704af23a0a1c573e066116544e8fd0f57a8f340211faa5b86",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "fcc775c9628214eb9f8b4d41ad51b231547487573816c7e2900a43d2b8d6468e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21950-2026-sapl-29131.md",
+      "sha256": "3d7dfddb4ac6f846d3875c6e5de4a4275bcfc585bbe385ad52ddd37ba7d4b7b0",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "5cded87d30bac24a555247c3f3af432a5b76619b5677e94ef3e578f8cdc348f0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21946-2026-sapl-29136.md",
+      "sha256": "10a7e05294559185278de92ef72142ed39d28045c5af499a8a324dd78645bad7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3723c8f1a12254007ae5784f14218b38239bd797b9d86f6f2477aea4cddc8f0b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21.938-2026-sapl-29117.md",
+      "sha256": "f089e994aaa5dbb4d0f63b53e4e1643c2b45b42765fd0c3de707566a5db91a3e",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ae93320000334b01c59e4911ba3a42476e4097f8d4623ec673ceeea9fcd1d873"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21.902-2026-sapl-29072.md",
+      "sha256": "6b0156461ef453ddd8404541d9a2f1b615b3352baef9e654acdc9c75e905a41d",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "066d53d641a2931f27650056d609b1538282c1c68807aaa5647e96ebf9c7f50e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21847-2026-sapl-28970.md",
+      "sha256": "f362e853e0ef9eb99688c8957843a9012d5591138bee449511da332480230da7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "d8e4eff57ebdc3f241a039406ef7677c876fb07fff047fb7388cd26b28c263c4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21651-2025-sapl-28726.md",
+      "sha256": "50d5c64da149a7447864f5a670cf9cdfce136658374554d10fd43343e39f7f03",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "9601cf3849c536d45e65438338b8a6d5ef0009f9d74b61c5ced43841dbe42ffb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21646-2025-sapl-28733.md",
+      "sha256": "e7e6c0c24949006e5bf4bce1cf30da1b381191b50b30e3853892c2d55b6eade9",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "47e64eb63962066ea295769ac26927b4cb05ad5c432a476d62b46258287504c4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21645-2025-sapl-28732.md",
+      "sha256": "bd296591359be6d0970da2806103f564aff7588b2a2bae36dcbf485b0344c69a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "9712a1dd64fa86817ad486844dbec74f8eaa9c0850c5d120a1a46029445d9acb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21.644-2025-sapl-28727.md",
+      "sha256": "4341adc655a801b75e25fc78e312c6daaa38616288c8baa74112e20ccace705c",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "e1143809aa7da37ca57ac54da50278d6d2735d0dc22c2f089a27594dc92718b3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21.643-2025-sapl-28724.md",
+      "sha256": "032d66caf8c21fb9146c6f96ef690f3fcd673be3bb01a878f93752a25c76386d",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "046ad2bf955043aa532ed3ac8b67bc6a7c773bcbe5c51ab694be57cf76a1e79f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21642-2025-sapl-28686.md",
+      "sha256": "4300d6e7f36607fd498060fd984614b6a26fff7ab3aba60595d68583aaf9d11e",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "e582877d4d745356eb7b6eff71facacfa736f7870dd9de83e019a0881562b1f3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21587-2025-sapl-28639.md",
+      "sha256": "5cd242eec0f6674d02bd1309ce0273d2c622d57b4325742ed53b6b4bff911669",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8ef87eeeca084e046491e3d326e16c8adf2805a7f4f9eb8be3264dd01d8b62e0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21569-2025-sapl-28594.md",
+      "sha256": "a37d180d970e7aa97f601243286bd3301d9f297423bfdc570d68aebf243ff9ca",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "62e884b5f83edae532d79b750544c212eb37f7c5a3d0f1b2abb9ca40ca1a5687"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21568-2025-sapl-28595.md",
+      "sha256": "aba2fedc621c420ca4d837cc32a446bef2c8cdaf5e7db3dbe55cd84ca47ac519",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "3704942e1bc5882a0d35225698ddb0b6ab93b89504b520b4aa6e34bfedbb7fc2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21567-2025-sapl-28596.md",
+      "sha256": "d2c6d710cd8bd26b263c803f93c00c5de9a786c08e3f684d396fc9cea67705d9",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "db5326662c89751805b5fb1e313b0ec9674b8b8b3e49d0d498bf820cc0819981"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21566-2025-sapl-28597.md",
+      "sha256": "6c781ccd91e6c14def236b3c480cbc66be4b512d4bb461b0e4ba0baca479f465",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "a5d16b670455f84d433b94876614378a08eaede88984e36eed40ff5bab9324b1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21564-2025-sapl-28598.md",
+      "sha256": "431d4c4e26680c8fec81dacb5071ecd576d37697539a472e18f9b8ecdfce5aa2",
+      "aprovado": true,
+      "dispositivos_ativos": 48,
+      "historicos": 0,
+      "sha256_fonte": "3aaeb28b8f5ad9fd01b5b3ef654ecff277047978d98024eeb2bdc0e167f216ac"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21562-2025-sapl-28585.md",
+      "sha256": "b9102ba86513e133d0d0dac463b83e9e3184879123665dbce55da77b11889788",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "d421f7f9b8b6222921739b61be1ae8a0b8084bbe8fae0b2c2670d9cf216be619"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21559-2025-sapl-28582.md",
+      "sha256": "bdac779c52fc68c3da49f1a8cf5dfdaf33a7961fdf074622d3f0a65aa4557971",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "a5ddd763cd93470088b65987ad7af475ae040f3aa69b897d03527df76660e28e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21558-2025-sapl-28578.md",
+      "sha256": "20cdea49934a686bd48868ad44dce0828b152258fa5ce33fdab33dedcb2fec09",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "8feb91842dbfc1d734054bbd8c16ddd8c7f2ea4ccdf3dd03343bba197267c184"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21543-2025-sapl-28564.md",
+      "sha256": "1d41d87293aa43fd36253079c7aadf077c88e312edcd69c94438caf82ea6908d",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "5040456084728158549508478eaf91b1d6a222aa641b430dc43ef1f3455c8d40"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21489-2025-sapl-28483.md",
+      "sha256": "9805f9d9de0c3e227c054e6fcc77451d7509f1bc8ba6fb3cc4a89fd04be74d4b",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "0da42466182da37c76d0c9e2807241eb5b55f0e08177ddf7ffad561a62cb7074"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21367-2025-sapl-28330.md",
+      "sha256": "9af7d744b32adee6ce82d4b4dee680439d66f0e8b8caab2c4bdbc536cdc2655a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e1230d6aa27af8844d5c6b2fa316a509e5c83a0b08a5449431c5c43788dbb48c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21362-2025-sapl-28324.md",
+      "sha256": "3ecf0e53a9345f5b380789cffcb856180925f0dbe4e702f78858a44911f1b598",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "042df2ef01de6e95619fa280edef5c1a634aad9a9c20abe7afca0a555fc6bfb6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21694-2025-sapl-28819.md",
+      "sha256": "4b2005d8c286fdc17dda76dfc22a524f8502a993595dd88867d2ae7b140d1247",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8dec09c66e684cb6c8ca2ffb5a306a195c28bcd9f91232e7371db1c8696075e5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21305-2025-sapl-28228.md",
+      "sha256": "355630efba0f3011c8a58cd1bf962d9946fa772f6fc3bbde0214e867cb2f334d",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "598491810c9a110d1668f093d99125cd689877ea135cda8647ab8e5c812dc3ce"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21304-2025-sapl-28565.md",
+      "sha256": "430be00da8c76b26b01c5363c9a56573d93b53ef67a1ad8e239cbf85cfade510",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4317023d884ab43e11e848c8e9d35996f68273573d44b82618c882612a18da82"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21303-2025-sapl-28225.md",
+      "sha256": "0fe6d81d6e71653b0b54e41824c2e3c3ccb754647f06b2827e1c3fcd1190e24c",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a65c5027fc55e36595e1632990ae74bd2e92f7adba45ab62b79d96a40514a543"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21302-2025-sapl-28224.md",
+      "sha256": "083364823c2642e202332b5f8100e62189fb2cc08831236437f0cb08ff143832",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b1f0602132c643a3e7b8cf3fdede372fc8c87c5ac897f0de7fa00d82d435fb2b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21300-2025-sapl-28223.md",
+      "sha256": "21b6e7bea7ce55b7d8cc151a5d8b94294fbb536c2d90bd5cdb2972abca9d6fb0",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "07f5021e936e85f982df51c54cb3ed3f54692572db3c49ab422c139bdb443e7d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21299-2025-sapl-28222.md",
+      "sha256": "8373c34038303e2925173d0a06b54563326164b34ac52291c87bd16523b8dd44",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "bf85d91b7a09362264d2359a05e7e83013359b919a781453f6878c7f5e1cb49e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21297-2025-sapl-28219.md",
+      "sha256": "1e97ee3a016320c76620c6345cfd0cb828eed74951af8704055f8856e76aabcc",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "8e96fa236950daf3eded53eeb6cb4249d5d3369116ea560be60534aebb7301a1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21296-2025-sapl-28220.md",
+      "sha256": "cbab3d5cf830e3a200722934e400ff7ad5b9a078ee3973dd387330548857b7d3",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "8df439e528f3ab577a4d9c09129b4f7e10a4c5703ff10274940342836013d40f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21282-2025-sapl-28568.md",
+      "sha256": "13a90cb448ad4a6b0fe056328575a83de18dbf9fdefe4f0154bf10b5976a3446",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "b5b25db9ac34a60c012e42f83e1ecf0a85e76ee11403bd2555157e5f7e426ee4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21265-2025-sapl-28166.md",
+      "sha256": "12b57f356f5f5248a1f97aeef8d598b937773dfb01adbfdc0e86cde1441df1dd",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b3fca7a9a090f2b2666228feeb9cf43114abadfba21e8b77441ce79b2ca17a7d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21.253-2025-sapl-28576.md",
+      "sha256": "68910b61f52050e39c6ebd85bf6361f7b43098d798c9d801b07610bc2e59540b",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "ea4363237502c22db2ffbc611eca0fbe96e683ae1417087115b43453de6c1fb5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21232-2025-sapl-28300.md",
+      "sha256": "8e65ee57b125799f62e0f06ec959303351f43a1f7194d3ffe8eb828c79fe7d22",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b32075329d922cef1f57e389964653f604d10a52dfd58228ab114207fd5899d5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21231-2025-sapl-28299.md",
+      "sha256": "0636841d23f321f6e2d7848bf0cb3da8ac9fcbe602ed344ffbaeb386aa858062",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "037878968312d68919be4eb87a5106b094975e36d512aaded3a4fcb678f98872"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21849-2026-sapl-29075.md",
+      "sha256": "3ca31da1bb029039914a56be17b0b5349063138179dd6b55414181f5250cc56a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "212154dde0d08e31ab2e25318d2291757fcaa787b3a5e409cb648b8cc0557455"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21818-2026-sapl-28936.md",
+      "sha256": "4cc63a02ae079e7ee56d3a58cf8af193ef83b95fd71ad27168545d1faa05b4a0",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "97d962e5bce6980902f635dd8b94f11aa9d930efe669fbec36f8a0bf87102710"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21804-2026-sapl-28919.md",
+      "sha256": "fb780e0e89e098b59a33d9dda1a4d658a06041dcb0649f124964cdd542f3f3ba",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "762ac4b372f7c856735fae08c62caf6be57d3cb60b9b11534d10b23e8879e9dd"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21782-2026-sapl-28894.md",
+      "sha256": "96e7c6d9cfd3b28e020ade898778c448f6b9a1eb72aee5f49ca50ecaf6edd039",
+      "aprovado": true,
+      "dispositivos_ativos": 6,
+      "historicos": 0,
+      "sha256_fonte": "1f59fc15ad8ac8cdc957e70e5f3b9fed4f929999f203f002607b2962dd4d952e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21721-2026-sapl-28810.md",
+      "sha256": "1bf345a4974b085ddc83f3d43d82e9b0e5dbcc4e5748d5261f7630899a37d06f",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "3402096b61ad50c765e1644891a603027078c35ded82985149de8786f4a0c74a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-21719-2026-sapl-28805.md",
+      "sha256": "8c87b1a607ba22a012f45a8ebd8fa5de501212e2a68ac9c78592b04c07b438fd",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "6ab6b3e232f68cf2be0b59233c56cdb6fd379b25ddfe5c4d9bc771fd3261cb3c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21688-2025-sapl-28767.md",
+      "sha256": "1130ef858136767f842387af66c7f191c8f4445d4682a332558ca2e80dd7e1cc",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "57d38d26f86119e4ac41bd3b76e67fd7012d2322a68d5d15de71a012526a69d4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21687-2025-sapl-28766.md",
+      "sha256": "f06e866f5d635d4c89e5fc48c8ddbf2af0e4acf98c46d5afda30653b43b55877",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "62b803ceb2a2fccd237d6eb08b3fd4b961b13fc621bca559f2402e2d90b81b69"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21686-2025-sapl-28765.md",
+      "sha256": "dd94d58ed58c6a50d336ff5f153a9ebf752fe4af9e0cf9964460d58554cf396b",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "9a574b5b31768c4e31c9900a904e524a33cada699807f105bff5071f3938b346"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21680-2025-sapl-28754.md",
+      "sha256": "873730e4dd7aa4c84d97cf9dd7bf268b6193993060629372a3e38902f455bdf6",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "2ae22a6f7b6a423ae4c8e59953ea2d3848087f3c1601f0b91a16097a8c3cfc67"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21678-2025-sapl-28752.md",
+      "sha256": "44d747ff27b567d5daeb3e95b883598d2d12a7db4f1ac68b2dd81112285b7b59",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "42b317bdf3cc075ca2cd43b885933038357f9481c3b1b9d59be651fb459aa260"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21677-2025-sapl-28743.md",
+      "sha256": "ebd87c38162008d630d844c34d209ba8cb03e1faf4332aae3940b6396303f985",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "a3184504c7b78410954dcc534323359b50df4739dee249c1e5aa84e4afb555ca"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21676-2025-sapl-28742.md",
+      "sha256": "fdf91a7fed8c1c24f01ecf877d29ed8c603820ef902a537c13b59b5c48e71765",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "5897bb6313ffa277eb8542d18935937ce197dbc4b1c22fa6a27067395e9257b0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21675-2025-sapl-28741.md",
+      "sha256": "daa78afd1400111214e22ba92f2b3f7e29d8aa5eeebe0dd473ffca55d4a1e139",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "dcf7bcdb01a74bcd7909f708291f2daf3359221feb1c3d6e2abdfb6bdb2feba4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21674-2025-sapl-28740.md",
+      "sha256": "f57326b1b3f25159a8ec031e08fabd13dca6095ef49d3eaf5af1cf8d83cec644",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "cc3334cd624ee72a4ea047c73a63f024442e4eaab2db1471acd92df8d5c309fa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21673-2025-sapl-28739.md",
+      "sha256": "25425917d7220f5107ec6c5c511554ea66d7c3d8dfed5e5884b8030cc383cd20",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "2541fd38b96cd53326992287b2b6210e60a8d5ae67d650a6959b28c94b2f418d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21672-2025-sapl-28738.md",
+      "sha256": "3162a44de0c58efa281fe52b11240be01f131c302a7caabd7ce827ff102892cc",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "3128ba7a24552266fc496b04240d6733e617bc38847304a45aa31f9e033ac84a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21666-2025-sapl-28734.md",
+      "sha256": "6f3b273262e4fa84de88c9fd0cece0e14c3e8bbdc143046cf8964e66e4ff9bcb",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "aa8c8ff024f00b036d556c84c512ca7d055f04a313b3fda28c8b41847f3ae8ea"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21664-2025-sapl-28730.md",
+      "sha256": "db1fc1ec1a702cf8dc45a42e127988db2187afc106353425123620e3b6117c1f",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "912c36e59992fec993ffaa1f2b42cdf88158fca793daef878e5568bc13223ab0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21663-2025-sapl-28710.md",
+      "sha256": "e5d7bfd241fa997ddfc074e0595145bc75cef1b052bd3c7a8d517351b91304ef",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "35343cc83ae3a6565be62e60db435e28f5ad0cb449fbab883d14d55a17faf0a5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21662-2025-sapl-28703.md",
+      "sha256": "78ce889c27c6ffbe7dac6441db63e64e7a1cb124133be72d29f61a03c5895b78",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "33154f8a25b5581a21fc8960864227177621ea1444a6162c485e3a5d7ec36ee9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21661-2025-sapl-28702.md",
+      "sha256": "6339b947acd73fa60b79949752cc1a380bc10023fa1e1d36455ddfa3f3a3de21",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "06dea6a55cb30c47f461471f9509b388cd13fb9e6b80aed62a912c3938a8fefd"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21660-2025-sapl-28701.md",
+      "sha256": "23584be50267390af959863b70720aeeb4fd95b3f10179ed5dd47a8ffe5122ee",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "a94a6732e05ffb949a6dd11ce5a4dc9e33a7d741e18a19959e0e995fa1655d24"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21659-2025-sapl-28700.md",
+      "sha256": "37cc71fc09cfe3f432cd0c048dfcbfe24f53293c7fc13bb72ef4c0386bf5951c",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "b6b40894eb9e3e0096230bea9abe9f23b8208be1d212217412576849c5e229e3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21658-2025-sapl-28699.md",
+      "sha256": "1020bd64abbe63b486aba1bcfa467509008988bcd728e10ea9f7f9a094a62746",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "fc8054622b7c1c7984f478a31d4c4e5cd77ede1a680872874759aeeccd631c88"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21656-2025-sapl-28697.md",
+      "sha256": "7c2edf6d60c21cb5cd8974841cb5217d37cf756f35bc1aad39b348ca73234ac9",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "572bceb4995b9bf19d0bcb00ba8a7740799ddb61c05e85886aec345f6af29a05"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21655-2025-sapl-28696.md",
+      "sha256": "78ebe684923ed6d7914e9ff53f6f474e7e1ffdf19c78197599a8d212a3b49034",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "05077d1116f0507271d72bc4869babb636cf4af033a9f3378cbdb6a1833340ca"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21654-2025-sapl-28695.md",
+      "sha256": "5aabbe1029143dd3641357531b2c464f7fd144b0bb71d8aa37249dbb6f53c6dd",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "ac2563fb6b242ddd01fa3c4377141f8c53b8b7732a9de0f5747043ebb3386be0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21653-2025-sapl-28729.md",
+      "sha256": "391e5f6d384115da59d7fc0d97ffaf17ad1e88d25d391728969886601e36202e",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "d6382bcd8bf8b2422f8d7671275df8b8687528eb54b5b4d017be3626e34f92a0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21652-2025-sapl-28728.md",
+      "sha256": "1937d9e9e61e21cc869c64e195ac07658503e7077ea753f7a402587ce54f23a2",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "dbb54fbd85d06d7dbdd2c001260112bf79187afca7de99619493ca6cc2d29d74"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21.650-2025-sapl-28725.md",
+      "sha256": "6a9d5a6f6262deecbb0b4c9fe2abf7d6f97010b9ebb641bce9f72ae77fabbe98",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "97da77c4a9f2954b289066b9f69ba90eab821ed3c597d9bcda8a7da799e83cb4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21641-2025-sapl-28685.md",
+      "sha256": "ce07c89bf58b960c5524d1617b3199f508408f51355c74937ff3f9902d1b34d6",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "e6a067f9402b7da73edb3160cb353e528320d446e4f68a1b7cf442d5306c594c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21640-2025-sapl-28684.md",
+      "sha256": "00f6ea22cf32ebb4258dd966687163f919edc57c6a3dbe25ea662edee6d8b5d2",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "5887bdfeca081b3a96f37179e5769c22396ece1eee99829666cddaeb613e15cb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21639-2025-sapl-28723.md",
+      "sha256": "98041efa8df5f1995c9f62b0e22b5f3404033fb87e388d04969601b3a39457b3",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "e068c47a84de530c69ffca97bc6e4e4af93dcffbc7cbc6bc67dda8921367fdac"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21638-2025-sapl-28683.md",
+      "sha256": "90565cd99bb79d2aa3dc427f98afe78dd23cd0e24b420041772a5f3ce86d65b6",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "b04b75b0741b04958da9c83bf6840d5b2633fc871d2f9101eab27b26757ba38c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21635-2025-sapl-28680.md",
+      "sha256": "5795df5f3fa5fbb00cb77bf8d05cb35433c00421a813f6265a99d1a9ab35a781",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "85b90d5afe4a61d8ae41f90e44689e8cbe9a1718394d911371d0e06d60782031"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21633-2025-sapl-28692.md",
+      "sha256": "338c07fb279dcfd996e7657020c753e520b714cae1cc7f71e60bb5885c9fb34c",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "06735e8e6f7d3cd5d07e0ae04ba775c8e78729e592d1d2419a2cdcba3961f243"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21632-2025-sapl-28693.md",
+      "sha256": "d6a4c029b3c2526e38e195dfdec8bcaf4f4ed7408fe60de341c491ccbd801125",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "4640aea2bad4ab76c650619d7914746c1d1f64362810db7b18d4934c0d51e064"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21630-2025-sapl-28694.md",
+      "sha256": "6cac67200b31ae6845a6901b69aedce3360be4c020542624f4b5dd7785c61adb",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "bc12ffb4d999553780285591cff73dbe63d35a1115163770c10eeacc980794af"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21629-2025-sapl-28679.md",
+      "sha256": "af3d62a8536fa5256224009900e56ecd06dbe045a0c59ca8df5453d8a148aa3a",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "5092348bb6761cf19ee2ed4c8f3344bc2e44eca39dfae14c5dc43cea73d5549c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21628-2025-sapl-28678.md",
+      "sha256": "cd78fbad5d02c766e1b7a73d91085f8cd8ea19e2b5748ad23b808ae3bcfdbf4a",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "ed853bb78242b9e28f6e9a73b5bee09480d6ce395c5fa073e2043c76d35ee5f4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21625-2025-sapl-28677.md",
+      "sha256": "65286e4ae3418618ec48b96f711c83dcc6720ad2f56ac09572b2243583f4eb94",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "0cda507f0b51d8ae021158c07d6422cbbb07a48241276c455f17c8a87023f67d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21624-2025-sapl-28676.md",
+      "sha256": "2b71228a4a6ede53813f266c2eb8cbe69e459d0c060f6c90fabbfe39fb4a608f",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "b81942fa849d70d436860cea5ade4fb246b2db542487e1f46354a849ada10599"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21623-2025-sapl-28675.md",
+      "sha256": "6505046c24d5a37e304be73a3505cf8b642e4e2024586be26fd7c717dcf035c9",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "cec7365f4c02c1896649a388180d933d7db611a369c69b3612c98510bf8dba60"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21622-2025-sapl-28673.md",
+      "sha256": "2fdcd46c9dea8e09c11917003d207b9daa7f63d78aaa4770aa6acacb6a05793b",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "f2344130f6f39f0a2f70ec9d8b00061eade4d89af5a0da1d9258ad3fa640ffd1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21620-2025-sapl-28671.md",
+      "sha256": "0339964776935c9e950a6b1fc2a9dd1ddcbdd995e0d2d1e33d43b7e0f613febb",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "f3600fbdf3018728cde858ac8d9efe303eed66cc17093d1c515a684e54d6ae27"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21619-2025-sapl-28670.md",
+      "sha256": "334ad23de9fdd0a08a853fc1224141738cdff88ab4c50f82bdb873074d3cb3ca",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "be7334fe02e65e49ebb14e2c4e1c5bf508b77a1b122bb67b1e3d369b417ccea0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21618-2025-sapl-28669.md",
+      "sha256": "81f401c82ea1e4efb54fa70e8a9afb4a242a4d95f47ee674690846265443c4db",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "d2ed6a3320a67b308467e8b319c07212ac388c42d2f44712daac019cdb7651d5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21617-2025-sapl-28668.md",
+      "sha256": "b7dd186bb5ca9b9592de8658a40cf2144354710132853705ae8833edb74676a5",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "f57d6b17a6f7a37586af25ec7bc62c1efe0d527dc0e871e4210b9c39b99aeb43"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21616-2025-sapl-28667.md",
+      "sha256": "770bbd9c4766f55d111228ca77a8283478039b8b1f88b1f67c5396f7d6383b8d",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "f32102ba1fb905640fbf905fcca88aad34ba2727216db99b84ddfa1658b85781"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21615-2025-sapl-28666.md",
+      "sha256": "26e3c8d5f28068968cb7dc11dd17aa75ecde480a33e5071c595d8e0af131fdc5",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "0549205a34288dc461a2d455e67d9c0073fd9271dcb35cf163fe90d30db1a3cf"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21614-2025-sapl-28665.md",
+      "sha256": "48afbb7a5155c8596e7327cf3ff5aa8781186b9354cf76e708ac3ab24ef1a9e1",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "1c47352fb817501d1220d2df85bf85cf613d0a4d21e78b2d51686aff649e8bb1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21613-2025-sapl-28664.md",
+      "sha256": "3a348e89756c3b0acb1ae3ea3af12571878c77d65272890eeca44a870cd16b37",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "4035626a90bac6191e5dc7f975c2070617e4ab9cc1a4eae71ab36594bf30b489"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21612-2025-sapl-28659.md",
+      "sha256": "c543934c16e729e67d72d0d5d954b67ae18afc32925961d124a8f9410825cc6c",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "b7846cd733a2f333215ddd91d92c5557d0b86d1a0630f1e855b710f7d56ce7ad"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21610-2025-sapl-28660.md",
+      "sha256": "057b385c03a703222acc0533a25089bd6b76e7b035045c94bf53c93901bdb851",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "0a534daab9f8fed8651f70d48f6a30f26978aa3623c007654124b71971d05726"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21609-2025-sapl-28657.md",
+      "sha256": "b381e6e17265d91f4cfb6f85870357a1af5e2a1bcbcf185108fcb2f00757abc6",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "647d71012b7613c4bcc6ebeeaad6b1e1ae66a2a8425142b45ab073ae5f56797b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21608-2025-sapl-28656.md",
+      "sha256": "e36665cc2ca425fe799a616a506aead52431efaba7a40132064876d6ca553dd0",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "369352cb65e3d545a4a95ea091cddb447036ce1fcf66e33a8984d825026222c8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21606-2025-sapl-28648.md",
+      "sha256": "3c99a29bc421b2122a67b0c0bf29b0c2365182d23d0b25e4d836759459702a05",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "43f327bb2b1eca9a0ce8eedf89a067eff832fe4013d5f4bc055b77bc66114cde"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21605-2025-sapl-28649.md",
+      "sha256": "2a370af616222303964769b09f12542f2b3b76349304456c19b99e4f1bdc1cd0",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "b332da89110a934e0592df7730fd7f5a0b2a19be9b61ad8bb3420d2062100018"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21603-2025-sapl-28646.md",
+      "sha256": "8e90ed9aa0752b663c67c9ea9fc5f5d7cb05942694bfbb3e10bb93f653335cad",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "d8b0dbfedd2257f539bf71fd8964a0c98b061589f696a4d51804784b1851e40a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21599-2025-sapl-28624.md",
+      "sha256": "e275d59cb275ea2c82b696646c3da2fbfd8968698dcc5bcfbfd1a2ecc321a15e",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "26d39a1743127219925959a832b6d99eca45fb7e9dd607a7dd25ec590b959e26"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21598-2025-sapl-28623.md",
+      "sha256": "25e9317a4a76da39bf8b3574d14ab29b7694b01190727f5e2166ee4e35e1d50b",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "54be4c76a7496e5017c62977722e12b2d787cd4c355a724e6da583f8525c0506"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21597-2025-sapl-28622.md",
+      "sha256": "71c8cde87a9baf2301f28743b84f7193fd923791741fb8b4ec891b611437028f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "a4e15938b8c337cc60f7d137aafc32181fdc5ec1b73175293041475496d19e90"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21595-2025-sapl-28620.md",
+      "sha256": "33c3b3d597bff72d2feb078f156fdd119ba960281807b8a88d7860c504e6d124",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "d471f4d68176289bfe13593a6f65a1b308d632cb35eca89d64e882898065d70e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21594-2025-sapl-28636.md",
+      "sha256": "479a8fb375ed1e7adae470d38d10b07f5383d20bd3ad165d9dd01b8f5cea237b",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a9772925f837456a57d17e091d450c5538260e49991529c7a0901667c653a988"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21593-2025-sapl-28637.md",
+      "sha256": "9b28f290f404b5545577bc03e8b180ea6c9da4d3bd68018f3a133798f7faf460",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7e6030f2c1f049dd9517dfdc800ce56c3ca7cfb9912ad7235863ba6ef68217b0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21592-2025-sapl-28638.md",
+      "sha256": "e504262d7e6c85d17b59f711baf40317da3aa144670ba3c0203f1f977e4a535d",
+      "aprovado": true,
+      "dispositivos_ativos": 7,
+      "historicos": 0,
+      "sha256_fonte": "91ec8226de4cef179213a714625675c558edd685d9aa086e3f5e864de2fb5a06"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21590-2025-sapl-28642.md",
+      "sha256": "ad8fd9c130a677480950aeca4cbd30ce0989caf1f3ff2e7afb6f7e1321688d7f",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "2901a877eb561c93b6d562f1ab44fb1400ea27c6479678547361c4939fbbe593"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21589-2025-sapl-28641.md",
+      "sha256": "30f2b03daf0372e704ad4f1cba1e5ed6480f5da2391d6f029f876bef92f321b5",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "b3fe3e5292f6756feef565c318b602a16127d655d1ca41746a8884963dc4d9b4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21588-2025-sapl-28640.md",
+      "sha256": "811a6f5aef6e1d471a9f0f7c3a6e25398b5b089dbe79f1269c9786caff4582f8",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "fe74c70f6c3434bcf0062303867f7296308ecf4aa5da256d25cc61ff282fe1c5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21585-2025-sapl-28609.md",
+      "sha256": "4e1ec7695916e720728056c3cb80fa66f773de201913fbcf87f0e7052d1ef42f",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "1780fde49e62629a324761df078a59377dcfe4fdbe103de75ef2bf662653e4ac"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21584-2025-sapl-28610.md",
+      "sha256": "c5a8a744702dd797ddda2d43480c06389b8fdabc0aaf232aee7b27dc0b383743",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "7db61b442ed1b84150873af4ea73e7f9a1bbbf944827dae13589f5e859f4f29f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21582-2025-sapl-28653.md",
+      "sha256": "2e797dd2926d7425af62222096dd09a4156cfde6dfc621b98de8f5e73a5e1bc0",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "279d0429c10922e4b784f22fdc97ce237c83e3f1d8c9b28930ddb3db62ef1772"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21580-2025-sapl-28650.md",
+      "sha256": "6931fb170f1d9e78f04b617bccb42a54d10f0762c20b94437dba2e95ccd39420",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "8544acbc572e43682e3bd7b096ab35d24574d48a602b58950643ed74d6e2391b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21579-2025-sapl-28651.md",
+      "sha256": "e771c4beffaac0fe86e67b2e97981bfe91770dd32fd7e558689e0da003c1f064",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "89525e21708d90f485496ecf59e460530bfb02d3fbd2f6b8d609065242cb4bfb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21578-2025-sapl-28652.md",
+      "sha256": "4df2f9df1f94cb7fdc13263928eed8ea73d055a6066a3ddb10961fbcab9f20ec",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "3c5eb1a7ee5304600227084da31897b8d9e2934443122170a05259b454a38310"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21577-2025-sapl-28601.md",
+      "sha256": "bab722f9cc6cd9c6ea1a7f8c7e357057d19bdcf8e2258918f287e06eccca27ac",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8d617ed7f64b2b78e42ef4d956511dbabe91810e44125144d0759005b6f94f2e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21575-2025-sapl-28600.md",
+      "sha256": "df81e0124915b7119a9a1aa45e425ed623c8d7fe88a32dcbc81c91cef30ef00b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "967d05cd84419a00b1c38bfc6df2f4a504471843f7d6d3a7b54c88de4073081d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21574-2025-sapl-28599.md",
+      "sha256": "c2ad2d5d9bf6fc5cd629ece74ed5d1a2774ff3506ff316887843e8d0246c5a53",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "1eb8d3032a25a330d9b04992cb6ce5bf1722586636eb3dd107cc29542a2a5fc4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21571-2025-sapl-28604.md",
+      "sha256": "e1eeed22a9faffba7a7b5d164738a5261b55df389795cc3415013c835540603d",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "59f469e071998fc0af23d7cade174612c72c55de82e2c49c12ef6e608072dc87"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21570-2025-sapl-28603.md",
+      "sha256": "f88a3df88df3e1c3dc32b68f1ce66a6294da35f4597c60f63e8ad9dfbf8bd773",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "e5d204eba800f81a543e56e902b45667e7663b2221fdf44dab8e973d5e6daecb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21563-2025-sapl-28584.md",
+      "sha256": "12279f51d8151655997f52118836cc1e47cb8bb7012c6247652b0231963187a9",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "d1f8bcb7a9946866218095cd2db4416c94aed85b633409d15526dd48526a208a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21561-2025-sapl-28583.md",
+      "sha256": "7d3858f35c9846d0c6117537b614a8f2696c4da4e5d0037095979e6e2c43197b",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "f80e323fff398459dad23ea96799a6d5f40edc86b18351249ae7081de8088123"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21560-2025-sapl-28581.md",
+      "sha256": "a6aec2bf5accead7df4fbf3c14e496b660dc7c8b458b24763aec487e469f133f",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "99c72c0eeb53e3e594348c61fb54a53c192a3c0e21f910fcd477e0f8248e6509"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21556-2025-sapl-28580.md",
+      "sha256": "4c891e6fb9f6f31a31d63a427f665604b1906e7b0a1d811ac34db6d40f675bd5",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "dc656ecd8fff2218cb169cd78947d5c47a8758fac6cf8bca3fc1de082f7cebed"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21555-2025-sapl-28579.md",
+      "sha256": "38f55364590fcfaea9fdf22cac64c19e67a95eb58b2d87744c5116d130ddc3b5",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "fdb21ac5bad08531c2a494825fb8194bc4efa5e81edff4862a7cdad44a3b67b2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21554-2025-sapl-28577.md",
+      "sha256": "766c830b136bc76b60e4f37250156e29e0c893282328acfa5c0d80287024a8b1",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "3cdde2a4ba93fcbf720d34396883f9232c4d5c69b592b8e2048c213bb38db608"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21553-2025-sapl-28574.md",
+      "sha256": "fbc67c2db29020a51fc3e90b4d191883898410bba59636b79542f7bb80befc97",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "ed3fec411e646ac813e975d0ed10f175d5abe853a6b7d149131f6143c0716a99"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21552-2025-sapl-28573.md",
+      "sha256": "a476ed45f6b9ee3ccbe3ace4038146746c440434a76fc8beeace7081083d8d92",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "c7b63d61138bbb0a5af7d380435128d0f24297684c601caaebc715651f3311d0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21551-2025-sapl-28572.md",
+      "sha256": "1950206fd262b5cb9749c108d6d99ac7ad392495637fce2e185de2ced3263d87",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "568a42d4c38f5f3437156b9ac06f1a34236232609213de12b161c5f8abc8d74a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21550-2025-sapl-28571.md",
+      "sha256": "34b02acdb1ff1dd69084b4a9d361d0ca10f1111d828c708441e5b582c1f2d7d9",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "2d07ed96f1ad954428be8054d8569a03a1b866f4407171ff67ccc823e18a2c71"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21549-2025-sapl-28570.md",
+      "sha256": "da6e8e09ff00a94802408cb8233b5e701888a82a181b09cc5f0e72876d950fca",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "7aafb07a3c99cd983729b07900b292306c7f87b3f350d81238c076faa3895981"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21546-2025-sapl-28569.md",
+      "sha256": "26f2e86fa8f95a40ae1fc05cb1cbdbf42297f5ff6c7721f5dc904681f3fb3323",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "ce1bb0a3a9deefe05680e3da28ccef2deff92da32de2444efb089771c37d9ad6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21545-2025-sapl-28567.md",
+      "sha256": "398e9d6bed26e98484e8b26ad70913dbc72db4ae966fd5114b1741ec0d43caaf",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "e39c44f4470b54298494982165fbda7ee2a2096805495b2e03ced0029856efa9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21544-2025-sapl-28566.md",
+      "sha256": "7dac4db3710f63e58e85cac0d912c7cfa7b2c21e07ee268e6dc0059648f9e0d3",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "a5ae4ea53a503fa0e67f64f3441f3a48fc1c37125eeb2d87c0371ed52a840417"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21539-2025-sapl-28556.md",
+      "sha256": "5ca07adee26684114a0a0f92baf830ae7668daa52d43548927d192f731088c5b",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "e6bbfd1549e7480a7f67c0957b4a34a21f472482d408d45dbbc1ac8077cb7ec7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21538-2025-sapl-28555.md",
+      "sha256": "2c9bbd057cc7ff64d57b7a4dd53d1f33db4c6879c8631766049553ec748116cc",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "3b8cd1ac4df1ee909a741e0fd219464bf99828e0bcc0bf033e7ca3ad16f5b3c6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21537-2025-sapl-28554.md",
+      "sha256": "5d3bccb94f0cb383a1616419e803924fc3d5b9fb8f8164737d6b66e275edba98",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "21331c78eb282dd05dabc407ab1f5e9b61c008a609eeb2565cc140182ade7f36"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21530-2025-sapl-28552.md",
+      "sha256": "ded6806ea54dc284547cd881f67996a47cbdbb67234ab48f39e365cfccd4e115",
+      "aprovado": true,
+      "dispositivos_ativos": 6,
+      "historicos": 0,
+      "sha256_fonte": "136c32275f045c6207fbae66380f776df85f3e0450d96b1ce87132c29125b475"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21529-2025-sapl-28553.md",
+      "sha256": "cdd451cfca679eedd9d8d84fc0a7b8ae3648d500f71ac12413074fbef8f3b71c",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "83a8f0401a6fa818a5936307ae4c40638cb951812520c8dc9689d664fda31319"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21528-2025-sapl-28547.md",
+      "sha256": "41710a1e2373549a6b7a709c907e76dc16ac4fc97e15a495753f12468fe3b4ac",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "cf5db208f3df18098578ce167dcd4885fbe42f8556486b81ec438ee53d771695"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21527-2025-sapl-28546.md",
+      "sha256": "53e94f9bc61d921475b05404e56cda1072a6c7b04e6e85d02af039186720acbb",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "0a6b1361d9eea4cb1feb08660ba11dd25aea085948135727bfef4dc0dd9b17b9"
+    }
+  ]
+}

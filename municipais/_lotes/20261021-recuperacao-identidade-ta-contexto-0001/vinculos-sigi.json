@@ -1,0 +1,125 @@
+{
+  "sha256_catalogo": "031d4077e34408932d4884b5e083da434184838d9844be3d0719bb62422ef5be",
+  "hosts": [
+    {
+      "host": "sapl.acari.rn.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Acari",
+          "uf": "RN",
+          "url": "https://sapl.acari.rn.leg.br/",
+          "codigo_ibge": "2400109",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "2400109",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.json",
+        "sha256": "a9185e9ff32b691d3a3dcd3cdf8d52f5bcba32d252c5514120265f297cc3ff91",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.meta.json",
+        "sha256_metadata": "ca015eecb6f61d5191c36716d528f5ca6d345966b7dbef3e27067f96c432b81a",
+        "url": "https://sapl.acari.rn.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.aguaboa.mt.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Água Boa",
+          "uf": "MT",
+          "url": "https://sapl.aguaboa.mt.leg.br/",
+          "codigo_ibge": "5100201",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "5100201",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/ded6ea0de5b8ed0fa4e66073577fd3edc0020ee3c7a0e3da8feb0d7c23c4006c.json",
+        "sha256": "80de02fad5e0f11a84332755233edea26ca09657d679e801536c9676e352345f",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/ded6ea0de5b8ed0fa4e66073577fd3edc0020ee3c7a0e3da8feb0d7c23c4006c.meta.json",
+        "sha256_metadata": "964f388fb81bb1db226d400c61ac270f5a3516f2f54e6107c83d85f992669079",
+        "url": "https://sapl.aguaboa.mt.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Erechim",
+          "uf": "RS",
+          "url": "https://sapl.erechim.rs.leg.br/",
+          "codigo_ibge": "4307005",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "4307005",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.json",
+        "sha256": "3112453d62ccc5786d8b58efaef9e6169054c13b789b9e8532147bd377cb364f",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.meta.json",
+        "sha256_metadata": "98141e2bf774e168fbed6c22a0e8f88d573cd36cb6baa2bc4c1c4ca24d73fb5b",
+        "url": "https://sapl.erechim.rs.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Porto Velho",
+          "uf": "RO",
+          "url": "https://sapl.portovelho.ro.leg.br/",
+          "codigo_ibge": "1100205",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1100205",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.json",
+        "sha256": "5eecb245a6ae3f33fc7ecbcc569bbdeb8d3bb2391aa5f5c8a99045b0178b3298",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.meta.json",
+        "sha256_metadata": "4134febee01e7c4d1f84807ac8092ab90266f625b036f787153e8ca1b4a9869f",
+        "url": "https://sapl.portovelho.ro.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Rio Branco",
+          "uf": "AC",
+          "url": "https://sapl.riobranco.ac.leg.br/",
+          "codigo_ibge": "1200401",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1200401",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d77c0e17478d2499ec77a1e10ce2315d44589e557cff327755d17e6319635290.json",
+        "sha256": "670379dbd69439ea7d0806c439ac341d861ba6d8d4ffcc169fd4cd892c283c0c",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d77c0e17478d2499ec77a1e10ce2315d44589e557cff327755d17e6319635290.meta.json",
+        "sha256_metadata": "2c4dc7c51c0973a706c6043c95171a35b0876ec44e72b8b424324d8524442646",
+        "url": "https://sapl.riobranco.ac.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Santarém",
+          "uf": "PA",
+          "url": "https://sapl.santarem.pa.leg.br/",
+          "codigo_ibge": "1506807",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1506807",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/d5b0193cbf5b94fb14f574cbf80adf907b413cca012fe1dea3c17d46488b2075.json",
+        "sha256": "e728fe5b6576967a2466b325941179bb5e653ac44d2f3ea675c0aa9cf8337a27",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/d5b0193cbf5b94fb14f574cbf80adf907b413cca012fe1dea3c17d46488b2075.meta.json",
+        "sha256_metadata": "1ac0d8b986ed08e973f8b32f4a80c7ad9fb29fa931669572c7094331a23d89da",
+        "url": "https://sapl.santarem.pa.leg.br/api/base/casalegislativa/"
+      }
+    }
+  ]
+}

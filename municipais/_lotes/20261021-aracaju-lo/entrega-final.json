@@ -1,0 +1,672 @@
+{
+  "normas": 1,
+  "documento": "municipais/SE/aracaju/lei-organica/1990/lei-organica-aracaju-1990.md",
+  "sha256": "939312dfd931d546218d0895a1eaa2e234ca9a672f0402794f5a13972e1d2a49",
+  "criterio": "PDF oficial completo, 107 páginas, todas as notas e redações preservadas. 73 passagens com tachado em 45 páginas vistas em 15 contatos e marcadas contextualmente, sem decidir revogação por geometria. Dois ajustes do plano preservam quatro rótulos de alínea e um ponto literais. Remoção dos rótulos recompõe todas as páginas nativas byte a byte.",
+  "validacao": "4 testes passaram. Replay independente CommonMark preserva toda a sequência oficial de caracteres não brancos, sinais, pontuação, alíneas e fólios. 105 páginas têm sequência layout/bbox idêntica; fluxos das páginas 70 e 107 confirmados visualmente e congelados por hash. Fonte, IBGE e data literal conferidos; formato e auditoria municipal sem erros/avisos. Zero colisões com 15.272 documentos anteriores e entregues, além de não haver outra LO no município local.",
+  "completude": "Uma única LO vinculada pela landing oficial; nenhuma remissão a anexo próprio/material separado no texto integral; zero arquivos embutidos. As duas imagens da capa, brasão e bandeira, foram vistas no contexto e como objetos, sem imagem de texto ou tabela normativa. O PDF primário integral as preserva.",
+  "vigencia": "Sem rótulo global de data de edição; notas incluem Emenda 73/2026, sem afirmar incorporação de todas as alterações. A data original de captura 20/10/2026 é preservada. Tachados e notas, incluindo nota tachada da Emenda 72/2023, permanecem identificados e atribuídos à fonte, sem certificar vigência jurídica integral.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/SE/aracaju/lei-organica/1990/lei-organica-aracaju-1990.md",
+      "sha256": "939312dfd931d546218d0895a1eaa2e234ca9a672f0402794f5a13972e1d2a49",
+      "bytes": 275744
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/aracaju/captura-2b131979c8fb483e56aa.bin",
+      "sha256": "9e7a00b8bcba921e89ef493a6d8ce2e629da2168026fa5894391121797a60138",
+      "bytes": 242981
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/aracaju/captura-2b131979c8fb483e56aa.json",
+      "sha256": "b421b28dba9d2275977557614fa64815f825428f74656b3b92aa885a37231548",
+      "bytes": 299
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/aracaju/lei-organica-atualizada.fonte.json",
+      "sha256": "203c5c0cbeabb29eacd8202d9d9c09f200b1c8d7765895f559836bc89e36e4e1",
+      "bytes": 276
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/aracaju/lei-organica-atualizada.pdf",
+      "sha256": "5126f91b91aa3d4d680d8282b2d4f51ebaf6a6abe11dfac79c9b3ba80e0dbc1e",
+      "bytes": 1236452
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-tachados-aracaju/controle.json",
+      "sha256": "ba8de3640a66a8e946a45ef4afa995b4e69aef6395014777024639a8451e37cc",
+      "bytes": 193422
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-tachados-aracaju/lei-organica-atualizada.json",
+      "sha256": "89347a9e6e0299b3dfdf20fe753eb16fb005ee3ccd7212142c07d0e6ea0aa6bd",
+      "bytes": 170510
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/confronto-nativo.json",
+      "sha256": "c2febcb009b3093cb859f207b75b2e304531329630f9511f443f1b3f868acfc5",
+      "bytes": 27864
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/cores-aracaju.json",
+      "sha256": "53c18406fed5d2b56637916d272e2e6091b9db405ce46328d76ee3ba46719da7",
+      "bytes": 15809
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/entrada.jsonl",
+      "sha256": "eb7b65a2b5763b5911afb102e4a0a903ed3c022bc411997d5ce2f7f03e34d7b9",
+      "bytes": 113984
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/fluxo-completude.json",
+      "sha256": "b49e55eed81dc18eebc7eab57fc4a3907a71291d4ae6fe5654a4ad784cd60902",
+      "bytes": 1848
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/imagem-capa-000.png",
+      "sha256": "71823197e27c414efd4dbe95613ddee202610a280560f18934dc3c32f3ea051d",
+      "bytes": 75234
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/imagem-capa-001.png",
+      "sha256": "5799a7c5c122b2091a6d80391c934a56c21248dfd9e9a5a3192039f7344dd618",
+      "bytes": 34286
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-001.png",
+      "sha256": "0d222c6ba5a13de68be30f0e3d1d2f316782e74e2d4d7cfa0d9fd3a2ac41d27b",
+      "bytes": 106054
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-070.png",
+      "sha256": "c5e1ac8c508c371f87e1e853457094600cf1427207065ee690983cfff982cb1e",
+      "bytes": 316006
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-107.png",
+      "sha256": "0e1b5eb90bab88824c76469b9360b566451e9c79135467aafc5de2d5dbbf926d",
+      "bytes": 100325
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/plano-contextual.json",
+      "sha256": "c7fb92f6177dfda2241524115543fe1aa3145b7457b448e604ffda274bf1d65b",
+      "bytes": 44580
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-100-grupo-1.png",
+      "sha256": "e88af2a71cfe0febdd3749b96b26fd4a31ca5f1c20e2e9886a86df8643fd7e43",
+      "bytes": 57842
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-100-grupo-2.png",
+      "sha256": "15d890c712be64106e7d84382538df273f165576a97a0a77932938c8a062d82c",
+      "bytes": 68477
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-103-grupo-1.png",
+      "sha256": "d83a0a9540b03d8936db7c6287d6e022599ba8e53302cc766d475b2dc20ecad3",
+      "bytes": 51641
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-103-grupo-2.png",
+      "sha256": "27c5960c2069e5f30bd92b9cecde9d6b01930526eba0909054e8f3762457bc13",
+      "bytes": 54681
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-19-grupo-1.png",
+      "sha256": "93b7cc419185b34ad6a10ff423c15e7461883f8e979b91b021aeae05c32aa815",
+      "bytes": 80703
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-19-grupo-2.png",
+      "sha256": "b1b12ea4e9a8b251c354cec48a75322c312e2cdd32950c66bd5a17ba3caa4e8e",
+      "bytes": 68863
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-20-grupo-1.png",
+      "sha256": "1eaa20696fab03b38e78cf2d5293ab177c4a42f03c82fdfe8a42c97617fa018f",
+      "bytes": 104150
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-24-grupo-1.png",
+      "sha256": "9baeda335b2b79741e0820e872e96c50beba019ec76c50e053e6fc24bfb5ea02",
+      "bytes": 70283
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-25-grupo-1.png",
+      "sha256": "9f3828ca9de5062ccfcd2ad92161ea6a1895890c5ebac81e0905b19026b18d1e",
+      "bytes": 88487
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-26-grupo-1.png",
+      "sha256": "c25703129a8b5b51a6caeb62a1bffff18cfd0bb98aa766b4cf7371dd5da2167a",
+      "bytes": 33905
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-27-grupo-1.png",
+      "sha256": "975f709bfe1f6ffd67a8f2e96f416111ce5fcf9a3728b8c4f2e0a709f0e0ab84",
+      "bytes": 49401
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-27-grupo-2.png",
+      "sha256": "612e4884b34c27f86c3e58458e15df2ee1b4e1ddf7a3a3c402df3668ee1d428c",
+      "bytes": 57021
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-29-grupo-1.png",
+      "sha256": "ac87c4a4665eb36a9b535f6fe25c91c492e97d5555c432f350c205a6c31f1eea",
+      "bytes": 76647
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-29-grupo-2.png",
+      "sha256": "7fee1bfc260fc3be889390b0e965bde044926a9d63e17ed54f3f6f9ffddaa3f8",
+      "bytes": 59452
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-1.png",
+      "sha256": "ebfc1bcd0bbed041c24f6a82c19070e1adefbf5a4b4d8ab14a993f47fe4a90a4",
+      "bytes": 52264
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-2.png",
+      "sha256": "2ccbbc4c355d0bf2f806747130fceaaacb585a6f60826393557e4d1c62518001",
+      "bytes": 51927
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-3.png",
+      "sha256": "b64f047fd10b5e2eef578dce539ab25731519787339f3f618be55acf946d8109",
+      "bytes": 41259
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-4.png",
+      "sha256": "a88280a4b284daa20025d28429262ba0de5eb9e6b73c89dc2721cded58fa7d90",
+      "bytes": 49946
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-5.png",
+      "sha256": "4c4ccf5f7f9833288a0cd7171b41a0d28dc4d11e111204c9fc3546c894e77d51",
+      "bytes": 59829
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-30-grupo-6.png",
+      "sha256": "6beb1ae0d65942a0a6c8ba17d7d102678fee8006b52b09a5cf6c056c999d5d10",
+      "bytes": 44640
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-31-grupo-1.png",
+      "sha256": "cf499ac912e22d25f3132235bd6a7ecbd72495f6cda5a124c3896f0f4a43c235",
+      "bytes": 58360
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-31-grupo-2.png",
+      "sha256": "aed9e98aa5d0214161519dfc1813290a509c66dbe56af4b60ad8005d531b7956",
+      "bytes": 73600
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-31-grupo-3.png",
+      "sha256": "ebda93a818c6d952d03668dcc84bd79a06b767148e76121a2d4eabea8c8c1f07",
+      "bytes": 64218
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-31-grupo-4.png",
+      "sha256": "5eca091007c6b9ff6d255997f204b000d7a6aa41d910ba6a63e565b3175cdd24",
+      "bytes": 21044
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-33-grupo-1.png",
+      "sha256": "314f9079a44a918fbd2382ca0bc21ba235af48d7b23b5cbc034dffd00441c789",
+      "bytes": 50559
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-33-grupo-2.png",
+      "sha256": "e8ff2939b8b29d4b724c796bf6ee3cbddc13d61a684b8162e20d3a2d6165173f",
+      "bytes": 56558
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-36-grupo-1.png",
+      "sha256": "722f066b2e42ddbe2c3fb03befc99a9c77e5eb4e400f44d777b93d7eaef583be",
+      "bytes": 74237
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-36-grupo-2.png",
+      "sha256": "40dcf110d627387910c18f3c63563a44c4c519b5941019d6ad9b9c1df2218593",
+      "bytes": 60082
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-37-grupo-1.png",
+      "sha256": "f96d8d622bb88a024bf7febfc4d95646bcd313835c49dd5d56e77dde462ca8ac",
+      "bytes": 68326
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-38-grupo-1.png",
+      "sha256": "fe1e4d9469c71fb941a218b1ebb3b5073c82e26cf9d92e6f6a67524629f1a12b",
+      "bytes": 71283
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-38-grupo-2.png",
+      "sha256": "09beee7520cbfe3567fb8431bfd90a01889155c7dcf4a7be8bdd982763d4fcd2",
+      "bytes": 24198
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-39-grupo-1.png",
+      "sha256": "138a2360e2c3e27fc53f05bf6ddcdd853cae54490d1ccd21b4d42391694ed8ea",
+      "bytes": 61971
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-40-grupo-1.png",
+      "sha256": "714054956640c4207b61ce34d0a32dd7fba9bb7431ccc4d38056907c18ba1ef8",
+      "bytes": 46824
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-40-grupo-2.png",
+      "sha256": "75b6d57abb78977f9f34efa34e9a69c4e16968ea2f82f7182dab97aba99e676c",
+      "bytes": 64304
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-41-grupo-1.png",
+      "sha256": "7ef0500821f696da625e5378eec4860254d1065099043c13569b185e648719ab",
+      "bytes": 44660
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-42-grupo-1.png",
+      "sha256": "11498e40dc94c0e30b3870aabc6e5de59955772377160470800bd831a9e4a860",
+      "bytes": 60362
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-43-grupo-1.png",
+      "sha256": "7a8587a17b93456dfc387107df141d591f580fbe1214126690d3c1955077186d",
+      "bytes": 50980
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-43-grupo-2.png",
+      "sha256": "e976d4ab3b5ee0549541517b52efca65dd2af600bb2cc7274600ab3c9514ee7c",
+      "bytes": 52800
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-43-grupo-3.png",
+      "sha256": "2915a438952a4fe347fa215d026d15998c907b4ca0720b1f1bb6fb8460f78f14",
+      "bytes": 43410
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-43-grupo-4.png",
+      "sha256": "fbc787c8947428098dbf751db81cfb5b06e227f6c79d7a7024c92ceba89dbbe5",
+      "bytes": 29139
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-44-grupo-1.png",
+      "sha256": "30ec47603174ed3b9a22b64e59befce25a0f2c62bd323f20885d4cb60b0fea69",
+      "bytes": 46536
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-45-grupo-1.png",
+      "sha256": "8aa9d4872854f925e4f7e3fdc213135e286c412a68686815a7551fa97476c056",
+      "bytes": 48923
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-52-grupo-1.png",
+      "sha256": "f0251fb936a34d64521246564b8150ee055c7df2df8431d3f81c36ad947fc715",
+      "bytes": 50865
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-52-grupo-2.png",
+      "sha256": "9d76a116e2fea5094008b7df8ea7d3a16fe7b31a7a1329cb365c2a109f080653",
+      "bytes": 19899
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-53-grupo-1.png",
+      "sha256": "95e3f2188cf91bae8d5349417861cc5efd89169eaf6b83ef20861f3770da5b93",
+      "bytes": 34968
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-54-grupo-1.png",
+      "sha256": "5a0bf68a4a203cca06be2679369e3debe41d3d0bc2d2d64a78d8c43af5648d33",
+      "bytes": 28908
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-55-grupo-1.png",
+      "sha256": "f709193ea0fd83743cf3186d9440bb930d85fa1da11976240c961be72f7ef6ef",
+      "bytes": 52126
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-56-grupo-1.png",
+      "sha256": "d2bb47af747171d166d6d5a75c5ed12439f91bdaa5b09673061395f5a0a6e8e3",
+      "bytes": 69270
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-56-grupo-2.png",
+      "sha256": "c1e1d6397b3add5df476dc074fc9ca7d71e01339a984823b09afb50ee9da6a5d",
+      "bytes": 83538
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-56-grupo-3.png",
+      "sha256": "d05fc6ed0d8dd5e0c2103491e934978bceb75d9b66ef9c370df5941c38fb0711",
+      "bytes": 77599
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-58-grupo-1.png",
+      "sha256": "46e299138f1b7e5ce146217859547e00abf397aaab0a106acdbfe378f00cb323",
+      "bytes": 52724
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-6-grupo-1.png",
+      "sha256": "c6ffc5267d17f8b99f30d9b5a3379936bfde6cc8240f0da12ac2f8b77d318baa",
+      "bytes": 65498
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-66-grupo-1.png",
+      "sha256": "6ee679da0e5fadc0dbef0b6b1378320210212377a1a505c40cc200b04ba4ef1e",
+      "bytes": 48189
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-66-grupo-2.png",
+      "sha256": "b623d6f9dd715239d42265771617e9819d800d97828c42286816c65334bf60cd",
+      "bytes": 77787
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-67-grupo-1.png",
+      "sha256": "b70610ec08c45072f291512116a951a8c51b0c3f135e3f9cd0ea042eea925c4b",
+      "bytes": 35044
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-68-grupo-1.png",
+      "sha256": "3c4f8b46abf2a2441e0b602cac964816f1bc82a66638a0708fab397c10122571",
+      "bytes": 62781
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-7-grupo-1.png",
+      "sha256": "13e4651973c0a2296e4fdd27ae73a61b8058eb5fd71970d002a6c90385dc4f4f",
+      "bytes": 42083
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-71-grupo-1.png",
+      "sha256": "245a26865e7ee2747256b7f6b61ba00816a349d6c411fef89fd43096e502eb4f",
+      "bytes": 71067
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-73-grupo-1.png",
+      "sha256": "71b5d88c0286eb1343b32267dab52dea4591753c8c81daec671c99e276dfc5b3",
+      "bytes": 63789
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-73-grupo-2.png",
+      "sha256": "0f375d65368bbc0d13a2f21b7d51fa28ef0c7b84c0f4c16cbb2831954e5be02d",
+      "bytes": 69166
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-75-grupo-1.png",
+      "sha256": "095b5df4fa91ec630937666262078fb723c50b79b3fbf468d338e2bed1334276",
+      "bytes": 103569
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-77-grupo-1.png",
+      "sha256": "e6202f50079e19215d666c7afc5dfa9adb8c30ea760d587ade7de90df9beb110",
+      "bytes": 42946
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-77-grupo-2.png",
+      "sha256": "1c95e04b967da2a862df6542797e622d57f3902447992b0955beef80166cc0db",
+      "bytes": 54381
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-78-grupo-1.png",
+      "sha256": "039807b7db9b3a92cd66281aab6412c0d17273926d5bf365636d9d272b3715c8",
+      "bytes": 37195
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-79-grupo-1.png",
+      "sha256": "f15cebd4a9fad19cfe9b2b3a435518be46cb6724e02154b339ed3eef4dab26bb",
+      "bytes": 70533
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-80-grupo-1.png",
+      "sha256": "8c5f8d4e5315e0a7f73791602a694d434ae2bfc5aaf6970ccadc655daac6c552",
+      "bytes": 36839
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-86-grupo-1.png",
+      "sha256": "693f3f05c988430e10f461172979729a76b1650cf40fb8d3cd312dfd384dbc4f",
+      "bytes": 91356
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-89-grupo-1.png",
+      "sha256": "d642cce9d1a7933ad7a21805d3160c118ac4b02ee6e85ee8e4d3f8b7a40ede0b",
+      "bytes": 30695
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-89-grupo-2.png",
+      "sha256": "d96cbd2d7df4d1dc5eed4a897da0b9e5518155cf0269511671674c00e222880f",
+      "bytes": 64612
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-92-grupo-1.png",
+      "sha256": "5653ea0d00c9856bc0b8d5217e997765808a11958485c2051dcb4411be44cdbf",
+      "bytes": 79926
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-94-grupo-1.png",
+      "sha256": "54277dd25b04da22aee9188e6a30131d6c19a6b12c428e71a78550e140660000",
+      "bytes": 41598
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-95-grupo-1.png",
+      "sha256": "c5bcbca293320a6d27f32f1ffa4028f4e885c4fcc59683d85abf004f2d17bd0a",
+      "bytes": 56339
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/aracaju-95-grupo-2.png",
+      "sha256": "3a6cb7bcc47a6b22426d0b16adb50de0eb6ff95b1eba656def51dd5f79c5d4ff",
+      "bytes": 53922
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-001.png",
+      "sha256": "4881fed1e2f225fd6f73baa8c1e60489a4e3451bd44b515e88cb6e42e77252cb",
+      "bytes": 368900
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-002.png",
+      "sha256": "5d9d3d8a7032f0b92708046da318089ccaddbfb4fb0c949175fd34f58d9d721d",
+      "bytes": 306456
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-003.png",
+      "sha256": "f8e1068e5ff8516a026e4e1846d43440bba1e010dd60f0e68b6399634ed0f0db",
+      "bytes": 289132
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-004.png",
+      "sha256": "765673e117865d48b2509a95c4fdcddb885038308488cb490f329679f41b4866",
+      "bytes": 294181
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-005.png",
+      "sha256": "d6bccc252be54110d363e0de624b049bbb0a8739303d3d3420d5b56db6f8f61d",
+      "bytes": 274030
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-006.png",
+      "sha256": "b8d8dc28250d23b1aa342a3fbfbe4d4d5093e215b93f7efa76cdbbfac80c914a",
+      "bytes": 293476
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-007.png",
+      "sha256": "aabcc32f0391d5921ab9981f2834bc53d171288417150b15e740fd24ac323754",
+      "bytes": 274547
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-008.png",
+      "sha256": "f3fae8cb57453ba6ba9e593863e016360fa5224302cd70e14576cb2311a193f9",
+      "bytes": 228003
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-009.png",
+      "sha256": "7304354293929d2a0e3e8fe562de816bca188647f77659f2c814cc64951fe3dd",
+      "bytes": 193711
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-010.png",
+      "sha256": "613b18fe9aa7ed0d8694c938241416dbd593efbd23283393a3d7f6d117a45914",
+      "bytes": 338836
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-011.png",
+      "sha256": "a180253527ed6fc66e99a21d770f30648bcea59c29e4856e2055743377ecbab7",
+      "bytes": 317679
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-012.png",
+      "sha256": "c4f1f208de98cb63ee81a03511d2525ffd743d5f844ee82226e4701d603e4eb2",
+      "bytes": 314547
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-013.png",
+      "sha256": "58fabfbe11ae7d4bf5068c83bdd711c8789bd3768bbdfd3df122897ed28c472b",
+      "bytes": 301474
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-014.png",
+      "sha256": "b5bcff209f1b5ffd160bbb92eb86d557aedf13d954d05361cb0001c54569da30",
+      "bytes": 297295
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/contato-015.png",
+      "sha256": "8b205aa270080c4d2cacc069c244c1cc43450143acc082f5a0547dd3d4bed714",
+      "bytes": 179531
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/recortes/grupos.json",
+      "sha256": "b6e80a6f560c2ab5de0a3944fe3ee1f09936e86b268979fdf7a45e7cefba2d52",
+      "bytes": 40860
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/revisao-imagens.json",
+      "sha256": "27e4e256d26c919816428548a00abbf711c4feb311e16b9b74e45c704262b0f0",
+      "bytes": 1079
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-inspecao-tachados/revisao-visual.json",
+      "sha256": "df2dc9cc7fa9782a40f0cce86691eeb65b17d9971c9b8bb8d0587609f047fdb2",
+      "bytes": 25700
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/artefatos.paths.txt",
+      "sha256": "6aadccb803867679f8ae08b280e1324b3e48d14f518b85ba225d9477b646111a",
+      "bytes": 9701
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/auditoria-municipal.json",
+      "sha256": "8d870f63f0c1acc1f54c026b1eff09099939ac5d35a7ef90ea139e6dda2c24d4",
+      "bytes": 683
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/codigo.paths.txt",
+      "sha256": "2d65457279ac596d230a5b944db58cdb1054340c26e527b94d070b320fadae8c",
+      "bytes": 428
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/colisoes-baseline.json",
+      "sha256": "253eb1802a61b8dfa8f9355f6fe378b67cc5c9dfc6098a58f2d84c541eac830c",
+      "bytes": 1745
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/extracao-integral.json.gz",
+      "sha256": "4d5a2e85417694c8ed6fda1ba162f3242999e4eb155e9eb4a0ce791a4279ba27",
+      "bytes": 751719
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/formato.json",
+      "sha256": "5b61b2acb07a3f29bd32089ff067d46f50e61fb3f7d864a2fc04cc984a26cb2d",
+      "bytes": 34
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/manifesto.json",
+      "sha256": "2efee4642cd41e0f61b983943548cc0d31a477857a66b1749f6ea287e490f5d5",
+      "bytes": 1115
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/normas.paths.txt",
+      "sha256": "eb9af076ee5880c7b3468339cde85af4d3791640842848f4ca2c54dc1cb3e89d",
+      "bytes": 69
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/prova-paginas.json",
+      "sha256": "4a7626e3115a535a65e3195e8fd174c8b150bf0053deefe50e8ddb8a6db5a358",
+      "bytes": 29534
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-aracaju-lo/replay-commonmark.json",
+      "sha256": "55d20c0a4f43697373269a77b6f1194ded9de8e999da98bf95f87c26cf97aa67",
+      "bytes": 590
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_cores_pdf_municipal.py",
+      "sha256": "406a5e11812743b619553bc8f7b7318f9f258aac9740bc608118ca6dae33e9f2",
+      "bytes": 2333
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_tachados_pdf_municipal.py",
+      "sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a",
+      "bytes": 2569
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/converter_organica_aracaju.py",
+      "sha256": "02bd34297af4a4c3424d3f2ee92d2c6813e9b42d5399d49898e2be4c88756f9f",
+      "bytes": 8502
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/marcar_tachados_sapl_revisados.py",
+      "sha256": "d18ea9cf7cd91b8e6b06999a3615427b3f10584a8f6448937d844d1f4fbb02d9",
+      "bytes": 5753
+    },
+    {
+      "arquivo": "scripts/preparar_revisao_tachados_sapl.py",
+      "sha256": "8f2bd2d49719b085c6d651b6a809bee2ceee8a42d7df588460e0aeacedbc8847",
+      "bytes": 3629
+    },
+    {
+      "arquivo": "scripts/test_organica_aracaju.py",
+      "sha256": "ed1839567ac8dc570318b5642f47a657febc1d5444836800dd037cad505c0356",
+      "bytes": 2146
+    }
+  ],
+  "bytes": 14798063,
+  "listas": {
+    "normas": "municipais/_lotes/20261021-aracaju-lo/normas.paths.txt",
+    "artefatos": "municipais/_lotes/20261021-aracaju-lo/artefatos.paths.txt",
+    "codigo": "municipais/_lotes/20261021-aracaju-lo/codigo.paths.txt"
+  }
+}

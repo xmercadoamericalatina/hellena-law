@@ -1,0 +1,54 @@
+[
+  {
+    "grupo": "gate-v3",
+    "testes": 8,
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/testes-gate-v3.paths.txt",
+    "sha256_lista": "11912248dc795791fd6819a544c44b1d2d47473c31d47c465647bbf45b08b6bd",
+    "scripts": [
+      {
+        "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+        "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe"
+      },
+      {
+        "arquivo": "scripts/test_rotulo_literal_ta.py",
+        "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3"
+      }
+    ]
+  },
+  {
+    "grupo": "fila",
+    "testes": 5,
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/testes-fila.paths.txt",
+    "sha256_lista": "8fd90deb4097729abec3f711e54bf62179cf0525b44c918615b007a205620ad0",
+    "scripts": [
+      {
+        "arquivo": "scripts/test_fila_ta_sapl.py",
+        "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c"
+      }
+    ]
+  },
+  {
+    "grupo": "reparos",
+    "testes": 3,
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/testes-reparos.paths.txt",
+    "sha256_lista": "c9436e9f563137be6846e201fa7d6baeb77e96f054ec70caee5e5d4990416ca0",
+    "scripts": [
+      {
+        "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+        "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c"
+      }
+    ]
+  },
+  {
+    "grupo": "promocoes",
+    "testes": 3,
+    "lista": "municipais/_lotes/20261021-municipal-agregado-382/testes-promocoes.paths.txt",
+    "sha256_lista": "18b4c650e62d9e5876ef9118d16ac496d61faf664dfe4635e3de56995e86113e",
+    "scripts": [
+      {
+        "arquivo": "scripts/test_verificar_promocoes_ta.py",
+        "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597"
+      }
+    ]
+  }
+]

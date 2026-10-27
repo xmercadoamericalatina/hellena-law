@@ -1,0 +1,124 @@
+{
+  "path": "municipais/RS/erechim/resolucoes/1969/resolucoes-1-1969-sapl-5701.md",
+  "sha256": "0763033627ccbffefbf667ad64897f615b37df96b685b3b11738b13d84a1b7e4",
+  "fonte": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/1a37ffaa6bbcf81035d4f1ef33955da3cd3dd19ba41f6f285de7537aa0a461d9.html",
+    "url": "https://sapl.erechim.rs.leg.br/norma/5701",
+    "url_final": "https://sapl.erechim.rs.leg.br/ta/856/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "06ce844bc7f92d61cc65a3638033c7630685401bb5aefe6163113ac90aeed6f1",
+    "bytes": 41475,
+    "capturado_em": "2026-10-21T04:37:17.360120-03:00"
+  },
+  "alertas_originais": [
+    {
+      "municipio_declarado": "Erechim",
+      "municipio_no_cabecalho_normalizado": "pelotas",
+      "offset": 1908,
+      "trecho": "SSÃO DE AUXÍLIO A BANDA MARCIAL COLÉGIO PROF. MANTOVANI=PG 253/66.\n\n\nArt. 12.\n\nPROPOSIÇÃO CÂMARA MUNICIPAL DE PELOTAS, TRATANDO DA RESTITUIÇÃO DO IMPOSTO DE RENDA NA FONTE=PG 12/68.\n\n\nArt. 13.\n\nPROJETO DE LEI DO SR. DEPUTADO OCTÁVIO CARUSO DA ROCHA, TRATANDO DA CRIAÇÃO DE NOVOS MUNICÍPIOS="
+    },
+    {
+      "municipio_declarado": "Erechim",
+      "municipio_no_cabecalho_normalizado": "rio grande",
+      "offset": 2143,
+      "trecho": "RUSO DA ROCHA, TRATANDO DA CRIAÇÃO DE NOVOS MUNICÍPIOS=PG 6/68.\n\n\nArt. 14.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE RIO GRANDE, TRATANDO DA IMUNIDADE DOS SENHORES VEREADORES=PG 7/68=\n\n\nArt. 15.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE LEI DO SR. DEPUT"
+    },
+    {
+      "municipio_declarado": "Erechim",
+      "municipio_no_cabecalho_normalizado": "passo fundo",
+      "offset": 2256,
+      "trecho": " GRANDE, TRATANDO DA IMUNIDADE DOS SENHORES VEREADORES=PG 7/68=\n\n\nArt. 15.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE LEI DO SR. DEPUTADO PAULO BROSSARD DE SOUZA PINTO, RESTABELECENDO O QUADRO DE SOLICITADORES, NA ORDEM DOS ADVOGADOS DO BRASIL=PG "
+    },
+    {
+      "municipio_declarado": "Erechim",
+      "municipio_no_cabecalho_normalizado": "passo fundo",
+      "offset": 2606,
+      "trecho": "CCIONI, CRIANDO O FUNDO DE DESENVOLVIMENTO DA PECUÁRIA=PG 9/68.\n\n\nArt. 17.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE EMENDA CONSTITUCIONAL, DE AUTORIA DO SENHOR DEPUTADO UNIRIO MACHADO, TRATANDO DA APOSENTARIA AOS 30 ANOS.PG 311/67.\n\n\nArt. 18.\n\nR"
+    }
+  ],
+  "esfera_federacao_api": "M",
+  "natureza": "Resolução de arquivamento de expedientes, da Câmara de Erechim. As referências a outras Casas identificam expedientes que esta resolução manda arquivar; não são epígrafes de atos alheios reproduzidos.",
+  "fundamento_literal": "DETERMINAR O \"ARQUIVAMENTO\" DOS EXPEDIENTES A SEGUIR ABAIXO RELACIONADOS",
+  "dispositivos": [
+    {
+      "artigo": 12,
+      "id_html": "d31477",
+      "texto_html_literal": "PROPOSIÇÃO CÂMARA MUNICIPAL DE PELOTAS, TRATANDO DA RESTITUIÇÃO DO IMPOSTO DE RENDA NA FONTE=PG 12/68."
+    },
+    {
+      "artigo": 14,
+      "id_html": "d31482",
+      "texto_html_literal": "PROPOSIÇÃO DA CÂMARA MUNICIPAL DE RIO GRANDE, TRATANDO DA IMUNIDADE DOS SENHORES VEREADORES=PG 7/68="
+    },
+    {
+      "artigo": 15,
+      "id_html": "d31484",
+      "texto_html_literal": "PROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE LEI DO SR. DEPUTADO PAULO BROSSARD DE SOUZA PINTO, RESTABELECENDO O QUADRO DE SOLICITADORES, NA ORDEM DOS ADVOGADOS DO BRASIL=PG 310/67."
+    },
+    {
+      "artigo": 17,
+      "id_html": "d31488",
+      "texto_html_literal": ""
+    }
+  ],
+  "fecho_literal": "SALA DAS SESSÕES, 31 DE JANEIRO 1.969",
+  "confirmacao": "Examinados os 32 artigos integrais, título, preâmbulo e fecho da resolução e sua área ativa oficial. Cada nome que disparou o detector integra uma proposição descrita como objeto de arquivamento, no interior dos arts. 12, 14, 15 e 17. Casa API é Erechim/RS e esfera da norma API é M.",
+  "limite": "Revisão individual desta preimagem. Não afrouxa o detector geral, não decide vigência e não altera a fonte ou a transcrição. Aprovação final ainda depende do controle separado de colisões.",
+  "origem_gates": {
+    "host": "sapl.erechim.rs.leg.br",
+    "norma_id": 5701,
+    "ta_id": 856,
+    "aprovado": true,
+    "path": "municipais/RS/erechim/resolucoes/1969/resolucoes-1-1969-sapl-5701.md",
+    "sha256": "0763033627ccbffefbf667ad64897f615b37df96b685b3b11738b13d84a1b7e4",
+    "bytes": 6375,
+    "gates": {
+      "tipo_oficial": "Resolução",
+      "categoria": "resolucoes",
+      "tipo_canonico": "Resolução",
+      "titulo_literal": "Resolução nº 1, de 31 de janeiro de 1969",
+      "tokens_ativos": 796,
+      "dispositivos_ativos": 71,
+      "historicos_excluidos": 0,
+      "cortes_de_vigencia_declarados": [],
+      "anexos_proprios": 0,
+      "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/79efae3347d0eb085e0c5b92c35c43d913173313d17d81ba82b58e2001f6020e.json",
+      "sha256": "9d86eace1a1bcf8179b5da6bb292fb890817527d53307b3853863b7a5265147c",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/79efae3347d0eb085e0c5b92c35c43d913173313d17d81ba82b58e2001f6020e.meta.json",
+      "sha256_metadata": "d19bd25533b531c316463854fb90d9024d2b6309a16186849b53d544c22c8df7",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.json",
+      "sha256": "3112453d62ccc5786d8b58efaef9e6169054c13b789b9e8532147bd377cb364f",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.meta.json",
+      "sha256_metadata": "98141e2bf774e168fbed6c22a0e8f88d573cd36cb6baa2bc4c1c4ca24d73fb5b",
+      "url": "https://sapl.erechim.rs.leg.br/api/base/casalegislativa/"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/2b34ee1312c266cb9aba2254d65781e083fd8b73aee0c62e2003e9de6c53a249.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/norma/normajuridica/5701/",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/norma/normajuridica/5701/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a2073d6458d5ba211e944a27f3960490407c02c9c6a977f3b84e3165d00b0706",
+      "bytes": 748,
+      "capturado_em": "2026-10-21T04:37:14.340149-03:00"
+    },
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/1a37ffaa6bbcf81035d4f1ef33955da3cd3dd19ba41f6f285de7537aa0a461d9.html",
+      "url": "https://sapl.erechim.rs.leg.br/norma/5701",
+      "url_final": "https://sapl.erechim.rs.leg.br/ta/856/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "06ce844bc7f92d61cc65a3638033c7630685401bb5aefe6163113ac90aeed6f1",
+      "bytes": 41475,
+      "capturado_em": "2026-10-21T04:37:17.360120-03:00"
+    },
+    "transcricao": "municipais/_lotes/20261021-textos-articulados-expansao/sapl.erechim.rs.leg.br/candidatos/5701-856.txt"
+  }
+}

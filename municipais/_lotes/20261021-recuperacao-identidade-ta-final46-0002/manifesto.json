@@ -1,0 +1,1937 @@
+{
+  "normas": 46,
+  "candidatos_auditados": 1000,
+  "retidos": 954,
+  "criterio": "Fonte pública oficial, IBGE, esfera M, epígrafe literal, contexto integral, anexos próprios ausentes conforme índice completo e replay independente CommonMark/GFM preservando pontuação, sinais e numeração efetiva.",
+  "data_captura": "Dia derivado da captura original, com America/Recife para timestamps com offset; ausência de offset declarada sem fingir recaptura.",
+  "vigencia": "Cortes e situação atribuídos à fonte padrão pública. Não certifica atualização ou vigência jurídica integral.",
+  "validacao": {
+    "auditoria_municipal": 0,
+    "replay_retidos": 0,
+    "colisoes": 0,
+    "comparados": 18039
+  },
+  "arquivos": [
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2024/decretos-20.233-2024-sapl-27001.md",
+      "sha256": "191a141956df38cf80dc6d79322f747294ff58e03ef4702fd8cbbc46d394f524",
+      "bytes": 4964
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2024/decretos-20.518-2024-sapl-27171.md",
+      "sha256": "e072842c5c4d5e6e7820267ac95cbf3e70d4005643b119c895c61e49a5b579a9",
+      "bytes": 2670
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2024/decretos-20736-2024-sapl-27709.md",
+      "sha256": "a5a054ee69cc1613a9c80b6596f944fb24f037874a0f594a0482658a755f4d66",
+      "bytes": 3098
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2025/decretos-20973-2025-sapl-27797.md",
+      "sha256": "3abfddf28d84f00df809a62559b9bbff2196418dd622046fc661e67223c52971",
+      "bytes": 1738
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2025/decretos-21096-2025-sapl-27964.md",
+      "sha256": "907bb99c4865b0e364d82a36647de26ea6fa25010a7fe153421499e5c15a30b3",
+      "bytes": 8530
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2025/decretos-21262-2025-sapl-28171.md",
+      "sha256": "e8c3cfd28965df13fec45998e71431a7de7af46262a989af92f5c898eacb61ee",
+      "bytes": 1800
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.196-2024-sapl-27261.md",
+      "sha256": "b80f00f04e6f9c7470934671a3f1373f6e4cf23fa2e7d0e3bb3b9ad0caa00f29",
+      "bytes": 1943
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.205-2024-sapl-27335.md",
+      "sha256": "19ee4b622083df5168da1fe30075a73a0fb1de4a78e6d3223502fdc3d315078a",
+      "bytes": 3701
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.208-2024-sapl-27298.md",
+      "sha256": "de249903145ef0fe3e7346b232ff7e3dec43c393be586b0ccd1a7e9fdd8dde4e",
+      "bytes": 2837
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.211-2024-sapl-27326.md",
+      "sha256": "607cba35ee1506705a8a63aca35294b133d5971fe1841ec2c6402360a0ff6505",
+      "bytes": 3809
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.212-2024-sapl-27327.md",
+      "sha256": "7eb59bf54fb511b0d94e07b5e35a25b73a47e07c11c18dbb84b56d9d9a72c5e6",
+      "bytes": 5649
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.215-2024-sapl-27328.md",
+      "sha256": "c317b9032a608e7d51ce48f8f08ad66ad0a626818a4419957c5518eb82a54dc8",
+      "bytes": 3523
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.216-2024-sapl-27329.md",
+      "sha256": "6e3bff9480a89bb546681c6d80bcafc3d7e2f83172e4e0eb9e7774ebfb767cd5",
+      "bytes": 2840
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.217-2024-sapl-27330.md",
+      "sha256": "c54cad2fcbc78c02e598e6c2cfb96ab30a695ab4f940998ed6931f05a9a14e53",
+      "bytes": 3399
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.218-2024-sapl-27331.md",
+      "sha256": "3373f2dcd9cfddca8906816d8a6557956f99fcbb796b83b8582323612b3cf151",
+      "bytes": 3645
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.219-2024-sapl-27332.md",
+      "sha256": "b65751eac5909c7b0248d7a97620a7bb589646bfdb91adc5831b76e5919ac083",
+      "bytes": 3539
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.220-2024-sapl-27333.md",
+      "sha256": "f2645c6e06aeb7091f3a1a30f5d70f6c9ec235e8b782ec7eff772408dff6bebf",
+      "bytes": 3686
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.223-2024-sapl-27502.md",
+      "sha256": "81531439706b0b64ba00dfead37d27024b81fc259a50741ae8e0a9787c34098e",
+      "bytes": 2846
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.224-2024-sapl-27501.md",
+      "sha256": "79cbcf286348560519247baf7db539f829a7ec09b661e50c8995aa68470bef69",
+      "bytes": 2462
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.226-2024-sapl-27336.md",
+      "sha256": "505e061d5fb20a5b8d204da475176b092df6d129a05b3f72ef5a05e33838e61b",
+      "bytes": 2346
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.227-2024-sapl-27337.md",
+      "sha256": "ae5f0f581a39f249ce7f13ea82287e9d36eed89baba8f861b2b716bc5a461899",
+      "bytes": 5312
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.228-2024-sapl-27338.md",
+      "sha256": "0f33c3ecb9dfe23603428c353bf4cd0768c493b42d1772f4b56d57f017f26ea9",
+      "bytes": 2632
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.229-2024-sapl-27339.md",
+      "sha256": "8371230ad5ec662cff2118a798b6e4d93449fffe78b12714349160759de076a4",
+      "bytes": 3997
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.230-2024-sapl-27340.md",
+      "sha256": "e83a5693a19b291751cb100a42d987479704bdf62b0d4dd211a32a03fcad670d",
+      "bytes": 4973
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3235-2024-sapl-28395.md",
+      "sha256": "6c193cc2f2daa69b93caa588abdea8ae388c3abf3898df81a016a10871087aa2",
+      "bytes": 3531
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3.251-2025-sapl-27808.md",
+      "sha256": "067685655d720882f33fc89aeac63f1237071e8c33c91bdc769da81a6d2c853d",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3252-2025-sapl-27813.md",
+      "sha256": "af49014919be770d0ee86cbf0b8078f87dd247b5190d687bfaf913ca1aace076",
+      "bytes": 3771
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3253-2025-sapl-27814.md",
+      "sha256": "ec5bdf03c4087bbf104d26148d7a2e70d072a3324b64b5879fd9695c4739999a",
+      "bytes": 11704
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3254-2025-sapl-27815.md",
+      "sha256": "a007ec7fc7a6236b46163c8f44b5aa971931f0ac88b590683ab50fa38749581a",
+      "bytes": 4788
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3271-2025-sapl-28248.md",
+      "sha256": "8203897500a5054a239c6a5bd190b465812eb7d23e48eb1f1bd192b9493aa1d1",
+      "bytes": 4308
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3287-2025-sapl-28293.md",
+      "sha256": "ef51f35ab5144e21c818e87fe55754b57b6ff78be9e583f3ff847be42e84b15f",
+      "bytes": 5214
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3288-2025-sapl-28340.md",
+      "sha256": "221f2a59ecb17c3350417619a2999b1cd2ea142062ef14e60c3878ec7cc3a593",
+      "bytes": 3781
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3289-2025-sapl-28341.md",
+      "sha256": "10ca820eb414280d2c463bca5e41eeed21bc2609528ebb75a59167a0ff067f89",
+      "bytes": 4515
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3290-2025-sapl-28296.md",
+      "sha256": "98adc6d667831481780e4126728402bab0e43ce100410fad663040866a1b7470",
+      "bytes": 4132
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3291-2025-sapl-28297.md",
+      "sha256": "5b3dae64b6d164545470fac7326aea10a50ac36f02d65502ae1d99861e7a7dcf",
+      "bytes": 3695
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3292-2025-sapl-28282.md",
+      "sha256": "30c2e4baef94fd7329885db985ac6105423f7e3b981bc214ea3c18b3d4e82222",
+      "bytes": 4130
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3293-2025-sapl-28281.md",
+      "sha256": "89ebefad0b9010d3007005bc53b1b917819ebfa78a715f388ccaaa1c7228e481",
+      "bytes": 4198
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3296-2025-sapl-28343.md",
+      "sha256": "fe3e715ce589fb2dcf66e53dde07944fd4f5261be936e4c87745366fe94d2ce1",
+      "bytes": 2704
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3298-2025-sapl-28246.md",
+      "sha256": "8252f9ee5411f70266854119f2cb730ef8d9b8350b9c5235d117e435698e0f86",
+      "bytes": 2802
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3303-2025-sapl-28280.md",
+      "sha256": "8bb9a84b925059d2720d4046021ee05a79c453b59489449f1036b9e2b4286464",
+      "bytes": 4677
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3304-2025-sapl-28279.md",
+      "sha256": "1e7ab07d4d0cfd34722a00e15e0bd528f0e94961135bdf9891122e5680ba31db",
+      "bytes": 4970
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3305-2025-sapl-28278.md",
+      "sha256": "04d362aa95fbb3adaa7c9768ea99fb433548e8bca1aa712f0903bfda8dea2683",
+      "bytes": 3449
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3306-2025-sapl-28277.md",
+      "sha256": "9aa170d35951f3cd0d76736554dbf235d264432e251bb2683f08e5bfd30f8049",
+      "bytes": 9247
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3308-2025-sapl-28403.md",
+      "sha256": "18d073f44ab3c958802b127248d0be6ac590060446487429df88677dd7a0b617",
+      "bytes": 3781
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3309-2025-sapl-28404.md",
+      "sha256": "040d24450ea16ed750819d3bca7bcc6732eb158c74449fa6487c66e38c474ba6",
+      "bytes": 2240
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3310-2025-sapl-28405.md",
+      "sha256": "d086bd98f9f437bd62d3ecbf61baafbe1581ba4efe499f7199a1b64c44d881a0",
+      "bytes": 5033
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/fortaleza/compilacao.0baf3580.css",
+      "sha256": "31186f5e22b63dc7c5c34a4c24bc416a09da131005fe2cd90bfdd5321e84a8df",
+      "bytes": 50078
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/fortaleza/compilacao.148cb66b.js",
+      "sha256": "3d940d97a07fda745815e51ae35975109ec98b5922d95f6915cde0ffd72739d0",
+      "bytes": 24087
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/07aae565ce4f262bfe27aeabc290a8f8549c2617cf36015f460fb54b8b117279.json",
+      "sha256": "1ac83ade0bf65391aaa86a6ce99ba3eb4f17c9b5262ec751a1a7cc3ce7d0deca",
+      "bytes": 66114
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/07aae565ce4f262bfe27aeabc290a8f8549c2617cf36015f460fb54b8b117279.meta.json",
+      "sha256": "84c0cde1361142fd101fb67b5eac3642c1110b7965e547320b628abfe7dfe8c9",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0928c0f6e991690ad09ab00225cf38fb9d796b76682862daffaa3674b20086d4.html",
+      "sha256": "8449b3f86576039923a3971212d381c75adf8d402b5804edfc602470b3c04c47",
+      "bytes": 31929
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0928c0f6e991690ad09ab00225cf38fb9d796b76682862daffaa3674b20086d4.meta.json",
+      "sha256": "65b3e33cdbcfd13417837a4daf54e6533d37a3da823e01f47a33da3fa4d09ff0",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0b8c866d2f8fd3ce0ff50ad6d17e194db1ff1302148d631c93d4df7ac166a747.json",
+      "sha256": "9879c9b6961ce22cd1d5ac175e83fa126978823865e5aca817519cf25f6131d2",
+      "bytes": 1118
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0b8c866d2f8fd3ce0ff50ad6d17e194db1ff1302148d631c93d4df7ac166a747.meta.json",
+      "sha256": "068b5e73f801093e33e04277232d31ed1fa1911c94c1f31c47307846765a29c1",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0c06fa33fc183e4a4af4a8988ce73e9baf2d1bf26328fb65eca85219c4c3260b.json",
+      "sha256": "7aee147da66a92670fe1a4025647a51dab85184b93e63104915ba6fe1798ba6b",
+      "bytes": 1103
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0c06fa33fc183e4a4af4a8988ce73e9baf2d1bf26328fb65eca85219c4c3260b.meta.json",
+      "sha256": "2dcf3552079e1dcc4e70c9a174d2c5df8669e7c91aaf9a52bc4c83a284adc9c9",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0fb01325fbf261c5baa2d0b64dec4e9afe39f792d52413aa63eed423772975ce.json",
+      "sha256": "cc611a3c3e99dab7d9e795c0abb4a3856a9aab6a367a2470d4fafc786e6ef2b5",
+      "bytes": 1181
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/0fb01325fbf261c5baa2d0b64dec4e9afe39f792d52413aa63eed423772975ce.meta.json",
+      "sha256": "1b706f7ec34c746e02659e5cd3a1074efc225f343be3546c2775d45744065979",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1068d78620bffe12b3ad921375d4a0a3a76b652da24091153d91a2a2ad9a38b0.json",
+      "sha256": "b77d493a9a2d51febb997a6cb54b2c0366ed6b73b4ed7bf4ace081d43aab40c9",
+      "bytes": 63666
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1068d78620bffe12b3ad921375d4a0a3a76b652da24091153d91a2a2ad9a38b0.meta.json",
+      "sha256": "2c2b0f52c9a74bac9e837ca487e3a2e421014d54d7029607cb99d63b057848f0",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/10c76926119b7609cac315421a6258c879217d385665f72813c9efe8312b7866.html",
+      "sha256": "dbf6262418ee2e8a5741eeef13174d58240bdbde45f9f372766161b324441f73",
+      "bytes": 29935
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/10c76926119b7609cac315421a6258c879217d385665f72813c9efe8312b7866.meta.json",
+      "sha256": "fc12d0afb75285eeb984367319dacd2f1481aa15eb581eaf571386131c286ff2",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1173ac08ad8dedc21f5c33b6ed6c77f427aab78b391b6d335d9bd20cc2afc612.html",
+      "sha256": "0f8453be339531422d0f3876e1cb1bf607690aa49919074a52924d3df1fb5a01",
+      "bytes": 31039
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1173ac08ad8dedc21f5c33b6ed6c77f427aab78b391b6d335d9bd20cc2afc612.meta.json",
+      "sha256": "cdc8fd0baa4f3257a65ea90665e9d80a1983367952597bce429ffcecac27cc64",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/158e8fdae32e1b64666911fa0c39531c5e7df76df75be231be7319f0237663fd.json",
+      "sha256": "68a316a403b3abc0ff321f904fb121b7d78817ad687ff763e2e73cf5c6253f2f",
+      "bytes": 1363
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/158e8fdae32e1b64666911fa0c39531c5e7df76df75be231be7319f0237663fd.meta.json",
+      "sha256": "a2b41a4143b8f50a14406ac96cdb5a91d18719d12d0821868ba0a2cb448329dc",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1c0fd5e10e7d3719ce19275da708291fbaf373416835afca04c16aaf6de7831f.html",
+      "sha256": "5519d05833df0d5c7991a3a96c50bb0a94a2b7594fb3fa16016d4682c824f1f5",
+      "bytes": 29303
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1c0fd5e10e7d3719ce19275da708291fbaf373416835afca04c16aaf6de7831f.meta.json",
+      "sha256": "bf4b665a44c26fadadbb26a37c9cbc81031900711bbdb935547b223bb1ab8f83",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1d7edec4ddd4fde3bbc078dcc6c12754d9e21fc81e91704a8aa4c6807932e94c.json",
+      "sha256": "f4c428bc539388c2a945ef2f3dcc58fea4993ea5dfd4e3f1a4dd5ae95eaff8d5",
+      "bytes": 1282
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1d7edec4ddd4fde3bbc078dcc6c12754d9e21fc81e91704a8aa4c6807932e94c.meta.json",
+      "sha256": "303e78a68f5266e89494466d2e396c34affa42073d48283bacc3d3857063f451",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1e1b6159abe63281feb1ca81e2351ecd785e7c08419aee19ba5b5edb5dd0a054.json",
+      "sha256": "23ba58337574fa6f71f34fc66982424d40aacdc6d6926797fa9ccaed91545ef1",
+      "bytes": 1438
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1e1b6159abe63281feb1ca81e2351ecd785e7c08419aee19ba5b5edb5dd0a054.meta.json",
+      "sha256": "d87cbc2ac0a7edca79ddf4a38f22603e05f274e7407b68add8665fb07c29429b",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1e5d4f6b27bd2965091383ab378cd3c5d15a8afc43bbb9b37ea551671a4dc7a8.html",
+      "sha256": "31185be57454b9e2d3e8340591abb5d2a190a4feea2f71228b49488a2778241b",
+      "bytes": 24403
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/1e5d4f6b27bd2965091383ab378cd3c5d15a8afc43bbb9b37ea551671a4dc7a8.meta.json",
+      "sha256": "6d8a69adca85ba1c895c1f108f11f7fdf6971f8813ed644e2957027458e9dd1d",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/226c98bbcae105fee5f3ab48c21ef44be28b694a105cf14ed47f6aa93375cf9a.json",
+      "sha256": "2e8fba43f5cbbb8eb492de652a0e3710ffe921bf400d7b2f0bdedeecf3caed4c",
+      "bytes": 65113
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/226c98bbcae105fee5f3ab48c21ef44be28b694a105cf14ed47f6aa93375cf9a.meta.json",
+      "sha256": "f4998b1d5a8715e0635f15a282705f45ee57efe2140320ed48119adc2e1d7f47",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/22da0fee074e6c522db8526b81ee9e158e69c0c342bad8fe3d17679b0253b775.html",
+      "sha256": "861b644172b87253edbb9968356211d9f9bfc85f851de11ab87ee07e262b5f25",
+      "bytes": 18067
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/22da0fee074e6c522db8526b81ee9e158e69c0c342bad8fe3d17679b0253b775.meta.json",
+      "sha256": "9ab588597689f868deb5e0b161c5d9367c2a8fd699db42b67b50784f48e81e7e",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/233ddd8e29023808bf9db8958312b0aa0323881ef5339ce128f35d1e35c4e000.html",
+      "sha256": "e6da330f451b664d2e203d51684f6a4d86296e70857fa3c1dbbb0534962a3ca4",
+      "bytes": 31075
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/233ddd8e29023808bf9db8958312b0aa0323881ef5339ce128f35d1e35c4e000.meta.json",
+      "sha256": "a4792622d64958e2d622564586beaf2f4e98122631fbd84702cdf3e444d0d60f",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/235562a80b3044301bf855bc80fed7e329ba796d261f1bd439f9f3a447bf242b.html",
+      "sha256": "fb075637620174c93b05a74eda2f9657fa07d888a437e1ec5cc660f71726be4a",
+      "bytes": 26014
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/235562a80b3044301bf855bc80fed7e329ba796d261f1bd439f9f3a447bf242b.meta.json",
+      "sha256": "a9f5bb31ede584e30651f32a46b29f688d7a7f5ec016045d0bb9a2ce2fc12175",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/238ed7e60277ec95fd321a84396769c3859f779963e9a847b471ab2935efb390.html",
+      "sha256": "a1f94430e3cd3a42ef23beefd3f4749266346158968d94111eb581702d611cba",
+      "bytes": 23873
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/238ed7e60277ec95fd321a84396769c3859f779963e9a847b471ab2935efb390.meta.json",
+      "sha256": "3f977604dbec8a9a45102f1790c0886b376f60789be8dbb9d1b51ddecea02639",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2509472f807fbda114571bcc756280e561b5833ef26244c959cb55519e34ee82.json",
+      "sha256": "b3cc8e7417aed0e809200bc64ed01979e1647335f9721d09593a10e41c2cf33e",
+      "bytes": 1240
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2509472f807fbda114571bcc756280e561b5833ef26244c959cb55519e34ee82.meta.json",
+      "sha256": "e656b5eddeccbb9b8ce5f1002001f48899cfee5d671f2db3299a1bf91a1fb35b",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/250bc1b88da3788d6a5eab280eec44864b45e7a8d5e3f4b2f16789747dd8b5b8.html",
+      "sha256": "9412f1617f4e7a28327bac07396510f9a6f741150799ef65afa1a9eecb4e2e42",
+      "bytes": 20653
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/250bc1b88da3788d6a5eab280eec44864b45e7a8d5e3f4b2f16789747dd8b5b8.meta.json",
+      "sha256": "ba9a22a7d9c70921f3e74905732e47afaf350b6e56602cfa60f7644ec8388973",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2b407c6ae2c96c154cdb4e7dcf2fc2ab3a8915b45cce7d60592652c9e9dd2f4e.json",
+      "sha256": "819d4b36954ff37967cee30f1419c6958777c168110e7601a9bfa548dfe4ec43",
+      "bytes": 1543
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2b407c6ae2c96c154cdb4e7dcf2fc2ab3a8915b45cce7d60592652c9e9dd2f4e.meta.json",
+      "sha256": "85d30d00463e901785b63d65edf7f41881b0c130a7154093ad08940aea98d486",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2bb2f4471be70ac4171357482447ec37e3534ca55be5670000a87b31d3df2a26.json",
+      "sha256": "6de862ffe748effdff40aff4965490b1375b7f1a803215e6d6ee5d677f89c771",
+      "bytes": 952
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2bb2f4471be70ac4171357482447ec37e3534ca55be5670000a87b31d3df2a26.meta.json",
+      "sha256": "249ad0a864a2462944f302ac3927136925871bdd22e1735ebe45eebc25c1bc5d",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2d10912c0f478d00dd1a624e99cdbf5120ab0356437c703d1d87e803ad731cb4.json",
+      "sha256": "05e755351fec068e387ecaedff790c053fa8d3557c76f40eb0579613626c0888",
+      "bytes": 1497
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2d10912c0f478d00dd1a624e99cdbf5120ab0356437c703d1d87e803ad731cb4.meta.json",
+      "sha256": "9cacf05e43c493e28b671a44c847dcde2cdbac268f15fac2062af532a6fca9ee",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2e7724f94482a44b46f207735f9e8ef6d8972a9dd5e930a6b2dcac58e3a7d8c8.json",
+      "sha256": "0bea41894457e91836c3eadd698d9518ea0e52f1d2105c6c42c4c7afb2b30225",
+      "bytes": 1129
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/2e7724f94482a44b46f207735f9e8ef6d8972a9dd5e930a6b2dcac58e3a7d8c8.meta.json",
+      "sha256": "86c8a54d8bbf66a729e6c94b5ed79245d6eecc84f61d1ad389d78f444a44bcce",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/300399125b378e261024aa28a7fc3a535ec5987745f9bf542da9a8a97681aee4.json",
+      "sha256": "37f3644336b1280d8294e1cc6151081140e6d13fa6a91dde474804fddbd6a875",
+      "bytes": 1003
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/300399125b378e261024aa28a7fc3a535ec5987745f9bf542da9a8a97681aee4.meta.json",
+      "sha256": "fbbee029d33d58d7be871b89fceb374e45f11c24d96054cabbcf91f864008796",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/31fc02dd7d4bcc640854c3320e364f8f247ecbf3b77403f4745c71ba85d9628d.json",
+      "sha256": "d8e4481b58f38fb73271b6808c49e650d7a8ab4ed4763430d365c44de07a9f98",
+      "bytes": 1062
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/31fc02dd7d4bcc640854c3320e364f8f247ecbf3b77403f4745c71ba85d9628d.meta.json",
+      "sha256": "ab01b59bdfcc62528ad52ed1e2ef0e21161148a7381d4cb73ae09409815b96fb",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3271c78e225d97977629333d6e2f7f4c8a03eb9526322ea4c6b9ea8fe30af15b.html",
+      "sha256": "a4e39de78330ff8ddc5e646f93242ae8b22856c25c8b8163dc305025347edad2",
+      "bytes": 22042
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3271c78e225d97977629333d6e2f7f4c8a03eb9526322ea4c6b9ea8fe30af15b.meta.json",
+      "sha256": "b4cf9c693061c7ef800e5cb9bbb98c15e4d083fd78d87372da0eedd875fdfc67",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/34065344e18ca043336b4177ec0a5d902d0268f4641792c6757cfba5d5c3779d.json",
+      "sha256": "78db8e6760a8a56109fa4f0277db0f437eeef500621c0f12a4950cba0485e440",
+      "bytes": 68463
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/34065344e18ca043336b4177ec0a5d902d0268f4641792c6757cfba5d5c3779d.meta.json",
+      "sha256": "6de20108d262c29bbe9f1b27b04ce8d9ae08768d4d1a23996383a33444e1cb51",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/35745b88530626f706e2c094af040091302d463e9cdd33a5911da39790b81461.html",
+      "sha256": "76a0c44f8e92d8a3dcf6874bfc22e50e5cdea9f6894578033de338e9f35fb2e9",
+      "bytes": 20200
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/35745b88530626f706e2c094af040091302d463e9cdd33a5911da39790b81461.meta.json",
+      "sha256": "04a5c277abb2a97985a2e330cb5e5c7eb4e5c3639d4810036418111749119f46",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3bf23b6fcff406270a6bbcfb3e3c2e7cfcfc74a5d99f565e3cf655b4c3e98f0b.html",
+      "sha256": "b2bbc422d7b5c5d08ccc07c6eddcdd068acd9ce009533e0a0b04e0753b3c74f2",
+      "bytes": 20362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3bf23b6fcff406270a6bbcfb3e3c2e7cfcfc74a5d99f565e3cf655b4c3e98f0b.meta.json",
+      "sha256": "a05d31ea8c6f59abfd88119dfc0846428bb75aaa88b1171033e5e9e0fdc0067e",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.json",
+      "sha256": "5eecb245a6ae3f33fc7ecbcc569bbdeb8d3bb2391aa5f5c8a99045b0178b3298",
+      "bytes": 733
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.meta.json",
+      "sha256": "4134febee01e7c4d1f84807ac8092ab90266f625b036f787153e8ca1b4a9869f",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3fcca869fb6ab5b8f7045dedc858842a3233b2810d79e1629b9bc40f47ca9bb7.json",
+      "sha256": "9d80ee30582e29c41836a3d874a69cc1aada5751e8db7b2cad0a366eb15a3c36",
+      "bytes": 1045
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3fcca869fb6ab5b8f7045dedc858842a3233b2810d79e1629b9bc40f47ca9bb7.meta.json",
+      "sha256": "6b63857810b7374baf72a6f5109a00961fa46839eccef4de009ad73931ed6b11",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/42ebcc3cf53f8da183eb4139d03cf8763a476c8dbd76d1e83e593dbca8a3f70b.html",
+      "sha256": "dc4058d7d120e9e877b39a03dc632c5268dd923dfa13012a7d85e6229a911c46",
+      "bytes": 21720
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/42ebcc3cf53f8da183eb4139d03cf8763a476c8dbd76d1e83e593dbca8a3f70b.meta.json",
+      "sha256": "f63ef67bbd61e136e18affa02bfacabd7e16e698a31484c565724485c7ac6d4a",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4463dd1eaa6f7cdd89be330f355b02a77abe2f47169f5128cf2aa2352ed8b9af.html",
+      "sha256": "a56405d15b08610b64934fc105b4f5fc654c318837315b5283e5a4cb37449069",
+      "bytes": 23010
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4463dd1eaa6f7cdd89be330f355b02a77abe2f47169f5128cf2aa2352ed8b9af.meta.json",
+      "sha256": "97ae713f40d397c83a07db0236846d8336c31cbe367626eab099c56126b145f8",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4aa96e42d940ad18cbff426039580f58b6f7bfc8421a0345b4fc45ce91f70791.html",
+      "sha256": "ed09f70473db48513701e0e3563abfa623d4d7166acb9faa7e6a698ad00774e7",
+      "bytes": 34143
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4aa96e42d940ad18cbff426039580f58b6f7bfc8421a0345b4fc45ce91f70791.meta.json",
+      "sha256": "b0f31ae3b228bf2d85140a495bba8b9696cbe7e8950b0cbf35a2cddb7152520a",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4b95ff429b4a34d9454efe5fee2ec39b07465d5ff6ce759020701416270484b0.html",
+      "sha256": "e5132a30a5cc5c7eef6d07c8b5a267496e1761d5498177b8560197a9c55d650c",
+      "bytes": 26925
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4b95ff429b4a34d9454efe5fee2ec39b07465d5ff6ce759020701416270484b0.meta.json",
+      "sha256": "be5f686105954a4e1686cee1a1533ad1c9d76b24c1dbf3369d7092dfea4e1cde",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/509740b17a67d9d05e46e1bca315d1b080e54731300a5bfabfac071d0316b43e.html",
+      "sha256": "0ddef40222550f7b48b176371d8e28da8dccaf9a2a1e8a72c8ed647321006b26",
+      "bytes": 28360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/509740b17a67d9d05e46e1bca315d1b080e54731300a5bfabfac071d0316b43e.meta.json",
+      "sha256": "0314969deff83809bc1e72444bad35fc960fa59961137ed6d30e2bacccb63796",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5188bb4f8ea87991edcd4b71a03572421d35240338df68c95992b5bd07adac64.html",
+      "sha256": "7a6ad1f14a1e7dd173d5e5dc50e6c5102baf51677a7418c8c536cabab72f5e25",
+      "bytes": 26638
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5188bb4f8ea87991edcd4b71a03572421d35240338df68c95992b5bd07adac64.meta.json",
+      "sha256": "8be191afecf11e9e729614c7caf467ca84d5028a7bd834598e703f262d3ec597",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/53db8cd155b77c4b5de39e58ffb594be69a6f42e18143ce16a3355af41d82baf.json",
+      "sha256": "2a57f04cc1f84994c7fe9bd55f73f86c0aa78cd0a0856ad00876a99e9a013b53",
+      "bytes": 65882
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/53db8cd155b77c4b5de39e58ffb594be69a6f42e18143ce16a3355af41d82baf.meta.json",
+      "sha256": "66803e544981ea2de0836b127c36bd80711c595219d8e0daf25d6da9ff0a33f7",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/550f10e1d752ce7388407490c20bc5a4e7735c36ec3dec0a5af6232ab9f0b0d7.html",
+      "sha256": "e09aa49e107319ea925b3f5cf3c752692a0bcc78dad3fc816948f5a04263d641",
+      "bytes": 20766
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/550f10e1d752ce7388407490c20bc5a4e7735c36ec3dec0a5af6232ab9f0b0d7.meta.json",
+      "sha256": "fd456dd882822bd737553b56d499999574773e243fc0b1258e49b481af2b0f29",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/559684030b4bea93914fe67df9a0949fdd11f6463f17eb36c703a26753d79066.json",
+      "sha256": "e23e6355f64fb284f880edcde5033c3dc589db33ce3a88fe1751579ffeab3f3e",
+      "bytes": 1492
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/559684030b4bea93914fe67df9a0949fdd11f6463f17eb36c703a26753d79066.meta.json",
+      "sha256": "3011ec5d7653ca5679c481f03289bb48fcedef89d505527c70ddd6ad8f606f5b",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/56d182862755248490f9edcf3826081517f1c69e747e489724c1ce2d414ed23e.html",
+      "sha256": "9efdfcaca7a41e1f2dede3bac2e74e69083a7951532d7cb58bf3ea71331a9123",
+      "bytes": 21819
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/56d182862755248490f9edcf3826081517f1c69e747e489724c1ce2d414ed23e.meta.json",
+      "sha256": "5ac0fffd5542819facb22d56ca8509ca29c9dc509f5ae87b74a4ec6b6180035f",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5dbaf5abaf0ad1667d99ad4135816006f4f86fcc2d6f80c92dcd9c27aa855273.json",
+      "sha256": "2225c650d7dff5331a1f2ef98d3127add8da0a6ebde7dc2f17ae323e030ccaba",
+      "bytes": 1294
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5dbaf5abaf0ad1667d99ad4135816006f4f86fcc2d6f80c92dcd9c27aa855273.meta.json",
+      "sha256": "f98e7b1a4b28e0e0578a004463bf8fda8105ba349d970a11b8c6bd7a8d887b7b",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5f72bf1547884f39ed72a536e04ea8e7f23688282f186f257f4cac6c4386abf5.json",
+      "sha256": "680484eb874eff3e09a1ad6402b5ba9cc00561d2c02abf704e3c0ccb40b2f3bb",
+      "bytes": 1368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/5f72bf1547884f39ed72a536e04ea8e7f23688282f186f257f4cac6c4386abf5.meta.json",
+      "sha256": "3bbf967c95bc43bbe5bbbd2f7dfa2a1f9f3db072993db77a85d0d1e37c7e6162",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/616a649197aab560647caf7900700e6abfa7d8981330ba5489f920c2d5f85774.json",
+      "sha256": "5444d596fab7e3ec8581447127294cb319862a27fb297dbe0aac7e3a866bece4",
+      "bytes": 1172
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/616a649197aab560647caf7900700e6abfa7d8981330ba5489f920c2d5f85774.meta.json",
+      "sha256": "7a4d997250300248c367c28bf407c368d54f1c95c9be6ac9967f5b816ba4fc55",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/691d3365ef36b0f9387ce9b8400e96cae4b6b4cd108516b06b2096fdd399adb7.json",
+      "sha256": "013497ff3cc8f628957e2d5687c42816a6f3b99a7c2c08eeb0d0cd7841452f5b",
+      "bytes": 28865
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/691d3365ef36b0f9387ce9b8400e96cae4b6b4cd108516b06b2096fdd399adb7.meta.json",
+      "sha256": "6d2af9fd89a83a3bc98ac60b89b4b289ed451b144740584d970b6c46524f9fa6",
+      "bytes": 440
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7338733e40fd9f10a4d72d346fa80c56e2392fbc115f649c566d4e334b02489e.json",
+      "sha256": "847059a3e0e6e37d8d2c8fa9f789f57f89464c8d0d5ca797fcd015850a9803e1",
+      "bytes": 1188
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7338733e40fd9f10a4d72d346fa80c56e2392fbc115f649c566d4e334b02489e.meta.json",
+      "sha256": "1e56173c560e948f1df0b71f1c2f424e7f5a8dcc21e7fee74ea55a9b92797d48",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/73bd4375470728b17a12c81602485318fd4ff254f5526c25a43ba48dc5d64cf9.json",
+      "sha256": "0de977ddc916fd3d4f0bba958e8ae40b4f1706d1238c787b5145a2e35c76092e",
+      "bytes": 930
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/73bd4375470728b17a12c81602485318fd4ff254f5526c25a43ba48dc5d64cf9.meta.json",
+      "sha256": "2133322134a1d8118ca2e1a05a9cd925d3f03e975a3461ce6fa47d02c1b68d81",
+      "bytes": 361
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/74753cd8800ea6f06e0ba754baae2c26a0c1d340d15c048598998c57965f9d1c.html",
+      "sha256": "c8e5f2667f49d37ccdf046bd03ebdcc8656e3cbcf5442bbd2deed7b6a64afca8",
+      "bytes": 31182
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/74753cd8800ea6f06e0ba754baae2c26a0c1d340d15c048598998c57965f9d1c.meta.json",
+      "sha256": "6b5b492776191767afa64c3685aee4a735dd6ed62ed48c072d2cfdcfd3131bbc",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/766d3d11a013662fdea25edc522dba24a68b3d38f7b5f5954ee100af518b73b7.json",
+      "sha256": "39ebe4a1f729feea99497afa73916ac354f30b8a6818ed68def917d5ad173d19",
+      "bytes": 63493
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/766d3d11a013662fdea25edc522dba24a68b3d38f7b5f5954ee100af518b73b7.meta.json",
+      "sha256": "6e74b8df759f112248f15dc636093802777722ebaf2295beb8535734a8911c63",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/772ff2645a94778f0561ffef51197fee763921a691a69733b25072f7418fa2f4.html",
+      "sha256": "98e1330b2446307a4c25e7bf90d71a812509d59ef9185213cde490bc2a418b9d",
+      "bytes": 28726
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/772ff2645a94778f0561ffef51197fee763921a691a69733b25072f7418fa2f4.meta.json",
+      "sha256": "f8124850df87c072c5d1c241159612ec564a89be5a167ad273ac6f575641b0ee",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/77a2304d36ec80051d853108a27ac1144c96be8af5378912a1005c46693d125e.json",
+      "sha256": "ac6bbad849e812d99925385c7d4be912caefa4e12bbf4337410f6a9937967e00",
+      "bytes": 61583
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/77a2304d36ec80051d853108a27ac1144c96be8af5378912a1005c46693d125e.meta.json",
+      "sha256": "b5c289a6323186b3e2ce33288f48a26462b35096a96a8026c475c425ac8d5c19",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7dea9536c1d3a86c676ef56f0be6b46e4328608a347ed45919de396b4e69380f.json",
+      "sha256": "a6b8346f19edfbf51575534957006f82c5591c19787e3ef159a4ec2698bcbc6b",
+      "bytes": 1269
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/7dea9536c1d3a86c676ef56f0be6b46e4328608a347ed45919de396b4e69380f.meta.json",
+      "sha256": "837b54f38561ed2bede134485b5587541c5f7ce48f260c678f545b17327849e8",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/80f575bae311ffa37ad3adb25d009a8f6a975b8dfef3dc5d543cdcd17b409d6f.html",
+      "sha256": "d14954196df19c8654906f1fad0b184402ca38e2a4074ef3c7ddc8603b041dc0",
+      "bytes": 22134
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/80f575bae311ffa37ad3adb25d009a8f6a975b8dfef3dc5d543cdcd17b409d6f.meta.json",
+      "sha256": "744f196ff4cddab4663ad01178bff187639b81ee0c20110b22b28781aac97467",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8241d227c4fee4c9807f954aa9acc54ba82f5c993c14a86b0e065c499d1ae9af.html",
+      "sha256": "600d5d4c3da554eda46d65619984a362f549fc3ca9531f881e78e454fe89b605",
+      "bytes": 33347
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8241d227c4fee4c9807f954aa9acc54ba82f5c993c14a86b0e065c499d1ae9af.meta.json",
+      "sha256": "478295a985480bd705af36b4ce433e1a091c0f6a1a7647bf7ea69a04cb3f6b12",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/83c69e11fb11d87af3ec9a93c1e90c65e329f2a153330fc23249aa32f65c9658.html",
+      "sha256": "06fe10288ae92be86cf3dc66d221dfe5c8e811718ff519e5803bbcb5b2ff024a",
+      "bytes": 24197
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/83c69e11fb11d87af3ec9a93c1e90c65e329f2a153330fc23249aa32f65c9658.meta.json",
+      "sha256": "6d3cc4c277a0dc5ed44729015812b3d84061c06618ac47c452896713f1bc185a",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/83d6795cfe735a57ab9155e531d276546c8d210904bc0ef5c54eb316b24797e1.json",
+      "sha256": "0aedcc7faf118b6cb995b29f430c620870e0abe67bb3c9b622721a1054af88da",
+      "bytes": 1399
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/83d6795cfe735a57ab9155e531d276546c8d210904bc0ef5c54eb316b24797e1.meta.json",
+      "sha256": "8ac864105e4510cf71f252e089efb0c9f26e7e6e6e0e8c760f8e9a03f5574d81",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/846866ba28580940724545415cafbb42aff6d56106ba89877fa85eb46928c1c4.json",
+      "sha256": "6a3f115aec53e84c6d82fa485957cb01ab18d283252d1cfea3f68af676ab5951",
+      "bytes": 984
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/846866ba28580940724545415cafbb42aff6d56106ba89877fa85eb46928c1c4.meta.json",
+      "sha256": "342817d9307569ad16016ebacf07eb32b2787ceb0b4b742d70f38972d32753b5",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/866448b9c831589df62b43bb6adaf0ced7cc887af396a02b498e3efe758fbf62.json",
+      "sha256": "da828fc6aa7121ce7269ea4754f1a17115f7997a2ea9c31cc0f9ab23774b8a91",
+      "bytes": 1040
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/866448b9c831589df62b43bb6adaf0ced7cc887af396a02b498e3efe758fbf62.meta.json",
+      "sha256": "716e05e54aaa192c16fdeb92c85f08441fc2da352c851b8188300c66e159e063",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/875461839fc556ccec9502fe791558bde648c181365ecd9823ad060e907fcdfe.json",
+      "sha256": "ddcc00b0d402cc218fc3f7f410e7ebab151501ea2da25b558e4c9f4e1e8d1fca",
+      "bytes": 69859
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/875461839fc556ccec9502fe791558bde648c181365ecd9823ad060e907fcdfe.meta.json",
+      "sha256": "01f8584cbb4c96529e6c5608246275e847374067d72aca4ca3d5dca83c019526",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8b51318392511c307ed55c086450fd749dba7ddaa2852ba53322c4d1bd9218ba.html",
+      "sha256": "142d6ee7df1f777ebbdd31194d325a2c5688b0039780bbdcbc1d8e9737200273",
+      "bytes": 33813
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8b51318392511c307ed55c086450fd749dba7ddaa2852ba53322c4d1bd9218ba.meta.json",
+      "sha256": "8e229b0596b7d070964ffb008524f74674c344adb077b0ce92defcf6dfa3c8c8",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8d7ba6de70982cbfdc19a14272449c5dff94cd4414d1ce145a7e87b3204b96c3.html",
+      "sha256": "5b8c6527e1d8797e2dabdf664622387f1fccf369537bf9610091f009f4ee0073",
+      "bytes": 33110
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8d7ba6de70982cbfdc19a14272449c5dff94cd4414d1ce145a7e87b3204b96c3.meta.json",
+      "sha256": "f0f3953076dcc03759a9b561dabe43a99795c256603cba1c82c24fa23ff71b47",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8f42aa32031f08eb8e195e3388cd8c20d758aad7bd46ee4b54cf92ba2061942a.html",
+      "sha256": "0af8da9bfc68420647e71e10c6f50d41b63f16c78dd9711d9f5556f25f6c59b2",
+      "bytes": 26921
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8f42aa32031f08eb8e195e3388cd8c20d758aad7bd46ee4b54cf92ba2061942a.meta.json",
+      "sha256": "e634c4e3d1eae764b21ebc3a978e48a3517e27ad83cf1e66cfa0e88c14c4dee6",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9034141871df376706518a1cfe798038151cf87f0e21d171eb51974d37d9d429.html",
+      "sha256": "72140bb9e85d0b6e9ddb982c88ae19a7ac69de122e0ab9d85f3c7e3c14467f4d",
+      "bytes": 30628
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9034141871df376706518a1cfe798038151cf87f0e21d171eb51974d37d9d429.meta.json",
+      "sha256": "b46ce0747d6a74ff6e357ab93e69e19c4e7989b22a097082c114eef33cff931a",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/910a4fa4ce14f1fcc7adeecd0a20f88fc82aaf10dd38a2bc7b9a60287593e16c.json",
+      "sha256": "6c0f4969eb15e6202fae22c87fff03b9bb150619b6229d254935325ad5680407",
+      "bytes": 1591
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/910a4fa4ce14f1fcc7adeecd0a20f88fc82aaf10dd38a2bc7b9a60287593e16c.meta.json",
+      "sha256": "e8dfc735ae21207d09a85c255520788bfd5f9750fd9833694bc8f8e12530c635",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/93499e3693bfcb53197810f5dfb391cce8b1d26fe73f1c9b0296a904f6c9a9fa.html",
+      "sha256": "0d583df7b288543c3e68fa85907184497b83aa5ce5f727934c81d189cf8ba706",
+      "bytes": 23751
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/93499e3693bfcb53197810f5dfb391cce8b1d26fe73f1c9b0296a904f6c9a9fa.meta.json",
+      "sha256": "b7b85fb6266e5b1a4c766c6ec98a64d955f4313cffb91ab9cdee3175d4ea5f23",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/96c80453cb17c6cdc07190b2063b1b723e83944ecf35c9272a54ae0a7dee6e17.html",
+      "sha256": "3123cbdc53eb6da320d1c584be53ac24c310cd3f849b9d555aab952643be9482",
+      "bytes": 22123
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/96c80453cb17c6cdc07190b2063b1b723e83944ecf35c9272a54ae0a7dee6e17.meta.json",
+      "sha256": "78fd956f02825f72b7b0071d425742e75a3b0c2ca174635e70168af0fdb92822",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/990afc6967cf8243ccb2d1a64415a43807b39f886fc385bf96744a27715c06c7.json",
+      "sha256": "c74e163f30a5c75035b76b28cd58ed39712203aec95bbc8379d0015bb3755cf2",
+      "bytes": 1059
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/990afc6967cf8243ccb2d1a64415a43807b39f886fc385bf96744a27715c06c7.meta.json",
+      "sha256": "3ebe4b19cde9626906a3250e201820ab8ae896a48ab8ea317e0e20406274aa72",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9952f5389607f1d84c7a5358cec2c0b8f75d70995ba47080f2f21a3e5d57f4f1.json",
+      "sha256": "fad1f85791f64177860e0fcb450ee14dc5ef04f6c7a838244d652942cda76bc6",
+      "bytes": 1268
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9952f5389607f1d84c7a5358cec2c0b8f75d70995ba47080f2f21a3e5d57f4f1.meta.json",
+      "sha256": "cbcaa9d8b3ec3065fd9cd53ce225d5d4d1ccfc6e7a3d546e7236bb85938db94b",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9a70169a475a9838cf1357af2e9e5d67719954d56f1771ac8da9c5c794200457.json",
+      "sha256": "de9c778238f0c90c87187f97c25ee2b9c9e8852eaa865ade2b9148c5d82f3793",
+      "bytes": 1350
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9a70169a475a9838cf1357af2e9e5d67719954d56f1771ac8da9c5c794200457.meta.json",
+      "sha256": "87b38bf6a724e16e4ef4d480d9697aca78ee7f65660167401a1984107b936e94",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9d73c223e32a3f7442bd22a3892ec95c093986118fc93c7c0be187d657e40234.json",
+      "sha256": "d70cf95511a2ae5c5d2556ea6054a03e4509d7e8dc001d51339d91e3da3686e9",
+      "bytes": 1369
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9d73c223e32a3f7442bd22a3892ec95c093986118fc93c7c0be187d657e40234.meta.json",
+      "sha256": "ccc8766255bfac3f0baba9db23475046f284a454be5a352eb51c458682039f77",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9d84da66d36ddd67e143f7ce6b0bfb667e3e1c1fa9862095af9e0dd0ab6dd1cf.html",
+      "sha256": "333d5ce979578c96a2da6ab69d373bc784924b1103e0205c322853266fe6e4da",
+      "bytes": 25820
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/9d84da66d36ddd67e143f7ce6b0bfb667e3e1c1fa9862095af9e0dd0ab6dd1cf.meta.json",
+      "sha256": "321ca2fb727a7c46eeddb3765e9b8c3b32fc845a623b5d764721f40a97a34912",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/a31e8849fe77df95c08714917b21b7aa580e087892cb94a85e0f4eb2f3c4cdad.json",
+      "sha256": "e8417fa108ba19e728810ff258aa7671e4263f656d881bac8435f5e30e8bb024",
+      "bytes": 1201
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/a31e8849fe77df95c08714917b21b7aa580e087892cb94a85e0f4eb2f3c4cdad.meta.json",
+      "sha256": "1ae04bce6577d146b9273d1e8dd6d5c9a6b6876b23c167c0e6f4c4fbd4ea2e7f",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/a3ec181a094e267b918d12b5374b4ec25ea74ac9ac30e81c79669a26cb2e1750.html",
+      "sha256": "5bf0de145043d4c55a9978a4c31a75ced55d8f4fa4edc2206ac96fd2a68b2151",
+      "bytes": 27550
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/a3ec181a094e267b918d12b5374b4ec25ea74ac9ac30e81c79669a26cb2e1750.meta.json",
+      "sha256": "c81c5795758177a8e2d5cc99e798a2e354fbfc1f8bfda8753848e7632be05c36",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aab9cf2cf5b9ea5081d06fd19faa830ad588ff880a29937938383e5d9e49087f.json",
+      "sha256": "b5d13ebb160f501f5e04a8be5550206f12dcee9ac3082a5c07b45151b2bdf5ce",
+      "bytes": 1346
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aab9cf2cf5b9ea5081d06fd19faa830ad588ff880a29937938383e5d9e49087f.meta.json",
+      "sha256": "b7ece17a57f5e974ba573413f853ec823ba5febb2b605863b766756be0969e1e",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aac53bebac70a01873ced4cf99c1e5dcdc540d9f3e7ff8ba55e1769aca98e7a5.html",
+      "sha256": "33564255f36439e8184e532061c470acf8f887a111bda3783cba7ac72716adda",
+      "bytes": 25737
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aac53bebac70a01873ced4cf99c1e5dcdc540d9f3e7ff8ba55e1769aca98e7a5.meta.json",
+      "sha256": "ac62b3c3cfccd2f38ec47b386f9a6f0d52bdd758934b119475e679494c4afcfd",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aea4d0b0e6cca0f115088332351181ae099d0b89be52f645b565ad8892aa9e8e.json",
+      "sha256": "c2ca909c6963f86d8203495df846907d647e112e8e445584368618d4e1eb668a",
+      "bytes": 1161
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/aea4d0b0e6cca0f115088332351181ae099d0b89be52f645b565ad8892aa9e8e.meta.json",
+      "sha256": "ad38fd66b25a8fb293f5bbad632f8a1cbd016ed46235bb45ba69cd4712052a1b",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/af5061b5292c891311dc70e41f6af3b250b19fec78b32a46ea92dbcee0593e3b.json",
+      "sha256": "1282fb12bf5299acb1e7f9be8489837065190c9d6422ca7323cb119a13ef31dd",
+      "bytes": 1304
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/af5061b5292c891311dc70e41f6af3b250b19fec78b32a46ea92dbcee0593e3b.meta.json",
+      "sha256": "5be2c441e9e9582fbd3afd7963d407420bdb60a8b9a6b4385df27a76ba06e590",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b0cdb73d925ac0c06e6e067a948e46b3a50c68456aab2516b9e864d7e2e193ac.json",
+      "sha256": "615b2daafa47ba9f19d247a52e8e3826b6e250537f8e12c95d5b606db10dd19e",
+      "bytes": 67085
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b0cdb73d925ac0c06e6e067a948e46b3a50c68456aab2516b9e864d7e2e193ac.meta.json",
+      "sha256": "3bea9ef704a6005a865f3ba869493940d3eb47a3aba4a8f4b4211cc3b6a121ef",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b3a5e1cd9c3c14e140611b4479fb1894267d1000c9bea1b1fb1825a749c965fb.json",
+      "sha256": "f8ca2a38b006c247d0841ed6891c58ac7d21ed079ed503e0831757de220b9f1d",
+      "bytes": 1466
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/b3a5e1cd9c3c14e140611b4479fb1894267d1000c9bea1b1fb1825a749c965fb.meta.json",
+      "sha256": "90dd576ebb8452b58f5980c08b87b9ce24c7c7a8f8d45e44565ae6c133620979",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bb3318606223ce050bde79badffd4ba836b0f36085ff2cdc1453a202ce1a64cd.json",
+      "sha256": "cfc874fe3a2cf2ef785ea9369aca5fe4bdacacc263e05b722ae6c75be91bb6fb",
+      "bytes": 65957
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bb3318606223ce050bde79badffd4ba836b0f36085ff2cdc1453a202ce1a64cd.meta.json",
+      "sha256": "f6f8e7ec7d31af4e869606d0341611522bf4f3c54e70fda87a73dd99cc20a0cb",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bd72854713ecaba62b97533b149941a83f2e3265b832ff08993235895184d2d4.json",
+      "sha256": "66cda16f5ecd078b493bed5f49e3b3de3502c2dec8f17eefd819f7b6a388c76d",
+      "bytes": 63807
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bd72854713ecaba62b97533b149941a83f2e3265b832ff08993235895184d2d4.meta.json",
+      "sha256": "1cf8f23222af052e137aeb3b89413f44b6dfd88a9f112898c3c2932803dba241",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bf0acb223aace4592eeb2cd77d98a8ed93af033c5aac7bdbd68b477810c6c451.html",
+      "sha256": "2bd25384d96ddf64d0c071e24c56b2181167b53662c7a77df739325659e36416",
+      "bytes": 27894
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/bf0acb223aace4592eeb2cd77d98a8ed93af033c5aac7bdbd68b477810c6c451.meta.json",
+      "sha256": "271f50520fa9057cbe398d90b8e60f0cc3b3d184fcb1d180be2ae8217104dedc",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c2b71b308767c1263a3edfe781cd8b27a84079f110ecbcd38e35913971d4120e.html",
+      "sha256": "7eeab8d8c71f50dab0ba44687deb8c23cb8d519c59f9d6db215189ae9a75af67",
+      "bytes": 32915
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c2b71b308767c1263a3edfe781cd8b27a84079f110ecbcd38e35913971d4120e.meta.json",
+      "sha256": "fb147fee65a79d2e8cd879a6dec99b46984718c7b25e0e690af69fe07b4db160",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c3a835f70807e0b90263863e4ab06b56138fbddd86b1783eb985bcf721061b7e.json",
+      "sha256": "46b4338772b13e828f3a006f74e4bdd29817f4965b36aeb2c75eae84c7a0e3cf",
+      "bytes": 893
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c3a835f70807e0b90263863e4ab06b56138fbddd86b1783eb985bcf721061b7e.meta.json",
+      "sha256": "109c8f0717f81bebfe9f1a044ea94cc1e778f8f878621248438bb63618eb23c4",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c93d851a8a9d545edfec59385f535da68c2ac9c5395a39cf5674d0a6031c2264.json",
+      "sha256": "3ef8b26b2430342677943f0a574dc18dda217b70dce293dcfa99e84485af9d15",
+      "bytes": 1983
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c93d851a8a9d545edfec59385f535da68c2ac9c5395a39cf5674d0a6031c2264.meta.json",
+      "sha256": "7ae7c7a331eefd747062b9d2509e90912f90e88bee10d2f4e59b44fae3be9f5b",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c9e31670f3c39bc74b547ba6ce8e5df0a9a6f12f1b02bffd43856f1bc204b745.json",
+      "sha256": "cdfab7a6101423a941143e75ca20e28674616b1b5bf34573dac903fd93fc0bc2",
+      "bytes": 63509
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c9e31670f3c39bc74b547ba6ce8e5df0a9a6f12f1b02bffd43856f1bc204b745.meta.json",
+      "sha256": "64152a9b24a7160444be795d6c8ac65b8a1214cf4361a5c6e1f0b7e3a6561ea0",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cad706cb1c9bb17355be1e6be00c1e66b2c281a2413dcf60ceb85f63b57fabbf.json",
+      "sha256": "aa3e8ba2699b94ea143c582b801d725b6eafada88e9f72b5a76d5aa1c5a1ce10",
+      "bytes": 1440
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cad706cb1c9bb17355be1e6be00c1e66b2c281a2413dcf60ceb85f63b57fabbf.meta.json",
+      "sha256": "2b5228a84171c6358fe0c96d2dc3eea884b125380c1eb6c572b571bc3f10a44b",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cb53e443f6da582b9d1a024120c52edf5ce149e4aea3052aaeab29056a1bc012.html",
+      "sha256": "e3edea49f4c9850a98d77cdce65950498d6dc514315815f4c0b0aa1360484cea",
+      "bytes": 61519
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cb53e443f6da582b9d1a024120c52edf5ce149e4aea3052aaeab29056a1bc012.meta.json",
+      "sha256": "1a85f313f83403d16111298a69233e6aaf9230611538248c1a017178f3f6f122",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cf0be2e67f6b3fba17a79ef86b1735aaaa421944c1d96d05b6f6f916f5a05130.json",
+      "sha256": "d39c588a11f4d89da4613c9a9d8c1526da1e72a174590e4d87a351e9164ed68f",
+      "bytes": 1074
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/cf0be2e67f6b3fba17a79ef86b1735aaaa421944c1d96d05b6f6f916f5a05130.meta.json",
+      "sha256": "9bb909cfab1fe9c0bb1b78dfa7658b7af96d1fce425369864362bfbaced27415",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d2e0f338f16d163104cc4f07d1ed78de313b096899f1feedcadbe36756b00872.json",
+      "sha256": "09a414381a027689363c24e6dd1d75713f7cff1d542bee15942c32a17b2ec2d8",
+      "bytes": 1360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d2e0f338f16d163104cc4f07d1ed78de313b096899f1feedcadbe36756b00872.meta.json",
+      "sha256": "e4857621f6d57e98c38ec128a461b25425afe61e5ce5b6975267091f8c57aca7",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d51437607eaf33507bc55e4b71ef73bfb29e7d0fb2e9799f082e3bc5537dd37f.json",
+      "sha256": "71dafba122e1193321b687dc55d20a5b08630bb4749f7dd2ca3d34c6ee8943c3",
+      "bytes": 1395
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/d51437607eaf33507bc55e4b71ef73bfb29e7d0fb2e9799f082e3bc5537dd37f.meta.json",
+      "sha256": "f83f0fcabf175496c4294d04dfd5f06a2a6f6e56907c7e69f54e3f50037b67a5",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/dd648e03c2ae3b0e9af8b622e40a365005620378177c1c1baad2d64cf76784b4.json",
+      "sha256": "e083e54c1da9fb836b8414270de5756a00a347025f2e51a2df3684650879b0a6",
+      "bytes": 1069
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/dd648e03c2ae3b0e9af8b622e40a365005620378177c1c1baad2d64cf76784b4.meta.json",
+      "sha256": "62b082d5501f5afc2e7cacb4844a28582cdb28e620a33b5e6bc7b36501f0e557",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/de98626e7a065d9678515cb9f900eec272d108222a7872c00adb303e7fc11274.json",
+      "sha256": "6732c482747630051c2edef937f30d34e479524de11a0c8cc678c17fe43713ef",
+      "bytes": 1080
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/de98626e7a065d9678515cb9f900eec272d108222a7872c00adb303e7fc11274.meta.json",
+      "sha256": "9895cbbd7a90cc52f6c041a2eb8ecdc5b6d80c3a0982e61ba6fe5aa59381542e",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e115a89117f79e5582b87cd4c67e28305d30e88b73604ed79167b773d2bbfbf5.html",
+      "sha256": "48a953454b18e6bc2cea03f6caea52d84c0c914526895e5e15dbaa5926e00dc8",
+      "bytes": 28363
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e115a89117f79e5582b87cd4c67e28305d30e88b73604ed79167b773d2bbfbf5.meta.json",
+      "sha256": "036431b430bff44b0d65c51851c6484346e5bf8433478c4b290b6c2330035a97",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e2ebc3535dbf55b8ddca3ef4c48d5ae8056e33d5da7f906115bc9f51593e2d4d.json",
+      "sha256": "97480e83c305ceddb014a544ff3b025ed1ed45b34af15cb196decec03d96eeea",
+      "bytes": 1127
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e2ebc3535dbf55b8ddca3ef4c48d5ae8056e33d5da7f906115bc9f51593e2d4d.meta.json",
+      "sha256": "7bc7de09c9e7821bea16e4034d3c81adbf5688303b494cc579a6afe3412806da",
+      "bytes": 362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e7b01635177ef81c2580d1ff389a86cc7af18987b0fe3508d27c9eeb1e74e4ef.html",
+      "sha256": "20dfe49d52af9ba5300aa1a50818bf83f32b0b12d26fe6410773c5a8fcb781ff",
+      "bytes": 22713
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/e7b01635177ef81c2580d1ff389a86cc7af18987b0fe3508d27c9eeb1e74e4ef.meta.json",
+      "sha256": "bd6071b42b340651f537ef4765377c79125b81f13b32642d86ac82e28dc8d60e",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f009c9f4e3b913b10a87eec9258bb3d97647c0eda9f1b1867760515eb7fd78f0.json",
+      "sha256": "4a64cddde71cab15a52bbf90685b4a1d19bfe47c4044677617931c99b7e89669",
+      "bytes": 1282
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f009c9f4e3b913b10a87eec9258bb3d97647c0eda9f1b1867760515eb7fd78f0.meta.json",
+      "sha256": "072e8664914ca2b606e67f6ec24b2be0b110e2cd833c5f1ab907619ad6c3246b",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f08ea066f70e9d7cfdff9a2ca676246b73902103520686abe51f74d45d4002d8.html",
+      "sha256": "b4230429793c26cc5d049a113df07258628857557a8e394a252fb90733ecb841",
+      "bytes": 25047
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f08ea066f70e9d7cfdff9a2ca676246b73902103520686abe51f74d45d4002d8.meta.json",
+      "sha256": "c4835f22042af17b90edba20a28253ce4ecf82fc6efad3bc041dd4ff6a548a81",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f4bfbf08c9b5e9cf84c0f13789cdfe71f252b39804414cedf697daeb8280f62f.html",
+      "sha256": "9f3c8a5693aed134d63242b4abf65ac0792e10da0173660f5974ce47cb1e9044",
+      "bytes": 29445
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f4bfbf08c9b5e9cf84c0f13789cdfe71f252b39804414cedf697daeb8280f62f.meta.json",
+      "sha256": "f6184dc98faf1e796ef4e7b1f5d1a7d2fc7c9811f9f0f32b6751fa754574240a",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f59f7ae1ad551f54a9e7bfb0fe0e5260ce2a3af02092bf946782b25c30fa0c05.html",
+      "sha256": "e5ecc14a7d637df0a0d3da7fd3f9008877056f9a87daf4938eb13758a288136e",
+      "bytes": 40362
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f59f7ae1ad551f54a9e7bfb0fe0e5260ce2a3af02092bf946782b25c30fa0c05.meta.json",
+      "sha256": "1c4c85deda6f7ac524c23abb030816acdbe21a9fe470103287210ba7916f2859",
+      "bytes": 334
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f5a000d9c4e38b0ef9b91a1d77416978e1049fd8f1f8d0540a3ddce814958dfe.json",
+      "sha256": "aa50e4b2dcc9338115222af0375cc98fb8b5f0f162fd44910dc557be697a690f",
+      "bytes": 1073
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f5a000d9c4e38b0ef9b91a1d77416978e1049fd8f1f8d0540a3ddce814958dfe.meta.json",
+      "sha256": "3a4166e89ff079a58c981ebf5b7226b7a389edf65852d113ca9f910bf49cfc1e",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f7a6be65fa8bf4e2c8c44318161e024a68dc160a5f7ccafba2bcffb86d4fe1c2.json",
+      "sha256": "4bcd61fc926af2e244ee18bd268bafbc2a327cd0fe0174f3fa12bbaf332fcc74",
+      "bytes": 1128
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/f7a6be65fa8bf4e2c8c44318161e024a68dc160a5f7ccafba2bcffb86d4fe1c2.meta.json",
+      "sha256": "7ef27b66f255b93752f2b8c50865f2dc2d3660a069808731cdab317c8331538e",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fad369a0a33af99ba4546543131899dcf671ad80d1a17b13f25bb7f162a09317.html",
+      "sha256": "761ec48cd118780fec3fef0839160ddbdb91282aaabb3275d5f1f1f440221386",
+      "bytes": 25902
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fad369a0a33af99ba4546543131899dcf671ad80d1a17b13f25bb7f162a09317.meta.json",
+      "sha256": "c78770d9ff0374009d006de0b73bf7aca95bacc95acbe3dc7fc22f5abda317bd",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fbd9b88ae3d2cdd1ec78321458aa9c264bb9e68f5bd199f579f057df83cd04e3.html",
+      "sha256": "8b873d3bc7da255ede16263719e7dbb8fd47106723425792ca289ff7bfbd9356",
+      "bytes": 22616
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fbd9b88ae3d2cdd1ec78321458aa9c264bb9e68f5bd199f579f057df83cd04e3.meta.json",
+      "sha256": "1536e8258aaffd4f3241f12c4b8c699bf9994c238e26a393743f50f2c7faf6a9",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fdfa79c5a05cc997c87f62a2b99b6d1e7be0c11420db547d61a64116b6f7bc16.html",
+      "sha256": "1fccd264f41df01aab25d7e4df327c342bbd3866aca9050c1ea51c87f442f74b",
+      "bytes": 24360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/fdfa79c5a05cc997c87f62a2b99b6d1e7be0c11420db547d61a64116b6f7bc16.meta.json",
+      "sha256": "25f379f13500f2c3f9df19f476f668f58748e5ab2005a36630eb3938f87b89c4",
+      "bytes": 340
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27001-6509.txt",
+      "sha256": "bcb98407481f1f74195d1dd0220087a27a6c66c9f441a845671e34229da110de",
+      "bytes": 3883
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27171-5902.txt",
+      "sha256": "ac6fe3eb1122a689d57306116718db44af7d453a9f114177ed4ecf47eff5a8d1",
+      "bytes": 1585
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27261-4584.txt",
+      "sha256": "1c431a91d9a73c06e795f97a2620268a41fbb7c9b794c57c2a4a88fdc7a8f700",
+      "bytes": 851
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27298-4590.txt",
+      "sha256": "9f46f567a9c6032d47f1048d8b37a86cb36705303f76d5791a641642e72a687a",
+      "bytes": 1743
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27326-4593.txt",
+      "sha256": "91ffcddcf7326e9a4b1f0b74d04a9e65981687bd7b10622ca432b1c0b75fa264",
+      "bytes": 2715
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27327-4588.txt",
+      "sha256": "3099cd351a552961c44f12d93ecaf93a06f684bca0cb05f24bac3cb0c1e77c19",
+      "bytes": 4555
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27328-4582.txt",
+      "sha256": "59d8aeff838642e60924af92b01b9327d22a08265b696bdddc533379e6ad2c74",
+      "bytes": 2425
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27329-4594.txt",
+      "sha256": "7a3f359d55db40b9111d41639ebc95eb6aa1053917852cac59a43f0e00aa199e",
+      "bytes": 1742
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27330-4595.txt",
+      "sha256": "3a087af38af64c503b30b44ea09c0f1c7e48abd435ad79d182a485b2bbe80416",
+      "bytes": 2301
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27331-4874.txt",
+      "sha256": "8404d58611d683c60ef48931f7636688376d3e2cf6739feb6805112886f43d0f",
+      "bytes": 2547
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27332-4597.txt",
+      "sha256": "cd6d0f929c8205a1eeddb3bbdfc56d950ab56392d91399ecc2288293c44ab927",
+      "bytes": 2441
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27333-4598.txt",
+      "sha256": "378106d40b2ec7221259c13940d27ed1c5d4c39ba53c3a06c1534901948a6d78",
+      "bytes": 2588
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27335-4589.txt",
+      "sha256": "d2a1d13866de65e4b64ee6ce431bd6ddf30118969978e428015e985513b68bb7",
+      "bytes": 2607
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27336-4601.txt",
+      "sha256": "4fca9e63369ad2e516e6dd3d130f02e07dedf35e22625f03b3e599d111f6decc",
+      "bytes": 1248
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27337-4602.txt",
+      "sha256": "4d0436fc2a990c93559822c352feb4acfdeddfdbe05428ba23394ef04af678be",
+      "bytes": 4214
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27338-4603.txt",
+      "sha256": "0674e1afe234a190afef67e6c6604169f210dc11681e008d586df37e3dcfc509",
+      "bytes": 1534
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27339-4604.txt",
+      "sha256": "32c95846ede01850f405fc99562befe6b09c53c867d9529ae2a48032e387d420",
+      "bytes": 2899
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27340-4605.txt",
+      "sha256": "2cfb5d4c1eb089ed565e05662dd5b88984855df924337372a969395a339178d8",
+      "bytes": 3875
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27501-4861.txt",
+      "sha256": "14347b29edff3ceb7329f3fcbeb39e3a17a1f97b666c136f6aca8b30c59fd3cd",
+      "bytes": 1364
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27502-4863.txt",
+      "sha256": "ed6e58581b2ec90c88c32cd9285abf10f0b978e25b103413f26dd8d53803c363",
+      "bytes": 1748
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27709-5849.txt",
+      "sha256": "f2e8d297a529650de99932b0571f572c30a45cc292a1ebc1e8ab8f8892741c30",
+      "bytes": 2012
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27797-6325.txt",
+      "sha256": "4d5758ed0b1d24eda75bb52fce71cbf788f2afab6c3368274ad8136916569290",
+      "bytes": 620
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27808-6821.txt",
+      "sha256": "375a9782e69819a54384c9b16703c8cdae215ad2720a8ef948b26ebe3bef26f5",
+      "bytes": 1880
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27813-6836.txt",
+      "sha256": "61eafa6cf8979dd26300bf7b0d52d688097febd43ef2d6306c55c920140ebda0",
+      "bytes": 2680
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27814-7034.txt",
+      "sha256": "3b02f0d852fbb6035c7c78d3ad8bca78b5841c33ef0edbbc471f27ffc6e5fc33",
+      "bytes": 10613
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27815-7045.txt",
+      "sha256": "be38d7b79ffe59941e0785a0244a146bc0ba76cf2f383bd120ffe5337795d88c",
+      "bytes": 3697
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/27964-6952.txt",
+      "sha256": "8fd6a81f25dd4b395671488980513715c927aba2016bd89cb0df176563ba0e50",
+      "bytes": 7410
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28171-7167.txt",
+      "sha256": "c8c7a961fe06c228152a0415d67bcc94cff0de35d11b8b8a4eddaf4ff08fbb03",
+      "bytes": 678
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28246-7262.txt",
+      "sha256": "64ee7bc3af7a5d9f6789859a8d08628fd6d467a8c8720b6337feb8e05ffc2ee8",
+      "bytes": 1665
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28248-7235.txt",
+      "sha256": "bbfe15c7e5de03a259dacea1bd7c9cf4fc82168c55f63dd8853f392059103082",
+      "bytes": 3177
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28277-7265.txt",
+      "sha256": "ceb31cd933d597d5fa5797d5353a514b4ed84839f867e90fb406fc44e65251af",
+      "bytes": 8110
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28278-7266.txt",
+      "sha256": "4b5d44c76b11020f011c23e0143adf59149ba26947f3a295a143c7657a8e4ec2",
+      "bytes": 2312
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28279-7267.txt",
+      "sha256": "ee84f3330308fb0efb10383ab4dda5b42cd92097a58c0d487f4dc8890fed5ca0",
+      "bytes": 3833
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28280-7268.txt",
+      "sha256": "e5916c49b6e0794798b424356a09a590e0d25b2b89559b57bc6d4c26842fc90d",
+      "bytes": 3540
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28281-7269.txt",
+      "sha256": "07166db0529ceb32dbe2a1297dad6a0783b8c5507c98f9b58302a305237a29b7",
+      "bytes": 3065
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28282-7270.txt",
+      "sha256": "5ed7365c6030520714dc03c401cc398cc8a4e84a0643ac921df3b49653474f28",
+      "bytes": 2997
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28293-7296.txt",
+      "sha256": "8d3df737ccf9a6b4f0f2619ab3695987e75bcfe123899ed2c96daaee6f35be2c",
+      "bytes": 4081
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28296-7285.txt",
+      "sha256": "b1795792bc5620f5fba084186d9739c667b429843886ad750752dc5249205008",
+      "bytes": 2999
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28297-7284.txt",
+      "sha256": "70e1164aea10e5d8017a66e02252c2afd349b705a053e416600d008a9a3b344a",
+      "bytes": 2562
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28340-7318.txt",
+      "sha256": "0275d83532a992347db382c4233150759e091809f1e5103595a0d13ad6965ef7",
+      "bytes": 2642
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28341-7319.txt",
+      "sha256": "b2d642dc473bcc9e28ab7500be94b7ce5bce7d03a95bb61845637dbff474756e",
+      "bytes": 3376
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28343-7321.txt",
+      "sha256": "bc2388804cb366c3f4576adcd168a26dd0668ff4fc2c430bd6cfefa135ab5321",
+      "bytes": 1565
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28395-7372.txt",
+      "sha256": "625681f235410f43ac2dcbace954ff639a03736fc0c76a0709e5772e06b4f696",
+      "bytes": 2428
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28403-7378.txt",
+      "sha256": "b9f4fd2dad508a7dba14edd25dda7340d111e3b51f453ca461f70041a1acf062",
+      "bytes": 2638
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28404-7393.txt",
+      "sha256": "c5ae3f2da962f1fa21dbf8e57d1ca94225c4783302a69877a5f4169faff272c1",
+      "bytes": 1097
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/28405-7395.txt",
+      "sha256": "d0298510e59fc3aabe443205be73828e621ebe1d854ce9403feeb80c4526e37c",
+      "bytes": 3890
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-commonmark-0002/aprovados.paths.txt",
+      "sha256": "a0255b50bb5626468a989118c0d095822e0123a17e40332dabfff3a1f2ea5c9a",
+      "bytes": 3945
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-commonmark-0002/controle.json",
+      "sha256": "d91e456f228f34fc0c2d1f1782282de006aefc6f1f4a4de9348e6d438c68845c",
+      "bytes": 96169
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-commonmark-0002/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/aprovados.paths.txt",
+      "sha256": "a0255b50bb5626468a989118c0d095822e0123a17e40332dabfff3a1f2ea5c9a",
+      "bytes": 3945
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/auditoria-municipal-final.json",
+      "sha256": "63253b6a3c0f115961f89bc788ea9ccf24a61c4711c2d03031182aa9bc9d3b81",
+      "bytes": 719
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/catalogo-sigi.json",
+      "sha256": "031d4077e34408932d4884b5e083da434184838d9844be3d0719bb62422ef5be",
+      "bytes": 214624
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/codigo-base.paths.txt",
+      "sha256": "2be477a924eb9d3e6de98a5f505afa91f9f0c86b87465150ec8a258d085c041a",
+      "bytes": 1677
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/colisoes-globais.json",
+      "sha256": "3446751278365b7b73848254911b1ebd549dd9beea65e4b54f37485b88a7d647",
+      "bytes": 2727
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/controle.json",
+      "sha256": "e9572eb2bb619903f01b22d14d5c3d5c115971c86cb1d317e274554b3e5ae5be",
+      "bytes": 68248
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/formato.json",
+      "sha256": "914836cf9e1ac3d7ca4fcf8e2ff5b7fe49f90b9598108a021dbb57ee76bb05ac",
+      "bytes": 39
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/retidos.paths.txt",
+      "sha256": "ebd4649b00b077f93f0c4aa32ab6087623e6b19324cc83ee2482685a1f97c2fa",
+      "bytes": 556
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/verificacao-integral.json",
+      "sha256": "14874500b2f2cce09465a65dd7235a607cd8cc18101d2f049ee5c267e8908a9c",
+      "bytes": 17128
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-contexto-0002/vinculos-sigi.json",
+      "sha256": "bb702b9c9c92f700697ebfc45d1938e3b6257a115aab026cbcd8001b21c7dab0",
+      "bytes": 1104
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/TESTAR.txt",
+      "sha256": "f03da084a4683c8bca07dffb8deff597fc9b243a41e21521d44a8fa2ef7b4bf1",
+      "bytes": 555
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/artefatos.paths.txt",
+      "sha256": "8bf006b0d2dacfcaa8bc3f2ece713422fcbd625ba9c489bd469df4d75965a584",
+      "bytes": 42634
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/codigo.paths.txt",
+      "sha256": "2be477a924eb9d3e6de98a5f505afa91f9f0c86b87465150ec8a258d085c041a",
+      "bytes": 1677
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/disjuncao.json",
+      "sha256": "c993d78807384e392c89079343ca5b3a506c898ab7c6cdb50d5d1d62f10b0bbc",
+      "bytes": 2478
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/mapeamento-fontes.json",
+      "sha256": "31c0ad53c99488a7bb73418089142183c07242b10640bd7063310c717728c1b1",
+      "bytes": 202508
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/normas.paths.txt",
+      "sha256": "a0255b50bb5626468a989118c0d095822e0123a17e40332dabfff3a1f2ea5c9a",
+      "bytes": 3945
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/retencao.json",
+      "sha256": "04f5e101c481a34f4a07bf1c127908ff08a07dcb0b397f7c7204ca74ad11a437",
+      "bytes": 280
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/manifesto.json",
+      "sha256": "a5a3048a2cbf27d9e265b35a9bf1f0b2bcdc7aad92768bd6c6d35518fa5af993",
+      "bytes": 1536
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924",
+      "bytes": 3494947
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6",
+      "bytes": 33655
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "f7576b48c853851f5cda586fb6d71f584ba6214a9fbc101d3afa0a6b9946daee",
+      "bytes": 3311964
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/sapl.portovelho.ro.leg.br.tipos.json",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda",
+      "bytes": 2873
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-jurisdicao-0002/aprovados.paths.txt",
+      "sha256": "a0255b50bb5626468a989118c0d095822e0123a17e40332dabfff3a1f2ea5c9a",
+      "bytes": 3945
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-jurisdicao-0002/controle.json",
+      "sha256": "e1033bc6d3b8cbbf8628681185687978e12154c5d758e5bf3e51cdfcf758032c",
+      "bytes": 12114
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-materializados-0002/manifesto.json",
+      "sha256": "735b5ef19d1de8ccea784775e142322e811413f86a3175dbee2a247cfed1cbdd",
+      "bytes": 1057
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-materializados-0002/normas.paths.txt",
+      "sha256": "a1cce2c3ec5c6205a5caf0b77d14485541ae1e59e3f244d76abe31e634ee00ac",
+      "bytes": 4501
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-materializados-0002/resultados.jsonl",
+      "sha256": "62a0b7b89f260ac8441abacabbcc8aae1f32a663bf194dd41e62bd25d34b7aa5",
+      "bytes": 211041
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-selecao-0002/snapshot.json",
+      "sha256": "3302ecfab0e350382cef88ae3f62acd7fa177d5206b446fd07880cce0b7040da",
+      "bytes": 282948
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158
+    },
+    {
+      "arquivo": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689
+    },
+    {
+      "arquivo": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v3.py",
+      "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+      "bytes": 9614
+    },
+    {
+      "arquivo": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732
+    },
+    {
+      "arquivo": "scripts/epigrafe_tipo_literal_ta.py",
+      "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c",
+      "bytes": 2556
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/fila_textos_articulados_sapl.py",
+      "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd",
+      "bytes": 8321
+    },
+    {
+      "arquivo": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v3.py",
+      "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713",
+      "bytes": 10598
+    },
+    {
+      "arquivo": "scripts/preparar_reparos_commonmark_ta6.py",
+      "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9",
+      "bytes": 6181
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta_v2.py",
+      "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+      "bytes": 2989
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_identidade_ta.py",
+      "sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+      "bytes": 3693
+    },
+    {
+      "arquivo": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094
+    },
+    {
+      "arquivo": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690
+    },
+    {
+      "arquivo": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+      "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe",
+      "bytes": 2220
+    },
+    {
+      "arquivo": "scripts/test_fila_ta_sapl.py",
+      "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c",
+      "bytes": 1716
+    },
+    {
+      "arquivo": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871
+    },
+    {
+      "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+      "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c",
+      "bytes": 2198
+    },
+    {
+      "arquivo": "scripts/test_rotulo_literal_ta.py",
+      "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3",
+      "bytes": 2026
+    },
+    {
+      "arquivo": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908
+    },
+    {
+      "arquivo": "scripts/test_verificar_promocoes_ta.py",
+      "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597",
+      "bytes": 1964
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_promocoes.py",
+      "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885",
+      "bytes": 4478
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790
+    }
+  ],
+  "bytes": 13334806,
+  "listas": {
+    "normas": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/normas.paths.txt",
+    "artefatos": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/artefatos.paths.txt",
+    "codigo": "municipais/_lotes/20261021-recuperacao-identidade-ta-final46-0002/codigo.paths.txt"
+  }
+}

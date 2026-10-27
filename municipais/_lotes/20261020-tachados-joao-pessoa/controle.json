@@ -1,0 +1,12 @@
+{
+  "criterio": "Detecta possíveis tachados vetoriais em PDFs para revisão visual.\n\nLinhas horizontais que cruzam o miolo de três ou mais caracteres e anotações\nStrikeOut são suspeitas. Não remove texto nem decide vigência jurídica.\n",
+  "documentos": [
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.joaopessoa.pb.leg.br/14101.bin",
+      "sha256_fonte": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825",
+      "paginas": [],
+      "total_paginas": 102
+    }
+  ],
+  "script_sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a"
+}

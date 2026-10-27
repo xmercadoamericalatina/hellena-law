@@ -1,0 +1,17 @@
+{
+  "criterio": "Overlay somente leitura de riscos vetoriais e cores das LOs de listas explícitas.",
+  "listas": [
+    {
+      "arquivo": "municipais/_lotes/20261020-pacote-final-1967/normas.paths.txt",
+      "sha256": "6bca97fea7e6f6ac61270f9bedbcd6f5e4920b79b8649d9e6f8636a9a57cb7b0"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-pacote-adicional-109/normas.paths.txt",
+      "sha256": "4898df2639a044b0366c3cdacd40b40accc0cf5a31c0fb19a402cdd5b7b58806"
+    }
+  ],
+  "script_sha256": "073e61021929c21d2cfc9d6909290f3b6dac6a0cfcb7913e22eaa5b75218cd7d",
+  "detector_sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a",
+  "resultado_sha256": "6d3ccd3061c49a958625e56c85b2c46ffe7976a86883a83ae5a695249caf866a",
+  "limite": "Candidatos exigem inspeção visual; ausência de candidatos não certifica vigência integral."
+}

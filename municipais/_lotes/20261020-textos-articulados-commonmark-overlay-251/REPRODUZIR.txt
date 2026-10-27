@@ -1,0 +1,4 @@
+Instale markdown-it-py==4.0.0 no Python ou no diretório /tmp/constituicao-markdown-qa-20261020.
+Execute scripts/test_commonmark_ta.py com Python -I.
+Para cada lote, execute scripts/auditar_commonmark_ta.py --lista [final107 ou final145]/normas.paths.txt --materializados [materializados-0001 ou 0002] --saida [diretório novo].
+A lista normas.paths.txt deste overlay substitui a união das duas listas de normas; os pacotes originais e suas evidências ficam intactos. Um decreto está retido por asteriscos literais na renderização. Os 6 testes incluem crases consumidas, pontuação/sinais, contadores efetivos de lista, histórico/tachados e o defeito real de Porto Velho.

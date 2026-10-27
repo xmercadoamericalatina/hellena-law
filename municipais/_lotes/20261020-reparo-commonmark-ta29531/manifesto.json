@@ -1,0 +1,24 @@
+{
+  "destino": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+  "sha256_preimagem": "af15d78bb335acb0d119e2e81d037e7296dc20f02d232907e9d4487557155d09",
+  "sha256_candidato": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca",
+  "fonte": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/4c787cc528f7c78023cb370221a31acb3a5bc8a83cfa575a3df4d818767471d4.html",
+    "url": "https://sapl.portovelho.ro.leg.br/norma/29531",
+    "url_final": "https://sapl.portovelho.ro.leg.br/ta/9633/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "66d78e2842a417d749b1093b225193735d3d3900e9db26b821db9c2f5b3453e9",
+    "bytes": 31196,
+    "capturado_em": "2026-10-20T22:40:20.803707"
+  },
+  "alteracao": {
+    "antes": "**Sônia Maria dos Santos Pereira -**Suplente",
+    "depois": "**Sônia Maria dos Santos Pereira** -Suplente",
+    "sha256_texto_antes": "bbbd6e953702229629f4b95bf6086df84fcffa73d4883fec5dfcf66cd2d6f2af",
+    "sha256_texto_depois": "9bcce6f7b00a3e8cd808d38094a807c066ce368ae1e8444dd84e82dc4a8d7721"
+  },
+  "validacao": "Preimagem reproduz os asteriscos literais. Candidato passa em comparação sequencial de todos os caracteres não brancos contra o HTML ativo oficial após replay CommonMark/GFM independente. Reversão do delimitador e do hash recompõe a preimagem byte a byte.",
+  "limite": "Candidato privado; a norma no destino e os pacotes 107/145 e overlay 251 não foram alterados.",
+  "codigo_sha256": "6bc99bca2d816a4a37d4cc9984671a784735d481cddf3e3b38898a31abcfab44"
+}

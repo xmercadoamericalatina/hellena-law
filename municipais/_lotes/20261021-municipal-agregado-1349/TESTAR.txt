@@ -1,0 +1,4 @@
+Usar bundled Python com MarkdownIt:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_municipal_agregada.py --manifesto municipais/_lotes/20261021-municipal-agregado-1349/manifesto.json --replay --saida /tmp/municipal1349-replay-root.json
+Esperado: 1.348 replays TA aprovados + LO Aracaju aprovada, 0 problemas, apto_para_publicacao true. A lista contém 1.349 normas, sem alterar entregas originais.
+Verificar adicionalmente 4 testes Aracaju, 5 testes fila TA, 5 testes auditoria offline, 29 testes TA do agregado 771.

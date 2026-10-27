@@ -1,0 +1,102 @@
+{
+  "total": 58,
+  "tachados_confirmados": 9,
+  "tipos_divergentes_confirmados": 2,
+  "cores_exigem_contexto": 2,
+  "falsos_candidatos_geometricos": 2,
+  "capitais_controles_especificos": 4,
+  "demais_sem_candidato": 39,
+  "resultados": [
+    {
+      "arquivo": "municipais/_lotes/20261020-overlay-58los-visual/artefatos.paths.txt",
+      "sha256": "7566d8482ff3529b547db9fe4f4784f8da078e67b4a6b95bde26c274b07b3578"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-overlay-58los-visual/retidos-ou-correcao.paths.txt",
+      "sha256": "78ab63c70483fa754aef0a63375df398ebdf4738f1a734afe1ff28ccd1d9a87a"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-overlay-58los-visual/resultados.json",
+      "sha256": "d3098e38832403da6ecb1008fa5767a14b144aa600bb7f4f729cfc783d6ddea7"
+    }
+  ],
+  "provas": [
+    {
+      "arquivo": "municipais/_lotes/20261020-tachados-58los/resultados.jsonl",
+      "sha256": "6d3ccd3061c49a958625e56c85b2c46ffe7976a86883a83ae5a695249caf866a"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-tachados-58los/manifesto.json",
+      "sha256": "1027b5254b8c2264ea9b404a72125c7aa2f8cc4f6aaf5085bc1d69492255aab1"
+    },
+    {
+      "arquivo": "scripts/auditar_compilacoes_pdf_sapl.py",
+      "sha256": "073e61021929c21d2cfc9d6909290f3b6dac6a0cfcb7913e22eaa5b75218cd7d"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/vitoria-mearim-24.png",
+      "sha256": "5380403d518ff6db80cd1bb9eb0cbd60bb5f4a41fefb0f4d8aefd74d5a702334"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/sao-miguel-guapore-47.png",
+      "sha256": "6ce8a01691b03b650236ed71ff645831b9cc8b894247e95a4dfae7614465eea9"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4841-1.png",
+      "sha256": "b7b4da330558b9c3f8e1d294162a485588853bd29e1fa71fa3a2220a4d962574"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/leme-2.png",
+      "sha256": "313ff88d24f3e2728d0bd4d9d6dfa69f9541cee00fd2980282c1c9a1af48a83f"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/eusebio-9.png",
+      "sha256": "ae2318648f013a4e32404cadc357e6f007af4bdac6c7e6708c80e1d39591e862"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/campina-verde-23.png",
+      "sha256": "9350cf3de60bf8e4e19bafa680106a3f046b25981fd30ea530d13414a0eddf52"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/uruana-minas-13.png",
+      "sha256": "2ace42e1506adf36058056db4ddd37e85f884977ce92b8671e0e1f64732bad5e"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4842-1.png",
+      "sha256": "5732f5220ae33ccd43a2fbd30fa8315590c2a6dd3a430edfb388372f2b4c8410"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/icapui-68.png",
+      "sha256": "f799aac60be6694c525fe309fc6e922131768b3dcd262feb345b76a223cf350f"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/rio-pomba-7.png",
+      "sha256": "3bc0e18aeb044f6a4a523f1f0e41cfa326485ea995c9201eff7c584fdcf993f9"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/clevelandia-11.png",
+      "sha256": "67640999649346ba93cc2723c382ea1e499339170e3e8b4d07e57d86f52c225a"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/porto-nacional-1.png",
+      "sha256": "d603441c6d4833d7ff16f57712a99610f5eec934dc09b04324e17d4aae8339d6"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/sao-francisco-guapore-8.png",
+      "sha256": "28000f3caf70803773cab162ea724191ed20451686651998619d80cc631b6f70"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/surubim-12.png",
+      "sha256": "5064fdc3f5dfad405eb420caff8c4d32d653beb07dc973e4919f6376ce0b780f"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/ipueiras-5.png",
+      "sha256": "c5821191ef453ca1026f50fe6fee921dc64acaea36e7251f3adb3c869a3aed7a"
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/muriae-3.png",
+      "sha256": "68ffc6f450b05e660a5d2782ec9af3e87668c56bcf433f4cb07cbe1c0cae5ef4"
+    }
+  ],
+  "limite": "Não inferir revogação somente por geometria/cor. Não edita MD nem listas anteriores. Nove defeitos de distinção e dois de tipo são confirmados visualmente; as outras duas cores têm retenção preventiva."
+}

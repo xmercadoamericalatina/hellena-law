@@ -1,0 +1,4914 @@
+{
+  "hosts": [
+    {
+      "host": "sapl.acari.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 41,
+      "normas_selecionadas": [
+        "1142"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.acari.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.acari.rn.leg.br/5e3163d85adb7b4fe55accc7fb1f46134433c8b8df6541b12685b056a7524bc4.json",
+          "sha256": "1394e61f92ed65a6d45aa3a5fe64e1697579a8c1add71719dfc3e3d27c07fdcf",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.acari.rn.leg.br/5e3163d85adb7b4fe55accc7fb1f46134433c8b8df6541b12685b056a7524bc4.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.adamantina.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 89,
+      "normas_selecionadas": [
+        "1488",
+        "2331",
+        "3207",
+        "3874",
+        "3970",
+        "938",
+        "939",
+        "940",
+        "941",
+        "942",
+        "943",
+        "945",
+        "946",
+        "947",
+        "950",
+        "951"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.adamantina.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.adamantina.sp.leg.br/674b1bc18b0396d87ed34d4e6a9caf490263a2ef338a16c1f44d5401f58f7af0.json",
+          "sha256": "690b9f7199bcfbc46494f47e057c59295a321c06997421d593c2f08faae3e6d1",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.adamantina.sp.leg.br/674b1bc18b0396d87ed34d4e6a9caf490263a2ef338a16c1f44d5401f58f7af0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.alegre.es.leg.br",
+      "estado": "indice_completo",
+      "total": 37,
+      "normas_selecionadas": [
+        "3722",
+        "3723",
+        "3724",
+        "3725",
+        "3726",
+        "3727",
+        "3728",
+        "3729",
+        "3730",
+        "3731",
+        "3732",
+        "3733",
+        "3734",
+        "3735",
+        "3736",
+        "3737",
+        "3738",
+        "3739",
+        "3740",
+        "3741",
+        "3742",
+        "3743",
+        "3744",
+        "3745",
+        "3746",
+        "3766",
+        "3783",
+        "4045",
+        "4046",
+        "4092"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.alegre.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.alegre.es.leg.br/405f43d17eae2745fdc3ae133a931c935f28953a71cf8c64db6b9032b7ce63b7.json",
+          "sha256": "a90aef8de6b609931191e5408053379f9ab19f4a5c1ed31e34a96089c4e927b4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.alegre.es.leg.br/405f43d17eae2745fdc3ae133a931c935f28953a71cf8c64db6b9032b7ce63b7.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.araguari.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "2",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "3",
+        "30",
+        "31",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "4",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "69",
+        "7",
+        "70",
+        "71",
+        "72",
+        "73",
+        "8",
+        "9"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.araguari.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.araguari.mg.leg.br/1da49c12545e38b09cc89de1dca65b4f3afaba3c329d8af4360716e1805ca787.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.araguari.mg.leg.br/1da49c12545e38b09cc89de1dca65b4f3afaba3c329d8af4360716e1805ca787.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.arapongas.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 5371,
+      "normas_selecionadas": [
+        "4839",
+        "4841",
+        "4842"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c6cc2d2e03e5d67b1922bdb180315f9e53b10daf5ae972b76961bbdc8e3d919e.json",
+          "sha256": "0ab87aefa0081c59b50ed07041af4122a6085fb51e9fefbe01a40f3c58ce8510",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c6cc2d2e03e5d67b1922bdb180315f9e53b10daf5ae972b76961bbdc8e3d919e.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/64b9b2b4f22627cd29ce5b0099c4ca8027be56a56e3773b8be25bc2d4e2f58a3.json",
+          "sha256": "b590988264b0d8f865b4c6df592d7211e19dc7ba2915f6e68043b727d59dbfb8",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/64b9b2b4f22627cd29ce5b0099c4ca8027be56a56e3773b8be25bc2d4e2f58a3.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/68ba824e30cdd34697fc15de07021bac203525ab0db03b2a76db095844a64df2.json",
+          "sha256": "726b705283bfecd7117e5310f373832ee25fbb3b3fc10ca4b1be71cd11415192",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/68ba824e30cdd34697fc15de07021bac203525ab0db03b2a76db095844a64df2.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/aa5821d22942465b77045181cd8cc61bcb38cf56bff04b441f89aa535df9882f.json",
+          "sha256": "b7007f8551960b621096601e178168a5a63c15f01aa537c4a68bd36c27a71617",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/aa5821d22942465b77045181cd8cc61bcb38cf56bff04b441f89aa535df9882f.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=5",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/a138281226c80d8bec546abf87464d60e0058ec7f32f7e6649d7fda18cf29b76.json",
+          "sha256": "b8a85c493b686b7831c5a585b08da13360a546af3ff4300832559c938c54a483",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/a138281226c80d8bec546abf87464d60e0058ec7f32f7e6649d7fda18cf29b76.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=6",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9cdc5d0f4cb3ec20699efa75b999f6dbec49edee9abd915b1eada63109caecae.json",
+          "sha256": "65a88f784a66cbe5a532d0c80ab1aaabdd7efba2a3a9dec1159da35ace778655",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9cdc5d0f4cb3ec20699efa75b999f6dbec49edee9abd915b1eada63109caecae.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=7",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/5f2fcaf701404ee69155dd51de2adc39d9b04b5dbaa6af6e0b766603747448cf.json",
+          "sha256": "4b8347474f0b636426daa0e956ec67c06c47acbe1f7a0de562bc8d06ae0e14e5",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/5f2fcaf701404ee69155dd51de2adc39d9b04b5dbaa6af6e0b766603747448cf.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=8",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/8b50b2a0a9178ba473acee18c020e90a9656cf30782e7b62fa41207ec50b2b52.json",
+          "sha256": "0e520025d9e6b0b1ef2e4d53bf179244366a9430abdbb1c295398f46703a4238",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/8b50b2a0a9178ba473acee18c020e90a9656cf30782e7b62fa41207ec50b2b52.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=9",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/404f9447cd7207add7296d78b15f80b32a68b13532bb84411f78b7332d1de2a8.json",
+          "sha256": "1c6440ee0813d8de59cf38b9b0d7932d6dda334e7eef10c95d075a09f11a46d3",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/404f9447cd7207add7296d78b15f80b32a68b13532bb84411f78b7332d1de2a8.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=10",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/cc4c89aecf01b5582b5f705e4dda716126596b024fecf7ffa85f73d8ab67f9f5.json",
+          "sha256": "b57c1dd1f5f230b5d7ef4bf8479f0252c84b1cefeaea1b5a18627167fac18fc4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/cc4c89aecf01b5582b5f705e4dda716126596b024fecf7ffa85f73d8ab67f9f5.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=11",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c3cdb16a94ba71225e370b7cdfee4e5611b051373e115591513e6e3c479f338c.json",
+          "sha256": "1e077d89bba0cc2fcae8e9c25265bf4b08a0c1290c55020d9a21fdcf3492473c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c3cdb16a94ba71225e370b7cdfee4e5611b051373e115591513e6e3c479f338c.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=12",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/53ed40391f5e5e37dc6e9e95c81de6ff668000669d38f660d7ecd0593c9ecd78.json",
+          "sha256": "8e6be389b3f3cab01aa827647a56fd911564092c2ce8d298be9f5ce828d9fb44",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/53ed40391f5e5e37dc6e9e95c81de6ff668000669d38f660d7ecd0593c9ecd78.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=13",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/96a8e6a72306a456b45a07746ce0f9960ff0457163be449e868c083578c3b1b9.json",
+          "sha256": "70621f91d7d3af0552d959045cce9c143728f68378e5c4d5156679390e0a98da",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/96a8e6a72306a456b45a07746ce0f9960ff0457163be449e868c083578c3b1b9.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=14",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/d8f59a5fa6a7c04586f36e5c26af9fda04df86c21b0986ab2ae5bce6bb9c5b7c.json",
+          "sha256": "5b851bd5b8772ef251e763b1ffa1e52a13463e01f5f4a770029e102a8e80d56f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/d8f59a5fa6a7c04586f36e5c26af9fda04df86c21b0986ab2ae5bce6bb9c5b7c.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=15",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/98ef682dbeb7d18332538c94775e3c312ae245dd23ef65bea9880f00039f7a8e.json",
+          "sha256": "cc4b295bf8d6fc6a33bd259c403f4a6ba27de2b5b3134b7a8c356857e9ff6bd5",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/98ef682dbeb7d18332538c94775e3c312ae245dd23ef65bea9880f00039f7a8e.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=16",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/aed9357910190fe0fca5a511678af91e250764f0f53ac221cea389135e05f452.json",
+          "sha256": "7b3e6e8e518e4bdf0a1b29a3b2dfcf70360062b8a277b1fb9a3bd4bf31026d8d",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/aed9357910190fe0fca5a511678af91e250764f0f53ac221cea389135e05f452.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=17",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/54ca0ed6c3e8a6ceb183c0c253ef5ee16df7374cda7165e1b70efc6f4d8927d1.json",
+          "sha256": "e556d7b7a881434e27bc8e61abde0f3c5821cf57f7a79321f54694c5d15598a9",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/54ca0ed6c3e8a6ceb183c0c253ef5ee16df7374cda7165e1b70efc6f4d8927d1.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=18",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/db52d69740f3252bbaa963492fbcfa011da83c9b06019577951a135cddf505e8.json",
+          "sha256": "c742790fde6dc4fd9900615c7b8c8a72971e79f563df87e3a222cb72f7011fe0",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/db52d69740f3252bbaa963492fbcfa011da83c9b06019577951a135cddf505e8.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=19",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/33dfc1a54c8fef130040af96f6b5fa4eeeccd20384a3f1133b323223c4bb2c65.json",
+          "sha256": "456b59eca385626d0deb5365dcc4f82843b526260f2df5694bff2cd6950c5915",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/33dfc1a54c8fef130040af96f6b5fa4eeeccd20384a3f1133b323223c4bb2c65.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=20",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/bbac8d7a398737038a3918551fd47b2908546a42508135b577117790bccf7637.json",
+          "sha256": "819b8f4fd6ee66596f3c15e809c154a679b85b2d707bbd268d0003ab9347da7b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/bbac8d7a398737038a3918551fd47b2908546a42508135b577117790bccf7637.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=21",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/222868a33f4795ed9e9a9409b108bae506687d7ef277a88a66c1c0f00f136808.json",
+          "sha256": "2d96507301543fbae63adeabd73f3fec31329f03ccf9d076c0083cd8aaf97498",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/222868a33f4795ed9e9a9409b108bae506687d7ef277a88a66c1c0f00f136808.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=22",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/96c451f3c36c0b3de8891d075adf63817a70d651f0354912701a9d3ee38472b3.json",
+          "sha256": "76b33b51dc7a1b95844d6e9ba1c2d6f8d2cbb8d09b2d020f8a57ae0199f09b7e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/96c451f3c36c0b3de8891d075adf63817a70d651f0354912701a9d3ee38472b3.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=23",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/085e0b2655f0acd35ad7fddb369a6cf6da98676703acc32f1c4471dc19950296.json",
+          "sha256": "14a000bb95a9244d9349ce6eaf7fbef4bc3086913a91114638728b885f9dd5b6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/085e0b2655f0acd35ad7fddb369a6cf6da98676703acc32f1c4471dc19950296.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=24",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6fa21c0b0d2837789fc6d9de7d373f013f48fd157c6a7b24b13656cc7bb3278f.json",
+          "sha256": "e29d4dd367ca6d4651b1933efe7b529947c565d4c35409876b9128bb6838d182",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6fa21c0b0d2837789fc6d9de7d373f013f48fd157c6a7b24b13656cc7bb3278f.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=25",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6105b5345fe56baaeed52befd7b5409bbe9299a5360345e6fd4c09b221182e65.json",
+          "sha256": "1d30012a944790d4dbcdef235108856ec8e1ae93c97428d77956e0ee6b7fc363",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6105b5345fe56baaeed52befd7b5409bbe9299a5360345e6fd4c09b221182e65.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=26",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/f4568336c0558e8ddd7a26b5e22b9032a78be4d280a3265f97636c63be8f0c7f.json",
+          "sha256": "44e67e3a1e697f2045dfdea1d37bcf1c95b5e1ceed87efe5dede822d97239557",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/f4568336c0558e8ddd7a26b5e22b9032a78be4d280a3265f97636c63be8f0c7f.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=27",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c9f4be25327c474b836d67e86e68162d507111f25ec87f61b385a0383220472b.json",
+          "sha256": "bdab0dc4d8d6cd4456f871ede7647111f9c1aae67349b00e814f9a278ff40915",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c9f4be25327c474b836d67e86e68162d507111f25ec87f61b385a0383220472b.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=28",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/7e1092c30dd770574eca2a023c2a91ada94a9c39c9983ad53cfb0fc52bd0586d.json",
+          "sha256": "6298d204e2b534a9771dcf60d0e1aad32e7df7e1dda6e0ab92beeff95384ee3f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/7e1092c30dd770574eca2a023c2a91ada94a9c39c9983ad53cfb0fc52bd0586d.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=29",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/cfa90e8582c9f2af45269cce20f3d8595b6290397a5297fdba18b68178316ffb.json",
+          "sha256": "8cc84d8ecfae9c63910e8281352539622fd05dd4f556aa7b51988e48fdc60e28",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/cfa90e8582c9f2af45269cce20f3d8595b6290397a5297fdba18b68178316ffb.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=30",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9bfca6cf0c2befdd78d1969d863fe6003ac7f379fbe88ef2d2c1524a09a8c8ee.json",
+          "sha256": "ddcb90cd752ac0bc8974234b55f11f30c8c7ccd058078390a593ad593ef6aa18",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9bfca6cf0c2befdd78d1969d863fe6003ac7f379fbe88ef2d2c1524a09a8c8ee.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=31",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/51b4348a83e7674208c8af813fc01e3a7d0d355931c8a3145eae0668ba230d11.json",
+          "sha256": "994c9358b681ae3473255b90a2d250d78e796431374b27a1fb29588e212a014e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/51b4348a83e7674208c8af813fc01e3a7d0d355931c8a3145eae0668ba230d11.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=32",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/773053ebc807d69ea18b5fc6041446af2827dc826432a0ce89f302ff1f89f6b2.json",
+          "sha256": "1931be76e18bfe77ee1180a26ae8d0f1c76b350624c3d65309e86ca4cbfde4fd",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/773053ebc807d69ea18b5fc6041446af2827dc826432a0ce89f302ff1f89f6b2.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=33",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9af95d339ede112dc225fa2d17f78c079f2b8c2cb9de086bd858638600d1de7b.json",
+          "sha256": "2d7ba2237cd6d3a02d28b39e9d74d23c9b94e87d25fd1b6f5159df66858670e2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/9af95d339ede112dc225fa2d17f78c079f2b8c2cb9de086bd858638600d1de7b.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=34",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/da285e473678d665afa9bf5d2a11350f4c1cd675ab0ed1163da9efb5d36cdcd4.json",
+          "sha256": "28406c9f12f66ce23f6284c657b710b06e4fa9341c1e7399b64e0642c05cc580",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/da285e473678d665afa9bf5d2a11350f4c1cd675ab0ed1163da9efb5d36cdcd4.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=35",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/29c803d78fbbda54d6d0815a19f7805ad02edc622924e6f8a8803ea7a5ad0562.json",
+          "sha256": "737cb5e5f8e4690b4a90885c90f9fd89958535f29680ad7a29ac96da2e2283d4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/29c803d78fbbda54d6d0815a19f7805ad02edc622924e6f8a8803ea7a5ad0562.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=36",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/f3aebfe545ca0e854caf6db82e52b92d2730e8d46983c3e2568317fc23c524c4.json",
+          "sha256": "fdc338ebff27d5b23ef807dd88fb0727bdf642ab7d6b06059b34722a82d85fb0",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/f3aebfe545ca0e854caf6db82e52b92d2730e8d46983c3e2568317fc23c524c4.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=37",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/4d4928b97877bed3e26eafff291fd734d807010e696bcb778b8c1572fc7a4dbc.json",
+          "sha256": "7d346eda3ccbaad9bf8ba0f6b79bd094a8e91b51e25200a1de6bfb803cb0c622",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/4d4928b97877bed3e26eafff291fd734d807010e696bcb778b8c1572fc7a4dbc.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=38",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/28c0f59e9ed9d84c2053825e55513ab5d8f81b2dbdea26fe250a6a5a0d2ac8b7.json",
+          "sha256": "e5c72de48965b1b8cbe08a63ec969690886e147320fca5c34bcd672f8213b919",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/28c0f59e9ed9d84c2053825e55513ab5d8f81b2dbdea26fe250a6a5a0d2ac8b7.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=39",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/398682e93045ef83072653e894a7de2066ca50a163703d8a1460edd5ec544dbe.json",
+          "sha256": "638129c3bdab0299f4f02aee15a10031de8170f4035b964938185e218a10f10a",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/398682e93045ef83072653e894a7de2066ca50a163703d8a1460edd5ec544dbe.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=40",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/32ecc3ed508779a5aed4db6e1cf05addfc7e6bd7b0278ed966ed02facca80f25.json",
+          "sha256": "0aa076159814e7c661c2c079f08a22f0d73f452e9d110701e09d79f1da21a33e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/32ecc3ed508779a5aed4db6e1cf05addfc7e6bd7b0278ed966ed02facca80f25.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=41",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/eb4e6e91977f971abd776d86fed1917c16623a46b2a0cfb8b2394b30ff79a458.json",
+          "sha256": "015c6ac8bd6c185766f3861388499a4ae4ead985aa16d72ce3668cf323267947",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/eb4e6e91977f971abd776d86fed1917c16623a46b2a0cfb8b2394b30ff79a458.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=42",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/3ede35174c35672cfa144a453e2dc5f0948d7e8eb305deafeb6557bcfea992c3.json",
+          "sha256": "7dcd9637fefb9b23a0573c6dc576fadfd4ce03cf3aea238baba3ad819eb0b778",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/3ede35174c35672cfa144a453e2dc5f0948d7e8eb305deafeb6557bcfea992c3.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=43",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/32177df19af39d80ba02e0fa75372ac21af6c63a1309511672617cec94f2ed86.json",
+          "sha256": "5a1d6907099c77a3c2fa3b7428fcecbad1f7534ef076c3a7884107e44a7bd06e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/32177df19af39d80ba02e0fa75372ac21af6c63a1309511672617cec94f2ed86.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=44",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/7376cb4f116020ca6f48cfb1ca7be6a61cdc7ebbd306b7a414d5b2e30b6962c0.json",
+          "sha256": "8766b84793ca01a3c25878d193820f7b10ff1e9bfdc3c920eb6edf9756aa2c40",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/7376cb4f116020ca6f48cfb1ca7be6a61cdc7ebbd306b7a414d5b2e30b6962c0.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=45",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/fb8d6f655a4fc675b36623390ea9d270bfbe3c7c5bd8277e1dd90fb758c8c963.json",
+          "sha256": "d09691b1bf9eee78414418497a256aa0831dcd7b9b1838404fc142051c1b8306",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/fb8d6f655a4fc675b36623390ea9d270bfbe3c7c5bd8277e1dd90fb758c8c963.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=46",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/fbd763c212822b487917bd2f86604a5434c1364b714dd25884b4b26d32f7ce2f.json",
+          "sha256": "bad5eceb7549240576c826c2ed1e16981aff0b3a5161c112aec6e5bb62f07157",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/fbd763c212822b487917bd2f86604a5434c1364b714dd25884b4b26d32f7ce2f.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=47",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/a5cfad9e4e9e9066010c476fdc98ddfd756e7fd1dd903c51cb001fd6fce2bf55.json",
+          "sha256": "242a3d1c3a391ba9f5f23dbe084bdc1af3be90014729851ffdd5bdc305e664c1",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/a5cfad9e4e9e9066010c476fdc98ddfd756e7fd1dd903c51cb001fd6fce2bf55.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=48",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/4fe36706392e58054e8650ff8f26bd37e840a3b340f05c00669c1546310416f3.json",
+          "sha256": "c67e7f220ac7d53c66ba31e9ec9cc493ba9b33274a352b4b642af8587b2aecf6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/4fe36706392e58054e8650ff8f26bd37e840a3b340f05c00669c1546310416f3.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=49",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/bb9ee1f086f348980fb4350e3496d2a8580c59eacf35bec040980c8ee9e27938.json",
+          "sha256": "03238542ed6345c10ace3a40bef421c79b836942fa4a845493487d3721756c17",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/bb9ee1f086f348980fb4350e3496d2a8580c59eacf35bec040980c8ee9e27938.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=50",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c9873bb6d4fe0ecc9238f2d51690ab96a85396f7ad8136d4e70092f2e4b752f2.json",
+          "sha256": "bd29dcf4c2bbc8f1c437a7a44c95f0594659eedddd4ae2f8d23f869c71b40334",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/c9873bb6d4fe0ecc9238f2d51690ab96a85396f7ad8136d4e70092f2e4b752f2.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=51",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/2aa910280153f5eb11ec4cdfbfb938938ffb393cd2f8dd301a76a4170cb13c2b.json",
+          "sha256": "d143eb0abd1184c10eaea997d27bea5c4679638304de899871c62c4cea2cb826",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/2aa910280153f5eb11ec4cdfbfb938938ffb393cd2f8dd301a76a4170cb13c2b.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=52",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/371e2ff2b309e3ac1bebd0e7ee34b573711692798304d5e8d8eea28fbdbd3167.json",
+          "sha256": "0731fe953533496536481604b3cb038578828191a08ac18480a33dbdba6bae0f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/371e2ff2b309e3ac1bebd0e7ee34b573711692798304d5e8d8eea28fbdbd3167.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=53",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6a50c29742b1999230772dc49363eef6314e55c0a432bbd1a852831a1c2abda5.json",
+          "sha256": "1652053b8126d37c66d27951a0b104056524fe64b5bfc531d6dfade3471aad8c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/6a50c29742b1999230772dc49363eef6314e55c0a432bbd1a852831a1c2abda5.meta.json"
+        },
+        {
+          "url": "https://sapl.arapongas.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=54",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/8b6d2c3c09f58d1a4dc116bc9832ea197248af42715d49c604398204a4ac1190.json",
+          "sha256": "31e6f14820126cb0640a24e31ae559d12d768f36e7ed4bce6c912b0ebac1955b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arapongas.pr.leg.br/8b6d2c3c09f58d1a4dc116bc9832ea197248af42715d49c604398204a4ac1190.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.araucaria.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 22,
+      "normas_selecionadas": [
+        "1312"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.araucaria.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.araucaria.pr.leg.br/9f641b1fa17baa9d78d00a4da47d0f099dfd58298fe487951445fcfd0b72829a.json",
+          "sha256": "ec4405cc3e67ac277df5c01db3809bc4232a3cf9f4fb14456c415f603e3b38fd",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.araucaria.pr.leg.br/9f641b1fa17baa9d78d00a4da47d0f099dfd58298fe487951445fcfd0b72829a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.arinos.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 31,
+      "normas_selecionadas": [
+        "3295",
+        "3389",
+        "3390",
+        "3391",
+        "3392",
+        "3393",
+        "3397",
+        "3507",
+        "3833",
+        "3884",
+        "4062",
+        "5063"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.arinos.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.arinos.mg.leg.br/e399825ab632cb5435c42a6b65be30ca04198544a3a18d0e4d3c2ad07b6f12b0.json",
+          "sha256": "c22171149d0f9f6d6efb8b2fac334de00cdd80f6cc39e275f846822175b5cbfe",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.arinos.mg.leg.br/e399825ab632cb5435c42a6b65be30ca04198544a3a18d0e4d3c2ad07b6f12b0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.barradesaomiguel.pb.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "100",
+        "101",
+        "102",
+        "104",
+        "105",
+        "107",
+        "110",
+        "112",
+        "134",
+        "140",
+        "163",
+        "170",
+        "172",
+        "174",
+        "191",
+        "192",
+        "193",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199",
+        "203",
+        "212",
+        "219",
+        "222",
+        "231",
+        "249",
+        "252",
+        "253",
+        "254",
+        "255",
+        "257",
+        "258",
+        "260",
+        "269",
+        "285",
+        "286",
+        "288",
+        "291",
+        "77",
+        "78",
+        "95",
+        "98"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.barradesaomiguel.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradesaomiguel.pb.leg.br/3368952fb40ae2d09c79adeed7293f63d6ac790fdbb7c558e8949c226b7bed1b.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradesaomiguel.pb.leg.br/3368952fb40ae2d09c79adeed7293f63d6ac790fdbb7c558e8949c226b7bed1b.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.barradogarcas.mt.leg.br",
+      "estado": "indice_completo",
+      "total": 407,
+      "normas_selecionadas": [
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.barradogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/de0171e07622f4c65412cb1d2c545a25a82de130ccfa42c5484d6e2668b0f5a3.json",
+          "sha256": "bd7d8790e33d7529ab1215d63d02ec9e42dd7e2698af69007bd586ab050fc41d",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/de0171e07622f4c65412cb1d2c545a25a82de130ccfa42c5484d6e2668b0f5a3.meta.json"
+        },
+        {
+          "url": "https://sapl.barradogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/d9ec2bb4baf8090e7a59307fd5d2fb149e3ebe5b22d47537d0d4177bd913e4f9.json",
+          "sha256": "67132bdb173cab92f7e43a12d5130bc66776319c695397f4ca93d7a1cc633520",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/d9ec2bb4baf8090e7a59307fd5d2fb149e3ebe5b22d47537d0d4177bd913e4f9.meta.json"
+        },
+        {
+          "url": "https://sapl.barradogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/7084b25d66f9c27182cb58a923b54d60c120cf85d49579e18e5c7c9a8a6044a1.json",
+          "sha256": "a809c51877c2bd8f2c6dd1bff72403d182a7a9d3d5d58a6fae904961dc7e1fa1",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/7084b25d66f9c27182cb58a923b54d60c120cf85d49579e18e5c7c9a8a6044a1.meta.json"
+        },
+        {
+          "url": "https://sapl.barradogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/f359168ce1a514d78b5971b975610707bfd77c6971d179d7e814d1eed644748c.json",
+          "sha256": "57ccdbfabd280d3cacae7b891acd36a373d545e5555d0407f7302f8255aa84bf",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/f359168ce1a514d78b5971b975610707bfd77c6971d179d7e814d1eed644748c.meta.json"
+        },
+        {
+          "url": "https://sapl.barradogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=5",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/616d075376cc8a1f1e8f52d7cb9e0f082488866e1b242eac1a0ef7fe6475a3d1.json",
+          "sha256": "1922c3b3487bbef2a90e8d121b2e97c100ae38057a0ef3811394472df386cc56",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradogarcas.mt.leg.br/616d075376cc8a1f1e8f52d7cb9e0f082488866e1b242eac1a0ef7fe6475a3d1.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "estado": "indice_completo",
+      "total": 22,
+      "normas_selecionadas": [
+        "88",
+        "89",
+        "90"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.barramansa.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barramansa.rj.leg.br/d78769668ad9113c958b162cba207a7c8dd610493ee8248456e93aed4897ff4b.json",
+          "sha256": "50def4ed0214d537cd1c1cdb65f0bd455d1f8fe7cf36a362aa48b9158460acd3",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barramansa.rj.leg.br/d78769668ad9113c958b162cba207a7c8dd610493ee8248456e93aed4897ff4b.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.bertioga.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 25,
+      "normas_selecionadas": [
+        "1103",
+        "1144",
+        "1145",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281",
+        "282",
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288",
+        "289",
+        "290",
+        "292",
+        "3455",
+        "3585",
+        "3806",
+        "3818",
+        "4483",
+        "4593",
+        "5264",
+        "5829",
+        "6064",
+        "6305",
+        "6431",
+        "6489",
+        "6608",
+        "6833",
+        "6858",
+        "7186",
+        "7456"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.bertioga.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bertioga.sp.leg.br/5bad3d8f2f33f10463561c7eb40efd6f7828600d6cfde8187d08152291f5b2c1.json",
+          "sha256": "0de61a1f8ecc7ee55035abda49fc0b6b1d9236a12b871f14c027a04cc26368b8",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bertioga.sp.leg.br/5bad3d8f2f33f10463561c7eb40efd6f7828600d6cfde8187d08152291f5b2c1.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.bomdespacho.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 4,
+      "normas_selecionadas": [
+        "2654"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.bomdespacho.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomdespacho.mg.leg.br/89deccf47f18a2d52cd096893b4f0ac59148885d6c6d5026f5b82db63ebd0239.json",
+          "sha256": "24bd05628e241ac0f6fc5e6e04a06f40ff4360bd057e4679eca2b4b0371a4c18",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomdespacho.mg.leg.br/89deccf47f18a2d52cd096893b4f0ac59148885d6c6d5026f5b82db63ebd0239.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.bomjardim.rj.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "101",
+        "102",
+        "105",
+        "107",
+        "118",
+        "119",
+        "120",
+        "123",
+        "129",
+        "133",
+        "134",
+        "137",
+        "248",
+        "29",
+        "32",
+        "35",
+        "37",
+        "38",
+        "41",
+        "46",
+        "47",
+        "82",
+        "83",
+        "84",
+        "85",
+        "90",
+        "91",
+        "99"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.bomjardim.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomjardim.rj.leg.br/4dc8a0973a7616b49ecfff5fa65306ce8c059c5027a860fb6c77593bce44c6e0.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomjardim.rj.leg.br/4dc8a0973a7616b49ecfff5fa65306ce8c059c5027a860fb6c77593bce44c6e0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.bonfinopolisdeminas.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 5,
+      "normas_selecionadas": [
+        "1245"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bonfinopolisdeminas.mg.leg.br/c65af24b9a053861fe680c804bace24e508cbf0b61576e44e8e12f8b9126870f.json",
+          "sha256": "ea309e0468cd284660197843b235240a600f4606d07c9d9c1345491a02a88dc7",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bonfinopolisdeminas.mg.leg.br/c65af24b9a053861fe680c804bace24e508cbf0b61576e44e8e12f8b9126870f.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.brasileira.pi.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "78"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.brasileira.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.brasileira.pi.leg.br/e9d5d42cf1b5469ae3a3b940e29e0ff676856f4de2b5cbd5c47a2f884a8677ba.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.brasileira.pi.leg.br/e9d5d42cf1b5469ae3a3b940e29e0ff676856f4de2b5cbd5c47a2f884a8677ba.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 12,
+      "normas_selecionadas": [
+        "1121",
+        "146",
+        "490",
+        "506",
+        "507",
+        "508",
+        "509",
+        "510",
+        "511",
+        "512",
+        "524"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cabeceiragrande.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.json",
+          "sha256": "1abeef80cd95b63d35856142f88ccf9175d46d1ba3ee1abf1e9525ba2be1cb4f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cabodesantoagostinho.pe.leg.br",
+      "estado": "indice_completo",
+      "total": 87,
+      "normas_selecionadas": [
+        "2649",
+        "3825",
+        "3826",
+        "3827",
+        "557"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabodesantoagostinho.pe.leg.br/9b30a37778ca9cd1ee27c87573ce61bf1b668bad9bb2887ee179b20e0f2ad3c4.json",
+          "sha256": "a9856fc37fb7939817e24927be0ff5d9537ff9e6bfad84c713119d2d81df7ad9",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabodesantoagostinho.pe.leg.br/9b30a37778ca9cd1ee27c87573ce61bf1b668bad9bb2887ee179b20e0f2ad3c4.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.caceres.mt.leg.br",
+      "estado": "indice_completo",
+      "total": 1465,
+      "normas_selecionadas": [
+        "122",
+        "1996"
+      ],
+      "anexos_das_normas_selecionadas": [
+        {
+          "id": 1026,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf da norma Emenda à Lei Orgânica nº 52, de 20 de outubro de 2025",
+          "link_detail_backend": "/norma/anexonormajuridica/1026",
+          "metadata": {},
+          "assunto_anexo": "Emenda à Lei Orgânica nº 52, de 20 de outubro de 2025",
+          "anexo_arquivo": "http://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf",
+          "ano": 2025,
+          "norma": 1996
+        }
+      ],
+      "evidencias": [
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/cc994970fa591c39b63ad61ed27d1ecf48ff736eadfb59278d4b850947cc18e2.json",
+          "sha256": "c808560b4323c89458f9e36c769d9ea5959c83a79b153d9de12c6e4eca923c7c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/cc994970fa591c39b63ad61ed27d1ecf48ff736eadfb59278d4b850947cc18e2.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/43059d246493c945d4f1f16bd53836dedb59162e0f2d1ff4b1de9370e383dc15.json",
+          "sha256": "a590e6fe053d6bf1f16ddb20aeb6e933507be7fb880ae9c1d06c096330ae1737",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/43059d246493c945d4f1f16bd53836dedb59162e0f2d1ff4b1de9370e383dc15.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/25d2445feaceeb8abfdea6a457937cb6478230c4bc7ef5b75de8955ae18f61cb.json",
+          "sha256": "ccef461e4c1545a33806dd876e0dce04d976640afe7c30d07e9e634d11e0849e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/25d2445feaceeb8abfdea6a457937cb6478230c4bc7ef5b75de8955ae18f61cb.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/3b60277c2992d9909e7036728010f41347ab5a1694c9755fc1736a69fd6f3450.json",
+          "sha256": "6514ae4cad08636885815d0f9191a0847b3a0fca51346a344addc97fc8441e3e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/3b60277c2992d9909e7036728010f41347ab5a1694c9755fc1736a69fd6f3450.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=5",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/c9a5c8165915eb0fd25e542f6907013009ef640369bb7453bc3e9f6ae7bde1ae.json",
+          "sha256": "a2fd906e885159961dd5bb9dc6ff17a3a41716fb74fa0d8fa5240be438fd97e2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/c9a5c8165915eb0fd25e542f6907013009ef640369bb7453bc3e9f6ae7bde1ae.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=6",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/7d31878a06c103d8a2d74fc04a03a2bd340b266d6ef908efcbfbdbda54b5cd6b.json",
+          "sha256": "f534ed044b6fbe0e6b5d15e1c8dfdcf8db4e0a8d4572ecaf8017cb13b07afd55",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/7d31878a06c103d8a2d74fc04a03a2bd340b266d6ef908efcbfbdbda54b5cd6b.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=7",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/ac57d02356e1e68b368063f069f4f6fd8f6e9eef6736a78cae7966830f5ef9c5.json",
+          "sha256": "8698360834a4bb398f496d4f0917da97bdf6ac0708c448d75e0aa5b3625d1c86",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/ac57d02356e1e68b368063f069f4f6fd8f6e9eef6736a78cae7966830f5ef9c5.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=8",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/d8ea01da2225900af2454240f76b2efcced35f71512ac64bcda23407ba84fae6.json",
+          "sha256": "d64d21dfb02920204d4dcf8f5f1df846ecc28254144f91b97a6876988a9117f7",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/d8ea01da2225900af2454240f76b2efcced35f71512ac64bcda23407ba84fae6.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=9",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/a681c899c36c8d62aafd0bacda7ff39d46c307d9dd2a50d70f7596658a1f6b64.json",
+          "sha256": "17dc7eeebf6fb923e3e460f78c9f5db50a27037c9bd7c43e9c332e1c12e51971",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/a681c899c36c8d62aafd0bacda7ff39d46c307d9dd2a50d70f7596658a1f6b64.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=10",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/de166562196af284c1c405b7dc81c9522245bd7f932d70e8b0195df3b92c1356.json",
+          "sha256": "034a711fb456015070712a2772d634252c7fa713f9dddbfd332305221494825a",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/de166562196af284c1c405b7dc81c9522245bd7f932d70e8b0195df3b92c1356.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=11",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/b4c2fea4da5e1052fef1c78a19e96a2d7d208559c4606f3f5878dd7b6535d2a7.json",
+          "sha256": "75038a02d0d5c9c3ea068d16c7d488475f4da304df1cb685c5e4264129a60588",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/b4c2fea4da5e1052fef1c78a19e96a2d7d208559c4606f3f5878dd7b6535d2a7.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=12",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/cd1586c63264e3bc2d61863dcffd773665dd036eaaf519cf7a98895822fa33c1.json",
+          "sha256": "b0d92a30b8158ed0801e19884130356049b9b1d540972573a14e51ad5afd2657",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/cd1586c63264e3bc2d61863dcffd773665dd036eaaf519cf7a98895822fa33c1.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=13",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/9256fab07b6bd0d924281742d44acf9a9d09628c4c07381d93c5310b5444518b.json",
+          "sha256": "1c5e386db64acbd4bb8ce81331f0cedc45176d8a18b1b00287646d7a06d13ac6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/9256fab07b6bd0d924281742d44acf9a9d09628c4c07381d93c5310b5444518b.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=14",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/49b28981041b2ca8d465c46614c41e03b25455ecb56e0c54f3c0a5f1907f9138.json",
+          "sha256": "a61236cb84bf6dbe8b83581afaaf635f5562fde4641552221bd139626e161162",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/49b28981041b2ca8d465c46614c41e03b25455ecb56e0c54f3c0a5f1907f9138.meta.json"
+        },
+        {
+          "url": "https://sapl.caceres.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=15",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/ff651b5945b84d27f4b79f388e0509b10ad3db48f4a5bc48d38790cfb3121b2e.json",
+          "sha256": "af846f0c1d759aae814bfd3bf880c84c33ccd131d475f115c06c9572749ea9f3",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.caceres.mt.leg.br/ff651b5945b84d27f4b79f388e0509b10ad3db48f4a5bc48d38790cfb3121b2e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.california.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 15,
+      "normas_selecionadas": [
+        "807"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.california.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.california.pr.leg.br/40739a76e40ba1b69738d56ded5d04fd3471bc338b3be6c4946b7459b9f9cb7e.json",
+          "sha256": "2f8b65851a538f30b1b14cc066d1c31eca0e696820725a04cc426df888c03910",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.california.pr.leg.br/40739a76e40ba1b69738d56ded5d04fd3471bc338b3be6c4946b7459b9f9cb7e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.campinaverde.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.campinaverde.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.campinaverde.mg.leg.br/51018aee62ef7562a8b6aa18cfe8d9a6ab7d0a109555434358d7ed790c6df712.json",
+          "sha256": "a38b651017c8bd759bc02816bd29f08ea430bbd3a32d01a149b59b1048b1af6b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.campinaverde.mg.leg.br/51018aee62ef7562a8b6aa18cfe8d9a6ab7d0a109555434358d7ed790c6df712.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.campodotenente.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "1",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "109",
+        "110",
+        "111",
+        "114",
+        "115",
+        "116",
+        "117",
+        "118",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "128",
+        "13",
+        "131",
+        "132",
+        "134",
+        "135",
+        "138",
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "148",
+        "15",
+        "150",
+        "151",
+        "16",
+        "166",
+        "167",
+        "168",
+        "171",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178",
+        "179",
+        "18",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "190",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199",
+        "20",
+        "201",
+        "202",
+        "203",
+        "205",
+        "206",
+        "208",
+        "209",
+        "210",
+        "22",
+        "247",
+        "254",
+        "315",
+        "318",
+        "324",
+        "332",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "42",
+        "43",
+        "44",
+        "5",
+        "51",
+        "52",
+        "53",
+        "54",
+        "56",
+        "58",
+        "6",
+        "68",
+        "7",
+        "70",
+        "71",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "88",
+        "89",
+        "90",
+        "95",
+        "96",
+        "97",
+        "98"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.campodotenente.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.campodotenente.pr.leg.br/1ab61cebd28934c73474c92ed29d6164e14178e231113e47be9fd6ba9561132b.json",
+          "sha256": "81bf9b84169440082e85e2e496884232107f0c41a36b8c32b848e144441ae2ac",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.campodotenente.pr.leg.br/1ab61cebd28934c73474c92ed29d6164e14178e231113e47be9fd6ba9561132b.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.campomagro.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 19,
+      "normas_selecionadas": [
+        "219"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.campomagro.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.campomagro.pr.leg.br/d164112ff80db8421ccb7fa9d25acac7c796e15740d0b3bd2b4a01fc9f635341.json",
+          "sha256": "fadb978c69889975825d93819c6db4755a2123b7d3c1a075eb579a403d9e4562",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.campomagro.pr.leg.br/d164112ff80db8421ccb7fa9d25acac7c796e15740d0b3bd2b4a01fc9f635341.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.campoverde.mt.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "4855"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.campoverde.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.campoverde.mt.leg.br/9655ba55d5c9f75c80a88ffd57ad0fc761afc8cb32556184d2e597d976f39f92.json",
+          "sha256": "2f24fbf7c7f2da6d18ed9b1dbf480fe23e05e6564a064894e6ab8d06903b7177",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.campoverde.mt.leg.br/9655ba55d5c9f75c80a88ffd57ad0fc761afc8cb32556184d2e597d976f39f92.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.canapolis.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "29",
+        "30"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.canapolis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.canapolis.mg.leg.br/1b7aca419e112cb21570b69e1635f185cedc5ec8ee818d2e92d7d9c9bd05015e.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.canapolis.mg.leg.br/1b7aca419e112cb21570b69e1635f185cedc5ec8ee818d2e92d7d9c9bd05015e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cantagalo.rj.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "101",
+        "102",
+        "106",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cantagalo.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cantagalo.rj.leg.br/be9fc21d8983058301e783b6e0493a8f08a6e99f3ee2f17a31f562b99c2c2d62.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cantagalo.rj.leg.br/be9fc21d8983058301e783b6e0493a8f08a6e99f3ee2f17a31f562b99c2c2d62.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.carambei.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 51,
+      "normas_selecionadas": [
+        "282"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.carambei.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.carambei.pr.leg.br/8e21246effd2e6a350c04fb222248dd636b2ec768f740b200e629a8cd90aa9e2.json",
+          "sha256": "9b1ea437b81cdb744f74044d9956baad46d6f315b64319fdb028895214b89788",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.carambei.pr.leg.br/8e21246effd2e6a350c04fb222248dd636b2ec768f740b200e629a8cd90aa9e2.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cataguases.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "218",
+        "247",
+        "25"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cataguases.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cataguases.mg.leg.br/575d3baaf4dae05713e7fdf34b959b1261a75b4b468579cc726d863adb257054.json",
+          "sha256": "baf4ce3eb7d1878a4a41be1b540429d0fc4cd3db43a1c2e47ebd1b07a2a79489",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cataguases.mg.leg.br/575d3baaf4dae05713e7fdf34b959b1261a75b4b468579cc726d863adb257054.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cerrocora.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "488",
+        "489",
+        "490",
+        "491",
+        "493",
+        "495",
+        "497",
+        "498",
+        "500",
+        "501",
+        "502",
+        "503",
+        "508",
+        "514",
+        "515",
+        "517",
+        "518",
+        "519",
+        "520",
+        "522",
+        "523",
+        "524",
+        "528",
+        "531",
+        "532",
+        "533",
+        "534",
+        "536",
+        "537",
+        "538",
+        "540",
+        "541",
+        "542",
+        "544",
+        "545",
+        "547",
+        "548",
+        "549"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cerrocora.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cerrocora.rn.leg.br/3728b57100ca44aeb6f60d2965652b48405ee9f6d861e842028a1af540a81b50.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cerrocora.rn.leg.br/3728b57100ca44aeb6f60d2965652b48405ee9f6d861e842028a1af540a81b50.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.clevelandia.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "5"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.clevelandia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.clevelandia.pr.leg.br/59b6154330416488463120987a468d834cea9e17492583aef736fe5425f34600.json",
+          "sha256": "9cf30506bf8e08e6368203d3dd43e9bd13a2f562e7681baf5ba7dd5529506858",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.clevelandia.pr.leg.br/59b6154330416488463120987a468d834cea9e17492583aef736fe5425f34600.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cmm.am.gov.br",
+      "estado": "indice_completo",
+      "total": 176,
+      "normas_selecionadas": [
+        "6546",
+        "6554",
+        "6556",
+        "6557",
+        "6560",
+        "6562"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cmm.am.gov.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/950e2c63cf69acbe87eae6c989f13025d73437d68de39848f85ba5efce3fd3d7.json",
+          "sha256": "4a5761c50e949462719f8ff7c41960b69153be03a2803b3d3d73cb7d850db985",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/950e2c63cf69acbe87eae6c989f13025d73437d68de39848f85ba5efce3fd3d7.meta.json"
+        },
+        {
+          "url": "https://sapl.cmm.am.gov.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/1d9fe9056a49a428f75a6b517d96f3ef9be6661c2499863e9c2bd1d17427f12a.json",
+          "sha256": "9f509efc13f3a7f37f9ac9655c30b48cbd84e03d3874b52dda0b6f240c52b3ec",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/1d9fe9056a49a428f75a6b517d96f3ef9be6661c2499863e9c2bd1d17427f12a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.corbelia.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 250,
+      "normas_selecionadas": [
+        "412",
+        "413",
+        "416",
+        "417",
+        "418",
+        "419"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/700d7db63c6c491ae469fd9f7c082c5d93e8034ca68250cd311fa7adfdcbeffa.json",
+          "sha256": "8dd387eecb1dd8051f2ee484bdeeb805b5f58c780ced3ed6adfe59e47c432461",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/700d7db63c6c491ae469fd9f7c082c5d93e8034ca68250cd311fa7adfdcbeffa.meta.json"
+        },
+        {
+          "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/3c0a21aad68bb92d4dd59086e0356d5f577d0e398999fc0de15b1083369c9a6b.json",
+          "sha256": "626f99cb4aa788610406f7bd75c12285ef56a129028224a7875d8488ae843888",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/3c0a21aad68bb92d4dd59086e0356d5f577d0e398999fc0de15b1083369c9a6b.meta.json"
+        },
+        {
+          "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/4d36e85534c00b50c00662bf648b6142b4635dbe5e990f69d293d15327bcafa6.json",
+          "sha256": "11ed420410bd983553e4c0cf9ef817a4aae843af4f9a52b3a3516ac897efb45f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/4d36e85534c00b50c00662bf648b6142b4635dbe5e990f69d293d15327bcafa6.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.coronelbarros.rs.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "84"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.coronelbarros.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelbarros.rs.leg.br/aef7aff3899b0a30e5443fe57c609f35fe9dd3e07d65f95c1597c070a18df74d.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelbarros.rs.leg.br/aef7aff3899b0a30e5443fe57c609f35fe9dd3e07d65f95c1597c070a18df74d.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.coronelfabriciano.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 15,
+      "normas_selecionadas": [
+        "2046",
+        "2047",
+        "2103",
+        "2106",
+        "2108",
+        "2109",
+        "2110",
+        "2111",
+        "2112",
+        "2113",
+        "2114",
+        "2115",
+        "2116",
+        "2117",
+        "2118",
+        "2119",
+        "2120",
+        "2121",
+        "2122",
+        "2123",
+        "2124"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.coronelfabriciano.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelfabriciano.mg.leg.br/93985fc6b9130fb3c5e2db29e85f939a6e35051fd8c3de78a51b795178cf1ef8.json",
+          "sha256": "25652333a3716350c3b30f1e118c51aad341493bd9eed83f54d563955a732b81",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelfabriciano.mg.leg.br/93985fc6b9130fb3c5e2db29e85f939a6e35051fd8c3de78a51b795178cf1ef8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cotriguacu.mt.leg.br",
+      "estado": "indice_completo",
+      "total": 6,
+      "normas_selecionadas": [
+        "8"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cotriguacu.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cotriguacu.mt.leg.br/ced91c6554494970ad095ea69b7d53805d4a4a99f24ceea83bddf24b4df09a31.json",
+          "sha256": "85a1e03300fa634dfeb79d606f5810b9340a7eb2a19624ade1f3ae791849caa7",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cotriguacu.mt.leg.br/ced91c6554494970ad095ea69b7d53805d4a4a99f24ceea83bddf24b4df09a31.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cruzmaltina.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 6,
+      "normas_selecionadas": [
+        "54"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cruzmaltina.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cruzmaltina.pr.leg.br/23156b9dd23ff8a843e9ec3a2a9c0483c69d4c596ead4f25049d4cf53bc226a9.json",
+          "sha256": "d9ccebcd87d001edd781a3527b73609a7441ab59d6a9cf179e4e15fe32658de2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cruzmaltina.pr.leg.br/23156b9dd23ff8a843e9ec3a2a9c0483c69d4c596ead4f25049d4cf53bc226a9.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.cujubim.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "2",
+        "5"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.cujubim.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cujubim.ro.leg.br/da7d9089440ce784f72d0491740489d153c8daa67b5e617d585f3c811cf7bf51.json",
+          "sha256": "e2bd525da18ab373d809e7270fc0bad27de1b789fe9046bb99621454514fb343",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cujubim.ro.leg.br/da7d9089440ce784f72d0491740489d153c8daa67b5e617d585f3c811cf7bf51.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.dombosco.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 3,
+      "normas_selecionadas": [
+        "411"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.dombosco.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.dombosco.mg.leg.br/d30599b469d86d77b9aaa1ba402b0f8023266917189a9f4ead1f7266d041b1f5.json",
+          "sha256": "33eb5fe7c766a615e68d53dad1f139e05e7420922ad24c30f1e30fca41a43936",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.dombosco.mg.leg.br/d30599b469d86d77b9aaa1ba402b0f8023266917189a9f4ead1f7266d041b1f5.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "estado": "indice_completo",
+      "total": 22,
+      "normas_selecionadas": [
+        "1444",
+        "5"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.json",
+          "sha256": "8d9872ab532af3e6f4940769c9f4681c932798f8aef5457efee810e161bc5396",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "1340"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.esperafeliz.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.json",
+          "sha256": "2b7b1ee005a14f63177061ec119aceb981d1d60ed73d88dee61e53fc1117513f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "estado": "indice_completo",
+      "total": 3,
+      "normas_selecionadas": [
+        "2089"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.eusebio.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.json",
+          "sha256": "e52bb6bf4cb08d61c6fa9dd5bb5e67f27a6ba123e48dd2442ca820123c57e7d0",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "estado": "indice_completo",
+      "total": 369,
+      "normas_selecionadas": [
+        "3480",
+        "3481",
+        "3482",
+        "3483",
+        "3484",
+        "3485",
+        "3486",
+        "3487",
+        "3488",
+        "3489",
+        "3490",
+        "3491",
+        "3493",
+        "3494",
+        "3495"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.formosa.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/3b26a3b87cde408e35aa3e4af15cddc5b2eef0a63facc78f99adb275b0bb0905.json",
+          "sha256": "4f7115e40b6ea816e11b56f6e3c1f9ae9e62329578ced1d35bf710a76e480671",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/3b26a3b87cde408e35aa3e4af15cddc5b2eef0a63facc78f99adb275b0bb0905.meta.json"
+        },
+        {
+          "url": "https://sapl.formosa.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/d1144cb3f8c87e1858c5677864c54c0e1f271f815929b74c58c1f5dbef96e907.json",
+          "sha256": "1068b385d69e641b4f52a793acb8d120efc1c7196e9bc9095a60efbd6dc96dd1",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/d1144cb3f8c87e1858c5677864c54c0e1f271f815929b74c58c1f5dbef96e907.meta.json"
+        },
+        {
+          "url": "https://sapl.formosa.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/d3285efac11a43705a1c2c3092a61374f95ee84c0ef432b6f07736bc030dd06c.json",
+          "sha256": "337a838bd373a1f45149fa0eb673b772f7574f401ff9443794d9b9d5a0bfe6ab",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/d3285efac11a43705a1c2c3092a61374f95ee84c0ef432b6f07736bc030dd06c.meta.json"
+        },
+        {
+          "url": "https://sapl.formosa.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/b1f2882f3a721f68674db4947f29f340e8e8f531418bdd2c46acb9d0c54fce7e.json",
+          "sha256": "a3c2c82b7d40d813f64240fc0ccc63781fb7cb05ada2b1c53215f818080b55cc",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosa.go.leg.br/b1f2882f3a721f68674db4947f29f340e8e8f531418bdd2c46acb9d0c54fce7e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.formoso.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "417"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.formoso.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formoso.mg.leg.br/a934fbf74749621ff1b9d848da6f2c8694caa23bf256ccca44d0f68367b3200a.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formoso.mg.leg.br/a934fbf74749621ff1b9d848da6f2c8694caa23bf256ccca44d0f68367b3200a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.formosodoaraguaia.to.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "493"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.formosodoaraguaia.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosodoaraguaia.to.leg.br/a858332931dec020c519cbafd1a7ca8415bcf92379d0f933952e7e23f081a62f.json",
+          "sha256": "39cd85a00733d12392b1f61f03050f737213fe0bc831c5b18852ebcebfd3389e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosodoaraguaia.to.leg.br/a858332931dec020c519cbafd1a7ca8415bcf92379d0f933952e7e23f081a62f.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "5257"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.fortaleza.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.fortaleza.ce.leg.br/d650a0a56a982ce4c6dc82e54ab1fe8c83676d63cda83c250c1e46cbd1f526b7.json",
+          "sha256": "bcc0b87a78e640f697681c77ee36222d5ed96d93dfdd1f031997a4b0d572c869",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.fortaleza.ce.leg.br/d650a0a56a982ce4c6dc82e54ab1fe8c83676d63cda83c250c1e46cbd1f526b7.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.frutal.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 3,
+      "normas_selecionadas": [
+        "6006"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.frutal.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.frutal.mg.leg.br/6c3263f36f7f1e75303a84de9e74f5bb2e6646e4e36cbc29473a38bbeca2b83f.json",
+          "sha256": "1ec452bad7a510116c70da82d941f8d9f332c47341658b54b847feca8bf1dcae",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.frutal.mg.leg.br/6c3263f36f7f1e75303a84de9e74f5bb2e6646e4e36cbc29473a38bbeca2b83f.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 32,
+      "normas_selecionadas": [
+        "233",
+        "91",
+        "92"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.garca.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.garca.sp.leg.br/d8aaad21e9c78d5e3614a8ef6505a61aa9de7d72d2c0e7064494ed195c3ba74c.json",
+          "sha256": "142685ae152b2e07aec42bb248a48adba2aa88e997b070b87385e1a20a57abc4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.garca.sp.leg.br/d8aaad21e9c78d5e3614a8ef6505a61aa9de7d72d2c0e7064494ed195c3ba74c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.guajaramirim.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1560",
+        "2149",
+        "2636",
+        "2756",
+        "2757",
+        "3729"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.guajaramirim.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.guajaramirim.ro.leg.br/4fa37099e41d9682e9e3a8d222c162ccc4174fadc247090ed59d9311f2d6c6b8.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.guajaramirim.ro.leg.br/4fa37099e41d9682e9e3a8d222c162ccc4174fadc247090ed59d9311f2d6c6b8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "4811",
+        "4813"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.guariba.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.guariba.sp.leg.br/27cc18151a3ed8f118954a97a7ae3bf9d789614b2dd050c27e19b924ca1d03a0.json",
+          "sha256": "86f27fe0268714c5499f28eb7b52c03bf63bd506da1c6adbc3eed3f1914808b5",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.guariba.sp.leg.br/27cc18151a3ed8f118954a97a7ae3bf9d789614b2dd050c27e19b924ca1d03a0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.heliodora.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 7,
+      "normas_selecionadas": [
+        "714",
+        "893"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.heliodora.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.heliodora.mg.leg.br/f02f8a2fad15b4c0177e4b9de17532b02af9c298d1a00255592a3f827e5b324e.json",
+          "sha256": "4b8fd1c3e1ddc0e0912c8ea0418764da65dcbec13e6d0ed828b40cfb8bd915d2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.heliodora.mg.leg.br/f02f8a2fad15b4c0177e4b9de17532b02af9c298d1a00255592a3f827e5b324e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.icapui.ce.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1373"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.icapui.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.icapui.ce.leg.br/9d3fa5eddf45a7a0922dd2fec4b28d1993db91829e207bdab7e869725b949a10.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.icapui.ce.leg.br/9d3fa5eddf45a7a0922dd2fec4b28d1993db91829e207bdab7e869725b949a10.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.iconha.es.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "1140",
+        "1141",
+        "1142",
+        "1145",
+        "1147",
+        "1148"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.iconha.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.iconha.es.leg.br/d758ffedfd4685e0d84afd6a91c9658959fa1d18b9139f684d7f35cd5fee0f10.json",
+          "sha256": "e46dc65bb52d404b1d76ef090740eee7789a977f8de3fb65b65742ecf17352ce",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.iconha.es.leg.br/d758ffedfd4685e0d84afd6a91c9658959fa1d18b9139f684d7f35cd5fee0f10.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.igrapiuna.ba.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1",
+        "7"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.igrapiuna.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.igrapiuna.ba.leg.br/78bae5130111d1e29e150528e537412a9f9e5d95cfdcadf3e5fe000362173612.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.igrapiuna.ba.leg.br/78bae5130111d1e29e150528e537412a9f9e5d95cfdcadf3e5fe000362173612.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.ipueiras.ce.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "2"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.ipueiras.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.ipueiras.ce.leg.br/ccab0f0142d47c064c8dbb7c369020bec53a131a33029ba51a869994669ec8d7.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.ipueiras.ce.leg.br/ccab0f0142d47c064c8dbb7c369020bec53a131a33029ba51a869994669ec8d7.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.itapuadooeste.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.itapuadooeste.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapuadooeste.ro.leg.br/c69ad975c42c861c6781b1d3ed8a50a7931b3353fb6b80cc89d20e9ce75e461a.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapuadooeste.ro.leg.br/c69ad975c42c861c6781b1d3ed8a50a7931b3353fb6b80cc89d20e9ce75e461a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.itaunadosul.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 103,
+      "normas_selecionadas": [
+        "1462",
+        "1601",
+        "1716"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.itaunadosul.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itaunadosul.pr.leg.br/ed0aa9538f47f13c3b0c6573c902621768f0d870a60fab0d88da4a9a500c9c90.json",
+          "sha256": "1622a889d5bdbde6fcf738912b15aee8c0729ee0af0e668681ca21601699a1f1",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itaunadosul.pr.leg.br/ed0aa9538f47f13c3b0c6573c902621768f0d870a60fab0d88da4a9a500c9c90.meta.json"
+        },
+        {
+          "url": "https://sapl.itaunadosul.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itaunadosul.pr.leg.br/61706fa1167542e9b8f7cadd6124c72fd13bed5d4a97f306b48a6039d012f364.json",
+          "sha256": "90d17e901277fa0b1025a574ac855ff854298a7528f89691649a23b96f7da0f7",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itaunadosul.pr.leg.br/61706fa1167542e9b8f7cadd6124c72fd13bed5d4a97f306b48a6039d012f364.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.jacana.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.jacana.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacana.rn.leg.br/dcc7b7e6577d6009d12712446c7fc2a5ddb1504661768f7f97da7ba8c9b87d8d.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacana.rn.leg.br/dcc7b7e6577d6009d12712446c7fc2a5ddb1504661768f7f97da7ba8c9b87d8d.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.jacui.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "258",
+        "530"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.jacui.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacui.mg.leg.br/ee5ebae19477b269eda1da84816064e128df3f8a681c731dbf54d390f2c0f0ab.json",
+          "sha256": "0873a18e5886a5ae2a9023647d92f2f06e792abe09be9dee4c840905f7d16392",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacui.mg.leg.br/ee5ebae19477b269eda1da84816064e128df3f8a681c731dbf54d390f2c0f0ab.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.jaguapita.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "2"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.jaguapita.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jaguapita.pr.leg.br/dbb3209522ebcb3a2c97013a6bc82c144873eb4790cd743f0c1ba58ea888c83c.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jaguapita.pr.leg.br/dbb3209522ebcb3a2c97013a6bc82c144873eb4790cd743f0c1ba58ea888c83c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.jiparana.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.jiparana.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jiparana.ro.leg.br/2a514590aae9feb85872f910b012327cfe9b8a34f2b901b15ef2bdf1360f5ae4.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jiparana.ro.leg.br/2a514590aae9feb85872f910b012327cfe9b8a34f2b901b15ef2bdf1360f5ae4.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.joaoneiva.es.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "30"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.joaoneiva.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaoneiva.es.leg.br/6b295b30ff3c077e3512a1d26c9ec933631ed06dff655cab333b23595d31ae26.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaoneiva.es.leg.br/6b295b30ff3c077e3512a1d26c9ec933631ed06dff655cab333b23595d31ae26.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 5,
+      "normas_selecionadas": [
+        "1000",
+        "1003",
+        "1006",
+        "1009",
+        "1010",
+        "1011",
+        "1012",
+        "1013",
+        "1014",
+        "1015",
+        "1016",
+        "1017",
+        "1018",
+        "1028",
+        "1038",
+        "1040",
+        "1041",
+        "1044",
+        "1045",
+        "1046",
+        "1047",
+        "1048",
+        "1058",
+        "106",
+        "1060",
+        "1062",
+        "1088",
+        "11",
+        "1100",
+        "1103",
+        "1104",
+        "1105",
+        "1108",
+        "114",
+        "116",
+        "117",
+        "119",
+        "133",
+        "134",
+        "139",
+        "142",
+        "144",
+        "145",
+        "147",
+        "149",
+        "151",
+        "153",
+        "164",
+        "166",
+        "169",
+        "170",
+        "171",
+        "172",
+        "173",
+        "176",
+        "179",
+        "181",
+        "182",
+        "184",
+        "199",
+        "201",
+        "202",
+        "203",
+        "211",
+        "212",
+        "220",
+        "221",
+        "223",
+        "225",
+        "230",
+        "231",
+        "232",
+        "233",
+        "239",
+        "247",
+        "249",
+        "250",
+        "251",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258",
+        "259",
+        "260",
+        "262",
+        "269",
+        "270",
+        "272",
+        "274",
+        "277",
+        "278",
+        "280",
+        "283",
+        "284",
+        "289",
+        "293",
+        "294",
+        "296",
+        "299",
+        "300",
+        "301",
+        "303",
+        "304",
+        "306",
+        "307",
+        "308",
+        "309",
+        "310",
+        "311",
+        "315",
+        "320",
+        "323",
+        "325",
+        "326",
+        "327",
+        "328",
+        "329",
+        "331",
+        "334",
+        "335",
+        "336",
+        "340",
+        "344",
+        "346",
+        "348",
+        "350",
+        "351",
+        "353",
+        "354",
+        "355",
+        "356",
+        "357",
+        "361",
+        "373",
+        "376",
+        "378",
+        "379",
+        "381",
+        "383",
+        "385",
+        "386",
+        "391",
+        "392",
+        "400",
+        "401",
+        "405",
+        "406",
+        "409",
+        "413",
+        "414",
+        "416",
+        "421",
+        "425",
+        "426",
+        "447",
+        "448",
+        "449",
+        "459",
+        "467",
+        "473",
+        "476",
+        "52",
+        "54",
+        "651",
+        "652",
+        "653",
+        "654",
+        "655",
+        "656",
+        "657",
+        "658",
+        "66",
+        "660",
+        "668",
+        "669",
+        "67",
+        "670",
+        "671",
+        "673",
+        "674",
+        "676",
+        "677",
+        "678",
+        "679",
+        "680",
+        "681",
+        "682",
+        "683",
+        "685",
+        "686",
+        "687",
+        "688",
+        "690",
+        "691",
+        "692",
+        "693",
+        "694",
+        "695",
+        "696",
+        "697",
+        "699",
+        "700",
+        "701",
+        "704",
+        "706",
+        "707",
+        "708",
+        "709",
+        "710",
+        "711",
+        "712",
+        "713",
+        "714",
+        "715",
+        "72",
+        "721",
+        "722",
+        "723",
+        "724",
+        "726",
+        "728",
+        "729",
+        "730",
+        "732",
+        "733",
+        "734",
+        "736",
+        "737",
+        "738",
+        "739",
+        "740",
+        "741",
+        "742",
+        "743",
+        "746",
+        "747",
+        "748",
+        "749",
+        "750",
+        "751",
+        "752",
+        "754",
+        "755",
+        "756",
+        "757",
+        "758",
+        "759",
+        "760",
+        "761",
+        "762",
+        "763",
+        "765",
+        "766",
+        "767",
+        "768",
+        "771",
+        "772",
+        "773",
+        "774",
+        "775",
+        "776",
+        "778",
+        "779",
+        "780",
+        "781",
+        "782",
+        "787",
+        "789",
+        "79",
+        "791",
+        "792",
+        "795",
+        "796",
+        "797",
+        "798",
+        "799",
+        "80",
+        "800",
+        "801",
+        "802",
+        "803",
+        "804",
+        "805",
+        "807",
+        "808",
+        "809",
+        "81",
+        "812",
+        "813",
+        "814",
+        "815",
+        "816",
+        "817",
+        "82",
+        "83",
+        "835",
+        "840",
+        "849",
+        "850",
+        "851",
+        "855",
+        "856",
+        "857",
+        "859",
+        "861",
+        "862",
+        "864",
+        "865",
+        "866",
+        "867",
+        "868",
+        "869",
+        "870",
+        "871",
+        "875",
+        "876",
+        "878",
+        "879",
+        "880",
+        "885",
+        "887",
+        "888",
+        "889",
+        "891",
+        "893",
+        "894",
+        "895",
+        "896",
+        "898",
+        "899",
+        "902",
+        "907",
+        "908",
+        "909",
+        "910",
+        "913",
+        "914",
+        "916",
+        "919",
+        "920",
+        "921",
+        "925",
+        "926",
+        "927",
+        "928",
+        "929",
+        "930",
+        "931",
+        "932",
+        "934",
+        "935",
+        "936",
+        "937",
+        "939",
+        "944",
+        "946",
+        "949",
+        "950",
+        "952",
+        "954",
+        "959",
+        "963",
+        "969",
+        "970",
+        "971",
+        "972",
+        "973",
+        "974",
+        "976",
+        "979",
+        "980",
+        "989",
+        "991",
+        "995"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.joaquimtavora.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaquimtavora.pr.leg.br/74a2e89c767b3c68683dc5bf353d8d629bc63c4024b6eb960a3dab0b144c60ea.json",
+          "sha256": "05f03cb04e90bde5fb935a334cd83b913e25ace64c8467a57730a90bb40371a9",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaquimtavora.pr.leg.br/74a2e89c767b3c68683dc5bf353d8d629bc63c4024b6eb960a3dab0b144c60ea.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.juazeiro.ba.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "2174"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.juazeiro.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.juazeiro.ba.leg.br/fb09d1aef33e44ba19556eaf6ad500554ce50e04bba6d08c987a31922c3d725e.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.juazeiro.ba.leg.br/fb09d1aef33e44ba19556eaf6ad500554ce50e04bba6d08c987a31922c3d725e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.lagoadaprata.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 25,
+      "normas_selecionadas": [
+        "4575",
+        "4576",
+        "4578",
+        "4579",
+        "4583",
+        "4587",
+        "4588",
+        "4589",
+        "4590",
+        "4592",
+        "4593",
+        "4594",
+        "4595",
+        "4601",
+        "4602",
+        "4603",
+        "4604",
+        "4606",
+        "4607",
+        "4608"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.lagoadaprata.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.lagoadaprata.mg.leg.br/c2efc87ace9b5d86d6d8bf879301dd70fce0c2699759649608b87d60346177d8.json",
+          "sha256": "c8bc1b20868e5663bbe2e8cf535d52644ce7881e37fd3095ae588759f094d93c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.lagoadaprata.mg.leg.br/c2efc87ace9b5d86d6d8bf879301dd70fce0c2699759649608b87d60346177d8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.laranjalpaulista.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 60,
+      "normas_selecionadas": [
+        "3928",
+        "4007",
+        "4292",
+        "4412"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.laranjalpaulista.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.laranjalpaulista.sp.leg.br/55b46d3acb39653c69fc166d9f9c0e6f5947c1686f114993cd63800e069695a4.json",
+          "sha256": "40743ab2dba331ac9cd624ce5ad8634979b9643aab9faa547b9cb84e1924ec72",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.laranjalpaulista.sp.leg.br/55b46d3acb39653c69fc166d9f9c0e6f5947c1686f114993cd63800e069695a4.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.leme.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 322,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/0afe9688ebef6a00cd8a53320666202d4cc26bd1ea560370e35967b34624bdf9.json",
+          "sha256": "ef6e0c010c45f5c8758b1e924d896b8b06cff9e3b610668d0a7003b1ffb09e4b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/0afe9688ebef6a00cd8a53320666202d4cc26bd1ea560370e35967b34624bdf9.meta.json"
+        },
+        {
+          "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/3d4182c2edb8f11e0967579952a77e5fd9d8081a7b83b3ccbdc6951b430c865e.json",
+          "sha256": "06bbc0fe4db2216938ae390243eec2ed6eb39e640d3cc713b68d774f2ac3a088",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/3d4182c2edb8f11e0967579952a77e5fd9d8081a7b83b3ccbdc6951b430c865e.meta.json"
+        },
+        {
+          "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/057ee6a18b3d02e49872b7165f35ae853bf7e8e7d43ef688e5fbfac998af6b2f.json",
+          "sha256": "9579c254afbe75bfef18c61630b16271122914341cf62cf3a9fa62ae97de8a77",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/057ee6a18b3d02e49872b7165f35ae853bf7e8e7d43ef688e5fbfac998af6b2f.meta.json"
+        },
+        {
+          "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/7d767501e8132071a28060dc708c91317687cfe00461f46fc2ea33c508fc4d51.json",
+          "sha256": "a5b4aee81b9f9509e3ab34a0f8e50c14abfbde040de9a17e5f2731b97d7943fc",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/7d767501e8132071a28060dc708c91317687cfe00461f46fc2ea33c508fc4d51.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.limeiradooeste.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 86,
+      "normas_selecionadas": [
+        "2204"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.limeiradooeste.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.limeiradooeste.mg.leg.br/aeaf099ccca60eea42641aa92a3f737a6028988e9c071c781bb17a47f838c930.json",
+          "sha256": "af26b54bdf64cb95341abf2069d2bbeaea2d37214005160bc497adb510bb3110",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.limeiradooeste.mg.leg.br/aeaf099ccca60eea42641aa92a3f737a6028988e9c071c781bb17a47f838c930.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.lobato.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "2"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.lobato.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.lobato.pr.leg.br/eb0056143be25b929edeafde61c21cac8687c90e21cd2f5e4e68fb6fed957c11.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.lobato.pr.leg.br/eb0056143be25b929edeafde61c21cac8687c90e21cd2f5e4e68fb6fed957c11.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.luz.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "149",
+        "176",
+        "177",
+        "178",
+        "179",
+        "193",
+        "195",
+        "205",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "214",
+        "215",
+        "216",
+        "217",
+        "224",
+        "225",
+        "228",
+        "229",
+        "230",
+        "231",
+        "233",
+        "239",
+        "240",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258",
+        "261",
+        "262",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "270",
+        "271",
+        "273",
+        "274",
+        "275",
+        "276",
+        "278",
+        "280",
+        "284",
+        "285",
+        "288",
+        "296",
+        "297",
+        "298",
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "305",
+        "308",
+        "309",
+        "31",
+        "310",
+        "311",
+        "312",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328",
+        "329",
+        "331",
+        "332",
+        "333",
+        "334",
+        "337",
+        "339",
+        "340",
+        "343",
+        "344",
+        "347",
+        "350",
+        "351",
+        "352",
+        "354",
+        "355",
+        "356",
+        "358",
+        "360",
+        "361",
+        "363",
+        "364",
+        "365",
+        "366",
+        "367",
+        "369",
+        "371",
+        "373",
+        "375",
+        "376",
+        "378",
+        "379",
+        "380",
+        "402",
+        "406",
+        "412",
+        "416",
+        "417",
+        "422",
+        "425",
+        "432",
+        "440",
+        "443",
+        "444",
+        "447",
+        "451",
+        "456",
+        "457",
+        "458",
+        "459",
+        "460",
+        "461",
+        "462",
+        "463",
+        "464",
+        "466",
+        "467",
+        "468",
+        "470",
+        "471",
+        "472",
+        "517",
+        "518",
+        "519",
+        "520",
+        "521",
+        "522",
+        "523",
+        "524",
+        "525",
+        "526",
+        "532",
+        "533",
+        "535",
+        "536",
+        "538",
+        "539",
+        "540",
+        "541",
+        "542",
+        "543",
+        "544",
+        "545",
+        "546",
+        "547",
+        "548",
+        "549",
+        "550",
+        "552",
+        "553",
+        "554",
+        "555",
+        "556",
+        "557",
+        "558",
+        "559",
+        "560",
+        "561",
+        "71",
+        "89"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.luz.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.luz.mg.leg.br/5656891330a50dca61bde5e6aa672c4911a2308ad4f20b6b915886714042a9c8.json",
+          "sha256": "e3ab027cf82815bb9b9df398841110c037b1080d943b155226d125d23fd68ea9",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.luz.mg.leg.br/5656891330a50dca61bde5e6aa672c4911a2308ad4f20b6b915886714042a9c8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.mambore.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1",
+        "15",
+        "16",
+        "2",
+        "4"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.mambore.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.mambore.pr.leg.br/ea838c57f73746ed321be677daeb24e4aece8cfc12b6a421b34411595355cbfb.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.mambore.pr.leg.br/ea838c57f73746ed321be677daeb24e4aece8cfc12b6a421b34411595355cbfb.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.marcelinoramos.rs.leg.br",
+      "estado": "indice_completo",
+      "total": 17,
+      "normas_selecionadas": [
+        "1",
+        "10",
+        "4"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.marcelinoramos.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.marcelinoramos.rs.leg.br/38bf3c8a0d97684c4a4aa812f3e0f2219712ae7e77977fd971b14fc98c421708.json",
+          "sha256": "f9bab99f123f3d31f3a7f07bb1b497602b48978a4b4cfb189a6094f52df64449",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.marcelinoramos.rs.leg.br/38bf3c8a0d97684c4a4aa812f3e0f2219712ae7e77977fd971b14fc98c421708.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.marechalcandidorondon.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 22,
+      "normas_selecionadas": [
+        "1418",
+        "1465",
+        "1493",
+        "1607",
+        "1685"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.marechalcandidorondon.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.marechalcandidorondon.pr.leg.br/f17ad4bebac41a83a62b5e5b47b18ae4d1cbebcb2148ecc97e68e391e85bc3d0.json",
+          "sha256": "c51ccfa5e54bac7a771878d4c7c3915af61cb3f36e094883583530bd7e2f05b6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.marechalcandidorondon.pr.leg.br/f17ad4bebac41a83a62b5e5b47b18ae4d1cbebcb2148ecc97e68e391e85bc3d0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.mercedes.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1299",
+        "1301",
+        "1302",
+        "1303",
+        "1304",
+        "1305",
+        "1306",
+        "1307",
+        "1308",
+        "1309",
+        "1312",
+        "1422",
+        "1426",
+        "1429",
+        "1430",
+        "1431",
+        "1433",
+        "1436",
+        "1437",
+        "1442",
+        "1455",
+        "1456",
+        "1457",
+        "1458",
+        "1459",
+        "1460",
+        "1465",
+        "1466",
+        "1467",
+        "1469"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.mercedes.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.mercedes.pr.leg.br/add28ce2a639eff44a6497c10a2734e8de0bb85dbb8dea9304de4eac75ac977e.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.mercedes.pr.leg.br/add28ce2a639eff44a6497c10a2734e8de0bb85dbb8dea9304de4eac75ac977e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.montadas.pb.leg.br",
+      "estado": "indice_completo",
+      "total": 11,
+      "normas_selecionadas": [
+        "100",
+        "101",
+        "102",
+        "142",
+        "145",
+        "146",
+        "147",
+        "168",
+        "169",
+        "356",
+        "420",
+        "430",
+        "431",
+        "432",
+        "48",
+        "53",
+        "54",
+        "58",
+        "59",
+        "61",
+        "62",
+        "63",
+        "64",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "79",
+        "80",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "96",
+        "97",
+        "99"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.montadas.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montadas.pb.leg.br/9fd37bd4c1e47f76524fbad9ad1397f2e0474c200fd8608313a335e72178e34a.json",
+          "sha256": "51151322567d70695ca7a95d892719c23be8c12652940c58518dc914d1be4172",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montadas.pb.leg.br/9fd37bd4c1e47f76524fbad9ad1397f2e0474c200fd8608313a335e72178e34a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.montemor.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 316,
+      "normas_selecionadas": [
+        "2324"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/63ef70a515df4e0d07c4d163ad0f4bfcbf3f80ef6d25a47ecae35e94f394575e.json",
+          "sha256": "d4c75d42006c4a9da141aea0a1ceb59a9c25484bb00ca3b9e5750d85a4a363b4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/63ef70a515df4e0d07c4d163ad0f4bfcbf3f80ef6d25a47ecae35e94f394575e.meta.json"
+        },
+        {
+          "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/621077902c063c7986cff61058854f8c032e46744b6e22fed8c0c7ac10a6ee32.json",
+          "sha256": "9951382041678c68ac309205000acb20160bb6c7035b8857b2a3210f98a587e5",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/621077902c063c7986cff61058854f8c032e46744b6e22fed8c0c7ac10a6ee32.meta.json"
+        },
+        {
+          "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/6fa8457857a2499e86a8174fbadab55148baf44697c998a72ae6a2097e01d8d1.json",
+          "sha256": "f78035c4f3b6f9a19f110c119f359bf032ba76bdb4840e8ff658db4730e38179",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/6fa8457857a2499e86a8174fbadab55148baf44697c998a72ae6a2097e01d8d1.meta.json"
+        },
+        {
+          "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/f98238ec9654af68790004ae07daafe490ad62e564a997f0d99c5b33e26a063e.json",
+          "sha256": "cbdcedae44f0faeda5833896861bc27a0634cf8f56ac0f4ae430b36d72e00637",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/f98238ec9654af68790004ae07daafe490ad62e564a997f0d99c5b33e26a063e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.montesantodeminas.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 4,
+      "normas_selecionadas": [
+        "1049"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.montesantodeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montesantodeminas.mg.leg.br/154dae5426391e5f260d466e0772d39c2fb2356e394d9abd1ea3535f8f15b5b6.json",
+          "sha256": "c39d8d439c8a22b7882569a7530569891da77565f298f67e7b5013f8e1c901a8",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montesantodeminas.mg.leg.br/154dae5426391e5f260d466e0772d39c2fb2356e394d9abd1ea3535f8f15b5b6.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.muriae.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 507,
+      "normas_selecionadas": [
+        "2",
+        "7138"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/41e41fb24e4d34f41318b6e202dfbdc4dea4b21bc76be96cd6bbd4536f1df429.json",
+          "sha256": "1cb9f48e45d187af8055ec231cae0a37c5f88d5fce281ba20aee62522089cafe",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/41e41fb24e4d34f41318b6e202dfbdc4dea4b21bc76be96cd6bbd4536f1df429.meta.json"
+        },
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/b6da59cc85d02a749316cc2459aa77fab11363ab9cbe8cd0ce091d77c644d9ab.json",
+          "sha256": "6e7c4e422319283517965fb218f7bcb3b14dcdfbaa587623f64cf193b716cc18",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/b6da59cc85d02a749316cc2459aa77fab11363ab9cbe8cd0ce091d77c644d9ab.meta.json"
+        },
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/da620aa19d3764f0d494abad37f9e7c84c159a2a39119700889a5f3baa3c4d06.json",
+          "sha256": "00e6f1f4e425555a40fe255e283c1a7ca04ba7d33b3c24ceb223a6f44e944291",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/da620aa19d3764f0d494abad37f9e7c84c159a2a39119700889a5f3baa3c4d06.meta.json"
+        },
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/5fc546cc14c366602875bdf5c9057feaa1c67969b029a2f864b6decdf7130f83.json",
+          "sha256": "369414681a4b24923800c283abce3450922b8c5e60becdbb5047af8f7019b8c2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/5fc546cc14c366602875bdf5c9057feaa1c67969b029a2f864b6decdf7130f83.meta.json"
+        },
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=5",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/7dff922f9119eab7f3458a210e192f7a5d5a0f753c387308f387b085ef86675e.json",
+          "sha256": "5ca47a8e3879582dafbf74b5b4b945fc97dea9b4f5386c19ebea550e51cc4f72",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/7dff922f9119eab7f3458a210e192f7a5d5a0f753c387308f387b085ef86675e.meta.json"
+        },
+        {
+          "url": "https://sapl.muriae.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=6",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/51825ea8fc51fc578de29a4b0dd158d60e973fc065121baaa5c1edddb529b0f0.json",
+          "sha256": "8fa939e28ace2b53619d04df546da4c71ef877d9d79ff12a2c05c5291895e161",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.muriae.mg.leg.br/51825ea8fc51fc578de29a4b0dd158d60e973fc065121baaa5c1edddb529b0f0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.natercia.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 11,
+      "normas_selecionadas": [
+        "711"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.natercia.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.natercia.mg.leg.br/506cfb6e0fc51032b7d5b87c4cbd4a376f1c815d34a99c809500cda2e41fb0f5.json",
+          "sha256": "8f4c88b1a40416b8addaad18405affdebbf765e019222f1813c2ff3ccc438938",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.natercia.mg.leg.br/506cfb6e0fc51032b7d5b87c4cbd4a376f1c815d34a99c809500cda2e41fb0f5.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.olindanovadomaranhao.ma.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.olindanovadomaranhao.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.olindanovadomaranhao.ma.leg.br/39b193d764bbb69bb43e639ff741c9d4740873fb8588300419820f857c1bbcf0.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.olindanovadomaranhao.ma.leg.br/39b193d764bbb69bb43e639ff741c9d4740873fb8588300419820f857c1bbcf0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.ouroverdedooeste.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "238",
+        "239",
+        "240",
+        "242"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.ouroverdedooeste.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.ouroverdedooeste.pr.leg.br/d84eee026d4e6795eaee407bb92d7d2e6153dac9a0178ce4c23ad1876b19e322.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.ouroverdedooeste.pr.leg.br/d84eee026d4e6795eaee407bb92d7d2e6153dac9a0178ce4c23ad1876b19e322.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.palmas.to.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "3",
+        "4"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.palmas.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.palmas.to.leg.br/f1f4287d8c487ad1bb071312cd9c8dd1d46ccec2045857ca79152680c6ed2cc9.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.palmas.to.leg.br/f1f4287d8c487ad1bb071312cd9c8dd1d46ccec2045857ca79152680c6ed2cc9.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.palmeirais.pi.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "213"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.palmeirais.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.palmeirais.pi.leg.br/1062139ab069874520216f997ca7add9aad9e1ca46e9545bea810a83ae9a24e8.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.palmeirais.pi.leg.br/1062139ab069874520216f997ca7add9aad9e1ca46e9545bea810a83ae9a24e8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.parademinas.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 8,
+      "normas_selecionadas": [
+        "1578",
+        "4302"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.parademinas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parademinas.mg.leg.br/214c5506aed62429d6e9f3a687ba33ffc53897e5bdafd157224763f7c89dba63.json",
+          "sha256": "4a6bddf37f38d8278ef9b2d6206548805d3efabc297de53686d33bd1c8cef978",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parademinas.mg.leg.br/214c5506aed62429d6e9f3a687ba33ffc53897e5bdafd157224763f7c89dba63.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.parauapebas.pa.leg.br",
+      "estado": "indice_completo",
+      "total": 731,
+      "normas_selecionadas": [
+        "2887"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/b7df83b1fa0d7ec3d528c63a2ec259e15683f28b1730a95a3d23490f329e1ffd.json",
+          "sha256": "2b65f806bf63cad92b6cfa13f3a27ea64bd9d70ca87c4014f9098e9b7a49a174",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/b7df83b1fa0d7ec3d528c63a2ec259e15683f28b1730a95a3d23490f329e1ffd.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/d239b6e0ae361272ee1906907f6ed912ebb91a8041b13a628c68df03dd9e4b38.json",
+          "sha256": "792d54ecdc5bc3cf760bffa43ed9e24f92aeb4cc490f2b73bb35e8bd6c192a67",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/d239b6e0ae361272ee1906907f6ed912ebb91a8041b13a628c68df03dd9e4b38.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/d47d8a34dc46fb96e7ee9b4b2433f2ee15814a4a46a3141e4013130d86116d1a.json",
+          "sha256": "9f797c7127e0e17b0cbb5c7805d60633cdc86d3f2adf5ec0e8e7350db159d185",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/d47d8a34dc46fb96e7ee9b4b2433f2ee15814a4a46a3141e4013130d86116d1a.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/6c6f42081b714b2701259e8d18388cbc3b56715451e6e90082781087d3ecf115.json",
+          "sha256": "9ccf93006914fa6ca7c6485b0ccd2f0a8b800b6de7ee84d5bb2556e1198da1d4",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/6c6f42081b714b2701259e8d18388cbc3b56715451e6e90082781087d3ecf115.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=5",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/fd30ab8e1bba170a3cd51ad5117c185ede9eaf5059eaff32fd3e027c22e2176e.json",
+          "sha256": "2b2b113e39272df2c215681bd132d0f5db4908dbd4b3610364b293ce8a6eb2c6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/fd30ab8e1bba170a3cd51ad5117c185ede9eaf5059eaff32fd3e027c22e2176e.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=6",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/5725a402610662172668e9e7891886fd459e8122a631fa735ff90d33d772d07c.json",
+          "sha256": "0935342fb1019441b570e496e9a9938166c36fdcc5e3be191fca7ded61b02e84",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/5725a402610662172668e9e7891886fd459e8122a631fa735ff90d33d772d07c.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=7",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/9bd078d66c0efacb710df1e5359b1e4de8ef1aa84da4491e9c197f98e3d1023f.json",
+          "sha256": "c5b1fbfd77d8c93da9780b4507fefef43ff299d6866009ed5fd83579c0d69f6c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/9bd078d66c0efacb710df1e5359b1e4de8ef1aa84da4491e9c197f98e3d1023f.meta.json"
+        },
+        {
+          "url": "https://sapl.parauapebas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=8",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/51b12d3e10a027402086b84adf61313cd3b58ce5d1542c41947cffdde12cbb74.json",
+          "sha256": "acaa0eef66b3654f217ef0991b05aba1ccae3ff4df8e78c2ea88a49dc00c1d84",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parauapebas.pa.leg.br/51b12d3e10a027402086b84adf61313cd3b58ce5d1542c41947cffdde12cbb74.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.parintins.am.leg.br",
+      "estado": "indice_completo",
+      "total": 90,
+      "normas_selecionadas": [
+        "1417",
+        "1420",
+        "1421",
+        "1424",
+        "1425"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.parintins.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parintins.am.leg.br/4c77659d54e43aa57be5d6425bf5350026ebae98833e3cd760d776925756cda8.json",
+          "sha256": "69ea0f4762e846b4fe5ecfbd71ea10755eb87ea03a4e17b14ff4e76ab28fd9a2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parintins.am.leg.br/4c77659d54e43aa57be5d6425bf5350026ebae98833e3cd760d776925756cda8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.patrocinio.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 6,
+      "normas_selecionadas": [
+        "3059"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.patrocinio.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.patrocinio.mg.leg.br/54b5367ccb870ce138ecf3d117230c0205c6cf75ae9909d37fcfd2ecad47736c.json",
+          "sha256": "3a258572aa9151c26f5b0bfd421910f540920d511a7100058f908b32be2a2e79",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.patrocinio.mg.leg.br/54b5367ccb870ce138ecf3d117230c0205c6cf75ae9909d37fcfd2ecad47736c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.patu.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 6,
+      "normas_selecionadas": [
+        "170"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.patu.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.patu.rn.leg.br/5a952776890a4cdaee3ce554c3111e7fea55fbd3257030600dcaaa5098753c51.json",
+          "sha256": "43c5da7dfb02646679a649ac561610d07c3f3fa8ed49e30f98991036d6bda961",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.patu.rn.leg.br/5a952776890a4cdaee3ce554c3111e7fea55fbd3257030600dcaaa5098753c51.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.pedralva.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.pedralva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pedralva.mg.leg.br/261f71cae43f9e10748fbed825859f00b5ea10b13a483a87e1e363979ba6811b.json",
+          "sha256": "45a6bfaf4f477dea97ea50c1b86fa44b1468388e42a58a47c77df27d69818c39",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pedralva.mg.leg.br/261f71cae43f9e10748fbed825859f00b5ea10b13a483a87e1e363979ba6811b.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.pelotas.rs.leg.br",
+      "estado": "indice_completo",
+      "total": 12,
+      "normas_selecionadas": [
+        "1872",
+        "1923",
+        "1990",
+        "2001",
+        "2209",
+        "2226",
+        "2406",
+        "3135",
+        "3136",
+        "3232",
+        "3391",
+        "3395",
+        "3551",
+        "3628",
+        "3733",
+        "3773",
+        "48"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.pelotas.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pelotas.rs.leg.br/a55e923867ad72d2ba4d5ea1d8cd341e3b04f87b66de5aca92dc311798a13433.json",
+          "sha256": "c4c68a793aa8b0115b36bccc2c1a51d878691c6a5d0ae934aa10dfbf062c9a11",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pelotas.rs.leg.br/a55e923867ad72d2ba4d5ea1d8cd341e3b04f87b66de5aca92dc311798a13433.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.pequeri.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 5,
+      "normas_selecionadas": [
+        "15",
+        "251",
+        "257",
+        "26",
+        "262",
+        "28"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.pequeri.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pequeri.mg.leg.br/79de56a3327b0113e9a630a793408a834c498c63afa262e69edc2ab121202c7d.json",
+          "sha256": "1b7db617878117ec117027bda65bcb89766f32b2e1e184e9b78ebb866c99a816",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pequeri.mg.leg.br/79de56a3327b0113e9a630a793408a834c498c63afa262e69edc2ab121202c7d.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.perdizes.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "159",
+        "351",
+        "354",
+        "381",
+        "421",
+        "92"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.perdizes.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.perdizes.mg.leg.br/4b662372dc0d82e9c32a986986ec18e4c6da86a1fa63fde68083014edb601eb6.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.perdizes.mg.leg.br/4b662372dc0d82e9c32a986986ec18e4c6da86a1fa63fde68083014edb601eb6.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.piedade.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 272,
+      "normas_selecionadas": [
+        "1661",
+        "206",
+        "207",
+        "208",
+        "392",
+        "393",
+        "394",
+        "422",
+        "423",
+        "424",
+        "447",
+        "448",
+        "449",
+        "450",
+        "451",
+        "467",
+        "468",
+        "469",
+        "479",
+        "480",
+        "481",
+        "634",
+        "635",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "979",
+        "980"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/5b4c163f6909c9c7e4ca1100cce11f2f15f5654e13a676f3fbab0b3f3cacb6f6.json",
+          "sha256": "cf5f042744596ea4d5122bc42a6fd4c12d68bb4d22a0bd33da84120d877d980f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/5b4c163f6909c9c7e4ca1100cce11f2f15f5654e13a676f3fbab0b3f3cacb6f6.meta.json"
+        },
+        {
+          "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/23265dba369bc85b6dca372d807ac4a7b756ae6fde6c87cc1a2a861b0214bfb7.json",
+          "sha256": "3d0062818067d6227e1124d9998a458d8ca4bac81aa6b2c23854bdd1cb982047",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/23265dba369bc85b6dca372d807ac4a7b756ae6fde6c87cc1a2a861b0214bfb7.meta.json"
+        },
+        {
+          "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/508522d8b97956f73d3942e85384b4b65e30954ccd09bef70d6278af1fb4b837.json",
+          "sha256": "4ba84457e9b69252328708bf4976a35c9d3e6e27b104dd382e40e563f8caaa94",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/508522d8b97956f73d3942e85384b4b65e30954ccd09bef70d6278af1fb4b837.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.pimentabueno.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 46,
+      "normas_selecionadas": [
+        "2144",
+        "2160"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.pimentabueno.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pimentabueno.ro.leg.br/d7925d7d04828af6b1040abbfc778e8b9cbdfce2dac35e3cfc445f1c942ceffb.json",
+          "sha256": "5904c34732e0ea5e9247ae50466860a74b7d94bae0055696dfd599c7381aa85f",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pimentabueno.ro.leg.br/d7925d7d04828af6b1040abbfc778e8b9cbdfce2dac35e3cfc445f1c942ceffb.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.pontenova.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 211,
+      "normas_selecionadas": [
+        "2260",
+        "2987",
+        "3378",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "57",
+        "58",
+        "864"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/687059675c57ed15ec9ff1539fc282c3cc78574c55e436e290ed9520794d09aa.json",
+          "sha256": "70fbb99eebb80fd769b4c356f0f3f69696da5b8b7d966411e226d0d8cb73c938",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/687059675c57ed15ec9ff1539fc282c3cc78574c55e436e290ed9520794d09aa.meta.json"
+        },
+        {
+          "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/aceef333c7ee84c434c0b8ba8aafa59a7da297cb8c943f4b2f6b1855646e737b.json",
+          "sha256": "73492a37f97193cec1c413c7f6dd1b2c19eb51bfc13e5d3af38785d5579e2567",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/aceef333c7ee84c434c0b8ba8aafa59a7da297cb8c943f4b2f6b1855646e737b.meta.json"
+        },
+        {
+          "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/6e427755acf57da717e0109b5c3f77102165e4c48361d7708fa7c4fbe01e0f67.json",
+          "sha256": "84191b6e49ba3c81e5097c7368356e8d7468bb7c629d0e4a5f31b9aa6c9233e8",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/6e427755acf57da717e0109b5c3f77102165e4c48361d7708fa7c4fbe01e0f67.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.portonacional.to.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "2004"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.portonacional.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.portonacional.to.leg.br/cb0f18d235c035f631dd192941d892278a3be00011b6aeb0992485a84e539563.json",
+          "sha256": "2a59f63e826b00c552eb5e557d766ede245ea1ee18f637a1d15e2791dc397b31",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.portonacional.to.leg.br/cb0f18d235c035f631dd192941d892278a3be00011b6aeb0992485a84e539563.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 66,
+      "normas_selecionadas": [
+        "13390",
+        "13391",
+        "13409",
+        "13412",
+        "13413",
+        "13414",
+        "13415",
+        "13416",
+        "13418",
+        "13420",
+        "13421",
+        "13422",
+        "13424",
+        "13425",
+        "13426",
+        "13427",
+        "13430",
+        "13431",
+        "13432",
+        "13435",
+        "13436",
+        "13438",
+        "13439",
+        "13440",
+        "13441",
+        "13443",
+        "13449",
+        "13459",
+        "13462",
+        "13463",
+        "13464",
+        "13475",
+        "13476",
+        "13478",
+        "13479",
+        "13481",
+        "13482",
+        "13483",
+        "13484",
+        "13485",
+        "13486",
+        "13487",
+        "13488",
+        "13489",
+        "13490",
+        "13491",
+        "13492",
+        "13493",
+        "13494",
+        "13495",
+        "13496",
+        "13497",
+        "13498",
+        "13499",
+        "13500",
+        "13501",
+        "13502",
+        "23633",
+        "23638",
+        "23639",
+        "28337",
+        "28512",
+        "28563"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.portovelho.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.portovelho.ro.leg.br/691d3365ef36b0f9387ce9b8400e96cae4b6b4cd108516b06b2096fdd399adb7.json",
+          "sha256": "013497ff3cc8f628957e2d5687c42816a6f3b99a7c2c08eeb0d0cd7841452f5b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.portovelho.ro.leg.br/691d3365ef36b0f9387ce9b8400e96cae4b6b4cd108516b06b2096fdd399adb7.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.reservadoiguacu.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "37"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.reservadoiguacu.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.reservadoiguacu.pr.leg.br/bd5ddde41ad165e030e1312dd737018713717ee6ccbeec4441f50f6481753e78.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.reservadoiguacu.pr.leg.br/bd5ddde41ad165e030e1312dd737018713717ee6ccbeec4441f50f6481753e78.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.ribasdoriopardo.ms.leg.br",
+      "estado": "indice_completo",
+      "total": 3,
+      "normas_selecionadas": [
+        "4",
+        "6",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.ribasdoriopardo.ms.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.ribasdoriopardo.ms.leg.br/b4b8276a07b5c13bc48c1b39a64ab4eb4b93fd84f5859beca43da508951cc003.json",
+          "sha256": "f5783555adf48059f3a320ce733b1a6b60a01450b734ef14611360dde18a8dc2",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.ribasdoriopardo.ms.leg.br/b4b8276a07b5c13bc48c1b39a64ab4eb4b93fd84f5859beca43da508951cc003.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.riodasostras.rj.leg.br",
+      "estado": "indice_completo",
+      "total": 11,
+      "normas_selecionadas": [
+        "2444",
+        "2445",
+        "2862"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.riodasostras.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.riodasostras.rj.leg.br/4ef32b79dab5a5b7d0471d9cb50b0c77afd86a2d40376a7d9d4efb24024d0f70.json",
+          "sha256": "d53450e8d292b64cfde7c6c7dcbbe833a3c182f0015d3b6b440365195072d56b",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.riodasostras.rj.leg.br/4ef32b79dab5a5b7d0471d9cb50b0c77afd86a2d40376a7d9d4efb24024d0f70.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.riodofogo.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "101",
+        "122",
+        "126",
+        "127",
+        "128",
+        "129",
+        "130",
+        "132",
+        "133",
+        "134",
+        "150",
+        "153",
+        "154",
+        "155",
+        "156",
+        "158",
+        "161",
+        "5",
+        "6"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.riodofogo.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.riodofogo.rn.leg.br/3186e6c5f617ed85675d72ecb0dccca1730c6edced82983d1a43de3c14a6f5d6.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.riodofogo.rn.leg.br/3186e6c5f617ed85675d72ecb0dccca1730c6edced82983d1a43de3c14a6f5d6.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.riopomba.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 9,
+      "normas_selecionadas": [
+        "1",
+        "192",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.riopomba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.riopomba.mg.leg.br/8e361c90956a7513f89e62338585379ffb4cd646a4c90d0890c91e6849b19a9d.json",
+          "sha256": "e352be269980a773becb83e8b48db631a9500b1db9ef1274e62551cfc5e522fe",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.riopomba.mg.leg.br/8e361c90956a7513f89e62338585379ffb4cd646a4c90d0890c91e6849b19a9d.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.rolimdemoura.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 7,
+      "normas_selecionadas": [
+        "1335",
+        "2574"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.rolimdemoura.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.rolimdemoura.ro.leg.br/b1af56fad3ca3e0f6ad3a2f42bb003d98c9b8e1a4b5a4d1efc585647cb94a409.json",
+          "sha256": "282c717abab987f37aa54816a1deb7e1267edc6e52b06ced6dbba307bcc1d4cb",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.rolimdemoura.ro.leg.br/b1af56fad3ca3e0f6ad3a2f42bb003d98c9b8e1a4b5a4d1efc585647cb94a409.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.salmourao.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 23,
+      "normas_selecionadas": [
+        "120",
+        "167",
+        "168"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.salmourao.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.salmourao.sp.leg.br/67a9bc696a8c2b3c3fb4a26a48bbcffa506fa8ee681976ffaf6b2a425bbf121f.json",
+          "sha256": "e8060cce17f345cba35980e02d039118b6b70df5fdf6121366697e822ae72d50",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.salmourao.sp.leg.br/67a9bc696a8c2b3c3fb4a26a48bbcffa506fa8ee681976ffaf6b2a425bbf121f.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.santabarbara.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1",
+        "10",
+        "12",
+        "2",
+        "27",
+        "44",
+        "49",
+        "6",
+        "7",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "79",
+        "8",
+        "80"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.santabarbara.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santabarbara.mg.leg.br/17373664a88e91859319e44348d2cf7e5f7ec041fb99087815d7d5d09357c56c.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santabarbara.mg.leg.br/17373664a88e91859319e44348d2cf7e5f7ec041fb99087815d7d5d09357c56c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.santacruzdocapibaribe.pe.leg.br",
+      "estado": "indice_completo",
+      "total": 269,
+      "normas_selecionadas": [
+        "4437",
+        "6050",
+        "6051"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/607d3712aa2f828dc960d5581c2be781f0982eb7d5d1ce1a7a94dbeb9c870e08.json",
+          "sha256": "be208044cbeaf3c717cf5abb2feae0372570e9cc37f4e8b7953707e9a1238813",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/607d3712aa2f828dc960d5581c2be781f0982eb7d5d1ce1a7a94dbeb9c870e08.meta.json"
+        },
+        {
+          "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/4aa3e8fc7c54b4aea3d6f326da19e94f8b11178f55472f02d8f3f49c8e02bb63.json",
+          "sha256": "4ae3884809151668826d330d3a81f33bcc7b2e88012ee0522f7b045ef47a2966",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/4aa3e8fc7c54b4aea3d6f326da19e94f8b11178f55472f02d8f3f49c8e02bb63.meta.json"
+        },
+        {
+          "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/989b85dd8c49bf3d4f89aad244f7392af982302088c4f6f1f6b311e7e33ce34a.json",
+          "sha256": "d54320beda42715319156a2b132facb06e6ecd3ebb83ae1b2aa6b31bfad0fe60",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/989b85dd8c49bf3d4f89aad244f7392af982302088c4f6f1f6b311e7e33ce34a.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.santalucia.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 30,
+      "normas_selecionadas": [
+        "1000",
+        "1007",
+        "1014",
+        "1020",
+        "1024",
+        "1029",
+        "1030",
+        "1031",
+        "1033",
+        "1034",
+        "1048",
+        "1053",
+        "1054",
+        "1065",
+        "1075",
+        "1077",
+        "1078",
+        "1126",
+        "1127",
+        "1128",
+        "1131",
+        "1132",
+        "1133",
+        "1134",
+        "1135",
+        "1137",
+        "1138",
+        "1139",
+        "1142",
+        "1143",
+        "1145",
+        "1147",
+        "1149",
+        "1154",
+        "1161",
+        "1162",
+        "1169",
+        "1171",
+        "1181",
+        "1182",
+        "1183",
+        "1185",
+        "1191",
+        "1198",
+        "1224",
+        "1237",
+        "1240",
+        "1254",
+        "1255",
+        "1256",
+        "1257",
+        "1258",
+        "462",
+        "463",
+        "466",
+        "475",
+        "502",
+        "504",
+        "510",
+        "511",
+        "514",
+        "559",
+        "560",
+        "576",
+        "589",
+        "590",
+        "610",
+        "611",
+        "613",
+        "617",
+        "618",
+        "624",
+        "638",
+        "660",
+        "662",
+        "684",
+        "685",
+        "687",
+        "690",
+        "695",
+        "696",
+        "738",
+        "739",
+        "748",
+        "749",
+        "750",
+        "755",
+        "756",
+        "764",
+        "767",
+        "768",
+        "773",
+        "774",
+        "776",
+        "780",
+        "781",
+        "798",
+        "799",
+        "800",
+        "803",
+        "806",
+        "812",
+        "838",
+        "840",
+        "845",
+        "854",
+        "861",
+        "865",
+        "866",
+        "871",
+        "872",
+        "873",
+        "874",
+        "878",
+        "882",
+        "889",
+        "900",
+        "904",
+        "910",
+        "919",
+        "920",
+        "923",
+        "926",
+        "934",
+        "935",
+        "940",
+        "942",
+        "943",
+        "953",
+        "956",
+        "969",
+        "971",
+        "984"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.santalucia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santalucia.pr.leg.br/ecec0995a52ac0d8d715794ee3796afb4b5b831725a040b10e2507dd16c29ae4.json",
+          "sha256": "321fbb9874b912f7be78799acc4df08a2eecc8b4d8b3c196eb983a0a0fe88ec6",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santalucia.pr.leg.br/ecec0995a52ac0d8d715794ee3796afb4b5b831725a040b10e2507dd16c29ae4.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "estado": "indice_completo",
+      "total": 316,
+      "normas_selecionadas": [
+        "4961"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/136b4178db6201856f26b579aa27e4ff5f85a27afea7345996ae6fb81aa298df.json",
+          "sha256": "6697c7f1d03073d9245eacf88ece3e2991fe456609e03e9c2b7b81c89a6d64df",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/136b4178db6201856f26b579aa27e4ff5f85a27afea7345996ae6fb81aa298df.meta.json"
+        },
+        {
+          "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/8c9ea15e152c61850d937958b60f386a7ac6a7f34d1310fc7fb1f4296e048cd6.json",
+          "sha256": "016219e34eadde0b08387da2ae7545fbf998755a70a82da59cc35bbaa26e9141",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/8c9ea15e152c61850d937958b60f386a7ac6a7f34d1310fc7fb1f4296e048cd6.meta.json"
+        },
+        {
+          "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/73a3ca243e73a918e3dbf4209cebf5402bfd85943e7fca11ab640e4bd8d69e2f.json",
+          "sha256": "11ad628c8492ef1365827a4997ff00f3c023c98143c24167df33e30318ff5bf5",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/73a3ca243e73a918e3dbf4209cebf5402bfd85943e7fca11ab640e4bd8d69e2f.meta.json"
+        },
+        {
+          "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/2fefd83de4c0ae776eaa2258599594d43fa9f53b0f54b81da443e3fefb3905bf.json",
+          "sha256": "01e7376de95a402ced6022f0edee2e455c0cdfd213111c85e56456e562132857",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/2fefd83de4c0ae776eaa2258599594d43fa9f53b0f54b81da443e3fefb3905bf.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saobentodotrairi.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1",
+        "11",
+        "12",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saobentodotrairi.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saobentodotrairi.rn.leg.br/63819b52f5da11628c6cfbafc742fb5b462be97ec1a1931c26507bcdf43bcde8.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saobentodotrairi.rn.leg.br/63819b52f5da11628c6cfbafc742fb5b462be97ec1a1931c26507bcdf43bcde8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saofranciscodoguapore.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 10,
+      "normas_selecionadas": [
+        "8"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saofranciscodoguapore.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saofranciscodoguapore.ro.leg.br/eef1812b239ba87d947611ca66fb88d3327a6d0d66e331577da861d6a616c5aa.json",
+          "sha256": "7b95aff2cb94f73f89097e608a7cbe0af7c22ae4d76b555f977597ec3e5b1019",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saofranciscodoguapore.ro.leg.br/eef1812b239ba87d947611ca66fb88d3327a6d0d66e331577da861d6a616c5aa.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saojoaodaboavista.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 16,
+      "normas_selecionadas": [
+        "7892",
+        "7893",
+        "7894",
+        "7895",
+        "7896",
+        "7898",
+        "7899",
+        "7900",
+        "9798"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saojoaodaboavista.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojoaodaboavista.sp.leg.br/ab1c0a3007dd8d9851b03da484bee38aaf2ee69f9356f943371d8d8eb4dd3aeb.json",
+          "sha256": "2c3f501cf3df96488a70d0ca750db0c84a09c7d57b0ba5aecec58472a8eb6d38",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojoaodaboavista.sp.leg.br/ab1c0a3007dd8d9851b03da484bee38aaf2ee69f9356f943371d8d8eb4dd3aeb.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saojosedobarreiro.sp.leg.br",
+      "estado": "indice_completo",
+      "total": 34,
+      "normas_selecionadas": [
+        "989"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saojosedobarreiro.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojosedobarreiro.sp.leg.br/018ccb0016dfc38eda21ad3bf6d0945c8b44c08a1ccef9156e8da762c2c36bef.json",
+          "sha256": "58d2dfd5b5cdb7736091d4dd68b2fa19c78c4d1486817a44cacf33270cf48435",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojosedobarreiro.sp.leg.br/018ccb0016dfc38eda21ad3bf6d0945c8b44c08a1ccef9156e8da762c2c36bef.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saomateus.es.leg.br",
+      "estado": "indice_completo",
+      "total": 2,
+      "normas_selecionadas": [
+        "5117"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saomateus.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomateus.es.leg.br/f3ea6ca7692ed709427e669d4f930ee5c1366c82a72981b4e70c0822817b9179.json",
+          "sha256": "02fdc5553248144ad0688dd12ffd81e2720e58ae158abbc90f088d3834d661ed",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomateus.es.leg.br/f3ea6ca7692ed709427e669d4f930ee5c1366c82a72981b4e70c0822817b9179.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saomigueldoguapore.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "9"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saomigueldoguapore.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldoguapore.ro.leg.br/32b654f5175cf610e58d01dca1ea8aa4db3fcda9b8a8e6e835cc79bed81ecff0.json",
+          "sha256": "de5d0ccca44186545eeaa5e65da14210994b140442e53b0a7735aae46f85b68d",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldoguapore.ro.leg.br/32b654f5175cf610e58d01dca1ea8aa4db3fcda9b8a8e6e835cc79bed81ecff0.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.saomigueldopassaquatro.go.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "17"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.saomigueldopassaquatro.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldopassaquatro.go.leg.br/c5519bd54dc2433356f4210e3ec2a56766fc18c6ffb3c25c947a0e596d3ba75c.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldopassaquatro.go.leg.br/c5519bd54dc2433356f4210e3ec2a56766fc18c6ffb3c25c947a0e596d3ba75c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.sempeixe.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 15,
+      "normas_selecionadas": [
+        "14",
+        "31",
+        "41",
+        "42",
+        "71"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.sempeixe.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.sempeixe.mg.leg.br/a363802cd69b53039d471277185af6b21463c0d91b9c9f2ce9e934b34ecda35b.json",
+          "sha256": "799a7ff4b18d5a6b1a64997004936002e1469e8132af30022285700c0b1ac13e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.sempeixe.mg.leg.br/a363802cd69b53039d471277185af6b21463c0d91b9c9f2ce9e934b34ecda35b.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.senadorjosebento.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 9,
+      "normas_selecionadas": [
+        "131"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.senadorjosebento.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.senadorjosebento.mg.leg.br/415623a2bf9dbc8fc61a549db49611eabd7ecc258e206d80669da53c669cfda2.json",
+          "sha256": "54ff7cac72829c5c767d2a3133b6898cb92d31083c5a14d4cbb80be26740e9eb",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.senadorjosebento.mg.leg.br/415623a2bf9dbc8fc61a549db49611eabd7ecc258e206d80669da53c669cfda2.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.sertania.pe.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "110",
+        "118",
+        "123",
+        "173",
+        "61",
+        "62",
+        "758",
+        "777",
+        "779",
+        "782",
+        "785",
+        "786",
+        "79",
+        "83",
+        "843",
+        "844",
+        "845",
+        "848",
+        "85",
+        "859",
+        "873",
+        "88",
+        "89",
+        "90",
+        "91"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.sertania.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.sertania.pe.leg.br/7673432d72e3175b408ff70e7167f8623630d9b25e66dccf36023334e0d0f1c2.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.sertania.pe.leg.br/7673432d72e3175b408ff70e7167f8623630d9b25e66dccf36023334e0d0f1c2.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.setelagoas.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 39,
+      "normas_selecionadas": [
+        "6062"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.setelagoas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.setelagoas.mg.leg.br/0ead9f09a5b01d58005be1c97eb2c4cb2d734a5a7f63f8d99a7837ebb1cedb23.json",
+          "sha256": "4deb58b43243b02074c927ddeead7408132b58a3a3b5485f9bca98485792b22a",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.setelagoas.mg.leg.br/0ead9f09a5b01d58005be1c97eb2c4cb2d734a5a7f63f8d99a7837ebb1cedb23.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.surubim.pe.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "208"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.surubim.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.surubim.pe.leg.br/c98396149d5992e5b1793fff1a6ff799cc27ed59448e0d45951c89d11fc97e8c.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.surubim.pe.leg.br/c98396149d5992e5b1793fff1a6ff799cc27ed59448e0d45951c89d11fc97e8c.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.tangara.rn.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "1",
+        "15",
+        "16",
+        "17",
+        "18",
+        "20",
+        "21",
+        "23",
+        "6",
+        "8"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.tangara.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.tangara.rn.leg.br/218bafbaee2f3b917cb695e453b39cc56a52a7837c444f4caded6bc34c1b1f3e.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.tangara.rn.leg.br/218bafbaee2f3b917cb695e453b39cc56a52a7837c444f4caded6bc34c1b1f3e.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.timoteo.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 89,
+      "normas_selecionadas": [
+        "7416"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.timoteo.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.timoteo.mg.leg.br/e2aec44a225f0a9b0024d87ca9ee74f19450168671f6f08834b33398871844fe.json",
+          "sha256": "eb991caa62588e18255f538a81b6a9a9b0521ec236b2c5006669b67aa2842ffd",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.timoteo.mg.leg.br/e2aec44a225f0a9b0024d87ca9ee74f19450168671f6f08834b33398871844fe.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.tocantins.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 4,
+      "normas_selecionadas": [
+        "36"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.tocantins.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.tocantins.mg.leg.br/fa05633685a5e7917267b6227820581ca3163aa2ccb9503eef0c61ce8bb1acf8.json",
+          "sha256": "2968a87976ea85e733bf3b8f3e54e5b0bc15ec57aee8fc8eaf680b57a7234c3c",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.tocantins.mg.leg.br/fa05633685a5e7917267b6227820581ca3163aa2ccb9503eef0c61ce8bb1acf8.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.tomazina.pr.leg.br",
+      "estado": "indice_completo",
+      "total": 1,
+      "normas_selecionadas": [
+        "277",
+        "278",
+        "279",
+        "284",
+        "286",
+        "295",
+        "296",
+        "297",
+        "299",
+        "304",
+        "305",
+        "306",
+        "319",
+        "325",
+        "336",
+        "337",
+        "469",
+        "472",
+        "473",
+        "474",
+        "475",
+        "480",
+        "481",
+        "483",
+        "488",
+        "489",
+        "493",
+        "503",
+        "504",
+        "506",
+        "507",
+        "509",
+        "513",
+        "514",
+        "524",
+        "529",
+        "532",
+        "533",
+        "536",
+        "552",
+        "553",
+        "554",
+        "556",
+        "560",
+        "566",
+        "570",
+        "572",
+        "573",
+        "574",
+        "575",
+        "577",
+        "581",
+        "585",
+        "587",
+        "589",
+        "590",
+        "592",
+        "595",
+        "596",
+        "597",
+        "598",
+        "599",
+        "600",
+        "601",
+        "602",
+        "603",
+        "604",
+        "609",
+        "610",
+        "611",
+        "614",
+        "615",
+        "616",
+        "617",
+        "618",
+        "619",
+        "620",
+        "621",
+        "622",
+        "623",
+        "624",
+        "625",
+        "626",
+        "629",
+        "630",
+        "631",
+        "633",
+        "636",
+        "637",
+        "638",
+        "644",
+        "645",
+        "646",
+        "647",
+        "648",
+        "649",
+        "650",
+        "652",
+        "653",
+        "654",
+        "655",
+        "659",
+        "660",
+        "662",
+        "663",
+        "664",
+        "665",
+        "666",
+        "667",
+        "668",
+        "669",
+        "676",
+        "680",
+        "681",
+        "683",
+        "684",
+        "687",
+        "688",
+        "689",
+        "691",
+        "692",
+        "694",
+        "695",
+        "696",
+        "698",
+        "700",
+        "701",
+        "702",
+        "703",
+        "705",
+        "708",
+        "711",
+        "713",
+        "715",
+        "716",
+        "717",
+        "718",
+        "721",
+        "722",
+        "723",
+        "724",
+        "725",
+        "726",
+        "727",
+        "731",
+        "732",
+        "733",
+        "734",
+        "735",
+        "736",
+        "737",
+        "738",
+        "739",
+        "740",
+        "741",
+        "742",
+        "743",
+        "744",
+        "746",
+        "749",
+        "752",
+        "754",
+        "755",
+        "756",
+        "757",
+        "758",
+        "759",
+        "760",
+        "761",
+        "762",
+        "763",
+        "765",
+        "767",
+        "768",
+        "769",
+        "770",
+        "771",
+        "772",
+        "773",
+        "777",
+        "778",
+        "779",
+        "780",
+        "784",
+        "786",
+        "788",
+        "790",
+        "791",
+        "792",
+        "794",
+        "795",
+        "796",
+        "799",
+        "800",
+        "801",
+        "802",
+        "804",
+        "810",
+        "811",
+        "812",
+        "813"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.tomazina.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.tomazina.pr.leg.br/d161c2ceb8b88026a9810848e2300e10174eb4131d15684bd536f0bf89979e15.json",
+          "sha256": "759925245968d0c3bc85f841adab3a62e7278aca626da2276010298822ca6550",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.tomazina.pr.leg.br/d161c2ceb8b88026a9810848e2300e10174eb4131d15684bd536f0bf89979e15.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.uba.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 14,
+      "normas_selecionadas": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "9"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.uba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.uba.mg.leg.br/6e9def0970bbec9e55f0329c709f1f8bc20ef0b2ce93aee6674750812e12ee28.json",
+          "sha256": "2a6cf412cab8df265839941e02417e973a77178c529abcbc77512e2cb9552576",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.uba.mg.leg.br/6e9def0970bbec9e55f0329c709f1f8bc20ef0b2ce93aee6674750812e12ee28.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.unai.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 4,
+      "normas_selecionadas": [
+        "10223",
+        "10586",
+        "4292",
+        "4294",
+        "4295",
+        "4296",
+        "4297",
+        "4298",
+        "4299",
+        "4300",
+        "4302",
+        "4303",
+        "4304",
+        "4305",
+        "4311",
+        "4312",
+        "4313",
+        "4314",
+        "4315",
+        "4316",
+        "4317",
+        "4318",
+        "4932",
+        "6175",
+        "6412",
+        "6603",
+        "7062",
+        "7599",
+        "7889",
+        "7958",
+        "7959",
+        "8326",
+        "8327",
+        "8328",
+        "8329",
+        "9323",
+        "9486",
+        "9500",
+        "9553"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.unai.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.unai.mg.leg.br/4efeeb715e5acccf3982113574e5a883644f3768a835bac0b3d0b69dc3ee7987.json",
+          "sha256": "9d50c9be728c0a65b635c928c643dec3c2d4cbb0b2c520b0f335c9305677db55",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.unai.mg.leg.br/4efeeb715e5acccf3982113574e5a883644f3768a835bac0b3d0b69dc3ee7987.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.uruanademinas.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 0,
+      "normas_selecionadas": [
+        "628"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.uruanademinas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.uruanademinas.mg.leg.br/4105663a7a32e5a381d39a924910022027b03034cdd1560b947ef0073e7a7043.json",
+          "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.uruanademinas.mg.leg.br/4105663a7a32e5a381d39a924910022027b03034cdd1560b947ef0073e7a7043.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.urupa.ro.leg.br",
+      "estado": "indice_completo",
+      "total": 4,
+      "normas_selecionadas": [
+        "41"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.urupa.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.urupa.ro.leg.br/abed0559d501edf38bc41195cc2ffcca9822b660656bfe7dd1ed0d2bb834cdfd.json",
+          "sha256": "a389245c8c215afdbf95a13d02e000caf825e402be52b806f1fc9016f231d0e3",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.urupa.ro.leg.br/abed0559d501edf38bc41195cc2ffcca9822b660656bfe7dd1ed0d2bb834cdfd.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.viscondedoriobranco.mg.leg.br",
+      "estado": "indice_completo",
+      "total": 3,
+      "normas_selecionadas": [
+        "608"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.viscondedoriobranco.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.viscondedoriobranco.mg.leg.br/7e969dea6351cc17c1b32b74632e67d53b1f9b6d123503bc972201241f6792e1.json",
+          "sha256": "1fc66802ad3474c225aa45544e2eaade9246b92ba05185d08538c8d0259dc9ea",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.viscondedoriobranco.mg.leg.br/7e969dea6351cc17c1b32b74632e67d53b1f9b6d123503bc972201241f6792e1.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.vitoriadomearim.ma.leg.br",
+      "estado": "indice_completo",
+      "total": 9,
+      "normas_selecionadas": [
+        "1"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.vitoriadomearim.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.vitoriadomearim.ma.leg.br/b14eada0ccf75970c4e0606f2586036a71cb538a3c3657bffc9598c2098d85e1.json",
+          "sha256": "aee7bdfdf2eb3e5fa0a0f3631521d0c65f47ab3399780371b1e71fce3e5c7388",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.vitoriadomearim.ma.leg.br/b14eada0ccf75970c4e0606f2586036a71cb538a3c3657bffc9598c2098d85e1.meta.json"
+        }
+      ]
+    },
+    {
+      "host": "sapl.xangrila.rs.leg.br",
+      "estado": "indice_completo",
+      "total": 107,
+      "normas_selecionadas": [
+        "2281",
+        "2898",
+        "2899",
+        "2940",
+        "4421"
+      ],
+      "anexos_das_normas_selecionadas": [],
+      "evidencias": [
+        {
+          "url": "https://sapl.xangrila.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/30c42a5fda96d4f7134d899660cb45237df0e6c2b8875e777607d8558d51488d.json",
+          "sha256": "b94243941ac96735cfe2e3d4325746f05781d7b01dafbfec9e61076e971ffb96",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/30c42a5fda96d4f7134d899660cb45237df0e6c2b8875e777607d8558d51488d.meta.json"
+        },
+        {
+          "url": "https://sapl.xangrila.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+          "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/acc3a74101d71daa2e48cf88f41c82ea6cb6f43b039e701a2076dc058b7e6c7d.json",
+          "sha256": "7b11bdb473573b83b0a4f27b15fb2df180382320e2bdfd69e25379388edbd91e",
+          "status": 200,
+          "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/acc3a74101d71daa2e48cf88f41c82ea6cb6f43b039e701a2076dc058b7e6c7d.meta.json"
+        }
+      ]
+    }
+  ],
+  "nota": "Ausência de anexos só após paginação completa e total de registros constante; todo corpo das respostas oficiais está incluído."
+}

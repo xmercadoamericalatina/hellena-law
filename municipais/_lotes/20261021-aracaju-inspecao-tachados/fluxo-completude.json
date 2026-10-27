@@ -1,0 +1,22 @@
+{
+  "paginas_fisicas": 107,
+  "sequencia_layout_bbox_igual": 105,
+  "excecoes": [
+    {
+      "pagina": 70,
+      "sha256_layout_nao_branco": "06eaf8c41d6abbb7c32582997471b5cad45bc24dc896d5c10594ed8a61e2e2fb",
+      "imagem": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-070.png",
+      "sha256_imagem": "c5e1ac8c508c371f87e1e853457094600cf1427207065ee690983cfff982cb1e",
+      "criterio": "Página 70: layout mantém ser ao fim da linha do art. 210; bbox desloca a palavra. Página 107: layout mantém a grade de nomes/cargos em três colunas. Ambas confirmadas visualmente, com multiconjunto completo de caracteres igual."
+    },
+    {
+      "pagina": 107,
+      "sha256_layout_nao_branco": "f22560297ddc7ffd389d6aaf39ebd5e35769984b730003de757f56ed95c77602",
+      "imagem": "municipais/_lotes/20261021-aracaju-inspecao-tachados/pagina-107.png",
+      "sha256_imagem": "0e1b5eb90bab88824c76469b9360b566451e9c79135467aafc5de2d5dbbf926d",
+      "criterio": "Página 70: layout mantém ser ao fim da linha do art. 210; bbox desloca a palavra. Página 107: layout mantém a grade de nomes/cargos em três colunas. Ambas confirmadas visualmente, com multiconjunto completo de caracteres igual."
+    }
+  ],
+  "completude": "107 páginas, fólio 1 a 107, ADCT até art. 32 no fólio 106, data de promulgação literal e grade de signatários no fólio 107. A landing oficial vincula um único PDF com rótulo de Lei Orgânica; outros anexos da página dizem respeito à LC 169/2019 e não são incorporados à LO. O PDF tem zero arquivos embutidos; nenhuma remissão a anexo próprio ou material normativo separado foi encontrada no texto integral.",
+  "limite": "Não certifica atualização jurídica integral. A fonte não informa data global de edição; as notas e todas as redações tachadas ficam preservadas e identificadas."
+}

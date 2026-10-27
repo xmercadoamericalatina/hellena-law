@@ -1,0 +1,2929 @@
+[
+  {
+    "row": {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10606,
+      "norma_id": 29880,
+      "codigo_ibge": "1100205",
+      "metadado_ta": {
+        "id": 10606,
+        "__str__": "Decreto nº 22.538, de 15 de outubro de 2026",
+        "link_detail_backend": "",
+        "metadata": {},
+        "created": "2026-10-16T12:57:28.376531-03:00",
+        "modified": "2026-10-16T12:58:56.964826-03:00",
+        "data": "2026-10-15",
+        "ementa": "Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.",
+        "observacao": "",
+        "numero": "22538",
+        "ano": 2026,
+        "participacao_social": false,
+        "object_id": 29880,
+        "editable_only_by_owners": false,
+        "editing_locked": true,
+        "privacidade": 0,
+        "tipo_ta": 1,
+        "content_type": 67,
+        "owners": []
+      },
+      "estado": "candidato_estruturado_para_auditoria",
+      "pendencia": null,
+      "metadado_norma": {
+        "id": 29880,
+        "__str__": "Decreto nº 22.538, de 15 de outubro de 2026",
+        "link_detail_backend": "/norma/29880",
+        "metadata": {},
+        "texto_integral": "http://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/29880/decreto_n._22.538_de_15_de_outubro_de_2026.pdf",
+        "numero": "22538",
+        "ano": 2026,
+        "esfera_federacao": "M",
+        "data": "2026-10-15",
+        "data_publicacao": "2026-10-16",
+        "veiculo_publicacao": "DOMR 4341",
+        "pagina_inicio_publicacao": null,
+        "pagina_fim_publicacao": null,
+        "ementa": "Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.",
+        "indexacao": "",
+        "observacao": "",
+        "complemento": false,
+        "data_vigencia": null,
+        "timestamp": "2026-10-16T12:54:34.102816-03:00",
+        "data_ultima_atualizacao": "2026-10-16T12:58:56.974220-03:00",
+        "ip": "186.219.241.81",
+        "ultima_edicao": "2026-10-16T12:44:08.146435-03:00",
+        "tipo": 8,
+        "materia": null,
+        "orgao": null,
+        "user": 131,
+        "assuntos": [
+          739,
+          787,
+          1825
+        ],
+        "autores": []
+      },
+      "prova_norma": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c5dd9b61b6cc887c490e424f653100c82bee080196cc96fb43511f5bbe710ac3.json",
+        "url": "https://sapl.portovelho.ro.leg.br/api/norma/normajuridica/29880/",
+        "url_final": "https://sapl.portovelho.ro.leg.br/api/norma/normajuridica/29880/",
+        "status": 200,
+        "content_type": "application/json",
+        "sha256": "c1b2fbdb1004db73646a651689cb857f6c9d9096d307bc109b671b25be027fb8",
+        "bytes": 949,
+        "capturado_em": "2026-10-20T22:17:56.422519"
+      },
+      "prova_frontend": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8a3788141b117a8bd24eb2b2439e144d251f0375a4fbfa505f47b81fd4f5c2b9.html",
+        "url": "https://sapl.portovelho.ro.leg.br/norma/29880",
+        "url_final": "https://sapl.portovelho.ro.leg.br/ta/10606/text",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sha256": "175a40f479d837da2acba778a284f33549c92b22cc89c15935749631db762b99",
+        "bytes": 22001,
+        "capturado_em": "2026-10-20T22:18:00.477209"
+      },
+      "transcricao": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/29880-10606.txt",
+      "sha256_transcricao": "153e1b94cba09965128df8d9c4e8a37aa3bf27884de36ec72fad12d34ba4b399",
+      "dispositivos_ativos": 3,
+      "dispositivos_historicos": 0,
+      "limite": "Fonte padrão pública, sem certificação legal. Anexos, identidade literal, tabelas/imagens e efeitos exigem gates adicionais.",
+      "aprovado_nestes_gates": true,
+      "gates": {
+        "tabelas_nativas_prova": {
+          "tabelas": 1,
+          "eventos": 149,
+          "assinaturas": [
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "7"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "09.00-SECRETARIAMUNICIPALDEEDUCAÇÃO-SEMED"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "7"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "09.01-SECRETARIAMUNICIPALDEEDUCAÇÃO-SEMED"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "PROJETO/ATIVIDADE"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ESPECIFICAÇÃO"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ESFERA"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "NATUREZADADESPESA"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FONTEDERECURSOS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "REMANEJAR$"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "REALOCAR$"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "09.01.12.361.311.2.231"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Modernizaçãodainfraestruturafísicadasunidadeseducacionais"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FIS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "3.3.50.43"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "1.500.0000.0000.0029"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "-"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "5"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "SUBTOTAL"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "-"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "7"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "02.00-SECRETARIADEGOVERNO-SGOV"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "7"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "02.21-FUNDAÇÃOCULTURALDEPORTOVELHO-FUNCULTURAL"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "PROJETO/ATIVIDADE"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ESPECIFICAÇÃO"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ESFERA"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "NATUREZADADESPESA"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FONTEDERECURSOS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "REMANEJAR$"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "REALOCAR$"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "02.21.13.392.047.2.923"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Promoção,produçãodeeventosartísticosculturais"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FIS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "3.3.50.43"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "1.500.0000.0000.0029"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "-"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "5"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "SUBTOTAL"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "5"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "TOTAL"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "200.000,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ]
+          ],
+          "codigo_sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f"
+        },
+        "tipo_oficial": "Decreto",
+        "identidade_literal": {
+          "epigrafes": [
+            {
+              "tipo": "DECRETO",
+              "numero": "22.538",
+              "numero_normalizado": "22538",
+              "trecho": "DECRETO Nº 22.538, DE 15 DE OUTUBRO DE 2026",
+              "data_literal": "2026-10-15"
+            }
+          ],
+          "numero_metadado": "22538",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        },
+        "categoria": "decretos",
+        "tipo_canonico": "Decreto",
+        "titulo_literal": "Decreto nº 22.538, de 15 de outubro de 2026",
+        "tokens_ativos": 474,
+        "dispositivos_ativos": 3,
+        "historicos_excluidos": 0,
+        "cortes_de_vigencia_declarados": [],
+        "anexos_proprios": 0,
+        "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+      }
+    },
+    "md": "municipais/RO/porto-velho/decretos/2026/decretos-22538-2026-sapl-29880.md",
+    "sha256_md": "ea7e93ea3112ae180c8314d4be50a218a97452fbfda1d6a421462ec50ed714a3",
+    "types": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.portovelho.ro.leg.br.tipos.json",
+    "annex": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.portovelho.ro.leg.br.anexos.json"
+  },
+  {
+    "row": {
+      "host": "sapl.alpinopolis.mg.leg.br",
+      "ta_id": 4,
+      "norma_id": 4,
+      "codigo_ibge": "3101904",
+      "metadado_ta": {
+        "id": 4,
+        "__str__": "Lei Ordinária nº 2.403, de 10 de fevereiro de 2023",
+        "link_detail_backend": "",
+        "metadata": {},
+        "created": "2023-02-10T14:11:07.220218-03:00",
+        "modified": "2023-02-10T16:12:19.468616-03:00",
+        "data": "2023-02-10",
+        "ementa": "“Dispõe sobre Abertura de Crédito Adicional Especial ao Orçamento Vigente e dá outras providências.”",
+        "observacao": "",
+        "numero": "2.403",
+        "ano": 2023,
+        "participacao_social": false,
+        "object_id": 4,
+        "editable_only_by_owners": false,
+        "editing_locked": true,
+        "privacidade": 0,
+        "tipo_ta": 3,
+        "content_type": 82,
+        "owners": []
+      },
+      "estado": "candidato_estruturado_para_auditoria",
+      "pendencia": null,
+      "metadado_norma": {
+        "id": 4,
+        "__str__": "Lei Ordinária nº 2.403, de 10 de fevereiro de 2023",
+        "link_detail_backend": "/norma/4",
+        "metadata": {},
+        "texto_integral": null,
+        "numero": "2.403",
+        "ano": 2023,
+        "esfera_federacao": "M",
+        "data": "2023-02-10",
+        "data_publicacao": null,
+        "veiculo_publicacao": "",
+        "pagina_inicio_publicacao": null,
+        "pagina_fim_publicacao": null,
+        "ementa": "“Dispõe sobre Abertura de Crédito Adicional Especial ao Orçamento Vigente e dá outras providências.”",
+        "indexacao": "",
+        "observacao": "",
+        "complemento": false,
+        "data_vigencia": null,
+        "timestamp": "2023-02-10T16:12:17.286465-03:00",
+        "data_ultima_atualizacao": "2023-02-10T16:12:17.286653-03:00",
+        "ip": "170.254.196.248",
+        "ultima_edicao": "2023-02-10T14:10:13.524943-03:00",
+        "tipo": 1,
+        "materia": null,
+        "orgao": null,
+        "user": 2,
+        "assuntos": [],
+        "autores": []
+      },
+      "prova_norma": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/781c1a65e50d8e5368826cdad624a0f55154b8d537ae927abb7c71326150d306.json",
+        "url": "https://sapl.alpinopolis.mg.leg.br/api/norma/normajuridica/4/",
+        "url_final": "https://sapl.alpinopolis.mg.leg.br/api/norma/normajuridica/4/",
+        "status": 200,
+        "content_type": "application/json",
+        "sha256": "2d7052280a402261bca6c4e71abca99a3f7afc3181f8dd4bc2d15ce9f5519779",
+        "bytes": 803,
+        "capturado_em": "2026-10-21T05:25:34.959612-03:00"
+      },
+      "prova_frontend": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/ec75304c334f5692da6d44754fa6671433a309ddeaedb698bcf434836b80c4a1.html",
+        "url": "https://sapl.alpinopolis.mg.leg.br/norma/4",
+        "url_final": "https://sapl.alpinopolis.mg.leg.br/ta/4/text",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sha256": "c2a43236e266c9d72eba31948aa86e1a1c636ed1a38ae934fadc5be249a3fef4",
+        "bytes": 22936,
+        "capturado_em": "2026-10-21T05:25:37.678608-03:00"
+      },
+      "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alpinopolis.mg.leg.br/candidatos/4-4.txt",
+      "sha256_transcricao": "b437da439b4bdb0a3a550ffd33a12d267e464437dc25056d1883113b939bd3b3",
+      "dispositivos_ativos": 15,
+      "dispositivos_historicos": 0,
+      "limite": "Fonte padrão pública, sem certificação legal. Anexos, identidade literal, tabelas/imagens e efeitos exigem gates adicionais.",
+      "aprovado_nestes_gates": true,
+      "gates": {
+        "tabelas_nativas_prova": {
+          "tabelas": 2,
+          "eventos": 128,
+          "assinaturas": [
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "colgroup",
+                []
+              ],
+              [
+                "open",
+                "col",
+                []
+              ],
+              [
+                "open",
+                "col",
+                []
+              ],
+              [
+                "close",
+                "colgroup"
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Òrgão"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "02PrefeituraMunicipal"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Unidadeorçamentária"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "021005FundodeDesenvolvimentodoTurismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Função"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "23ComercioeServiços"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Sub-Função"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "695Turismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Programa"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2707IncentivoaoTurismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Projeto/Atividade"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "0.XXXCONTRIBUIÇÃOAASSOCIAÇÃODOSMUNICÍPIOSDOLAGODEFURNAS-ALAGO"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ElementodeDespesa"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "335041Contribuições–Fonte150000000000–R$6.840,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "colgroup",
+                []
+              ],
+              [
+                "open",
+                "col",
+                []
+              ],
+              [
+                "open",
+                "col",
+                []
+              ],
+              [
+                "close",
+                "colgroup"
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Órgão"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "02PrefeituraMunicipal"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Unidadeorçamentária"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "021004Turismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Função"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "23ComercioeServiços"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Sub-Função"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "695Turismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Programa"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2707IncentivoaoTurismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Projeto/Atividade"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2.231ImplementaçõesdeAçõesparaPromoçãodoTurismo"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ElementodeDespesa"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "339036OutrosServiçosTerceiro-PessoaFisica–Fonte150000000000–R$6.840,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ]
+          ],
+          "codigo_sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f"
+        },
+        "tipo_oficial": "Lei Ordinária",
+        "identidade_literal": {
+          "epigrafes": [
+            {
+              "tipo": "LEI ORDINARIA",
+              "numero": "2.403",
+              "numero_normalizado": "2403",
+              "trecho": "LEI ORDINARIA Nº 2.403, DE 10 DE FEVEREIRO DE 2023",
+              "data_literal": "2023-02-10"
+            }
+          ],
+          "numero_metadado": "2.403",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        },
+        "categoria": "leis-ordinarias",
+        "tipo_canonico": "Lei ordinária",
+        "titulo_literal": "Lei Ordinária nº 2.403, de 10 de fevereiro de 2023",
+        "tokens_ativos": 312,
+        "dispositivos_ativos": 15,
+        "historicos_excluidos": 0,
+        "cortes_de_vigencia_declarados": [],
+        "anexos_proprios": 0,
+        "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+      }
+    },
+    "md": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.403-2023-sapl-4.md",
+    "sha256_md": "a9efae768ed27458a70f16650a871eb26e60434fbf7820d5903c2ab94dfd2528",
+    "types": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.alpinopolis.mg.leg.br.tipos.json",
+    "annex": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.alpinopolis.mg.leg.br.anexos.json"
+  },
+  {
+    "row": {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 552,
+      "norma_id": 18530,
+      "codigo_ibge": "4307005",
+      "metadado_ta": {
+        "id": 552,
+        "__str__": "Lei Ordinária Municipal nº 6.689, de 03 de março de 2020",
+        "link_detail_backend": "",
+        "metadata": {},
+        "created": "2020-05-27T13:41:11.889771-03:00",
+        "modified": "2021-08-05T20:10:07.595010-03:00",
+        "data": "2020-03-03",
+        "ementa": "Ratifica a assinatura do Termo de Cooperação Excepcional, celebrado entre a Superintendência dos Serviços Penitenciários – SUSEPE e o Município de Erechim/RS, objetivando a utilização de mão de obra de apenados recolhidos no Presídio Estadual de Erechim.",
+        "observacao": "",
+        "numero": "6689",
+        "ano": 2020,
+        "participacao_social": null,
+        "object_id": 18530,
+        "editable_only_by_owners": false,
+        "editing_locked": true,
+        "privacidade": 0,
+        "tipo_ta": 3,
+        "content_type": 70,
+        "owners": []
+      },
+      "estado": "candidato_estruturado_para_auditoria",
+      "pendencia": null,
+      "metadado_norma": {
+        "id": 18530,
+        "__str__": "Lei Ordinária Municipal nº 6.689, de 03 de março de 2020",
+        "link_detail_backend": "/norma/18530",
+        "metadata": {},
+        "texto_integral": "http://sapl.erechim.rs.leg.br/media/sapl/public/normajuridica/2020/18530/6689.pdf",
+        "numero": "6689",
+        "ano": 2020,
+        "esfera_federacao": "M",
+        "data": "2020-03-03",
+        "data_publicacao": "2020-03-04",
+        "veiculo_publicacao": "Jornal Bom Dia de Erechim",
+        "pagina_inicio_publicacao": 19,
+        "pagina_fim_publicacao": 19,
+        "ementa": "Ratifica a assinatura do Termo de Cooperação Excepcional, celebrado entre a Superintendência dos Serviços Penitenciários – SUSEPE e o Município de Erechim/RS, objetivando a utilização de mão de obra de apenados recolhidos no Presídio Estadual de Erechim.",
+        "indexacao": "",
+        "observacao": "",
+        "complemento": false,
+        "data_vigencia": null,
+        "timestamp": "2020-03-04T16:12:27.914238-03:00",
+        "data_ultima_atualizacao": "2020-05-27T16:35:21.352950-03:00",
+        "ip": "201.55.112.242",
+        "ultima_edicao": null,
+        "tipo": 1,
+        "materia": 21157,
+        "orgao": null,
+        "user": 160,
+        "assuntos": [],
+        "autores": []
+      },
+      "prova_norma": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/0dccca4f0a8d76e753c1513c68b8cee12b21af060e31596b0f74c0a8faf77e5a.json",
+        "url": "https://sapl.erechim.rs.leg.br/api/norma/normajuridica/18530/",
+        "url_final": "https://sapl.erechim.rs.leg.br/api/norma/normajuridica/18530/",
+        "status": 200,
+        "content_type": "application/json",
+        "sha256": "1a472baf54e8e53c97b35d20bcecd533708fdfce1c516c03cacbf55b96442f54",
+        "bytes": 1075,
+        "capturado_em": "2026-10-21T03:35:40.636910-03:00"
+      },
+      "prova_frontend": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/ca60c15e57d1049594efb6944fe579320fda991629e839ee2bc2e9c15ce04647.html",
+        "url": "https://sapl.erechim.rs.leg.br/norma/18530",
+        "url_final": "https://sapl.erechim.rs.leg.br/ta/552/text",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sha256": "35f2adcfde7d070ea0e22f2d48e9525a6268d060a8dad783e4755217cee620c8",
+        "bytes": 64243,
+        "capturado_em": "2026-10-21T03:35:43.837281-03:00"
+      },
+      "transcricao": "municipais/_lotes/20261021-textos-articulados-expansao/sapl.erechim.rs.leg.br/candidatos/18530-552.txt",
+      "sha256_transcricao": "b505425bb912cd2dc44d5776856cb199350de98c105d98ff2e4940d68ce1e01a",
+      "dispositivos_ativos": 56,
+      "dispositivos_historicos": 0,
+      "limite": "Fonte padrão pública, sem certificação legal. Anexos, identidade literal, tabelas/imagens e efeitos exigem gates adicionais.",
+      "aprovado_nestes_gates": true,
+      "gates": {
+        "tabelas_nativas_prova": {
+          "tabelas": 7,
+          "eventos": 265,
+          "assinaturas": [
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "órgão/EntidadeProponentePrefeituraMunicipaldeErechim."
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "C.N.P.J.87.613.477/0001-20"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "4"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "EndereçoPraçadaBandeira,n°354-Bairro:Centro"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "CidadeErechim"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "U.F.RS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "C.E.P.99700010"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "DDDITelefone(5413520-7000"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "NomedoResponsávelLuizFranciscoSchmidt"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "C.P.F.162553050-15"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "C.I./órgãoExpedidor1020421622JSSP"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "CargoPrefeito"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FunçãoPrefeito"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "HomePage"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "e-mail:gabinete@erechim.rs.gov.br"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "ÓrgãoIntervenienteSuperintendênciadosServiçosPenitenciários"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "C.N.P.J.17.176.399/0001-69"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "5"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "EndereçoAv.VoluntáriosdaPátria,n°1.358—4°andar"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "CidadePortoAlegre"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "U.F.RS"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "C.E.P.90230-010"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "DDDITelefone51-3288-7306"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "EAEstadual"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "NomedoResponsávelCésarAugustoOuriquesdaVeiga"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "C.P.F.81851120025"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "CargoAgentePenitenciário"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "FunçãoSuperintendente"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "CargoAgentePenitenciário"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Matrícula/IF"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "ContaCorrente"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "BancoAgência"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "PraçadePagamento"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "TítulodoProjeto:"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "PeríododeExecução"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Utilizaçãodemãodeobraprisional"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2019"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2020"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "IdentificaçãodoObjeto:"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "OpresenteTermodeCooperaçãotemporobjetoautilizaçãodemãodeobradeapenados."
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "3"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "JustificativadaProposiçãoÉdeinteressedoEstadoaTermodeCooperaçãodosentesnoobjetivodepromoverainclusãosocialdosapenados."
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "rowspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "Meta"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "rowspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "EtapaFase"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "rowspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "Especificação"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "IndicarFísico"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                [
+                  [
+                    "colspan",
+                    "2"
+                  ]
+                ]
+              ],
+              [
+                "text",
+                "Duração"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Unid"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Quant"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Início"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Término"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "1"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "1"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Utilizaçãodemãodeobradeaté38apenadosdoregimesemiaberto/aberto"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Apenados"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "38"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2019"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "2020"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "MUNICÍPIO"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "ESTADO"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "TOTALGERAL(5anos)"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Deacordocomonúmerodeapenadosempregadosnomês,comovalorcorrespondentea1SalárioMínimoNacional"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "0,00"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Deacordocomonúmerodeapenadosempregadosnomês,comovalorcorrespondentede1SalárioMínimoNacional"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Naqualidadederepresentantelegaldoproponente,declaro,parafinsdeprovajuntoàSecretariadaAdministraçãoPenitenciária,paraosefeitosesobaspenasdalei,queinexistequalquerdébitoemmoraousituaçãodeinadimplênciacomoTesouroEstadualouqualquerórgãoouentidadedaAdministraçãoPúblicaEstadual,queimpeçaatransferênciaderecursosoriundosdedotaçõesconsignadasnosorçamentosdoEstadodoRioGrandedoSul,naformadestePlanodeTrabalho.PortoAlegre,dede2019.LUIZFRANCISCOSCHMIDT,MunicípiodeErechim"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ],
+            [
+              [
+                "open",
+                "table",
+                []
+              ],
+              [
+                "open",
+                "tbody",
+                []
+              ],
+              [
+                "open",
+                "tr",
+                []
+              ],
+              [
+                "open",
+                "td",
+                []
+              ],
+              [
+                "text",
+                "Aprovado.PortoAlegre,dede2019.CÉSARAUGUSTOOURIQUESDAVEIGASuperintendentedosServiçosPenitenciários"
+              ],
+              [
+                "close",
+                "td"
+              ],
+              [
+                "close",
+                "tr"
+              ],
+              [
+                "close",
+                "tbody"
+              ],
+              [
+                "close",
+                "table"
+              ]
+            ]
+          ],
+          "codigo_sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f"
+        },
+        "tipo_oficial": "Lei Ordinária Municipal",
+        "identidade_literal": {
+          "epigrafes": [
+            {
+              "tipo": "LEI ORDINARIA MUNICIPAL",
+              "numero": "6.689",
+              "numero_normalizado": "6689",
+              "trecho": "LEI ORDINARIA MUNICIPAL Nº 6.689, DE 03 DE MARCO DE 2020",
+              "data_literal": "2020-03-03"
+            }
+          ],
+          "numero_metadado": "6689",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        },
+        "categoria": "leis-ordinarias",
+        "tipo_canonico": "Lei ordinária",
+        "titulo_literal": "Lei Ordinária Municipal nº 6.689, de 03 de março de 2020",
+        "tokens_ativos": 2006,
+        "dispositivos_ativos": 56,
+        "historicos_excluidos": 0,
+        "cortes_de_vigencia_declarados": [],
+        "anexos_proprios": 0,
+        "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+      }
+    },
+    "md": "municipais/RS/erechim/leis-ordinarias/2020/leis-ordinarias-6689-2020-sapl-18530.md",
+    "sha256_md": "10d5e9f2fbfc7ac65ddacde78b8e3adf1ebcfe85949924d2b3ceb47b1e209d54",
+    "types": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.erechim.rs.leg.br.tipos.json",
+    "annex": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.erechim.rs.leg.br.anexos.json"
+  }
+]

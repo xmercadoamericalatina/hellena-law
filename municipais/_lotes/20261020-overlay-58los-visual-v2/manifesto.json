@@ -1,0 +1,25 @@
+{
+  "total": 58,
+  "estados": {
+    "sem_candidato_de_tachado_detectado": 39,
+    "distincao_de_tachado_corrigida": 9,
+    "controle_especifico_externo": 4,
+    "candidato_geometrico_falso_no_exemplo_revisado": 2,
+    "cor_sem_significado_juridico_esclarecido": 2,
+    "tipo_divergente_confirmado": 2
+  },
+  "substitui": "municipais/_lotes/20261020-overlay-58los-visual/manifesto.json",
+  "sha256_original": "c3c70cc60abe5a6de4c0ea583ef95573ab4ad2674b2f9a2c8a89ebd2f7fdc4db",
+  "correcao_do_overlay": "SomenteArapongas4841/4842sãoemendas:4839éLOefoiindevidamenteincluídopelaregraporcidade. FonteV1imutável. Nove casos gráficos agora vinculados às correções efetivas.",
+  "pendencias": "Quatropaths para o coordenador confrontar exclusivamente comHEAD; nenhum registro central alterado e nenhuma afirmação de publicação por índice ou disco.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261020-overlay-58los-visual-v2/retidos-ou-correcao.paths.txt",
+      "sha256": "bfe5a70b2bcbcadd7ff25d7fa58f8caa454ba6dc99cd42b5629381a41c54773a"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-overlay-58los-visual-v2/resultados.json",
+      "sha256": "1e0f430103b1ca86b899061c5d569e5e13243dd8cd23b94e27e5ae32e7b978a1"
+    }
+  ]
+}

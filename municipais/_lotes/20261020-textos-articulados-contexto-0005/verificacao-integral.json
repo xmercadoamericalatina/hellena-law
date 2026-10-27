@@ -1,0 +1,1432 @@
+{
+  "arquivos": 178,
+  "aprovados": 178,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2827-2026-sapl-5423.md",
+      "sha256": "6ccad2afc424781cfda87efea6e82c03124bdf4ee5bf9ccceb7bceb7c1554e0f",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "0930b0fa5642b5376a2cb9a11528846bd11f3ab84b60f1ce59de3b2920268ac6"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2826-2026-sapl-5422.md",
+      "sha256": "dacb6a6396b7e2141dbbe72c4bc8114bf25d35e0df3fce76003723f462c24aa4",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "ccfb4bb673b65f9166a21ecd4087aa45252e10e15563a04485f0a1a143cfd78b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10116-2013-sapl-3619.md",
+      "sha256": "eba562f3fc684fa389696af6f3eca941d35cced13ad312542e9e0b35c99cc278",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "7bd69c0443aec1f74dbfa29207f782b9f358345a93d9fb1a2287926e1d4bf7be"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2825-2026-sapl-5427.md",
+      "sha256": "e880e03d7e1f0f341c7318075641da4308767712fb1c5078b5f08c99fb24c3e5",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "415f2c6539147f17e375e3cf62eed577e094e801dc4eb758e66e0a6fec8e9290"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3284-2025-sapl-28262.md",
+      "sha256": "9518d04cc69fc8bc9d9bb2c4999d0fdd2831cdddbabdce9cae4a1321ca087559",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "62e439562e74641f47cee164725a713f7f1fd6766556a775ea58b45b6feea930"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2824-2026-sapl-5426.md",
+      "sha256": "473dfe681e34d43eeef6a5bc44696909b0ea32a5e136a29175991d282c558901",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "2c6a9cdbefbf5cfb757bb9a9fad83bdac720b3a2cb589ef5256676100fafaae4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10107-2013-sapl-3608.md",
+      "sha256": "cea0fc09e8d8b91b13d6d9432a8d752c4e672ffde806a46d58d7f8ec7a0f7f76",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "81856b279fd6779f340806726ec9fbdbc216165a0c65e69e9a19d7c91361714f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3283-2025-sapl-28261.md",
+      "sha256": "b1a277be91131a0ed72ac3f6227eadbdcd82481702dd62d383d52c85c85e7580",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5ab84218514ab4a25dea02d69e12188fbbcfb75857d24e73dc34430d8616d616"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2823-2026-sapl-5435.md",
+      "sha256": "9733cd67fb6461dfe08069f1c3c97c4d74391347333016dd65e00529c1797da4",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "d0ef55bf5d3d2bc7eb3977ff99e7e0ba58d9e71012643ba4cc011c98b4da24a2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3282-2025-sapl-28260.md",
+      "sha256": "06978cb7ea2b4bd330d13c2f3f79e9130adbd7132294248640bd4f18375d9936",
+      "aprovado": true,
+      "dispositivos_ativos": 57,
+      "historicos": 0,
+      "sha256_fonte": "21d6c0334ae431af9374f47efe05b40b41b1e7b530b82c4e73d65b805e20438a"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2811-2026-sapl-5415.md",
+      "sha256": "98e6c03624f81ce27d3d2c262f55398eb8276ffafa1b3103f4269905040269d2",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "842ea5eff9f60c2c4583ed55be62861d71ce71c0ae032b416fa9c88c7ada0a0d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10076-2013-sapl-3305.md",
+      "sha256": "f186fc11fe0d90fb02201ec5957a25b34c8248edf57ab71fedd2411f3bb08e0c",
+      "aprovado": true,
+      "dispositivos_ativos": 143,
+      "historicos": 0,
+      "sha256_fonte": "a6772d9dd91a379b8d5c31009e7b0f7329c86b1610b984f9a9d5c1c168281b48"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3281-2025-sapl-28257.md",
+      "sha256": "16fe2b8c9d1f5286444bbd6af39cb9b5f3c59e4dab719487bf07f53f238d2e6c",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "633cdddd432a04a2de0d1e67ffa2869fcfd95fa7cbfaa98ceda2a29f32c8886e"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2815-2026-sapl-5414.md",
+      "sha256": "3cc1cb614190278444f819eca96c3bcad190cf4d0283c4ab2468107df7b58381",
+      "aprovado": true,
+      "dispositivos_ativos": 38,
+      "historicos": 0,
+      "sha256_fonte": "e10460fb657e02174e6bf99ae57baadddb66fef724a99d6374a4b0c1d6026680"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2813-2026-sapl-5413.md",
+      "sha256": "a8f35e380aed7650279fe0489c10b79633e7c18995b665a89bb07dfc08039d56",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "86183c3fc9d0e5987e95a649470051cf5efd85b62b559143f6821d256c214505"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2812-2026-sapl-5412.md",
+      "sha256": "bbb0bf3d124f10fb34d5915fc270d2ff93db250cea894acceb22854ccb0152af",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "2e0124fcfa42a9d40c7f97e0b4b78922edabad1eb7479d6b6b5a069e3fe7e5f9"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2810-2026-sapl-5350.md",
+      "sha256": "757b6d66e998eb9f1ee91709d713f1778b2b0aa819b57e6a40079d968a06999c",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "24090fe176e63df4ee3ff8fe4c179a7d02ac25f2a018537148d67a47e76167b7"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10024-2013-sapl-1238.md",
+      "sha256": "97ceb53cbbf032e36bfbc94f31b738b97ff9591b310f712035a34fff4c066cb1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ed6a1369a934bf5b55b0569848383eec8d65876c4fc7f6361a9a470e8db832a1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2809-2026-sapl-5349.md",
+      "sha256": "648edfe2966b103a8a289f537a1f5d55ea3ed97bbb2f6da4df00f99b5885c448",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "285b2926a58f5987ede501e85d627a1b2bd86bc299401ee3926d4d7bc467726c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10012-2013-sapl-1225.md",
+      "sha256": "10abce1b90aa74c727bfbd4826eadd704e4888b1667f8db26925ec2a57c4414c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a45a6dea4591ba46bb372216af3b10fd825aa1dde303637d75740df9d3713567"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2807-2026-sapl-5347.md",
+      "sha256": "988e62353395af12c062db1a499431c97846a4d1032f6c408c7681bb61818dc9",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "85fde12e4fe10f882ebb1ce7843efe14569a521e41a36569c65786da3c51cd72"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10005-2013-sapl-705.md",
+      "sha256": "59fc14163470b4bc90c9053f0202f369c9c4e19f7edf8b52611030794b704d52",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "6bfe570ba92d1ff7e899cdfe2bc33134d9f41fbaef76b1148e9a79ad9df0811c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2806-2026-sapl-5346.md",
+      "sha256": "372c78994fda6b1f4730e1340c7ee7fd49fe45675ba0b61320eca865883a2539",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "a956ca6005f5831e5ee03c1f56847cce984bb36e802202e96b57b56840a5afad"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2805-2026-sapl-5345.md",
+      "sha256": "817a9f2aa1e0830496d75c968a0ae044db649e850076d166f051cb6f7c9508c0",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "6ae57502550abbe11494e214f5e2548c63a10ac2fbcc07bd858e05e1a2d14682"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2804-2026-sapl-5344.md",
+      "sha256": "9f353ae175fb4deffadb7f00193e7f85cb14edc185943b8b2815a78b61376b7f",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "16df3a5476d1970a741d4a0a4e4242c58b9c109e2eb8cd10ce1d9ca2d7e454b4"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2803-2026-sapl-5343.md",
+      "sha256": "f028c36e0a1a070fc95050e342e1ab494d309a01c0acb48b97dee0622be61690",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "e8fb969e80a12f15954d130e9c26934b61583a1de611fa6ce483acdaa6978dd6"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2802-2026-sapl-5342.md",
+      "sha256": "e570dc0fa54fae6dc8cec00b7e51c47542df9528e0d12aafec22af8198af8f1b",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "44fd4b04a31e923f0bf18f340d800a01ea8e0f3ebe9bb58c2b80d4a4acd16e72"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10001-2013-sapl-666.md",
+      "sha256": "41c2cd9859e67540daca1f0d71468d4e918a04550fc69f391ceaf0ca10d3bb5d",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "58cce303ad2964e28207562bff2d4e1fd47441704637af17e09397bdb93c5972"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2801-2026-sapl-5341.md",
+      "sha256": "e882b36a87b665c54178970e6bf033cf86b2554602a6eaa7ed1d7f67d06d8136",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7a39e22bd2c2e1c6de10b4a1e8dcf87f5705aaecef398c74a5bdda772ad4dc9b"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2800-2026-sapl-5340.md",
+      "sha256": "0178edfc911a6ab166daacf2c768631eedc01f36e89f181924e39521e6bd53db",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "f3a254679e2cd3e24176c655e757df3b05d73d5d6424419d8b92b547c26815b8"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2799-2026-sapl-5339.md",
+      "sha256": "73830e4164ad4734f389beb8c9dfcedaddb21274c2666151a9de7cfc3c1aa96a",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "e8981128cf9f83a33318369b6ab740e122e69545f9a04d7e50ab3aea6f42b871"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2796-2026-sapl-5338.md",
+      "sha256": "09c4d645da5ee97b73e816ea4171a7c7716c83a34ec2793aeb4199ccc25082d5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3b7bbb916d49c99646af7811d0460a1faa7c0e92f8fd14843aa847fff884fc23"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2795-2026-sapl-5334.md",
+      "sha256": "b4b7b27337d0d520e3eb4ceaf1b2ed37cf1e88f76e1c262d0cb1fc9b28df11c1",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "779d91230041689962dac2598a12e5e7055a79642f07ba7f0963d6b5ab4da54f"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2794-2026-sapl-5337.md",
+      "sha256": "ef6735765c78aefcfb749744ed394e8aaf73086f1b49b272629061328d87adc2",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "64f9845118b869d1be38a2a7253f456f66c27f088ac82456157da4019ee5fbbb"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2793-2026-sapl-5336.md",
+      "sha256": "3c8283651bf3bd4f5b5abd640079d6feabc30b9cc0938c93c9f980abe28ecd84",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "7470bab2e3418b525641082e9acda9af73da4a633203ffa02177f419d8ae5e15"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2791-2026-sapl-5335.md",
+      "sha256": "1b30002ad7294bea7fdd09ee68cb7c676305a823b81522ac3921b5af7a9f5df3",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "14e17b192e63f9e6f45d7873d0d1fe9e02ceb69d17e623da917d8fc79d3b151b"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2786-2025-sapl-5326.md",
+      "sha256": "65439af3bc208e10b14aa775436eceff84c8bc4792b927acf842fd5daae5bba0",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "32055398c5d886ff679d49cf5972e3022ca7c83da1b1a73150a56068225640ef"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2785-2025-sapl-5314.md",
+      "sha256": "c22871e08334cf24b20462bc50389c7e5f3496f60c938e9843bc908bb0986ab2",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "9de97572061c2a1495d52a26435a8110f91be8a6d5d39c3dfbcdb068d281d173"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2784-2025-sapl-5313.md",
+      "sha256": "9c34b286fb6320b86839a1f4cde9c04497784019a37c44768bf73c5821f3337d",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "0cf45f86fa205b5f72f9f444ea33c91920b19ff382a4937640532a7225485b42"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2783-2025-sapl-5325.md",
+      "sha256": "59ef40fe3332b97434f9fd845518450c551e9d13b03f2f5e9c5be2cc521c78ba",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "a4f0a77dfe4637afeb9ae1deed347d9a1dea1e2b539c49c209ec337a10ab641c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2781-2025-sapl-5323.md",
+      "sha256": "a8026e76b5dcfce2b2bd85b345c84a79e16443668308beb8830f3d5d1ee3e2b5",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "0d3080335d67bfc4546999ca93f9392d8fdd44a7ef61363b6defe9ec847c529a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21221-2025-sapl-28124.md",
+      "sha256": "f18de945415b7e9f3eeffa6ff7925f27c75cd98c64b0e6d89ed1a322cbf2fd3e",
+      "aprovado": true,
+      "dispositivos_ativos": 41,
+      "historicos": 0,
+      "sha256_fonte": "e318fc265c95aceb0eda9fc4bd079c12a6aab910e987e7b69062829334588a5d"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2023/leis-ordinarias-2487-2023-sapl-4077.md",
+      "sha256": "faceb3f2363812ae7696fa8d93a5dad64a58a3329c648838d8987f195b8cdd7e",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "282d31da89e194e26428f01e42bd421ac68ebdd0684df68654b227e92c69ae7d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21220-2025-sapl-28123.md",
+      "sha256": "91ac7d23e2aa8313646c62d4b7723dea3c2b9e6b18d0afe73328eb8c48c7bb75",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "bfab9dd2e568b269c84f25067d3a6f563cc82a7881b2cb3082640664fb7b5e66"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21212-2025-sapl-28105.md",
+      "sha256": "901b02dd54d15d15ff01e4bd219c88fb59f77a2db8e3a9138b9a6b0f129d1b58",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "afc00c7f8ee10990e1a7059d558ba0c66a5a0208b768f9be7f0f60b3da5475dd"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21205-2025-sapl-28095.md",
+      "sha256": "03c47b36402ab791e51772e446be660e9a857b6ac06da9c32d16e033d74b1797",
+      "aprovado": true,
+      "dispositivos_ativos": 57,
+      "historicos": 0,
+      "sha256_fonte": "94c5e9b87714889e4aa1ffe60e558f005264153a322553b51d1e0c70fda2ba76"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21204-2025-sapl-28093.md",
+      "sha256": "29fda75dfb604920c335d2c11c40058bdf7b793e948dae54cac11f6303ea9355",
+      "aprovado": true,
+      "dispositivos_ativos": 38,
+      "historicos": 0,
+      "sha256_fonte": "70668946d893bb4d4b65701fb7db22d58e046f691a05b93072f30a70b12873a5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21200-2025-sapl-28082.md",
+      "sha256": "c11a3342daba9664b628702cbafe6057e4f57c809e2acb9b573a40eb90a2dfca",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d1e4a5c25bd0e1331c022052c4d77365f4159a779b30556a8dbd7b78f46d7901"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21197-2025-sapl-28085.md",
+      "sha256": "ac66ea4e9858f15ba608d6d1f70a04952f0c05a4a8f41d57f3c058e19b27d58c",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c404e825fff0a6e6e566a8dc1915bc78eecbea0422e0ec37cd04784ea0d25bf7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21195-2025-sapl-28099.md",
+      "sha256": "97ebc426c02280f9d901b1d7590a472dd235067ada9a92c10a5301eedbbc109e",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "a347fd4fa24bccae145393b0a94346661ce2199a26f042bdc2b6fe5e296bf6f8"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2009/leis-ordinarias-1219-2009-sapl-2561.md",
+      "sha256": "58342b95f5f97ff8749b93427874c11216e8bd35c637824ce7202a9b13cf2477",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "67886d5a6d1dd7ec45a4e5cdd45982cb5be2c6208dd60ad4fcc08dd78e0164d3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3279-2025-sapl-28256.md",
+      "sha256": "1f70d4e7caa57c913b7eea16caebf5d4ac8dd6bc367d6c4999174dca23719ddc",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "1dafdc4eb4eb0cbea62b80f4828fada039473f3dac7b88b1b2fa89bfed3fd6ca"
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/2009/resolucoes-132-2009-sapl-2594.md",
+      "sha256": "0b5e905fe081ca3bb6d10494a8f2a16670cc952bfb475b46b546de4150d8d210",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "483fcf306a34fd482d221d6d33649c2375a26d59c820982260fe79acf744ec7e"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2008/leis-ordinarias-1044-2008-sapl-2292.md",
+      "sha256": "f849414c6ee631c9f956ab16e256c8bdd6ee81d23245701fc3ae611b344cc6a6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d87c370d0b9a7e75ee43c36d2f9cc45ceeb684f50684f9251c46b4b92fb3f19d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21185-2025-sapl-28078.md",
+      "sha256": "d5111575a748e4a81e3a69a861ce01091f05023d0b6d640ffc3567d221d33086",
+      "aprovado": true,
+      "dispositivos_ativos": 28,
+      "historicos": 0,
+      "sha256_fonte": "c1f2fba094bfeae7087a0982cd4865f06aad83e39947b4927cb2d26bb94dd7a4"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-928-2006-sapl-2126.md",
+      "sha256": "79091addac1b4028c3c846d44692feeb82d6989990b18cefcfccaa60b7c9bc2b",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4708f2bfa4dccf5efa667bedcd95c9727a05391f20356b3a0926b8deae4dda9f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3278-2025-sapl-28255.md",
+      "sha256": "8996d751692f7bdae5406b1b71c26f5cc5244790cfe62484468c697bff820543",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "896a013f922ef14c7c26ed48db2dfd3c9a5bbb136a1167137ef39212db436374"
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/2006/resolucoes-123-2006-sapl-2724.md",
+      "sha256": "6f0e36ca04a5e6cfc126379c5268c72192b10dc938d0d552de100054a2740858",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "315558354e5125f6ee21105b11f90d2e9623be4f942e28200d98c10a109b754d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3277-2025-sapl-28254.md",
+      "sha256": "c3775126e8316ed620b70697a6cc8228104fbe03157f70cda2abbe8c17dc2cdf",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "c6b885acfc5e9a683673a272fb7247bb049f93a88232263d908faa123157cade"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-922-2006-sapl-2095.md",
+      "sha256": "c9fbbe081a50335d1bec4f999089230d70eba33dd5aa5bcdc003ff34fccb4af4",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "20b00de1eaae867cc0f21cc3616f8dea7954e6c7be7b4b07202e02e534d4dae8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3276-2025-sapl-28253.md",
+      "sha256": "81827127c0a1faa4c516f9eb1c3b80780a10ad6a1442367be5da94503b29a2d8",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "9766b4156e81a02876b825fa8b6580e020a11929cd737b5b997284aa9ded7b11"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-921-2006-sapl-2094.md",
+      "sha256": "f9af651bdeb38437344703d5a4f80b77df7e65e549259bbf5a8bee243b6fa503",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "e76d8508285e00cb67271a70ea8ebd046b49a20562031aace128b6ba72d376a6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3275-2025-sapl-28252.md",
+      "sha256": "d0e5587cfbf4437a0000061a113959e033fedbb0ee6d906dc35cb723488c4ca1",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "95dc2360a8d63fbcb1154dcb27261b5306b0033da31154ec51a6a8e8facd1e3d"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-911-2006-sapl-2078.md",
+      "sha256": "5e242a27506c7599fe915fc09aced74030c8a4ae8b1c693fcb8c3e063a29aaab",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "44c61580491a748caf07e61293a16ed21f2d5bf6290479bfb384b7164f5326c3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3274-2025-sapl-28251.md",
+      "sha256": "7822db9ca5c4a00738b1377c20a7ec10a432829ba3b44996be4d0673d2a37c2d",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "c4bf9a30da3105286e402aac2eed18971ebf6a16c441a56173e60c526eb582a0"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-910-2006-sapl-2077.md",
+      "sha256": "d91434e146abe0221e91f6f936fccffc86b5cd159e1a3425cde67aafee85ec0f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2b988edec1bd5ca0400b4147db43ad3f690b9fc00d43a6cf03100472db4b1bb1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-899-2006-sapl-2067.md",
+      "sha256": "28eaa3634924f381c981ac010e50db691323fa9224e83eed76fc812eed22282b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6fe16f513132f27b5443b1dce4d8ca2fe9622f845fac1d29a0f9dbcb4166f052"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-894-2006-sapl-2055.md",
+      "sha256": "f944114890863dfba38b64f3de9b362ff96e3cdb654e87db7c60fc1270583f71",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3a26810daf100ce37090be2a3e65ada5a7f7deea818aeb3b87c871ba59fe6550"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-893-2006-sapl-2053.md",
+      "sha256": "003fc6dec3f200174a1f1aae4b0dc09c6b47d3fde3549184830af87f3856286f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "332f27ffe611db2c8f41c7f8a0894f86ade36ee642a23b69b07457911726cf0e"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-889-2006-sapl-2048.md",
+      "sha256": "14d929a82321ff6af6c1c9be9dc323a75953158d1a0bd38737bc3132aba8b301",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c8364c76325e6628d52a27c6d52f0bc32f8f963f9421c137abcad1aea9a9bcb1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-887-2006-sapl-2046.md",
+      "sha256": "b87a3c2df6cb0cac10ac71f89bf2760c215a9603a968d09b8d4050944ff06ec0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ab9e1de16cbf9664207ed345d20376de700daf8fb8a4825168db8f003aa1576f"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-886-2006-sapl-2045.md",
+      "sha256": "9cb6b37ca39546f14225d68c020a32565633a1656333f8a7bf4ff352f55e2a05",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "15e70a9a4775518846a1d6d88fe2a7a86793a1c6881ce4dfc14a922dc0b8df06"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-865-2006-sapl-2010.md",
+      "sha256": "7bbf45542138a31127e012f54d67609c99d3db5a9719deac01fdf730ff43f81f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3ff638359c9c8f5d007a5ac495284577f67fff17854d82809f69934631b292ae"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3273-2025-sapl-28250.md",
+      "sha256": "2e08e40b5bc1789cb6cef0d6b5912c99692577f087b2a25253c3cce7c25f3540",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "984423a6229dbc3813d56d9f4a523f44adb935e1ab3cc03bfca54b035f1b00a3"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-863-2006-sapl-2008.md",
+      "sha256": "bed36cf9aa3b536610cda7a61623e6ca76af5ca90b5229eae9361732498b3448",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c4cc08fea4304c050d596c654039510f933e98f52060b941d327beea7926ac66"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3272-2025-sapl-28249.md",
+      "sha256": "f393520cdc26b7ca51a2e69f8f2dea34a5c6218b2801520ca5fbd49da9e7a07e",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "e17513c44e09115dce746fadeae24ba4bec59c9c8dbd391d77926a20c625e839"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-860-2006-sapl-2005.md",
+      "sha256": "6fa1c25a6be0473fcab4d757f84aabbe7935facd48f2cf18a178f78888b3fca5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "9d31ded5e1f1e8d466a344f832d0b11c4a1e655cfd3df736a20dd268db24850c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-858-2006-sapl-2003.md",
+      "sha256": "3b783903abedf7f4dd47cffd27bdaab63c6205e1bb44323b3e1a2fc41f752a75",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "26db06beef7f98417eced39ced50dd3fa3d65c25a85b0d252a145458c0c02986"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-856-2006-sapl-2001.md",
+      "sha256": "a59ffe063e1eae21b286914d8c066c33fc8c7ef373a341344d204a5068a57a05",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "73cfb5bcfba21f9493aa7d4d2f116cd7cd929bc04d4cac3d5d2bf5853746626c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-855-2006-sapl-1996.md",
+      "sha256": "1f1ed069f94ad4b3d4b42683a7076c0bab2c594e0e6dae5b091dcdb7f1187262",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d6bae009eebb2dbed0409504323c95186d96208b8fa438955abf49398a64270a"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-854-2006-sapl-1994.md",
+      "sha256": "2c3a46e799b1a1952585324be1107ae3b7caa131ab547487fdbef86cffb59f68",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c3eaa8b1a133fd70e18b9d572efcfe0dfddbbfb0c043530e7f32dd4cec202963"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-850-2006-sapl-1954.md",
+      "sha256": "7f69be278d7daa878a1647f9ddec61db4b98760efa7b4c4bfba8eae3f4a2104d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f2886bc57445ba574631ce509910f16d5e8059a9f313391cedd24d9895da1958"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-832-2005-sapl-1936.md",
+      "sha256": "83b4c62e882df27ae110ef6268ec2f6393a7e12d6b9adfa46594a37f4ce3e779",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "aeec73c122dc25c7e4aa634ef366cd76e08724d928410a6d64f18a31d872c5a5"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-830-2005-sapl-1934.md",
+      "sha256": "39a516d047678c40f9b344c91d8c172ffe81dac340bb3c9c66b46841548fe781",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8160f4d24dc0e1778d70a69c13d4167bcc6961ef06c72a09f5422f5b0c9282bc"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21164-2025-sapl-28051.md",
+      "sha256": "35fb091c914eff657356fffd7d812ffe61b675fd3f05e1a3037ec68b3005bb6f",
+      "aprovado": true,
+      "dispositivos_ativos": 40,
+      "historicos": 0,
+      "sha256_fonte": "bb8451a5af20027a373aff68b22f5347969a9be4d7cbf1fc9288e6a0c6e8cc25"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-827-2005-sapl-1931.md",
+      "sha256": "a29818799921b54b3dadb2726d526c396394f2f658dab65e87800e648326e84d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "26f7dc17eafb27f0e9f80ff7a26b6048ee92ce75167d65eade00b7bf52944dc5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21163-2025-sapl-28050.md",
+      "sha256": "803810f4c77907741acbde777566a602edc43f056de511e16bad0999c8b47f0e",
+      "aprovado": true,
+      "dispositivos_ativos": 40,
+      "historicos": 0,
+      "sha256_fonte": "aedfdfdab63637476bca080b1c669ca68a6918c5a918b844b4a9d9ef3a8aa3e4"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-826-2005-sapl-1930.md",
+      "sha256": "11f94addee197ac9897d3adfe08872c937afde42a02f4b0ea5f87fec03361a82",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "214f677928e77c8cc4a3dacf31e3eadcf49ace66cf67679eca331fc12c025ca7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21162-2025-sapl-28049.md",
+      "sha256": "357f2ff94bcc350f6087cd92b29269e0f950e9e0886b4420b1160210f9f24023",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "a7064cb513004e3934167b839cad4a50d5dd1fecd6b3b85df13261363aa4f184"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-824-2005-sapl-1928.md",
+      "sha256": "7665534cc62e852eb1e50ad72312799bc948fbae92f13322196f6f68d1a9129a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3743e2b116ad74d2bae83ce524a08e9cd45a2ce2018516e0d26362c3cd585cd3"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-823-2005-sapl-1927.md",
+      "sha256": "160387bf9ea7ab998feabe5b621763b752e6b746e0be670ac6e9d3dc46f5d087",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "63ac630a401ab42d1518c3d085a370e2590470d65b5e780de80d0a6f95e7d8c9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21160-2025-sapl-28044.md",
+      "sha256": "dee7e3c416d0ecfaf9a6c924118a86a3da47b97810b7b8faa05500d90af4d300",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "8caeea2cf94cebb2d690bea8aa7dab5c2aa69392dd8420d8c89b82fedf84ab3f"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-819-2005-sapl-1923.md",
+      "sha256": "8bc8dd0b1628eab331cb01875a850d76397289149d583f24563172d6543955c5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "801a65f8aa8f883376a80331445b0709544e5412681439a8b0d24b0579998327"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-825-2005-sapl-1929.md",
+      "sha256": "ba4ede740931a66d5456fd40502caee7a92ae88359d2a2bfe85031cf3d193325",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7ad88790e684779a480e1e43ac3412f8f5d0c74570f0633bfe7479af74b06674"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-811-2005-sapl-1904.md",
+      "sha256": "a8a29c057fc1c0570c69f2d9996c4c194edfcb5c19288f17c87d3d57cdc3435d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "67b7d0e5e1fcf0d5105866d69b02e0cc823b5fec0b9a0b8f59f7ab70aea07f4b"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-805-2005-sapl-1894.md",
+      "sha256": "1c7771d590fecccee0d2f756317d887701f0aaff7324001629c414e5999d67d3",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "42d64805b110acb36cb1c1cb9e60440fa031e2a5b56c093c0eb12fee77908943"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21159-2025-sapl-28043.md",
+      "sha256": "7f3f5f0ce9012fba1221926be1044c10286775ac5402915b3cbed33a0749f052",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "fc3651523abad2ff2bc5a8723b8ed37f6440b834650136c957bb7fe9ca82d668"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-804-2005-sapl-1893.md",
+      "sha256": "11aa7bd265fe0e409595417e1b87c22c564ec950f726ae13bafd4dc1b8c64b3f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f163185c3ba302b61ea941e59b1a9d8c137c23c7c0687e99565b9a45df4c37a6"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-803-2005-sapl-1889.md",
+      "sha256": "21e2b0246af36b151161ac8a5848a72e0b44283633ecdc48fbf379f6da4d07a3",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "052e4d31be4b8b767f68e8ba4a0feb341b66d9600b5749f2fd391dd227cb068a"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-794-2005-sapl-1878.md",
+      "sha256": "779d215de040222eaf674671ada8d81546d8e4b3fe04bbda58f52efa187e8a49",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "6f56d22d7b0f133845cf46ad893e1856261b2b6b2464487a55449081de7e89f1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-783-2005-sapl-1864.md",
+      "sha256": "6015ec5420c1e197ad00a036fb52d94b919153b013a4411b884882a4df4061c3",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3bd55573306abb2666fe65458ca501034c4bb1541cca0cbc7a8b162017bbbd89"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-782-2005-sapl-1862.md",
+      "sha256": "d43ab3def074e5ad7f2a16311086ea09965793883d929f01cfc0c22e16c86667",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "16241786fc77ef53cb06da69182f79f9f692819fa84913f702617f5d3e5d723f"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-778-2005-sapl-1858.md",
+      "sha256": "120c2f4969da9165e7d4668ab9437e3c7fb9ccc32a882f1145f5ed53c16c9b50",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8a8d79f05550eb30e688a4ae7dfaf96703f83a0b202ef6c1bb907d8a4da9c91b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3270-2025-sapl-28008.md",
+      "sha256": "b7c340ed53bd1e81ed76e0e0627dfeb2c94dbaf302fea10a067e8ca575524bd6",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "d20936a4746f9c6b253394c772fe4feccd00d4a154b484a6e309a15cca71a3de"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3269-2025-sapl-28007.md",
+      "sha256": "37b8826a522fd028200936e8df61c726a850370015d03fc602b426b506e130fd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4df0781d4494be22a60fe29ee5e9e2d0ca41ad5f441c3356c026a51dbad895a2"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-767-2004-sapl-1821.md",
+      "sha256": "ed91db3398b61f77811431a6960b62e9aec0a6563f6658c837e58bb69924fbaf",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "df9c9c1a7e10701982296c08a52ee26d601584151a6cfef0c1f0596733065682"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3268-2025-sapl-28006.md",
+      "sha256": "0da0790448053c4e2a13a822b02f4a5458f91fed83469a6f97520a7955db15cf",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "1111f3153a566d343036fc50621ffaffe6a1659c66943baecd0b7bb7e434ddd6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3267-2025-sapl-28005.md",
+      "sha256": "f721a1fe4e5654928aed8ea48a0a7ed60587f392a8c1280379a90cfc053fb63a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "ce6cbf26cf72fd4298d356a093f0e7762b572a8f2420ecf460d3e0353c9df978"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-755-2004-sapl-1805.md",
+      "sha256": "a3d8b1c94e5fb79962e634fdf3c091a640b415a9867d9f5b487d46b2a96b3ee6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "42c93fd1420a4db933557ede1c31984c8d49dc3ae0698ff6c30d311e10ed2a40"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-741-2004-sapl-1782.md",
+      "sha256": "6c9df763b8a4ea2b603e0dde0fad19798c0104dc294bb6d6c0ec40631ac3f6a1",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "31556cf587ce7f720b8259794603674375c00a718901063f5e71d5aed8496ac0"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-739-2004-sapl-1780.md",
+      "sha256": "a38acd77296abc4ad6c4a38ea3fdc10bf6f93d8142bb1142214f5a8482d05703",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "444166ec2b9ec9bd19a3f5948bf57df7aecd3bd6b7d74ee0447c227a3df48fc1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-730-2004-sapl-1771.md",
+      "sha256": "00b4b37688e8189aad3acfa5d004ba79ca9f426f8f2b01580bcdb9bfb460b67a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "db06ab0fe0e33d6e889bd4a6f8cefecad661a70f1550cf1b0be04913572c0a04"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-736-2004-sapl-1777.md",
+      "sha256": "ca0b02eff84e1ebd931f55a385bf67fd22aeb5051eec915ada5fa5ca2282eff5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2bf103318510a97d902ac7711aed3d79597707e5ee2aa18cca96082ce6fe27de"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-734-2004-sapl-1775.md",
+      "sha256": "ca6cb31584385ffa29fb8849bd9fc21e998c317b37b5e3f225ac004c5d3c311b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a45d9ed46489f3d08681d3d82af9ebf585d41906901fc4fd00d24c96c25d5c4c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-733-2004-sapl-1774.md",
+      "sha256": "9758097e34e0a95fdf80cb9085d0e90fd5bb25278cbeb8bdf0fe99ad1179004d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b9f0a5408dfe0bccff113ce6cdb9df40aa3271c9a2f10f0c11486aa69d229fbe"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-731-2004-sapl-1772.md",
+      "sha256": "d3e5b207323486cbcc8a729fef0259a964cf7d12be636cc2e9ba76101f5bbc2d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b871b3b96aa647f727ea73f1c5895db990910bd6a54e14532fb44fe097fcf6bb"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-728-2003-sapl-1769.md",
+      "sha256": "ee6cfe421d7c60c2da8cfca896db6eeb5e7a7a4e41574a89d5a888dba1756c94",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "dd7f64b3639b09525f9d014488c74ab5c3258fbe6ae729982cc4a2363759fe34"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-727-2003-sapl-1768.md",
+      "sha256": "bcec1adc341ac02b54c9ecfea87cf8602490e3e3957dad7e8978057cf2f0aa00",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "41d19a90190224adff584e2c04a976773611d128a1b081d51b7659a926e30595"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-709-2003-sapl-1750.md",
+      "sha256": "1c30f77205b7aece4412f227eda0bf03d3ede26308777c1f18a381c8c0aef838",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ac2b850adbb252459118c9779972a64983cac3c4a819f48ddb021faea038640c"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-658-2002-sapl-1700.md",
+      "sha256": "712b066d395800708daa7fc76f78b59ad80b8b7e2933e895be157d8925e8b9c2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5ffb853f33d416701b4bd9999868dae24e251233a198c5394244800b21ec6b9b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21120-2025-sapl-27997.md",
+      "sha256": "c0849d649e350ede6f8393d806f11c75ef064282e08c1a10644eb531fc4587a6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "07d5632b4491afb2d126069a4d559014ffe878a5d9e9a44245d47b6c54cd26d0"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-655-2002-sapl-1697.md",
+      "sha256": "967bfad8c71a530efbf843dffa2e8f67969c4ed995467e1fd04c94fa31fa2d00",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7bf672fce0818ec10877136d21f09c714bc98137ac76c590cfa7be46399097df"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21117-2025-sapl-27994.md",
+      "sha256": "aaa9506874634dcf38fbf58c1e76e655a3b2c79389480db455a384fe591dd8ed",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "67f637f8a154f94d12adf53fb2d46a68c0c08178427008deae011c8453d996f9"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-647-2002-sapl-1689.md",
+      "sha256": "7bac2d7769ad36eed5ae9b7d03a0071dd2c42d7fd226d1a5ce97dcb0f6baa701",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "deb98aa7833accd835df36d3c102358495eaec7c2407019051dfdd8550365b9b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21104-2025-sapl-27976.md",
+      "sha256": "f313821d61a1fa321f8de3a030c1e6f210785ab5ac4b0a04719c789262c78813",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "7a33ee78c366c3dfec3ee42a6c3a7c267329095f447018e0f8609ce8ac958868"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21103-2025-sapl-27975.md",
+      "sha256": "7d81b497ce70a2cc00507df26f4a09d4c86a87ee2d41e822f16fea2ead8c68ea",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "8ca6df580ccd8c1821593c395339479ade88cd9979ba187211104af7f00dfdab"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-633-2002-sapl-1675.md",
+      "sha256": "3ec749dcb0b980c6c0060001d3d974656de09ed56f0df4b2c75538e47a30bb37",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d858a6e938833446c83209ac2f05eb534b0f84113275fd1565db9dbefa165cbf"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-629-2002-sapl-1668.md",
+      "sha256": "2e6d30c302c82d282df2e052323f8bc7f169aef1ac877119a3822d16be5da3ff",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "83f41ff79fa5bea87aa988092f2d3f94e63b2cd06fa6ee2cc85626490a18d4c7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1021-2025-sapl-28116.md",
+      "sha256": "b748b6a9fe4dc04aa6a01d47c2f89155547ac1e54f9c0d739a9ccc48ccce8c04",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "15535864ef7d0e8be632fec4c0ad2a30028d885d82193d39289ca0f02667c729"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1020-2025-sapl-28115.md",
+      "sha256": "e6d585224522007610f522f9f34fe86baac827f9fab39c5fa80c6610f1a4e1cd",
+      "aprovado": true,
+      "dispositivos_ativos": 41,
+      "historicos": 0,
+      "sha256_fonte": "1cf61ccac79aadcde4fa9dced390eccc7e2e40505d17820893d35b2a265d6b89"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-610-2002-sapl-1647.md",
+      "sha256": "f477ba83a6cd2e43d14bf2d08d5336b9afecda5db99c0c57baa4bca8674983d0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "eaf72463007d48a1a8fea793fcbe057039bea3aa2a5834c619121a8e86fd3c4b"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2001/leis-ordinarias-600-2001-sapl-1637.md",
+      "sha256": "79e370a5392171850673668e5274247eb4ba17a29acbcc293a034d8ce8ccf4a6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a7a0f81cc580ba04f5abbde3c2171be61e98ebde39e74f0d7585a86484577214"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21074-2025-sapl-28011.md",
+      "sha256": "a65a31cd06af242514cd9c0d367d8701aa16554a0be1ddb6638c9f65da2b2066",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1eec6646e1a3c2b3b9c67edfc2e620cdef87d2bbe3ac64e3eadfa170dc99fb7e"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2001/leis-ordinarias-599-2001-sapl-1636.md",
+      "sha256": "8e10d9f5a5c186e86f15d0f823c05fac2be6b4691770ebc476d22bc92cedde93",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "41d0735ef0f5d6bd2ac7530bb84bb32a5dad2635f07941c7b1f631fd2e83a46f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3265-2025-sapl-27880.md",
+      "sha256": "e95d77191c1987bb67c774a07d790b0599d20ba4d5a94ba4abf17233383191eb",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "e96152229cf0637b7ff81b455daa263afbb91af34350dbfe16bd83a5e6149ea7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3264-2025-sapl-27879.md",
+      "sha256": "ffa21ce3b9ea69985a5bc219afc183a94c0eec64cf534a6d5c19007c557e4adf",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "f716cd4162e5ebe1cfd466c52a994361a6e33994b0f16415193b0a8d401a10e7"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-542-2000-sapl-1578.md",
+      "sha256": "59c5f77f82cd554453c4deab9ba5e390bc0de1ce7719a47e411140d0676d9af0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b7d22268ec9c3a05535155b13fe4d3becf4cac941be1b61df169245fe523ba04"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21053-2025-sapl-27924.md",
+      "sha256": "2ec24bac08afb43619cd25ec08a58e1867916b91eb26c45e4e8233f0f2b09aad",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "24f79915c535d48545b9cf3703dbbe11b9f2bd74c0341a9090c6553f38f90393"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-537-2000-sapl-1573.md",
+      "sha256": "e8da41f876914ed6cd89f236bf34645923fbfd4d80706e97ab5cde3abf5c7517",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "a556755d971728c9d835cb4b1ebe51cc790c965dee4e074382acc4c20c4c82e8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21052-2025-sapl-27923.md",
+      "sha256": "1f7b8b068506cffcb9209e220ec8368f158ef3f1a7e449777c8d8fa4f5d3b726",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "8952e691a8d79547a10cd810dece9809c7ffc9ac9313293be391eeb2d5aac451"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-536-2000-sapl-1572.md",
+      "sha256": "a6ac1bcb6a5ff3acec6240f0481c5601fcd93293f97507eded68d80c459ee0a1",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e3cc7772ea988db143924df593510e8bb06052df895a363b10f9db1244b48f00"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21051-2025-sapl-27918.md",
+      "sha256": "36935628778dcde366a771857dab97fe658c6823acc318407233dc35b177e1d5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8440375f34c8f0c4989567f91bf8d684dcb65653ab4ec0b17a556838125175c6"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-535-2000-sapl-1571.md",
+      "sha256": "6f0d72d82487195393b1411fb0318ff875d852b232dcc8233291cd3d9749ee43",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "eeaf548b076d156ea3231f231f5e86a98cecf362a6dedd316cd003a930327849"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-534-2000-sapl-1570.md",
+      "sha256": "ed9a38e8eace4007ad837b747b6bb6b53757ff06d710b6d24613eb86136cb051",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "976885d16e8583da064e8fc5d55b6d502671046be4db575cb621e8e3745663c6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21049-2025-sapl-27916.md",
+      "sha256": "45e2ee938b902cec0ed72b5b734cdab1dbe8ee04d7348fd31b010b8e00bd244f",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "09ba05842dc348aa70646aae50f483a5e7ace99a889c203fa1e09650f232b30e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21048-2025-sapl-27915.md",
+      "sha256": "a8b7a3f694c0596102536eb66935f37d339fdb28683b236c3c5cec73944c0aad",
+      "aprovado": true,
+      "dispositivos_ativos": 53,
+      "historicos": 0,
+      "sha256_fonte": "658f55aa7291e58d6997e30c7493149d80423e86f121d0497802d7f9b1480946"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21047-2025-sapl-27914.md",
+      "sha256": "1119d34ada530bcb35542f09ae0a651796e76fe2387237081276d0a6364c9143",
+      "aprovado": true,
+      "dispositivos_ativos": 48,
+      "historicos": 0,
+      "sha256_fonte": "7a73d9ba5455c199aae8e8d372b2347a28a1d334e18465223217f11092b6bf7c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21046-2025-sapl-27913.md",
+      "sha256": "07d93e5b4f2d89d015e96e6dc2c4dae141a010e584dc4d075d44ea6e2a1b77f0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4daa7d1a4aaa464c37bfa13bfd0300be46fce085d9a385250f35614f913ac32b"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-530-2000-sapl-1566.md",
+      "sha256": "f92426572109b1c21ece65bb0a2dcb80ef016f14cfe12493a4c82d7869dfd467",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "50bac8b5e7294b7423dab017e9e90382df02ab5ecbdf6888d3946d9c9560b485"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-521-2000-sapl-1557.md",
+      "sha256": "4454eb9eeab6292c8b64aa47dcfa9081edc1dbc232f068b5a572be38cc25962e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6143f7615fc6d5c9c0a53a46e5cb86b293c25f185a3fcfee15f1dc8a18c40158"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-519-2000-sapl-1555.md",
+      "sha256": "d7788245d32e32b8724d331f48f514beb36d5e9a8bddee59408d7dc7fb8f48f0",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "f9d11e5eeedb7c173e9e457d786cc239e4a6899105cdff840540be74650766ed"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21041-2025-sapl-27908.md",
+      "sha256": "4550afb1035e60cb1e8e1c410e6ed7d669abf1a568639164f3020f6f5b8af11a",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "3972d75f996316ebc8aa9350f4e7e42d06536060261431f0473a141cc0fe81e3"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-518-2000-sapl-1554.md",
+      "sha256": "32fedcfaaff167fc2a4a27c0553e882b8ae6294cd2aa3a2b97019c27f775ff15",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7b4bb16fce9bac36a49d68eccd7fd68a0e363c37919f6ab7b98c061020b44d8d"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-517-2000-sapl-1553.md",
+      "sha256": "8c12862a2d6991b6afb3a164939e2982878b00a6beebf630405dbacb8bfef0dc",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1b97bd1b2c1a0c265b8492e98b5217a6be63f46a8830e11a3cd350bd2c99e0c7"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-515-2000-sapl-1551.md",
+      "sha256": "01460b53dd308fed39003d2388be475e050c6bcfc838f1d303e7270f461ddc83",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "bb44a3859e72808861cc209acfed92525404bcf8cbe7c70bc8e2132f8ca69ac1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-514-2000-sapl-1550.md",
+      "sha256": "f851a21d5ee74ac2fb199721e57b9dad7d971e7fdaf87c0d9b43d12f293176ef",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "e88d0385d46108b42f9cc9c9a4be4d3889add8c71784ed8e8f5017231a22513d"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-512-2000-sapl-1548.md",
+      "sha256": "181d168cebd69cc98bb3219b156bbd6cad7c83a24b9892cb6f7e45d3a07cdeb4",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e00b319059c90ccfacb074fe7bfe1247a545a9af8ccbc3724d34b5962454b28b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3263-2025-sapl-27866.md",
+      "sha256": "ac83420901f7b9e1f88f69c9a5fa0528ffaf44c1bbd3149d7ea1f9b627841fd0",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c817c860c314c4d23dfb3f9e55af4f5ed3f160dd63d813642e1145f8323ffbb5"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-511-2000-sapl-1547.md",
+      "sha256": "4ffc694020a8371c933ee5166abdbfc10ab47e839924d247f70ffc3da2201533",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "304ddd3eb2f91a1796153ca136a62faa9c1f084cf8be4d69121361381f3b4c51"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-507-2000-sapl-1512.md",
+      "sha256": "9239471109e1b989db79120c88d26af37f7bde1e5fd901945fa910204645f406",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "a64e57ccf564f7d2cdb74d1af6055cd53d7406a9a269eac301c18745f67d0d48"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-510-2000-sapl-1515.md",
+      "sha256": "83134c351008087e74c173bd51de3fd9b962d8df0df139885a1d35372a2d017a",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "679ee7ebd8681feb86634c00b0bf6443b09b1c878978021606b440d0c373ad30"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-508-2000-sapl-1513.md",
+      "sha256": "a60e0769170744de335b2a92c324e7e3075c6e099a1585a6fbaff56fecb71b0a",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "07237a935dd7683e7ae1f884c8673b3035513d83629f68224121940e8e3b58d2"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-509-2000-sapl-1514.md",
+      "sha256": "3846530618f09f14924fd831e3b8faffdb62256764b1e32d84be055412bdf544",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "90fe2195a7757b5c44d816df4f0fcb521896f876f8ab94aab9a566e4b1acfb3c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21026-2025-sapl-27892.md",
+      "sha256": "a69051e8a75e61d6cb257c389a951fb1e9de59ed4aa581a1564ccec2c726394f",
+      "aprovado": true,
+      "dispositivos_ativos": 56,
+      "historicos": 0,
+      "sha256_fonte": "395fba8a773e13df9d74c6db01a061d3b62c971b6eb08b8cb04937a84e3772f0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21022-2025-sapl-27862.md",
+      "sha256": "162bb62db3eaecd540489577fdeada33901a0216ce5929d63f20bad91d2782dd",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "abe32578f9f89fd8a5aa74f75caf8b1f7c4c751357615973920a9b6e22901f50"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-500-1999-sapl-1505.md",
+      "sha256": "e1d23a1de10551c89e4057313b6ca106585d8ec439d575d3deb967301cea437a",
+      "aprovado": true,
+      "dispositivos_ativos": 40,
+      "historicos": 0,
+      "sha256_fonte": "55e8627392d0d2a5b9bdbf46e0614f2deaafebbd1daad3ba64bd322975d6b85c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21016-2025-sapl-27834.md",
+      "sha256": "738673066200b522e795c41dd40b38602d52ba66ed7a0018a4b4c78ed46af330",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "64a9e3d543761a5a59f2f74b8cbd322eb1366dc3c1a43835edb6bdf626fc4b62"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21015-2025-sapl-27833.md",
+      "sha256": "2928a68d9b39b60336c05ed6fdbcec4e72a343130f21e59ec1bb90ec1daabd39",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "0394de00e60d326b5b89e95b029eea9e8aa32033ff1d81a552aaf86d6bd049e0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3260-2025-sapl-27809.md",
+      "sha256": "da5e532313960f88b2a5705b0d37874ba2fd11b2ec5e1ac66b0cd4bea045b0af",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5358059f3ba6b35b3cdc6f30d8e644dcd3744a031d03689c29983a3ed9111f63"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-479-1999-sapl-1476.md",
+      "sha256": "d7d419bd5a223314c0485fbb7182ef0993dc3229f07074cbf84ce76586d6593c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a899c5ffd654134f5ec3272f39cfc1aec9dee9c724dce4b41d2422a201e8ec02"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3259-2025-sapl-27810.md",
+      "sha256": "596d5693e7dc4466c5ff1018b40e4a236420588a5777190096fa982c3cc53bb3",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "81018dc7cf3f104126777a9f1982309bba151fe4a13f494fb0480acd59e54b59"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-478-1999-sapl-1474.md",
+      "sha256": "7d576d7aaba6b0c5d4d3fd1e9f7767d19adf07e7fe359fd02ab65c39e644d360",
+      "aprovado": true,
+      "dispositivos_ativos": 96,
+      "historicos": 0,
+      "sha256_fonte": "d4c2a8e7e90e946947ce58bd5d11d6ebb9d45fa0e7b68777b0cf3d62b903966e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3258-2025-sapl-27811.md",
+      "sha256": "44f9eedf744f0a04c5538c35491b11b845f65038f11a7618ec8620e646fb6e77",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "4c9247389941c338bda539d2bf83407eebeb8ca173287f715892f38cfbbfb4f9"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-476-1999-sapl-1471.md",
+      "sha256": "164659bca7d34fbfa67891c6b0c406e70690e2ac762ca117cd95a6306752ed38",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "269d7de6ac2c2fd67a4847b830b2e464258d85a238a444cb24468ead4c48ef17"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3257-2025-sapl-27812.md",
+      "sha256": "ce215f9be46b83bbb1064272f7f44f2853e60e4357cdd7c319577129462c6816",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f492154dd67d87f7de892df7f8ba68fea99667f31a2a3b7335e4376069e9ded1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-475-1999-sapl-1470.md",
+      "sha256": "cbccdfc5c7ebb8b983986f2f3d16e5d88b6a85199d8cb67e664b440c0f384cb7",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c70ecbe62356e6f39e22f2e34536dbcf2d271cc60ccebc2384480110dde4df85"
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/1999/resolucoes-94-1999-sapl-2777.md",
+      "sha256": "2cbd26592bf68512bff17eb8f144f7f20e5ac578bea056506cf25a63447f2c7c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6dcfeeaa353f19c1bb0ddf1adc4c222e373f5ca04c1bdc34ddee9d13be8151d1"
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-474-1999-sapl-1469.md",
+      "sha256": "c0784858021b27d13ce148e937c8947fcbf8855e5b29517b56c643d3867d0c91",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "03a1fdda86b74087fdb761c7986c83dc4e661d3ab7bcbaae628c147ef67b7087"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "aplicado": true,
+  "plano": "municipais/_referencias/auditorias/tachados-2los-contexto-20261020/plano-revisado.json",
+  "plano_sha256": "5b1f7fc4b5e21e928c36b6234cfd4ff9d74aecac45cbb8f8a66aa4ecefd527ec",
+  "script_sha256": "d18ea9cf7cd91b8e6b06999a3615427b3f10584a8f6448937d844d1f4fbb02d9",
+  "documentos": [
+    {
+      "documento": "municipais/CE/eusebio/lei-organica/2008/lei-organica-1-2008-sapl-2089.md",
+      "sha256_anterior": "2028eddbf6b902ca5f2f48df23752f55a4b2846d686f7f872f561e2549397f18",
+      "sha256_novo": "816ba8bcf0b6f118f0cf2d7388501e249ed088e803466cd2a03037b65584bc37",
+      "backup": "municipais/_lotes/20261020-tachados-2los-corrigidos/backup/2028eddbf6b902ca5f2f48df23752f55a4b2846d686f7f872f561e2549397f18.md",
+      "trechos": 7,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/RO/sao-miguel-do-guapore/lei-organica/1990/lei-organica-1-1990-sapl-9.md",
+      "sha256_anterior": "494117040861446b161d454e2028b344670eb0c76c49ce130aa8367591033550",
+      "sha256_novo": "18d381561def47ae9dabb09e046c4826437b4fb034b09013634067e77d2a9be4",
+      "backup": "municipais/_lotes/20261020-tachados-2los-corrigidos/backup/494117040861446b161d454e2028b344670eb0c76c49ce130aa8367591033550.md",
+      "trechos": 2,
+      "corpo_anterior_recuperavel_exatamente": true
+    }
+  ],
+  "limite": "Identifica somente a marca gráfica revisada; não infere revogação, efeitos ou vigência jurídica integral."
+}

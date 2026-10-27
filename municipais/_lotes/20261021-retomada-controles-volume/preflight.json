@@ -1,0 +1,35 @@
+[
+  {
+    "host": "sapl.portovelho.ro.leg.br",
+    "origem": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br",
+    "pares": 10190,
+    "erros": [],
+    "linhas_completas": 5180,
+    "bytes_journal": 17569547,
+    "bytes_prefixo": 17569547,
+    "sha256_journal": "0b32df198037dec5dd2081a587c9dc8f263940b0f35cf5c03ad7da101fc11859",
+    "checkpoint_valido": true
+  },
+  {
+    "host": "sapl.agudo.rs.leg.br",
+    "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.agudo.rs.leg.br",
+    "pares": 3148,
+    "erros": [],
+    "linhas_completas": 2097,
+    "bytes_journal": 4919894,
+    "bytes_prefixo": 4919894,
+    "sha256_journal": "631503958ddf7565b352c3a16be74935a5039d10cced2e34a3c818ce7f002d70",
+    "checkpoint_valido": true
+  },
+  {
+    "host": "sapl.amontada.ce.leg.br",
+    "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amontada.ce.leg.br",
+    "pares": 2012,
+    "erros": [],
+    "linhas_completas": 1024,
+    "bytes_journal": 3204208,
+    "bytes_prefixo": 3204208,
+    "sha256_journal": "650c3a6ae8f7fa20132e8cd0a0d3cb197255bc2ba683d4c412146a92bd629d97",
+    "checkpoint_valido": true
+  }
+]
