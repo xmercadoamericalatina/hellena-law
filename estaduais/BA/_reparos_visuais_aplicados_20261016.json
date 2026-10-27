@@ -1,0 +1,56 @@
+{
+  "aplicado_em": "2026-10-16T02:06:44.805043",
+  "manifesto_proposta_preservado": {
+    "path": "estaduais/BA/_reparos_visuais_propostos_20261016.json",
+    "sha256": "6377d98df63d71fc61002e19f21c127f97fcee229354caffd780c38ec23239a8"
+  },
+  "fora_lote_estadual_v2": true,
+  "casos": [
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-22326-de-11-de-outubro-de-2023.md",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22326-de-11-de-outubro-de-2023",
+      "source_sha256": "42205716cbc7de6bf3e5672ebcdb252ec32d8f2380ac32f87ae402a9e4b83cd2",
+      "old_sha256": "cfc2cd922c24ed9d1572771dbc305afa20b18776734f97dfb295475117e0ae67",
+      "new_sha256": "8504ccebc751832dd7a9ad47e83cadb4a156e579ffad87fe976a780f65e3f314",
+      "candidate": "estaduais/BA/_indice/_reparos-visuais-20261016/candidatos/estaduais/BA/decretos/2023/decreto-no-22326-de-11-de-outubro-de-2023.md",
+      "snapshot": "estaduais/BA/_indice/_reparos-visuais-20261016/snapshots/estaduais/BA/decretos/2023/decreto-no-22326-de-11-de-outubro-de-2023.md",
+      "asset": "estaduais/BA/_ativos_visuais/59325674ac9e310f0b2d15347ff56b3f3e2db97611d414ffd99d1b971f5c0b18.png",
+      "asset_sha256": "59325674ac9e310f0b2d15347ff56b3f3e2db97611d414ffd99d1b971f5c0b18",
+      "evidencia_visual": "Desenho oficial da Medalha Mérito da Inteligência de Segurança Pública, frente e verso, com medidas",
+      "transformacoes": "recupera imagem PNG literal do cache; insere no ponto após legenda/anexo; remove somente fragmentoHTML final escapado não normativo; sem transcrição numérica/OCR",
+      "aplicado": true,
+      "dimensoes_png": [
+        640,
+        360
+      ],
+      "conferencia": "imagem oficial exibida e conferida; SHAdecodificado igualPNGpreservado",
+      "estado": "proposta separada; MD canônico não alterado",
+      "candidate_body_sha256": "0be6d900c0dc842d909bf3e9c8837e0fe97435dfc6b0be6e28536cc595434abf",
+      "revisao_root": "imagem oficial visualizada; base64 idêntico ao PNG; posição/links/texto preservados; tabela não transcrita por OCR"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-23304-de-27-de-dezembro-de-2024.md",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-23304-de-27-de-dezembro-de-2024",
+      "source_sha256": "105c9f3367f7bb2a25dc511f9a20435778a86d2b17f41c1324abb3f2ccede680",
+      "old_sha256": "bcdd78b3c8134258cdc0aa48cd2c55cbf8e831d49b6f43e8508c6be6a7429a78",
+      "new_sha256": "adb77882e9bc9541d13a22f9ff57a1d9715de5a913752305da0c5652497306e9",
+      "candidate": "estaduais/BA/_indice/_reparos-visuais-20261016/candidatos/estaduais/BA/decretos/2024/decreto-no-23304-de-27-de-dezembro-de-2024.md",
+      "snapshot": "estaduais/BA/_indice/_reparos-visuais-20261016/snapshots/estaduais/BA/decretos/2024/decreto-no-23304-de-27-de-dezembro-de-2024.md",
+      "asset": "estaduais/BA/_ativos_visuais/01be50d99b5034c4b2a9d1f4d9161b7b41f60d548d92e4b82d4024a92129908b.png",
+      "asset_sha256": "01be50d99b5034c4b2a9d1f4d9161b7b41f60d548d92e4b82d4024a92129908b",
+      "evidencia_visual": "Tabela oficial de coordenadas dos vértices 1 a 18; SIRGAS 2000, Fuso 24",
+      "transformacoes": "recupera imagem PNG literal do cache; insere no ponto após legenda/anexo; remove somente fragmentoHTML final escapado não normativo; sem transcrição numérica/OCR",
+      "aplicado": true,
+      "dimensoes_png": [
+        254,
+        371
+      ],
+      "conferencia": "imagem oficial exibida e conferida; SHAdecodificado igualPNGpreservado",
+      "pendencia_textual": "Tabela original254x371; OCRPortuguês Tesseract psm6 insuficiente para números; coordenadas não transcritas nem inferidas. Imagem exata preservada.",
+      "estado": "proposta separada; MD canônico não alterado",
+      "candidate_body_sha256": "a31283a93bbd410e34f02c9daa5998f5ad7e210e5b60a12436abe121a5bc79df",
+      "revisao_root": "imagem oficial visualizada; base64 idêntico ao PNG; posição/links/texto preservados; tabela não transcrita por OCR"
+    }
+  ],
+  "limites": "Imagens oficiais exatas preservadas; tabela não possui transcrição numérica. Recursos visuais restantes continuam pendentes."
+}

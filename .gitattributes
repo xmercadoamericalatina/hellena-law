@@ -1,0 +1,16 @@
+# Snapshots oficiais: preservar bytes, codificação e quebras de linha para SHA-256.
+/fonte/*.htm -text -whitespace
+/municipais/_fonte/**/*.html -text -whitespace
+/municipais/_fonte/**/*.bin -text -whitespace
+/municipais/_lotes/20261020-curitiba-lo/bloco-alterado.html -text -whitespace
+/municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/dn*.html -text -whitespace
+/federal/_provas_modelo7420_20261021_001/*.pdf binary
+/federal/_provas_modelo7648_20261021_002/*.pdf binary
+/federal/_provas_modelo245_20261021_003/*.pdf binary
+/federal/_provas_modelos_clbr_20261021_004/*.pdf binary
+
+/federal/_provas_modelo45568_clbr_20261021_005/*.pdf binary
+
+/federal/_provas_modelo59595_clbr_20261021_006/*.pdf binary
+
+/federal/_provas_modelo55551_clbr_20261021_007/*.pdf binary

@@ -1,0 +1,38 @@
+---
+titulo: "DECRETO LEGISLATIVO nº 454, de 28 de outubro de 2014"
+uf: "AL"
+tipo: "Decreto Legislativo"
+numero: "454"
+data: 2014-10-28
+ementa: "DISPÕE SOBRE A APROVAÇÃO DAS CONTAS DO GOVERNO DO ESTADO RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2011."
+publicacao: "DOE"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.al.leg.br/norma/316"
+arquivo: "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2014/316/316_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO LEGISLATIVO nº 454, de 28 de outubro de 2014
+
+PUBLICADO NO DOE DE 21/112014
+
+ESTADO DE ALAGOAS ASSEMBLÉIA LEGISLATIVA ESTADUAL
+
+DECRETO LEGISLATIVO Nº 454, DE 28 DE OUTUBRO DE 2014.
+
+DISPÕE SOBRE A APROVAÇÃO DAS CONTAS DO GOVERNO DO ESTADO RELATIVAS AO EXERCÍCIO FINANCEIRO DE 2011. .
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA FAZ SABER QUE O PODER LEGISLATIVO decreta e promulga o seguinte Decreto Legislativo:
+
+Art. 1º- Ficam aprovadas as Contas do Governo do Estado, relativas ao exercício financeiro de 2011.
+
+Art. 2º- Este Decreto Legislativo entrará em vigor na data de sua publicação.
+
+SALA DAS SESSÕES DA ASSEMBLÉIA LEGISLATIVA ESTADUAL, em Maceió, 28 de outubro de 2014.
+
+Dep. FERNANDO TOLEDO Presidente
+
+PUBLICADO NA SECRETARIA DA ASSEMBLÉIA LEGISLATIVA ESTADUAL, em Maceió, 28 de outubro de 2014.
+
+LUCIANO SURUAGY DO AMARAL FILHO Diretor Geral
+
+PALÁCIO TAVARES BASTOS Praça D. Pedro II s/n – Centro – CEP – 57.020-908 – Maceió - Alagoas

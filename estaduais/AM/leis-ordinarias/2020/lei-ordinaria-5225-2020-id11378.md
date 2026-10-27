@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 5.225, de 03 de setembro de 2020"
+uf: "AM"
+tipo: "Lei Ordinária"
+numero: "5225"
+data: 2020-09-03
+ementa: "REVOGA O § 3º DO ART. 15 DA LEI N. 4.415, DE 29 DE DEZEMBRO 2016 QUE “DISPÕE SOBRE A GESTÃO DE FLORESTAS EM ÁREAS DE DOMÍNIO DO ESTADO PARA PRODUÇÃO SUSTENTÁVEL; INSTITUI NA ESTRUTURA DA SECRETARIA DE ESTADO DO MEIO AMBIENTE – SEMA A SECRETARIA EXECUTIVA ADJUNTA DE GESTÃO FLORESTAL – SEAGF; CRIA O FUNDO ESTADUAL DE DESENVOLVIMENTO FLORESTAL – FEDF E DÁ OUTRAS PROVIDÊNCIAS” E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "34.326"
+fonte: "https://sapl.al.am.leg.br/norma/11378"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2020/11378/5225.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 5.225, de 03 de setembro de 2020
+
+LEI N. 5.225, DE 5 DE SETEMBRO DE 2020.
+
+ALTERA, na forma que especifica, a
+
+Lei n. 4.415, de 29 de dezembro de 2016 que “DISPÕE sobre a gestão de florestas situadas em áreas de domínio do Estado para produção sustentável; INSTITUI na estrutura da Secretaria de Estado do Meio Ambiente - SEMA a Secretaria Executiva Adjunta de Gestão Florestal - SEAGF; CRIA o Fundo Estadual de Desenvolvimento Florestal - FEDF e dá outras providências”.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+**Art. 1.º** O caput do artigo 19, o caput do artigo 26, o caput do artigo 27, o caput e os §§ 1.º a 5.º do artigo 50, o caput e os §§ 1.º e 2.º do artigo 51, o artigo 52, o caput e o parágrafo único do artigo 57, o inciso VIII do parágrafo único do artigo 61, e o artigo 64 da Lei n. 4.415, de 29 de dezembro de 2016, passam a vigorar com a seguinte redação: “Art. 19. As licitações para concessão florestal observarão os termos desta Lei e da Lei Federal n. 13.303, de 30 de junho de 2016, respeitados os princípios da legalidade, moralidade, publicidade, igualdade, do julgamento por critérios objetivos e da vinculação ao instrumento convocatório.” “Art. 26. Além de outros requisitos previstos na Lei Federal n. 13.303, de 30 de junho de 2016, exige-se para habilitação nas licitações de concessão florestal a comprovação de ausência de: (...)” “Art. 27. O edital será elaborado pelo órgão gestor da concessão, observados os critérios e as normas gerais da Lei Federal n. 13.303, de 30 de junho de 2016, e conterá, especialmente: (...)” “Art. 50. A inexecução total ou parcial do contrato acarretará, a critério do órgão gestor da concessão, a suspensão contratual, rescisão da concessão e a aplicação das sanções contratuais e a execução das garantias, sem prejuízo da responsabilidade civil por danos ambientais previstos na Lei n.
+
+6.938, de 31 de agosto de 1981, e das devidas sanções nas esferas administrativa e penal.
+
+**§ 1.º** A suspensão da concessão poderá ser efetuada, unilateralmente, pelo órgão gestor da concessão, quando:
+
+I – o contratado descumprir cláusulas contratuais ou disposições legais e regulamentares concernentes à concessão;
+
+II – o contratado descumprir o PMFS, de forma que afete elementos essenciais de proteção do meio ambiente e a sustentabilidade da atividade;
+
+III – o contratado paralisar a execução do PMFS por prazo maior que o previsto em contrato, ressalvadas as hipóteses decorrentes de caso fortuito ou força maior, ou as que, com anuência do órgão gestor da concessão, visem à proteção ambiental;
+
+IV – (...);
+
+V – o contratado perder as condições econômicas, técnicas ou operacionais para manter a regular execução do PMFS;
+
+VI – o contratado não cumprir as penalidades impostas por infrações, nos devidos prazos;
+
+VII – o contratado não atender a notificação do órgão gestor da concessão no sentido de regularizar o exercício de suas atividades;
+
+VIII – o contratado for condenado em sentença transitada em julgado por crime contra o meio ambiente ou a ordem tributária, ou por crime previdenciário;
+
+IX – ocorrer fato superveniente de relevante interesse público que justifique a rescisão, mediante instrumento autorizativo específico, com indenização das parcelas de investimento ainda não amortizadas vinculadas aos bens reversíveis que tenham sido realizados; e
+
+X – o contratado submeter trabalhadores a condições degradantes de trabalho ou análogas à de escravo ou explorar o trabalho de crianças e adolescentes.”
+
+**§ 2.º** A rescisão do contrato de concessão deverá ser precedida da verificação de processo administrativo, nos moldes da Lei Federal n. 13.303, de 30 de junho de 2016, assegurado o direito de ampla defesa.
+
+**§ 3.º** Não será instaurado processo administrativo de inadimplência antes da notificação do contratado e a fixação de prazo para correção das falhas e transgressões apontadas.
+
+**§ 4.º** Instaurado o processo administrativo e comprovada a inadimplência, a rescisão será efetuada por ato do órgão gestor da concessão, sem prejuízo da responsabilização administrativa, civil e penal.
+
+**§ 5.º** Rescindido o contrato de concessão, não resultará ao órgão gestor da concessão qualquer responsabilidade em relação a encargos, ônus, obrigações ou compromissos com terceiros ou com empregados do contratado. (...)” “Art. 51. Desistência é o ato formal, irrevogável e irretratável pelo qual o contratado manifesta seu desinteresse pela continuidade da concessão.
+
+**§ 1.º** A desistência é condicionada à aceitação expressa da Agência de Desenvolvimento Sustentável do Amazonas - ADS, e dependerá de avaliação prévia do órgão competente para determinar o cumprimento ou não do PMFS, devendo assumir o desistente o custo dessa avaliação e, conforme o caso, as obrigações emergentes.
+
+**§ 2.º** A desistência não desonerará o contratado de suas obrigações com terceiros. ” “Art. 52. O contrato de concessão poderá ser rescindido por iniciativa do contratado, no caso de descumprimento das normas contratuais pelo contratante, mediante ação judicial especialmente intentada para esse fim. ” “Art. 57. Compete ao órgão estadual ligado ao SISNAMA, o controle, monitoramento e fiscalização ambiental das atividades, nas áreas concedidas em suas respectivas atribuições: (...)
+
+**Parágrafo único.** O órgão referido no caput deste artigo atuará, de forma colaborativa, com os outros órgãos do SISNAMA, para a fiscalização e proteção das florestas estaduais, podendo firmar convênios ou acordos de cooperação. ” “Art. 61. (...)
+
+**Parágrafo único.** (...)
+
+VIII - conhecer e julgar os recursos em procedimentos administrativos; (...)” “Art. 64. Fica o Poder Executivo autorizado a dotar o órgão gestor da concessão dos meios necessários à execução das suas atribuições nas concessões florestais.”
+
+**Art. 2.º** Fica incluído o § 3.º ao art. 53 da Lei n. 4.415, de 29 de dezembro de 2016, com a seguinte redação: “Art. 53. (...) (...)
+
+**§ 3.º** Haverá realização de consulta prévia, livre e informada, nos termos do Decreto n. 5.051/2004, nas unidades de conservação em que haja povos e comunidades tradicionais.”
+
+**Art. 3.º** Ficam revogados o § 3.º do artigo 15 e os §§ 1.º e 2.º do artigo 19 da Lei n. 4.415, de 29 de dezembro de 2016.
+
+**Art. 4.º** O Poder Executivo promoverá, por meio da Casa Civil, no prazo de 90 (noventa) dias, a republicação da Lei n. 4.415, de 29 de dezembro de 2016, com texto consolidado em face das disposições desta Lei.
+
+**Art. 5.º** Esta Lei entra em vigor na data da sua publicação.

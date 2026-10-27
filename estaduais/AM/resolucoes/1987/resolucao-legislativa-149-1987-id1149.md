@@ -1,0 +1,38 @@
+---
+titulo: "Resolução Legislativa nº 149, de 22 de setembro de 1987"
+uf: "AM"
+tipo: "Resolução"
+numero: "149"
+data: 1987-09-22
+ementa: "AUTORIZA a doação dos bens inservíveis relacionados no Processo nº 1083/87-DG e dá outras providências. (REPUBLICADA em 01.10.87 - 09.10.87 )"
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: ""
+fonte: "https://sapl.al.am.leg.br/norma/1149"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1987/1149/1149_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Resolução Legislativa nº 149, de 22 de setembro de 1987
+
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS RESOLUÇÃO LEGISLATIVA Nº 149/1987 de 22/09/1987
+
+Ementa: AUTORIZA a doação dos bens inservíveis relacionados no Processo nº 1083/87-DG e dá outras providências. (REPUBLICADA em 01.10.87 - 09.10.87 )
+
+Texto:
+
+A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma do que estabelece a alínea “i”, do inciso I, do artigo 12, da Resolução Legislativa nº 103, de 10 de de-zembro de 1980 - Regimento Interno -, faz saber aos que a presente virem que promulga a seguinte
+
+RESOLUÇÃO LEGISLATIVA:
+
+**Art. 1º** - Fica Assembléia Legislativa do Estado autorizada a doar, à Prefeitura de Santa Isabel do Rio Negro, os bens relacionados no anexo, considerados inservíveis ao uso do Poder Legislativo.
+
+**Art. 2º** - Revogam-se as disposições em contrário.
+
+**Art. 3º** - Esta Resolução Legislativa entrará em vigor na data de sua publicação.
+
+## ANEXO I
+
+RELAÇÃO DO MATERIAL INSERVÍVEL
+
+01 – 02 Mesas em Madeira S/PL; 02 – 06 Cadeiras fixas s/braços S/PL; 03 – 01 Poltrona Fixa c/braços S/PL; 04 – 01 Máquina de escrever marca OLIVETTI PL – 0766.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife) - nº 3.950,Edifício José de Jesus Lins de Albuquerque Parque Dez - Manaus - Amazonas CEP 69.050-030 Fone: (+55) (092) 3183-4444 CNPJ: 04.530.820/0001-46

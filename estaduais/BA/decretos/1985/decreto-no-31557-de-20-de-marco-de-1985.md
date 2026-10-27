@@ -1,0 +1,33 @@
+---
+titulo: "Decreto nº 31557, de 20/03/1985"
+uf: "BA"
+tipo: "Decreto"
+numero: "31557"
+data: 1985-03-20
+ementa: "Denomina de \"POSTO FISCAL FERNANDO PRESÍDIO\", o Posto Fiscal da Secretaria da Fazenda localizado no Km 08 da BR 407, Município de Juazeiro, e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-31557-de-20-de-marco-de-1985"
+baixado_em: 2026-10-16
+---
+# Decreto nº 31557, de 20/03/1985
+
+DECRETO Nº 31.557 DE 20 DE MARÇO DE 1985
+
+Denomina de "POSTO FISCAL FERNANDO PRESÍDIO", o Posto Fiscal da Secretaria da Fazenda localizado no Km 08 da BR 407, Município de Juazeiro, e dá outras providências.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,
+
+D E C R E T A
+
+**Art. 1º** - Fica denominado de "POSTO FISCAL FERNANDO PRESÍDIO" o Posto Fiscal da Secretaria da Fazenda localizado no Km 08 da BR 407, Município de Juazeiro.
+
+**Art. 2º** - Este Decreto entrara em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 20 de março de 1985.
+
+JOÃO DURVAL CARNEIRO
+
+Governador
+
+BENITO GAMA SANTOS

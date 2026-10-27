@@ -1,0 +1,11 @@
+# originais baixados (27 GB) e índices: reproduzíveis pelos scripts, não versionados
+_fonte/
+_indice/
+_referencias/
+_log*.txt
+.DS_Store
+scripts/bin/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp

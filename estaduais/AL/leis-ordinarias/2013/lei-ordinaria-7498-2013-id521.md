@@ -1,0 +1,104 @@
+---
+titulo: "LEI ORDINARIA nº 7.498, de 14 de junho de 2013"
+uf: "AL"
+tipo: "Lei Ordinária"
+numero: "7498"
+data: 2013-06-14
+ementa: "ALTERA A LEI ESTADUAL Nº 7.407, DE 23 DE AGOSTO DE 2012, QUE INSTITUIU A COMISSÃO ESTADUAL DA VERDADE, NO ÂMBITO DO ESTADO DE ALAGOAS, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.al.leg.br/norma/521"
+arquivo: "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2013/521/521_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# LEI ORDINARIA nº 7.498, de 14 de junho de 2013
+
+LEI Nº 7.498, DE 14 DE JUNHO DE 2013.
+
+ALTERA A LEI ESTADUAL Nº 7.407, DE 23 DE AGOSTO DE 2012, QUE INSTITUIU A COMISSÃO ESTADUAL DA VERDADE, NO ÂMBITO DO ESTADO DE ALAGOAS, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** A Comissão Estadual da Verdade, criada pela Lei Estadual nº 7.407, de 23 de agosto de 2012, fica redenominada para Comissão Estadual da Memória e Verdade Jayme Miranda, vinculando-se à Secretaria de Estado da Mulher, da Cidadania e dos Direitos Humanos – SEMCDH.
+
+**Art. 2º** Os dispositivos adiante indicados da Lei Estadual nº 7.407, de 23 de agosto de 2012, passam a vigorar com a seguinte redação:
+
+I – os §§ 1º e 2º do art. 1º:
+
+“Art. 1º Institui a Comissão Estadual da Memória e Verdade Jayme Miranda, no âmbito do Estado de Alagoas, que tem por finalidade acompanhar e subsidiar a Comissão Nacional da Verdade nos exames e esclarecimentos às graves violações de direitos humanos praticadas, no período previsto no art. 8º do Ato das Disposições Constitucionais Transitórias da Constituição Federal, contribuindo, assim, para a efetivação do direito à memória e à verdade histórica.
+
+**§ 1º** A Comissão terá prazo de funcionamento de 2 (dois) anos para conclusão dos trabalhos, contados da data de sua instalação.
+
+**§ 2º** A Comissão será considerada extinta após a publicação do relatório circunstanciados das atividades.” (NR)
+
+II – o art. 3º:
+
+“Art. 3º A Comissão Estadual da Memória e Verdade Jayme Miranda, composta de forma pluralista, será integrada por 7 (sete) membros, designados por decreto do Governador do Estado de Alagoas, entre brasileiros de reconhecida idoneidade e conduta ética, identificados com a defesa da democracia e da institucionalidade constitucional, respeitando os direitos humanos.
+
+**§ 1º** Não poderão participar da Comissão Estadual da Memória e Verdade Jayme Miranda aqueles que:
+
+I – exerçam cargos executivos em agremiação partidária; e
+
+II – estejam no exercício de cargo em comissão ou função de confiança em qualquer esfera do Poder Público.
+
+**§ 2º** Os membros serão designados para mandato de 2 (dois) anos, podendo ser reconduzidos um única vez, por igual período, até o término dos trabalhos da Comissão.
+
+**§ 3º** A participação na Comissão Estadual da Memória e Verdade Jayme Miranda será considerada serviço público relevante, não fazendo jus seus integrantes ao recebimento de remuneração” (NR)
+
+III – os §§ 4º e 5º do art. 5º:
+
+“Art. 5º Para execução dos objetivos previstos no art. 4º, a Comissão Estadual da Memória e Verdade Jayme Miranda poderá:
+
+(...)
+
+**§ 4º** É dever dos servidores públicos estaduais civis e militares colaborar com a
+
+**§ 5º** Qualquer pessoa que demonstre interesse em esclarecer situação de fato revelada ou declarada para Comissão Estadual da Memória e Verdade Jayme Miranda poderá solicitar ou prestar informações para fins de estabelecimento da verdade.” (AC)
+
+IV – o art. 7º:
+
+“Art. 7º A Comissão Estadual da Memória e Verdade Jayme Miranda atuará de forma articulada e integrada com os órgãos públicos e instituições e organizações da sociedade civil, especialmente com:
+
+I – o Ministério Público Federal e Estadual;
+
+II – a Comissão Nacional da Verdade, criada pela Lei Federal nº 12.528, de 18 de novembro de 2011;
+
+III – o Arquivo Público Estadual e Nacional;
+
+IV – a Comissão de Anistia, criada pela Lei Federal nº 10.559, de 13 de novembro de 2002;
+
+V – as Universidades sediadas no Estado de Alagoas;
+
+VI – a Comissão Especial sobre Mortos e Desaparecidos Políticos, criada pela
+
+Lei Federal nº 9.140, de 4 de dezembro de 1995;
+
+VII – a Secretaria da Mulher, da Cidadania e dos Direitos Humanos do Estado de Alagoas; e
+
+VIII – as Secretarias Municipais de Direitos Humanos ou assemelhadas.” (NR)
+
+V – o art. 8º:
+
+“Art. 8º Poderá ser designado como membro da Comissão o servidor ocupante de cargo efetivo e o empregado permanente do Estado e dos Municípios.
+
+**§ 1º** A designação de servidor público estadual da administração direta ou indireta implicará a dispensa das atribuições do cargo exercido.
+
+**§ 2º** O servidor público ocupante de cargo efetivo, designado como membro da Comissão, manterá a remuneração que percebe no órgão de origem.
+
+**§3º** Os membros da Comissão farão jus a passagens e diárias quando necessário o deslocamento para atender às necessidades da Comissão em atividades fora do local de domicílio, correndo as despesas a cargo da Secretaria de Estado da Mulher, da Cidadania e dos Direitos Humanos.” (NR)
+
+**Art. 3º** Compete ao Gabinete Civil as ações de reparação simbólica e produção do conhecimento sobre temáticas da Comissão Estadual da Memória e Verdade Jayme Miranda.
+
+**Art. 4º** Deve ser encaminhada ao Arquivo Público do Estado de Alagoas e ao Arquivo Nacional cópia de todo o acervo documental e de multimídia resultante dos trabalhos da Comissão Estadual da Memória e Verdade Jayme Miranda.
+
+**Art. 5º** A Secretaria de Estado da Mulher, da Cidadania e dos Direitos Humanos dará suporte técnico, administrativo e financeiro necessário ao desenvolvimento das atividades da
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 7º** Revogam-se as disposições em contrário.
+
+PALÁCIO REPÚBLICA DOS PALMARES, em Maceió, 14 de junho de 2013, 197º da Emancipação Política e 125º da República.
+
+TEOTONIO VILELA FILHO Governador
+
+Este texto não substitui o publicado no DOE do dia 17.06.2013.

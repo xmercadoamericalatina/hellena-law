@@ -1,0 +1,64 @@
+---
+titulo: "Lei Ordinária nº 421, de 22 de janeiro de 1971"
+uf: "AC"
+tipo: "Lei Ordinária"
+numero: "421"
+data: 1971-01-22
+ementa: "“AUTORIZA O PODER EXECUTIVO A ALTERAR A DENOMINAÇÃO DA FUNDAÇÃO CENTRO UNIVERSITÁRIO DO ACRE, PARA FUNDAÇÃO UNIVERSIDADE DO ACRE.”"
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: ""
+fonte: "https://sapl.al.ac.leg.br/norma/1420"
+arquivo: "https://sapl.al.ac.leg.br/media/sapl/public/normajuridica/1971/1420/1420_texto_integral.doc"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 421, de 22 de janeiro de 1971
+
+**LEI N. 421, DE 22 DE JANEIRO DE 1971**
+
+**“Autoriza o Poder Executivo a alterar a denominação da Fundação Centro Universitário do Acre, para Fundação Universidade do Acre.”**
+
+**O GOVERNADOR DO ESTADO DO ACRE**
+
+**FAÇO SABER** que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** A Fundação Centro Universitário do Acre, criada pela Lei n. 318, de 3 de março de 1970, passa a denominar-se Fundação Universidade do Acre.
+
+**Art. 2º** Os arts. 3º, 5º, 6º, 7º, 9º, 10, 11, 13, 15 e 16 da Lei de que trata o artigo anterior, passarão a ter a seguinte redação:
+
+**“Art. 3º** A Fundação terá por objetivo implantar e manter a Universidade do Acre, instituição de pesquisas e estudos em todos os ramos do saber, bem como divulgação científica, técnica e cultural, que agregará todos os estabelecimentos de ensino superior já existentes no Estado e outros que venham a criar.
+
+**Art. 5º** Para manutenção e desenvolvimento da Fundação Universidade do Acre o orçamento do Estado consignará, anualmente recursos, sob a forma de dotações globais, fazendo-se no orçamento da instituição, a devida especificação.
+
+**Art. 6º** A Fundação Universidade do Acre será administrada por um Conselho Diretor, constituído de seis membros e igual número de suplentes, escolhidos dentre pessoas de ilibada reputação e notório saber, assim especificados: três membros e respectivos suplentes, de livre escolha, do Governador, e três outros e seus suplentes indicados pela Secretaria de Educação e Cultura, todos nomeados pelo Executivo.
+
+**Art. 7º** Os cargos de direção da Universidade do Acre e de suas unidade escolares serão providos na forma que estabelecerem os Estatutos, obedecida a legislação em vigor.
+
+**Art. 9º** Integram a Universidade do Acre os seguintes estabelecimentos:
+
+**I -** Faculdade de Direito do Acre;
+
+**II -** Faculdade de Ciências Econômicas do Acre; e
+
+**III -** outros que vierem a ser criados, nos moldes da Reforma Universitária do País.
+
+**Parágrafo único**. As Faculdades referidas neste artigo perderão o designativo “do Acre” para se integrarem na Universidade do Acre.
+
+**Art. 10.** A Universidade do Acre gozará de autonomia didático - científico, disciplinar, administrativa e financeira, nos termos da legislação em vigor.
+
+**Art. 11.** O jurídico dos servidores da Fundação Universidade do Acre, no que couber, é o da legislação do trabalho, assegurando-se aos atuais professores das Faculdades incorporadas as garantias estabelecidas na Constituição Federal.
+
+**Art. 13.** No presente ano letivo a Faculdade de Direito do Acre e Faculdade de Ciências Econômicas do Acre, passarão a integrar a Universidade do Acre, obedecendo o Regimento Geral da Universidade.
+
+**Art. 15.** Fica transferida para a Fundação Universidade do Acre, o crédito de Cr$ 90.000,00 (noventa mil cruzeiros), constantes do Orçamento do Estado no exercício de 1970.
+
+**Art. 16.** Fica o Poder Executivo autorizado a doar à Fundação Universidade do Acre, para fazer parte do seu patrimônio inicial, uma casa pertencente ao Estado, sito à rua Benjamim Constant n. 455, em Rio Branco.”
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+**Rio Branco, 22 de janeiro de 1971, 83º da República, 69º do Tratado de Petrópolis e 10º do Estado do Acre.**
+
+**JORGE KALUME**
+
+**Governador do Estado do Acre**
+
+SEITE \\\*Arabisch 2

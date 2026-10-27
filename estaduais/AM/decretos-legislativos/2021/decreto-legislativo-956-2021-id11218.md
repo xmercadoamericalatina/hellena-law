@@ -1,0 +1,32 @@
+---
+titulo: "Decreto Legislativo nº 956, de 26 de fevereiro de 2021"
+uf: "AM"
+tipo: "Decreto Legislativo"
+numero: "956"
+data: 2021-02-26
+ementa: "Reconhece, para os fins do art. 65 da Lei Complementar nº 101, de 04 de maio de 2000, a ocorrência do estado de calamidade pública, no Município de BOCA DO ACRE, pelo prazo de 180 dias, em razão do desastre classificado e codificado como INUNDAÇÕES – COBRADE nº 1.2.1.0.0, conforme IN/MI nº 36/2020, solicitada por meio de Mensagem que encaminha o Decreto Municipal n° 142, de 23 de fevereiro de 2021."
+publicacao: "e-DOALEAM N. 1.643"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.am.leg.br/norma/11218"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2021/11218/956.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 956, de 26 de fevereiro de 2021
+
+DECRETO LEGISLATIVO N. 956, DE 24 DE FEVEREIRO DE 2021.
+
+RECONHECE, para os fins do art. 65 da Lei Complementar n. 101, de 4 de maio de 2000, a ocorrência do estado de calamidade pública, no Município de BOCA DO ACRE, pelo prazo de 180 (cento e oitenta) dias, a contar de 8 de janeiro de 2021, em razão do desastre classificado e codificado como INUNDAÇÕES – COBRADE n. 1.2.1.0.0, conforme IN/MI n. 36/2020, nos termos da solicitação do Prefeito do Município de BOCA DO ACRE, por meio do Ofício n. 048/PMBA/2021, que encaminha o Decreto Municipal n. 142, de 23 de fevereiro de 2021.
+
+A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, no uso das atribuições que lhe confere o artigo 88, § 2.º, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, e o artigo 65 da Lei Complementar n. 101, de 4 de maio de 2000, faz saber aos que presente virem que promulga o seguinte
+
+DECRETO LEGISLATIVO:
+
+**Art. 1.º** Fica reconhecida, exclusivamente para os fins do art. 65 da Lei Complementar n. 101, de 4 de maio de 2000, notadamente para as dispensas do atingimento dos resultados fiscais e da limitação de empenho de que trata o art. 9.º, bem como suspensão da contagem dos prazos e disposições estabelecidos nos artigos 23 e 31, todos da Lei Complementar n. 101, de 4 de maio de 2000, a ocorrência do estado de calamidade pública no Município de BOCA DO ACRE, pelo prazo de 180 (cento e oitenta) dias, a contar de 8 de janeiro de 2021, em virtude do desastre classificado e codificado como INUNDAÇÕES – COBRADE n. 1.2.1.0.0, conforme IN/MI n. 36/2020, nos termos da solicitação do Prefeito do Município de BOCA DO ACRE, por meio do Ofício n. 048/PMBA/2021, que encaminha o Decreto Municipal n. 142, de 23 de fevereiro de 2021.
+
+**Art. 2.º** O Tribunal de Contas do Estado do Amazonas e a Câmara Municipal de BOCA DO ACRE devem ser cientificados deste decreto com o objetivo de acompanhar a situação fiscal e a execução orçamentária e financeira das medidas relacionadas ao desastre classificado e codificado como INUNDAÇÕES – COBRADE n. 1.2.1.0.0, conforme IN/MI n. 36/2020, no Município de BOCA DO ACRE, em razão da calamidade ora reconhecida.
+
+**Parágrafo único.** O Tribunal de Contas deverá informar este Poder Legislativo Amazonense, para ciência dos Parlamentares, o relatório de fiscalização da situação fiscal e a execução orçamentária e financeira das medidas relacionadas à calamidade pública no Município de BOCA DO ACRE.
+
+**Art. 3.º** A Comissão de Assuntos Econômicos e a Comissão de Saúde, técnicas e permanentes desta Casa, ficam responsáveis por, conjuntamente, acompanhar e fiscalizar o reconhecimento da calamidade pública no Município de BOCA DO ACRE.
+
+**Art. 4.º** Este Decreto Legislativo entra em vigor na data de sua publicação.

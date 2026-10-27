@@ -1,0 +1,108 @@
+---
+titulo: "Decreto Legislativo nº 462, de 09 de julho de 1997"
+uf: "AM"
+tipo: "Decreto Legislativo"
+numero: "462"
+data: 1997-07-09
+ementa: "APROVA a indicação dos cidadãos nominados no anexo para comporem, na qualidade de membros titulares e suplentes, o Conselho Estadual do Meio Ambiente, Ciência e Tecnologia - COMCITEC. (Republicada no D.Of. nº 28.732 de 30.07.97)"
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.am.leg.br/norma/459"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1997/459/459_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 462, de 09 de julho de 1997
+
+PODER LEGISLATIVO
+
+DECRETO LEGISLATIVO Nº 462 de 09/07/1997
+
+Ementa:
+
+APROVA a indicação dos cidadãos nominados no anexo para comporem, na qualidade de membros titulares e suplentes, o Conselho Estadual do Meio Ambiente, Ciência e Tecnologia - COMCITEC. (Republicada no D.Of. nº 28.732 de 30.07.97)
+
+Texto:
+
+A MESA DIRETORA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS, no uso das atribuições que lhe confere o artigo 22, da Resolução Legislativa nº 181, de 13 de dezembro de 1991 - Regimento Interno - faz saber aos que a presente virem que promulga, o seguinte
+
+DECRETO LEGISLATIVO :
+
+**Art. 1º** - Fica aprovada a indicação dos nomes constantes da lista anexa que integrarão, na qualidade de membros titulares e suplentes, o Conselho Estadual do Meio Ambiente, Ciência e Tecnologia - COMCITEC.
+
+**Art. 2º** - Este Decreto Legislativo entrará em vigor na data de sua publicação.
+
+LISTA DOS MEMBROS DO CONSELHO ESTADUAL DO MEIO AMBIENTE, CIÊNCIA E TECNOLOGIA (CONCITEC) Conselheiros Titulares (1) e Suplentes (2)
+
+INSTITUTO DE PROTEÇÃO AMBIENTAL DO AMAZONAS
+
+1. VICENTE DE PAULO QUEIRÓZ NOGUEIRA 2. ESTEVÃO VICENTE CAVALCANTE MONTEIRO DE PAULA
+
+SECRETARIA DE ESTADO DA INDÚSTRIA E COMÉRCIO
+
+1. PAULO ROBERTO DOS SANTOS CORRÊA
+
+2. RÔMULO DE PAULA NUNES
+
+INSTITUTO DE DESENVOLVIMENTO AGROPECUÁRIO DO ESTADO DO AMAZONAS - IDAM
+
+1. LUIZ ANTÔNIO DE ARAÚJO CRUZ 2. WASHINGTON LUIZ AGUIAR
+
+SECRETARIA DE ESTADO DA ADMINISTRAÇÃO, PLANEJAMENTO E COORDENAÇÃO GERAL
+
+1. MARIA THEREZA SOUTO PEREIRA 2. AYMAR MEDINA GARCIA
+
+INSTITUTO DA TECNOLOGIA DA AMAZÔNIA - UTAM
+
+1. ADEMIR CASTRO E SILVA 2. VIVALDO CAMPBELL DE ARAÚJO
+
+INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA - INPA
+
+1. OZÓRIO JOSÉ DE MENEZES FONSECA 2. WARDERLI PEDRO TADEI
+
+UNIVERSIDADE DO AMAZONAS
+
+1. RUTÊNIO LUIZ CASTRO DE ARAÚJO 2. JOSÉ PEDRO TADEI
+
+EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA - EMBRAPA
+
+1. ÁLVARO FIGUEIREDO DOS SANTOS 2. MANOEL DA SILVA CRAVO
+
+COMPANHIA DE PESQUISA DE RECURSOS MINERAIS - CPRM
+
+1. JOSÉ MOURA VILLAS BOAS 2. MIGUEL MARTINS DE SOUZA
+
+SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS - SUFRAMA
+
+1. HÉLIO GONÇALVES COSTA
+
+2. IMAR CÉSAR DE ARAÚJO INSTITUTO DE MEDICINA TROPICAL DO AMAZONAS - IMT-AM
+
+1. WILSON DUARTE ALECRIM 2. MARCUS VINÍCIUS DE FARIAS GUERRA
+
+EMPRESA AMAZONENSE DE TURISMO - EMAMTUR
+
+1. RÔMULO DE PAULA NUNES 2. GERSON ALBANO
+
+FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI
+
+1. BENEDITO RANGEL DE MORAES 2. JOÃO MELO FARIAS
+
+INSTITUTO FUNDIÁRIO DO AMAZONAS - IFAM
+
+1. ACILINO DO CARMO CANTO 2. MARIA ARLETE TEIXEIRA DE LIMA
+
+FUNDAÇÃO DJALMA BATISTA
+
+1. JOSÉ DA SILVA SERAFICO DE ASSIS CARVALHO 2. LUÍS CARLOS JOELS
+
+FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO AMAZONAS - FIEAM
+
+1. WALTER BARROS MARTINS 2. PAUDERNEY TOMAZ AVELINO
+
+SOCIEDADE, AMBIENTE E CIDADANIA
+
+1. HIROSHI NODA 2. ANTONIO VIEIRA DOS SANTOS
+
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE e DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA/SUPES/AM
+
+1. HAMILTON NOBRE CASARA 2. JOSÉ RICARDO DE ARAÚJO LIMA

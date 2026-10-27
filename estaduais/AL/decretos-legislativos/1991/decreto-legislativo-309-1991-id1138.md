@@ -1,0 +1,34 @@
+---
+titulo: "DECRETO LEGISLATIVO nº 309, de 11 de dezembro de 1991"
+uf: "AL"
+tipo: "Decreto Legislativo"
+numero: "309"
+data: 1991-12-11
+ementa: "DEFINE OS LIMITES DO FUTURO MUNICÍPIO DE JEQUIÁ DA PRAIA"
+publicacao: "DOE"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.al.leg.br/norma/1138"
+arquivo: "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1991/1138/1138_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO LEGISLATIVO nº 309, de 11 de dezembro de 1991
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DO 14.12 - 91 ESTADO DE ALAGOAS ASSEMBLÉIA LEGISLATIVA ESTADUAL
+
+DECRETO LEGISLATIVO Nº 309. de (/ de dezembro de 1991. DEFINE OS LIMITES DO FUTURO MUNICI PIO DE JEQUIA DA PRAIA.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA FAZ SABER QUE O PODER LEGISLATIVO decreta e promulga o seguinte Decreto Legislativo: Art. lº - Para efeito de apuração dos critérios estabeleci dos nos incisos I,II, III e IV do artigo 2º, das Leis Complementa- res nº 0l de 27 de março de 1990 e 06 de 18 de julho de 1991, fi- cam estabelecidos os seguintes limites e confrontações para as áreas territorial e urbana do futuro município de Jequiá da Praia, que será desmembrado do município de São Miguel dos Campos e Coru ripe:
+
+I - LIMITE TERRITORIAL AO SUL: Inicia-se os limites do Município de Jequiá da Praia, na foz do Rio Jequiá no Oceano Atlântico. Segue este limite pelo Oceano Atlântico até o foz do Riacho' Taboada no Oceano Atlântico, no limite do Município de Roteiro. AO LESTE: Deste ponto, segue este limite pelo leito do Riacho Taboada no sentido contrário ao seu curso, limi te com o Município de Roteiro até o ponto de encontro' da Estrada J-l, Segue então este limite pela Estrada ' J-l até o ponto de encontro da Estrada sem Denominação, daí segue então este limite pela Estrada sem Denomina- ção até o encontro do Caminho J-l. Daí segue este limi te pelo Caminho J-l até a Estrada para a Fazenda São ' Francisco, segue então este limite pela Estrada para a Fazenda São Francisco até o Ponto de encontro com a Ro dovia AL-420 (São Miguel dos Campos-Jequiá da Praia) , segue então este limite pela Rodovia AL-420 até o en - contro com a Rodovia AL-415 (São Miguel dos Campos-Ro- teiro).
+
+ASSEMBLÉIA LEGISLATIVA ESTADUAL AO NORTE: Limite com São Miguel dos Campos, deste pon to, segue o limite por uma linha reta até encontrar ' com uma das nascentes do Riacho Barro Branco ou Grota Seca. Daí este limite segue pelo Riacho Barro Branco' ou Grota Seca até o seu encontro com a Rodovia BR-10l Sul. Deste ponto o limite segue então pela Rodovia BR 101-Sul até a Estrada S. Benedito, daí segue então es te limite pela Estrada S. Benedito até o Riacho Grava tá ou Baixa Seca. Deste ponto segue então este limite pelo Riacho gravatá ou Baixa Seca na direção contrá - ria ao seu curso até a Rodovia AL-220-Teotonio Vilela. Deste ponto segue então este limite pela Rodovia AL - 220 até o seu encontro com a Estrada Porto Rico, limi te com o Município de Campo Alegre. AO OESTE: Deste ponto, o limite segue então pela Es - trada Porto Rico até a Estrada para Chã da Fonte Gran de. Deste ponto, segue então este limite pela Estrada Chã da Fonte Grande até o Marco 1 a uma distância ' aproximada de 2,5 Km do Rio Jequiá. Deste ponto segue então este limite por uma linha reta com azimute 210º com uma distância aproximada de 3,0 Km cruzando o Ria cho Manibu ou Santa Maria até o encontro com a Estra- da Fazenda Bom Jardim/Faz. Santa Maria, Marco 2. Des- te ponto segue então este limite pela Estrada Faz. Bom Jardim até o Marco 3 encontro da Estrada Faz. Bom Jar dim/Faz. Baixa D'água. Deste ponto segue então este ' limite por uma linha reta com Azimute 210º até o Mar- co 4 na Fazenda Bom Jardim a uma distância aproximada de 0.5 Km do encontro da Estrada Faz. Bom Jardim/Faz. Baixa D'água. Deste ponto segue então este limite por uma linha reta com Azimute 982, com uma distância aproximada de 6,5 Km até o Marco 5 nas terras da Fa - zenda Jequiá do Fogo. Deste ponto segue então este por uma linha reta com Azimute 165º, com uma distân - cia aproximada de 1,0 Km (paralelamente a Estrada BR- 101/Faz. Jequia do fogo) até a Rodovia BR-101-Sul. Des te ponto segue então este limite na direção Oeste pe- la Rodovia BR-10l-Sul até o seu encontro com a Rodo - via AL-105, limite com o Município de Tetônio Vilela. Deste ponto segue então este limite pela Rodovia AL - 105 até o limite com o Município de Coruripe (a uma ' distância aproximada de 4,0 Km do encontro da Rodovia AL-105 com a Rodovia BR-101-Sul). Deste ponto segue ' então este limite por uma linha reta com Azimute 91º,
+
+• ASSEMBLÉIA LEGISLATIVA ESTADUAL com uma distância aproximada de 17,25 Km cruzando com as Estradas das Fazendas Cachoeirinhas, Pau Amarelo, Luanda até o Riacho Riachão. Deste ponto segue então este limite pelo Riacho Riachão, Lagoa Escura e Rio Poxim até a Baixada da Fazenda Santa Alaíde. Deste ' ponto segue então este limite pela Baixada da Fazen- da Santa Alaíde. Deste ponto segue então este limite pela Baixada da Fazenda Santa Alaíde até a Rodovia ' AL-101-Sul, dai segue então este limite pela Rodovia AL-101-Sul até o Caminho da Fazenda Duas Barras, no limite da Fazenda Duas Barras (Exclusive), daí segue então este limite pelo Caminho da Fazenda Duas Bar - ras até o seu encontro com o Rio Jequiá, daí segue ' então este limite pelo Rio Jequiá até a sua foz no ' Oceano Atlântico (ponto inicial), com área total de 360 KM2.
+
+II - LIMITE URBANO AO LESTE: Inicia-se os limites da cidade de Jequiá ' da Praia no Marco Zero que está situado à margem da AL-101-Sul no acesso à rua da Igreja, daí segue com azimuthe 63º25', percorre 971,0m e encontra o Marco' 1, dobra à esquerda com deflexão de 60º30' percorre' 587,0m e encontra o Marco 2, dobra à esquerda com de flexão de 90º00', percorre 55, 0m cruzando a AL 420 e encontra o Marco 3, dobra à esquerda com deflexão de 70º0', percorre 566,0m e encontra o Marco 4, dobra à direita com deflexão de 125º00', percorre 1050,0m e encontra o Marco 5, dobra à esquerda com deflexão de 116º00', percorre 1350,0m e encontra o Marco 6, do bra à esquerda com deflexão de 107230', percorre 50,0m cruza a estrada de acesso à AL-101-Sul e segue margeando a mesma, percorre 665,0m e encontra o Mar- co zero.
+
+**Art. 2º** - Este Decreto Legislativo entrará em vigor na da ta de sua publicação, revogadas as disposições em contrário. SALA DAS SESSOES DA ASSEMBLEIA LEGISLATIVA ESTADUAL, em
+
+ASSEMBLEIA LEGISLATIVA ESTADUAL Maceió, 1 de dezembro de 1991. Osan toul \_ PRESIDENTE 1° VICE-PRESIDENTE 2° VICE-PRESIDENTE 3° VICE-PRESIDENTE 1º SECRETARIO →2° SECRETARIO 3º SECRETARIO 4° SECRETARIO Publicado na Secretaria da Assembléia legislativa de Alagoas, em 1 de dezembro de 1991 GILBERTO VILLAR TORRE Diretor Geral

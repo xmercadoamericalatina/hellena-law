@@ -1,0 +1,29 @@
+---
+titulo: "Decreto nº 27285, de 25/04/1980"
+uf: "BA"
+tipo: "Decreto"
+numero: "27285"
+data: 1980-04-25
+ementa: "Declara de utilidade publica, para fins de desapropriação, a faixa de terras, benfeitorias e acessões que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27285-de-25-de-abril-de-1980"
+baixado_em: 2026-10-16
+---
+# Decreto nº 27285, de 25/04/1980
+
+DECRETO Nº 27.285 DE 25 DE ABRIL DE 1980
+
+Declara de utilidade publica, para fins de desapropriação, a faixa de terras, benfeitorias e acessões que indica e dá outras providências.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições e tendo em vista o disposto no Decreto-Lei Federal nº 3.365, de 21 de junho de 1941,
+
+D E C R E T A
+
+**Art. 1º** - Ficam declaradas de utilidade publica, para fins de desapropriação, a área de terra, benfeitorias e acessões situadas na faixa de domínio da ER-BA 314 - Trecho Barrinha-Caraíba, com 50,00 km (cinqüenta quilômetros) de extensão, e ate 60,00m (sessenta metros) de largura, sendo 30,00m (trinta metros) para cada lado a partir do eixo do projeto geométrico devidamente aprovado para a construção da referida rodovia.
+
+**Art. 2º** - O Departamento de Estradas de Rodagem da Bahia - DERBa, fica autorizado a proceder aos necessários estudos, projetos, levantamentos e enquadramentos, inclusive de pedreiras, saibreiras, cascalheiras, jazidas e aguadas existentes no traçado aludido, ou que lhe sejam contíguas, processar as correspondentes avaliações e, afinal, efetivar a desapropriação mencionada no artigo anterior, pela via amigável ou judicial.
+
+**Art. 3º** - Este Decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 25 de abril de 1980.

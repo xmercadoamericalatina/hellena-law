@@ -1,0 +1,22 @@
+---
+titulo: "Lei Ordinária nº 1.423, de 11 de dezembro de 1980"
+uf: "AM"
+tipo: "Lei Ordinária"
+numero: "1423"
+data: 1980-12-11
+ementa: "AUTORIZA o Chefe do Poder Executivo a realizar operações de crédito internas até o montante de Cr$ 800.000.000,00."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: ""
+fonte: "https://sapl.al.am.leg.br/norma/5873"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1980/5873/5873_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 1.423, de 11 de dezembro de 1980
+
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 1423 de 11/12/1980
+
+AUTORIZA o Chefe do Poder Executivo a realizar operações de crédito internas até o montante de Cr$ 800.000.000,00.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife) - nº 3.950, Parque Dez - Manaus - Amazonas CEP 69.050-030 Fone: (+55) (092) 3183-4444 CNPJ: 04.530.820/0001-46 www.ale.am.gov.br

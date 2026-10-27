@@ -1,0 +1,32 @@
+---
+titulo: "Decreto Legislativo nº 741, de 10 de novembro de 2014"
+uf: "AM"
+tipo: "Decreto Legislativo"
+numero: "741"
+data: 2014-11-10
+ementa: "APROVA os nomes, indicados pelas autoridades competentes, para compor o Conselho Fiscal da Fundação AMAZONPREV - Fundo Previdenciário do Estado do Amazonas."
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.am.leg.br/norma/738"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2014/738/738_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 741, de 10 de novembro de 2014
+
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETO LEGISLATIVO Nº 741 de 10/11/2014 Ementa:
+
+APROVA os nomes, indicados pelas autoridades competentes, para compor o Conselho Fiscal da Fundação AMAZONPREV - Fundo Previdenciário do Estado do Amazonas.
+
+Texto:
+
+A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, no uso das atribuições que lhe confere o artigo 187 e incisos, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber aos que o presente virem que promulga o seguinte
+
+DECRETO LEGISLATIVO:
+
+**Art. 1.º** Ficam aprovados os nomes, elencados abaixo, indicados pelas autoridades competentes, para compor o Conselho Fiscal da Fundação AMAZONPREV - Fundo Previdenciário do Estado do Amazonas. PRESIDÊNCIA Edson Theóphilo Ramos Pará VICE-PRESIDÊNCIA Ligia da Silva Barros TITULAR SUPLENTE REPRESENTANTE DOS SERVIDORES ATIVOS Martha Dutra Gadelha de Albuquerque Gustavo de Castro Sotero REPRESENTANTE DOS SERVIDORES INATIVOS E PENSIONISTAS Edmilson da Silva Medeiros L u i z Osvaldo Barbosa Evangelista
+
+**Art. 2.º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife) - nº 3.950,Edifício José de Jesus Lins de Albuquerque, Parque Dez - Manaus - Amazonas CEP 69.050-030 Fone: (+55) (092) 3183-4444 CNPJ: 04.530.820/0001-46

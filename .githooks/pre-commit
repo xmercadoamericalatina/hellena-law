@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+python3 -I scripts/progresso.py --git-index
+git add PROGRESSO.md progresso.svg

@@ -1,0 +1,252 @@
+---
+titulo: "LEI ORDINARIA nº 9.802, de 15 de janeiro de 2026"
+uf: "AL"
+tipo: "Lei Ordinária"
+numero: "9802"
+data: 2026-01-15
+ementa: "ALTERA DISPOSITIVOS DA LEI DELEGADA Nº 48, DE 30 DE DEZEMBRO DE 2022, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIÁRIO OFICIAL DO ESTADO"
+fonte: "https://sapl.al.al.leg.br/norma/3725"
+arquivo: "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/2026/3725/lei_no_9.802_de_15_de_janeiro_de_2026.pdf"
+baixado_em: 2026-10-13
+---
+# LEI ORDINARIA nº 9.802, de 15 de janeiro de 2026
+
+LEI Nº 9.802, DE 15 DE JANEIRO DE 2026.
+
+ALTERA DISPOSITIVOS DA LEI DELEGADA Nº 48, DE 30 DE DEZEMBRO DE 2022, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Os dispositivos adiante indicados da Lei Delegada nº 48, de 30 de dezembro de 2022, passam a vigorar com as seguintes redações:
+
+I – o item 5 do Anexo II:
+
+“ANEXO II
+
+ESTRUTURA DOS ÓRGÃOS DA ADMINISTRAÇÃO INDIRETA
+
+5 – A estrutura do Departamento de Estradas de Rodagem – DER/AL é integrado por:
+
+I – Órgãos Colegiados:
+
+1. Conselho Administrativo;
+
+2. Junta Administrativa de Recursos de Infrações – JARI; e
+
+3. Junta de Recursos Fiscais – JRF.
+
+II – Gestão Estratégica:
+
+1. Gabinete do Diretor-Presidente;
+
+1.1. Cheia de Secretaria Diretoria da Presidência; e
+
+1.2. Cheia de Segurança do Trabalho.
+
+2. Diretoria-Adjunta;
+
+2.1. Cheia de Secretaria Diretoria-Adjunta.
+
+3. Coordenadoria Jurídica;
+
+4. Assessoria de Governança e Transparência; e
+
+5. Assessoria de Comunicação.
+
+III – Gestão de Estado:
+
+a) Assessoria Executiva de Gestão Interna:
+
+1. Diretoria Administrativa:
+
+1.1. Assessoria Técnica de Suprimento;
+
+1.2. Cheia de Aquisição;
+
+1.3. Cheia de Patrimônio;
+
+1.4. Assessoria Técnica de Serviços Gerais;
+
+1.5. Cheia de Frota;
+
+1.6. Cheia de Controle do Consumo Interno;
+
+1.7. Cheia de Protocolo e Arquivo;
+
+1.8. Assessoria Técnica Executiva de Valorização de Pessoas;
+
+1.9. Cheia de Desenvolvimento de Pessoas;
+
+1.10. Cheia do Núcleo de Administração;
+
+1.11. Cheia de Folha de Pagamento;
+
+1.12. Assessoria Técnica Executiva de Tecnologia da Informação;
+
+1.13. Cheia de Suporte ao Usuário;
+
+1.14. Cheia de Cadastro;
+
+1.15. Cheia de Arquivo; e
+
+1.16. Cheia de Almoxarifado de Expediente.
+
+2. Diretoria de Planejamento, Orçamento, Finanças e Contabilidade:
+
+2.1. Assessoria Especial;
+
+2.2. Gerência de Planejamento e Orçamento;
+
+2.3. Cheia de Execução Orçamentária;
+
+2.4. Supervisão de Finanças;
+
+2.5. Cheia do Núcleo de Finanças;
+
+2.6. Cheia de Execução de Finanças;
+
+2.7. Gerência de Contabilidade; e
+
+2.8. Cheia de Contabilidade.
+
+IV – Gestão Finalística:
+
+a) Diretoria de Operação, Implantação, Restauração e Conservação:
+
+1. Assessoria Especial;
+
+2. Cheia do Núcleo de Orçamento de Obras;
+
+3. Cheia do Núcleo de Manutenção;
+
+4. Cheia do Núcleo de Obras;
+
+5. Cheia do Núcleo de Convênios;
+
+6. Cheia do Núcleo Regional Sertão;
+
+7. Cheia de Fiscalização;
+
+8. Cheia de Acompanhamento;
+
+9. Cheia do Núcleo Regional Agreste;
+
+10. Cheia de Fiscalização;
+
+11. Cheia de Acompanhamento;
+
+12. Cheia do Núcleo Regional Sul;
+
+13. Cheia de Fiscalização;
+
+14. Cheia de Acompanhamento;
+
+15. Cheia do Núcleo Regional Metropolitana;
+
+16. Cheia de Fiscalização;
+
+17. Cheia de Acompanhamento;
+
+18. Cheia do Núcleo Regional Norte;
+
+19. Cheia de Fiscalização;
+
+20. Cheia de Acompanhamento;
+
+21. Cheia do Núcleo Regional Vale do Paraíba;
+
+22. Cheia de Fiscalização;
+
+23. Cheia de Acompanhamento;
+
+24. Cheia do Núcleo Regional Vale do Mundaú;
+
+25. Cheia de Fiscalização; e
+
+26. Cheia de Acompanhamento.
+
+b) Diretoria de Planejamento e Acompanhamento:
+
+1. Assessoria Especial;
+
+2. Gerência de Planejamento e Acompanhamento;
+
+3. Cheia do Núcleo de Projetos Especiais;
+
+4. Cheia de Faixa de Domínio; e
+
+5. Cheia de Fiscalização da Faixa de Domínio.
+
+c) Diretoria de Transporte e Trânsito:
+
+1. Cheia do Núcleo de Transporte e Trânsito;
+
+2. Cheia do Núcleo de Engenharia;
+
+3. Cheia do Núcleo de Transporte;
+
+4. Cheia de Autorizações Especiais de Trânsito;
+
+5. Cheia de Fiscalização de Transporte;
+
+6. Cheia de Serviço de Terminais Rodoviários;
+
+7. Cheia do Núcleo de Trânsito;
+
+8. Cheia de Fiscalização de Trânsito;
+
+9. Cheia de Educação de Trânsito;
+
+10. Cheia do Núcleo de Infrações de Trânsito;
+
+11. Cheia de Processamento de Multas;
+
+12. Cheia de Defesa Prévia;
+
+13. Cheia do Núcleo de Estatística;
+
+14. Cheia de Depósito de Veículos Apreendidos de Maceió;
+
+15. Cheia de Depósito de Veículos Apreendidos de Arapiraca; e
+
+16. Cheia de Secretaria de Processamento de Multas.” (NR)
+
+II – o Anexo IV:
+
+“ANEXO IV
+
+CARGOS DE PROVIMENTO EM COMISSÃO, FUNÇÕES ESPECIAIS E FUNÇÕES GRATIFICADAS DOS ÓRGÃOS E ENTIDADES DO PODER EXECUTIVO
+
+DEPARTAMENTO DE ESTRADAS DE RODAGEM DE ALAGOAS – DER/AL CARGO NÍVEL QUANT. DIRETOR-PRESIDENTE ALPS1 1 DIRETOR-ADJUNTO ALPS2 1 DIRETOR DE OPERAÇÃO, ALPS2 1 IMPLANTAÇÃO, RESTAURAÇÃO E CONSERVAÇÃO DIRETOR ADMINISTRATIVO ALPS2 1
+
+DIRETOR DE PLANEJAMENTO, ALPS2 1 ORÇAMENTO, FINANÇAS E CONTABILIDADE DIRETOR DE PLANEJAMENTO E ALPS2 1 ACOMPANHAMENTO DIRETOR DE TRANSPORTE E TRÂNSITO ALPS2 1 COORDENADOR JURÍDICO ASEG 1 ASSESSOR ESPECIAL ASEG 2 ASSESSOR ESPECIAL ASE-2 5 ASSESSOR ESPECIAL ASE-3 5 ASSESSOR DE COMUNICAÇÃO ASSC 1 ASSESSOR DE GOVERNANÇA E AGT 1 TRANSPARÊNCIA GERENTE DE PLANEJAMENTO E GER 1 ORÇAMENTO GERENTE DE CONTABILIDADE GERC 1 ASSESSOR EXECUTIVO DE GESTÃO AEG-3 1 INTERNA GERENTE DE PLANEJAMENTO E GER 1 ACOMPANHAMENTO SUPERVISOR DE FINANÇAS SUPE 1 ASSESSOR TÉCNICO DE SUPRIMENTO AST-2 1 ASSESSOR TÉCNICO DE SERVIÇOS AST-2 1 GERAIS ASSESSOR TÉCNICO EXECUTIVO DE AST-2 1 VALORIZAÇÃO DE PESSOAS ASSESSOR TÉCNICO EXECUTIVO DE AST-2 1 TECNOLOGIA DA INFORMAÇÃO CHEFE SECRETARIA DIRETORIA DA CHDER-1 1 PRESIDÊNCIA
+
+CHEFE DE SEGURANÇA DO TRABALHO CHDER-1 1 CHEFE SECRETARIA DIRETORIA CHDER-1 1 ADJUNTA CHEFE FISCALIZAÇÃO FAIXA DE CHDER-1 1 DOMÍNIO CHEFE DE CONTABILIDADE CHDER-1 1 CHEFE DE CADASTRO CHDER-1 1 CHEFE SECRETARIA DE CHDER-2 1 PROCESSAMENTO DE MULTAS CHEFE DE ARQUIVO CHDER-2 1 CHEFE DE ALMOXARIFADO DE CHDER-2 1 EXPEDIENTE CHEFE DE DESENVOLVIMENTO DE CHDER-1 1 PESSOAS CHEFE DE AQUISIÇÃO CHDER-1 1 CHEFE DE FOLHA DE PAGAMENTO CHDER-1 1 CHEFE DE SUPORTE AO USUÁRIO CHDER-2 1 CHEFE DE PROCESSAMENTO DE CHDER-1 1 MULTAS CHEFE DE PROTOCOLO GERAL CHDER-1 1 CHEFE DE CONTROLE DO CONSUMO CHDER-1 1 INTERNO CHEFE DE FAIXA DE DOMÍNIO CHDER-1 1 CHEFE DE FROTA CHDER-1 1 CHEFE DE EXECUÇÃO ORÇAMENTÁRIA CHDER-1 1 CHEFE DE EXECUÇÃO DE FINANÇAS CHDER-1 1 CHEFE DE PATRIMÔNIO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1
+
+CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE FISCALIZAÇÃO CHDER-2 1 CHEFE DE ACOMPANHAMENTO CHDER-2 1 CHEFE DE AUTORIZAÇÕES ESPECIAIS CHDER-2 1 DE TRÂNSITO CHEFE DE FISCALIZAÇÃO DE CHDER-2 1 TRANSPORTE CHEFE DE SERVIÇO DE TERMINAIS CHDER-2 1 RODOVIÁRIOS CHEFE DE EDUCAÇÃO DE TRÂNSITO CHDER-2 1 CHEFE DE DEPÓSITO DE VEÍCULOS CHDER-2 1 APREENDIDOS DE MACEIÓ CHEFE DE DEPÓSITO DE VEÍCULOS CHDER-2 1 APREENDIDOS DE ARAPIRACA CHEFE DE FISCALIZAÇÃO DE TRÂNSITO CHDER-2 1 CHEFE DE DEFESA PRÉVIA CHDER-2 1 CHEFE DO NÚCLEO DE INFRAÇÕES DE CNDER-1 1 TRÂNSITO CHEFE DO NÚCLEO DE FINANÇAS CNDER-4 1
+
+CHEFE DO NÚCLEO DE CNDER-4 1 ADMINISTRAÇÃO CHEFE DO NÚCLEO DE MANUTENÇÃO CNDER-2 1 CHEFIA DO NÚCLEO DE ORÇAMENTO CNDER-1 1 DE OBRAS CHEFE DO NÚCLEO DE OBRAS CNDER-4 1 CHEFE DO NÚCLEO DE CONVÊNIOS CNDER-4 1 CHEFE DO NÚCLEO REGIONAL CNDER-3 1 AGRESTE CHEFE DO NÚCLEO REGIONAL SUL CNDER-3 1 CHEFE DO NÚCLEO REGIONAL VALE DO CNDER-3 1 PARAÍBA CHEFE DO NÚCLEO REGIONAL VALE DO CNDER-3 1 MUNDAÚ CHEFIA DO NÚCLEO REGIONAL NORTE CNDER-3 1 CHEFIA DO NÚCLEO REGIONAL CNDER-3 1 METROPOLITANA CHEFIA DO NÚCLEO REGIONAL SERTÃO CNDER-3 1 CHEFE DO NÚCLEO DE PROJETOS CNDER-1 1 ESPECIAIS CHEFE DO NÚCLEO DE TRANSPORTE E CNDER-1 1 TRÂNSITO CHEFE DO NÚCLEO DE ENGENHARIA CNDER-2 1 CHEFE DO NÚCLEO DE TRANSPORTE CNDER-4 1 CHEFE DO NÚCLEO DE TRÂNSITO CNDER-4 1 CHEFE DO NÚCLEO DE ESTATÍSTICA CNDER-4 1 FUNÇÃO ESPECIAL DE ATIVIDADE FEAR-1 2 RODOVIÁRIA FUNÇÃO ESPECIAL DE ATIVIDADE FEAR-2 5 RODOVIÁRIA
+
+TOTAL 101
+
+“(NR)
+
+III – o Anexo VII:
+
+“ANEXO VII
+
+ESPECIFICA A SIMBOLOGIA E OS VALORES DAS FUNÇÕES ESPECIAIS, DAS FUNÇÕES GRATIFICADAS E DOS CARGOS EM COMISSÃO EXISTENTES NA ADMINISTRAÇÃO DIRETA E INDIRETA DO PODER EXECUTIVO
+
+FUNÇÕES E GRATIFICAÇÕES CHDER-1 2.000,00 CHDER-2 1.007,60
+
+“(NR)
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 3º** Revogam-se as disposições em contrário.
+
+PALÁCIO REPÚBLICA DOS PALMARES, em Maceió, 15 de janeiro de 2026, 210º da Emancipação Política e 138º da República.
+
+PAULO SURUAGY DO AMARAL DANTAS Governador Este texto não substitui o publicado no DOE do dia 16.01.2026.

@@ -1,0 +1,26 @@
+---
+titulo: "Decreto Legislativo nº 208, de 26 de setembro de 1973"
+uf: "AM"
+tipo: "Decreto Legislativo"
+numero: "208"
+data: 1973-09-26
+ementa: "TRANSFERE a solenidade de entrega do Título de Cidadão do Amazonas ao Ministro MÁRIO DAVID ANDREAZZA, da sede do Poder Legislativo para a Praça do Congresso."
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.am.leg.br/norma/205"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1973/205/205_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 208, de 26 de setembro de 1973
+
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETO LEGISLATIVO Nº 208 de 26/09/1973
+
+Ementa:
+
+TRANSFERE a solenidade de entrega do Título de Cidadão do Amazonas ao Ministro MÁRIO DAVID ANDREAZZA, da sede do Poder Legislativo para a Praça do Congresso.
+
+Texto:
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife) - nº 3.950,Edifício José de Jesus Lins de Albuquerque Parque Dez - Manaus - Amazonas CEP 69.050-030 Fone: (+55) (092) 3183-4444 CNPJ: 04.530.820/0001-46

@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 1.736, de 10 de dezembro de 1985"
+uf: "AM"
+tipo: "Lei Ordinária"
+numero: "1736"
+data: 1985-12-10
+ementa: "ALTERA os Anexo I, II e III da Lei nº 1372 de 06 dezembro de 1979. -----------------------------------------------------------------------------------x-------------------------------------------------------------------------- LEI nº 1736 - A. D.Of. nº 25.909, de 10.12.85. - CONCEDE o Título de Cidadão do Amazonas ao Presidente da República JOSÉ SARNEY."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: ""
+fonte: "https://sapl.al.am.leg.br/norma/6187"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1985/6187/6187_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 1.736, de 10 de dezembro de 1985
+
+PODER LEGISLATIVO
+
+LEI Nº 1736 de 10/12/1985
+
+ALTERA os Anexo I, II e III da Lei nº 1372 de 06 dezembro de 1979. --------------------------------------------------------------- --------------------x------------------------------------------ --------------------------------
+
+LEI nº 1736 - A. D.Of. nº 25.909, de 10.12.85. - CONCEDE o Título de Cidadão do Amazonas ao Presidente da República JOSÉ SARNEY.
+
+**Art. 1º** - Os Anexos I, II e III da Lei nº 1372, de 28 de dezembro de 1979, que fixa o quantitativo e referência salarial dos cargos integrantes das carreiras do Magistério da Secretaria da Educação e Cultura, com as alterações introduzidas pelas Leis nº 1430, de 16 de dezembro de 1980 e nº 1659, de 09 de outubro de 1984, passam a vigorar na forma constantes respectivamente dos Anexos I, II e III deste Decreto.
+
+**Art. 2º** - Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+ANEXO I 1.1 – SERVIÇO: EDUCAÇÃO E CULTURA - EC a. GRUPO: MAGISTÉRIO – M.EC a.1 – CATEGORIA: PROFESSOR – MP.EC a.1.1 – CARREIRA: MP.I.EC
+
+5.470 4.800 4.200 3.850 3.200 2.600 2.000 1.400 1.200 800 400 200 50 40 30 20 10 5 A A A B B B C C C D DDEEEFFF MP.I.EC.A1 MP.I.EC.A2 MP.I.EC.A3 MP.I.EC.B1 MP.I.EC.B2 MP.I.EC.B3 MP.I.EC.C1 MP.I.EC.C2 MP.I.EC.C3 MP.I.EC.D1 MP.I.EC.D2 MP.I.EC.D3 MP.I.EC.E1 MP.I.EC.E2 MP.I.EC.E3 MP.I.EC.F1 MP.I.EC.F2 MP.I.EC.F3 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+
+a. 1. 2 – CARREIRA:MP.II.EC
+
+2.300 2.200 2.100 2.000 1.870 1.770 1.670 1.500 1.000 100 60 40 30 20 10 BBBCCCDDDEEEFFF MP.II.EC.B1 MP.II.EC.B2 MP.II.EC.B3 MP.II.EC.C1 MP.II.EC.C2 MP.II.EC.C3 MP.II.EC.D1 MP.II.EC.D2 MP.II.EC.D3 MP.II.EC.E1 MP.II.EC.E2 MP.II.EC.E3 MP.II.EC.F1 MP.II.EC.F2 MP.II.EC.F3 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+
+ANEXO II 1.1 – SERVIÇO: EDUCAÇÃO E CULTURA - EC a. GRUPO: MAGISTÉRIO – M.EC a.2 – CATEGORIA: ESPECIALISTA – ME.EC a.2.1 – CARREIRA:SUPERVISOR EDUCACIONAL – MESE.I e II.EC
+
+130 120 110 98 80 60 10 8 6 5 4 3 12 10 8 7 6 5 4 3 2 AAABBBCCCDDDBBBCCCDDD MESE.I.EC.A1 MESE.I.EC.A2 MESE.I.EC.A3 MESE.I.EC.B1 MESE.I.EC.B2 MESE.I.EC.B3 MESE.I.EC.C1 MESE.I.EC.C2 MESE.I.EC.C3 MESE.I.EC.D1 MESE.I.EC.D2 MESE.I.EC.D3 MESE.II.EC.B1 MESE.II.EC.B2 MESE.II.EC.B3 MESE.II.EC.C1 MESE.II.EC.C2 MESE.II.EC.C3 MESE.II.EC.D1 MESE.II.EC.D2 MESE.II.EC.D3 07 08 09 10 11 12 13 14 15 16 17 18 10 11 12 13 14 15 16 17 18
+
+a. 2.2 – CARREIRA: ORIENTADOR EDUCACIONAL
+
+- MEOE. I e II.EC
+
+140 110 70 40 30 20 12 8 4 10 9 8 7 6 5 4 3 2 AAABBBCCCAAABBBCCC MEOE.I.EC.A1 MEOE.I.EC.A2 MEOE.I.EC.A3 MEOE.I.EC.B1 MEOE.I.EC.B2 MEOE.I.EC.B3 MEOE.I.EC.C1 MEOE.I.EC.C2 MEOE.I.EC.C3 MEOE.II.EC.A1 MEOE.II.EC.A2 MEOE.II.EC.A3 MEOE.II.EC.B1 MEOE.II.EC.B2 MEOE.II.EC.B3 MEOE.II.EC.C1 MEOE.II.EC.C2 MEOE.II.EC.C3 10 11 12 13 14 15 16 17 18 10 11 12 13 14 15 16 17 18
+
+a.2.3 – CARREIRA: ADMINISTRADOR EDUCACIONAL
+
+- MEAE. I e II.EC
+
+140 132 128 120 115 100 7 6 5 4 3 2 10 9 8 7 6 5 4 3 2 AAABBBCCCDDDBBBCCCDDD
+
+MEAE.I.EC.A1 MEAE.I.EC.A2 MEAE.I.EC.A3 MEAE.I.EC.B1 MEAE.I.EC.B2 MEAE.I.EC.B3 MEAE.I.EC.C1 MEAE.I.EC.C2 MEAE.I.EC.C3 MEAE.I.EC.D1 MEAE.I.EC.D2 MEAE.I.EC.D3 MEAE.II.EC.B1 MEAE.II.EC.B2 MEAE.II.EC.B3 MEAE.II.EC.C1 MEAE.II.EC.C2 MEAE.II.EC.C3 MEAE.II.EC.D1 MEAE.II.EC.D2 MEAE.II.EC.D3 07 08 09 10 11 12 13 14 15 16 17 18 10 11 12 13 14 15 16 17 18
+
+a.2.4 – CARREIRA: INSPETOR ESCOLAR
+
+- MEIE. I e II.EC
+
+20 15 10 7 6 5 4 3 2 AAABBBCCC MEAE.II.EC.A1 MEIE.II.EC.A2 MEIE.II.EC.A3 MEIE.II.EC.B1 MEIE.II.EC.B2 MEIE.II.EC.B3 MEIE.II.EC.C1 MEIE.II.EC.C2 MEIE.II.EC.C3 10 11 12 13 14 15 16 17 18
+
+a.2.5 – CARREIRA: PLANEJADOR EDUCACIONAL
+
+- MEPE. II.EC
+
+10 9 8 7 6 5 4 3 2 AAABBBCCC MEPE.II.EC.A1 MEPE.II.EC.A2 MEPE.II.EC.A3 MEPE.II.EC.B1 MEPE.II.EC.B2 MEPE.II.EC.B3 MEPE.II.EC.C1 MEPE.II.EC.C2 MEPE.II.EC.C3 10 11 12 13 14 15 16 17 18
+
+## ANEXO III
+
+2.0 – SERVIÇO: EDUCAÇÃO E CULTURA a – GRUPO: MAGISTÉRIO a.3 – CATEGORIA: AUXILIAR ESPECIAL DO MAGISTÉRIO a.3.1 – CAREEIRA: ORIENTADOR DE DISCIPLINA
+
+70 65 60 55 50 45 40 35 30 25 20 15 AAABBBCCCDDD MAOD.II.1 MAOD.II.2 MAOD.II.3 MAOD.II.1 MAOD.II.2 MAOD.II.3 MAOD.II.1 MAOD.II.2 MAOD.II.3 MAOD.II.1 MAOD.II.2 MAOD.II.3 01 02 03 04 05 06 07 08 09 10 11 12

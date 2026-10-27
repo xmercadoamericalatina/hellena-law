@@ -1,0 +1,34 @@
+---
+titulo: "Decreto Legislativo nº 425, de 05 de julho de 1993"
+uf: "AM"
+tipo: "Decreto Legislativo"
+numero: "425"
+data: 1993-07-05
+ementa: "APROVA a prestação de contas referente ao Exercício de 1992 da Administração do Exmo. Sr. Governador GILBERTO MESTRINHO DE MEDEIROS RAPOSO."
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.am.leg.br/norma/422"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/1993/422/422_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 425, de 05 de julho de 1993
+
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETO LEGISLATIVO Nº 425 de 05/07/1993
+
+Ementa:
+
+APROVA a prestação de contas referente ao Exercício de 1992 da Administração do Exmo. Sr. Governador GILBERTO MESTRINHO DE MEDEIROS RAPOSO.
+
+Texto:
+
+A MESA DIRETORA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma do que estabelece o artigo 22 da Resolução Legislativa nº 181, de 15 de dezembro de 1991 - Regimento Interno -, faz saber aos que a presente virem que promulga o seguinte
+
+DECRETO LEGISLATIVO
+
+**Art. 1º** - Fica aprovada a prestação de Contas do Excelentíssimo Governador GILBERTO MESTRINHO DE MEDEIROS RAPOSO.
+
+**Art. 2º** - Revogadas as disposições em contrário, este Decreto Legislativo, entrará em vigor na data de sua publicação.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS Av. Mário Ypiranga Monteiro (antiga Recife) - nº 3.950,Edifício José de Jesus Lins de Albuquerque Parque Dez - Manaus - Amazonas CEP 69.050-030 Fone: (+55) (092) 3183-4444 CNPJ: 04.530.820/0001-46

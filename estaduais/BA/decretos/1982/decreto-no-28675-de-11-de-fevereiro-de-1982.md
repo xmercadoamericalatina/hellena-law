@@ -1,0 +1,31 @@
+---
+titulo: "Decreto nº 28675, de 11/02/1982"
+uf: "BA"
+tipo: "Decreto"
+numero: "28675"
+data: 1982-02-11
+ementa: "Declara de utilidade pública, para efeito de desapropriação, a área de terra que indica, situada no município de Jequié, neste Estado."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-28675-de-11-de-fevereiro-de-1982"
+baixado_em: 2026-10-16
+---
+# Decreto nº 28675, de 11/02/1982
+
+DECRETO Nº 28.675 DE 11 DE FEVEREIRO DE 1982
+
+Declara de utilidade pública, para efeito de desapropriação, a área de terra que indica, situada no município de Jequié, neste Estado.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, tendo em vista os termos do convênio assinado com a Superintendência do Desenvolvimento da Pesca – SUDEPE em 18 de junho de 1981 e com fundamento no Decreto-Lei federal nº 3365, de 21 de junho de 1941,
+
+D E C R E T A
+
+**Art. 1º** - É declarada de utilidade publica, para efeito de desapropriação em regime de urgência, a área de terra com benfeitorias e acessões nela situadas, de propriedade do Sr. RADMESSE ANTONIO DE BRITO, medindo aproximadamente 159.341,00 m² (cento e cinqüenta e nove mil, trezentos e quarenta e um metros quadrados), situada no município de Jequié, próximo à Barragem de Pedras e que se acha compreendida dentro da linha demarcatória de limites a seguir descrita: Partindo-se do ponto 01 que dista 2.000,00 m da Barragem de Pedras, e que está gravado em terrenos do Sr. RADMESSE ANTONIO DE BRITO, mediu-se margeando a estrada que dá acesso a referida Barragem 39,80m com azimute magnético de 125; 125º12’20" até encontrar o ponto 02. Daí seguindo-se na mesma divisa, margeando a mesma estrada de acesso a Barragem, mediu-se 102,97m com azimute magnético de 136º22’23" até encontrar o ponto 03. Daí, seguindo-se na mesma divisa, margeando a mesma estrada mediu-se 182,48m com azimute magnético de 129º53’11" até encontrar o ponto 04. Daí, seguindo-se na mesma divisa, margeando a mesma estrada, mediu-se 156,00m com azimute magnético de 117º22’41" até encontrar o ponto 05. Daí, seguindo-se na mesma divisa, margeando a mesma estrada, mediu-se 168,00m com azimute magnético de 118º55’25" até encontrar, o ponto 06. Daí, seguindo-se na mesma divisa, margeando a mesma estrada, mediu-se 89,98m com azimute magnético de 116º06’09" até encontrar o ponto 07. Daí seguindo-se na mesma divisa, margeando a mesma estrada, mediu-se 103,00m com azimute magnético de 111º43’13" até encontrar o ponto 08. Daí seguindo-se em divisa com terrenos do Sr. ANTONIO LOURÊNÇO E ANDRADE, tomando-se a direção mais ou menos perpendicular ao RIO DE CONTAS, mediu-se 87,57m com azimute magnético de 32º57’17" até encontrar o ponto 09. Daí seguindo-se na mesma divisa, mediu-se 28,77m com azimute magnético de 33º43’11" até encontrar o ponto 10. Daí seguindo-se na mesma divisa, mediu-se 14,92m com azimute magnético de 33º19’57" até encontrar o ponto 11 que está afastado 25,56m em direção normal ao RIO DE CONTAS. Daí seguindo-se em sentido contrario ao rio, mediu-se 71,89m com azimute magnético de 304°53'41" até encontrar o ponto 12 que está afastado 21,80m em direção normal ao RIO DE CONTAS. Daí seguindo-se em sentido contrário ao rio mediu-se 133,25m com azimute magnético de 306°02'15" até encontrar o ponto 13 que está afastado 13,10m em direção normal ao RIO DE CONTAS. Daí seguindo-se ainda em sentido contrario ao rio, mediu-se 72,80m com azimute magnético de 302°53'19" até encontrar o ponto 14 que está afastado 12,25m na direção normal ao RIO DE CONTAS. Daí seguindo-se em sentido contrário ao rio, mediu-se 132,94m com azimute magnético de 306°57'50" até encontrar o ponto 15 que está afastado 14,80m na direção normal ao RIO DE CONTAS. Daí seguindo ainda em sentido contrário ao rio, mediu-se 73,99m com azimute magnético de 305°31'59" até encontrar o ponto 16 que está afastado 14,82m, na direção normal ao RIO DE CONTAS. Daí seguindo também em sentido contrario ao rio, mediu-se 30,48m com azimute magnético de 302°06'08" até encontrar o ponto 17 que está afastado 14,60m na direção normal ao RIO DE CONTAS. Daí seguindo ainda em sentido contrario ao rio, mediu-se 123,49m com azimute magnético de 299°29'55" até encontrar o ponto 18 que está afastado 15,00m na direção normal ao RIO DE CONTAS. Daí seguindo-se em sentido contrário ao rio, mediu-se 76,60m com azimute magnético de 294°20'09" até encontrar o ponto 19 que está afastado 19,10m em direção normal ao RIO DE CONTAS, Daí seguindo-se também em sentido contrario ao rio, mediu-se 45,99m com azimute magnético de 296°54'35" até encontrar o ponto 20 que está afastado 21,15m na direção normal ao RIO DE CONTAS. Daí seguindo-se ainda em sentido contrario ao rio, mediu-se 32,03m com azimute magnético de 289°0'56" até encontrar o ponto 21 que está afastado 21,85m na direção normal ao RIO DE CONTAS. Daí seguindo-se também em sentido contrario ao rio, mediu-se 17,46m com azimute magnético de 285°28'47" até encontrar o ponto 22 que está afastado 22,95m na direção normal ao RIO DE CONTAS. Daí seguindo-se por fim, em sentido contrário ao rio, mediu-se 25,99m com azimute magnético de 292°51'37" até encontrar o ponto 23 que está afastado 22,00m na direção normal ao RIO DE CONTAS. Daí deixando o RIO DE CONTAS, divisando agora com terrenos do Sr. RADMESSE ANTONIO DE BRITO, mediu-se 17,80m com azimute magnético de 214°04'13" até encontrar o ponto 24. Daí seguindo-se na mesma divisa mediu-se 103,75m com azimute magnético de 214°41'14" até encontrar o ponto 01 inicio desta descrição, ficando assim o polígono definido com uma Área de 145.361,00m que acrescido a área extra-poligonal de 13.980,00m vem perfazer uma área total de 159.341,00m² objeto desta desapropriação.
+
+**Art. 2º** - A área referida no artigo anterior destinar-se-á à implantação e instalação de uma Estação de Piscicultura em Jequié.
+
+**Art. 3º** - Fica a Procuradoria Geral do Estado autorizada a promover as medidas necessárias à efetivação da desapropriação de que trata este Decreto, seja mediante acordo, seja por via judicial.
+
+**Art. 4º** - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, 11 de fevereiro de 1982.

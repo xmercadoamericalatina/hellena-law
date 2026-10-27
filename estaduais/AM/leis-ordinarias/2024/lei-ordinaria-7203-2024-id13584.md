@@ -1,0 +1,86 @@
+---
+titulo: "Lei Ordinária nº 7.203, de 28 de novembro de 2024"
+uf: "AM"
+tipo: "Lei Ordinária"
+numero: "7203"
+data: 2024-11-28
+ementa: "Dispõe sobre as diretrizes para a Política de Bem - Estar, Saúde, e qualidade de Vida no trabalho e Valorização dos Profissionais da Educação."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O.E. nº 35.355"
+fonte: "https://sapl.al.am.leg.br/norma/13584"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2024/13584/7203.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 7.203, de 28 de novembro de 2024
+
+LEI Nº 7.203, DE 28 DE NOVEMBRO DE 2024.
+
+DISPÕE sobre as diretrizes para a Política de Bem-Estar, Saúde, e qualidade de Vida no trabalho e Valorização dos Profissionais da Educação.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+**Art. 1º** Esta Lei dispõe sobre as diretrizes para a criação da Política de Bem Estar, Saúde e qualidade de Vida no Trabalho e Valorização dos Profissionais da Educação, considerada a necessidade de desenvolver ações direcionadas para a atenção à saúde integral e a prevenção ao adoecimento, bem como de estimular práticas que promovam o bem-estar no trabalho de maneira sustentável, humanizada e duradoura.
+
+**Art. 2º** Para fins da aplicação desta Lei, consideram-se:
+
+I – qualidade de vida no trabalho: conjunto de normas, diretrizes e práticas que integram as condições, a organização, os processos de trabalho, as práticas de gestão e as relações socioprofissionais, com a finalidade de alinhar as necessidades e o bem-estar dos servidores à missão institucional;
+
+II – bem-estar no trabalho: a percepção de emoções positivas e o sentimento de satisfação do trabalhador com relação à organização e às condições de trabalho, às práticas de gestão, ao envolvimento afetivo com o desenvolvimento de suas tarefas e às possibilidades de reconhecimento simbólico;
+
+III – saúde integral: visão integrada do trabalhador como um ser biopsicossocial, com demandas nas diversas áreas da vida, incluída a do trabalho;
+
+IV – valorização do profissional da educação: em consonância com o art. 67 da Lei nº 9.394, de 20 de dezembro de 1996, reconhecimento institucional, por meio da implementação de condições ambientais e relacionais, que contribui para a realização profissional, o aprimoramento das relações socioprofissionais e a ampliação das competências profissionais.
+
+**Art. 3º** A Política de que trata esta Lei será baseada na promoção da saúde integral, no desenvolvimento pessoal e profissional, nas práticas de gestão, nas ações de qualidade de vida no trabalho e na promoção de vivências de bem-estar.
+
+**Art. 4º** São diretrizes da Política de Bem-Estar, Saúde e Qualidade de Vida no Trabalho
+
+I – estabelecimento de relações interpessoais no trabalho com foco na mediação e na harmonia entre o profissional e seus pares e entre o profissional e seus superiores e subordinados;
+
+II – engajamento dos trabalhadores da instituição com foco no planejamento participativo e em ações direcionadas e integradas que visem à contínua melhoria das condições de trabalho, por meio de práticas de gestão e de relações de trabalho harmônicas;
+
+III – implementação de medidas de proteção à saúde integral e de orientação quanto aos protocolos a serem adotados no caso de riscos e de agravos que possam comprometer a saúde dos profissionais da educação;
+
+IV – viabilização de ações de educação permanente que visem à promoção da saúde e à prevenção ao adoecimento no trabalho dos profissionais da educação;
+
+V – promoção de ações educativas e de formação que possibilitem aos trabalhadores a reflexão e a consciência crítica a respeito da responsabilidade social, ética e ambiental;
+
+VI – promoção do desenvolvimento de competências individuais e organizacionais por meio de atividades de capacitação e qualificação que possibilitem o desenvolvimento pessoal e profissional;
+
+VII – estabelecimento de plano organizacional que desenvolva ações para educação e para inclusão social dos trabalhadores com deficiência e que lhes garanta as condições de trabalho essenciais às necessidades laborais;
+
+VIII – estímulo ao equilíbrio entre as atividades profissionais, os cuidados com a saúde e a vida pessoal dos trabalhadores;
+
+IX – estímulo ao desenvolvimento contínuo do aprendizado; e
+
+X – promoção da troca de experiências pedagógicas entre os profissionais da educação, inclusive mediante programas de mentoria profissional para os novos profissionais da educação.
+
+**Parágrafo único.** As diretrizes da política de que trata o caput deverão ser desenvolvidas por meio de planos de qualidade de vida no trabalho que tenham o objetivo de melhorar o clima organizacional, mediante participação ativa e escuta dos profissionais da educação em perspectiva preventiva, na qual a produtividade seja resultante do sentido humano do trabalho, das experiências de bem estar, da promoção da saúde e da segurança nos espaços institucionais.
+
+**Art. 5º** São objetivos da Política de Bem-Estar, Saúde e Qualidade de Vida no Trabalho
+
+I – promover a saúde integral por meio de ações que potencializem os fatores de proteção organizacionais, pessoais e sociais para o aumento do bem-estar, da saúde, da qualidade de vida e da produtividade, considerados as condições, os processos, os contextos de trabalho, o perfil e as necessidades específicas dos profissionais da educação, bem como o número de jornadas laborais efetivamente realizadas, em casa e no trabalho, e a adequação da carga horária e do número de alunos em sala de aula;
+
+II – reduzir os índices de falta ao trabalho, absenteísmo, e de baixo desempenho decorrente de problemas físicos ou emocionais, bem como o absenteísmo e o presenteísmo, mediante a construção de estratégias de enfrentamento coletivo desses fenômenos, considerados os diversos agentes envolvidos e o combate às causas do adoecimento;
+
+III – fomentar a formação continuada com vistas à valorização do trabalhador na perspectiva da promoção da saúde e do aperfeiçoamento das suas competências pessoais e profissionais;
+
+IV – promover a autonomia e a participação ativa por meio da melhoria do clima organizacional e dos processos de trabalho, com vistas a incentivar a corresponsabilidade, o envolvimento, a autonomia, a criatividade e a inovação;
+
+V – estabelecer a importância do bem-estar no ambiente laboral, do lazer e da vida social, mediante vivências caracterizadas, entre outras, por experiências lúdicas, culturais, esportivas e práticas integrativas de saúde; e
+
+VI – considerar as diretrizes, os objetivos, as metas e as estratégias de implementação da Política para assegurar o cumprimento dos planos nacionais, estaduais, distritais e municipais de educação.
+
+**Art. 6º** Os planos direcionados para o cumprimento das diretrizes e dos objetivos de bem-estar, saúde e qualidade de vida no trabalho e de valorização dos profissionais da educação, baseados na Política de que trata esta Lei, serão optativos para as instituições privadas.
+
+**§ 1º** Com o propósito de mensurar os resultados e os impactos no clima organizacional e nas vivências laborais, os planos a que se refere o caput deste artigo deverão conter:
+
+I – indicadores de gestão e instrumentos de avaliação das metas pactuadas; e
+
+II – acompanhamento de dados referentes a absenteísmo, a readaptação funcional e a acidentes de trabalho, entre outros indicadores.
+
+**§ 2º** Os planos a que se refere o caput deste artigo e os dados que basearam a elaboração deles deverão ser mantidos em formato interoperável e estruturado para o uso compartilhado, com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública e à disseminação e ao acesso das informações pelo público em geral, em consonância com as disposições da Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+
+**Art. 7º** Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias da data de sua publicação.

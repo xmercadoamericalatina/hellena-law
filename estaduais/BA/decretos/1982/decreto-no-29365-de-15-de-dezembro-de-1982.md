@@ -1,0 +1,459 @@
+---
+titulo: "Decreto nº 29365, de 15/12/1982"
+uf: "BA"
+tipo: "Decreto"
+numero: "29365"
+data: 1982-12-15
+ementa: "Reconhece situação de emergência nos municípios que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-29365-de-15-de-dezembro-de-1982"
+baixado_em: 2026-10-16
+---
+# Decreto nº 29365, de 15/12/1982
+
+DECRETO Nº 29.365 DE 15 DE DEZEMBRO DE 1982
+
+Reconhece situação de emergência nos municípios que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, tendo em vista o disposto no artigo 3º Parágrafo 2º, Inciso I, do Decreto nº 21.076, de 30.12.1968 e
+
+\- considerando os fatores anormais e adversos de natureza climática a que está submetida vasta área do Estado da Bahia;
+
+\- considerando os extraordinários custos sociais do fenômeno e as implicações econômicas que o agravamento da estiagem provoca;
+
+\- considerando que o reconhecimento dá situação de emergência, por efeito da prolongada estiagem, propiciará a instituição de linhas de credito especiais, assim como auxilio do PROGRAMA DE RECURSOS HÍDRICOS que beneficiarão os pequenos lavradores das regiões atingidas nos seguintes Municípios:
+
+1a RA – SALVADOR
+
+MILAGRES
+
+2a RA - FEIRA DE SANTANA
+
+FEIRA DE SANTANA
+
+ANTONIO CARDOSO
+
+SERRA PRETA
+
+IPECAETÃ
+
+SANTO ESTEVÃO
+
+SANTA TEREZINHA
+
+ÁGUA FRIA
+
+CASTRO ALVES
+
+ANGUERA
+
+IPIRÁ
+
+IRARÁ
+
+OURIÇANGAS
+
+ICHÚ
+
+CANDEAL
+
+SANTA BARBARA
+
+TANQUINHO
+
+LAMARÃO
+
+SANTANÓPOLIS
+
+RIACHÃO DO JACUIPE
+
+PIRITIBA
+
+TAPIRAMUTÁ
+
+MUNDO NOVO
+
+BAIXA GRANDE
+
+3a RA - ALAGOINHAS
+
+CIPÓ
+
+RIBEIRA DO POMBAL
+
+RIBEIRA DO AMPARO
+
+CÍCERO DANTAS
+
+PARIPIRANGA
+
+ITAPICURU
+
+OLINDINA
+
+SÁTIRO DIAS
+
+ANTAS
+
+NOVA SOURE
+
+6a RA - PAULO AFONSO
+
+JEREMOABO
+
+SANTA BRIGIDA
+
+CHORROCHÓ
+
+MACURURÉ
+
+ABARÉ
+
+RODELAS
+
+PEDRO ALEXANDRE
+
+PAULO AFONSO
+
+GLÓRIA
+
+CORONEL JOÃO SÁ
+
+7a RA - SERRINHA
+
+CONCEIÇÃO DO COITÉ
+
+VALENTE
+
+EUCLIDES DA CUNHA
+
+MONTE SANTO
+
+CANSANÇÃO
+
+RETIROLÁNDIA
+
+QUEIMADAS
+
+SANTA LUZ
+
+QUIJINGUE
+
+ARACI
+
+TEOFILÂNDIA
+
+BIRITINGA
+
+SERRINHA
+
+TUCANO
+
+8a RA - JEQUIÉ
+
+LAFAIETE COUTINHO
+
+JEQUIÉ
+
+IRAJUBA
+
+BREJÕES
+
+NOVA ITARANA
+
+PLANALTINO
+
+MARACÁS
+
+MARCIONILIO SOUZA
+
+10a RA – JUAZEIRO
+
+SENHOR DO BONFIM
+
+ANTONIO GONÇALVES
+
+PINDOBAÇO
+
+CAMPO ALEGRE DE LOURDES
+
+PILÃO ARCADO
+
+REMANSO
+
+CAMPO FORMOSO
+
+CASA NOVA
+
+CURAÇÁ
+
+JUAZEIRO
+
+UAUÁ
+
+JAGUARARI
+
+ITIÚBA
+
+SENTO SÉ
+
+11a RA – JACOBINA
+
+MIRANGABA
+
+SAÚDE
+
+CALDEIRÃO GRANDE
+
+JACOBINA
+
+CAÉM
+
+MIGUEL CALMON
+
+VÁRZEA DO POÇO
+
+MAIRI
+
+CAFARNAUM
+
+MORRO DO CHAPÉU
+
+SERROLÁNDIA
+
+12a RA - ITABERABA
+
+UTINGA
+
+MACAJUBA
+
+ITAETÊ
+
+MUCUGÊ
+
+IBIPITANGA
+
+PARATINGA
+
+ITABERABA
+
+IAÇÚ
+
+RUI BARBOSA
+
+IBIQUERA
+
+BOA VISTA DO TUPIM
+
+LAJEDINHO
+
+WAGNER
+
+ANDARAI
+
+LENÇÓIS
+
+PALMEIRAS
+
+IRAQUARA
+
+SOUTO SOARES
+
+IBITIARA
+
+BROTAS DE MACAUBAS
+
+IPUPIARA
+
+OLIVEIRA DOS BREJINHOS
+
+IBOTIRAMA
+
+MORPARÁ
+
+SEABRA
+
+13a RA - VITÓRIA DA CONQUISTA
+
+IRAMAIA
+
+CONTENDAS DO SINCORÁ
+
+BARRA DA ESTIVA
+
+IBICOARA
+
+BONINAL
+
+PIATÃ
+
+ÁGUA QUENTE
+
+RIO DO PIRES
+
+PARAMIRIM
+
+ABAIRA
+
+RIO DE CONTAS
+
+JUSSIAPE
+
+BRUMADO
+
+ITUAÇÚ
+
+TANHAÇÚ
+
+ARACATO
+
+CÂNDIDO SALES
+
+BELO CAMPO
+
+ANAJÉ
+
+MALHADA DE PEDRAS
+
+TREMEDAL
+
+DOM BASILIO
+
+LIVRAMENTO DE NOSSA SENHORA
+
+14a RA – IRECÊ
+
+BARRA DO MENDES
+
+CANARANA
+
+CENTRAL
+
+GENTIO DO OURO
+
+IBIPEBA
+
+IBITITÁ
+
+IRECÊ
+
+JUSSARA
+
+PRESIDENTE DUTRA
+
+UIBAI
+
+BARRA
+
+XIQUE-XIQUE
+
+15a RA - CAETITÉ
+
+BOQUIRA
+
+BOTUPORÃ
+
+PRESIDENTE JÂNIO QUADROS
+
+PIRIPÁ
+
+CORDEIROS
+
+MORTUGABA
+
+JACARACI
+
+URANDI
+
+CACULE
+
+RIO DO ANTONIO
+
+IBIASSUCÊ
+
+LICINIO DE ALMEIDA
+
+CONDEUBA
+
+PINDAI
+
+CANDIBA
+
+SEBASTIÃO LARANJEIRAS
+
+GUANAMBI
+
+PALMAS DE MONTE ALTO
+
+IGAPORÃ
+
+RIACHO DE SANTANA
+
+CAETITÉ
+
+MACAUBAS
+
+16a RA – BARREIRAS
+
+BREJOLÂNDIA
+
+TABOCAS DO BREJO VELHO
+
+COTEGIPE
+
+CRISTÓPOLIS
+
+BAIANÓPOLIS
+
+SÃO DESIDÉRIO
+
+ANGICAL
+
+RIACHÃO DAS NEVES
+
+SANTA RITA DE CÁSSIA
+
+FORMOSA DO RIO PRETO
+
+BARREIRAS
+
+CATOLÂNDIA
+
+17a BA - SANTA MARIA DA VITÓRIA
+
+CORRENTINA
+
+CORIBE
+
+CÔCOS
+
+CARINHANHA
+
+CANÁPOLIS
+
+MALHADA
+
+SANTA MARIA DA VITÓRIA
+
+SANTANA
+
+SERRA DOURADA
+
+BOM JESUS DA LAPA
+
+D E C R E T A
+
+**Art. 1º** - Fica reconhecida situação de emergência nas áreas abrangidas pelos municípios a que se refere este Decreto.
+
+**Art. 2º** - Este Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 15 de dezembro de 1982.
+
+ANTONIO CARLOS MAGALHÃES
+
+Governador
+
+RAFAEL SOUZA DE OLIVEIRA
+
+Secretário

@@ -1,0 +1,134 @@
+---
+titulo: "Lei Promulgada nº 413, de 10 de agosto de 2017"
+uf: "AM"
+tipo: "Lei Promulgada"
+numero: "413"
+data: 2017-08-10
+ementa: "DISPÕE sobre os direitos dos usuários dos serviços e das ações de saúde pública, no Estado do Amazonas."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "e-DOALEAM n. 980"
+fonte: "https://sapl.al.am.leg.br/norma/9905"
+arquivo: "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2017/9905/9905_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Promulgada nº 413, de 10 de agosto de 2017
+
+LEI PROMULGADA N. 413, DE 13 DE JULHO DE 2017.
+
+DISPÕE sobre os direitos dos usuários dos serviços e das ações de saúde pública, no Estado do Amazonas.
+
+O PRESIDENTE DA MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte
+
+LEI PROMULGADA:
+
+**Art. 1.º** A prestação dos serviços e das ações públicas de saúde feitas nos equipamentos públicos próprios, conveniados ou terceirizados, a usuário de qualquer natureza ou condição, no âmbito do Estado do Amazonas, será universal e igualitária, nos termos da Constituição da República, observando-se os princípios do SISTEMA ÚNICO DE SAÚDE (SUS).
+
+**Art. 2.º** São direitos do usuário dos serviços de saúde pública, conveniados ou terceirizados, no Estado do Amazonas:
+
+I - acolhimento, atendimento digno, atencioso e respeitoso;
+
+II - identificação e tratamento pelo nome ou sobrenome e/ou nome social;
+
+III - acesso a um serviço organizado respeitando as necessidades e condições dos usuários, em local digno e adequado, observando uma relação horizontalizada entre usuários, seus familiares e a equipe multiprofissional;
+
+IV - sigilo sobre seus dados pessoais, com a manutenção do sigilo profissional, desde que não acarrete riscos a terceiros ou à saúde pública;
+
+V- identificação dos responsáveis direta ou indiretamente por sua assistência, por meio de crachá visível, legível e que contenha o nome do profissional, cargo e da instituição;
+
+VI - recebimento de informação clara, objetiva e compreensível sobre:
+
+a) diagnóstico multiprofissional;
+
+b) ações terapêuticas;
+
+c) riscos, benefícios e inconvenientes das medidas diagnósticas e terapêuticas propostas;
+
+d) duração prevista do tratamento proposto;
+
+e) em caso de procedimento invasivo, a necessidade ou não de anestesia, o tipo de anestesia a ser aplicada, o instrumental a ser utilizado, as partes do corpo afetadas, os efeitos colaterais, os riscos e as consequências indesejáveis e a duração esperada do procedimento;
+
+f) exames e condutas a que será submetido;
+
+g) alternativas de diagnósticos e meios terapêuticos existentes no serviço ou fora dele;
+
+VII - consentimento ou recusa, de forma livre, voluntária e esclarecida, com adequada informação, a procedimentos diagnósticos e terapêuticos, assistência psicológica ou social;
+
+VIII - acesso, em qualquer momento, ao seu prontuário médico;
+
+IX - recebimento do diagnóstico multiprofissional e do tratamento indicado, por escrito, com a identificação do nome do profissional e de seu número de registro no Conselho de Classe;
+
+X - recebimento da receita médica:
+
+a) com o nome genérico das substâncias prescritas;
+
+b) datilografada, digitada ou em letra legível;
+
+c) sem a utilização de código ou abreviatura;
+
+d) com o nome e a assinatura do profissional e o seu carimbo com o número do CRM;
+
+e) datada, com posologia e dosagem;
+
+XI - conhecimento de anotação realizada, em seu prontuário, principalmente se esteve inconsciente durante o atendimento:
+
+a) da medicação utilizada com as dosagens respectivas, propedêutica, diagnóstico ou hipótese de diagnóstico;
+
+b) do registro da quantidade de sangue recebida e dos dados que permitam identificar a sua origem, sorologias efetuadas e prazo de validade;
+
+XII - recebimento do sumário de alta com informações sobre o período de internação;
+
+XIII - garantia, durante consulta, internação, procedimento diagnóstico multiprofissional e terapêutico e na satisfação de suas necessidades fisiológicas, de:
+
+a) integridade física;
+
+b) privacidade;
+
+c) individualidade;
+
+d) respeito aos seus valores éticos, culturais e religiosos;
+
+e) confidencialidade de toda e qualquer informação pessoal;
+
+f) segurança do procedimento;
+
+g) integridade e acompanhamento psicológico;
+
+XIV - acompanhamento, se assim o desejar, em consulta e internação, por pessoa por ele ou ela indicada;
+
+XV - presença do pai do bebê em exame pré-natal e durante o parto, havendo o consentimento prévio, por escrito, da mãe;
+
+XVI - recebimento, por parte do profissional competente, de auxílio imediato e oportuno para a melhoria de seu conforto e bem estar;
+
+XVII - recebimento, prévia e expressamente, de informação, quando o tratamento proposto for experimental ou fizer parte de pesquisa, conforme legislação em vigor;
+
+XVIII - recebimento de anestesia em todas as situações indicadas;
+
+XIX - recebimento de sangue nas situações indicadas, mesmo que o número de doadores requerido pela instituição de saúde não tenha sido atingido;
+
+XX- o prontuário de criança, ao ser internada, conterá a relação das pessoas que poderão acompanhá-la, durante o período de internação, fornecida pelo responsável;
+
+XXI - a internação psiquiátrica observará o disposto na Lei Federal n. 10.216/2001.
+
+**Art. 3.º** É vedado ao serviço público de saúde e às entidades públicas ou privadas, conveniadas ou contratadas pelo Poder Público:
+
+I - realizar, proceder ou permitir qualquer forma de discriminação aos usuários dos serviços de saúde;
+
+II - manter acesso diferenciado para usuário do Sistema Único de Saúde - SUS e qualquer outro usuário, em face de necessidade de atendimento semelhante, obedecendo-se ao princípio da equidade.
+
+**Parágrafo único.** O disposto no inciso II deste artigo compreende, também, portas de entrada e saída, salas de estar, guichês, listas de agendamento e filas de espera.
+
+**Art. 4.º** Ficam o serviço público de saúde e as entidades privadas, conveniadas ou contratadas pelo Poder Público, obrigados a garantir aos usuários:
+
+I - igualdade de acesso, em idênticas condições, a procedimento para a assistência à saúde, inclusive administrativo, que se faça necessário e seja oferecido pela instituição;
+
+II - atendimento equânime em relação à qualidade dos procedimentos referidos no inciso I deste artigo.
+
+**Parágrafo único.** O direito à igualdade de condições de acesso a serviço, a exame, a procedimento e a sua qualidade, nos termos desta Lei, é extensivo a autarquia, a instituto, a fundação, a hospital universitário e a demais entidades públicas ou privadas que recebam recursos do SUS.
+
+**Art. 5.º** O descumprimento do disposto nesta Lei implica a aplicação de sanções administrativas, civis e penais cabíveis.
+
+**Parágrafo único.** Qualquer pessoa é parte legítima para comunicar os casos de descumprimento desta Lei ao Conselho Estadual de Saúde, ao Ministério Público, à Secretaria Estadual de Saúde e aos demais órgãos competentes.
+
+**Art. 6.º** Ficam os estabelecimentos públicos, conveniados ou terceirizados de saúde obrigados a manter esta Lei afixada em local visível.
+
+**Art. 7.º** Esta Lei entra em vigor na data de sua publicação.
