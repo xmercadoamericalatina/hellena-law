@@ -2,53 +2,53 @@
   "aviso": "Volume não comprova cobertura nacional nem vigência. Não contém jurisprudência.",
   "eventos": [
     {
-      "encontrados": 310,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DLG&ano=2025",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LDL&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 0,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DPL&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCT&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 46,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2025",
-      "status": "ok"
-    },
-    {
-      "encontrados": 45,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RSF&ano=2025",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 3,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RCN&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 0,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RRC&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMR&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 204,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2026",
+      "encontrados": 332,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 14,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2026",
+      "encontrados": 444,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DLG&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 238,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1991",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DPL&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 166,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1990",
+      "encontrados": 276,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1989",
+      "status": "ok"
+    },
+    {
+      "encontrados": 68,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1988",
       "status": "ok"
     },
     {
@@ -97,758 +97,758 @@
       "status": "erro"
     },
     {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-clt",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-constituicao",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-ctn",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-ec132",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lc123",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lc150",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lc214",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lc227",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei13429",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei13467",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei14133",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei6019",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei8036",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei8212",
-      "status": "erro"
-    },
-    {
-      "erro": "Remote end closed connection without response",
-      "id": "prioridade-lei8213",
-      "status": "erro"
-    },
-    {
       "alterado": true,
-      "id": "senado-41620264",
+      "id": "senado-41796292",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627430",
+      "id": "senado-41796328",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627486",
+      "id": "senado-41796364",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627522",
+      "id": "senado-41796400",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627598",
+      "id": "senado-41796436",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627634",
+      "id": "senado-41796472",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627661",
+      "id": "senado-41796508",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627697",
+      "id": "senado-41796562",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627733",
+      "id": "senado-41796598",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627769",
+      "id": "senado-41796634",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627805",
+      "id": "senado-41796670",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627841",
+      "id": "senado-41796706",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41627940",
+      "id": "senado-41796742",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796778",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796814",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796850",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796886",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796922",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796958",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41796994",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797030",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797066",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797102",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797138",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797174",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797210",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797246",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797282",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797318",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41797407",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41804566",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808731",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808787",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808823",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808859",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808895",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808920",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41808956",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41809038",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817414",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817674",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817724",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817753",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817776",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817845",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817867",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817899",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817955",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41817997",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818038",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818097",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818129",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818176",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818218",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818258",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41818294",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41821821",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41821894",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41822009",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41822113",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41822179",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41822344",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41822442",
       "status": "ok"
     },
     {
       "erro": "URN oficial divergente",
-      "id": "senado-41627976",
+      "id": "senado-41831952",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41832220",
       "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-41628021",
+      "id": "senado-41832250",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41656785",
+      "id": "senado-41836886",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41656821",
+      "id": "senado-41841175",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41656857",
+      "id": "senado-41844366",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41656893",
+      "id": "senado-41844402",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41660984",
+      "id": "senado-41844438",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661020",
+      "id": "senado-41844474",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661093",
+      "id": "senado-41844510",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661163",
+      "id": "senado-41844546",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661233",
+      "id": "senado-41844582",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661329",
+      "id": "senado-41844620",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661393",
+      "id": "senado-41844658",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41661463",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41661608",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41661644",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41661680",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41661716",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41669510",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41669610",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41669724",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41669906",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41669976",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41670461",
+      "id": "senado-41844866",
       "status": "ok"
     },
     {
       "erro": "URN oficial divergente",
-      "id": "senado-41672458",
+      "id": "senado-41844902",
       "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-41673794",
+      "id": "senado-41844973",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41673830",
+      "id": "senado-41845020",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41845069",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41853402",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41853438",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41853474",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41853510",
       "status": "ok"
     },
     {
       "erro": "URN oficial divergente",
-      "id": "senado-41674714",
+      "id": "senado-41853546",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853582",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853618",
       "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-41674750",
+      "id": "senado-41853680",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41678355",
+      "id": "senado-41853726",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41683998",
+      "id": "senado-41853762",
       "status": "ok"
     },
     {
-      "erro": "Número não confirmado na epígrafe; revisão necessária",
-      "id": "senado-41689188",
+      "alterado": true,
+      "id": "senado-41853798",
+      "status": "ok"
+    },
+    {
+      "alterado": true,
+      "id": "senado-41853834",
+      "status": "ok"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853870",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853906",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853942",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41853978",
+      "status": "erro"
+    },
+    {
+      "erro": "URN oficial divergente",
+      "id": "senado-41854014",
       "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-41689265",
+      "id": "senado-41854050",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41689328",
+      "id": "senado-41854150",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41689397",
+      "id": "senado-41854306",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41690226",
+      "id": "senado-41854342",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41690296",
+      "id": "senado-41854378",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41690362",
+      "id": "senado-41854414",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41690433",
+      "id": "senado-41854450",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41691158",
+      "id": "senado-41854486",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41696828",
+      "id": "senado-41867120",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41696888",
+      "id": "senado-41867711",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41697076",
+      "id": "senado-41867747",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41697233",
+      "id": "senado-41867783",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41699861",
+      "id": "senado-41867819",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41704345",
+      "id": "senado-41867855",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41704381",
+      "id": "senado-41867891",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41707120",
+      "id": "senado-41867927",
       "status": "ok"
     },
     {
-      "erro": "Fonte sem texto integral",
-      "id": "senado-41707156",
-      "status": "erro"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41707192",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41711232",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41711268",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41711304",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41711624",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715319",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715355",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715423",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715495",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715531",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715567",
-      "status": "ok"
-    },
-    {
-      "erro": "Fonte sem texto integral",
-      "id": "senado-41715603",
-      "status": "erro"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715639",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715671",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715707",
-      "status": "ok"
-    },
-    {
-      "erro": "Fonte sem texto integral",
-      "id": "senado-41715743",
-      "status": "erro"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715779",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715815",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715851",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715887",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715923",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715959",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41715995",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716031",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716067",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716103",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716135",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716171",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716207",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716243",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716279",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716315",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716351",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716387",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716423",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716459",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716495",
-      "status": "ok"
-    },
-    {
-      "alterado": true,
-      "id": "senado-41716602",
-      "status": "ok"
-    },
-    {
       "alterado": true,
-      "id": "senado-41716638",
+      "id": "senado-41869786",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41727253",
+      "id": "senado-41869822",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41727716",
+      "id": "senado-41869858",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41739801",
+      "id": "senado-41869894",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41739849",
+      "id": "senado-41869930",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41753592",
+      "id": "senado-41869966",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758063",
+      "id": "senado-41870002",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758136",
+      "id": "senado-41870038",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758209",
+      "id": "senado-41870074",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758279",
+      "id": "senado-41870110",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758361",
+      "id": "senado-41870146",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758476",
+      "id": "senado-41870182",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41758640",
+      "id": "senado-41870876",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41759201",
+      "id": "senado-41870906",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41759272",
+      "id": "senado-41873624",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41759342",
+      "id": "senado-41873660",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41759413",
+      "id": "senado-41873696",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41782449",
+      "id": "senado-41873732",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41783767",
+      "id": "senado-41874939",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41784056",
+      "id": "senado-41881937",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41784092",
+      "id": "senado-41882019",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41788606",
+      "id": "senado-41882055",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41788654",
+      "id": "senado-41882091",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41788763",
+      "id": "senado-41882097",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41795896",
+      "id": "senado-41882182",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41795932",
+      "id": "senado-41882218",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41795968",
+      "id": "senado-41882254",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796004",
+      "id": "senado-41882290",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796040",
+      "id": "senado-41882326",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796076",
+      "id": "senado-41882388",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796112",
+      "id": "senado-41882424",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796148",
+      "id": "senado-41882460",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796184",
+      "id": "senado-41882496",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796220",
+      "id": "senado-41882532",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-41796256",
+      "id": "senado-41882568",
       "status": "ok"
     }
   ],
-  "executado_em": "2026-11-01T18:04:41+00:00",
-  "fila_total": 9338,
+  "executado_em": "2026-11-01T22:16:37+00:00",
+  "fila_total": 9682,
   "limite_atingido": true,
   "modo": "completo",
   "processados": 150
