@@ -540,814 +540,52 @@
     "status": "pendente"
   },
   {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-11;15355",
-    "id": "senado-42891693",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-11;12874",
-    "id": "senado-42891730",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-12;12877",
-    "id": "senado-42896397",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-12;1340",
-    "id": "senado-42896455",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-12;12875",
-    "id": "senado-42896492",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-12;1341",
-    "id": "senado-42896529",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-12;12876",
-    "id": "senado-42896566",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-13;12879",
-    "id": "senado-42899990",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-13;12878",
-    "id": "senado-42900055",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
+    "erro": "URN oficial divergente",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:2026-03-13;1",
     "id": "senado-42900519",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
+    "erro": "'NoneType' object has no attribute 'get'",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-03-13;15",
     "id": "senado-42900666",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-03-17;14",
-    "id": "senado-42902412",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-17;1342",
-    "id": "senado-42903730",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-18;12881",
-    "id": "senado-42906625",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-18;12880",
-    "id": "senado-42908005",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-18;12882",
-    "id": "senado-42908042",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-19;1343",
-    "id": "senado-42916072",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-19;15356",
-    "id": "senado-42916160",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-03-19;228",
-    "id": "senado-42916365",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-19;12883",
-    "id": "senado-42921997",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-19;1344",
-    "id": "senado-42922061",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-19;12884",
-    "id": "senado-42922140",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-20;15357",
-    "id": "senado-42925616",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-20;12885",
-    "id": "senado-42925960",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-03-20;16",
-    "id": "senado-42926192",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
+    "erro": "URN oficial divergente",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:2026-03-20;2",
     "id": "senado-42926235",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-23;12886",
-    "id": "senado-42927821",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-23;12887",
-    "id": "senado-42927858",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-23;12888",
-    "id": "senado-42928858",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-24;12890",
-    "id": "senado-42930823",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-24;1345",
-    "id": "senado-42930860",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
+    "erro": "IncompleteRead(486264 bytes read)",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-24;15358",
     "id": "senado-42931693",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-24;15359",
-    "id": "senado-42931730",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-24;12889",
-    "id": "senado-42931767",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-24;12891",
-    "id": "senado-42931804",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-25;15360",
-    "id": "senado-42952881",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12893",
-    "id": "senado-42954581",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12897",
-    "id": "senado-42954663",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-25;15361",
-    "id": "senado-42955213",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12892",
-    "id": "senado-42955285",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12894",
-    "id": "senado-42955391",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12895",
-    "id": "senado-42955455",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-25;12896",
-    "id": "senado-42955525",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-26;15363",
-    "id": "senado-42959184",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-26;15362",
-    "id": "senado-42959611",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-26;15364",
-    "id": "senado-42959698",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-26;12898",
-    "id": "senado-42959764",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-26;12899",
-    "id": "senado-42959834",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-26;12900",
-    "id": "senado-42959904",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-26;12901",
-    "id": "senado-42960203",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-26;12902",
-    "id": "senado-42960276",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-27;1346",
-    "id": "senado-42963038",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-03-27;1347",
-    "id": "senado-42963131",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12903",
-    "id": "senado-42963398",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12904",
-    "id": "senado-42963472",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12905",
-    "id": "senado-42963587",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12906",
-    "id": "senado-42963657",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12907",
-    "id": "senado-42963906",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12909",
-    "id": "senado-42963982",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12908",
-    "id": "senado-42963989",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12910",
-    "id": "senado-42964272",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-27;12911",
-    "id": "senado-42964348",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-30;12913",
-    "id": "senado-42965253",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-30;15368",
-    "id": "senado-42965290",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-03-30;229",
-    "id": "senado-42965327",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-30;12912",
-    "id": "senado-42965756",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-30;12914",
-    "id": "senado-42965793",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-30;15365",
-    "id": "senado-42966118",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-30;15366",
-    "id": "senado-42966155",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-30;15367",
-    "id": "senado-42966204",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-30;12916",
-    "id": "senado-42966649",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-30;12915",
-    "id": "senado-42968464",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15369",
-    "id": "senado-42975529",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15370",
-    "id": "senado-42975566",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15371",
-    "id": "senado-42975603",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-31;12917",
-    "id": "senado-42995568",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-01;15373",
-    "id": "senado-43009098",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-01;15372",
-    "id": "senado-43009175",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-02;15377",
-    "id": "senado-43009368",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-02;15374",
-    "id": "senado-43009536",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-02;15375",
-    "id": "senado-43009585",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-02;15376",
-    "id": "senado-43009622",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-02;12919",
-    "id": "senado-43009765",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-03-31;12918",
-    "id": "senado-43009885",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-04-06;1348",
-    "id": "senado-43017083",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-06;15378",
-    "id": "senado-43017143",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-06;12921",
-    "id": "senado-43017180",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-06;12920",
-    "id": "senado-43018225",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-06;15379",
-    "id": "senado-43018262",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-06;15380",
-    "id": "senado-43018299",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-04-06;17",
-    "id": "senado-43018336",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-04-07;1349",
-    "id": "senado-43024252",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-07;12923",
-    "id": "senado-43024301",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-07;12922",
-    "id": "senado-43024997",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-08;15381",
-    "id": "senado-43030106",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-08;12924",
-    "id": "senado-43033873",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-08;12925",
-    "id": "senado-43033933",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-09;15382",
-    "id": "senado-43036633",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-09;15383",
-    "id": "senado-43036753",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-09;15384",
-    "id": "senado-43037009",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-10;15386",
-    "id": "senado-43040498",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-10;15385",
-    "id": "senado-43040606",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-13;12926",
-    "id": "senado-43044299",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-13;12927",
-    "id": "senado-43044369",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-13;15387",
-    "id": "senado-43044420",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-13;12928",
-    "id": "senado-43044679",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-14;12929",
-    "id": "senado-43047116",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-14;15388",
-    "id": "senado-43047141",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12930",
-    "id": "senado-43052242",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-04-15;230",
-    "id": "senado-43052317",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-15;15389",
-    "id": "senado-43052354",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-15;15390",
-    "id": "senado-43052391",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-15;15391",
-    "id": "senado-43052428",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12932",
-    "id": "senado-43052465",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12933",
-    "id": "senado-43052502",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12934",
-    "id": "senado-43052539",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
+    "erro": "Fonte sem texto integral",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12935",
     "id": "senado-43052612",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-04-15;18",
-    "id": "senado-43053356",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto.legislativo:2026-04-15;19",
-    "id": "senado-43053389",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-04-15;1350",
-    "id": "senado-43063332",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-15;12931",
-    "id": "senado-43063369",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
+    "erro": "URN oficial divergente",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:2026-04-15;3",
     "id": "senado-43063755",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
+    "erro": "URN oficial divergente",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:2026-04-14;4",
     "id": "senado-43063785",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
-    "erro": null,
+    "erro": "URN oficial divergente",
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:2026-04-15;5",
     "id": "senado-43063815",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-16;15392",
-    "id": "senado-43072658",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-16;12936",
-    "id": "senado-43072756",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-16;12938",
-    "id": "senado-43073244",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-16;12939",
-    "id": "senado-43073281",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-16;12940",
-    "id": "senado-43073318",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-16;12937",
-    "id": "senado-43074128",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-22;15394",
-    "id": "senado-43076432",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-17;12941",
-    "id": "senado-43077245",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-22;12942",
-    "id": "senado-43078376",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-22;12943",
-    "id": "senado-43078413",
-    "status": "aguardando_coleta"
-  },
-  {
-    "erro": null,
-    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-23;12944",
-    "id": "senado-43080594",
-    "status": "aguardando_coleta"
+    "status": "pendente"
   },
   {
     "erro": null,
@@ -6471,6 +5709,1644 @@
     "erro": null,
     "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-10-21;13141",
     "id": "senado-44277251",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-03-27;7182",
+    "id": "senado-549058",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-04-05;7183",
+    "id": "senado-549059",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-04-16;7184",
+    "id": "senado-549060",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-04-16;7185",
+    "id": "senado-549061",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-04-24;7186",
+    "id": "senado-549062",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-04-26;7187",
+    "id": "senado-549063",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-05-16;7188",
+    "id": "senado-549064",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-04;7189",
+    "id": "senado-549065",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-04;7190",
+    "id": "senado-549066",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-04;7191",
+    "id": "senado-549067",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-05;7192",
+    "id": "senado-549068",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-07;7193",
+    "id": "senado-549069",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-11;7194",
+    "id": "senado-549070",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-12;7195",
+    "id": "senado-549071",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-13;7196",
+    "id": "senado-549072",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-14;7197",
+    "id": "senado-549073",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-19;7198",
+    "id": "senado-549074",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-19;7199",
+    "id": "senado-549075",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-19;7200",
+    "id": "senado-549076",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-26;7201",
+    "id": "senado-549077",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-06-26;7202",
+    "id": "senado-549078",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-03;7203",
+    "id": "senado-549079",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-05;7204",
+    "id": "senado-549080",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-05;7205",
+    "id": "senado-549081",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-05;7206",
+    "id": "senado-549082",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-05;7207",
+    "id": "senado-549083",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-05;7208",
+    "id": "senado-549084",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-11;7209",
+    "id": "senado-549085",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-11;7210",
+    "id": "senado-549086",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-16;7211",
+    "id": "senado-549087",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-07-20;7212",
+    "id": "senado-549088",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-08-15;7213",
+    "id": "senado-549089",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-08-15;7214",
+    "id": "senado-549090",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-08-30;7215",
+    "id": "senado-549091",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-09-10;7216",
+    "id": "senado-549092",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-09-19;7217",
+    "id": "senado-549093",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-09-19;7218",
+    "id": "senado-549094",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-09-19;7219",
+    "id": "senado-549095",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-02;7220",
+    "id": "senado-549096",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-02;7221",
+    "id": "senado-549097",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-02;7222",
+    "id": "senado-549098",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-02;7223",
+    "id": "senado-549099",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-15;7224",
+    "id": "senado-549100",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-15;7225",
+    "id": "senado-549101",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-15;7226",
+    "id": "senado-549102",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-15;7227",
+    "id": "senado-549103",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-15;7228",
+    "id": "senado-549104",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-22;7229",
+    "id": "senado-549105",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-22;7230",
+    "id": "senado-549106",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-23;7231",
+    "id": "senado-549107",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7232",
+    "id": "senado-549108",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7233",
+    "id": "senado-549109",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7234",
+    "id": "senado-549110",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7235",
+    "id": "senado-549111",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7236",
+    "id": "senado-549112",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7237",
+    "id": "senado-549113",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-10-29;7238",
+    "id": "senado-549114",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-05;7239",
+    "id": "senado-549115",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-05;7240",
+    "id": "senado-549116",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-05;7241",
+    "id": "senado-549117",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-05;7242",
+    "id": "senado-549118",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-06;7243",
+    "id": "senado-549119",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-07;7244",
+    "id": "senado-549120",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-13;7245",
+    "id": "senado-549121",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-13;7246",
+    "id": "senado-549122",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-13;7247",
+    "id": "senado-549123",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-13;7248",
+    "id": "senado-549124",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-13;7249",
+    "id": "senado-549125",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-14;7250",
+    "id": "senado-549126",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-19;7251",
+    "id": "senado-549127",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-23;7252",
+    "id": "senado-549128",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-23;7253",
+    "id": "senado-549129",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-26;7254",
+    "id": "senado-549130",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-26;7255",
+    "id": "senado-549131",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-27;7256",
+    "id": "senado-549132",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-11-28;7257",
+    "id": "senado-549133",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7258",
+    "id": "senado-549134",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7259",
+    "id": "senado-549135",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7260",
+    "id": "senado-549136",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7261",
+    "id": "senado-549137",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7262",
+    "id": "senado-549138",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-03;7263",
+    "id": "senado-549139",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-04;7264",
+    "id": "senado-549140",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-04;7265",
+    "id": "senado-549141",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-04;7266",
+    "id": "senado-549142",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-05;7267",
+    "id": "senado-549143",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-05;7268",
+    "id": "senado-549144",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-05;7269",
+    "id": "senado-549145",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7270",
+    "id": "senado-549146",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7271",
+    "id": "senado-549147",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7272",
+    "id": "senado-549148",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7273",
+    "id": "senado-549149",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7274",
+    "id": "senado-549150",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7275",
+    "id": "senado-549151",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7276",
+    "id": "senado-549152",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7277",
+    "id": "senado-549153",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7278",
+    "id": "senado-549154",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-10;7279",
+    "id": "senado-549155",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7280",
+    "id": "senado-549156",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7281",
+    "id": "senado-549157",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7282",
+    "id": "senado-549158",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7283",
+    "id": "senado-549159",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7284",
+    "id": "senado-549160",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-11;7285",
+    "id": "senado-549161",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-18;7286",
+    "id": "senado-549162",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-18;7287",
+    "id": "senado-549163",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-18;7288",
+    "id": "senado-549164",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-18;7289",
+    "id": "senado-549165",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7290",
+    "id": "senado-549166",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7291",
+    "id": "senado-549167",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7292",
+    "id": "senado-549168",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7293",
+    "id": "senado-549169",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7294",
+    "id": "senado-549170",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-19;7295",
+    "id": "senado-549171",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-20;7296",
+    "id": "senado-549172",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-20;7297",
+    "id": "senado-549173",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1984-12-28;7298",
+    "id": "senado-549174",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-03-14;7299",
+    "id": "senado-549175",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-03-27;7300",
+    "id": "senado-549176",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-03-29;7301",
+    "id": "senado-549177",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-03-29;7302",
+    "id": "senado-549178",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-01;7303",
+    "id": "senado-549179",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-01;7304",
+    "id": "senado-549180",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-02;7305",
+    "id": "senado-549181",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-09;7306",
+    "id": "senado-549182",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-09;7307",
+    "id": "senado-549183",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-15;7308",
+    "id": "senado-549184",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-04-22;7309",
+    "id": "senado-549185",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-02;7310",
+    "id": "senado-549186",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-08;7311",
+    "id": "senado-549187",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-16;7312",
+    "id": "senado-549188",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-17;7313",
+    "id": "senado-549189",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-23;7314",
+    "id": "senado-549190",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-24;7315",
+    "id": "senado-549191",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-28;7316",
+    "id": "senado-549192",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-05-28;7317",
+    "id": "senado-549193",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-05;7318",
+    "id": "senado-549194",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-11;7319",
+    "id": "senado-549195",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-11;7320",
+    "id": "senado-549196",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-13;7321",
+    "id": "senado-549197",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7322",
+    "id": "senado-549198",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7323",
+    "id": "senado-549199",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7324",
+    "id": "senado-549200",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7325",
+    "id": "senado-549201",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7326",
+    "id": "senado-549202",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-18;7327",
+    "id": "senado-549203",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-25;7328",
+    "id": "senado-549204",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-27;7329",
+    "id": "senado-549205",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-06-27;7330",
+    "id": "senado-549206",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-01;7331",
+    "id": "senado-549207",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-01;7332",
+    "id": "senado-549208",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-02;7333",
+    "id": "senado-549209",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-02;7334",
+    "id": "senado-549210",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-04;7335",
+    "id": "senado-549211",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-04;7336",
+    "id": "senado-549212",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-08;7337",
+    "id": "senado-549213",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-08;7338",
+    "id": "senado-549214",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-08;7339",
+    "id": "senado-549215",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-10;7340",
+    "id": "senado-549216",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-10;7341",
+    "id": "senado-549217",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-10;7342",
+    "id": "senado-549218",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-15;7343",
+    "id": "senado-549219",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-15;7344",
+    "id": "senado-549220",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-15;7345",
+    "id": "senado-549221",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-22;7346",
+    "id": "senado-549222",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-24;7347",
+    "id": "senado-549223",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-07-24;7348",
+    "id": "senado-549224",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-22;7349",
+    "id": "senado-549225",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-27;7350",
+    "id": "senado-549226",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-27;7351",
+    "id": "senado-549227",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-28;7352",
+    "id": "senado-549228",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-29;7353",
+    "id": "senado-549229",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-30;7354",
+    "id": "senado-549230",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-30;7355",
+    "id": "senado-549231",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-08-30;7356",
+    "id": "senado-549232",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-02;7357",
+    "id": "senado-549233",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-02;7358",
+    "id": "senado-549234",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-10;7359",
+    "id": "senado-549235",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-10;7360",
+    "id": "senado-549236",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-10;7361",
+    "id": "senado-549237",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-10;7362",
+    "id": "senado-549238",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-11;7363",
+    "id": "senado-549239",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-12;7364",
+    "id": "senado-549240",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-13;7365",
+    "id": "senado-549241",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-18;7366",
+    "id": "senado-549242",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-18;7367",
+    "id": "senado-549243",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-18;7368",
+    "id": "senado-549244",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-20;7369",
+    "id": "senado-549245",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-20;7370",
+    "id": "senado-549246",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-24;7371",
+    "id": "senado-549247",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-24;7372",
+    "id": "senado-549248",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-25;7373",
+    "id": "senado-549249",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-30;7374",
+    "id": "senado-549250",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-30;7375",
+    "id": "senado-549251",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-30;7376",
+    "id": "senado-549252",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-30;7377",
+    "id": "senado-549253",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-09-30;7378",
+    "id": "senado-549254",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-07;7379",
+    "id": "senado-549255",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-07;7380",
+    "id": "senado-549256",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-15;7381",
+    "id": "senado-549257",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-15;7382",
+    "id": "senado-549258",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-17;7383",
+    "id": "senado-549259",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-18;7384",
+    "id": "senado-549260",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-18;7385",
+    "id": "senado-549261",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-18;7386",
+    "id": "senado-549262",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-21;7387",
+    "id": "senado-549263",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-23;7388",
+    "id": "senado-549264",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-25;7389",
+    "id": "senado-549265",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-25;7390",
+    "id": "senado-549266",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-25;7391",
+    "id": "senado-549267",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-25;7392",
+    "id": "senado-549268",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-25;7393",
+    "id": "senado-549269",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-29;7394",
+    "id": "senado-549270",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-10-31;7395",
+    "id": "senado-549271",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-01;7396",
+    "id": "senado-549272",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-01;7397",
+    "id": "senado-549273",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-04;7398",
+    "id": "senado-549274",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-04;7399",
+    "id": "senado-549275",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-05;7400",
+    "id": "senado-549276",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-05;7401",
+    "id": "senado-549277",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-05;7402",
+    "id": "senado-549278",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-05;7403",
+    "id": "senado-549279",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-11;7404",
+    "id": "senado-549280",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-12;7405",
+    "id": "senado-549281",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-18;7406",
+    "id": "senado-549282",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-19;7407",
+    "id": "senado-549283",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-25;7408",
+    "id": "senado-549284",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-25;7409",
+    "id": "senado-549285",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-11-27;7410",
+    "id": "senado-549286",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-02;7411",
+    "id": "senado-549287",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-06;7412",
+    "id": "senado-549288",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-09;7413",
+    "id": "senado-549289",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-09;7414",
+    "id": "senado-549290",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-09;7415",
+    "id": "senado-549291",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-10;7416",
+    "id": "senado-549292",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-10;7417",
+    "id": "senado-549293",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-16;7418",
+    "id": "senado-549294",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7419",
+    "id": "senado-549295",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7420",
+    "id": "senado-549296",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7421",
+    "id": "senado-549297",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7422",
+    "id": "senado-549298",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7423",
+    "id": "senado-549299",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7424",
+    "id": "senado-549300",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7425",
+    "id": "senado-549301",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7426",
+    "id": "senado-549302",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7427",
+    "id": "senado-549303",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7428",
+    "id": "senado-549304",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7429",
+    "id": "senado-549305",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7430",
+    "id": "senado-549306",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-17;7431",
+    "id": "senado-549307",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-18;7432",
+    "id": "senado-549308",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-18;7433",
+    "id": "senado-549309",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-19;7434",
+    "id": "senado-549310",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-19;7435",
+    "id": "senado-549311",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7436",
+    "id": "senado-549312",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7437",
+    "id": "senado-549313",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7438",
+    "id": "senado-549314",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7439",
+    "id": "senado-549315",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7440",
+    "id": "senado-549316",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7441",
+    "id": "senado-549317",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7442",
+    "id": "senado-549318",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7443",
+    "id": "senado-549319",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7444",
+    "id": "senado-549320",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7445",
+    "id": "senado-549321",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7446",
+    "id": "senado-549322",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7447",
+    "id": "senado-549323",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7448",
+    "id": "senado-549324",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-20;7449",
+    "id": "senado-549325",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-23;7450",
+    "id": "senado-549326",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-26;7451",
+    "id": "senado-549327",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-27;7452",
+    "id": "senado-549328",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-27;7453",
+    "id": "senado-549329",
+    "status": "aguardando_coleta"
+  },
+  {
+    "erro": null,
+    "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1985-12-30;7454",
+    "id": "senado-549330",
     "status": "aguardando_coleta"
   },
   {
