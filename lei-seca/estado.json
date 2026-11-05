@@ -15,7 +15,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:01+00:00"
+      "tentado_em": "2026-11-05T07:01:11+00:00"
     },
     "prioridade-constituicao": {
       "entrada": {
@@ -32,7 +32,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:03+00:00"
+      "tentado_em": "2026-11-05T07:01:12+00:00"
     },
     "prioridade-ctn": {
       "entrada": {
@@ -49,7 +49,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:04+00:00"
+      "tentado_em": "2026-11-05T07:01:13+00:00"
     },
     "prioridade-ec132": {
       "entrada": {
@@ -66,7 +66,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:06+00:00"
+      "tentado_em": "2026-11-05T07:01:14+00:00"
     },
     "prioridade-lc123": {
       "entrada": {
@@ -83,7 +83,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:08+00:00"
+      "tentado_em": "2026-11-05T07:01:15+00:00"
     },
     "prioridade-lc150": {
       "entrada": {
@@ -100,7 +100,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:09+00:00"
+      "tentado_em": "2026-11-05T07:01:16+00:00"
     },
     "prioridade-lc214": {
       "entrada": {
@@ -117,7 +117,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:10+00:00"
+      "tentado_em": "2026-11-05T07:01:17+00:00"
     },
     "prioridade-lc227": {
       "entrada": {
@@ -134,7 +134,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:11+00:00"
+      "tentado_em": "2026-11-05T07:01:18+00:00"
     },
     "prioridade-lei13429": {
       "entrada": {
@@ -151,7 +151,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:12+00:00"
+      "tentado_em": "2026-11-05T07:01:19+00:00"
     },
     "prioridade-lei13467": {
       "entrada": {
@@ -168,7 +168,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:14+00:00"
+      "tentado_em": "2026-11-05T07:01:20+00:00"
     },
     "prioridade-lei14133": {
       "entrada": {
@@ -185,7 +185,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:15+00:00"
+      "tentado_em": "2026-11-05T07:01:22+00:00"
     },
     "prioridade-lei6019": {
       "entrada": {
@@ -202,7 +202,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:16+00:00"
+      "tentado_em": "2026-11-05T07:01:23+00:00"
     },
     "prioridade-lei8036": {
       "entrada": {
@@ -219,7 +219,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:17+00:00"
+      "tentado_em": "2026-11-05T07:01:24+00:00"
     },
     "prioridade-lei8212": {
       "entrada": {
@@ -236,7 +236,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:18+00:00"
+      "tentado_em": "2026-11-05T07:01:25+00:00"
     },
     "prioridade-lei8213": {
       "entrada": {
@@ -253,7 +253,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-04T06:41:19+00:00"
+      "tentado_em": "2026-11-05T07:01:26+00:00"
     },
     "senado-17648375": {
       "alterado": true,
@@ -76074,6 +76074,8 @@
       "tentado_em": "2026-11-04T19:58:33+00:00"
     },
     "senado-43664304": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:30+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76085,9 +76087,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 311 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;311"
-      }
+      },
+      "original": "originais/39/39a867c47ec8a4922cc6be0cf5a9afa7e6c9e89ce7121ec8eb21640ef9560723.gz",
+      "sha256_original": "39a867c47ec8a4922cc6be0cf5a9afa7e6c9e89ce7121ec8eb21640ef9560723",
+      "sha256_texto": "e3e4cfe15f2e49d520db2fa1334c2d2f050d9bd4d5772f305abd329b16e5d781",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:27+00:00"
     },
     "senado-43664341": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76099,9 +76108,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 312 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;312"
-      }
+      },
+      "original": "originais/1a/1ad8f62681dec14137abd3f3b0a361cc12048f5cabf9505de5094de5fbc38d9a.gz",
+      "sha256_original": "1ad8f62681dec14137abd3f3b0a361cc12048f5cabf9505de5094de5fbc38d9a",
+      "sha256_texto": "2cf193f7327040cbc61f7947c5e2c7f31a1d86c9858559817462fceadc8e2761",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:31+00:00"
     },
     "senado-43664378": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:36+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76113,9 +76129,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 313 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;313"
-      }
+      },
+      "original": "originais/2c/2c756be05b00bba57e0b18a69085292cef8158ecb23d0320e16ec9f236d2ed0e.gz",
+      "sha256_original": "2c756be05b00bba57e0b18a69085292cef8158ecb23d0320e16ec9f236d2ed0e",
+      "sha256_texto": "2727b24df2521c51346cc3811ee5bac32e7c398cc08060bd9c7dfbbb09d167a5",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:34+00:00"
     },
     "senado-43664411": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76127,9 +76150,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 317 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;317"
-      }
+      },
+      "original": "originais/27/278a447036a42c80422d862a1367a95010d763e5392b3ceb261e6852be5dda1c.gz",
+      "sha256_original": "278a447036a42c80422d862a1367a95010d763e5392b3ceb261e6852be5dda1c",
+      "sha256_texto": "e99590575a8d39108cfb916e6819f48305ec382a03d572ff5c0525f91eecc273",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:36+00:00"
     },
     "senado-43664448": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:41+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76141,9 +76171,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 318 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;318"
-      }
+      },
+      "original": "originais/10/1006c112dbc575dec427f215d3648b66a914ac9322bfdea7ea322056ceed3741.gz",
+      "sha256_original": "1006c112dbc575dec427f215d3648b66a914ac9322bfdea7ea322056ceed3741",
+      "sha256_texto": "d42eb5133c2a1082336d8511b4c6eb49793f85f27e635f3e6e8553027c64ad2d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:39+00:00"
     },
     "senado-43664485": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:43+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76155,9 +76192,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 321 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;321"
-      }
+      },
+      "original": "originais/e7/e70f1a17f448579742bf15fec5cfc512a0bc0209491149d12f38a16d5e5884ed.gz",
+      "sha256_original": "e70f1a17f448579742bf15fec5cfc512a0bc0209491149d12f38a16d5e5884ed",
+      "sha256_texto": "7a0f4d045b25421de02b72c14904cc54059ed7ec8f4865fdd73f6aeca95246c9",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:41+00:00"
     },
     "senado-43664522": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:45+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76169,9 +76213,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 322 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;322"
-      }
+      },
+      "original": "originais/05/05bf2380f157823b229e12a9faf19d9bc8bb36dcb139605792182cb23da75a49.gz",
+      "sha256_original": "05bf2380f157823b229e12a9faf19d9bc8bb36dcb139605792182cb23da75a49",
+      "sha256_texto": "8f7d804ec74d7060fed026f9013f35633613a44d0586ceba1214a352834aca49",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:43+00:00"
     },
     "senado-43664559": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76183,9 +76234,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 323 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;323"
-      }
+      },
+      "original": "originais/37/37cd3117d3bd808f7d65c3ae2855c30e44a5d595cf867119ab12e09ca1320a5e.gz",
+      "sha256_original": "37cd3117d3bd808f7d65c3ae2855c30e44a5d595cf867119ab12e09ca1320a5e",
+      "sha256_texto": "62fd8c2aef998811a41a75d13595ffe11d1321ac8f99cfecf5d7e820e328d390",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:46+00:00"
     },
     "senado-43664596": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:50+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76197,9 +76255,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 324 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;324"
-      }
+      },
+      "original": "originais/cc/ccc4a0d954626a19d1f0207a935dc3ff5cfc34e9918bb2bbe897eeb9cb64616d.gz",
+      "sha256_original": "ccc4a0d954626a19d1f0207a935dc3ff5cfc34e9918bb2bbe897eeb9cb64616d",
+      "sha256_texto": "50d56935e4270a8215db91714b2afed09fc01561bb46e28fe714bfe9bac507be",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:48+00:00"
     },
     "senado-43664635": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:54+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76211,9 +76276,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 314 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;314"
-      }
+      },
+      "original": "originais/e5/e52be2cd4adb9910e57d7d3b94ac83599d6809e0d4861b8b0cbf526a28aa4fb5.gz",
+      "sha256_original": "e52be2cd4adb9910e57d7d3b94ac83599d6809e0d4861b8b0cbf526a28aa4fb5",
+      "sha256_texto": "f9b8a8ebee241a113c2a9f1daa0d939f5e9fc14436504433710f43b8682b0546",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:50+00:00"
     },
     "senado-43664672": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:56+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76225,9 +76297,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 315 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;315"
-      }
+      },
+      "original": "originais/8e/8ed98a4ae9645e13f7fe21e339b60fcd76d26c5ba54d33b5e20529f1afe597e2.gz",
+      "sha256_original": "8ed98a4ae9645e13f7fe21e339b60fcd76d26c5ba54d33b5e20529f1afe597e2",
+      "sha256_texto": "4989e481611a328f74ccf5ff5782b489631e9788dbc2c1eef980e52bf533f5af",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:54+00:00"
     },
     "senado-43664709": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:01:59+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76239,9 +76318,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 316 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;316"
-      }
+      },
+      "original": "originais/2f/2fb257a4374ec1e32c66e55d9578cc2c8698e24927e14b8be0ec5b7a6852b546.gz",
+      "sha256_original": "2fb257a4374ec1e32c66e55d9578cc2c8698e24927e14b8be0ec5b7a6852b546",
+      "sha256_texto": "c3f8646944bcfa1c356a07d48860ea5a3df2ebed8719487ce1ea2db6c4754bca",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:57+00:00"
     },
     "senado-43664825": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:01+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76253,9 +76339,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 319 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;319"
-      }
+      },
+      "original": "originais/50/5076225291a19de9d0ccd9f1c0caa4f386eccb0c33dfa0b20993760398dab3ba.gz",
+      "sha256_original": "5076225291a19de9d0ccd9f1c0caa4f386eccb0c33dfa0b20993760398dab3ba",
+      "sha256_texto": "5391f7101527105ceaa3358c1079ef876e1172d0e5e6d49039ca32dacf3ecac9",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:01:59+00:00"
     },
     "senado-43664862": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:03+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76267,9 +76360,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 320 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;320"
-      }
+      },
+      "original": "originais/15/151a9acf385743d04cc543b61b96324bc112e9ae2ddb5e74ba46fb789519db61.gz",
+      "sha256_original": "151a9acf385743d04cc543b61b96324bc112e9ae2ddb5e74ba46fb789519db61",
+      "sha256_texto": "1ede2c762b4fae5a6490916ef5e746b3370c2d1ce861a50e25927ad951aeda9e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:01+00:00"
     },
     "senado-43664899": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:05+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76281,9 +76381,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 325 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;325"
-      }
+      },
+      "original": "originais/ce/ce65ab41fed6f0db7f061a9782fbf9677a0ae67b378e727d41137de7325f54fa.gz",
+      "sha256_original": "ce65ab41fed6f0db7f061a9782fbf9677a0ae67b378e727d41137de7325f54fa",
+      "sha256_texto": "0b493887216549b1cb63141f520e88e6617a777582cbd8b1930a9c440bfcedbd",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:03+00:00"
     },
     "senado-43664936": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:08+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76295,7 +76402,12 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 326 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;326"
-      }
+      },
+      "original": "originais/70/707f7302d934c560404f4a31b6acf0a8d8a80d586ec4e96827a60a404382756a.gz",
+      "sha256_original": "707f7302d934c560404f4a31b6acf0a8d8a80d586ec4e96827a60a404382756a",
+      "sha256_texto": "9130b3bc19aa1d33a4719b01711505f55aeaba2a0212d3808843e06603fdd793",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:06+00:00"
     },
     "senado-43664973": {
       "entrada": {
@@ -76309,9 +76421,14 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 327 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;327"
-      }
+      },
+      "erro": "Fonte sem texto integral",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:02:08+00:00"
     },
     "senado-43665036": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76323,9 +76440,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 329 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;329"
-      }
+      },
+      "original": "originais/61/611e5117d4ab00ec55ad3d1d56e6d6aae2159499fefb6b50a5d93317f1d21fe8.gz",
+      "sha256_original": "611e5117d4ab00ec55ad3d1d56e6d6aae2159499fefb6b50a5d93317f1d21fe8",
+      "sha256_texto": "6252604f03c37caaf117e3f00c008a5bb4a8536593d2029cfba00399366297d2",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:09+00:00"
     },
     "senado-43665073": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:13+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76337,7 +76461,12 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 330 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;330"
-      }
+      },
+      "original": "originais/a8/a84a9002364fc2b0cf5df4c5e1fbd39e009fb3b723e1a7191d5dbce0b0176129.gz",
+      "sha256_original": "a84a9002364fc2b0cf5df4c5e1fbd39e009fb3b723e1a7191d5dbce0b0176129",
+      "sha256_texto": "a57906ec1108b7b204850568fb0b8d8dec130492466b91343c5289e64af2c070",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:11+00:00"
     },
     "senado-43665110": {
       "entrada": {
@@ -76351,9 +76480,14 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 331 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;331"
-      }
+      },
+      "erro": "Fonte sem texto integral",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:02:13+00:00"
     },
     "senado-43665230": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:17+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76365,9 +76499,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 328 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;328"
-      }
+      },
+      "original": "originais/09/095fd11150476bf8b79b618cd45f88a70feee71d0e5f6f6a2caa5d00ecf2cd2f.gz",
+      "sha256_original": "095fd11150476bf8b79b618cd45f88a70feee71d0e5f6f6a2caa5d00ecf2cd2f",
+      "sha256_texto": "51c1d29de86d999e27e7b57943679a729f468c49cad5dd99d19d9753aa11e35e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:14+00:00"
     },
     "senado-43665267": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:19+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76379,9 +76520,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 332 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;332"
-      }
+      },
+      "original": "originais/2b/2b5b4fcf7fe6ee4c3c62006d5779f21494b19840cd8b2dbae951a41b69c703ec.gz",
+      "sha256_original": "2b5b4fcf7fe6ee4c3c62006d5779f21494b19840cd8b2dbae951a41b69c703ec",
+      "sha256_texto": "22c5eb53d144d6543d3169026581e4f901458505d9bc38b0083f4668ff723413",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:17+00:00"
     },
     "senado-43665304": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:21+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76393,9 +76541,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 333 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;333"
-      }
+      },
+      "original": "originais/d8/d88f4baa6c18a7d6816b1977f0896108266857949006d38f282ad2f8530e3ec5.gz",
+      "sha256_original": "d88f4baa6c18a7d6816b1977f0896108266857949006d38f282ad2f8530e3ec5",
+      "sha256_texto": "270ae867622551e23bd646dd049fb79b894bacd1a186a8606425679101df1dfd",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:19+00:00"
     },
     "senado-43665379": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:23+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76407,9 +76562,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 334 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;334"
-      }
+      },
+      "original": "originais/b8/b89a6bcf6a2626faeb77e443d485284b12e45de741fb258ceb7456ef6067a71e.gz",
+      "sha256_original": "b89a6bcf6a2626faeb77e443d485284b12e45de741fb258ceb7456ef6067a71e",
+      "sha256_texto": "5f585fa91702bfeb4832fd3c566966bddb598ed89823c2099f3d24833308fba0",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:21+00:00"
     },
     "senado-43665416": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:26+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-10",
@@ -76421,9 +76583,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 335 de 10/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-10;335"
-      }
+      },
+      "original": "originais/bb/bb0dd8584ae5afbe22beb7cec9941069f5b388a944c6057d71cc97d210e0e9ff.gz",
+      "sha256_original": "bb0dd8584ae5afbe22beb7cec9941069f5b388a944c6057d71cc97d210e0e9ff",
+      "sha256_texto": "11d9118682bfd5539f132982e6563c1f1b815d51ba1dccf7ece511935b5ffb87",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:23+00:00"
     },
     "senado-43673127": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:28+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-11",
@@ -76435,9 +76604,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.093 de 11/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-11;13093"
-      }
+      },
+      "original": "originais/d7/d7f2067d834a7a679332f2ad29ffc42a99377c42717da52d5b8938ec169e96ae.gz",
+      "sha256_original": "d7f2067d834a7a679332f2ad29ffc42a99377c42717da52d5b8938ec169e96ae",
+      "sha256_texto": "3485ae6fc6f14dc6fed833a2717a317a3e4416237a7fb7ae5605e80d4a64118c",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:26+00:00"
     },
     "senado-43675424": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:30+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76449,9 +76625,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.385 de 12/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1385"
-      }
+      },
+      "original": "originais/33/339f3afcaca0a6c7ce473c1b733b98d26715a9879a41ed6e0d9f75af129df366.gz",
+      "sha256_original": "339f3afcaca0a6c7ce473c1b733b98d26715a9879a41ed6e0d9f75af129df366",
+      "sha256_texto": "945740feb64f313c9b35e6d6580ecb1e78afd03e8b9622435c7fbeea504ee2ca",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:28+00:00"
     },
     "senado-43675473": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76463,9 +76646,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.097 de 12/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-12;13097"
-      }
+      },
+      "original": "originais/22/2203a5b1bbe61c9d201de9d637bbaf5c1a6ab625e23ca46f0ea6e37785e9fc5c.gz",
+      "sha256_original": "2203a5b1bbe61c9d201de9d637bbaf5c1a6ab625e23ca46f0ea6e37785e9fc5c",
+      "sha256_texto": "02152de15f95386028268e23c10b2a387f30d283ebd2ae4d9c5cce225fbe6e6e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:30+00:00"
     },
     "senado-43676593": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:35+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76477,9 +76667,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.383 de 12/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1383"
-      }
+      },
+      "original": "originais/50/50a99085c19bf69a21e484f1521242833506f2a1dbb6366cd3d46319ddf0e08e.gz",
+      "sha256_original": "50a99085c19bf69a21e484f1521242833506f2a1dbb6366cd3d46319ddf0e08e",
+      "sha256_texto": "7b4f99f3993534fe66ee3180f8c0ffa1e7e664411f5ee3d5809ba4f6f8af65f8",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:33+00:00"
     },
     "senado-43676642": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:37+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76491,9 +76688,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.384 de 12/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-12;1384"
-      }
+      },
+      "original": "originais/7d/7de645a67d89daf2b6605763dba469a55b9973da2be5aa9516159fc41703a5f7.gz",
+      "sha256_original": "7de645a67d89daf2b6605763dba469a55b9973da2be5aa9516159fc41703a5f7",
+      "sha256_texto": "950f4fbba5bc7d54d4af43e1268c07d0ad0301e165078596c55b51f25a6c8412",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:35+00:00"
     },
     "senado-43676691": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:40+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76505,9 +76709,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.094 de 12/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-12;13094"
-      }
+      },
+      "original": "originais/fe/fed402629c3a54f700c33339e85a866bdd6d435be7bec57239de93ceea450f37.gz",
+      "sha256_original": "fed402629c3a54f700c33339e85a866bdd6d435be7bec57239de93ceea450f37",
+      "sha256_texto": "8f8ba7fb7fc5de8c973bf0e1f831618e4661d62f0caaf34ce12df0d66eacd222",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:37+00:00"
     },
     "senado-43676728": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:42+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76519,9 +76730,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.095 de 12/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-12;13095"
-      }
+      },
+      "original": "originais/fc/fcd699c19118f2ef2e207f3f7ad98fe6cc7958337a217b5d9ecc2629a2133b14.gz",
+      "sha256_original": "fcd699c19118f2ef2e207f3f7ad98fe6cc7958337a217b5d9ecc2629a2133b14",
+      "sha256_texto": "d0dbf5d5b6fee204216c5aab67bf43ae664a30d05cb61b3c6d98e86a3c027d15",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:40+00:00"
     },
     "senado-43676765": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:45+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-12",
@@ -76533,9 +76751,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.096 de 12/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-12;13096"
-      }
+      },
+      "original": "originais/f8/f811903216fdc4499ea54947e75405f72a6c907909828cd92f5b67fac64362ad.gz",
+      "sha256_original": "f811903216fdc4499ea54947e75405f72a6c907909828cd92f5b67fac64362ad",
+      "sha256_texto": "c3fa7a2abf411380424ac9f2d459811227f25699cf7282e4d360227c3f3d7b59",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:42+00:00"
     },
     "senado-43682852": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:47+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-13",
@@ -76547,9 +76772,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.098 de 13/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-13;13098"
-      }
+      },
+      "original": "originais/33/33e173d9923da0018f3aed98aff3adf61aca5022412677959e9f933550eddb2c.gz",
+      "sha256_original": "33e173d9923da0018f3aed98aff3adf61aca5022412677959e9f933550eddb2c",
+      "sha256_texto": "007c7533d1f09000cbc5c0e34afd519e98f312b220d55a0af6e6dff57bab0eff",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:45+00:00"
     },
     "senado-43685727": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:49+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-14",
@@ -76561,9 +76793,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.488 de 14/08/2026",
         "urn": "urn:lex:br:federal:lei:2026-08-14;15488"
-      }
+      },
+      "original": "originais/2d/2d26cb5ed2d547a034fe36c368ca94d5230fb27395d32877281ff2f6ce6ca726.gz",
+      "sha256_original": "2d26cb5ed2d547a034fe36c368ca94d5230fb27395d32877281ff2f6ce6ca726",
+      "sha256_texto": "f50f17598c52ced516508b950a5fe8ea5a03edd45b5622ad36ab35a16d06e792",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:47+00:00"
     },
     "senado-43685867": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:02:51+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-14",
@@ -76575,7 +76814,12 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.489 de 14/08/2026",
         "urn": "urn:lex:br:federal:lei:2026-08-14;15489"
-      }
+      },
+      "original": "originais/93/938445c52d64445a8bc6d3aaaaebc54a5976d934de845047930a1eb0e6e36415.gz",
+      "sha256_original": "938445c52d64445a8bc6d3aaaaebc54a5976d934de845047930a1eb0e6e36415",
+      "sha256_texto": "68d9b00784473155178b01c9d4df9cc3d67dc88159021882c597ae7c2e7ced29",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:02:49+00:00"
     },
     "senado-43685897": {
       "entrada": {
@@ -76589,7 +76833,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 23 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;23"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:02:52+00:00"
     },
     "senado-43685927": {
       "entrada": {
@@ -76603,7 +76850,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 24 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;24"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:04:08+00:00"
     },
     "senado-43685957": {
       "entrada": {
@@ -76617,7 +76867,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 25 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;25"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:04:25+00:00"
     },
     "senado-43685987": {
       "entrada": {
@@ -76631,7 +76884,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 31 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;31"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:04:43+00:00"
     },
     "senado-43685997": {
       "entrada": {
@@ -76645,7 +76901,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 26 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;26"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:05:01+00:00"
     },
     "senado-43686027": {
       "entrada": {
@@ -76659,7 +76918,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 27 de 13/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-13;27"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:05:33+00:00"
     },
     "senado-43686057": {
       "entrada": {
@@ -76673,7 +76935,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 28 de 13/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-13;28"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:05:53+00:00"
     },
     "senado-43686087": {
       "entrada": {
@@ -76687,7 +76952,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 29 de 13/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-13;29"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:05:59+00:00"
     },
     "senado-43686117": {
       "entrada": {
@@ -76701,7 +76969,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 30 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;30"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:06:06+00:00"
     },
     "senado-43686147": {
       "entrada": {
@@ -76715,7 +76986,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 32 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;32"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:06:12+00:00"
     },
     "senado-43686197": {
       "entrada": {
@@ -76729,7 +77003,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 34 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;34"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:06:49+00:00"
     },
     "senado-43686227": {
       "entrada": {
@@ -76743,7 +77020,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 36 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;36"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:07:08+00:00"
     },
     "senado-43686257": {
       "entrada": {
@@ -76757,7 +77037,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 37 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;37"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:07:16+00:00"
     },
     "senado-43686392": {
       "entrada": {
@@ -76771,7 +77054,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 33 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;33"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:07:53+00:00"
     },
     "senado-43686422": {
       "entrada": {
@@ -76785,7 +77071,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 35 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;35"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:08:43+00:00"
     },
     "senado-43687227": {
       "entrada": {
@@ -76799,7 +77088,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 41 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;41"
-      }
+      },
+      "erro": "HTTP Error 503: Service Unavailable",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:09:37+00:00"
     },
     "senado-43687304": {
       "entrada": {
@@ -76813,7 +77105,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 38 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;38"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:10:40+00:00"
     },
     "senado-43687337": {
       "entrada": {
@@ -76827,7 +77122,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 39 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;39"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:10:58+00:00"
     },
     "senado-43687414": {
       "entrada": {
@@ -76841,7 +77139,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 40 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;40"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:11:03+00:00"
     },
     "senado-43687578": {
       "entrada": {
@@ -76855,9 +77156,14 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 42 de 14/08/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;42"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:11:20+00:00"
     },
     "senado-43687666": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:27+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-14",
@@ -76869,9 +77175,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.099 de 14/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-14;13099"
-      }
+      },
+      "original": "originais/fa/fa51d1eb1e4f3c67845a11a18a491f0701479f4be7cf6274d4cc0e68b0d24b2b.gz",
+      "sha256_original": "fa51d1eb1e4f3c67845a11a18a491f0701479f4be7cf6274d4cc0e68b0d24b2b",
+      "sha256_texto": "a99cb710aa16ff68568c952427539c9bb3cec40460c92d6a59adbf89cf78ce3f",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:24+00:00"
     },
     "senado-43689230": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:29+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-17",
@@ -76883,9 +77196,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.490 de 17/08/2026",
         "urn": "urn:lex:br:federal:lei:2026-08-17;15490"
-      }
+      },
+      "original": "originais/63/634ac4a9c54af120f43eb6bc287272ba8b3d0aee23966de292d62577de7aa380.gz",
+      "sha256_original": "634ac4a9c54af120f43eb6bc287272ba8b3d0aee23966de292d62577de7aa380",
+      "sha256_texto": "856553541264779fef6c4be413ccdb175ad59662c9aebc07773b5e1bbbb98ef3",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:27+00:00"
     },
     "senado-43693626": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:31+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-18",
@@ -76897,9 +77217,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.100 de 18/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-18;13100"
-      }
+      },
+      "original": "originais/ae/ae2cbba37500fe36beabcf6708a2280da14f65e0a3b1d543378cdb45c1be21f3.gz",
+      "sha256_original": "ae2cbba37500fe36beabcf6708a2280da14f65e0a3b1d543378cdb45c1be21f3",
+      "sha256_texto": "f3eb12b7178ba945bff6098bd1d1e03f768318e047ebf627992e5e9809e8b1de",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:29+00:00"
     },
     "senado-43693787": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-18",
@@ -76911,9 +77238,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.101 de 18/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-18;13101"
-      }
+      },
+      "original": "originais/28/2854b1c719fba1c76bc682078304753bc4df0bbe35d6d583c34f809e87bbbac7.gz",
+      "sha256_original": "2854b1c719fba1c76bc682078304753bc4df0bbe35d6d583c34f809e87bbbac7",
+      "sha256_texto": "9d694dad768affee8c6a0fae7156d35394adf91e8357cafe807d88c141e27b44",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:31+00:00"
     },
     "senado-43697905": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:36+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-21",
@@ -76925,9 +77259,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.102 de 21/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-21;13102"
-      }
+      },
+      "original": "originais/fb/fb7e09d4796afea44b8df604c01b2cca3801b8912ffc46f23c8db3e01a62a244.gz",
+      "sha256_original": "fb7e09d4796afea44b8df604c01b2cca3801b8912ffc46f23c8db3e01a62a244",
+      "sha256_texto": "588451f5f832269e38c717cb14929df07d644d1a8aa9dc61eed89cbe5cd7b02d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:34+00:00"
     },
     "senado-43698130": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:38+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-21",
@@ -76939,9 +77280,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.103 de 21/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-21;13103"
-      }
+      },
+      "original": "originais/bb/bb33eddc2db8241e63b238567fa3ff0370a8e35ca2fcb8d8e81e668e40459c73.gz",
+      "sha256_original": "bb33eddc2db8241e63b238567fa3ff0370a8e35ca2fcb8d8e81e668e40459c73",
+      "sha256_texto": "02dba88e25136a034c1723df0725f8ebb0b9f0cd45f548310a067911453f76ca",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:36+00:00"
     },
     "senado-43698212": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:40+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-21",
@@ -76953,9 +77301,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.104 de 21/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-21;13104"
-      }
+      },
+      "original": "originais/4b/4b8d9a34186c3259fce0d245faeb8f66615d5add24dc3240028cfb6b1b935885.gz",
+      "sha256_original": "4b8d9a34186c3259fce0d245faeb8f66615d5add24dc3240028cfb6b1b935885",
+      "sha256_texto": "e7b3daca68590e967964189427bb278bf577e9b1ae866853d43b3f53f8223c42",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:38+00:00"
     },
     "senado-43699687": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:42+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -76967,9 +77322,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 336 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;336"
-      }
+      },
+      "original": "originais/9b/9b28a22ce7b51ddb71776b0eb4896e13a7482e956d78f2c8fb43c9621ef2d4ce.gz",
+      "sha256_original": "9b28a22ce7b51ddb71776b0eb4896e13a7482e956d78f2c8fb43c9621ef2d4ce",
+      "sha256_texto": "3c4ca0f4d799436401cd4c7abea73b7ec12caad15bfae567d27828fcc55297a4",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:40+00:00"
     },
     "senado-43699737": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:45+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -76981,9 +77343,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 337 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;337"
-      }
+      },
+      "original": "originais/20/200bc89e62ba7f8dbb8799128013b86ac9dc89c5d2adfd0c4c5b3d82a78bda77.gz",
+      "sha256_original": "200bc89e62ba7f8dbb8799128013b86ac9dc89c5d2adfd0c4c5b3d82a78bda77",
+      "sha256_texto": "d2b22d66c0001a1175d7c3b125e251378be3428d29a84fee6f6079bad1889ea2",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:43+00:00"
     },
     "senado-43699769": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:47+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -76995,9 +77364,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 339 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;339"
-      }
+      },
+      "original": "originais/1a/1a6b33aed70307c0ff0601acec2ada03eac11c9cebeeecb1d0d9fb732e0459d0.gz",
+      "sha256_original": "1a6b33aed70307c0ff0601acec2ada03eac11c9cebeeecb1d0d9fb732e0459d0",
+      "sha256_texto": "b0c0ffc336ff049f96a1ee22e3b2be4a79e5a9040409aa0f76d8dce9c87a6ed9",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:45+00:00"
     },
     "senado-43699801": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:49+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77009,9 +77385,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 348 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;348"
-      }
+      },
+      "original": "originais/55/55a576b22c764350364c3e3541f9f3c73fd529c6df64c59962556a1ab808d40c.gz",
+      "sha256_original": "55a576b22c764350364c3e3541f9f3c73fd529c6df64c59962556a1ab808d40c",
+      "sha256_texto": "188f0d8ac4f7b3c065e95e7eecf9ff4962b572f7f6e33a31bce0cad5db612383",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:47+00:00"
     },
     "senado-43699833": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:52+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77023,9 +77406,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 349 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;349"
-      }
+      },
+      "original": "originais/7b/7bdc80b531bf3239ab50ec381f505fb417773043adc8226aa1efc759fcefb2c2.gz",
+      "sha256_original": "7bdc80b531bf3239ab50ec381f505fb417773043adc8226aa1efc759fcefb2c2",
+      "sha256_texto": "e11746c5ba26caa9ff2709caf3c43dd708f47a137fba1d047b1cbb2c42be5d89",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:49+00:00"
     },
     "senado-43699865": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:54+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77037,9 +77427,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 357 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;357"
-      }
+      },
+      "original": "originais/07/07c7b92ab57ad5f513e45503e26c2851f5802390dcf1241a006a67744e95c22c.gz",
+      "sha256_original": "07c7b92ab57ad5f513e45503e26c2851f5802390dcf1241a006a67744e95c22c",
+      "sha256_texto": "33ba391e2942cc7c3c2b9294935ac125197764d2dd3c09bc85810f088ba0278a",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:52+00:00"
     },
     "senado-43699897": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:56+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77051,9 +77448,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 360 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;360"
-      }
+      },
+      "original": "originais/c1/c1edd370467c4c59d68db3ae034c19169d85ef2c039708470092daeaa36839a5.gz",
+      "sha256_original": "c1edd370467c4c59d68db3ae034c19169d85ef2c039708470092daeaa36839a5",
+      "sha256_texto": "5deab2b3008789ed4f05a6f983fafc272138fe7b05051d1cae55853b711a0a04",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:54+00:00"
     },
     "senado-43699914": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:11:58+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77065,9 +77469,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 338 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;338"
-      }
+      },
+      "original": "originais/fc/fc89d487d9869405fc6df42635e3be432087990d03306582275a577a5bfa6a04.gz",
+      "sha256_original": "fc89d487d9869405fc6df42635e3be432087990d03306582275a577a5bfa6a04",
+      "sha256_texto": "f23d41ebe1fd5c461f123996c93763f98915fa9fed120d79ceea5e1d1f175c98",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:56+00:00"
     },
     "senado-43699946": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:01+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77079,9 +77490,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 340 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;340"
-      }
+      },
+      "original": "originais/3c/3cd9161ade20e9f80810ba980ea22aef63b8a53e12ab36b2aa03485c7fe60a9d.gz",
+      "sha256_original": "3cd9161ade20e9f80810ba980ea22aef63b8a53e12ab36b2aa03485c7fe60a9d",
+      "sha256_texto": "a00a0e79d066a712420d663ae920f5f17ee842a976e9782196757f7aec49eb86",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:11:58+00:00"
     },
     "senado-43699978": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:03+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77093,9 +77511,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 341 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;341"
-      }
+      },
+      "original": "originais/96/9665f119d4568b2518a0f1de92f83957f3ef98855241de61726c679f42114e62.gz",
+      "sha256_original": "9665f119d4568b2518a0f1de92f83957f3ef98855241de61726c679f42114e62",
+      "sha256_texto": "5b75ff13ee1fd091f78148224f637b4a436d300fa8e5aa367b2b94669c6ba95d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:01+00:00"
     },
     "senado-43700010": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:05+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77107,9 +77532,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 342 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;342"
-      }
+      },
+      "original": "originais/5b/5bc89535f0b4c48edc6c742f825a81eab2ecb2e21fd48c9b9025278f89086183.gz",
+      "sha256_original": "5bc89535f0b4c48edc6c742f825a81eab2ecb2e21fd48c9b9025278f89086183",
+      "sha256_texto": "b4d931cadda8a7ed4d7a3d3a3b566579e4b3cf511c62782b28b8e910d01c9b19",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:03+00:00"
     },
     "senado-43700042": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:07+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77121,9 +77553,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 343 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;343"
-      }
+      },
+      "original": "originais/d8/d853e90f86e483bf3c061d27a91b733d52d100e64b96a0a35f514b87b5540a77.gz",
+      "sha256_original": "d853e90f86e483bf3c061d27a91b733d52d100e64b96a0a35f514b87b5540a77",
+      "sha256_texto": "a0f7e179e2fba306709ccff451b06e16536f1e0607c4614caa7b92de8bb477a2",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:05+00:00"
     },
     "senado-43700074": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:09+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77135,9 +77574,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 344 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;344"
-      }
+      },
+      "original": "originais/91/91632eaf7cd8c3bf585afa7c9a8f2000096c42069957d87bb1b293112e360b1a.gz",
+      "sha256_original": "91632eaf7cd8c3bf585afa7c9a8f2000096c42069957d87bb1b293112e360b1a",
+      "sha256_texto": "b212b6adc9a83430aa65d4435d684992bff893003bda525d4468529823554994",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:07+00:00"
     },
     "senado-43700106": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:12+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77149,9 +77595,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 345 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;345"
-      }
+      },
+      "original": "originais/7d/7d4cb641b9fda4e8110f7035f5423d904895582a12dffbcde6b26ccf1b9452c2.gz",
+      "sha256_original": "7d4cb641b9fda4e8110f7035f5423d904895582a12dffbcde6b26ccf1b9452c2",
+      "sha256_texto": "64ff12ce2cfe77f5951b3a90819b49a709bbfa865cf1bbbb22c786bff152b43e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:10+00:00"
     },
     "senado-43700138": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:14+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77163,9 +77616,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 346 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;346"
-      }
+      },
+      "original": "originais/9b/9bb5d054555aa0d2dfad7521ae16feebc403398cfa0a5282a053d68beea213ed.gz",
+      "sha256_original": "9bb5d054555aa0d2dfad7521ae16feebc403398cfa0a5282a053d68beea213ed",
+      "sha256_texto": "7d044b50e2161c18c40e090af0962eea67314ad4378d75dfe5522585ff8f04bc",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:12+00:00"
     },
     "senado-43700170": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:16+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77177,9 +77637,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 347 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;347"
-      }
+      },
+      "original": "originais/45/45931730dc95ca5ad356e8cad76c864f3b272efd933a0f4736dd065368355216.gz",
+      "sha256_original": "45931730dc95ca5ad356e8cad76c864f3b272efd933a0f4736dd065368355216",
+      "sha256_texto": "7c7e30349ad9fce9b695ef15c173c22c97494ac912981cf6b2e8ad2db6943847",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:14+00:00"
     },
     "senado-43700202": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77191,9 +77658,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 350 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;350"
-      }
+      },
+      "original": "originais/75/758a6611af27d224e0ddb2323064e5568343859586cd22b8b16b9ae6d271a15e.gz",
+      "sha256_original": "758a6611af27d224e0ddb2323064e5568343859586cd22b8b16b9ae6d271a15e",
+      "sha256_texto": "a0e3226ce958e6dab9090b75e6d9feedf7d3080999402e6003e64c6d98da2661",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:16+00:00"
     },
     "senado-43700234": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:21+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77205,9 +77679,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 351 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;351"
-      }
+      },
+      "original": "originais/9b/9b07aa953d513581b49fb2cbf9a4e5d014bceb7d51fd00f3ba9d084384d72632.gz",
+      "sha256_original": "9b07aa953d513581b49fb2cbf9a4e5d014bceb7d51fd00f3ba9d084384d72632",
+      "sha256_texto": "74bbd062ad96b600df84e6d2b62fb6dfe1e5f76121ecb770608fbb582df7c1fc",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:19+00:00"
     },
     "senado-43700266": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:23+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77219,9 +77700,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 352 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;352"
-      }
+      },
+      "original": "originais/34/34aa2fcc42fe3fdb79e6e6f12c2c7b58031ea5ddd9c885c491a3f7265788e0cc.gz",
+      "sha256_original": "34aa2fcc42fe3fdb79e6e6f12c2c7b58031ea5ddd9c885c491a3f7265788e0cc",
+      "sha256_texto": "47ecb44f00ac7a6d165f22b8d6b4cc0e5f10139ad14425e5b2afaafa1fa4208d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:21+00:00"
     },
     "senado-43700298": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:25+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77233,9 +77721,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 353 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;353"
-      }
+      },
+      "original": "originais/d8/d843a89b85c2887ef098137440e0d73450a8f63bedb92da7a08d83a7c4ae1a58.gz",
+      "sha256_original": "d843a89b85c2887ef098137440e0d73450a8f63bedb92da7a08d83a7c4ae1a58",
+      "sha256_texto": "b3793491fe1edfe568b693403ce39c3e43ec4891ee725cfc9e6e314917411d14",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:23+00:00"
     },
     "senado-43700330": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:28+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77247,9 +77742,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 354 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;354"
-      }
+      },
+      "original": "originais/15/15ea3b6d742908b482e375751cb10e59d8320e7179060341edba4c0de1eb514e.gz",
+      "sha256_original": "15ea3b6d742908b482e375751cb10e59d8320e7179060341edba4c0de1eb514e",
+      "sha256_texto": "e6fc6a7e46f7260030e7cdb0a4b94b04cc900434c75069e97ad52ea0c19836e3",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:25+00:00"
     },
     "senado-43700362": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:30+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77261,9 +77763,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 355 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;355"
-      }
+      },
+      "original": "originais/9b/9b872bf325dbf16c7bea2194deb85d26cb7671b55e6ebd2ff67e46f68dcf8431.gz",
+      "sha256_original": "9b872bf325dbf16c7bea2194deb85d26cb7671b55e6ebd2ff67e46f68dcf8431",
+      "sha256_texto": "934ed3d9eb265caa8d545825dcaf2b24bacc23e028d980a2f9df925cbcd156a5",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:28+00:00"
     },
     "senado-43700394": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:32+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77275,9 +77784,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 356 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;356"
-      }
+      },
+      "original": "originais/3e/3eb0904c55e6f7820de31dbf04e65a023fa667a7563d15e161243d7efd74fa12.gz",
+      "sha256_original": "3eb0904c55e6f7820de31dbf04e65a023fa667a7563d15e161243d7efd74fa12",
+      "sha256_texto": "8693e73f8dc49eed7720112e85f14d81094fa67c0ec75cec60e6ccfb067d0e8d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:30+00:00"
     },
     "senado-43700426": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:34+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77289,9 +77805,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 358 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;358"
-      }
+      },
+      "original": "originais/0f/0f95b4e3dd044597604071fdfdb7c0212e24a4cc6d88986fe550ebb9c06248d5.gz",
+      "sha256_original": "0f95b4e3dd044597604071fdfdb7c0212e24a4cc6d88986fe550ebb9c06248d5",
+      "sha256_texto": "43d1b7b1fd220b534234688af784ca52f2a3783e8585b6a942466fa96c7c5c85",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:32+00:00"
     },
     "senado-43700458": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:37+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77303,9 +77826,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 359 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;359"
-      }
+      },
+      "original": "originais/88/88e3c63e4503e02128fd1704536615b0aedaca8c591187676177a828c16802f2.gz",
+      "sha256_original": "88e3c63e4503e02128fd1704536615b0aedaca8c591187676177a828c16802f2",
+      "sha256_texto": "9ca6e52cc25f8e1a6e2be26eb4a9c95aaa80b65675e0b9d2f901c2b95be7b40e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:34+00:00"
     },
     "senado-43700490": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77317,9 +77847,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 361 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;361"
-      }
+      },
+      "original": "originais/83/83195b8d30f81073ce726f3ceb268e4d9eb86234aa44cfedfcc0c684f290044f.gz",
+      "sha256_original": "83195b8d30f81073ce726f3ceb268e4d9eb86234aa44cfedfcc0c684f290044f",
+      "sha256_texto": "0d1ebbf81f3847b839c2dc4d49754575f1727471ab27507b4c8962a26720598d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:37+00:00"
     },
     "senado-43700522": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:41+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77331,9 +77868,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 362 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;362"
-      }
+      },
+      "original": "originais/f0/f0bb4342fc07bf7fbbc03dfad92c3b0f3eda3a8b8800b9adc2883eb90a04aeb4.gz",
+      "sha256_original": "f0bb4342fc07bf7fbbc03dfad92c3b0f3eda3a8b8800b9adc2883eb90a04aeb4",
+      "sha256_texto": "1dfe1ee3d53a6426e82f671c363dc44ea64531e2a6b69769c16ada54ffe0481f",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:39+00:00"
     },
     "senado-43700568": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:43+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77345,9 +77889,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 364 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;364"
-      }
+      },
+      "original": "originais/ef/ef1c398c773d4b4fb20150f5c432237ea828dd2461691ca26e2269db7443ca80.gz",
+      "sha256_original": "ef1c398c773d4b4fb20150f5c432237ea828dd2461691ca26e2269db7443ca80",
+      "sha256_texto": "c89e15e8bfc84c5edbd0d1ee176ef7e72de06697250e415291e95c965c76ab44",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:41+00:00"
     },
     "senado-43700574": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77359,9 +77910,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 363 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;363"
-      }
+      },
+      "original": "originais/3e/3e3122ec64d68f46c8f641eb57cd32e56ba48999d282519a9e2c826924b47883.gz",
+      "sha256_original": "3e3122ec64d68f46c8f641eb57cd32e56ba48999d282519a9e2c826924b47883",
+      "sha256_texto": "2bc3c32049677476f9fc1dfb6fe20807983eb36b871ec8da6c02267535204895",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:43+00:00"
     },
     "senado-43700606": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77373,9 +77931,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 365 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;365"
-      }
+      },
+      "original": "originais/92/92b4e7dd771eba1fa57149f823df65586f2a7f9687a503e69626afca3717a8ae.gz",
+      "sha256_original": "92b4e7dd771eba1fa57149f823df65586f2a7f9687a503e69626afca3717a8ae",
+      "sha256_texto": "672874e3d2d775130ee86e7937fcdce1e7891ed8209aebe1106471028ca6c5fa",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:46+00:00"
     },
     "senado-43700640": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:50+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77387,9 +77952,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 370 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;370"
-      }
+      },
+      "original": "originais/e1/e1ce067973756ed6ab42c4211ce18d18b5cdfbcbdefc4591e768297b289b08d5.gz",
+      "sha256_original": "e1ce067973756ed6ab42c4211ce18d18b5cdfbcbdefc4591e768297b289b08d5",
+      "sha256_texto": "9ff60f333cb3cdf26e630106cb2a627a15f9a3d071818ac3b2424621b8b147e3",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:48+00:00"
     },
     "senado-43700685": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:52+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77401,9 +77973,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 366 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;366"
-      }
+      },
+      "original": "originais/df/df2fa9e5a1cd67e0bf188f01e45c83a6dbd42f7ad66549040fc69a385a56cf2f.gz",
+      "sha256_original": "df2fa9e5a1cd67e0bf188f01e45c83a6dbd42f7ad66549040fc69a385a56cf2f",
+      "sha256_texto": "0b78d16a887c882bb509fdeb6af69e3b7a258bf6c436b668d781bb1f312c06b9",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:50+00:00"
     },
     "senado-43700717": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:55+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77415,9 +77994,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 367 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;367"
-      }
+      },
+      "original": "originais/29/29eba0f8dee00c2a757c84e4491fa181a2595d5ba356373f2d0353576a31225b.gz",
+      "sha256_original": "29eba0f8dee00c2a757c84e4491fa181a2595d5ba356373f2d0353576a31225b",
+      "sha256_texto": "8d1be34d8f73bc2315ec687c8355303c7b44eb8d36e4cde762138912107789a6",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:52+00:00"
     },
     "senado-43700749": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:57+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77429,9 +78015,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 368 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;368"
-      }
+      },
+      "original": "originais/b9/b9dd81647a5a422fb45753958f875c7a5217b65f71c3da8f06ad82384c9be1c9.gz",
+      "sha256_original": "b9dd81647a5a422fb45753958f875c7a5217b65f71c3da8f06ad82384c9be1c9",
+      "sha256_texto": "7eecaf8f01e5b17ce445ba22da8465ff0f05b5c39831e84e695167d26b1ab162",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:55+00:00"
     },
     "senado-43700781": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:12:59+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77443,9 +78036,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 369 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;369"
-      }
+      },
+      "original": "originais/4e/4e9ce4f5356f9a527d1fbf82d7b32da934b0f91530bacbb0a0fb9f7082e669b3.gz",
+      "sha256_original": "4e9ce4f5356f9a527d1fbf82d7b32da934b0f91530bacbb0a0fb9f7082e669b3",
+      "sha256_texto": "7963b84d5a13158c33a0e5cbc657f17892217f02a107e5a5047680f8073fda68",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:57+00:00"
     },
     "senado-43700813": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:01+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77457,9 +78057,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 375 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;375"
-      }
+      },
+      "original": "originais/0b/0baca4917d9f704647395922cc8a9bc5975f69de99d192853f25ca665615e2b8.gz",
+      "sha256_original": "0baca4917d9f704647395922cc8a9bc5975f69de99d192853f25ca665615e2b8",
+      "sha256_texto": "58774614b4a6977d61adb211d6a5c9a6bade208d9f23c1f9dfbfda5a419b0ff0",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:12:59+00:00"
     },
     "senado-43700845": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:04+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77471,9 +78078,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 376 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;376"
-      }
+      },
+      "original": "originais/b7/b77eb9268b7346e935fa45cf14dc9228444c94118e3a58b68183f1c15b125a29.gz",
+      "sha256_original": "b77eb9268b7346e935fa45cf14dc9228444c94118e3a58b68183f1c15b125a29",
+      "sha256_texto": "ac36b5ceeb060fe258835e88364b478340460b6a4978fec82a0914d13ff29898",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:01+00:00"
     },
     "senado-43700877": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:06+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77485,9 +78099,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 378 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;378"
-      }
+      },
+      "original": "originais/a7/a7fb64ed3451e38f9ffec6c4c9a67d99996fb2ebdbe56a10d244db8fd2c0776e.gz",
+      "sha256_original": "a7fb64ed3451e38f9ffec6c4c9a67d99996fb2ebdbe56a10d244db8fd2c0776e",
+      "sha256_texto": "015449f3b6657a70a83d091b0ea4d678fd087c64f298eec1be49fc8501ac5247",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:04+00:00"
     },
     "senado-43700892": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:08+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77499,9 +78120,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 371 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;371"
-      }
+      },
+      "original": "originais/9a/9a869ec711ec654d55d68e9c94d3b79300720a8ec5f40a03fcba12b52a934935.gz",
+      "sha256_original": "9a869ec711ec654d55d68e9c94d3b79300720a8ec5f40a03fcba12b52a934935",
+      "sha256_texto": "cab9d04a35c07b18a4587efe6494896c95f457ae6b27b40002c5593b087c03fb",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:06+00:00"
     },
     "senado-43700924": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:10+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77513,9 +78141,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 372 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;372"
-      }
+      },
+      "original": "originais/1f/1fb375ebe8e6ebd7cac17beac1090a9ba6cfc806a7436b3c5cef0d2807f504a3.gz",
+      "sha256_original": "1fb375ebe8e6ebd7cac17beac1090a9ba6cfc806a7436b3c5cef0d2807f504a3",
+      "sha256_texto": "aaa629ad511bba119c74b83eac8e5bf2648896932c417a513b8db7cc1ef5ea31",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:08+00:00"
     },
     "senado-43700956": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:13+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77527,9 +78162,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 373 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;373"
-      }
+      },
+      "original": "originais/76/760e0125bbb494560dbac8de6cc4092db0b83c5a9f450fbbc7cb689d0020174a.gz",
+      "sha256_original": "760e0125bbb494560dbac8de6cc4092db0b83c5a9f450fbbc7cb689d0020174a",
+      "sha256_texto": "49bf8a964f9b32187112256be570131ab09afdb1a7a2c3a30c31672c91878cf6",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:11+00:00"
     },
     "senado-43700988": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:15+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77541,9 +78183,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 374 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;374"
-      }
+      },
+      "original": "originais/95/95844a08e7d1f44234790d16cf8f1e2d605ccc8f770487fe8f378219dfedffd6.gz",
+      "sha256_original": "95844a08e7d1f44234790d16cf8f1e2d605ccc8f770487fe8f378219dfedffd6",
+      "sha256_texto": "fef19150b3131dd6c820c90c2ef735592afc5e1a1cc28637de781e7c3d347200",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:13+00:00"
     },
     "senado-43701020": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:17+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77555,9 +78204,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 377 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;377"
-      }
+      },
+      "original": "originais/6c/6cf17c30e94b233fa0ee27a3e4489f8345a5d862c60c4f70d35ea960dec898f8.gz",
+      "sha256_original": "6cf17c30e94b233fa0ee27a3e4489f8345a5d862c60c4f70d35ea960dec898f8",
+      "sha256_texto": "3dd5d6d63a8fca25d8e7fb71d09b1f07a035c2a10ed6a69bad1ebec644748ae8",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:15+00:00"
     },
     "senado-43701052": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:19+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77569,9 +78225,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 383 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;383"
-      }
+      },
+      "original": "originais/72/72b50ea9d6b88f6a5ceda69c8917966b6fcdea3a01d7a1e18a7d574fc6c4949c.gz",
+      "sha256_original": "72b50ea9d6b88f6a5ceda69c8917966b6fcdea3a01d7a1e18a7d574fc6c4949c",
+      "sha256_texto": "3934064899c8cf98e8758cdecefbf7e0aa7a6e73be9ab5c85d8917222a3a51a7",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:17+00:00"
     },
     "senado-43701149": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77583,9 +78246,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 379 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;379"
-      }
+      },
+      "original": "originais/ce/ce01e8f921603f4156d7bd88003f51d163751b08b84234316051a7265fa07e5a.gz",
+      "sha256_original": "ce01e8f921603f4156d7bd88003f51d163751b08b84234316051a7265fa07e5a",
+      "sha256_texto": "842416f8f7675d856314ac5d26136371fec7b941cdec0b2302562b9fc3d15e42",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:20+00:00"
     },
     "senado-43701181": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:24+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77597,9 +78267,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 380 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;380"
-      }
+      },
+      "original": "originais/7b/7b1c3857c0a0b7f52fac6fd0a07a4abd5fd8dc4b4751fdf6481610b032e5efc2.gz",
+      "sha256_original": "7b1c3857c0a0b7f52fac6fd0a07a4abd5fd8dc4b4751fdf6481610b032e5efc2",
+      "sha256_texto": "738d05cabebb456d9bab6dc24118f4cfed3461732e1f367cb69034079fc13dbd",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:22+00:00"
     },
     "senado-43701213": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:26+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77611,9 +78288,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 381 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;381"
-      }
+      },
+      "original": "originais/f9/f9166ddec882d65064070afce010876ec8395ada4e38c5ffbd0f088fa4b0fed8.gz",
+      "sha256_original": "f9166ddec882d65064070afce010876ec8395ada4e38c5ffbd0f088fa4b0fed8",
+      "sha256_texto": "f416aae8954edbc781124874d1d8fd5bfc5fe33a968fb0c06bbcf7d916327d98",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:24+00:00"
     },
     "senado-43701245": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:29+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77625,9 +78309,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 382 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-08-24;382"
-      }
+      },
+      "original": "originais/e7/e7e8e4d4ae521dc39e53877e4ac0174516a73f3aeaa379b404f0f139cbffce4d.gz",
+      "sha256_original": "e7e8e4d4ae521dc39e53877e4ac0174516a73f3aeaa379b404f0f139cbffce4d",
+      "sha256_texto": "b3c6470cec180a1d6b5c555ba69d27d04a91633b9caf3ed74ef845ea30c5e6af",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:27+00:00"
     },
     "senado-43703975": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:31+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77639,9 +78330,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.386 de 24/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1386"
-      }
+      },
+      "original": "originais/b2/b278bb485d91e654b64f87b5fa8a6e5b20aaf8839e6ec27633fa6bbdd7a4017b.gz",
+      "sha256_original": "b278bb485d91e654b64f87b5fa8a6e5b20aaf8839e6ec27633fa6bbdd7a4017b",
+      "sha256_texto": "ec6652020b28c48e628be2d16babaf59442d4aea97dc31426e8ecdf807b1584d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:29+00:00"
     },
     "senado-43704012": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77653,9 +78351,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.387 de 24/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1387"
-      }
+      },
+      "original": "originais/2c/2ceb271a4a87f408fd2efc99e3ce1451cb038f9fa87229959d197ba1616450ce.gz",
+      "sha256_original": "2ceb271a4a87f408fd2efc99e3ce1451cb038f9fa87229959d197ba1616450ce",
+      "sha256_texto": "83c9005c13fac8394f9b9b201cb3d35b0306bc4d7c2bb97db91018386b487668",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:31+00:00"
     },
     "senado-43704062": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:35+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77667,9 +78372,16 @@
         "tipo": "Medida Provisória",
         "titulo": "Medida Provisória nº 1.388 de 24/08/2026",
         "urn": "urn:lex:br:federal:medida.provisoria:2026-08-24;1388"
-      }
+      },
+      "original": "originais/4c/4c6a387aa1fa395fe1975088a2c6b78af346281c2c8d519ea6a5f6af391b218e.gz",
+      "sha256_original": "4c6a387aa1fa395fe1975088a2c6b78af346281c2c8d519ea6a5f6af391b218e",
+      "sha256_texto": "9906c105fdb2e4c69a80174abb585e0a607b15e608beec92f0818b754ed20b00",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:33+00:00"
     },
     "senado-43704112": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:38+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77681,9 +78393,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.105 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-24;13105"
-      }
+      },
+      "original": "originais/db/db373816b6e753ae5c412cb97bbfa28b112c15cd7ba78112ff6076445353163f.gz",
+      "sha256_original": "db373816b6e753ae5c412cb97bbfa28b112c15cd7ba78112ff6076445353163f",
+      "sha256_texto": "71490e3f7418302a1faedf7eaa4a391fbb4778c38071949f9b11cc747fb399e2",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:36+00:00"
     },
     "senado-43704241": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:40+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77695,9 +78414,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.491 de 24/08/2026",
         "urn": "urn:lex:br:federal:lei:2026-08-24;15491"
-      }
+      },
+      "original": "originais/b4/b4022560cc35dd5ecf438155ec3c062053d06fc0435cf3c2c4e942333c13c76c.gz",
+      "sha256_original": "b4022560cc35dd5ecf438155ec3c062053d06fc0435cf3c2c4e942333c13c76c",
+      "sha256_texto": "81faeb47165f4451301ccf6d2e9d63b55514d1d35d48ff30ea4de5bf7dbdc2d3",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:38+00:00"
     },
     "senado-43704405": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:43+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-24",
@@ -77709,9 +78435,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.106 de 24/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-24;13106"
-      }
+      },
+      "original": "originais/73/734499b786fdb537c254b53912ffa68a0ea3ef9b19f8029b176327e2166d9868.gz",
+      "sha256_original": "734499b786fdb537c254b53912ffa68a0ea3ef9b19f8029b176327e2166d9868",
+      "sha256_texto": "c88a6063c92697c743450271c5df14d67cdd5de946492cdd577d1a6cd7848ebf",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:40+00:00"
     },
     "senado-43715241": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-26",
@@ -77723,9 +78456,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.107 de 26/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-26;13107"
-      }
+      },
+      "original": "originais/4f/4f5a5494685e4aeaa50c478dc4933e0ea917bed9c04e44d8af41eb13a05dbc87.gz",
+      "sha256_original": "4f5a5494685e4aeaa50c478dc4933e0ea917bed9c04e44d8af41eb13a05dbc87",
+      "sha256_texto": "78b97ac2877885bb4868c324e851eb4e5e2e12c881190322826172a06d00662d",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:43+00:00"
     },
     "senado-43717839": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-27",
@@ -77737,9 +78477,16 @@
         "tipo": "Lei Complementar",
         "titulo": "Lei Complementar nº 235 de 27/08/2026",
         "urn": "urn:lex:br:federal:lei.complementar:2026-08-27;235"
-      }
+      },
+      "original": "originais/4e/4ee02102a46a754a1805338301feafbe5c5f316977fee167032aa4cb430bc8ab.gz",
+      "sha256_original": "4ee02102a46a754a1805338301feafbe5c5f316977fee167032aa4cb430bc8ab",
+      "sha256_texto": "da4c9a8f840c88c11267617c92bfa764a80562fdbeb3bf00b4cdb9b3056ca1af",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:46+00:00"
     },
     "senado-43734149": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:50+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-31",
@@ -77751,9 +78498,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.109 de 31/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-31;13109"
-      }
+      },
+      "original": "originais/e6/e6b17bb1a06d2e85d7b0af71848ee74f9d50b76723c883f1375f7569f488b61d.gz",
+      "sha256_original": "e6b17bb1a06d2e85d7b0af71848ee74f9d50b76723c883f1375f7569f488b61d",
+      "sha256_texto": "bdabbea02c1b8bd21d7506283c5094b5d03a47d3b2822b8a727143ffb8cbb2e4",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:48+00:00"
     },
     "senado-43734342": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:53+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-08-31",
@@ -77765,9 +78519,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.108 de 31/08/2026",
         "urn": "urn:lex:br:federal:decreto:2026-08-31;13108"
-      }
+      },
+      "original": "originais/fe/fee51128f7cac5e80c29c7fdaf94498c808ee86eaf9ccd0baa2bb6084fc2d19e.gz",
+      "sha256_original": "fee51128f7cac5e80c29c7fdaf94498c808ee86eaf9ccd0baa2bb6084fc2d19e",
+      "sha256_texto": "fb26d32e84e350159d94b269c47575a8eb136f909cbb77754091821a5ab67431",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:51+00:00"
     },
     "senado-43742761": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:55+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-02",
@@ -77779,9 +78540,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.492 de 02/09/2026",
         "urn": "urn:lex:br:federal:lei:2026-09-02;15492"
-      }
+      },
+      "original": "originais/78/78aac7f6781bd6b300c8804b45dbaa4d399bc369db5fd150a77719a14bf59311.gz",
+      "sha256_original": "78aac7f6781bd6b300c8804b45dbaa4d399bc369db5fd150a77719a14bf59311",
+      "sha256_texto": "79f8fdf844275f3c8a33d2682c3f3585a3579625eae2ce6d7b226e8714b7d88c",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:53+00:00"
     },
     "senado-43742798": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:57+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-02",
@@ -77793,9 +78561,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.493 de 02/09/2026",
         "urn": "urn:lex:br:federal:lei:2026-09-02;15493"
-      }
+      },
+      "original": "originais/8a/8af67ba206701481965051c5af808e8cc5af3c548eeb749f57be9b3fc7f2d541.gz",
+      "sha256_original": "8af67ba206701481965051c5af808e8cc5af3c548eeb749f57be9b3fc7f2d541",
+      "sha256_texto": "020b9ffa9ae0fb2d0fff2d2850dc834c4b0bbd5afbbffda1a9b65e79f1257b5b",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:55+00:00"
     },
     "senado-43742835": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:13:59+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-02",
@@ -77807,9 +78582,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.494 de 02/09/2026",
         "urn": "urn:lex:br:federal:lei:2026-09-02;15494"
-      }
+      },
+      "original": "originais/c7/c712a682cf056edc00f9183a64194de7f2bb031cd8d9acc118c6b919e01233f6.gz",
+      "sha256_original": "c712a682cf056edc00f9183a64194de7f2bb031cd8d9acc118c6b919e01233f6",
+      "sha256_texto": "5ff6a955781e01cadedb19b746f734fe7ac7a31161ec663c03fa1379e38398da",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:13:57+00:00"
     },
     "senado-43742937": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:02+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-02",
@@ -77821,9 +78603,16 @@
         "tipo": "Decreto",
         "titulo": "Decreto nº 13.110 de 02/09/2026",
         "urn": "urn:lex:br:federal:decreto:2026-09-02;13110"
-      }
+      },
+      "original": "originais/54/543e71ac1bc37551ab9b179b0269c93d2eb2d13720fb2707e3ac32df5a3f84f6.gz",
+      "sha256_original": "543e71ac1bc37551ab9b179b0269c93d2eb2d13720fb2707e3ac32df5a3f84f6",
+      "sha256_texto": "1a5aba4992dabb272d8df2b59220b2c16cdf833843cd96d708187abf2f0444c5",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:00+00:00"
     },
     "senado-43749703": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:04+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-03",
@@ -77835,9 +78624,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 386 de 03/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-03;386"
-      }
+      },
+      "original": "originais/0a/0aaad88d4e5c49068d5727f6170ed4f95ae33a40a9356025444c035f6ce15a14.gz",
+      "sha256_original": "0aaad88d4e5c49068d5727f6170ed4f95ae33a40a9356025444c035f6ce15a14",
+      "sha256_texto": "b8d61a784ae18b79151dadb67b43dc1050f7dd9f489872aac553a293689c8df1",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:02+00:00"
     },
     "senado-43749809": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:06+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-03",
@@ -77849,9 +78645,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.495 de 03/09/2026",
         "urn": "urn:lex:br:federal:lei:2026-09-03;15495"
-      }
+      },
+      "original": "originais/d3/d347019ef5421501ccab66c0336a4c61597d2be7915c79fce4a92acbb6c9a6bd.gz",
+      "sha256_original": "d347019ef5421501ccab66c0336a4c61597d2be7915c79fce4a92acbb6c9a6bd",
+      "sha256_texto": "4b78dfe0e1b4b3db1b0d36190f7e29a474ebfdaac6f431fe0dda7dbdbc5cfdf3",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:04+00:00"
     },
     "senado-43749866": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:09+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-03",
@@ -77863,9 +78666,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 15.496 de 03/09/2026",
         "urn": "urn:lex:br:federal:lei:2026-09-03;15496"
-      }
+      },
+      "original": "originais/6b/6b25282841b44419cacbf4712150e67e924d92fb54cafa1fb893282cd922db33.gz",
+      "sha256_original": "6b25282841b44419cacbf4712150e67e924d92fb54cafa1fb893282cd922db33",
+      "sha256_texto": "7785fdc37d24b09915ca74f6272b473422f0a6e952fcc90ec032d84421b023c4",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:06+00:00"
     },
     "senado-43755201": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77877,9 +78687,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 390 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;390"
-      }
+      },
+      "original": "originais/76/7651173881d5787002c2f8f2abd5dea64cc32cc44150c6ff5b43de46dc3da654.gz",
+      "sha256_original": "7651173881d5787002c2f8f2abd5dea64cc32cc44150c6ff5b43de46dc3da654",
+      "sha256_texto": "c40e75582dd5def96da77c5f330e8c639af3df3bb55707d01c9a915d4c7ffe0e",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:09+00:00"
     },
     "senado-43755216": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:13+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77891,9 +78708,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 384 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;384"
-      }
+      },
+      "original": "originais/5d/5d9c782547a38dcbe2bdb0db4d1894e430496bf18208aab7be6ebeb8e87cd4f8.gz",
+      "sha256_original": "5d9c782547a38dcbe2bdb0db4d1894e430496bf18208aab7be6ebeb8e87cd4f8",
+      "sha256_texto": "858c4b54c05fa225e35f5f2f247a4db9c2732638935f7bcbbec69a067686d224",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:11+00:00"
     },
     "senado-43755266": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:15+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77905,9 +78729,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 385 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;385"
-      }
+      },
+      "original": "originais/47/473222165a2fa00e2d9396260426110a891472aff9b16c47602d12ab7338cee5.gz",
+      "sha256_original": "473222165a2fa00e2d9396260426110a891472aff9b16c47602d12ab7338cee5",
+      "sha256_texto": "8f1bc00c9719f6b5c2cb109daef091bc11210b6c944dc6e21575a4ec105bb444",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:13+00:00"
     },
     "senado-43755299": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77919,9 +78750,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 387 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;387"
-      }
+      },
+      "original": "originais/fc/fc0c173271f07aaaebdad41cda5c951808aef48414afb77b5849effc2352ee57.gz",
+      "sha256_original": "fc0c173271f07aaaebdad41cda5c951808aef48414afb77b5849effc2352ee57",
+      "sha256_texto": "20511a19746174e7c1bab7b85e329da9f8d2261d073a3a0ec26f53df62ba7eb0",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:15+00:00"
     },
     "senado-43755333": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:20+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77933,9 +78771,16 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 388 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;388"
-      }
+      },
+      "original": "originais/66/66cd09c4463e320941eb541f1d629f17970de6468d1e91ea671c1ede25331939.gz",
+      "sha256_original": "66cd09c4463e320941eb541f1d629f17970de6468d1e91ea671c1ede25331939",
+      "sha256_texto": "08a85e6456ac2ed4828acf3610ccc85e55e7fbfef0fda7facfca3f8a3d8a50b9",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:18+00:00"
     },
     "senado-43755367": {
+      "alterado": true,
+      "conferido_em": "2026-11-05T07:14:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "2026-09-04",
@@ -77947,7 +78792,12 @@
         "tipo": "Decreto Legislativo",
         "titulo": "Decreto Legislativo nº 389 de 04/09/2026",
         "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-04;389"
-      }
+      },
+      "original": "originais/df/dfc3d2cc0bc6fb3f12abdd6effb26a44d2a608c083c907948874e0cad46877a8.gz",
+      "sha256_original": "dfc3d2cc0bc6fb3f12abdd6effb26a44d2a608c083c907948874e0cad46877a8",
+      "sha256_texto": "9867ac42108f3b56aa7547df6fa02e4d65c20dcc7321061fddce06daca8a0319",
+      "status": "publicado",
+      "tentado_em": "2026-11-05T07:14:20+00:00"
     },
     "senado-43755400": {
       "entrada": {
@@ -77961,7 +78811,10 @@
         "tipo": "Resolução do Senado Federal",
         "titulo": "Resolução do Senado Federal nº 44 de 04/09/2026",
         "urn": "urn:lex:br:senado.federal:resolucao:2026-09-04;44"
-      }
+      },
+      "erro": "URN oficial divergente",
+      "status": "pendente",
+      "tentado_em": "2026-11-05T07:14:22+00:00"
     },
     "senado-43755430": {
       "entrada": {
@@ -179242,7 +180095,7 @@
   },
   "indices": {
     "historico": 49,
-    "recente": 2
+    "recente": 10
   },
   "sapl": {
     "sapl-ac": {
