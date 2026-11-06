@@ -15,7 +15,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:11+00:00"
+      "tentado_em": "2026-11-06T19:31:19+00:00"
     },
     "prioridade-constituicao": {
       "entrada": {
@@ -32,7 +32,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:12+00:00"
+      "tentado_em": "2026-11-06T19:31:20+00:00"
     },
     "prioridade-ctn": {
       "entrada": {
@@ -49,7 +49,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:13+00:00"
+      "tentado_em": "2026-11-06T19:31:22+00:00"
     },
     "prioridade-ec132": {
       "entrada": {
@@ -66,7 +66,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:14+00:00"
+      "tentado_em": "2026-11-06T19:31:23+00:00"
     },
     "prioridade-lc123": {
       "entrada": {
@@ -83,7 +83,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:15+00:00"
+      "tentado_em": "2026-11-06T19:31:25+00:00"
     },
     "prioridade-lc150": {
       "entrada": {
@@ -100,7 +100,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:16+00:00"
+      "tentado_em": "2026-11-06T19:31:26+00:00"
     },
     "prioridade-lc214": {
       "entrada": {
@@ -117,7 +117,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:17+00:00"
+      "tentado_em": "2026-11-06T19:31:27+00:00"
     },
     "prioridade-lc227": {
       "entrada": {
@@ -134,7 +134,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:18+00:00"
+      "tentado_em": "2026-11-06T19:31:28+00:00"
     },
     "prioridade-lei13429": {
       "entrada": {
@@ -151,7 +151,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:19+00:00"
+      "tentado_em": "2026-11-06T19:31:29+00:00"
     },
     "prioridade-lei13467": {
       "entrada": {
@@ -168,7 +168,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:20+00:00"
+      "tentado_em": "2026-11-06T19:31:30+00:00"
     },
     "prioridade-lei14133": {
       "entrada": {
@@ -185,7 +185,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:22+00:00"
+      "tentado_em": "2026-11-06T19:31:31+00:00"
     },
     "prioridade-lei6019": {
       "entrada": {
@@ -202,7 +202,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:23+00:00"
+      "tentado_em": "2026-11-06T19:31:32+00:00"
     },
     "prioridade-lei8036": {
       "entrada": {
@@ -219,7 +219,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:24+00:00"
+      "tentado_em": "2026-11-06T19:31:33+00:00"
     },
     "prioridade-lei8212": {
       "entrada": {
@@ -236,7 +236,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:25+00:00"
+      "tentado_em": "2026-11-06T19:31:35+00:00"
     },
     "prioridade-lei8213": {
       "entrada": {
@@ -253,7 +253,7 @@
       },
       "erro": "Remote end closed connection without response",
       "status": "pendente",
-      "tentado_em": "2026-11-05T07:01:26+00:00"
+      "tentado_em": "2026-11-06T19:31:36+00:00"
     },
     "senado-17648375": {
       "alterado": true,
@@ -81714,6 +81714,3751 @@
       "sha256_texto": "091b9de0c3ef3a75df7e1ef9df013011661a47a156912f81c39ad3a402b90456",
       "status": "publicado",
       "tentado_em": "2026-11-05T20:11:09+00:00"
+    },
+    "senado-547446": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-04;5576",
+        "id": "senado-547446",
+        "id_senado": "547446",
+        "numero": "5576",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.576 de 04/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-04;5576"
+      },
+      "original": "originais/b2/b2254e7928d0b09cc66b76942bd8b1072901c6592665207c19baceb5c734a121.gz",
+      "sha256_original": "b2254e7928d0b09cc66b76942bd8b1072901c6592665207c19baceb5c734a121",
+      "sha256_texto": "4a1bba6d8b659c63b6f4599cf097de20633d49219cff8e4e19c835d7b4ace5a2",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:37+00:00"
+    },
+    "senado-547447": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:44+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-08;5577",
+        "id": "senado-547447",
+        "id_senado": "547447",
+        "numero": "5577",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.577 de 08/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-08;5577"
+      },
+      "original": "originais/d9/d9525e626eb58badc8a230ab201bd6fa33ab79a3853a5c14e76a87b490b08eda.gz",
+      "sha256_original": "d9525e626eb58badc8a230ab201bd6fa33ab79a3853a5c14e76a87b490b08eda",
+      "sha256_texto": "891d93c829595b48915304e9edca7733eafe7d8e061c3b3c784432de582230b2",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:40+00:00"
+    },
+    "senado-547448": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:46+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-08;5578",
+        "id": "senado-547448",
+        "id_senado": "547448",
+        "numero": "5578",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.578 de 08/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-08;5578"
+      },
+      "original": "originais/0d/0d69419a4b0f9c568bf762942980f7354190b7f3a6680f24bbfd228439c500dd.gz",
+      "sha256_original": "0d69419a4b0f9c568bf762942980f7354190b7f3a6680f24bbfd228439c500dd",
+      "sha256_texto": "f5b99ebca918e655076786a69a1d0b81dc0c15967407f8150a8a49f5e938beb4",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:44+00:00"
+    },
+    "senado-547449": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-15;5579",
+        "id": "senado-547449",
+        "id_senado": "547449",
+        "numero": "5579",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.579 de 15/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-15;5579"
+      },
+      "original": "originais/c9/c9f6d4ca0ca6212e74bd6134e3c0315fb9a596f28b86fd8ca18f74de61bff313.gz",
+      "sha256_original": "c9f6d4ca0ca6212e74bd6134e3c0315fb9a596f28b86fd8ca18f74de61bff313",
+      "sha256_texto": "4da940c608c15d9e0c7c99914d5fefb74c09720933167aae7a8171dc7c85991b",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:46+00:00"
+    },
+    "senado-547450": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-25;5580",
+        "id": "senado-547450",
+        "id_senado": "547450",
+        "numero": "5580",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.580 de 25/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-25;5580"
+      },
+      "original": "originais/fc/fc951caf2cceda1d63cfe6dac27cd76065cb39055946740c26765af919414a1e.gz",
+      "sha256_original": "fc951caf2cceda1d63cfe6dac27cd76065cb39055946740c26765af919414a1e",
+      "sha256_texto": "bc2d014f32f2c3b8f43afd114c077dd58931bfc96dddee4a7246840392a4d99c",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:49+00:00"
+    },
+    "senado-547451": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-05-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-05-26;5581",
+        "id": "senado-547451",
+        "id_senado": "547451",
+        "numero": "5581",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.581 de 26/05/1970",
+        "urn": "urn:lex:br:federal:lei:1970-05-26;5581"
+      },
+      "original": "originais/51/510bcdc575298ba8bde6dee8ad092265516e6111d6ebfc5174e99e0e5507f829.gz",
+      "sha256_original": "510bcdc575298ba8bde6dee8ad092265516e6111d6ebfc5174e99e0e5507f829",
+      "sha256_texto": "076a6dd984c82d273c25cf9778724191ee3c0adbb3c5651ffa699e4aec00f480",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:51+00:00"
+    },
+    "senado-547452": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:57+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-06-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-06-16;5582",
+        "id": "senado-547452",
+        "id_senado": "547452",
+        "numero": "5582",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.582 de 16/06/1970",
+        "urn": "urn:lex:br:federal:lei:1970-06-16;5582"
+      },
+      "original": "originais/9e/9e32a5d55de5ffeb0e36a12b30b01fcaffb952e4015269fe7057024c0fc808b2.gz",
+      "sha256_original": "9e32a5d55de5ffeb0e36a12b30b01fcaffb952e4015269fe7057024c0fc808b2",
+      "sha256_texto": "cfff1f7b48b0c798eab852ba5d8942ede2eb547050e45a8460bfb025bf0af40e",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:54+00:00"
+    },
+    "senado-547453": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:31:59+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-06-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-06-25;5583",
+        "id": "senado-547453",
+        "id_senado": "547453",
+        "numero": "5583",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.583 de 25/06/1970",
+        "urn": "urn:lex:br:federal:lei:1970-06-25;5583"
+      },
+      "original": "originais/9f/9fbb77bc42c30cec3c93c373bc653b09214f775f335973ba9c005b0f1878d307.gz",
+      "sha256_original": "9fbb77bc42c30cec3c93c373bc653b09214f775f335973ba9c005b0f1878d307",
+      "sha256_texto": "b553c4ad9a98a80e28d9e23763458d86064c639ab0976d2046e2e9d0619fe222",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:31:57+00:00"
+    },
+    "senado-547454": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-06-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-06-26;5584",
+        "id": "senado-547454",
+        "id_senado": "547454",
+        "numero": "5584",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.584 de 26/06/1970",
+        "urn": "urn:lex:br:federal:lei:1970-06-26;5584"
+      },
+      "original": "originais/fb/fb0fef4583d30a6d8fef663c1d90a620e3fcba8ff3309e730118171539ca21a8.gz",
+      "sha256_original": "fb0fef4583d30a6d8fef663c1d90a620e3fcba8ff3309e730118171539ca21a8",
+      "sha256_texto": "1ab7e1749a9cda0d730a550cdd9b3d6c6eca2cb372720692cbefe0152a537bfe",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:00+00:00"
+    },
+    "senado-547455": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:04+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-06-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-06-30;5585",
+        "id": "senado-547455",
+        "id_senado": "547455",
+        "numero": "5585",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.585 de 30/06/1970",
+        "urn": "urn:lex:br:federal:lei:1970-06-30;5585"
+      },
+      "original": "originais/23/238c55d4baa9dc92c2b8b16cd63f500e7b81e70766ddea71b5f19567f1044581.gz",
+      "sha256_original": "238c55d4baa9dc92c2b8b16cd63f500e7b81e70766ddea71b5f19567f1044581",
+      "sha256_texto": "c275ca2aaecae125f9151adb4913453500202c93d7e35c3855c455950a45a5b2",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:02+00:00"
+    },
+    "senado-547456": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-06-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-06-30;5586",
+        "id": "senado-547456",
+        "id_senado": "547456",
+        "numero": "5586",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.586 de 30/06/1970",
+        "urn": "urn:lex:br:federal:lei:1970-06-30;5586"
+      },
+      "original": "originais/a3/a3fc64d3cda52d546a3c3b776da37df5e6d33f36eaf9cfefcccd45de99a00f0d.gz",
+      "sha256_original": "a3fc64d3cda52d546a3c3b776da37df5e6d33f36eaf9cfefcccd45de99a00f0d",
+      "sha256_texto": "6c543f3bb2c78cf55b8758f16a6a223bacc7486e35638715dcda834d7031dfd6",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:05+00:00"
+    },
+    "senado-547457": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:09+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-02;5587",
+        "id": "senado-547457",
+        "id_senado": "547457",
+        "numero": "5587",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.587 de 02/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-02;5587"
+      },
+      "original": "originais/26/26191298d6f8b07021afdac2f2f712453b396acd9a576ae8d9ef77794e32a989.gz",
+      "sha256_original": "26191298d6f8b07021afdac2f2f712453b396acd9a576ae8d9ef77794e32a989",
+      "sha256_texto": "8a32848c99cc49d6090301f4aa29810c0ebc75de94d1a5c71a92e520a1679375",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:07+00:00"
+    },
+    "senado-547458": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:11+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-02;5588",
+        "id": "senado-547458",
+        "id_senado": "547458",
+        "numero": "5588",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.588 de 02/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-02;5588"
+      },
+      "original": "originais/b8/b8a1b58f7ba7dd87634874a2c0d5d68dac893e60f92594dc9b375cf60ba009dc.gz",
+      "sha256_original": "b8a1b58f7ba7dd87634874a2c0d5d68dac893e60f92594dc9b375cf60ba009dc",
+      "sha256_texto": "9f8b37e6e15d1c5ca1585840962f0a1c7a40a2ece4d37715b65a592945325292",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:09+00:00"
+    },
+    "senado-547459": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-03;5589",
+        "id": "senado-547459",
+        "id_senado": "547459",
+        "numero": "5589",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.589 de 03/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-03;5589"
+      },
+      "original": "originais/55/55c572b274af073224eaee1b11b3909d4db3365de70586ea952ffa69a486ca73.gz",
+      "sha256_original": "55c572b274af073224eaee1b11b3909d4db3365de70586ea952ffa69a486ca73",
+      "sha256_texto": "08bcce0f1552bea90ae6c8782c04b0c19817e317316f1be560d37d503a4580d1",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:12+00:00"
+    },
+    "senado-547460": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:16+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-14;5590",
+        "id": "senado-547460",
+        "id_senado": "547460",
+        "numero": "5590",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.590 de 14/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-14;5590"
+      },
+      "original": "originais/ff/ff1d19b8ad01ab6df94503439e6b63d003fa3e6658baf87e9e8bce751a85081a.gz",
+      "sha256_original": "ff1d19b8ad01ab6df94503439e6b63d003fa3e6658baf87e9e8bce751a85081a",
+      "sha256_texto": "0257f008c0af0ab97a23f593b6c810ac912f3907340cf4eaea82c877f7a3d87d",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:14+00:00"
+    },
+    "senado-547461": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-16;5591",
+        "id": "senado-547461",
+        "id_senado": "547461",
+        "numero": "5591",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.591 de 16/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-16;5591"
+      },
+      "original": "originais/df/dfdfe92ffb2ab3880468300b319e88ac20aed953ceca7b1e7a5a58be59d51ca5.gz",
+      "sha256_original": "dfdfe92ffb2ab3880468300b319e88ac20aed953ceca7b1e7a5a58be59d51ca5",
+      "sha256_texto": "69f580939376fdb1e55bf65173673fb8e61a3869e9eac76d42dfc7ef801b4bc6",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:16+00:00"
+    },
+    "senado-547462": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:21+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-16;5592",
+        "id": "senado-547462",
+        "id_senado": "547462",
+        "numero": "5592",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.592 de 16/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-16;5592"
+      },
+      "original": "originais/76/767d54d69a7b19ec65ac0d4e9aecc7e6f5a49e0ccdb9c2898f72bf2cf37880fa.gz",
+      "sha256_original": "767d54d69a7b19ec65ac0d4e9aecc7e6f5a49e0ccdb9c2898f72bf2cf37880fa",
+      "sha256_texto": "9c3172c37f4e56ca7f78a9846f07dc46c4352a67f34a45097728133c4be79f2c",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:19+00:00"
+    },
+    "senado-547463": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:23+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-16;5593",
+        "id": "senado-547463",
+        "id_senado": "547463",
+        "numero": "5593",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.593 de 16/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-16;5593"
+      },
+      "original": "originais/30/30c38dceceeb307e47799c2612695b836e8904ae25fc3ae5c10a60c1861e46e6.gz",
+      "sha256_original": "30c38dceceeb307e47799c2612695b836e8904ae25fc3ae5c10a60c1861e46e6",
+      "sha256_texto": "97ba5538b1c43d53f23689927e89190e3ebb08003d381ae6a1c577857f1beeba",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:21+00:00"
+    },
+    "senado-547464": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:26+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-21;5594",
+        "id": "senado-547464",
+        "id_senado": "547464",
+        "numero": "5594",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.594 de 21/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-21;5594"
+      },
+      "original": "originais/22/224aaa26589895938b9c8039474be6dcf1688dc5e7660530ea1fadce018836b5.gz",
+      "sha256_original": "224aaa26589895938b9c8039474be6dcf1688dc5e7660530ea1fadce018836b5",
+      "sha256_texto": "43bb3903aa18d0dff8cd5623a30baf3035a6a10a26324a0bf6968315f50b1f0c",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:23+00:00"
+    },
+    "senado-547465": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-28;5595",
+        "id": "senado-547465",
+        "id_senado": "547465",
+        "numero": "5595",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.595 de 28/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-28;5595"
+      },
+      "original": "originais/80/806612dce52a5e6ba5cc576194c934796b883eba75c9703d2dc6d949588f1987.gz",
+      "sha256_original": "806612dce52a5e6ba5cc576194c934796b883eba75c9703d2dc6d949588f1987",
+      "sha256_texto": "1c5384591c44ca3b51a6224b48af73112b57e3331cfb4f7c03d6f23e56b345d7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:26+00:00"
+    },
+    "senado-547466": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-28;5596",
+        "id": "senado-547466",
+        "id_senado": "547466",
+        "numero": "5596",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.596 de 28/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-28;5596"
+      },
+      "original": "originais/5a/5a785aa50b878aeb631b7358f9b528bb4cbd8537c594af00fee6c7c142f51623.gz",
+      "sha256_original": "5a785aa50b878aeb631b7358f9b528bb4cbd8537c594af00fee6c7c142f51623",
+      "sha256_texto": "3223ca4ac150994f0e6478b05f1f7b26c8270ab5c833555a9edb6b26906b919c",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:28+00:00"
+    },
+    "senado-547467": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-07-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-07-31;5597",
+        "id": "senado-547467",
+        "id_senado": "547467",
+        "numero": "5597",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.597 de 31/07/1970",
+        "urn": "urn:lex:br:federal:lei:1970-07-31;5597"
+      },
+      "original": "originais/47/471952a9e0cd7203fbced5f0ee3a35ac4ee6ef5aa3e2954d068e1c14266f897d.gz",
+      "sha256_original": "471952a9e0cd7203fbced5f0ee3a35ac4ee6ef5aa3e2954d068e1c14266f897d",
+      "sha256_texto": "5bdbe08e8148f53371b1cac37bd75f182fb85b5e99f67a904ee2f949637d3ae3",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:31+00:00"
+    },
+    "senado-547468": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-11;5598",
+        "id": "senado-547468",
+        "id_senado": "547468",
+        "numero": "5598",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.598 de 11/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-11;5598"
+      },
+      "original": "originais/d0/d0040b1fc2a9c49fa18b153df9b6dc78e5bebf2678dbbcdf37397b0de04d965a.gz",
+      "sha256_original": "d0040b1fc2a9c49fa18b153df9b6dc78e5bebf2678dbbcdf37397b0de04d965a",
+      "sha256_texto": "ac02d83ae11382eaa8bf30747a3c8ba2716f921c5c59033cbfab52c19f0c3065",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:33+00:00"
+    },
+    "senado-547469": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:37+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-13;5599",
+        "id": "senado-547469",
+        "id_senado": "547469",
+        "numero": "5599",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.599 de 13/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-13;5599"
+      },
+      "original": "originais/74/748d5ab3f6066daf090063165c3d8a0de079b52771fccaa1beaa4b720d7ac0d2.gz",
+      "sha256_original": "748d5ab3f6066daf090063165c3d8a0de079b52771fccaa1beaa4b720d7ac0d2",
+      "sha256_texto": "61376ab49a40fb4b6ba7a693c7a193a44dfe3974bf9d191567e7342175188522",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:35+00:00"
+    },
+    "senado-547470": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-24;5600",
+        "id": "senado-547470",
+        "id_senado": "547470",
+        "numero": "5600",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.600 de 24/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-24;5600"
+      },
+      "original": "originais/9a/9a4077718d16d2b6c9c7a6ec7754fb3ab7a0f5f4aea91f3be9367f4f040ea657.gz",
+      "sha256_original": "9a4077718d16d2b6c9c7a6ec7754fb3ab7a0f5f4aea91f3be9367f4f040ea657",
+      "sha256_texto": "9dd6b8bde49b8bdeafbb89032399ab89975a13088afd5815d7359ea87658d608",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:38+00:00"
+    },
+    "senado-547471": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:42+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-26;5601",
+        "id": "senado-547471",
+        "id_senado": "547471",
+        "numero": "5601",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.601 de 26/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-26;5601"
+      },
+      "original": "originais/6d/6d58c74b6b0ece1b94373d30d44e6515d8f28ee4bf3068b276c5f072174d6ffd.gz",
+      "sha256_original": "6d58c74b6b0ece1b94373d30d44e6515d8f28ee4bf3068b276c5f072174d6ffd",
+      "sha256_texto": "0bfd55ffee1ed3594fa15f908ee0ac1208dff3dda6617650762ddbae80c79ebc",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:40+00:00"
+    },
+    "senado-547472": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:44+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-28;5602",
+        "id": "senado-547472",
+        "id_senado": "547472",
+        "numero": "5602",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.602 de 28/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-28;5602"
+      },
+      "original": "originais/cd/cde1cb161cde58b4342650c7b5e81493c414a0e058a09fae035ab68ed231ed35.gz",
+      "sha256_original": "cde1cb161cde58b4342650c7b5e81493c414a0e058a09fae035ab68ed231ed35",
+      "sha256_texto": "34e401a43f1aebe7ca91b764e27637909512c584b740425a16670470a6fb362a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:42+00:00"
+    },
+    "senado-547473": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:47+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-08-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-08-30;5603",
+        "id": "senado-547473",
+        "id_senado": "547473",
+        "numero": "5603",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.603 de 30/08/1970",
+        "urn": "urn:lex:br:federal:lei:1970-08-30;5603"
+      },
+      "original": "originais/19/198c54126ccc5e7a7f345a309cade0da960dafe9a64c04647625b6fe611055c1.gz",
+      "sha256_original": "198c54126ccc5e7a7f345a309cade0da960dafe9a64c04647625b6fe611055c1",
+      "sha256_texto": "39ff22ca9d7f15e2150addfff9a11fb499885bdbe78e5a659345677eaafbd420",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:45+00:00"
+    },
+    "senado-547474": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:49+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-02;5604",
+        "id": "senado-547474",
+        "id_senado": "547474",
+        "numero": "5604",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.604 de 02/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-02;5604"
+      },
+      "original": "originais/fe/fe6081528b6066bab41d5d1813dcdc9d39498f0c409637cb56ef39f2ef3cb46e.gz",
+      "sha256_original": "fe6081528b6066bab41d5d1813dcdc9d39498f0c409637cb56ef39f2ef3cb46e",
+      "sha256_texto": "0326a177646a17361414cf7f54d26e9015b41c682afba242b07b2ee50f6254fc",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:47+00:00"
+    },
+    "senado-547475": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:52+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-09;5605",
+        "id": "senado-547475",
+        "id_senado": "547475",
+        "numero": "5605",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.605 de 09/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-09;5605"
+      },
+      "original": "originais/90/9027c973340caf823fc0e5027c1b9e5010c9bcd6e8e8eb2b29a9004680accbb2.gz",
+      "sha256_original": "9027c973340caf823fc0e5027c1b9e5010c9bcd6e8e8eb2b29a9004680accbb2",
+      "sha256_texto": "225524e5ef4665928a22291ff170a3aa42bc8aa3684d04fde54fc3ef30e2a9e0",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:49+00:00"
+    },
+    "senado-547477": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-09;5606",
+        "id": "senado-547477",
+        "id_senado": "547477",
+        "numero": "5606",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.606 de 09/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-09;5606"
+      },
+      "original": "originais/ae/ae6dfcb9f4e993cecec386c329833550dff7421109d0c1032367b82dd431b87e.gz",
+      "sha256_original": "ae6dfcb9f4e993cecec386c329833550dff7421109d0c1032367b82dd431b87e",
+      "sha256_texto": "83a1ba520694d80c81d7d7f51deb1f6bc05506e2c56106f2421bfcbc85c35f9f",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:52+00:00"
+    },
+    "senado-547478": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-09;5607",
+        "id": "senado-547478",
+        "id_senado": "547478",
+        "numero": "5607",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.607 de 09/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-09;5607"
+      },
+      "original": "originais/8c/8c485d73fc3eba9a4cf53f998af88ff34c831c7bd29639063ae681c7032de885.gz",
+      "sha256_original": "8c485d73fc3eba9a4cf53f998af88ff34c831c7bd29639063ae681c7032de885",
+      "sha256_texto": "0b2e12b3c99f4ee581db15de06730439d33ce88cfbecda15363aef0d66622fb7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:54+00:00"
+    },
+    "senado-547479": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:32:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-14;5608",
+        "id": "senado-547479",
+        "id_senado": "547479",
+        "numero": "5608",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.608 de 14/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-14;5608"
+      },
+      "original": "originais/63/63f02afee523bc4668a6da21609a42c1ac65aa0f686f833e9b1fdeb21cab6c42.gz",
+      "sha256_original": "63f02afee523bc4668a6da21609a42c1ac65aa0f686f833e9b1fdeb21cab6c42",
+      "sha256_texto": "6f331a72eb4c76356d9c4376ea3b5f937ca206038fc2d0691d6884b37ee5d467",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:56+00:00"
+    },
+    "senado-547480": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:01+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-17;5609",
+        "id": "senado-547480",
+        "id_senado": "547480",
+        "numero": "5609",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.609 de 17/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-17;5609"
+      },
+      "original": "originais/ea/eaa579ddd8f1f9d19d0be1e8ace4e6605ed176d313935a1c9906908a452c6023.gz",
+      "sha256_original": "eaa579ddd8f1f9d19d0be1e8ace4e6605ed176d313935a1c9906908a452c6023",
+      "sha256_texto": "5d82c352be5d17fee83bc59763695957c9a4d9ce49045260ade419997dc8bf41",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:32:59+00:00"
+    },
+    "senado-547482": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:03+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-09-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-09-22;5610",
+        "id": "senado-547482",
+        "id_senado": "547482",
+        "numero": "5610",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.610 de 22/09/1970",
+        "urn": "urn:lex:br:federal:lei:1970-09-22;5610"
+      },
+      "original": "originais/a1/a102f638294fdafe74056b98e06cf582c3f7887001dc4681ad45ce622a3adc62.gz",
+      "sha256_original": "a102f638294fdafe74056b98e06cf582c3f7887001dc4681ad45ce622a3adc62",
+      "sha256_texto": "d7079d1e982ffbd3d7227928a2976977c10c34ec55a1c85e5912fc2fad7161c0",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:01+00:00"
+    },
+    "senado-547483": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-05;5611",
+        "id": "senado-547483",
+        "id_senado": "547483",
+        "numero": "5611",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.611 de 05/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-05;5611"
+      },
+      "original": "originais/83/83054ed0cdcf2175b7885fd7e370fb0ec8c2347babef774a00c6975ad327761c.gz",
+      "sha256_original": "83054ed0cdcf2175b7885fd7e370fb0ec8c2347babef774a00c6975ad327761c",
+      "sha256_texto": "dead03bb18d1a227a46378c5e9aa645b9e3374b53db79137021b4117d3b2eeda",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:03+00:00"
+    },
+    "senado-547484": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:09+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-05;5612",
+        "id": "senado-547484",
+        "id_senado": "547484",
+        "numero": "5612",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.612 de 05/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-05;5612"
+      },
+      "original": "originais/fd/fdcb546981144e11cefec00204b816513f4e03faeea0a37f6e1cd88a02749b20.gz",
+      "sha256_original": "fdcb546981144e11cefec00204b816513f4e03faeea0a37f6e1cd88a02749b20",
+      "sha256_texto": "b1dc1129268c4e1e47031c58eacf45944e176be2f0204e5ade3fe44ddfed4f74",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:06+00:00"
+    },
+    "senado-547485": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-05;5613",
+        "id": "senado-547485",
+        "id_senado": "547485",
+        "numero": "5613",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.613 de 05/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-05;5613"
+      },
+      "original": "originais/73/738d67d7b3e22933b2a9af47aa38d8ce3e8cc10889801f2a7c7fe09c5c04dc11.gz",
+      "sha256_original": "738d67d7b3e22933b2a9af47aa38d8ce3e8cc10889801f2a7c7fe09c5c04dc11",
+      "sha256_texto": "83b377f850da62f1b021db46cee31e779a65a60ed63835b06ac8ed8029860a7c",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:09+00:00"
+    },
+    "senado-547486": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:16+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-05;5614",
+        "id": "senado-547486",
+        "id_senado": "547486",
+        "numero": "5614",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.614 de 05/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-05;5614"
+      },
+      "original": "originais/79/7967406a3263ad49cc5bc46eedd6ddef34c80f4808e536388c6ec6d02621a10f.gz",
+      "sha256_original": "7967406a3263ad49cc5bc46eedd6ddef34c80f4808e536388c6ec6d02621a10f",
+      "sha256_texto": "ffa3b82f5f327aeea6b51202fced48d3c8d019b7567205681868b02560b790d3",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:12+00:00"
+    },
+    "senado-547487": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-13;5615",
+        "id": "senado-547487",
+        "id_senado": "547487",
+        "numero": "5615",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.615 de 13/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-13;5615"
+      },
+      "original": "originais/be/be3e19319b316f3455508e3e06f4cdbb88bede7d0a1a7479d38b356e2875e02c.gz",
+      "sha256_original": "be3e19319b316f3455508e3e06f4cdbb88bede7d0a1a7479d38b356e2875e02c",
+      "sha256_texto": "23053d61ff7765cfee0cbcc5e469ba3091baf0d7e990652b58be805b996bf254",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:16+00:00"
+    },
+    "senado-547488": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:22+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-14;5616",
+        "id": "senado-547488",
+        "id_senado": "547488",
+        "numero": "5616",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.616 de 14/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-14;5616"
+      },
+      "original": "originais/80/803d63af507093e00b15d859f01c09487789d5b033d858dd91056be8db59fdba.gz",
+      "sha256_original": "803d63af507093e00b15d859f01c09487789d5b033d858dd91056be8db59fdba",
+      "sha256_texto": "52a97e92e034f8a3d535173d418311eed786496f39b1b706926e16b3c6210810",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:19+00:00"
+    },
+    "senado-547489": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:25+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-10-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-10-15;5617",
+        "id": "senado-547489",
+        "id_senado": "547489",
+        "numero": "5617",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.617 de 15/10/1970",
+        "urn": "urn:lex:br:federal:lei:1970-10-15;5617"
+      },
+      "original": "originais/41/41479c03adc5761bbdd1c07d6e8a87ef97826198a06cb99f9a7b172f470c7bdb.gz",
+      "sha256_original": "41479c03adc5761bbdd1c07d6e8a87ef97826198a06cb99f9a7b172f470c7bdb",
+      "sha256_texto": "2de509c22a1c034cc762d0356f9430f0a2f2087f37d1fdbab144c8bed7001a81",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:22+00:00"
+    },
+    "senado-547490": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:27+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-11-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-11-03;5618",
+        "id": "senado-547490",
+        "id_senado": "547490",
+        "numero": "5618",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.618 de 03/11/1970",
+        "urn": "urn:lex:br:federal:lei:1970-11-03;5618"
+      },
+      "original": "originais/4c/4c62168cc96d2b6e8da985ed4a90de848044366945c0716f3526eb85a916989c.gz",
+      "sha256_original": "4c62168cc96d2b6e8da985ed4a90de848044366945c0716f3526eb85a916989c",
+      "sha256_texto": "2e57cfe5ff0f97ab1c90cef73f609a13dfa6765ee184748b1b80248a42588503",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:25+00:00"
+    },
+    "senado-547491": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:31+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-11-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-11-03;5619",
+        "id": "senado-547491",
+        "id_senado": "547491",
+        "numero": "5619",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.619 de 03/11/1970",
+        "urn": "urn:lex:br:federal:lei:1970-11-03;5619"
+      },
+      "original": "originais/8a/8a26c8a10b955ad93b3f1c828a2744ff0e34be2eed2c60f98e5539c2fa501d83.gz",
+      "sha256_original": "8a26c8a10b955ad93b3f1c828a2744ff0e34be2eed2c60f98e5539c2fa501d83",
+      "sha256_texto": "bb0f1daf01c7aded855dc097a4935ae3f984d24cfbaeced9fc3b95f4fe682d60",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:28+00:00"
+    },
+    "senado-547492": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-11-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-11-04;5620",
+        "id": "senado-547492",
+        "id_senado": "547492",
+        "numero": "5620",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.620 de 04/11/1970",
+        "urn": "urn:lex:br:federal:lei:1970-11-04;5620"
+      },
+      "original": "originais/93/9328c4ef89cbb7f7b0c6abfac24d524cf9f8612a739d2982b96fbc286a29c5fa.gz",
+      "sha256_original": "9328c4ef89cbb7f7b0c6abfac24d524cf9f8612a739d2982b96fbc286a29c5fa",
+      "sha256_texto": "65fcf1996c99a3b24a24d88871dd14b906e63426f66e6a14d162edb5af51012a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:31+00:00"
+    },
+    "senado-547493": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:36+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-11-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-11-04;5621",
+        "id": "senado-547493",
+        "id_senado": "547493",
+        "numero": "5621",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.621 de 04/11/1970",
+        "urn": "urn:lex:br:federal:lei:1970-11-04;5621"
+      },
+      "original": "originais/45/455dad640a724bbd857658c540d95afd2eda86eb599f6594d99a496920febe94.gz",
+      "sha256_original": "455dad640a724bbd857658c540d95afd2eda86eb599f6594d99a496920febe94",
+      "sha256_texto": "643761dbeec7997f7554df5397f224e9fa9b8270b448523abbd8d464dd8e2df4",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:34+00:00"
+    },
+    "senado-547494": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:39+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5622",
+        "id": "senado-547494",
+        "id_senado": "547494",
+        "numero": "5622",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.622 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5622"
+      },
+      "original": "originais/bf/bf7681b7832e5d6f381fecb6e1efaa7857e420af8bb76e9daf289246a88b1c48.gz",
+      "sha256_original": "bf7681b7832e5d6f381fecb6e1efaa7857e420af8bb76e9daf289246a88b1c48",
+      "sha256_texto": "48669f82d3afef4e8c241e73da20813696aa13926a375e6a9ee3ec125874d616",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:36+00:00"
+    },
+    "senado-547495": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:41+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5623",
+        "id": "senado-547495",
+        "id_senado": "547495",
+        "numero": "5623",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.623 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5623"
+      },
+      "original": "originais/75/75ea37c38644f6a8ccafc6d8997bbadcad8f1cf7d49bc3e75e387e69c3a9c886.gz",
+      "sha256_original": "75ea37c38644f6a8ccafc6d8997bbadcad8f1cf7d49bc3e75e387e69c3a9c886",
+      "sha256_texto": "05212d8a22be1b7953cd46094f57f49054f2a568c26858edc3f1283e746829c9",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:39+00:00"
+    },
+    "senado-547496": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:43+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5624",
+        "id": "senado-547496",
+        "id_senado": "547496",
+        "numero": "5624",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.624 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5624"
+      },
+      "original": "originais/e0/e0f360f47f6b38adc1fe9f48274f76bc39caf525fb9fec05fd713a6718bf5b12.gz",
+      "sha256_original": "e0f360f47f6b38adc1fe9f48274f76bc39caf525fb9fec05fd713a6718bf5b12",
+      "sha256_texto": "9b6dfdcd341011cca966d1e26ad538c28cdf068625de4aa2cf27c3c196eaa6b7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:41+00:00"
+    },
+    "senado-547497": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:46+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5625",
+        "id": "senado-547497",
+        "id_senado": "547497",
+        "numero": "5625",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.625 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5625"
+      },
+      "original": "originais/21/2183418aa8ad619139dd87a027434e9774165c143e949d7c63927f94a87d683a.gz",
+      "sha256_original": "2183418aa8ad619139dd87a027434e9774165c143e949d7c63927f94a87d683a",
+      "sha256_texto": "bdd93b329300146d7898be3d401a75c674f3dc365c5af99ce42ccdbec897f631",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:43+00:00"
+    },
+    "senado-547498": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5626",
+        "id": "senado-547498",
+        "id_senado": "547498",
+        "numero": "5626",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.626 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5626"
+      },
+      "original": "originais/26/269ab5606c20a6a78d36f94cf48db9ccbce9a4ae24cbe4b180b636d4530154db.gz",
+      "sha256_original": "269ab5606c20a6a78d36f94cf48db9ccbce9a4ae24cbe4b180b636d4530154db",
+      "sha256_texto": "a174cc57b2a3bd2ccadaa992f8fb03c0501c6054b5122cd186a28f617f169b63",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:46+00:00"
+    },
+    "senado-547499": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5627",
+        "id": "senado-547499",
+        "id_senado": "547499",
+        "numero": "5627",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.627 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5627"
+      },
+      "original": "originais/ed/eda04e2b8c652df772ac374a1ecbf236c1bcf398c032095abaddf374f62c0946.gz",
+      "sha256_original": "eda04e2b8c652df772ac374a1ecbf236c1bcf398c032095abaddf374f62c0946",
+      "sha256_texto": "c6db08d222f0e7cfbba5ef93bf14cb209a9f18e2b17d799a6dd7751dae8734e7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:48+00:00"
+    },
+    "senado-547500": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:53+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-01;5628",
+        "id": "senado-547500",
+        "id_senado": "547500",
+        "numero": "5628",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.628 de 01/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-01;5628"
+      },
+      "original": "originais/7e/7e9573b91c454dd8960d619532f6715b6ad6ac64f3a89cbb90794633883eb8f1.gz",
+      "sha256_original": "7e9573b91c454dd8960d619532f6715b6ad6ac64f3a89cbb90794633883eb8f1",
+      "sha256_texto": "eedc89e759decbd81501af81b16b2fbbc2206249d533d5f3ec23e556c538b86d",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:51+00:00"
+    },
+    "senado-547501": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5629",
+        "id": "senado-547501",
+        "id_senado": "547501",
+        "numero": "5629",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.629 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5629"
+      },
+      "original": "originais/84/849237bcadd30e3dea6f2b3452cd715a2740f3e5aa41409e0b64fd333c0bfaba.gz",
+      "sha256_original": "849237bcadd30e3dea6f2b3452cd715a2740f3e5aa41409e0b64fd333c0bfaba",
+      "sha256_texto": "d0c2040a1522ef56e6ed53f486dae57bd6c46791005d2a18fcbee41a4b5e4020",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:53+00:00"
+    },
+    "senado-547502": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:33:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5630",
+        "id": "senado-547502",
+        "id_senado": "547502",
+        "numero": "5630",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.630 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5630"
+      },
+      "original": "originais/23/2380fa8ff41898273723a242a32dc6d4bbc912675126da9b638ee39fc58906a3.gz",
+      "sha256_original": "2380fa8ff41898273723a242a32dc6d4bbc912675126da9b638ee39fc58906a3",
+      "sha256_texto": "83059aa3e16fb8da4a46e58545ba355b6abb73a0bc59427e583dac15615faad7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:56+00:00"
+    },
+    "senado-547504": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:01+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5631",
+        "id": "senado-547504",
+        "id_senado": "547504",
+        "numero": "5631",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.631 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5631"
+      },
+      "original": "originais/da/dab9312ef974a7e5751ad0626dc4628ca053c361933eefdd759d90ff1aef399b.gz",
+      "sha256_original": "dab9312ef974a7e5751ad0626dc4628ca053c361933eefdd759d90ff1aef399b",
+      "sha256_texto": "aa45efd781193a01437a39894530ef603bf69bd3c0171881b88c5d5854109341",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:33:58+00:00"
+    },
+    "senado-547505": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:03+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5632",
+        "id": "senado-547505",
+        "id_senado": "547505",
+        "numero": "5632",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.632 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5632"
+      },
+      "original": "originais/78/7813f22a58ccff3eebf85a905afec38d9d75c6b1a9e82ae86c61893ad6576729.gz",
+      "sha256_original": "7813f22a58ccff3eebf85a905afec38d9d75c6b1a9e82ae86c61893ad6576729",
+      "sha256_texto": "7bc3533bb33abe78fa7054c079d64e99e52a982bb5cd166c8ce8c6ea4ef8d03a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:01+00:00"
+    },
+    "senado-547506": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5633",
+        "id": "senado-547506",
+        "id_senado": "547506",
+        "numero": "5633",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.633 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5633"
+      },
+      "original": "originais/b3/b378165e4bf7424511126fada2d39ea21f8a40282337114acd64d16ea4dcae49.gz",
+      "sha256_original": "b378165e4bf7424511126fada2d39ea21f8a40282337114acd64d16ea4dcae49",
+      "sha256_texto": "649b638e46ae5b89206b9c36c7b1175aa9daaac91c1ad1b8c5727e640c6fbfe9",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:03+00:00"
+    },
+    "senado-547507": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:08+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-02;5634",
+        "id": "senado-547507",
+        "id_senado": "547507",
+        "numero": "5634",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.634 de 02/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-02;5634"
+      },
+      "original": "originais/b2/b29648f7a0665b8599ff405c6aa161bbd8293dc7e9874603b301df0092cdfe09.gz",
+      "sha256_original": "b29648f7a0665b8599ff405c6aa161bbd8293dc7e9874603b301df0092cdfe09",
+      "sha256_texto": "94fb697b058eb1d56dc67434b0ebc6029ec35f83f2523aedddf89ddb919ca6ae",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:05+00:00"
+    },
+    "senado-547508": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5635",
+        "id": "senado-547508",
+        "id_senado": "547508",
+        "numero": "5635",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.635 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5635"
+      },
+      "original": "originais/4b/4bbcfbc3ce5daf76e34064725720b1501f54d64e01f5746a695b7b4fc46be4d2.gz",
+      "sha256_original": "4bbcfbc3ce5daf76e34064725720b1501f54d64e01f5746a695b7b4fc46be4d2",
+      "sha256_texto": "cffdf18a13dbb224fd23a529f66359b3f790cc25a281e6afceaf210927947bf7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:08+00:00"
+    },
+    "senado-547509": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5636",
+        "id": "senado-547509",
+        "id_senado": "547509",
+        "numero": "5636",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.636 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5636"
+      },
+      "original": "originais/9d/9d241adaa5bf0b61729d917b1cc03de28ebc88bdf67d20a3e4efa66c054aa637.gz",
+      "sha256_original": "9d241adaa5bf0b61729d917b1cc03de28ebc88bdf67d20a3e4efa66c054aa637",
+      "sha256_texto": "5926b45ed028ae894239462e00006e418dc0176c4ff4ef9f8cb06739cc26a7be",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:10+00:00"
+    },
+    "senado-547510": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:15+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5637",
+        "id": "senado-547510",
+        "id_senado": "547510",
+        "numero": "5637",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.637 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5637"
+      },
+      "original": "originais/ac/ace24e3702398abab433e4a1eb6a72dbf13c2f3abb871d9b79de90236081296e.gz",
+      "sha256_original": "ace24e3702398abab433e4a1eb6a72dbf13c2f3abb871d9b79de90236081296e",
+      "sha256_texto": "aebf9ff6b491e9590a3d0e63e687a9a74270d1482073bc7759535cdbf38e22f3",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:13+00:00"
+    },
+    "senado-547511": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:17+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5638",
+        "id": "senado-547511",
+        "id_senado": "547511",
+        "numero": "5638",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.638 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5638"
+      },
+      "original": "originais/95/95834c45cb9e827c1eb01b71a9fd3a5671270d7a2ff3fb3d5bc91269ae710b41.gz",
+      "sha256_original": "95834c45cb9e827c1eb01b71a9fd3a5671270d7a2ff3fb3d5bc91269ae710b41",
+      "sha256_texto": "8dd2a3c2af0b9e5ca9d4b5615add12615fee4c9c804da593b803c2c17dfe1f57",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:15+00:00"
+    },
+    "senado-547512": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:20+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5639",
+        "id": "senado-547512",
+        "id_senado": "547512",
+        "numero": "5639",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.639 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5639"
+      },
+      "original": "originais/32/32b36363e6d7f0ccd732a0a580f69c413af3e35d27f3256c468b75846c0785ec.gz",
+      "sha256_original": "32b36363e6d7f0ccd732a0a580f69c413af3e35d27f3256c468b75846c0785ec",
+      "sha256_texto": "75d29b24659ca3651ae7f3f9585b71113cfba698a4da8d32a174a95695401fcf",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:17+00:00"
+    },
+    "senado-547513": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:22+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5640",
+        "id": "senado-547513",
+        "id_senado": "547513",
+        "numero": "5640",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.640 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5640"
+      },
+      "original": "originais/05/050c1e094cec1889969236974c9cc314539c476ee31f782927dffe1cf451b55f.gz",
+      "sha256_original": "050c1e094cec1889969236974c9cc314539c476ee31f782927dffe1cf451b55f",
+      "sha256_texto": "f152b8521aadac95c14efb83732d58d2d91319b796bf6d88224f3c5b57490de8",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:20+00:00"
+    },
+    "senado-547514": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:24+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5641",
+        "id": "senado-547514",
+        "id_senado": "547514",
+        "numero": "5641",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.641 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5641"
+      },
+      "original": "originais/11/11efd8d9b766ae6bc1f0db82e33bfb419425704534443ecbbabbac49ecc4e616.gz",
+      "sha256_original": "11efd8d9b766ae6bc1f0db82e33bfb419425704534443ecbbabbac49ecc4e616",
+      "sha256_texto": "01472b858cf15570c5665314520b633d7ae3417e1115bc7f64002a4b06ddab63",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:22+00:00"
+    },
+    "senado-547515": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:27+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-03;5642",
+        "id": "senado-547515",
+        "id_senado": "547515",
+        "numero": "5642",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.642 de 03/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-03;5642"
+      },
+      "original": "originais/35/352963d6bf9c8b8c2bd373f0a2ebd3f02c5d7b6570536cbe3fadc0fb124c0404.gz",
+      "sha256_original": "352963d6bf9c8b8c2bd373f0a2ebd3f02c5d7b6570536cbe3fadc0fb124c0404",
+      "sha256_texto": "af22a5751e60de5011aa5b3ac3a9062484eece9a8884fb1fc6d20be55cfeb5d9",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:25+00:00"
+    },
+    "senado-547516": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:29+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5643",
+        "id": "senado-547516",
+        "id_senado": "547516",
+        "numero": "5643",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.643 de 10/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-10;5643"
+      },
+      "original": "originais/07/0799528bc2395c0aa11abe56ed22cc1ee31d38195bcfe60bf2014a28b3e5d20f.gz",
+      "sha256_original": "0799528bc2395c0aa11abe56ed22cc1ee31d38195bcfe60bf2014a28b3e5d20f",
+      "sha256_texto": "89f30a1ca5baa45dec450e3e4b8f8051d32520260a4a376bfca778ea2de85ccc",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:27+00:00"
+    },
+    "senado-547517": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:32+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5644",
+        "id": "senado-547517",
+        "id_senado": "547517",
+        "numero": "5644",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.644 de 10/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-10;5644"
+      },
+      "original": "originais/06/065c6565e4173bae34c3e6af602214bca86b8899ce88d7e0d67b6e63ba7c32fd.gz",
+      "sha256_original": "065c6565e4173bae34c3e6af602214bca86b8899ce88d7e0d67b6e63ba7c32fd",
+      "sha256_texto": "33e09ad53112e4477794bca2435cde1ba601b1b5c0a9f9f85961eeef76d9d86e",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:29+00:00"
+    },
+    "senado-547518": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:34+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5645",
+        "id": "senado-547518",
+        "id_senado": "547518",
+        "numero": "5645",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.645 de 10/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-10;5645"
+      },
+      "original": "originais/00/00c277f64a3fa96bc0cc5cf6f5bca5ae5422a16e58dc3039a38cd362277e284d.gz",
+      "sha256_original": "00c277f64a3fa96bc0cc5cf6f5bca5ae5422a16e58dc3039a38cd362277e284d",
+      "sha256_texto": "449d28c160d0cb16aea06ada55cd349e3f8546506a9444c9463f0931066ec820",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:32+00:00"
+    },
+    "senado-547519": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:36+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5646",
+        "id": "senado-547519",
+        "id_senado": "547519",
+        "numero": "5646",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.646 de 10/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-10;5646"
+      },
+      "original": "originais/57/5738573753e9f99d0abb3798b52875f36c3bb297668748bc5070da98b0db9c24.gz",
+      "sha256_original": "5738573753e9f99d0abb3798b52875f36c3bb297668748bc5070da98b0db9c24",
+      "sha256_texto": "e9aa36d999b01931902bf6720878db5535b83b9642895f8a0d28a4a04c0749bc",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:34+00:00"
+    },
+    "senado-547520": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:39+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-10;5647",
+        "id": "senado-547520",
+        "id_senado": "547520",
+        "numero": "5647",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.647 de 10/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-10;5647"
+      },
+      "original": "originais/3d/3dd1eb38dfe5211167e1e7dea380669d9943df38a88916c770ecb866c4309bbb.gz",
+      "sha256_original": "3dd1eb38dfe5211167e1e7dea380669d9943df38a88916c770ecb866c4309bbb",
+      "sha256_texto": "c1e81864827ce180c5fb4dd65b5e9e9350d6442c51e52b713a9de4e0d93b24b0",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:37+00:00"
+    },
+    "senado-547521": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:41+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-11;5648",
+        "id": "senado-547521",
+        "id_senado": "547521",
+        "numero": "5648",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.648 de 11/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-11;5648"
+      },
+      "original": "originais/15/15ae2a25080d91fd2b24696c11abd8931fb410ac52aadf3ac635e2c8ba30771f.gz",
+      "sha256_original": "15ae2a25080d91fd2b24696c11abd8931fb410ac52aadf3ac635e2c8ba30771f",
+      "sha256_texto": "51c1a15d57551dcfc94e2025aa15d95ca484fb97c7275098a66bb2db705b7839",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:39+00:00"
+    },
+    "senado-547522": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:44+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-11;5649",
+        "id": "senado-547522",
+        "id_senado": "547522",
+        "numero": "5649",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.649 de 11/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-11;5649"
+      },
+      "original": "originais/53/5378b1d657c157f4fec42ee628efe29ab5299be5f7375b4195034778db9c1597.gz",
+      "sha256_original": "5378b1d657c157f4fec42ee628efe29ab5299be5f7375b4195034778db9c1597",
+      "sha256_texto": "17d65b721122d4ed581c9c43b4a3ac9cd3c2dc1792a1cb9e5b6b322205779d38",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:42+00:00"
+    },
+    "senado-547523": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:46+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-11;5650",
+        "id": "senado-547523",
+        "id_senado": "547523",
+        "numero": "5650",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.650 de 11/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-11;5650"
+      },
+      "original": "originais/ed/ed19b29cb2fbf4634fb7e7d5737812d8c74595506ec7151b6eebded8e4943734.gz",
+      "sha256_original": "ed19b29cb2fbf4634fb7e7d5737812d8c74595506ec7151b6eebded8e4943734",
+      "sha256_texto": "3d2119bf1fcab864123f8acf767ae77b3527513bc63f0bc9827361d2b44849eb",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:44+00:00"
+    },
+    "senado-547524": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-11;5651",
+        "id": "senado-547524",
+        "id_senado": "547524",
+        "numero": "5651",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.651 de 11/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-11;5651"
+      },
+      "original": "originais/12/1294f27b451875835b5215cdcc0cc82f415f890f84b6b8e65b31b31a79483b43.gz",
+      "sha256_original": "1294f27b451875835b5215cdcc0cc82f415f890f84b6b8e65b31b31a79483b43",
+      "sha256_texto": "c11222eab7708844a3d2bea924943ff167fcce189b43254c09615684150ec08a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:46+00:00"
+    },
+    "senado-547525": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1970-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1970-12-11;5652",
+        "id": "senado-547525",
+        "id_senado": "547525",
+        "numero": "5652",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.652 de 11/12/1970",
+        "urn": "urn:lex:br:federal:lei:1970-12-11;5652"
+      },
+      "original": "originais/8d/8d58625fbc70e0f2f9874f87d2c279b8150a0deb1a235338a200511cf1fcdaa3.gz",
+      "sha256_original": "8d58625fbc70e0f2f9874f87d2c279b8150a0deb1a235338a200511cf1fcdaa3",
+      "sha256_texto": "b0e63cdbe075ff0599b328bccaf6d50ba7a3d0d520f91bc6d231f1761c423db6",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:48+00:00"
+    },
+    "senado-547526": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:53+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-04-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-04-27;5653",
+        "id": "senado-547526",
+        "id_senado": "547526",
+        "numero": "5653",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.653 de 27/04/1971",
+        "urn": "urn:lex:br:federal:lei:1971-04-27;5653"
+      },
+      "original": "originais/d4/d4f83e016bbe024e111df458fc0c0ce8d887a2d2c53e4399dd3620af22fbcd3f.gz",
+      "sha256_original": "d4f83e016bbe024e111df458fc0c0ce8d887a2d2c53e4399dd3620af22fbcd3f",
+      "sha256_texto": "2bd7916a7735dd12f7a610772c9ff71ec20c2f0a3ece84e38a176700f5243c20",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:51+00:00"
+    },
+    "senado-547527": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:55+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-05-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-05-14;5654",
+        "id": "senado-547527",
+        "id_senado": "547527",
+        "numero": "5654",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.654 de 14/05/1971",
+        "urn": "urn:lex:br:federal:lei:1971-05-14;5654"
+      },
+      "original": "originais/5a/5a80ac4731b2ad99537690750bc92616c6c53bdcccfc046d32d2c922b5c0ee29.gz",
+      "sha256_original": "5a80ac4731b2ad99537690750bc92616c6c53bdcccfc046d32d2c922b5c0ee29",
+      "sha256_texto": "64c1b0efbbc5ce0d1a6735ee56e1c03deae40d60764d8c90a2d9de87b185049b",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:53+00:00"
+    },
+    "senado-547528": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:34:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-05-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-05-20;5655",
+        "id": "senado-547528",
+        "id_senado": "547528",
+        "numero": "5655",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.655 de 20/05/1971",
+        "urn": "urn:lex:br:federal:lei:1971-05-20;5655"
+      },
+      "original": "originais/fe/fea08f61e9e1b9c220281d2b1a895f1757dc48744e78018888dd6a3bbf5fb737.gz",
+      "sha256_original": "fea08f61e9e1b9c220281d2b1a895f1757dc48744e78018888dd6a3bbf5fb737",
+      "sha256_texto": "2145a872dc52042dfd90744d17c4b17ac6b63d298ff48a3f5c3c5a4993c3742a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:56+00:00"
+    },
+    "senado-547529": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:00+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-05-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-05-27;5656",
+        "id": "senado-547529",
+        "id_senado": "547529",
+        "numero": "5656",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.656 de 27/05/1971",
+        "urn": "urn:lex:br:federal:lei:1971-05-27;5656"
+      },
+      "original": "originais/10/10e98cd4dfd66f2dcf6107dfb438be1b4933275b439efca6afe575c03b26f62f.gz",
+      "sha256_original": "10e98cd4dfd66f2dcf6107dfb438be1b4933275b439efca6afe575c03b26f62f",
+      "sha256_texto": "6a00c092e22222d630761239f2f11ba6bf08e764ee0a52743177e5d1bd87d88b",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:34:58+00:00"
+    },
+    "senado-547530": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-04;5657",
+        "id": "senado-547530",
+        "id_senado": "547530",
+        "numero": "5657",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.657 de 04/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-04;5657"
+      },
+      "original": "originais/34/3425f703929170527321af3769de76c8042738b94d11a5eac66a3eef26cb3849.gz",
+      "sha256_original": "3425f703929170527321af3769de76c8042738b94d11a5eac66a3eef26cb3849",
+      "sha256_texto": "13ae9d2b49e26ed8033ca0bcaf53a11e1ad1f4a3dc81ce14efe559262db798de",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:00+00:00"
+    },
+    "senado-547531": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-07;5658",
+        "id": "senado-547531",
+        "id_senado": "547531",
+        "numero": "5658",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.658 de 07/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-07;5658"
+      },
+      "original": "originais/10/10bd9389305df64e07ed5561600a613f012d219982ea7f14758afe7e8cee5c0b.gz",
+      "sha256_original": "10bd9389305df64e07ed5561600a613f012d219982ea7f14758afe7e8cee5c0b",
+      "sha256_texto": "2374a525be64e0ce1f6dcc686969fd9ec72f95158d36dbcfadcf23496b68fe01",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:03+00:00"
+    },
+    "senado-547532": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-08;5659",
+        "id": "senado-547532",
+        "id_senado": "547532",
+        "numero": "5659",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.659 de 08/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-08;5659"
+      },
+      "original": "originais/1e/1ed6d4fbeef6bc78ade84cbbfebc1a0b4f240f35ed29b5567d39da4d2cbd55b4.gz",
+      "sha256_original": "1ed6d4fbeef6bc78ade84cbbfebc1a0b4f240f35ed29b5567d39da4d2cbd55b4",
+      "sha256_texto": "e8fee395e7913950d21124c7e0336f2a6fa17ba036ac0cc08c4298d06310fbf7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:05+00:00"
+    },
+    "senado-547533": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-14;5660",
+        "id": "senado-547533",
+        "id_senado": "547533",
+        "numero": "5660",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.660 de 14/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-14;5660"
+      },
+      "original": "originais/0d/0d7c9d93169726de52a39d7b3d6799c0298fe7d84999d91bd7ba149bcbd825b7.gz",
+      "sha256_original": "0d7c9d93169726de52a39d7b3d6799c0298fe7d84999d91bd7ba149bcbd825b7",
+      "sha256_texto": "e668d4c729977ec111d43c0aa7537c8b44729ba15df7c6149aaf31ba6545a0d7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:07+00:00"
+    },
+    "senado-547534": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-16;5661",
+        "id": "senado-547534",
+        "id_senado": "547534",
+        "numero": "5661",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.661 de 16/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-16;5661"
+      },
+      "original": "originais/37/37762be0c952a1d27c4ff70c4ccdbc1fe8f81ffc9aaebacbc648e57ff9eb4e88.gz",
+      "sha256_original": "37762be0c952a1d27c4ff70c4ccdbc1fe8f81ffc9aaebacbc648e57ff9eb4e88",
+      "sha256_texto": "ce9cec96ddac0b1aba10d6eedb475e63312cbcfdd7586fbe1dd6bed9d472787b",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:10+00:00"
+    },
+    "senado-547535": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5662",
+        "id": "senado-547535",
+        "id_senado": "547535",
+        "numero": "5662",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.662 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5662"
+      },
+      "original": "originais/73/73b1827508767a37fbf4f7cbe5298461dbb85390218a5d33cbe73f8eedc56851.gz",
+      "sha256_original": "73b1827508767a37fbf4f7cbe5298461dbb85390218a5d33cbe73f8eedc56851",
+      "sha256_texto": "8f4dc4c39f684d86ee9110e6b9a59e3141ba71570c09c31e3a241c06859491bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:12+00:00"
+    },
+    "senado-547536": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:17+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5663",
+        "id": "senado-547536",
+        "id_senado": "547536",
+        "numero": "5663",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.663 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5663"
+      },
+      "original": "originais/f8/f83a98f8d9b5b5b636f73ab3cc9e2e583885ed0f6f90c97e3cccfb09fe109db2.gz",
+      "sha256_original": "f83a98f8d9b5b5b636f73ab3cc9e2e583885ed0f6f90c97e3cccfb09fe109db2",
+      "sha256_texto": "d2d6ae1bfc0044a14066240076464b0b60b51e856a13b4d417eb594ceb980286",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:15+00:00"
+    },
+    "senado-547537": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5664",
+        "id": "senado-547537",
+        "id_senado": "547537",
+        "numero": "5664",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.664 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5664"
+      },
+      "original": "originais/bf/bf275149e57e116be78b4e27bd3b8b0ee71845a4fbd7f0d825e27948b328acb6.gz",
+      "sha256_original": "bf275149e57e116be78b4e27bd3b8b0ee71845a4fbd7f0d825e27948b328acb6",
+      "sha256_texto": "f709a586a9dabbac5017d26e29ae33c6c34da2b36781df2358ea849d2cca5665",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:17+00:00"
+    },
+    "senado-547538": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:21+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5665",
+        "id": "senado-547538",
+        "id_senado": "547538",
+        "numero": "5665",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.665 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5665"
+      },
+      "original": "originais/99/9908186d724838bf3e85cfafebac4e7d564f4cd9f658cb66681f564e3a33746d.gz",
+      "sha256_original": "9908186d724838bf3e85cfafebac4e7d564f4cd9f658cb66681f564e3a33746d",
+      "sha256_texto": "3f3a56d56f01f4845bdff0f67bf3abc339df17e3f054f2d1a481862954603d52",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:19+00:00"
+    },
+    "senado-547539": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:24+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5666",
+        "id": "senado-547539",
+        "id_senado": "547539",
+        "numero": "5666",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.666 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5666"
+      },
+      "original": "originais/a2/a2a051de5cbd171b2c487b25bb8151dd3e7f76ecda09b1cd9941c2fcebb1ee28.gz",
+      "sha256_original": "a2a051de5cbd171b2c487b25bb8151dd3e7f76ecda09b1cd9941c2fcebb1ee28",
+      "sha256_texto": "67e5f49e3ab311f3d7bc3eb6b37df041a23b2c25fcbc7d72b8519cf3df110b78",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:22+00:00"
+    },
+    "senado-547540": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:26+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-21;5667",
+        "id": "senado-547540",
+        "id_senado": "547540",
+        "numero": "5667",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.667 de 21/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-21;5667"
+      },
+      "original": "originais/1e/1e36430562cdc3d12809bf8a62784abafd95035aa769a8699f62e1fc846dff7c.gz",
+      "sha256_original": "1e36430562cdc3d12809bf8a62784abafd95035aa769a8699f62e1fc846dff7c",
+      "sha256_texto": "bcd57f048beb6394d0aa41969f2dba94fb01cfee331672c4332c925bf0b457fe",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:24+00:00"
+    },
+    "senado-547541": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-06-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-06-23;5668",
+        "id": "senado-547541",
+        "id_senado": "547541",
+        "numero": "5668",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.668 de 23/06/1971",
+        "urn": "urn:lex:br:federal:lei:1971-06-23;5668"
+      },
+      "original": "originais/b8/b8c88ea5a11199757be3ef949f381ca6fdd19ef4b66c161ef4e8cba1ee3eb52b.gz",
+      "sha256_original": "b8c88ea5a11199757be3ef949f381ca6fdd19ef4b66c161ef4e8cba1ee3eb52b",
+      "sha256_texto": "285763e832b2344573d977a23a9a43c00866a14c4f307dd0f6fee6a437e982b8",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:26+00:00"
+    },
+    "senado-547542": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:31+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-01;5669",
+        "id": "senado-547542",
+        "id_senado": "547542",
+        "numero": "5669",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.669 de 01/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-01;5669"
+      },
+      "original": "originais/67/67b2b9f13f8950774b423eefaaafb842877fec195f310a501da48ab2d0d05803.gz",
+      "sha256_original": "67b2b9f13f8950774b423eefaaafb842877fec195f310a501da48ab2d0d05803",
+      "sha256_texto": "d8ef2ee5d499b776c0ab88e00f14ae62601bb68382d189a9c60a4d528809e3bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:29+00:00"
+    },
+    "senado-547543": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-02;5670",
+        "id": "senado-547543",
+        "id_senado": "547543",
+        "numero": "5670",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.670 de 02/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-02;5670"
+      },
+      "original": "originais/ed/eda4242b796f65e2c905a0f940db33b7aad25dca69032998ce98522d27c93ce0.gz",
+      "sha256_original": "eda4242b796f65e2c905a0f940db33b7aad25dca69032998ce98522d27c93ce0",
+      "sha256_texto": "5c96e0f8516c70ec0d43970c806dd6227f0e217d13afa2ad0df046fcde317791",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:31+00:00"
+    },
+    "senado-547544": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:36+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-02;5671",
+        "id": "senado-547544",
+        "id_senado": "547544",
+        "numero": "5671",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.671 de 02/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-02;5671"
+      },
+      "original": "originais/60/60cb75bdf81df662415864258459de0cdd52eb1f550a8a568056de4666832e9b.gz",
+      "sha256_original": "60cb75bdf81df662415864258459de0cdd52eb1f550a8a568056de4666832e9b",
+      "sha256_texto": "f5d2db298b267d1ede6fdd5354a0542a975c4d60620e4613fd95f5b185c26d63",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:33+00:00"
+    },
+    "senado-547545": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:38+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-02;5672",
+        "id": "senado-547545",
+        "id_senado": "547545",
+        "numero": "5672",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.672 de 02/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-02;5672"
+      },
+      "original": "originais/5a/5aa27aea13338c36700dddb3e08ffd91506ca464a7be8948e64755ce8d2ff702.gz",
+      "sha256_original": "5aa27aea13338c36700dddb3e08ffd91506ca464a7be8948e64755ce8d2ff702",
+      "sha256_texto": "45d4b9d3bfdafdae0d0226562a2a9b7c04f4d2ed0edf401c5775d436a87bcf28",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:36+00:00"
+    },
+    "senado-547546": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-06",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-06;5673",
+        "id": "senado-547546",
+        "id_senado": "547546",
+        "numero": "5673",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.673 de 06/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-06;5673"
+      },
+      "original": "originais/00/002e1ef5e4a87c36df2514338ce93e66aa20c4cffd799068e91160a398ecbfbe.gz",
+      "sha256_original": "002e1ef5e4a87c36df2514338ce93e66aa20c4cffd799068e91160a398ecbfbe",
+      "sha256_texto": "0d7049ea75faa91faaf7c6c649afa3abeffa0f5fe7b1850c98c3770f35f0ac77",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:38+00:00"
+    },
+    "senado-547547": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:43+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-12;5674",
+        "id": "senado-547547",
+        "id_senado": "547547",
+        "numero": "5674",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.674 de 12/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-12;5674"
+      },
+      "original": "originais/f8/f8542759d51326c144b51c4094eed80ea54aa5a4bb8b60bf81898313d6972988.gz",
+      "sha256_original": "f8542759d51326c144b51c4094eed80ea54aa5a4bb8b60bf81898313d6972988",
+      "sha256_texto": "0398e189e7a375a065ba0b363d4a80af3fe87eb9c9d64fdbc83016a0d7978af2",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:40+00:00"
+    },
+    "senado-547548": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-12;5675",
+        "id": "senado-547548",
+        "id_senado": "547548",
+        "numero": "5675",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.675 de 12/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-12;5675"
+      },
+      "original": "originais/f4/f474855c2e2228c8bfa8cf6074b2e065bd263954d36742e199b3c75f892b351d.gz",
+      "sha256_original": "f474855c2e2228c8bfa8cf6074b2e065bd263954d36742e199b3c75f892b351d",
+      "sha256_texto": "89c1c45864b7eac0a00983bc2b7a6dfe32003fd4a7b0b5d492504c9d42eb5a42",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:43+00:00"
+    },
+    "senado-547549": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:47+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-12;5676",
+        "id": "senado-547549",
+        "id_senado": "547549",
+        "numero": "5676",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.676 de 12/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-12;5676"
+      },
+      "original": "originais/18/18bc3e61c44f3728f79ae1f110c17fe0744d5536dd91ccbf2e410c9ae2f23134.gz",
+      "sha256_original": "18bc3e61c44f3728f79ae1f110c17fe0744d5536dd91ccbf2e410c9ae2f23134",
+      "sha256_texto": "dff82a60f2b3df28c3d3e0c7595aa82b4ef80f35ab0f65bd4dfe394b337340bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:45+00:00"
+    },
+    "senado-547550": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:50+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-19;5677",
+        "id": "senado-547550",
+        "id_senado": "547550",
+        "numero": "5677",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.677 de 19/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-19;5677"
+      },
+      "original": "originais/f3/f3fd67abe84ea7439cda30aef514005918f10e6633293170cb7f730c488d6eec.gz",
+      "sha256_original": "f3fd67abe84ea7439cda30aef514005918f10e6633293170cb7f730c488d6eec",
+      "sha256_texto": "496a906f5f8358b8d04faf5ee429144ec6a280bbd0a6a8e7e51463cb86666f57",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:47+00:00"
+    },
+    "senado-547551": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:52+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-19;5678",
+        "id": "senado-547551",
+        "id_senado": "547551",
+        "numero": "5678",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.678 de 19/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-19;5678"
+      },
+      "original": "originais/bd/bd09cbb67f0071f4e10c218fad811764ee166aaf93f52244569a7c8385626f5d.gz",
+      "sha256_original": "bd09cbb67f0071f4e10c218fad811764ee166aaf93f52244569a7c8385626f5d",
+      "sha256_texto": "b0f46bbaacb890e47b9bc16b1aaf81a55f2f6521e32eaccfb566f90ac735adcb",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:50+00:00"
+    },
+    "senado-547552": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-19;5679",
+        "id": "senado-547552",
+        "id_senado": "547552",
+        "numero": "5679",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.679 de 19/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-19;5679"
+      },
+      "original": "originais/29/2948d2ea39bed8f3991d272a166553d34dcc58a5b2d9cba724aced61ddc75a82.gz",
+      "sha256_original": "2948d2ea39bed8f3991d272a166553d34dcc58a5b2d9cba724aced61ddc75a82",
+      "sha256_texto": "eb495aff5800eac00b99d5d2547401b46cae3ce0862a7d2c5ff1955e15f8d3d9",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:52+00:00"
+    },
+    "senado-547553": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:57+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-20;5680",
+        "id": "senado-547553",
+        "id_senado": "547553",
+        "numero": "5680",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.680 de 20/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-20;5680"
+      },
+      "original": "originais/fc/fcb485e0346b4146a84cdaa8b4c314b2f61161c545cfa8591a74f60b0e431857.gz",
+      "sha256_original": "fcb485e0346b4146a84cdaa8b4c314b2f61161c545cfa8591a74f60b0e431857",
+      "sha256_texto": "25663908bf3f42ddd166769874c0f0ad24da515f6094ee033460e99da3c0cb0e",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:55+00:00"
+    },
+    "senado-547554": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:35:59+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-20;5681",
+        "id": "senado-547554",
+        "id_senado": "547554",
+        "numero": "5681",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.681 de 20/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-20;5681"
+      },
+      "original": "originais/6c/6c1b64a055267dc2abfde0d9c7ac12fe9e793654855bbfe1ab1191c0dff1e4b2.gz",
+      "sha256_original": "6c1b64a055267dc2abfde0d9c7ac12fe9e793654855bbfe1ab1191c0dff1e4b2",
+      "sha256_texto": "296939969d35dbd405e2597a772ff7f63333004eb2a4de90fc8a1f57b4a776a6",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:57+00:00"
+    },
+    "senado-547555": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-21;5682",
+        "id": "senado-547555",
+        "id_senado": "547555",
+        "numero": "5682",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.682 de 21/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-21;5682"
+      },
+      "original": "originais/95/95086f4460cf3735c90f7fd3a7cdb00d730273f595f691a01ce99f73327e2621.gz",
+      "sha256_original": "95086f4460cf3735c90f7fd3a7cdb00d730273f595f691a01ce99f73327e2621",
+      "sha256_texto": "0849840be133cab067e6cc1d2d1487e48c9e1f094f778387617c767380bd8bbd",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:35:59+00:00"
+    },
+    "senado-547556": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:04+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-21;5683",
+        "id": "senado-547556",
+        "id_senado": "547556",
+        "numero": "5683",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.683 de 21/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-21;5683"
+      },
+      "original": "originais/74/74a452c49eaf6a088de1685c753843ccf50b2dc0b2261606b412c939da27682a.gz",
+      "sha256_original": "74a452c49eaf6a088de1685c753843ccf50b2dc0b2261606b412c939da27682a",
+      "sha256_texto": "e2a20cf8a8d9f2bf928770b74f338dd3f94f8730b3f153f503f2ad1eed755492",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:02+00:00"
+    },
+    "senado-547557": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-23;5684",
+        "id": "senado-547557",
+        "id_senado": "547557",
+        "numero": "5684",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.684 de 23/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-23;5684"
+      },
+      "original": "originais/dd/dd7cf53f3edfddcc93b5e58d668f0d4e16df9e9048913ef15a81882b18b9ce98.gz",
+      "sha256_original": "dd7cf53f3edfddcc93b5e58d668f0d4e16df9e9048913ef15a81882b18b9ce98",
+      "sha256_texto": "e43001ab9a440156bc8f18756ffc80f424bd89fe4cff6a789d81bb64ff8a960f",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:05+00:00"
+    },
+    "senado-547558": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:09+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-07-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-07-23;5685",
+        "id": "senado-547558",
+        "id_senado": "547558",
+        "numero": "5685",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.685 de 23/07/1971",
+        "urn": "urn:lex:br:federal:lei:1971-07-23;5685"
+      },
+      "original": "originais/f2/f22174ee20efb016ae02db68e1b552904ca2de11e82a7fac4d74222e399cffaf.gz",
+      "sha256_original": "f22174ee20efb016ae02db68e1b552904ca2de11e82a7fac4d74222e399cffaf",
+      "sha256_texto": "8abd6032dddda1ee8214ef09db4f1ec7a8255e5929fa352a14598117f78396c1",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:07+00:00"
+    },
+    "senado-547559": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-03;5686",
+        "id": "senado-547559",
+        "id_senado": "547559",
+        "numero": "5686",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.686 de 03/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-03;5686"
+      },
+      "original": "originais/e3/e337bd07824443cfe69750995de9ae7bca8a2150b636802969f9a886ed1bd047.gz",
+      "sha256_original": "e337bd07824443cfe69750995de9ae7bca8a2150b636802969f9a886ed1bd047",
+      "sha256_texto": "8d2bb8127cb1a601088d4ad3a91abf2f0bff561f8c6c08c241b917ddbb91acc4",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:09+00:00"
+    },
+    "senado-547560": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-03;5687",
+        "id": "senado-547560",
+        "id_senado": "547560",
+        "numero": "5687",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.687 de 03/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-03;5687"
+      },
+      "original": "originais/48/488b2be1ff4b87486a62c1727ce5dc9a8004360556ee34db9b164edcb6fa2260.gz",
+      "sha256_original": "488b2be1ff4b87486a62c1727ce5dc9a8004360556ee34db9b164edcb6fa2260",
+      "sha256_texto": "39b923e08e0f7771aa02ca56ac957d123887ecbc69bf975596945d2243f22459",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:12+00:00"
+    },
+    "senado-547561": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:16+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-03;5688",
+        "id": "senado-547561",
+        "id_senado": "547561",
+        "numero": "5688",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.688 de 03/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-03;5688"
+      },
+      "original": "originais/78/7836cc2e720cee5e97c78b7312732f0c7a342f322ff0f1472dba47281249e364.gz",
+      "sha256_original": "7836cc2e720cee5e97c78b7312732f0c7a342f322ff0f1472dba47281249e364",
+      "sha256_texto": "44e1de69724a70dd5bf7ffc720682cb4cbd82f86fe8a9dea5b6dd43422534813",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:14+00:00"
+    },
+    "senado-547562": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-05;5689",
+        "id": "senado-547562",
+        "id_senado": "547562",
+        "numero": "5689",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.689 de 05/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-05;5689"
+      },
+      "original": "originais/b1/b12d2fda3b9e50f88c44cb8b686393e8aefdb81744719f1c5f7cf7a19b414826.gz",
+      "sha256_original": "b12d2fda3b9e50f88c44cb8b686393e8aefdb81744719f1c5f7cf7a19b414826",
+      "sha256_texto": "28e792f811b31ae5c9cd70e4de7fa54c315e96adcae062dbae0e65a6accc275d",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:16+00:00"
+    },
+    "senado-547563": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:21+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-05;5690",
+        "id": "senado-547563",
+        "id_senado": "547563",
+        "numero": "5690",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.690 de 05/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-05;5690"
+      },
+      "original": "originais/68/68d938bc26797234cc890fd77d273c9c1e46cd9f5db55bb4be7ef63060139026.gz",
+      "sha256_original": "68d938bc26797234cc890fd77d273c9c1e46cd9f5db55bb4be7ef63060139026",
+      "sha256_texto": "32a875160beeaf4ee1a6a5f706480275cdc98b01616e9704523f850fbb261ac1",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:19+00:00"
+    },
+    "senado-547564": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:23+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-10;5691",
+        "id": "senado-547564",
+        "id_senado": "547564",
+        "numero": "5691",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.691 de 10/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-10;5691"
+      },
+      "original": "originais/d6/d6c4d27fe4d7bf325805113ba148bf22b81d4420d62b873bc7c7354780fc373d.gz",
+      "sha256_original": "d6c4d27fe4d7bf325805113ba148bf22b81d4420d62b873bc7c7354780fc373d",
+      "sha256_texto": "19fcebc3d28f7fc43edd530c6c68067ce987fbb9ae7c88ff9e745c6316387b38",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:21+00:00"
+    },
+    "senado-547565": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:26+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-11;5692",
+        "id": "senado-547565",
+        "id_senado": "547565",
+        "numero": "5692",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.692 de 11/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-11;5692"
+      },
+      "original": "originais/79/79a49c8bfc818cf7d814969130455569f96404c297352bae659c7f9ef9828954.gz",
+      "sha256_original": "79a49c8bfc818cf7d814969130455569f96404c297352bae659c7f9ef9828954",
+      "sha256_texto": "a98880410785374cc336bda8a08eea08d5e35ac883a768c7b04bb144395516ff",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:24+00:00"
+    },
+    "senado-547566": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-16;5693",
+        "id": "senado-547566",
+        "id_senado": "547566",
+        "numero": "5693",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.693 de 16/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-16;5693"
+      },
+      "original": "originais/82/82ad8a3d9f8333d560cea23e5a407fc566fc17be33d496389cad661238dde078.gz",
+      "sha256_original": "82ad8a3d9f8333d560cea23e5a407fc566fc17be33d496389cad661238dde078",
+      "sha256_texto": "2e743ea93c6149385ece03cb1f239fa8c18d272451a087ff7c0eb0adf053333a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:26+00:00"
+    },
+    "senado-547567": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:31+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-23;5694",
+        "id": "senado-547567",
+        "id_senado": "547567",
+        "numero": "5694",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.694 de 23/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-23;5694"
+      },
+      "original": "originais/e8/e8f5c47304aac172ad018e5e33478fb88f67aa519e73f5f0d0798b042f58a3c1.gz",
+      "sha256_original": "e8f5c47304aac172ad018e5e33478fb88f67aa519e73f5f0d0798b042f58a3c1",
+      "sha256_texto": "a89ed95a0d4d6fd88c56ba1a499626007c64bd122ddf8d64f11f4093aa4e5666",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:29+00:00"
+    },
+    "senado-547568": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-23;5695",
+        "id": "senado-547568",
+        "id_senado": "547568",
+        "numero": "5695",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.695 de 23/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-23;5695"
+      },
+      "original": "originais/a9/a93d737e2bf8443acba4e5583b1ce09310b815c426ec2b88fd63b34d1a75e7de.gz",
+      "sha256_original": "a93d737e2bf8443acba4e5583b1ce09310b815c426ec2b88fd63b34d1a75e7de",
+      "sha256_texto": "5619e01d6e0c2db6678bef1b7b4e803be4f25aa9f8b7f2350666ce6a738da36f",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:31+00:00"
+    },
+    "senado-547569": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-24;5696",
+        "id": "senado-547569",
+        "id_senado": "547569",
+        "numero": "5696",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.696 de 24/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-24;5696"
+      },
+      "original": "originais/60/609b11c70973c4418b1bd837e0c5a2236e907eee3494839fb51cf6455c2e9bdf.gz",
+      "sha256_original": "609b11c70973c4418b1bd837e0c5a2236e907eee3494839fb51cf6455c2e9bdf",
+      "sha256_texto": "59e8a61ad5ea7a04c9e7018a5fcc994680e71eb15dc017816a470606977eeed2",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:33+00:00"
+    },
+    "senado-547570": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:38+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-27;5697",
+        "id": "senado-547570",
+        "id_senado": "547570",
+        "numero": "5697",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.697 de 27/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-27;5697"
+      },
+      "original": "originais/5b/5b7aec42c193df78a678d14db596d51b28a127c0e74d618762a6c11a5d4f5226.gz",
+      "sha256_original": "5b7aec42c193df78a678d14db596d51b28a127c0e74d618762a6c11a5d4f5226",
+      "sha256_texto": "9de1104572e90bd3c3204e90881f183021ce44000da7d70a8f499ee824176938",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:36+00:00"
+    },
+    "senado-547571": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-08-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-08-31;5698",
+        "id": "senado-547571",
+        "id_senado": "547571",
+        "numero": "5698",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.698 de 31/08/1971",
+        "urn": "urn:lex:br:federal:lei:1971-08-31;5698"
+      },
+      "original": "originais/f2/f255a15f4ad9b586ad6f7354657c8073591adbf73009a3b20dfe584aa6864af2.gz",
+      "sha256_original": "f255a15f4ad9b586ad6f7354657c8073591adbf73009a3b20dfe584aa6864af2",
+      "sha256_texto": "edbb3d5fcd64ffde03088e7fbe2bf2a2af52dcf7899e80453487b5b6928c798b",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:38+00:00"
+    },
+    "senado-547572": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:42+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-01;5699",
+        "id": "senado-547572",
+        "id_senado": "547572",
+        "numero": "5699",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.699 de 01/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-01;5699"
+      },
+      "original": "originais/0b/0bbde80307363d37d1d8ae99a9751cb9475ba9ef7c3eaae23ddaddd18254e9fa.gz",
+      "sha256_original": "0bbde80307363d37d1d8ae99a9751cb9475ba9ef7c3eaae23ddaddd18254e9fa",
+      "sha256_texto": "4a885e06af4aa6b120783102f6af43cff094415f46ff14d3c0bf2bda5fe55146",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:40+00:00"
+    },
+    "senado-547573": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-01;5700",
+        "id": "senado-547573",
+        "id_senado": "547573",
+        "numero": "5700",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.700 de 01/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-01;5700"
+      },
+      "original": "originais/6b/6bed625e4abb8baab0c7744122a4528cd77ab80a59a3b14805a711edd1c9d581.gz",
+      "sha256_original": "6bed625e4abb8baab0c7744122a4528cd77ab80a59a3b14805a711edd1c9d581",
+      "sha256_texto": "fc5e6711b096b24a1552e3fb03f1c8e7345dcf42723c708ea645c68f549c9c33",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:43+00:00"
+    },
+    "senado-547574": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-09;5701",
+        "id": "senado-547574",
+        "id_senado": "547574",
+        "numero": "5701",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.701 de 09/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-09;5701"
+      },
+      "original": "originais/89/8933d1d56928e66a3d3c90423e1d0a91fda8dd76c63aac89b9e4f26434fa21e4.gz",
+      "sha256_original": "8933d1d56928e66a3d3c90423e1d0a91fda8dd76c63aac89b9e4f26434fa21e4",
+      "sha256_texto": "6efc7741da34497ef64ddfb9560a0ee4f95fbc4117206df23184f2eac5c0a3ea",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:45+00:00"
+    },
+    "senado-547575": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:50+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-14;5702",
+        "id": "senado-547575",
+        "id_senado": "547575",
+        "numero": "5702",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.702 de 14/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-14;5702"
+      },
+      "original": "originais/b7/b75962799751d2709db9c44b5b334d49a97acb9e87b6f0b264974d53a1b827c6.gz",
+      "sha256_original": "b75962799751d2709db9c44b5b334d49a97acb9e87b6f0b264974d53a1b827c6",
+      "sha256_texto": "c06a07abb3880df3dc1ef1d68e05b5c2abd8843caaaee8eec5c555889004b494",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:48+00:00"
+    },
+    "senado-547576": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:52+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-14;5703",
+        "id": "senado-547576",
+        "id_senado": "547576",
+        "numero": "5703",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.703 de 14/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-14;5703"
+      },
+      "original": "originais/56/560f42234690992f59bbc0b74d357e54d913c5ccb8b82e10f54169998112e234.gz",
+      "sha256_original": "560f42234690992f59bbc0b74d357e54d913c5ccb8b82e10f54169998112e234",
+      "sha256_texto": "be7aacfc7c4572ecab67eb5f85e11b5bae147cdbffa68f09bd886c4bbbd0aafc",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:50+00:00"
+    },
+    "senado-547577": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:55+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-14;5704",
+        "id": "senado-547577",
+        "id_senado": "547577",
+        "numero": "5704",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.704 de 14/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-14;5704"
+      },
+      "original": "originais/f1/f1a5686329ad22802f791912b7607c39cff60315dfa0fc9020a74602fd6b6100.gz",
+      "sha256_original": "f1a5686329ad22802f791912b7607c39cff60315dfa0fc9020a74602fd6b6100",
+      "sha256_texto": "b8c2f0a169fb06ef645fa14e6d5a7486028f3730c183303d30321b463250b0c7",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:53+00:00"
+    },
+    "senado-547578": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:57+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-21;5705",
+        "id": "senado-547578",
+        "id_senado": "547578",
+        "numero": "5705",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.705 de 21/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-21;5705"
+      },
+      "original": "originais/9c/9c37723182f4518715919382ec53224af9d7c39a85d23590794f651a3d33c645.gz",
+      "sha256_original": "9c37723182f4518715919382ec53224af9d7c39a85d23590794f651a3d33c645",
+      "sha256_texto": "d7ca42ab2c0a2a90470c2df10961fb02c20bb8f4585960fa3ad3845f7ac45b20",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:55+00:00"
+    },
+    "senado-547579": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:36:59+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-21;5706",
+        "id": "senado-547579",
+        "id_senado": "547579",
+        "numero": "5706",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.706 de 21/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-21;5706"
+      },
+      "original": "originais/0d/0d69de630c4ba0de8165f335a3760697e12ac4310f0b99dbfbc11b5cccbb0a3f.gz",
+      "sha256_original": "0d69de630c4ba0de8165f335a3760697e12ac4310f0b99dbfbc11b5cccbb0a3f",
+      "sha256_texto": "dbc95004f14985a27fb8c9d5e6dfecf0ca222239248923f01d480f078c9aa1e6",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:36:57+00:00"
+    },
+    "senado-547580": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:37:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-09-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-09-27;5707",
+        "id": "senado-547580",
+        "id_senado": "547580",
+        "numero": "5707",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.707 de 27/09/1971",
+        "urn": "urn:lex:br:federal:lei:1971-09-27;5707"
+      },
+      "original": "originais/62/622d72f69bdbae5a6c43457750570f12916f9c90c8f91ee489d1f3dcef196bb2.gz",
+      "sha256_original": "622d72f69bdbae5a6c43457750570f12916f9c90c8f91ee489d1f3dcef196bb2",
+      "sha256_texto": "ab45e96f15f97daed3bc1b8a54fa55e5b6d0b09b01880b1d9ee1649ade5aaf23",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:37:00+00:00"
+    },
+    "senado-547581": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:37:04+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-04;5708",
+        "id": "senado-547581",
+        "id_senado": "547581",
+        "numero": "5708",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.708 de 04/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-04;5708"
+      },
+      "original": "originais/94/945e34570fd81a3160eb27860328cd97b5ccf4c9c046f85216908eb7eb00b1da.gz",
+      "sha256_original": "945e34570fd81a3160eb27860328cd97b5ccf4c9c046f85216908eb7eb00b1da",
+      "sha256_texto": "dce6ac61f8c7bdccad1c91ce796aed1f4c53c220e02821ad96b7e6081ece939a",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:37:02+00:00"
+    },
+    "senado-547582": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:37:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-07;5709",
+        "id": "senado-547582",
+        "id_senado": "547582",
+        "numero": "5709",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.709 de 07/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-07;5709"
+      },
+      "original": "originais/91/91f0b0b3f2e43321f57f13ef78882bbcb505dc6e6fde42c662a56bfa15db43ed.gz",
+      "sha256_original": "91f0b0b3f2e43321f57f13ef78882bbcb505dc6e6fde42c662a56bfa15db43ed",
+      "sha256_texto": "9fd9318584b4b2c85a6780a17478e1477d3d2a9bee9b12d48895f14fa3f20138",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:37:04+00:00"
+    },
+    "senado-547583": {
+      "alterado": true,
+      "conferido_em": "2026-11-06T19:37:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-07;5710",
+        "id": "senado-547583",
+        "id_senado": "547583",
+        "numero": "5710",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.710 de 07/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-07;5710"
+      },
+      "original": "originais/d1/d1107003b3fa41b7f56343c2e3ce0746b8a39cd3d593e5537521c18e74294965.gz",
+      "sha256_original": "d1107003b3fa41b7f56343c2e3ce0746b8a39cd3d593e5537521c18e74294965",
+      "sha256_texto": "fd677cbf7524b6a8560c09439936dfed30d81eeab6d36364049c99dc7b0c7a0d",
+      "status": "publicado",
+      "tentado_em": "2026-11-06T19:37:07+00:00"
+    },
+    "senado-547584": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-08;5711",
+        "id": "senado-547584",
+        "id_senado": "547584",
+        "numero": "5711",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.711 de 08/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-08;5711"
+      }
+    },
+    "senado-547585": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-08;5712",
+        "id": "senado-547585",
+        "id_senado": "547585",
+        "numero": "5712",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.712 de 08/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-08;5712"
+      }
+    },
+    "senado-547586": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-11;5713",
+        "id": "senado-547586",
+        "id_senado": "547586",
+        "numero": "5713",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.713 de 11/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-11;5713"
+      }
+    },
+    "senado-547587": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-13;5714",
+        "id": "senado-547587",
+        "id_senado": "547587",
+        "numero": "5714",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.714 de 13/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-13;5714"
+      }
+    },
+    "senado-547588": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-18;5715",
+        "id": "senado-547588",
+        "id_senado": "547588",
+        "numero": "5715",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.715 de 18/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-18;5715"
+      }
+    },
+    "senado-547589": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-19;5716",
+        "id": "senado-547589",
+        "id_senado": "547589",
+        "numero": "5716",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.716 de 19/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-19;5716"
+      }
+    },
+    "senado-547590": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5717",
+        "id": "senado-547590",
+        "id_senado": "547590",
+        "numero": "5717",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.717 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5717"
+      }
+    },
+    "senado-547591": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5718",
+        "id": "senado-547591",
+        "id_senado": "547591",
+        "numero": "5718",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.718 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5718"
+      }
+    },
+    "senado-547592": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5719",
+        "id": "senado-547592",
+        "id_senado": "547592",
+        "numero": "5719",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.719 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5719"
+      }
+    },
+    "senado-547593": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5720",
+        "id": "senado-547593",
+        "id_senado": "547593",
+        "numero": "5720",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.720 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5720"
+      }
+    },
+    "senado-547594": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5721",
+        "id": "senado-547594",
+        "id_senado": "547594",
+        "numero": "5721",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.721 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5721"
+      }
+    },
+    "senado-547595": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5722",
+        "id": "senado-547595",
+        "id_senado": "547595",
+        "numero": "5722",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.722 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5722"
+      }
+    },
+    "senado-547596": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5723",
+        "id": "senado-547596",
+        "id_senado": "547596",
+        "numero": "5723",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.723 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5723"
+      }
+    },
+    "senado-547597": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-26;5724",
+        "id": "senado-547597",
+        "id_senado": "547597",
+        "numero": "5724",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.724 de 26/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-26;5724"
+      }
+    },
+    "senado-547598": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-27;5725",
+        "id": "senado-547598",
+        "id_senado": "547598",
+        "numero": "5725",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.725 de 27/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-27;5725"
+      }
+    },
+    "senado-547599": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-10-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-10-29;5726",
+        "id": "senado-547599",
+        "id_senado": "547599",
+        "numero": "5726",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.726 de 29/10/1971",
+        "urn": "urn:lex:br:federal:lei:1971-10-29;5726"
+      }
+    },
+    "senado-547600": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-04;5727",
+        "id": "senado-547600",
+        "id_senado": "547600",
+        "numero": "5727",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.727 de 04/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-04;5727"
+      }
+    },
+    "senado-547601": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-05;5728",
+        "id": "senado-547601",
+        "id_senado": "547601",
+        "numero": "5728",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.728 de 05/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-05;5728"
+      }
+    },
+    "senado-547602": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-08;5729",
+        "id": "senado-547602",
+        "id_senado": "547602",
+        "numero": "5729",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.729 de 08/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-08;5729"
+      }
+    },
+    "senado-547603": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-08;5730",
+        "id": "senado-547603",
+        "id_senado": "547603",
+        "numero": "5730",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.730 de 08/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-08;5730"
+      }
+    },
+    "senado-547604": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-08;5731",
+        "id": "senado-547604",
+        "id_senado": "547604",
+        "numero": "5731",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.731 de 08/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-08;5731"
+      }
+    },
+    "senado-547605": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-16;5732",
+        "id": "senado-547605",
+        "id_senado": "547605",
+        "numero": "5732",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.732 de 16/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-16;5732"
+      }
+    },
+    "senado-547606": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-16;5733",
+        "id": "senado-547606",
+        "id_senado": "547606",
+        "numero": "5733",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.733 de 16/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-16;5733"
+      }
+    },
+    "senado-547607": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-16;5734",
+        "id": "senado-547607",
+        "id_senado": "547607",
+        "numero": "5734",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.734 de 16/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-16;5734"
+      }
+    },
+    "senado-547608": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-17;5735",
+        "id": "senado-547608",
+        "id_senado": "547608",
+        "numero": "5735",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.735 de 17/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-17;5735"
+      }
+    },
+    "senado-547609": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-22;5736",
+        "id": "senado-547609",
+        "id_senado": "547609",
+        "numero": "5736",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.736 de 22/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-22;5736"
+      }
+    },
+    "senado-547610": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-22;5737",
+        "id": "senado-547610",
+        "id_senado": "547610",
+        "numero": "5737",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.737 de 22/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-22;5737"
+      }
+    },
+    "senado-547611": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-24;5738",
+        "id": "senado-547611",
+        "id_senado": "547611",
+        "numero": "5738",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.738 de 24/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-24;5738"
+      }
+    },
+    "senado-547612": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-11-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-11-24;5739",
+        "id": "senado-547612",
+        "id_senado": "547612",
+        "numero": "5739",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.739 de 24/11/1971",
+        "urn": "urn:lex:br:federal:lei:1971-11-24;5739"
+      }
+    },
+    "senado-547613": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5740",
+        "id": "senado-547613",
+        "id_senado": "547613",
+        "numero": "5740",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.740 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5740"
+      }
+    },
+    "senado-547614": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5741",
+        "id": "senado-547614",
+        "id_senado": "547614",
+        "numero": "5741",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.741 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5741"
+      }
+    },
+    "senado-547616": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5742",
+        "id": "senado-547616",
+        "id_senado": "547616",
+        "numero": "5742",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.742 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5742"
+      }
+    },
+    "senado-547617": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5743",
+        "id": "senado-547617",
+        "id_senado": "547617",
+        "numero": "5743",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.743 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5743"
+      }
+    },
+    "senado-547618": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5744",
+        "id": "senado-547618",
+        "id_senado": "547618",
+        "numero": "5744",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.744 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5744"
+      }
+    },
+    "senado-547619": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5745",
+        "id": "senado-547619",
+        "id_senado": "547619",
+        "numero": "5745",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.745 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5745"
+      }
+    },
+    "senado-547620": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5746",
+        "id": "senado-547620",
+        "id_senado": "547620",
+        "numero": "5746",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.746 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5746"
+      }
+    },
+    "senado-547621": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5747",
+        "id": "senado-547621",
+        "id_senado": "547621",
+        "numero": "5747",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.747 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5747"
+      }
+    },
+    "senado-547622": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5748",
+        "id": "senado-547622",
+        "id_senado": "547622",
+        "numero": "5748",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.748 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5748"
+      }
+    },
+    "senado-547623": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-01;5749",
+        "id": "senado-547623",
+        "id_senado": "547623",
+        "numero": "5749",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.749 de 01/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-01;5749"
+      }
+    },
+    "senado-547625": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-02;5750",
+        "id": "senado-547625",
+        "id_senado": "547625",
+        "numero": "5750",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.750 de 02/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-02;5750"
+      }
+    },
+    "senado-547626": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-02;5751",
+        "id": "senado-547626",
+        "id_senado": "547626",
+        "numero": "5751",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.751 de 02/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-02;5751"
+      }
+    },
+    "senado-547627": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-02;5752",
+        "id": "senado-547627",
+        "id_senado": "547627",
+        "numero": "5752",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.752 de 02/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-02;5752"
+      }
+    },
+    "senado-547629": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5753",
+        "id": "senado-547629",
+        "id_senado": "547629",
+        "numero": "5753",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.753 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5753"
+      }
+    },
+    "senado-547630": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5754",
+        "id": "senado-547630",
+        "id_senado": "547630",
+        "numero": "5754",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.754 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5754"
+      }
+    },
+    "senado-547631": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5755",
+        "id": "senado-547631",
+        "id_senado": "547631",
+        "numero": "5755",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.755 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5755"
+      }
+    },
+    "senado-547632": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5756",
+        "id": "senado-547632",
+        "id_senado": "547632",
+        "numero": "5756",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.756 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5756"
+      }
+    },
+    "senado-547633": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5757",
+        "id": "senado-547633",
+        "id_senado": "547633",
+        "numero": "5757",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.757 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5757"
+      }
+    },
+    "senado-547634": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5758",
+        "id": "senado-547634",
+        "id_senado": "547634",
+        "numero": "5758",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.758 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5758"
+      }
+    },
+    "senado-547635": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5759",
+        "id": "senado-547635",
+        "id_senado": "547635",
+        "numero": "5759",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.759 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5759"
+      }
+    },
+    "senado-547636": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5760",
+        "id": "senado-547636",
+        "id_senado": "547636",
+        "numero": "5760",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.760 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5760"
+      }
+    },
+    "senado-547637": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-03;5761",
+        "id": "senado-547637",
+        "id_senado": "547637",
+        "numero": "5761",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.761 de 03/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-03;5761"
+      }
+    },
+    "senado-547638": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-14;5762",
+        "id": "senado-547638",
+        "id_senado": "547638",
+        "numero": "5762",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.762 de 14/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-14;5762"
+      }
+    },
+    "senado-547639": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-15;5763",
+        "id": "senado-547639",
+        "id_senado": "547639",
+        "numero": "5763",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.763 de 15/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-15;5763"
+      }
+    },
+    "senado-547640": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-16;5764",
+        "id": "senado-547640",
+        "id_senado": "547640",
+        "numero": "5764",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.764 de 16/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-16;5764"
+      }
+    },
+    "senado-547641": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-18;5765",
+        "id": "senado-547641",
+        "id_senado": "547641",
+        "numero": "5765",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.765 de 18/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-18;5765"
+      }
+    },
+    "senado-547642": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-20;5766",
+        "id": "senado-547642",
+        "id_senado": "547642",
+        "numero": "5766",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.766 de 20/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-20;5766"
+      }
+    },
+    "senado-547643": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-20;5767",
+        "id": "senado-547643",
+        "id_senado": "547643",
+        "numero": "5767",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.767 de 20/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-20;5767"
+      }
+    },
+    "senado-547644": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-20;5768",
+        "id": "senado-547644",
+        "id_senado": "547644",
+        "numero": "5768",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.768 de 20/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-20;5768"
+      }
+    },
+    "senado-547645": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-20;5769",
+        "id": "senado-547645",
+        "id_senado": "547645",
+        "numero": "5769",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.769 de 20/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-20;5769"
+      }
+    },
+    "senado-547646": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-21;5770",
+        "id": "senado-547646",
+        "id_senado": "547646",
+        "numero": "5770",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.770 de 21/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-21;5770"
+      }
+    },
+    "senado-547647": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-21;5771",
+        "id": "senado-547647",
+        "id_senado": "547647",
+        "numero": "5771",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.771 de 21/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-21;5771"
+      }
+    },
+    "senado-547648": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-21;5772",
+        "id": "senado-547648",
+        "id_senado": "547648",
+        "numero": "5772",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.772 de 21/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-21;5772"
+      }
+    },
+    "senado-547649": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-21;5773",
+        "id": "senado-547649",
+        "id_senado": "547649",
+        "numero": "5773",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.773 de 21/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-21;5773"
+      }
+    },
+    "senado-547650": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-23;5774",
+        "id": "senado-547650",
+        "id_senado": "547650",
+        "numero": "5774",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.774 de 23/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-23;5774"
+      }
+    },
+    "senado-547651": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1971-12-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-27;5775",
+        "id": "senado-547651",
+        "id_senado": "547651",
+        "numero": "5775",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5.775 de 27/12/1971",
+        "urn": "urn:lex:br:federal:lei:1971-12-27;5775"
+      }
     },
     "senado-547652": {
       "alterado": true,
@@ -189784,8 +193529,8 @@
     }
   },
   "indices": {
-    "historico": 53,
-    "recente": 26
+    "historico": 55,
+    "recente": 6
   },
   "sapl": {
     "sapl-ac": {
