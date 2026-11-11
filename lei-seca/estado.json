@@ -82068,6 +82068,3948 @@
       "status": "publicado",
       "tentado_em": "2026-11-11T06:44:13+00:00"
     },
+    "senado-540812": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-10-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-10-04;1",
+        "id": "senado-540812",
+        "id_senado": "540812",
+        "numero": "1",
+        "tipo": "Lei",
+        "titulo": "Lei nº 1 de 04/10/1946",
+        "urn": "urn:lex:br:federal:lei:1946-10-04;1"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/2d/2de72ccfa7d578d075ccc8f27c2e0df1db054bbdc80f8e00e260203a3bb55895.gz",
+      "sha256_original": "2de72ccfa7d578d075ccc8f27c2e0df1db054bbdc80f8e00e260203a3bb55895",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:43:13+00:00"
+    },
+    "senado-540814": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-11-22;2",
+        "id": "senado-540814",
+        "id_senado": "540814",
+        "numero": "2",
+        "tipo": "Lei",
+        "titulo": "Lei nº 2 de 22/11/1946",
+        "urn": "urn:lex:br:federal:lei:1946-11-22;2"
+      },
+      "original": "originais/83/83b265c2aec5dd50d53ad9be47e216459b2723852626388fc92cc32b650f2155.gz",
+      "sha256_original": "83b265c2aec5dd50d53ad9be47e216459b2723852626388fc92cc32b650f2155",
+      "sha256_texto": "dbd76a3d8bcd1ecbe776eda0869893def258b7f6c345338b3601aeaf2634eac8",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:16+00:00"
+    },
+    "senado-540815": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:22+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-02;3",
+        "id": "senado-540815",
+        "id_senado": "540815",
+        "numero": "3",
+        "tipo": "Lei",
+        "titulo": "Lei nº 3 de 02/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-02;3"
+      },
+      "original": "originais/23/235384f84d006fc1ba913b34d1b5ed7c1c8aa0271d8c3d2d998b8891a186965e.gz",
+      "sha256_original": "235384f84d006fc1ba913b34d1b5ed7c1c8aa0271d8c3d2d998b8891a186965e",
+      "sha256_texto": "902ac0b96201571bcbc2c03bf8692fc5859b0c2c9fd3a7babf798c6b27056472",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:19+00:00"
+    },
+    "senado-540817": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:25+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-13;4",
+        "id": "senado-540817",
+        "id_senado": "540817",
+        "numero": "4",
+        "tipo": "Lei",
+        "titulo": "Lei nº 4 de 13/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-13;4"
+      },
+      "original": "originais/6f/6f117b1a6300a17dc325277ef834f639ad042f6ce72ccd0bfaeb86ddb6fece23.gz",
+      "sha256_original": "6f117b1a6300a17dc325277ef834f639ad042f6ce72ccd0bfaeb86ddb6fece23",
+      "sha256_texto": "5db55feeee457aace81166a552275068956d3daa71088b132046c063371c32f0",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:22+00:00"
+    },
+    "senado-540818": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-14;5",
+        "id": "senado-540818",
+        "id_senado": "540818",
+        "numero": "5",
+        "tipo": "Lei",
+        "titulo": "Lei nº 5 de 14/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-14;5"
+      },
+      "original": "originais/c5/c5851cb5af00476233beb498257ab4e429a68b9123513f7605711c2c1eadcb4d.gz",
+      "sha256_original": "c5851cb5af00476233beb498257ab4e429a68b9123513f7605711c2c1eadcb4d",
+      "sha256_texto": "bac6c72560756a65a153aabd7c34c4c65910c0e36896a0096b6df76dcc2a684b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:25+00:00"
+    },
+    "senado-540819": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-19;6",
+        "id": "senado-540819",
+        "id_senado": "540819",
+        "numero": "6",
+        "tipo": "Lei",
+        "titulo": "Lei nº 6 de 19/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-19;6"
+      },
+      "original": "originais/9f/9f12d92f235cd7411934f44b0bf73118dff26ef2eb04e21ac4d2edaacc1beb2c.gz",
+      "sha256_original": "9f12d92f235cd7411934f44b0bf73118dff26ef2eb04e21ac4d2edaacc1beb2c",
+      "sha256_texto": "6719ac5e1f8d6bf5520253a5076a7e1e2c9d1701b134d7d19d21f2a5f0a03e1e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:28+00:00"
+    },
+    "senado-540820": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-19;7",
+        "id": "senado-540820",
+        "id_senado": "540820",
+        "numero": "7",
+        "tipo": "Lei",
+        "titulo": "Lei nº 7 de 19/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-19;7"
+      },
+      "original": "originais/b0/b0d10e4805e0c67eed37e914080f87d8de016e841f68c436d502a47c20228d82.gz",
+      "sha256_original": "b0d10e4805e0c67eed37e914080f87d8de016e841f68c436d502a47c20228d82",
+      "sha256_texto": "9d1283906a3a2bb2f42a22ea0af13ae252dcd20a61a89e1118e6ca3be71f6343",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:31+00:00"
+    },
+    "senado-540821": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-19;8",
+        "id": "senado-540821",
+        "id_senado": "540821",
+        "numero": "8",
+        "tipo": "Lei",
+        "titulo": "Lei nº 8 de 19/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-19;8"
+      },
+      "original": "originais/6e/6ea80e2c3ebb02d35bc2922bcecc65a22f0d1677957021cd99d582fb029c3b72.gz",
+      "sha256_original": "6ea80e2c3ebb02d35bc2922bcecc65a22f0d1677957021cd99d582fb029c3b72",
+      "sha256_texto": "ff462ff6430cd88096b3a605f27c5f4bb0df9fa84e3da0904f8c8c1460bbc86d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:33+00:00"
+    },
+    "senado-540823": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:38+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-20;9",
+        "id": "senado-540823",
+        "id_senado": "540823",
+        "numero": "9",
+        "tipo": "Lei",
+        "titulo": "Lei nº 9 de 20/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-20;9"
+      },
+      "original": "originais/cd/cd0394c8fe2f62dc5d99fc4aeca34382212fd0a36b49dff61dfafa1eedae3ef2.gz",
+      "sha256_original": "cd0394c8fe2f62dc5d99fc4aeca34382212fd0a36b49dff61dfafa1eedae3ef2",
+      "sha256_texto": "f435f64bde6eb4f6dab2f9630b1a6b64ead2f3ac396eeb86fc5a00db92ceaf55",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:36+00:00"
+    },
+    "senado-540824": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-20;10",
+        "id": "senado-540824",
+        "id_senado": "540824",
+        "numero": "10",
+        "tipo": "Lei",
+        "titulo": "Lei nº 10 de 20/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-20;10"
+      },
+      "erro": "IncompleteRead(250498 bytes read)",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:43:38+00:00"
+    },
+    "senado-540825": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:43+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-28;11",
+        "id": "senado-540825",
+        "id_senado": "540825",
+        "numero": "11",
+        "tipo": "Lei",
+        "titulo": "Lei nº 11 de 28/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-28;11"
+      },
+      "original": "originais/f7/f7f7668b09d983846013613aafb24aa7516cd7dcb92d494a152ab70a9f455fd2.gz",
+      "sha256_original": "f7f7668b09d983846013613aafb24aa7516cd7dcb92d494a152ab70a9f455fd2",
+      "sha256_texto": "c19ed145e247e5c585db6c4923b5be6b2f770a15bb0efd0253551ddb0644b5d6",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:41+00:00"
+    },
+    "senado-540826": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1946-12-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1946-12-28;12",
+        "id": "senado-540826",
+        "id_senado": "540826",
+        "numero": "12",
+        "tipo": "Lei",
+        "titulo": "Lei nº 12 de 28/12/1946",
+        "urn": "urn:lex:br:federal:lei:1946-12-28;12"
+      },
+      "original": "originais/bd/bd431f12edda385873a8f893a4eef44009e6b17e45217e910979866fe0cb1871.gz",
+      "sha256_original": "bd431f12edda385873a8f893a4eef44009e6b17e45217e910979866fe0cb1871",
+      "sha256_texto": "f11906af91758ea5dbf68a4ffa61328e8ef43c3c6b0f801c60e3301d2733da7d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:43+00:00"
+    },
+    "senado-540827": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-01-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-01-02;13",
+        "id": "senado-540827",
+        "id_senado": "540827",
+        "numero": "13",
+        "tipo": "Lei",
+        "titulo": "Lei nº 13 de 02/01/1947",
+        "urn": "urn:lex:br:federal:lei:1947-01-02;13"
+      },
+      "original": "originais/f2/f29aef5f528678b0f85924795b047ab26f4c46f8eeabd783f9c33b6c494b763e.gz",
+      "sha256_original": "f29aef5f528678b0f85924795b047ab26f4c46f8eeabd783f9c33b6c494b763e",
+      "sha256_texto": "d5fb2640fd9eee9c534103f0750d01a8cc54ad2ec676e9765b706091aeeff7b2",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:45+00:00"
+    },
+    "senado-540829": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-07;14",
+        "id": "senado-540829",
+        "id_senado": "540829",
+        "numero": "14",
+        "tipo": "Lei",
+        "titulo": "Lei nº 14 de 07/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-07;14"
+      },
+      "original": "originais/ff/ff26f7df0bb7209ede6837832a8e82a69ef3db057d2f9c44ce2b9a81f8f7029d.gz",
+      "sha256_original": "ff26f7df0bb7209ede6837832a8e82a69ef3db057d2f9c44ce2b9a81f8f7029d",
+      "sha256_texto": "20e0fe65f1269776c86e3e6b7dd68b7337b8145f9108596a9b5a5c2bcc1efd56",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:49+00:00"
+    },
+    "senado-540831": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:53+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-07;15",
+        "id": "senado-540831",
+        "id_senado": "540831",
+        "numero": "15",
+        "tipo": "Lei",
+        "titulo": "Lei nº 15 de 07/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-07;15"
+      },
+      "original": "originais/bb/bb930faf2b8e2799599f75ed6a007167680b8fa0820ff44b7f22833467a02816.gz",
+      "sha256_original": "bb930faf2b8e2799599f75ed6a007167680b8fa0820ff44b7f22833467a02816",
+      "sha256_texto": "995298c6a58effdecee3b101105fb34041b40cfe65b3c23e45f46422dd34fc60",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:51+00:00"
+    },
+    "senado-540835": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:55+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-07;16",
+        "id": "senado-540835",
+        "id_senado": "540835",
+        "numero": "16",
+        "tipo": "Lei",
+        "titulo": "Lei nº 16 de 07/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-07;16"
+      },
+      "original": "originais/3f/3f4601e1ff5b5a8271ac14c44e30ba2bebbf3c5e5509d678cf695bf494912ab7.gz",
+      "sha256_original": "3f4601e1ff5b5a8271ac14c44e30ba2bebbf3c5e5509d678cf695bf494912ab7",
+      "sha256_texto": "b462aad54cd4899a8cdb60f49e6d361e037674d48aab09e6a07f532c401bf12f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:53+00:00"
+    },
+    "senado-540837": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:43:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-10;17",
+        "id": "senado-540837",
+        "id_senado": "540837",
+        "numero": "17",
+        "tipo": "Lei",
+        "titulo": "Lei nº 17 de 10/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-10;17"
+      },
+      "original": "originais/3d/3d4da2641d14df9e98e70272a086d71056dd28d735d6fddfb28f7d054fce0d2f.gz",
+      "sha256_original": "3d4da2641d14df9e98e70272a086d71056dd28d735d6fddfb28f7d054fce0d2f",
+      "sha256_texto": "4e41a419f812c0fc42d7719f6d90547c56574d81ac6a7a9bd94db33dd27b3406",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:43:56+00:00"
+    },
+    "senado-540838": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-10;18",
+        "id": "senado-540838",
+        "id_senado": "540838",
+        "numero": "18",
+        "tipo": "Lei",
+        "titulo": "Lei nº 18 de 10/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-10;18"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/4b/4bd65d926a93a384536c336b4fec1066b86437bf0daf9331c0558026222e2955.gz",
+      "sha256_original": "4bd65d926a93a384536c336b4fec1066b86437bf0daf9331c0558026222e2955",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:43:58+00:00"
+    },
+    "senado-540840": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-10;19",
+        "id": "senado-540840",
+        "id_senado": "540840",
+        "numero": "19",
+        "tipo": "Lei",
+        "titulo": "Lei nº 19 de 10/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-10;19"
+      },
+      "original": "originais/0e/0eb6fb6c8b7b47185fa9d11ffbe105f475f71fd07a596c48ffc8165465533dcb.gz",
+      "sha256_original": "0eb6fb6c8b7b47185fa9d11ffbe105f475f71fd07a596c48ffc8165465533dcb",
+      "sha256_texto": "6e3e724a80a5919d3350e1e984afcd8f5254241386da71436ba0e3b029de98ec",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:00+00:00"
+    },
+    "senado-540843": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:04+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-10;20",
+        "id": "senado-540843",
+        "id_senado": "540843",
+        "numero": "20",
+        "tipo": "Lei",
+        "titulo": "Lei nº 20 de 10/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-10;20"
+      },
+      "original": "originais/ac/ac15635e59700f4739320b20258a4ca3621c5703aad404c5c0e20a1039745170.gz",
+      "sha256_original": "ac15635e59700f4739320b20258a4ca3621c5703aad404c5c0e20a1039745170",
+      "sha256_texto": "b907032bbd2ad0c47e4fcb373eff5f9fdd20d735c5811cace92197d09a23c454",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:02+00:00"
+    },
+    "senado-540847": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;21",
+        "id": "senado-540847",
+        "id_senado": "540847",
+        "numero": "21",
+        "tipo": "Lei",
+        "titulo": "Lei nº 21 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;21"
+      },
+      "original": "originais/3c/3c9549d67f832e11c1420842acf6431adca52f1bfef1f47d43060e6afb7bddd1.gz",
+      "sha256_original": "3c9549d67f832e11c1420842acf6431adca52f1bfef1f47d43060e6afb7bddd1",
+      "sha256_texto": "0b5a87c64d7726d4057ddf922e1cade96fce94657c811bf4b8a3a3d576d1b198",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:05+00:00"
+    },
+    "senado-540850": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:09+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;22",
+        "id": "senado-540850",
+        "id_senado": "540850",
+        "numero": "22",
+        "tipo": "Lei",
+        "titulo": "Lei nº 22 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;22"
+      },
+      "original": "originais/20/201aec92b4ee38acadf787ca06923c3d49046d88649cf0858c1d889bf49fcf3b.gz",
+      "sha256_original": "201aec92b4ee38acadf787ca06923c3d49046d88649cf0858c1d889bf49fcf3b",
+      "sha256_texto": "b5195dd6fefc6ae213c2df20e10a4650f52e29435e1fc0ba57d4ab6405a5c222",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:07+00:00"
+    },
+    "senado-540854": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:11+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;23",
+        "id": "senado-540854",
+        "id_senado": "540854",
+        "numero": "23",
+        "tipo": "Lei",
+        "titulo": "Lei nº 23 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;23"
+      },
+      "original": "originais/88/8840697f4ba546eeea19a9b6fe1c120158d9b31e9303022d411062363a59b07c.gz",
+      "sha256_original": "8840697f4ba546eeea19a9b6fe1c120158d9b31e9303022d411062363a59b07c",
+      "sha256_texto": "defcbb27c024f905fbcdeb762cf7d50ab4f1a46434d6a679e6d2276d26e1385e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:09+00:00"
+    },
+    "senado-540857": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:13+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;24",
+        "id": "senado-540857",
+        "id_senado": "540857",
+        "numero": "24",
+        "tipo": "Lei",
+        "titulo": "Lei nº 24 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;24"
+      },
+      "original": "originais/87/8774259ad90ddeea183bc60c63f93301e6c3bafcb048b3c9000c31326556e564.gz",
+      "sha256_original": "8774259ad90ddeea183bc60c63f93301e6c3bafcb048b3c9000c31326556e564",
+      "sha256_texto": "9c422c49ad7cacf0000702d4943054e05b41c082bc2906fc4f211f6976a47d82",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:11+00:00"
+    },
+    "senado-540860": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:16+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;25",
+        "id": "senado-540860",
+        "id_senado": "540860",
+        "numero": "25",
+        "tipo": "Lei",
+        "titulo": "Lei nº 25 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;25"
+      },
+      "original": "originais/80/807164e40195c14234ff0f7ef4a9001d5be7b02dad0ff131bfaa8158bb4e2ca3.gz",
+      "sha256_original": "807164e40195c14234ff0f7ef4a9001d5be7b02dad0ff131bfaa8158bb4e2ca3",
+      "sha256_texto": "fc94665ee091c6b2c32572f7a4346067cdececce8b3267dbff1254856dfc7cd6",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:14+00:00"
+    },
+    "senado-540864": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:18+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;26",
+        "id": "senado-540864",
+        "id_senado": "540864",
+        "numero": "26",
+        "tipo": "Lei",
+        "titulo": "Lei nº 26 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;26"
+      },
+      "original": "originais/be/be3f050c76bfc91a8482e5c6335109ea43e2758d01bc1a4e105305acdf311b24.gz",
+      "sha256_original": "be3f050c76bfc91a8482e5c6335109ea43e2758d01bc1a4e105305acdf311b24",
+      "sha256_texto": "66d6ab582e428b9e7c6b99ddf3048fa1b94c4df6adef53efb09c48dfc10a4ae0",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:16+00:00"
+    },
+    "senado-540866": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:20+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;27",
+        "id": "senado-540866",
+        "id_senado": "540866",
+        "numero": "27",
+        "tipo": "Lei",
+        "titulo": "Lei nº 27 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;27"
+      },
+      "original": "originais/67/67de0329c7b153f4c8e91968e419b72883f7770769eb6d19d0e38b18b28100c4.gz",
+      "sha256_original": "67de0329c7b153f4c8e91968e419b72883f7770769eb6d19d0e38b18b28100c4",
+      "sha256_texto": "5674a5e1d84ac9e1c09dfe8d26fc1f030b3bb667eb9bd3c49bac28959356dca5",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:18+00:00"
+    },
+    "senado-540869": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:22+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;28",
+        "id": "senado-540869",
+        "id_senado": "540869",
+        "numero": "28",
+        "tipo": "Lei",
+        "titulo": "Lei nº 28 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;28"
+      },
+      "original": "originais/07/07dc3993ce9635fa4bfc39e84a804be140a7cf8e526e576a51914b5a7d30ac2a.gz",
+      "sha256_original": "07dc3993ce9635fa4bfc39e84a804be140a7cf8e526e576a51914b5a7d30ac2a",
+      "sha256_texto": "b5bcb8deb079e4782db10bc393e06a778d758d2e10d89319e1ddc48cb381e4bd",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:20+00:00"
+    },
+    "senado-540871": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:25+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-15;29",
+        "id": "senado-540871",
+        "id_senado": "540871",
+        "numero": "29",
+        "tipo": "Lei",
+        "titulo": "Lei nº 29 de 15/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-15;29"
+      },
+      "original": "originais/7d/7de7a2c085e8300e3ebbcc4913da736b060e5a041b69f161c99a33951de186cc.gz",
+      "sha256_original": "7de7a2c085e8300e3ebbcc4913da736b060e5a041b69f161c99a33951de186cc",
+      "sha256_texto": "1d2ff610bd154e689613028779b36a25400a61f76335f05b8df9d7bd5edbc867",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:23+00:00"
+    },
+    "senado-540873": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:27+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-27;30",
+        "id": "senado-540873",
+        "id_senado": "540873",
+        "numero": "30",
+        "tipo": "Lei",
+        "titulo": "Lei nº 30 de 27/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-27;30"
+      },
+      "original": "originais/32/32127b620952a1591d11768d8d28fe6d9485939fcae1d4ca4d7aa3c36ce0d58d.gz",
+      "sha256_original": "32127b620952a1591d11768d8d28fe6d9485939fcae1d4ca4d7aa3c36ce0d58d",
+      "sha256_texto": "4404be0c2991c2eddc2bb9a31fe341223f456ce000c2f1a5ad4e77f7663666a6",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:25+00:00"
+    },
+    "senado-540874": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:29+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-02-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-02-27;30-a",
+        "id": "senado-540874",
+        "id_senado": "540874",
+        "numero": "30-A",
+        "tipo": "Lei",
+        "titulo": "Lei nº 30-A de 27/02/1947",
+        "urn": "urn:lex:br:federal:lei:1947-02-27;30-a"
+      },
+      "original": "originais/92/92fbabc0520aef5e285ec7bcb0dcf7e48802a0301e034055782846c9bc97f9f7.gz",
+      "sha256_original": "92fbabc0520aef5e285ec7bcb0dcf7e48802a0301e034055782846c9bc97f9f7",
+      "sha256_texto": "8427436e8e9bb0ccf16984face8a62d55390160d1167a7cb67cc3a94a5afef8f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:27+00:00"
+    },
+    "senado-540877": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:31+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-03-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-03-03;31",
+        "id": "senado-540877",
+        "id_senado": "540877",
+        "numero": "31",
+        "tipo": "Lei",
+        "titulo": "Lei nº 31 de 03/03/1947",
+        "urn": "urn:lex:br:federal:lei:1947-03-03;31"
+      },
+      "original": "originais/f3/f343e6d3359814c50ced4297360ba49182ea8dc521697e0e5419c9a5d449803b.gz",
+      "sha256_original": "f343e6d3359814c50ced4297360ba49182ea8dc521697e0e5419c9a5d449803b",
+      "sha256_texto": "0f37c95ef5932f4e338e3cd4a452a498fdc40b36129edd8c54970b51afdbf7ae",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:29+00:00"
+    },
+    "senado-540880": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:34+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-04-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-04-25;32",
+        "id": "senado-540880",
+        "id_senado": "540880",
+        "numero": "32",
+        "tipo": "Lei",
+        "titulo": "Lei nº 32 de 25/04/1947",
+        "urn": "urn:lex:br:federal:lei:1947-04-25;32"
+      },
+      "original": "originais/07/0788f8b97fbe77a066ec3e39928710a86d1e33e1e675969dde6b8754f2fc2c7a.gz",
+      "sha256_original": "0788f8b97fbe77a066ec3e39928710a86d1e33e1e675969dde6b8754f2fc2c7a",
+      "sha256_texto": "2bf158378f5c4bfd36346ebedfccbd3d2269c2507a8bc6207951239bef9ad322",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:32+00:00"
+    },
+    "senado-540882": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:36+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-05-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-05-13;33",
+        "id": "senado-540882",
+        "id_senado": "540882",
+        "numero": "33",
+        "tipo": "Lei",
+        "titulo": "Lei nº 33 de 13/05/1947",
+        "urn": "urn:lex:br:federal:lei:1947-05-13;33"
+      },
+      "original": "originais/9d/9d57f36a3ef79d7057b7e333ea1d18a27a0ca9dac26e860e845385164a7efb81.gz",
+      "sha256_original": "9d57f36a3ef79d7057b7e333ea1d18a27a0ca9dac26e860e845385164a7efb81",
+      "sha256_texto": "92b449bfa0d03831a3d981509e4f048e8addfa7c285994d673ae04367377370d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:34+00:00"
+    },
+    "senado-540884": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:38+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-05-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-05-16;34",
+        "id": "senado-540884",
+        "id_senado": "540884",
+        "numero": "34",
+        "tipo": "Lei",
+        "titulo": "Lei nº 34 de 16/05/1947",
+        "urn": "urn:lex:br:federal:lei:1947-05-16;34"
+      },
+      "original": "originais/7f/7f45ced73119c5b34a90c451d1413595b5ca735420876687459bd98c4366df44.gz",
+      "sha256_original": "7f45ced73119c5b34a90c451d1413595b5ca735420876687459bd98c4366df44",
+      "sha256_texto": "a4b6fcc991c476b4295e9d618bb9ceee6d0a0ea318e98686c1e2dd555536b9bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:36+00:00"
+    },
+    "senado-540888": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-05-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-05-26;35",
+        "id": "senado-540888",
+        "id_senado": "540888",
+        "numero": "35",
+        "tipo": "Lei",
+        "titulo": "Lei nº 35 de 26/05/1947",
+        "urn": "urn:lex:br:federal:lei:1947-05-26;35"
+      },
+      "original": "originais/07/070ee109adf12ace94db749a38eaeab3ac352d4738531c6bcf1baeb7c61d3663.gz",
+      "sha256_original": "070ee109adf12ace94db749a38eaeab3ac352d4738531c6bcf1baeb7c61d3663",
+      "sha256_texto": "3b9ade6316c27921ad5fa3d38c05735e908a619c0b0e827a9922e68e8b3402dc",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:38+00:00"
+    },
+    "senado-540890": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:43+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-05-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-05-26;36",
+        "id": "senado-540890",
+        "id_senado": "540890",
+        "numero": "36",
+        "tipo": "Lei",
+        "titulo": "Lei nº 36 de 26/05/1947",
+        "urn": "urn:lex:br:federal:lei:1947-05-26;36"
+      },
+      "original": "originais/2d/2d3446a4136c891328a28c2b7fcfa7025ab0987f84e9582f735c7a5058e00625.gz",
+      "sha256_original": "2d3446a4136c891328a28c2b7fcfa7025ab0987f84e9582f735c7a5058e00625",
+      "sha256_texto": "c3b15b7fb1196853e40406c754f6a1411eb1c539920a579c02bc5089af8bc90d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:40+00:00"
+    },
+    "senado-540893": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-02;37",
+        "id": "senado-540893",
+        "id_senado": "540893",
+        "numero": "37",
+        "tipo": "Lei",
+        "titulo": "Lei nº 37 de 02/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-02;37"
+      },
+      "original": "originais/3f/3fce0147216a99c2ce4b14f39654c4906ff709125e4c3cd362e99a9437eb0179.gz",
+      "sha256_original": "3fce0147216a99c2ce4b14f39654c4906ff709125e4c3cd362e99a9437eb0179",
+      "sha256_texto": "62d4456c728008b7ce361c514f5ee7509736a5ed6e259fcd7813e0d4a0a58673",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:43+00:00"
+    },
+    "senado-540896": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:47+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-07",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-07;38",
+        "id": "senado-540896",
+        "id_senado": "540896",
+        "numero": "38",
+        "tipo": "Lei",
+        "titulo": "Lei nº 38 de 07/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-07;38"
+      },
+      "original": "originais/2d/2dd858a44dc02940368d2b3aec7d95ab3807cf3942678f3838150fc700eadd48.gz",
+      "sha256_original": "2dd858a44dc02940368d2b3aec7d95ab3807cf3942678f3838150fc700eadd48",
+      "sha256_texto": "3a53537abea5c95e3eb8651831fae77d3820d5cb09d6b5a1677e933bc0a0cec7",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:45+00:00"
+    },
+    "senado-540898": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:49+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-18;39",
+        "id": "senado-540898",
+        "id_senado": "540898",
+        "numero": "39",
+        "tipo": "Lei",
+        "titulo": "Lei nº 39 de 18/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-18;39"
+      },
+      "original": "originais/f6/f6580c2dbf592c8918967627f6e1ee36b4cbf61f357f0a889407ec216a8ec874.gz",
+      "sha256_original": "f6580c2dbf592c8918967627f6e1ee36b4cbf61f357f0a889407ec216a8ec874",
+      "sha256_texto": "0bc3ca04071cafbb043e7f96c43dd0a4b570cc89a51126e36ff8cce634bcad24",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:47+00:00"
+    },
+    "senado-540903": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-25;40",
+        "id": "senado-540903",
+        "id_senado": "540903",
+        "numero": "40",
+        "tipo": "Lei",
+        "titulo": "Lei nº 40 de 25/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-25;40"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/4e/4ec034c0484bcd4f217b3d3f87978d1d1f7e1e00dd774ee6fa6be78dd2348070.gz",
+      "sha256_original": "4ec034c0484bcd4f217b3d3f87978d1d1f7e1e00dd774ee6fa6be78dd2348070",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:44:49+00:00"
+    },
+    "senado-540907": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-25;41",
+        "id": "senado-540907",
+        "id_senado": "540907",
+        "numero": "41",
+        "tipo": "Lei",
+        "titulo": "Lei nº 41 de 25/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-25;41"
+      },
+      "original": "originais/ae/ae3829f9879f1e3ddceba775db0c25618090636924ab58f7a986f93c4d856ad2.gz",
+      "sha256_original": "ae3829f9879f1e3ddceba775db0c25618090636924ab58f7a986f93c4d856ad2",
+      "sha256_texto": "636ea4fb90bceb52417b51e6d4544479503b93f65fc38a4a55cb908bb2174121",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:52+00:00"
+    },
+    "senado-540909": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:44:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-25;42",
+        "id": "senado-540909",
+        "id_senado": "540909",
+        "numero": "42",
+        "tipo": "Lei",
+        "titulo": "Lei nº 42 de 25/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-25;42"
+      },
+      "original": "originais/b6/b600f9717e345f2229db929971cd3d289d36834f5d94097343ed546701ebd8f6.gz",
+      "sha256_original": "b600f9717e345f2229db929971cd3d289d36834f5d94097343ed546701ebd8f6",
+      "sha256_texto": "f07ad90ba2bb0ff5b96b1a1429dc792e9a838059e8c1c8ca841e8e2d8bf710b7",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:54+00:00"
+    },
+    "senado-540911": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-06-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-06-25;43",
+        "id": "senado-540911",
+        "id_senado": "540911",
+        "numero": "43",
+        "tipo": "Lei",
+        "titulo": "Lei nº 43 de 25/06/1947",
+        "urn": "urn:lex:br:federal:lei:1947-06-25;43"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/07/073ee89c7a7be10c31a8b0bfa745f98542fb6f3b40b9da140623be645ea87aa0.gz",
+      "sha256_original": "073ee89c7a7be10c31a8b0bfa745f98542fb6f3b40b9da140623be645ea87aa0",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:44:56+00:00"
+    },
+    "senado-540913": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:00+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-04;44",
+        "id": "senado-540913",
+        "id_senado": "540913",
+        "numero": "44",
+        "tipo": "Lei",
+        "titulo": "Lei nº 44 de 04/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-04;44"
+      },
+      "original": "originais/43/43803115688f3f4708f5a019358689a5430a87b801d611abf9d57f8397361cbe.gz",
+      "sha256_original": "43803115688f3f4708f5a019358689a5430a87b801d611abf9d57f8397361cbe",
+      "sha256_texto": "5a8cdf991930bc7b86f8fa1b20275506f2ed86200398037d28a52bf3501928a2",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:44:58+00:00"
+    },
+    "senado-540917": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:03+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-09;45",
+        "id": "senado-540917",
+        "id_senado": "540917",
+        "numero": "45",
+        "tipo": "Lei",
+        "titulo": "Lei nº 45 de 09/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-09;45"
+      },
+      "original": "originais/10/1036aa2228e542dae01132abc7a405181108392d06b108eed13c19ce95aba7cd.gz",
+      "sha256_original": "1036aa2228e542dae01132abc7a405181108392d06b108eed13c19ce95aba7cd",
+      "sha256_texto": "a1e5d390368095f6b1c3a82752d3583d430fec92c07d09c5e61ac23e8eddaf29",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:01+00:00"
+    },
+    "senado-540920": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-21;46",
+        "id": "senado-540920",
+        "id_senado": "540920",
+        "numero": "46",
+        "tipo": "Lei",
+        "titulo": "Lei nº 46 de 21/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-21;46"
+      },
+      "original": "originais/92/92804ea564cec36759885360e78bd707ad10487b0a2a56fbee27a3495dc2fd60.gz",
+      "sha256_original": "92804ea564cec36759885360e78bd707ad10487b0a2a56fbee27a3495dc2fd60",
+      "sha256_texto": "d98a5f5993ddec6c549b91dc6ef043c00212f4f5cfd6b6f950fab33240b9b6ff",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:03+00:00"
+    },
+    "senado-540922": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-23;47",
+        "id": "senado-540922",
+        "id_senado": "540922",
+        "numero": "47",
+        "tipo": "Lei",
+        "titulo": "Lei nº 47 de 23/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-23;47"
+      },
+      "original": "originais/de/dec5de8fe2ea47b77c89a05a71cfc12ed5c5c45edfce14b75dd9ace81f27aa0b.gz",
+      "sha256_original": "dec5de8fe2ea47b77c89a05a71cfc12ed5c5c45edfce14b75dd9ace81f27aa0b",
+      "sha256_texto": "257e943c4090baa1154c5419a924945750fa2a86bf538da95d9022ff1d7060c3",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:05+00:00"
+    },
+    "senado-540926": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-26;48",
+        "id": "senado-540926",
+        "id_senado": "540926",
+        "numero": "48",
+        "tipo": "Lei",
+        "titulo": "Lei nº 48 de 26/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-26;48"
+      },
+      "original": "originais/89/899e1729b741bf773d372440a6626c691a8dd34f1dec09d1d91e49c8868638c8.gz",
+      "sha256_original": "899e1729b741bf773d372440a6626c691a8dd34f1dec09d1d91e49c8868638c8",
+      "sha256_texto": "b868fc20063419d34a827362fbb1f876a28ffd3b887ba6167dafd56619d84ea7",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:07+00:00"
+    },
+    "senado-540929": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-26;49",
+        "id": "senado-540929",
+        "id_senado": "540929",
+        "numero": "49",
+        "tipo": "Lei",
+        "titulo": "Lei nº 49 de 26/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-26;49"
+      },
+      "original": "originais/aa/aabd9a7eb66a3eea6eaba807ddd8b3c5b654cac504ef35a1ad1f18f163744057.gz",
+      "sha256_original": "aabd9a7eb66a3eea6eaba807ddd8b3c5b654cac504ef35a1ad1f18f163744057",
+      "sha256_texto": "429b291ba84883d0dc2ba668ed4b0e84f33b0f94b6557c8592a4e3e673645648",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:10+00:00"
+    },
+    "senado-540931": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-26;50",
+        "id": "senado-540931",
+        "id_senado": "540931",
+        "numero": "50",
+        "tipo": "Lei",
+        "titulo": "Lei nº 50 de 26/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-26;50"
+      },
+      "original": "originais/fd/fda93773180cc6a315214e1e5fbd6d6a4f7b439d7bd562bd25918cbfd5102ea9.gz",
+      "sha256_original": "fda93773180cc6a315214e1e5fbd6d6a4f7b439d7bd562bd25918cbfd5102ea9",
+      "sha256_texto": "193629995a575a7d11b7efe34e716cab2fe793765bc97193a8ba4e37eaf6341a",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:12+00:00"
+    },
+    "senado-540933": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:16+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-26;51",
+        "id": "senado-540933",
+        "id_senado": "540933",
+        "numero": "51",
+        "tipo": "Lei",
+        "titulo": "Lei nº 51 de 26/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-26;51"
+      },
+      "original": "originais/15/15f5506ba64bfa9cf36051985293a23baba95c0ffc686d87623dc324bc8c565e.gz",
+      "sha256_original": "15f5506ba64bfa9cf36051985293a23baba95c0ffc686d87623dc324bc8c565e",
+      "sha256_texto": "999fe6b2c3493cf3b589a72da34b0a284bd995ae44e3e0044d2eb017c32ad9ba",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:14+00:00"
+    },
+    "senado-540936": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-30;52",
+        "id": "senado-540936",
+        "id_senado": "540936",
+        "numero": "52",
+        "tipo": "Lei",
+        "titulo": "Lei nº 52 de 30/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-30;52"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/97/97d31ee131e4f23351a67a1ab1c8886d9e4385ee1d65de6ae390182af18d1b5f.gz",
+      "sha256_original": "97d31ee131e4f23351a67a1ab1c8886d9e4385ee1d65de6ae390182af18d1b5f",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:45:17+00:00"
+    },
+    "senado-540939": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:21+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-07-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-07-30;53",
+        "id": "senado-540939",
+        "id_senado": "540939",
+        "numero": "53",
+        "tipo": "Lei",
+        "titulo": "Lei nº 53 de 30/07/1947",
+        "urn": "urn:lex:br:federal:lei:1947-07-30;53"
+      },
+      "original": "originais/90/9028a77b07ffa453b5aa71f35af918cc06b7c258a0c47ecc49c219b94f229625.gz",
+      "sha256_original": "9028a77b07ffa453b5aa71f35af918cc06b7c258a0c47ecc49c219b94f229625",
+      "sha256_texto": "ab25301069536f2a7aa377d51bebee40fe373c8b47ad5c9ddb0d51d6839df5b5",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:19+00:00"
+    },
+    "senado-540943": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:23+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-01;54",
+        "id": "senado-540943",
+        "id_senado": "540943",
+        "numero": "54",
+        "tipo": "Lei",
+        "titulo": "Lei nº 54 de 01/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-01;54"
+      },
+      "original": "originais/88/88bf0ecc32453e58251c35e6a2de0738fce3684fba39f5900fe632edff0765ad.gz",
+      "sha256_original": "88bf0ecc32453e58251c35e6a2de0738fce3684fba39f5900fe632edff0765ad",
+      "sha256_texto": "1b364cc6ddfe656af2661477a5ea71c0efc3950b3762793791c362872fa7819b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:21+00:00"
+    },
+    "senado-540945": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-01;55",
+        "id": "senado-540945",
+        "id_senado": "540945",
+        "numero": "55",
+        "tipo": "Lei",
+        "titulo": "Lei nº 55 de 01/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-01;55"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/f8/f82489f1bd884f0581b6b18d5f24c4c90ed75171050f0f24a0d909a6647a7177.gz",
+      "sha256_original": "f82489f1bd884f0581b6b18d5f24c4c90ed75171050f0f24a0d909a6647a7177",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:45:23+00:00"
+    },
+    "senado-540947": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-06",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-06;56",
+        "id": "senado-540947",
+        "id_senado": "540947",
+        "numero": "56",
+        "tipo": "Lei",
+        "titulo": "Lei nº 56 de 06/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-06;56"
+      },
+      "original": "originais/b7/b7f5895f890725168f068dd91bdd23bb551b6b689bfa31c9a6ed8b95423ebeb1.gz",
+      "sha256_original": "b7f5895f890725168f068dd91bdd23bb551b6b689bfa31c9a6ed8b95423ebeb1",
+      "sha256_texto": "f98d68047de23d3d2b919411c45f0c71180a5754e01d18f72f76a65344e8f255",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:26+00:00"
+    },
+    "senado-540951": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-06",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-06;57",
+        "id": "senado-540951",
+        "id_senado": "540951",
+        "numero": "57",
+        "tipo": "Lei",
+        "titulo": "Lei nº 57 de 06/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-06;57"
+      },
+      "original": "originais/9e/9eb76f967cf33abba6ab93cdb4f83a8471f2f735abdb7f9deb411c1ddf724afe.gz",
+      "sha256_original": "9eb76f967cf33abba6ab93cdb4f83a8471f2f735abdb7f9deb411c1ddf724afe",
+      "sha256_texto": "1b9acd9f91d681a3371331384698ad09cf9c1b3b445e1f61e1ab0586124a143e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:28+00:00"
+    },
+    "senado-540954": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:32+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-08;58",
+        "id": "senado-540954",
+        "id_senado": "540954",
+        "numero": "58",
+        "tipo": "Lei",
+        "titulo": "Lei nº 58 de 08/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-08;58"
+      },
+      "original": "originais/c8/c8860a9d376130a13f61be2f249e9ae781272f6eb9312757a094831e0fa2b3bf.gz",
+      "sha256_original": "c8860a9d376130a13f61be2f249e9ae781272f6eb9312757a094831e0fa2b3bf",
+      "sha256_texto": "94fca7101b8db02512c9a298b027386e9055e029ffa19d9de28e4bde7e12c53a",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:30+00:00"
+    },
+    "senado-540957": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-11;59",
+        "id": "senado-540957",
+        "id_senado": "540957",
+        "numero": "59",
+        "tipo": "Lei",
+        "titulo": "Lei nº 59 de 11/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-11;59"
+      },
+      "original": "originais/e6/e6bbf744a45fb5145eca67c719ca53b6f89894f33fcaeb89b4f5d94756af1469.gz",
+      "sha256_original": "e6bbf744a45fb5145eca67c719ca53b6f89894f33fcaeb89b4f5d94756af1469",
+      "sha256_texto": "e0fd1f09def90cc456d8463559ebc82ec05781af8cb65cb327b93cca522e238f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:32+00:00"
+    },
+    "senado-540960": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:37+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-11;60",
+        "id": "senado-540960",
+        "id_senado": "540960",
+        "numero": "60",
+        "tipo": "Lei",
+        "titulo": "Lei nº 60 de 11/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-11;60"
+      },
+      "original": "originais/ab/aba172215b66ae6046847231c0f900d2afc170b215289ce5c0c6e7a52567a59f.gz",
+      "sha256_original": "aba172215b66ae6046847231c0f900d2afc170b215289ce5c0c6e7a52567a59f",
+      "sha256_texto": "ef30f083e7c507afcee78457519be5f1d46f3118aa75785535e8ed876a049841",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:35+00:00"
+    },
+    "senado-540962": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-11;61",
+        "id": "senado-540962",
+        "id_senado": "540962",
+        "numero": "61",
+        "tipo": "Lei",
+        "titulo": "Lei nº 61 de 11/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-11;61"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/7b/7bebca9aa4c91ab61d36d19ba51450de7ffe3abcd17c3689524882d23bde6aef.gz",
+      "sha256_original": "7bebca9aa4c91ab61d36d19ba51450de7ffe3abcd17c3689524882d23bde6aef",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:45:37+00:00"
+    },
+    "senado-540965": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:41+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-11;62",
+        "id": "senado-540965",
+        "id_senado": "540965",
+        "numero": "62",
+        "tipo": "Lei",
+        "titulo": "Lei nº 62 de 11/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-11;62"
+      },
+      "original": "originais/51/51394405470e2aef0eda217683329b262eb5ea8be70ef61788abab9c2d08c0be.gz",
+      "sha256_original": "51394405470e2aef0eda217683329b262eb5ea8be70ef61788abab9c2d08c0be",
+      "sha256_texto": "59281b07471add4cd813256872ddcf24cb4e7d68fd3d12fddc9090f4443aeec3",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:39+00:00"
+    },
+    "senado-540967": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:44+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-14;63",
+        "id": "senado-540967",
+        "id_senado": "540967",
+        "numero": "63",
+        "tipo": "Lei",
+        "titulo": "Lei nº 63 de 14/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-14;63"
+      },
+      "original": "originais/06/067da867ae10ae77fc965b4a8c5430d1b1c7e35a015fda41c075e0ff65f32dc0.gz",
+      "sha256_original": "067da867ae10ae77fc965b4a8c5430d1b1c7e35a015fda41c075e0ff65f32dc0",
+      "sha256_texto": "ba57466ffca1b565a9f766dff24d7b267d7f066fa884e60313cc4c40a8373074",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:41+00:00"
+    },
+    "senado-540969": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:46+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-14;64",
+        "id": "senado-540969",
+        "id_senado": "540969",
+        "numero": "64",
+        "tipo": "Lei",
+        "titulo": "Lei nº 64 de 14/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-14;64"
+      },
+      "original": "originais/c0/c0e1cde2bb37c9742b11aa28e5f3a10d74546c52685a47dd849986c73e681052.gz",
+      "sha256_original": "c0e1cde2bb37c9742b11aa28e5f3a10d74546c52685a47dd849986c73e681052",
+      "sha256_texto": "5f035b7289f93ecc88579c360469854ad7b981748074e2f7ec8c0417a9257e19",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:44+00:00"
+    },
+    "senado-540971": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:48+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-14",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-14;65",
+        "id": "senado-540971",
+        "id_senado": "540971",
+        "numero": "65",
+        "tipo": "Lei",
+        "titulo": "Lei nº 65 de 14/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-14;65"
+      },
+      "original": "originais/ae/aebf7d582285043c7cec82fe0a6365b8bf14699ba181f5cd0a7bf69f36bc8ad6.gz",
+      "sha256_original": "aebf7d582285043c7cec82fe0a6365b8bf14699ba181f5cd0a7bf69f36bc8ad6",
+      "sha256_texto": "45492402da6fc4cdf57c627cd2301de7abe5c5de05f2cb489f8e6732767955b8",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:46+00:00"
+    },
+    "senado-540974": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:50+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-17;66",
+        "id": "senado-540974",
+        "id_senado": "540974",
+        "numero": "66",
+        "tipo": "Lei",
+        "titulo": "Lei nº 66 de 17/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-17;66"
+      },
+      "original": "originais/3e/3ea6fb8af83d52b4d5fbc13735e4c0b0b71987e45e52a173082b5f666753227a.gz",
+      "sha256_original": "3ea6fb8af83d52b4d5fbc13735e4c0b0b71987e45e52a173082b5f666753227a",
+      "sha256_texto": "ff5ff94338fb07f04b2dfc12a094f582942dd978801bf6f681eb86b9958c8976",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:48+00:00"
+    },
+    "senado-540977": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:53+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-20;67",
+        "id": "senado-540977",
+        "id_senado": "540977",
+        "numero": "67",
+        "tipo": "Lei",
+        "titulo": "Lei nº 67 de 20/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-20;67"
+      },
+      "original": "originais/4d/4d719b0c4421c8a9222b2c03536bbf23e2c44b7fa1ecaa88add1b3b1cdd104a9.gz",
+      "sha256_original": "4d719b0c4421c8a9222b2c03536bbf23e2c44b7fa1ecaa88add1b3b1cdd104a9",
+      "sha256_texto": "436df0b78585e4a215e739d0b085160b1cc113c492f680200b1685d67d514d02",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:51+00:00"
+    },
+    "senado-540979": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:55+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-20;68",
+        "id": "senado-540979",
+        "id_senado": "540979",
+        "numero": "68",
+        "tipo": "Lei",
+        "titulo": "Lei nº 68 de 20/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-20;68"
+      },
+      "original": "originais/a9/a9b3796da044aa9f034776deffc569252666dcdee38a69e65b032ed694bb3e13.gz",
+      "sha256_original": "a9b3796da044aa9f034776deffc569252666dcdee38a69e65b032ed694bb3e13",
+      "sha256_texto": "62931b940bfaa85816942f959a58376da2b91ce19799fa42091a86ffd256522f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:53+00:00"
+    },
+    "senado-540983": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:57+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-20;69",
+        "id": "senado-540983",
+        "id_senado": "540983",
+        "numero": "69",
+        "tipo": "Lei",
+        "titulo": "Lei nº 69 de 20/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-20;69"
+      },
+      "original": "originais/73/7362963f6564fa822c7722fa613b64096f2c433656402d0500f44fd82b7b7568.gz",
+      "sha256_original": "7362963f6564fa822c7722fa613b64096f2c433656402d0500f44fd82b7b7568",
+      "sha256_texto": "2aa494a9a7d1680b30de1a2cee01024106321d343c571ad652d603e3189ab2c6",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:55+00:00"
+    },
+    "senado-540986": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:45:59+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-20;70",
+        "id": "senado-540986",
+        "id_senado": "540986",
+        "numero": "70",
+        "tipo": "Lei",
+        "titulo": "Lei nº 70 de 20/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-20;70"
+      },
+      "original": "originais/72/72a7785415e29a80c9d66245b98d0ed1965d690331ca5bf05bca2c9021bfe31d.gz",
+      "sha256_original": "72a7785415e29a80c9d66245b98d0ed1965d690331ca5bf05bca2c9021bfe31d",
+      "sha256_texto": "3449662183bf79b229d3c862b399839b36bb88a06d595c334468482950f74627",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:45:57+00:00"
+    },
+    "senado-540988": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:02+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-20;71",
+        "id": "senado-540988",
+        "id_senado": "540988",
+        "numero": "71",
+        "tipo": "Lei",
+        "titulo": "Lei nº 71 de 20/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-20;71"
+      },
+      "original": "originais/0e/0e5a79db881b5732fd208a6fca4185c4800b17cf9ca7aa4dc00d58eea0503ebd.gz",
+      "sha256_original": "0e5a79db881b5732fd208a6fca4185c4800b17cf9ca7aa4dc00d58eea0503ebd",
+      "sha256_texto": "9b56b5cf6c8e5f957820c42b004d237749247791599abedca6d32b50cbec7e9f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:00+00:00"
+    },
+    "senado-540990": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:04+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-21;72",
+        "id": "senado-540990",
+        "id_senado": "540990",
+        "numero": "72",
+        "tipo": "Lei",
+        "titulo": "Lei nº 72 de 21/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-21;72"
+      },
+      "original": "originais/aa/aaa5bfd4a5033b30cf5e6c66e2666233400a499a0681c3ff9a74a9d72ac62690.gz",
+      "sha256_original": "aaa5bfd4a5033b30cf5e6c66e2666233400a499a0681c3ff9a74a9d72ac62690",
+      "sha256_texto": "b9bac3487f09e9aa285e603e0f43e6c747e9d07ab631e90b3965dbe30c17b789",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:02+00:00"
+    },
+    "senado-540992": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:08+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-21;73",
+        "id": "senado-540992",
+        "id_senado": "540992",
+        "numero": "73",
+        "tipo": "Lei",
+        "titulo": "Lei nº 73 de 21/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-21;73"
+      },
+      "original": "originais/5a/5af6435c1754c33bd38b7824d02ea51f4522d448635931596ace05eb60548d30.gz",
+      "sha256_original": "5af6435c1754c33bd38b7824d02ea51f4522d448635931596ace05eb60548d30",
+      "sha256_texto": "f266f62be0acdcc3b949c35f84cad78f8e1175e2f053c89c15e1ec19085cdad2",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:05+00:00"
+    },
+    "senado-540994": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:11+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-21;74",
+        "id": "senado-540994",
+        "id_senado": "540994",
+        "numero": "74",
+        "tipo": "Lei",
+        "titulo": "Lei nº 74 de 21/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-21;74"
+      },
+      "original": "originais/91/91bf2df9bfcc3d54d2cc52e8669af9bcc5cd579c899a2724a97a27fb41c0cbe7.gz",
+      "sha256_original": "91bf2df9bfcc3d54d2cc52e8669af9bcc5cd579c899a2724a97a27fb41c0cbe7",
+      "sha256_texto": "12f82798f1ea911869bc671568dc9eab438abb54a40709f5cd39be9a841dd1b2",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:08+00:00"
+    },
+    "senado-540996": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-21;75",
+        "id": "senado-540996",
+        "id_senado": "540996",
+        "numero": "75",
+        "tipo": "Lei",
+        "titulo": "Lei nº 75 de 21/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-21;75"
+      },
+      "original": "originais/4a/4a40e715843192178b797fc525e69eb0e1011ca11e03ae9274330fd2b08e1099.gz",
+      "sha256_original": "4a40e715843192178b797fc525e69eb0e1011ca11e03ae9274330fd2b08e1099",
+      "sha256_texto": "45f8c2e95eafdce46dc3e9ffc3d2379e7cc48e810f7688d64314ad287d42bf00",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:11+00:00"
+    },
+    "senado-540999": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:17+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-23;76",
+        "id": "senado-540999",
+        "id_senado": "540999",
+        "numero": "76",
+        "tipo": "Lei",
+        "titulo": "Lei nº 76 de 23/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-23;76"
+      },
+      "original": "originais/d5/d546d4b907c67122599b594a86c8b7a15ca86bc803e3443c76945efa315314fd.gz",
+      "sha256_original": "d546d4b907c67122599b594a86c8b7a15ca86bc803e3443c76945efa315314fd",
+      "sha256_texto": "bf87cb17a435dc2dbd6efd0b407bb10933399b41cce5687dc51ea0cdd055d9f1",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:15+00:00"
+    },
+    "senado-541001": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:20+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-22;77",
+        "id": "senado-541001",
+        "id_senado": "541001",
+        "numero": "77",
+        "tipo": "Lei",
+        "titulo": "Lei nº 77 de 22/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-22;77"
+      },
+      "original": "originais/39/39f634502ab0c16871683171e6d1afb39a9112da276eac08d1d576a632f19119.gz",
+      "sha256_original": "39f634502ab0c16871683171e6d1afb39a9112da276eac08d1d576a632f19119",
+      "sha256_texto": "e51145366a23c05dfe884500c2b7a3434b7a0e1c229ab124d3accdb38795ec8b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:17+00:00"
+    },
+    "senado-541003": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:22+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-29;78",
+        "id": "senado-541003",
+        "id_senado": "541003",
+        "numero": "78",
+        "tipo": "Lei",
+        "titulo": "Lei nº 78 de 29/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-29;78"
+      },
+      "original": "originais/2a/2a26895d3b2d762c0bd76240b5b90cb25137844b4acace570bf42ecf858afeea.gz",
+      "sha256_original": "2a26895d3b2d762c0bd76240b5b90cb25137844b4acace570bf42ecf858afeea",
+      "sha256_texto": "e0521fd4251a7d2c25b8cf1351a0221ea1c1e3b6e3dd8de0a1462c7cccfdc641",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:20+00:00"
+    },
+    "senado-541005": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:25+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-29;79",
+        "id": "senado-541005",
+        "id_senado": "541005",
+        "numero": "79",
+        "tipo": "Lei",
+        "titulo": "Lei nº 79 de 29/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-29;79"
+      },
+      "original": "originais/d8/d8910cdd5460e4a924689e0f03201e73021532f78d3eacbc7369a5eaccf23be1.gz",
+      "sha256_original": "d8910cdd5460e4a924689e0f03201e73021532f78d3eacbc7369a5eaccf23be1",
+      "sha256_texto": "b94fa4aed5b6193b3cf010f457e1f3463daa4147d04e58350a87651357606ab4",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:23+00:00"
+    },
+    "senado-541008": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-29;80",
+        "id": "senado-541008",
+        "id_senado": "541008",
+        "numero": "80",
+        "tipo": "Lei",
+        "titulo": "Lei nº 80 de 29/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-29;80"
+      },
+      "original": "originais/ce/ce4f255558dba4f81de7526b6136ef0921833799fd07050913be9c07ad5668d2.gz",
+      "sha256_original": "ce4f255558dba4f81de7526b6136ef0921833799fd07050913be9c07ad5668d2",
+      "sha256_texto": "d4b0a6d1deec31f130c08bdc7252fba74c5c1a91c79da243fecc20ccc519814b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:25+00:00"
+    },
+    "senado-541010": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-29;81",
+        "id": "senado-541010",
+        "id_senado": "541010",
+        "numero": "81",
+        "tipo": "Lei",
+        "titulo": "Lei nº 81 de 29/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-29;81"
+      },
+      "original": "originais/36/36ee1feac69e0c11318b82831dd9b3711d74e616fc733ab8f1c32ec9c98eaa73.gz",
+      "sha256_original": "36ee1feac69e0c11318b82831dd9b3711d74e616fc733ab8f1c32ec9c98eaa73",
+      "sha256_texto": "0b4925d6ffde259e5baf475ef6cd4f1e9a84cf314daf3f1e8eeaeff7ff1fd201",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:28+00:00"
+    },
+    "senado-541011": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-30;82",
+        "id": "senado-541011",
+        "id_senado": "541011",
+        "numero": "82",
+        "tipo": "Lei",
+        "titulo": "Lei nº 82 de 30/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-30;82"
+      },
+      "original": "originais/ed/ed7da336c0ba9d02b58286aa15227d3ae5dd7f19ff1564a365fb827ae51d88f1.gz",
+      "sha256_original": "ed7da336c0ba9d02b58286aa15227d3ae5dd7f19ff1564a365fb827ae51d88f1",
+      "sha256_texto": "3a1b805a253d136e31e1a8c436674e2911dad1e26f86fe3e0a53e1fe89cf5fbb",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:30+00:00"
+    },
+    "senado-541015": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-08-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-08-30;83",
+        "id": "senado-541015",
+        "id_senado": "541015",
+        "numero": "83",
+        "tipo": "Lei",
+        "titulo": "Lei nº 83 de 30/08/1947",
+        "urn": "urn:lex:br:federal:lei:1947-08-30;83"
+      },
+      "original": "originais/ec/ec4f0d933452cfa3252e4af7d609559c668349dfec9a783761055d4c48dfdee7.gz",
+      "sha256_original": "ec4f0d933452cfa3252e4af7d609559c668349dfec9a783761055d4c48dfdee7",
+      "sha256_texto": "43f2f234a911a6293e5e1797f0e8f47ab9b96ae8c099f20ca22b3f760a0e73a8",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:33+00:00"
+    },
+    "senado-541017": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:37+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-04;84",
+        "id": "senado-541017",
+        "id_senado": "541017",
+        "numero": "84",
+        "tipo": "Lei",
+        "titulo": "Lei nº 84 de 04/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-04;84"
+      },
+      "original": "originais/f5/f550316bf8cabda3841f5550afda79b7eec08b4898487526f87d3b766f6d4d85.gz",
+      "sha256_original": "f550316bf8cabda3841f5550afda79b7eec08b4898487526f87d3b766f6d4d85",
+      "sha256_texto": "d86a107f8a44dc0bdc91c5f86b0109b19f3f88f1f941e1e4ad7c2de3f362949b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:35+00:00"
+    },
+    "senado-541021": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:40+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-06",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-06;85",
+        "id": "senado-541021",
+        "id_senado": "541021",
+        "numero": "85",
+        "tipo": "Lei",
+        "titulo": "Lei nº 85 de 06/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-06;85"
+      },
+      "original": "originais/e5/e5ed759724248e0a3f0f33dce53efe48d5467046e045ea72f44b047a72807e9f.gz",
+      "sha256_original": "e5ed759724248e0a3f0f33dce53efe48d5467046e045ea72f44b047a72807e9f",
+      "sha256_texto": "c4207cfdcae24dcb2ed6a6ecd372c30849f44c157f324bf6a3df6792e0b1130e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:37+00:00"
+    },
+    "senado-541024": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:42+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-08",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-08;86",
+        "id": "senado-541024",
+        "id_senado": "541024",
+        "numero": "86",
+        "tipo": "Lei",
+        "titulo": "Lei nº 86 de 08/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-08;86"
+      },
+      "original": "originais/81/8117cabbf7f7ecfdc994b0714fba9c6330db440f057062a437d4bd29054c2b4b.gz",
+      "sha256_original": "8117cabbf7f7ecfdc994b0714fba9c6330db440f057062a437d4bd29054c2b4b",
+      "sha256_texto": "1735c0c19e88a41bd126bc79f1ac2d826fb4ac7354085bf2d86f90eceae80013",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:40+00:00"
+    },
+    "senado-541026": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-09;87",
+        "id": "senado-541026",
+        "id_senado": "541026",
+        "numero": "87",
+        "tipo": "Lei",
+        "titulo": "Lei nº 87 de 09/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-09;87"
+      },
+      "original": "originais/0c/0c8db4855fe2f16e3a4f7eebd5886c5a9863d49211ced0b3b637c99d44b8952d.gz",
+      "sha256_original": "0c8db4855fe2f16e3a4f7eebd5886c5a9863d49211ced0b3b637c99d44b8952d",
+      "sha256_texto": "d768e9f725ba1cad525aed9d7f68da1772f1f20a92be54405b6f17d6b5a7de77",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:43+00:00"
+    },
+    "senado-541028": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:47+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-09",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-09;88",
+        "id": "senado-541028",
+        "id_senado": "541028",
+        "numero": "88",
+        "tipo": "Lei",
+        "titulo": "Lei nº 88 de 09/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-09;88"
+      },
+      "original": "originais/f3/f37cda583cef5f98a2f2f8efddc1bac4634fa2f43597944cff99bf500d88eb56.gz",
+      "sha256_original": "f37cda583cef5f98a2f2f8efddc1bac4634fa2f43597944cff99bf500d88eb56",
+      "sha256_texto": "57bc73fec51e3178ee0b1fc836a3a473b958e51a380b2ab10236cfcd6f47abd4",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:45+00:00"
+    },
+    "senado-541030": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:49+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-12;89",
+        "id": "senado-541030",
+        "id_senado": "541030",
+        "numero": "89",
+        "tipo": "Lei",
+        "titulo": "Lei nº 89 de 12/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-12;89"
+      },
+      "original": "originais/7a/7a3183e8e539aea10c6ebea7b2de73139fdfeea0457d08221f796e5da6f38fd6.gz",
+      "sha256_original": "7a3183e8e539aea10c6ebea7b2de73139fdfeea0457d08221f796e5da6f38fd6",
+      "sha256_texto": "188acf1609a37e8b5dda09397227a291e1e4de666f508ce2d95b93ae871168db",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:47+00:00"
+    },
+    "senado-541033": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-12;90",
+        "id": "senado-541033",
+        "id_senado": "541033",
+        "numero": "90",
+        "tipo": "Lei",
+        "titulo": "Lei nº 90 de 12/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-12;90"
+      },
+      "original": "originais/c1/c1a6e01e35b22600790fc0676882a0ccf3be76457322a1b61b741a5c814453a4.gz",
+      "sha256_original": "c1a6e01e35b22600790fc0676882a0ccf3be76457322a1b61b741a5c814453a4",
+      "sha256_texto": "f97ffb2a530ccf92eb1b0002f2aaa953dd508463f0dcff2eb6369430cd08d62e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:49+00:00"
+    },
+    "senado-541036": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-12;91",
+        "id": "senado-541036",
+        "id_senado": "541036",
+        "numero": "91",
+        "tipo": "Lei",
+        "titulo": "Lei nº 91 de 12/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-12;91"
+      },
+      "original": "originais/aa/aacd988cf1a03722a0e42723977408a8c8ce7bffae87e6b63fc0e790b2a31992.gz",
+      "sha256_original": "aacd988cf1a03722a0e42723977408a8c8ce7bffae87e6b63fc0e790b2a31992",
+      "sha256_texto": "42af2fb847a13ac2a61805a54185d0cae6ecb6f0a8d7dd8b8e4d8115802af36d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:52+00:00"
+    },
+    "senado-541038": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-12;92",
+        "id": "senado-541038",
+        "id_senado": "541038",
+        "numero": "92",
+        "tipo": "Lei",
+        "titulo": "Lei nº 92 de 12/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-12;92"
+      },
+      "original": "originais/c3/c3ab871b5e0262d7defefd0e525c4557c2d8f73e06884206b1ef8fb1180e6f34.gz",
+      "sha256_original": "c3ab871b5e0262d7defefd0e525c4557c2d8f73e06884206b1ef8fb1180e6f34",
+      "sha256_texto": "457a65aa6f29c3feade425b0a0794bd441fac51833879e520b9bae6b0ab258c1",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:54+00:00"
+    },
+    "senado-541040": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:46:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-13;93",
+        "id": "senado-541040",
+        "id_senado": "541040",
+        "numero": "93",
+        "tipo": "Lei",
+        "titulo": "Lei nº 93 de 13/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-13;93"
+      },
+      "original": "originais/b8/b856df9dd3b2a1fb939f0742fd6ff2e3a3804d65786c27013175b5150496bcfe.gz",
+      "sha256_original": "b856df9dd3b2a1fb939f0742fd6ff2e3a3804d65786c27013175b5150496bcfe",
+      "sha256_texto": "fd27f6cb703f96ad7a8b9ae272c23ccbe67b4957d7e89082aac239bc77b411e9",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:56+00:00"
+    },
+    "senado-541042": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:01+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-16;94",
+        "id": "senado-541042",
+        "id_senado": "541042",
+        "numero": "94",
+        "tipo": "Lei",
+        "titulo": "Lei nº 94 de 16/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-16;94"
+      },
+      "original": "originais/ff/fff4fbe5f1504a4721c2b917fab9c351f4d7f56f22187e57e5d5276e2e546ec4.gz",
+      "sha256_original": "fff4fbe5f1504a4721c2b917fab9c351f4d7f56f22187e57e5d5276e2e546ec4",
+      "sha256_texto": "5756547347fc30a23bfb57b3ac39f0969d871110342dfa2fea887ceee6c9b699",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:46:58+00:00"
+    },
+    "senado-541044": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:03+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;95",
+        "id": "senado-541044",
+        "id_senado": "541044",
+        "numero": "95",
+        "tipo": "Lei",
+        "titulo": "Lei nº 95 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;95"
+      },
+      "original": "originais/f2/f211762bd01bb3631c9f01caa744b8e121b864b00acbff3125d190381137cfb9.gz",
+      "sha256_original": "f211762bd01bb3631c9f01caa744b8e121b864b00acbff3125d190381137cfb9",
+      "sha256_texto": "cfe7cb9b3066af5af1a43b67b1562c1ab8157a6c0820cf4c9b7f1bfeafc7debe",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:01+00:00"
+    },
+    "senado-541046": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:06+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;96",
+        "id": "senado-541046",
+        "id_senado": "541046",
+        "numero": "96",
+        "tipo": "Lei",
+        "titulo": "Lei nº 96 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;96"
+      },
+      "original": "originais/d0/d0696ec1b18c350d23555bd091b4e46ab37bf276da0010c21bca61e77536129f.gz",
+      "sha256_original": "d0696ec1b18c350d23555bd091b4e46ab37bf276da0010c21bca61e77536129f",
+      "sha256_texto": "c8673c387136dfa0fba41b258bdaed1ecadb131820f9d6e55faee5d70c805d9c",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:04+00:00"
+    },
+    "senado-541049": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;97",
+        "id": "senado-541049",
+        "id_senado": "541049",
+        "numero": "97",
+        "tipo": "Lei",
+        "titulo": "Lei nº 97 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;97"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/1f/1f8e5ffaa7534fd3f4284012ad042a89904c7dcbfc73b03baa9ef4e0ead3d59b.gz",
+      "sha256_original": "1f8e5ffaa7534fd3f4284012ad042a89904c7dcbfc73b03baa9ef4e0ead3d59b",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:47:06+00:00"
+    },
+    "senado-541051": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;98",
+        "id": "senado-541051",
+        "id_senado": "541051",
+        "numero": "98",
+        "tipo": "Lei",
+        "titulo": "Lei nº 98 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;98"
+      },
+      "original": "originais/6b/6b5e7dd5b2b7fcaa4e9cefc44182cfc8d7e1953562586aedb14299a291646e5e.gz",
+      "sha256_original": "6b5e7dd5b2b7fcaa4e9cefc44182cfc8d7e1953562586aedb14299a291646e5e",
+      "sha256_texto": "59aefae5ab754f5e371253988bfc99f82bd9f1ac25cef91abdc9143f9129d002",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:08+00:00"
+    },
+    "senado-541054": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;99",
+        "id": "senado-541054",
+        "id_senado": "541054",
+        "numero": "99",
+        "tipo": "Lei",
+        "titulo": "Lei nº 99 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;99"
+      },
+      "original": "originais/a3/a377661453a926844fc3d4e517dae9001c83ab3e7db672af0dce82f07aef12f7.gz",
+      "sha256_original": "a377661453a926844fc3d4e517dae9001c83ab3e7db672af0dce82f07aef12f7",
+      "sha256_texto": "ec479f029dca42e2dd022b8e9ab856ccfd16da24f9f97153302303711dd5af47",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:10+00:00"
+    },
+    "senado-541056": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:15+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;100",
+        "id": "senado-541056",
+        "id_senado": "541056",
+        "numero": "100",
+        "tipo": "Lei",
+        "titulo": "Lei nº 100 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;100"
+      },
+      "original": "originais/0b/0b4db12ce6dc59f604e36290f47e28f252e8ebaa55fced49233389957ab69bef.gz",
+      "sha256_original": "0b4db12ce6dc59f604e36290f47e28f252e8ebaa55fced49233389957ab69bef",
+      "sha256_texto": "8e2988968fb880fd95ec89288efacbc4b27813d5f48d33dc893a8965796c0629",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:13+00:00"
+    },
+    "senado-541058": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:17+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-17;101",
+        "id": "senado-541058",
+        "id_senado": "541058",
+        "numero": "101",
+        "tipo": "Lei",
+        "titulo": "Lei nº 101 de 17/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-17;101"
+      },
+      "original": "originais/42/42a5b51e8d0e0777dd8e94454862fb5ad7b003a92b8dc98842d81d6360ec987d.gz",
+      "sha256_original": "42a5b51e8d0e0777dd8e94454862fb5ad7b003a92b8dc98842d81d6360ec987d",
+      "sha256_texto": "896e4a5350d60659115bb3d60614beacda830a2c0a68dbc095e8804fecda58a8",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:15+00:00"
+    },
+    "senado-541059": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-18;102",
+        "id": "senado-541059",
+        "id_senado": "541059",
+        "numero": "102",
+        "tipo": "Lei",
+        "titulo": "Lei nº 102 de 18/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-18;102"
+      },
+      "original": "originais/f5/f5f8188d2c4aeda527885303c05ff1d1cc327c833ddb68e43c0b03dcb2766414.gz",
+      "sha256_original": "f5f8188d2c4aeda527885303c05ff1d1cc327c833ddb68e43c0b03dcb2766414",
+      "sha256_texto": "405493ba836874e1a078737257b61527a35acea954ed4ee520420fbcfdcdca60",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:17+00:00"
+    },
+    "senado-541061": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-24;103",
+        "id": "senado-541061",
+        "id_senado": "541061",
+        "numero": "103",
+        "tipo": "Lei",
+        "titulo": "Lei nº 103 de 24/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-24;103"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/6a/6a688ef00bb3fadd4aa25e308f42f9dcd3c5d370c1b941d68ae47ca60441780b.gz",
+      "sha256_original": "6a688ef00bb3fadd4aa25e308f42f9dcd3c5d370c1b941d68ae47ca60441780b",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:47:19+00:00"
+    },
+    "senado-541063": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:24+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-24;104",
+        "id": "senado-541063",
+        "id_senado": "541063",
+        "numero": "104",
+        "tipo": "Lei",
+        "titulo": "Lei nº 104 de 24/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-24;104"
+      },
+      "original": "originais/17/17fcbf346666749bd96b468a89ce1266f379fc2e87628b376fbab59cad9ced80.gz",
+      "sha256_original": "17fcbf346666749bd96b468a89ce1266f379fc2e87628b376fbab59cad9ced80",
+      "sha256_texto": "437ceab3a173bb9733bd08a200681c72e845b346f5c576a4ed1f8f7069dad0fd",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:22+00:00"
+    },
+    "senado-541066": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-24;105",
+        "id": "senado-541066",
+        "id_senado": "541066",
+        "numero": "105",
+        "tipo": "Lei",
+        "titulo": "Lei nº 105 de 24/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-24;105"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/79/79817d182049eaa2da7b66d74db5e4bebb49b0215c99cf9363e204477b5b2e83.gz",
+      "sha256_original": "79817d182049eaa2da7b66d74db5e4bebb49b0215c99cf9363e204477b5b2e83",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:47:24+00:00"
+    },
+    "senado-541069": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:29+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-26;106",
+        "id": "senado-541069",
+        "id_senado": "541069",
+        "numero": "106",
+        "tipo": "Lei",
+        "titulo": "Lei nº 106 de 26/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-26;106"
+      },
+      "original": "originais/50/50bc5ed3e481a1bef2919cdb940344a58579ecce52834595771147eee05c669e.gz",
+      "sha256_original": "50bc5ed3e481a1bef2919cdb940344a58579ecce52834595771147eee05c669e",
+      "sha256_texto": "a5ad25a1fa3f0aa789f0bb9578640542af4c5d74e45d1abd48923853954cf36d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:26+00:00"
+    },
+    "senado-541071": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:32+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-26;107",
+        "id": "senado-541071",
+        "id_senado": "541071",
+        "numero": "107",
+        "tipo": "Lei",
+        "titulo": "Lei nº 107 de 26/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-26;107"
+      },
+      "original": "originais/01/01482081c7470a700ade4f7613810d7097c9bb9b93425d99a5b390b30c16b9ab.gz",
+      "sha256_original": "01482081c7470a700ade4f7613810d7097c9bb9b93425d99a5b390b30c16b9ab",
+      "sha256_texto": "323dc8b009da3e817bb09fa9740973de37dbff9ee641f851e7daf417f453d27d",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:30+00:00"
+    },
+    "senado-541075": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:34+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-09-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-09-26;108",
+        "id": "senado-541075",
+        "id_senado": "541075",
+        "numero": "108",
+        "tipo": "Lei",
+        "titulo": "Lei nº 108 de 26/09/1947",
+        "urn": "urn:lex:br:federal:lei:1947-09-26;108"
+      },
+      "original": "originais/c7/c7e34878206e4c4a223768166566e3515c7b3e921519810a5aa0a14c1f07cf13.gz",
+      "sha256_original": "c7e34878206e4c4a223768166566e3515c7b3e921519810a5aa0a14c1f07cf13",
+      "sha256_texto": "9b8d3decffeceabc71ef8153d6cff5740249cfd82b550bda098070eb5fdb8b06",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:32+00:00"
+    },
+    "senado-541078": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:36+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-01;109",
+        "id": "senado-541078",
+        "id_senado": "541078",
+        "numero": "109",
+        "tipo": "Lei",
+        "titulo": "Lei nº 109 de 01/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-01;109"
+      },
+      "original": "originais/32/3224925c9635c0160fefbb9fabc7f25ea037c03f3292d34d9b138d977a1846e7.gz",
+      "sha256_original": "3224925c9635c0160fefbb9fabc7f25ea037c03f3292d34d9b138d977a1846e7",
+      "sha256_texto": "11a6aa19626523a5c39fb043b8dafbd41e84db7eb1ba8c9f9d81a844744526d5",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:34+00:00"
+    },
+    "senado-541080": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:38+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-01;110",
+        "id": "senado-541080",
+        "id_senado": "541080",
+        "numero": "110",
+        "tipo": "Lei",
+        "titulo": "Lei nº 110 de 01/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-01;110"
+      },
+      "original": "originais/ea/ea32cbfd44c1ac056fc305563db23af938cb5c7046bf9fc5fcdf3467d382671e.gz",
+      "sha256_original": "ea32cbfd44c1ac056fc305563db23af938cb5c7046bf9fc5fcdf3467d382671e",
+      "sha256_texto": "1d4fb2c29a6dc7c96c9f18f4b2aa74380dd73fe603a2db1a75c32caf9c6115b0",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:36+00:00"
+    },
+    "senado-541082": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:41+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-02;111",
+        "id": "senado-541082",
+        "id_senado": "541082",
+        "numero": "111",
+        "tipo": "Lei",
+        "titulo": "Lei nº 111 de 02/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-02;111"
+      },
+      "original": "originais/e0/e08f5f28f0cee198e15121f4e0a6200e870a42de57e6339664690fe5c84e2cd6.gz",
+      "sha256_original": "e08f5f28f0cee198e15121f4e0a6200e870a42de57e6339664690fe5c84e2cd6",
+      "sha256_texto": "348ac21e19cda5365739a871434f568fc049b0707b3463f320fb4c63a3064898",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:39+00:00"
+    },
+    "senado-541085": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:43+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-03;112",
+        "id": "senado-541085",
+        "id_senado": "541085",
+        "numero": "112",
+        "tipo": "Lei",
+        "titulo": "Lei nº 112 de 03/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-03;112"
+      },
+      "original": "originais/be/becc8ce41206f6166f10570f58c7d34a47fa2a6193d5ff05eabbf2973600c12e.gz",
+      "sha256_original": "becc8ce41206f6166f10570f58c7d34a47fa2a6193d5ff05eabbf2973600c12e",
+      "sha256_texto": "7336966dd98095aa41d267982506d94d0eaef6dc11e63cddaefac17e2a547165",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:41+00:00"
+    },
+    "senado-541087": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:45+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-04;113",
+        "id": "senado-541087",
+        "id_senado": "541087",
+        "numero": "113",
+        "tipo": "Lei",
+        "titulo": "Lei nº 113 de 04/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-04;113"
+      },
+      "original": "originais/aa/aad703ad5c0f77811e2922f0edd41615855567307880a0c5975b60a575a39e55.gz",
+      "sha256_original": "aad703ad5c0f77811e2922f0edd41615855567307880a0c5975b60a575a39e55",
+      "sha256_texto": "10bc578ab43db3736a9c94c43c03e8826839f51c99819cbaf6fa65f2a7d4119f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:43+00:00"
+    },
+    "senado-541089": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:47+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-10;114",
+        "id": "senado-541089",
+        "id_senado": "541089",
+        "numero": "114",
+        "tipo": "Lei",
+        "titulo": "Lei nº 114 de 10/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-10;114"
+      },
+      "original": "originais/66/66df4e458b135acda14f901a79042efda1850b08d0dc7c0acbbc1ed833929a84.gz",
+      "sha256_original": "66df4e458b135acda14f901a79042efda1850b08d0dc7c0acbbc1ed833929a84",
+      "sha256_texto": "749faaf3e6256b4214d2e21a958bb2377f0442491b0dbc50dfe9e0b4dd732c67",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:45+00:00"
+    },
+    "senado-541091": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:50+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-13;115",
+        "id": "senado-541091",
+        "id_senado": "541091",
+        "numero": "115",
+        "tipo": "Lei",
+        "titulo": "Lei nº 115 de 13/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-13;115"
+      },
+      "original": "originais/c6/c646d0996fc9ae3265ac9811fc9e518b4cc7de28c4e2dd5eccf297a40de7cfbf.gz",
+      "sha256_original": "c646d0996fc9ae3265ac9811fc9e518b4cc7de28c4e2dd5eccf297a40de7cfbf",
+      "sha256_texto": "d1ce7c30cdde848d5089b0c81336cd37c270435fc3e27af1f5f3ee487552e6d0",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:48+00:00"
+    },
+    "senado-541093": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:52+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-15;116",
+        "id": "senado-541093",
+        "id_senado": "541093",
+        "numero": "116",
+        "tipo": "Lei",
+        "titulo": "Lei nº 116 de 15/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-15;116"
+      },
+      "original": "originais/a0/a082ac4cdbaf15f4f167a72bc11f8d13ac96d43553287296b3b533133948ac51.gz",
+      "sha256_original": "a082ac4cdbaf15f4f167a72bc11f8d13ac96d43553287296b3b533133948ac51",
+      "sha256_texto": "c98e1aab5df9f9e046815a025efa5f78b81891c4f20258e75250173a68055caa",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:50+00:00"
+    },
+    "senado-541095": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:54+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-15;117",
+        "id": "senado-541095",
+        "id_senado": "541095",
+        "numero": "117",
+        "tipo": "Lei",
+        "titulo": "Lei nº 117 de 15/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-15;117"
+      },
+      "original": "originais/14/14143dea79b3e722478715dd96221a6a5b568ab6bcf229ff482771fec39a637f.gz",
+      "sha256_original": "14143dea79b3e722478715dd96221a6a5b568ab6bcf229ff482771fec39a637f",
+      "sha256_texto": "046a8f5331b5c76eabf4079dbe5cd4d4820e95841d9499480be3e23f444f3788",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:52+00:00"
+    },
+    "senado-541097": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:47:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-18;118",
+        "id": "senado-541097",
+        "id_senado": "541097",
+        "numero": "118",
+        "tipo": "Lei",
+        "titulo": "Lei nº 118 de 18/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-18;118"
+      },
+      "original": "originais/75/7567310eb57636fe79531c863ab6e7e9280bdc180adfe4b5d1e8ddd28f3352ee.gz",
+      "sha256_original": "7567310eb57636fe79531c863ab6e7e9280bdc180adfe4b5d1e8ddd28f3352ee",
+      "sha256_texto": "83d3c6ec511ad389616af9f1666b580db31719ce14b99647c5b00e35fae3d9f8",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:54+00:00"
+    },
+    "senado-541099": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-22;119",
+        "id": "senado-541099",
+        "id_senado": "541099",
+        "numero": "119",
+        "tipo": "Lei",
+        "titulo": "Lei nº 119 de 22/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-22;119"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/82/822036bafd459d8c14ca9806ea0b73eee4ccaca630881361e89eb5b77a310bc1.gz",
+      "sha256_original": "822036bafd459d8c14ca9806ea0b73eee4ccaca630881361e89eb5b77a310bc1",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:47:57+00:00"
+    },
+    "senado-541101": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:01+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-22;120",
+        "id": "senado-541101",
+        "id_senado": "541101",
+        "numero": "120",
+        "tipo": "Lei",
+        "titulo": "Lei nº 120 de 22/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-22;120"
+      },
+      "original": "originais/60/60ee9354166dcb95674e60138252cd6c50635d800eff0543a17f1c122c4b7e1c.gz",
+      "sha256_original": "60ee9354166dcb95674e60138252cd6c50635d800eff0543a17f1c122c4b7e1c",
+      "sha256_texto": "259265f256360a92ef235adb8933556e754ba791ef99b0f004e1c4d107ec3f7e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:47:59+00:00"
+    },
+    "senado-541103": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:03+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-22;121",
+        "id": "senado-541103",
+        "id_senado": "541103",
+        "numero": "121",
+        "tipo": "Lei",
+        "titulo": "Lei nº 121 de 22/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-22;121"
+      },
+      "original": "originais/00/00ce63171ea432b6bb26ddebe2c677c162ac5c3270c524a213d02222470ea595.gz",
+      "sha256_original": "00ce63171ea432b6bb26ddebe2c677c162ac5c3270c524a213d02222470ea595",
+      "sha256_texto": "d831d24a5c001e47a2f4327c334ba1b9c92e36f8ae23e90f163273d1d970f1bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:01+00:00"
+    },
+    "senado-541105": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-23;122",
+        "id": "senado-541105",
+        "id_senado": "541105",
+        "numero": "122",
+        "tipo": "Lei",
+        "titulo": "Lei nº 122 de 23/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-23;122"
+      },
+      "original": "originais/8d/8de0e55d42d244cf695c825b85520380d60013f58f91bef133450ea8b73165fa.gz",
+      "sha256_original": "8de0e55d42d244cf695c825b85520380d60013f58f91bef133450ea8b73165fa",
+      "sha256_texto": "3a889fe9e40386596634a491b4a27ea43676ad1ffadc8aa7f9b10df7a6bbaa78",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:03+00:00"
+    },
+    "senado-541107": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-23;123",
+        "id": "senado-541107",
+        "id_senado": "541107",
+        "numero": "123",
+        "tipo": "Lei",
+        "titulo": "Lei nº 123 de 23/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-23;123"
+      },
+      "original": "originais/e6/e67afcf5d2ce884f734d3abb4d3bd3838e38b78dda51634b02a51c5e58097df9.gz",
+      "sha256_original": "e67afcf5d2ce884f734d3abb4d3bd3838e38b78dda51634b02a51c5e58097df9",
+      "sha256_texto": "df195bda011e953f238996f3f52b2bd036e411d37ea6484a83202b34e60664eb",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:06+00:00"
+    },
+    "senado-541109": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:10+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-23",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-23;124",
+        "id": "senado-541109",
+        "id_senado": "541109",
+        "numero": "124",
+        "tipo": "Lei",
+        "titulo": "Lei nº 124 de 23/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-23;124"
+      },
+      "original": "originais/0e/0e20446ddfbd0c2f8e24fa79748626ac2e6116d780d3276d5cc1d2159d142046.gz",
+      "sha256_original": "0e20446ddfbd0c2f8e24fa79748626ac2e6116d780d3276d5cc1d2159d142046",
+      "sha256_texto": "7016b33461338e8f1d165521db29ed74ef7d8cb0172abfb65f3b33e980ae32bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:08+00:00"
+    },
+    "senado-541111": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:12+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-24;125",
+        "id": "senado-541111",
+        "id_senado": "541111",
+        "numero": "125",
+        "tipo": "Lei",
+        "titulo": "Lei nº 125 de 24/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-24;125"
+      },
+      "original": "originais/93/93a9bbe256f0f0b2a4dcf28bb7e213fc94bce6504c5d4ea84000b9454fde91a9.gz",
+      "sha256_original": "93a9bbe256f0f0b2a4dcf28bb7e213fc94bce6504c5d4ea84000b9454fde91a9",
+      "sha256_texto": "0d90dd8bafc7d3807a62f76dc91770a66aa0a8282a7d25a4c4092fff7da73f19",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:10+00:00"
+    },
+    "senado-541113": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:14+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;126",
+        "id": "senado-541113",
+        "id_senado": "541113",
+        "numero": "126",
+        "tipo": "Lei",
+        "titulo": "Lei nº 126 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;126"
+      },
+      "original": "originais/f8/f85acf2071a0af3862d5b953e037938654f0609e32099911ebadbd05d4fa066b.gz",
+      "sha256_original": "f85acf2071a0af3862d5b953e037938654f0609e32099911ebadbd05d4fa066b",
+      "sha256_texto": "0220727e4659ab226e9b138d93e8ab31e7c253aac87b9e0553bb04dddd3d669b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:12+00:00"
+    },
+    "senado-541117": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:17+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;127",
+        "id": "senado-541117",
+        "id_senado": "541117",
+        "numero": "127",
+        "tipo": "Lei",
+        "titulo": "Lei nº 127 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;127"
+      },
+      "original": "originais/19/19b665c860b6514aa8c33c5809d8c13796b06b6c626ce7f6c098bae1b4407ba4.gz",
+      "sha256_original": "19b665c860b6514aa8c33c5809d8c13796b06b6c626ce7f6c098bae1b4407ba4",
+      "sha256_texto": "8aaa1f362295dd9957ed44133996a774607f5c0ec270705498e1e826158da97e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:15+00:00"
+    },
+    "senado-541119": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:19+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;128",
+        "id": "senado-541119",
+        "id_senado": "541119",
+        "numero": "128",
+        "tipo": "Lei",
+        "titulo": "Lei nº 128 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;128"
+      },
+      "original": "originais/25/25f43895cfb63f085c07118922b656dd09f7c59c7574f0ab89d4f6b8e4233326.gz",
+      "sha256_original": "25f43895cfb63f085c07118922b656dd09f7c59c7574f0ab89d4f6b8e4233326",
+      "sha256_texto": "dce60585bd72998479607c080aabb0bc080c19aea101cdbf4c4c0723c4670dbf",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:17+00:00"
+    },
+    "senado-541121": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:21+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;129",
+        "id": "senado-541121",
+        "id_senado": "541121",
+        "numero": "129",
+        "tipo": "Lei",
+        "titulo": "Lei nº 129 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;129"
+      },
+      "original": "originais/a9/a9ac7821098b14a4544f990283d9a5813b5aacb4d914846067e56a8651de7e2c.gz",
+      "sha256_original": "a9ac7821098b14a4544f990283d9a5813b5aacb4d914846067e56a8651de7e2c",
+      "sha256_texto": "b165bc7639a71cfe02f8525d9952cd2386aae35b8e1d0d64f097fb2d382a05b7",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:19+00:00"
+    },
+    "senado-541123": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:23+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;130",
+        "id": "senado-541123",
+        "id_senado": "541123",
+        "numero": "130",
+        "tipo": "Lei",
+        "titulo": "Lei nº 130 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;130"
+      },
+      "original": "originais/58/582b60621f0949bffefd34e60e760d9958409d82b21708493dcead64b8390efa.gz",
+      "sha256_original": "582b60621f0949bffefd34e60e760d9958409d82b21708493dcead64b8390efa",
+      "sha256_texto": "d6a700cdc137aa269aa53c58a2ea8a9e161b0f902eade96850d982a4274a701a",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:21+00:00"
+    },
+    "senado-541125": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:26+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-10-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-10-30;131",
+        "id": "senado-541125",
+        "id_senado": "541125",
+        "numero": "131",
+        "tipo": "Lei",
+        "titulo": "Lei nº 131 de 30/10/1947",
+        "urn": "urn:lex:br:federal:lei:1947-10-30;131"
+      },
+      "original": "originais/b6/b66e305c8ee3eb127014479663ff64583b68f4f34164617c4c0a1bde290f559e.gz",
+      "sha256_original": "b66e305c8ee3eb127014479663ff64583b68f4f34164617c4c0a1bde290f559e",
+      "sha256_texto": "ada8e8eddbc400e640277ba100fd73b034faf1e82dc5d353d49365cebbb8872c",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:24+00:00"
+    },
+    "senado-541127": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:28+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-01;132",
+        "id": "senado-541127",
+        "id_senado": "541127",
+        "numero": "132",
+        "tipo": "Lei",
+        "titulo": "Lei nº 132 de 01/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-01;132"
+      },
+      "original": "originais/63/639a6efee4f7e59de881d6828db6706cfe361af70b44745e7ab6d223ef931dbc.gz",
+      "sha256_original": "639a6efee4f7e59de881d6828db6706cfe361af70b44745e7ab6d223ef931dbc",
+      "sha256_texto": "912873ac5c0cea2d419fed774b9a06d962b76a0814a97fd8aff7ae1085d0694e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:26+00:00"
+    },
+    "senado-541129": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-01",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-01;133",
+        "id": "senado-541129",
+        "id_senado": "541129",
+        "numero": "133",
+        "tipo": "Lei",
+        "titulo": "Lei nº 133 de 01/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-01;133"
+      },
+      "original": "originais/85/85e958947220d5251404d4cf1d0aab79f7af5dab001d41944a07483dea97b03b.gz",
+      "sha256_original": "85e958947220d5251404d4cf1d0aab79f7af5dab001d41944a07483dea97b03b",
+      "sha256_texto": "1e1ab67911c665ab7935676066dbacab6ce8bea9bf7480df333e9cccde0944cb",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:28+00:00"
+    },
+    "senado-541131": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:33+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-03;134",
+        "id": "senado-541131",
+        "id_senado": "541131",
+        "numero": "134",
+        "tipo": "Lei",
+        "titulo": "Lei nº 134 de 03/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-03;134"
+      },
+      "original": "originais/d5/d54ae62557bf1379d67ddfe67a50b03e6c3b990b1db258e37ddb30ff778490f0.gz",
+      "sha256_original": "d54ae62557bf1379d67ddfe67a50b03e6c3b990b1db258e37ddb30ff778490f0",
+      "sha256_texto": "5d69509ff4e19812a75b42f27214dca425c3dd7c7e250c3771a65c9e944b141e",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:30+00:00"
+    },
+    "senado-541133": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:35+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-03",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-03;135",
+        "id": "senado-541133",
+        "id_senado": "541133",
+        "numero": "135",
+        "tipo": "Lei",
+        "titulo": "Lei nº 135 de 03/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-03;135"
+      },
+      "original": "originais/10/105ca1eddd7a5c6c06d3d39bbf61c2cc8767595915840ecadb307bff83a4d8ed.gz",
+      "sha256_original": "105ca1eddd7a5c6c06d3d39bbf61c2cc8767595915840ecadb307bff83a4d8ed",
+      "sha256_texto": "5704413c61c3e6291fa3a66f7201345607cc6c6d13a1829d6a781a0f1d78410f",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:33+00:00"
+    },
+    "senado-541135": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:37+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-10;136",
+        "id": "senado-541135",
+        "id_senado": "541135",
+        "numero": "136",
+        "tipo": "Lei",
+        "titulo": "Lei nº 136 de 10/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-10;136"
+      },
+      "original": "originais/af/af90eb1ad0f0bda1cdaf67c53121961c90791a1e2e9346da7aca80fe1928bd3a.gz",
+      "sha256_original": "af90eb1ad0f0bda1cdaf67c53121961c90791a1e2e9346da7aca80fe1928bd3a",
+      "sha256_texto": "72d4d05a0e75083f03a81e3a3aca74bfa649a93d529c789377b14a1b831c2716",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:35+00:00"
+    },
+    "senado-541137": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-12;137",
+        "id": "senado-541137",
+        "id_senado": "541137",
+        "numero": "137",
+        "tipo": "Lei",
+        "titulo": "Lei nº 137 de 12/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-12;137"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/b5/b5139f09ce2c41549976b3a62e92d1185a6049ef21521201c20f185509442b91.gz",
+      "sha256_original": "b5139f09ce2c41549976b3a62e92d1185a6049ef21521201c20f185509442b91",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:48:38+00:00"
+    },
+    "senado-541139": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-13;138",
+        "id": "senado-541139",
+        "id_senado": "541139",
+        "numero": "138",
+        "tipo": "Lei",
+        "titulo": "Lei nº 138 de 13/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-13;138"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/7e/7e099f8e7a29c3797f45e21ea931dc4bfd60276796ee2dd2b3a5ae4dc0fdd8c2.gz",
+      "sha256_original": "7e099f8e7a29c3797f45e21ea931dc4bfd60276796ee2dd2b3a5ae4dc0fdd8c2",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:48:40+00:00"
+    },
+    "senado-541141": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-13;139",
+        "id": "senado-541141",
+        "id_senado": "541141",
+        "numero": "139",
+        "tipo": "Lei",
+        "titulo": "Lei nº 139 de 13/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-13;139"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/c2/c2ff4462688a1befa23d67f1c20c5206a0ceb88778261672465b16f01d5083bb.gz",
+      "sha256_original": "c2ff4462688a1befa23d67f1c20c5206a0ceb88778261672465b16f01d5083bb",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:48:42+00:00"
+    },
+    "senado-541143": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:46+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-18",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-18;140",
+        "id": "senado-541143",
+        "id_senado": "541143",
+        "numero": "140",
+        "tipo": "Lei",
+        "titulo": "Lei nº 140 de 18/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-18;140"
+      },
+      "original": "originais/d7/d7799841507374884caf9eb6d2b1d00facccddbf38d31f090e2b0f002242d5cd.gz",
+      "sha256_original": "d7799841507374884caf9eb6d2b1d00facccddbf38d31f090e2b0f002242d5cd",
+      "sha256_texto": "fc9f63a1d0b0485f6bbaaa8e0933104f4dbd597aeaaf9d7500fe0522627d3e30",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:44+00:00"
+    },
+    "senado-541145": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:49+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-19;141",
+        "id": "senado-541145",
+        "id_senado": "541145",
+        "numero": "141",
+        "tipo": "Lei",
+        "titulo": "Lei nº 141 de 19/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-19;141"
+      },
+      "original": "originais/ff/ff930bdde3acdd3406b4cb41fb897d9d7acd680379f834199c99f974592f2572.gz",
+      "sha256_original": "ff930bdde3acdd3406b4cb41fb897d9d7acd680379f834199c99f974592f2572",
+      "sha256_texto": "c20a969860f1b310ea6624618625b96d0b9abefec07fc18fd97245bb63eec306",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:47+00:00"
+    },
+    "senado-541147": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:51+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-20;142",
+        "id": "senado-541147",
+        "id_senado": "541147",
+        "numero": "142",
+        "tipo": "Lei",
+        "titulo": "Lei nº 142 de 20/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-20;142"
+      },
+      "original": "originais/a9/a963fd484f0536c1e371d8c350cd60496b904740452d36b05811a3a07eb12e15.gz",
+      "sha256_original": "a963fd484f0536c1e371d8c350cd60496b904740452d36b05811a3a07eb12e15",
+      "sha256_texto": "29c02803655bf609d862f88a4d8ae4a87e855c49cc26a590d73a877eb9a0a417",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:49+00:00"
+    },
+    "senado-541150": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:53+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-20;143",
+        "id": "senado-541150",
+        "id_senado": "541150",
+        "numero": "143",
+        "tipo": "Lei",
+        "titulo": "Lei nº 143 de 20/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-20;143"
+      },
+      "original": "originais/1f/1fa8bbf8ad07a5f469bf2ec65e865e2916f1e5dc90513826a1a97157d95e64e9.gz",
+      "sha256_original": "1fa8bbf8ad07a5f469bf2ec65e865e2916f1e5dc90513826a1a97157d95e64e9",
+      "sha256_texto": "29bd1c4d2d8f799a0e65f69cbb3d12934ced2a8124703b56314b92cfb4472131",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:51+00:00"
+    },
+    "senado-541152": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:56+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-21;144",
+        "id": "senado-541152",
+        "id_senado": "541152",
+        "numero": "144",
+        "tipo": "Lei",
+        "titulo": "Lei nº 144 de 21/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-21;144"
+      },
+      "original": "originais/f3/f35ba8affb1a3ec994b43f353dc757fe8c7dbeb9b2f5ee494556f1b1eb6574f4.gz",
+      "sha256_original": "f35ba8affb1a3ec994b43f353dc757fe8c7dbeb9b2f5ee494556f1b1eb6574f4",
+      "sha256_texto": "ffdea2aa9fb4c6306815b6940f3a6187b4615a91353ddcaf42a96781dadd3b94",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:54+00:00"
+    },
+    "senado-541154": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:48:58+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-21",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-21;145",
+        "id": "senado-541154",
+        "id_senado": "541154",
+        "numero": "145",
+        "tipo": "Lei",
+        "titulo": "Lei nº 145 de 21/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-21;145"
+      },
+      "original": "originais/cc/cc32fe4a99f446356bff3626f70d3504dbc9deeb71fa81d693f153a1c3f899b0.gz",
+      "sha256_original": "cc32fe4a99f446356bff3626f70d3504dbc9deeb71fa81d693f153a1c3f899b0",
+      "sha256_texto": "57cbccfed3436c9b4e49f619702e13dedb59983b9b3baa84c3bbbd7b206965aa",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:56+00:00"
+    },
+    "senado-541156": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:49:00+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;146",
+        "id": "senado-541156",
+        "id_senado": "541156",
+        "numero": "146",
+        "tipo": "Lei",
+        "titulo": "Lei nº 146 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;146"
+      },
+      "original": "originais/ed/edf2e127778f9993a7c0fe57e4597f61991a925496a2c0c4ac259a28e24e7c14.gz",
+      "sha256_original": "edf2e127778f9993a7c0fe57e4597f61991a925496a2c0c4ac259a28e24e7c14",
+      "sha256_texto": "427cc07d7bb2811ad6b9e2a3ce34e51309ada95f441957bb3c66765c0e35bc1b",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:48:58+00:00"
+    },
+    "senado-541158": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;147",
+        "id": "senado-541158",
+        "id_senado": "541158",
+        "numero": "147",
+        "tipo": "Lei",
+        "titulo": "Lei nº 147 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;147"
+      },
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "original": "originais/4c/4c3dce7a77bab8b222f6d827ef9c8b82b34cba8705e23b731a4cc465d17bba31.gz",
+      "sha256_original": "4c3dce7a77bab8b222f6d827ef9c8b82b34cba8705e23b731a4cc465d17bba31",
+      "status": "pendente",
+      "tentado_em": "2026-11-11T19:49:00+00:00"
+    },
+    "senado-541161": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:49:05+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;148",
+        "id": "senado-541161",
+        "id_senado": "541161",
+        "numero": "148",
+        "tipo": "Lei",
+        "titulo": "Lei nº 148 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;148"
+      },
+      "original": "originais/4c/4c3854cd7ff8f3c2995354d14fa1d38703de418172cb9b4abee061b7547671c4.gz",
+      "sha256_original": "4c3854cd7ff8f3c2995354d14fa1d38703de418172cb9b4abee061b7547671c4",
+      "sha256_texto": "a2c6e24caed55393d0dc7d28c8448563563c538c2f3f6f0747d0ab99b096b394",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:49:03+00:00"
+    },
+    "senado-541164": {
+      "alterado": true,
+      "conferido_em": "2026-11-11T19:49:07+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;149",
+        "id": "senado-541164",
+        "id_senado": "541164",
+        "numero": "149",
+        "tipo": "Lei",
+        "titulo": "Lei nº 149 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;149"
+      },
+      "original": "originais/6c/6c9bab71be382835e6eb19f71e1992b6c69a284c18c29c99f9c3be124f0d3023.gz",
+      "sha256_original": "6c9bab71be382835e6eb19f71e1992b6c69a284c18c29c99f9c3be124f0d3023",
+      "sha256_texto": "5e0836aa8d0f8408795ad795865198d10abf15d5784e85e7d9f469aedfb06a38",
+      "status": "publicado",
+      "tentado_em": "2026-11-11T19:49:05+00:00"
+    },
+    "senado-541166": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;150",
+        "id": "senado-541166",
+        "id_senado": "541166",
+        "numero": "150",
+        "tipo": "Lei",
+        "titulo": "Lei nº 150 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;150"
+      }
+    },
+    "senado-541168": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-22;151",
+        "id": "senado-541168",
+        "id_senado": "541168",
+        "numero": "151",
+        "tipo": "Lei",
+        "titulo": "Lei nº 151 de 22/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-22;151"
+      }
+    },
+    "senado-541170": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-25;152",
+        "id": "senado-541170",
+        "id_senado": "541170",
+        "numero": "152",
+        "tipo": "Lei",
+        "titulo": "Lei nº 152 de 25/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-25;152"
+      }
+    },
+    "senado-541172": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-25;153",
+        "id": "senado-541172",
+        "id_senado": "541172",
+        "numero": "153",
+        "tipo": "Lei",
+        "titulo": "Lei nº 153 de 25/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-25;153"
+      }
+    },
+    "senado-541174": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-25",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-25;154",
+        "id": "senado-541174",
+        "id_senado": "541174",
+        "numero": "154",
+        "tipo": "Lei",
+        "titulo": "Lei nº 154 de 25/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-25;154"
+      }
+    },
+    "senado-541176": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-26;155",
+        "id": "senado-541176",
+        "id_senado": "541176",
+        "numero": "155",
+        "tipo": "Lei",
+        "titulo": "Lei nº 155 de 26/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-26;155"
+      }
+    },
+    "senado-541178": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-27",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-27;156",
+        "id": "senado-541178",
+        "id_senado": "541178",
+        "numero": "156",
+        "tipo": "Lei",
+        "titulo": "Lei nº 156 de 27/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-27;156"
+      }
+    },
+    "senado-541180": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-28;157",
+        "id": "senado-541180",
+        "id_senado": "541180",
+        "numero": "157",
+        "tipo": "Lei",
+        "titulo": "Lei nº 157 de 28/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-28;157"
+      }
+    },
+    "senado-541182": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-28;158",
+        "id": "senado-541182",
+        "id_senado": "541182",
+        "numero": "158",
+        "tipo": "Lei",
+        "titulo": "Lei nº 158 de 28/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-28;158"
+      }
+    },
+    "senado-541184": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-28",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-28;159",
+        "id": "senado-541184",
+        "id_senado": "541184",
+        "numero": "159",
+        "tipo": "Lei",
+        "titulo": "Lei nº 159 de 28/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-28;159"
+      }
+    },
+    "senado-541186": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-29;160",
+        "id": "senado-541186",
+        "id_senado": "541186",
+        "numero": "160",
+        "tipo": "Lei",
+        "titulo": "Lei nº 160 de 29/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-29;160"
+      }
+    },
+    "senado-541189": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-11-29",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-11-29;161",
+        "id": "senado-541189",
+        "id_senado": "541189",
+        "numero": "161",
+        "tipo": "Lei",
+        "titulo": "Lei nº 161 de 29/11/1947",
+        "urn": "urn:lex:br:federal:lei:1947-11-29;161"
+      }
+    },
+    "senado-541191": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-02",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-02;162",
+        "id": "senado-541191",
+        "id_senado": "541191",
+        "numero": "162",
+        "tipo": "Lei",
+        "titulo": "Lei nº 162 de 02/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-02;162"
+      }
+    },
+    "senado-541193": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-04",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-04;163",
+        "id": "senado-541193",
+        "id_senado": "541193",
+        "numero": "163",
+        "tipo": "Lei",
+        "titulo": "Lei nº 163 de 04/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-04;163"
+      }
+    },
+    "senado-541196": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-05;164",
+        "id": "senado-541196",
+        "id_senado": "541196",
+        "numero": "164",
+        "tipo": "Lei",
+        "titulo": "Lei nº 164 de 05/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-05;164"
+      }
+    },
+    "senado-541198": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-05",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-05;165",
+        "id": "senado-541198",
+        "id_senado": "541198",
+        "numero": "165",
+        "tipo": "Lei",
+        "titulo": "Lei nº 165 de 05/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-05;165"
+      }
+    },
+    "senado-541201": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-10",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-10;166",
+        "id": "senado-541201",
+        "id_senado": "541201",
+        "numero": "166",
+        "tipo": "Lei",
+        "titulo": "Lei nº 166 de 10/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-10;166"
+      }
+    },
+    "senado-541203": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-11;167",
+        "id": "senado-541203",
+        "id_senado": "541203",
+        "numero": "167",
+        "tipo": "Lei",
+        "titulo": "Lei nº 167 de 11/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-11;167"
+      }
+    },
+    "senado-541205": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-11;168",
+        "id": "senado-541205",
+        "id_senado": "541205",
+        "numero": "168",
+        "tipo": "Lei",
+        "titulo": "Lei nº 168 de 11/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-11;168"
+      }
+    },
+    "senado-541207": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-12",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-12;169",
+        "id": "senado-541207",
+        "id_senado": "541207",
+        "numero": "169",
+        "tipo": "Lei",
+        "titulo": "Lei nº 169 de 12/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-12;169"
+      }
+    },
+    "senado-541209": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-13",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-13;170",
+        "id": "senado-541209",
+        "id_senado": "541209",
+        "numero": "170",
+        "tipo": "Lei",
+        "titulo": "Lei nº 170 de 13/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-13;170"
+      }
+    },
+    "senado-541211": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-15",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-15;171",
+        "id": "senado-541211",
+        "id_senado": "541211",
+        "numero": "171",
+        "tipo": "Lei",
+        "titulo": "Lei nº 171 de 15/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-15;171"
+      }
+    },
+    "senado-541213": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;172",
+        "id": "senado-541213",
+        "id_senado": "541213",
+        "numero": "172",
+        "tipo": "Lei",
+        "titulo": "Lei nº 172 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;172"
+      }
+    },
+    "senado-541216": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;173",
+        "id": "senado-541216",
+        "id_senado": "541216",
+        "numero": "173",
+        "tipo": "Lei",
+        "titulo": "Lei nº 173 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;173"
+      }
+    },
+    "senado-541218": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;174",
+        "id": "senado-541218",
+        "id_senado": "541218",
+        "numero": "174",
+        "tipo": "Lei",
+        "titulo": "Lei nº 174 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;174"
+      }
+    },
+    "senado-541220": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;175",
+        "id": "senado-541220",
+        "id_senado": "541220",
+        "numero": "175",
+        "tipo": "Lei",
+        "titulo": "Lei nº 175 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;175"
+      }
+    },
+    "senado-541222": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;176",
+        "id": "senado-541222",
+        "id_senado": "541222",
+        "numero": "176",
+        "tipo": "Lei",
+        "titulo": "Lei nº 176 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;176"
+      }
+    },
+    "senado-541224": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-16",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-16;177",
+        "id": "senado-541224",
+        "id_senado": "541224",
+        "numero": "177",
+        "tipo": "Lei",
+        "titulo": "Lei nº 177 de 16/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-16;177"
+      }
+    },
+    "senado-541226": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;178",
+        "id": "senado-541226",
+        "id_senado": "541226",
+        "numero": "178",
+        "tipo": "Lei",
+        "titulo": "Lei nº 178 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;178"
+      }
+    },
+    "senado-541228": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;179",
+        "id": "senado-541228",
+        "id_senado": "541228",
+        "numero": "179",
+        "tipo": "Lei",
+        "titulo": "Lei nº 179 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;179"
+      }
+    },
+    "senado-541230": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;180",
+        "id": "senado-541230",
+        "id_senado": "541230",
+        "numero": "180",
+        "tipo": "Lei",
+        "titulo": "Lei nº 180 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;180"
+      }
+    },
+    "senado-541232": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;181",
+        "id": "senado-541232",
+        "id_senado": "541232",
+        "numero": "181",
+        "tipo": "Lei",
+        "titulo": "Lei nº 181 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;181"
+      }
+    },
+    "senado-541234": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;182",
+        "id": "senado-541234",
+        "id_senado": "541234",
+        "numero": "182",
+        "tipo": "Lei",
+        "titulo": "Lei nº 182 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;182"
+      }
+    },
+    "senado-541236": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;183",
+        "id": "senado-541236",
+        "id_senado": "541236",
+        "numero": "183",
+        "tipo": "Lei",
+        "titulo": "Lei nº 183 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;183"
+      }
+    },
+    "senado-541239": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;184",
+        "id": "senado-541239",
+        "id_senado": "541239",
+        "numero": "184",
+        "tipo": "Lei",
+        "titulo": "Lei nº 184 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;184"
+      }
+    },
+    "senado-541241": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;185",
+        "id": "senado-541241",
+        "id_senado": "541241",
+        "numero": "185",
+        "tipo": "Lei",
+        "titulo": "Lei nº 185 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;185"
+      }
+    },
+    "senado-541243": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;186",
+        "id": "senado-541243",
+        "id_senado": "541243",
+        "numero": "186",
+        "tipo": "Lei",
+        "titulo": "Lei nº 186 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;186"
+      }
+    },
+    "senado-541245": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;187",
+        "id": "senado-541245",
+        "id_senado": "541245",
+        "numero": "187",
+        "tipo": "Lei",
+        "titulo": "Lei nº 187 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;187"
+      }
+    },
+    "senado-541247": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-17",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-17;188",
+        "id": "senado-541247",
+        "id_senado": "541247",
+        "numero": "188",
+        "tipo": "Lei",
+        "titulo": "Lei nº 188 de 17/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-17;188"
+      }
+    },
+    "senado-541249": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-19",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-19;189",
+        "id": "senado-541249",
+        "id_senado": "541249",
+        "numero": "189",
+        "tipo": "Lei",
+        "titulo": "Lei nº 189 de 19/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-19;189"
+      }
+    },
+    "senado-541252": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-20;190",
+        "id": "senado-541252",
+        "id_senado": "541252",
+        "numero": "190",
+        "tipo": "Lei",
+        "titulo": "Lei nº 190 de 20/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-20;190"
+      }
+    },
+    "senado-541254": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-20",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-20;191",
+        "id": "senado-541254",
+        "id_senado": "541254",
+        "numero": "191",
+        "tipo": "Lei",
+        "titulo": "Lei nº 191 de 20/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-20;191"
+      }
+    },
+    "senado-541259": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-22",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-22;192",
+        "id": "senado-541259",
+        "id_senado": "541259",
+        "numero": "192",
+        "tipo": "Lei",
+        "titulo": "Lei nº 192 de 22/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-22;192"
+      }
+    },
+    "senado-541261": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-24;193",
+        "id": "senado-541261",
+        "id_senado": "541261",
+        "numero": "193",
+        "tipo": "Lei",
+        "titulo": "Lei nº 193 de 24/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-24;193"
+      }
+    },
+    "senado-541263": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-24;194",
+        "id": "senado-541263",
+        "id_senado": "541263",
+        "numero": "194",
+        "tipo": "Lei",
+        "titulo": "Lei nº 194 de 24/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-24;194"
+      }
+    },
+    "senado-541265": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-24",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-24;195",
+        "id": "senado-541265",
+        "id_senado": "541265",
+        "numero": "195",
+        "tipo": "Lei",
+        "titulo": "Lei nº 195 de 24/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-24;195"
+      }
+    },
+    "senado-541267": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-26;196",
+        "id": "senado-541267",
+        "id_senado": "541267",
+        "numero": "196",
+        "tipo": "Lei",
+        "titulo": "Lei nº 196 de 26/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-26;196"
+      }
+    },
+    "senado-541269": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-26;197",
+        "id": "senado-541269",
+        "id_senado": "541269",
+        "numero": "197",
+        "tipo": "Lei",
+        "titulo": "Lei nº 197 de 26/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-26;197"
+      }
+    },
+    "senado-541272": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-26",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-26;198",
+        "id": "senado-541272",
+        "id_senado": "541272",
+        "numero": "198",
+        "tipo": "Lei",
+        "titulo": "Lei nº 198 de 26/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-26;198"
+      }
+    },
+    "senado-541274": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-30;199",
+        "id": "senado-541274",
+        "id_senado": "541274",
+        "numero": "199",
+        "tipo": "Lei",
+        "titulo": "Lei nº 199 de 30/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-30;199"
+      }
+    },
+    "senado-541276": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-30;200",
+        "id": "senado-541276",
+        "id_senado": "541276",
+        "numero": "200",
+        "tipo": "Lei",
+        "titulo": "Lei nº 200 de 30/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-30;200"
+      }
+    },
+    "senado-541278": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-30",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-30;201",
+        "id": "senado-541278",
+        "id_senado": "541278",
+        "numero": "201",
+        "tipo": "Lei",
+        "titulo": "Lei nº 201 de 30/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-30;201"
+      }
+    },
+    "senado-541280": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;202",
+        "id": "senado-541280",
+        "id_senado": "541280",
+        "numero": "202",
+        "tipo": "Lei",
+        "titulo": "Lei nº 202 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;202"
+      }
+    },
+    "senado-541282": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;203",
+        "id": "senado-541282",
+        "id_senado": "541282",
+        "numero": "203",
+        "tipo": "Lei",
+        "titulo": "Lei nº 203 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;203"
+      }
+    },
+    "senado-541284": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;204",
+        "id": "senado-541284",
+        "id_senado": "541284",
+        "numero": "204",
+        "tipo": "Lei",
+        "titulo": "Lei nº 204 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;204"
+      }
+    },
+    "senado-541286": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;205",
+        "id": "senado-541286",
+        "id_senado": "541286",
+        "numero": "205",
+        "tipo": "Lei",
+        "titulo": "Lei nº 205 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;205"
+      }
+    },
+    "senado-541288": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;206",
+        "id": "senado-541288",
+        "id_senado": "541288",
+        "numero": "206",
+        "tipo": "Lei",
+        "titulo": "Lei nº 206 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;206"
+      }
+    },
+    "senado-541290": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;207",
+        "id": "senado-541290",
+        "id_senado": "541290",
+        "numero": "207",
+        "tipo": "Lei",
+        "titulo": "Lei nº 207 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;207"
+      }
+    },
+    "senado-541292": {
+      "entrada": {
+        "conector": "senado",
+        "data": "1947-12-31",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-31;208",
+        "id": "senado-541292",
+        "id_senado": "541292",
+        "numero": "208",
+        "tipo": "Lei",
+        "titulo": "Lei nº 208 de 31/12/1947",
+        "urn": "urn:lex:br:federal:lei:1947-12-31;208"
+      }
+    },
     "senado-541294": {
       "alterado": true,
       "conferido_em": "2026-11-11T06:44:20+00:00",
@@ -281815,8 +285757,8 @@
     }
   },
   "indices": {
-    "historico": 77,
-    "recente": 10
+    "historico": 79,
+    "recente": 18
   },
   "sapl": {
     "sapl-ac": {
