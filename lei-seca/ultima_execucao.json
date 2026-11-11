@@ -2,53 +2,53 @@
   "aviso": "Volume não comprova cobertura nacional nem vigência. Não contém jurisprudência.",
   "eventos": [
     {
-      "encontrados": 310,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DLG&ano=2025",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LDL&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 0,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DPL&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCT&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 46,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=MPV&ano=2025",
-      "status": "ok"
-    },
-    {
-      "encontrados": 45,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RSF&ano=2025",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEL&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 3,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RCN&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMC&ano=2026",
       "status": "ok"
     },
     {
       "encontrados": 0,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RRC&ano=2025",
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=EMR&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 205,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2026",
+      "encontrados": 350,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 14,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP&ano=2026",
+      "encontrados": 444,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DLG&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 257,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1951",
+      "encontrados": 0,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DPL&ano=2026",
       "status": "ok"
     },
     {
-      "encontrados": 271,
-      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1950",
+      "encontrados": 447,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1949",
+      "status": "ok"
+    },
+    {
+      "encontrados": 403,
+      "fonte": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1948",
       "status": "ok"
     },
     {
@@ -97,758 +97,758 @@
       "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-44363487",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-clt",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542651",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-constituicao",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542652",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-ctn",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542653",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-ec132",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542654",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lc123",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542655",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lc150",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542656",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lc214",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542657",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lc227",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542658",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei13429",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542659",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei13467",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542660",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei14133",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542661",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei6019",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542662",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei8036",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542663",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei8212",
+      "status": "erro"
     },
     {
-      "alterado": true,
-      "id": "senado-542664",
-      "status": "ok"
+      "erro": "Remote end closed connection without response",
+      "id": "prioridade-lei8213",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542665",
+      "id": "senado-44376722",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542666",
+      "id": "senado-541294",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542667",
+      "id": "senado-541296",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542668",
+      "id": "senado-541298",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542669",
+      "id": "senado-541300",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542670",
+      "id": "senado-541302",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542671",
+      "id": "senado-541304",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542672",
+      "id": "senado-541306",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542673",
+      "id": "senado-541307",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542674",
+      "id": "senado-541309",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542675",
+      "id": "senado-541311",
       "status": "ok"
     },
     {
-      "alterado": true,
-      "id": "senado-542676",
-      "status": "ok"
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "id": "senado-541313",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542677",
+      "id": "senado-541315",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542678",
+      "id": "senado-541318",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542679",
+      "id": "senado-541321",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542680",
+      "id": "senado-541324",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542681",
+      "id": "senado-541326",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542682",
+      "id": "senado-541328",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542683",
+      "id": "senado-541330",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542684",
+      "id": "senado-541332",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542685",
+      "id": "senado-541334",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542686",
+      "id": "senado-541336",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542687",
+      "id": "senado-541338",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542688",
+      "id": "senado-541340",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542689",
+      "id": "senado-541342",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542691",
+      "id": "senado-541344",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542692",
+      "id": "senado-541347",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542693",
+      "id": "senado-541349",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542694",
+      "id": "senado-541351",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542695",
+      "id": "senado-541353",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542696",
+      "id": "senado-541355",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542697",
+      "id": "senado-541357",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542698",
+      "id": "senado-541359",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542699",
+      "id": "senado-541362",
       "status": "ok"
     },
     {
-      "alterado": true,
-      "id": "senado-542700",
-      "status": "ok"
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "id": "senado-541365",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542701",
+      "id": "senado-541368",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542702",
+      "id": "senado-541369",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542703",
+      "id": "senado-541370",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542704",
+      "id": "senado-541371",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542705",
+      "id": "senado-541373",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542706",
+      "id": "senado-541375",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542708",
+      "id": "senado-541377",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542710",
+      "id": "senado-541378",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542713",
+      "id": "senado-541379",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542714",
+      "id": "senado-541380",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542715",
+      "id": "senado-541381",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542716",
+      "id": "senado-541382",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542717",
+      "id": "senado-541383",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542718",
+      "id": "senado-541384",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542719",
+      "id": "senado-541385",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542720",
+      "id": "senado-541386",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542721",
+      "id": "senado-541387",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542722",
+      "id": "senado-541389",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542723",
+      "id": "senado-541393",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542724",
+      "id": "senado-541395",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542725",
+      "id": "senado-541397",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542726",
+      "id": "senado-541400",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542727",
+      "id": "senado-541403",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542728",
+      "id": "senado-541406",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542730",
+      "id": "senado-541408",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542731",
+      "id": "senado-541410",
       "status": "ok"
     },
     {
-      "alterado": true,
-      "id": "senado-542732",
-      "status": "ok"
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "id": "senado-541412",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542733",
+      "id": "senado-541414",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542734",
+      "id": "senado-541416",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542735",
+      "id": "senado-541418",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542736",
+      "id": "senado-541420",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542737",
+      "id": "senado-541422",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542738",
+      "id": "senado-541424",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542739",
+      "id": "senado-541426",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542740",
+      "id": "senado-541428",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542741",
+      "id": "senado-541430",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542742",
+      "id": "senado-541432",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542743",
+      "id": "senado-541434",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542744",
+      "id": "senado-541437",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542745",
+      "id": "senado-541441",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542746",
+      "id": "senado-541443",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542747",
+      "id": "senado-541446",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542748",
+      "id": "senado-541449",
       "status": "ok"
     },
     {
-      "alterado": true,
-      "id": "senado-542749",
-      "status": "ok"
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "id": "senado-541451",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542750",
+      "id": "senado-541453",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542751",
+      "id": "senado-541455",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542752",
+      "id": "senado-541457",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542753",
+      "id": "senado-541459",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542754",
+      "id": "senado-541461",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542755",
+      "id": "senado-541463",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542756",
+      "id": "senado-541465",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542757",
+      "id": "senado-541466",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542759",
+      "id": "senado-541468",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542761",
+      "id": "senado-541470",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542763",
+      "id": "senado-541472",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542765",
+      "id": "senado-541474",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542766",
+      "id": "senado-541476",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542767",
+      "id": "senado-541478",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542768",
+      "id": "senado-541480",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542769",
+      "id": "senado-541482",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542770",
+      "id": "senado-541484",
       "status": "ok"
     },
     {
-      "alterado": true,
-      "id": "senado-542771",
-      "status": "ok"
+      "erro": "Sem corpo articulado suficiente; possível índice/bloqueio",
+      "id": "senado-541487",
+      "status": "erro"
     },
     {
       "alterado": true,
-      "id": "senado-542772",
+      "id": "senado-541489",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542773",
+      "id": "senado-541491",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542774",
+      "id": "senado-541493",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542775",
+      "id": "senado-541495",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542776",
+      "id": "senado-541497",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542778",
+      "id": "senado-541500",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542779",
+      "id": "senado-541502",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542780",
+      "id": "senado-541504",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542781",
+      "id": "senado-541506",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542782",
+      "id": "senado-541509",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542783",
+      "id": "senado-541511",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542785",
+      "id": "senado-541513",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542787",
+      "id": "senado-541516",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542788",
+      "id": "senado-541518",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542789",
+      "id": "senado-541520",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542790",
+      "id": "senado-541522",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542791",
+      "id": "senado-541524",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542792",
+      "id": "senado-541527",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542793",
+      "id": "senado-541529",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542794",
+      "id": "senado-541531",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542795",
+      "id": "senado-541533",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542796",
+      "id": "senado-541535",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542797",
+      "id": "senado-541537",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542798",
+      "id": "senado-541539",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542799",
+      "id": "senado-541541",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542800",
+      "id": "senado-541543",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542802",
+      "id": "senado-541545",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542804",
+      "id": "senado-541547",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542805",
+      "id": "senado-541549",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542806",
+      "id": "senado-541551",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542807",
+      "id": "senado-541552",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542808",
+      "id": "senado-541554",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542809",
+      "id": "senado-541556",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542810",
+      "id": "senado-541558",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542811",
+      "id": "senado-541560",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542812",
+      "id": "senado-541562",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542813",
+      "id": "senado-541565",
       "status": "ok"
     },
     {
       "alterado": true,
-      "id": "senado-542814",
+      "id": "senado-541569",
       "status": "ok"
     }
   ],
-  "executado_em": "2026-11-10T19:57:27+00:00",
-  "fila_total": 16420,
+  "executado_em": "2026-11-11T06:49:58+00:00",
+  "fila_total": 17271,
   "limite_atingido": true,
   "modo": "completo",
   "processados": 150
