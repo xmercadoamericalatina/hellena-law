@@ -82090,6 +82090,27 @@
       "status": "publicado",
       "tentado_em": "2026-11-11T06:44:13+00:00"
     },
+    "senado-44385690": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:26+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "2026-11-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-11-11;13160",
+        "id": "senado-44385690",
+        "id_senado": "44385690",
+        "numero": "13160",
+        "tipo": "Decreto",
+        "titulo": "Decreto nº 13.160 de 11/11/2026",
+        "urn": "urn:lex:br:federal:decreto:2026-11-11;13160"
+      },
+      "original": "originais/c5/c5d6479e260c27a0fa526c5e2b3e57a4e92416ecc9fc2df4dad0f49371c1a968.gz",
+      "sha256_original": "c5d6479e260c27a0fa526c5e2b3e57a4e92416ecc9fc2df4dad0f49371c1a968",
+      "sha256_texto": "19e44d5cf8ed11a353abd241de9e6831f1f3ba26369c753f5792136d35a9c4a9",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:24+00:00"
+    },
     "senado-44386606": {
       "alterado": true,
       "conferido_em": "2026-11-12T20:06:41+00:00",
@@ -82110,6 +82131,27 @@
       "sha256_texto": "8b0640028d6ad55b485c2bdec3d620c9352caea1495fbae0d2257f84d41dfaa0",
       "status": "publicado",
       "tentado_em": "2026-11-12T20:06:37+00:00"
+    },
+    "senado-44386678": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:30+00:00",
+      "entrada": {
+        "conector": "senado",
+        "data": "2026-11-11",
+        "esfera": "federal",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-11-11;13161",
+        "id": "senado-44386678",
+        "id_senado": "44386678",
+        "numero": "13161",
+        "tipo": "Decreto",
+        "titulo": "Decreto nº 13.161 de 11/11/2026",
+        "urn": "urn:lex:br:federal:decreto:2026-11-11;13161"
+      },
+      "original": "originais/47/4722c47135bb027401bd4a2f3aabda9a9a40fbe4b3825c921fe2bd061c7c75fb.gz",
+      "sha256_original": "4722c47135bb027401bd4a2f3aabda9a9a40fbe4b3825c921fe2bd061c7c75fb",
+      "sha256_texto": "cd7de4f87d3ddab5dd9d03c8b793a7ec2d0f488f738f53ac25c04d7c6be4ad52",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:27+00:00"
     },
     "senado-540812": {
       "entrada": {
@@ -93980,6 +94022,8 @@
       "tentado_em": "2026-11-12T20:12:31+00:00"
     },
     "senado-542054": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-18",
@@ -93991,9 +94035,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 563 de 18/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-18;563"
-      }
+      },
+      "original": "originais/db/db6e0a608ae753a1473322c3a6b72bf7ec82fda74370fc083e28840079130a11.gz",
+      "sha256_original": "db6e0a608ae753a1473322c3a6b72bf7ec82fda74370fc083e28840079130a11",
+      "sha256_texto": "d2b94cd0e371c1607bde56b175e7d51ffce180a249ac8ef1711dacedbbd40bf4",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:30+00:00"
     },
     "senado-542055": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:35+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-18",
@@ -94005,9 +94056,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 563-A de 18/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-18;563-a"
-      }
+      },
+      "original": "originais/af/afb9b6f4e81db7a23b375512cb385a4b4d304b612d1b979c4d08338f9f1c31fa.gz",
+      "sha256_original": "afb9b6f4e81db7a23b375512cb385a4b4d304b612d1b979c4d08338f9f1c31fa",
+      "sha256_texto": "00a01e247932fbb76362c633a323fd85b6fddd403737be5d38467c75b3fccee0",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:33+00:00"
     },
     "senado-542057": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:38+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-20",
@@ -94019,9 +94077,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 564 de 20/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-20;564"
-      }
+      },
+      "original": "originais/34/34957f825b517ccd5df5d55d89040bad0c3826c173ed64922525d5af4c5cf19d.gz",
+      "sha256_original": "34957f825b517ccd5df5d55d89040bad0c3826c173ed64922525d5af4c5cf19d",
+      "sha256_texto": "5880cd23dfe32f1f8c36c1755433ea44c17420144d42c53a38dac68f619a1ea5",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:36+00:00"
     },
     "senado-542059": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:41+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-20",
@@ -94033,9 +94098,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 565 de 20/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-20;565"
-      }
+      },
+      "original": "originais/c3/c33805fbc769c44d96360920bff0d50e1582ff64f8c52de4467d2322a065ee94.gz",
+      "sha256_original": "c33805fbc769c44d96360920bff0d50e1582ff64f8c52de4467d2322a065ee94",
+      "sha256_texto": "e5867b76c9f3fd5aab3854b898412b447ce71ff701e68ef0d41c0377bd3f6b67",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:39+00:00"
     },
     "senado-542061": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:43+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-21",
@@ -94047,9 +94119,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 566 de 21/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-21;566"
-      }
+      },
+      "original": "originais/d6/d6dd81a5ef0c7495779cf8ba37c82001ae718d58323fe497d2f23dccb169a2d0.gz",
+      "sha256_original": "d6dd81a5ef0c7495779cf8ba37c82001ae718d58323fe497d2f23dccb169a2d0",
+      "sha256_texto": "8f13eac480434f5adfa1f6fde847c8f669bedef7b171286c42fd7123909000b0",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:41+00:00"
     },
     "senado-542064": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-21",
@@ -94061,9 +94140,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 567 de 21/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-21;567"
-      }
+      },
+      "original": "originais/a7/a701ccdb5448e4264875d400eb02c89e0927a56b462b0ab07aea0baf661f1e3e.gz",
+      "sha256_original": "a701ccdb5448e4264875d400eb02c89e0927a56b462b0ab07aea0baf661f1e3e",
+      "sha256_texto": "adfd81285cb5ac104a26581b2e0c62bcf4cc4dbc485677b36f21eaea0b60d0bd",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:43+00:00"
     },
     "senado-542066": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-21",
@@ -94075,9 +94161,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 568 de 21/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-21;568"
-      }
+      },
+      "original": "originais/7e/7e27719ac79ffb19f658fac67d5aa0b08f87d2e47dda2070ab941e19aaa952c6.gz",
+      "sha256_original": "7e27719ac79ffb19f658fac67d5aa0b08f87d2e47dda2070ab941e19aaa952c6",
+      "sha256_texto": "e52e02140a95235c579593c98b51df9f15c7a11d80998bb392f8e8b296c05cba",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:46+00:00"
     },
     "senado-542068": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:50+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-21",
@@ -94089,9 +94182,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 569 de 21/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-21;569"
-      }
+      },
+      "original": "originais/17/17833fc7f80d4ca429dacc30112172ae6142b08138e4c705bf5169bebc0a547c.gz",
+      "sha256_original": "17833fc7f80d4ca429dacc30112172ae6142b08138e4c705bf5169bebc0a547c",
+      "sha256_texto": "44c3557377b1aa592f83476a3095c84aa59b3ddf08a76ac17f400d7bd3b7ab24",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:48+00:00"
     },
     "senado-542070": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:53+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94103,9 +94203,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 570 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;570"
-      }
+      },
+      "original": "originais/fd/fdf3b8dcdb5d228d30be2d0a548012be57a904bad6fbeae548137f3fa848c3b4.gz",
+      "sha256_original": "fdf3b8dcdb5d228d30be2d0a548012be57a904bad6fbeae548137f3fa848c3b4",
+      "sha256_texto": "7ee1394ec75936404632a7ce6e6c5ac8894957d57128eb595d2f120558e7e9ff",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:50+00:00"
     },
     "senado-542072": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:55+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94117,9 +94224,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 571 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;571"
-      }
+      },
+      "original": "originais/50/50cbd38457bfb6ca25032fa9437981b8ebfcb90c9e9d8ba6b054899b68485a6a.gz",
+      "sha256_original": "50cbd38457bfb6ca25032fa9437981b8ebfcb90c9e9d8ba6b054899b68485a6a",
+      "sha256_texto": "8203e6f60de5aac72d17e1f1af8f58f9a0a894544c38b4b849d7bf9135b9ed35",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:53+00:00"
     },
     "senado-542074": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:57+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94131,9 +94245,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 572 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;572"
-      }
+      },
+      "original": "originais/bf/bf39949bcdcd677b6015ec0edd97ebb154caf6a1f0c218ac2e6503e31eadf0fa.gz",
+      "sha256_original": "bf39949bcdcd677b6015ec0edd97ebb154caf6a1f0c218ac2e6503e31eadf0fa",
+      "sha256_texto": "1f36eec2db146dbbc7bca02e0ba53b0eb33ff84ab20af7c5d0e5421d4992f95c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:55+00:00"
     },
     "senado-542076": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:56:59+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94145,9 +94266,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 573 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;573"
-      }
+      },
+      "original": "originais/9c/9c05390e5c6fd673a72cce030a941c0aef944e202ad611b1b3f67c9b367f6d89.gz",
+      "sha256_original": "9c05390e5c6fd673a72cce030a941c0aef944e202ad611b1b3f67c9b367f6d89",
+      "sha256_texto": "50d08072156cbb9e7701c078606c7ad9ff4f48f05f6d4fb8844b02a0afecb153",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:56:57+00:00"
     },
     "senado-542078": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:02+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94159,9 +94287,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 574 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;574"
-      }
+      },
+      "original": "originais/2f/2f031b00d595b58f14b7858d6958dd435da117ef9363de0ca83de308161eff6b.gz",
+      "sha256_original": "2f031b00d595b58f14b7858d6958dd435da117ef9363de0ca83de308161eff6b",
+      "sha256_texto": "311a2367472791ad478a9ea9b59123d60bb586ef0eeccb328656c4c331bb47ef",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:00+00:00"
     },
     "senado-542080": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:04+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94173,9 +94308,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 575 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;575"
-      }
+      },
+      "original": "originais/cb/cbe57fbbaf7374601b04f4a4e5ddfcbfff2e693ba75a0a48b5849ca22f672435.gz",
+      "sha256_original": "cbe57fbbaf7374601b04f4a4e5ddfcbfff2e693ba75a0a48b5849ca22f672435",
+      "sha256_texto": "2ff6fa85c7b2cbe0bbf799808e9e30f6d3d0fa120523a3c1240ab5191bb8882c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:02+00:00"
     },
     "senado-542082": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:06+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94187,9 +94329,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 576 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;576"
-      }
+      },
+      "original": "originais/0e/0e554da8a3108dfb13f518eb1e0b3b89905beac2da0c8e04dc0ce53473974356.gz",
+      "sha256_original": "0e554da8a3108dfb13f518eb1e0b3b89905beac2da0c8e04dc0ce53473974356",
+      "sha256_texto": "309b488c88a977ab0a4a0d75ab55db2ac0269ef73110ca9db181fc7544a9a318",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:04+00:00"
     },
     "senado-542084": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:09+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94201,9 +94350,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 577 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;577"
-      }
+      },
+      "original": "originais/ce/ced39418733c37aa20323ff7169ddeff4b7c5e94a9f676b90cb3bb0c196fd09e.gz",
+      "sha256_original": "ced39418733c37aa20323ff7169ddeff4b7c5e94a9f676b90cb3bb0c196fd09e",
+      "sha256_texto": "76fe33467e1dab22fe2293f12538afa297c64a6ed7b4678d428a5087106d9d0e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:07+00:00"
     },
     "senado-542086": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94215,9 +94371,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 578 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;578"
-      }
+      },
+      "original": "originais/5b/5b95feb2c72a38cf8800464d082895c22d24b01a3c0d32152250fc7db8c81c4e.gz",
+      "sha256_original": "5b95feb2c72a38cf8800464d082895c22d24b01a3c0d32152250fc7db8c81c4e",
+      "sha256_texto": "c21134c24221268f65ea3a7f7960b4ee381d7310cd4fd5218d1f06906fbb11ca",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:09+00:00"
     },
     "senado-542088": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:14+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94229,9 +94392,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 579 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;579"
-      }
+      },
+      "original": "originais/e3/e3397e1e439041b925850e20748408bb4eb5df3c1658c7797e7ddcf1cd658796.gz",
+      "sha256_original": "e3397e1e439041b925850e20748408bb4eb5df3c1658c7797e7ddcf1cd658796",
+      "sha256_texto": "e2c8a5a5c208806bf4751014f23cdfeb4a7873b0b9f8bb00f54c948ace289910",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:11+00:00"
     },
     "senado-542090": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:16+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94243,9 +94413,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 580 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;580"
-      }
+      },
+      "original": "originais/5c/5c4a18a5884b97762f3d9733a73eaa5a57f05e91d47bb8551e338c22f26e2d32.gz",
+      "sha256_original": "5c4a18a5884b97762f3d9733a73eaa5a57f05e91d47bb8551e338c22f26e2d32",
+      "sha256_texto": "86ff557ab34b73f889fb5a7f238c7e9d5b0fb9e3c1638fe0ad33ab0e115eacdb",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:14+00:00"
     },
     "senado-542093": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94257,9 +94434,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 581 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;581"
-      }
+      },
+      "original": "originais/62/621fbb2a07443ead40d3f9a22d616c0a6ad029c4c821a61d1c4c4f37dca7273a.gz",
+      "sha256_original": "621fbb2a07443ead40d3f9a22d616c0a6ad029c4c821a61d1c4c4f37dca7273a",
+      "sha256_texto": "10cd2e88edbfad5d6972643c91d32017e6a23f68d13233ca7bb22537e5b439ad",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:16+00:00"
     },
     "senado-542096": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:21+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94271,9 +94455,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 582 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;582"
-      }
+      },
+      "original": "originais/48/48e8a8b36ce633629874834e5106065d496acffc8b668a7d4d43cefe2b0d05b1.gz",
+      "sha256_original": "48e8a8b36ce633629874834e5106065d496acffc8b668a7d4d43cefe2b0d05b1",
+      "sha256_texto": "7e4b3b4b36012ab9ac7d924339f44c66dbc7ad8fdc80b59214b3114ec4e2617e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:19+00:00"
     },
     "senado-542098": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:23+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-22",
@@ -94285,9 +94476,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 583 de 22/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-22;583"
-      }
+      },
+      "original": "originais/f3/f3e9045809ae3c78ebe7ab8b168e7b6145d6308a5ace513c77de0dedd316410e.gz",
+      "sha256_original": "f3e9045809ae3c78ebe7ab8b168e7b6145d6308a5ace513c77de0dedd316410e",
+      "sha256_texto": "848424ef55ce5e4f94bf94a69cfc3ea0a4cc51ad5b57ecf98c637051f1edf5d7",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:21+00:00"
     },
     "senado-542100": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:25+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94299,9 +94497,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 584 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;584"
-      }
+      },
+      "original": "originais/30/30d208689fa02fd35b5f102d5ebd54a4e2855aec88d393fc388e3dc9a163ad35.gz",
+      "sha256_original": "30d208689fa02fd35b5f102d5ebd54a4e2855aec88d393fc388e3dc9a163ad35",
+      "sha256_texto": "39186bb4bfab2daefcb80d621d56eb0d6df7e2b7d3465f9ff53ae9147ce06129",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:23+00:00"
     },
     "senado-542103": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:28+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94313,9 +94518,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 585 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;585"
-      }
+      },
+      "original": "originais/d5/d563559a883d9536249e49d96ccc759e05336abd5f0066ab0e81d3860153b09f.gz",
+      "sha256_original": "d563559a883d9536249e49d96ccc759e05336abd5f0066ab0e81d3860153b09f",
+      "sha256_texto": "2304ea9325262f3691c01ff923113570240a3e83f51678626c736726f1f31abb",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:26+00:00"
     },
     "senado-542106": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:30+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94327,9 +94539,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 586 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;586"
-      }
+      },
+      "original": "originais/94/9440476ed94a6982aad12ea2f257cc36900688d4b8ca73767708885a707c745e.gz",
+      "sha256_original": "9440476ed94a6982aad12ea2f257cc36900688d4b8ca73767708885a707c745e",
+      "sha256_texto": "3659fa0ac725c428897653595e838900c3cff17b4d7c6cb01489186f7ec5b396",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:28+00:00"
     },
     "senado-542108": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:32+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94341,9 +94560,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 587 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;587"
-      }
+      },
+      "original": "originais/7f/7f1a8b9a5eb67c4191839fa459804690cfa637483aaa348f721d5e48b5146914.gz",
+      "sha256_original": "7f1a8b9a5eb67c4191839fa459804690cfa637483aaa348f721d5e48b5146914",
+      "sha256_texto": "cee42ea31a4a62c26d27006a4e4404ac81ae7493bc4aac4b5dbacc3b15f6d67d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:30+00:00"
     },
     "senado-542109": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:35+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94355,9 +94581,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 588 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;588"
-      }
+      },
+      "original": "originais/08/0887cdff1ad84893ca5da1c9441939b9da0829bfddd809f5d3b08b31f122e1e7.gz",
+      "sha256_original": "0887cdff1ad84893ca5da1c9441939b9da0829bfddd809f5d3b08b31f122e1e7",
+      "sha256_texto": "1f74e45e744d8bd3dd384f92fcb0079f953f2e9c4948ac8f2cc410f1b912b88f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:33+00:00"
     },
     "senado-542111": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:37+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94369,9 +94602,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 589 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;589"
-      }
+      },
+      "original": "originais/40/404b812f4fa1850f05262be5ad5f07a213374e85366c1d7f1a33d84f05f87e53.gz",
+      "sha256_original": "404b812f4fa1850f05262be5ad5f07a213374e85366c1d7f1a33d84f05f87e53",
+      "sha256_texto": "1ea3ea9cd315642f1de8e33674d4b8ae1632c14b53ef3d80becd782f6c44736d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:35+00:00"
     },
     "senado-542112": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94383,9 +94623,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 590 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;590"
-      }
+      },
+      "original": "originais/32/324719f8550210c0a2d5a0937af6581eaa4d5cd8478d82384e6500796499873a.gz",
+      "sha256_original": "324719f8550210c0a2d5a0937af6581eaa4d5cd8478d82384e6500796499873a",
+      "sha256_texto": "a2682e9f3305007bb8edf3826701e8b1519d0619a39c5e3b21321067241f4e7a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:37+00:00"
     },
     "senado-542113": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:42+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94397,9 +94644,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 591 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;591"
-      }
+      },
+      "original": "originais/3e/3e7806d8d96cf26583aac67216f4b6bb6fed91b744ad1dab8c937602a4d756c2.gz",
+      "sha256_original": "3e7806d8d96cf26583aac67216f4b6bb6fed91b744ad1dab8c937602a4d756c2",
+      "sha256_texto": "1000bca710497b9170ebd17d75ad9ac5eba4b5d03688c04941eb8d9ee9aecf26",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:40+00:00"
     },
     "senado-542114": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:44+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94411,9 +94665,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 592 de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;592"
-      }
+      },
+      "original": "originais/fc/fc6cda70ce16f591e5f278e8d5b99cb7ddfe6af008ce6c13fd6f83e28c5fa2ae.gz",
+      "sha256_original": "fc6cda70ce16f591e5f278e8d5b99cb7ddfe6af008ce6c13fd6f83e28c5fa2ae",
+      "sha256_texto": "a01a129168435551bc6890a757d89f5c27c25946a74972907f9e1019f21476d4",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:42+00:00"
     },
     "senado-542115": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-23",
@@ -94425,9 +94686,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 592-A de 23/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-23;592-a"
-      }
+      },
+      "original": "originais/c7/c7f6b14b7d37f44eb267e31a8e583788c6642d2bed0c7b5b0dcdc6305dff9f5e.gz",
+      "sha256_original": "c7f6b14b7d37f44eb267e31a8e583788c6642d2bed0c7b5b0dcdc6305dff9f5e",
+      "sha256_texto": "764513525b1fcacde15548fffd1cafc437c6a933d40b4561dea0a4f5052baf69",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:44+00:00"
     },
     "senado-542117": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:49+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94439,9 +94707,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 593 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;593"
-      }
+      },
+      "original": "originais/5f/5f23f17f8d36df80d5669b93d544ffc582ef09f5c894db79a5d550a219cf773f.gz",
+      "sha256_original": "5f23f17f8d36df80d5669b93d544ffc582ef09f5c894db79a5d550a219cf773f",
+      "sha256_texto": "cfe6b82876ca7d4432016b502eabb349e1df79791c4a26ca6146397ef83ab899",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:47+00:00"
     },
     "senado-542118": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:51+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94453,9 +94728,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 594 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;594"
-      }
+      },
+      "original": "originais/7e/7eb439d8b8c06219165fad90f73e8d62b7575100c4417d3c35eab0a798ad229f.gz",
+      "sha256_original": "7eb439d8b8c06219165fad90f73e8d62b7575100c4417d3c35eab0a798ad229f",
+      "sha256_texto": "de63db9fe70c901aa0e9ba1c37bea02e32d9eb5478e06a158f686f6cc2ca1a21",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:49+00:00"
     },
     "senado-542119": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:54+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94467,9 +94749,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 595 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;595"
-      }
+      },
+      "original": "originais/34/3458d95dc0b901f63129d134d0a37e97e9aadec033d37079999dcee2086850b9.gz",
+      "sha256_original": "3458d95dc0b901f63129d134d0a37e97e9aadec033d37079999dcee2086850b9",
+      "sha256_texto": "b4148189412be6c2ae39ff3b6ad5b5fa943f4ffa8f4a72a0c01718e3469c7c42",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:51+00:00"
     },
     "senado-542120": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:56+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94481,9 +94770,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 596 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;596"
-      }
+      },
+      "original": "originais/ac/ac72e3f5b3840cd708141eccac9f95939655d97ec863d58c58f689d63d0c0df7.gz",
+      "sha256_original": "ac72e3f5b3840cd708141eccac9f95939655d97ec863d58c58f689d63d0c0df7",
+      "sha256_texto": "b472c7f23106ae0a75c3d4a74acbe09b839bfdc7f41485e6f43374ad6d766a1b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:54+00:00"
     },
     "senado-542121": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:57:58+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94495,9 +94791,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 597 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;597"
-      }
+      },
+      "original": "originais/5a/5ad0f79c0b583f32a4e8b7eb443ee1977f65b2d712f0d4cd68d009d91af6dd26.gz",
+      "sha256_original": "5ad0f79c0b583f32a4e8b7eb443ee1977f65b2d712f0d4cd68d009d91af6dd26",
+      "sha256_texto": "43e78cdaabae6fff58b13f5e91ab3a913d788d1fc38f58e04a37a22a37bc3bf1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:56+00:00"
     },
     "senado-542122": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:00+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94509,9 +94812,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 598 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;598"
-      }
+      },
+      "original": "originais/5a/5a3178e07a034d5a32cf3a8f0504ed71c4d7e22a023a7f1710465f0bc882f088.gz",
+      "sha256_original": "5a3178e07a034d5a32cf3a8f0504ed71c4d7e22a023a7f1710465f0bc882f088",
+      "sha256_texto": "d0309b04da75cd5bbd87b7fd8d5f81875a7a1088297c0049d8bbc9ccf6f53838",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:57:58+00:00"
     },
     "senado-542124": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:03+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94523,9 +94833,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 599 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;599"
-      }
+      },
+      "original": "originais/29/29c0c4c25c558785aabcfb3412c9ec1bb32b1e3ad10cb94468489bebb1ac638f.gz",
+      "sha256_original": "29c0c4c25c558785aabcfb3412c9ec1bb32b1e3ad10cb94468489bebb1ac638f",
+      "sha256_texto": "275e14512385c2a82c45caf7f1fc7a41ffc29e5fbc773fdeeb06a4b66d9e16b0",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:01+00:00"
     },
     "senado-542125": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:05+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-26",
@@ -94537,9 +94854,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 599-A de 26/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-26;599-a"
-      }
+      },
+      "original": "originais/ba/ba46868f362074f502dc1300058df04374619408cc3094fd2b10954711510cda.gz",
+      "sha256_original": "ba46868f362074f502dc1300058df04374619408cc3094fd2b10954711510cda",
+      "sha256_texto": "a95f10755e716738c184379c537977a523294297498a15fad99fd37b34e7307a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:03+00:00"
     },
     "senado-542126": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:07+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94551,9 +94875,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 600 de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;600"
-      }
+      },
+      "original": "originais/7e/7e4c995b129836e973bf3ec0540657769d5a47ba93a5edf2f4bc0014efbb0dee.gz",
+      "sha256_original": "7e4c995b129836e973bf3ec0540657769d5a47ba93a5edf2f4bc0014efbb0dee",
+      "sha256_texto": "3f18ab547103492161d54c89cd5196a9e77e3a09fe40299a4b660e2095466f16",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:05+00:00"
     },
     "senado-542127": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:10+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-24",
@@ -94565,9 +94896,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 600-A de 24/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-24;600-a"
-      }
+      },
+      "original": "originais/f4/f447ed44b228d8f19649985fa466aec2b280e16c77adfff396116c47c16f171b.gz",
+      "sha256_original": "f447ed44b228d8f19649985fa466aec2b280e16c77adfff396116c47c16f171b",
+      "sha256_texto": "69804e9181ed56b466efbe8ea57a004192e1eea0726e46f9234324e91a82cdb9",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:08+00:00"
     },
     "senado-542129": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:12+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-28",
@@ -94579,9 +94917,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 601 de 28/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-28;601"
-      }
+      },
+      "original": "originais/d6/d6e88472a9870a162eecd61114bac6f2aefd8d288f5f2b9123d8f0fa8a864ddf.gz",
+      "sha256_original": "d6e88472a9870a162eecd61114bac6f2aefd8d288f5f2b9123d8f0fa8a864ddf",
+      "sha256_texto": "e9c8cd91e5518aa8a0b66b16623312d2d0d82dd0549a6a08904aa4a06258082f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:10+00:00"
     },
     "senado-542131": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:14+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1948-12-28",
@@ -94593,9 +94938,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 602 de 28/12/1948",
         "urn": "urn:lex:br:federal:lei:1948-12-28;602"
-      }
+      },
+      "original": "originais/4a/4a60bb3605561495b5cc6bf191bd0da75abf1aa1bff84affe69e7427b157818a.gz",
+      "sha256_original": "4a60bb3605561495b5cc6bf191bd0da75abf1aa1bff84affe69e7427b157818a",
+      "sha256_texto": "3eded37e6e8be6acb4a93cb93264026c0e34f76ca090be80337ef4d82e5a882a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:12+00:00"
     },
     "senado-542132": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:17+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-02",
@@ -94607,9 +94959,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 603 de 02/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-02;603"
-      }
+      },
+      "original": "originais/53/5396362e8c96c4956eb6b4a78225ae7b49ed9b0457585852fbf5ef1ff5cee010.gz",
+      "sha256_original": "5396362e8c96c4956eb6b4a78225ae7b49ed9b0457585852fbf5ef1ff5cee010",
+      "sha256_texto": "3bee8bc60eb91ba28a899b958c473015f53aa7e14c1ea337a4f3febaab684c40",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:15+00:00"
     },
     "senado-542133": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:19+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-03",
@@ -94621,9 +94980,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 604 de 03/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-03;604"
-      }
+      },
+      "original": "originais/ea/ea18188064401ead12590bc261cc788a37d5b62627a6ef06a2454c5ad73377d6.gz",
+      "sha256_original": "ea18188064401ead12590bc261cc788a37d5b62627a6ef06a2454c5ad73377d6",
+      "sha256_texto": "a3aecad998b7d2dac1089f40673c427ddb2058f2da079505a73298024018b9b2",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:17+00:00"
     },
     "senado-542134": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-05",
@@ -94635,9 +95001,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 605 de 05/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-05;605"
-      }
+      },
+      "original": "originais/2e/2ed7a148d4a75323f47ad6d95821a82856cdaf1140869515a80feec54859cacd.gz",
+      "sha256_original": "2ed7a148d4a75323f47ad6d95821a82856cdaf1140869515a80feec54859cacd",
+      "sha256_texto": "3dccb0cd9ddfad5f448f7c56d7b8a382a772271916713bd6fedf9865f7182172",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:19+00:00"
     },
     "senado-542136": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:25+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-06",
@@ -94649,9 +95022,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 606 de 06/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-06;606"
-      }
+      },
+      "original": "originais/1a/1a347f525d9f7b6192deff43cac96537dcf006661de1a5e943b1c7ac4c3de2d1.gz",
+      "sha256_original": "1a347f525d9f7b6192deff43cac96537dcf006661de1a5e943b1c7ac4c3de2d1",
+      "sha256_texto": "76c28c212c5281aafa1bf1caa3d19d38fd460b35dd094bcdeb1aaa1d8e9addbf",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:22+00:00"
     },
     "senado-542137": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:27+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-06",
@@ -94663,9 +95043,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 607 de 06/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-06;607"
-      }
+      },
+      "original": "originais/94/9433832c6a176c6897ea617c81e9c5c7f45f7e3620e838c15665fdcdc0dc584c.gz",
+      "sha256_original": "9433832c6a176c6897ea617c81e9c5c7f45f7e3620e838c15665fdcdc0dc584c",
+      "sha256_texto": "e82f138941f28bb42b5deb8e2e81e91e29870b88416298fbc68f6a145a49921f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:25+00:00"
     },
     "senado-542138": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:29+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-10",
@@ -94677,9 +95064,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 608 de 10/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-10;608"
-      }
+      },
+      "original": "originais/19/19fdc831381af729953bdab084cab9b9fc66b3053e310fc981173cf5aaa2e16d.gz",
+      "sha256_original": "19fdc831381af729953bdab084cab9b9fc66b3053e310fc981173cf5aaa2e16d",
+      "sha256_texto": "830cbd09806a2f2c96d0f37249cef0a9a43f6678e4a5439906891e893ce04e6c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:27+00:00"
     },
     "senado-542140": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:31+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-13",
@@ -94691,9 +95085,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 609 de 13/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-13;609"
-      }
+      },
+      "original": "originais/ff/ff77e8fe681ad8097b2fce5bcc2e92c227948fb4e80f74ba24bf8afe7e6019f5.gz",
+      "sha256_original": "ff77e8fe681ad8097b2fce5bcc2e92c227948fb4e80f74ba24bf8afe7e6019f5",
+      "sha256_texto": "829b609345ce47356790d7c01730371aa8d8b56f2d2ba397f06b6cdb097e0f34",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:29+00:00"
     },
     "senado-542141": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:34+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-13",
@@ -94705,9 +95106,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 610 de 13/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-13;610"
-      }
+      },
+      "original": "originais/bf/bf4865c6be058e1702cc99975f5351ba8043e270d29b96d3aa1a850c66687d63.gz",
+      "sha256_original": "bf4865c6be058e1702cc99975f5351ba8043e270d29b96d3aa1a850c66687d63",
+      "sha256_texto": "bc700f7c7d6c60cfcdab4180566cc570836091702ed315932e907e9f52f45361",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:32+00:00"
     },
     "senado-542142": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:36+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-13",
@@ -94719,9 +95127,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 611 de 13/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-13;611"
-      }
+      },
+      "original": "originais/ac/ac477fb22b772b0813cfedeeeffc10dc0ff2f9017fd30143bcc0c6cb0d716e7f.gz",
+      "sha256_original": "ac477fb22b772b0813cfedeeeffc10dc0ff2f9017fd30143bcc0c6cb0d716e7f",
+      "sha256_texto": "df51e3ff4d198eb98e24004b869c94b6e3c87e95f4860ab4a66dd450c62eb0c3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:34+00:00"
     },
     "senado-542144": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-13",
@@ -94733,9 +95148,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 612 de 13/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-13;612"
-      }
+      },
+      "original": "originais/35/3521266035ffa21c5b6a5f48cd26b4364b028a614c2c3ed47d7a932a718bff95.gz",
+      "sha256_original": "3521266035ffa21c5b6a5f48cd26b4364b028a614c2c3ed47d7a932a718bff95",
+      "sha256_texto": "8821fab5b43cb2c6b713aa96acef6075358102460a0e2af938a0bf66a75302f6",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:37+00:00"
     },
     "senado-542146": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:41+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-01-13",
@@ -94747,9 +95169,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 613 de 13/01/1949",
         "urn": "urn:lex:br:federal:lei:1949-01-13;613"
-      }
+      },
+      "original": "originais/70/70722e7f3c20c27489c9f0844f08d1eaf90e7bfa5b828c0034f8bfbb1c09cc57.gz",
+      "sha256_original": "70722e7f3c20c27489c9f0844f08d1eaf90e7bfa5b828c0034f8bfbb1c09cc57",
+      "sha256_texto": "d70b59e046546e86be884294691fc4f043497751dbb040bd3235330c8b67d921",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:39+00:00"
     },
     "senado-542148": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:43+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-02",
@@ -94761,9 +95190,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 614 de 02/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-02;614"
-      }
+      },
+      "original": "originais/21/210693ceb6dd5af7c9ef2ac992d731434cd7c88688a3ed15d18e0660a8ba2dd4.gz",
+      "sha256_original": "210693ceb6dd5af7c9ef2ac992d731434cd7c88688a3ed15d18e0660a8ba2dd4",
+      "sha256_texto": "b6bcba300996ee1eba9bf7cb0327354936915e530d78ab43d1cd9871643460c2",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:41+00:00"
     },
     "senado-542150": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-02",
@@ -94775,9 +95211,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 615 de 02/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-02;615"
-      }
+      },
+      "original": "originais/6d/6d9572cea38eab73afe3748f1cd769bb720cd78931f425521442342d665cfcda.gz",
+      "sha256_original": "6d9572cea38eab73afe3748f1cd769bb720cd78931f425521442342d665cfcda",
+      "sha256_texto": "7407a4a20dc145dfaee27eec0570db92e41a23d54a5cb3d9e5f0917b7cc233b1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:44+00:00"
     },
     "senado-542151": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-02",
@@ -94789,9 +95232,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 616 de 02/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-02;616"
-      }
+      },
+      "original": "originais/91/91b453bea4c24390a2842db23893b1432b0f74484aff1631f8e4231e6dc3565a.gz",
+      "sha256_original": "91b453bea4c24390a2842db23893b1432b0f74484aff1631f8e4231e6dc3565a",
+      "sha256_texto": "2a12bd604a2139f344bd5ed49b446245f3541c1203992367fdb0aa98b09693b9",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:46+00:00"
     },
     "senado-542152": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:50+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-10",
@@ -94803,9 +95253,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 617 de 10/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-10;617"
-      }
+      },
+      "original": "originais/e0/e0ede62344328efeec9f71611b66f8c407bf19e1621c4666ea7aeea148018428.gz",
+      "sha256_original": "e0ede62344328efeec9f71611b66f8c407bf19e1621c4666ea7aeea148018428",
+      "sha256_texto": "538c3eceaf112c4e019b64bb9bf7eb1f9748447550d7a3215af084587f0ea74f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:48+00:00"
     },
     "senado-542153": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:53+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-10",
@@ -94817,9 +95274,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 618 de 10/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-10;618"
-      }
+      },
+      "original": "originais/32/3232d7372ba83f6f05041378ee0578b0cc163ac89eecd350554f1448227dfed5.gz",
+      "sha256_original": "3232d7372ba83f6f05041378ee0578b0cc163ac89eecd350554f1448227dfed5",
+      "sha256_texto": "872a50aec7615c831813d576df9ba2179e8114f908b63aacae8a70c8d227255e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:51+00:00"
     },
     "senado-542154": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:55+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-10",
@@ -94831,9 +95295,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 619 de 10/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-10;619"
-      }
+      },
+      "original": "originais/9a/9a7bff8a70e6a253524387c952322c0aa605a447211a57716af726bfd55dc730.gz",
+      "sha256_original": "9a7bff8a70e6a253524387c952322c0aa605a447211a57716af726bfd55dc730",
+      "sha256_texto": "f0292f66d6fa25b7410584baab4cb3e343f5d753f4d7dfac392a13b98162598b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:53+00:00"
     },
     "senado-542156": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:58:57+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-12",
@@ -94845,9 +95316,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 620 de 12/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-12;620"
-      }
+      },
+      "original": "originais/87/87464997d23793ea2e42610b608bb93af9925e9f7d008ffbcf700e6d162c6f93.gz",
+      "sha256_original": "87464997d23793ea2e42610b608bb93af9925e9f7d008ffbcf700e6d162c6f93",
+      "sha256_texto": "7cb9d65d8663210b59986df1aceb79335559445fe3fd51674bd153a7bbc0ad1a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:55+00:00"
     },
     "senado-542157": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:00+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-16",
@@ -94859,9 +95337,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 621 de 16/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-16;621"
-      }
+      },
+      "original": "originais/e6/e6dae37c6b984a80a915c759e88a4ce91f818555d5957a4105a93c378b169b57.gz",
+      "sha256_original": "e6dae37c6b984a80a915c759e88a4ce91f818555d5957a4105a93c378b169b57",
+      "sha256_texto": "ec326b745ce3f3a9f6cfdb38554051dfd0986732810ed9ae76d99d219ab0447a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:58:57+00:00"
     },
     "senado-542158": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:02+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-16",
@@ -94873,9 +95358,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 622 de 16/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-16;622"
-      }
+      },
+      "original": "originais/b1/b1dc2f28d554c9c28f296c4753629787b04b92a88b61078975855bd378a7dec6.gz",
+      "sha256_original": "b1dc2f28d554c9c28f296c4753629787b04b92a88b61078975855bd378a7dec6",
+      "sha256_texto": "d29e8c27fe5955652b7dad270b5458d6ce39b64bf81de824b47c99d9b3f48aee",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:00+00:00"
     },
     "senado-542159": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:04+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-19",
@@ -94887,9 +95379,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 623 de 19/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-19;623"
-      }
+      },
+      "original": "originais/15/15931ec77de89da2f594e7e43e674abf29ab2400d93c137647016f497a5d7f03.gz",
+      "sha256_original": "15931ec77de89da2f594e7e43e674abf29ab2400d93c137647016f497a5d7f03",
+      "sha256_texto": "abad276f480d8b056f6b947d3f4deb309ff835d2c99df9b09bd497eeb4fdb439",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:02+00:00"
     },
     "senado-542160": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:07+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-20",
@@ -94901,9 +95400,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 624 de 20/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-20;624"
-      }
+      },
+      "original": "originais/a9/a995b9c9ed7968fcdfc7e83c08e6f66d5d82fc3e604854fd8e9ae6fe4df97807.gz",
+      "sha256_original": "a995b9c9ed7968fcdfc7e83c08e6f66d5d82fc3e604854fd8e9ae6fe4df97807",
+      "sha256_texto": "85f3885898b8160aff928fed59049968ea780ce1505841afcba33dd85d85de88",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:05+00:00"
     },
     "senado-542161": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:09+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-21",
@@ -94915,9 +95421,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 625 de 21/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-21;625"
-      }
+      },
+      "original": "originais/1f/1f1a0da13c6f03a76b5c83b34d829e7c2aa0844276c5fe461c1722f5673250bd.gz",
+      "sha256_original": "1f1a0da13c6f03a76b5c83b34d829e7c2aa0844276c5fe461c1722f5673250bd",
+      "sha256_texto": "be3756482b1e2206786b6cf6d1704bb6a783bebed574ae49c660532c9d444b7b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:07+00:00"
     },
     "senado-542162": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-21",
@@ -94929,9 +95442,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 626 de 21/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-21;626"
-      }
+      },
+      "original": "originais/4f/4f6956affb2c5454de1d59cee6a06a5179674c5f79a8e84ee606d8e84116f26c.gz",
+      "sha256_original": "4f6956affb2c5454de1d59cee6a06a5179674c5f79a8e84ee606d8e84116f26c",
+      "sha256_texto": "f4afe23e3e779c5d9082d420409f1ca33244941aedfd60df4909907e57456f51",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:09+00:00"
     },
     "senado-542164": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:14+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-21",
@@ -94943,9 +95463,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 627 de 21/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-21;627"
-      }
+      },
+      "original": "originais/95/959e0ddb2f589c9f452cee6ac8e8ca8fc2d2b18ebe4b2470737e7e7e0c2062ac.gz",
+      "sha256_original": "959e0ddb2f589c9f452cee6ac8e8ca8fc2d2b18ebe4b2470737e7e7e0c2062ac",
+      "sha256_texto": "257d191ed85aca9cf5d09ac4cf5965326367642adfa15fb58af2dd5c440987ad",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:12+00:00"
     },
     "senado-542167": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:16+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-21",
@@ -94957,9 +95484,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 628 de 21/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-21;628"
-      }
+      },
+      "original": "originais/7d/7d9c3d96e41f07477eda46dbf909ab785ff395893f399e616e7441bb9c96bef0.gz",
+      "sha256_original": "7d9c3d96e41f07477eda46dbf909ab785ff395893f399e616e7441bb9c96bef0",
+      "sha256_texto": "6a8bb60cda1f4c66241aeb60fb672b97747f6b516237ab4d2b4c0cfbce2fb655",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:14+00:00"
     },
     "senado-542168": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-22",
@@ -94971,9 +95505,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 629 de 22/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-22;629"
-      }
+      },
+      "original": "originais/fe/feae576b9130f0eefc6cf452a2118c25133822d67a6f266f9569f80d2bb9e0bb.gz",
+      "sha256_original": "feae576b9130f0eefc6cf452a2118c25133822d67a6f266f9569f80d2bb9e0bb",
+      "sha256_texto": "f4aedf860e5050965af8be15ca7f91a1e6c8d4576d106527b833e374e8e20753",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:16+00:00"
     },
     "senado-542169": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-24",
@@ -94985,9 +95526,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 630 de 24/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-24;630"
-      }
+      },
+      "original": "originais/0f/0fc5607a0a089272bcf5f98b320991e685bae869a923abcd05f8b42e214b2acf.gz",
+      "sha256_original": "0fc5607a0a089272bcf5f98b320991e685bae869a923abcd05f8b42e214b2acf",
+      "sha256_texto": "0b7aee860b56d8f6123e5d083ae378ecf9aa85672ac51a084149946ff98fae85",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:19+00:00"
     },
     "senado-542171": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:26+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-24",
@@ -94999,9 +95547,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 631 de 24/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-24;631"
-      }
+      },
+      "original": "originais/64/64a8a80a4ab5c92de3b999e7161d2f4b806019b53896d69091102cb6870c7443.gz",
+      "sha256_original": "64a8a80a4ab5c92de3b999e7161d2f4b806019b53896d69091102cb6870c7443",
+      "sha256_texto": "9d7b1430939807053116df82edafec4df483c49996321ca23b471a7ff35dbb0b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:22+00:00"
     },
     "senado-542173": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:28+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95013,9 +95568,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 632 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;632"
-      }
+      },
+      "original": "originais/c3/c397d9094b1a16e3c64d236c61dba839231999ec7a2ee8136088442a559de41e.gz",
+      "sha256_original": "c397d9094b1a16e3c64d236c61dba839231999ec7a2ee8136088442a559de41e",
+      "sha256_texto": "0486a3b7e70d2ffac30f59409f00ae8fe990bf9dbfa1041c562823f49347b940",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:26+00:00"
     },
     "senado-542174": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:31+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95027,9 +95589,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 633 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;633"
-      }
+      },
+      "original": "originais/08/0846fa89b602ffc4adc843d6b59b20b23b2cbed964d4d70c7554aaade13bd619.gz",
+      "sha256_original": "0846fa89b602ffc4adc843d6b59b20b23b2cbed964d4d70c7554aaade13bd619",
+      "sha256_texto": "217215a409d6ba38cdb32f79a4e47d380fbb904ad2bd5103cb342a99d4189edd",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:28+00:00"
     },
     "senado-542175": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95041,9 +95610,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 634 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;634"
-      }
+      },
+      "original": "originais/00/006308a899f3a9414ff04ee4b707408ab4200a34a02db4fdb01f4865eda726ce.gz",
+      "sha256_original": "006308a899f3a9414ff04ee4b707408ab4200a34a02db4fdb01f4865eda726ce",
+      "sha256_texto": "c4687248e647b4a659b27c08c169d3eafa8a9e384b5e043a07252839d38aa9ec",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:31+00:00"
     },
     "senado-542176": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:37+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95055,9 +95631,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 635 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;635"
-      }
+      },
+      "original": "originais/d2/d227d6ad538a765056e26795385aec35591d68a5281a6da7516175e12d13b49f.gz",
+      "sha256_original": "d227d6ad538a765056e26795385aec35591d68a5281a6da7516175e12d13b49f",
+      "sha256_texto": "bbaee20b36672c7bd94abdc9d35eb0fc6f567d1446a87543e8df244c4aa6dcf3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:33+00:00"
     },
     "senado-542177": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95069,9 +95652,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 636 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;636"
-      }
+      },
+      "original": "originais/05/05df8e6e9a9e5d02fac366d786d9bfb73de6e958230e7a9ed83efe9c29e1d38b.gz",
+      "sha256_original": "05df8e6e9a9e5d02fac366d786d9bfb73de6e958230e7a9ed83efe9c29e1d38b",
+      "sha256_texto": "9a78eb822c0ba0fc40dd0a84e51d643a6dd6654ae6429b2ed479e9d3fbd64738",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:37+00:00"
     },
     "senado-542178": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:42+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95083,9 +95673,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 637 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;637"
-      }
+      },
+      "original": "originais/d8/d85ea860bcc8d69b27a6828287fcbc1133ffe03bdfc48d2ca456eb32e127559b.gz",
+      "sha256_original": "d85ea860bcc8d69b27a6828287fcbc1133ffe03bdfc48d2ca456eb32e127559b",
+      "sha256_texto": "f1e9606ee993c0053f22d114715bfe561075bdd47cf22b5c4e1682e99bc9ef2b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:39+00:00"
     },
     "senado-542179": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:44+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95097,9 +95694,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 638 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;638"
-      }
+      },
+      "original": "originais/73/73fd3c9621d10b4935c821b92ba89de8723372b624fac04e5a70c9e9f3fa6dfd.gz",
+      "sha256_original": "73fd3c9621d10b4935c821b92ba89de8723372b624fac04e5a70c9e9f3fa6dfd",
+      "sha256_texto": "e2f52ab768506d5209145cbfafe3eb5ba05064408d288d85e8e20275cd85add1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:42+00:00"
     },
     "senado-542180": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95111,9 +95715,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 639 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;639"
-      }
+      },
+      "original": "originais/4e/4e14f23db29872651f8e91bbc78c4931f3ad6a7ffcc04293df9a9ff4443b91fb.gz",
+      "sha256_original": "4e14f23db29872651f8e91bbc78c4931f3ad6a7ffcc04293df9a9ff4443b91fb",
+      "sha256_texto": "054be1b455131f9aca163e41a45551bdde89518b8e3b116bc6ece3235ccf2afc",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:44+00:00"
     },
     "senado-542182": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:49+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95125,9 +95736,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 640 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;640"
-      }
+      },
+      "original": "originais/a6/a692591ffdd25fe4fe595ec6c0cb4c8ef4a39a7f8caa0d802a8fa7a247a61f01.gz",
+      "sha256_original": "a692591ffdd25fe4fe595ec6c0cb4c8ef4a39a7f8caa0d802a8fa7a247a61f01",
+      "sha256_texto": "c032c5f0e4022b71fb19b2edfd451cc7170e8e99fb8580fc08b20f1782ffaf1c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:47+00:00"
     },
     "senado-542184": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:51+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-27",
@@ -95139,9 +95757,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 641 de 27/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-27;641"
-      }
+      },
+      "original": "originais/30/30397029357c6ba0a0f71e97fbd9aa1f6739b097f0763b20e5ddc51ab83e2ebf.gz",
+      "sha256_original": "30397029357c6ba0a0f71e97fbd9aa1f6739b097f0763b20e5ddc51ab83e2ebf",
+      "sha256_texto": "44ce7a92900454702f473c4aa9019fbb72177bddf41276a102d8ae29cb301ab3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:49+00:00"
     },
     "senado-542185": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:54+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-28",
@@ -95153,9 +95778,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 642 de 28/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-28;642"
-      }
+      },
+      "original": "originais/ff/ff8a6cc0c9d70ee342314ed04dbc3a8d63a53eed5c43dd55e84290813126cc96.gz",
+      "sha256_original": "ff8a6cc0c9d70ee342314ed04dbc3a8d63a53eed5c43dd55e84290813126cc96",
+      "sha256_texto": "40f03cf58d7b52acb0ffcf365067ae72f804f5e9c276f739d6ce3b0006329a0b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:52+00:00"
     },
     "senado-542186": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:56+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-28",
@@ -95167,9 +95799,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 643 de 28/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-28;643"
-      }
+      },
+      "original": "originais/d6/d68a896b17ef3a4c7da84c252debcb09abcd4ea73c332c27372c7fad54eca386.gz",
+      "sha256_original": "d68a896b17ef3a4c7da84c252debcb09abcd4ea73c332c27372c7fad54eca386",
+      "sha256_texto": "4a52d8e765f519a0abc76511374230fbf51e9beece35b7c719a42c0ca27bd888",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:54+00:00"
     },
     "senado-542187": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T06:59:58+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-02-28",
@@ -95181,9 +95820,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 644 de 28/02/1949",
         "urn": "urn:lex:br:federal:lei:1949-02-28;644"
-      }
+      },
+      "original": "originais/e5/e5cc7af2258b93fefa7a46dd80e3dbbf346c2abd3a4e9c08d9db5eebe58c4ad4.gz",
+      "sha256_original": "e5cc7af2258b93fefa7a46dd80e3dbbf346c2abd3a4e9c08d9db5eebe58c4ad4",
+      "sha256_texto": "4c7cc6f16add8c826b3ac4bd6d0d588c773aeee06d4c68a62fcb096104c58b0a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:56+00:00"
     },
     "senado-542188": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:01+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-04",
@@ -95195,9 +95841,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 645 de 04/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-04;645"
-      }
+      },
+      "original": "originais/a5/a5a2ecd63bac7d3ca49420a4c039d0a95bc0a244182945c3ee487bb812f09e49.gz",
+      "sha256_original": "a5a2ecd63bac7d3ca49420a4c039d0a95bc0a244182945c3ee487bb812f09e49",
+      "sha256_texto": "d394ace36106929111c02202ec4bf9151f62ca71923d836c0d7ae522ce4f866a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T06:59:59+00:00"
     },
     "senado-542190": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:03+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-04",
@@ -95209,9 +95862,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 646 de 04/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-04;646"
-      }
+      },
+      "original": "originais/02/0212bb3da5325822bee494a27e73e311d87e8b2c18bcce019ee5012a58129f4a.gz",
+      "sha256_original": "0212bb3da5325822bee494a27e73e311d87e8b2c18bcce019ee5012a58129f4a",
+      "sha256_texto": "f2edb53b01914524b3fbf0f8fe2028260ae1e55167c6d368d8c0f37ed357e7dd",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:01+00:00"
     },
     "senado-542192": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:08+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-06",
@@ -95223,9 +95883,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 647 de 06/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-06;647"
-      }
+      },
+      "original": "originais/85/85db7c4da720a58a99c80354bff6d04b156acc6989ed9d65d155876ff87a0c10.gz",
+      "sha256_original": "85db7c4da720a58a99c80354bff6d04b156acc6989ed9d65d155876ff87a0c10",
+      "sha256_texto": "1c4030e38ce2d77b75a63a16a2581ad2a7fb69e6c398ddded5ac012ba406609e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:03+00:00"
     },
     "senado-542194": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-10",
@@ -95237,9 +95904,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 648 de 10/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-10;648"
-      }
+      },
+      "original": "originais/f1/f1be0b469b49486727b004dc806f44c5cbfb433db9ff80d38cf2b31128490ef6.gz",
+      "sha256_original": "f1be0b469b49486727b004dc806f44c5cbfb433db9ff80d38cf2b31128490ef6",
+      "sha256_texto": "886a05a15d119104a5a61931e97b94695dbf9119e2172eb023c6f903a1394a6d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:09+00:00"
     },
     "senado-542195": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:13+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-11",
@@ -95251,9 +95925,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 649 de 11/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-11;649"
-      }
+      },
+      "original": "originais/50/50b6543cec1eb0be85e1854ebf15eb6f7edddba9eeb09cb9b9b1c6f3013204da.gz",
+      "sha256_original": "50b6543cec1eb0be85e1854ebf15eb6f7edddba9eeb09cb9b9b1c6f3013204da",
+      "sha256_texto": "3f602148743ce37f07afe7e665e86c2c9b5fdc5589e45c80e2eb30868737ba2d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:11+00:00"
     },
     "senado-542196": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:15+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-13",
@@ -95265,9 +95946,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 650 de 13/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-13;650"
-      }
+      },
+      "original": "originais/18/182049bfe7693eb2b3cfe036f9e804a3f6f553035829a1ddb04b2b50e120c83d.gz",
+      "sha256_original": "182049bfe7693eb2b3cfe036f9e804a3f6f553035829a1ddb04b2b50e120c83d",
+      "sha256_texto": "82b884de2574472f5454c5fd7a148b088789ae3e46794b9e787e62eaa95c7441",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:13+00:00"
     },
     "senado-542198": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-13",
@@ -95279,9 +95967,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 651 de 13/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-13;651"
-      }
+      },
+      "original": "originais/ee/ee87e21c5586114e7b7a1b1d6b9b791f5b664f232b733a7520c103743bf97fed.gz",
+      "sha256_original": "ee87e21c5586114e7b7a1b1d6b9b791f5b664f232b733a7520c103743bf97fed",
+      "sha256_texto": "35b3fb06b1f0846a6fe4f3fbd2c16a586acee02564efd6794182e5cd46d13bb3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:16+00:00"
     },
     "senado-542200": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:20+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-13",
@@ -95293,9 +95988,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 652 de 13/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-13;652"
-      }
+      },
+      "original": "originais/d3/d3d37e4f08ecd72a60ff46665ed211a86bfd8a54893dd52a0ab0355ba96183ce.gz",
+      "sha256_original": "d3d37e4f08ecd72a60ff46665ed211a86bfd8a54893dd52a0ab0355ba96183ce",
+      "sha256_texto": "463609a6ce547cfa4fadf270ae200372a710c17cfc68896b3b9d75c39610a776",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:18+00:00"
     },
     "senado-542201": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-13",
@@ -95307,9 +96009,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 653 de 13/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-13;653"
-      }
+      },
+      "original": "originais/3f/3f7d253b1c628a329912cd222aaae3c8a63aaefdf2c2ce0dbd7f4915be13cace.gz",
+      "sha256_original": "3f7d253b1c628a329912cd222aaae3c8a63aaefdf2c2ce0dbd7f4915be13cace",
+      "sha256_texto": "cbec4d7c82fafd6198ed3f8d81c2846d7ea89516609554412ad9c47ce207caa1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:20+00:00"
     },
     "senado-542203": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:25+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-14",
@@ -95321,9 +96030,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 654 de 14/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-14;654"
-      }
+      },
+      "original": "originais/15/15d6d8b84ceb3043443ecd43dd727b74cd865cd29dc1c59a2df043b443e22650.gz",
+      "sha256_original": "15d6d8b84ceb3043443ecd43dd727b74cd865cd29dc1c59a2df043b443e22650",
+      "sha256_texto": "b9f6426db9af205f6af2aba07e898200427fb2892f4f61f4a6adb9712c9780e3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:23+00:00"
     },
     "senado-542204": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:27+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-23",
@@ -95335,9 +96051,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 655 de 23/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-23;655"
-      }
+      },
+      "original": "originais/13/13b983fd4c45f7d6140c0afb5690dab0106674dd9341406b35cf8dbb9d45a24f.gz",
+      "sha256_original": "13b983fd4c45f7d6140c0afb5690dab0106674dd9341406b35cf8dbb9d45a24f",
+      "sha256_texto": "dde0dddc10578320faecda01b35f4d6c886c54282b37162422b71978c1d57a51",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:25+00:00"
     },
     "senado-542206": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:29+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-26",
@@ -95349,9 +96072,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 656 de 26/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-26;656"
-      }
+      },
+      "original": "originais/e8/e8fe505fbe5bc0e3c5af8e79a422cd7cffd57226d5b44477ad3d9f307d2685df.gz",
+      "sha256_original": "e8fe505fbe5bc0e3c5af8e79a422cd7cffd57226d5b44477ad3d9f307d2685df",
+      "sha256_texto": "5f5d9e6d4e21bc84abd75460244729ef23c967d17f8d56b9497e17f9492718b6",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:27+00:00"
     },
     "senado-542207": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:32+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-03-29",
@@ -95363,9 +96093,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 657 de 29/03/1949",
         "urn": "urn:lex:br:federal:lei:1949-03-29;657"
-      }
+      },
+      "original": "originais/a7/a718f80e1e2e909436e681f207031f42a82cf04c2a2770c265a8e5463ce2fea9.gz",
+      "sha256_original": "a718f80e1e2e909436e681f207031f42a82cf04c2a2770c265a8e5463ce2fea9",
+      "sha256_texto": "6cf26cb8d67d8855388c53bb6b17a78b38953ef9390cb3dc1da071b78a835f3b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:30+00:00"
     },
     "senado-542208": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:34+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-01",
@@ -95377,9 +96114,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 658 de 01/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-01;658"
-      }
+      },
+      "original": "originais/97/97efa95d97f12e4035c3906ab802b8fa558477789056c8483cafa4d2eed59e1b.gz",
+      "sha256_original": "97efa95d97f12e4035c3906ab802b8fa558477789056c8483cafa4d2eed59e1b",
+      "sha256_texto": "2abac7925840e10ff2aaaa22a192598418c1b780f093ff316388c3e5e03b37c7",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:32+00:00"
     },
     "senado-542209": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:37+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-02",
@@ -95391,9 +96135,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 659 de 02/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-02;659"
-      }
+      },
+      "original": "originais/dc/dc424cb5c3f7422f21d951a078032505f578b10a5a40ba282de7f3b047b1326d.gz",
+      "sha256_original": "dc424cb5c3f7422f21d951a078032505f578b10a5a40ba282de7f3b047b1326d",
+      "sha256_texto": "8e260a4f8b6ffe7f99516b6edd15ad4e02cf6496181d8ade859b4ac9319d9f0d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:34+00:00"
     },
     "senado-542210": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:39+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-02",
@@ -95405,9 +96156,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 660 de 02/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-02;660"
-      }
+      },
+      "original": "originais/86/8638808bc116067614c8c3d961db007ed5de37881fe6c3517b75e54b42ad2e32.gz",
+      "sha256_original": "8638808bc116067614c8c3d961db007ed5de37881fe6c3517b75e54b42ad2e32",
+      "sha256_texto": "39ac10e0efe808d4760afa8b20b721bef8f9d138df45ed01602d25b5c0062767",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:37+00:00"
     },
     "senado-542211": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:41+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-02",
@@ -95419,9 +96177,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 661 de 02/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-02;661"
-      }
+      },
+      "original": "originais/37/37b8e0f5dd161ddc91290dbc090da829b675408ac4606f9cb0a15bd1c5f0adfa.gz",
+      "sha256_original": "37b8e0f5dd161ddc91290dbc090da829b675408ac4606f9cb0a15bd1c5f0adfa",
+      "sha256_texto": "a44020d807f44b061ad3e6806c46d6f5fbf135d25b3b90a7434adaa071bbc3dd",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:39+00:00"
     },
     "senado-542212": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:44+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-06",
@@ -95433,9 +96198,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 662 de 06/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-06;662"
-      }
+      },
+      "original": "originais/64/64893ffd77abc60dc045ede84cfdf9619cc33b982a0ff301b09444a86b9ee98b.gz",
+      "sha256_original": "64893ffd77abc60dc045ede84cfdf9619cc33b982a0ff301b09444a86b9ee98b",
+      "sha256_texto": "240b39ff3e1b0725e0fd240493befd9d3433272a72078831209f1eafb370d91e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:42+00:00"
     },
     "senado-542213": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:46+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-08",
@@ -95447,9 +96219,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 663 de 08/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-08;663"
-      }
+      },
+      "original": "originais/e3/e3baf5e9d16728d2d397513a59ea32ac86a17fd414f2b1dd07930d5a80360374.gz",
+      "sha256_original": "e3baf5e9d16728d2d397513a59ea32ac86a17fd414f2b1dd07930d5a80360374",
+      "sha256_texto": "094ce006b5ea717cc6f1ac15e11106c090472dffc9334b67198366e4ef8d685e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:44+00:00"
     },
     "senado-542214": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:48+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-08",
@@ -95461,9 +96240,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 664 de 08/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-08;664"
-      }
+      },
+      "original": "originais/bf/bfb1c52b88d1a97b94a3b3a476f22d5a21c3644d10330e50f0af0f6e97c100f8.gz",
+      "sha256_original": "bfb1c52b88d1a97b94a3b3a476f22d5a21c3644d10330e50f0af0f6e97c100f8",
+      "sha256_texto": "7b00d893698695ffa34dfad00176e22da7e0a9f0c0a1d1ff14a88d0ebdca0a9d",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:46+00:00"
     },
     "senado-542215": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:51+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-09",
@@ -95475,9 +96261,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 665 de 09/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-09;665"
-      }
+      },
+      "original": "originais/dd/ddba7afe1a3b1eacdd90ccbedafd58b3c27c50103b7a2cea29bee52720dbdf9a.gz",
+      "sha256_original": "ddba7afe1a3b1eacdd90ccbedafd58b3c27c50103b7a2cea29bee52720dbdf9a",
+      "sha256_texto": "94426d0f61bc4873352fa4ae84c63a2a631d5d4a471d27273bd85e38253bf5da",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:49+00:00"
     },
     "senado-542216": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:53+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-11",
@@ -95489,9 +96282,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 666 de 11/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-11;666"
-      }
+      },
+      "original": "originais/8b/8bee489b74db1685c2fe6ca1acc378805050e2ecfc391a27acdf473f253f87f6.gz",
+      "sha256_original": "8bee489b74db1685c2fe6ca1acc378805050e2ecfc391a27acdf473f253f87f6",
+      "sha256_texto": "f06bb91859b6b0a3e003feba1ff37983e19cebeda9888083670304d0ac114952",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:51+00:00"
     },
     "senado-542217": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:55+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-11",
@@ -95503,9 +96303,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 667 de 11/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-11;667"
-      }
+      },
+      "original": "originais/b7/b71d759e40c56ae12225bced4fe97373b1d49435ba251fd79db4560c72179649.gz",
+      "sha256_original": "b71d759e40c56ae12225bced4fe97373b1d49435ba251fd79db4560c72179649",
+      "sha256_texto": "cd0fd33a783274a08c55441cf6420e4f4b2322ff599c384b3364004f690bbce3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:53+00:00"
     },
     "senado-542219": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:00:58+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-13",
@@ -95517,9 +96324,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 668 de 13/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-13;668"
-      }
+      },
+      "original": "originais/68/6841e763158914a0cd3d970d5f0e48f230d06f76fe9876e93ff1739bca5662ec.gz",
+      "sha256_original": "6841e763158914a0cd3d970d5f0e48f230d06f76fe9876e93ff1739bca5662ec",
+      "sha256_texto": "f2461d62b86d189b1a249a49bf3385922c3ef1a32c57036471c54e66000cc95f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:56+00:00"
     },
     "senado-542220": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:00+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-16",
@@ -95531,9 +96345,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 669 de 16/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-16;669"
-      }
+      },
+      "original": "originais/c7/c7a3bde4142465649847a0ecd96e55bec77d18bd48afe1a93ad4a5a0430e43f8.gz",
+      "sha256_original": "c7a3bde4142465649847a0ecd96e55bec77d18bd48afe1a93ad4a5a0430e43f8",
+      "sha256_texto": "9b67ba4d3e7f8af2353a2cb7cb8b060568a573441786aa873c214a9e6a772d2c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:00:58+00:00"
     },
     "senado-542221": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:02+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-16",
@@ -95545,9 +96366,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 670 de 16/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-16;670"
-      }
+      },
+      "original": "originais/be/beb09154b381fbe8445e50550298b66de12267eb924b8cd3fbf69705c27f7e34.gz",
+      "sha256_original": "beb09154b381fbe8445e50550298b66de12267eb924b8cd3fbf69705c27f7e34",
+      "sha256_texto": "196ba40e816212d30f4b4fa692e5618e2ccc64e877eba09b1eb2af9ca9b7d529",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:00+00:00"
     },
     "senado-542222": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:05+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-21",
@@ -95559,9 +96387,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 671 de 21/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-21;671"
-      }
+      },
+      "original": "originais/75/75a1375a469a344391db72bf08688ca67fd7534922f2d339028e36fefa8c4568.gz",
+      "sha256_original": "75a1375a469a344391db72bf08688ca67fd7534922f2d339028e36fefa8c4568",
+      "sha256_texto": "4ef45509f11aec52f50af50b4c3d9e4bbe426719372fe83ff09cc2bb7a529ee1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:03+00:00"
     },
     "senado-542223": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:07+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-21",
@@ -95573,9 +96408,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 672 de 21/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-21;672"
-      }
+      },
+      "original": "originais/0f/0fab23de5900ffcd107cec8d2290b1c308aec7af41a47c28fc40a282617fa79f.gz",
+      "sha256_original": "0fab23de5900ffcd107cec8d2290b1c308aec7af41a47c28fc40a282617fa79f",
+      "sha256_texto": "a14c778c2b40986b5ff2c6e26cbc5dcf9280064984649bd2ac010c2d9230b132",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:05+00:00"
     },
     "senado-542224": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:09+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-21",
@@ -95587,9 +96429,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 673 de 21/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-21;673"
-      }
+      },
+      "original": "originais/e9/e97f275c7dfaf708002a324e682bde13b73e4faacbafd403ccadf373e189b137.gz",
+      "sha256_original": "e97f275c7dfaf708002a324e682bde13b73e4faacbafd403ccadf373e189b137",
+      "sha256_texto": "4b8b6d9e5e3136ceefc837ef5610ee5486b17f8f68f3734ba7c191e47808eee9",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:07+00:00"
     },
     "senado-542225": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:12+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-23",
@@ -95601,9 +96450,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 674 de 23/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-23;674"
-      }
+      },
+      "original": "originais/ff/ffdecb95e1ee21f6d22cc87e5a5eeb7f91e14d95cc177ed60b1fc56b90a34586.gz",
+      "sha256_original": "ffdecb95e1ee21f6d22cc87e5a5eeb7f91e14d95cc177ed60b1fc56b90a34586",
+      "sha256_texto": "418a08d92483cae6f528bcd471463498900aa8c47dd35fb470acfb62642a5265",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:10+00:00"
     },
     "senado-542226": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:14+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-23",
@@ -95615,9 +96471,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 675 de 23/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-23;675"
-      }
+      },
+      "original": "originais/5c/5c749ccab73e2e2fe7c51629725e8b39c168d32a4e8fee9974d562450e9eb30d.gz",
+      "sha256_original": "5c749ccab73e2e2fe7c51629725e8b39c168d32a4e8fee9974d562450e9eb30d",
+      "sha256_texto": "5c247a5631a6c738f3378b3f52e892daf22e61c1e767958de64d2cdbccdfbc08",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:12+00:00"
     },
     "senado-542227": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:16+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-25",
@@ -95629,9 +96492,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 676 de 25/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-25;676"
-      }
+      },
+      "original": "originais/c1/c16bbd8118b19c83208875e2fa0fe990e5661c8dd1d0a232d77db87b72c16efa.gz",
+      "sha256_original": "c16bbd8118b19c83208875e2fa0fe990e5661c8dd1d0a232d77db87b72c16efa",
+      "sha256_texto": "6cecd51fba08493381674ca94c660e0591a282f6c9263ccedb52df19cf480ac4",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:14+00:00"
     },
     "senado-542228": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:19+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-25",
@@ -95643,9 +96513,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 677 de 25/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-25;677"
-      }
+      },
+      "original": "originais/63/63020a77ee62c9edca25bf7db6e07be7c3e0a25f2666c60326d81bac4cf7f896.gz",
+      "sha256_original": "63020a77ee62c9edca25bf7db6e07be7c3e0a25f2666c60326d81bac4cf7f896",
+      "sha256_texto": "c7a3ad16cde242e7051fdc14d77ab34a8f3b7c51cc95bfa5ebf9b030bc9d226a",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:17+00:00"
     },
     "senado-542230": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:21+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-25",
@@ -95657,9 +96534,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 678 de 25/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-25;678"
-      }
+      },
+      "original": "originais/3b/3ba7439e522741df78bd833bc2bf3ce31457db28582330248d1f936968a8f2c2.gz",
+      "sha256_original": "3ba7439e522741df78bd833bc2bf3ce31457db28582330248d1f936968a8f2c2",
+      "sha256_texto": "f17dac678db8c17ab5c7c792abe065bf229f691f61ada0f3af56c927b7cdd899",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:19+00:00"
     },
     "senado-542232": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:23+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-25",
@@ -95671,9 +96555,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 679 de 25/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-25;679"
-      }
+      },
+      "original": "originais/11/11322d8a7a4ed2ad384b1873983232474b73de189614838eb5dc9dcc6a62d917.gz",
+      "sha256_original": "11322d8a7a4ed2ad384b1873983232474b73de189614838eb5dc9dcc6a62d917",
+      "sha256_texto": "2b680f3f53d6e84f15fecd8078bb8a2735186496ecfb459e532e884e3bc44f64",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:21+00:00"
     },
     "senado-542233": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:26+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-25",
@@ -95685,9 +96576,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 680 de 25/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-25;680"
-      }
+      },
+      "original": "originais/86/8619084fa3effeb0f4780e4b413943cdaae56817050f1b45b9ff3678adfd5820.gz",
+      "sha256_original": "8619084fa3effeb0f4780e4b413943cdaae56817050f1b45b9ff3678adfd5820",
+      "sha256_texto": "58328f681bc4a87f24bf22c02c19fba58d9c694d26a4ebfed700101ce6c381ec",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:24+00:00"
     },
     "senado-542234": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:28+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-26",
@@ -95699,9 +96597,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 681 de 26/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-26;681"
-      }
+      },
+      "original": "originais/5c/5c3686790a03fc11641b15e83ef899075a98acb3121174965829c20e1817748c.gz",
+      "sha256_original": "5c3686790a03fc11641b15e83ef899075a98acb3121174965829c20e1817748c",
+      "sha256_texto": "c6925626e7611548a851c438f03f817ca2642745da20655dde7c4bb3906eb68e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:26+00:00"
     },
     "senado-542235": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:31+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-26",
@@ -95713,9 +96618,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 682 de 26/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-26;682"
-      }
+      },
+      "original": "originais/22/220b8dd4cf607e491d7b3405b2e6f72270df882bccddbeb572c962f21b484991.gz",
+      "sha256_original": "220b8dd4cf607e491d7b3405b2e6f72270df882bccddbeb572c962f21b484991",
+      "sha256_texto": "41d97f69c65be8c4b25d87ab908c92820d9c7821c3266c48ab53dfb4fa8ac1dc",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:29+00:00"
     },
     "senado-542237": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:33+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-26",
@@ -95727,9 +96639,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 683 de 26/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-26;683"
-      }
+      },
+      "original": "originais/46/46ddeb13b410f8a8f806a889485db6adada61199530045090dec1193bb482c1c.gz",
+      "sha256_original": "46ddeb13b410f8a8f806a889485db6adada61199530045090dec1193bb482c1c",
+      "sha256_texto": "0a19499f3e7938ab2fd42a9fcce29d1618e991bf5e76570fc22a56789d192b6b",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:31+00:00"
     },
     "senado-542238": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:35+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-28",
@@ -95741,9 +96660,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 684 de 28/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-28;684"
-      }
+      },
+      "original": "originais/2e/2e185ae9857efd6ccb3e5c161382d2b37525be316dd1ac53ecb3fa8d075f874e.gz",
+      "sha256_original": "2e185ae9857efd6ccb3e5c161382d2b37525be316dd1ac53ecb3fa8d075f874e",
+      "sha256_texto": "c79a56404176e9bb404e0be090ab1ca315cc2b30ea1eeb9ad3e6958605fa6be3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:33+00:00"
     },
     "senado-542239": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:38+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-28",
@@ -95755,9 +96681,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 685 de 28/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-28;685"
-      }
+      },
+      "original": "originais/15/150340dc8223867500893cb6eb274157f6545658941f7e559308492746f2e957.gz",
+      "sha256_original": "150340dc8223867500893cb6eb274157f6545658941f7e559308492746f2e957",
+      "sha256_texto": "00ef075ca87527e49223f05ebedb536d9e1a928b9cf0e551ce706eb03fb43eec",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:36+00:00"
     },
     "senado-542240": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:40+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-29",
@@ -95769,9 +96702,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 686 de 29/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-29;686"
-      }
+      },
+      "original": "originais/7c/7ca3553de4a1a7d615af6cdbc0970bd75d58f8f8ca8682b02c5ad3a6742f2cdc.gz",
+      "sha256_original": "7ca3553de4a1a7d615af6cdbc0970bd75d58f8f8ca8682b02c5ad3a6742f2cdc",
+      "sha256_texto": "c64eea31b1df9aedbda0b79b36fcc59f84add8ac68d384229f13477aa0a310e3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:38+00:00"
     },
     "senado-542242": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:42+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-29",
@@ -95783,9 +96723,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 687 de 29/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-29;687"
-      }
+      },
+      "original": "originais/f9/f9c5393c019aafa1d77fae04129f7cb5de6b5de20f980adde2e09ee60cb64f25.gz",
+      "sha256_original": "f9c5393c019aafa1d77fae04129f7cb5de6b5de20f980adde2e09ee60cb64f25",
+      "sha256_texto": "7e6aa64d0a37b526a03bd913bcf9d333f41a9e54fa20e390929634defa5f424f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:40+00:00"
     },
     "senado-542243": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:45+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-30",
@@ -95797,9 +96744,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 688 de 30/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-30;688"
-      }
+      },
+      "original": "originais/51/51731f3918aaa827152939e6b401b331308e0964cce650c61ec8b8479f626bd6.gz",
+      "sha256_original": "51731f3918aaa827152939e6b401b331308e0964cce650c61ec8b8479f626bd6",
+      "sha256_texto": "109faecf663a2ab601a1df963ba46f6dd83995dea7de77d1b0d0f5e9282e71d2",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:43+00:00"
     },
     "senado-542245": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:47+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-30",
@@ -95811,9 +96765,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 689 de 30/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-30;689"
-      }
+      },
+      "original": "originais/e5/e521862d9d64a393213f383b10a62f19b6c85fa43a74077f243dcf7645f8d1cf.gz",
+      "sha256_original": "e521862d9d64a393213f383b10a62f19b6c85fa43a74077f243dcf7645f8d1cf",
+      "sha256_texto": "40b55295068bdb8e23cb80ec5c083311e1b26690e86a173a5acbd89c07cc67af",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:45+00:00"
     },
     "senado-542246": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:49+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-04-30",
@@ -95825,9 +96786,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 690 de 30/04/1949",
         "urn": "urn:lex:br:federal:lei:1949-04-30;690"
-      }
+      },
+      "original": "originais/d2/d26f153045032d0a126768456eba851e17328d1c8ecf7071f3aaad64c703c084.gz",
+      "sha256_original": "d26f153045032d0a126768456eba851e17328d1c8ecf7071f3aaad64c703c084",
+      "sha256_texto": "e8b80b8a32d93ad880514b56d8d9b4b73e0f44b89925fee2e970bd04119a1fdd",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:47+00:00"
     },
     "senado-542247": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:52+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-05",
@@ -95839,9 +96807,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 691 de 05/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-05;691"
-      }
+      },
+      "original": "originais/d4/d48c0a563e7eb889ba775880d0fe67bd1891398365ce62810abd07e3bad0b341.gz",
+      "sha256_original": "d48c0a563e7eb889ba775880d0fe67bd1891398365ce62810abd07e3bad0b341",
+      "sha256_texto": "a70112128b839ac78b0ffd2ab0e32f70d525b5a10dc5f2a4542000958d6c4779",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:50+00:00"
     },
     "senado-542248": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:54+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-05",
@@ -95853,9 +96828,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 692 de 05/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-05;692"
-      }
+      },
+      "original": "originais/bd/bdcfe38044c69a077b936746469db3e3f35d73cf840bff0efb46b97cc578513d.gz",
+      "sha256_original": "bdcfe38044c69a077b936746469db3e3f35d73cf840bff0efb46b97cc578513d",
+      "sha256_texto": "5c126e30ebfa870d513bc96b5f929dce9b75c7225ceb77dae700e3259f3073bf",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:52+00:00"
     },
     "senado-542250": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:56+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-05",
@@ -95867,9 +96849,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 693 de 05/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-05;693"
-      }
+      },
+      "original": "originais/fe/fefae29904a49289c3f4e93d952784562739c730efd2736988021d7a236a86e4.gz",
+      "sha256_original": "fefae29904a49289c3f4e93d952784562739c730efd2736988021d7a236a86e4",
+      "sha256_texto": "d6c513f0277c9f8eb0114ee48c7176212bc57925b75e25a07887cf36493015b3",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:54+00:00"
     },
     "senado-542251": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:01:59+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-06",
@@ -95881,9 +96870,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 693-A de 06/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-06;693-a"
-      }
+      },
+      "original": "originais/ee/ee6359f4184c911c9bc10300d94fa7cec0c616964481c2322ca139bfc59d032d.gz",
+      "sha256_original": "ee6359f4184c911c9bc10300d94fa7cec0c616964481c2322ca139bfc59d032d",
+      "sha256_texto": "5685b43c1c8863c6ae036a683451ae23b460b69ae2ae2f9251aafc472831a8b4",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:57+00:00"
     },
     "senado-542253": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:01+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-07",
@@ -95895,9 +96891,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 694 de 07/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-07;694"
-      }
+      },
+      "original": "originais/c6/c6fb19112b6aaa389f0e624f05e18a4f4ca66683caf3631ed35612ede797b2a4.gz",
+      "sha256_original": "c6fb19112b6aaa389f0e624f05e18a4f4ca66683caf3631ed35612ede797b2a4",
+      "sha256_texto": "877e13d56ae3753a0c2d2d9e7c821cd025300ed36d8dc442e231cbb02fae284c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:01:59+00:00"
     },
     "senado-542254": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:04+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-07",
@@ -95909,9 +96912,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 695 de 07/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-07;695"
-      }
+      },
+      "original": "originais/66/66d40f0859eb161faf972377627c1aa18b659e336528c776542d1fa99cd00436.gz",
+      "sha256_original": "66d40f0859eb161faf972377627c1aa18b659e336528c776542d1fa99cd00436",
+      "sha256_texto": "82710c433e4fde2cdd434309233f97590ca92fc0c3d7f61a696e0c86a700858c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:01+00:00"
     },
     "senado-542255": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:06+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-07",
@@ -95923,9 +96933,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 696 de 07/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-07;696"
-      }
+      },
+      "original": "originais/15/1511288fe426cccd5486d5c73ac421fdf58c37edc939ee6dca2794d0ac142414.gz",
+      "sha256_original": "1511288fe426cccd5486d5c73ac421fdf58c37edc939ee6dca2794d0ac142414",
+      "sha256_texto": "3bceeb21bd0af6c4c57b7457cf849af1bf7996e445cfb1bf5d3766bc77f5d93f",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:04+00:00"
     },
     "senado-542256": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:08+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-07",
@@ -95937,9 +96954,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 697 de 07/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-07;697"
-      }
+      },
+      "original": "originais/11/11cbb69cf7e64efd749c4baae8839e270c602a7559bcb73d2844efa83091ad35.gz",
+      "sha256_original": "11cbb69cf7e64efd749c4baae8839e270c602a7559bcb73d2844efa83091ad35",
+      "sha256_texto": "6d111aa191baf4f2867a7edec8f6f4999585f2f163cac6a241404a6486f8104c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:06+00:00"
     },
     "senado-542257": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:11+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-09",
@@ -95951,9 +96975,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 698 de 09/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-09;698"
-      }
+      },
+      "original": "originais/fe/fef59b9aa8bc90291cc43685846d7b750f98bc1fef15b687c0f9dde94617ed0f.gz",
+      "sha256_original": "fef59b9aa8bc90291cc43685846d7b750f98bc1fef15b687c0f9dde94617ed0f",
+      "sha256_texto": "85d765a5cf5a2339a62ea53e2da6cabf7467c7705103fff03a1486ba26a57cb9",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:09+00:00"
     },
     "senado-542258": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:13+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-11",
@@ -95965,9 +96996,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 699 de 11/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-11;699"
-      }
+      },
+      "original": "originais/ea/ea8ffb737ed2b2eff203b8236bdc45da14b67232e8169bbc53af7ac7114a3e34.gz",
+      "sha256_original": "ea8ffb737ed2b2eff203b8236bdc45da14b67232e8169bbc53af7ac7114a3e34",
+      "sha256_texto": "e9d38e287e5f0d304369289a720302fab361c0443f1703418f0c27290e17b877",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:11+00:00"
     },
     "senado-542259": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:15+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-14",
@@ -95979,9 +97017,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 700 de 14/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-14;700"
-      }
+      },
+      "original": "originais/10/10840db72caff64f8b3dd20e5f5eeb00184b449a1df53926f96b5babff84cc65.gz",
+      "sha256_original": "10840db72caff64f8b3dd20e5f5eeb00184b449a1df53926f96b5babff84cc65",
+      "sha256_texto": "0e05c99b7266473de515a772e4b1e957dff4c883216f2c814ff13f8a7cc8095c",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:13+00:00"
     },
     "senado-542260": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:18+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-14",
@@ -95993,9 +97038,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 701 de 14/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-14;701"
-      }
+      },
+      "original": "originais/6e/6eebeae86456a6069aa2715f00df1083fad02ea9627fa09730b15b6a9ff33b9f.gz",
+      "sha256_original": "6eebeae86456a6069aa2715f00df1083fad02ea9627fa09730b15b6a9ff33b9f",
+      "sha256_texto": "a1edbad7d43697cfe468eb77497e4a62b75433735143971de3ab4f2fb38856c1",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:16+00:00"
     },
     "senado-542261": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:20+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-14",
@@ -96007,9 +97059,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 702 de 14/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-14;702"
-      }
+      },
+      "original": "originais/21/2131a2052f7248f91292ee22c1eb719f70699e11024395f69cce181554b4ae3a.gz",
+      "sha256_original": "2131a2052f7248f91292ee22c1eb719f70699e11024395f69cce181554b4ae3a",
+      "sha256_texto": "e05e73d37de60799458a09cdda608568a909910fd48a5164b4d2f5a32dee8e7e",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:18+00:00"
     },
     "senado-542262": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:22+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-14",
@@ -96021,9 +97080,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 703 de 14/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-14;703"
-      }
+      },
+      "original": "originais/f4/f4ec00e7ed7db2b7f207aeded40c1f498c80074137d2c4944f5e55bea2293460.gz",
+      "sha256_original": "f4ec00e7ed7db2b7f207aeded40c1f498c80074137d2c4944f5e55bea2293460",
+      "sha256_texto": "11fa8a7937de21564aea334537dd16cd42ae7bd0bf70089f84fdd967de65a900",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:20+00:00"
     },
     "senado-542264": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:25+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-14",
@@ -96035,9 +97101,16 @@
         "tipo": "Lei",
         "titulo": "Lei nº 704 de 14/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-14;704"
-      }
+      },
+      "original": "originais/1b/1b8677fbef75f07dbd4092339f89921f3543a2d9dd7e32046f1817cd2f083c3b.gz",
+      "sha256_original": "1b8677fbef75f07dbd4092339f89921f3543a2d9dd7e32046f1817cd2f083c3b",
+      "sha256_texto": "cf510b8ec16b5b348c44637124e5521bf1f635f6acdc742653ca6fb328c542ca",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:23+00:00"
     },
     "senado-542265": {
+      "alterado": true,
+      "conferido_em": "2026-11-13T07:02:27+00:00",
       "entrada": {
         "conector": "senado",
         "data": "1949-05-16",
@@ -96049,7 +97122,12 @@
         "tipo": "Lei",
         "titulo": "Lei nº 705 de 16/05/1949",
         "urn": "urn:lex:br:federal:lei:1949-05-16;705"
-      }
+      },
+      "original": "originais/48/488193f3afb69be52585562623b8f35f7c0906d0cc6e9c0f4a195410a6de210c.gz",
+      "sha256_original": "488193f3afb69be52585562623b8f35f7c0906d0cc6e9c0f4a195410a6de210c",
+      "sha256_texto": "1173b30715ce88e39a8950bae1f9f7f3e6f4cc4008dbd402bf7293b6854c1c90",
+      "status": "publicado",
+      "tentado_em": "2026-11-13T07:02:25+00:00"
     },
     "senado-542266": {
       "entrada": {
@@ -287772,8 +288850,8 @@
     }
   },
   "indices": {
-    "historico": 83,
-    "recente": 6
+    "historico": 85,
+    "recente": 8
   },
   "sapl": {
     "sapl-ac": {
