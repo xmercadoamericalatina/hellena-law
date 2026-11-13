@@ -8,6 +8,7 @@ on:
       - 'scripts/transferir_acervo.py'
 permissions:
   contents: write
+  workflows: write
 concurrency:
   group: transferencia-acervo
   cancel-in-progress: true
